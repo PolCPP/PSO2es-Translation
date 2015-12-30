@@ -13957,7 +13957,7 @@
 	{
 		"assign": "invite_dialog_t_04",
 		"jp_text": "エラー",
-		"en_text": ""
+		"en_text": "Error"
 	},
 	{
 		"assign": "invite_dialog_b_04",
@@ -13982,32 +13982,32 @@
 	{
 		"assign": "tutorial_skip_dialog_t_00",
 		"jp_text": "チュートリアル",
-		"en_text": ""
+		"en_text": "Tutorial"
 	},
 	{
 		"assign": "tutorial_skip_dialog_b_00",
 		"jp_text": "チップ装備のチュートリアルを確認しますか？",
-		"en_text": ""
+		"en_text": "Would you like a tutorial on Equipping Chips?"
 	},
 	{
 		"assign": "tutorial_skip_dialog_t_01",
 		"jp_text": "チュートリアル",
-		"en_text": ""
+		"en_text": "Tutorial"
 	},
 	{
 		"assign": "tutorial_skip_dialog_b_01",
 		"jp_text": "チップ強化のチュートリアルを確認しますか？",
-		"en_text": ""
+		"en_text": "Would you like a tutorial on Chip Enhancement?"
 	},
 	{
 		"assign": "tutorial_skip_dialog_btn_00",
 		"jp_text": "確認する",
-		"en_text": ""
+		"en_text": "Confirm"
 	},
 	{
 		"assign": "tutorial_skip_dialog_btn_01",
 		"jp_text": "スキップ",
-		"en_text": ""
+		"en_text": "Skip"
 	},
 	{
 		"assign": "tutorial_battle_ntu_00_00",
@@ -14217,7 +14217,7 @@
 	{
 		"assign": "arksexpeditioncounter_guide_00",
 		"jp_text": "<color=#f0df60>選択したクエストを即時に探索することができます。アカウントごとに毎日初回のみ無料で、以降は有料で5回まで利用できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>You can explore the selected quest. First time is free, however, up to a max of 5 times for a fee.</color>"
 	},
 	{
 		"assign": "quest_counter_header_arks_expedition",
@@ -14252,7 +14252,7 @@
 	{
 		"assign": "dialog_body_arksexpedition_use_free",
 		"jp_text": "クイック探索を行います。\nよろしいですか？\n\n※クイック探索は毎日初回のみ無料で利用できます。\n2回目以降の利用には<%AC>が必要です。",
-		"en_text": "You can perform a Quick Search.\n\n※Quick Search can only be used for free once per day.\n2Subsequent uses after the free search will require <%AC>."
+		"en_text": "You can perform a Quick Search.\n\n※Quick Search can only be used for free once per day.\nSubsequent uses after the free search will require <%AC>."
 	},
 	{
 		"assign": "arks_exp_reward_button_close",
@@ -14297,12 +14297,12 @@
 	{
 		"assign": "wh_31_02",
 		"jp_text": "＜利用回数について＞\n１日１回まで無料で利用可能です。\n２回目以降のクイック探索は「<%AC>」が必要になります。",
-		"en_text": ""
+		"en_text": "＜利用回数について＞\nIt's free of charge once per day.\nSubsequent uses after the free search will require <%AC>."
 	},
 	{
 		"assign": "wh_31_03",
 		"jp_text": "＜ボーナスについて＞\n連続してクイック探索を利用すると、レアドロップ率や\n獲得アイテム数にボーナスがつきます。",
-		"en_text": ""
+		"en_text": "＜ボーナスについて＞\nWhen you use quick search continuously,\nrare drop and item yield increases."
 	},
 	{
 		"assign": "storyevent_skip_dialog_t",
