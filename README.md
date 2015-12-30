@@ -1,6 +1,4 @@
-# Project Name
-
-Phantasy Star Online 2 es English translation project
+# Phantasy Star Online 2 es English translation project
 
 ## Usage
 
