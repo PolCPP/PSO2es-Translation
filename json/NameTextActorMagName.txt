@@ -1,0 +1,632 @@
+[
+	{
+		"assign": "110",
+		"jp_text": "マグ",
+		"en_text": "Mag"
+	},
+	{
+		"assign": "200",
+		"jp_text": "ライラ",
+		"en_text": "Lyra"
+	},
+	{
+		"assign": "210",
+		"jp_text": "フォルナクス",
+		"en_text": "Fornax"
+	},
+	{
+		"assign": "220",
+		"jp_text": "レプス",
+		"en_text": "Lepus"
+	},
+	{
+		"assign": "230",
+		"jp_text": "アントリア",
+		"en_text": "Antila"
+	},
+	{
+		"assign": "300",
+		"jp_text": "ライブラ",
+		"en_text": "Libra"
+	},
+	{
+		"assign": "310",
+		"jp_text": "ドルフィヌス",
+		"en_text": "Delphinus"
+	},
+	{
+		"assign": "320",
+		"jp_text": "キグナス",
+		"en_text": "Cygnus"
+	},
+	{
+		"assign": "330",
+		"jp_text": "カエルム",
+		"en_text": "Caelum"
+	},
+	{
+		"assign": "340",
+		"jp_text": "ケフェウス",
+		"en_text": "Cepheus"
+	},
+	{
+		"assign": "350",
+		"jp_text": "ツカナ",
+		"en_text": "Tucana"
+	},
+	{
+		"assign": "360",
+		"jp_text": "カリーナ",
+		"en_text": "Carina"
+	},
+	{
+		"assign": "370",
+		"jp_text": "モノケロス",
+		"en_text": "Monoceros"
+	},
+	{
+		"assign": "380",
+		"jp_text": "オリオン",
+		"en_text": "Orion"
+	},
+	{
+		"assign": "390",
+		"jp_text": "アプス",
+		"en_text": "Apus"
+	},
+	{
+		"assign": "3100",
+		"jp_text": "コルブス",
+		"en_text": "Corvus"
+	},
+	{
+		"assign": "3110",
+		"jp_text": "レオ",
+		"en_text": "Leo"
+	},
+	{
+		"assign": "3120",
+		"jp_text": "クルックス",
+		"en_text": "Crux"
+	},
+	{
+		"assign": "400",
+		"jp_text": "リンクス",
+		"en_text": "Lynx"
+	},
+	{
+		"assign": "410",
+		"jp_text": "キャンサー",
+		"en_text": "Cancer"
+	},
+	{
+		"assign": "430",
+		"jp_text": "ソニチ",
+		"en_text": "Sonichi"
+	},
+	{
+		"assign": "440",
+		"jp_text": "シャト",
+		"en_text": "Sato"
+	},
+	{
+		"assign": "450",
+		"jp_text": "ラッピー",
+		"en_text": "Rappy"
+	},
+	{
+		"assign": "460",
+		"jp_text": "ピート",
+		"en_text": "Pete"
+	},
+	{
+		"assign": "470",
+		"jp_text": "キトゥン",
+		"en_text": "Kitten"
+	},
+	{
+		"assign": "480",
+		"jp_text": "カッツェ",
+		"en_text": "Katze"
+	},
+	{
+		"assign": "490",
+		"jp_text": "ミーツェ",
+		"en_text": "Mieze"
+	},
+	{
+		"assign": "4100",
+		"jp_text": "アクベンス",
+		"en_text": "Acubens"
+	},
+	{
+		"assign": "4110",
+		"jp_text": "アルタルフ",
+		"en_text": "Altarf"
+	},
+	{
+		"assign": "4120",
+		"jp_text": "アセルス",
+		"en_text": "Asellus"
+	},
+	{
+		"assign": "4130",
+		"jp_text": "ジャック",
+		"en_text": "Jack"
+	},
+	{
+		"assign": "4140",
+		"jp_text": "クラーリタ",
+		"en_text": "Clarita"
+	},
+	{
+		"assign": "4150",
+		"jp_text": "トロ",
+		"en_text": "Toro"
+	},
+	{
+		"assign": "4160",
+		"jp_text": "クロ",
+		"en_text": "Kuro"
+	},
+	{
+		"assign": "4170",
+		"jp_text": "ダミーマグ",
+		"en_text": ""
+	},
+	{
+		"assign": "4180",
+		"jp_text": "ナナハナ",
+		"en_text": "Nanahana"
+	},
+	{
+		"assign": "4190",
+		"jp_text": "アークマ",
+		"en_text": ""
+	},
+	{
+		"assign": "4200",
+		"jp_text": "アークマミ",
+		"en_text": ""
+	},
+	{
+		"assign": "4210",
+		"jp_text": "アンブラ",
+		"en_text": "Umblla"
+	},
+	{
+		"assign": "4220",
+		"jp_text": "ハンプティ",
+		"en_text": "Humpty"
+	},
+	{
+		"assign": "4230",
+		"jp_text": "チャムライ",
+		"en_text": "Chamurai"
+	},
+	{
+		"assign": "4240",
+		"jp_text": "チャーク",
+		"en_text": ""
+	},
+	{
+		"assign": "4250",
+		"jp_text": "リリーパ",
+		"en_text": "Lillipan"
+	},
+	{
+		"assign": "4260",
+		"jp_text": "ゴストン",
+		"en_text": "Ghoston"
+	},
+	{
+		"assign": "4270",
+		"jp_text": "プーシャン",
+		"en_text": ""
+	},
+	{
+		"assign": "4280",
+		"jp_text": "ミクダヨー",
+		"en_text": "Mikudayo"
+	},
+	{
+		"assign": "4290",
+		"jp_text": "緑ぷよ",
+		"en_text": "Green Puyo"
+	},
+	{
+		"assign": "4300",
+		"jp_text": "カーバンクル",
+		"en_text": "Carbuncle"
+	},
+	{
+		"assign": "4310",
+		"jp_text": "キュゥべえ",
+		"en_text": "Kyubey"
+	},
+	{
+		"assign": "4320",
+		"jp_text": "キャリブー",
+		"en_text": "Caribou"
+	},
+	{
+		"assign": "4330",
+		"jp_text": "カガミミ",
+		"en_text": "Kagamimi"
+	},
+	{
+		"assign": "4340",
+		"jp_text": "ラブラッピー",
+		"en_text": ""
+	},
+	{
+		"assign": "4350",
+		"jp_text": "ラヴィラッピー",
+		"en_text": ""
+	},
+	{
+		"assign": "4360",
+		"jp_text": "ポリタン",
+		"en_text": "Polytan"
+	},
+	{
+		"assign": "4380",
+		"jp_text": "イーツター",
+		"en_text": ""
+	},
+	{
+		"assign": "4390",
+		"jp_text": "ミャリッジ",
+		"en_text": ""
+	},
+	{
+		"assign": "4400",
+		"jp_text": "ベレイ",
+		"en_text": ""
+	},
+	{
+		"assign": "4410",
+		"jp_text": "ベレイＭｋ２",
+		"en_text": ""
+	},
+	{
+		"assign": "4420",
+		"jp_text": "エトワル",
+		"en_text": ""
+	},
+	{
+		"assign": "4430",
+		"jp_text": "月見ラッピー",
+		"en_text": "十五夜マグ"
+	},
+	{
+		"assign": "4440",
+		"jp_text": "ソニック人形",
+		"en_text": "ソニック"
+	},
+	{
+		"assign": "4460",
+		"jp_text": "モロ星人Ｂ",
+		"en_text": "モロ星人２号"
+	},
+	{
+		"assign": "4470",
+		"jp_text": "ナイトギア",
+		"en_text": ""
+	},
+	{
+		"assign": "4480",
+		"jp_text": "ニャウ",
+		"en_text": ""
+	},
+	{
+		"assign": "4490",
+		"jp_text": "ジャクラン",
+		"en_text": ""
+	},
+	{
+		"assign": "4500",
+		"jp_text": "テルクゥ",
+		"en_text": ""
+	},
+	{
+		"assign": "4510",
+		"jp_text": "キリゾー",
+		"en_text": ""
+	},
+	{
+		"assign": "4520",
+		"jp_text": "ＳＦＣ妖精",
+		"en_text": ""
+	},
+	{
+		"assign": "4530",
+		"jp_text": "赤ぷよ",
+		"en_text": ""
+	},
+	{
+		"assign": "4540",
+		"jp_text": "ダンボー",
+		"en_text": ""
+	},
+	{
+		"assign": "4550",
+		"jp_text": "カラッピー",
+		"en_text": ""
+	},
+	{
+		"assign": "4560",
+		"jp_text": "タマヒメ",
+		"en_text": ""
+	},
+	{
+		"assign": "4570",
+		"jp_text": "お団子ヘア",
+		"en_text": ""
+	},
+	{
+		"assign": "4580",
+		"jp_text": "ラブリーパ",
+		"en_text": ""
+	},
+	{
+		"assign": "4590",
+		"jp_text": "ラヴィリー",
+		"en_text": ""
+	},
+	{
+		"assign": "4600",
+		"jp_text": "ドリキャス",
+		"en_text": ""
+	},
+	{
+		"assign": "4610",
+		"jp_text": "サターン",
+		"en_text": ""
+	},
+	{
+		"assign": "4620",
+		"jp_text": "メガドラ",
+		"en_text": ""
+	},
+	{
+		"assign": "4630",
+		"jp_text": "アナライザー",
+		"en_text": ""
+	},
+	{
+		"assign": "4640",
+		"jp_text": "ホヌホヌ",
+		"en_text": "デザコン１"
+	},
+	{
+		"assign": "4650",
+		"jp_text": "小梅",
+		"en_text": "デザコン２"
+	},
+	{
+		"assign": "4660",
+		"jp_text": "ニャンドリオン",
+		"en_text": "デザコン３"
+	},
+	{
+		"assign": "4690",
+		"jp_text": "ジーツター",
+		"en_text": ""
+	},
+	{
+		"assign": "4700",
+		"jp_text": "レイニャン",
+		"en_text": ""
+	},
+	{
+		"assign": "4710",
+		"jp_text": "ルクミン",
+		"en_text": ""
+	},
+	{
+		"assign": "4720",
+		"jp_text": "ネッキー",
+		"en_text": ""
+	},
+	{
+		"assign": "4730",
+		"jp_text": "マグＲ",
+		"en_text": ""
+	},
+	{
+		"assign": "4740",
+		"jp_text": "ライラＲ",
+		"en_text": ""
+	},
+	{
+		"assign": "4750",
+		"jp_text": "フォルナＲ",
+		"en_text": ""
+	},
+	{
+		"assign": "4760",
+		"jp_text": "レプスＲ",
+		"en_text": ""
+	},
+	{
+		"assign": "4770",
+		"jp_text": "アントリアＲ",
+		"en_text": ""
+	},
+	{
+		"assign": "4780",
+		"jp_text": "ライブラＲ",
+		"en_text": ""
+	},
+	{
+		"assign": "4790",
+		"jp_text": "ドルフＲ",
+		"en_text": ""
+	},
+	{
+		"assign": "4800",
+		"jp_text": "キグナスＲ",
+		"en_text": ""
+	},
+	{
+		"assign": "4810",
+		"jp_text": "カエルムＲ",
+		"en_text": ""
+	},
+	{
+		"assign": "4820",
+		"jp_text": "ケフェウスＲ",
+		"en_text": ""
+	},
+	{
+		"assign": "4830",
+		"jp_text": "ツカナＲ",
+		"en_text": ""
+	},
+	{
+		"assign": "4840",
+		"jp_text": "カリーナＲ",
+		"en_text": ""
+	},
+	{
+		"assign": "4850",
+		"jp_text": "モノケロスＲ",
+		"en_text": ""
+	},
+	{
+		"assign": "4860",
+		"jp_text": "オリオンＲ",
+		"en_text": ""
+	},
+	{
+		"assign": "4870",
+		"jp_text": "アプスＲ",
+		"en_text": ""
+	},
+	{
+		"assign": "4880",
+		"jp_text": "コルブスＲ",
+		"en_text": "Corvus R"
+	},
+	{
+		"assign": "4890",
+		"jp_text": "レオＲ",
+		"en_text": "Leo R"
+	},
+	{
+		"assign": "4900",
+		"jp_text": "クルックスＲ",
+		"en_text": "Crux R"
+	},
+	{
+		"assign": "4910",
+		"jp_text": "リンクスＲ",
+		"en_text": "Lynx R"
+	},
+	{
+		"assign": "4920",
+		"jp_text": "キトゥンＲ",
+		"en_text": "Kitten R"
+	},
+	{
+		"assign": "4950",
+		"jp_text": "キャンサーＲ",
+		"en_text": "Cancer R"
+	},
+	{
+		"assign": "4960",
+		"jp_text": "アクベンスＲ",
+		"en_text": "Acubens R"
+	},
+	{
+		"assign": "4990",
+		"jp_text": "波乗ニャウ",
+		"en_text": "Surfing Nyau"
+	},
+	{
+		"assign": "41010",
+		"jp_text": "ＲＲリコ",
+		"en_text": "Red Ring Rico"
+	},
+	{
+		"assign": "41020",
+		"jp_text": "ニドラー",
+		"en_text": "Nidra"
+	},
+	{
+		"assign": "41050",
+		"jp_text": "ウサノヤ",
+		"en_text": "Usanoya"
+	},
+	{
+		"assign": "41060",
+		"jp_text": "モチュゴヤ",
+		"en_text": "Mochugoya"
+	},
+	{
+		"assign": "41070",
+		"jp_text": "オパオパ",
+		"en_text": "Opa-Opa"
+	},
+	{
+		"assign": "41090",
+		"jp_text": "テムジン",
+		"en_text": "Temjin"
+	},
+	{
+		"assign": "41100",
+		"jp_text": "青ぷよ",
+		"en_text": "Blue Puyo"
+	},
+	{
+		"assign": "41110",
+		"jp_text": "ルーシャー",
+		"en_text": "Losher"
+	},
+	{
+		"assign": "41130",
+		"jp_text": "シャノルン",
+		"en_text": "Chanolun"
+	},
+	{
+		"assign": "41140",
+		"jp_text": "ハッピー",
+		"en_text": "Happy"
+	},
+	{
+		"assign": "41150",
+		"jp_text": "ナガミミ",
+		"en_text": "Nagamimi"
+	},
+	{
+		"assign": "41160",
+		"jp_text": "ノルルン",
+		"en_text": "Nolulun"
+	},
+	{
+		"assign": "41170",
+		"jp_text": "クツッピー",
+		"en_text": "Kutsuppy"
+	},
+	{
+		"assign": "41230",
+		"jp_text": "プリニー",
+		"en_text": "Prinny"
+	},
+	{
+		"assign": "41240",
+		"jp_text": "東京タワーラッピー",
+		"en_text": "Tokyo Tower Rappy"
+	},
+	{
+		"assign": "41250",
+		"jp_text": "金シャチラッピー",
+		"en_text": "Golden Whale Rappy"
+	},
+	{
+		"assign": "41260",
+		"jp_text": "屋台ラッピー",
+		"en_text": "Food Cart Rappy"
+	}
+]
