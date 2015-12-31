@@ -606,21 +606,21 @@
 		"jp_text": "メセタフィーバーⅠ",
 		"en_text": "Meseta Fever I",
 		"jp_explain": "出現するメセタが\n5%増加",
-		"en_explain": ""
+		"en_explain": "Meseta Droprate +5%"
 	},
 	{
 		"assign": "87",
 		"jp_text": "メセタフィーバーⅡ",
 		"en_text": "Meseta Fever II",
 		"jp_explain": "出現するメセタが\n10%増加",
-		"en_explain": ""
+		"en_explain": "Meseta Droprate +10%"
 	},
 	{
 		"assign": "88",
 		"jp_text": "メセタフィーバーⅢ",
-		"en_text": "ENT_SPダミー88",
+		"en_text": "Meseta Fever III",
 		"jp_explain": "出現するメセタが\n15%増加",
-		"en_explain": ""
+		"en_explain": "Meseta Droprate +15%"
 	},
 	{
 		"assign": "89",
@@ -641,28 +641,28 @@
 		"jp_text": "ＥＸＰブーストⅠ",
 		"en_text": "EXP Boost I",
 		"jp_explain": "取得する経験値が\n5%増加",
-		"en_explain": ""
+		"en_explain": "Experience Gained +5%"
 	},
 	{
 		"assign": "92",
 		"jp_text": "アナザーヒストリー",
 		"en_text": "Another History",
 		"jp_explain": "取得する経験値が\n10%増加",
-		"en_explain": ""
+		"en_explain": "Experience Gained +10%"
 	},
 	{
 		"assign": "93",
 		"jp_text": "ＥＸＰブーストⅡ",
-		"en_text": "ENT_SPダミー93",
+		"en_text": "EXP Boost II",
 		"jp_explain": "取得する経験値が\n7%増加",
-		"en_explain": ""
+		"en_explain": "Experience Gained +7%"
 	},
 	{
 		"assign": "94",
 		"jp_text": "ＥＸＰブーストⅢ",
-		"en_text": "ENT_SPダミー94",
+		"en_text": "EXP Boost III",
 		"jp_explain": "取得する経験値が\n10%増加",
-		"en_explain": ""
+		"en_explain": "Experience Gained +10%"
 	},
 	{
 		"assign": "95",
@@ -676,28 +676,28 @@
 		"jp_text": "ラッキーライズⅠ",
 		"en_text": "Lucky Rise I",
 		"jp_explain": "アイテムドロップ率が\n5%増加",
-		"en_explain": ""
+		"en_explain": "Item Drop Rate +5%"
 	},
 	{
 		"assign": "97",
 		"jp_text": "テンプテーション",
 		"en_text": "Temptation",
 		"jp_explain": "アイテムドロップ率が\n10%増加",
-		"en_explain": ""
+		"en_explain": "Item Drop Rate +10%"
 	},
 	{
 		"assign": "98",
 		"jp_text": "ラッキーライズⅡ",
-		"en_text": "ENT_SPダミー98",
+		"en_text": "Lucky Rise II",
 		"jp_explain": "アイテムドロップ率が\n7%増加",
-		"en_explain": ""
+		"en_explain": "Item Drop Rate +7%"
 	},
 	{
 		"assign": "99",
 		"jp_text": "ラッキーライズⅢ",
-		"en_text": "ENT_SPダミー99",
+		"en_text": "Lucky Rise II",
 		"jp_explain": "アイテムドロップ率が\n10%増加",
-		"en_explain": ""
+		"en_explain": "Item Drop Rate +10%"
 	},
 	{
 		"assign": "100",
@@ -940,9 +940,9 @@
 	{
 		"assign": "134",
 		"jp_text": "フレッシュ・サイン",
-		"en_text": "",
+		"en_text": "Fresh Sign",
 		"jp_explain": "Ｌｖ．３０に到達するまで\n取得する経験値が\n３０％増加する",
-		"en_explain": ""
+		"en_explain": "Boost EXP gained by 30%\nuntil Lv.30 only."
 	},
 	{
 		"assign": "135",
