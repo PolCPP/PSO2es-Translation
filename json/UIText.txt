@@ -13877,7 +13877,7 @@
 	{
 		"assign": "menu_invite_tab_input_submit",
 		"jp_text": "コードを認証",
-		"en_text": ""
+		"en_text": "Authentication Code"
 	},
 	{
 		"assign": "menu_invite_tab_reward_title",
@@ -13892,12 +13892,12 @@
 	{
 		"assign": "menu_invite_tab_reward_check",
 		"jp_text": "報酬一覧",
-		"en_text": ""
+		"en_text": "Reward List"
 	},
 	{
 		"assign": "menu_invite_tab_reward_receive_all",
 		"jp_text": "一括受け取り",
-		"en_text": ""
+		"en_text": "Bulk Receive"
 	},
 	{
 		"assign": "menu_invite_tab_reward_next_condition",
@@ -14252,7 +14252,7 @@
 	{
 		"assign": "dialog_body_arksexpedition_use_free",
 		"jp_text": "クイック探索を行います。\nよろしいですか？\n\n※クイック探索は毎日初回のみ無料で利用できます。\n2回目以降の利用には<%AC>が必要です。",
-		"en_text": "You can perform a Quick Search.\n\n※Quick Search can only be used for free once per day.\nSubsequent uses after the free search will require <%AC>."
+		"en_text": "You can perform a Quick Search.\n\n※Quick Search can be used for free once per day.\nSubsequent uses after will require <%AC>."
 	},
 	{
 		"assign": "arks_exp_reward_button_close",
@@ -14297,7 +14297,7 @@
 	{
 		"assign": "wh_31_02",
 		"jp_text": "＜利用回数について＞\n１日１回まで無料で利用可能です。\n２回目以降のクイック探索は「<%AC>」が必要になります。",
-		"en_text": "＜利用回数について＞\nIt's free of charge once per day.\nSubsequent uses after the free search will require <%AC>."
+		"en_text": "＜利用回数について＞\nIt's free of charge once per day.\nSubsequent uses after will require <%AC>."
 	},
 	{
 		"assign": "wh_31_03",
