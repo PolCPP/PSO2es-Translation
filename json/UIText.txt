@@ -432,7 +432,7 @@
 	{
 		"assign": "acshop_dialog_b_28",
 		"jp_text": "<%item_name>を購入します。\nよろしいですか？\n\n所持数：<%current_item_num>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"en_text": ""
+		"en_text": "Purchase <%item_name>?\n\nOwned:<%current_item_num>\n\nNeeded <%AC>: <%consume_AC>\nOwned <%AC>：<%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_29",
@@ -442,7 +442,7 @@
 	{
 		"assign": "acshop_dialog_b_29",
 		"jp_text": "最大所持数を超えてしまうため、\n購入できません。",
-		"en_text": ""
+		"en_text": "You cannot exceed the number of items \nowned in your possession."
 	},
 	{
 		"assign": "acshop_dialog_t_30",
@@ -452,7 +452,7 @@
 	{
 		"assign": "acshop_dialog_b_30",
 		"jp_text": "<%item_name>を購入しました。",
-		"en_text": ""
+		"en_text": "Purchased <%item_name>."
 	},
 	{
 		"assign": "acshop_dialog_t_31",
@@ -522,7 +522,7 @@
 	{
 		"assign": "acshop_dialog_b_37",
 		"jp_text": "OP回復薬ミニの使用する数を選択してください。\n\n出発に必要なOP：<%consume_exdrive>\n現在のOP：<%current_exdrive>\n\n所持OP回復薬ミニ：<%current_oprecovery_pass_mini>",
-		"en_text": "Please select the amount of OP you wish to recover.\n\nRequired OP:<%consume_exdrive>\nCurrent OP:<%current_exdrive>\n\nOP Recovery Tickets:<%current_oprecovery_pass_mini>"
+		"en_text": "Please select the amount of OP you wish to recover.\n\nRequired OP:<%consume_exdrive>\nCurrent OP:<%current_exdrive>\n\nOP Recovery Meds: <%current_oprecovery_pass_mini>"
 	},
 	{
 		"assign": "acshop_dialog_t_38",
@@ -557,7 +557,7 @@
 	{
 		"assign": "acshop_use_count",
 		"jp_text": "使用数",
-		"en_text": ""
+		"en_text": "Usage"
 	},
 	{
 		"assign": "acshop_oprecovery_use_btn",
@@ -602,12 +602,12 @@
 	{
 		"assign": "acshop_item_oprecovery_pass",
 		"jp_text": "OP回復薬",
-		"en_text": "OP Recovery Tickets"
+		"en_text": "OP Recovery Meds"
 	},
 	{
 		"assign": "acshop_item_oprecovery_pass_mini",
 		"jp_text": "OP回復薬ミニ",
-		"en_text": "OP Mini Recovery Tickets"
+		"en_text": "OP Mini Recovery Meds"
 	},
 	{
 		"assign": "acshop_item_unit",
@@ -637,7 +637,7 @@
 	{
 		"assign": "acshop_oprecovery_pass_buff_05",
 		"jp_text": "・フレンドの同行可能待機時間がリセットされました。",
-		"en_text": ""
+		"en_text": "・Cooldown of Friend Assist Partners has been reset."
 	},
 	{
 		"assign": "acshop_oprecovery_pass_buff_update_01",
