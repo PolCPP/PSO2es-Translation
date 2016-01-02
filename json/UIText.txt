@@ -432,7 +432,7 @@
 	{
 		"assign": "acshop_dialog_b_28",
 		"jp_text": "<%item_name>を購入します。\nよろしいですか？\n\n所持数：<%current_item_num>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"en_text": "Purchase <%item_name>?\n\nOwned:<%current_item_num>\n\nNeeded <%AC>: <%consume_AC>\nOwned <%AC>：<%current_AC>"
+		"en_text": ""
 	},
 	{
 		"assign": "acshop_dialog_t_29",
@@ -442,7 +442,7 @@
 	{
 		"assign": "acshop_dialog_b_29",
 		"jp_text": "最大所持数を超えてしまうため、\n購入できません。",
-		"en_text": "You cannot exceed the number of items \nowned in your possession."
+		"en_text": ""
 	},
 	{
 		"assign": "acshop_dialog_t_30",
@@ -452,7 +452,7 @@
 	{
 		"assign": "acshop_dialog_b_30",
 		"jp_text": "<%item_name>を購入しました。",
-		"en_text": "Purchased <%item_name>."
+		"en_text": ""
 	},
 	{
 		"assign": "acshop_dialog_t_31",
@@ -522,7 +522,7 @@
 	{
 		"assign": "acshop_dialog_b_37",
 		"jp_text": "OP回復薬ミニの使用する数を選択してください。\n\n出発に必要なOP：<%consume_exdrive>\n現在のOP：<%current_exdrive>\n\n所持OP回復薬ミニ：<%current_oprecovery_pass_mini>",
-		"en_text": "Please select the amount of OP you wish to recover.\n\nRequired OP:<%consume_exdrive>\nCurrent OP:<%current_exdrive>\n\nOP Recovery Meds: <%current_oprecovery_pass_mini>"
+		"en_text": "Please select the amount of OP you wish to recover.\n\nRequired OP:<%consume_exdrive>\nCurrent OP:<%current_exdrive>\n\nOP Recovery Tickets:<%current_oprecovery_pass_mini>"
 	},
 	{
 		"assign": "acshop_dialog_t_38",
@@ -557,7 +557,7 @@
 	{
 		"assign": "acshop_use_count",
 		"jp_text": "使用数",
-		"en_text": "Usage"
+		"en_text": ""
 	},
 	{
 		"assign": "acshop_oprecovery_use_btn",
@@ -602,12 +602,12 @@
 	{
 		"assign": "acshop_item_oprecovery_pass",
 		"jp_text": "OP回復薬",
-		"en_text": "OP Recovery Meds"
+		"en_text": "OP Recovery Tickets"
 	},
 	{
 		"assign": "acshop_item_oprecovery_pass_mini",
 		"jp_text": "OP回復薬ミニ",
-		"en_text": "OP Mini Recovery Meds"
+		"en_text": "OP Mini Recovery Tickets"
 	},
 	{
 		"assign": "acshop_item_unit",
@@ -637,7 +637,7 @@
 	{
 		"assign": "acshop_oprecovery_pass_buff_05",
 		"jp_text": "・フレンドの同行可能待機時間がリセットされました。",
-		"en_text": "・Cooldown of Friend Assist Partners has been reset."
+		"en_text": ""
 	},
 	{
 		"assign": "acshop_oprecovery_pass_buff_update_01",
@@ -2562,67 +2562,67 @@
 	{
 		"assign": "menu_dialog_y_15",
 		"jp_text": "safariを起動（推奨）",
-		"en_text": ""
+		"en_text": "Launch Safari"
 	},
 	{
 		"assign": "menu_dialog_n_15",
 		"jp_text": "PSO2es専用ブラウザを起動",
-		"en_text": ""
+		"en_text": "Launch PSO2es Dedicated Browser"
 	},
 	{
 		"assign": "menu_dialog_t_16",
 		"jp_text": "esアイテムコード入力結果",
-		"en_text": ""
+		"en_text": "es Item Code Result"
 	},
 	{
 		"assign": "menu_dialog_b_16",
 		"jp_text": "esアイテムコードの入力が完了しました。\nアイテムを入手しました。",
-		"en_text": ""
+		"en_text": "es Item Code input completed.\nNew Items available."
 	},
 	{
 		"assign": "menu_dialog_t_17",
 		"jp_text": "esアイテムコード入力",
-		"en_text": ""
+		"en_text": "Input es Item Code"
 	},
 	{
 		"assign": "menu_dialog_b_17",
 		"jp_text": "esアイテムコードが正しくありません。\n入力し直してください。",
-		"en_text": ""
+		"en_text": "es Item Code incorrect.\nPlease try again."
 	},
 	{
 		"assign": "menu_dialog_t_18",
 		"jp_text": "esアイテムコード入力",
-		"en_text": ""
+		"en_text": "Input es Item Code"
 	},
 	{
 		"assign": "menu_dialog_b_18",
 		"jp_text": "esアイテムコードの入力に連続で失敗しました。\nしばらくたってから入力し直してください。",
-		"en_text": ""
+		"en_text": "You failed input too many times.\nPlease try again in a little while."
 	},
 	{
 		"assign": "menu_dialog_t_19",
 		"jp_text": "esアイテムコード入力",
-		"en_text": ""
+		"en_text": "Input es Item Code"
 	},
 	{
 		"assign": "menu_dialog_b_19",
 		"jp_text": "このesアイテムコードはすでに使用されています。",
-		"en_text": ""
+		"en_text": "The es Item Code has been already used."
 	},
 	{
 		"assign": "menu_dialog_t_20",
 		"jp_text": "esアイテムコード入力",
-		"en_text": ""
+		"en_text": "Input es Item Code"
 	},
 	{
 		"assign": "menu_dialog_b_20",
 		"jp_text": "このesアイテムコードは有効期限外のため\n使用することはできません。",
-		"en_text": ""
+		"en_text": "The es Item Code entered\ncannot be used as it's expired."
 	},
 	{
 		"assign": "menu_dialog_t_21",
 		"jp_text": "esアイテムコード入力",
-		"en_text": ""
+		"en_text": "Input es Item Code"
 	},
 	{
 		"assign": "menu_dialog_b_21",
@@ -2637,7 +2637,7 @@
 	{
 		"assign": "menu_dialog_button_segaid",
 		"jp_text": "SEGA IDを取得",
-		"en_text": ""
+		"en_text": "Get SEGA ID"
 	},
 	{
 		"assign": "menu_dialog_t_onetime_authentication",
@@ -2687,12 +2687,12 @@
 	{
 		"assign": "menu_dialog_button_title",
 		"jp_text": "タイトルへ",
-		"en_text": ""
+		"en_text": "Title Screen"
 	},
 	{
 		"assign": "menu_dialog_button_ship",
 		"jp_text": "シップ選択へ",
-		"en_text": ""
+		"en_text": "Ship Selection"
 	},
 	{
 		"assign": "mag_guide_00",
@@ -2927,7 +2927,7 @@
 	{
 		"assign": "receive_item_coin_pass",
 		"jp_text": "カジノコインパス",
-		"en_text": ""
+		"en_text": "Casino Coin Pass"
 	},
 	{
 		"assign": "receive_guide_00",
@@ -3247,37 +3247,37 @@
 	{
 		"assign": "myshop_dialog_t_00",
 		"jp_text": "アイテム購入",
-		"en_text": ""
+		"en_text": "Buy Item"
 	},
 	{
 		"assign": "myshop_dialog_b_00",
 		"jp_text": "購入しようとしているアイテムの一部に\n★10以上のアイテムが含まれています。\n\n購入するには以下のアイテムが必要となります。\n消費して購入します。\n\nよろしいですか？\n\n<%NEEDITEM>　<%NEED>（所持：<%HAVE>）",
-		"en_text": ""
+		"en_text": "The Item you're trying to buy is a ★10 or higher.\nWeapons will need a weapon pass.\n\n<%NEEDITEM>　<color=red><%NEED>（Owned： <%HAVE>）</color>"
 	},
 	{
 		"assign": "myshop_dialog_t_01",
 		"jp_text": "アイテム購入",
-		"en_text": ""
+		"en_text": "Buy Item"
 	},
 	{
 		"assign": "myshop_dialog_b_01",
 		"jp_text": "購入しようとしているアイテムの一部に\n★10以上のアイテムが含まれていますが、\n以下のアイテムが不足しているため\n購入することができません。\n\n<%NEEDITEM>　<color=red><%NEED>（所持：<%HAVE>）</color>",
-		"en_text": ""
+		"en_text": "The Item you're trying to buy is a ★10 or higher.\nUnits will need a unit pass.\n\n<%NEEDITEM>　<color=red><%NEED><%NEED>（Owned： <%HAVE>）</color>"
 	},
 	{
 		"assign": "myshop_dialog_t_02",
 		"jp_text": "アイテム購入",
-		"en_text": ""
+		"en_text": "Buy Item"
 	},
 	{
 		"assign": "myshop_dialog_b_02",
 		"jp_text": "出品されているアイテムを購入しました。",
-		"en_text": ""
+		"en_text": "I purchased an item that was sold."
 	},
 	{
 		"assign": "myshop_dialog_t_03",
 		"jp_text": "アイテム購入",
-		"en_text": ""
+		"en_text": "Buy Item"
 	},
 	{
 		"assign": "myshop_dialog_b_03",
@@ -3287,17 +3287,17 @@
 	{
 		"assign": "myshop_dialog_t_04",
 		"jp_text": "アイテム購入",
-		"en_text": ""
+		"en_text": "Buy Item"
 	},
 	{
 		"assign": "myshop_dialog_b_04",
 		"jp_text": "所持金が不足しています。",
-		"en_text": ""
+		"en_text": "<color=#ff0000>You lack meseta to purchase.</color>"
 	},
 	{
 		"assign": "myshop_dialog_t_05",
 		"jp_text": "アイテム購入",
-		"en_text": ""
+		"en_text": "Buy Item"
 	},
 	{
 		"assign": "myshop_dialog_b_05",
@@ -3327,47 +3327,47 @@
 	{
 		"assign": "myshop_dialog_t_08",
 		"jp_text": "アイテム購入",
-		"en_text": ""
+		"en_text": "Buy Item"
 	},
 	{
 		"assign": "myshop_dialog_b_08",
 		"jp_text": "購入には「ＰＳＯ２ｅｓマイショップ利用券」またはラッピーメダルが必要です。\n利用券がない場合、<%AC>で利用券を購入できます。\n\n必要ＰＳＯ２ｅｓマイショップ利用券：<%NEEDTICKET>\n所持ＰＳＯ２ｅｓマイショップ利用券：<%HAVETICKET>\n\n必要ラッピーメダル：<%NEEDMEDAL>\n所持ラッピーメダル：<%HAVEMEDAL>",
-		"en_text": ""
+		"en_text": "「PSO2es MyShop Ticket」 or Rappy Coins required to buy.\nIf you don't have a ticket, you can buy one with <%AC>.\n\nNeeded Number of Tickets： <%NEEDTICKET>\nOwned: <%HAVETICKET>\n\nRappy Coins Needed: <%NEEDMEDAL>\nOwned: <%HAVEMEDAL>"
 	},
 	{
 		"assign": "myshop_dialog_b_08_1",
 		"jp_text": "<%NUM>枚",
-		"en_text": ""
+		"en_text": "Page <%NUM>"
 	},
 	{
 		"assign": "myshop_dialog_b_08_ticket",
 		"jp_text": "マイショップ利用券",
-		"en_text": ""
+		"en_text": "MyShop Vouchers"
 	},
 	{
 		"assign": "myshop_dialog_b_08_medal",
 		"jp_text": "ラッピーメダル",
-		"en_text": ""
+		"en_text": "Rappy Coin"
 	},
 	{
 		"assign": "myshop_dialog_b_08_back",
 		"jp_text": "戻る",
-		"en_text": ""
+		"en_text": "Back"
 	},
 	{
 		"assign": "myshop_dialog_t_09",
 		"jp_text": "アイテム購入",
-		"en_text": ""
+		"en_text": "Buy Item"
 	},
 	{
 		"assign": "myshop_dialog_b_09",
 		"jp_text": "アイテムを<%MESETA>メセタで購入します。\nよろしいですか？",
-		"en_text": ""
+		"en_text": "Would you like to buy using\nyour <%MESETA> meseta?"
 	},
 	{
 		"assign": "myshop_dialog_t_10",
 		"jp_text": "アイテム購入",
-		"en_text": ""
+		"en_text": "Buy Item"
 	},
 	{
 		"assign": "myshop_dialog_b_10",
@@ -3377,7 +3377,7 @@
 	{
 		"assign": "myshop_dialog_t_11",
 		"jp_text": "アイテム出品",
-		"en_text": ""
+		"en_text": "Sell Item"
 	},
 	{
 		"assign": "myshop_dialog_b_11",
@@ -3387,7 +3387,7 @@
 	{
 		"assign": "myshop_dialog_t_12",
 		"jp_text": "出品",
-		"en_text": ""
+		"en_text": "Sell"
 	},
 	{
 		"assign": "myshop_dialog_b_12",
@@ -3397,7 +3397,7 @@
 	{
 		"assign": "myshop_dialog_t_13",
 		"jp_text": "出品キャンセルの確認",
-		"en_text": ""
+		"en_text": "Canel Sale"
 	},
 	{
 		"assign": "myshop_dialog_b_13",
@@ -3407,17 +3407,17 @@
 	{
 		"assign": "myshop_dialog_t_14",
 		"jp_text": "マイショップ",
-		"en_text": ""
+		"en_text": "MyShop"
 	},
 	{
 		"assign": "myshop_dialog_b_14",
 		"jp_text": "アイテムを出品しました。",
-		"en_text": ""
+		"en_text": "Item Sold"
 	},
 	{
 		"assign": "myshop_dialog_t_15",
 		"jp_text": "価格設定",
-		"en_text": ""
+		"en_text": "Pricing"
 	},
 	{
 		"assign": "myshop_dialog_b_15",
@@ -3437,7 +3437,7 @@
 	{
 		"assign": "myshop_dialog_t_17",
 		"jp_text": "マイショップ",
-		"en_text": ""
+		"en_text": "MyShop"
 	},
 	{
 		"assign": "myshop_dialog_b_17",
@@ -3447,7 +3447,7 @@
 	{
 		"assign": "myshop_dialog_t_18",
 		"jp_text": "取り下げキャンセルの確認",
-		"en_text": ""
+		"en_text": "Confirm Cancel"
 	},
 	{
 		"assign": "myshop_dialog_b_18",
@@ -3457,7 +3457,7 @@
 	{
 		"assign": "myshop_dialog_t_19",
 		"jp_text": "取り下げ",
-		"en_text": ""
+		"en_text": "Withdrawal"
 	},
 	{
 		"assign": "myshop_dialog_b_19",
@@ -3467,7 +3467,7 @@
 	{
 		"assign": "myshop_dialog_t_20",
 		"jp_text": "アイテム出品",
-		"en_text": ""
+		"en_text": "Sell Item"
 	},
 	{
 		"assign": "myshop_dialog_b_20",
@@ -3477,7 +3477,7 @@
 	{
 		"assign": "myshop_dialog_t_21",
 		"jp_text": "取り下げ",
-		"en_text": ""
+		"en_text": "Withdrawal"
 	},
 	{
 		"assign": "myshop_dialog_b_21",
@@ -3487,7 +3487,7 @@
 	{
 		"assign": "myshop_dialog_t_22",
 		"jp_text": "売り上げ回収",
-		"en_text": ""
+		"en_text": "Earnings Collection"
 	},
 	{
 		"assign": "myshop_dialog_b_22",
@@ -3497,22 +3497,22 @@
 	{
 		"assign": "myshop_dialog_t_23",
 		"jp_text": "アイテム取引パスワード",
-		"en_text": ""
+		"en_text": "Shop Password"
 	},
 	{
 		"assign": "myshop_dialog_l_23",
 		"jp_text": "パスワード",
-		"en_text": ""
+		"en_text": "Password"
 	},
 	{
 		"assign": "myshop_dialog_b_23",
 		"jp_text": "パスワードを入力して下さい。（半角<color=yellow>数字</color>５文字）\n\n間違ったパスワードが６回入力されると\nアイテム取引パスワードがロックされます。\n<color=yellow>アイテム取引パスワードに関するお問い合わせは\n『ＰＳＯ２』プレイヤーズサイトからお願いします。</color>",
-		"en_text": ""
+		"en_text": "Please enter your password. Your password\nis <color=yellow>5 numeric</color> characters.\n\nEntering your password incorrectly 6 times will\nlock your account out.\n<color=yellow>※Inquiries about shop passwords can be done\non the player's site.</color>"
 	},
 	{
 		"assign": "myshop_dialog_t_24",
 		"jp_text": "アイテム取引パスワード未設定",
-		"en_text": ""
+		"en_text": "Shop Password not set"
 	},
 	{
 		"assign": "myshop_dialog_b_24",
@@ -3522,7 +3522,7 @@
 	{
 		"assign": "myshop_dialog_t_25",
 		"jp_text": "アイテム取引パスワード",
-		"en_text": ""
+		"en_text": "Shop Password"
 	},
 	{
 		"assign": "myshop_dialog_b_25",
@@ -3532,7 +3532,7 @@
 	{
 		"assign": "myshop_dialog_t_26",
 		"jp_text": "アイテム取引パスワード",
-		"en_text": ""
+		"en_text": "Shop Password"
 	},
 	{
 		"assign": "myshop_dialog_b_26",
@@ -3542,7 +3542,7 @@
 	{
 		"assign": "myshop_dialog_t_27",
 		"jp_text": "商品検索",
-		"en_text": ""
+		"en_text": "Product Search"
 	},
 	{
 		"assign": "myshop_dialog_b_27",
@@ -3552,7 +3552,7 @@
 	{
 		"assign": "myshop_dialog_t_28",
 		"jp_text": "商品検索",
-		"en_text": ""
+		"en_text": "Product Search"
 	},
 	{
 		"assign": "myshop_dialog_b_28",
@@ -3562,607 +3562,607 @@
 	{
 		"assign": "myshop_dialog_t_29",
 		"jp_text": "アイテム取引パスワード",
-		"en_text": ""
+		"en_text": "Shop Password"
 	},
 	{
 		"assign": "myshop_dialog_b_29",
 		"jp_text": "パスワードは半角数字５文字で入力してください。",
-		"en_text": ""
+		"en_text": "Please enter your 5 digit password."
 	},
 	{
 		"assign": "myshop_dialog_t_30",
 		"jp_text": "アイテム購入",
-		"en_text": ""
+		"en_text": "Purchase Items"
 	},
 	{
 		"assign": "myshop_dialog_b_30",
 		"jp_text": "★12以上の武器の購入後\nオーナー登録が発生します。\nよろしいですか？",
-		"en_text": ""
+		"en_text": "When purchasing ★12,\nit is bound to your account.\nDo you wish to continue?"
 	},
 	{
 		"assign": "myshop_dialog_t_31",
 		"jp_text": "アイテム購入",
-		"en_text": ""
+		"en_text": "Purchase Items"
 	},
 	{
 		"assign": "myshop_dialog_b_31",
 		"jp_text": "アイテムを購入しました。\n購入した武器のオーナー登録が完了しました。",
-		"en_text": ""
+		"en_text": "Purchase Complete.\nItem is now bound to your account."
 	},
 	{
 		"assign": "myshop_condition_potential1",
 		"jp_text": "なし",
-		"en_text": ""
+		"en_text": "No"
 	},
 	{
 		"assign": "myshop_condition_potential2",
 		"jp_text": "あり",
-		"en_text": ""
+		"en_text": "Yes"
 	},
 	{
 		"assign": "myshop_category_not_specified",
 		"jp_text": "指定なし",
-		"en_text": ""
+		"en_text": "None"
 	},
 	{
 		"assign": "myshop_category_weapon",
 		"jp_text": "武器",
-		"en_text": ""
+		"en_text": "Weapons"
 	},
 	{
 		"assign": "myshop_category_unit",
 		"jp_text": "ユニット",
-		"en_text": ""
+		"en_text": "Units"
 	},
 	{
 		"assign": "myshop_category_costume",
 		"jp_text": "コスチューム・パーツ",
-		"en_text": ""
+		"en_text": "Costume/Parts"
 	},
 	{
 		"assign": "myshop_category_camouflage",
 		"jp_text": "武器迷彩",
-		"en_text": ""
+		"en_text": "Weapon Camos"
 	},
 	{
 		"assign": "myshop_category_item",
 		"jp_text": "消費アイテム",
-		"en_text": ""
+		"en_text": "Consumables"
 	},
 	{
 		"assign": "myshop_category_disc",
 		"jp_text": "ディスク",
-		"en_text": ""
+		"en_text": "Disks"
 	},
 	{
 		"assign": "myshop_category_room_goods",
 		"jp_text": "ルームグッズ",
-		"en_text": ""
+		"en_text": "Room Items"
 	},
 	{
 		"assign": "myshop_category_order_item",
 		"jp_text": "オーダーアイテム",
-		"en_text": ""
+		"en_text": "CO Items"
 	},
 	{
 		"assign": "myshop_category_other",
 		"jp_text": "その他",
-		"en_text": ""
+		"en_text": "Other"
 	},
 	{
 		"assign": "myshop_sub_weapon_not_specified",
 		"jp_text": "指定なし",
-		"en_text": ""
+		"en_text": "None"
 	},
 	{
 		"assign": "myshop_sub_weapon_sword",
 		"jp_text": "ソード系",
-		"en_text": ""
+		"en_text": "Sword"
 	},
 	{
 		"assign": "myshop_sub_weapon_wiredlance",
 		"jp_text": "ワイヤードランス系",
-		"en_text": ""
+		"en_text": "Wired Lance"
 	},
 	{
 		"assign": "myshop_sub_weapon_partizan",
 		"jp_text": "パルチザン系",
-		"en_text": ""
+		"en_text": "Partizan"
 	},
 	{
 		"assign": "myshop_sub_weapon_twindagger",
 		"jp_text": "ツインダガー系",
-		"en_text": ""
+		"en_text": "Twin Dagger"
 	},
 	{
 		"assign": "myshop_sub_weapon_doublesaber",
 		"jp_text": "ダブルセイバー系",
-		"en_text": ""
+		"en_text": "Double Saber"
 	},
 	{
 		"assign": "myshop_sub_weapon_knuckle",
 		"jp_text": "ナックル系",
-		"en_text": ""
+		"en_text": "Knuckle"
 	},
 	{
 		"assign": "myshop_sub_weapon_gunslash",
 		"jp_text": "ガンスラッシュ系",
-		"en_text": ""
+		"en_text": "Gunslash"
 	},
 	{
 		"assign": "myshop_sub_weapon_katana",
 		"jp_text": "カタナ系",
-		"en_text": ""
+		"en_text": "Katana"
 	},
 	{
 		"assign": "myshop_sub_weapon_assaultrifle",
 		"jp_text": "アサルトライフル系",
-		"en_text": ""
+		"en_text": "Rifle"
 	},
 	{
 		"assign": "myshop_sub_weapon_launcher",
 		"jp_text": "ランチャー系",
-		"en_text": ""
+		"en_text": "Launcher"
 	},
 	{
 		"assign": "myshop_sub_weapon_twinmachinegun",
 		"jp_text": "ツインマシンガン系",
-		"en_text": ""
+		"en_text": "Twin Machinegun"
 	},
 	{
 		"assign": "myshop_sub_weapon_compoundbow",
 		"jp_text": "バレットボウ系",
-		"en_text": ""
+		"en_text": "Bullet Bow"
 	},
 	{
 		"assign": "myshop_sub_weapon_rod",
 		"jp_text": "ロッド系",
-		"en_text": ""
+		"en_text": "Rod"
 	},
 	{
 		"assign": "myshop_sub_weapon_talis",
 		"jp_text": "タリス系",
-		"en_text": ""
+		"en_text": "Talis"
 	},
 	{
 		"assign": "myshop_sub_weapon_wand",
 		"jp_text": "ウォンド系",
-		"en_text": ""
+		"en_text": "Wand"
 	},
 	{
 		"assign": "myshop_sub_weapon_dualblade",
 		"jp_text": "デュアルブレード系",
-		"en_text": ""
+		"en_text": "Dual Blade"
 	},
 	{
 		"assign": "myshop_sub_weapon_jetboots",
 		"jp_text": "ジェットブーツ系",
-		"en_text": ""
+		"en_text": "Jet Boots"
 	},
 	{
 		"assign": "myshop_sub_weapon_multiple",
 		"jp_text": "複数カテゴリー系",
-		"en_text": ""
+		"en_text": "Multi-category"
 	},
 	{
 		"assign": "myshop_sub_unit_not_specified",
 		"jp_text": "指定なし",
-		"en_text": ""
+		"en_text": "None"
 	},
 	{
 		"assign": "myshop_sub_unit_rear",
 		"jp_text": "リアユニット",
-		"en_text": ""
+		"en_text": "Rear Units"
 	},
 	{
 		"assign": "myshop_sub_unit_arm",
 		"jp_text": "アームユニット",
-		"en_text": ""
+		"en_text": "Arm Units"
 	},
 	{
 		"assign": "myshop_sub_unit_leg",
 		"jp_text": "レッグユニット",
-		"en_text": ""
+		"en_text": "Leg Units"
 	},
 	{
 		"assign": "myshop_sub_unit_sub",
 		"jp_text": "サブユニット",
-		"en_text": ""
+		"en_text": "Sub Units"
 	},
 	{
 		"assign": "myshop_sub_costume_not_specified",
 		"jp_text": "指定なし",
-		"en_text": ""
+		"en_text": "None"
 	},
 	{
 		"assign": "myshop_sub_costume_costume",
 		"jp_text": "コスチューム",
-		"en_text": ""
+		"en_text": "Costumes"
 	},
 	{
 		"assign": "myshop_sub_costume_body",
 		"jp_text": "ボディパーツ",
-		"en_text": ""
+		"en_text": "Body Parts"
 	},
 	{
 		"assign": "myshop_sub_costume_arm",
 		"jp_text": "アームパーツ",
-		"en_text": ""
+		"en_text": "Arm Parts"
 	},
 	{
 		"assign": "myshop_sub_costume_leg",
 		"jp_text": "レッグパーツ",
-		"en_text": ""
+		"en_text": "Leg Parts"
 	},
 	{
 		"assign": "myshop_sex_costume_none",
 		"jp_text": "性別指定なし",
-		"en_text": ""
+		"en_text": "None"
 	},
 	{
 		"assign": "myshop_sex_costume_male",
 		"jp_text": "男性・ファッションスーツ",
-		"en_text": ""
+		"en_text": "Male Costumes"
 	},
 	{
 		"assign": "myshop_sex_costume_female",
 		"jp_text": "女性限定",
-		"en_text": ""
+		"en_text": "Female Costumes"
 	},
 	{
 		"assign": "myshop_sex_parts_none",
 		"jp_text": "性別指定なし",
-		"en_text": ""
+		"en_text": "None"
 	},
 	{
 		"assign": "myshop_sex_parts_male",
 		"jp_text": "男性パーツ",
-		"en_text": ""
+		"en_text": "CAST Male"
 	},
 	{
 		"assign": "myshop_sex_parts_female",
 		"jp_text": "女性パーツ",
-		"en_text": ""
+		"en_text": "CAST Female"
 	},
 	{
 		"assign": "myshop_sub_item_not_specified",
 		"jp_text": "指定なし",
-		"en_text": ""
+		"en_text": "None"
 	},
 	{
 		"assign": "myshop_sub_item_recovery",
 		"jp_text": "回復系",
-		"en_text": ""
+		"en_text": "Recovery Items"
 	},
 	{
 		"assign": "myshop_sub_item_boost",
 		"jp_text": "ブースト系",
-		"en_text": ""
+		"en_text": "Boosters"
 	},
 	{
 		"assign": "myshop_sub_item_ticket",
 		"jp_text": "チケット",
-		"en_text": ""
+		"en_text": "Tickets"
 	},
 	{
 		"assign": "myshop_sub_item_hair_detail",
 		"jp_text": "ヘアスタイル",
-		"en_text": ""
+		"en_text": "Hairstyles"
 	},
 	{
 		"assign": "myshop_sub_item_headparts_detail",
 		"jp_text": "ヘッドパーツ",
-		"en_text": ""
+		"en_text": "Headparts"
 	},
 	{
 		"assign": "myshop_sub_item_accessory_detail",
 		"jp_text": "アクセサリー",
-		"en_text": ""
+		"en_text": "Accessories"
 	},
 	{
 		"assign": "myshop_sub_item_eye_detail",
 		"jp_text": "瞳",
-		"en_text": ""
+		"en_text": "Eye Patterns"
 	},
 	{
 		"assign": "myshop_sub_item_eyebrow_detail",
 		"jp_text": "まゆ毛",
-		"en_text": ""
+		"en_text": "Eyebrows"
 	},
 	{
 		"assign": "myshop_sub_item_eyelash_detail",
 		"jp_text": "まつ毛",
-		"en_text": ""
+		"en_text": "Eyelashes"
 	},
 	{
 		"assign": "myshop_sub_item_facepaint_detail",
 		"jp_text": "フェイスペイント",
-		"en_text": ""
+		"en_text": "Face Paint/Makeup"
 	},
 	{
 		"assign": "myshop_sub_item_bodypaint_detail",
 		"jp_text": "ボディペイント",
-		"en_text": ""
+		"en_text": "Body Paint"
 	},
 	{
 		"assign": "myshop_sub_item_sticker_detail",
 		"jp_text": "ステッカー",
-		"en_text": ""
+		"en_text": "Stickers/Emblems"
 	},
 	{
 		"assign": "myshop_sub_item_voice_detail",
 		"jp_text": "ボイス",
-		"en_text": ""
+		"en_text": "Voice"
 	},
 	{
 		"assign": "myshop_sub_item_lobbyaction_detail",
 		"jp_text": "ロビーアクション",
-		"en_text": ""
+		"en_text": "Lobby Action"
 	},
 	{
 		"assign": "myshop_sub_disc_not_specified",
 		"jp_text": "指定なし",
-		"en_text": ""
+		"en_text": "None"
 	},
 	{
 		"assign": "myshop_sub_disc_sword",
 		"jp_text": "ソード系PA",
-		"en_text": ""
+		"en_text": "Sword PAs"
 	},
 	{
 		"assign": "myshop_sub_disc_wiredlance",
 		"jp_text": "ワイヤードランス系PA",
-		"en_text": ""
+		"en_text": "Wired Lance PAs"
 	},
 	{
 		"assign": "myshop_sub_disc_partizan",
 		"jp_text": "パルチザン系PA",
-		"en_text": ""
+		"en_text": "Partizan PAs"
 	},
 	{
 		"assign": "myshop_sub_disc_twindagger",
 		"jp_text": "ツインダガー系PA",
-		"en_text": ""
+		"en_text": "Twin Dagger PAs"
 	},
 	{
 		"assign": "myshop_sub_disc_doublesaber",
 		"jp_text": "ダブルセイバー系PA",
-		"en_text": ""
+		"en_text": "Double Saber PAs"
 	},
 	{
 		"assign": "myshop_sub_disc_knuckle",
 		"jp_text": "ナックル系PA",
-		"en_text": ""
+		"en_text": "Knuckle PAs"
 	},
 	{
 		"assign": "myshop_sub_disc_gunslash",
 		"jp_text": "ガンスラッシュ系PA",
-		"en_text": ""
+		"en_text": "Gunslash PAs"
 	},
 	{
 		"assign": "myshop_sub_disc_katana",
 		"jp_text": "カタナ系PA",
-		"en_text": ""
+		"en_text": "Katana PAs"
 	},
 	{
 		"assign": "myshop_sub_disc_assaultrifle",
 		"jp_text": "アサルトライフル系PA",
-		"en_text": ""
+		"en_text": "Rifle PAs"
 	},
 	{
 		"assign": "myshop_sub_disc_launcher",
 		"jp_text": "ランチャー系PA",
-		"en_text": ""
+		"en_text": "Launcher PAs"
 	},
 	{
 		"assign": "myshop_sub_disc_twinmachinegun",
 		"jp_text": "ツインマシンガン系PA",
-		"en_text": ""
+		"en_text": "Twin Machinegun PAs"
 	},
 	{
 		"assign": "myshop_sub_disc_compoundbow",
 		"jp_text": "バレットボウ系PA",
-		"en_text": ""
+		"en_text": "Bullet Bow PAs"
 	},
 	{
 		"assign": "myshop_sub_disc_dualblade",
 		"jp_text": "デュアルブレード系PA",
-		"en_text": ""
+		"en_text": "Dual Blade PAs"
 	},
 	{
 		"assign": "myshop_sub_disc_jetboots",
 		"jp_text": "ジェットブーツ系PA",
-		"en_text": ""
+		"en_text": "Jetboot PAs"
 	},
 	{
 		"assign": "myshop_sub_disc_fire",
 		"jp_text": "炎属性テクニック",
-		"en_text": ""
+		"en_text": "Fire Techs"
 	},
 	{
 		"assign": "myshop_sub_disc_ice",
 		"jp_text": "氷属性テクニック",
-		"en_text": ""
+		"en_text": "Ice Techs"
 	},
 	{
 		"assign": "myshop_sub_disc_thunder",
 		"jp_text": "雷属性テクニック",
-		"en_text": ""
+		"en_text": "Lightning Techs"
 	},
 	{
 		"assign": "myshop_sub_disc_wind",
 		"jp_text": "風属性テクニック",
-		"en_text": ""
+		"en_text": "Wind Techs"
 	},
 	{
 		"assign": "myshop_sub_disc_light",
 		"jp_text": "光属性テクニック",
-		"en_text": ""
+		"en_text": "Light Techs"
 	},
 	{
 		"assign": "myshop_sub_disc_dark",
 		"jp_text": "闇属性テクニック",
-		"en_text": ""
+		"en_text": "Dark Techs"
 	},
 	{
 		"assign": "myshop_sub_other_not_specified",
 		"jp_text": "指定なし",
-		"en_text": ""
+		"en_text": "None"
 	},
 	{
 		"assign": "myshop_sub_other_pass",
 		"jp_text": "アイテムラボ・クラフト補助",
-		"en_text": ""
+		"en_text": "Craft Materials"
 	},
 	{
 		"assign": "myshop_sub_other_magdevice",
 		"jp_text": "マグデバイス",
-		"en_text": ""
+		"en_text": "Mag Devices"
 	},
 	{
 		"assign": "myshop_sub_other_reformgoods",
 		"jp_text": "リフォームグッズ",
-		"en_text": ""
+		"en_text": "Room Renovation"
 	},
 	{
 		"assign": "myshop_sub_other_musicdisk",
 		"jp_text": "ミュージックディスク",
-		"en_text": ""
+		"en_text": "Music Disks"
 	},
 	{
 		"assign": "myshop_sub_other_tool",
 		"jp_text": "ツール",
-		"en_text": ""
+		"en_text": "Other"
 	},
 	{
 		"assign": "myshop_sub_costume_male_costume",
 		"jp_text": "男性用・男女共用コスチューム",
-		"en_text": ""
+		"en_text": "Male Costumes"
 	},
 	{
 		"assign": "myshop_sub_costume_female_costume",
 		"jp_text": "女性用コスチューム",
-		"en_text": ""
+		"en_text": "Female Costumes"
 	},
 	{
 		"assign": "myshop_sub_costume_male_body",
 		"jp_text": "男性用ボディパーツ",
-		"en_text": ""
+		"en_text": "Male Body Parts"
 	},
 	{
 		"assign": "myshop_sub_costume_female_body",
 		"jp_text": "女性用ボディパーツ",
-		"en_text": ""
+		"en_text": "Female Body Parts"
 	},
 	{
 		"assign": "myshop_sub_costume_male_arm",
 		"jp_text": "男性用アームパーツ",
-		"en_text": ""
+		"en_text": "Male Arm Parts"
 	},
 	{
 		"assign": "myshop_sub_costume_female_arm",
 		"jp_text": "女性用アームパーツ",
-		"en_text": ""
+		"en_text": "Female Arm Parts"
 	},
 	{
 		"assign": "myshop_sub_costume_male_leg",
 		"jp_text": "男性用レッグパーツ",
-		"en_text": ""
+		"en_text": "Male Leg Parts"
 	},
 	{
 		"assign": "myshop_sub_costume_female_leg",
 		"jp_text": "女性用レッグパーツ",
-		"en_text": ""
+		"en_text": "Female Leg Parts"
 	},
 	{
 		"assign": "myshop_sub_item_accessory_ticket",
 		"jp_text": "アクセサリーチケット",
-		"en_text": ""
+		"en_text": "Accessories"
 	},
 	{
 		"assign": "myshop_sub_item_hair_ticket",
 		"jp_text": "ヘアスタイルチケット",
-		"en_text": ""
+		"en_text": "Hairstyles"
 	},
 	{
 		"assign": "myshop_sub_item_head_ticket",
 		"jp_text": "ヘッドパーツチケット",
-		"en_text": ""
+		"en_text": "Head Parts"
 	},
 	{
 		"assign": "myshop_sub_item_lobbyaction_ticket",
 		"jp_text": "ロビーアクションチケット",
-		"en_text": ""
+		"en_text": "Lobby Actions"
 	},
 	{
 		"assign": "myshop_sub_item_voice_ticket",
 		"jp_text": "ボイスチケット",
-		"en_text": ""
+		"en_text": "Voices"
 	},
 	{
 		"assign": "myshop_sub_item_eye_ticket",
 		"jp_text": "瞳パターンチケット",
-		"en_text": ""
+		"en_text": "Eye Patterns"
 	},
 	{
 		"assign": "myshop_sub_item_eyebrow_ticket",
 		"jp_text": "まゆチケット",
-		"en_text": ""
+		"en_text": "Eyebrows"
 	},
 	{
 		"assign": "myshop_sub_item_eyelash_ticket",
 		"jp_text": "まつ毛チケット",
-		"en_text": ""
+		"en_text": "Eyelashes"
 	},
 	{
 		"assign": "myshop_sub_item_make_ticket",
 		"jp_text": "メイクパターンチケット",
-		"en_text": ""
+		"en_text": "Makeup/Face Paint"
 	},
 	{
 		"assign": "myshop_sub_item_bodypaint_ticket",
 		"jp_text": "ボディペイントチケット",
-		"en_text": ""
+		"en_text": "Body Paint"
 	},
 	{
 		"assign": "myshop_sub_item_sticker_ticket",
 		"jp_text": "ステッカーチケット",
-		"en_text": ""
+		"en_text": "Emblems"
 	},
 	{
 		"assign": "myshop_attribute_not_specified",
 		"jp_text": "指定なし",
-		"en_text": ""
+		"en_text": "None"
 	},
 	{
 		"assign": "myshop_attribute_fire",
 		"jp_text": "炎属性",
-		"en_text": ""
+		"en_text": "Fire"
 	},
 	{
 		"assign": "myshop_attribute_ice",
 		"jp_text": "氷属性",
-		"en_text": ""
+		"en_text": "Ice"
 	},
 	{
 		"assign": "myshop_attribute_thunder",
 		"jp_text": "雷属性",
-		"en_text": ""
+		"en_text": "Lightning"
 	},
 	{
 		"assign": "myshop_attribute_wind",
 		"jp_text": "風属性",
-		"en_text": ""
+		"en_text": "Wind"
 	},
 	{
 		"assign": "myshop_attribute_light",
 		"jp_text": "光属性",
-		"en_text": ""
+		"en_text": "Light"
 	},
 	{
 		"assign": "myshop_attribute_dark",
 		"jp_text": "闇属性",
-		"en_text": ""
+		"en_text": "Dark"
 	},
 	{
 		"assign": "myshop_title",
@@ -4172,32 +4172,32 @@
 	{
 		"assign": "myshop_return_lobby",
 		"jp_text": "ロビートップへ戻る",
-		"en_text": ""
+		"en_text": "Return to Lobby"
 	},
 	{
 		"assign": "myshop_return",
 		"jp_text": "戻る",
-		"en_text": ""
+		"en_text": "Return"
 	},
 	{
 		"assign": "myshop_purchase",
 		"jp_text": "商品検索",
-		"en_text": ""
+		"en_text": "Product Search"
 	},
 	{
 		"assign": "myshop_purchase_confirm",
 		"jp_text": "売り上げ確認",
-		"en_text": ""
+		"en_text": "Purchase Confirm"
 	},
 	{
 		"assign": "myshop_withdraw",
 		"jp_text": "取り下げる",
-		"en_text": ""
+		"en_text": "Withdraw"
 	},
 	{
 		"assign": "myshop_display",
 		"jp_text": "出品する",
-		"en_text": ""
+		"en_text": "Sell"
 	},
 	{
 		"assign": "myshop_menu",
@@ -4237,17 +4237,17 @@
 	{
 		"assign": "myshop_category_match",
 		"jp_text": "カテゴリーの設定",
-		"en_text": ""
+		"en_text": "Category Settings"
 	},
 	{
 		"assign": "myshop_category_main",
 		"jp_text": "カテゴリー",
-		"en_text": ""
+		"en_text": "Category"
 	},
 	{
 		"assign": "myshop_category_sub",
 		"jp_text": "サブカテゴリー",
-		"en_text": ""
+		"en_text": "Sub-category"
 	},
 	{
 		"assign": "myshop_attribute",
@@ -4262,7 +4262,7 @@
 	{
 		"assign": "myshop_attribute_value_over",
 		"jp_text": "以上",
-		"en_text": ""
+		"en_text": " or More"
 	},
 	{
 		"assign": "myshop_grind",
@@ -4272,7 +4272,7 @@
 	{
 		"assign": "myshop_grind_over",
 		"jp_text": "以上",
-		"en_text": ""
+		"en_text": " or More"
 	},
 	{
 		"assign": "myshop_ability_num",
@@ -4282,7 +4282,7 @@
 	{
 		"assign": "myshop_ability_num_over",
 		"jp_text": "以上",
-		"en_text": ""
+		"en_text": " or More"
 	},
 	{
 		"assign": "myshop_potential",
@@ -4297,7 +4297,7 @@
 	{
 		"assign": "myshop_rarity_over",
 		"jp_text": "以上",
-		"en_text": ""
+		"en_text": " or More"
 	},
 	{
 		"assign": "myshop_rarity_only",
@@ -4317,7 +4317,7 @@
 	{
 		"assign": "myshop_price_max",
 		"jp_text": "最大価格",
-		"en_text": ""
+		"en_text": "Max Meseta"
 	},
 	{
 		"assign": "myshop_price_max_change",
@@ -4332,132 +4332,132 @@
 	{
 		"assign": "myshop_exhibition_search",
 		"jp_text": "出品順で検索",
-		"en_text": ""
+		"en_text": "Search by Sold"
 	},
 	{
 		"assign": "myshop_price_search",
 		"jp_text": "価格順で検索",
-		"en_text": ""
+		"en_text": "Search by Price"
 	},
 	{
 		"assign": "myshop_notfound",
 		"jp_text": "該当するアイテム名は見つかりませんでした",
-		"en_text": ""
+		"en_text": "Item not found"
 	},
 	{
 		"assign": "myshop_prev",
 		"jp_text": "前へ",
-		"en_text": ""
+		"en_text": "Prev."
 	},
 	{
 		"assign": "myshop_first",
 		"jp_text": "最初",
-		"en_text": ""
+		"en_text": "First"
 	},
 	{
 		"assign": "myshop_next",
 		"jp_text": "次へ",
-		"en_text": ""
+		"en_text": "Next"
 	},
 	{
 		"assign": "myshop_last",
 		"jp_text": "最後",
-		"en_text": ""
+		"en_text": "Last"
 	},
 	{
 		"assign": "myshop_cancel",
 		"jp_text": "キャンセル",
-		"en_text": ""
+		"en_text": "Cancel"
 	},
 	{
 		"assign": "myshop_search_result_title",
 		"jp_text": "商品検索結果",
-		"en_text": ""
+		"en_text": "Search Results"
 	},
 	{
 		"assign": "myshop_keyword_result",
 		"jp_text": "キーワード検索結果",
-		"en_text": ""
+		"en_text": "Keyword Search Results"
 	},
 	{
 		"assign": "myshop_category_result",
 		"jp_text": "カテゴリー選択（詳細検索）",
-		"en_text": ""
+		"en_text": "Category Search Results(Adv. Search)"
 	},
 	{
 		"assign": "myshop_category_result1",
 		"jp_text": "サブカテゴリー選択（詳細検索）",
-		"en_text": ""
+		"en_text": "Sub-cat. Search (Adv. Search)"
 	},
 	{
 		"assign": "myshop_category_result2",
 		"jp_text": "属性選択（詳細検索）",
-		"en_text": ""
+		"en_text": "Attr. Search Result (Adv. Search)"
 	},
 	{
 		"assign": "myshop_category_result3",
 		"jp_text": "簡易検索（カテゴリー選択）",
-		"en_text": ""
+		"en_text": "Simple Search (Category Search)"
 	},
 	{
 		"assign": "myshop_category_result4",
 		"jp_text": "簡易検索（サブカテゴリー選択）",
-		"en_text": ""
+		"en_text": "Simple Search (Sub-cat. Search)"
 	},
 	{
 		"assign": "myshop_purchase_price",
 		"jp_text": "金額",
-		"en_text": ""
+		"en_text": "Amount"
 	},
 	{
 		"assign": "myshop_purchase_num",
 		"jp_text": "購入数",
-		"en_text": ""
+		"en_text": "Qty."
 	},
 	{
 		"assign": "myshop_purchase_total",
 		"jp_text": "合計金額",
-		"en_text": ""
+		"en_text": "Total"
 	},
 	{
 		"assign": "myshop_purchase_decide",
 		"jp_text": "購入する",
-		"en_text": ""
+		"en_text": "Buy"
 	},
 	{
 		"assign": "myshop_purchase_title",
 		"jp_text": "購入確認",
-		"en_text": ""
+		"en_text": "Confirm"
 	},
 	{
 		"assign": "myshop_button_category",
 		"jp_text": "変更",
-		"en_text": ""
+		"en_text": "Change"
 	},
 	{
 		"assign": "myshop_button_subcategory",
 		"jp_text": "変更",
-		"en_text": ""
+		"en_text": "Change"
 	},
 	{
 		"assign": "myshop_button_attribute",
 		"jp_text": "変更",
-		"en_text": ""
+		"en_text": "Atrr."
 	},
 	{
 		"assign": "myshop_button_potential",
 		"jp_text": "切り替え",
-		"en_text": ""
+		"en_text": "Toggle"
 	},
 	{
 		"assign": "myshop_condition_clear",
 		"jp_text": "条件クリア",
-		"en_text": ""
+		"en_text": "Reset"
 	},
 	{
 		"assign": "myshop_ability_condition_set",
 		"jp_text": "検索設定",
-		"en_text": "Ability Search"
+		"en_text": "Abl. Search"
 	},
 	{
 		"assign": "myshop_ability_condition_set_title",
@@ -4472,37 +4472,37 @@
 	{
 		"assign": "myshop_ability_condition_set_label1",
 		"jp_text": "検索1",
-		"en_text": "Affix 1"
+		"en_text": "Slot 1"
 	},
 	{
 		"assign": "myshop_ability_condition_set_label2",
 		"jp_text": "検索2",
-		"en_text": "Affix 2"
+		"en_text": "Slot 2"
 	},
 	{
 		"assign": "myshop_ability_condition_set_label3",
 		"jp_text": "検索3",
-		"en_text": "Affix 3"
+		"en_text": "Slot 3"
 	},
 	{
 		"assign": "myshop_ability_condition_set_label4",
 		"jp_text": "検索4",
-		"en_text": "Affix 4"
+		"en_text": "Slot 4"
 	},
 	{
 		"assign": "myshop_ability_condition_set_none",
 		"jp_text": "指定なし",
-		"en_text": "None Specified"
+		"en_text": "None"
 	},
 	{
 		"assign": "myshop_ability_condition_set_exist",
 		"jp_text": "現在{0}種設定中",
-		"en_text": ""
+		"en_text": "Abl. Added: {0}"
 	},
 	{
 		"assign": "myshop_notfound_element",
 		"jp_text": "該当する特殊能力名は見つかりませんでした",
-		"en_text": ""
+		"en_text": "Abl. not found"
 	},
 	{
 		"assign": "myshop_notfound_product",
@@ -4517,7 +4517,7 @@
 	{
 		"assign": "myshop_display_price",
 		"jp_text": "設定金額",
-		"en_text": ""
+		"en_text": "Set Amount"
 	},
 	{
 		"assign": "myshop_display_num",
@@ -4532,22 +4532,22 @@
 	{
 		"assign": "myshop_display_decide",
 		"jp_text": "出品",
-		"en_text": ""
+		"en_text": "Sell"
 	},
 	{
 		"assign": "myshop_display_title",
 		"jp_text": "出品確認",
-		"en_text": ""
+		"en_text": "Confirm Sale"
 	},
 	{
 		"assign": "myshop_market_button",
 		"jp_text": "相場",
-		"en_text": ""
+		"en_text": "Market"
 	},
 	{
 		"assign": "myshop_market_title",
 		"jp_text": "最新価格相場",
-		"en_text": ""
+		"en_text": "Price Quote"
 	},
 	{
 		"assign": "myshop_withdraw_title",
@@ -4562,7 +4562,7 @@
 	{
 		"assign": "myshop_withdraw_button",
 		"jp_text": "取り下げ",
-		"en_text": ""
+		"en_text": "Withdraw"
 	},
 	{
 		"assign": "myshop_sales_collect_button",
@@ -4592,7 +4592,7 @@
 	{
 		"assign": "myshop_sales_collect_true",
 		"jp_text": "回収済み",
-		"en_text": ""
+		"en_text": "Collected"
 	},
 	{
 		"assign": "myshop_sales_collect_false",
@@ -4612,17 +4612,17 @@
 	{
 		"assign": "myshop_sales_date",
 		"jp_text": "yyyy年MM月dd日",
-		"en_text": "Date: yyyy/MM/dd"
+		"en_text": "yyyy/MM/dd"
 	},
 	{
 		"assign": "myshop_history_title",
 		"jp_text": "検索履歴",
-		"en_text": ""
+		"en_text": "History"
 	},
 	{
 		"assign": "myshop_history_date",
 		"jp_text": "yyyy年　MM月dd日　HH:mm",
-		"en_text": "Date: YYYY/MM/dd  Time: HH:mm"
+		"en_text": "yyyy/MM/dd  h:mm"
 	},
 	{
 		"assign": "myshop_history_slash",
@@ -4632,27 +4632,27 @@
 	{
 		"assign": "myshop_other_setting_exist",
 		"jp_text": "追加指定あり",
-		"en_text": ""
+		"en_text": "Specify Additional"
 	},
 	{
 		"assign": "myshop_other_setting_none",
 		"jp_text": "追加指定なし",
-		"en_text": ""
+		"en_text": "None"
 	},
 	{
 		"assign": "myshop_to_easy",
 		"jp_text": "簡易検索へ",
-		"en_text": ""
+		"en_text": "Smpl. Search"
 	},
 	{
 		"assign": "myshop_to_detail",
 		"jp_text": "詳細検索へ",
-		"en_text": ""
+		"en_text": "Adv. Search"
 	},
 	{
 		"assign": "myshop_easy_select_item",
 		"jp_text": "アイテム選択",
-		"en_text": ""
+		"en_text": "Item Select"
 	},
 	{
 		"assign": "myshop_keyword_over",
@@ -6332,27 +6332,27 @@
 	{
 		"assign": "title_dialog_t_13",
 		"jp_text": "秘密のパスワード",
-		"en_text": ""
+		"en_text": "Device ID"
 	},
 	{
 		"assign": "title_dialog_b_13",
 		"jp_text": "SEGA IDに登録されている連絡先メールアドレスに\n秘密のパスワードを送ります。\nよろしいですか？\n\n<size=22>※メールは「pso2admin@pso2gs.net」から送信されます。\nドメイン拒否設定、迷惑メール設定などにご注意ください。</size>",
-		"en_text": ""
+		"en_text": "This will send the Device ID to your\nthe email registered to your SEGA ID.\n\n<size=22>※Please watch for an email from 「pso2admin@pso2gs.net」\nand clear that email from your spam folder if needed.</size>"
 	},
 	{
 		"assign": "title_dialog_t_14",
 		"jp_text": "秘密のパスワード",
-		"en_text": ""
+		"en_text": "Device ID"
 	},
 	{
 		"assign": "title_dialog_b_14",
 		"jp_text": "登録されている連絡先メールアドレスに\n秘密のパスワードを送りました。\n\n<size=22>※複数回送信すると、毎回、\n秘密のパスワードが更新されます。\n最新の受信メールをご確認ください。</size>",
-		"en_text": ""
+		"en_text": "Email Sent.\n The Contents of the email contain a new generated Device ID.\n\n<size=22>※Every time you recover a new Device ID,/na new one is generated.</size>"
 	},
 	{
 		"assign": "title_send_mail_button",
 		"jp_text": "秘密のパスワードを忘れた場合",
-		"en_text": ""
+		"en_text": "I Forgot my Device ID"
 	},
 	{
 		"assign": "title_login_t",
@@ -6462,7 +6462,7 @@
 	{
 		"assign": "push_02",
 		"jp_text": "【PSO2es】緊急クエストの救援要請通知",
-		"en_text": ""
+		"en_text": "【PSO2es】Emergency Notification"
 	},
 	{
 		"assign": "push_03",
@@ -6482,7 +6482,7 @@
 	{
 		"assign": "push_06",
 		"jp_text": "【PSO2】マイショップアイテム売却通知",
-		"en_text": ""
+		"en_text": "【PSO2】MyShop Sales Notification"
 	},
 	{
 		"assign": "push_botton_on",
@@ -7802,7 +7802,7 @@
 	{
 		"assign": "receive_menu_mainloginbonus",
 		"jp_text": "カジノコインパス",
-		"en_text": ""
+		"en_text": "Casino Coin Pass"
 	},
 	{
 		"assign": "dict_seraphy_pickup",
@@ -8407,7 +8407,7 @@
 	{
 		"assign": "loginbonus_first_message",
 		"jp_text": "<color=#000000>よう、今日も元気そうだな！</color>",
-		"en_text": ""
+		"en_text": "<color=#000000>It will be great!</color>"
 	},
 	{
 		"assign": "loginbonus_selafy_next",
@@ -8417,12 +8417,12 @@
 	{
 		"assign": "loginbonus_selafy_complete",
 		"jp_text": "<color=#000000>やったな、おめでとう！</color>",
-		"en_text": "<color=#000000>おめでとうございます！</color>"
+		"en_text": "<color=#000000>Whatever you did, congrats!</color>"
 	},
 	{
 		"assign": "loginbonus_premium_warning",
 		"jp_text": "※ボーナス獲得時にプレミアム期間内であった場合適用されます。",
-		"en_text": "※プレミアム期限が切れた場合は上記の限りではありません。"
+		"en_text": "※ボーナス獲得時にプレミアム期間内であった場合適用されます。"
 	},
 	{
 		"assign": "lobby_support_title",
@@ -8432,7 +8432,7 @@
 	{
 		"assign": "lobby_support_body",
 		"jp_text": "「{0}」さんなどの\nクエストに同行した報酬が届いています。\n\n同行回数　<color=#f0df60>{1}回</color>\n<color=#f0df60>{2}FUN</color>を獲得しました！\n\n<size=19>※前回のログインから現時点までの獲得合計を表示しています。</size>",
-		"en_text": "「{0}」さんなどの\nクエストに同行した報酬が届いています。\n\n同行回数　<color=#f0df60>{1}回</color>\n<color=#f0df60>{2}FUN</color>を獲得しました！\n\n※前回のログインから現時点までの\n　 獲得合計を表示しています。"
+		"en_text": "「{0}」さんなどの\nクエストに同行した報酬が届いています。\n\n同行回数　<color=#f0df60>{1}回</color>\n<color=#f0df60>{2}FUN</color>を獲得しました！\n\n<size=19>※前回のログインから現時点までの獲得合計を表示しています。</size>"
 	},
 	{
 		"assign": "lobby_charainfo_lv",
@@ -8597,7 +8597,7 @@
 	{
 		"assign": "menu_sale_button",
 		"jp_text": "売却",
-		"en_text": ""
+		"en_text": "Sell"
 	},
 	{
 		"assign": "lobby_action_gauge",
@@ -8697,7 +8697,7 @@
 	{
 		"assign": "menu_pso2_receive",
 		"jp_text": "受け取りカウンター",
-		"en_text": ""
+		"en_text": "Receieve Counter"
 	},
 	{
 		"assign": "menu_pso2_dialog_mag_t",
@@ -9152,7 +9152,7 @@
 	{
 		"assign": "get_attach_item_all",
 		"jp_text": "一括受取",
-		"en_text": ""
+		"en_text": "Bulk Receive"
 	},
 	{
 		"assign": "friend_request",
@@ -13097,7 +13097,7 @@
 	{
 		"assign": "ItemDetail_Parameter_TitleCaption",
 		"jp_text": "<color=white>パラメータ</color>",
-		"en_text": ""
+		"en_text": "<color=white>Stats</color>"
 	},
 	{
 		"assign": "ItemDetail_Parameter_AtkDefUp",
@@ -13127,42 +13127,42 @@
 	{
 		"assign": "ItemDetail_Parameter_AttrFire",
 		"jp_text": "炎属性       /",
-		"en_text": ""
+		"en_text": "Fire         /"
 	},
 	{
 		"assign": "ItemDetail_Parameter_AttrIce",
 		"jp_text": "氷属性       /",
-		"en_text": ""
+		"en_text": "Ice\t\t\t /"
 	},
 	{
 		"assign": "ItemDetail_Parameter_AttrThunder",
 		"jp_text": "雷属性       /",
-		"en_text": ""
+		"en_text": "Lightning\t /"
 	},
 	{
 		"assign": "ItemDetail_Parameter_AttrWind",
 		"jp_text": "風属性       /",
-		"en_text": ""
+		"en_text": "Wind\t\t /"
 	},
 	{
 		"assign": "ItemDetail_Parameter_AttrLight",
 		"jp_text": "光属性       /",
-		"en_text": ""
+		"en_text": "Light\t\t /"
 	},
 	{
 		"assign": "ItemDetail_Parameter_AttrDark",
 		"jp_text": "闇属性       /",
-		"en_text": ""
+		"en_text": "Dark \t\t /"
 	},
 	{
 		"assign": "ItemDetail_Parameter_StrengthenCaption",
 		"jp_text": "強化値       /",
-		"en_text": ""
+		"en_text": "Grind\t\t /"
 	},
 	{
 		"assign": "ItemDetail_Parameter_ExtendCaption",
 		"jp_text": "エクステンド /",
-		"en_text": ""
+		"en_text": "Extend   /"
 	},
 	{
 		"assign": "ItemDetail_Parameter_Up",
@@ -13182,17 +13182,17 @@
 	{
 		"assign": "ItemDetail_EquipCondition_TitleCaption",
 		"jp_text": "<color=white>適性クラス</color>",
-		"en_text": "<color=white>装備条件</color>"
+		"en_text": "<color=white>Class Mastery</color>"
 	},
 	{
 		"assign": "ItemDetail_EquipCondition_JobCaption",
 		"jp_text": "<color=white>クラス /</color>",
-		"en_text": ""
+		"en_text": "<color=white>Class/</color>"
 	},
 	{
 		"assign": "ItemDetail_EquipCondition_AllClass",
 		"jp_text": "<color=white>全クラス</color>",
-		"en_text": ""
+		"en_text": "<color=white>All Class</color>"
 	},
 	{
 		"assign": "ItemDetail_EquipCondition_ClassName",
@@ -13202,22 +13202,22 @@
 	{
 		"assign": "ItemDetail_EquipSkill_TitleCaption",
 		"jp_text": "<color=white>習熟度</color>",
-		"en_text": ""
+		"en_text": "<color=white>Proficiency</color>"
 	},
 	{
 		"assign": "ItemDetail_EquipSkill_Insufficiency",
 		"jp_text": "<color=white><%parameter1>%　　(クラスレベル<%parameter2>で最大効果発揮)</color>",
-		"en_text": "<color=cyan>あと <%parameter1> レベル (<%parameter2>%)</color>"
+		"en_text": "<color=white><%parameter1>%　　(Class Lv.<%parameter2>で最大効果発揮)</color>"
 	},
 	{
 		"assign": "ItemDetail_EquipSkill_Sufficiently",
 		"jp_text": "<color=yellow>100%</color>　　<color=white>(最大効果発揮)</color>",
-		"en_text": "<color=white>習熟済み (100%)</color>"
+		"en_text": "<color=yellow>100%</color>　　<color=white>(Mastery)</color>"
 	},
 	{
 		"assign": "ItemDetail_AttrTolerant_TitleCaption",
 		"jp_text": "<color=white>属性耐性</color>",
-		"en_text": ""
+		"en_text": "<color=white>Attr. Resist</color>"
 	},
 	{
 		"assign": "ItemDetail_AttrTolerant_PercentFire",
@@ -13252,37 +13252,37 @@
 	{
 		"assign": "ItemDetail_Correction_Attack",
 		"jp_text": "<color=white>打撃力 (+<%parameter>)</color>",
-		"en_text": ""
+		"en_text": "<color=white>S-ATK (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Shooting",
 		"jp_text": "<color=white>射撃力 (+<%parameter>)</color>",
-		"en_text": ""
+		"en_text": "<color=white>R-ATK (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Sorcery",
 		"jp_text": "<color=white>法撃力 (+<%parameter>)</color>",
-		"en_text": ""
+		"en_text": "<color=white>T-ATK (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Skill",
 		"jp_text": "<color=white>技量 (+<%parameter>)</color>",
-		"en_text": ""
+		"en_text": "<color=white>DEX (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_AttackDefence",
 		"jp_text": "<color=white>打撃防御 (+<%parameter>)</color>",
-		"en_text": ""
+		"en_text": "<color=white>S-DEF (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_ShootingDefence",
 		"jp_text": "<color=white>射撃防御 (+<%parameter>)</color>",
-		"en_text": ""
+		"en_text": "<color=white>R-DEF (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_SorceryDefence",
 		"jp_text": "<color=white>法撃防御 (+<%parameter>)</color>",
-		"en_text": ""
+		"en_text": "<color=white>T-DEF (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_HP",
@@ -13312,32 +13312,32 @@
 	{
 		"assign": "ItemDetail_Correction_Fire",
 		"jp_text": "<color=white>炎耐性 (+<%parameter>)</color>",
-		"en_text": ""
+		"en_text": "<color=white>Fire (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Ice",
 		"jp_text": "<color=white>氷耐性 (+<%parameter>)</color>",
-		"en_text": ""
+		"en_text": "<color=white>Ice (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Thunder",
 		"jp_text": "<color=white>雷耐性 (+<%parameter>)</color>",
-		"en_text": ""
+		"en_text": "<color=white>Lightning (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Wind",
 		"jp_text": "<color=white>風耐性 (+<%parameter>)</color>",
-		"en_text": ""
+		"en_text": "<color=white>Wind (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Light",
 		"jp_text": "<color=white>光耐性 (+<%parameter>)</color>",
-		"en_text": ""
+		"en_text": "<color=white>Light (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Dark",
 		"jp_text": "<color=white>闇耐性 (+<%parameter>)</color>",
-		"en_text": ""
+		"en_text": "<color=white>Dark (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Ability_Name",
@@ -13357,42 +13357,42 @@
 	{
 		"assign": "ItemDetail_Costume_Race",
 		"jp_text": "<color=white>種族 / </color>",
-		"en_text": ""
+		"en_text": "<color=white>Race / </color>"
 	},
 	{
 		"assign": "ItemDetail_Costume_RaceAll",
 		"jp_text": "<color=white>全種族</color>",
-		"en_text": ""
+		"en_text": "<color=white>All Races</color>"
 	},
 	{
 		"assign": "ItemDetail_Costume_RaceCastExcept",
 		"jp_text": "<color=white>キャスト以外</color>",
-		"en_text": ""
+		"en_text": "<color=white>Non-CAST</color>"
 	},
 	{
 		"assign": "ItemDetail_Costume_RaceCast",
 		"jp_text": "<color=white>キャスト</color>",
-		"en_text": ""
+		"en_text": "<color=white>CAST</color>"
 	},
 	{
 		"assign": "ItemDetail_Costume_Gender",
 		"jp_text": "<color=white>性別 / </color>",
-		"en_text": ""
+		"en_text": "<color=white>Sex  / </color>"
 	},
 	{
 		"assign": "ItemDetail_Costume_GenderAll",
 		"jp_text": "<color=white>すべて</color>",
-		"en_text": ""
+		"en_text": "<color=white>All Sexes</color>"
 	},
 	{
 		"assign": "ItemDetail_Costume_GenderMale",
 		"jp_text": "<color=white>男性</color>",
-		"en_text": ""
+		"en_text": "<color=white>Male</color>"
 	},
 	{
 		"assign": "ItemDetail_Costume_GenderFemale",
 		"jp_text": "<color=white>女性</color>",
-		"en_text": ""
+		"en_text": "<color=white>Female</color>"
 	},
 	{
 		"assign": "ItemDetail_Camouflage_Category",
@@ -13482,12 +13482,12 @@
 	{
 		"assign": "ItemDetail_Ability_TitleCaption",
 		"jp_text": "<color=white>特殊能力・潜在能力 (PSO2のみで発揮)</color>",
-		"en_text": ""
+		"en_text": "<color=white>Abilities and Potentials (PSO2 Only)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_TitleCaption",
 		"jp_text": "<color=white>パラメータ補正 (PSO2のみで発揮)</color>",
-		"en_text": ""
+		"en_text": "<color=white>Stats (PSO2 Only)</color>"
 	},
 	{
 		"assign": "ItemDetail_dialog_t_00",
@@ -13877,7 +13877,7 @@
 	{
 		"assign": "menu_invite_tab_input_submit",
 		"jp_text": "コードを認証",
-		"en_text": "Authentication Code"
+		"en_text": ""
 	},
 	{
 		"assign": "menu_invite_tab_reward_title",
@@ -13892,7 +13892,7 @@
 	{
 		"assign": "menu_invite_tab_reward_check",
 		"jp_text": "報酬一覧",
-		"en_text": "Reward List"
+		"en_text": ""
 	},
 	{
 		"assign": "menu_invite_tab_reward_receive_all",
@@ -13957,7 +13957,7 @@
 	{
 		"assign": "invite_dialog_t_04",
 		"jp_text": "エラー",
-		"en_text": "Error"
+		"en_text": ""
 	},
 	{
 		"assign": "invite_dialog_b_04",
@@ -13982,32 +13982,32 @@
 	{
 		"assign": "tutorial_skip_dialog_t_00",
 		"jp_text": "チュートリアル",
-		"en_text": "Tutorial"
+		"en_text": ""
 	},
 	{
 		"assign": "tutorial_skip_dialog_b_00",
 		"jp_text": "チップ装備のチュートリアルを確認しますか？",
-		"en_text": "Would you like a tutorial on Equipping Chips?"
+		"en_text": ""
 	},
 	{
 		"assign": "tutorial_skip_dialog_t_01",
 		"jp_text": "チュートリアル",
-		"en_text": "Tutorial"
+		"en_text": ""
 	},
 	{
 		"assign": "tutorial_skip_dialog_b_01",
 		"jp_text": "チップ強化のチュートリアルを確認しますか？",
-		"en_text": "Would you like a tutorial on Chip Enhancement?"
+		"en_text": ""
 	},
 	{
 		"assign": "tutorial_skip_dialog_btn_00",
 		"jp_text": "確認する",
-		"en_text": "Confirm"
+		"en_text": ""
 	},
 	{
 		"assign": "tutorial_skip_dialog_btn_01",
 		"jp_text": "スキップ",
-		"en_text": "Skip"
+		"en_text": ""
 	},
 	{
 		"assign": "tutorial_battle_ntu_00_00",
@@ -14217,7 +14217,7 @@
 	{
 		"assign": "arksexpeditioncounter_guide_00",
 		"jp_text": "<color=#f0df60>選択したクエストを即時に探索することができます。アカウントごとに毎日初回のみ無料で、以降は有料で5回まで利用できます。</color>",
-		"en_text": "<color=#f0df60>You can explore the selected quest. First time is free, however, up to a max of 5 times for a fee.</color>"
+		"en_text": ""
 	},
 	{
 		"assign": "quest_counter_header_arks_expedition",
@@ -14242,7 +14242,7 @@
 	{
 		"assign": "dialog_body_arksexpedition_use_ac",
 		"jp_text": "{0}<%AC>で{1}回クイック探索を行います。\nよろしいですか？\n所持<%AC>：<%current_AC>",
-		"en_text": "{0}<%AC>{1}We'll perform a Quick Search.\nIs that ok?\nOwned<%AC>：<%current_AC>"
+		"en_text": "{0}<%AC>で{1}We'll perform a Quick Search.\nIs that ok?\nOwned<%AC>：<%current_AC>"
 	},
 	{
 		"assign": "dialog_title_arksexpedition_use_free",
@@ -14252,7 +14252,7 @@
 	{
 		"assign": "dialog_body_arksexpedition_use_free",
 		"jp_text": "クイック探索を行います。\nよろしいですか？\n\n※クイック探索は毎日初回のみ無料で利用できます。\n2回目以降の利用には<%AC>が必要です。",
-		"en_text": "You can perform a Quick Search.\n\n※Quick Search can be used for free once per day.\nSubsequent uses after will require <%AC>."
+		"en_text": "You can perform a Quick Search.\n\n※Quick Search can only be used for free once per day.\n2Subsequent uses after the free search will require <%AC>."
 	},
 	{
 		"assign": "arks_exp_reward_button_close",
@@ -14297,12 +14297,12 @@
 	{
 		"assign": "wh_31_02",
 		"jp_text": "＜利用回数について＞\n１日１回まで無料で利用可能です。\n２回目以降のクイック探索は「<%AC>」が必要になります。",
-		"en_text": "＜利用回数について＞\nIt's free of charge once per day.\nSubsequent uses after will require <%AC>."
+		"en_text": ""
 	},
 	{
 		"assign": "wh_31_03",
 		"jp_text": "＜ボーナスについて＞\n連続してクイック探索を利用すると、レアドロップ率や\n獲得アイテム数にボーナスがつきます。",
-		"en_text": "＜ボーナスについて＞\nWhen you use quick search continuously,\nrare drop and item yield increases."
+		"en_text": ""
 	},
 	{
 		"assign": "storyevent_skip_dialog_t",
