@@ -442,7 +442,7 @@
 	{
 		"assign": "acshop_dialog_b_29",
 		"jp_text": "最大所持数を超えてしまうため、\n購入できません。",
-		"en_text": ""
+		"en_text": "You cannot exceed the\nmaximum limit owned."
 	},
 	{
 		"assign": "acshop_dialog_t_30",
@@ -452,7 +452,7 @@
 	{
 		"assign": "acshop_dialog_b_30",
 		"jp_text": "<%item_name>を購入しました。",
-		"en_text": ""
+		"en_text": "You bought <%item_name>."
 	},
 	{
 		"assign": "acshop_dialog_t_31",
@@ -557,17 +557,17 @@
 	{
 		"assign": "acshop_use_count",
 		"jp_text": "使用数",
-		"en_text": ""
+		"en_text": "Used"
 	},
 	{
 		"assign": "acshop_oprecovery_use_btn",
 		"jp_text": "OP回復薬使用",
-		"en_text": ""
+		"en_text": "Use OP Recovery meds"
 	},
 	{
 		"assign": "acshop_oprecovery_mini_use_btn",
 		"jp_text": "OP回復薬ミニ使用",
-		"en_text": ""
+		"en_text": "Use OP Mini Recovery meds"
 	},
 	{
 		"assign": "acshop_oprecovery_back_btn",
@@ -617,7 +617,7 @@
 	{
 		"assign": "acshop_oprecovery_pass_buff_01",
 		"jp_text": "・<color=#ff0000>攻撃力</color>が<%rate>倍にアップ！\n(<%finish_datetime>まで)",
-		"en_text": "<color=#ff0000>ATK Power</color> is increased by <%rate>!\n(Until <%finish_datetime>)"
+		"en_text": "・<color=#ff0000>ATK Power</color> is increased by <%rate>!\n(Until <%finish_datetime>)"
 	},
 	{
 		"assign": "acshop_oprecovery_pass_buff_02",
@@ -637,7 +637,7 @@
 	{
 		"assign": "acshop_oprecovery_pass_buff_05",
 		"jp_text": "・フレンドの同行可能待機時間がリセットされました。",
-		"en_text": ""
+		"en_text": "・Friend Partner time reset."
 	},
 	{
 		"assign": "acshop_oprecovery_pass_buff_update_01",
@@ -1106,23 +1106,23 @@
 	},
 	{
 		"assign": "charamake_select_sex_01",
-		"jp_text": "male",
-		"en_text": ""
+		"jp_text": "男性",
+		"en_text": "Male"
 	},
 	{
 		"assign": "charamake_select_sex_02",
-		"jp_text": "female",
-		"en_text": ""
+		"jp_text": "女性",
+		"en_text": "Female"
 	},
 	{
 		"assign": "charamake_btn_back",
 		"jp_text": "戻る",
-		"en_text": ""
+		"en_text": "Back"
 	},
 	{
 		"assign": "charamake_title",
 		"jp_text": "キャラクタークリエイト",
-		"en_text": ""
+		"en_text": "Create a Character"
 	},
 	{
 		"assign": "charamake_name_explanation",
@@ -1137,7 +1137,7 @@
 	{
 		"assign": "chmake_gender_window",
 		"jp_text": "性別選択",
-		"en_text": "Sex Selection"
+		"en_text": "Gender Selection"
 	},
 	{
 		"assign": "chmake_race_window",
@@ -1222,7 +1222,7 @@
 	{
 		"assign": "chmake_hair_menu_color_btn",
 		"jp_text": "ヘアカラー設定",
-		"en_text": "Haircolor"
+		"en_text": "Hair Color"
 	},
 	{
 		"assign": "chmake_hair_style_window",
@@ -1232,7 +1232,7 @@
 	{
 		"assign": "chmake_hair_color_window",
 		"jp_text": "ヘアカラー設定",
-		"en_text": "Haircolor"
+		"en_text": "Hair Color"
 	},
 	{
 		"assign": "chmake_hair_picker_zoomin_btn",
@@ -1332,17 +1332,17 @@
 	{
 		"assign": "chmake_cast_detail_menu_parts_btn",
 		"jp_text": "パーツを選択する",
-		"en_text": ""
+		"en_text": "Part Select"
 	},
 	{
 		"assign": "chmake_cast_detail_menu_color_btn",
 		"jp_text": "カラーを選択する",
-		"en_text": ""
+		"en_text": "Select Color"
 	},
 	{
 		"assign": "chmake_cast_detail_menu_accesssory_btn",
 		"jp_text": "アクセサリーを選択する",
-		"en_text": ""
+		"en_text": "Choose Accessories"
 	},
 	{
 		"assign": "chmake_cast_headparts_menu_window",
@@ -1417,7 +1417,7 @@
 	{
 		"assign": "chmake_cast_color_menu_window",
 		"jp_text": "カラーを選択する",
-		"en_text": ""
+		"en_text": "Color Select"
 	},
 	{
 		"assign": "chmake_cast_color_menu_main_btn",
@@ -1482,7 +1482,7 @@
 	{
 		"assign": "classcounter_dialog_b_01",
 		"jp_text": "クラス変更によって\n装備条件の合わなくなった\n武器を解除しました。",
-		"en_text": ""
+		"en_text": "You no longer meet\nthe required\nequipment conditions."
 	},
 	{
 		"assign": "classcounter_dialog_b_02",
@@ -1767,7 +1767,7 @@
 	{
 		"assign": "friend_dialog_b_06",
 		"jp_text": "指定の条件では見つかりませんでした。",
-		"en_text": ""
+		"en_text": "No Matches Found"
 	},
 	{
 		"assign": "friend_dialog_t_07",
@@ -2052,7 +2052,7 @@
 	{
 		"assign": "item_grind_max",
 		"jp_text": "最大",
-		"en_text": ""
+		"en_text": "Maxmium"
 	},
 	{
 		"assign": "item_grind_success_rate_01",
@@ -2122,7 +2122,7 @@
 	{
 		"assign": "labo_dialog_b_09",
 		"jp_text": "メセタが不足しているため\n強化することができません。",
-		"en_text": ""
+		"en_text": "You require more\nmeseta."
 	},
 	{
 		"assign": "labo_dialog_t_09_grinder",
@@ -2132,7 +2132,7 @@
 	{
 		"assign": "labo_dialog_b_09_grinder",
 		"jp_text": "グラインダーが不足しているため\n強化することができません。",
-		"en_text": ""
+		"en_text": "Not enough grinders."
 	},
 	{
 		"assign": "labo_dialog_t_09_favorite",
@@ -2147,12 +2147,12 @@
 	{
 		"assign": "labo_dialog_t_09_rarity",
 		"jp_text": "武器／ユニット強化",
-		"en_text": ""
+		"en_text": "Grind items"
 	},
 	{
 		"assign": "labo_dialog_b_09_rarity",
 		"jp_text": "『PSO2es』では、☆13のアイテムは\n強化できません。",
-		"en_text": ""
+		"en_text": "☆13 weapons cannot be grinded in PSO2es."
 	},
 	{
 		"assign": "labo_dialog_t_10",
@@ -2352,7 +2352,7 @@
 	{
 		"assign": "menu_dialog_t_01",
 		"jp_text": "キャラクター連動",
-		"en_text": ""
+		"en_text": "Character Linked"
 	},
 	{
 		"assign": "menu_dialog_b_01",
@@ -2377,7 +2377,7 @@
 	{
 		"assign": "menu_dialog_b_03",
 		"jp_text": "SEGA IDとパスワードを入力して下さい。",
-		"en_text": ""
+		"en_text": "Please enter your SEGA ID password."
 	},
 	{
 		"assign": "menu_dialog_t_04",
@@ -2392,17 +2392,17 @@
 	{
 		"assign": "menu_dialog_t_11",
 		"jp_text": "入力エラー",
-		"en_text": ""
+		"en_text": "Input Error"
 	},
 	{
 		"assign": "menu_dialog_b_11",
 		"jp_text": "入力されたSEGA IDは\n他の端末で使われています。",
-		"en_text": ""
+		"en_text": "Your SEGA ID has been\nused on another device."
 	},
 	{
 		"assign": "menu_dialog_t_05",
 		"jp_text": "連動開始確認",
-		"en_text": ""
+		"en_text": "Character linking start"
 	},
 	{
 		"assign": "menu_dialog_b_05",
@@ -2412,7 +2412,7 @@
 	{
 		"assign": "menu_dialog_t_06",
 		"jp_text": "連動完了",
-		"en_text": ""
+		"en_text": "Character Linked"
 	},
 	{
 		"assign": "menu_dialog_b_06",
@@ -2422,7 +2422,7 @@
 	{
 		"assign": "menu_dialog_t_07",
 		"jp_text": "連動完了",
-		"en_text": ""
+		"en_text": "Character Linked"
 	},
 	{
 		"assign": "menu_dialog_b_07",
@@ -2432,7 +2432,7 @@
 	{
 		"assign": "menu_dialog_t_22",
 		"jp_text": "確認",
-		"en_text": ""
+		"en_text": "Confirm"
 	},
 	{
 		"assign": "menu_dialog_b_22",
@@ -2512,12 +2512,12 @@
 	{
 		"assign": "menu_dialog_t_23",
 		"jp_text": "タイトルへ戻る",
-		"en_text": ""
+		"en_text": "Back to title"
 	},
 	{
 		"assign": "menu_dialog_b_23",
 		"jp_text": "タイトル画面、またはシップ選択画面に戻りますか？",
-		"en_text": ""
+		"en_text": "Do you wish to return to\nthe title or ship\nselection screen?"
 	},
 	{
 		"assign": "menu_dialog_t_13",
@@ -2547,12 +2547,12 @@
 	{
 		"assign": "menu_dialog_n_14",
 		"jp_text": "PSO2es専用ブラウザを起動",
-		"en_text": ""
+		"en_text": "Launch PSO2es dedicated browser"
 	},
 	{
 		"assign": "menu_dialog_t_15",
 		"jp_text": "確認",
-		"en_text": "Confirmation"
+		"en_text": "Confirm"
 	},
 	{
 		"assign": "menu_dialog_b_15",
@@ -4187,7 +4187,7 @@
 	{
 		"assign": "myshop_purchase_confirm",
 		"jp_text": "売り上げ確認",
-		"en_text": "Purchase Confirm"
+		"en_text": "Sales History"
 	},
 	{
 		"assign": "myshop_withdraw",
@@ -4297,12 +4297,12 @@
 	{
 		"assign": "myshop_rarity_over",
 		"jp_text": "以上",
-		"en_text": " or More"
+		"en_text": " or Higher"
 	},
 	{
 		"assign": "myshop_rarity_only",
 		"jp_text": "のみ",
-		"en_text": "Only"
+		"en_text": " Only"
 	},
 	{
 		"assign": "myshop_price_match",
@@ -5607,7 +5607,7 @@
 	{
 		"assign": "scratch_button_rappy11",
 		"jp_text": "まとめて引く\n{0}枚 11回",
-		"en_text": ""
+		"en_text": "Scratch 11 times: {0}"
 	},
 	{
 		"assign": "quest_load",
@@ -5707,7 +5707,7 @@
 	{
 		"assign": "quest_line_04",
 		"jp_text": "最大行動力がアップしました　<%before_drive>　→　<%after_drive>",
-		"en_text": "Maximum Drive increased:　<%before_drive>　→　<%after_drive>\nMaximum Chip Limit increased:　<%before_cost>　→　<%after_cost>"
+		"en_text": "Max Drive increased　<%before_drive>　→　<%after_drive>"
 	},
 	{
 		"assign": "quest_npc_t_00",
@@ -5722,7 +5722,7 @@
 	{
 		"assign": "quest_npc_t_01",
 		"jp_text": "コフィー",
-		"en_text": ""
+		"en_text": "Coffey"
 	},
 	{
 		"assign": "quest_npc_b_01",
@@ -5822,17 +5822,17 @@
 	{
 		"assign": "field_meseta",
 		"jp_text": "メセタ",
-		"en_text": ""
+		"en_text": "Meseta "
 	},
 	{
 		"assign": "field_item",
 		"jp_text": "アイテム",
-		"en_text": ""
+		"en_text": "Item "
 	},
 	{
 		"assign": "field_score",
 		"jp_text": "スコア",
-		"en_text": ""
+		"en_text": "Score "
 	},
 	{
 		"assign": "fieldoption_category_windowtitle",
@@ -5872,7 +5872,7 @@
 	{
 		"assign": "fieldoption_soundsetting_close",
 		"jp_text": "閉じる",
-		"en_text": ""
+		"en_text": "Close"
 	},
 	{
 		"assign": "fieldoption_autosetting_windowtitle",
@@ -6022,12 +6022,12 @@
 	{
 		"assign": "questresult_result_limit_s_a",
 		"jp_text": "あと<%hh>時間<%mm>分以内に討伐で<%rank>ランク",
-		"en_text": "あと <%hh>:<%mm>:<%ss> 以内にクリアで<%rank>ランク"
+		"en_text": "あと<%hh>時間<%mm>分以内に討伐で<%rank>ランク"
 	},
 	{
 		"assign": "questresult_result_limit_b",
 		"jp_text": "発生期間中に討伐で<%rank>ランク",
-		"en_text": "期間内クリアで<%rank>ランク"
+		"en_text": "発生期間中に討伐で<%rank>ランク"
 	},
 	{
 		"assign": "questresult_item_title",
@@ -6552,7 +6552,7 @@
 	{
 		"assign": "title_chara_select_class_t",
 		"jp_text": "クラス確認",
-		"en_text": ""
+		"en_text": "Class Select"
 	},
 	{
 		"assign": "title_chara_select_class_b",
@@ -6562,7 +6562,7 @@
 	{
 		"assign": "title_not_inheriting_t",
 		"jp_text": "端末引き継ぎ",
-		"en_text": ""
+		"en_text": "Device Transfer"
 	},
 	{
 		"assign": "title_not_inheriting_b",
@@ -6682,37 +6682,37 @@
 	{
 		"assign": "player_abnormal_burn_01",
 		"jp_text": "バーン",
-		"en_text": ""
+		"en_text": "Burn"
 	},
 	{
 		"assign": "player_abnormal_freeze_01",
 		"jp_text": "フリーズ",
-		"en_text": ""
+		"en_text": "Freeze"
 	},
 	{
 		"assign": "player_abnormal_shock_01",
 		"jp_text": "ショック",
-		"en_text": ""
+		"en_text": "Shock"
 	},
 	{
 		"assign": "player_abnormal_mirage_01",
 		"jp_text": "ミラージュ",
-		"en_text": ""
+		"en_text": "Mirage"
 	},
 	{
 		"assign": "player_abnormal_poison_01",
 		"jp_text": "ポイズン",
-		"en_text": ""
+		"en_text": "Poison"
 	},
 	{
 		"assign": "player_abnormal_panic_01",
 		"jp_text": "パニック",
-		"en_text": ""
+		"en_text": "Panic"
 	},
 	{
 		"assign": "player_abnormal_stan_01",
 		"jp_text": "スタン",
-		"en_text": ""
+		"en_text": "Stun"
 	},
 	{
 		"assign": "human",
@@ -6777,7 +6777,7 @@
 	{
 		"assign": "bouncer",
 		"jp_text": "バウンサー",
-		"en_text": ""
+		"en_text": "Bouncer"
 	},
 	{
 		"assign": "braver",
@@ -7177,62 +7177,62 @@
 	{
 		"assign": "chip_type_name_1",
 		"jp_text": "キャラクター",
-		"en_text": ""
+		"en_text": "Character"
 	},
 	{
 		"assign": "chip_type_name_2",
 		"jp_text": "ダーカー",
-		"en_text": ""
+		"en_text": "Darker"
 	},
 	{
 		"assign": "chip_type_name_3",
 		"jp_text": "原生種",
-		"en_text": ""
+		"en_text": "Natives"
 	},
 	{
 		"assign": "chip_type_name_4",
 		"jp_text": "龍族",
-		"en_text": ""
+		"en_text": "Dragonkin"
 	},
 	{
 		"assign": "chip_type_name_5",
 		"jp_text": "機甲種",
-		"en_text": ""
+		"en_text": "Machines"
 	},
 	{
 		"assign": "chip_type_name_6",
 		"jp_text": "海王種",
-		"en_text": ""
+		"en_text": "Oceanids"
 	},
 	{
 		"assign": "chip_type_name_7",
 		"jp_text": "エクストラ",
-		"en_text": ""
+		"en_text": "Extra"
 	},
 	{
 		"assign": "chip_type_name_8",
 		"jp_text": "アイテム",
-		"en_text": ""
+		"en_text": "Item"
 	},
 	{
 		"assign": "chip_type_name_9",
 		"jp_text": "超時空エネミー",
-		"en_text": ""
+		"en_text": "Dimensional Enemy"
 	},
 	{
 		"assign": "chip_type_name_10",
 		"jp_text": "アビリティLvアップ用素材",
-		"en_text": ""
+		"en_text": "Ability Lv. Up material"
 	},
 	{
 		"assign": "chip_type_name_11",
 		"jp_text": "解放用素材",
-		"en_text": ""
+		"en_text": "Material Release"
 	},
 	{
 		"assign": "chip_type_name_12",
 		"jp_text": "ヒストリー",
-		"en_text": ""
+		"en_text": "History"
 	},
 	{
 		"assign": "chip_rate_very_low",
@@ -7362,27 +7362,27 @@
 	{
 		"assign": "window_sort_rarity",
 		"jp_text": "レアリティ",
-		"en_text": ""
+		"en_text": "Rarity"
 	},
 	{
 		"assign": "window_sort_chipId",
 		"jp_text": "カテゴリ順",
-		"en_text": "チップNo"
+		"en_text": "Chip No."
 	},
 	{
 		"assign": "window_sort_level",
 		"jp_text": "レベル",
-		"en_text": ""
+		"en_text": "Level"
 	},
 	{
 		"assign": "window_sort_cost",
 		"jp_text": "コスト",
-		"en_text": ""
+		"en_text": "CP cost"
 	},
 	{
 		"assign": "window_sort_price",
 		"jp_text": "価格",
-		"en_text": ""
+		"en_text": "Price"
 	},
 	{
 		"assign": "ui_meseta_cost",
@@ -7422,7 +7422,7 @@
 	{
 		"assign": "ui_chip_recommend_ability",
 		"jp_text": "アビリティ強化",
-		"en_text": ""
+		"en_text": "Ability Upgrade"
 	},
 	{
 		"assign": "ui_chip_reinforce_info",
@@ -7477,7 +7477,7 @@
 	{
 		"assign": "illustrator_label",
 		"jp_text": "illustrated by　",
-		"en_text": ""
+		"en_text": "Illustrated by "
 	},
 	{
 		"assign": "guard_equip",
@@ -7547,17 +7547,17 @@
 	{
 		"assign": "chip_sale_header",
 		"jp_text": "チップ売却",
-		"en_text": ""
+		"en_text": "Sell Chip"
 	},
 	{
 		"assign": "item_sale_header",
 		"jp_text": "アイテム売却",
-		"en_text": ""
+		"en_text": "Sell Items"
 	},
 	{
 		"assign": "barmoney_ac",
 		"jp_text": "<%AC>",
-		"en_text": "AC"
+		"en_text": "<%AC>"
 	},
 	{
 		"assign": "barmoney_rappycoin",
@@ -7592,7 +7592,7 @@
 	{
 		"assign": "item_sale_menu",
 		"jp_text": "売却／リサイクルメニュー",
-		"en_text": "Select Items"
+		"en_text": "Sell/Recycle"
 	},
 	{
 		"assign": "item_sale_recycle",
@@ -7717,7 +7717,7 @@
 	{
 		"assign": "recycle_rare_enemy_chip",
 		"jp_text": "対象のレアエネミーチップ",
-		"en_text": ""
+		"en_text": "Recycle Rare Enemy Chips"
 	},
 	{
 		"assign": "recycle_raid_chip_category",
@@ -8252,12 +8252,12 @@
 	{
 		"assign": "jetboots",
 		"jp_text": "ジェットブーツ",
-		"en_text": ""
+		"en_text": "Jetboots"
 	},
 	{
 		"assign": "dualblade",
 		"jp_text": "デュアルブレード",
-		"en_text": ""
+		"en_text": "Dual Blades"
 	},
 	{
 		"assign": "wa_sword",
@@ -8337,12 +8337,12 @@
 	{
 		"assign": "wa_jetboots",
 		"jp_text": "魔装脚",
-		"en_text": ""
+		"en_text": "Jetboots"
 	},
 	{
 		"assign": "wa_dualblade",
 		"jp_text": "飛翔剣",
-		"en_text": ""
+		"en_text": "Dual Blades"
 	},
 	{
 		"assign": "loginbonus_fun",
@@ -8367,17 +8367,17 @@
 	{
 		"assign": "loginbonus_begin",
 		"jp_text": "■<%day>日目のログインボーナス",
-		"en_text": "<%day>日目のログインボーナス"
+		"en_text": "<%day> Daily Bonus Start"
 	},
 	{
 		"assign": "loginbonus_begin_next",
 		"jp_text": "■キャラクターログインボーナス",
-		"en_text": "次回ログインボーナス"
+		"en_text": "Next Login Bonus"
 	},
 	{
 		"assign": "loginbonus_begin_comp",
 		"jp_text": "■コンプリートボーナス",
-		"en_text": "コンプリートボーナス"
+		"en_text": "Bonus Completed"
 	},
 	{
 		"assign": "loginbonus_end",
@@ -8387,7 +8387,7 @@
 	{
 		"assign": "loginbonus_account_begin",
 		"jp_text": "■アカウントログインボーナス",
-		"en_text": "アカウントログインボーナス"
+		"en_text": "Account Login Bonus"
 	},
 	{
 		"assign": "loginbonus_account_end",
@@ -8427,7 +8427,7 @@
 	{
 		"assign": "lobby_support_title",
 		"jp_text": "クエスト同行報酬",
-		"en_text": ""
+		"en_text": "Quest Reward"
 	},
 	{
 		"assign": "lobby_support_body",
@@ -8442,7 +8442,7 @@
 	{
 		"assign": "lobby_buff_dialog_t",
 		"jp_text": "発生中の効果一覧",
-		"en_text": ""
+		"en_text": "Effect "
 	},
 	{
 		"assign": "menu_charainfo_lv",
@@ -8537,7 +8537,7 @@
 	{
 		"assign": "menu_charainfo_label_ac",
 		"jp_text": "<%AC>",
-		"en_text": "AC"
+		"en_text": "<%AC>"
 	},
 	{
 		"assign": "menu_charainfo_label_fun",
@@ -8567,7 +8567,7 @@
 	{
 		"assign": "menu_shop_acshop",
 		"jp_text": "<%AC>ショップ",
-		"en_text": "AC Shop"
+		"en_text": "<%AC> Shop"
 	},
 	{
 		"assign": "menu_equip_title",
@@ -8577,7 +8577,7 @@
 	{
 		"assign": "menu_sale_title",
 		"jp_text": "売却メニュー",
-		"en_text": ""
+		"en_text": "Sell Menu"
 	},
 	{
 		"assign": "menu_equip_weapon",
@@ -8647,7 +8647,7 @@
 	{
 		"assign": "menu_menu_invite",
 		"jp_text": "友達招待",
-		"en_text": ""
+		"en_text": "Friend Invite"
 	},
 	{
 		"assign": "menu_menu_fulldl",
@@ -8657,7 +8657,7 @@
 	{
 		"assign": "menu_menu_offer",
 		"jp_text": "特典を受け取る",
-		"en_text": ""
+		"en_text": "Benefits Received"
 	},
 	{
 		"assign": "menu_pso2_title",
@@ -8727,7 +8727,7 @@
 	{
 		"assign": "menu_fulldownload_b_02",
 		"jp_text": "追加のゲームデータを下記のボタンから\nダウンロードすることができます。\n\n※ダウンロード目安容量\n「アイテムアイコン」… 約600MB\n「全てをダウンロード」… 約3.8GB\n\n※ダウンロード目安時間\n「アイテムアイコン」… 約1時間30分\n「全てをダウンロード」… 約3時間\n\n※選択する内容や通信環境によって、\nダウンロードにかかる時間が異なりますので\nご注意ください。\n※ゲームデータのダウンロードは\n通信環境のいい場所で行ってください。\n※ゲームの配信データが追加された場合には\n必要となるデータ容量が増えていきますので\n端末、SDカード等の容量にはご注意ください。\n",
-		"en_text": "Select one of the options below\nto choose which files to download.\n\n※Approximate Size\nItem Icons - ~600MB\nFull Download - ~3GB\n\n※Estimated Time\nItem Icons - ~30 Minutes\nFull Download - ~2 Hours\n\n※Please note that the time it will\ntake to download depends on the\noptions chosen and data speed.\n※While Downloading, ensure that\nyou are in a good reception area.\n※Ensure that your device has the\nstorage capacity such as the SD card\nto accomodate the extra data."
+		"en_text": "Select one of the options below\nto choose which files to download.\n\n※Approximate Size\nItem Icons - ~600MB\nFull Download - ~3.8GB\n\n※Estimated Time\nItem Icons - ~30 Minutes\nFull Download - ~3 Hours\n\n※Please note that the time it will\ntake to download depends on the\noptions chosen and data speed.\n※While Downloading, ensure that\nyou are in a good reception area.\n※Ensure that your device has the\nstorage capacity such as the SD card\nto accomodate the extra data."
 	},
 	{
 		"assign": "menu_fulldownload_btn_02_1",
@@ -8897,12 +8897,12 @@
 	{
 		"assign": "quest_counter_no_area_raid_t",
 		"jp_text": "緊急クエスト",
-		"en_text": ""
+		"en_text": "Emergency Quest"
 	},
 	{
 		"assign": "quest_counter_no_area_raid_b",
 		"jp_text": "現在受注できる緊急クエストはありません。\nロビーに戻ります。",
-		"en_text": ""
+		"en_text": "No Emergency Quest active.\nReturning to lobby."
 	},
 	{
 		"assign": "lobby_top_logout",
@@ -9437,12 +9437,12 @@
 	{
 		"assign": "scratch_11ac",
 		"jp_text": "<%AC>\n11回",
-		"en_text": "<%AC>\n10 + 1回"
+		"en_text": "<%AC>\n11回"
 	},
 	{
 		"assign": "scratch_init",
 		"jp_text": "初回",
-		"en_text": ""
+		"en_text": "First"
 	},
 	{
 		"assign": "ac_window_title",
@@ -9457,12 +9457,12 @@
 	{
 		"assign": "ac_window_title_i",
 		"jp_text": "購入iAC額選択",
-		"en_text": ""
+		"en_text": "Purchase iAC"
 	},
 	{
 		"assign": "ac_product_name_i",
 		"jp_text": "アークスキャッシュ(iAC)",
-		"en_text": "アークスキャッシュ(AC)"
+		"en_text": "ARKS Cash (iAC)"
 	},
 	{
 		"assign": "ac_product_price",
@@ -9497,7 +9497,7 @@
 	{
 		"assign": "selafy",
 		"jp_text": "セラフィ",
-		"en_text": ""
+		"en_text": "Seraphy"
 	},
 	{
 		"assign": "cohen",
@@ -9507,42 +9507,42 @@
 	{
 		"assign": "donovan",
 		"jp_text": "ドノヴァン",
-		"en_text": ""
+		"en_text": "Donovan"
 	},
 	{
 		"assign": "cofy",
 		"jp_text": "コフィー",
-		"en_text": ""
+		"en_text": "Coffy"
 	},
 	{
 		"assign": "combatant",
 		"jp_text": "戦闘員",
-		"en_text": ""
+		"en_text": "Combatant"
 	},
 	{
 		"assign": "tu_0005_n00_b",
 		"jp_text": "<color=black>大変長らくお待たせいたしました。\n『PSO2es』のデータの\nダウンロードが完了しました！</color>",
-		"en_text": "<color=black>Thank you for your patience.\nDownload of the PSO2es data\nis now complete!</color>"
+		"en_text": "<color=black>Thank you for your patience.\nDownload of the 『PSO2es』 data\nis now complete!</color>"
 	},
 	{
 		"assign": "tu_0005_n01_b",
 		"jp_text": "<color=black>改めまして、案内役のセラフィです。\nよろしくお願いいたします。\nそれではさっそく\nゲームを開始いたしましょう。</color>",
-		"en_text": ""
+		"en_text": "<color=black>In this phone app,\nSeraphy is your guide.\nNow let us start the game.</color>"
 	},
 	{
 		"assign": "tu_0005_n02_b",
 		"jp_text": "<color=black>まずは、あなたご自身の\n『PSO2』のプレイ状況について\n確認させてください。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Ok, let us check\nif you played PSO2.</color>"
 	},
 	{
 		"assign": "tu_0005_n03_b",
 		"jp_text": "<color=black>すでにアークスとして\n登録済みのかたですね。\nそれでは、『PSO2es』への\nログインを進めましょう！</color>",
-		"en_text": ""
+		"en_text": "<color=black>Great! You're already\nan ARKS member.\nLet's start 『PSO2es』!</color>"
 	},
 	{
 		"assign": "tu_0005_n04_b",
 		"jp_text": "<color=black>まずはキャラクターを選びましょう。\n『PSO2』でプレイ中のシップを選択し\n『PSO2es』で使いたいキャラクターを指定してください。</color>",
-		"en_text": "<color=black>First, let's choose a character.\nPlease select the ship you use in PSO2,\nand then select the character to use.</color>"
+		"en_text": "<color=black>Now, let's choose a character.\nPlease select the ship you use in PSO2,\nand then select the character to use.</color>"
 	},
 	{
 		"assign": "tu_0005_n05_b",
@@ -9582,72 +9582,72 @@
 	{
 		"assign": "tu_0005_n10_b",
 		"jp_text": "<color=black>それでは、まずは\nキャラクターを作成しましょう。</color>",
-		"en_text": ""
+		"en_text": "<color=black>So first, let us\ncreate a character.</color>"
 	},
 	{
 		"assign": "tu_0005_w00_b",
 		"jp_text": "『PSO2』とキャラクター連動を行うと、『PSO2』ゲーム内で\nキャラクターをさらに細かくカスタマイズできます。\nよりカッコいい・かわいいキャラクターを作りましょう！",
-		"en_text": ""
+		"en_text": "When you link your waifu with 『PSO2』,\nyou can finely customize your\nwaifu in great detail.\nLet us create your waifu!"
 	},
 	{
 		"assign": "tu_0000_n00_b",
 		"jp_text": "<color=black>お待たせいたしました。\nこのキャラクターで『ＰＳＯ２ｅｓ』を\nプレイする準備が整いました。</color>",
-		"en_text": "<color=black>データの登録はこれで完了です。\nこれで、あなたも\n「アークス」の一員となりました！</color>"
+		"en_text": "<color=black>Sorry to keep you\nwaiting. Your character is\nnow ready to play 『ＰＳＯ２ｅｓ』.</color>"
 	},
 	{
 		"assign": "tu_0000_n01_b",
 		"jp_text": "<color=black>データの登録はこれで完了です。\n改めまして、ようこそ\n惑星間航行船団『オラクル』へ！</color>",
-		"en_text": "<color=black>さまざまな惑星を調査し\n行く手をはばむエネミーと戦う……\nそれが「アークス」の任務です。</color>"
+		"en_text": "<color=black>Registration complete.\nWelcome to the\nspace fleet \"Oracle\".</color>"
 	},
 	{
 		"assign": "tu_0000_n02_b",
 		"jp_text": "<color=black>ここオラクルでは\n惑星調査隊『アークス』によって\n惑星の調査を行っています。</color>",
-		"en_text": "<color=black>私も精いっぱいサポートを\nさせていただきます。\nこれから待ち受ける数々の冒険を\n力をあわせて突破していきましょうね！</color>"
+		"en_text": "<color=black>Here at Oracle,\nwe conduct surveys of\nplanet expeditions with our PMC, \"ARKS\".</color>"
 	},
 	{
 		"assign": "tu_0000_n03_b",
 		"jp_text": "<color=black>あなたには、アークスの一員として\nさまざまな惑星を\n冒険していただきます！</color>",
-		"en_text": "<color=black>それではさっそく、これから\nアークスの基本について\n実戦を通した研修を行います。\n戦いながら、学んでいきましょう。</color>"
+		"en_text": "<color=black>You will adventure on\nmany planets as an\nARKS member!</color>"
 	},
 	{
 		"assign": "tu_0000_n16_b",
 		"jp_text": "<color=black>私も一緒にサポートしていきますので\nどうか、これから\nよろしくお願いします！</color>",
-		"en_text": "<color=black>研修を最後まで達成すると\n「ラッピーメダル」という\nステキなアイテムをプレゼントします。\nがんばってくださいね！</color>"
+		"en_text": "<color=black>Together we'll grow and\nsupport each other.\nLet's do our best!</color>"
 	},
 	{
 		"assign": "tu_0000_n04_b",
 		"jp_text": "<color=black>それでは、クエストの基本について学びましょう。\n最初は、フィールドの移動についてです。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Let's learn the basics of questing.\nStarting off with movement.</color>"
 	},
 	{
 		"assign": "tu_0000_n05_b",
 		"jp_text": "<color=black>移動できましたね。\nさあ、続けて進みましょう！</color>",
-		"en_text": ""
+		"en_text": "<color=black>Continuing on,\nlet us proceed!</color>"
 	},
 	{
 		"assign": "tu_0000_n06_b",
 		"jp_text": "<color=black>エネミー（敵）が現れました！\nでは、バトルについてお教えします。</color>",
-		"en_text": ""
+		"en_text": "<color=black>An enemy appeared!\nLet's teach you how to battle.</color>"
 	},
 	{
 		"assign": "tu_0000_n20_b",
 		"jp_text": "<color=black>移動できましたね。\n画面を上下にスライドすると\n前後に移動することができますよ。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Let's continue.\nYou can swipe the screen\nback and forth to dodge.</color>"
 	},
 	{
 		"assign": "tu_0000_w02_b",
 		"jp_text": "キャラクターは、画面を左右にスライドすると横に移動し\n上下にスライドすると前後に移動します。",
-		"en_text": ""
+		"en_text": "Your character can also dodge left or\nright when swiping the screen to the left or right."
 	},
 	{
 		"assign": "tu_0000_n21_b",
 		"jp_text": "<color=black>左右の移動は、エネミーの横に\n回り込みたいときに便利です。\nまた、前後の移動は、エネミーとの距離を\n変えたいときに活用してくださいね。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Dodging to the left or\nright is helpful when\nyou need to sneak behind an enemy.\nPlease take advantage of this.</color>"
 	},
 	{
 		"assign": "tu_0000_n22_b",
 		"jp_text": "<color=black>では、ＨＰについても\n合わせてお教えします！</color>",
-		"en_text": ""
+		"en_text": "<color=black>では、ＨＰについても\n合わせてお教えします！</color>"
 	},
 	{
 		"assign": "tu_0000_n07_b",
@@ -9707,7 +9707,7 @@
 	{
 		"assign": "tu_0000_n15_b",
 		"jp_text": "<color=black>それでは、画面をタッチして\nロビーに戻りましょう！</color>",
-		"en_text": "<color=black>では次は、チップについてお教えします。\nいったんロビーに戻りましょう。</color>"
+		"en_text": "<color=black>それでは、画面をタッチして\nロビーに戻りましょう！</color>"
 	},
 	{
 		"assign": "tu_0000_s00_b",
@@ -9747,12 +9747,12 @@
 	{
 		"assign": "tu_0001_n00_b",
 		"jp_text": "<color=black>お帰りなさい！\nさあ冒険の始まりです！\n……と言いたいところですが、その前に。</color>",
-		"en_text": "<color=black>お帰りなさい！\nはじめてのクエストクリア\nおめでとうございます！</color>"
+		"en_text": "<color=black>お帰りなさい！\nさあ冒険の始まりです！\n……と言いたいところですが、その前に</color>"
 	},
 	{
 		"assign": "tu_0001_n01_b",
 		"jp_text": "<color=black>手に入れたチップの装備方法について\n説明をお聞きになりますか？</color>",
-		"en_text": "<color=black>次は、ステップアップして\nチップの使い方を学びましょう。</color>"
+		"en_text": "<color=black>手に入れたチップの装備方法について\n説明をお聞きになりますか？</color>"
 	},
 	{
 		"assign": "tu_0001_n07_b",
@@ -9762,7 +9762,7 @@
 	{
 		"assign": "tu_0001_n02_b",
 		"jp_text": "<color=black>それでは、チップを装備してみましょう。\n「編成」ボタンをタッチしてください。</color>",
-		"en_text": "<color=black>それでは、チップを装備してみましょう。\n画面右にある\n「装備」ボタンをタッチしてください。</color>"
+		"en_text": "<color=black>それでは、チップを装備してみましょう。\n「編成」ボタンをタッチしてください。</color>"
 	},
 	{
 		"assign": "tu_0001_n03_b",
@@ -10307,7 +10307,7 @@
 	{
 		"assign": "tu_0006_w00_b",
 		"jp_text": "「武器／ユニット強化」では\nアイテム「グラインダー」とメセタを使って\n武器の攻撃力やユニットの防御力を強化できます。",
-		"en_text": "「アイテム強化」では\nアイテム「グラインダー」とメセタを使って\nアイテムの攻撃力や防御力を強化できます。"
+		"en_text": "「Weapon/Unit grinding」\nYou can improve your weapon\nand units by using meseta and grinders."
 	},
 	{
 		"assign": "tu_0006_w01_b",
@@ -10317,7 +10317,7 @@
 	{
 		"assign": "tu_0006_w02_b",
 		"jp_text": "＜連動時の注意事項＞\n『PSO2es』での強化結果は、『PSO2』にも反映されます。\nただし、『PSO2』で強化報酬を獲得するための回数は集計されません。",
-		"en_text": ""
+		"en_text": "<Linked Guidelines>\nEquipment grind results from 『PSO2』 are reflected on 『PSO2es』\nHowever, grinding bonuses are not received in 『PSO2es』."
 	},
 	{
 		"assign": "tu_0006_w06_b",
@@ -10347,17 +10347,17 @@
 	{
 		"assign": "tu_0006_w09_b",
 		"jp_text": "Windows PC、PlayStation®Vitaでサービス中の『PSO2』と連動すると、\n現在のキャラクターのまま『PSO2』をプレイすることができます。",
-		"en_text": "メニュー『キャラクター連動』から連動処理を行うと、\n同じキャラクターで『PSO2』と『PSO2es』を遊べるようになります。\nまた、『PSO2』で入手したアイテムを『PSO2es』でも使えるようになります。"
+		"en_text": "Linked Windows PC and PlayStation®Vita\naccounts can play on the same character."
 	},
 	{
 		"assign": "tu_0006_w10_b",
 		"jp_text": "境界を超えるRPG『PSO2』と連動して\nさらなる冒険に出発しましょう！",
-		"en_text": "さらに『PSO2』のスクラッチが購入できるようになるなど、\n『PSO2』と連動したさまざまな機能が使えるようになります。\nぜひ連動してみましょう！"
+		"en_text": "境界を超えるRPG『PSO2』と連動して\nさらなる冒険に出発しましょう！"
 	},
 	{
 		"assign": "tu_0006_n44_b",
 		"jp_text": "iACはiOS版『PSO2es』の専用の通貨です。\nそのため、現在『PSO2es』で所持しているiACは\n『PSO2』とは連動しません。ご了承ください。",
-		"en_text": ""
+		"en_text": "iAC is the dedicated currency\nof the iOS version of PSO2es.\nDo note that it is <color=red>not compatible</color> with 『PSO2』."
 	},
 	{
 		"assign": "tu_0006_w11_b",
@@ -10367,7 +10367,7 @@
 	{
 		"assign": "tu_0006_w12_b",
 		"jp_text": "『PSO2es』で獲得した経験値の一部を『PSO2』に、\n『PSO2』で獲得した経験値の一部を『PSO2es』に\n持ち込むことができるようになりました。",
-		"en_text": ""
+		"en_text": "『PSO2es』Experience is shared in 『PSO2』,\nand shared between PSO2es."
 	},
 	{
 		"assign": "tu_0006_w13_b",
@@ -13132,32 +13132,32 @@
 	{
 		"assign": "ItemDetail_Parameter_AttrIce",
 		"jp_text": "氷属性       /",
-		"en_text": "Ice\t\t\t /"
+		"en_text": "Ice          /"
 	},
 	{
 		"assign": "ItemDetail_Parameter_AttrThunder",
 		"jp_text": "雷属性       /",
-		"en_text": "Lightning\t /"
+		"en_text": "Lightning    /"
 	},
 	{
 		"assign": "ItemDetail_Parameter_AttrWind",
 		"jp_text": "風属性       /",
-		"en_text": "Wind\t\t /"
+		"en_text": "Wind         /"
 	},
 	{
 		"assign": "ItemDetail_Parameter_AttrLight",
 		"jp_text": "光属性       /",
-		"en_text": "Light\t\t /"
+		"en_text": "Light        /"
 	},
 	{
 		"assign": "ItemDetail_Parameter_AttrDark",
 		"jp_text": "闇属性       /",
-		"en_text": "Dark \t\t /"
+		"en_text": "Dark         /"
 	},
 	{
 		"assign": "ItemDetail_Parameter_StrengthenCaption",
 		"jp_text": "強化値       /",
-		"en_text": "Grind\t\t /"
+		"en_text": "Grind        /"
 	},
 	{
 		"assign": "ItemDetail_Parameter_ExtendCaption",
@@ -13182,12 +13182,12 @@
 	{
 		"assign": "ItemDetail_EquipCondition_TitleCaption",
 		"jp_text": "<color=white>適性クラス</color>",
-		"en_text": "<color=white>Class Mastery</color>"
+		"en_text": "<color=white>Equippable Classes</color>"
 	},
 	{
 		"assign": "ItemDetail_EquipCondition_JobCaption",
 		"jp_text": "<color=white>クラス /</color>",
-		"en_text": "<color=white>Class/</color>"
+		"en_text": "<color=white>Class /</color>"
 	},
 	{
 		"assign": "ItemDetail_EquipCondition_AllClass",
@@ -13397,82 +13397,82 @@
 	{
 		"assign": "ItemDetail_Camouflage_Category",
 		"jp_text": "<color=white>対象カテゴリ / <%parameter></color>",
-		"en_text": ""
+		"en_text": "<color=white>Group	   / <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Booster",
 		"jp_text": "<color=white>効果時間 / <%parameter>分間</color>",
-		"en_text": ""
+		"en_text": "<color=white>Effect   / <%parameter>(min)</color>"
 	},
 	{
 		"assign": "ItemDetail_Roomgoods_Cost",
 		"jp_text": "<color=white>必要コスト          / <%parameter></color>",
-		"en_text": ""
+		"en_text": "<color=white>Cost	           / <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Roomgoods_Size",
 		"jp_text": "<color=white>サイズ              / <%parameter1> × <%parameter2></color>",
-		"en_text": ""
+		"en_text": "<color=white>Size              / <%parameter1> × <%parameter2></color>"
 	},
 	{
 		"assign": "ItemDetail_Roomgoods_Type",
 		"jp_text": "<color=white>設置タイプ        / <%parameter></color>",
-		"en_text": ""
+		"en_text": "<color=white>Type	         / <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Roomgoods_TypeFloor",
 		"jp_text": "床タイプ",
-		"en_text": ""
+		"en_text": "Floor"
 	},
 	{
 		"assign": "ItemDetail_Roomgoods_TypeWall",
 		"jp_text": "壁タイプ",
-		"en_text": ""
+		"en_text": "Wall"
 	},
 	{
 		"assign": "ItemDetail_Roomgoods_TypeCeiling",
 		"jp_text": "天井タイプ",
-		"en_text": ""
+		"en_text": "Ceiling"
 	},
 	{
 		"assign": "ItemDetail_Roomgoods_Place",
 		"jp_text": "<color=white>設置可能場所    / <%parameter></color>",
-		"en_text": ""
+		"en_text": "<color=white>Location       / <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Roomgoods_PlaceAll",
 		"jp_text": "制限なし",
-		"en_text": ""
+		"en_text": "No Limit"
 	},
 	{
 		"assign": "ItemDetail_Roomgoods_Limit",
 		"jp_text": "<color=white>設置制限数       / <%parameter></color>",
-		"en_text": ""
+		"en_text": "<color=white>Install Limit   / <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Roomgoods_LimitAll",
 		"jp_text": "制限なし",
-		"en_text": ""
+		"en_text": "No Limit"
 	},
 	{
 		"assign": "ItemDetail_Disc_Learn",
 		"jp_text": "<color=white>必要<%parameter1><%parameter2></color>",
-		"en_text": ""
+		"en_text": "<color=white>Need <%parameter1><%parameter2></color>"
 	},
 	{
 		"assign": "ItemDetail_Disc_LearnAttack",
 		"jp_text": "打撃力       / ",
-		"en_text": ""
+		"en_text": "S-ATK        / "
 	},
 	{
 		"assign": "ItemDetail_Disc_LearnShooting",
 		"jp_text": "射撃力       / ",
-		"en_text": ""
+		"en_text": "R-ATK        / "
 	},
 	{
 		"assign": "ItemDetail_Disc_LearnSorcery",
 		"jp_text": "法撃力       / ",
-		"en_text": ""
+		"en_text": "T_ATK        / "
 	},
 	{
 		"assign": "ItemDetail_Disc_Level",
@@ -13492,7 +13492,7 @@
 	{
 		"assign": "ItemDetail_dialog_t_00",
 		"jp_text": "「早期習熟」とは",
-		"en_text": ""
+		"en_text": "Early Learner"
 	},
 	{
 		"assign": "ItemDetail_dialog_b_00",
@@ -13502,7 +13502,7 @@
 	{
 		"assign": "ItemDetail_dialog_t_01",
 		"jp_text": "「属性共鳴」とは",
-		"en_text": ""
+		"en_text": "Elemental Resonance"
 	},
 	{
 		"assign": "ItemDetail_dialog_b_01",
@@ -13512,7 +13512,7 @@
 	{
 		"assign": "ItemDetail_dialog_t_02",
 		"jp_text": "「限界突破」とは",
-		"en_text": ""
+		"en_text": "Rebirth"
 	},
 	{
 		"assign": "ItemDetail_dialog_b_02",
@@ -13522,7 +13522,7 @@
 	{
 		"assign": "ItemDetail_dialog_t_03",
 		"jp_text": "「全属性共鳴」とは",
-		"en_text": ""
+		"en_text": "All Elemental Resonance"
 	},
 	{
 		"assign": "ItemDetail_dialog_b_03",
@@ -13532,22 +13532,22 @@
 	{
 		"assign": "RaidEvent_tab_00",
 		"jp_text": "進行状況",
-		"en_text": ""
+		"en_text": "Progress"
 	},
 	{
 		"assign": "RaidEvent_tab_01",
 		"jp_text": "イベント報酬",
-		"en_text": ""
+		"en_text": "Event Rewards"
 	},
 	{
 		"assign": "RaidEvent_tab_02",
 		"jp_text": "ボーナススクラッチ",
-		"en_text": ""
+		"en_text": "Bonus Scratch"
 	},
 	{
 		"assign": "RaidEvent_tab_03",
 		"jp_text": "ランキング",
-		"en_text": ""
+		"en_text": "Rankings"
 	},
 	{
 		"assign": "RaidEvent_Achievement_Text_0-1-0",
@@ -13702,7 +13702,7 @@
 	{
 		"assign": "raid_scratch_dialog_t_01",
 		"jp_text": "購入確認",
-		"en_text": ""
+		"en_text": "Buy Item"
 	},
 	{
 		"assign": "raid_scratch_dialog_b_01",
@@ -13712,7 +13712,7 @@
 	{
 		"assign": "raid_scratch_dialog_t_02",
 		"jp_text": "購入確認",
-		"en_text": ""
+		"en_text": "Buy Item"
 	},
 	{
 		"assign": "raid_scratch_dialog_b_02",
@@ -13722,7 +13722,7 @@
 	{
 		"assign": "raid_scratch_bonus_point_button",
 		"jp_text": "<color=#FFFFFF>ボーナスポイント\n{0} pt</color>",
-		"en_text": ""
+		"en_text": "<color=#FFFFFF>Bonus Points\n{0} pt</color>"
 	},
 	{
 		"assign": "raid_scratch_available_bonus_point",
@@ -13737,7 +13737,7 @@
 	{
 		"assign": "raid_scratch_kingrappy_medal",
 		"jp_text": "キングラッピーメダル",
-		"en_text": ""
+		"en_text": "King Rappy Coin"
 	},
 	{
 		"assign": "raid_scratch_kingrappy_medal_count",
@@ -13757,12 +13757,12 @@
 	{
 		"assign": "raid_os_ranking_label",
 		"jp_text": "あなたの順位",
-		"en_text": ""
+		"en_text": "Rank"
 	},
 	{
 		"assign": "raid_os_ranking_non_participating",
 		"jp_text": "未参加",
-		"en_text": ""
+		"en_text": "Non-participating"
 	},
 	{
 		"assign": "raid_os_ranking_aggregating",
@@ -13817,82 +13817,82 @@
 	{
 		"assign": "quest_final_check_guest",
 		"jp_text": "ゲスト",
-		"en_text": ""
+		"en_text": "Guest"
 	},
 	{
 		"assign": "menu_invite_title",
 		"jp_text": "友達招待",
-		"en_text": ""
+		"en_text": "Friend Referral"
 	},
 	{
 		"assign": "menu_invite_guide",
 		"jp_text": "<color=#f0df60>『ＰＳＯ２ｅｓ』を新しくプレイし始めるお友達に、あなたのコードを教えてプレゼントを獲得しましょう！</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>You can give new players of PSO2es your referral code!</color>"
 	},
 	{
 		"assign": "menu_invite_explain",
 		"jp_text": "<color=#ffff00>招待コードをお友達に教えよう！</color>",
-		"en_text": ""
+		"en_text": "<color=#ffff00>You can give a referral code to your friends</color>"
 	},
 	{
 		"assign": "menu_invite_player_code",
 		"jp_text": "あなたの招待コード",
-		"en_text": ""
+		"en_text": "Your Referral Code"
 	},
 	{
 		"assign": "menu_invite_clipboard",
 		"jp_text": "コピー",
-		"en_text": ""
+		"en_text": "Copy"
 	},
 	{
 		"assign": "menu_invite_paste",
 		"jp_text": "貼る",
-		"en_text": ""
+		"en_text": "Paste"
 	},
 	{
 		"assign": "menu_invite_tab_input_title",
 		"jp_text": "招待コード入力",
-		"en_text": ""
+		"en_text": "Input Referral Code"
 	},
 	{
 		"assign": "menu_invite_tab_input_title_settled",
 		"jp_text": "招待コード入力（済み）",
-		"en_text": ""
+		"en_text": "Referral Code used."
 	},
 	{
 		"assign": "menu_invite_tab_input_explain",
 		"jp_text": "<color=#ffff00>お友達のコードを入力してプレゼントを獲得！</color>",
-		"en_text": ""
+		"en_text": "<color=#ffff00>By entering a referral code, uou can receive a gift from friends!</color>"
 	},
 	{
 		"assign": "menu_invite_tab_input_code",
 		"jp_text": "お友達の招待コード\n（１回のみ入力可能）",
-		"en_text": ""
+		"en_text": "Friend Referral Code (Only one can be used)"
 	},
 	{
 		"assign": "menu_invite_tab_input_reward",
 		"jp_text": "プレゼントを確認",
-		"en_text": ""
+		"en_text": "Check Gifts"
 	},
 	{
 		"assign": "menu_invite_tab_input_submit",
 		"jp_text": "コードを認証",
-		"en_text": ""
+		"en_text": "Authentication Code"
 	},
 	{
 		"assign": "menu_invite_tab_reward_title",
 		"jp_text": "招待報酬",
-		"en_text": ""
+		"en_text": "Referral Rewards"
 	},
 	{
 		"assign": "menu_invite_tab_reward_explain",
 		"jp_text": "<color=#ffff00>招待成立した人数に応じて報酬をゲット！</color>",
-		"en_text": ""
+		"en_text": "<color=#ffff00>招待成立した人数に応じて報酬をゲット！</color>"
 	},
 	{
 		"assign": "menu_invite_tab_reward_check",
 		"jp_text": "報酬一覧",
-		"en_text": ""
+		"en_text": "Reward List"
 	},
 	{
 		"assign": "menu_invite_tab_reward_receive_all",
@@ -13982,7 +13982,7 @@
 	{
 		"assign": "tutorial_skip_dialog_t_00",
 		"jp_text": "チュートリアル",
-		"en_text": ""
+		"en_text": "Tutorial"
 	},
 	{
 		"assign": "tutorial_skip_dialog_b_00",
@@ -13992,7 +13992,7 @@
 	{
 		"assign": "tutorial_skip_dialog_t_01",
 		"jp_text": "チュートリアル",
-		"en_text": ""
+		"en_text": "Tutorial"
 	},
 	{
 		"assign": "tutorial_skip_dialog_b_01",
@@ -14007,7 +14007,7 @@
 	{
 		"assign": "tutorial_skip_dialog_btn_01",
 		"jp_text": "スキップ",
-		"en_text": ""
+		"en_text": "Skip"
 	},
 	{
 		"assign": "tutorial_battle_ntu_00_00",
@@ -14242,7 +14242,7 @@
 	{
 		"assign": "dialog_body_arksexpedition_use_ac",
 		"jp_text": "{0}<%AC>で{1}回クイック探索を行います。\nよろしいですか？\n所持<%AC>：<%current_AC>",
-		"en_text": "{0}<%AC>で{1}We'll perform a Quick Search.\nIs that ok?\nOwned<%AC>：<%current_AC>"
+		"en_text": "<color=#ff0000>{0} <%AC></color> We'll perform a Quick Search.\nIs that ok?\nOwned <%AC>：<%current_AC>"
 	},
 	{
 		"assign": "dialog_title_arksexpedition_use_free",
@@ -14252,7 +14252,7 @@
 	{
 		"assign": "dialog_body_arksexpedition_use_free",
 		"jp_text": "クイック探索を行います。\nよろしいですか？\n\n※クイック探索は毎日初回のみ無料で利用できます。\n2回目以降の利用には<%AC>が必要です。",
-		"en_text": "You can perform a Quick Search.\n\n※Quick Search can only be used for free once per day.\n2Subsequent uses after the free search will require <%AC>."
+		"en_text": "You can perform a Quick Search.\n\n<color=yellow>※First time is free.\nSubsequent uses after will require <%AC></color>."
 	},
 	{
 		"assign": "arks_exp_reward_button_close",
