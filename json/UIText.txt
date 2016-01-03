@@ -1106,12 +1106,12 @@
 	},
 	{
 		"assign": "charamake_select_sex_01",
-		"jp_text": "男性",
+		"jp_text": "male",
 		"en_text": "Male"
 	},
 	{
 		"assign": "charamake_select_sex_02",
-		"jp_text": "女性",
+		"jp_text": "female",
 		"en_text": "Female"
 	},
 	{
@@ -2052,7 +2052,7 @@
 	{
 		"assign": "item_grind_max",
 		"jp_text": "最大",
-		"en_text": "Maxmium"
+		"en_text": "Max"
 	},
 	{
 		"assign": "item_grind_success_rate_01",
@@ -2332,12 +2332,12 @@
 	{
 		"assign": "chipevo_npc_b_00",
 		"jp_text": "-",
-		"en_text": "戦いを経たチップが\n解放しようとしています。"
+		"en_text": ""
 	},
 	{
 		"assign": "menu_guide_00",
 		"jp_text": "<color=#f0df60>利用する項目を選択してください。</color>",
-		"en_text": "<color=#f0df60>Please select an item.</color> <color=#ff0000>[PSO2es EN Patch version 1.41] (8/11/2014)</color>"
+		"en_text": "<color=#f0df60>Please select an item.</color> <color=#32CD32>[PSO2es EN Patch]</color>"
 	},
 	{
 		"assign": "menu_dialog_t_00",
@@ -2517,7 +2517,7 @@
 	{
 		"assign": "menu_dialog_b_23",
 		"jp_text": "タイトル画面、またはシップ選択画面に戻りますか？",
-		"en_text": "Do you wish to return to\nthe title or ship\nselection screen?"
+		"en_text": "Do you wish to return to the title or ship selection screen?"
 	},
 	{
 		"assign": "menu_dialog_t_13",
@@ -2532,7 +2532,7 @@
 	{
 		"assign": "menu_dialog_t_14",
 		"jp_text": "確認",
-		"en_text": "Confirmation"
+		"en_text": "Confirm"
 	},
 	{
 		"assign": "menu_dialog_b_14",
@@ -6787,52 +6787,52 @@
 	{
 		"assign": "ship_01",
 		"jp_text": "Ship01:フェオ",
-		"en_text": "Ship01:Feoh"
+		"en_text": "Ship01: Feoh"
 	},
 	{
 		"assign": "ship_02",
 		"jp_text": "Ship02:ウル",
-		"en_text": "Ship02:Ur"
+		"en_text": "Ship02: Ur"
 	},
 	{
 		"assign": "ship_03",
 		"jp_text": "Ship03:ソーン",
-		"en_text": "Ship03:Thorn"
+		"en_text": "Ship03: Thorn"
 	},
 	{
 		"assign": "ship_04",
 		"jp_text": "Ship04:アンスール",
-		"en_text": "Ship04:Ansur"
+		"en_text": "Ship04: Ansur"
 	},
 	{
 		"assign": "ship_05",
 		"jp_text": "Ship05:ラグズ",
-		"en_text": "Ship05:Laguz"
+		"en_text": "Ship05: Laguz"
 	},
 	{
 		"assign": "ship_06",
 		"jp_text": "Ship06:ケン",
-		"en_text": "Ship06:Ken"
+		"en_text": "Ship06: Ken"
 	},
 	{
 		"assign": "ship_07",
 		"jp_text": "Ship07:ギョーフ",
-		"en_text": "Ship07:Geofu"
+		"en_text": "Ship07: Geofu"
 	},
 	{
 		"assign": "ship_08",
 		"jp_text": "Ship08:ウィン",
-		"en_text": "Ship08:Wynn"
+		"en_text": "Ship08: Wynn"
 	},
 	{
 		"assign": "ship_09",
 		"jp_text": "Ship09:ハガル",
-		"en_text": "Ship09:Hagall"
+		"en_text": "Ship09: Hagall"
 	},
 	{
 		"assign": "ship_10",
 		"jp_text": "Ship10:ナウシズ",
-		"en_text": "Ship10:Nauthiz"
+		"en_text": "Ship10: Nauthiz"
 	},
 	{
 		"assign": "date",
@@ -7157,7 +7157,7 @@
 	{
 		"assign": "chipequip_next_lv",
 		"jp_text": "次のレベルまで",
-		"en_text": " To next Lv."
+		"en_text": "To next Lv."
 	},
 	{
 		"assign": "chipequip_limit",
@@ -8862,7 +8862,7 @@
 	{
 		"assign": "chip_item_over_num",
 		"jp_text": "チップ　： <color=red><%chip_over>枚</color>オーバーしています。\nアイテム： <color=red><%item_over>個</color>オーバーしています。",
-		"en_text": ""
+		"en_text": "チップ　： <color=red><%chip_over>枚</color>オーバーしています。\nアイテム： <color=red><%item_over>個</color>オーバーしています。"
 	},
 	{
 		"assign": "quest_counter_drive_lack_t",
@@ -9637,7 +9637,7 @@
 	{
 		"assign": "tu_0000_w02_b",
 		"jp_text": "キャラクターは、画面を左右にスライドすると横に移動し\n上下にスライドすると前後に移動します。",
-		"en_text": "Your character can also dodge left or\nright when swiping the screen to the left or right."
+		"en_text": "Your character can also dodge left or\nright when swiping the screen to the left or right\nor forward and back by swiping up and down."
 	},
 	{
 		"assign": "tu_0000_n21_b",
@@ -10502,7 +10502,7 @@
 	{
 		"assign": "wh_20_01",
 		"jp_text": "「ｅｓスクラッチ」では、レアなチップを入手することができます。\n購入には「<%AC>」、またはゲーム中に無料で手に入る\n「ラッピーメダル」を使用します。",
-		"en_text": "「esスクラッチ」では、レアなチップや\nコスチューム・パーツを入手することができます。\n購入には<%AC>を使用します。"
+		"en_text": "「ｅｓスクラッチ」では、レアなチップを入手することができます。\n購入には「<%AC>」、またはゲーム中に無料で手に入る\n「ラッピーメダル」を使用します。"
 	},
 	{
 		"assign": "wh_20_04",
@@ -10602,7 +10602,7 @@
 	{
 		"assign": "wh_24_01",
 		"jp_text": "緊急クエスト発生中は、専用ボタンが出現します。\nタッチで出発しましょう。\nなお、出発には「オペレーションポイント（ＯＰ）」を消費します。",
-		"en_text": "緊急クエストが発生すると、専用ボタンが出現します。\nタッチで出発しましょう。"
+		"en_text": "緊急クエスト発生中は、専用ボタンが出現します。\nタッチで出発しましょう。\nなお、出発には「オペレーションポイント（ＯＰ）」を消費します。"
 	},
 	{
 		"assign": "wh_24_02",
@@ -13397,7 +13397,7 @@
 	{
 		"assign": "ItemDetail_Camouflage_Category",
 		"jp_text": "<color=white>対象カテゴリ / <%parameter></color>",
-		"en_text": "<color=white>Group	   / <%parameter></color>"
+		"en_text": "<color=white>Group\t   / <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Booster",
@@ -13407,7 +13407,7 @@
 	{
 		"assign": "ItemDetail_Roomgoods_Cost",
 		"jp_text": "<color=white>必要コスト          / <%parameter></color>",
-		"en_text": "<color=white>Cost	           / <%parameter></color>"
+		"en_text": "<color=white>Cost\t           / <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Roomgoods_Size",
@@ -13417,7 +13417,7 @@
 	{
 		"assign": "ItemDetail_Roomgoods_Type",
 		"jp_text": "<color=white>設置タイプ        / <%parameter></color>",
-		"en_text": "<color=white>Type	         / <%parameter></color>"
+		"en_text": "<color=white>Type\t         / <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Roomgoods_TypeFloor",
@@ -14142,17 +14142,17 @@
 	{
 		"assign": "tutorial_battle_ntu_04_00",
 		"jp_text": "<color=black>これが大型エネミー「ファングバンサー」です！</color>",
-		"en_text": ""
+		"en_text": "<color=black>Enemey 「Fang Banther」 has appeared！</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_04_01",
 		"jp_text": "<color=black>このエネミーを倒すために\n強力なチップをお貸しします。\nきっとあなたなら、使いこなせるはず！</color>",
-		"en_text": ""
+		"en_text": "<color=black>I'll lend you powerful chips\nto help you defeat\nthis enemy!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_04_02",
 		"jp_text": "<color=black>それでは、最後のテストをはじめます！</color>",
-		"en_text": ""
+		"en_text": "<color=black>We'll start the last test!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_04_03",
@@ -14162,7 +14162,7 @@
 	{
 		"assign": "tutorial_battle_ntu_04_04",
 		"jp_text": "<color=black>あのファングバンサーを\nこんな短時間で倒してしまうなんて……！</color>",
-		"en_text": ""
+		"en_text": "<color=black>Didn't think you'd\nmurder it so fast...!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_04_05",
