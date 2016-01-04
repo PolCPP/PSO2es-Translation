@@ -17,7 +17,7 @@
 	{
 		"assign": "acshop_npc_t_00",
 		"jp_text": "セラフィ",
-		"en_text": "Satori"
+		"en_text": "Seraphy"
 	},
 	{
 		"assign": "acshop_npc_b_00",
@@ -27,7 +27,7 @@
 	{
 		"assign": "acshop_npc_t_01",
 		"jp_text": "セラフィ",
-		"en_text": "Satori"
+		"en_text": "Seraphy"
 	},
 	{
 		"assign": "acshop_npc_b_01",
@@ -102,7 +102,7 @@
 	{
 		"assign": "acshop_rappy_medal_unit",
 		"jp_text": "<%current_rappy_coin>枚",
-		"en_text": ""
+		"en_text": "<%current_rappy_coin>"
 	},
 	{
 		"assign": "acshop_chipexpand_rappy_btn",
@@ -472,7 +472,7 @@
 	{
 		"assign": "acshop_dialog_b_32",
 		"jp_text": "OPが不足しているためクエストに出発できません。\n<%item_name>を消費してOPを回復しますか？\n(<%item_name>を所持していない場合は、\n<%AC>を消費してOPを回復できます)\n\n出発に必要なOP：<%consume_exdrive>\n現在のOP：<%current_exdrive>\n\n必要<%item_name>：<%consume_oprecovery_pass>個\n所持<%item_name>：<%current_oprecovery_pass>",
-		"en_text": ""
+		"en_text": "You lack the required OP to start the quest.\nWould you like to recover OP using <%item_name>?\n(If you don't own <%item_name>, you can recover with <%AC>)\n\nRequired OP: <%consume_exdrive>\nCurrent: <%current_exdrive>\n\nNeeded <%item_name>: <%consume_oprecovery_pass>\nOwned <%item_name>: <%current_oprecovery_pass>"
 	},
 	{
 		"assign": "acshop_dialog_t_33",
@@ -482,7 +482,7 @@
 	{
 		"assign": "acshop_dialog_b_33",
 		"jp_text": "<%item_name>を所持していないため\n<%AC>で回復します。よろしいですか？\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"en_text": ""
+		"en_text": "Because you don't own <%item_name>,\nwe'll recover with <%AC>, is that ok?\n\nNeeded <%AC>: <%consume_AC>\nOwned <%AC>: <%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_34",
@@ -502,7 +502,7 @@
 	{
 		"assign": "acshop_dialog_b_35",
 		"jp_text": "OPが最大値のため\n回復することができません。",
-		"en_text": ""
+		"en_text": "Cannot recover OP to\nthe maximum value"
 	},
 	{
 		"assign": "acshop_dialog_t_36",
@@ -512,12 +512,12 @@
 	{
 		"assign": "acshop_dialog_b_36",
 		"jp_text": "<%item_name>を購入します。\nよろしいですか？\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"en_text": ""
+		"en_text": "Buy <%item_name>?\nAre you sure?\n\nRequired <%AC>: <%consume_AC>\nCurrent <%AC>: <%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_37",
 		"jp_text": "アイテム使用数確認",
-		"en_text": ""
+		"en_text": "Use Item"
 	},
 	{
 		"assign": "acshop_dialog_b_37",
@@ -527,27 +527,27 @@
 	{
 		"assign": "acshop_dialog_t_38",
 		"jp_text": "OP回復薬ミニ使用",
-		"en_text": ""
+		"en_text": "Use OP Mini Recovery"
 	},
 	{
 		"assign": "acshop_dialog_b_38",
 		"jp_text": "OPを<%op_recovery_amount>回復しました。",
-		"en_text": ""
+		"en_text": "Recovered <%op_recovery_amount> OP."
 	},
 	{
 		"assign": "acshop_dialog_t_39",
 		"jp_text": "アイテム購入",
-		"en_text": ""
+		"en_text": "Buy Item"
 	},
 	{
 		"assign": "acshop_dialog_b_39",
 		"jp_text": "現在このアイテムは\nプレミアムユーザーのみが購入可能です。",
-		"en_text": ""
+		"en_text": "Item can only be bought\nby premium members."
 	},
 	{
 		"assign": "acshop_dialog_t_40",
 		"jp_text": "アイテム購入",
-		"en_text": ""
+		"en_text": "Buy Item"
 	},
 	{
 		"assign": "acshop_dialog_b_40",
@@ -597,7 +597,7 @@
 	{
 		"assign": "acshop_myshop_ticket_unit",
 		"jp_text": "<%current_myshop_ticket>枚",
-		"en_text": ""
+		"en_text": "<%current_myshop_ticket>"
 	},
 	{
 		"assign": "acshop_item_oprecovery_pass",
@@ -612,7 +612,7 @@
 	{
 		"assign": "acshop_item_unit",
 		"jp_text": "現在の所持数：",
-		"en_text": "Owned:"
+		"en_text": "Owned: "
 	},
 	{
 		"assign": "acshop_oprecovery_pass_buff_01",
@@ -642,27 +642,27 @@
 	{
 		"assign": "acshop_oprecovery_pass_buff_update_01",
 		"jp_text": "<color=#ff0000>攻撃力</color>アップの効果が発生！\n\n<color=#ff0000>攻撃力</color>アップの効果が<color=#f6bf03>更新</color>されました。\n<%rate>倍(<%finish_datetime>まで)",
-		"en_text": ""
+		"en_text": "<color=#ff0000>ATK Power</color> effect up active!\n\n<color=#ff0000>ATK Power</color>effect up has been<color=#f6bf03>updated</color>.\n<%rate> expires in <%finish_datetime>."
 	},
 	{
 		"assign": "acshop_oprecovery_pass_buff_update_02",
 		"jp_text": "<color=#00dd72>防御力</color>アップの効果が発生！\n\n<color=#00dd72>防御力</color>アップの効果が<color=#f6bf03>更新</color>されました。\n<%rate>倍(<%finish_datetime>まで)",
-		"en_text": ""
+		"en_text": "<color=#00dd72>DEF Power</color> effect up active!\n\n<color=#00dd72>DEF Power</color>effect up has been<color=#f6bf03>updated</color>.\n<%rate> expires in <%finish_datetime>."
 	},
 	{
 		"assign": "acshop_oprecovery_pass_buff_update_03",
 		"jp_text": "<color=#00ccff>CP回復力</color>アップの効果が発生！\n\n<color=#00ccff>CP回復力</color>アップの効果が<color=#f6bf03>更新</color>されました。\n<%rate>倍(<%finish_datetime>まで)",
-		"en_text": ""
+		"en_text": "<color=#00ccff>CP Energy</color> effect up active!\n\n<color=#00ccff>CP Energy</color>effect up has been<color=#f6bf03>updated</color>.\n<%rate> expires in <%finish_datetime>."
 	},
 	{
 		"assign": "acshop_oprecovery_pass_buff_update_04",
 		"jp_text": "<color=#ffff00>フレンドアシスト</color>攻撃力アップの効果が発生！\n\n<color=#ffff00>フレンドアシスト</color>攻撃力アップの効果が\n<color=#f6bf03>更新</color>されました。\n<%rate>倍(<%finish_datetime>まで)",
-		"en_text": ""
+		"en_text": "<color=#ffff00>Friend Assist</color> effect up active!\n\n<color=#ffff00>Friend Assist</color> power has been<color=#f6bf03>updated</color>.\n<%rate> expires in <%finish_datetime>."
 	},
 	{
 		"assign": "acshop_oprecovery_pass_attention",
 		"jp_text": "※発生中の他効果の期限は変わりません。",
-		"en_text": ""
+		"en_text": "※Does not change the effects of expiring effects."
 	},
 	{
 		"assign": "acshop_item_myshop_ticket",
@@ -692,7 +692,7 @@
 	{
 		"assign": "acshop_dialog_b_41",
 		"jp_text": "所持数オーバーのアイテムのため使用できません。",
-		"en_text": ""
+		"en_text": "You have over the limit of items in your inventory."
 	},
 	{
 		"assign": "mshop_npc_t_00",
@@ -847,7 +847,7 @@
 	{
 		"assign": "rshop_dialog_b_04",
 		"jp_text": "交換の対象となるアイテムを持っていません。\nなお、以下のアイテムが交換対象です。",
-		"en_text": ""
+		"en_text": "You do not have the needed items.\nThe following items can be replaced."
 	},
 	{
 		"assign": "rshop_dialog_t_05",
@@ -857,7 +857,7 @@
 	{
 		"assign": "rshop_dialog_b_05",
 		"jp_text": "交換上限数に達したため、交換できません。",
-		"en_text": ""
+		"en_text": "You hit the limit of said item."
 	},
 	{
 		"assign": "arcscard_guide_00",
@@ -897,32 +897,32 @@
 	{
 		"assign": "charamake_guide_04",
 		"jp_text": "<color=#f0df60>このキャラクターでゲームを開始します。「キャラクターをカスタマイズする」を選択すると、キャラクターの詳細を編集できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>We'll start the game with this character. If you select \"Customize\", you can edit character details.</color>"
 	},
 	{
 		"assign": "charamake_guide_05",
 		"jp_text": "<color=#f0df60>カスタマイズしたい項目を選択してください。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Select a customization option.</color>"
 	},
 	{
 		"assign": "charamake_guide_06",
 		"jp_text": "<color=#f0df60>顔の外見バリエーションを選択できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>You can alter the face.。</color>"
 	},
 	{
 		"assign": "charamake_guide_07",
 		"jp_text": "<color=#f0df60>ヘアスタイルや髪の色を設定できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>You can set the color of hair and hair styles.</color>"
 	},
 	{
 		"assign": "charamake_guide_08",
 		"jp_text": "<color=#f0df60>ヘアスタイルを選択できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>You can select hair styles.</color>"
 	},
 	{
 		"assign": "charamake_guide_09",
 		"jp_text": "<color=#f0df60>髪の色を設定できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>You can set the hair color.</color>"
 	},
 	{
 		"assign": "charamake_guide_10",
@@ -1106,12 +1106,12 @@
 	},
 	{
 		"assign": "charamake_select_sex_01",
-		"jp_text": "male",
+		"jp_text": "男性",
 		"en_text": "Male"
 	},
 	{
 		"assign": "charamake_select_sex_02",
-		"jp_text": "female",
+		"jp_text": "女性",
 		"en_text": "Female"
 	},
 	{
@@ -1487,17 +1487,17 @@
 	{
 		"assign": "classcounter_dialog_b_02",
 		"jp_text": "クラス変更によって\n装備条件の合わなくなった\n武器・チップを解除しました。",
-		"en_text": ""
+		"en_text": "You no longer meet\nthe required\nequipment conditions."
 	},
 	{
 		"assign": "classcounter_dialog_b_03",
 		"jp_text": "クラス変更によって\n装備条件の合わなくなった\nチップを解除しました。",
-		"en_text": ""
+		"en_text": "You no longer meet\nthe required\nequipment conditions."
 	},
 	{
 		"assign": "classcounter_dialog_b_04",
 		"jp_text": "以前装備していた武器が\nアイテムパックに無かったため、\n武器を解除しました。",
-		"en_text": ""
+		"en_text": "Weapons that weren't\nin the character inventory\nwere removed."
 	},
 	{
 		"assign": "option_guide_00",
@@ -1607,7 +1607,7 @@
 	{
 		"assign": "equip_dialog_b_02",
 		"jp_text": "所持数をこえたアイテムは\n装備できません。",
-		"en_text": ""
+		"en_text": "Items that exceed the carry\nlimit cannot be equipped."
 	},
 	{
 		"assign": "equip_dialog_t_03",
@@ -1627,7 +1627,7 @@
 	{
 		"assign": "equip_dialog_b_04",
 		"jp_text": "所持数をこえたチップは\n装備できません。",
-		"en_text": ""
+		"en_text": "Chips that exceed the carry\nlimit cannot be equipped."
 	},
 	{
 		"assign": "equip_dialog_t_05",
@@ -1637,7 +1637,7 @@
 	{
 		"assign": "equip_dialog_b_05",
 		"jp_text": "現在装備している武器では\nこのチップは装備できません。",
-		"en_text": ""
+		"en_text": "The weapon you have\nselected cannot be used\nwith this chip."
 	},
 	{
 		"assign": "equip_dialog_t_06",
@@ -1647,12 +1647,12 @@
 	{
 		"assign": "equip_dialog_b_06",
 		"jp_text": "『PSO2』でアイテムパックから武器が移動されました。\n条件に合わなくなったチップの装備は解除されます。",
-		"en_text": "『PSO2』でアイテムパックから\n武器が移動されました。\n条件に合わなくなったチップの装備は解除されます。"
+		"en_text": "『PSO2』Weapons that weren't\nin the character inventory\nwere removed."
 	},
 	{
 		"assign": "equip_dialog_t_07",
 		"jp_text": "アイテム装備",
-		"en_text": ""
+		"en_text": "Item Equipped"
 	},
 	{
 		"assign": "equip_dialog_b_07",
@@ -1662,17 +1662,17 @@
 	{
 		"assign": "equip_dialog_t_08",
 		"jp_text": "チップ装備",
-		"en_text": ""
+		"en_text": "Equip Chip"
 	},
 	{
 		"assign": "equip_dialog_b_08",
 		"jp_text": "コスト上限をオーバーしているため\nこのチップは装備できません。",
-		"en_text": ""
+		"en_text": "Chip cannot be equipped as\nit exceeds the cost limit."
 	},
 	{
 		"assign": "equip_dialog_t_09",
 		"jp_text": "チップ装備",
-		"en_text": ""
+		"en_text": "Equip Chip"
 	},
 	{
 		"assign": "equip_dialog_b_09",
@@ -1682,12 +1682,12 @@
 	{
 		"assign": "equip_dialog_t_10",
 		"jp_text": "チップ装備",
-		"en_text": ""
+		"en_text": "Equip Chip"
 	},
 	{
 		"assign": "equip_dialog_b_10",
 		"jp_text": "強化・解放素材のため\nこのチップは装備できません。",
-		"en_text": ""
+		"en_text": "This chip is a material chip,\nit cannot be equipped."
 	},
 	{
 		"assign": "friend_guide_00",
@@ -1867,12 +1867,12 @@
 	{
 		"assign": "labo_menu_dialog_t_00",
 		"jp_text": "機能未解放",
-		"en_text": ""
+		"en_text": "Feature Unreleased"
 	},
 	{
 		"assign": "labo_menu_dialog_b_00",
 		"jp_text": "機能の解放条件を満たしていないため\n使用出来ません。",
-		"en_text": ""
+		"en_text": "Chip cannot be released as it\ndoesn't meet the requirements."
 	},
 	{
 		"assign": "labo_guide_00",
@@ -1902,7 +1902,7 @@
 	{
 		"assign": "labo_dialog_b_00",
 		"jp_text": "選択中の素材チップをリセットして\n強化チップ選択画面に戻ります。\nよろしいですか？",
-		"en_text": ""
+		"en_text": "Reseting the selection of chips.\nYou will be returned to the previous screen.\nIs that ok?"
 	},
 	{
 		"assign": "labo_dialog_t_01",
@@ -1937,12 +1937,12 @@
 	{
 		"assign": "labo_dialog_t_25",
 		"jp_text": "チップ強化",
-		"en_text": ""
+		"en_text": "Chip Grinding"
 	},
 	{
 		"assign": "labo_dialog_b_25",
 		"jp_text": "素材チップが選択されていません。\n強化素材を選んでください。",
-		"en_text": ""
+		"en_text": "Material chip has not been selected,\nplease choose a material chip."
 	},
 	{
 		"assign": "labo_guide_04",
@@ -1957,7 +1957,7 @@
 	{
 		"assign": "labo_dialog_b_04",
 		"jp_text": "選択中の素材チップをリセットして\n解放チップ選択画面に戻ります。\nよろしいですか？",
-		"en_text": ""
+		"en_text": "Reseting the selection of chips.\nYou will be returned to the previous screen.\nIs that ok?"
 	},
 	{
 		"assign": "labo_dialog_t_05",
@@ -2022,12 +2022,12 @@
 	{
 		"assign": "labo_dialog_t_26",
 		"jp_text": "チップ解放",
-		"en_text": ""
+		"en_text": "Chip Release"
 	},
 	{
 		"assign": "labo_dialog_b_26",
 		"jp_text": "解放に必要な素材チップが足りません。",
-		"en_text": ""
+		"en_text": "Cannot release. Not enough material."
 	},
 	{
 		"assign": "labo_guide_05",
@@ -2162,7 +2162,7 @@
 	{
 		"assign": "labo_dialog_b_10",
 		"jp_text": "強化に<color=#00ff00>成功</color>しました。",
-		"en_text": ""
+		"en_text": "Grind <color=#00ff00>Success</color>."
 	},
 	{
 		"assign": "labo_dialog_t_11",
@@ -2172,7 +2172,7 @@
 	{
 		"assign": "labo_dialog_b_11",
 		"jp_text": "強化に<color=#ff0000>失敗</color>しました。",
-		"en_text": ""
+		"en_text": "<color=#ff0000>Grind Failed.</color>"
 	},
 	{
 		"assign": "labo_dialog_t_12",
@@ -2182,12 +2182,12 @@
 	{
 		"assign": "labo_dialog_b_12",
 		"jp_text": "強化に<color=#ff0000>失敗</color>しました。\n強化値が低下しました。",
-		"en_text": ""
+		"en_text": "<color=#ff0000>You have no luck. Brilliantly.</color>"
 	},
 	{
 		"assign": "item_grind_info",
 		"jp_text": "補助アイテムがセットされていません。\n補助アイテムを使うと\n強化成功率を上げたり\n強化失敗時のリスクを\n下げることができます。\n\n緊急クエストなどで入手しましょう！",
-		"en_text": "補助アイテムがありません。\n\n補助アイテムを使うと\n成功率が上がります！\n\nスクラッチなどで\n入手しましょう！"
+		"en_text": "No boosters found.\nIf you use a grind success booster,\nsuccess rate goes up."
 	},
 	{
 		"assign": "labo_guide_07",
@@ -2347,7 +2347,7 @@
 	{
 		"assign": "menu_dialog_b_00",
 		"jp_text": "このキャラクターを『PSO2』と連動することで、\n同じキャラクターを使用して\n『ファンタシースターオンライン2』を\nプレイすることができます。\n\n「次へ」ボタンをタッチすることで連動処理に進みます。",
-		"en_text": ""
+		"en_text": "By linking this character in PSO2,\nyou will be able to play with the same\ncharacter on PSO2es.\n\nPress \"Next\" to continue."
 	},
 	{
 		"assign": "menu_dialog_t_01",
@@ -2357,7 +2357,7 @@
 	{
 		"assign": "menu_dialog_b_01",
 		"jp_text": "キャラクター連動には、キャラクターの\n作成されていないSEGA IDが必要です。\n\nSEGA IDを取得済みの場合は、\n「次へ」を選択してください。 \nSEGA IDをまだ取得されていない場合は、\n「SEGA IDを取得」を選択してください。\nブラウザを起動して登録サイトへ移動します。",
-		"en_text": ""
+		"en_text": "Linking requires you to login\nwith the same SEGA ID used for PSO2.\nIf you have this ID, press \"Next\".\n\nIf you do not have a SEGA ID,\npress \"Get SEGA ID\" to launch the\nbrowser now. "
 	},
 	{
 		"assign": "menu_dialog_t_02",
@@ -2367,12 +2367,12 @@
 	{
 		"assign": "menu_dialog_b_02",
 		"jp_text": "『PSO2』をプレイするシップ（サーバー）を\n選択してください。\n\n※『PSO2』はシップの異なるキャラクターと\n一緒にプレイすることができません。\nご注意ください。",
-		"en_text": ""
+		"en_text": "Select the ship you play \"PSO2\" on.\nPlease note, you cannot play at\nthe same time as PSO2 when logged on."
 	},
 	{
 		"assign": "menu_dialog_t_03",
 		"jp_text": "SEGA ID認証",
-		"en_text": ""
+		"en_text": "SEGA ID Authentication"
 	},
 	{
 		"assign": "menu_dialog_b_03",
@@ -2387,7 +2387,7 @@
 	{
 		"assign": "menu_dialog_b_04",
 		"jp_text": "プレイヤーIDネームとは『PSO2』の中で\n各プレイヤーを判別するための名前のことです。\n\n設定したプレイヤーIDネームは\n他のユーザーに公開されます。\n\n他のプレイヤーと重複するプレイヤーIDネームは\n設定できませんのでご注意ください。\n\n半角文字だけでなく、全角文字も使用できます。",
-		"en_text": ""
+		"en_text": "Please enter the Player ID you wish to use. Each Player ID will be shown publicly to all other players. Player ID's must be unique and cannot be duplicate entries. Must be double-byte characters only."
 	},
 	{
 		"assign": "menu_dialog_t_11",
@@ -7567,7 +7567,7 @@
 	{
 		"assign": "barmoney_meseta",
 		"jp_text": "メセタ",
-		"en_text": "Meseta"
+		"en_text": "Meseta "
 	},
 	{
 		"assign": "chip_window_pack",
@@ -7967,7 +7967,7 @@
 	{
 		"assign": "item_grind_tab_title",
 		"jp_text": "項目",
-		"en_text": "Item"
+		"en_text": "Items"
 	},
 	{
 		"assign": "item_grind_tab_before",
@@ -14037,7 +14037,7 @@
 	{
 		"assign": "tutorial_battle_ntu_00_05",
 		"jp_text": "<color=black>次の試験もはりきって行きましょう！</color>",
-		"en_text": "<color=black>So enthusiastic!</color>"
+		"en_text": "<color=black>Let's move to the next testing area!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_00_06",
@@ -14047,7 +14047,7 @@
 	{
 		"assign": "tutorial_battle_ntu_01_00",
 		"jp_text": "<color=black>それでは、次のテストの場所へと移動しましょう。</color>",
-		"en_text": "<color=black>So let's move on to the next test area.</color>"
+		"en_text": "<color=black>So here we are, at the new test area.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_01_01",
@@ -14057,12 +14057,12 @@
 	{
 		"assign": "tutorial_battle_ntu_01_02",
 		"jp_text": "<color=black>フィールドのマスには\nアイテムが手に入ったり、ＨＰが回復したりと\nいろいろな効果があります。</color>",
-		"en_text": "<color=black>Sometimes, you'll\nencounter various HP recovery\ndevices and items.</color>"
+		"en_text": "<color=black>Sometimes, you'll\nencounter various HP recovery\ndevices and other items.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_01_03",
 		"jp_text": "<color=black>うまく利用することで\nクエストを有利に進められますので\n覚えておいてくださいね。\nそれでは、先に進みましょう！</color>",
-		"en_text": "<color=black>Try to take advantage\nof these as much as possible,\nbut remember they'll not always\nshow up.</color>"
+		"en_text": "<color=black>Try to take advantage\nof these as much as possible,\nbut remember they'll not always\nshow up for you.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_00",
