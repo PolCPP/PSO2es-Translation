@@ -4747,7 +4747,7 @@
 	{
 		"assign": "quest_counter_unarmed_t",
 		"jp_text": "装備確認",
-		"en_text": ""
+		"en_text": "Equip"
 	},
 	{
 		"assign": "quest_counter_unarmed_b",
@@ -9647,67 +9647,67 @@
 	{
 		"assign": "tu_0000_n22_b",
 		"jp_text": "<color=black>では、ＨＰについても\n合わせてお教えします！</color>",
-		"en_text": "<color=black>では、ＨＰについても\n合わせてお教えします！</color>"
+		"en_text": "<color=black>Now I'll teach you\nabout your HP!</color>"
 	},
 	{
 		"assign": "tu_0000_n07_b",
 		"jp_text": "<color=black>バトルの勝利、おめでとうございます！\n先ほどのように、選んだマスによっては\nエネミーと遭遇することがあります。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Victory can be ensured\ndepending on your route\ntowards the enemy.</color>"
 	},
 	{
 		"assign": "tu_0000_n08_b",
 		"jp_text": "<color=black>ほかにも、フィールドのマスには\nアイテムが手に入ったり、ＨＰが回復したりと\nいろいろな効果がありますよ。</color>",
-		"en_text": ""
+		"en_text": "<color=black>ほかにも、フィールドのマスには\nアイテムが手に入ったり、ＨＰが回復したりと\nいろいろな効果がありますよ。</color>"
 	},
 	{
 		"assign": "tu_0000_n09_b",
 		"jp_text": "<color=black>うまく利用して\nクエストを有利に進めてくださいね。\nそれでは、先に進みましょう。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Take advantage of\nthis whenever you can.\nLet us continue.</color>"
 	},
 	{
 		"assign": "tu_0000_n10_b",
 		"jp_text": "<color=black>さあ、フィールドの最深部に着きましたよ。\nクエストの最後には、強力なエネミーが出現します。\n気を引きしめて行きましょう！</color>",
-		"en_text": ""
+		"en_text": "<color=black>Here we are, at the deepest\npart of the field where a powerful enemy\nwill appear. Let's fight!</color>"
 	},
 	{
 		"assign": "tu_0000_n11_b",
 		"jp_text": "<color=black>エネミーが複数いますね。\nでは、ターゲットの切り替えについて説明します。</color>",
-		"en_text": ""
+		"en_text": "<color=black>More than one enemy\nI see, let's teach you about switching targets.</color>"
 	},
 	{
 		"assign": "tu_0000_n17_b",
 		"jp_text": "<color=black>うまくターゲットを切り替えられましたね。\n複数のエネミーを相手にするときは\nぜひ活用してください。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Great job, you successfully\nswitched targets.\nTake advantage of this as much as possible.</color>"
 	},
 	{
 		"assign": "tu_0000_n18_b",
 		"jp_text": "<color=black>もうひとつ、バトルで重要な\nジャストアタックについてお教えします。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Now we'll teach you\nabout the important\"Just Attacks\".</color>"
 	},
 	{
 		"assign": "tu_0000_n19_b",
 		"jp_text": "<color=black>積極的にジャストアタックを狙って\nバトルを有利に進めましょう。\nそれでは、お教えした内容を使って\nエネミーを倒してみてください！</color>",
-		"en_text": ""
+		"en_text": "<color=black>Time the attack and strike\nbefore you attack.\nTry to defeat the enemy with\na Just Attack!</color>"
 	},
 	{
 		"assign": "tu_0000_n12_b",
 		"jp_text": "<color=black>おめでとうございます！\nクエストで獲得した経験値で\nレベルアップしました。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Congratulations!\nYou have leveled up from\nthe experience from the quest.</color>"
 	},
 	{
 		"assign": "tu_0000_n13_b",
 		"jp_text": "<color=black>クエストをクリアすると\n経験値やメセタが手に入ります。\nがんばってクエストを進めていきましょう！</color>",
-		"en_text": ""
+		"en_text": "<color=black>When you clear the quest,\nEXP and Meseta are awarded.\nLet's complete the quest!</color>"
 	},
 	{
 		"assign": "tu_0000_n14_b",
 		"jp_text": "<color=black>チップが手に入りましたね！\nこれは、バトルで役立つすごいアイテムなんです。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Take this chip!\nIt will help in the battle.</color>"
 	},
 	{
 		"assign": "tu_0000_n15_b",
 		"jp_text": "<color=black>それでは、画面をタッチして\nロビーに戻りましょう！</color>",
-		"en_text": "<color=black>それでは、画面をタッチして\nロビーに戻りましょう！</color>"
+		"en_text": "<color=black>Let's go back to the\nLobby by touching the screen!</color>"
 	},
 	{
 		"assign": "tu_0000_s00_b",
@@ -9717,122 +9717,122 @@
 	{
 		"assign": "tu_0000_s01_b",
 		"jp_text": "＜攻撃の方法＞\n画面をタッチすると、ターゲット中のエネミーに対して\nキャラクターが攻撃を行います。",
-		"en_text": ""
+		"en_text": "<Attacking>\nBy tapping the screen, your character\nwill attack the target."
 	},
 	{
 		"assign": "tu_0000_s02_b",
 		"jp_text": "＜キャラクターの移動＞\n画面を上下左右にスライドすると、\nスライドした方向にキャラクターが移動します。",
-		"en_text": ""
+		"en_text": "<Player Movement>\nWhen you slide the screen\nup, down, left or right, your\ncharacter will move in that direction."
 	},
 	{
 		"assign": "tu_0000_s03_b",
 		"jp_text": "＜ＨＰについて＞\nエネミーの攻撃を受けると、キャラクターのＨＰが減少します。\n攻撃を受けないように、スライド操作で移動しながら戦いましょう。",
-		"en_text": ""
+		"en_text": "<HP Info>\nWhen hit, you take damage and your HP is reduced.\nTry not to get hit."
 	},
 	{
 		"assign": "tu_0000_s04_b",
 		"jp_text": "それでは、説明した操作を使ってエネミーを倒しましょう！",
-		"en_text": ""
+		"en_text": "Let's murder the enemies by using\nthe knowledge you have\nlearned."
 	},
 	{
 		"assign": "tu_0000_s05_b",
 		"jp_text": "＜ターゲットの切り替え＞\n画面左右にある矢印をタッチすると\nターゲットしているエネミーを変更することができます。\n実際に操作をしてみましょう。",
-		"en_text": ""
+		"en_text": "<Target Switching>\nBy pressing the arrows on\nthe sides of the screen, you\ncan switch targets."
 	},
 	{
 		"assign": "tu_0000_w00_b",
 		"jp_text": "通常攻撃の後にタイミング良く画面をタッチすると\n「ジャストアタック」が発動し、攻撃の威力が増します。\n発動に成功すると、ダメージの数値に円状の光がつきます。",
-		"en_text": ""
+		"en_text": "Time your attacks according to the\ncircle that appears around you\nafter an attack.\nWhen it’s red, you attack!"
 	},
 	{
 		"assign": "tu_0001_n00_b",
 		"jp_text": "<color=black>お帰りなさい！\nさあ冒険の始まりです！\n……と言いたいところですが、その前に。</color>",
-		"en_text": "<color=black>お帰りなさい！\nさあ冒険の始まりです！\n……と言いたいところですが、その前に</color>"
+		"en_text": "<color=black>Welcome home!\nNow it's the beginning of\nyour adventure.</color>"
 	},
 	{
 		"assign": "tu_0001_n01_b",
 		"jp_text": "<color=black>手に入れたチップの装備方法について\n説明をお聞きになりますか？</color>",
-		"en_text": "<color=black>手に入れたチップの装備方法について\n説明をお聞きになりますか？</color>"
+		"en_text": "<color=black>When you like to hear an\nexplanation for equipping chips?</color>"
 	},
 	{
 		"assign": "tu_0001_n07_b",
 		"jp_text": "<color=black>それでは、チップの装備について\n説明いたします！</color>",
-		"en_text": ""
+		"en_text": "<color=black>I will describe equiping chips!</color>"
 	},
 	{
 		"assign": "tu_0001_n02_b",
 		"jp_text": "<color=black>それでは、チップを装備してみましょう。\n「編成」ボタンをタッチしてください。</color>",
-		"en_text": "<color=black>それでは、チップを装備してみましょう。\n「編成」ボタンをタッチしてください。</color>"
+		"en_text": "<color=black>Let's equip a chip.\nPress the \"編成\" button.</color>"
 	},
 	{
 		"assign": "tu_0001_n03_b",
 		"jp_text": "<color=black>続けて、「武器／チップ装備」を\nタッチしてください。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Please touch the button\nlabeled \"Weapons/Chips.\"</color>"
 	},
 	{
 		"assign": "tu_0001_n04_b",
 		"jp_text": "<color=black>これで、チップを装備することができました。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Here, we'll be able to equip a chip.</color>"
 	},
 	{
 		"assign": "tu_0001_n05_b",
 		"jp_text": "<color=black>武器や防具の装備も\nこの手順で切り替えることができますよ。\n手に入れたアイテムは、ぜひ装備してみましょう！</color>",
-		"en_text": ""
+		"en_text": "<color=black>You can also equip\nweapons and armor as well.\nLet's get equipped!</color>"
 	},
 	{
 		"assign": "tu_0001_n06_b",
 		"jp_text": "<color=black>それでは、右上の\n「ロビートップへ戻る」を選んで\nロビーに戻りましょう。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Let's go back to the \"Lobby\" by\npressing \"Return to Lobby.\"</color>"
 	},
 	{
 		"assign": "tu_0001_s00_b",
 		"jp_text": "＜チップの装備＞\nはじめに、パレットの中から\nチップを装備したいスロットを選びます。",
-		"en_text": ""
+		"en_text": "<Chip Equip>\nFirst select the slot\nyou wish to equip a chip with."
 	},
 	{
 		"assign": "tu_0001_s01_b",
 		"jp_text": "今回は、アイコンが表示されている場所をタッチしてみましょう。",
-		"en_text": ""
+		"en_text": "This time, try touching the location\nwhere the icon is displayed."
 	},
 	{
 		"assign": "tu_0001_s02_b",
 		"jp_text": "続けて、現在持っているチップの中から\n装備したいチップをタッチします。",
-		"en_text": ""
+		"en_text": "Touch the Chip you wish to\nequip in your possession."
 	},
 	{
 		"assign": "tu_0001_s03_b",
 		"jp_text": "「装備する」ボタンをタッチすると、チップの装備が完了します。",
-		"en_text": ""
+		"en_text": "If you touch the \"Equip\" button, you'll equip it. "
 	},
 	{
 		"assign": "tu_0002_n00_b",
 		"jp_text": "<color=black>次は、装備したチップを\n実際にバトルで使ってみましょう！</color>",
-		"en_text": ""
+		"en_text": "<color=black>Now, let's use the\nequipped chips in battle!</color>"
 	},
 	{
 		"assign": "tu_0002_n01_b",
 		"jp_text": "<color=black>先ほどは研修のため\n惑星ナベリウスまで直接お送りしましたが……</color>",
-		"en_text": ""
+		"en_text": "<color=black>Earlier, you were to be sent to\nNaberius for training, but....</color>"
 	},
 	{
 		"assign": "tu_0002_n02_b",
 		"jp_text": "<color=black>本来、惑星に行くためには\nロビーの「クエスト」から\nクエストを受注する必要があるんです。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Normally,\nyou'd have to wait for the\norder from me to accept a quest.</color>"
 	},
 	{
 		"assign": "tu_0002_n03_b",
 		"jp_text": "<color=black>今回は、ご自分でクエストを受けてみましょう。\nそれでは「クエスト」ボタンをタッチしてください。</color>",
-		"en_text": ""
+		"en_text": "<color=black>How about you respond\nto this quest instead.\nPress the Quest button.</color>"
 	},
 	{
 		"assign": "tu_0002_n04_b",
 		"jp_text": "<color=black>クエストエリアの中から\n「アークス戦闘研修」を選んでください。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Please select \"アークス戦闘研修\" from the Quest Area.</color>"
 	},
 	{
 		"assign": "tu_0002_n05_b",
 		"jp_text": "<color=black>次に、クエストの中から\n「チップ使用訓練」を選びましょう。</color>",
-		"en_text": ""
+		"en_text": "<color=black>次に、クエストの中から\n「チップ使用訓練」を選びましょう。</color>"
 	},
 	{
 		"assign": "tu_0002_n06_b",
@@ -13987,7 +13987,7 @@
 	{
 		"assign": "tutorial_skip_dialog_b_00",
 		"jp_text": "チップ装備のチュートリアルを確認しますか？",
-		"en_text": ""
+		"en_text": "View the Chip Equipment tutorial?"
 	},
 	{
 		"assign": "tutorial_skip_dialog_t_01",
@@ -13997,12 +13997,12 @@
 	{
 		"assign": "tutorial_skip_dialog_b_01",
 		"jp_text": "チップ強化のチュートリアルを確認しますか？",
-		"en_text": ""
+		"en_text": "View the Chip Enhancement tutorial?"
 	},
 	{
 		"assign": "tutorial_skip_dialog_btn_00",
 		"jp_text": "確認する",
-		"en_text": ""
+		"en_text": "Confirm"
 	},
 	{
 		"assign": "tutorial_skip_dialog_btn_01",
@@ -14012,32 +14012,32 @@
 	{
 		"assign": "tutorial_battle_ntu_00_00",
 		"jp_text": "<color=black>それでは、適性試験をはじめます！\nまずは、目の前のエネミー（敵）を\n倒してみてください！</color>",
-		"en_text": ""
+		"en_text": "<color=black>We'll start the first test.\nStart off by defeating the\nenemy in front of you.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_00_01",
 		"jp_text": "<color=black>この短時間での撃破……お見事ですね！</color>",
-		"en_text": ""
+		"en_text": "<color=black>That was fast....Good work!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_00_02",
 		"jp_text": "<color=black>次は、「チップ」の使い方をテストします。\n今からお貸しするチップを使って\nエネミーを倒してみてください！</color>",
-		"en_text": ""
+		"en_text": "<color=black>Next test is to defeat the\nenemy using the chips rented\nbelow, good luck!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_00_03",
 		"jp_text": "<color=black>お見事です！\nうまく発動できましたね。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Wonderful!\nYou were able to use the chips.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_00_04",
 		"jp_text": "<color=black>以上で攻撃とチップの使い方に関する\nテストは終了です。\nとっても良い成績でしたよ！</color>",
-		"en_text": ""
+		"en_text": "<color=black>Try attacking with\nboth the chips and your\nweapon!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_00_05",
 		"jp_text": "<color=black>次の試験もはりきって行きましょう！</color>",
-		"en_text": ""
+		"en_text": "<color=black>So enthusiastic!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_00_06",
@@ -14047,72 +14047,72 @@
 	{
 		"assign": "tutorial_battle_ntu_01_00",
 		"jp_text": "<color=black>それでは、次のテストの場所へと移動しましょう。</color>",
-		"en_text": ""
+		"en_text": "<color=black>So let's move on to the next test area.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_01_01",
 		"jp_text": "<color=black>フィールドでは、画面右側のマスをタッチして\n進むことができますよ。</color>",
-		"en_text": ""
+		"en_text": "<color=black>In this field, touch the space\n on the screen to continue.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_01_02",
 		"jp_text": "<color=black>フィールドのマスには\nアイテムが手に入ったり、ＨＰが回復したりと\nいろいろな効果があります。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Sometimes, you'll\nencounter various HP recovery\ndevices and items.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_01_03",
 		"jp_text": "<color=black>うまく利用することで\nクエストを有利に進められますので\n覚えておいてくださいね。\nそれでは、先に進みましょう！</color>",
-		"en_text": ""
+		"en_text": "<color=black>Try to take advantage\nof these as much as possible,\nbut remember they'll not always\nshow up.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_00",
 		"jp_text": "<color=black>それでは、テストを続けます！\n戦いは、攻撃だけでは成り立ちません！\n今度は攻撃を避けるテストです。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Next test, do not try to\nattack, but rather dodge the\nenemy.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_01",
 		"jp_text": "<color=black>これから、エネミーが岩を投げてきますので\nそれにぶつからないように……あっ！</color>",
-		"en_text": ""
+		"en_text": "<color=black>This enemy will try to throw a\nrock, please avoid it!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_02",
 		"jp_text": "<color=black>すごい！\n完璧な回避ですね！</color>",
-		"en_text": ""
+		"en_text": "<color=black>Nice dodging skills!\nGood Job!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_03",
 		"jp_text": "<color=black>前に出るだけが戦いではありません。</color>",
-		"en_text": ""
+		"en_text": "<color=black>You'll fail the quest if you die.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_04",
 		"jp_text": "<color=black>今度は、いったん後ろに間合いをとって\nカウンター攻撃を狙いましょう！</color>",
-		"en_text": ""
+		"en_text": "<color=black>Now let's avoid the\nattack by jumping back!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_05",
 		"jp_text": "<color=black>お見事です！</color>",
-		"en_text": ""
+		"en_text": "<color=black>Nice Job!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_06",
 		"jp_text": "<color=black>さあ、攻撃をかわしたら\n次は反撃に転じましょう。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Now, let's the enemy\nfrom the front.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_07",
 		"jp_text": "<color=black>エネミーを攻撃して、倒してください！</color>",
-		"en_text": ""
+		"en_text": "<color=black>Attack the enemy,</color><color=red> Kill! Kill! Kill!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_08",
 		"jp_text": "<color=black>すばらしい成績です！\n基本動作は完璧ですね。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Wonderful performance!\nOperation complete.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_09",
 		"jp_text": "<color=black>以上で、基本動作のテストは終了です。\n次で最後のテストとなりますので\nもう少しお付き合いくださいね。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Almost approaching the final stretch of tests.\nLet's continue a bit more.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_10",
@@ -14122,32 +14122,32 @@
 	{
 		"assign": "tutorial_battle_ntu_03_00",
 		"jp_text": "<color=black>それでは、次が最後のテストになります。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Approaching the final test.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_03_01",
 		"jp_text": "<color=black>この先に、最後のエネミー\n「ファングバンサー」が待ち受けています。</color>",
-		"en_text": ""
+		"en_text": "<color=black>The last enemy,\n「Fang Banther」, awaits us.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_03_02",
 		"jp_text": "<color=black>このテストはとても凶暴なエネミーとの\n戦いとなりますが……\nあなた達ならきっと撃破できますよ！</color>",
-		"en_text": ""
+		"en_text": "<color=black>This enemy is ferocious,\nbut I'm sure you can <color=red>slaughter</color> it.\nGood Luck!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_03_03",
 		"jp_text": "<color=black>応援していますから、がんばってくださいね！\nさあ進みましょう！</color>",
-		"en_text": ""
+		"en_text": "<color=black>We'll celebrate after your success.\nFor now, let's move!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_04_00",
 		"jp_text": "<color=black>これが大型エネミー「ファングバンサー」です！</color>",
-		"en_text": "<color=black>Enemey 「Fang Banther」 has appeared！</color>"
+		"en_text": "<color=black>Enemy 「Fang Banther」 has appeared！</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_04_01",
 		"jp_text": "<color=black>このエネミーを倒すために\n強力なチップをお貸しします。\nきっとあなたなら、使いこなせるはず！</color>",
-		"en_text": "<color=black>I'll lend you powerful chips\nto help you defeat\nthis enemy!</color>"
+		"en_text": "<color=black>I'll lend you powerful chips\nto help you murder\nthis enemy!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_04_02",
@@ -14167,12 +14167,12 @@
 	{
 		"assign": "tutorial_battle_ntu_04_05",
 		"jp_text": "<color=black>エネミーとの戦いで見せた\n戦闘能力の高さ、そしてチップへの高い適性……</color>",
-		"en_text": ""
+		"en_text": "<color=black>You have shown amazing combat\nability and excellent skill with chips....</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_04_06",
 		"jp_text": "<color=black>あなた達なら、この先、どんな任務も\n乗り越えていけそうですね。</color>",
-		"en_text": ""
+		"en_text": "<color=black>I'm sure you have what it\ntakes to overcome our main mission.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_04_07",
