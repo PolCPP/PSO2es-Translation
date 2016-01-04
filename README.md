@@ -12,11 +12,12 @@
 
 ## Credits
 
-SEGAC - For the libs that power the trans tool (lol)
-PolCPP - Aka Rupikachu for the tool
-AIDA - Initial translations
-Logokas - A lot of UI translation work
-Synthsy - Translation work
+
+* SEGAC - For the libs that power the trans tool (lol)
+* PolCPP - Aka Rupikachu for the tool
+* AIDA - Initial translations
+* Logokas - A lot of UI translation work
+* Synthsy - Translation work
 
 ## License
 
