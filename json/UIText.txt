@@ -1106,12 +1106,12 @@
 	},
 	{
 		"assign": "charamake_select_sex_01",
-		"jp_text": "男性",
+		"jp_text": "male",
 		"en_text": "Male"
 	},
 	{
 		"assign": "charamake_select_sex_02",
-		"jp_text": "女性",
+		"jp_text": "female",
 		"en_text": "Female"
 	},
 	{
@@ -2892,32 +2892,32 @@
 	{
 		"assign": "mag_dialog_t_17",
 		"jp_text": "マグレベルダウン",
-		"en_text": ""
+		"en_text": "Mag level down"
 	},
 	{
 		"assign": "mag_dialog_b_17",
 		"jp_text": "マグレベルダウンデバイスを消費して\nマグの支援レベルを1つ下げます。\nよろしいですか？\n\n消費前\n{0}\n\n消費後\n<color=#00C2FF>{1}</color>",
-		"en_text": ""
+		"en_text": "Using the Mag Level Down device\nyou'll lower one stat from your mag.\nIs that OK?\n\nBefore Use:\n{0}\n\nAfter:\n<color=#00C2FF>{1}</color>"
 	},
 	{
 		"assign": "mag_dialog_t_18",
 		"jp_text": "デバイスを使う",
-		"en_text": ""
+		"en_text": "Use Device"
 	},
 	{
 		"assign": "mag_dialog_b_18",
 		"jp_text": "このデバイスは、対象のマグがLv.101になるまで\n使用できません。",
-		"en_text": ""
+		"en_text": "Device cannot be used\nuntil Mag is Lv. 101."
 	},
 	{
 		"assign": "mag_dialog_t_19",
 		"jp_text": "デバイス使用確認",
-		"en_text": ""
+		"en_text": "Confirm Device Use"
 	},
 	{
 		"assign": "mag_dialog_b_20",
 		"jp_text": "ＳＰオートアクション「{0}」を\n習得しました。",
-		"en_text": ""
+		"en_text": "SP Auto Action \"{0}\" learned."
 	},
 	{
 		"assign": "receive_item_extreme_pass",
@@ -2942,7 +2942,7 @@
 	{
 		"assign": "receive_npc_b_00",
 		"jp_text": "<color=black>こちらでは、『PSO2』で発行される\nチケット・パスを『PSO2』の倉庫に\n受け取ることができます。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Here, Certain PSO2 Tickets can\nbe picked up.\nThey'll be sent to your inventory.</color>"
 	},
 	{
 		"assign": "receive_dialog_t_00",
@@ -5837,7 +5837,7 @@
 	{
 		"assign": "fieldoption_category_windowtitle",
 		"jp_text": "メニュー",
-		"en_text": ""
+		"en_text": "Menu"
 	},
 	{
 		"assign": "fieldoption_category_soundsetting",
@@ -5857,7 +5857,7 @@
 	{
 		"assign": "fieldoption_category_close",
 		"jp_text": "閉じる",
-		"en_text": ""
+		"en_text": "Close"
 	},
 	{
 		"assign": "fieldoption_soundsetting_windowtitle",
@@ -8407,12 +8407,12 @@
 	{
 		"assign": "loginbonus_first_message",
 		"jp_text": "<color=#000000>よう、今日も元気そうだな！</color>",
-		"en_text": "<color=#000000>It will be great!</color>"
+		"en_text": "<color=#000000>This will be great!</color>"
 	},
 	{
 		"assign": "loginbonus_selafy_next",
 		"jp_text": "<color=#000000>明日もまってるぜ！</color>",
-		"en_text": "<color=#000000>明日もお待ちしています♪</color>"
+		"en_text": "<color=#000000>Can't wait for tomorrow!</color>"
 	},
 	{
 		"assign": "loginbonus_selafy_complete",
@@ -8457,7 +8457,7 @@
 	{
 		"assign": "menu_charainfo_premium_term",
 		"jp_text": "<%year>年<%month>月<%day>日<%hour>時<%minute>分",
-		"en_text": ""
+		"en_text": "<%year>/<%month>/<%day>    <%hour>:<%minute>"
 	},
 	{
 		"assign": "menu_charainfo_premium_unused",
@@ -8602,7 +8602,7 @@
 	{
 		"assign": "lobby_action_gauge",
 		"jp_text": "<color=#FFFFFF>行動力</color>",
-		"en_text": ""
+		"en_text": "<color=#FFFFFF>Drive</color>"
 	},
 	{
 		"assign": "lobby_op_gauge",
@@ -8672,12 +8672,12 @@
 	{
 		"assign": "menu_pso2_myshop_purchase",
 		"jp_text": "マイショップ購入",
-		"en_text": ""
+		"en_text": "Buy from MyShop"
 	},
 	{
 		"assign": "menu_pso2_myshop_sales",
 		"jp_text": "マイショップ売上",
-		"en_text": ""
+		"en_text": "Sell from MyShop"
 	},
 	{
 		"assign": "menu_pso2_mag",
@@ -8702,12 +8702,12 @@
 	{
 		"assign": "menu_pso2_dialog_mag_t",
 		"jp_text": "マグ未所持",
-		"en_text": ""
+		"en_text": "You don't own a mag."
 	},
 	{
 		"assign": "menu_pso2_dialog_mag_b",
 		"jp_text": "『PSO2』でマグを所持していないため\n利用できません。",
-		"en_text": ""
+		"en_text": "You can't use because you\ndon't have a mag in PSO2."
 	},
 	{
 		"assign": "menu_fulldownload_t_01",
@@ -8862,12 +8862,12 @@
 	{
 		"assign": "chip_item_over_num",
 		"jp_text": "チップ　： <color=red><%chip_over>枚</color>オーバーしています。\nアイテム： <color=red><%item_over>個</color>オーバーしています。",
-		"en_text": "チップ　： <color=red><%chip_over>枚</color>オーバーしています。\nアイテム： <color=red><%item_over>個</color>オーバーしています。"
+		"en_text": "You are <color=red><%chip_over> chip(s)</color>over the limit.\nYou are <color=red><%item_over> item(s)</color>over the limit."
 	},
 	{
 		"assign": "quest_counter_drive_lack_t",
 		"jp_text": "行動力不足",
-		"en_text": ""
+		"en_text": "Not enough Drive."
 	},
 	{
 		"assign": "quest_counter_rappy_coin",
@@ -9512,7 +9512,7 @@
 	{
 		"assign": "cofy",
 		"jp_text": "コフィー",
-		"en_text": "Coffy"
+		"en_text": "Koffie"
 	},
 	{
 		"assign": "combatant",
@@ -10757,182 +10757,182 @@
 	{
 		"assign": "ef_0001_n00_b",
 		"jp_text": "<color=black>森林エリアの探索任務\nおつかれさまでした！</color>",
-		"en_text": ""
+		"en_text": "<color=black>The mission in the forest\nwas completed.\nGood Work!</color>"
 	},
 	{
 		"assign": "ef_0001_n01_b",
 		"jp_text": "<color=black>ひとつ、ニュースがあります。\nあなたが探索したエリアから\n旧式の「メッセージパック」が\n発見されました。</color>",
-		"en_text": ""
+		"en_text": "<color=black>In the area you searched,\nthere was an old message\npack that was discovered.</color>"
 	},
 	{
 		"assign": "ef_0001_n02_b",
 		"jp_text": "<color=black>メッセージパックとは\nアークスの支援のために\nフィールドに配置される\n情報装置なのですが……</color>",
-		"en_text": ""
+		"en_text": "<color=black>Message Packs support\nARKS members when they're\nin the field...</color>"
 	},
 	{
 		"assign": "ef_0001_n03_b",
 		"jp_text": "<color=black>今回発見されたメッセージパックは\n数年前に使われていた\n旧式のものとのことです。\nもしかしたら、遭難者が残した\nものかもしれませんね……</color>",
-		"en_text": ""
+		"en_text": "<color=black>We've discovered that this\nmessage pack was last\nused years ago.\nPerhaps a lone survivor lost...</color>"
 	},
 	{
 		"assign": "ef_0001_n04_b",
 		"jp_text": "<color=black>メッセージパックについては\n現在、データを解析中です。\n新しい情報が入ったら\nお伝えしますね。</color>",
-		"en_text": ""
+		"en_text": "<color=black>We're still analyzing\nthe message pack.\nWe'll keep you updated.</color>"
 	},
 	{
 		"assign": "ef_0001_n05_b",
 		"jp_text": "<color=black>さて、それでは次の任務です。\n「惑星アムドゥスキア」の\n「火山洞窟」エリアの探索を\nお願いします。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Next area is \"Amduscia\".\nYou'll be searching in\nthe volcanic caverns.</color>"
 	},
 	{
 		"assign": "ef_0001_n06_b",
 		"jp_text": "<color=black>アムドゥスキアは、火山活動が活発な惑星です。\n「龍族」と呼ばれる生物がすんでいるのですが\n龍族の一部も、何らかの理由で凶暴化しています。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Amduscia is an Active Volcanic Planet.\nBut there's local inhabitants\ncalled Dragonkin.\nThey're a bit barbaric.</color>"
 	},
 	{
 		"assign": "ef_0001_n07_b",
 		"jp_text": "<color=black>火山洞窟エリアを探索しつつ\n立ちふさがる凶暴化した龍族については\n交渉の余地がありませんので\nやむを得ないですが、倒してください。</color>",
-		"en_text": ""
+		"en_text": "<color=black>While searching, please be careful.\nThe Dragonkin are known to be\naggressive, and refused formal negociations.\nAttack only when attacked.</color>"
 	},
 	{
 		"assign": "ef_0001_n08_b",
 		"jp_text": "<color=black>龍族のエネミーの弱点は「氷」属性です。\nチップを氷属性のチップに装備変更しておくと\n戦いが楽になりますよ。\nでは、健闘を祈っています！</color>",
-		"en_text": ""
+		"en_text": "<color=black>However, they're weak to Ice.\nIf you have an Ice Weapon or Chip,\nplease use them.\nGood luck out there!</color>"
 	},
 	{
 		"assign": "ef_0002_n00_b",
 		"jp_text": "<color=black>火山洞窟エリアの探索\nおつかれさまでした。</color>",
-		"en_text": ""
+		"en_text": "<color=black>The mission in the caves\nwas completed.\nGood Work!</color>"
 	},
 	{
 		"assign": "ef_0002_n01_b",
 		"jp_text": "<color=black>ひとつ、新しい情報があります。\n以前、あなたがナベリウスの\n森林エリアで発見した\n旧式のメッセージパックですが……</color>",
-		"en_text": ""
+		"en_text": "<color=black>There is new information\nreguarding the message pack you\nfound back in Naberius....</color>"
 	},
 	{
 		"assign": "ef_0002_n02_b",
 		"jp_text": "<color=black>４年前、探索任務中に消息を絶った\n「コーエン博士」が残したものだと\nいうことがわかりました……</color>",
-		"en_text": ""
+		"en_text": "<color=black>It reported about the\ndisappearance of Dr. Cohen 4 years ago...</color>"
 	},
 	{
 		"assign": "ef_0002_n03_b",
 		"jp_text": "<color=black>コーエン博士は\n「チップ」システムを開発した\nアークスでも有数の\n優秀な技術者でした。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Dr. Cohen developed the Chip System.\nHe was a brilliant scientist\nwithin ARKS.</color>"
 	},
 	{
 		"assign": "ef_0002_n04_b",
 		"jp_text": "<color=black>メッセージパックには\n「ナベリウスの凍土地帯に向かう」\nという博士のメッセージが\n残されていたとのことです……</color>",
-		"en_text": ""
+		"en_text": "<color=black>The message pack read\n\"I am headed to the Tundra\narea of Naberius. - Dr. Cohen.\" </color>"
 	},
 	{
 		"assign": "ef_0002_n05_b",
 		"jp_text": "<color=black>……</color>",
-		"en_text": ""
+		"en_text": "<color=black>....</color>"
 	},
 	{
 		"assign": "ef_0002_n06_b",
 		"jp_text": "<color=black>あっ、ごめんなさい。\n説明の途中でしたね。\nちょっと別なことを考えてました……\n失礼しました。</color>",
-		"en_text": ""
+		"en_text": "<color=black>I'm sorry.\nIn the middle of the description,\nI was thinking of something else.\nPardon me.</color>"
 	},
 	{
 		"assign": "ef_0002_n07_b",
 		"jp_text": "<color=black>今回の任務は\n博士の手がかりを追って\n惑星ナベリウスの「凍土」エリアを\n探索していただきます。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Your new mission is to search\nfor the whereabouts of Dr. Cohen.\nStarting from the Tundra.</color>"
 	},
 	{
 		"assign": "ef_0002_n08_b",
 		"jp_text": "<color=black>ナベリウスの凍土エリアは、雪と氷に閉ざされており\n森林エリアと同様に原生種が棲息しています。\n弱点も、同じく「炎」属性です。</color>",
-		"en_text": ""
+		"en_text": "<color=black>The Tundra area was closed off due\nto the Ice and Snow.\nThe wildife adapted to this climate,\nbut share weakness of Fire.</color>"
 	},
 	{
 		"assign": "ef_0002_n09_b",
 		"jp_text": "<color=black>強力なエネミーの出現情報も寄せられています。\nチップを炎属性に装備変更するなど\n準備は万全にしていってくださいね。</color>",
-		"en_text": ""
+		"en_text": "<color=black>The appearance of a powerful eneny\nhas been confirmed.\nPlease equip Fire chips\nwhen possible.</color>"
 	},
 	{
 		"assign": "ef_0002_n10_b",
 		"jp_text": "<color=black>そして……コーエン博士の情報が見つかることも\n祈っています！\nがんばってくださいね！　待ってます！</color>",
-		"en_text": ""
+		"en_text": "<color=black>As you search, I hope you'll find\nmore info on Dr. Cohen's whereabouts.\nGood luck and do your best!</color>"
 	},
 	{
 		"assign": "ef_0003_n00_b",
 		"jp_text": "<color=black>大変です！\nアークスシップの市街地エリアに\n「ダーカー」の侵入警報が発令されました！</color>",
-		"en_text": ""
+		"en_text": "<color=black>Alert!\nDarkers have invaded the\nARKS Ship's  \"Urban Area\", </color><color=red>slaughter them all!</color>"
 	},
 	{
 		"assign": "ef_0003_n01_b",
 		"jp_text": "<color=black>アークスシップは、われわれが暮らす母船ですが\nその一部の市街地エリアに\nダーカーが侵入した模様です。</color>",
-		"en_text": ""
+		"en_text": "<color=black>The ARKS Ship is a mothership we live in.\nThe city district is where\nthe Darkers invaded.</color>"
 	},
 	{
 		"assign": "ef_0003_n02_b",
 		"jp_text": "<color=black>ダーカーは、宇宙の至るところに現れる\n正体不明のエネミーです。\nさまざまな種類が確認されていますが\nおおむねどの種も黒色の体を持っているようです。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Darkers, they appear everywhere\nin the universe.\nWe don't know their origins,\nbut we have identified several types.</color>"
 	},
 	{
 		"assign": "ef_0003_n03_b",
 		"jp_text": "<color=black>今回侵入を許したのは、蟲系のダーカーで\n弱点は「炎」「光」属性が有効です。\n戦う前に、チップ装備の確認をお忘れなく！</color>",
-		"en_text": ""
+		"en_text": "<color=black>We identified the Darker type as Insectoid.\nWeak to Light and Fire, ensure you\nhave equipped the right chips!</color>"
 	},
 	{
 		"assign": "ef_0003_n04_b",
 		"jp_text": "<color=black>それでは、至急市街地エリアに向かい\nダーカーたちを撃退してきてください！</color>",
-		"en_text": ""
+		"en_text": "<color=black>Now go towards the Urban Area\nand repel the Darkers!</color>"
 	},
 	{
 		"assign": "ef_0004_n00_b",
 		"jp_text": "<color=black>おめでとうございます！\nこれまでの活躍が認められ\nより難易度の高い、★３クエストの\n任務が解放されました！</color>",
-		"en_text": ""
+		"en_text": "<color=black>Congrats!\nWe have observed your work.\nA ★3 ranked mission has\nbeen assigned to you!</color>"
 	},
 	{
 		"assign": "ef_0004_n01_b",
 		"jp_text": "<color=black>そして、久々に新情報です！\nコーエン博士が残したと思われる\nメッセージパックが発見されました！</color>",
-		"en_text": ""
+		"en_text": "<color=black>Finally, new information!\nI think it's more messages\nthat Dr. Cohen left behind!</color>"
 	},
 	{
 		"assign": "ef_0004_n02_b",
 		"jp_text": "<color=black>パックが発見されたのは\n「惑星リリーパ」の「砂漠」エリア。\nリリーパは、地表全体が砂漠におおわれた惑星です。</color>",
-		"en_text": ""
+		"en_text": "<color=black>The message pack seems to have\nlogged info about the desert of\nthe desert planet \"Lilipa.\"</color>"
 	},
 	{
 		"assign": "ef_0004_n03_b",
 		"jp_text": "<color=black>そこで発見されたメッセージパックには\n砂漠エリアの生物の観察記録とともに\n「実験を開始する」という内容の文章が\n残されていたそうです。</color>",
-		"en_text": ""
+		"en_text": "<color=black>The message pack,\nobservation data logs recorded info\nabout the planet's organisms,\nand a message, \"Let's start the experiement.\"</color>"
 	},
 	{
 		"assign": "ef_0004_n04_b",
 		"jp_text": "<color=black>実験……何を意味しているのでしょうか。</color>",
-		"en_text": ""
+		"en_text": "<color=black>I wonder what they meant by \"Experiement,\" hmm...</color>"
 	},
 	{
 		"assign": "ef_0004_n05_b",
 		"jp_text": "<color=black>それはともかく、リリーパの砂漠エリアの\n探索許可がおりました。\n砂漠エリアには「機甲種」と呼ばれる\nこの惑星でかつて栄えた古い文明の\n防衛兵器が出現します。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Anyways, permission granted to\ngo to Lilipa.\nAn ancient civiliation once dwelled there.\nNow their creations, the\n\"Armored Machines\" act as defense systems.</color>"
 	},
 	{
 		"assign": "ef_0004_n06_b",
 		"jp_text": "<color=black>「機甲種」は「雷」属性が弱点となっています。\nただし、砂漠エリアではダーカーの出現頻度も\n高くなっていますので、その点も踏まえて\nチップ装備を整えてください。\nそれでは、健闘を祈っています！</color>",
-		"en_text": ""
+		"en_text": "<color=black>These Machines are weak to Lightning.\nHowever, there's reported sightings of Darkers.\nPlease equip yourself appropriately.\nGood Luck!</color>"
 	},
 	{
 		"assign": "es_0001_n00_b",
 		"jp_text": "<color=black>おかえりなさい！\n凍土エリアで、コーエン博士の\n情報は見つかりましたか！？</color>",
-		"en_text": ""
+		"en_text": "<color=black>Welcome back!\nHave you found Dr. Cohen's\ninformation in the Tundra region!?</color>"
 	},
 	{
 		"assign": "es_0001_n01_b",
 		"jp_text": "<color=black>そうですか……\n見つかりませんでしたか。\n残念です……</color>",
-		"en_text": ""
+		"en_text": "<color=black>Is that so....\nThe info could not be found。\nThat's too bad....</color>"
 	},
 	{
 		"assign": "es_0001_n02_b",
 		"jp_text": "<color=black>あっ、ごめんなさい！\nあなたが一生懸命に戦って\n任務を達成してくれたことには\nとても感謝しています！</color>",
-		"en_text": ""
+		"en_text": "<color=black>Ah, I'm sorry!\nYou're fighting so hard,\nit's helping us achieve our goal.\nI appreciate it very much!</color>"
 	},
 	{
 		"assign": "es_0001_n03_b",
 		"jp_text": "<color=black>引き続き、あせらず気長に\n情報を集めていくしか\nなさそうですね。\n任務完了、お疲れさまでした。</color>",
-		"en_text": ""
+		"en_text": "<color=black>There's no need to rush\nyour search for information.\nMission Cleared, Good Work.</color>"
 	},
 	{
 		"assign": "es_0002_n00_b",
@@ -12202,17 +12202,17 @@
 	{
 		"assign": "es_0028_n02_b",
 		"jp_text": "<color=black>私は、アークス管理官のコフィーです。\nセラフィの代理として連絡をしています。</color>",
-		"en_text": ""
+		"en_text": "<color=black>I am Koffie, ARKS Administration Officer.\nI contact you on behalf of Seraphy.</color>"
 	},
 	{
 		"assign": "es_0028_n03_b",
 		"jp_text": "<color=black>セラフィは、貴方の身代わりとなって\nコーエン博士の勢力に拉致されました。\nただし、これはセラフィが\n予期していたところでもあります。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Seraphy has been kidnapped in\nyour place by Dr. Cohen.\nThanks to her, we can now have \nthe location of his base.</color>"
 	},
 	{
 		"assign": "es_0028_n04_b",
 		"jp_text": "<color=black>彼女は、発信器を所持しています。\n現在、彼女の発信器からの信号を解析し\n彼女が拉致されている場所……\n博士の本拠地と想定される座標の\n特定を急いでいます。</color>",
-		"en_text": ""
+		"en_text": "<color=black>She has a transmitter on her.\nWe're tracking her signal.....\nCoordinates found.\nWe believe it's the home of the Doctor.\nHurry now!</color>"
 	},
 	{
 		"assign": "es_0028_n05_b",
@@ -12722,7 +12722,7 @@
 	{
 		"assign": "es_0037_n04_b",
 		"jp_text": "<color=black>ブリュー・リンガーダ。\n博士がダーカーの中でも、その攻撃性と機動力に\nもっとも注目していた、堕の骸……</color>",
-		"en_text": ""
+		"en_text": "<color=black>Blu Ringahda.\nKnown for it's sggressiveness and mobility.\nIt has the most confirmed kills.</color>"
 	},
 	{
 		"assign": "es_0037_n05_b",
