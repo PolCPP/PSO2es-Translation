@@ -4987,7 +4987,7 @@
 	{
 		"assign": "quest_counter_raid_term",
 		"jp_text": "<color=#f6bf03><%year>/<%month>/<%day> <%hour>:<%minute>まで</color>",
-		"en_text": ""<color=#f6bf03><%year>/<%month>/<%day> <%hour>:<%minute></color>"
+		"en_text": "<color=#f6bf03><%year>/<%month>/<%day> <%hour>:<%minute></color>"
 	},
 	{
 		"assign": "quest_counter_raid_button_reward",
@@ -5137,7 +5137,7 @@
 	{
 		"assign": "quest_counter_raid_sp_dialog_00_b",
 		"jp_text": "「超級トリガー」を所持していません。",
-		"en_text": "You do not own a /"Super Hard Trigger/"."
+		"en_text": "You do not own a 'Super Hard Trigger'."
 	},
 	{
 		"assign": "quest_counter_raid_sp_dialog_01_t",
