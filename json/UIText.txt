@@ -4657,7 +4657,7 @@
 	{
 		"assign": "myshop_keyword_over",
 		"jp_text": "該当件数が多すぎます。\n文字列を追加して絞り込みを\n行ってください。",
-		"en_text": ""
+		"en_text": "Too many keywords.\nPlease refine your search."
 	},
 	{
 		"assign": "myshop_keyword_gentime",
@@ -4682,22 +4682,22 @@
 	{
 		"assign": "questcounter_guide_03",
 		"jp_text": "<color=#f0df60>Exのエリアは、強力なExエネミーたちが登場する高難度のクエストです。Normalのエリアで獲得スコアを最大にすると解放されます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Normal Quests are quests that begin the story. Ex quests are higher difficulty versions of Normal Quests.</color>"
 	},
 	{
 		"assign": "questcounter_guide_04",
 		"jp_text": "<color=#f0df60>過去に配信された、管理官セラフィをめぐるストーリーです。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>The story of Administration Officer Seraphy's past.</color>"
 	},
 	{
 		"assign": "questcounter_guide_05",
 		"jp_text": "<color=#f0df60>日替わりクエストや期間限定のイベントクエストです。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Daily and Limited Quests are time based events.</color>"
 	},
 	{
 		"assign": "questcounter_guide_06",
 		"jp_text": "<color=#f0df60>フレンドたちと共に強力なエネミーを討伐するクエストです。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Subdue a powerful enemy with help from friends.</color>"
 	},
 	{
 		"assign": "quest_counter_bonus_exp",
@@ -4752,7 +4752,7 @@
 	{
 		"assign": "quest_counter_unarmed_b",
 		"jp_text": "現在、武器を装備しておりません。\nこのまま出発しますか？\n\n武器を装備する場合は、「いいえ」選択後に\n画面右下の「武器／チップ装備」を\nタッチしてください。",
-		"en_text": ""
+		"en_text": "You're currently unarmed.\nAre you sure you're ok?"
 	},
 	{
 		"assign": "quest_counter_lv",
@@ -4797,7 +4797,7 @@
 	{
 		"assign": "quest_counter_medalbonus",
 		"jp_text": "獲得スコア<%score>で入手可能",
-		"en_text": ""
+		"en_text": "Possible <%score>"
 	},
 	{
 		"assign": "quest_counter_medalbonus_get",
@@ -4977,7 +4977,7 @@
 	{
 		"assign": "quest_counter_header_story",
 		"jp_text": "ストーリークエスト",
-		"en_text": ""
+		"en_text": "Story Quest"
 	},
 	{
 		"assign": "quest_counter_stage_other",
@@ -4987,37 +4987,37 @@
 	{
 		"assign": "quest_counter_raid_term",
 		"jp_text": "<color=#f6bf03><%year>/<%month>/<%day> <%hour>:<%minute>まで</color>",
-		"en_text": ""
+		"en_text": ""<color=#f6bf03><%year>/<%month>/<%day> <%hour>:<%minute></color>"
 	},
 	{
 		"assign": "quest_counter_raid_button_reward",
 		"jp_text": "報酬情報",
-		"en_text": ""
+		"en_text": "Reward"
 	},
 	{
 		"assign": "quest_counter_raid_passtime1",
 		"jp_text": "<color=red><%hh>:<%mm>:<%ss> 経過</color>",
-		"en_text": ""
+		"en_text": "<color=red><%hh>:<%mm>:<%ss></color>"
 	},
 	{
 		"assign": "quest_counter_raid_caption_quest",
 		"jp_text": "クエスト情報",
-		"en_text": ""
+		"en_text": "Quest Information"
 	},
 	{
 		"assign": "quest_counter_raid_label_passtime",
 		"jp_text": "経過時間 <color=#68a0a7>/</color>\n",
-		"en_text": ""
+		"en_text": "Elasped <color=#68a0a7>/</color>\n"
 	},
 	{
 		"assign": "quest_counter_raid_label_encount",
 		"jp_text": "遭遇者　<color=#68a0a7>/\n</color>　",
-		"en_text": ""
+		"en_text": "Met   　<color=#68a0a7>/\n</color>　"
 	},
 	{
 		"assign": "quest_counter_raid_not_accept",
 		"jp_text": "未受注",
-		"en_text": ""
+		"en_text": "Not Ordered"
 	},
 	{
 		"assign": "quest_counter_raid_passtime2",
@@ -5027,77 +5027,77 @@
 	{
 		"assign": "quest_counter_raid_current_rank",
 		"jp_text": "あと<%hh>:<%mm>:<%ss>以内に討伐で<color=#ffff00><%rank>ランク</color>クリア！",
-		"en_text": ""
+		"en_text": "<color=#ffff00><%rank>-Rank</color> subjugation cleared in <%hh>:<%mm>:<%ss>!"
 	},
 	{
 		"assign": "quest_counter_raid_current_rank_b",
 		"jp_text": "発生期間内にクリアでBランククリア",
-		"en_text": ""
+		"en_text": "B-Rank cleared in the time frame"
 	},
 	{
 		"assign": "quest_counter_raid_attack_num",
 		"jp_text": "<%num>人参加中",
-		"en_text": "プレイヤー<%num>人が出撃"
+		"en_text": "Participating: <%num>"
 	},
 	{
 		"assign": "quest_counter_raid_caption_progress",
 		"jp_text": "クエスト進行状況",
-		"en_text": ""
+		"en_text": "Quest Progress"
 	},
 	{
 		"assign": "quest_counter_raid_caption_reward",
 		"jp_text": "クリア報酬",
-		"en_text": ""
+		"en_text": "Quest Reward"
 	},
 	{
 		"assign": "quest_counter_raid_caption_point",
 		"jp_text": "討伐スコア",
-		"en_text": "討伐ポイント"
+		"en_text": "Score"
 	},
 	{
 		"assign": "quest_counter_raid_point",
 		"jp_text": "獲得中のポイント　<color=#68a0a7>/</color>　<%point>　ポイント",
-		"en_text": "討伐ポイント　<color=#68a0a7>/</color>　<%point>　ポイント"
+		"en_text": "Scored Points <color=#68a0a7>/</color>　<%point>"
 	},
 	{
 		"assign": "quest_counter_raid_point_unit",
 		"jp_text": "<%point>ポイント　<color=#68a0a7>/</color>",
-		"en_text": ""
+		"en_text": "<%point>	  　<color=#68a0a7>/</color>"
 	},
 	{
 		"assign": "quest_counter_raid_time_grade",
 		"jp_text": "時間評価      <color=#68a0a7>/</color>",
-		"en_text": ""
+		"en_text": "Time	      <color=#68a0a7>/</color>"
 	},
 	{
 		"assign": "quest_counter_raid_rank_grade",
 		"jp_text": "： 発生から<%hh>:<%mm>:<%ss>以内に討伐\n",
-		"en_text": ""
+		"en_text": ": subdue clear time <%hh>:<%mm>:<%ss>\n"
 	},
 	{
 		"assign": "quest_counter_raid_rank_grade2",
 		"jp_text": "： 発生期間内に討伐\n",
-		"en_text": ""
+		"en_text": "： subdue clear time\n"
 	},
 	{
 		"assign": "quest_counter_raid_point_grade",
 		"jp_text": "ポイント×<%param>倍",
-		"en_text": ""
+		"en_text": "Points×<%param>"
 	},
 	{
 		"assign": "quest_counter_raid_lineup",
 		"jp_text": "討伐スコア報酬ラインナップ",
-		"en_text": "ポイント報酬ラインナップ"
+		"en_text": "Subdue Reward Score lineup"
 	},
 	{
 		"assign": "quest_counter_raid_rare",
 		"jp_text": "レア報酬　<color=#68a0a7>/</color>",
-		"en_text": ""
+		"en_text": "Rares  　<color=#68a0a7>/</color>"
 	},
 	{
 		"assign": "quest_counter_raid_other",
 		"jp_text": "その他の報酬　<color=#68a0a7>/</color>",
-		"en_text": "その他レア報酬　<color=#68a0a7>/</color>"
+		"en_text": "Other     　<color=#68a0a7>/</color>"
 	},
 	{
 		"assign": "questcounter_questlist_error_t",
@@ -5112,7 +5112,7 @@
 	{
 		"assign": "questcounter_raid_reward_etc",
 		"jp_text": "他にも様々な報酬が手に入るチャンス！",
-		"en_text": " など"
+		"en_text": "Chance of numerous rewards!"
 	},
 	{
 		"assign": "questcounter_reward_grinder",
@@ -5122,42 +5122,42 @@
 	{
 		"assign": "questcounter_raid_reward_dialog_t",
 		"jp_text": "緊急クエスト",
-		"en_text": ""
+		"en_text": "Emergency Quest"
 	},
 	{
 		"assign": "questcounter_raid_reward_dialog_b",
 		"jp_text": "緊急クエストの情報が更新されました。\nロビートップに戻ります。",
-		"en_text": ""
+		"en_text": "Emergency Quest info has been updated.\nRetuning to lobby."
 	},
 	{
 		"assign": "quest_counter_raid_sp_dialog_00_t",
 		"jp_text": "緊急クエスト",
-		"en_text": ""
+		"en_text": "Emergency Quest"
 	},
 	{
 		"assign": "quest_counter_raid_sp_dialog_00_b",
 		"jp_text": "「超級トリガー」を所持していません。",
-		"en_text": ""
+		"en_text": "You do not own a /"Super Hard Trigger/"."
 	},
 	{
 		"assign": "quest_counter_raid_sp_dialog_01_t",
 		"jp_text": "緊急クエスト",
-		"en_text": ""
+		"en_text": "Emergency Quest"
 	},
 	{
 		"assign": "quest_counter_raid_sp_dialog_01_b",
 		"jp_text": "「超級トリガー」を1個消費して、超級を解除します。\nよろしいですか？\n\n<color=#ffff00>所持数：{0}個</color>\n\n※超級トリガーはクエスト出発時に消費されます。",
-		"en_text": ""
+		"en_text": "This will use a \"Super Hard Trigger.\"\nIs that OK?\n\n<color=#ffff00>Owned Triggers：{0}</color>\n\n※Triggers will be used when starting the quest"
 	},
 	{
 		"assign": "reward_button_close",
 		"jp_text": "閉じる",
-		"en_text": ""
+		"en_text": "Close"
 	},
 	{
 		"assign": "reward_button_next",
 		"jp_text": "次へ",
-		"en_text": ""
+		"en_text": "Next"
 	},
 	{
 		"assign": "reward_dialog_text",
@@ -5167,7 +5167,7 @@
 	{
 		"assign": "reward_dialog_title",
 		"jp_text": "緊急クエスト報酬",
-		"en_text": ""
+		"en_text": "Quest Rewards"
 	},
 	{
 		"assign": "reward_time",
@@ -5187,97 +5187,97 @@
 	{
 		"assign": "reward_caption_time",
 		"jp_text": "討伐時間",
-		"en_text": ""
+		"en_text": "Time"
 	},
 	{
 		"assign": "reward_caption_result",
 		"jp_text": "クリアタイム評価",
-		"en_text": ""
+		"en_text": "Clear Time"
 	},
 	{
 		"assign": "reward_caption_get_point",
 		"jp_text": "オペレーションスコア",
-		"en_text": "獲得討伐ポイント"
+		"en_text": "Operation Score"
 	},
 	{
 		"assign": "reward_caption_clear",
 		"jp_text": "クリア報酬",
-		"en_text": ""
+		"en_text": "Clear Reward"
 	},
 	{
 		"assign": "reward_caption_point",
 		"jp_text": "討伐スコア報酬",
-		"en_text": "討伐ポイント報酬"
+		"en_text": "Score Reward"
 	},
 	{
 		"assign": "reward_battle_point",
 		"jp_text": "討伐スコア",
-		"en_text": "与えたダメージによるポイント"
+		"en_text": "Score"
 	},
 	{
 		"assign": "reward_rank",
 		"jp_text": "クリアタイム評価　<%rank>",
-		"en_text": ""
+		"en_text": "Clear Time Rating <%rank>"
 	},
 	{
 		"assign": "reward_bonus1",
 		"jp_text": "【参加者の中で、最初に救援に参加した】",
-		"en_text": ""
+		"en_text": "【You were the first to participate】"
 	},
 	{
 		"assign": "reward_bonus2",
 		"jp_text": "【討伐者ボーナス】",
-		"en_text": "【参加者の中で、最も早く討伐した】"
+		"en_text": "【Subdue Bonus】"
 	},
 	{
 		"assign": "reward_bonus3",
 		"jp_text": "【参加者の中で、最も討伐スコアを貯めた】",
-		"en_text": "【参加者の中で、最も討伐ポイントを貯めた】"
+		"en_text": "【You were the first to score】"
 	},
 	{
 		"assign": "reward_bonus4",
 		"jp_text": "【参加者の中で、最も救援に参加した】",
-		"en_text": ""
+		"en_text": "【You were the first to help】"
 	},
 	{
 		"assign": "reward_bonus5",
 		"jp_text": "【遭遇者ボーナス】",
-		"en_text": ""
+		"en_text": "【Encounter Bonus】"
 	},
 	{
 		"assign": "reward_total_point",
 		"jp_text": "最終獲得討伐スコア",
-		"en_text": "最終獲得討伐ポイント"
+		"en_text": "Final Score"
 	},
 	{
 		"assign": "reward_rappy_get",
 		"jp_text": "緊急クエストのクエストエリアをクリアしました！\nラッピーメダルを<%num>枚獲得しました。",
-		"en_text": ""
+		"en_text": "Cleared the quest area of the EQ!\nYou are awarded <%num> Rappy Coin(s)."
 	},
 	{
 		"assign": "reward_caption_bonus",
 		"jp_text": "オペレーションスコア内訳",
-		"en_text": "討伐ポイント内訳"
+		"en_text": "Score Breakdown"
 	},
 	{
 		"assign": "reward_caption_clear_info",
 		"jp_text": "クエスト内容",
-		"en_text": ""
+		"en_text": "Contents"
 	},
 	{
 		"assign": "reward_selafy",
 		"jp_text": "<color=black>参加していた緊急クエストがクリアされました！\nアークス本部より報酬が支給されます。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Emergency Quest cleared!\nYou will be rewarded at the ARKS HQ.</color>"
 	},
 	{
 		"assign": "reward_noitem",
 		"jp_text": "討伐スコアが報酬に足りなかったため、\n報酬はありません。",
-		"en_text": "討伐ポイントが報酬に足りなかったため、\n報酬はありません。"
+		"en_text": "Because the score was too low,\nyou don't get a reward."
 	},
 	{
 		"assign": "reward_caption_time_finish",
 		"jp_text": "討伐完了時刻",
-		"en_text": ""
+		"en_text": "Completion Time"
 	},
 	{
 		"assign": "reward_time_finish",
@@ -5287,97 +5287,97 @@
 	{
 		"assign": "reward_caption_comment",
 		"jp_text": "※討伐スコアのボーナスは討伐完了時点で決定しています。",
-		"en_text": "※討伐ポイントのボーナスは討伐完了時点で決定しています。"
+		"en_text": "※Bonuses are determined by completion points."
 	},
 	{
 		"assign": "reward_caption_participate",
 		"jp_text": "クエストに参加したキャラクター",
-		"en_text": ""
+		"en_text": "Characters Participated"
 	},
 	{
 		"assign": "reward_damage",
 		"jp_text": "<%damage>ダメージ",
-		"en_text": ""
+		"en_text": "<%damage> damage"
 	},
 	{
 		"assign": "reward_term_rare_up",
 		"jp_text": "【<color=#ffff00>レアチップ獲得率ＵＰ</color>】",
-		"en_text": ""
+		"en_text": "【<color=#ffff00>Rare Chip Drop Rate UP</color>】"
 	},
 	{
 		"assign": "reward_term_item_up",
 		"jp_text": "【<color=#ffff00>報酬の獲得数ＵＰ</color>】",
-		"en_text": ""
+		"en_text": "【<color=#ffff00>Item Drop Rate UP</color>】"
 	},
 	{
 		"assign": "reward_enemy_type_1",
 		"jp_text": "小型種",
-		"en_text": ""
+		"en_text": "Small Type"
 	},
 	{
 		"assign": "reward_enemy_type_2",
 		"jp_text": "大型種",
-		"en_text": ""
+		"en_text": "Large Type"
 	},
 	{
 		"assign": "reward_enemy_type_3",
 		"jp_text": "狂暴種",
-		"en_text": ""
+		"en_text": "Berserk Type"
 	},
 	{
 		"assign": "reward_enemy_type_4",
 		"jp_text": "特異種",
-		"en_text": ""
+		"en_text": "Singular Type"
 	},
 	{
 		"assign": "reward_enemy_type_5",
 		"jp_text": "タイプC",
-		"en_text": ""
+		"en_text": "Type C"
 	},
 	{
 		"assign": "reward_enemy_type_6",
 		"jp_text": "未知種",
-		"en_text": ""
+		"en_text": "Unknown Type"
 	},
 	{
 		"assign": "reward_enemy_lv_high",
 		"jp_text": "高",
-		"en_text": ""
+		"en_text": "High"
 	},
 	{
 		"assign": "reward_enemy_lv_middle",
 		"jp_text": "中",
-		"en_text": ""
+		"en_text": "Medium"
 	},
 	{
 		"assign": "reward_enemy_lv_low",
 		"jp_text": "低",
-		"en_text": ""
+		"en_text": "Low"
 	},
 	{
 		"assign": "reward_enemy_name",
 		"jp_text": "<color=#ffff00><%name></color>エネミーの討伐",
-		"en_text": ""
+		"en_text": "subdue <color=#ffff00><%name></color>"
 	},
 	{
 		"assign": "reward_enemy_level",
 		"jp_text": "<color=#ffff00><%level></color>レベルエネミーの討伐",
-		"en_text": ""
+		"en_text": "subdue enemy level <color=#ffff00><%level></color>"
 	},
 	{
 		"assign": "reward_name_bonus",
 		"jp_text": "×<%value>倍",
-		"en_text": ""
+		"en_text": "×<%value>"
 	},
 	{
 		"assign": "reward_level_bonus",
 		"jp_text": "＋<%value>",
-		"en_text": ""
+		"en_text": "+<%value>"
 	},
 	{
 		"assign": "relief_dialog_no_select_t",
 		"jp_text": "救援確認",
-		"en_text": ""
+		"en_text": "Confirm Rescue"
 	},
 	{
 		"assign": "relief_dialog_no_select_b",
@@ -5387,47 +5387,47 @@
 	{
 		"assign": "relief_dialog_no_send_t",
 		"jp_text": "救援確認",
-		"en_text": ""
+		"en_text": "Confirm Rescue"
 	},
 	{
 		"assign": "relief_dialog_no_send_b",
 		"jp_text": "救援要請を送らずにロビーに戻ります。\nよろしいですか？",
-		"en_text": ""
+		"en_text": "Return to the lobby without\nasking for help?"
 	},
 	{
 		"assign": "relief_dialog_done_t",
 		"jp_text": "救援要請",
-		"en_text": ""
+		"en_text": "Request Rescue"
 	},
 	{
 		"assign": "relief_dialog_done_b",
 		"jp_text": "救援要請を送りました。",
-		"en_text": ""
+		"en_text": "We sent a Rescue Request."
 	},
 	{
 		"assign": "relief_select_num",
 		"jp_text": "選択人数　<%num><color=#688ca7>/</color> <color=#ff0000>MAX <%max></color>",
-		"en_text": ""
+		"en_text": "Friend Select <%num><color=#688ca7>/</color> <color=#ff0000>MAX <%max></color>"
 	},
 	{
 		"assign": "relief_button_close",
 		"jp_text": "閉じる",
-		"en_text": ""
+		"en_text": "Close"
 	},
 	{
 		"assign": "relief_button_send",
 		"jp_text": "送信",
-		"en_text": ""
+		"en_text": "Send"
 	},
 	{
 		"assign": "relief_button_return",
 		"jp_text": "戻る",
-		"en_text": ""
+		"en_text": "Return"
 	},
 	{
 		"assign": "relief_dialog_t",
 		"jp_text": "救援要請リスト",
-		"en_text": ""
+		"en_text": "Friends List"
 	},
 	{
 		"assign": "relief_level",
@@ -5437,7 +5437,7 @@
 	{
 		"assign": "relief_login",
 		"jp_text": "ログイン日時 <%login>",
-		"en_text": ""
+		"en_text": "Last Login: <%login>"
 	},
 	{
 		"assign": "scratch_guide_00",
@@ -14297,12 +14297,12 @@
 	{
 		"assign": "wh_31_02",
 		"jp_text": "＜利用回数について＞\n１日１回まで無料で利用可能です。\n２回目以降のクイック探索は「<%AC>」が必要になります。",
-		"en_text": ""
+		"en_text": "<Quick Search>\nFirst times are free.\nSubsequent uses after the free will require <%AC>."
 	},
 	{
 		"assign": "wh_31_03",
 		"jp_text": "＜ボーナスについて＞\n連続してクイック探索を利用すると、レアドロップ率や\n獲得アイテム数にボーナスがつきます。",
-		"en_text": ""
+		"en_text": "<About Bonus>\nWhen you continously use Quick Search, RDR increases.\nBonuses also increase."
 	},
 	{
 		"assign": "storyevent_skip_dialog_t",
