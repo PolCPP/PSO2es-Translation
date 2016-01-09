@@ -432,7 +432,7 @@
 	{
 		"assign": "acshop_dialog_b_28",
 		"jp_text": "<%item_name>を購入します。\nよろしいですか？\n\n所持数：<%current_item_num>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"en_text": ""
+		"en_text": "You want to buy <%item_name>.\nIs that ok?\n\nOwned: <%current_item_num>\n\nNeeded <%AC>: <%consume_AC>\nHave: <%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_29",
@@ -907,152 +907,152 @@
 	{
 		"assign": "charamake_guide_06",
 		"jp_text": "<color=#f0df60>顔の外見バリエーションを選択できます。</color>",
-		"en_text": "<color=#f0df60>You can alter the face.。</color>"
+		"en_text": "<color=#f0df60>Simple Face Edit</color>"
 	},
 	{
 		"assign": "charamake_guide_07",
 		"jp_text": "<color=#f0df60>ヘアスタイルや髪の色を設定できます。</color>",
-		"en_text": "<color=#f0df60>You can set the color of hair and hair styles.</color>"
+		"en_text": "<color=#f0df60>Hair style and Hair colors</color>"
 	},
 	{
 		"assign": "charamake_guide_08",
 		"jp_text": "<color=#f0df60>ヘアスタイルを選択できます。</color>",
-		"en_text": "<color=#f0df60>You can select hair styles.</color>"
+		"en_text": "<color=#f0df60>Select Hair Style</color>"
 	},
 	{
 		"assign": "charamake_guide_09",
 		"jp_text": "<color=#f0df60>髪の色を設定できます。</color>",
-		"en_text": "<color=#f0df60>You can set the hair color.</color>"
+		"en_text": "<color=#f0df60>Select Hair Color</color>"
 	},
 	{
 		"assign": "charamake_guide_10",
 		"jp_text": "<color=#f0df60>体型パターンの中からバリエーションを選択できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Select Body type</color>"
 	},
 	{
 		"assign": "charamake_guide_11",
 		"jp_text": "<color=#f0df60>体型のバランスを調整できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Adjust Body type</color>"
 	},
 	{
 		"assign": "charamake_guide_12",
 		"jp_text": "<color=#f0df60>肌の色を設定できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Select Skin Color.</color>"
 	},
 	{
 		"assign": "charamake_guide_13",
 		"jp_text": "<color=#f0df60>コスチュームの種類やカラーを選択できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Choose Costume Type and Color.</color>"
 	},
 	{
 		"assign": "charamake_guide_14",
 		"jp_text": "<color=#f0df60>コスチュームを選択できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Select a Costume.</color>"
 	},
 	{
 		"assign": "charamake_guide_15",
 		"jp_text": "<color=#f0df60>コスチュームのカラーを選択できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Select Costume Color.</color>"
 	},
 	{
 		"assign": "charamake_guide_16",
 		"jp_text": "<color=#f0df60>各種パーツを選択できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>CAST Parts selection</color>"
 	},
 	{
 		"assign": "charamake_guide_17",
 		"jp_text": "<color=#f0df60>ボディパーツを選択できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Select Body Parts.</color>"
 	},
 	{
 		"assign": "charamake_guide_18",
 		"jp_text": "<color=#f0df60>アームパーツを選択できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Select Arm Parts.</color>"
 	},
 	{
 		"assign": "charamake_guide_19",
 		"jp_text": "<color=#f0df60>レッグパーツを選択できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Select Leg Parts.</color>"
 	},
 	{
 		"assign": "charamake_guide_20",
 		"jp_text": "<color=#f0df60>メインカラーやサブカラーを設定できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Select main color and sub-color.</color>"
 	},
 	{
 		"assign": "charamake_guide_21",
 		"jp_text": "<color=#f0df60>メインカラーを設定できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Set Main Color</color>"
 	},
 	{
 		"assign": "charamake_guide_22",
 		"jp_text": "<color=#f0df60>サブカラー１を設定できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Set Sub-Color 1</color>"
 	},
 	{
 		"assign": "charamake_guide_23",
 		"jp_text": "<color=#f0df60>サブカラー２を設定できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Set Sub-Color 2</color>"
 	},
 	{
 		"assign": "charamake_guide_24",
 		"jp_text": "<color=#f0df60>サブカラー３を設定できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Set Sub-Color 3</color>"
 	},
 	{
 		"assign": "charamake_guide_25",
 		"jp_text": "<color=#f0df60>アクセサリーを選択できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Select Accessories</color>"
 	},
 	{
 		"assign": "charamake_guide_26",
 		"jp_text": "<color=#f0df60>キャストの歩行パターンを選択できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Select CAST Movement</color>"
 	},
 	{
 		"assign": "charamake_race_00",
 		"jp_text": "もっとも基本的な種族。\n全体的な能力のバランスに優れている。",
-		"en_text": "身体の強さとフォトンへの適合力の釣り合いが\n取れており、環境への適応能力が高い種族。"
+		"en_text": "The Basic Race.\nIt's the most balanced in terms of stats."
 	},
 	{
 		"assign": "charamake_race_01",
 		"jp_text": "フォトンの扱いが得意な種族。\nとがった耳が特徴的。",
-		"en_text": "身体の脆弱さを補って余りある\nフォトンに対する適応力の高さを見せる種族。"
+		"en_text": "Excels at using Photons.\nHas distinctive pointed ears."
 	},
 	{
 		"assign": "charamake_race_02",
 		"jp_text": "屈強な機械の身体を持つ種族。\n精密さと強固さが強み。",
-		"en_text": "人工的な身体であるため\n若干フォトンの扱いを苦手とするが、\n屈強な身体を持ち継続性に優れた種族。"
+		"en_text": "The Master Race.\nExcels at combat with\nthe soul of a superior frame."
 	},
 	{
 		"assign": "charamake_race_03",
 		"jp_text": "トップクラスの攻撃力を持つ種族。\n額の角と、オッドアイが特徴。",
-		"en_text": "攻撃に特化したフォトン特性を持つ。\n防御面では他種族に劣るが、\nそれを補って余りある攻撃力を誇る。"
+		"en_text": "High offensive power, low defense.\nOdd eye features linked to photon power."
 	},
 	{
 		"assign": "charamake_class_00",
 		"jp_text": "近距離での戦闘に真価を発揮するクラス。\n高いHPと防御力を持ち\n単独での戦闘能力に優れる。",
-		"en_text": ""
+		"en_text": "A class whose true worth lies melee.\nBoasting high HP and defense,\nthey excel at solo combat."
 	},
 	{
 		"assign": "charamake_class_01",
 		"jp_text": "射撃武器による攻撃を主とし\n中間距離での戦闘を得意とするクラス。\n精密な射撃での攻撃が可能。",
-		"en_text": ""
+		"en_text": "A class that focuses on mid-ranged combat,\nattacking with guns.\nThey're capable of precise ranged attacks."
 	},
 	{
 		"assign": "charamake_class_02",
 		"jp_text": "フォトンを用いたテクニックの使用に長けた\n遠距離戦闘向きのクラス。\n多彩なテクニックを扱える。",
-		"en_text": ""
+		"en_text": "A class geared towards long-range\ncombat using photonic Techniques as\npowerful as they are diverse."
 	},
 	{
 		"assign": "charamake_class_03",
 		"jp_text": "タイミングや間合いを重視した武装を用いる\n遠近対応のクラス。\nバランスの取れた能力を持つ。",
-		"en_text": ""
+		"en_text": "Class balanced between short and long ranged combat.\nBecome stronger by advancing\nskills, timing, and precision."
 	},
 	{
 		"assign": "charamake_class_04",
 		"jp_text": "近距離での打撃戦と\n法撃を使った中距離での戦いを\n得意とするクラス。",
-		"en_text": ""
+		"en_text": "A class that blends close combat\nusing blades with mid-range\ncombat utilizing techs."
 	},
 	{
 		"assign": "charamake_dialog_t_00",
@@ -1062,47 +1062,47 @@
 	{
 		"assign": "charamake_dialog_b_00",
 		"jp_text": "このキャラクターでゲームを始めますか？\n\n<color=#f0df60>＜好みの外見にカスタマイズ！＞</color>\nキャラクター確認画面の\n「キャラクターをカスタマイズする」のボタンから\n顔や体型などを細かくカスタマイズできます。\n自分だけのキャラクターを作成してみましょう！",
-		"en_text": "このキャラクターでゲームを開始します。\nよろしいですか？\n\n※キャラクター確認画面で\n「キャラクターをカスタマイズする」を選択すると\nキャラクターの外見を変更することができます。"
+		"en_text": "Do you wish to start the game with this character?\n\n<color=#f0df60><Customize Appearance!></color>\nCustomize Screen\nPressing the 'Customize Character'\nbutton will allow you to\ncustomize your character!"
 	},
 	{
 		"assign": "charamake_dialog_t_01",
 		"jp_text": "破棄確認",
-		"en_text": ""
+		"en_text": "Cancel"
 	},
 	{
 		"assign": "charamake_dialog_b_01",
 		"jp_text": "名前入力画面に戻ります。\n\n現在のカスタマイズ内容は\n破棄されますが、よろしいですか？",
-		"en_text": "クラス選択画面に戻ります。\n\n現在のカスタマイズ内容は\n破棄されますが、よろしいですか？"
+		"en_text": "Returning to the name input screen.\n\nYour customizations will be lost.\nContinue?"
 	},
 	{
 		"assign": "charamake_dialog_t_02",
 		"jp_text": "追加データダウンロード確認",
-		"en_text": ""
+		"en_text": "Check Additional Data Download"
 	},
 	{
 		"assign": "charamake_dialog_b_02",
 		"jp_text": "キャラクターカスタマイズのための\n追加データをダウンロードします。\nよろしいですか？\n\n※通信環境によって、\nダウンロードにかかる時間が異なりますので\nご注意ください。\n※ゲームデータのダウンロードは\n通信環境のいい場所で行ってください。",
-		"en_text": ""
+		"en_text": "For character customization,\nwe will download extra data.\nIs that ok?\n\n<color=yellow>※This will take time to download, so please be patient.\nMake sure you have good\nsignal or reception.</color>"
 	},
 	{
 		"assign": "charamake_progress_01",
 		"jp_text": "<color=#ffff00>STEP1/</color> 選択したい性別をタッチして下さい。",
-		"en_text": ""
+		"en_text": "<color=#ffff00>STEP1/</color> Select your gender."
 	},
 	{
 		"assign": "charamake_progress_02",
 		"jp_text": "<color=#ffff00>STEP2/</color> キャラクターの見た目を選択してください。",
-		"en_text": ""
+		"en_text": "<color=#ffff00>STEP2/</color> Select your character appearance."
 	},
 	{
 		"assign": "charamake_progress_03",
 		"jp_text": "<color=#ffff00>STEP3/</color> キャラクターの名前を入力してください。",
-		"en_text": ""
+		"en_text": "<color=#ffff00>STEP3/</color> Enter the name of your character."
 	},
 	{
 		"assign": "charamake_progress_04",
 		"jp_text": "<color=#ffff00>STEP4/</color> 作成する情報を確認してください。",
-		"en_text": ""
+		"en_text": "<color=#ffff00>STEP4/</color> Please review and confirm your information."
 	},
 	{
 		"assign": "charamake_select_sex_01",
@@ -1127,12 +1127,12 @@
 	{
 		"assign": "charamake_name_explanation",
 		"jp_text": "名前入力欄をタッチして\nキャラクター名を入力してください。",
-		"en_text": ""
+		"en_text": "Touch the name input field.\nEnter your character's name."
 	},
 	{
 		"assign": "charamake_fail_gainpicture01",
 		"jp_text": "全体画像の取得に失敗しました。\nもう1度キャラクターの画像を\nタッチして下さい。",
-		"en_text": ""
+		"en_text": "Failed to load image.\nPress your character's image."
 	},
 	{
 		"assign": "chmake_gender_window",
@@ -1597,7 +1597,7 @@
 	{
 		"assign": "equip_dialog_b_01",
 		"jp_text": "選択した武器に対して\n装備条件の合わないチップが装備されています。\n\nこのチップは装備が解除されますが\nよろしいですか？",
-		"en_text": ""
+		"en_text": "You don't meet the\nrequirements of the selected chip.\n\nCancelling chip equip.\nIs that ok?"
 	},
 	{
 		"assign": "equip_dialog_t_02",
@@ -2407,7 +2407,7 @@
 	{
 		"assign": "menu_dialog_b_05",
 		"jp_text": "連動処理を開始します。以下にご注意ください。\n\n処理完了までは数十秒程度の時間がかかります。\n通信を行いますので、\n電波状況の良い場所で開始して下さい。\n連動が完了すると、タイトル画面に戻ります。\n\n「開始」を選択すると、連動処理を開始します。",
-		"en_text": ""
+		"en_text": "Starting the Linking Process.\n\nPlease note that this will take some time.\nEnsure you're in a place\nwith good signal.\nAfter linking process is done, you will\nbe returned to the title menu.\nPress Start to begin."
 	},
 	{
 		"assign": "menu_dialog_t_06",
@@ -2417,7 +2417,7 @@
 	{
 		"assign": "menu_dialog_b_06",
 		"jp_text": "PSO2へのキャラクター連動処理が完了しました。\nタイトル画面に戻ります。\n\nご利用中のSEGA IDで\nPSO2にログインしていただくことで、\nPSO2esと同じキャラクターを使用して\nプレイすることができます。",
-		"en_text": "PSO2へのキャラクター連動処理が完了しました。\nタイトル画面に戻ります。\n\nご利用中のSEGA IDで\nPSO2にログインしていただくことで、\nPSO2esと同じキャラクターを使用して\nプレイ開始することができます。"
+		"en_text": "PSO2 Character Link process completed.\nWill return to the title screen.\n\nWhen you login with your SEGAID,\nyou will be able to play with\nyour PSO2 character in PSO2es."
 	},
 	{
 		"assign": "menu_dialog_t_07",
@@ -2427,7 +2427,7 @@
 	{
 		"assign": "menu_dialog_b_07",
 		"jp_text": "『PSO2』へのキャラクター連動処理が完了しました。\nタイトル画面に戻ります。\n\nご利用中のSEGA IDで\n『PSO2』にログインしていただくことで\n『PSO2es』と同じキャラクターを使用して\nプレイすることができます。\n\n※『PSO2es』へのログイン時に\nシップ選択を求められた場合は\nキャラクターを連動したシップを選択して\nご利用中のSEGA IDによる認証を行ってください。",
-		"en_text": "『PSO2』へのキャラクター連動処理が完了しました。\nタイトル画面に戻ります。\n\nご利用中のSEGA IDで\n『PSO2』にログインしていただくことで\n『PSO2es』と同じキャラクターを使用して\nプレイ開始することができます。\n\n※『PSO2es』へのログイン時に\nシップ選択を求められた場合は\nキャラクターを連動したシップを選択して\nご利用中のSEGA IDによる認証を行ってください。"
+		"en_text": "『PSO2』 PSO2 Character Link process completed.\nWill return to the title screen.\n\n<color=yellow>When you login with your SEGAID,\nyou will be able to play with\nyour PSO2 character in PSO2es.\n\n※『PSO2es』 When you log into PSO2es, select\nthe ship your character is from.</color>"
 	},
 	{
 		"assign": "menu_dialog_t_22",
@@ -2437,42 +2437,42 @@
 	{
 		"assign": "menu_dialog_b_22",
 		"jp_text": "キャラクター連動中に処理が中断されました。\nタイトル画面に戻ります。\n\nキャラクター連動処理は次回ログイン時に\n自動的に再開されます。\n\n※キャラクター連動処理が完了するまで\n『PSO2』にログインすることができません。",
-		"en_text": ""
+		"en_text": "Linking process interrupted.\nWhen you log into PSO2es, linking\nprocess will be automatically restarted.\n\n<color=yellow>※Until process is complete, you\nwill not be able to play PSO2.</color>"
 	},
 	{
 		"assign": "menu_dialog_t_08",
 		"jp_text": "端末引き継ぎ情報",
-		"en_text": ""
+		"en_text": "Device Transfer Information"
 	},
 	{
 		"assign": "menu_dialog_t_08b",
 		"jp_text": "端末引き継ぎ時に必要な情報",
-		"en_text": ""
+		"en_text": "Necessary Information"
 	},
 	{
 		"assign": "menu_dialog_b_08",
 		"jp_text": "機種変更などで現在ご利用の端末から\n別の端末に移行される場合は、\nログイン画面で上記のIDと\n秘密のパスワードを入力していただく必要があります。\n端末を変更される前に、必ず上記の情報を\nお手元に控えておいてください。\n\niOS版に端末引き継ぎを行う場合、\n現在所持しているACはiOS版では使用できません。\n※iOS版におけるアークスキャッシュの単位は\n「iAC」となります。\n※端末引き継ぎによってACの情報は消えません。\n『PSO2』、『PSO2es』Android版を\n再度プレイする際に使用できます。\n\n※SEGA IDを取得し、キャラクター連動を行えば\nPSO2es専用プレイヤーIDの入力は不要です。 \n※上記の情報は第三者に渡らないよう、\nお手元で厳密に保管してください。\n※機種変更などを行うために必要な引き継ぎ情報は、\nキャラクター連動を行った後にも再度ご確認いただき、\n必ずお手元に控えていただきますようお願いします。",
-		"en_text": "機種変更などで現在ご利用の端末から\n別の端末に移行される場合は、\nログイン画面で上記のIDと\n秘密のパスワードを入力していただく必要があります。\n端末を変更される前に、必ず上記の情報を\nお手元に控えておいてください。\n\n※SEGA IDを取得し、キャラクター連動を行えば\nPSO2es専用プレイヤーIDの入力は不要です。 \n※上記の情報は第三者に渡らないよう、\nお手元で厳密に保管してください。\n※機種変更などを行うために必要な引き継ぎ情報は、\nキャラクター連動を行った後にも再度ご確認いただき、\n必ずお手元に控えていただきますようお願いします。"
+		"en_text": "When transfering between devices,\nyou will be issued a\nsecret device ID code.\nYou will need to transfer this code\nto the new device.\nWhen transfering to an iOS device,\nAC cannot be used by iOS.\n\niOS uses a different system\nof AC unique to the iOS version.\nYour AC doesn't disappear when\ntransfering to an Apple Device\nand can be transfered back\ninto Android without issues.\n\nDevice ID changes per device,\nso ensure to keep note of\nyour Device ID.\nLinked characters are not affected\nby device change."
 	},
 	{
 		"assign": "menu_dialog_b_08_uni",
 		"jp_text": "機種変更などで現在ご利用の端末から\n別の端末に移行される場合は、\nログイン画面で上記のIDと\n秘密のパスワードを入力していただく必要があります。\n端末を変更される前に、必ず上記の情報を\nお手元に控えておいてください。\n\n※iOS版に端末引き継ぎを行う場合、\niOS版ではアークスキャッシュの単位は「iAC」と表示されます。\n\n※SEGA IDを取得し、キャラクター連動を行えば\nPSO2es専用プレイヤーIDの入力は不要です。 \n※上記の情報は第三者に渡らないよう、\nお手元で厳密に保管してください。\n※機種変更などを行うために必要な引き継ぎ情報は、\nキャラクター連動を行った後にも再度ご確認いただき、\n必ずお手元に控えていただきますようお願いします。",
-		"en_text": ""
+		"en_text": "When transfering between devices,\nyou will be issued a\nsecret device ID code.\nYou will need to transfer this code\nto the new device.\nWhen transfering to an iOS device,\nAC cannot be used by iOS.\n\niOS uses a different system\nof AC unique to the iOS version.\nYour AC doesn't disappear when\ntransfering to an Apple Device\nand can be transfered back\ninto Android without issues.\n\nDevice ID changes per device,\nso ensure to keep note of\nyour Device ID.\nLinked characters are not affected\nby device change."
 	},
 	{
 		"assign": "menu_dialog_b_08_ios_ac",
 		"jp_text": "機種変更などで現在ご利用の端末から\n別の端末に移行される場合は、\nログイン画面で上記のIDと\n秘密のパスワードを入力していただく必要があります。\n端末を変更される前に、必ず上記の情報を\nお手元に控えておいてください。\n\nAndroid版に端末引き継ぎを行う場合、\n現在所持しているiACは\nAndroid版では使用できません。\n※Android版のアークスキャッシュの単位は\n「AC」となります。\n※端末引き継ぎによってiACの情報は消えません。\n『PSO2es』iOS版を再度プレイする際に使用できます。\n\n※SEGA IDを取得し、キャラクター連動を行えば\nPSO2es専用プレイヤーIDの入力は不要です。 \n※上記の情報は第三者に渡らないよう、\nお手元で厳密に保管してください。\n※機種変更などを行うために必要な引き継ぎ情報は、\nキャラクター連動を行った後にも再度ご確認いただき、\n必ずお手元に控えていただきますようお願いします。",
-		"en_text": ""
+		"en_text": "When transfering between devices,\nyou will be issued a\nsecret device ID code.\nYou will need to transfer this code\nto the new device.\nWhen transfering to an iOS device,\nAC cannot be used by iOS.\n\niOS uses a different system\nof AC unique to the iOS version.\nYour AC doesn't disappear when\ntransfering to an Apple Device\nand can be transfered back\ninto Android without issues.\n\nDevice ID changes per device,\nso ensure to keep note of\nyour Device ID.\nLinked characters are not affected\nby device change."
 	},
 	{
 		"assign": "menu_dialog_b_08_ios_ac_uni",
 		"jp_text": "機種変更などで現在ご利用の端末から\n別の端末に移行される場合は、\nログイン画面で上記のIDと\n秘密のパスワードを入力していただく必要があります。\n端末を変更される前に、必ず上記の情報を\nお手元に控えておいてください。\n\n※Android版に端末引き継ぎを行う場合、\nAndroid版ではアークスキャッシュの単位は「AC」と表示されます。\n\n※SEGA IDを取得し、キャラクター連動を行えば\nPSO2es専用プレイヤーIDの入力は不要です。 \n※上記の情報は第三者に渡らないよう、\nお手元で厳密に保管してください。\n※機種変更などを行うために必要な引き継ぎ情報は、\nキャラクター連動を行った後にも再度ご確認いただき、\n必ずお手元に控えていただきますようお願いします。",
-		"en_text": ""
+		"en_text": "When transfering between devices,\nyou will be issued a\nsecret device ID code.\nYou will need to transfer this code\nto the new device.\nWhen transfering to an iOS device,\nAC cannot be used by iOS.\n\niOS uses a different system\nof AC unique to the iOS version.\nYour AC doesn't disappear when\ntransfering to an Apple Device\nand can be transfered back\ninto Android without issues.\n\nDevice ID changes per device,\nso ensure to keep note of\nyour Device ID.\nLinked characters are not affected\nby device change."
 	},
 	{
 		"assign": "menu_dialog_b_08_ios",
 		"jp_text": "機種変更などで現在ご利用の端末から\n別の端末に移行される場合は、\nログイン画面で上記のIDと\n秘密のパスワードを入力していただく必要があります。\n端末を変更される前に、必ず上記の情報を\nお手元に控えておいてください。\n \n※上記の情報は第三者に渡らないよう、\nお手元で厳密に保管してください。\n※機種変更などを行うために必要な引き継ぎ情報は、\n端末の移行を行った後にも再度ご確認いただき、\n必ずお手元に控えていただきますようお願いします。",
-		"en_text": ""
+		"en_text": "When transfering between devices,\nyou will be issued a\nsecret device ID code.\nYou will need to transfer this code\nto the new device.\nWhen transfering to an iOS device,\nAC cannot be used by iOS.\n\niOS uses a different system\nof AC unique to the iOS version.\nYour AC doesn't disappear when\ntransfering to an Apple Device\nand can be transfered back\ninto Android without issues.\n\nDevice ID changes per device,\nso ensure to keep note of\nyour Device ID.\nLinked characters are not affected\nby device change."
 	},
 	{
 		"assign": "menu_dialog_sega_id",
@@ -2542,7 +2542,7 @@
 	{
 		"assign": "menu_dialog_y_14",
 		"jp_text": "標準ブラウザを起動（推奨）",
-		"en_text": ""
+		"en_text": "Launch web browser"
 	},
 	{
 		"assign": "menu_dialog_n_14",
@@ -2627,7 +2627,7 @@
 	{
 		"assign": "menu_dialog_b_21",
 		"jp_text": "所持アイテムが上限数に達しているため、\nこのesアイテムコードを使用することはできません。\nアイテムを整理してからesアイテムコードを\n使用してください。",
-		"en_text": ""
+		"en_text": "You have reached the maximum\nyou can carry, therefore it isn't possible\nto use this code.\nFree up some space and try again."
 	},
 	{
 		"assign": "menu_dialog_button_next",
@@ -2722,12 +2722,12 @@
 	{
 		"assign": "mag_menu_00",
 		"jp_text": "アイテムを与える",
-		"en_text": ""
+		"en_text": "Give Items"
 	},
 	{
 		"assign": "mag_menu_01",
 		"jp_text": "デバイスを使う",
-		"en_text": ""
+		"en_text": "Use Device"
 	},
 	{
 		"assign": "mag_dialog_t_00",
@@ -2772,7 +2772,7 @@
 	{
 		"assign": "mag_dialog_t_04",
 		"jp_text": "デバイス使用確認",
-		"en_text": "Device Usage Confirmation"
+		"en_text": "Feed Device"
 	},
 	{
 		"assign": "mag_dialog_b_04",
@@ -2962,7 +2962,7 @@
 	{
 		"assign": "receive_dialog_b_01",
 		"jp_text": "前回のパス受領時から\n22時間以上が経過していないため、\n受け取れません。\n\n残り時間：{0}時間{1}分",
-		"en_text": ""
+		"en_text": "It hasn't been 22 hours\nsince you last picked up\nyour passes.\n\nRemaining Time: {0}:{1}"
 	},
 	{
 		"assign": "receive_dialog_t_02",
@@ -2972,7 +2972,7 @@
 	{
 		"assign": "receive_dialog_b_02",
 		"jp_text": "『PSO2』の倉庫の空き容量が不足しているため\nアイテムを受け取れません。\n『PSO2』の倉庫を整理してください。",
-		"en_text": ""
+		"en_text": "『PSO2』 You cannot receive anymore as\nyou are full on inventory space.\nPlease sort via PSO2 and try\nagain later."
 	},
 	{
 		"assign": "receive_dialog_t_03",
@@ -2982,17 +2982,17 @@
 	{
 		"assign": "receive_dialog_b_03",
 		"jp_text": "{0}を\n『PSO2』の基本倉庫に\n受け取りました。",
-		"en_text": ""
+		"en_text": "{0}\nWas sent to your PSO2\ninventory."
 	},
 	{
 		"assign": "receive_dialog_t_04",
 		"jp_text": "受け取りエラー",
-		"en_text": ""
+		"en_text": "Error"
 	},
 	{
 		"assign": "receive_dialog_b_04",
 		"jp_text": "{0}は\n受け取り済みです。",
-		"en_text": ""
+		"en_text": "You have already\nreceived the {0}."
 	},
 	{
 		"assign": "mail_guide_00",
@@ -3047,7 +3047,7 @@
 	{
 		"assign": "mail_dialog_b_02",
 		"jp_text": "{0}×{1}\nを受け取りました。",
-		"en_text": ""
+		"en_text": "0}×{1}\nwas received."
 	},
 	{
 		"assign": "mail_dialog_t_03",
@@ -3107,7 +3107,7 @@
 	{
 		"assign": "mail_dialog_b_06_2",
 		"jp_text": "このまま送信してもよろしいですか？",
-		"en_text": ""
+		"en_text": "Are you sure you wish\nto send this draft?"
 	},
 	{
 		"assign": "mail_dialog_t_07",
@@ -3162,87 +3162,87 @@
 	{
 		"assign": "mail_dialog_t_13",
 		"jp_text": "添付アイテム一括受取",
-		"en_text": ""
+		"en_text": "Attached item(s) received"
 	},
 	{
 		"assign": "mail_dialog_b_13",
 		"jp_text": "メールに添付されているアイテムの中で\nこのキャラクターが受け取り対象のものを\n全て受け取りました。",
-		"en_text": ""
+		"en_text": "I received all attached items."
 	},
 	{
 		"assign": "mail_dialog_t_14",
 		"jp_text": "添付アイテム一括受取",
-		"en_text": ""
+		"en_text": "Attached item(s) received"
 	},
 	{
 		"assign": "mail_dialog_b_14",
 		"jp_text": "メールに添付されているアイテムの中で\nこのキャラクターが受け取り対象のものを\n受け取りました。\n<color=#f0df60>※一部、所持数あふれのため\n受け取れなかったアイテムがあります。</color>",
-		"en_text": ""
+		"en_text": "I received all attached items.\n<color=#f0df60>※Certain items were not received\ndue to the max limit allowed of\nsaid items reached.</color>"
 	},
 	{
 		"assign": "mail_dialog_t_15",
 		"jp_text": "添付アイテム一括受取",
-		"en_text": ""
+		"en_text": "Attached item(s) received"
 	},
 	{
 		"assign": "mail_dialog_b_15",
 		"jp_text": "所持数あふれや\n受け取り条件を満たしていないため\n受け取れる添付アイテムがありません。",
-		"en_text": ""
+		"en_text": "You have too many items,\ncannot retrieve mail."
 	},
 	{
 		"assign": "mail_dialog_t_16",
 		"jp_text": "添付アイテム受取",
-		"en_text": ""
+		"en_text": "Attached item(s) received"
 	},
 	{
 		"assign": "mail_dialog_b_16",
 		"jp_text": "所持数あふれのため、\n添付アイテムを受け取れません。",
-		"en_text": ""
+		"en_text": "You have too many items,\ncannot retrieve mail."
 	},
 	{
 		"assign": "myshop_guide_00",
 		"jp_text": "<color=#f0df60>利用したい項目を選択してください。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Select the item you wish to sell.</color>"
 	},
 	{
 		"assign": "myshop_guide_01",
 		"jp_text": "<color=#f0df60>他のプレイヤーが出品中のアイテムを検索します。検索条件を入力し、いずれかの検索ボタンを押してください。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Players can search for items by entering the name of the item and pressing 'Search'.</color>"
 	},
 	{
 		"assign": "myshop_guide_02",
 		"jp_text": "<color=#f0df60>商品を選択してください。「並び替え」ボタンで並び順を変更できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Select the items and press 'Sort' to change the order displayed.</color>"
 	},
 	{
 		"assign": "myshop_guide_03",
 		"jp_text": "<color=#f0df60>内容を確認して購入を決定する場合は「購入する」を選択してください。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>If you wish to purchase the item, press the 'Buy' button.</color>"
 	},
 	{
 		"assign": "myshop_guide_04",
 		"jp_text": "<color=#f0df60>現在の売り上げを表示します。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>This will display current receipt list.</color>"
 	},
 	{
 		"assign": "myshop_guide_05",
 		"jp_text": "<color=#f0df60>他のプレイヤーが出品中のアイテムを検索できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>You can also search from other players' shops.</color>"
 	},
 	{
 		"assign": "myshop_guide_06",
 		"jp_text": "<color=#f0df60>アイテムパックからアイテムを選択し、出品できます。出品確認ウィンドウ内の「相場」ボタンを押すと、他のプレイヤーが出品した金額が確認できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Selling an item from your pack that you wish to sell. When ready, press the 'Sell Item' button.\nYou can also see the prices for the current item.</color>"
 	},
 	{
 		"assign": "myshop_guide_07",
 		"jp_text": "<color=#f0df60>検索を行った履歴が確認できます。履歴を選択すると、条件が詳細検索ウィンドウに自動入力されます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>You can also check your browse history with a detailed description of when the search was made.</color>"
 	},
 	{
 		"assign": "myshop_guide_08",
 		"jp_text": "<color=#f0df60>出品中アイテムをアイテムパックの中に取り下げられます。通信状況により、出品直後のアイテムは表示されるまで時間を要する場合があります。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Withdrawing an item from your shop will deposit the item back into your inventory.</color>"
 	},
 	{
 		"assign": "myshop_dialog_t_00",
@@ -3282,7 +3282,7 @@
 	{
 		"assign": "myshop_dialog_b_03",
 		"jp_text": "アイテムパックに空き容量不足、\nまたは所持数の限界を超えているため、\n購入できません。",
-		"en_text": ""
+		"en_text": "You cannot buy as the item\nexceeds the carry limit or\nyou do not have space."
 	},
 	{
 		"assign": "myshop_dialog_t_04",
@@ -3302,27 +3302,27 @@
 	{
 		"assign": "myshop_dialog_b_05",
 		"jp_text": "選択したアイテムは、売り切れたか\n出品者によって取り下げられたため、\n商品リストから無くなりました。",
-		"en_text": ""
+		"en_text": "Because the item is no longer\nbeing displayed or it has\nsold out, you cannot purchase."
 	},
 	{
 		"assign": "myshop_dialog_t_06",
 		"jp_text": "商品検索",
-		"en_text": ""
+		"en_text": "Search"
 	},
 	{
 		"assign": "myshop_dialog_b_06",
 		"jp_text": "検索に必要な条件を\n最低1つ以上入力してください。",
-		"en_text": ""
+		"en_text": "Please enter another\nsearch condition."
 	},
 	{
 		"assign": "myshop_dialog_t_07",
 		"jp_text": "商品検索",
-		"en_text": ""
+		"en_text": "Search"
 	},
 	{
 		"assign": "myshop_dialog_b_07",
 		"jp_text": "存在しないアイテム、\nもしくは特殊能力名を指定しています。\n\n<color=#ff0000>※アイテム名、特殊能力名は\n完全一致のみ検索にヒットします。</color>",
-		"en_text": ""
+		"en_text": "Item or ability must be an exact match in name."
 	},
 	{
 		"assign": "myshop_dialog_t_08",
@@ -3372,7 +3372,7 @@
 	{
 		"assign": "myshop_dialog_b_10",
 		"jp_text": "プレミアム期間ではないため\nマイショップでのアイテム購入ができません。\nプレミアム期間になり\n再度アイテム購入をお試しください。\nプレミアムセットは<%AC>ショップで購入と使用ができます。",
-		"en_text": ""
+		"en_text": "Because you are not premium, you cannot use the My Shop."
 	},
 	{
 		"assign": "myshop_dialog_t_11",
@@ -3382,7 +3382,7 @@
 	{
 		"assign": "myshop_dialog_b_11",
 		"jp_text": "出品には「ＰＳＯ２ｅｓマイショップ利用券」またはラッピーメダルが必要です。\n利用券がない場合、<%AC>で利用券を購入できます。\n<color=#f0df60>※出品によって消費した利用券またはラッピーメダルは\n取り下げ時に戻りませんのでご注意ください。\n※出品した商品は、長期間が経過した場合、公式サイトで事前告知のうえ\n『PSO2』の運営倉庫に取り下げられることがあります。\nその場合も消費した利用券またはラッピーメダルは戻りません。</color>\n\n必要ＰＳＯ２ｅｓマイショップ利用券：<%NEEDTICKET>\n所持ＰＳＯ２ｅｓマイショップ利用券：<%HAVETICKET>\n\n必要ラッピーメダル：<%NEEDMEDAL>\n所持ラッピーメダル：<%HAVEMEDAL>",
-		"en_text": ""
+		"en_text": "A PSO2es MyShop Voucher or Rappy Coin is needed to sell.\nIf you do not own a MyShop voucher,\nyou can buy one with <%AC>.\n<color=#f0df60>※Using a ticket or Rappy Coin will be used\nimmediately during selling and will not be returned if\nnothing was sold.</color>\n\nNeeded Shop Vouchers: <%NEEDTICKET>\nOwned: <%HAVETICKET>\n\nNeeded Rappy Coin(s): <%NEEDMEDAL>\nOwned: <%HAVEMEDAL>"
 	},
 	{
 		"assign": "myshop_dialog_t_12",
@@ -3392,7 +3392,7 @@
 	{
 		"assign": "myshop_dialog_b_12",
 		"jp_text": "以下のアイテムを出品します。\nよろしいですか？",
-		"en_text": ""
+		"en_text": "This will display the\nitems to sell, continue?"
 	},
 	{
 		"assign": "myshop_dialog_t_13",
@@ -3402,7 +3402,7 @@
 	{
 		"assign": "myshop_dialog_b_13",
 		"jp_text": "出品をキャンセルします。\nよろしいですか？",
-		"en_text": ""
+		"en_text": "Cancel sale of item(s)?"
 	},
 	{
 		"assign": "myshop_dialog_t_14",
@@ -3422,17 +3422,17 @@
 	{
 		"assign": "myshop_dialog_b_15",
 		"jp_text": "出品最低価格未満の額に設定されています。\n設定金額を以下の額より多く設定してください。\n(設定金額:<%MESETA>メセタ)",
-		"en_text": ""
+		"en_text": "Please set the sale price no lower\nthan the lowest amount possible.\n(Limit: <%MESETA>)"
 	},
 	{
 		"assign": "myshop_dialog_t_16",
 		"jp_text": "取り下げ完了",
-		"en_text": ""
+		"en_text": "Withdraw"
 	},
 	{
 		"assign": "myshop_dialog_b_16",
 		"jp_text": "アイテムを取り下げました。",
-		"en_text": ""
+		"en_text": "Item(s) have been withdrawn."
 	},
 	{
 		"assign": "myshop_dialog_t_17",
@@ -3442,7 +3442,7 @@
 	{
 		"assign": "myshop_dialog_b_17",
 		"jp_text": "アイテムパックの空き容量不足、\nまたは所持数の限界を超えているため、\n取り下げできませんでした。",
-		"en_text": ""
+		"en_text": "Because you do not have the\required free space for this item,\nyou cannot withdraw."
 	},
 	{
 		"assign": "myshop_dialog_t_18",
@@ -3452,7 +3452,7 @@
 	{
 		"assign": "myshop_dialog_b_18",
 		"jp_text": "取り下げをキャンセルします。\nよろしいですか？",
-		"en_text": ""
+		"en_text": "Cancel Withdraw?"
 	},
 	{
 		"assign": "myshop_dialog_t_19",
@@ -3462,7 +3462,7 @@
 	{
 		"assign": "myshop_dialog_b_19",
 		"jp_text": "以下のアイテムは既に\n売れています。",
-		"en_text": ""
+		"en_text": "Items have been sold."
 	},
 	{
 		"assign": "myshop_dialog_t_20",
@@ -3472,7 +3472,7 @@
 	{
 		"assign": "myshop_dialog_b_20",
 		"jp_text": "プレミアム期間ではないため\nマイショップでのアイテム出品ができません。\nプレミアム期間になり\n再度アイテム出品をお試しください。\nプレミアムセットは<%AC>ショップで購入と使用ができます。",
-		"en_text": ""
+		"en_text": "Because you aren't premium,\nyou cannot sell items.\nYou may purchase premium\nvia the <%AC> Shop."
 	},
 	{
 		"assign": "myshop_dialog_t_21",
@@ -3482,7 +3482,7 @@
 	{
 		"assign": "myshop_dialog_b_21",
 		"jp_text": "以下の商品をアイテムパックに取り下げます。\nよろしいですか？",
-		"en_text": ""
+		"en_text": "The following items will be\nwithdrawn, is that ok?"
 	},
 	{
 		"assign": "myshop_dialog_t_22",
@@ -3492,7 +3492,7 @@
 	{
 		"assign": "myshop_dialog_b_22",
 		"jp_text": "売り上げ金を回収しました。",
-		"en_text": ""
+		"en_text": "Shop proceeds recovered."
 	},
 	{
 		"assign": "myshop_dialog_t_23",
@@ -3517,7 +3517,7 @@
 	{
 		"assign": "myshop_dialog_b_24",
 		"jp_text": "『PSO2』においてアイテム取引パスワードが\n未設定のため、マイショップを利用できません。\n\n『PSO2』にログイン後\nビジフォンのマイショップにアクセスし\nアイテム取引パスワードを設定してください。",
-		"en_text": ""
+		"en_text": "You have not set a PSO2 Item\nTransaction Password, you cannot\npurchase from My Shop.\nPlease login into PSO2 and set\none via the Visiphone."
 	},
 	{
 		"assign": "myshop_dialog_t_25",
@@ -3527,7 +3527,7 @@
 	{
 		"assign": "myshop_dialog_b_25",
 		"jp_text": "アイテム取引パスワードが間違っています。\n正しくないパスワードを規定回数入力されると\nアイテム取引パスワードがロックされます。\n\nアイテム取引パスワードに関する\nお問い合わせは\n『ＰＳＯ２』プレイヤーズサイトからお願いします。",
-		"en_text": ""
+		"en_text": "Item Transaction password incorrect.\nIf password inputted is incorrect\na certain amount of times, you will\nbe locked out."
 	},
 	{
 		"assign": "myshop_dialog_t_26",
@@ -3537,7 +3537,7 @@
 	{
 		"assign": "myshop_dialog_b_26",
 		"jp_text": "正しくないパスワードが\n規定回数入力されたため\nアイテム取引パスワードがロックされています。\n\n６０分程度、時間をおいて再度お試しください。\n\nアイテム取引パスワードに関する\nお問い合わせは\n『ＰＳＯ２』プレイヤーズサイトからお願いします。",
-		"en_text": ""
+		"en_text": "You have been locked out\nfor 60 minutes.\nPlease try again later.\n\nContact SEGA from the PSO2 players site."
 	},
 	{
 		"assign": "myshop_dialog_t_27",
@@ -3547,7 +3547,7 @@
 	{
 		"assign": "myshop_dialog_b_27",
 		"jp_text": "最小価格、および最大価格の指定欄は\n半角数字のみ入力が可能です。",
-		"en_text": ""
+		"en_text": "Minimum Price and Maximum\nPrice can be specified."
 	},
 	{
 		"assign": "myshop_dialog_t_28",
@@ -3557,7 +3557,7 @@
 	{
 		"assign": "myshop_dialog_b_28",
 		"jp_text": "最小価格の設定が最大価格の設定を\n上回っています。\n価格帯の設定を再度ご確認ください。",
-		"en_text": ""
+		"en_text": "Price exceeds the maxmium.\nPlease check price\nrange and try again."
 	},
 	{
 		"assign": "myshop_dialog_t_29",
@@ -5062,12 +5062,12 @@
 	{
 		"assign": "quest_counter_raid_point_unit",
 		"jp_text": "<%point>ポイント　<color=#68a0a7>/</color>",
-		"en_text": "<%point>	  　<color=#68a0a7>/</color>"
+		"en_text": "<%point>\t  　<color=#68a0a7>/</color>"
 	},
 	{
 		"assign": "quest_counter_raid_time_grade",
 		"jp_text": "時間評価      <color=#68a0a7>/</color>",
-		"en_text": "Time	      <color=#68a0a7>/</color>"
+		"en_text": "Time\t      <color=#68a0a7>/</color>"
 	},
 	{
 		"assign": "quest_counter_raid_rank_grade",
@@ -10097,7 +10097,7 @@
 	{
 		"assign": "tu_0003_n11_b",
 		"jp_text": "<color=black>以上で、チップの強化の説明を終わります。\nそれでは、「ロビートップへ戻る」をタッチして\nロビーに戻りましょう。</color>",
-		"en_text": ""
+		"en_text": "<color=black>This concludes the explaination\nof chip strengthening.\nPress 「Return to Lobby」 to go back to the lobby.</color>"
 	},
 	{
 		"assign": "tu_0003_s00_b",
@@ -10197,7 +10197,7 @@
 	{
 		"assign": "tu_0004_n10_b",
 		"jp_text": "<color=black>それでは、「ロビートップへ戻る」をタッチして\nロビーに戻りましょう。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Press 「Back to Lobby」\nto return to the lobby.</color>"
 	},
 	{
 		"assign": "tu_0006_n00_b",
@@ -12897,7 +12897,7 @@
 	{
 		"assign": "sns_dialog_2_caution",
 		"jp_text": "<color=#ff0000>※24時を過ぎると再投稿が可能になります。</color>",
-		"en_text": "<color=#ff0000>※You must wait 24 hours before tweeting again.</color>"
+		"en_text": "<color=#ff0000>※You must wait 24 hours before\ntweeting again.</color>"
 	},
 	{
 		"assign": "sns_dialog_3_t",
@@ -13012,7 +13012,7 @@
 	{
 		"assign": "raid_n_clear",
 		"jp_text": "おめでとうございます！\nあなたのおかげで、目標を討伐できました。\n本当に感謝しています！",
-		"en_text": ""
+		"en_text": "Congratulations!\nWe were able to reach our goal.\nThank you very much!"
 	},
 	{
 		"assign": "raid_n_great",
@@ -13072,22 +13072,22 @@
 	{
 		"assign": "raid_dialog_t_00",
 		"jp_text": "緊急クエスト",
-		"en_text": ""
+		"en_text": "Emergency Quest"
 	},
 	{
 		"assign": "raid_dialog_b_00",
 		"jp_text": "緊急クエストの発生期間は終了しました。\nロビートップに戻ります。",
-		"en_text": ""
+		"en_text": "Emergency Quest period ended.\nReturning to the Lobby."
 	},
 	{
 		"assign": "raid_relief_line_text_00",
 		"jp_text": "チェックしたフレンドに救援要請を送ります。",
-		"en_text": ""
+		"en_text": "Check friends you wish to call for help from."
 	},
 	{
 		"assign": "raid_relief_line_text_01",
 		"jp_text": "チェックしたプレイヤーに救援要請を送ります。",
-		"en_text": ""
+		"en_text": "Check players you wish to call for help from."
 	},
 	{
 		"assign": "ItemDetail_Summary_WPCategory",
@@ -13297,17 +13297,17 @@
 	{
 		"assign": "ItemDetail_Correction_AttackReduction",
 		"jp_text": "<color=white>打撃軽減 (+<%parameter>)</color>",
-		"en_text": ""
+		"en_text": "<color=white>Cut S-ATK (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_ShootingReduction",
 		"jp_text": "<color=white>射撃軽減 (+<%parameter>)</color>",
-		"en_text": ""
+		"en_text": "<color=white>Cut R-ATK (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_SorceryReduction",
 		"jp_text": "<color=white>法撃軽減 (+<%parameter>)</color>",
-		"en_text": ""
+		"en_text": "<color=white>Cut T-ATK (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Fire",
@@ -13582,7 +13582,7 @@
 	{
 		"assign": "RaidEvent_Achievement_Text_0-1-6",
 		"jp_text": "オペレーションスコア [{0} / {1}]",
-		"en_text": ""
+		"en_text": "Operations Score [{0} / {1}]"
 	},
 	{
 		"assign": "RaidEvent_Achievement_Text_0-1-8",
@@ -13667,22 +13667,22 @@
 	{
 		"assign": "RaidEvent_Achievement_dialog02",
 		"jp_text": "以下の報酬を受け取りました。",
-		"en_text": ""
+		"en_text": "Received the following award(s)."
 	},
 	{
 		"assign": "raidEvent_SortType_1",
 		"jp_text": "標準",
-		"en_text": ""
+		"en_text": "Standard"
 	},
 	{
 		"assign": "raidEvent_SortType_2",
 		"jp_text": "受取可能",
-		"en_text": ""
+		"en_text": "Receivable"
 	},
 	{
 		"assign": "raidEvent_ClearCount",
 		"jp_text": "達成数",
-		"en_text": ""
+		"en_text": "Number Achieved"
 	},
 	{
 		"assign": "raid_event_guide_00",
@@ -13812,7 +13812,7 @@
 	{
 		"assign": "quest_final_check_friend",
 		"jp_text": "<color=#fffa00>フレンド</color>",
-		"en_text": ""
+		"en_text": "<color=#fffa00>Friend</color>"
 	},
 	{
 		"assign": "quest_final_check_guest",
