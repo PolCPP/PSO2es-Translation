@@ -4732,7 +4732,7 @@
 	{
 		"assign": "quest_counter_bonus_period",
 		"jp_text": "あと<%period>時間",
-		"en_text": ""
+		"en_text": "After <%period> time"
 	},
 	{
 		"assign": "quest_counter_departure_t",
@@ -5027,7 +5027,7 @@
 	{
 		"assign": "quest_counter_raid_current_rank",
 		"jp_text": "あと<%hh>:<%mm>:<%ss>以内に討伐で<color=#ffff00><%rank>ランク</color>クリア！",
-		"en_text": "<color=#ffff00><%rank>-Rank</color> subjugation cleared in <%hh>:<%mm>:<%ss>!"
+		"en_text": "<color=#ffff00><%rank>-Rank</color> cleared in <%hh>:<%mm>:<%ss>!"
 	},
 	{
 		"assign": "quest_counter_raid_current_rank_b",
@@ -5072,12 +5072,12 @@
 	{
 		"assign": "quest_counter_raid_rank_grade",
 		"jp_text": "： 発生から<%hh>:<%mm>:<%ss>以内に討伐\n",
-		"en_text": ": subdue clear time <%hh>:<%mm>:<%ss>\n"
+		"en_text": ": clear time <%hh>:<%mm>:<%ss>\n"
 	},
 	{
 		"assign": "quest_counter_raid_rank_grade2",
 		"jp_text": "： 発生期間内に討伐\n",
-		"en_text": "： subdue clear time\n"
+		"en_text": "： clear time\n"
 	},
 	{
 		"assign": "quest_counter_raid_point_grade",
@@ -5622,7 +5622,7 @@
 	{
 		"assign": "quest_line_00",
 		"jp_text": "冒険中のプレイヤーに出会いました。\nフレンド申を行いますか？",
-		"en_text": ""
+		"en_text": "Another ARKS member encountered.\nAdd as a Friend?"
 	},
 	{
 		"assign": "quest_line_08_cbt",
@@ -5727,12 +5727,12 @@
 	{
 		"assign": "quest_npc_b_01",
 		"jp_text": "<%name>さん\n新たなクエストエリアが\n解放されました。",
-		"en_text": ""
+		"en_text": "<%name>\nA new area has\nbeen unlocked."
 	},
 	{
 		"assign": "quest_line_08",
 		"jp_text": "冒険中のアークスに出会いました。フレンド申請を行いますか？",
-		"en_text": ""
+		"en_text": "Another ARKS member encountered.\nAdd as a Friend?"
 	},
 	{
 		"assign": "quest_line_05",
@@ -5802,57 +5802,57 @@
 	{
 		"assign": "quest_line_12_1",
 		"jp_text": "HPが回復しました",
-		"en_text": ""
+		"en_text": "HP restored"
 	},
 	{
 		"assign": "quest_line_15",
 		"jp_text": "コンテナ発見！ ",
-		"en_text": ""
+		"en_text": "Discovered a Container!"
 	},
 	{
 		"assign": "quest_line_16",
 		"jp_text": "回復ポッド発見！ ",
-		"en_text": ""
+		"en_text": "Discovered a Recovery Pod!\t"
 	},
 	{
 		"assign": "field_exp",
 		"jp_text": "ＥＸＰ",
-		"en_text": ""
+		"en_text": " EXP "
 	},
 	{
 		"assign": "field_meseta",
 		"jp_text": "メセタ",
-		"en_text": "Meseta "
+		"en_text": " Meseta "
 	},
 	{
 		"assign": "field_item",
 		"jp_text": "アイテム",
-		"en_text": "Item "
+		"en_text": " Item "
 	},
 	{
 		"assign": "field_score",
 		"jp_text": "スコア",
-		"en_text": "Score "
+		"en_text": " Score "
 	},
 	{
 		"assign": "fieldoption_category_windowtitle",
 		"jp_text": "メニュー",
-		"en_text": "Menu"
+		"en_text": " Menu "
 	},
 	{
 		"assign": "fieldoption_category_soundsetting",
 		"jp_text": "サウンド設定",
-		"en_text": ""
+		"en_text": "Sound"
 	},
 	{
 		"assign": "fieldoption_category_autosetting",
 		"jp_text": "オートプレイ設定",
-		"en_text": ""
+		"en_text": "Autoplay"
 	},
 	{
 		"assign": "fieldoption_category_questretire",
 		"jp_text": "クエストリタイア",
-		"en_text": ""
+		"en_text": "Retire"
 	},
 	{
 		"assign": "fieldoption_category_close",
@@ -5862,12 +5862,12 @@
 	{
 		"assign": "fieldoption_soundsetting_windowtitle",
 		"jp_text": "サウンド設定",
-		"en_text": ""
+		"en_text": "Sound Options"
 	},
 	{
 		"assign": "fieldoption_soundsetting_initialsetting",
 		"jp_text": "初期設定に戻す",
-		"en_text": ""
+		"en_text": "Reset"
 	},
 	{
 		"assign": "fieldoption_soundsetting_close",
@@ -5877,12 +5877,12 @@
 	{
 		"assign": "fieldoption_autosetting_windowtitle",
 		"jp_text": "オートプレイ設定",
-		"en_text": ""
+		"en_text": "Autoplay"
 	},
 	{
 		"assign": "fieldoption_autosetting_automovetext",
 		"jp_text": "オート移動設定保持",
-		"en_text": ""
+		"en_text": "Autoplay Settings"
 	},
 	{
 		"assign": "fieldoption_autosetting_onsetting",
@@ -5897,32 +5897,32 @@
 	{
 		"assign": "fieldoption_autosetting_explaintext01",
 		"jp_text": "前回のオート移動モードの状態を保持して\nクエストを開始します。",
-		"en_text": ""
+		"en_text": "Always Automove during quests."
 	},
 	{
 		"assign": "fieldoption_autosetting_explaintext02",
 		"jp_text": "常にオート移動オフの状態でクエストを開始します。",
-		"en_text": ""
+		"en_text": "Do not automove during quests."
 	},
 	{
 		"assign": "fieldoption_autosetting_initialsetting",
 		"jp_text": "初期設定に戻す",
-		"en_text": ""
+		"en_text": "Reset Settings"
 	},
 	{
 		"assign": "fieldoption_autosetting_close",
 		"jp_text": "閉じる",
-		"en_text": ""
+		"en_text": "Close"
 	},
 	{
 		"assign": "questfield_automove_start",
 		"jp_text": "オート移動開始",
-		"en_text": ""
+		"en_text": "Automove On"
 	},
 	{
 		"assign": "questfield_automove_stop",
 		"jp_text": "オート移動停止",
-		"en_text": ""
+		"en_text": "Automove Off"
 	},
 	{
 		"assign": "quest_result_levelcap",
@@ -5972,7 +5972,7 @@
 	{
 		"assign": "questresult_result_exp",
 		"jp_text": "EXP",
-		"en_text": ""
+		"en_text": " EXP "
 	},
 	{
 		"assign": "questresult_result_getmeseta",
@@ -5982,7 +5982,7 @@
 	{
 		"assign": "questresult_result_meseta",
 		"jp_text": "メセタ",
-		"en_text": " Meseta"
+		"en_text": " Meseta "
 	},
 	{
 		"assign": "questresult_result_nextlevel",
@@ -6002,7 +6002,7 @@
 	{
 		"assign": "questresult_result_point",
 		"jp_text": "目標ランク",
-		"en_text": "討伐ポイント"
+		"en_text": "Target Rank"
 	},
 	{
 		"assign": "questresult_result_gain",
@@ -6022,12 +6022,12 @@
 	{
 		"assign": "questresult_result_limit_s_a",
 		"jp_text": "あと<%hh>時間<%mm>分以内に討伐で<%rank>ランク",
-		"en_text": "あと<%hh>時間<%mm>分以内に討伐で<%rank>ランク"
+		"en_text": "Rank/Time: <%rank>/<%hh>:<%mm> "
 	},
 	{
 		"assign": "questresult_result_limit_b",
 		"jp_text": "発生期間中に討伐で<%rank>ランク",
-		"en_text": "発生期間中に討伐で<%rank>ランク"
+		"en_text": "Rank <%rank>"
 	},
 	{
 		"assign": "questresult_item_title",
@@ -6112,7 +6112,7 @@
 	{
 		"assign": "quest_result_opget",
 		"jp_text": "OPが<%point>ポイント回復しました！",
-		"en_text": ""
+		"en_text": "<%point> OP recovered!"
 	},
 	{
 		"assign": "battleresult_title",
@@ -6167,12 +6167,12 @@
 	{
 		"assign": "title_guide_06",
 		"jp_text": "<color=#f0df60>キャラクターの引き継ぎを行えます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Select a Character.</color>"
 	},
 	{
 		"assign": "title_guide_07",
 		"jp_text": "<color=#f0df60>キャラクターの引き継ぎを行えます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Select a Character.</color>"
 	},
 	{
 		"assign": "title_guide_08",
@@ -6197,47 +6197,47 @@
 	{
 		"assign": "title_dialog_b_00",
 		"jp_text": "ワンタイムパスワードは発行されてから\n約1分間で使えなくなります。\n一定時間経過した場合は\nあらためて「再発行」をお願いします。\n\nまた、6回連続で間違えますと、\nロック状態となります。\nロック状態の解除に関する情報は\nプレイヤーズサイトにてご確認ください。",
-		"en_text": ""
+		"en_text": "Please enter your OTP code.\nThe OTP code can only be used after\nbeing issued for around 1 minute.\nIf too much time has passed,\nplease generate a new code.\nAlso, if you enter it wrong 6 times,\nyour account will be locked."
 	},
 	{
 		"assign": "title_dialog_t_01",
 		"jp_text": "端末引き継ぎ",
-		"en_text": "キャラクター引き継ぎ"
+		"en_text": "Device Transfer"
 	},
 	{
 		"assign": "title_dialog_b_01",
 		"jp_text": "PSO2es専用プレイヤーIDと\n秘密のパスワードを入力してから、\nキャラクターデータの引き継ぎを行ってください。\n\n※変更前の端末で発行された内容を入力してください。\n※連続で失敗すると一定時間入力ができなくなります\nのでご注意ください。",
-		"en_text": "PSO2es専用プレイヤーIDと秘密のパスワードを入力し\nキャラクターデータの引き継ぎを行ってください。\n\n※変更前の端末で発行された内容を入力してください。\n※連続で失敗すると一定時間入力ができなくなりますのでご注意ください。"
+		"en_text": "Enter your PSO2es Player ID\nand your Device ID to start\nthe transfer.\n\n※Your device ID can be generated from the Device ID menu.\n※Please keep in mind that you will not\nbe able to fail several times."
 	},
 	{
 		"assign": "title_dialog_t_02",
 		"jp_text": "端末引き継ぎ",
-		"en_text": "キャラクター引き継ぎ"
+		"en_text": "Device Transfer"
 	},
 	{
 		"assign": "title_dialog_b_02",
 		"jp_text": "秘密のパスワードを入力してから、\nキャラクターデータの引き継ぎを行ってください。\n\n※変更前の端末で発行された内容を入力してください。\n\n※連続で失敗すると一定時間入力ができなくなります\nのでご注意ください。",
-		"en_text": "秘密のパスワードを入力してから、\nキャラクターデータの引き継ぎを行ってください。\n\n※変更前の端末で発行された内容を入力してください。\n※連続で失敗すると一定時間入力ができなくなりますのでご注意ください。"
+		"en_text": "Please enter your Device ID,\nto start the device transfer.\n\n※Your device ID can be generated from the Device ID menu.\n\n※Please keep in mind that you will not\nbe able to fail several times."
 	},
 	{
 		"assign": "title_dialog_t_03",
 		"jp_text": "端末引き継ぎ",
-		"en_text": "キャラクターデータ引き継ぎ"
+		"en_text": "Device Transfer"
 	},
 	{
 		"assign": "title_dialog_b_03",
 		"jp_text": "データの引き継ぎが正常に行われました。",
-		"en_text": ""
+		"en_text": "Device Transfer was successful."
 	},
 	{
 		"assign": "title_dialog_t_04",
 		"jp_text": "端末引き継ぎ",
-		"en_text": "キャラクターデータ引き継ぎ"
+		"en_text": "Device Transfer"
 	},
 	{
 		"assign": "title_dialog_b_04",
 		"jp_text": "ID、または秘密のパスワードが入力されていません。\n正しい情報を入力してください。",
-		"en_text": ""
+		"en_text": "ID or Device ID is incorrect.\nPlease re-check and try again."
 	},
 	{
 		"assign": "title_dialog_t_05",
@@ -6247,7 +6247,7 @@
 	{
 		"assign": "title_dialog_b_05",
 		"jp_text": "プレイヤーIDネームとは『PSO2』の中で\n各プレイヤーを判別するための名前のことです。\n\n設定したプレイヤーIDネームは\n他のユーザーに公開されます。\n\n他のプレイヤーと重複するプレイヤーIDネームは\n設定できませんのでご注意ください。\n\n半角文字だけでなく、全角文字も使用できます。",
-		"en_text": ""
+		"en_text": "Please enter a Player ID.\nThis ID will be displayed publicly\nto all other players.\n\nID's must be unique and will\nnot overlap with other players's ID.\n\nKeep in mind, you cannot\nchange this when set."
 	},
 	{
 		"assign": "title_dialog_t_06",
@@ -6447,7 +6447,7 @@
 	{
 		"assign": "push_guide",
 		"jp_text": "<color=#f0df60>通知を受け取りたい項目の設定を「ON」にしてください。通知を受け取りたいシップのキャラクターで『PSO2es』にログインすることで、設定が反映されます。また、ゲームプレイ中は通知を受け取ることができません。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Set the notifications you wish to receive to the 「ON」 setting.</color>"
 	},
 	{
 		"assign": "push_dialog_t",
@@ -6516,8 +6516,8 @@
 	},
 	{
 		"assign": "title_chara_transfer_finish_b",
-		"jp_text": "端末の引き継ぎが完了しました。\nこちらの端末で引き続き『PSO2es』を\nプレイすることが可能です。\n \n※新たに機種変更などを行う際は、必ず\n「メニュー」にある「端末引き継ぎ情報」を\n確認してから行ってください。",
-		"en_text": "端末の引き継ぎが完了しました。\nこちらの端末で引き続き『PSO2es』を\nプレイすることが可能です。\n \n※新たに機種変更などを行う際は、必ず\n[メニュー]にある[端末引き継ぎ情報]を\n確認してから行ってください。"
+		"jp_text": "端末の引き継ぎが完了しました。\nこちらの端末で引き続き『PSO2es』を\nプレイすることが可能です。\n\n※新たに機種変更などを行う際は、必ず\n「メニュー」にある「端末引き継ぎ情報」を\n確認してから行ってください。",
+		"en_text": "Device Transfer completed.\nYou may now play PSO2es\nfrom this device.\n\n※Please note that your Device ID's\nwill change per device."
 	},
 	{
 		"assign": "title_chara_idname_botton",
@@ -6557,7 +6557,7 @@
 	{
 		"assign": "title_chara_select_class_b",
 		"jp_text": "{0}でゲームを始めます。\nよろしいですか？",
-		"en_text": ""
+		"en_text": "Start the game with {0}?"
 	},
 	{
 		"assign": "title_not_inheriting_t",
@@ -6567,7 +6567,7 @@
 	{
 		"assign": "title_not_inheriting_b",
 		"jp_text": "入力されたアカウントは\nすでにこの端末でログインしています。",
-		"en_text": ""
+		"en_text": "You are already logged in with this character."
 	},
 	{
 		"assign": "title_connect_t",
@@ -6577,7 +6577,7 @@
 	{
 		"assign": "title_connect_b",
 		"jp_text": "『PSO2』へのキャラクター連動処理を再開します。\n\n処理完了までは数十秒程度の時間がかかります。\n通信を行いますので、\n電波状況の良い場所で開始して下さい。\n連動が完了すると、タイトル画面に戻ります。",
-		"en_text": "『PSO2』へのキャラクター連動処理を再開します。\n\nThis may take a moment.\nPlease ensure you are in a\ngood reception area.\nReturning to Lobby when Complete."
+		"en_text": "『PSO2』 Resume Device transfer.\n\nThis may take a moment.\nPlease ensure you are in a\ngood reception area.\nReturning to Lobby when Complete."
 	},
 	{
 		"assign": "system_dialog_t_stackover01",
@@ -6907,7 +6907,7 @@
 	{
 		"assign": "time_count_sec",
 		"jp_text": "$（second）秒",
-		"en_text": ""
+		"en_text": "$（second）"
 	},
 	{
 		"assign": "time_count",
@@ -6917,17 +6917,17 @@
 	{
 		"assign": "time",
 		"jp_text": "$（hour）時$（minute）分",
-		"en_text": ""
+		"en_text": "$（hour）:$（minute）"
 	},
 	{
 		"assign": "time_sec",
 		"jp_text": "$（hour）時$（minute）分$（second）秒",
-		"en_text": ""
+		"en_text": "$（hour）:$（minute）:$（second）"
 	},
 	{
 		"assign": "datetime",
 		"jp_text": "$（year）年$（month）月$（day）日$（hour）時$（minute）分",
-		"en_text": ""
+		"en_text": "$（year）/$（month）/$（day） $（hour）:$（minute）"
 	},
 	{
 		"assign": "datetime_v",
@@ -6937,7 +6937,7 @@
 	{
 		"assign": "datetime_sec",
 		"jp_text": "$（year）年$（month）月$（day）日$（hour）時$（minute）分$（second）秒",
-		"en_text": ""
+		"en_text": "$（year）/$（month）/$（day） $（hour）:$（minute）:$（second）"
 	},
 	{
 		"assign": "datetime_sec_v",
@@ -6952,22 +6952,22 @@
 	{
 		"assign": "period",
 		"jp_text": "$（hour）時間$（minute）分",
-		"en_text": ""
+		"en_text": "$（hour）:$（minute）"
 	},
 	{
 		"assign": "period_min",
 		"jp_text": "$（minute）分間",
-		"en_text": ""
+		"en_text": "$（minute）"
 	},
 	{
 		"assign": "leave_hour",
 		"jp_text": "$（hour）時間$（minute）分",
-		"en_text": ""
+		"en_text": "$（hour）:$（minute）"
 	},
 	{
 		"assign": "leave_min",
 		"jp_text": "$（minute）分",
-		"en_text": ""
+		"en_text": "$（minute）"
 	},
 	{
 		"assign": "tips_now_loading",
@@ -7722,7 +7722,7 @@
 	{
 		"assign": "recycle_raid_chip_category",
 		"jp_text": "{0}系チップ",
-		"en_text": ""
+		"en_text": "{0} System Chip"
 	},
 	{
 		"assign": "recycle_item_num_format",
@@ -7732,17 +7732,17 @@
 	{
 		"assign": "recycle_item_trade_info",
 		"jp_text": "交換に必要：{0} {1}個",
-		"en_text": "{0} {1}個 で交換可能"
+		"en_text": "{0} {1} needed"
 	},
 	{
 		"assign": "recycle_item_trade_limit_info",
 		"jp_text": "<color=#f0df60>残り交換可能数：{0}個({1}まで)</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Remaining：{0}/({1})</color>"
 	},
 	{
 		"assign": "recycle_item_trade_rest",
 		"jp_text": "あと{0}個",
-		"en_text": ""
+		"en_text": "{0}"
 	},
 	{
 		"assign": "recycle_shop_trade_item",
@@ -7762,22 +7762,22 @@
 	{
 		"assign": "recycle_shop_none_trade_item",
 		"jp_text": "交換に必要なアイテムを持っていません。",
-		"en_text": ""
+		"en_text": "You don't have the necessary items."
 	},
 	{
 		"assign": "recycle_shop_none_trade_chip",
 		"jp_text": "交換に必要なチップを持っていません。",
-		"en_text": ""
+		"en_text": "You don't have the necessary chips."
 	},
 	{
 		"assign": "recycle_shop_item_pack",
 		"jp_text": "渡すアイテム",
-		"en_text": ""
+		"en_text": "Recycle Items"
 	},
 	{
 		"assign": "recycle_shop_chip_pack",
 		"jp_text": "渡すチップ",
-		"en_text": ""
+		"en_text": "Recycle Chips"
 	},
 	{
 		"assign": "chip_grind_ability_level_up",
@@ -7807,52 +7807,52 @@
 	{
 		"assign": "dict_seraphy_pickup",
 		"jp_text": "セラフィのピックアップ",
-		"en_text": ""
+		"en_text": "Seraphy Pickup"
 	},
 	{
 		"assign": "dict_chip_category_title",
 		"jp_text": "カテゴリー選択",
-		"en_text": ""
+		"en_text": "Select Category"
 	},
 	{
 		"assign": "dictionary_title",
 		"jp_text": "チップ研究室",
-		"en_text": ""
+		"en_text": "Chip Lab."
 	},
 	{
 		"assign": "dict_discover_num",
 		"jp_text": "発見数",
-		"en_text": ""
+		"en_text": "Discoveries"
 	},
 	{
 		"assign": "dict_seraphy_note",
 		"jp_text": "セラフィノート",
-		"en_text": "Seraphy Notes"
+		"en_text": "Seraphy's Notes"
 	},
 	{
 		"assign": "dict_attribute",
 		"jp_text": "最大属性値",
-		"en_text": ""
+		"en_text": "Max Attr. Value"
 	},
 	{
 		"assign": "dict_hp",
 		"jp_text": "最大+HP",
-		"en_text": ""
+		"en_text": "Max HP"
 	},
 	{
 		"assign": "dict_cp",
 		"jp_text": "最大+CP",
-		"en_text": ""
+		"en_text": "Max CP"
 	},
 	{
 		"assign": "dict_ability_lv",
 		"jp_text": "最大アビリティLv.{0}",
-		"en_text": ""
+		"en_text": "Max Abl Lv.{0}"
 	},
 	{
 		"assign": "dict_rest_num",
 		"jp_text": "あと{0}",
-		"en_text": ""
+		"en_text": "{0}"
 	},
 	{
 		"assign": "item_detail_prev",
@@ -7867,17 +7867,17 @@
 	{
 		"assign": "dict_current_chip_num",
 		"jp_text": "現在の調査済チップ数 {0}",
-		"en_text": ""
+		"en_text": "Currently owned: {0}"
 	},
 	{
 		"assign": "dict_present_list_title",
 		"jp_text": "チップ調査プレゼント一覧",
-		"en_text": ""
+		"en_text": "Chip Survey Gift List"
 	},
 	{
 		"assign": "dict_collect_num_header",
 		"jp_text": "調査チップ数",
-		"en_text": ""
+		"en_text": "Researched chips"
 	},
 	{
 		"assign": "dict_present_info_header",
@@ -7892,7 +7892,7 @@
 	{
 		"assign": "dict_collect_num",
 		"jp_text": "{0}種類",
-		"en_text": ""
+		"en_text": "{0} type"
 	},
 	{
 		"assign": "dict_rappy_medal",
@@ -7907,12 +7907,12 @@
 	{
 		"assign": "dict_present_num_ko",
 		"jp_text": "{0}個",
-		"en_text": ""
+		"en_text": "{0}"
 	},
 	{
 		"assign": "dict_present_num_mai",
 		"jp_text": "{0}枚",
-		"en_text": ""
+		"en_text": "{0}"
 	},
 	{
 		"assign": "dict_still_present_btn",
@@ -8362,22 +8362,22 @@
 	{
 		"assign": "loginbonus_expticket",
 		"jp_text": "<%ticketname> <%ticketnum>枚",
-		"en_text": ""
+		"en_text": "<%ticketname> <%ticketnum>"
 	},
 	{
 		"assign": "loginbonus_begin",
 		"jp_text": "■<%day>日目のログインボーナス",
-		"en_text": "<%day> Daily Bonus Start"
+		"en_text": "■<%day> Daily Bonus Start"
 	},
 	{
 		"assign": "loginbonus_begin_next",
 		"jp_text": "■キャラクターログインボーナス",
-		"en_text": "Next Login Bonus"
+		"en_text": "■ Next Login Bonus"
 	},
 	{
 		"assign": "loginbonus_begin_comp",
 		"jp_text": "■コンプリートボーナス",
-		"en_text": "Bonus Completed"
+		"en_text": "■ Bonus Completed"
 	},
 	{
 		"assign": "loginbonus_end",
@@ -8387,7 +8387,7 @@
 	{
 		"assign": "loginbonus_account_begin",
 		"jp_text": "■アカウントログインボーナス",
-		"en_text": "Account Login Bonus"
+		"en_text": "■ Account Login Bonus"
 	},
 	{
 		"assign": "loginbonus_account_end",
@@ -8402,7 +8402,7 @@
 	{
 		"assign": "loginbonus_chara_name",
 		"jp_text": "<color=#FFFFFF>モア</color>",
-		"en_text": ""
+		"en_text": "<color=#FFFFFF>Clay</color>"
 	},
 	{
 		"assign": "loginbonus_first_message",
@@ -8422,7 +8422,7 @@
 	{
 		"assign": "loginbonus_premium_warning",
 		"jp_text": "※ボーナス獲得時にプレミアム期間内であった場合適用されます。",
-		"en_text": "※ボーナス獲得時にプレミアム期間内であった場合適用されます。"
+		"en_text": "※Applied during premium active."
 	},
 	{
 		"assign": "lobby_support_title",
@@ -8432,7 +8432,7 @@
 	{
 		"assign": "lobby_support_body",
 		"jp_text": "「{0}」さんなどの\nクエストに同行した報酬が届いています。\n\n同行回数　<color=#f0df60>{1}回</color>\n<color=#f0df60>{2}FUN</color>を獲得しました！\n\n<size=19>※前回のログインから現時点までの獲得合計を表示しています。</size>",
-		"en_text": "「{0}」さんなどの\nクエストに同行した報酬が届いています。\n\n同行回数　<color=#f0df60>{1}回</color>\n<color=#f0df60>{2}FUN</color>を獲得しました！\n\n<size=19>※前回のログインから現時点までの獲得合計を表示しています。</size>"
+		"en_text": "「{0}」 used your Friend Partner for a quest.\n\n<color=#f0df60>{1}</color>\n<color=#f0df60>{2}FUN</color> was awarded!\n\n<size=19>※Displaying the previous total from the last login session.</size>"
 	},
 	{
 		"assign": "lobby_charainfo_lv",
@@ -9437,7 +9437,7 @@
 	{
 		"assign": "scratch_11ac",
 		"jp_text": "<%AC>\n11回",
-		"en_text": "<%AC>\n11回"
+		"en_text": "<%AC>\nx11"
 	},
 	{
 		"assign": "scratch_init",
@@ -13767,12 +13767,12 @@
 	{
 		"assign": "raid_os_ranking_aggregating",
 		"jp_text": "集計中",
-		"en_text": ""
+		"en_text": "Ranking Summary"
 	},
 	{
 		"assign": "raid_os_ranking_rank",
 		"jp_text": "{0}位",
-		"en_text": ""
+		"en_text": "{0}"
 	},
 	{
 		"assign": "mag_skill_strike",
@@ -13922,12 +13922,12 @@
 	{
 		"assign": "menu_invite_reward_list_receive",
 		"jp_text": "受け取る",
-		"en_text": ""
+		"en_text": "Receive"
 	},
 	{
 		"assign": "invite_dialog_t_01",
 		"jp_text": "招待コードコピー",
-		"en_text": ""
+		"en_text": "Copy Invite Code"
 	},
 	{
 		"assign": "invite_dialog_b_01",
@@ -13977,7 +13977,7 @@
 	{
 		"assign": "quest_lobby_guide_00",
 		"jp_text": "<color=#f0df60>現在の装備を表示します。「武器／チップ装備」「防具装備」ボタンから、装備の変更を行えます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df61>現在の装備を表示します。「武器／チップ装備」「防具装備」ボタンから、装備の変更を行えます。</color>"
 	},
 	{
 		"assign": "tutorial_skip_dialog_t_00",
