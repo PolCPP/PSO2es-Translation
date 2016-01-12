@@ -5662,7 +5662,7 @@
 	{
 		"assign": "quest_dialog_b_03",
 		"jp_text": "ラッピーメダルか復活薬を消費して復活しますか？\nリタイアするとクエスト中に得たアイテム、経験値等がすべて失われます。\n（復活薬がない場合は<%AC>を使って復活できます）\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>\n\n必要復活薬：<%consume_scape_doll_es>個\n所持復活薬：<%current_scape_doll_es>",
-		"en_text": "Do you want to revive using AC/Rappy Coins?\nAll Items, Exp, Meseta is lost\nif you choose to retire.\n\nRappy Coins needed：<%consume_rappy_coin>枚\nRappy Coins owned：<%current_rappy_coin>枚\n\nAC needed：<%consume_AC>\nAC owned：<%current_AC>"
+		"en_text": "Do you want to revive using AC/Rappy Coins?\nAll Items, Exp, Meseta is lost\nif you choose to retire.\n\nRappy Coins needed：<%consume_rappy_coin>\nRappy Coins owned：<%current_rappy_coin>\n\nScape Dolls needed：<%consume_scape_doll_es>\nDolls owned：<%current_scape_doll_es>"
 	},
 	{
 		"assign": "quest_dialog_b_03_retire",
@@ -6207,7 +6207,7 @@
 	{
 		"assign": "title_dialog_b_01",
 		"jp_text": "PSO2es専用プレイヤーIDと\n秘密のパスワードを入力してから、\nキャラクターデータの引き継ぎを行ってください。\n\n※変更前の端末で発行された内容を入力してください。\n※連続で失敗すると一定時間入力ができなくなります\nのでご注意ください。",
-		"en_text": "Enter your PSO2es Player ID\nand your Device ID to start\nthe transfer.\n\n※Your device ID can be generated from the Device ID menu.\n※Please keep in mind that you will not\nbe able to fail several times."
+		"en_text": "Enter your PSO2es Player ID\nand your Device ID to start\nthe transfer.\n\n※Your device ID can be generated from the Device ID menu."
 	},
 	{
 		"assign": "title_dialog_t_02",
@@ -6217,7 +6217,7 @@
 	{
 		"assign": "title_dialog_b_02",
 		"jp_text": "秘密のパスワードを入力してから、\nキャラクターデータの引き継ぎを行ってください。\n\n※変更前の端末で発行された内容を入力してください。\n\n※連続で失敗すると一定時間入力ができなくなります\nのでご注意ください。",
-		"en_text": "Please enter your Device ID,\nto start the device transfer.\n\n※Your device ID can be generated from the Device ID menu.\n\n※Please keep in mind that you will not\nbe able to fail several times."
+		"en_text": "Please enter your Device ID,\nto start the device transfer.\n\n※Your device ID can be generated from the Device ID menu."
 	},
 	{
 		"assign": "title_dialog_t_03",
@@ -6337,7 +6337,7 @@
 	{
 		"assign": "title_dialog_b_13",
 		"jp_text": "SEGA IDに登録されている連絡先メールアドレスに\n秘密のパスワードを送ります。\nよろしいですか？\n\n<size=22>※メールは「pso2admin@pso2gs.net」から送信されます。\nドメイン拒否設定、迷惑メール設定などにご注意ください。</size>",
-		"en_text": "This will send the Device ID to your\nthe email registered to your SEGA ID.\n\n<size=22>※Please watch for an email from 「pso2admin@pso2gs.net」\nand clear that email from your spam folder if needed.</size>"
+		"en_text": "This will send the Device ID to your\nthe email registered to your SEGA ID.\n<size=22>※Please watch for an email from pso2admin@pso2gs.net\nand clear that email from your spam folder if needed.</size>"
 	},
 	{
 		"assign": "title_dialog_t_14",
@@ -6347,7 +6347,7 @@
 	{
 		"assign": "title_dialog_b_14",
 		"jp_text": "登録されている連絡先メールアドレスに\n秘密のパスワードを送りました。\n\n<size=22>※複数回送信すると、毎回、\n秘密のパスワードが更新されます。\n最新の受信メールをご確認ください。</size>",
-		"en_text": "Email Sent.\n The Contents of the email contain a new generated Device ID.\n\n<size=22>※Every time you recover a new Device ID,/na new one is generated.</size>"
+		"en_text": "Email Sent.\nThe Contents of the email contain a new Device ID.\n<size=22>※Every time you recover a new Device ID,\na new one is generated.</size>"
 	},
 	{
 		"assign": "title_send_mail_button",
@@ -7742,7 +7742,7 @@
 	{
 		"assign": "recycle_item_trade_rest",
 		"jp_text": "あと{0}個",
-		"en_text": "{0}"
+		"en_text": "{0} needed items/chips. "
 	},
 	{
 		"assign": "recycle_shop_trade_item",
@@ -10362,7 +10362,7 @@
 	{
 		"assign": "tu_0006_w11_b",
 		"jp_text": "『PSO2』とのキャラクター連動処理を行いました。\n以降、『PSO2es』において、『PSO2』との\nさまざまな連動機能が利用できるようになります。",
-		"en_text": ""
+		"en_text": "If you link your PSO2 character with PSO2es,\nvarious functions will be unlocked."
 	},
 	{
 		"assign": "tu_0006_w12_b",
@@ -10372,122 +10372,122 @@
 	{
 		"assign": "tu_0006_w13_b",
 		"jp_text": "メニュー『キャラクター連動』において、\n『PSO2』で所持しているマグを育成できるようになりました。",
-		"en_text": ""
+		"en_text": "Because you linked your character\nwith PSO2, you can now feed your mag."
 	},
 	{
 		"assign": "tu_0006_w14_b",
 		"jp_text": "-",
-		"en_text": "ＡＣショップで、「プレミアムセット」を購入できるようになりました。\nプレミアムセットを使用すると、『PSO2es』では\nログインボーナスが強化されるなどの効果があります。"
+		"en_text": ""
 	},
 	{
 		"assign": "tu_0006_w15_b",
 		"jp_text": "スクラッチメニューにおいて、\n『PSO2』で販売されているスクラッチを\n購入できるようになりました。",
-		"en_text": ""
+		"en_text": "Scratches from PSO2 are now available."
 	},
 	{
 		"assign": "tu_0006_w16_b",
 		"jp_text": "アイテムパックの所持品と、アイテムの最大所持数を\n『PSO2』と共有するようになりました。最大所持数が３０の場合、\n『PSO2』にログインすると、５０に拡張されます。",
-		"en_text": "アイテムパックの所持品と、アイテムの最大所持数を\n『PSO2』と共有するようになりました。最大所持数が３０の場合、\n『PSO2』ログインすると、５０に拡張されます。"
+		"en_text": "Your item pack can hold up to a maximum of 30 items.\nIf linked with PSO2, your inventory\nis upgraded to 50 items max."
 	},
 	{
 		"assign": "tu_0006_w17_b",
 		"jp_text": "ＡＣ・メセタ・ＦＵＮを、『PSO2』と共有するようになりました。",
-		"en_text": ""
+		"en_text": "AC, Meseta, and FUN are now shared between PSO2."
 	},
 	{
 		"assign": "tu_0006_w18_b",
 		"jp_text": "メセタ・ＦＵＮを、『PSO2』と共有するようになりました。\n詳しくは公式サイトをご確認ください。",
-		"en_text": ""
+		"en_text": "Meseta and FUN are now shared with PSO2.\nCheck the official site for details."
 	},
 	{
 		"assign": "tu_0006_n45_b",
 		"jp_text": "『PSO2』で購入したACと\niOS版『PSO2es』で購入したiACは、連動しておりません。\n詳しくは公式サイトをご確認ください。",
-		"en_text": ""
+		"en_text": "AC purchased from PSO2 isn't compatible with iAC purchased from iOS."
 	},
 	{
 		"assign": "tu_0006_w19_b",
 		"jp_text": "フレンドとメールは、『PSO2』とは連動しておりません。\nご了承ください。",
-		"en_text": "なお、フレンドとメールは、『PSO2』とは連動しておりません。\nご了承ください。"
+		"en_text": "Note that Friend List and\nMail aren't synced with PSO2."
 	},
 	{
 		"assign": "tu_0006_n43_b",
 		"jp_text": "『PSO2es』では、首から上のアクセサリーのみが表示されます。\nまた、表示されるアクセサリーは１つ目までとなっており、\n２つ目、３つ目のアクセサリーは表示されません。",
-		"en_text": ""
+		"en_text": "In PSO2es, only the first accessory slot will be displayed.\n2nd, 3rd and 4th slots will not be displayed."
 	},
 	{
 		"assign": "tu_0006_w21_b",
 		"jp_text": "<%AC>ショップでは、「プレミアムセット」を購入・使用できます。\nプレミアムセットを使用すると、次の効果を得られます。",
-		"en_text": "ＡＣショップでは、「プレミアムセット」を購入・使用できます。\nプレミアムセットを使用すると、次の効果を得られます。"
+		"en_text": "In the <%AC> Shop, you can purchase and use the Premium Set.\nIf you use the Premium Set, you get the following effect."
 	},
 	{
 		"assign": "tu_0006_w22_b",
 		"jp_text": "＜獲得ＦＵＮ、ログインボーナスがさらにお得に！＞\nクエストのクリア時、<%AC>の使用時に手に入るＦＵＮが増加します。\nまたログインボーナスにラッピーメダルがつくなど、お得になります。",
-		"en_text": "＜獲得ＦＵＮ、ログインボーナスがさらにお得に！＞\nクエストのクリア時、ＡＣの使用時に手に入るＦＵＮが増加します。\nまたログインボーナスにラッピーメダルがつくなど、お得になります。"
+		"en_text": "<FUN point and Login Bonus!>\nYou will gain a bonus of FUN when using <%AC> to buy things.\nYou will also gain the login bonus twice."
 	},
 	{
 		"assign": "tu_0006_w23_b",
 		"jp_text": "＜緊急クエストの予告メール受信＞\n『PSO2』のキャラクターがいるシップで緊急クエストが発生したとき、\n約１時間前に、発生を予告するメールが『PSO2es』に届きます。",
-		"en_text": ""
+		"en_text": "<Early EQ notices>\nYou can get 1-hour early notifications from PSO2es for the\nship you play on PSO2."
 	},
 	{
 		"assign": "tu_0006_w24_b",
 		"jp_text": "なおメールは、ロビートップ画面へと移動したときと\nメール画面へと移動したときに受信いたします。",
-		"en_text": ""
+		"en_text": "You will also receive notices in the\nmain menu for PSO2es."
 	},
 	{
 		"assign": "tu_0006_n37_b",
 		"jp_text": "このメニューでは、『PSO2』で所持しているマグに\nアイテムやデバイスを与えることができます。",
-		"en_text": ""
+		"en_text": "In this menu, you can feed your\nPSO2 mag or give it a device."
 	},
 	{
 		"assign": "tu_0006_n38_b",
 		"jp_text": "＜『PSO2es』でマグに与えられるアイテム＞\nスペシャルウェポン以外の武器とユニット（いずれも★９以下）、\n回復アイテム、ディスク、ルームグッズ、リフォーム用パスを与えられます。",
-		"en_text": "＜『PSO2es』でマグに与えられるアイテム＞\nスペシャルウェポン以外の武器とユニット（いずれも★６以下）、\n回復アイテム、ディスク、ルームグッズ、リフォーム用パスを与えられます。"
+		"en_text": "<PSO2es Mag Feeding>\nYou can feed your\nmag any item up to ★9 in rarity."
 	},
 	{
 		"assign": "tu_0006_n39_b",
 		"jp_text": "＜『PSO2es』でマグに与えられるデバイス＞\nフードデバイスを与えられます。",
-		"en_text": ""
+		"en_text": "<Mag Devices in PSO2es>\nYou'll be given a food device."
 	},
 	{
 		"assign": "tu_0006_n40_b",
 		"jp_text": "また、マグのエネルギーの値は、\nログイン時・ログアウト時・マグにアイテムを与えた時に\nサーバーと同期されます。",
-		"en_text": ""
+		"en_text": "When you give the device to the mag,\nthe energy is synced to the server\nwhen you login and logout."
 	},
 	{
 		"assign": "tu_0007_n00_b",
 		"jp_text": "<color=black>おつかれさまでした。\n以上で私と父にまつわるストーリーは\n終了となります。</color>",
-		"en_text": "<color=black>おつかれさまでした。\n現在配信中のアークスクエストは\n以上で終了となります。</color>"
+		"en_text": "<color=black>Thank you very much.\nThe story between my father and myself\nin the least, will be complete.</color>"
 	},
 	{
 		"assign": "tu_0007_n01_b",
 		"jp_text": "<color=black>今後も、新たなクエストとストーリーが\n配信される予定です。\n楽しみにしていてくださいね。</color>",
-		"en_text": "<color=black>今後も、新しい惑星を舞台とした\nクエストとストーリーが\n配信される予定です。\nまた新たなエネミーやアイテムも\n随時、追加されます。</color>"
+		"en_text": "<color=black>Check out our new story!</color>"
 	},
 	{
 		"assign": "tu_0007_n02_b",
 		"jp_text": "<color=black>「配信が待ちきれない」\n「もっとすごい冒険がやってみたい」\nというかたは、この機会にぜひ\n『PSO2』を\nお試しいただければと思います。</color>",
-		"en_text": ""
+		"en_text": "<color=black>We hope that those who want\nanother exciting adventure,\nto try out PSO2.</color>"
 	},
 	{
 		"assign": "tu_0006_n24_b",
 		"jp_text": "<color=black>『PSO2』では\nさらなる多くの惑星とエネミー\nそして壮大な物語と冒険が\nあなたを待っているでしょう。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Many exciting new planets, adventures\nand an epic story await you in PSO2.</color>"
 	},
 	{
 		"assign": "tu_0006_n41_b",
 		"jp_text": "<color=black>『PSO2』と連動することで\n多くの特典や便利な機能も\n使えるようになります。\nくわしくは『PSO2es』公式サイトを\nご参照くださいませ。</color>",
-		"en_text": ""
+		"en_text": "<color=black>By playing PSO2,\nyou can take advantage of\nthe many benefits that PSO2es gives.\nFor more details, check out the official site.</color>"
 	},
 	{
 		"assign": "tu_0006_n42_b",
 		"jp_text": "<color=black>戦いは、まだまだ終わりません！\nどうぞこれからも\n『PSO2es』そして『PSO2』を\nよろしくお願いいたします。</color>",
-		"en_text": ""
+		"en_text": "<color=black>The fighting never ends\nin PSO2es and PSO2.</color>"
 	},
 	{
 		"assign": "tu_0007_n03_b",
 		"jp_text": "<color=black>お待たせいたしました！\n新しいアークスクエストが\n追加されました。</color>",
-		"en_text": ""
+		"en_text": "<color=black>New ARKS quest has been added.</color>"
 	},
 	{
 		"assign": "tu_0007_n04_b",
@@ -10552,7 +10552,7 @@
 	{
 		"assign": "wh_22_02",
 		"jp_text": "＜受け取りの際の注意点＞\n『PSO2』の基本倉庫に空きがない場合、かつ指定アイテムを\n基本倉庫に限界まで所持している場合は、受け取りを行えません。",
-		"en_text": "<Notes on Receiving>\n『PSO2』 If there's no space available in your\ninventory or not enough time has passed since you\nlast received.\nYou will not receive passes."
+		"en_text": "<Notes on Receiving>\n『PSO2』 If there's no space available in your\ninventory or not enough time has passed since you\nlast received.\n<color=yellow>You will not receive passes.</color>"
 	},
 	{
 		"assign": "wh_23_00",
