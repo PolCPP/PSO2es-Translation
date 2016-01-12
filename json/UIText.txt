@@ -5797,7 +5797,7 @@
 	{
 		"assign": "quest_line_12",
 		"jp_text": "ＨＰが全回復しました",
-		"en_text": "HP is now fully restored."
+		"en_text": "HP is now fully restored.  "
 	},
 	{
 		"assign": "quest_line_12_1",
@@ -5807,12 +5807,12 @@
 	{
 		"assign": "quest_line_15",
 		"jp_text": "コンテナ発見！ ",
-		"en_text": "Discovered a Container!"
+		"en_text": "Discovered a Container!  "
 	},
 	{
 		"assign": "quest_line_16",
 		"jp_text": "回復ポッド発見！ ",
-		"en_text": "Discovered a Recovery Pod!\t"
+		"en_text": "Discovered a Recovery Pod!  "
 	},
 	{
 		"assign": "field_exp",
@@ -6516,7 +6516,7 @@
 	},
 	{
 		"assign": "title_chara_transfer_finish_b",
-		"jp_text": "端末の引き継ぎが完了しました。\nこちらの端末で引き続き『PSO2es』を\nプレイすることが可能です。\n\n※新たに機種変更などを行う際は、必ず\n「メニュー」にある「端末引き継ぎ情報」を\n確認してから行ってください。",
+		"jp_text": "端末の引き継ぎが完了しました。\nこちらの端末で引き続き『PSO2es』を\nプレイすることが可能です。\n \n※新たに機種変更などを行う際は、必ず\n「メニュー」にある「端末引き継ぎ情報」を\n確認してから行ってください。",
 		"en_text": "Device Transfer completed.\nYou may now play PSO2es\nfrom this device.\n\n※Please note that your Device ID's\nwill change per device."
 	},
 	{
@@ -7732,12 +7732,12 @@
 	{
 		"assign": "recycle_item_trade_info",
 		"jp_text": "交換に必要：{0} {1}個",
-		"en_text": "{0} {1} needed"
+		"en_text": "{0}×{1} needed to recycle. "
 	},
 	{
 		"assign": "recycle_item_trade_limit_info",
 		"jp_text": "<color=#f0df60>残り交換可能数：{0}個({1}まで)</color>",
-		"en_text": "<color=#f0df60>Remaining：{0}/({1})</color>"
+		"en_text": "<color=#f0df60>Time Remaining： {0}/({1})</color>"
 	},
 	{
 		"assign": "recycle_item_trade_rest",
@@ -7892,7 +7892,7 @@
 	{
 		"assign": "dict_collect_num",
 		"jp_text": "{0}種類",
-		"en_text": "{0} type"
+		"en_text": "{0} collected"
 	},
 	{
 		"assign": "dict_rappy_medal",
@@ -7917,12 +7917,12 @@
 	{
 		"assign": "dict_still_present_btn",
 		"jp_text": "未達成一覧",
-		"en_text": "Not Achieved List"
+		"en_text": "Unachieved"
 	},
 	{
 		"assign": "dict_yet_present_btn",
 		"jp_text": "達成済一覧",
-		"en_text": "Achieved List"
+		"en_text": "Achieved"
 	},
 	{
 		"assign": "dict_achievement",
@@ -8432,7 +8432,7 @@
 	{
 		"assign": "lobby_support_body",
 		"jp_text": "「{0}」さんなどの\nクエストに同行した報酬が届いています。\n\n同行回数　<color=#f0df60>{1}回</color>\n<color=#f0df60>{2}FUN</color>を獲得しました！\n\n<size=19>※前回のログインから現時点までの獲得合計を表示しています。</size>",
-		"en_text": "「{0}」 used your Friend Partner for a quest.\n\n<color=#f0df60>{1}</color>\n<color=#f0df60>{2}FUN</color> was awarded!\n\n<size=19>※Displaying the previous total from the last login session.</size>"
+		"en_text": "「{0}」 used your Friend Partner for a quest.\n\nTimes used: <color=#f0df60>{1}</color>\n<color=#f0df60>{2}FUN</color> was awarded!\n\n<size=19>※Displaying the previous total from the last login session.</size>"
 	},
 	{
 		"assign": "lobby_charainfo_lv",
@@ -10497,262 +10497,262 @@
 	{
 		"assign": "wh_20_00",
 		"jp_text": "『ＰＳＯ２ｅｓ』では、さまざまなスクラッチを引くことができます。\nこちらでは、スクラッチの種類について説明します。",
-		"en_text": "『PSO2es』では、さまざまなスクラッチを引くことができます。\nこちらでは、スクラッチの種類について説明します。"
+		"en_text": "『PSO2es』 Here you can draw upon any scratch.\nWe'll explain on the different kinds."
 	},
 	{
 		"assign": "wh_20_01",
 		"jp_text": "「ｅｓスクラッチ」では、レアなチップを入手することができます。\n購入には「<%AC>」、またはゲーム中に無料で手に入る\n「ラッピーメダル」を使用します。",
-		"en_text": "「ｅｓスクラッチ」では、レアなチップを入手することができます。\n購入には「<%AC>」、またはゲーム中に無料で手に入る\n「ラッピーメダル」を使用します。"
+		"en_text": "「es Scratch」 With es Scratch, you can obtain rare chips.\nYou can try this out using 「<%AC>」\nor by using 「Rappy Coins」."
 	},
 	{
 		"assign": "wh_20_04",
 		"jp_text": "「コスチュームスクラッチ」では、コスチューム・パーツを入手することができます。\n購入には<%AC>を使用します。",
-		"en_text": "「メダルスクラッチ」では、レアなチップを入手できます。\n購入には、ゲーム中に無料で手に入る\n「ラッピーメダル」を使用します。"
+		"en_text": "「Costume Scratch」 With Costume Scratch,\nyou can obtain costumes or cast parts.\nThis requires <%AC> to purchase."
 	},
 	{
 		"assign": "wh_20_02",
 		"jp_text": "「ＦＵＮチップスクラッチ」では、チップを入手できます。\n購入には、ゲーム中に無料で手に入るポイント\n「ＦＵＮ」を使用します。",
-		"en_text": ""
+		"en_text": "「FUN Scratch」 FUN Scratch, the free scratch.\nUsing FUN points, you can\nget chips as well."
 	},
 	{
 		"assign": "wh_20_03",
 		"jp_text": "キャラクター連動を行うと、『ＰＳＯ２』の最新の\n「ＡＣスクラッチ」「ＡＣスクラッチゴールド」を購入できます。\n購入には、<%AC>もしくはＡＣスクラッチ券を使用します。",
-		"en_text": "キャラクター連動を行うと、『PSO2』の最新の\n「ＡＣスクラッチ」「ＡＣスクラッチゴールド」を購入できます。\n購入には、<%AC>もしくはＡＣスクラッチ券を使用します。"
+		"en_text": "When you link your PSO2 character in PSO2es,\nyou can buy 「AC Scratch」&「AC Gold Scratch」\nusing <%AC> or with AC Scratch Tickets."
 	},
 	{
 		"assign": "wh_21_00",
 		"jp_text": "リサイクルショップでは、\n不要なチップやアイテムをリサイクルして\nほかのチップやアイテムと交換することができます。",
-		"en_text": ""
+		"en_text": "In the Recycle Shop,\nyou can recycle unwanted\nchips and items for other chips and items."
 	},
 	{
 		"assign": "wh_21_01",
 		"jp_text": "＜リサイクルの方法＞\nまずは、リサイクルショップのリストの中から\n手に入れたいチップ・アイテムを選択しましょう。",
-		"en_text": ""
+		"en_text": "<How to Recycle>\nFirst, you'll need to select\nthe chip or item you wish to get."
 	},
 	{
 		"assign": "wh_21_02",
 		"jp_text": "続いて、指定された複数のチップ・アイテムの中から\nリサイクルに出すものを選んでください。",
-		"en_text": ""
+		"en_text": "Then, select the items or chips that\nyou wish to be recycled."
 	},
 	{
 		"assign": "wh_21_03",
 		"jp_text": "＜リサイクル時の注意事項＞\n交換に必要なチップ・アイテムは、ものにより個数や内容が異なります。\nまた、対象アイテムは時期やイベントにより変化します。",
-		"en_text": ""
+		"en_text": "<Notes on Recycling>\nDifferent chips or items will have different target\nitems/chips needed, please keep note."
 	},
 	{
 		"assign": "wh_22_00",
 		"jp_text": "受け取りカウンターでは、\n『PSO2』で一定時間ごとに配布されるアイテムを\n『PSO2』の基本倉庫に受け取ることができます。",
-		"en_text": ""
+		"en_text": "By pressing 'Switch to Items',\nyou can recycle certain items for\nspecial limited items in PSO2."
 	},
 	{
 		"assign": "wh_22_01",
 		"jp_text": "＜受け取りの手順について＞\nメニューから、受け取りたいものの項目をタッチしてください。\n前回の受け取りから、必要時間が経過していれば受け取り可能です。",
-		"en_text": ""
+		"en_text": "<Receive Menu>\n『PSO2』 From the menu, press the button of\nwhich item you wish to receive.\nYou can check the time remaining from here."
 	},
 	{
 		"assign": "wh_22_02",
 		"jp_text": "＜受け取りの際の注意点＞\n『PSO2』の基本倉庫に空きがない場合、かつ指定アイテムを\n基本倉庫に限界まで所持している場合は、受け取りを行えません。",
-		"en_text": ""
+		"en_text": "<Notes on Receiving>\n『PSO2』 If there's no space available in your\ninventory or not enough time has passed since you\nlast received.\nYou will not receive passes."
 	},
 	{
 		"assign": "wh_23_00",
 		"jp_text": "プッシュ通知機能を使うと、\n『PSO2』と『PSO2es』に関する情報を\nゲームにログインしなくても受け取ることができるようになります。",
-		"en_text": ""
+		"en_text": "Push Notifications,\nwhen enabled, will allow you to\nreceieve messages from PSO2 or PSO2es without\nhaving to login."
 	},
 	{
 		"assign": "wh_23_01",
 		"jp_text": "プッシュ通知機能を使用するには、\nログイン画面の「オプション」から「プッシュ通知設定」をタッチし、\nプッシュ通知を有効にしたい項目を選択してください。",
-		"en_text": ""
+		"en_text": "To use this feature,\nselect 「オプション」 from the main menu and select\nNotification Settings.\nThen turn on what notices you wish to use."
 	},
 	{
 		"assign": "wh_23_02",
 		"jp_text": "＜注意事項＞\n端末でプッシュ通知を無効に設定していた場合、\n『PSO2es』のプッシュ通知は行われません。",
-		"en_text": ""
+		"en_text": "<Notes>\nIf you disable Push Notifications, you will\nnot receieve notices from PSO2es."
 	},
 	{
 		"assign": "wh_23_03",
 		"jp_text": "現在ログインしているシップ以外の通知を受け取るには、\nプッシュ通知を有効にした後、該当するシップのキャラクターで\n『PSO2es』にログインする必要があります。",
-		"en_text": ""
+		"en_text": "To receive notifications of EQ notices of\nspecific ships, you'll need to login to the\nship you wish to receive notices from on PSO2es."
 	},
 	{
 		"assign": "wh_23_04",
 		"jp_text": "＜プレミアム有効期間に関する注意事項＞\n『PSO2』においてプレミアム有効期間を延長した場合、\n通知設定を有効にするために一度『PSO2es』にログインしてください。",
-		"en_text": ""
+		"en_text": "<Notes on Premium>\nIf you renew premium, you'll need to log into\nPSO2es once more to regain your 1 hour notices."
 	},
 	{
 		"assign": "wh_24_n00_b",
 		"jp_text": "<color=black><%name>さん\n大変です！\n緊急クエストが発生しました！</color>",
-		"en_text": ""
+		"en_text": "<color=black><%name>\nAn Emergency Quest has appeared!</color>"
 	},
 	{
 		"assign": "wh_24_n01_b",
 		"jp_text": "<color=black>緊急クエストとは\nフレンドと協力してクリアする\n特殊なクエストです。</color>",
-		"en_text": ""
+		"en_text": "<color=black>Emegency Quests are \nSpecial Quests.\nClear with help from friends.</color>"
 	},
 	{
 		"assign": "wh_24_n02_b",
 		"jp_text": "<color=black>クリアできれば\n活躍とクリア時間に応じて\n報酬が手に入りますよ。\nがんばってください！</color>",
-		"en_text": ""
+		"en_text": "<color=black>Clearing depends on\nyour success and time,\nbut yields nice rewards.\nGood Luck!</color>"
 	},
 	{
 		"assign": "wh_24_00",
 		"jp_text": "緊急クエストとは、フレンドたちと力を合わせ\n一体の目標エネミーの討伐をめざす\n期間限定の特別クエストです。",
-		"en_text": ""
+		"en_text": "Emergency Quests are special limited\ntimed quests that house a\npoweful enemy. Work together to defeat the enemy within."
 	},
 	{
 		"assign": "wh_24_01",
 		"jp_text": "緊急クエスト発生中は、専用ボタンが出現します。\nタッチで出発しましょう。\nなお、出発には「オペレーションポイント（ＯＰ）」を消費します。",
-		"en_text": "緊急クエスト発生中は、専用ボタンが出現します。\nタッチで出発しましょう。\nなお、出発には「オペレーションポイント（ＯＰ）」を消費します。"
+		"en_text": "During Emegency Quests,\na special dedicated button will appear.\nWhen starting an Emergency Quest, consumption\nof 'Operation Points (OP)' will occur."
 	},
 	{
 		"assign": "wh_24_02",
 		"jp_text": "目標エネミーとのバトルには、制限時間があります。\n時間内で、できる限り多くのダメージを与えましょう。",
-		"en_text": ""
+		"en_text": "During the battle with the enemy,\nthere is a time limit.\nSo deal as much damage as possible."
 	},
 	{
 		"assign": "wh_24_03",
 		"jp_text": "一度で目標を倒せなくても、前回のバトルで与えたダメージは\nそのまま残ります。クエストの発生時間中まで\n何回でも挑戦できるので、引き続き討伐をめざしましょう！",
-		"en_text": "一度で目標を倒せなくても、前回のバトルで与えたダメージは\nそのまま残ります。クエストには、当日の終了時刻まで\n何回でも挑戦できるので、引き続き討伐をめざしましょう！"
+		"en_text": "Your previous damage dealt will remain,\nallowing you to repeatively strike the target\nas much as possible until it is defeated!"
 	},
 	{
 		"assign": "wh_24_04",
 		"jp_text": "バトルの終了時には、与えたダメージに応じて\n「討伐スコア」が手に入ります。スコアを多く所持していると、\n目標の討伐時に、レアな報酬が手に入りやすくなります。",
-		"en_text": "バトルの終了時には、与えたダメージに応じて\n「討伐ポイント」が手に入ります。ポイントを多く所持していると、\n目標の討伐時に、レアな報酬が手に入りやすくなります。"
+		"en_text": "After the battle, a 'Clear Score' will show./nThe higher the score,/nthe higher and rarer the rewards become."
 	},
 	{
 		"assign": "wh_24_05",
 		"jp_text": "目標を討伐できなかった場合は、\n最大２０名まで、フレンドに救援要請を送ることができます。\nフレンドの力を結集して、目標を撃破しましょう！",
-		"en_text": "初めての出撃で目標を討伐できなかった場合は、\n最大１０名まで、フレンドに救援要請を送ることができます。\nフレンドの力を結集して、目標を撃破しましょう！"
+		"en_text": "If you're unable to defeat the target,\nyou may select up to 20 friends for help.\nBy using the power of friendship, let's defeat the target!"
 	},
 	{
 		"assign": "wh_24_06",
 		"jp_text": "救援要請が送られてくると、\nロビーに救援マークが表示されます。",
-		"en_text": ""
+		"en_text": "When help is sent,\na marker will appear in the lobby."
 	},
 	{
 		"assign": "wh_24_07",
 		"jp_text": "救援要請を受けたクエストで活躍すると、\nそのクエストがクリアされた際に、報酬を受け取ることができます。\nぜひ救援に向かいましょう！",
-		"en_text": ""
+		"en_text": "When someone helps you in your quest,\nthey too will receive a reward when\nthe quest ends!"
 	},
 	{
 		"assign": "wh_24_08",
 		"jp_text": "プッシュ通知で救援要請のお知らせを受け取ることができます。\nログイン画面の「オプション」から、\n救援要請通知の設定をONにしてください。",
-		"en_text": ""
+		"en_text": "From the Notification Settings,\nyou can switch PSO2es\nEQ notifications ON or OFF."
 	},
 	{
 		"assign": "wh_25_00",
 		"jp_text": "アイテムの所持数が、所持枠をオーバーしています。\n所持数の限界を超えたアイテムには、\nアイコンに「over」の文字が表示されます。",
-		"en_text": ""
+		"en_text": "When your item pack is full, an icon is\ndisplayed alerting you to your\ninventory space."
 	},
 	{
 		"assign": "wh_25_01",
 		"jp_text": "このアイテムは、『PSO2』に持ちこむことができません。\n売却などでアイテムの整理を行ってください。",
-		"en_text": ""
+		"en_text": "Items cannot be stored into\nPSO2's storage from PSO2es,\nyou will need to do that from PSO2."
 	},
 	{
 		"assign": "wh_26_00",
 		"jp_text": "<color=black>あの……\n<%CHARANAME>さんに\n折り入ってご相談があります……\n私の部屋へお越しいただいても\nよろしいでしょうか？</color>",
-		"en_text": ""
+		"en_text": "<color=black>あの……\n<%CHARANAME>さんに\n折り入ってご相談があります……\n私の部屋へお越しいただいても\nよろしいでしょうか？</color>"
 	},
 	{
 		"assign": "wh_27_00",
 		"jp_text": "緊急クエストをクリアすると\n手に入った「ボーナスポイント」を使って、\n豪華アイテムが当たる「ボーナススクラッチ」を引くことができます。",
-		"en_text": ""
+		"en_text": "By clearing Emergency Quests,\nYou can try your hand at 'Bonus Scratch.'\nYou can obtain rare chips and items from it."
 	},
 	{
 		"assign": "wh_27_01",
 		"jp_text": "手に入るボーナスポイントの量は\n緊急クエストでの活躍度をあらわす\n「オペレーションスコア」によって決まります。",
-		"en_text": ""
+		"en_text": "Bonus Scratch depends on\nyour Operation Score bonus."
 	},
 	{
 		"assign": "wh_27_02",
 		"jp_text": "高レベルのエネミーやレアなエネミーを倒すことで\nより多くのポイントを獲得できます。\nレアエネミーを狙って、繰り返し挑戦してみましょう！",
-		"en_text": ""
+		"en_text": "The more you clear quests during the Emergency,\nthe more times you can scratch."
 	},
 	{
 		"assign": "wh_27_03",
 		"jp_text": "緊急クエストに出発するには\n「オペレーションポイント（ＯＰ）」が必要となります。",
-		"en_text": ""
+		"en_text": "To start an Emergency Quest,\nOperation Points (OP) are required."
 	},
 	{
 		"assign": "wh_27_04",
 		"jp_text": "オペレーションポイントは時間経過で回復するほか\n<%AC>ショップで手に入る「OP回復」「OP回復薬」を使うことで\n回復することもできます。",
-		"en_text": ""
+		"en_text": "You can recovery OP over time.\nBy using an OP Recovery Med or using <%AC> to buy\nOP Recovery is also possible."
 	},
 	{
 		"assign": "wh_27_05",
 		"jp_text": "これらのアイテムを使用すると\n「ステータスが一定時間上昇する」「フレンドがすぐ再同行可能になる」など\nランダムでボーナス効果が発生します。",
-		"en_text": ""
+		"en_text": "When using these items,\nA random Bonus Effect is added and Friend Assist\ncooldown is reset."
 	},
 	{
 		"assign": "wh_27_06",
 		"jp_text": "手に入れたら積極的に利用して、緊急クエストを有利に進めましょう！\n（ステータス上昇効果はその他クエストでも適用されます）",
-		"en_text": ""
+		"en_text": "The effect will also be applied to other quests as well.\nSo take advantage of this as much as possible!"
 	},
 	{
 		"assign": "wh_28_00",
 		"jp_text": "緊急クエストでオペレーションスコアをためると\n緊急イベントの「イベント報酬」のページから\nさまざまな報酬を受け取れます。",
-		"en_text": ""
+		"en_text": "When viewing your Operation Score,\nyou can receive 'Event Rewards'\nfrom the Event Rewards tab."
 	},
 	{
 		"assign": "wh_28_01",
 		"jp_text": "報酬を受け取るための達成条件は\nオペレーションスコア以外にも多数あります。\nくわしくはイベント報酬ページで確認してみましょう！",
-		"en_text": ""
+		"en_text": "Certain rewards have special\nconditions in order to be redeemed.\nCheck back frequently as possible!"
 	},
 	{
 		"assign": "wh_30_00",
 		"jp_text": "緊急クエストに「超級」が登場しました。\n緊急クエストの超級に出発するには「超級トリガー」が必要です。",
-		"en_text": ""
+		"en_text": "/\"SuperHard/\" is now available in Emergency Quests. To do them, you'll need a 'Super-Hard Trigger.'"
 	},
 	{
 		"assign": "wh_30_01",
 		"jp_text": "「超級トリガー」はボーナススクラッチで入手できます。\nなお、救援要請には「超級トリガー」を消費せずに出発できます。",
-		"en_text": ""
+		"en_text": "Super Hard triggers can only be obtained via bonus scratch.\nHowever, you can help other players's SH\nquest without the use of a trigger."
 	},
 	{
 		"assign": "wh_30_02",
 		"jp_text": "緊急クエストの超級では、ゲスト５名を含む\n最大５０名まで救援要請を送ることができます。\nみんなの力を結集して、豪華な報酬を手に入れましょう！",
-		"en_text": ""
+		"en_text": "In Super Hard, up to 5 players can\nparticipate, and 50 can be notified\nof your dire need of assistance."
 	},
 	{
 		"assign": "wh_29_00",
 		"jp_text": "『PSO2es』のマイショップでは「他プレイヤーが販売しているアイテムの購入」\n「アイテムを他プレイヤーに販売（出品）」「出品アイテムの取り下げ」\n「売り上げの回収」が行えます。",
-		"en_text": ""
+		"en_text": "In PSO2es My Shop, you can buy what other players are\nselling, in addition to selling your own items."
 	},
 	{
 		"assign": "wh_29_01",
 		"jp_text": "「アイテムの購入」では、『PSO2』方式で検索を行う「詳細検索」と\nアイテムのカテゴリから検索を行う「簡易検索」の２種類があります。\nお好みの検索方法で、欲しいアイテムを見つけましょう！",
-		"en_text": ""
+		"en_text": "You can perform 2 types of searches for buying.\nAdvanced Search and Simple Search.\nFor categories, select Simple, for a specified search, use Advanced!"
 	},
 	{
 		"assign": "wh_29_02",
 		"jp_text": "現在、「アイテムの出品」はプレミアム有効期間のみ使用できます。",
-		"en_text": ""
+		"en_text": "Currently, only Premium players can sell from My Shop."
 	},
 	{
 		"assign": "wh_29_03",
 		"jp_text": "プレミアムセットが有効でない状態では「アイテムの購入」時に\n「PSO2esマイショップ利用券」または「ラッピーメダル」が必要となります。\n利用券は<%AC>ショップで購入ができます。",
-		"en_text": ""
+		"en_text": "When not premium, the purchase of items will\nrequire a PSO2es MyShop Voucher or a Rappy Coin.\nVouchers can be purchased from the <%AC> Shop."
 	},
 	{
 		"assign": "wh_29_04",
 		"jp_text": "プッシュ通知機能を使用すると、出品中のアイテムが売れた際に\n通知を受け取ることができます。",
-		"en_text": ""
+		"en_text": "From the Notification Settings, you can toggle notifications\nof when your Item(s) are sold from your shop."
 	},
 	{
 		"assign": "wh_29_05",
 		"jp_text": "プッシュ通知機能を使用するには、\nログイン画面の「オプション」から「プッシュ通知設定」をタッチし、\nプッシュ通知を有効にしたい項目を選択してください。",
-		"en_text": ""
+		"en_text": "To use this feature,\nselect 「オプション」 from the main menu and select\nNotification Settings.\nThen turn on what notices you wish to use."
 	},
 	{
 		"assign": "wh_29_06",
 		"jp_text": "＜注意事項＞\n端末でプッシュ通知を無効に設定していた場合、\n『PSO2es』のプッシュ通知は行われません。",
-		"en_text": ""
+		"en_text": "<Notes>\nIf you disable Push Notifications, you will\nnot receieve notices from PSO2es."
 	},
 	{
 		"assign": "wh_29_07",
 		"jp_text": "現在ログインしているシップ以外の通知を受け取るには、\nプッシュ通知を有効にした後、該当するシップのキャラクターで\n『PSO2es』にログインする必要があります。",
-		"en_text": ""
+		"en_text": "To receive notifications of MyShop notices of\nspecific ships, you'll need to login to the\nship you wish to receive notices from on PSO2es."
 	},
 	{
 		"assign": "ef_0001_n00_b",
