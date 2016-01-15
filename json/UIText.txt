@@ -562,12 +562,12 @@
 	{
 		"assign": "acshop_oprecovery_use_btn",
 		"jp_text": "OP回復薬使用",
-		"en_text": "Use OP Recovery meds"
+		"en_text": "OP Recovery"
 	},
 	{
 		"assign": "acshop_oprecovery_mini_use_btn",
 		"jp_text": "OP回復薬ミニ使用",
-		"en_text": "Use OP Mini Recovery meds"
+		"en_text": "OP Mini Recovery"
 	},
 	{
 		"assign": "acshop_oprecovery_back_btn",
@@ -602,12 +602,12 @@
 	{
 		"assign": "acshop_item_oprecovery_pass",
 		"jp_text": "OP回復薬",
-		"en_text": "OP Recovery Tickets"
+		"en_text": "OP Recovery Meds"
 	},
 	{
 		"assign": "acshop_item_oprecovery_pass_mini",
 		"jp_text": "OP回復薬ミニ",
-		"en_text": "OP Mini Recovery Tickets"
+		"en_text": "OP Mini Recovery Meds"
 	},
 	{
 		"assign": "acshop_item_unit",
@@ -827,7 +827,7 @@
 	{
 		"assign": "rshop_dialog_b_02",
 		"jp_text": "{0}\nと、以下のアイテムを交換します。よろしいですか？",
-		"en_text": "{0}\nItems will be Exchanged.\nAre you sure?"
+		"en_text": "Items will be exchanged for {0}\nAre you sure?"
 	},
 	{
 		"assign": "rshop_dialog_t_03",
@@ -4702,12 +4702,12 @@
 	{
 		"assign": "quest_counter_bonus_exp",
 		"jp_text": "EXP×",
-		"en_text": ""
+		"en_text": "EXP×  "
 	},
 	{
 		"assign": "quest_counter_bonus_meseta",
 		"jp_text": "メセタ×",
-		"en_text": "Meseta×"
+		"en_text": "Meseta×  "
 	},
 	{
 		"assign": "quest_counter_bonus_chip_drop",
@@ -4812,7 +4812,7 @@
 	{
 		"assign": "quest_counter_meseta",
 		"jp_text": "メセタ",
-		"en_text": "Meseta"
+		"en_text": "Meseta  "
 	},
 	{
 		"assign": "quest_counter_window_areaselect",
@@ -4867,7 +4867,7 @@
 	{
 		"assign": "quest_counter_label_time",
 		"jp_text": "あと",
-		"en_text": "Regen"
+		"en_text": "Regen  "
 	},
 	{
 		"assign": "quest_counter_window_questselect",
@@ -5087,7 +5087,7 @@
 	{
 		"assign": "quest_counter_raid_lineup",
 		"jp_text": "討伐スコア報酬ラインナップ",
-		"en_text": "Subdue Reward Score lineup"
+		"en_text": "Quest Reward Score lineup"
 	},
 	{
 		"assign": "quest_counter_raid_rare",
@@ -5162,7 +5162,7 @@
 	{
 		"assign": "reward_dialog_text",
 		"jp_text": "<%chara>が遭遇した\n「<%quest>」をクリア！！",
-		"en_text": "<%chara> encounter\n「<%quest>」 clear!!"
+		"en_text": "<%chara> encountered\n「<%quest>」 clear!!"
 	},
 	{
 		"assign": "reward_dialog_title",
@@ -5277,7 +5277,7 @@
 	{
 		"assign": "reward_caption_time_finish",
 		"jp_text": "討伐完了時刻",
-		"en_text": "Completion Time"
+		"en_text": "Clear Time"
 	},
 	{
 		"assign": "reward_time_finish",
@@ -5297,7 +5297,7 @@
 	{
 		"assign": "reward_damage",
 		"jp_text": "<%damage>ダメージ",
-		"en_text": "<%damage> damage"
+		"en_text": "<%damage> Damage"
 	},
 	{
 		"assign": "reward_term_rare_up",
@@ -5357,12 +5357,12 @@
 	{
 		"assign": "reward_enemy_name",
 		"jp_text": "<color=#ffff00><%name></color>エネミーの討伐",
-		"en_text": "subdue <color=#ffff00><%name></color>"
+		"en_text": "Clear <color=#ffff00><%name></color>"
 	},
 	{
 		"assign": "reward_enemy_level",
 		"jp_text": "<color=#ffff00><%level></color>レベルエネミーの討伐",
-		"en_text": "subdue enemy level <color=#ffff00><%level></color>"
+		"en_text": "Enemy Level <color=#ffff00><%level></color>"
 	},
 	{
 		"assign": "reward_name_bonus",
@@ -5407,7 +5407,7 @@
 	{
 		"assign": "relief_select_num",
 		"jp_text": "選択人数　<%num><color=#688ca7>/</color> <color=#ff0000>MAX <%max></color>",
-		"en_text": "Friend Select <%num><color=#688ca7>/</color> <color=#ff0000>MAX <%max></color>"
+		"en_text": "Call Help <%num><color=#688ca7>/</color><color=#ff0000><%max></color>"
 	},
 	{
 		"assign": "relief_button_close",
@@ -5532,7 +5532,7 @@
 	{
 		"assign": "scratch_message_01",
 		"jp_text": "現在キャンペーン中！\n<color=#f0df60>ラッピーメダル {0} 枚</color>をプレゼント！",
-		"en_text": "現在キャンペーン中！\n<color=#f0df60>ラッピーメダル {0} 枚</color>をプレゼント！"
+		"en_text": "During the current campaign!\n<color=#f0df60>Rappy Coins {0}</color> and Free!"
 	},
 	{
 		"assign": "scratch_dialog_t_07",
@@ -5542,7 +5542,7 @@
 	{
 		"assign": "scratch_dialog_b_07",
 		"jp_text": "{0}<%AC>で\n{1}を{2}回引きます。\nよろしいですか？\n現在の所持<%AC>：{3}\n",
-		"en_text": "{0}ACで\n{1}を1回引きます。\nよろしいですか？\n現在の所持AC：{2}\n"
+		"en_text": "{0}<%AC>\n{1} {2} will be used.\nIs that ok?\nOwned <%AC>：{3}\n"
 	},
 	{
 		"assign": "scratch_dialog_t_08",
@@ -5552,7 +5552,7 @@
 	{
 		"assign": "scratch_dialog_b_08",
 		"jp_text": "{0}FUNで\n{1}を{2}回引きます。\nよろしいですか？\n現在の所持FUN：{3}\n",
-		"en_text": "By using {0}FUN,\nyou will scratch {2} {1}.\nContinue?\nCurrent FUN： {3}\n"
+		"en_text": "By using {0} FUN,\nyou will scratch {2} {1}.\nContinue?\nCurrent FUN： {3}\n"
 	},
 	{
 		"assign": "scratch_dialog_t_09",
@@ -5582,7 +5582,7 @@
 	{
 		"assign": "scratch_dialog_b_11",
 		"jp_text": "ラッピーメダル{0}枚で\n{1}を{2}回引きます。\nよろしいですか？\n現在の所持ラッピーメダル：{3}枚\n",
-		"en_text": "Rappy Coins:{0}\n{2} will be used.\nIs that ok?\nOwned:{3}\n"
+		"en_text": "Rappy Coins: {0}\n{1} {2} will be used.\nIs that ok?\nOwned: {3}\n"
 	},
 	{
 		"assign": "scratch_message_02",
@@ -5602,7 +5602,7 @@
 	{
 		"assign": "scratch_dialog_b_12",
 		"jp_text": "{0}<%AC>で\n{1}を{2}回引きます。\nよろしいですか？\n現在の所持<%AC>：{3}\n",
-		"en_text": "{0}<%AC>で\n{1}を11回引きます。\nよろしいですか？\n現在の所持<%AC>：{2}\n"
+		"en_text": "{0}<%AC>\n{1} {2} will be used.\nIs that ok?\nOwned <%AC>：{3}\n"
 	},
 	{
 		"assign": "scratch_button_rappy11",
@@ -5637,7 +5637,7 @@
 	{
 		"assign": "quest_dialog_b_00",
 		"jp_text": "ラッピーメダルを<%consume_rappy_coin>枚使用して\n復活しますか？\n\n（現在の所持数：<%current_rappy_coin>枚）",
-		"en_text": "Use <%consume_rappy_coin>枚 Rappy Coins\nto revive yourself？\n\n（ Rappy Coins owned：<%current_rappy_coin>枚 ）"
+		"en_text": "Use <%consume_rappy_coin> Rappy Coins\nto revive yourself？\n\n（ Rappy Coins owned： <%current_rappy_coin> ）"
 	},
 	{
 		"assign": "quest_dialog_t_01",
@@ -5652,7 +5652,7 @@
 	{
 		"assign": "quest_dialog_b_02",
 		"jp_text": "ここまでにクエスト中で入手した\nアイテム、経験値、メセタが失われますが\n本当にリタイアしますか？",
-		"en_text": "You will lose all Items, Exp and\nMeseta you have gained during this Quest.\nAre you sure you want to really Retire?"
+		"en_text": "You will lose all Items, EXP and\nMeseta you have gained during this Quest.\nAre you sure you want to really Retire?"
 	},
 	{
 		"assign": "quest_dialog_t_03",
@@ -5662,7 +5662,7 @@
 	{
 		"assign": "quest_dialog_b_03",
 		"jp_text": "ラッピーメダルか復活薬を消費して復活しますか？\nリタイアするとクエスト中に得たアイテム、経験値等がすべて失われます。\n（復活薬がない場合は<%AC>を使って復活できます）\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>\n\n必要復活薬：<%consume_scape_doll_es>個\n所持復活薬：<%current_scape_doll_es>",
-		"en_text": "Do you want to revive using AC/Rappy Coins?\nAll Items, Exp, Meseta is lost\nif you choose to retire.\n\nRappy Coins needed：<%consume_rappy_coin>\nRappy Coins owned：<%current_rappy_coin>\n\nScape Dolls needed：<%consume_scape_doll_es>\nDolls owned：<%current_scape_doll_es>"
+		"en_text": "Do you want to revive using AC/Rappy Coins?\nAll Items, EXP, Meseta is lost if you choose to retire.\n\nRappy Coins needed： <%consume_rappy_coin>\nRappy Coins owned： <%current_rappy_coin>\n\nScape Dolls needed：<%consume_scape_doll_es>\nDolls owned：<%current_scape_doll_es>"
 	},
 	{
 		"assign": "quest_dialog_b_03_retire",
@@ -5712,7 +5712,7 @@
 	{
 		"assign": "quest_npc_t_00",
 		"jp_text": "セラフィ",
-		"en_text": "Serafi"
+		"en_text": "Seraphy"
 	},
 	{
 		"assign": "quest_npc_b_00",
@@ -5817,27 +5817,27 @@
 	{
 		"assign": "field_exp",
 		"jp_text": "ＥＸＰ",
-		"en_text": " EXP "
+		"en_text": "EXP\t\t"
 	},
 	{
 		"assign": "field_meseta",
 		"jp_text": "メセタ",
-		"en_text": " Meseta "
+		"en_text": "Meseta\t\t\t"
 	},
 	{
 		"assign": "field_item",
 		"jp_text": "アイテム",
-		"en_text": " Item "
+		"en_text": "Item"
 	},
 	{
 		"assign": "field_score",
 		"jp_text": "スコア",
-		"en_text": " Score "
+		"en_text": "Score\t\t\t"
 	},
 	{
 		"assign": "fieldoption_category_windowtitle",
 		"jp_text": "メニュー",
-		"en_text": " Menu "
+		"en_text": "Menu"
 	},
 	{
 		"assign": "fieldoption_category_soundsetting",
@@ -5982,12 +5982,12 @@
 	{
 		"assign": "questresult_result_meseta",
 		"jp_text": "メセタ",
-		"en_text": " Meseta "
+		"en_text": "Meseta    "
 	},
 	{
 		"assign": "questresult_result_nextlevel",
 		"jp_text": "次のレベルまで",
-		"en_text": " To next Lv."
+		"en_text": "To next Lv."
 	},
 	{
 		"assign": "questresult_result_record",
@@ -6022,12 +6022,12 @@
 	{
 		"assign": "questresult_result_limit_s_a",
 		"jp_text": "あと<%hh>時間<%mm>分以内に討伐で<%rank>ランク",
-		"en_text": "Rank/Time: <%rank>/<%hh>:<%mm> "
+		"en_text": "<%rank> Rank / Time: <%hh>:<%mm>"
 	},
 	{
 		"assign": "questresult_result_limit_b",
 		"jp_text": "発生期間中に討伐で<%rank>ランク",
-		"en_text": "Rank <%rank>"
+		"en_text": "<%rank> Rank"
 	},
 	{
 		"assign": "questresult_item_title",
@@ -7817,7 +7817,7 @@
 	{
 		"assign": "dictionary_title",
 		"jp_text": "チップ研究室",
-		"en_text": "Chip Lab."
+		"en_text": "Chip Lab"
 	},
 	{
 		"assign": "dict_discover_num",
@@ -8362,7 +8362,7 @@
 	{
 		"assign": "loginbonus_expticket",
 		"jp_text": "<%ticketname> <%ticketnum>枚",
-		"en_text": "<%ticketname> <%ticketnum>"
+		"en_text": "<%ticketname> (x<%ticketnum>)"
 	},
 	{
 		"assign": "loginbonus_begin",
@@ -8432,7 +8432,7 @@
 	{
 		"assign": "lobby_support_body",
 		"jp_text": "「{0}」さんなどの\nクエストに同行した報酬が届いています。\n\n同行回数　<color=#f0df60>{1}回</color>\n<color=#f0df60>{2}FUN</color>を獲得しました！\n\n<size=19>※前回のログインから現時点までの獲得合計を表示しています。</size>",
-		"en_text": "「{0}」 used your Friend Partner for a quest.\n\nTimes used: <color=#f0df60>{1}</color>\n<color=#f0df60>{2}FUN</color> was awarded!\n\n<size=19>※Displaying the previous total from the last login session.</size>"
+		"en_text": "「{0}」 used your\nFriend Partner for a quest.\n\nTimes used: <color=#f0df60>{1}</color>\n<color=#f0df60>{2}FUN</color> was awarded!\n\n<size=19>※Displaying the previous total from the last login session.</size>"
 	},
 	{
 		"assign": "lobby_charainfo_lv",
@@ -9432,7 +9432,7 @@
 	{
 		"assign": "scratch_ac",
 		"jp_text": "{0} <%AC>",
-		"en_text": " {0} AC"
+		"en_text": "{0} <%AC>"
 	},
 	{
 		"assign": "scratch_11ac",
@@ -13207,12 +13207,12 @@
 	{
 		"assign": "ItemDetail_EquipSkill_Insufficiency",
 		"jp_text": "<color=white><%parameter1>%　　(クラスレベル<%parameter2>で最大効果発揮)</color>",
-		"en_text": "<color=white><%parameter1>%　　(Class Lv.<%parameter2>で最大効果発揮)</color>"
+		"en_text": "<color=white><%parameter1>%　　(Fully Proficient @ Lv. <%parameter2>)</color>"
 	},
 	{
 		"assign": "ItemDetail_EquipSkill_Sufficiently",
 		"jp_text": "<color=yellow>100%</color>　　<color=white>(最大効果発揮)</color>",
-		"en_text": "<color=yellow>100%</color>　　<color=white>(Mastery)</color>"
+		"en_text": "<color=yellow>100%</color>　　<color=white>(Fully Proficient)</color>"
 	},
 	{
 		"assign": "ItemDetail_AttrTolerant_TitleCaption",
@@ -13687,7 +13687,7 @@
 	{
 		"assign": "raid_event_guide_00",
 		"jp_text": "<color=#f0df60>緊急イベントの進行状況画面です。「遊び方」バナーから詳しい遊び方を確認できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Progress Screen of the EQ. You can see an explanation from the 'How to Play' Banner.</color>"
 	},
 	{
 		"assign": "raid_event_guide_01",
@@ -13697,7 +13697,7 @@
 	{
 		"assign": "raid_scratch_guide_00",
 		"jp_text": "<color=#f0df60>スクラッチを選択してください。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Select a Scratch.</color>"
 	},
 	{
 		"assign": "raid_scratch_dialog_t_01",
@@ -13707,7 +13707,7 @@
 	{
 		"assign": "raid_scratch_dialog_b_01",
 		"jp_text": "ボーナスポイント {0}ptで\nボーナススクラッチ\n「{1}」を{2}回引きます。\nよろしいですか？\n現在の所持ポイント：{3}pt",
-		"en_text": ""
+		"en_text": "Use Bonus Scratch {0}pt\nScratch 「{1}」 {2}?\nCurrent Points: {3}pt"
 	},
 	{
 		"assign": "raid_scratch_dialog_t_02",
@@ -13717,7 +13717,7 @@
 	{
 		"assign": "raid_scratch_dialog_b_02",
 		"jp_text": "{0}枚で\n{1}を1回引きます。\nよろしいですか？\n現在の所持数：{2} 枚\n",
-		"en_text": ""
+		"en_text": "{0} sheets\nScratch {1}?\nCurrent Points: {2}\n"
 	},
 	{
 		"assign": "raid_scratch_bonus_point_button",
@@ -13752,7 +13752,7 @@
 	{
 		"assign": "raid_scratch_get_item_message",
 		"jp_text": "「{0}」×{1}が当たりました！",
-		"en_text": ""
+		"en_text": "「{0}」×{1} GET!"
 	},
 	{
 		"assign": "raid_os_ranking_label",
@@ -14197,7 +14197,7 @@
 	{
 		"assign": "scratch_dialog_name_fun",
 		"jp_text": "ＦＵＮチップスクラッチ",
-		"en_text": "Fun Chips Scratch"
+		"en_text": "FUN Chips Scratch"
 	},
 	{
 		"assign": "scratch_dialog_name_cosutume",
