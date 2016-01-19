@@ -72,37 +72,37 @@
 	{
 		"assign": "10",
 		"jp_text": "テクニックⅠ",
-		"en_text": "Technique I",
+		"en_text": "Tech I",
 		"jp_explain": "法撃+10",
 		"en_explain": ""
 	},
 	{
 		"assign": "11",
 		"jp_text": "テクニックⅡ",
-		"en_text": "Technique II",
+		"en_text": "Tech II",
 		"jp_explain": "法撃+20",
 		"en_explain": ""
 	},
 	{
 		"assign": "12",
 		"jp_text": "テクニックⅢ",
-		"en_text": "Technique III",
+		"en_text": "Tech III",
 		"jp_explain": "法撃+30",
 		"en_explain": ""
 	},
 	{
 		"assign": "13",
 		"jp_text": "テクニックⅣ",
-		"en_text": "Technique IV",
+		"en_text": "Tech IV",
 		"jp_explain": "法撃+35",
 		"en_explain": ""
 	},
 	{
 		"assign": "14",
 		"jp_text": "テクニックⅤ",
-		"en_text": "Technique V",
+		"en_text": "Tech V",
 		"jp_explain": "法撃+40",
-		"en_explain": ""
+		"en_explain": "T-ATK+40"
 	},
 	{
 		"assign": "15",
@@ -247,35 +247,35 @@
 	{
 		"assign": "35",
 		"jp_text": "アビリティⅠ",
-		"en_text": "Ability I",
+		"en_text": "Abl. I",
 		"jp_explain": "全+5",
 		"en_explain": ""
 	},
 	{
 		"assign": "36",
 		"jp_text": "アビリティⅡ",
-		"en_text": "Ability II",
+		"en_text": "Abl. II",
 		"jp_explain": "全+10",
 		"en_explain": ""
 	},
 	{
 		"assign": "37",
 		"jp_text": "アビリティⅢ",
-		"en_text": "Ability III",
+		"en_text": "Abl. III",
 		"jp_explain": "全+15",
 		"en_explain": ""
 	},
 	{
 		"assign": "38",
 		"jp_text": "アビリティⅣ",
-		"en_text": "Ability IV",
+		"en_text": "Abl. IV",
 		"jp_explain": "全+20",
 		"en_explain": ""
 	},
 	{
 		"assign": "39",
 		"jp_text": "アビリティⅤ",
-		"en_text": "Ability V",
+		"en_text": "Abl. V",
 		"jp_explain": "全+25",
 		"en_explain": ""
 	},
@@ -359,28 +359,28 @@
 	{
 		"assign": "51",
 		"jp_text": "シュート・ブースト",
-		"en_text": "Shooting Boost",
+		"en_text": "Shoot Boost",
 		"jp_explain": "射撃+25",
 		"en_explain": ""
 	},
 	{
 		"assign": "52",
 		"jp_text": "テクニック・ブースト",
-		"en_text": "Technique Boost",
+		"en_text": "Tech Boost",
 		"jp_explain": "法撃+25",
 		"en_explain": ""
 	},
 	{
 		"assign": "53",
 		"jp_text": "スタミナ・ブースト",
-		"en_text": "Stamina Boost",
+		"en_text": "Stam Boost",
 		"jp_explain": "HP+45",
 		"en_explain": ""
 	},
 	{
 		"assign": "54",
 		"jp_text": "スピリタ・ブースト",
-		"en_text": "Spirita Boost",
+		"en_text": "SpiritaBoost",
 		"jp_explain": "PP+5",
 		"en_explain": ""
 	},
@@ -457,7 +457,7 @@
 	{
 		"assign": "65",
 		"jp_text": "ロックベア・ソール",
-		"en_text": "Rockbear Soul",
+		"en_text": "R.Bear Soul",
 		"jp_explain": "打防+30 HP+10 PP+3",
 		"en_explain": ""
 	},
@@ -513,7 +513,7 @@
 	{
 		"assign": "73",
 		"jp_text": "ランサ・ソール",
-		"en_text": "Ra'nsa Soul",
+		"en_text": "Ra'nsaSoul",
 		"jp_explain": "射撃+30 HP+20",
 		"en_explain": ""
 	},
@@ -527,7 +527,7 @@
 	{
 		"assign": "75",
 		"jp_text": "フォトンコレクト",
-		"en_text": "Photon Collect",
+		"en_text": "PhotonCollect",
 		"jp_explain": "状態異常と属性耐性の\n合成確率を上昇させる\nステータス上昇なし",
 		"en_explain": ""
 	},
@@ -646,7 +646,7 @@
 	{
 		"assign": "92",
 		"jp_text": "タガミカヅチ・ソール",
-		"en_text": "Tagami Kazuchi Soul",
+		"en_text": "TagamiKazuchi",
 		"jp_explain": "射撃+20 法撃+20\nPP+2",
 		"en_explain": ""
 	},
@@ -667,14 +667,14 @@
 	{
 		"assign": "95",
 		"jp_text": "ビブラス・ソール",
-		"en_text": "Vibrace Soul",
+		"en_text": "VibraceSoul",
 		"jp_explain": "射撃+20 法撃+20\nHP+5 PP+1",
 		"en_explain": ""
 	},
 	{
 		"assign": "96",
 		"jp_text": "ルーサー・ソール",
-		"en_text": "ENT_07・ソール",
+		"en_text": "Loser Soul",
 		"jp_explain": "打撃+20 法撃+20\nHP+5 PP+1",
 		"en_explain": ""
 	},
@@ -786,7 +786,7 @@
 	{
 		"assign": "112",
 		"jp_text": "ソールレセプター",
-		"en_text": "Soul Receptor",
+		"en_text": "SoulReceptor",
 		"jp_explain": "ソール系特殊能力の\n合成成功率を大幅に上昇\n全+10",
 		"en_explain": ""
 	},
@@ -800,7 +800,7 @@
 	{
 		"assign": "114",
 		"jp_text": "マーク・カレジナ",
-		"en_text": "Mark Couragena",
+		"en_text": "M.Couragena",
 		"jp_explain": "打撃+40 射撃+40\n法撃+40 PP+5",
 		"en_explain": ""
 	},
@@ -821,7 +821,7 @@
 	{
 		"assign": "117",
 		"jp_text": "ナイトギア・ソール",
-		"en_text": "Knight Gear Soul",
+		"en_text": "K. Gear Soul",
 		"jp_explain": "打撃+15 射撃+15\n法撃+15 技量+15 PP+4",
 		"en_explain": ""
 	},
@@ -884,7 +884,7 @@
 	{
 		"assign": "126",
 		"jp_text": "ギフトレセプター",
-		"en_text": "Gift Receptor",
+		"en_text": "GiftReceptor",
 		"jp_explain": "ギフト系特殊能力の\n引き継ぎが可能になる\n全+10",
 		"en_explain": ""
 	},
@@ -912,7 +912,7 @@
 	{
 		"assign": "130",
 		"jp_text": "トロクロ・フィーバー",
-		"en_text": "Toro Kuro Fever",
+		"en_text": "ToroKuroFever",
 		"jp_explain": "技量+15 HP+5 PP+1",
 		"en_explain": ""
 	},
@@ -1023,8 +1023,8 @@
 	},
 	{
 		"assign": "146",
-		"jp_text": "Magatsu Soul",
-		"en_text": "",
+		"jp_text": "マガツ・ソール",
+		"en_text": "Magatsu Soul",
 		"jp_explain": "打防+15 射防+15\n法防+15 HP+30 PP+3",
 		"en_explain": ""
 	},
@@ -1045,7 +1045,7 @@
 	{
 		"assign": "149",
 		"jp_text": "ノーブル・テクニック",
-		"en_text": "Noble Technique",
+		"en_text": "Noble Tech",
 		"jp_explain": "PP+3 法撃+30",
 		"en_explain": ""
 	},
@@ -1164,9 +1164,9 @@
 	{
 		"assign": "166",
 		"jp_text": "アプレンティス・ソール",
-		"en_text": "Apprentice Soul",
+		"en_text": "Apprentice",
 		"jp_explain": "打撃+40 射撃+40\n法撃+40",
-		"en_explain": ""
+		"en_explain": "S-ATK+40 R-ATK+40\nT-ATK+40"
 	},
 	{
 		"assign": "167",
@@ -1178,14 +1178,14 @@
 	{
 		"assign": "168",
 		"jp_text": "シノワ・ソール",
-		"en_text": "Sinow Soul",
+		"en_text": "SinowSoul",
 		"jp_explain": "打撃+5 技量+30\nHP+25 PP+2",
 		"en_explain": ""
 	},
 	{
 		"assign": "169",
 		"jp_text": "スピリタ・アルファ",
-		"en_text": "Spirita Alpha",
+		"en_text": "Spir. Alpha",
 		"jp_explain": "技量+30 PP+3",
 		"en_explain": ""
 	},
@@ -1227,14 +1227,14 @@
 	{
 		"assign": "175",
 		"jp_text": "ダブル・ソール",
-		"en_text": "Double Soul",
+		"en_text": "DoubleSoul",
 		"jp_explain": "HP+40 PP+3",
 		"en_explain": ""
 	},
 	{
 		"assign": "176",
 		"jp_text": "ダークネス・ソール",
-		"en_text": "Darkness Soul",
+		"en_text": "DarknessSoul",
 		"jp_explain": "全+15 HP+15 PP+2",
 		"en_explain": ""
 	},
@@ -1248,7 +1248,7 @@
 	{
 		"assign": "178",
 		"jp_text": "ソール・カタリスト",
-		"en_text": "Soul Catalyst",
+		"en_text": "SoulCatalyst",
 		"jp_explain": "4つ集めると\n特定のソールと合成可能\nHP+10 PP+1",
 		"en_explain": ""
 	}
