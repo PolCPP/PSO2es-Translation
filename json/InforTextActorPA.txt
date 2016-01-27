@@ -385,6 +385,13 @@
 		"en_explain": ""
 	},
 	{
+		"assign": "DsaberPA12",
+		"jp_text": "ダブルセイバーPA12",
+		"en_text": "",
+		"jp_explain": "ダブルセイバーPA12",
+		"en_explain": ""
+	},
+	{
 		"assign": "KnucklePA01",
 		"jp_text": "ダッキングブロウ",
 		"en_text": "Ducking Blow",
@@ -1313,6 +1320,111 @@
 		"jp_text": "バーランツィオン",
 		"en_text": "",
 		"jp_explain": "氷と光の複合属性テクニック。\n氷と光で作られた刃で突撃を行い\n標的に華麗なる剣舞を見舞う。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetAPA01",
+		"jp_text": "ワンダスライサー",
+		"en_text": "",
+		"jp_explain": "『ワンダ』用のフォトンアーツ。\n広範囲にわたる素早い双撃で\n数多の敵を同時に攻撃する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetAPA02",
+		"jp_text": "ワンダショック",
+		"en_text": "",
+		"jp_explain": "『ワンダ』用のフォトンアーツ。\n閃光を伴う衝撃波を発生させ\n敵の目をくらませ、足止めをする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetAPA03",
+		"jp_text": "ワンダブレイク",
+		"en_text": "",
+		"jp_explain": "『ワンダ』用のフォトンアーツ。\n円を描くような、強力な一撃を放つ。\n範囲は狭いが、周囲の敵をなぎ倒せる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetAPA04",
+		"jp_text": "ワンダパルサー",
+		"en_text": "",
+		"jp_explain": "『ワンダ』用のフォトンアーツ。\n跳ねるように敵を突き上げて攻撃する。\nヒットした敵に持続ダメージが発生。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetAPA05",
+		"jp_text": "ワンダアサルト",
+		"en_text": "",
+		"jp_explain": "『ワンダ』用のフォトンアーツ。\nフォトンをまとい、一直線に突撃をし\nその後、プレイヤーの元へと戻る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetBPA01",
+		"jp_text": "トリムシャウト",
+		"en_text": "",
+		"jp_explain": "『トリム』用のフォトンアーツ。\n咆哮と共に気合を溜める。一定時間\n特定のフォトンアーツの威力が上がる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetBPA02",
+		"jp_text": "トリムスタッブ",
+		"en_text": "",
+		"jp_explain": "『トリム』用のフォトンアーツ。\n瞬時に敵に近づき、体当たりで攻撃。\n攻撃と同時に敵の反対側へ回る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetBPA03",
+		"jp_text": "トリムスラッシュ",
+		"en_text": "",
+		"jp_explain": "『トリム』用のフォトンアーツ。\n双翼のフォトンによる連続攻撃を行う。\n幾重にも渡る翼撃は敵を切り刻む。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetBPA04",
+		"jp_text": "トリムスパイラル",
+		"en_text": "",
+		"jp_explain": "『トリム』用のフォトンアーツ。\n力を溜め、必殺の突撃を放つ。\nボタンホールドで溜め、離すと発動。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetBPA05",
+		"jp_text": "トリムバレット",
+		"en_text": "",
+		"jp_explain": "『トリム』用のフォトンアーツ。\n宙返りと共に羽根弾を発射する。\nその後、プレイヤーの元へと戻る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetCPA01",
+		"jp_text": "サリィプロード",
+		"en_text": "",
+		"jp_explain": "『サリィ』用のフォトンアーツ。\n凝縮されたフォトン炸裂弾を発射する。\n炸裂弾は放物線を描き飛んで行く。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetCPA02",
+		"jp_text": "サリィフォール",
+		"en_text": "",
+		"jp_explain": "『サリィ』用のフォトンアーツ。\nフォトンによる重力場を形成し\n敵を捕らえ、行動を阻害する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetCPA03",
+		"jp_text": "サリィテリトリー",
+		"en_text": "",
+		"jp_explain": "『サリィ』用のフォトンアーツ。\n激化するフォトンによる攻撃。\nボタンホールドで威力が上昇する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetCPA04",
+		"jp_text": "サリィチェイサー",
+		"en_text": "",
+		"jp_explain": "『サリィ』用のフォトンアーツ。\n敵をなぎ倒して進む追尾弾を発射する。\n弾速は速いが、持続性は低い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetCPA05",
+		"jp_text": "サリィカース",
+		"en_text": "",
+		"jp_explain": "『サリィ』用のフォトンアーツ。\nジェルン効果を持つ追尾弾を敵へ放つ。\nジェルンは攻撃力を低下させる。",
 		"en_explain": ""
 	}
 ]

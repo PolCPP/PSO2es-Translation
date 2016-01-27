@@ -464,9 +464,9 @@
 	{
 		"assign": "190820000",
 		"jp_text": "ステルスウェポン：ＬＡ",
-		"en_text": "",
+		"en_text": "Stealth Weapon: LA",
 		"jp_explain": "認識不能な武器。\n形状はランチャー型。",
-		"en_explain": ""
+		"en_explain": "Unknown Weapon.\nSeems to be in the shape of\na Launcher."
 	},
 	{
 		"assign": "190830000",
@@ -562,7 +562,7 @@
 	{
 		"assign": "1901190000",
 		"jp_text": "マインバンカー",
-		"en_text": "",
+		"en_text": "Mine Bunker",
 		"jp_explain": "何よりも威力の増強を目的として\n製作された大砲。一つ一つのパーツは\nかさばったものの、威力はお墨付き。",
 		"en_explain": ""
 	},
@@ -728,6 +728,13 @@
 		"en_explain": ""
 	},
 	{
+		"assign": "1901710000",
+		"jp_text": "ハードノイズ",
+		"en_text": "",
+		"jp_explain": "音楽をこよなく愛するアークスが企画し\n開発した大砲。特殊な振動板により\n放たれるフォトン弾は非常に強力。",
+		"en_explain": ""
+	},
+	{
 		"assign": "1901740000",
 		"jp_text": "サイハレン",
 		"en_text": "",
@@ -756,38 +763,59 @@
 		"en_explain": ""
 	},
 	{
+		"assign": "1901900000",
+		"jp_text": "ラブシンシア",
+		"en_text": "",
+		"jp_explain": "古来より愛情を示すシンボルを大きく\n象った大砲。ゆるやかに変わる\n心の変化を表現した新作。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1901910000",
+		"jp_text": "リグバスタッド",
+		"en_text": "",
+		"jp_explain": "伝説の生物を機械的に再現した大砲。\n圧倒的ともいえる大火力の砲撃で\n周囲一帯をすべて焼き尽くす。",
+		"en_explain": ""
+	},
+	{
 		"assign": "1901950000",
 		"jp_text": "ガルドグランゾ",
-		"en_text": "",
+		"en_text": "Garde Guranz",
 		"jp_explain": "ゼータ・グランゾのシールドを\n加工した大砲。堅牢かつ重量のある\n装甲によって砲身が守られている。",
 		"en_explain": ""
 	},
 	{
 		"assign": "1902090000",
 		"jp_text": "ノクスクラード",
-		"en_text": "",
+		"en_text": "Nox Crahd",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き大砲。装者も恐怖を\n抱くほどの強力な弾丸で敵を撃つ。",
 		"en_explain": ""
 	},
 	{
 		"assign": "1902200000",
 		"jp_text": "ヴィトルオービット",
-		"en_text": "",
+		"en_text": "Vitol Orbit",
 		"jp_explain": "新開発のフォトンリング機構を搭載した\n大砲。展開された部品が合体し\n闇を葬る破壊の光を打ち出す。",
 		"en_explain": ""
 	},
 	{
 		"assign": "1902230000",
 		"jp_text": "インヴェイドキャノン",
-		"en_text": "",
+		"en_text": "Invader Cannon",
 		"jp_explain": "【深遠なる闇】より生まれし負の大砲。\n装者は不動の精神を有するが\n情け容赦のない殲滅者へと変わる。",
 		"en_explain": ""
 	},
 	{
 		"assign": "1902240000",
 		"jp_text": "オフスティアキャノン",
-		"en_text": "",
+		"en_text": "Austere Cannon",
 		"jp_explain": "負の力を識り、制することで転化した\n浄化の大砲。もたらされた泰然たる\n精神は、苦難に打ち克つ力となる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1902310000",
+		"jp_text": "セイガーランチャー",
+		"en_text": "",
+		"jp_explain": "世界征服を企む悪の組織と戦うために\n作られた大砲。心の力をエネルギーに\n換えるセイガードライブを搭載！",
 		"en_explain": ""
 	}
 ]

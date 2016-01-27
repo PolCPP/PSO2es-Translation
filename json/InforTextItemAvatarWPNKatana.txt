@@ -4,12 +4,12 @@
 		"jp_text": "＊ケイコウトウ",
 		"en_text": "＊Keikoutou",
 		"jp_explain": "照明器具を作っていたはずがなぜか\n抜剣型武器迷彩になってしまった。\nとてももろいので取扱注意。",
-		"en_explain": ""
+		"en_explain": "Katana-type weapon camouflage\nthat should've been used as\na light fixture. It's very fragile."
 	},
 	{
 		"assign": "1014010000",
 		"jp_text": "＊プリティヒガサ",
-		"en_text": "",
+		"en_text": "＊Pretty Parasol",
 		"jp_explain": "可愛い外見が人気の抜剣型武器迷彩。\nたかだか日除けの傘と侮ると、\n手痛い反撃を受けることだろう。",
 		"en_explain": ""
 	},
@@ -44,7 +44,7 @@
 	{
 		"assign": "1014060000",
 		"jp_text": "＊鬼哭破軍",
-		"en_text": "",
+		"en_text": "＊Kikoku Hagun",
 		"jp_explain": "鍛冶師Ｈｏｕｎｄによって打たれた\n抜剣型武器迷彩。血涙を思わせる紋様に\n鬼の面など禍々しいデザインが特徴的。",
 		"en_explain": ""
 	},
@@ -79,7 +79,7 @@
 	{
 		"assign": "10140120000",
 		"jp_text": "＊ソウル・オブ・ウォパル",
-		"en_text": "",
+		"en_text": "Soul of Vorpal",
 		"jp_explain": "イクリプストーチの炎で鍛えられた\n抜剣型武器迷彩。別名ラシーク・ブレード。\n血色のフォトンブレードは類稀な威力。",
 		"en_explain": ""
 	},
@@ -158,6 +158,13 @@
 		"jp_text": "＊神刀スサノオ",
 		"en_text": "",
 		"jp_explain": "孤高のドラゴンスレイヤーが振るう\n太刀を模した武器迷彩。腕次第では\n伝説の竜をも断ち斬ることが出来る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "10140240000",
+		"jp_text": "＊ＤＢの盾剣",
+		"en_text": "",
+		"jp_explain": "ある軍人の剣を模した抜剣型武器迷彩。\n多数のレプリカが存在する中でも\n軍によって生産されているもの。",
 		"en_explain": ""
 	}
 ]
