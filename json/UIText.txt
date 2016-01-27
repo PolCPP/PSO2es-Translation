@@ -14597,7 +14597,7 @@
 	{
 		"assign": "select_weaponoid_title",
 		"jp_text": "キャラクター表示切り替え",
-		"en_text": ""
+		"en_text": "Switch "
 	},
 	{
 		"assign": "select_weaponoid_body",
@@ -14632,7 +14632,7 @@
 	{
 		"assign": "fld_productionset_btn_close",
 		"jp_text": "閉じる",
-		"en_text": ""
+		"en_text": "Close"
 	},
 	{
 		"assign": "btl_menu_title",
@@ -14657,7 +14657,7 @@
 	{
 		"assign": "btl_menu_btn_close",
 		"jp_text": "閉じる",
-		"en_text": ""
+		"en_text": "Close"
 	},
 	{
 		"assign": "btl_wep_title",
@@ -14682,12 +14682,12 @@
 	{
 		"assign": "btl_wep_btn_close",
 		"jp_text": "閉じる",
-		"en_text": ""
+		"en_text": "Close"
 	},
 	{
 		"assign": "btl_soundset",
 		"jp_text": "サウンド設定",
-		"en_text": ""
+		"en_text": "Sound Stn."
 	},
 	{
 		"assign": "btl_bgm",
@@ -14702,22 +14702,22 @@
 	{
 		"assign": "btl_soundset_default",
 		"jp_text": "初期設定値に戻す",
-		"en_text": ""
+		"en_text": "Reset"
 	},
 	{
 		"assign": "btl_soundset_close",
 		"jp_text": "閉じる",
-		"en_text": ""
+		"en_text": "Close"
 	},
 	{
 		"assign": "pet_eggdetail_title_01",
 		"jp_text": "上昇パラメータ",
-		"en_text": ""
+		"en_text": "Rising Stat"
 	},
 	{
 		"assign": "pet_eggdetail_title_02",
 		"jp_text": "潜在能力",
-		"en_text": ""
+		"en_text": "Potential"
 	},
 	{
 		"assign": "ItemDetail_Egg_AddHP",
@@ -14727,22 +14727,22 @@
 	{
 		"assign": "ItemDetail_Egg_AddSTP",
 		"jp_text": "<color=white>打撃力 / +</color>",
-		"en_text": ""
+		"en_text": "<color=white>S-ATK  / +</color>"
 	},
 	{
 		"assign": "ItemDetail_Egg_AddSHP",
 		"jp_text": "<color=white>射撃力 / +</color>",
-		"en_text": ""
+		"en_text": "<color=white>R-ATK  / +</color>"
 	},
 	{
 		"assign": "ItemDetail_Egg_AddTEP",
 		"jp_text": "<color=white>法撃力 / +</color>",
-		"en_text": ""
+		"en_text": "<color=white>T-ATK  / +</color>"
 	},
 	{
 		"assign": "ItemDetail_Egg_AddSKP",
 		"jp_text": "<color=white>技量    / +</color>",
-		"en_text": ""
+		"en_text": "<color=white>DEX     / +</color>"
 	},
 	{
 		"assign": "ItemDetail_Egg_potential",
@@ -14752,32 +14752,32 @@
 	{
 		"assign": "attribute_fire",
 		"jp_text": "炎",
-		"en_text": ""
+		"en_text": "Fire"
 	},
 	{
 		"assign": "attribute_ice",
 		"jp_text": "氷",
-		"en_text": ""
+		"en_text": "Ice"
 	},
 	{
 		"assign": "attribute_thunder",
 		"jp_text": "雷",
-		"en_text": ""
+		"en_text": "Lightning"
 	},
 	{
 		"assign": "attribute_wind",
 		"jp_text": "風",
-		"en_text": ""
+		"en_text": "Wind"
 	},
 	{
 		"assign": "attribute_light",
 		"jp_text": "光",
-		"en_text": ""
+		"en_text": "Light"
 	},
 	{
 		"assign": "attribute_dark",
 		"jp_text": "闇",
-		"en_text": ""
+		"en_text": "Dark"
 	},
 	{
 		"assign": "ItemDetail_Egg_ParamFormat",
@@ -14797,12 +14797,12 @@
 	{
 		"assign": "wh_32_02",
 		"jp_text": "チップを合成すると、「エッグ合成」と同じようにチップのレアリティに\n応じた経験値がペットに付与されます。",
-		"en_text": ""
+		"en_text": "Giving your pets chips or eggs will increase your\nSummoner's linked EXP based on the\nrarity of the item given."
 	},
 	{
 		"assign": "wh_32_03",
 		"jp_text": "また、★９以上のチップを合成すると、チップの属性に\n応じたプラス値がペットに付与されます。",
-		"en_text": ""
+		"en_text": "Giving your pet 9★+ chips will raise\nstats based on the chip's element."
 	},
 	{
 		"assign": "wh_32_04",
@@ -14817,42 +14817,42 @@
 	{
 		"assign": "wh_32_06",
 		"jp_text": "また、合成可能回数は、<%AC>で回復することもできます。\n※<%AC>での回復は、対象のペット一体に対して行われます。",
-		"en_text": ""
+		"en_text": "Additionally, you can recover Synthesis uses by using <%AC>.\n※<%AC> Recovery is "
 	},
 	{
 		"assign": "depot_title",
 		"jp_text": "PSO2es倉庫",
-		"en_text": ""
+		"en_text": "PSO2es Storage"
 	},
 	{
 		"assign": "depot_guide_00",
 		"jp_text": "<color=#f0df60>倉庫に預けるアイテムを選択してください。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Select an item to deposit into storage.</color>"
 	},
 	{
 		"assign": "depot_guide_01",
 		"jp_text": "<color=#f0df60>アイテムパックに引き出すアイテムを選択してください。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Select an item to withdraw into the Item Pack.</color>"
 	},
 	{
 		"assign": "depot_return_lobby",
 		"jp_text": "ロビートップへ戻る",
-		"en_text": ""
+		"en_text": "Return to Lobby"
 	},
 	{
 		"assign": "depot_side_button_pack",
 		"jp_text": "アイテム\nパック",
-		"en_text": ""
+		"en_text": "Item\nPack"
 	},
 	{
 		"assign": "depot_side_button_depot",
 		"jp_text": "倉庫",
-		"en_text": ""
+		"en_text": "Storage"
 	},
 	{
 		"assign": "depot_footer_ship_no",
 		"jp_text": "Ship{0}の倉庫",
-		"en_text": ""
+		"en_text": "Ship{0} Storage"
 	},
 	{
 		"assign": "depot_footer_select_num",
@@ -14862,52 +14862,52 @@
 	{
 		"assign": "depot_window_title_pack",
 		"jp_text": "アイテムパック",
-		"en_text": ""
+		"en_text": "Item Pack"
 	},
 	{
 		"assign": "depot_leave_button",
 		"jp_text": "預ける",
-		"en_text": ""
+		"en_text": "Leave"
 	},
 	{
 		"assign": "depot_window_title_depot",
 		"jp_text": "PSO2es倉庫",
-		"en_text": ""
+		"en_text": "PSO2es Storage"
 	},
 	{
 		"assign": "depot_take_button",
 		"jp_text": "取り出す",
-		"en_text": ""
+		"en_text": "Retrieve"
 	},
 	{
 		"assign": "depot_dialog_title",
 		"jp_text": "PSO2es倉庫",
-		"en_text": ""
+		"en_text": "PSO2es Storage"
 	},
 	{
 		"assign": "depot_dialog_exit",
 		"jp_text": "選択状態のアイテムがあります。戻りますか？\n\n",
-		"en_text": ""
+		"en_text": "There's no items in the storage, return?\n\n"
 	},
 	{
 		"assign": "depot_dialog_depot_full",
 		"jp_text": "倉庫の空き容量不足のため、\n預けることができませんでした。",
-		"en_text": ""
+		"en_text": "We were not able to store this\nsince you have insufficient storage space."
 	},
 	{
 		"assign": "depot_dialog_depot_became_full",
 		"jp_text": "倉庫の空き容量不足のため、\n一部のアイテムを預けることができませんでした。",
-		"en_text": ""
+		"en_text": "We were unable to store some items\nsince you have insufficient storage space."
 	},
 	{
 		"assign": "depot_dialog_pack_full",
 		"jp_text": "アイテムパックの空き容量不足のため、\n取り出す事ができませんでした。",
-		"en_text": ""
+		"en_text": "We were unable to take items out\nsince you have insufficient item pack space."
 	},
 	{
 		"assign": "depot_dialog_pack_became_full",
 		"jp_text": "アイテムパックの空き容量不足のため、\n一部のアイテムを取り出す事ができませんでした。",
-		"en_text": ""
+		"en_text": "We were unable to take items out\nsince you have insufficient item pack space."
 	},
 	{
 		"assign": "pso2_counter_pet",
