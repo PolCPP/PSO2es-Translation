@@ -1690,6 +1690,26 @@
 		"en_text": "This chip is a material chip,\nit cannot be equipped."
 	},
 	{
+		"assign": "equip_dialog_t_11",
+		"jp_text": "武器チップ装備",
+		"en_text": ""
+	},
+	{
+		"assign": "equip_dialog_b_11",
+		"jp_text": "『PSO2es』ではこのアイテムを装備できません。",
+		"en_text": ""
+	},
+	{
+		"assign": "equip_dialog_t_12",
+		"jp_text": "アイテム装備",
+		"en_text": ""
+	},
+	{
+		"assign": "equip_dialog_b_12",
+		"jp_text": "このアイテムを装備するには\n『PSO2』にこのキャラクターで\nログインする必要があります。",
+		"en_text": ""
+	},
+	{
 		"assign": "friend_guide_00",
 		"jp_text": "<color=#f0df60>あなたのフレンド一覧です。</color>",
 		"en_text": "<color=#f0df60>This is a list of your friends.</color>"
@@ -2695,6 +2715,16 @@
 		"en_text": "Ship Selection"
 	},
 	{
+		"assign": "menu_dialog_t_24",
+		"jp_text": "キャラクター表示切り替え",
+		"en_text": ""
+	},
+	{
+		"assign": "menu_dialog_b_24",
+		"jp_text": "データの通信に失敗したため\nプレイヤーを表示しました。",
+		"en_text": ""
+	},
+	{
 		"assign": "mag_guide_00",
 		"jp_text": "<color=#f0df60>アイテムを与えたいマグを選択してください。エネルギーの値は、ログイン・ログアウト・アイテムを与えたタイミングでサーバーと同期されます。</color>",
 		"en_text": "<color=#f0df60>Please select the Mag you want to Feed.</color>"
@@ -3605,6 +3635,11 @@
 		"en_text": "None"
 	},
 	{
+		"assign": "myshop_subcategory_not_specified",
+		"jp_text": "指定なし(全てのウェア)",
+		"en_text": ""
+	},
+	{
 		"assign": "myshop_category_weapon",
 		"jp_text": "武器",
 		"en_text": "Weapons"
@@ -3618,6 +3653,11 @@
 		"assign": "myshop_category_costume",
 		"jp_text": "コスチューム・パーツ",
 		"en_text": "Costume/Parts"
+	},
+	{
+		"assign": "myshop_category_layered",
+		"jp_text": "レイヤリングウェア",
+		"en_text": ""
 	},
 	{
 		"assign": "myshop_category_camouflage",
@@ -3641,8 +3681,18 @@
 	},
 	{
 		"assign": "myshop_category_order_item",
-		"jp_text": "オーダーアイテム",
+		"jp_text": "オーダーアイテム/クラフト素材",
 		"en_text": "CO Items"
+	},
+	{
+		"assign": "myshop_category_pet_egg",
+		"jp_text": "エッグ",
+		"en_text": ""
+	},
+	{
+		"assign": "myshop_category_pet_candy",
+		"jp_text": "キャンディー",
+		"en_text": ""
 	},
 	{
 		"assign": "myshop_category_other",
@@ -3740,6 +3790,11 @@
 		"en_text": "Jet Boots"
 	},
 	{
+		"assign": "myshop_sub_weapon_tact",
+		"jp_text": "タクト系",
+		"en_text": ""
+	},
+	{
 		"assign": "myshop_sub_weapon_multiple",
 		"jp_text": "複数カテゴリー系",
 		"en_text": "Multi-category"
@@ -3825,6 +3880,96 @@
 		"en_text": "CAST Female"
 	},
 	{
+		"assign": "myshop_sex_outer_none",
+		"jp_text": "性別指定なし",
+		"en_text": ""
+	},
+	{
+		"assign": "myshop_sex_outer_male",
+		"jp_text": "男性用アウターウェア",
+		"en_text": ""
+	},
+	{
+		"assign": "myshop_sex_outer_female",
+		"jp_text": "女性用アウターウェア",
+		"en_text": ""
+	},
+	{
+		"assign": "myshop_sex_base_none",
+		"jp_text": "性別指定なし",
+		"en_text": ""
+	},
+	{
+		"assign": "myshop_sex_base_male",
+		"jp_text": "男性用ベースウェア",
+		"en_text": ""
+	},
+	{
+		"assign": "myshop_sex_base_female",
+		"jp_text": "女性用ベースウェア",
+		"en_text": ""
+	},
+	{
+		"assign": "myshop_sex_inner_none",
+		"jp_text": "性別指定なし",
+		"en_text": ""
+	},
+	{
+		"assign": "myshop_sex_inner_male",
+		"jp_text": "男性用インナーウェア",
+		"en_text": ""
+	},
+	{
+		"assign": "myshop_sex_inner_female",
+		"jp_text": "女性用インナーウェア",
+		"en_text": ""
+	},
+	{
+		"assign": "myshop_sub_item_parfait",
+		"jp_text": "パフェ",
+		"en_text": ""
+	},
+	{
+		"assign": "myshop_sub_item_roll",
+		"jp_text": "ロール",
+		"en_text": ""
+	},
+	{
+		"assign": "myshop_sub_item_cookie",
+		"jp_text": "クッキー",
+		"en_text": ""
+	},
+	{
+		"assign": "myshop_sub_item_pancake",
+		"jp_text": "パンケーキ",
+		"en_text": ""
+	},
+	{
+		"assign": "myshop_sub_item_ramune",
+		"jp_text": "ラムネ",
+		"en_text": ""
+	},
+	{
+		"assign": "myshop_sub_item_crepe",
+		"jp_text": "クレープ",
+		"en_text": ""
+	},
+	{
+		"assign": "myshop_sub_item_stick",
+		"jp_text": "アメ",
+		"en_text": ""
+	},
+	{
+		"assign": "myshop_sub_item_sand",
+		"jp_text": "サンド",
+		"en_text": ""
+	},
+	{
+		"assign": "myshop_sub_item_gumi",
+		"jp_text": "グミ",
+		"en_text": ""
+	},
+	{
 		"assign": "myshop_sub_item_not_specified",
 		"jp_text": "指定なし",
 		"en_text": "None"
@@ -3898,6 +4043,21 @@
 		"assign": "myshop_sub_item_lobbyaction_detail",
 		"jp_text": "ロビーアクション",
 		"en_text": "Lobby Action"
+	},
+	{
+		"assign": "myshop_sub_item_outer_wear_detail",
+		"jp_text": "アウターウェア",
+		"en_text": ""
+	},
+	{
+		"assign": "myshop_sub_item_base_wear_detail",
+		"jp_text": "ベースウェア",
+		"en_text": ""
+	},
+	{
+		"assign": "myshop_sub_item_inner_wear_detail",
+		"jp_text": "インナーウェア",
+		"en_text": ""
 	},
 	{
 		"assign": "myshop_sub_disc_not_specified",
@@ -5445,6 +5605,11 @@
 		"en_text": "<color=#f0df60>Please select a scratch to buy.</color>"
 	},
 	{
+		"assign": "scratch_guide_01",
+		"jp_text": "<color=#f0df60>スクラッチ回数ボーナスのプレゼント一覧です。</color>",
+		"en_text": ""
+	},
+	{
 		"assign": "scratch_dialog_t_00",
 		"jp_text": "メダルスクラッチ",
 		"en_text": "Rare Chip Scratch"
@@ -5595,6 +5760,16 @@
 		"en_text": "Rappy Coins:{0}!"
 	},
 	{
+		"assign": "scratch_message_04",
+		"jp_text": "このスクラッチあと<color=#ffff00<%alpha>>{0}回</color>で次のボーナスがもらえます！",
+		"en_text": ""
+	},
+	{
+		"assign": "scratch_message_05",
+		"jp_text": "<color=#ffff00<%alpha>>スクラッチ回数ボーナス！</color>\n\nボーナス報酬はメール機能にて付与します。\n\n受信メールから受け取ってください。",
+		"en_text": ""
+	},
+	{
 		"assign": "scratch_dialog_t_12",
 		"jp_text": "購入確認",
 		"en_text": "Buy"
@@ -5608,6 +5783,71 @@
 		"assign": "scratch_button_rappy11",
 		"jp_text": "まとめて引く\n{0}枚 11回",
 		"en_text": "Scratch 11 times: {0}"
+	},
+	{
+		"assign": "scratch_bonus_menu_info",
+		"jp_text": "あと<color=#ffff00>{0}回</color>でプレゼント！",
+		"en_text": ""
+	},
+	{
+		"assign": "scratch_bonus_menu_multi_bonus",
+		"jp_text": "{0}\nなど{1}点セット！",
+		"en_text": ""
+	},
+	{
+		"assign": "scratch_bonus_menu_complete",
+		"jp_text": "この回数ボーナスは獲得済みです。",
+		"en_text": ""
+	},
+	{
+		"assign": "scratch_bonus_menu_ac",
+		"jp_text": "ACスクラッチ発売中！",
+		"en_text": ""
+	},
+	{
+		"assign": "scratch_bonus_menu_ac_gold",
+		"jp_text": "ACスクラッチG発売中！",
+		"en_text": ""
+	},
+	{
+		"assign": "scratch_bonus_list_title",
+		"jp_text": "スクラッチ回数ボーナス確認",
+		"en_text": ""
+	},
+	{
+		"assign": "scratch_bonus_list_total",
+		"jp_text": "スクラッチを引いた回数  <color=#68a0a7>/</color>",
+		"en_text": ""
+	},
+	{
+		"assign": "scratch_bonus_list_total_num",
+		"jp_text": "<color=#ffff00>{0}回</color>",
+		"en_text": ""
+	},
+	{
+		"assign": "scratch_bonus_list_header_status",
+		"jp_text": "ボーナスまでの回数",
+		"en_text": ""
+	},
+	{
+		"assign": "scratch_bonus_list_header_name",
+		"jp_text": "ボーナスの内容",
+		"en_text": ""
+	},
+	{
+		"assign": "scratch_bonus_list_header_num",
+		"jp_text": "個数",
+		"en_text": ""
+	},
+	{
+		"assign": "scratch_bonus_list_status",
+		"jp_text": "あと{0}回",
+		"en_text": ""
+	},
+	{
+		"assign": "scratch_bonus_list_status_complete",
+		"jp_text": "達成！",
+		"en_text": ""
 	},
 	{
 		"assign": "quest_load",
@@ -7235,6 +7475,11 @@
 		"en_text": "History"
 	},
 	{
+		"assign": "chip_type_name_weaponoid",
+		"jp_text": "ウェポノイド",
+		"en_text": ""
+	},
+	{
 		"assign": "chip_rate_very_low",
 		"jp_text": "極小",
 		"en_text": "Very low"
@@ -7476,8 +7721,13 @@
 	},
 	{
 		"assign": "illustrator_label",
-		"jp_text": "illustrated by　",
+		"jp_text": "illustrated by",
 		"en_text": "Illustrated by "
+	},
+	{
+		"assign": "cv_label",
+		"jp_text": "CV:",
+		"en_text": ""
 	},
 	{
 		"assign": "guard_equip",
@@ -7498,6 +7748,11 @@
 		"assign": "parts_palette_title",
 		"jp_text": "パーツ(ボディ／アーム／レッグ)",
 		"en_text": "Parts (Body/Arm/Leg)"
+	},
+	{
+		"assign": "outer_palette_title",
+		"jp_text": "アウターウェア",
+		"en_text": ""
 	},
 	{
 		"assign": "unit_palette_title",
@@ -7613,6 +7868,16 @@
 		"assign": "pso2_item_dummy",
 		"jp_text": "PSO2アイテム",
 		"en_text": "PSO2 Item"
+	},
+	{
+		"assign": "questkey_timelimit",
+		"jp_text": "有効期限 / yyyy年MM月dd日HH時mm分",
+		"en_text": ""
+	},
+	{
+		"assign": "questkey_timelimit_over",
+		"jp_text": "有効期限 / <color=\"red\">yyyy年MM月dd日HH時mm分</color>",
+		"en_text": ""
 	},
 	{
 		"assign": "recycle_shop_header",
@@ -8260,6 +8525,11 @@
 		"en_text": "Dual Blades"
 	},
 	{
+		"assign": "tact",
+		"jp_text": "タクト",
+		"en_text": ""
+	},
+	{
 		"assign": "wa_sword",
 		"jp_text": "大剣",
 		"en_text": "Sword"
@@ -8343,6 +8613,11 @@
 		"assign": "wa_dualblade",
 		"jp_text": "飛翔剣",
 		"en_text": "Dual Blades"
+	},
+	{
+		"assign": "wa_tact",
+		"jp_text": "奏具",
+		"en_text": ""
 	},
 	{
 		"assign": "loginbonus_fun",
@@ -8668,6 +8943,11 @@
 		"assign": "menu_pso2_guide_00",
 		"jp_text": "<color=#f0df60>『PSO2』との連動機能を利用できます。利用したい項目を選択してください。</color>",
 		"en_text": "<color=#f0df60>Here, you can use certain PSO2 features. Please select the feature you'd like to use.</color>"
+	},
+	{
+		"assign": "menu_pso2_depot",
+		"jp_text": "PSO2es倉庫",
+		"en_text": ""
 	},
 	{
 		"assign": "menu_pso2_myshop_purchase",
@@ -10700,21 +10980,6 @@
 		"en_text": "Certain rewards have special\nconditions in order to be redeemed.\nCheck back frequently as possible!"
 	},
 	{
-		"assign": "wh_30_00",
-		"jp_text": "緊急クエストに「超級」が登場しました。\n緊急クエストの超級に出発するには「超級トリガー」が必要です。",
-		"en_text": "/\"SuperHard/\" is now available in Emergency Quests. To do them, you'll need a 'Super-Hard Trigger.'"
-	},
-	{
-		"assign": "wh_30_01",
-		"jp_text": "「超級トリガー」はボーナススクラッチで入手できます。\nなお、救援要請には「超級トリガー」を消費せずに出発できます。",
-		"en_text": "Super Hard triggers can only be obtained via bonus scratch.\nHowever, you can help other players's SH\nquest without the use of a trigger."
-	},
-	{
-		"assign": "wh_30_02",
-		"jp_text": "緊急クエストの超級では、ゲスト５名を含む\n最大５０名まで救援要請を送ることができます。\nみんなの力を結集して、豪華な報酬を手に入れましょう！",
-		"en_text": "In Super Hard, up to 5 players can\nparticipate, and 50 can be notified\nof your dire need of assistance."
-	},
-	{
 		"assign": "wh_29_00",
 		"jp_text": "『PSO2es』のマイショップでは「他プレイヤーが販売しているアイテムの購入」\n「アイテムを他プレイヤーに販売（出品）」「出品アイテムの取り下げ」\n「売り上げの回収」が行えます。",
 		"en_text": "In PSO2es My Shop, you can buy what other players are\nselling, in addition to selling your own items."
@@ -10753,6 +11018,21 @@
 		"assign": "wh_29_07",
 		"jp_text": "現在ログインしているシップ以外の通知を受け取るには、\nプッシュ通知を有効にした後、該当するシップのキャラクターで\n『PSO2es』にログインする必要があります。",
 		"en_text": "To receive notifications of MyShop notices of\nspecific ships, you'll need to login to the\nship you wish to receive notices from on PSO2es."
+	},
+	{
+		"assign": "wh_30_00",
+		"jp_text": "緊急クエストに「超級」が登場しました。\n緊急クエストの超級に出発するには「超級トリガー」が必要です。",
+		"en_text": "/\"SuperHard/\" is now available in Emergency Quests. To do them, you'll need a 'Super-Hard Trigger.'"
+	},
+	{
+		"assign": "wh_30_01",
+		"jp_text": "「超級トリガー」はボーナススクラッチで入手できます。\nなお、救援要請には「超級トリガー」を消費せずに出発できます。",
+		"en_text": "Super Hard triggers can only be obtained via bonus scratch.\nHowever, you can help other players's SH\nquest without the use of a trigger."
+	},
+	{
+		"assign": "wh_30_02",
+		"jp_text": "緊急クエストの超級では、ゲスト５名を含む\n最大５０名まで救援要請を送ることができます。\nみんなの力を結集して、豪華な報酬を手に入れましょう！",
+		"en_text": "In Super Hard, up to 5 players can\nparticipate, and 50 can be notified\nof your dire need of assistance."
 	},
 	{
 		"assign": "ef_0001_n00_b",
@@ -14216,7 +14496,7 @@
 	},
 	{
 		"assign": "arksexpeditioncounter_guide_00",
-		"jp_text": "<color=#f0df60>選択したクエストを即時に探索することができます。アカウントごとに毎日初回のみ無料で、以降は有料で5回まで利用できます。</color>",
+		"jp_text": "<color=#f0df60>選択したクエストを即時に探索することができます。アカウントごとに毎日初回のみ無料で、以降は有料で利用できます。</color>",
 		"en_text": ""
 	},
 	{
@@ -14251,7 +14531,7 @@
 	},
 	{
 		"assign": "dialog_body_arksexpedition_use_free",
-		"jp_text": "クイック探索を行います。\nよろしいですか？\n\n※クイック探索は毎日初回のみ無料で利用できます。\n2回目以降の利用には<%AC>が必要です。",
+		"jp_text": "クイック探索を行います。\nよろしいですか？\n\n※クイック探索は毎日初回のみ無料で利用できます。\n２回目以降の利用には<%AC>が必要です。",
 		"en_text": "You can perform a Quick Search.\n\n<color=yellow>※First time is free.\nSubsequent uses after will require <%AC></color>."
 	},
 	{
@@ -14296,7 +14576,7 @@
 	},
 	{
 		"assign": "wh_31_02",
-		"jp_text": "＜利用回数について＞\n１日１回まで無料で利用可能です。\n２回目以降のクイック探索は「<%AC>」が必要になります。",
+		"jp_text": "＜2回目以降の利用について＞\n1日1回まで無料で利用可能です。\n2回目以降のクイック探索は「<%AC>」が必要となります。",
 		"en_text": "<Quick Search>\nFirst times are free.\nSubsequent uses after the free will require <%AC>."
 	},
 	{
@@ -14313,5 +14593,600 @@
 		"assign": "storyevent_skip_dialog_b",
 		"jp_text": "ストーリーをスキップしますか？",
 		"en_text": "Are you sure you want to skip the dialog?"
+	},
+	{
+		"assign": "select_weaponoid_title",
+		"jp_text": "キャラクター表示切り替え",
+		"en_text": ""
+	},
+	{
+		"assign": "select_weaponoid_body",
+		"jp_text": "ウェポノイドチップを所持していません。\nウェポノイドチップを獲得すると\nキャラクターの切り替えやボイスを\n楽しむことができます。",
+		"en_text": ""
+	},
+	{
+		"assign": "fld_productionset_btn",
+		"jp_text": "演出設定",
+		"en_text": ""
+	},
+	{
+		"assign": "fld_productionset_windowtitle",
+		"jp_text": "演出設定",
+		"en_text": ""
+	},
+	{
+		"assign": "fld_productionset_obi",
+		"jp_text": "ウェポノイドチップ発動演出",
+		"en_text": ""
+	},
+	{
+		"assign": "fld_productionset_btn_ON",
+		"jp_text": "ON",
+		"en_text": ""
+	},
+	{
+		"assign": "fld_productionset_btn_OFF",
+		"jp_text": "OFF",
+		"en_text": ""
+	},
+	{
+		"assign": "fld_productionset_btn_close",
+		"jp_text": "閉じる",
+		"en_text": ""
+	},
+	{
+		"assign": "btl_menu_title",
+		"jp_text": "メニュー",
+		"en_text": ""
+	},
+	{
+		"assign": "btl_menu_btn_soundset",
+		"jp_text": "サウンド設定",
+		"en_text": ""
+	},
+	{
+		"assign": "btl_menu_btn_productionset",
+		"jp_text": "演出設定",
+		"en_text": ""
+	},
+	{
+		"assign": "btl_menu_btn_questretire",
+		"jp_text": "クエストリタイア",
+		"en_text": ""
+	},
+	{
+		"assign": "btl_menu_btn_close",
+		"jp_text": "閉じる",
+		"en_text": ""
+	},
+	{
+		"assign": "btl_wep_title",
+		"jp_text": "演出設定",
+		"en_text": ""
+	},
+	{
+		"assign": "btl_wep_obi",
+		"jp_text": "ウェポノイドチップ発動演出",
+		"en_text": ""
+	},
+	{
+		"assign": "btl_wep_btn_ON",
+		"jp_text": "ON",
+		"en_text": ""
+	},
+	{
+		"assign": "btl_wep_btn_OFF",
+		"jp_text": "OFF",
+		"en_text": ""
+	},
+	{
+		"assign": "btl_wep_btn_close",
+		"jp_text": "閉じる",
+		"en_text": ""
+	},
+	{
+		"assign": "btl_soundset",
+		"jp_text": "サウンド設定",
+		"en_text": ""
+	},
+	{
+		"assign": "btl_bgm",
+		"jp_text": "BGM",
+		"en_text": ""
+	},
+	{
+		"assign": "btl_se",
+		"jp_text": "SE",
+		"en_text": ""
+	},
+	{
+		"assign": "btl_soundset_default",
+		"jp_text": "初期設定値に戻す",
+		"en_text": ""
+	},
+	{
+		"assign": "btl_soundset_close",
+		"jp_text": "閉じる",
+		"en_text": ""
+	},
+	{
+		"assign": "pet_eggdetail_title_01",
+		"jp_text": "上昇パラメータ",
+		"en_text": ""
+	},
+	{
+		"assign": "pet_eggdetail_title_02",
+		"jp_text": "潜在能力",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_Egg_AddHP",
+		"jp_text": "<color=white>HP      / +</color>",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_Egg_AddSTP",
+		"jp_text": "<color=white>打撃力 / +</color>",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_Egg_AddSHP",
+		"jp_text": "<color=white>射撃力 / +</color>",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_Egg_AddTEP",
+		"jp_text": "<color=white>法撃力 / +</color>",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_Egg_AddSKP",
+		"jp_text": "<color=white>技量    / +</color>",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_Egg_potential",
+		"jp_text": "<color=yellow><%parameter_potential>Lv. <%parameter_level></color>",
+		"en_text": ""
+	},
+	{
+		"assign": "attribute_fire",
+		"jp_text": "炎",
+		"en_text": ""
+	},
+	{
+		"assign": "attribute_ice",
+		"jp_text": "氷",
+		"en_text": ""
+	},
+	{
+		"assign": "attribute_thunder",
+		"jp_text": "雷",
+		"en_text": ""
+	},
+	{
+		"assign": "attribute_wind",
+		"jp_text": "風",
+		"en_text": ""
+	},
+	{
+		"assign": "attribute_light",
+		"jp_text": "光",
+		"en_text": ""
+	},
+	{
+		"assign": "attribute_dark",
+		"jp_text": "闇",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_Egg_ParamFormat",
+		"jp_text": "<color=white><%parameter></color>",
+		"en_text": ""
+	},
+	{
+		"assign": "wh_32_00",
+		"jp_text": "このメニューでは、『PSO2』で所持しているペットに\nエッグやチップを合成し、育成することができます。",
+		"en_text": ""
+	},
+	{
+		"assign": "wh_32_01",
+		"jp_text": "＜チップ合成＞\n『PSO2es』では、「エッグ合成」のほかに\nチップを合成してペットを育成する「チップ合成」を行えます。",
+		"en_text": ""
+	},
+	{
+		"assign": "wh_32_02",
+		"jp_text": "チップを合成すると、「エッグ合成」と同じようにチップのレアリティに\n応じた経験値がペットに付与されます。",
+		"en_text": ""
+	},
+	{
+		"assign": "wh_32_03",
+		"jp_text": "また、★９以上のチップを合成すると、チップの属性に\n応じたプラス値がペットに付与されます。",
+		"en_text": ""
+	},
+	{
+		"assign": "wh_32_04",
+		"jp_text": "＜連動経験値について＞\nペットにエッグ、またはチップを合成するとそのアイテムのレアリティに\n応じて、 クラス「サモナー」に連動経験値がたまります。",
+		"en_text": ""
+	},
+	{
+		"assign": "wh_32_05",
+		"jp_text": "＜合成可能回数について＞\nチップ合成、エッグ合成の残り合成可能回数は、ペットごとに管理され、\n4：00、12：00、20：00のタイミングごとに、３回まで利用できます。",
+		"en_text": ""
+	},
+	{
+		"assign": "wh_32_06",
+		"jp_text": "また、合成可能回数は、<%AC>で回復することもできます。\n※<%AC>での回復は、対象のペット一体に対して行われます。",
+		"en_text": ""
+	},
+	{
+		"assign": "depot_title",
+		"jp_text": "PSO2es倉庫",
+		"en_text": ""
+	},
+	{
+		"assign": "depot_guide_00",
+		"jp_text": "<color=#f0df60>倉庫に預けるアイテムを選択してください。</color>",
+		"en_text": ""
+	},
+	{
+		"assign": "depot_guide_01",
+		"jp_text": "<color=#f0df60>アイテムパックに引き出すアイテムを選択してください。</color>",
+		"en_text": ""
+	},
+	{
+		"assign": "depot_return_lobby",
+		"jp_text": "ロビートップへ戻る",
+		"en_text": ""
+	},
+	{
+		"assign": "depot_side_button_pack",
+		"jp_text": "アイテム\nパック",
+		"en_text": ""
+	},
+	{
+		"assign": "depot_side_button_depot",
+		"jp_text": "倉庫",
+		"en_text": ""
+	},
+	{
+		"assign": "depot_footer_ship_no",
+		"jp_text": "Ship{0}の倉庫",
+		"en_text": ""
+	},
+	{
+		"assign": "depot_footer_select_num",
+		"jp_text": "{0} <color=\"#688ca7\">/</color> {1}",
+		"en_text": ""
+	},
+	{
+		"assign": "depot_window_title_pack",
+		"jp_text": "アイテムパック",
+		"en_text": ""
+	},
+	{
+		"assign": "depot_leave_button",
+		"jp_text": "預ける",
+		"en_text": ""
+	},
+	{
+		"assign": "depot_window_title_depot",
+		"jp_text": "PSO2es倉庫",
+		"en_text": ""
+	},
+	{
+		"assign": "depot_take_button",
+		"jp_text": "取り出す",
+		"en_text": ""
+	},
+	{
+		"assign": "depot_dialog_title",
+		"jp_text": "PSO2es倉庫",
+		"en_text": ""
+	},
+	{
+		"assign": "depot_dialog_exit",
+		"jp_text": "選択状態のアイテムがあります。戻りますか？\n\n",
+		"en_text": ""
+	},
+	{
+		"assign": "depot_dialog_depot_full",
+		"jp_text": "倉庫の空き容量不足のため、\n預けることができませんでした。",
+		"en_text": ""
+	},
+	{
+		"assign": "depot_dialog_depot_became_full",
+		"jp_text": "倉庫の空き容量不足のため、\n一部のアイテムを預けることができませんでした。",
+		"en_text": ""
+	},
+	{
+		"assign": "depot_dialog_pack_full",
+		"jp_text": "アイテムパックの空き容量不足のため、\n取り出す事ができませんでした。",
+		"en_text": ""
+	},
+	{
+		"assign": "depot_dialog_pack_became_full",
+		"jp_text": "アイテムパックの空き容量不足のため、\n一部のアイテムを取り出す事ができませんでした。",
+		"en_text": ""
+	},
+	{
+		"assign": "pso2_counter_pet",
+		"jp_text": "ペット育成",
+		"en_text": "Pet Training"
+	},
+	{
+		"assign": "pet_scene_title",
+		"jp_text": "ペット育成",
+		"en_text": "Pet Training"
+	},
+	{
+		"assign": "pet_guide_01",
+		"jp_text": "<color=#f0df60>PSO2で使用可能なクラス、サモナーのペットを育成できます。育成したいペットを選択して下さい。</color>",
+		"en_text": "<color=#f0df60>Select the Pet you wish to train.</color>"
+	},
+	{
+		"assign": "pet_guide_02",
+		"jp_text": "<color=#f0df60>PSO2esではペットにチップかエッグを合成することができます。利用したい項目を選択して下さい。</color>",
+		"en_text": "<color=#f0df60>You can give your pets eggs or PSO2es chips.</color>"
+	},
+	{
+		"assign": "pet_guide_03",
+		"jp_text": "<color=#f0df60>ペットに合成したいチップを選択して下さい。ペットを強化することで、ペットのレベル、ステータスのプラス値を上げることができます。</color>",
+		"en_text": "<color=#f0df60>Please select a chip you wish to combine with the pet. By strengthening the pet, it's level and stats will rise.</color>"
+	},
+	{
+		"assign": "pet_guide_04",
+		"jp_text": "<color=#f0df60>ペットに合成したいエッグを選択して下さい。ペットを強化することで、ペットのレベル、ステータスのプラス値を上げることができます。</color>",
+		"en_text": "<color=#f0df60>Please select an egg you wish to combine with the pet. By strengthening the pet, it's level and stats will rise.</color>"
+	},
+	{
+		"assign": "pet_give",
+		"jp_text": "合成する",
+		"en_text": "Synthesize"
+	},
+	{
+		"assign": "pet_select_window_title",
+		"jp_text": "ペット一覧",
+		"en_text": "Pet List"
+	},
+	{
+		"assign": "pet_select_lv",
+		"jp_text": "Lv.{0}",
+		"en_text": ""
+	},
+	{
+		"assign": "pet_select_give_count",
+		"jp_text": "合成可能回数{0}",
+		"en_text": "Can be fed {0} times"
+	},
+	{
+		"assign": "pet_info_window_title",
+		"jp_text": "ペット情報",
+		"en_text": "Pet Info"
+	},
+	{
+		"assign": "pet_info_give",
+		"jp_text": "合成可能回数",
+		"en_text": "Synthesis Limit"
+	},
+	{
+		"assign": "pet_info_recovery",
+		"jp_text": "全回復まであと",
+		"en_text": "Recovery Regen"
+	},
+	{
+		"assign": "pet_info_parameter_level",
+		"jp_text": "ペットプラス値",
+		"en_text": "Pet Plus value"
+	},
+	{
+		"assign": "pet_info_parameter_hp",
+		"jp_text": "HP",
+		"en_text": ""
+	},
+	{
+		"assign": "pet_info_parameter_strike",
+		"jp_text": "打撃",
+		"en_text": "S-ATK"
+	},
+	{
+		"assign": "pet_info_parameter_FireArm",
+		"jp_text": "射撃",
+		"en_text": "R-ATK"
+	},
+	{
+		"assign": "pet_info_parameter_Technic",
+		"jp_text": "法撃",
+		"en_text": "T-ATK"
+	},
+	{
+		"assign": "pet_info_parameter_Skill",
+		"jp_text": "技量",
+		"en_text": "DEX"
+	},
+	{
+		"assign": "pet_info_parameter_Defense",
+		"jp_text": "打撃防御",
+		"en_text": "S-DEF"
+	},
+	{
+		"assign": "pet_info_parameter_Reflexes",
+		"jp_text": "射撃防御",
+		"en_text": "R-DEF"
+	},
+	{
+		"assign": "pet_info_parameter_Mental",
+		"jp_text": "法撃防御",
+		"en_text": "T-DEF"
+	},
+	{
+		"assign": "pet_selectmenu_window_title",
+		"jp_text": "選択",
+		"en_text": "Selection"
+	},
+	{
+		"assign": "pet_selectmenu_give_egg",
+		"jp_text": "エッグ合成",
+		"en_text": "Egg Synthesis"
+	},
+	{
+		"assign": "pet_selectmenu_give_chip",
+		"jp_text": "チップ合成",
+		"en_text": "Chip Synthesis"
+	},
+	{
+		"assign": "pet_exp_window_title",
+		"jp_text": "サモナー連動経験値",
+		"en_text": "Summoner Linked EXP"
+	},
+	{
+		"assign": "pet_exp_value",
+		"jp_text": "PSO2連動経験値",
+		"en_text": "PSO2 Linked EXP"
+	},
+	{
+		"assign": "pet_exp_rimit_value",
+		"jp_text": "連動経験値上限",
+		"en_text": "Linked EXP Limit"
+	},
+	{
+		"assign": "pet_chip_window_title",
+		"jp_text": "チップ",
+		"en_text": "Chip"
+	},
+	{
+		"assign": "pet_chip_give_window_title",
+		"jp_text": "チップ合成",
+		"en_text": "Chip Synthesis"
+	},
+	{
+		"assign": "pet_chip_give_window_body",
+		"jp_text": "以下のチップを合成します。\n{0}{1}よろしいですか？\n\n・{2}\n",
+		"en_text": "This will synthesize this chip.\n{0}{1} Are you sure?\n\n・{2}\n"
+	},
+	{
+		"assign": "pet_chip_give_window_rare_body",
+		"jp_text": "選択したチップは<color=#ff0000>★７以上</color>です。\n本当に合成しますか？\n\n・{0}\n\n",
+		"en_text": "The selected chip is <color=#ff0000>★７</color> or higher.\nAre you sure?\n\n・{0}\n\n"
+	},
+	{
+		"assign": "pet_egg_window_title",
+		"jp_text": "エッグ",
+		"en_text": "Egg"
+	},
+	{
+		"assign": "pet_egg_give_window_title",
+		"jp_text": "エッグ合成",
+		"en_text": "Egg Synthesis"
+	},
+	{
+		"assign": "pet_egg_give_window_body",
+		"jp_text": "以下のエッグを合成します。\n{0}{1}よろしいですか？\n\n・{2}\n",
+		"en_text": "This will synthesize this egg.\n{0}{1} Are you sure?\n\n・{2}\n"
+	},
+	{
+		"assign": "pet_egg_give_window_rare_body",
+		"jp_text": "選択したエッグは<color=#ff0000>★７以上</color>です。\n本当に合成しますか？\n\n・{0}\n\n",
+		"en_text": "The selected egg is <color=#ff0000>★７</color> or higher.\nAre you sure?\n\n・{0}\n\n"
+	},
+	{
+		"assign": "pet_egg_give_noitem_window_title",
+		"jp_text": "エッグ未選択",
+		"en_text": "Egg deselected"
+	},
+	{
+		"assign": "pet_egg_give_noitem_window_body",
+		"jp_text": "エッグを所有していないか、\nエッグが選択されていません。\n\n※エッグは『PSO2』で入手が可能です。",
+		"en_text": "You don't own an egg,\nyou can obtain an egg in PSO2.\n\n※Eggs cannot drop in PSO2es."
+	},
+	{
+		"assign": "pet_chip_give_noitem_window_title",
+		"jp_text": "チップ未選択",
+		"en_text": "Chip deselected"
+	},
+	{
+		"assign": "pet_chip_give_noitem_window_body",
+		"jp_text": "チップを所有していないか、\nチップが選択されていません。\n\n※チップは『PSO2es』で入手が可能です。",
+		"en_text": "You don't own a chip,\nyou can obtain a chip by\nplaying PSO2es."
+	},
+	{
+		"assign": "pet_notpet_window_title",
+		"jp_text": "ペット未所持",
+		"en_text": "No Pets Owned"
+	},
+	{
+		"assign": "pet_notpet_window_body",
+		"jp_text": "『PSO2』でペットを所持していないため\n利用できません。\n\n",
+		"en_text": "You don't own a pet in PSO2.\n\n"
+	},
+	{
+		"assign": "pet_acgive_window_title",
+		"jp_text": "<%AC>消費確認",
+		"en_text": "Consume <%AC>"
+	},
+	{
+		"assign": "pet_acgive_window_body",
+		"jp_text": "{0}<%AC>を消費して\n合成可能回数を全回復します。\nよろしいですか？\n\n必要<%AC>：{1}\n所持<%AC>：{2}",
+		"en_text": "By consuming {0}<%AC>\nYou can recover your synthesis uses.\nIs that ok?\n\nNeeded <%AC>: {1}\nHave: {2} <%AC>"
+	},
+	{
+		"assign": "pet_recovery_time",
+		"jp_text": "全回復まであと{0}:{1}",
+		"en_text": "Regen {0}:{1}"
+	},
+	{
+		"assign": "pet_check_recovery_window_title",
+		"jp_text": "確認",
+		"en_text": "Confirm"
+	},
+	{
+		"assign": "pet_check_recovery_window_body",
+		"jp_text": "ペットの合成可能回数が残っています。\n現在の合成可能回数をお確かめください。\n\n",
+		"en_text": "Possible Pets to Synthesize.\nPlease check current possible synthesis uses.\n\n"
+	},
+	{
+		"assign": "pet_give_levelmax_body",
+		"jp_text": "<color=yellow>{0}のレベルが上限のため\n経験値は獲得できません。</color>\n",
+		"en_text": "<color=yellow>Lv.{0} limit hit.\nCannot gain anymore EXP.</color>\n"
+	},
+	{
+		"assign": "pet_give_parametermax_body",
+		"jp_text": "<color=yellow>{0}のプラス値が上限のため\n上がらないパラメーターがあります。</color>\n",
+		"en_text": "<color=yellow>{0}のプラス値が上限のため\n上がらないパラメーターがあります。</color>\n"
+	},
+	{
+		"assign": "pet_chargeac_window_title",
+		"jp_text": "<%AC>チャージ",
+		"en_text": "Charge <%AC>"
+	},
+	{
+		"assign": "pet_chargeac_window_body",
+		"jp_text": "所持<%AC>が不足しています。\n<%AC>をチャージしますか？\n\n必要<%AC>：{0}\n所持<%AC>：{1}",
+		"en_text": "You're missing <%AC>.\nCharge <%AC> now?\n\nNeeded <%AC>: {0}\nOwned <%AC>： {1}"
+	},
+	{
+		"assign": "pet_recovery_window_title",
+		"jp_text": "購入完了",
+		"en_text": "Purchased"
+	},
+	{
+		"assign": "pet_recovery_window_body",
+		"jp_text": "{0}の合成可能回数を回復しました。\n\n",
+		"en_text": "Recovered {0} uses.\n\n"
+	},
+	{
+		"assign": "wh_33_01",
+		"jp_text": "この画面では、「PSO2」の「PSO2es倉庫」に\nアイテムを預ける、引き出すことができます。",
+		"en_text": ""
+	},
+	{
+		"assign": "wh_33_02",
+		"jp_text": "＜「PSO2」における利用について＞\n「PSO2es」に30日間ログインしないと、「PSO2es」にログインするまで\n「PSO2」で新たに倉庫にアイテムを預けることができなくなります。",
+		"en_text": ""
+	},
+	{
+		"assign": "myshop_pso2_spitem",
+		"jp_text": "『PSO2』専用アイテムです。",
+		"en_text": "PSO2 Only Item."
 	}
 ]

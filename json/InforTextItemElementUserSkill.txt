@@ -1401,7 +1401,7 @@
 	},
 	{
 		"assign": "200",
-		"jp_text": "-",
+		"jp_text": "隣闘連陣",
 		"en_text": "",
 		"jp_explain": "-",
 		"en_explain": ""
@@ -1457,9 +1457,9 @@
 	},
 	{
 		"assign": "208",
-		"jp_text": "-",
+		"jp_text": "属性値強化",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ペットの属性値が\n上昇する。",
 		"en_explain": ""
 	},
 	{
@@ -1471,37 +1471,37 @@
 	},
 	{
 		"assign": "210",
-		"jp_text": "-",
+		"jp_text": "常昂気功",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ペットの通常攻撃の\nダメージが上昇する。",
 		"en_explain": ""
 	},
 	{
 		"assign": "211",
-		"jp_text": "-",
+		"jp_text": "必撃衝打",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ペットの攻撃の\nクリティカル時の\nダメージが上昇する。",
 		"en_explain": ""
 	},
 	{
 		"assign": "212",
-		"jp_text": "-",
+		"jp_text": "古の誓い",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ペットが弱点属性で\n攻撃した時の\nダメージが上昇する。",
 		"en_explain": ""
 	},
 	{
 		"assign": "213",
-		"jp_text": "-",
+		"jp_text": "追の衝撃",
 		"en_text": "",
 		"jp_explain": "-",
 		"en_explain": ""
 	},
 	{
 		"assign": "214",
-		"jp_text": "-",
+		"jp_text": "強闘心",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ペットが強敵に与える\nダメージが上昇する。",
 		"en_explain": ""
 	},
 	{
@@ -1513,156 +1513,156 @@
 	},
 	{
 		"assign": "216",
-		"jp_text": "-",
+		"jp_text": "心血万全の剛力",
 		"en_text": "",
 		"jp_explain": "-",
 		"en_explain": ""
 	},
 	{
 		"assign": "217",
-		"jp_text": "-",
+		"jp_text": "限界駆動",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ペットＰＡ使用時に\nＰＰ消費量が増加し\n威力が上昇する。",
 		"en_explain": ""
 	},
 	{
 		"assign": "218",
-		"jp_text": "-",
+		"jp_text": "幻精天恵",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "フォトンブラストゲージに\n応じてペットの\n攻撃威力が変動する。",
 		"en_explain": ""
 	},
 	{
 		"assign": "219",
-		"jp_text": "-",
+		"jp_text": "青息の施し",
 		"en_text": "",
 		"jp_explain": "-",
 		"en_explain": ""
 	},
 	{
 		"assign": "220",
-		"jp_text": "-",
+		"jp_text": "止息の施し",
 		"en_text": "",
 		"jp_explain": "-",
 		"en_explain": ""
 	},
 	{
 		"assign": "221",
-		"jp_text": "-",
+		"jp_text": "安息の施し",
 		"en_text": "",
 		"jp_explain": "-",
 		"en_explain": ""
 	},
 	{
 		"assign": "222",
-		"jp_text": "-",
+		"jp_text": "慈愛の風",
 		"en_text": "",
 		"jp_explain": "-",
 		"en_explain": ""
 	},
 	{
 		"assign": "223",
-		"jp_text": "-",
+		"jp_text": "修羅の構え",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ペットのＨＰが\n半分以下の時に\n被ダメージが減少する。",
 		"en_explain": ""
 	},
 	{
 		"assign": "224",
-		"jp_text": "-",
+		"jp_text": "絶強印",
 		"en_text": "",
 		"jp_explain": "-",
 		"en_explain": ""
 	},
 	{
 		"assign": "225",
-		"jp_text": "-",
+		"jp_text": "絶対障壁",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "フォトンブラストゲージが\n満タンになると一定時間\nペットが無敵になる。",
 		"en_explain": ""
 	},
 	{
 		"assign": "226",
-		"jp_text": "-",
+		"jp_text": "集気光",
 		"en_text": "",
 		"jp_explain": "-",
 		"en_explain": ""
 	},
 	{
 		"assign": "227",
-		"jp_text": "-",
+		"jp_text": "調甲変換",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ペットの各防御力の一部を\n対応する攻撃力に変換する。",
 		"en_explain": ""
 	},
 	{
 		"assign": "228",
-		"jp_text": "-",
+		"jp_text": "共闘の調べ",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "シフタでのシンパシー発動時、\nペットの攻撃力、防御力\nクリティカル率が強化される。",
 		"en_explain": ""
 	},
 	{
 		"assign": "229",
-		"jp_text": "-",
+		"jp_text": "共奏の輝き",
 		"en_text": "",
 		"jp_explain": "-",
 		"en_explain": ""
 	},
 	{
 		"assign": "230",
-		"jp_text": "-",
+		"jp_text": "一心同体の功",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "アルターエゴ発動時、\n消費ＰＰが減少する。",
 		"en_explain": ""
 	},
 	{
 		"assign": "231",
-		"jp_text": "-",
+		"jp_text": "再起の旋風",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ペットが戦闘不能から\n復帰するまでの時間が\n短縮される。",
 		"en_explain": ""
 	},
 	{
 		"assign": "232",
-		"jp_text": "-",
+		"jp_text": "属性変化（炎）",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ペットの攻撃属性を\n炎属性に変更する。",
 		"en_explain": ""
 	},
 	{
 		"assign": "233",
-		"jp_text": "-",
+		"jp_text": "属性変化（氷）",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ペットの攻撃属性を\n氷属性に変更する。",
 		"en_explain": ""
 	},
 	{
 		"assign": "234",
-		"jp_text": "-",
+		"jp_text": "属性変化（雷）",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ペットの攻撃属性を\n雷属性に変更する。",
 		"en_explain": ""
 	},
 	{
 		"assign": "235",
-		"jp_text": "-",
+		"jp_text": "属性変化（風）",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ペットの攻撃属性を\n風属性に変更する。",
 		"en_explain": ""
 	},
 	{
 		"assign": "236",
-		"jp_text": "-",
+		"jp_text": "属性変化（光）",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ペットの攻撃属性を\n光属性に変更する。",
 		"en_explain": ""
 	},
 	{
 		"assign": "237",
-		"jp_text": "-",
+		"jp_text": "属性変化（闇）",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ペットの攻撃属性を\n闇属性に変更する。",
 		"en_explain": ""
 	},
 	{
@@ -1674,9 +1674,9 @@
 	},
 	{
 		"assign": "239",
-		"jp_text": "-",
+		"jp_text": "クリティカルⅠ",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "クリティカル率+8%",
 		"en_explain": ""
 	},
 	{

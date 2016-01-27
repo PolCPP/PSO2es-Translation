@@ -9,7 +9,7 @@
 	{
 		"assign": "22010000",
 		"jp_text": "バリスティックコート",
-		"en_text": "",
+		"en_text": "Ballistic Coat",
 		"jp_explain": "戦闘用の服装ながら、エレガントな\nたたずまいを残した画期的な服装。\n戦場に舞うその姿はまさに優雅。",
 		"en_explain": ""
 	},
@@ -156,7 +156,7 @@
 	{
 		"assign": "220260000",
 		"jp_text": "ウェディングドレス",
-		"en_text": "",
+		"en_text": "Wedding Dress",
 		"jp_explain": "一世一代の晴れ舞台に準備した\n厳かできらびやかな礼装。\nこれを着ることこそが女性の誉れ。",
 		"en_explain": ""
 	},
@@ -380,7 +380,7 @@
 	{
 		"assign": "220610000",
 		"jp_text": "ユカタヴィア",
-		"en_text": "",
+		"en_text": "Yukata Wear",
 		"jp_explain": "開放的で風通しの良い人気の服装。\n腰帯につけられた装飾が特徴的。",
 		"en_explain": ""
 	},
@@ -422,42 +422,42 @@
 	{
 		"assign": "220680000",
 		"jp_text": "セレニアコート",
-		"en_text": "",
+		"en_text": "Bikini Swim Wear",
 		"jp_explain": "アークス用戦闘服。フォース向けに\n作られた服装で、フォトン励起を誘う\n特殊な素材が用いられている。",
 		"en_explain": ""
 	},
 	{
 		"assign": "220700000",
 		"jp_text": "ビキニスイムウェア萌",
-		"en_text": "",
+		"en_text": "Bikini Swim Wear Bud",
 		"jp_explain": "鍛えた身体で、魅せまくり\n友達増やして次の海へ！",
 		"en_explain": ""
 	},
 	{
 		"assign": "220710000",
 		"jp_text": "ビキニスイムウェア月",
-		"en_text": "",
+		"en_text": "Bikini Swimwear Moon",
 		"jp_explain": "鍛えた身体で、魅せまくり\n友達増やして次の海へ！",
 		"en_explain": ""
 	},
 	{
 		"assign": "220720000",
 		"jp_text": "ビキニスイムウェア陽",
-		"en_text": "",
+		"en_text": "Bikini Swim Wear Sun",
 		"jp_explain": "鍛えた身体で、魅せまくり\n友達増やして次の海へ！",
 		"en_explain": ""
 	},
 	{
 		"assign": "220730000",
 		"jp_text": "ビキニスイムウェア紅",
-		"en_text": "",
+		"en_text": "Bikini Swim Wear Crimson",
 		"jp_explain": "鍛えた身体で、魅せまくり\n友達増やして次の海へ！",
 		"en_explain": ""
 	},
 	{
 		"assign": "220740000",
 		"jp_text": "ビキニスイムウェア雪",
-		"en_text": "",
+		"en_text": "Bikini Swim Wear Snow",
 		"jp_explain": "鍛えた身体で、魅せまくり\n友達増やして次の海へ！",
 		"en_explain": ""
 	},
@@ -849,28 +849,28 @@
 	{
 		"assign": "2201360000",
 		"jp_text": "タイガーピアス空",
-		"en_text": "",
+		"en_text": "Tiger Pierce Sky",
 		"jp_explain": "軽量化を追求した戦闘用の服装。\n露出が多いのは、フォトンへの\n感応性を意識的に高めたため。",
 		"en_explain": ""
 	},
 	{
 		"assign": "2201370000",
 		"jp_text": "タイガーピアス鋼",
-		"en_text": "",
+		"en_text": "Tiger Pierce Steel",
 		"jp_explain": "軽量化を追求した戦闘用の服装。\n露出が多いのは、フォトンへの\n感応性を意識的に高めたため。",
 		"en_explain": ""
 	},
 	{
 		"assign": "2201380000",
 		"jp_text": "タイガーピアス雪",
-		"en_text": "",
+		"en_text": "Tiger Pierce Snow",
 		"jp_explain": "軽量化を追求した戦闘用の服装。\n露出が多いのは、フォトンへの\n感応性を意識的に高めたため。",
 		"en_explain": ""
 	},
 	{
 		"assign": "2201390000",
 		"jp_text": "タイガーピアス紅",
-		"en_text": "",
+		"en_text": "Tiger Pierce Crimson",
 		"jp_explain": "軽量化を追求した戦闘用の服装。\n露出が多いのは、フォトンへの\n感応性を意識的に高めたため。",
 		"en_explain": ""
 	},
@@ -1080,6 +1080,13 @@
 	{
 		"assign": "2201690000",
 		"jp_text": "クラテルファドル桜",
+		"en_text": "",
+		"jp_explain": "局地戦闘を見越して、気密性を重視し\n作られたアークス用の戦闘服。\n全身を覆う防護服のような作り。",
+		"en_explain": ""
+	},
+	{
+		"assign": "2201700000",
+		"jp_text": "クラテルファドル海",
 		"en_text": "",
 		"jp_explain": "局地戦闘を見越して、気密性を重視し\n作られたアークス用の戦闘服。\n全身を覆う防護服のような作り。",
 		"en_explain": ""
@@ -3971,14 +3978,14 @@
 	{
 		"assign": "2206670000",
 		"jp_text": "オラキオドレス",
-		"en_text": "",
+		"en_text": "Orakio Dress",
 		"jp_explain": "かつての英雄の名を冠したドレス。\nドレスを構成するすべての要素は\nただひとつ、専用の武器のためにある。",
 		"en_explain": ""
 	},
 	{
 		"assign": "2206680000",
 		"jp_text": "オラキオドレス雪",
-		"en_text": "",
+		"en_text": "Orakio Dress Snow",
 		"jp_explain": "かつての英雄の名を冠したドレス。\nドレスを構成するすべての要素は\nただひとつ、専用の武器のためにある。",
 		"en_explain": ""
 	},
@@ -5357,14 +5364,14 @@
 	{
 		"assign": "2208760000",
 		"jp_text": "ビキニスイムウェア影",
-		"en_text": "",
+		"en_text": "Bikini Swim Wear Shadow",
 		"jp_explain": "鍛えた身体で、魅せまくり\n友達増やして次の海へ！",
 		"en_explain": ""
 	},
 	{
 		"assign": "2208770000",
 		"jp_text": "ビキニスイムウェア冬",
-		"en_text": "",
+		"en_text": "Bikini Swim Wear Winter",
 		"jp_explain": "鍛えた身体で、魅せまくり\n友達増やして次の海へ！",
 		"en_explain": ""
 	},
@@ -7247,6 +7254,13 @@
 	{
 		"assign": "22012450000",
 		"jp_text": "シールマリーナ影",
+		"en_text": "",
+		"jp_explain": "特殊な繊維を用いて制作された戦闘服。\n水域での活動を想定しており、保温性と\n運動性が両立された作りになっている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "22012460000",
+		"jp_text": "シールマリーナ紅",
 		"en_text": "",
 		"jp_explain": "特殊な繊維を用いて制作された戦闘服。\n水域での活動を想定しており、保温性と\n運動性が両立された作りになっている。",
 		"en_explain": ""
@@ -9991,49 +10005,49 @@
 	{
 		"assign": "22016610000",
 		"jp_text": "スチューデントＳ・ＵＥ７７Ｆ",
-		"en_text": "",
+		"en_text": "Student S UE77F",
 		"jp_explain": "ノーデンス・エンタープライゼス所属の\nＳ級能力者に支給される装備品。\n時を越えて竜を狩る、和の剣士のもの。",
 		"en_explain": ""
 	},
 	{
 		"assign": "22016620000",
 		"jp_text": "スチューデントＳ・ＵＥ７７Ｆ海",
-		"en_text": "",
+		"en_text": "Student S UE77F Blue Sea",
 		"jp_explain": "ノーデンス・エンタープライゼス所属の\nＳ級能力者に支給される装備品。\n時を越えて竜を狩る、和の剣士のもの。",
 		"en_explain": ""
 	},
 	{
 		"assign": "22016630000",
 		"jp_text": "スチューデントＳ・ＵＥ７７Ｆ夜",
-		"en_text": "",
+		"en_text": "Student S UE77F Night Blue",
 		"jp_explain": "ノーデンス・エンタープライゼス所属の\nＳ級能力者に支給される装備品。\n時を越えて竜を狩る、和の剣士のもの。",
 		"en_explain": ""
 	},
 	{
 		"assign": "22016640000",
 		"jp_text": "スチューデントＳ・ＵＥ７７Ｆ紅",
-		"en_text": "",
+		"en_text": "Student S UE77F Crimson Red",
 		"jp_explain": "ノーデンス・エンタープライゼス所属の\nＳ級能力者に支給される装備品。\n時を越えて竜を狩る、和の剣士のもの。",
 		"en_explain": ""
 	},
 	{
 		"assign": "22016650000",
 		"jp_text": "スチューデントＳ・ＵＥ７７Ｆ影",
-		"en_text": "",
+		"en_text": "Student S UE77F Black Shadow",
 		"jp_explain": "ノーデンス・エンタープライゼス所属の\nＳ級能力者に支給される装備品。\n時を越えて竜を狩る、和の剣士のもの。",
 		"en_explain": ""
 	},
 	{
 		"assign": "22016660000",
 		"jp_text": "スチューデントＳ・ＵＥ７７Ｆ桜",
-		"en_text": "",
+		"en_text": "Student S UE77F Sakura Pink",
 		"jp_explain": "ノーデンス・エンタープライゼス所属の\nＳ級能力者に支給される装備品。\n時を越えて竜を狩る、和の剣士のもの。",
 		"en_explain": ""
 	},
 	{
 		"assign": "22016670000",
 		"jp_text": "ミスティックＳ・レプカ",
-		"en_text": "",
+		"en_text": "Mystic S Repca",
 		"jp_explain": "ノーデンス・エンタープライゼス所属の\nＳ級能力者に支給される装備品。\n時を越えて竜を狩る、占星術師のもの。",
 		"en_explain": ""
 	},
@@ -10579,84 +10593,84 @@
 	{
 		"assign": "22017510000",
 		"jp_text": "グランヴィナドレス",
-		"en_text": "",
+		"en_text": "Granvina Dress",
 		"jp_explain": "かつて、美の女神と称されていた\nアウロラのために誂えられた正装。\nその美と権力を誇示する絢爛さを誇る。",
 		"en_explain": ""
 	},
 	{
 		"assign": "22017520000",
 		"jp_text": "グランヴィナドレス影",
-		"en_text": "",
+		"en_text": "Granvina Dress Black Shadow",
 		"jp_explain": "かつて、美の女神と称されていた\nアウロラのために誂えられた正装。\nその美と権力を誇示する絢爛さを誇る。",
 		"en_explain": ""
 	},
 	{
 		"assign": "22017530000",
 		"jp_text": "グランヴィナドレス紅",
-		"en_text": "",
+		"en_text": "Granvina Dress Crimson Red",
 		"jp_explain": "かつて、美の女神と称されていた\nアウロラのために誂えられた正装。\nその美と権力を誇示する絢爛さを誇る。",
 		"en_explain": ""
 	},
 	{
 		"assign": "22017540000",
 		"jp_text": "グランヴィナドレス夜",
-		"en_text": "",
+		"en_text": "Granvina Dress Night Blue",
 		"jp_explain": "かつて、美の女神と称されていた\nアウロラのために誂えられた正装。\nその美と権力を誇示する絢爛さを誇る。",
 		"en_explain": ""
 	},
 	{
 		"assign": "22017550000",
 		"jp_text": "グランヴィナドレス雅",
-		"en_text": "",
+		"en_text": "Granvina Dress Elegant Purple",
 		"jp_explain": "かつて、美の女神と称されていた\nアウロラのために誂えられた正装。\nその美と権力を誇示する絢爛さを誇る。",
 		"en_explain": ""
 	},
 	{
 		"assign": "22017560000",
 		"jp_text": "グランヴィナドレス空",
-		"en_text": "",
+		"en_text": "Granvina Dress Sky Blue",
 		"jp_explain": "かつて、美の女神と称されていた\nアウロラのために誂えられた正装。\nその美と権力を誇示する絢爛さを誇る。",
 		"en_explain": ""
 	},
 	{
 		"assign": "22017570000",
 		"jp_text": "天原日姫衣",
-		"en_text": "",
+		"en_text": "Amabaranohime Garb",
 		"jp_explain": "特別な儀式の際にのみ着用を許される\n極めて神聖な衣装。太陽を模した装飾は\n闇すらも照らす明るさを意味している。",
 		"en_explain": ""
 	},
 	{
 		"assign": "22017580000",
 		"jp_text": "天原日姫衣　影",
-		"en_text": "",
+		"en_text": "Amabaranohime Garb Black Shadow",
 		"jp_explain": "特別な儀式の際にのみ着用を許される\n極めて神聖な衣装。太陽を模した装飾は\n闇すらも照らす明るさを意味している。",
 		"en_explain": ""
 	},
 	{
 		"assign": "22017590000",
 		"jp_text": "天原日姫衣　紅",
-		"en_text": "",
+		"en_text": "Amabaranohime Garb Crimson Red",
 		"jp_explain": "特別な儀式の際にのみ着用を許される\n極めて神聖な衣装。太陽を模した装飾は\n闇すらも照らす明るさを意味している。",
 		"en_explain": ""
 	},
 	{
 		"assign": "22017600000",
 		"jp_text": "天原日姫衣　陽",
-		"en_text": "",
+		"en_text": "Amabaranohime Garb Orange Sun",
 		"jp_explain": "特別な儀式の際にのみ着用を許される\n極めて神聖な衣装。太陽を模した装飾は\n闇すらも照らす明るさを意味している。",
 		"en_explain": ""
 	},
 	{
 		"assign": "22017610000",
 		"jp_text": "天原日姫衣　桜",
-		"en_text": "",
+		"en_text": "Amabaranohime Garb Sakura Pink",
 		"jp_explain": "特別な儀式の際にのみ着用を許される\n極めて神聖な衣装。太陽を模した装飾は\n闇すらも照らす明るさを意味している。",
 		"en_explain": ""
 	},
 	{
 		"assign": "22017620000",
 		"jp_text": "天原日姫衣　夜",
-		"en_text": "",
+		"en_text": "Amabaranohime Garb Night Blue",
 		"jp_explain": "特別な儀式の際にのみ着用を許される\n極めて神聖な衣装。太陽を模した装飾は\n闇すらも照らす明るさを意味している。",
 		"en_explain": ""
 	},
@@ -10957,7 +10971,7 @@
 	{
 		"assign": "22018050000",
 		"jp_text": "クリムピアシオ",
-		"en_text": "",
+		"en_text": "Crimpiacio",
 		"jp_explain": "アフィンがユクリータのために用意した\n戦闘服。厳しい環境での長期滞在を\n考え、劣化の少ない素材を用いている。",
 		"en_explain": ""
 	},
@@ -10987,6 +11001,76 @@
 		"jp_text": "感謝祭２０１６ＴシャツＦ",
 		"en_text": "",
 		"jp_explain": "ファンタシースター感謝祭２０１６記念\nのＴシャツ。みんなで着たそのときこそ\n一致団結！せまる巨悪へ立ち向かおう！ ",
+		"en_explain": ""
+	},
+	{
+		"assign": "22018140000",
+		"jp_text": "ウィオラマギカ夜Ｇ",
+		"en_text": "",
+		"jp_explain": "アークス用戦闘服。昨今の流れを覆し\n可愛さを前面に押し出した人気の服装。\nアクセサリー込みでの着用者が多い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "22018150000",
+		"jp_text": "フィーリングローブ夜Ｇ",
+		"en_text": "",
+		"jp_explain": "アークス用戦闘服。フォース向けの服で\nフォトンの発現や励起を促進しつつ\n女性らしさを残した美しいデザイン。",
+		"en_explain": ""
+	},
+	{
+		"assign": "22018160000",
+		"jp_text": "エーデルゼリン夜Ｇ",
+		"en_text": "",
+		"jp_explain": "戦闘用に作られたアークスの服装。\n一見、儀礼用にも見える整った形状と\n損傷しにくい素材が特徴の服。",
+		"en_explain": ""
+	},
+	{
+		"assign": "22018170000",
+		"jp_text": "ハートＷコーデ雪",
+		"en_text": "",
+		"jp_explain": "暖かさと着心地の良さをコンセプトに\nコーディネートした衣装。全身を包む\n優しい感触に心も温かくなる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "22018180000",
+		"jp_text": "ハートＷコーデ紅",
+		"en_text": "",
+		"jp_explain": "暖かさと着心地の良さをコンセプトに\nコーディネートした衣装。全身を包む\n優しい感触に心も温かくなる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "22018190000",
+		"jp_text": "ハートＷコーデ月",
+		"en_text": "",
+		"jp_explain": "暖かさと着心地の良さをコンセプトに\nコーディネートした衣装。全身を包む\n優しい感触に心も温かくなる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "22018200000",
+		"jp_text": "デルマーチ・ルックス",
+		"en_text": "",
+		"jp_explain": "キャストの姿を模倣する女性向け服装。\nマーチングバンド衣装をベースに設計。\n可愛らしさと機能性を兼ね備えている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "22018210000",
+		"jp_text": "ヒルベルト・ルックス",
+		"en_text": "",
+		"jp_explain": "キャストの姿を模倣する女性向け服装。\n防護用のシールド部分を巨大に作り\n装者の守護になによりも注力した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "22018220000",
+		"jp_text": "クラテルファドルＣ",
+		"en_text": "",
+		"jp_explain": "局地戦闘を見越して、気密性を重視し\n作られたアークス用の戦闘服。\n全身を覆う防護服のような作り。",
+		"en_explain": ""
+	},
+	{
+		"assign": "22018230000",
+		"jp_text": "ＳＯＲＯ・レプカＦ",
+		"en_text": "",
+		"jp_explain": "知る人ぞ知る、伝説のぼっちプレイヤー\n孤高の戦士・ＳＯＲＯの姿を模して\n作られたコスチューム。",
 		"en_explain": ""
 	}
 ]
