@@ -18,6 +18,7 @@
 * AIDA - Initial translations
 * Logokas - A lot of UI translation work
 * Synthsy - Translation work
+* Bumped.org - Item Names and Wonderful other translations
 
 ## License
 
