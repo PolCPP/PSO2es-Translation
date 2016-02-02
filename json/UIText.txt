@@ -152,7 +152,7 @@
 	{
 		"assign": "acshop_dialog_b_00",
 		"jp_text": "ラッピーメダルか<%AC>を消費して\nチップパックを拡張しますか？\n\nパックサイズ（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※チップパックは<%max_pack_size>まで拡張できます。\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"en_text": "This will extend\nyour Chip Storage.\n\nChip Storage（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※Can extend to a Maximum of 250.\n\nRappy Coins needed：<%consume_rappy_coin>枚\nRappy Coins owned：<%current_rappy_coin>枚\n\nAC needed：<%consume_AC>\nAC owned：<%current_AC>"
+		"en_text": "This will extend\nyour Chip Storage.\n\nChip Storage（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※Can extend to a Maximum of 500.\n\nRappy Coins needed：<%consume_rappy_coin>枚\nRappy Coins owned：<%current_rappy_coin>枚\n\nAC needed：<%consume_AC>\nAC owned：<%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_01",
@@ -162,7 +162,7 @@
 	{
 		"assign": "acshop_dialog_b_01",
 		"jp_text": "-",
-		"en_text": "Are you sure you\nwant to use AC？\n\nパックサイズ（現在のサイズ）→（拡張後のサイズ）\n※Can extend to a Maximum of 250.\n\nAC cost：xxＡＣ\nAC owned：xxＡＣ"
+		"en_text": "Are you sure you\nwant to use AC？\n\nパックサイズ（現在のサイズ）→（拡張後のサイズ）\n※Can extend to a Maximum of 500.\n\nAC cost：xxＡＣ\nAC owned：xxＡＣ"
 	},
 	{
 		"assign": "acshop_dialog_t_02",
@@ -2357,7 +2357,7 @@
 	{
 		"assign": "menu_guide_00",
 		"jp_text": "<color=#f0df60>利用する項目を選択してください。</color>",
-		"en_text": "<color=#f0df60>Please select an item.</color> <color=#32CD32>[PSO2es EN Patch]</color>"
+		"en_text": "<color=#f0df60>Please select an item.</color> <color=#32CD32>[PSO2es EN Patch][Credits to Bumped.org for some other TL's]</color>"
 	},
 	{
 		"assign": "menu_dialog_t_00",
@@ -14607,17 +14607,17 @@
 	{
 		"assign": "fld_productionset_btn",
 		"jp_text": "演出設定",
-		"en_text": ""
+		"en_text": "Settings"
 	},
 	{
 		"assign": "fld_productionset_windowtitle",
 		"jp_text": "演出設定",
-		"en_text": ""
+		"en_text": "Settings"
 	},
 	{
 		"assign": "fld_productionset_obi",
 		"jp_text": "ウェポノイドチップ発動演出",
-		"en_text": ""
+		"en_text": "Weaponoid Animation"
 	},
 	{
 		"assign": "fld_productionset_btn_ON",
@@ -14637,22 +14637,22 @@
 	{
 		"assign": "btl_menu_title",
 		"jp_text": "メニュー",
-		"en_text": ""
+		"en_text": "Menu"
 	},
 	{
 		"assign": "btl_menu_btn_soundset",
 		"jp_text": "サウンド設定",
-		"en_text": ""
+		"en_text": "Sound Settings"
 	},
 	{
 		"assign": "btl_menu_btn_productionset",
 		"jp_text": "演出設定",
-		"en_text": ""
+		"en_text": "Settings"
 	},
 	{
 		"assign": "btl_menu_btn_questretire",
 		"jp_text": "クエストリタイア",
-		"en_text": ""
+		"en_text": "Retire"
 	},
 	{
 		"assign": "btl_menu_btn_close",
@@ -14662,12 +14662,12 @@
 	{
 		"assign": "btl_wep_title",
 		"jp_text": "演出設定",
-		"en_text": ""
+		"en_text": "Settings"
 	},
 	{
 		"assign": "btl_wep_obi",
 		"jp_text": "ウェポノイドチップ発動演出",
-		"en_text": ""
+		"en_text": "Weaponoid Animation"
 	},
 	{
 		"assign": "btl_wep_btn_ON",
