@@ -2982,7 +2982,7 @@
 	{
 		"assign": "receive_dialog_b_00",
 		"jp_text": "『PSO2』で{0}を\n受け取れる条件を満たしていません。",
-		"en_text": "『PSO2』 {0} \nYou don't meet the required conditions."
+		"en_text": "『PSO2』 {0}\nYou don't meet the required conditions."
 	},
 	{
 		"assign": "receive_dialog_t_01",
@@ -3637,7 +3637,7 @@
 	{
 		"assign": "myshop_subcategory_not_specified",
 		"jp_text": "指定なし(全てのウェア)",
-		"en_text": ""
+		"en_text": "None (All Wear)"
 	},
 	{
 		"assign": "myshop_category_weapon",
@@ -3657,7 +3657,7 @@
 	{
 		"assign": "myshop_category_layered",
 		"jp_text": "レイヤリングウェア",
-		"en_text": ""
+		"en_text": "Layered Wear"
 	},
 	{
 		"assign": "myshop_category_camouflage",
@@ -3687,12 +3687,12 @@
 	{
 		"assign": "myshop_category_pet_egg",
 		"jp_text": "エッグ",
-		"en_text": ""
+		"en_text": "Pet Eggs"
 	},
 	{
 		"assign": "myshop_category_pet_candy",
 		"jp_text": "キャンディー",
-		"en_text": ""
+		"en_text": "Pet Candy"
 	},
 	{
 		"assign": "myshop_category_other",
@@ -3792,7 +3792,7 @@
 	{
 		"assign": "myshop_sub_weapon_tact",
 		"jp_text": "タクト系",
-		"en_text": ""
+		"en_text": "Tact"
 	},
 	{
 		"assign": "myshop_sub_weapon_multiple",
@@ -3882,92 +3882,92 @@
 	{
 		"assign": "myshop_sex_outer_none",
 		"jp_text": "性別指定なし",
-		"en_text": ""
+		"en_text": "None"
 	},
 	{
 		"assign": "myshop_sex_outer_male",
 		"jp_text": "男性用アウターウェア",
-		"en_text": ""
+		"en_text": "Male Outerwear"
 	},
 	{
 		"assign": "myshop_sex_outer_female",
 		"jp_text": "女性用アウターウェア",
-		"en_text": ""
+		"en_text": "Female Outerwear"
 	},
 	{
 		"assign": "myshop_sex_base_none",
 		"jp_text": "性別指定なし",
-		"en_text": ""
+		"en_text": "None"
 	},
 	{
 		"assign": "myshop_sex_base_male",
 		"jp_text": "男性用ベースウェア",
-		"en_text": ""
+		"en_text": "Male Basewear"
 	},
 	{
 		"assign": "myshop_sex_base_female",
 		"jp_text": "女性用ベースウェア",
-		"en_text": ""
+		"en_text": "Female Basewear"
 	},
 	{
 		"assign": "myshop_sex_inner_none",
 		"jp_text": "性別指定なし",
-		"en_text": ""
+		"en_text": "None"
 	},
 	{
 		"assign": "myshop_sex_inner_male",
 		"jp_text": "男性用インナーウェア",
-		"en_text": ""
+		"en_text": "Male Innerwear"
 	},
 	{
 		"assign": "myshop_sex_inner_female",
 		"jp_text": "女性用インナーウェア",
-		"en_text": ""
+		"en_text": "Female Innerwear"
 	},
 	{
 		"assign": "myshop_sub_item_parfait",
 		"jp_text": "パフェ",
-		"en_text": ""
+		"en_text": "Parfaits"
 	},
 	{
 		"assign": "myshop_sub_item_roll",
 		"jp_text": "ロール",
-		"en_text": ""
+		"en_text": "Rolls"
 	},
 	{
 		"assign": "myshop_sub_item_cookie",
 		"jp_text": "クッキー",
-		"en_text": ""
+		"en_text": "Cookies"
 	},
 	{
 		"assign": "myshop_sub_item_pancake",
 		"jp_text": "パンケーキ",
-		"en_text": ""
+		"en_text": "Pancakes"
 	},
 	{
 		"assign": "myshop_sub_item_ramune",
 		"jp_text": "ラムネ",
-		"en_text": ""
+		"en_text": "Ramune"
 	},
 	{
 		"assign": "myshop_sub_item_crepe",
 		"jp_text": "クレープ",
-		"en_text": ""
+		"en_text": "Crepes"
 	},
 	{
 		"assign": "myshop_sub_item_stick",
 		"jp_text": "アメ",
-		"en_text": ""
+		"en_text": "Stick Candy"
 	},
 	{
 		"assign": "myshop_sub_item_sand",
 		"jp_text": "サンド",
-		"en_text": ""
+		"en_text": "Sandwich"
 	},
 	{
 		"assign": "myshop_sub_item_gumi",
 		"jp_text": "グミ",
-		"en_text": ""
+		"en_text": "Gummy"
 	},
 	{
 		"assign": "myshop_sub_item_not_specified",
@@ -4047,17 +4047,17 @@
 	{
 		"assign": "myshop_sub_item_outer_wear_detail",
 		"jp_text": "アウターウェア",
-		"en_text": ""
+		"en_text": "Outerwear"
 	},
 	{
 		"assign": "myshop_sub_item_base_wear_detail",
 		"jp_text": "ベースウェア",
-		"en_text": ""
+		"en_text": "Basewear"
 	},
 	{
 		"assign": "myshop_sub_item_inner_wear_detail",
 		"jp_text": "インナーウェア",
-		"en_text": ""
+		"en_text": "Innerwear"
 	},
 	{
 		"assign": "myshop_sub_disc_not_specified",
@@ -14607,12 +14607,12 @@
 	{
 		"assign": "fld_productionset_btn",
 		"jp_text": "演出設定",
-		"en_text": "Settings"
+		"en_text": "Weaponoid Animation"
 	},
 	{
 		"assign": "fld_productionset_windowtitle",
 		"jp_text": "演出設定",
-		"en_text": "Settings"
+		"en_text": "Weaponoid Animation"
 	},
 	{
 		"assign": "fld_productionset_obi",
@@ -14647,7 +14647,7 @@
 	{
 		"assign": "btl_menu_btn_productionset",
 		"jp_text": "演出設定",
-		"en_text": "Settings"
+		"en_text": "Weaponoid Animation"
 	},
 	{
 		"assign": "btl_menu_btn_questretire",
@@ -14662,7 +14662,7 @@
 	{
 		"assign": "btl_wep_title",
 		"jp_text": "演出設定",
-		"en_text": "Settings"
+		"en_text": "Weaponoid Animation"
 	},
 	{
 		"assign": "btl_wep_obi",
