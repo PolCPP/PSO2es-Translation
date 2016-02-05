@@ -292,7 +292,7 @@
 	{
 		"assign": "acshop_dialog_b_14",
 		"jp_text": "<%item_name>を購入しました。\n\n<%item_name>は\n<%AC>ショップメニュー＞プレミアムセット使用\nから使用することができます。",
-		"en_text": "Purchased <%item_name>.\n\n\nYou can use it from\nAC Shop>Premium Set menu."
+		"en_text": "Purchased <%item_name>.\n\n\nYou can use it from\n<%AC> Shop Premium Set menu."
 	},
 	{
 		"assign": "acshop_dialog_t_15",
@@ -332,7 +332,7 @@
 	{
 		"assign": "acshop_dialog_b_18",
 		"jp_text": "{0}を購入しました。",
-		"en_text": "Purchased {0}AC."
+		"en_text": "Purchased {0}."
 	},
 	{
 		"assign": "acshop_dialog_t_19",
