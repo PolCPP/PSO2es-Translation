@@ -3352,7 +3352,7 @@
 	{
 		"assign": "myshop_dialog_b_07",
 		"jp_text": "存在しないアイテム、\nもしくは特殊能力名を指定しています。\n\n<color=#ff0000>※アイテム名、特殊能力名は\n完全一致のみ検索にヒットします。</color>",
-		"en_text": "Item or ability must be an exact match in name."
+		"en_text": "Item or ability\nmust be an exact\nmatch in name."
 	},
 	{
 		"assign": "myshop_dialog_t_08",
@@ -3427,7 +3427,7 @@
 	{
 		"assign": "myshop_dialog_t_13",
 		"jp_text": "出品キャンセルの確認",
-		"en_text": "Canel Sale"
+		"en_text": "Cancel Sale"
 	},
 	{
 		"assign": "myshop_dialog_b_13",
@@ -4757,7 +4757,7 @@
 	{
 		"assign": "myshop_sales_collect_false",
 		"jp_text": "<color=#f0df60>未回収</color>",
-		"en_text": "<color=#f0df60>Uncollected</color>"
+		"en_text": "<color=#f0df60>Unpaid</color>"
 	},
 	{
 		"assign": "myshop_sales_label",
@@ -4767,7 +4767,7 @@
 	{
 		"assign": "myshop_sales_item_num",
 		"jp_text": "{0}個",
-		"en_text": "x{0}"
+		"en_text": "x {0}"
 	},
 	{
 		"assign": "myshop_sales_date",
@@ -5607,7 +5607,7 @@
 	{
 		"assign": "scratch_guide_01",
 		"jp_text": "<color=#f0df60>スクラッチ回数ボーナスのプレゼント一覧です。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Current Scratch Bonus.</color>"
 	},
 	{
 		"assign": "scratch_dialog_t_00",
@@ -5757,7 +5757,7 @@
 	{
 		"assign": "scratch_message_03",
 		"jp_text": "ラッピーメダル{0}枚を獲得しました！",
-		"en_text": "Rappy Coins:{0}!"
+		"en_text": "Rappy Coins: {0}!"
 	},
 	{
 		"assign": "scratch_message_04",
@@ -5792,62 +5792,62 @@
 	{
 		"assign": "scratch_bonus_menu_multi_bonus",
 		"jp_text": "{0}\nなど{1}点セット！",
-		"en_text": ""
+		"en_text": "{0}\n{1} etc！"
 	},
 	{
 		"assign": "scratch_bonus_menu_complete",
 		"jp_text": "この回数ボーナスは獲得済みです。",
-		"en_text": ""
+		"en_text": "Scratch Complete."
 	},
 	{
 		"assign": "scratch_bonus_menu_ac",
 		"jp_text": "ACスクラッチ発売中！",
-		"en_text": ""
+		"en_text": "AC Scratch on Sale!"
 	},
 	{
 		"assign": "scratch_bonus_menu_ac_gold",
 		"jp_text": "ACスクラッチG発売中！",
-		"en_text": ""
+		"en_text": "AC Gold Scratch on Sale!"
 	},
 	{
 		"assign": "scratch_bonus_list_title",
 		"jp_text": "スクラッチ回数ボーナス確認",
-		"en_text": ""
+		"en_text": "Scratch a number of times to win a Bonus"
 	},
 	{
 		"assign": "scratch_bonus_list_total",
 		"jp_text": "スクラッチを引いた回数  <color=#68a0a7>/</color>",
-		"en_text": ""
+		"en_text": "# scratch needed<color=#68a0a7>/</color>"
 	},
 	{
 		"assign": "scratch_bonus_list_total_num",
 		"jp_text": "<color=#ffff00>{0}回</color>",
-		"en_text": ""
+		"en_text": "<color=#ffff00>{0}</color>"
 	},
 	{
 		"assign": "scratch_bonus_list_header_status",
 		"jp_text": "ボーナスまでの回数",
-		"en_text": ""
+		"en_text": "Number of times til Bonus"
 	},
 	{
 		"assign": "scratch_bonus_list_header_name",
 		"jp_text": "ボーナスの内容",
-		"en_text": ""
+		"en_text": "Bonus Contents"
 	},
 	{
 		"assign": "scratch_bonus_list_header_num",
 		"jp_text": "個数",
-		"en_text": ""
+		"en_text": "Quantity"
 	},
 	{
 		"assign": "scratch_bonus_list_status",
 		"jp_text": "あと{0}回",
-		"en_text": ""
+		"en_text": "After {0} times"
 	},
 	{
 		"assign": "scratch_bonus_list_status_complete",
 		"jp_text": "達成！",
-		"en_text": ""
+		"en_text": "Accomplished!"
 	},
 	{
 		"assign": "quest_load",
@@ -6067,7 +6067,7 @@
 	{
 		"assign": "field_item",
 		"jp_text": "アイテム",
-		"en_text": "Item"
+		"en_text": "Item  "
 	},
 	{
 		"assign": "field_score",
@@ -6257,7 +6257,7 @@
 	{
 		"assign": "questresult_result_unit_point",
 		"jp_text": "<%point>pt",
-		"en_text": "<%point> Points"
+		"en_text": "<%point>pt(s)"
 	},
 	{
 		"assign": "questresult_result_limit_s_a",
@@ -6722,7 +6722,7 @@
 	{
 		"assign": "push_06",
 		"jp_text": "【PSO2】マイショップアイテム売却通知",
-		"en_text": "【PSO2】MyShop Sales Notification"
+		"en_text": "【PSO2】My Shop Sales Notification"
 	},
 	{
 		"assign": "push_botton_on",
@@ -6752,7 +6752,7 @@
 	{
 		"assign": "title_chara_transfer_finish_t",
 		"jp_text": "端末引き継ぎ完了",
-		"en_text": ""
+		"en_text": "Transfer Completed"
 	},
 	{
 		"assign": "title_chara_transfer_finish_b",
@@ -6812,7 +6812,7 @@
 	{
 		"assign": "title_connect_t",
 		"jp_text": "確認",
-		"en_text": "Confirmation"
+		"en_text": "Confirm"
 	},
 	{
 		"assign": "title_connect_b",
@@ -7477,7 +7477,7 @@
 	{
 		"assign": "chip_type_name_weaponoid",
 		"jp_text": "ウェポノイド",
-		"en_text": ""
+		"en_text": "Weaponoid"
 	},
 	{
 		"assign": "chip_rate_very_low",
@@ -7752,7 +7752,7 @@
 	{
 		"assign": "outer_palette_title",
 		"jp_text": "アウターウェア",
-		"en_text": ""
+		"en_text": "Outerwear"
 	},
 	{
 		"assign": "unit_palette_title",
@@ -7872,12 +7872,12 @@
 	{
 		"assign": "questkey_timelimit",
 		"jp_text": "有効期限 / yyyy年MM月dd日HH時mm分",
-		"en_text": ""
+		"en_text": "Expires/ yyyy/MM/dd  HH:mm"
 	},
 	{
 		"assign": "questkey_timelimit_over",
 		"jp_text": "有効期限 / <color=\"red\">yyyy年MM月dd日HH時mm分</color>",
-		"en_text": ""
+		"en_text": "Expires/ <color=\"red\">yyyy/MM/dd  HH:mm</color>"
 	},
 	{
 		"assign": "recycle_shop_header",
@@ -8527,7 +8527,7 @@
 	{
 		"assign": "tact",
 		"jp_text": "タクト",
-		"en_text": ""
+		"en_text": "Tact"
 	},
 	{
 		"assign": "wa_sword",
@@ -8617,7 +8617,7 @@
 	{
 		"assign": "wa_tact",
 		"jp_text": "奏具",
-		"en_text": ""
+		"en_text": "Tact"
 	},
 	{
 		"assign": "loginbonus_fun",
@@ -9112,7 +9112,7 @@
 	{
 		"assign": "chip_item_over_message",
 		"jp_text": "アイテムパックとチップパックの所持枠を\nオーバーしています。\n\nアイテムとチップを整理してください。",
-		"en_text": ""
+		"en_text": "You have too many chips&items,\nand are over the limit.\nPlease sell some chips&items."
 	},
 	{
 		"assign": "chip_pack_expand",
@@ -9762,12 +9762,12 @@
 	{
 		"assign": "dialog_title_ac_shortage",
 		"jp_text": "<%AC>チャージ",
-		"en_text": "Charge AC"
+		"en_text": "Charge <%AC>"
 	},
 	{
 		"assign": "dialog_body_ac_shortage",
 		"jp_text": "所持<%AC>が不足しています。\n<%AC>をチャージしますか？\n\n必要<%AC>：{0}\n所持<%AC>：{1}",
-		"en_text": "You do not have enough AC.\nWould you like to purchase more?\n\nRequired <%AC>：{0}\nCurrent <%AC>：{1}"
+		"en_text": "You do not have enough <%AC>.\nWould you like to purchase more?\n\nRequired <%AC>：{0}\nCurrent <%AC>：{1}"
 	},
 	{
 		"assign": "b_enemy",
@@ -9992,7 +9992,7 @@
 	{
 		"assign": "tu_0000_s00_b",
 		"jp_text": "＜フィールドの移動＞\n画面右側のマスの中から、どれか１つをタッチして進みます。",
-		"en_text": ""
+		"en_text": "＜Movement＞\nFrom the sides of the screen, touch any arrow."
 	},
 	{
 		"assign": "tu_0000_s01_b",

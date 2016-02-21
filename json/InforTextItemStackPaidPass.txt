@@ -632,7 +632,7 @@
 	{
 		"assign": "32101390000",
 		"jp_text": "クラス追加（サモナー）",
-		"en_text": "",
+		"en_text": "Add Class(Summoner)",
 		"jp_explain": "武装エクステンド実行時に\nサモナーのクラス追加が\n必ず発生するようになる。",
 		"en_explain": ""
 	},
@@ -709,35 +709,35 @@
 	{
 		"assign": "32101500000",
 		"jp_text": "キャンディーイレイサー",
-		"en_text": "",
+		"en_text": "Candy Eraser",
 		"jp_explain": "指定したペットのキャンディーボックスに\nセットしたキャンディーを１つ削除する。\n削除したキャンディーは失われる。",
 		"en_explain": ""
 	},
 	{
 		"assign": "32101510000",
 		"jp_text": "全キャンディーイレイサー",
-		"en_text": "",
+		"en_text": "All Candy Eraser",
 		"jp_explain": "指定したペットのキャンディーボックスに\nセットしたキャンディーを全て削除する。\n削除したキャンディーは失われる。",
 		"en_explain": ""
 	},
 	{
 		"assign": "32101520000",
 		"jp_text": "キャンディーリムーバー",
-		"en_text": "",
+		"en_text": "Candy Remover",
 		"jp_explain": "指定したペットのキャンディーボックスに\nセットしたキャンディーを１つ\nアイテムパックに戻す。",
 		"en_explain": ""
 	},
 	{
 		"assign": "32101530000",
 		"jp_text": "全キャンディーリムーバー",
-		"en_text": "",
+		"en_text": "All Candy Remover",
 		"jp_explain": "指定したペットのキャンディーボックスに\nセットしたキャンディーを全て\nアイテムパックに戻す。",
 		"en_explain": ""
 	},
 	{
 		"assign": "32101540000",
 		"jp_text": "キャラメルクラッシャー",
-		"en_text": "",
+		"en_text": "Caramel Crusher",
 		"jp_explain": "指定したペットのキャンディーボックスに\nセットされたキャラメルブロックを\n１つ削除する。",
 		"en_explain": ""
 	}
