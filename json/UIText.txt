@@ -1692,22 +1692,22 @@
 	{
 		"assign": "equip_dialog_t_11",
 		"jp_text": "武器チップ装備",
-		"en_text": ""
+		"en_text": "Weapon Chip Equipment"
 	},
 	{
 		"assign": "equip_dialog_b_11",
 		"jp_text": "『PSO2es』ではこのアイテムを装備できません。",
-		"en_text": ""
+		"en_text": "Cannot equip this in PSO2es."
 	},
 	{
 		"assign": "equip_dialog_t_12",
 		"jp_text": "アイテム装備",
-		"en_text": ""
+		"en_text": "Equipped"
 	},
 	{
 		"assign": "equip_dialog_b_12",
 		"jp_text": "このアイテムを装備するには\n『PSO2』にこのキャラクターで\nログインする必要があります。",
-		"en_text": ""
+		"en_text": "To equip this item,\nYou must log into PSO2\nwith this character."
 	},
 	{
 		"assign": "friend_guide_00",
@@ -2717,12 +2717,12 @@
 	{
 		"assign": "menu_dialog_t_24",
 		"jp_text": "キャラクター表示切り替え",
-		"en_text": ""
+		"en_text": "Character Display Switch"
 	},
 	{
 		"assign": "menu_dialog_b_24",
 		"jp_text": "データの通信に失敗したため\nプレイヤーを表示しました。",
-		"en_text": ""
+		"en_text": "Due to communication error,\ncannot display character."
 	},
 	{
 		"assign": "mag_guide_00",
@@ -4862,12 +4862,12 @@
 	{
 		"assign": "quest_counter_bonus_exp",
 		"jp_text": "EXP×",
-		"en_text": "EXP×  "
+		"en_text": "EXP×"
 	},
 	{
 		"assign": "quest_counter_bonus_meseta",
 		"jp_text": "メセタ×",
-		"en_text": "Meseta×  "
+		"en_text": "Meseta×"
 	},
 	{
 		"assign": "quest_counter_bonus_chip_drop",
@@ -5027,7 +5027,7 @@
 	{
 		"assign": "quest_counter_label_time",
 		"jp_text": "あと",
-		"en_text": "Regen  "
+		"en_text": "Regen"
 	},
 	{
 		"assign": "quest_counter_window_questselect",
@@ -5102,7 +5102,7 @@
 	{
 		"assign": "quest_counter_class_error_b",
 		"jp_text": "現在のクラスでは受注できません。\n受注可能クラス：<%arksclass>",
-		"en_text": "Cannot take this Quest.\nClass Required：<%arksclass>"
+		"en_text": "Cannot take this Quest.\nClass Required： <%arksclass>"
 	},
 	{
 		"assign": "quest_counter_label_medama",
@@ -5122,7 +5122,7 @@
 	{
 		"assign": "quest_counter_header_arks",
 		"jp_text": "アークスクエスト",
-		"en_text": "Arks Quest"
+		"en_text": "ARKS Quest"
 	},
 	{
 		"assign": "quest_counter_header_emergency",
@@ -5172,7 +5172,7 @@
 	{
 		"assign": "quest_counter_raid_label_encount",
 		"jp_text": "遭遇者　<color=#68a0a7>/\n</color>　",
-		"en_text": "Met   　<color=#68a0a7>/\n</color>　"
+		"en_text": "Met   <color=#68a0a7>/\n</color>　"
 	},
 	{
 		"assign": "quest_counter_raid_not_accept",
@@ -5787,7 +5787,7 @@
 	{
 		"assign": "scratch_bonus_menu_info",
 		"jp_text": "あと<color=#ffff00>{0}回</color>でプレゼント！",
-		"en_text": ""
+		"en_text": "<color=#ffff00>{0}</color> times!"
 	},
 	{
 		"assign": "scratch_bonus_menu_multi_bonus",
@@ -9132,17 +9132,17 @@
 	{
 		"assign": "chip_over_num",
 		"jp_text": "<color=red><%chip_over>枚</color>オーバーしています。",
-		"en_text": "You are <color=red><%chip_over> chip(s)</color>over the limit."
+		"en_text": "You are <color=red><%chip_over> chip(s)</color> over the limit."
 	},
 	{
 		"assign": "item_over_num",
 		"jp_text": "<color=red><%item_over>個</color>オーバーしています。",
-		"en_text": "You are <color=red><%item_over> item(s)</color>over the limit."
+		"en_text": "You are <color=red><%item_over> item(s)</color> over the limit."
 	},
 	{
 		"assign": "chip_item_over_num",
 		"jp_text": "チップ　： <color=red><%chip_over>枚</color>オーバーしています。\nアイテム： <color=red><%item_over>個</color>オーバーしています。",
-		"en_text": "You are <color=red><%chip_over> chip(s)</color>over the limit.\nYou are <color=red><%item_over> item(s)</color>over the limit."
+		"en_text": "You are <color=red><%chip_over> chip(s)</color>over the limit.\nYou are <color=red><%item_over> item(s)</color> over the limit."
 	},
 	{
 		"assign": "quest_counter_drive_lack_t",
@@ -9277,7 +9277,7 @@
 	{
 		"assign": "community_arkscard",
 		"jp_text": "アークスカード",
-		"en_text": "Arks Card"
+		"en_text": "ARKS Card"
 	},
 	{
 		"assign": "community_sns",
@@ -9607,12 +9607,12 @@
 	{
 		"assign": "arkscard_edit",
 		"jp_text": "アークスカード編集",
-		"en_text": "Edit Arks Card"
+		"en_text": "Edit ARKS Card"
 	},
 	{
 		"assign": "arkscard_comment",
 		"jp_text": "アークスカードのコメント",
-		"en_text": "Arks Card Comment"
+		"en_text": "ARKS Card Comment"
 	},
 	{
 		"assign": "friend_attack_comment",
@@ -9652,7 +9652,7 @@
 	{
 		"assign": "arkscard_preview_title",
 		"jp_text": "{0}のアークスカード",
-		"en_text": "{0}'s Arks Card"
+		"en_text": "{0}'s ARKS Card"
 	},
 	{
 		"assign": "arkscard_edit_button",
@@ -9662,22 +9662,22 @@
 	{
 		"assign": "arkscard_dialog_t_00",
 		"jp_text": "アークスカード",
-		"en_text": "Arks Card"
+		"en_text": "ARKS Card"
 	},
 	{
 		"assign": "arkscard_dialog_b_00",
 		"jp_text": "アークスカードの内容が変更されています。\n変更を反映しますか？",
-		"en_text": "The Arks Card has been changed.\nDo you want to save the changes?"
+		"en_text": "The ARKS Card has been changed.\nDo you want to save the changes?"
 	},
 	{
 		"assign": "arkscard_dialog_t_01",
 		"jp_text": "アークスカード",
-		"en_text": "Arks Card"
+		"en_text": "ARKS Card"
 	},
 	{
 		"assign": "arkscard_dialog_b_01",
 		"jp_text": "アークスカードの中に\n入力されていないコメント欄があります。",
-		"en_text": "There is a field in the\nArks Card that was left blank."
+		"en_text": "There is a field in the\nARKS Card that was left blank."
 	},
 	{
 		"assign": "player_name_non",
@@ -14552,7 +14552,7 @@
 	{
 		"assign": "arks_exp_count",
 		"jp_text": "{0}回",
-		"en_text": ""
+		"en_text": "x{0}"
 	},
 	{
 		"assign": "arks_exp_range",
@@ -14807,12 +14807,12 @@
 	{
 		"assign": "wh_32_04",
 		"jp_text": "＜連動経験値について＞\nペットにエッグ、またはチップを合成するとそのアイテムのレアリティに\n応じて、 クラス「サモナー」に連動経験値がたまります。",
-		"en_text": ""
+		"en_text": "<Linked EXP>\nFeeding eggs or chips via Egg Synthesis will\ntransfer EXP to the class Summoner."
 	},
 	{
 		"assign": "wh_32_05",
 		"jp_text": "＜合成可能回数について＞\nチップ合成、エッグ合成の残り合成可能回数は、ペットごとに管理され、\n4：00、12：00、20：00のタイミングごとに、３回まで利用できます。",
-		"en_text": ""
+		"en_text": "<Feeding Times>\nFeeding eggs or chips via Egg Synthesis can\nbe done up to 3 times, with cooldowns\nevery 4, 12, and 20 minutes"
 	},
 	{
 		"assign": "wh_32_06",
@@ -14977,7 +14977,7 @@
 	{
 		"assign": "pet_info_parameter_level",
 		"jp_text": "ペットプラス値",
-		"en_text": "Pet Plus value"
+		"en_text": "Pet Stats"
 	},
 	{
 		"assign": "pet_info_parameter_hp",
@@ -15022,7 +15022,7 @@
 	{
 		"assign": "pet_selectmenu_window_title",
 		"jp_text": "選択",
-		"en_text": "Selection"
+		"en_text": "Select"
 	},
 	{
 		"assign": "pet_selectmenu_give_egg",
@@ -15177,12 +15177,12 @@
 	{
 		"assign": "wh_33_01",
 		"jp_text": "この画面では、「PSO2」の「PSO2es倉庫」に\nアイテムを預ける、引き出すことができます。",
-		"en_text": ""
+		"en_text": "In this screen, you can store Items\nfrom PSO2 into PSO2es Storage."
 	},
 	{
 		"assign": "wh_33_02",
 		"jp_text": "＜「PSO2」における利用について＞\n「PSO2es」に30日間ログインしないと、「PSO2es」にログインするまで\n「PSO2」で新たに倉庫にアイテムを預けることができなくなります。",
-		"en_text": ""
+		"en_text": "<For use in PSO2>\nIf you don't login within 30 days into PSO2es,\nyou'll lose access to the PSO2es Storage from PSO2."
 	},
 	{
 		"assign": "myshop_pso2_spitem",
