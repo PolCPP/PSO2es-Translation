@@ -25,6 +25,7 @@ Just grab the current pso2es ContentsSerializer.dll, protobuf-net.dll, ProtoBuff
 * Logokas - A lot of UI translation work
 * Synthsy - Translation work
 * Bumped.org - Item Names and Wonderful other translations
+* ARKS-Visiphone - Weapon names and other neat things
 
 ## License
 
