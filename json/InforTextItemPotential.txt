@@ -4,21 +4,21 @@
 		"jp_text": "守勢練陣 Lv.1",
 		"en_text": "Defensive Stance Lv.1",
 		"jp_explain": "ガードスタンス時の\r\n効果が1%上昇する。",
-		"en_explain": ""
+		"en_explain": "Increases S-DEF by 25, striking and ranged damage by 10% during Guard Stance"
 	},
 	{
 		"assign": "966624881",
 		"jp_text": "守勢練陣 Lv.2",
 		"en_text": "Defensive Stance Lv.2",
 		"jp_explain": "ガードスタンス時の\r\n効果が2%上昇する。",
-		"en_explain": ""
+		"en_explain": "Increases S-DEF by 35, striking and ranged damage by 12% during Guard Stance"
 	},
 	{
 		"assign": "966624886",
 		"jp_text": "守勢練陣 Lv.3",
 		"en_text": "Defensive Stance Lv.3",
 		"jp_explain": "ガードスタンス時の\r\n効果が3%上昇する。",
-		"en_explain": ""
+		"en_explain": "Increases S-DEF by 50, striking and ranged damage by 15% during Guard Stance"
 	},
 	{
 		"assign": "966624887",
@@ -74,21 +74,21 @@
 		"jp_text": "護攻陣 Lv.1",
 		"en_text": "Phys. Def. Stance Lv.1",
 		"jp_explain": "打撃と射撃の\nダメージを10%軽減する。",
-		"en_explain": ""
+		"en_explain": "Reduces damage taken by striking and shooting attacks by 10%"
 	},
 	{
 		"assign": "298736322",
 		"jp_text": "護攻陣 Lv.2",
 		"en_text": "Phys. Def. Stance Lv.2",
 		"jp_explain": "打撃と射撃の\nダメージを14%軽減する。",
-		"en_explain": ""
+		"en_explain": "Reduces damage taken by striking and shooting attacks by 14%"
 	},
 	{
 		"assign": "298736323",
 		"jp_text": "護攻陣 Lv.3",
 		"en_text": "Phys. Def. Stance Lv.3",
 		"jp_explain": "打撃と射撃の\nダメージを20%軽減する。",
-		"en_explain": ""
+		"en_explain": "Reduces damage taken by striking and shooting attacks by 20%"
 	},
 	{
 		"assign": "298736348",
@@ -109,21 +109,21 @@
 		"jp_text": "護法陣 Lv.1",
 		"en_text": "Tech. Def. Stance Lv.1",
 		"jp_explain": "法撃の\rダメージを\n15%軽減する。",
-		"en_explain": ""
+		"en_explain": "Reduces damage taken by technique attacks by 15%"
 	},
 	{
 		"assign": "3802549577",
 		"jp_text": "護法陣 Lv.2",
 		"en_text": "Tech. Def. Stance Lv.2",
 		"jp_explain": "法撃の\rダメージを\n21%軽減する。",
-		"en_explain": ""
+		"en_explain": "Reduces damage taken by technique attacks by 21%"
 	},
 	{
 		"assign": "3802549578",
 		"jp_text": "護法陣 Lv.3",
 		"en_text": "Tech. Def. Stance Lv.3",
 		"jp_explain": "法撃の\rダメージを\n30%軽減する。",
-		"en_explain": ""
+		"en_explain": "Reduces damage taken by technique attacks by 30%"
 	},
 	{
 		"assign": "3802549579",
@@ -144,21 +144,21 @@
 		"jp_text": "不屈の心 Lv.1",
 		"en_text": "Obstinate Spirit Lv.1",
 		"jp_explain": "致命傷を受けても\r\n一定確率で\r\nＨＰが１だけ残る。",
-		"en_explain": ""
+		"en_explain": "13% chance of surviving a lethal attack with 1HP."
 	},
 	{
 		"assign": "1175256089",
 		"jp_text": "不屈の心 Lv.2",
 		"en_text": "Obstinate Spirit Lv.2",
 		"jp_explain": "致命傷を受けても\r\n一定確率で\r\nＨＰが１だけ残る。",
-		"en_explain": ""
+		"en_explain": "16% chance of surviving a lethal attack with 1HP."
 	},
 	{
 		"assign": "1175256090",
 		"jp_text": "不屈の心 Lv.3",
 		"en_text": "Obstinate Spirit Lv.3",
 		"jp_explain": "致命傷を受けても\r\n一定確率で\r\nＨＰが１だけ残る。",
-		"en_explain": ""
+		"en_explain": "19% chance of surviving a lethal attack with 1HP."
 	},
 	{
 		"assign": "1175256091",
@@ -179,21 +179,21 @@
 		"jp_text": "憤怒の型 Lv.1",
 		"en_text": "Enraged Stance Lv.1",
 		"jp_explain": "フューリースタンスの\r\n効果が4%上昇する。",
-		"en_explain": ""
+		"en_explain": "Boosts the effect of Fury Stance by 4%"
 	},
 	{
 		"assign": "2996788489",
 		"jp_text": "憤怒の型 Lv.2",
 		"en_text": "Enraged Stance Lv.2",
 		"jp_explain": "フューリースタンスの\r\n効果が5%上昇する。",
-		"en_explain": ""
+		"en_explain": "Boosts the effect of Fury Stance by 5%"
 	},
 	{
 		"assign": "2996788490",
 		"jp_text": "憤怒の型 Lv.3",
 		"en_text": "Enraged Stance Lv.3",
 		"jp_explain": "フューリースタンスの\r\n効果が6%上昇する。",
-		"en_explain": ""
+		"en_explain": "Boosts the effect of Fury Stance by 6%"
 	},
 	{
 		"assign": "2996788491",
@@ -212,35 +212,35 @@
 	{
 		"assign": "3971999121",
 		"jp_text": "心頭熱血 Lv.1",
-		"en_text": "",
+		"en_text": "Hot-Blooded Heart Lv.1",
 		"jp_explain": "フューリースタンスの\r\n効果が5%上昇する。",
-		"en_explain": ""
+		"en_explain": "Boosts the effect of Fury Stance by 5%"
 	},
 	{
 		"assign": "3971999120",
 		"jp_text": "心頭熱血 Lv.2",
-		"en_text": "",
+		"en_text": "Hot-Blooded Heart Lv.2",
 		"jp_explain": "フューリースタンスの\r\n効果が6%上昇する。",
-		"en_explain": ""
+		"en_explain": "Boosts the effect of Fury Stance by 6%"
 	},
 	{
 		"assign": "3971999123",
 		"jp_text": "心頭熱血 Lv.3",
-		"en_text": "",
+		"en_text": "Hot-Blooded Heart Lv.3",
 		"jp_explain": "フューリースタンスの\r\n効果が7%上昇する。",
-		"en_explain": ""
+		"en_explain": "Boosts the effect of Fury Stance by 7%"
 	},
 	{
 		"assign": "3971999122",
 		"jp_text": "心頭熱血 Lv.4",
-		"en_text": "",
+		"en_text": "Hot-Blooded Heart Lv.4",
 		"jp_explain": "フューリースタンスの\r\n効果が8%上昇する。",
 		"en_explain": ""
 	},
 	{
 		"assign": "3971999125",
 		"jp_text": "心頭熱血 Lv.5",
-		"en_text": "",
+		"en_text": "Hot-Blooded Heart Lv.5",
 		"jp_explain": "フューリースタンスの\r\n効果が9%上昇する。",
 		"en_explain": ""
 	},
@@ -249,21 +249,21 @@
 		"jp_text": "捨身の証 Lv.1",
 		"en_text": "Mortality's Ante Lv.1",
 		"jp_explain": "フューリースタンス中\r\nクリティカル率が\r\n18%上昇する。",
-		"en_explain": ""
+		"en_explain": "Critical hit rate boosted 18% during Fury Stance."
 	},
 	{
 		"assign": "2582839064",
 		"jp_text": "捨身の証 Lv.2",
 		"en_text": "Mortality's Ante Lv.2",
 		"jp_explain": "フューリースタンス中\r\nクリティカル率が\r\n19%上昇する。",
-		"en_explain": ""
+		"en_explain": "Critical hit rate boosted 19% during Fury Stance."
 	},
 	{
 		"assign": "2582839067",
 		"jp_text": "捨身の証 Lv.3",
 		"en_text": "Mortality's Ante Lv.3",
 		"jp_explain": "フューリースタンス中\r\nクリティカル率が\r\n20%上昇する。",
-		"en_explain": ""
+		"en_explain": "Critical hit rate boosted 20% during Fury Stance."
 	},
 	{
 		"assign": "2582839066",
@@ -284,21 +284,21 @@
 		"jp_text": "刹那の撃鉄 Lv.1",
 		"en_text": "Immediate Strike Lv.1",
 		"jp_explain": "ジャストアタックの\r\n効果が3%上昇する。",
-		"en_explain": ""
+		"en_explain": "Boosts the effect of Just Attack by 3%."
 	},
 	{
 		"assign": "2295616265",
 		"jp_text": "刹那の撃鉄 Lv.2",
 		"en_text": "Immediate Strike Lv.2",
 		"jp_explain": "ジャストアタックの\r\n効果が4%上昇する。",
-		"en_explain": ""
+		"en_explain": "Boosts the effect of Just Attack by 4%."
 	},
 	{
 		"assign": "2295616266",
 		"jp_text": "刹那の撃鉄 Lv.3",
 		"en_text": "Immediate Strike Lv.3",
 		"jp_explain": "ジャストアタックの\r\n効果が5%上昇する。",
-		"en_explain": ""
+		"en_explain": "Boosts the effect of Just Attack by 5%."
 	},
 	{
 		"assign": "2295616267",
@@ -319,21 +319,21 @@
 		"jp_text": "炎獄 Lv.1",
 		"en_text": "Raging Inferno Lv.1",
 		"jp_explain": "ブレイブスタンス中\r\n正面への攻撃力が\n10%\r上昇する。",
-		"en_explain": ""
+		"en_explain": "Frontal attack power during Brave Stance increased by 10%."
 	},
 	{
 		"assign": "584291259",
 		"jp_text": "炎獄 Lv.2",
 		"en_text": "Raging Inferno Lv.2",
 		"jp_explain": "ブレイブスタンス中\r\n正面への攻撃力が\n12%\r上昇する。",
-		"en_explain": ""
+		"en_explain": "Frontal attack power during Brave Stance increased by 12%."
 	},
 	{
 		"assign": "584291260",
 		"jp_text": "炎獄 Lv.3",
 		"en_text": "Raging Inferno lv.3",
 		"jp_explain": "ブレイブスタンス中\r\n正面への攻撃力が\n14%\r上昇する。",
-		"en_explain": ""
+		"en_explain": "Frontal attack power during Brave Stance increased by 14%."
 	},
 	{
 		"assign": "584291261",
@@ -352,70 +352,70 @@
 	{
 		"assign": "2030664622",
 		"jp_text": "正対の型 Lv.1",
-		"en_text": "",
+		"en_text": "Direct Style Lv.1",
 		"jp_explain": "ブレイブスタンス中\n正面からの攻撃力が\n4%上昇する。",
-		"en_explain": ""
+		"en_explain": "Frontal attack power during Brave Stance increased by 4%"
 	},
 	{
 		"assign": "2030664623",
 		"jp_text": "正対の型 Lv.2",
-		"en_text": "",
+		"en_text": "Direct Style Lv.2",
 		"jp_explain": "ブレイブスタンス中\n正面からの攻撃力が\n5%上昇する。",
-		"en_explain": ""
+		"en_explain": "Frontal attack power during Brave Stance increased by 5%"
 	},
 	{
 		"assign": "2030664620",
 		"jp_text": "正対の型 Lv.3",
-		"en_text": "",
+		"en_text": "Direct Style Lv.3",
 		"jp_explain": "ブレイブスタンス中\n正面からの攻撃力が\n6%上昇する。",
-		"en_explain": ""
+		"en_explain": "Frontal attack power during Brave Stance increased by 6%"
 	},
 	{
 		"assign": "2030664621",
 		"jp_text": "正対の型 Lv.4",
-		"en_text": "",
+		"en_text": "Direct Style Lv.4",
 		"jp_explain": "ブレイブスタンス中\n正面からの攻撃力が\n7%上昇する。",
 		"en_explain": ""
 	},
 	{
 		"assign": "2030664610",
 		"jp_text": "正対の型 Lv.5",
-		"en_text": "",
+		"en_text": "Direct Style Lv.5",
 		"jp_explain": "ブレイブスタンス中\n正面からの攻撃力が\n8%上昇する。",
 		"en_explain": ""
 	},
 	{
 		"assign": "2030660413",
 		"jp_text": "勇猛正対の型 Lv.1",
-		"en_text": "",
+		"en_text": "Direct Assault Lv.1",
 		"jp_explain": "ブレイブスタンス中\r\n正面への攻撃力が\n18%\r上昇する。",
-		"en_explain": ""
+		"en_explain": "Frontal critical hit rate during Brave Stance increased by 18%."
 	},
 	{
 		"assign": "2030660412",
 		"jp_text": "勇猛正対の型 Lv.2",
-		"en_text": "",
+		"en_text": "Direct Assault Lv.2",
 		"jp_explain": "ブレイブスタンス中\r\n正面への攻撃力が\n20%\r上昇する。",
-		"en_explain": ""
+		"en_explain": "Frontal critical hit rate during Brave Stance increased by 19%."
 	},
 	{
 		"assign": "2030660415",
 		"jp_text": "勇猛正対の型 Lv.3",
-		"en_text": "",
+		"en_text": "Direct Assault Lv.3",
 		"jp_explain": "ブレイブスタンス中\r\n正面への攻撃力が\n23%\r上昇する。",
-		"en_explain": ""
+		"en_explain": "Frontal critical hit rate during Brave Stance increased by 20%."
 	},
 	{
 		"assign": "2030660414",
 		"jp_text": "勇猛正対の型 Lv.4",
-		"en_text": "",
+		"en_text": "Direct Assault Lv.4",
 		"jp_explain": "ブレイブスタンス中\r\n正面への攻撃力が\n25%\r上昇する。",
 		"en_explain": ""
 	},
 	{
 		"assign": "2030660401",
 		"jp_text": "勇猛正対の型 Lv.5",
-		"en_text": "",
+		"en_text": "Direct Assault Lv.5",
 		"jp_explain": "ブレイブスタンス中\r\n正面への攻撃力が\n28%\r上昇する。",
 		"en_explain": ""
 	},
