@@ -2030,6 +2030,16 @@
 		"en_text": "Fangulf+"
 	},
 	{
+		"assign": "WolfSnowBSP1",
+		"jp_text": "ガルフル＋",
+		"en_text": ""
+	},
+	{
+		"assign": "WolfSnowASP1",
+		"jp_text": "フォンガルフル+",
+		"en_text": ""
+	},
+	{
 		"assign": "PterosaurASP1",
 		"jp_text": "アギニス＋",
 		"en_text": "Aginis+"
@@ -2055,9 +2065,24 @@
 		"en_text": "Rockbear Type-C"
 	},
 	{
+		"assign": "MammothBSP1",
+		"jp_text": "マルモス＋",
+		"en_text": ""
+	},
+	{
 		"assign": "MammothASP1",
 		"jp_text": "デ・マルモス＋",
 		"en_text": "De Malmoth+"
+	},
+	{
+		"assign": "PantherBSP1",
+		"jp_text": "ファングバンシー＋",
+		"en_text": "Fang Banshee+"
+	},
+	{
+		"assign": "PantherSnowASP1",
+		"jp_text": "スノウ・バンサー＋",
+		"en_text": ""
 	},
 	{
 		"assign": "RagRappyASP1",
@@ -2120,6 +2145,16 @@
 		"en_text": "Dinian+"
 	},
 	{
+		"assign": "DragonRizardmanSASP1",
+		"jp_text": "シル・サディニアン＋",
+		"en_text": ""
+	},
+	{
+		"assign": "DragonRizardmanSBSP1",
+		"jp_text": "ソル・サディニアン＋",
+		"en_text": ""
+	},
+	{
 		"assign": "DragonRizardmanSCSP1",
 		"jp_text": "サディニアン＋",
 		"en_text": "Sadinian+"
@@ -2133,6 +2168,21 @@
 		"assign": "DragonWolfBSP1",
 		"jp_text": "ノーディラン＋",
 		"en_text": "Nordiran+"
+	},
+	{
+		"assign": "DragonWolfSASP1",
+		"jp_text": "フォードランサ＋",
+		"en_text": ""
+	},
+	{
+		"assign": "DragonWolfSBSP1",
+		"jp_text": "ノーディランサ＋",
+		"en_text": ""
+	},
+	{
+		"assign": "DragonWyvernSP1",
+		"jp_text": "ウィンディラ＋",
+		"en_text": ""
 	},
 	{
 		"assign": "DragonWormSP1",
@@ -2150,9 +2200,9 @@
 		"en_text": "Caterdra'nsa+"
 	},
 	{
-		"assign": "PantherBSP1",
-		"jp_text": "ファングバンシー＋",
-		"en_text": "Fang Banshee+"
+		"assign": "DragonCrystalSP1",
+		"jp_text": "クォーツ・ドラゴン＋",
+		"en_text": ""
 	},
 	{
 		"assign": "MarineTetraSP1",
@@ -2166,12 +2216,12 @@
 	},
 	{
 		"assign": "MarineOrcaRareST0",
-		"jp_text": "ストーリー専ケラトス（仮",
+		"jp_text": "ダンテ",
 		"en_text": ""
 	},
 	{
 		"assign": "DarkerCannonA",
-		"jp_text": "ダーカー粒子砲台",
+		"jp_text": "特殊粒子砲台",
 		"en_text": ""
 	},
 	{
@@ -2227,6 +2277,11 @@
 	{
 		"assign": "PantherARareHC0",
 		"jp_text": "タイプＣバンサ・オング",
+		"en_text": ""
+	},
+	{
+		"assign": "PantherARareHC1",
+		"jp_text": "タイプＣバンサ・オング＋",
 		"en_text": ""
 	},
 	{
@@ -2761,12 +2816,12 @@
 	},
 	{
 		"assign": "MarineOrcaRareST0Ex",
-		"jp_text": "ストーリー専ケラトスＥｘ（仮",
+		"jp_text": "ダンテＥｘ",
 		"en_text": "Story Keratos EX"
 	},
 	{
 		"assign": "DarkerCannonAEx",
-		"jp_text": "ダーカー粒子砲台Ｅｘ",
+		"jp_text": "特殊粒子砲台Ｅｘ",
 		"en_text": "Darker Particle Battery EX"
 	},
 	{
