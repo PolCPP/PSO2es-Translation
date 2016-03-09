@@ -30,7 +30,7 @@
 	{
 		"assign": "65040000",
 		"jp_text": "マギウス・レッグ",
-		"en_text": "",
+		"en_text": "Magius Leg",
 		"jp_explain": "男性キャスト向けの脚部パーツ。\n平面的な部分を意識的に多くする事で\n大気中のフォトンへ干渉しやすくした。",
 		"en_explain": ""
 	},
@@ -44,7 +44,7 @@
 	{
 		"assign": "65060000",
 		"jp_text": "コロッサス・レッグ",
-		"en_text": "",
+		"en_text": "Colossus Leg",
 		"jp_explain": "男性キャスト向けの脚部パーツ。\n重厚かつ巨大なそのフォルムは\n居るだけで相手に威圧感を与える。",
 		"en_explain": ""
 	},
@@ -58,7 +58,7 @@
 	{
 		"assign": "65080000",
 		"jp_text": "アングリフ・レッグ",
-		"en_text": "",
+		"en_text": "Angriff Leg",
 		"jp_explain": "男性キャスト向けの脚部パーツ。\n空気抵抗を抑えた、突撃傾向の形が\n前線で戦うアークス達に好評。",
 		"en_explain": ""
 	},
@@ -93,21 +93,21 @@
 	{
 		"assign": "650140000",
 		"jp_text": "アングリフ・レッグＣＶ",
-		"en_text": "",
+		"en_text": "Angriff Leg CV",
 		"jp_explain": "男性キャスト向けの脚部パーツ。\n空気抵抗を抑えた、突撃傾向の形が\n前線で戦うアークス達に好評。",
 		"en_explain": ""
 	},
 	{
 		"assign": "650150000",
 		"jp_text": "コロッサス・レッグＣＶ",
-		"en_text": "",
+		"en_text": "Colossus Leg CV",
 		"jp_explain": "男性キャスト向けの脚部パーツ。\n重厚かつ巨大なそのフォルムは\n居るだけで相手に威圧感を与える。",
 		"en_explain": ""
 	},
 	{
 		"assign": "650160000",
 		"jp_text": "マギウス・レッグＣＶ",
-		"en_text": "",
+		"en_text": "Magius Leg CV",
 		"jp_explain": "男性キャスト向けの脚部パーツ。\n平面的な部分を意識的に多くする事で\n大気中のフォトンへ干渉しやすくした。",
 		"en_explain": ""
 	},
@@ -506,14 +506,14 @@
 	{
 		"assign": "650750000",
 		"jp_text": "アングリフ・レッグＧＶ",
-		"en_text": "",
+		"en_text": "Angriff Leg GV",
 		"jp_explain": "男性キャスト向けの脚部パーツ。\n空気抵抗を抑えた、突撃傾向の形が\n前線で戦うアークス達に好評。",
 		"en_explain": ""
 	},
 	{
 		"assign": "650760000",
 		"jp_text": "コロッサス・レッグＧＶ",
-		"en_text": "",
+		"en_text": "Colossus Leg GV",
 		"jp_explain": "男性キャスト向けの脚部パーツ。\n重厚かつ巨大なそのフォルムは\n居るだけで相手に威圧感を与える。",
 		"en_explain": ""
 	},
@@ -553,9 +553,16 @@
 		"en_explain": ""
 	},
 	{
+		"assign": "650820000",
+		"jp_text": "ヴァリエス・レッグＣＶ",
+		"en_text": "",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n拡張性に優れたシンプルなフォルムで\nあらゆる武装との親和性が高い。",
+		"en_explain": ""
+	},
+	{
 		"assign": "650830000",
 		"jp_text": "マギウス・レッグＧＶ",
-		"en_text": "",
+		"en_text": "Magius Leg GV",
 		"jp_explain": "男性キャスト向けの脚部パーツ。\n平面的な部分を意識的に多くする事で\n大気中のフォトンへ干渉しやすくした。",
 		"en_explain": ""
 	},
@@ -585,6 +592,13 @@
 		"jp_text": "ゴウボイド・レッグＧＶ",
 		"en_text": "",
 		"jp_explain": "男性キャスト向けの脚部パーツ。\nその巨大かつ頑丈なフォルムは\n説明不要の迫力を持っている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650900000",
+		"jp_text": "ラシオス・レッグ",
+		"en_text": "",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n安定性の高い箱形のフォルムを\n各部に採用した汎用フレーム。",
 		"en_explain": ""
 	}
 ]
