@@ -15192,12 +15192,12 @@
 	{
 		"assign": "pet_egg_give_parameter_max_window_title",
 		"jp_text": "ペット育成確認",
-		"en_text": ""
+		"en_text": "Pet Training"
 	},
 	{
 		"assign": "pet_egg_parameter_max_window_body",
 		"jp_text": "ペットのレベルと全てのプラス値が\r\n上限値に達しています。\r\nこれ以上チップ・エッグの合成は行えません。\r\n\r\n",
-		"en_text": ""
+		"en_text": "Level and Pet Stats have\r\nreached the maximum limit.\r\nCannot feed pet anymore.\r\n\r\n"
 	},
 	{
 		"assign": "pet_check_recovery_window_title",
@@ -15232,12 +15232,12 @@
 	{
 		"assign": "pet_recovery_dialog_yes",
 		"jp_text": "回復する",
-		"en_text": ""
+		"en_text": "Recover"
 	},
 	{
 		"assign": "pet_recovery_dialog_no",
 		"jp_text": "キャンセル",
-		"en_text": ""
+		"en_text": "Cancel"
 	},
 	{
 		"assign": "pet_recovery_window_title",
@@ -15252,57 +15252,57 @@
 	{
 		"assign": "ItemDetail_EquipSkill_ForceSufficiently",
 		"jp_text": "<color=yellow>100%</color>　　<color=white>(セット効果発動中)</color>",
-		"en_text": ""
+		"en_text": "<color=yellow>100%</color>　　<color=white>(Set Effect)</color>"
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_Caption",
 		"jp_text": "チップ装備時のみ有効",
-		"en_text": ""
+		"en_text": "Enabled when Chip Equipment"
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_ChipName",
 		"jp_text": "対象チップ名：<%parameter>",
-		"en_text": ""
+		"en_text": "Chip Name: <%parameter>"
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_Mastary",
 		"jp_text": "セット効果発動中 習熟度<%parameter>%",
-		"en_text": ""
+		"en_text": "Set Effect proficiency <%parameter>%"
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_AddStrike",
 		"jp_text": "打撃力(+<%parameter>)",
-		"en_text": ""
+		"en_text": "S-ATK (+<%parameter>)"
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_AddFireArm",
 		"jp_text": "射撃力(+<%parameter>)",
-		"en_text": ""
+		"en_text": "R-ATK (+<%parameter>)"
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_AddTechnic",
 		"jp_text": "法撃力(+<%parameter>)",
-		"en_text": ""
+		"en_text": "T-ATK (+<%parameter>)"
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_AddSkill",
 		"jp_text": "技量(+<%parameter>)",
-		"en_text": ""
+		"en_text": "DEX (+<%parameter>)"
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_AddDefense",
 		"jp_text": "打撃防御(+<%parameter>)",
-		"en_text": ""
+		"en_text": "S-DEF (+<%parameter>)"
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_AddReflexes",
 		"jp_text": "射撃防御(+<%parameter>)",
-		"en_text": ""
+		"en_text": "R-DEF (+<%parameter>)"
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_AddMental",
 		"jp_text": "法撃防御(+<%parameter>)",
-		"en_text": ""
+		"en_text": "T-DEF (+<%parameter>)"
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_AddHP",
@@ -15317,7 +15317,7 @@
 	{
 		"assign": "ItemDetail_WPCBoost_AddAttValue",
 		"jp_text": "武器属性値(+<%parameter>)",
-		"en_text": ""
+		"en_text": "Weapon Ele. (+<%parameter>)"
 	},
 	{
 		"assign": "wh_33_01",
@@ -15337,21 +15337,21 @@
 	{
 		"assign": "ItemDetail_RingExp_Caption",
 		"jp_text": "リングEXP/",
-		"en_text": ""
+		"en_text": "Ring EXP/"
 	},
 	{
 		"assign": "ItemDetail_RingGrind_Remain",
 		"jp_text": "<color=white>(<%parameter>まで強化可能)</color>",
-		"en_text": ""
+		"en_text": "<color=white>(<%parameter> Grind Possible)</color>"
 	},
 	{
 		"assign": "ItemDetail_RingGrind_Max",
 		"jp_text": "<color=white>(最大)</color>",
-		"en_text": ""
+		"en_text": "<color=white>(Max)</color>"
 	},
 	{
 		"assign": "ItemDetail_RingSkill_TitleCaption",
 		"jp_text": "<color=white>リングスキル・パラメータ (PSO2のみで発揮)</color>",
-		"en_text": ""
+		"en_text": "<color=white>Skill Ring parameters (PSO2 only)</color>"
 	}
 ]
