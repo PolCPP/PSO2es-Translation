@@ -1,5 +1,26 @@
 [
 	{
+		"assign": "339000000",
+		"jp_text": "ぎりぎりロール",
+		"en_text": "",
+		"jp_explain": "ペット用のキャンディー。\nペットがＨＰ低下時にダメージを\n受けるとまれにＨＰが回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "339010000",
+		"jp_text": "ぎりぎりロール＋１",
+		"en_text": "",
+		"jp_explain": "ペット用のキャンディー。\nペットがＨＰ低下時にダメージを\n受けるとまれにＨＰが回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "339020000",
+		"jp_text": "ぎりぎりロール＋２",
+		"en_text": "",
+		"jp_explain": "ペット用のキャンディー。\nペットがＨＰ低下時にダメージを\n受けるとまれにＨＰが回復する。",
+		"en_explain": ""
+	},
+	{
 		"assign": "3390120000",
 		"jp_text": "ふんばりロール",
 		"en_text": "Steadfast Roll",
@@ -45,42 +66,42 @@
 		"assign": "3390210000",
 		"jp_text": "おうえんロール",
 		"en_text": "Support Roll",
-		"jp_explain": "ペット用のキャンディー。シフタでの\nシンパシー発動時、ペットの攻撃力、\n防御力、クリティカル率が強化される。",
+		"jp_explain": "ペット用のキャンディー。シフタでの\nシンパシー発動時、ペットの攻撃力\n防御力、クリティカル率が強化される。",
 		"en_explain": "A Candy for your pet.\nGrants bonuses to Pet ATK, DEF,\nand Crit Rate with Shifta Sympathy."
 	},
 	{
 		"assign": "3390220000",
 		"jp_text": "おうえんロール＋１",
 		"en_text": "Support Roll+1",
-		"jp_explain": "ペット用のキャンディー。シフタでの\nシンパシー発動時、ペットの攻撃力、\n防御力、クリティカル率が強化される。",
+		"jp_explain": "ペット用のキャンディー。シフタでの\nシンパシー発動時、ペットの攻撃力\n防御力、クリティカル率が強化される。",
 		"en_explain": "A Candy for your pet.\nGrants bonuses to Pet ATK, DEF,\nand Crit Rate with Shifta Sympathy."
 	},
 	{
 		"assign": "3390230000",
 		"jp_text": "おうえんロール＋２",
 		"en_text": "Support Roll+2",
-		"jp_explain": "ペット用のキャンディー。シフタでの\nシンパシー発動時、ペットの攻撃力、\n防御力、クリティカル率が強化される。",
+		"jp_explain": "ペット用のキャンディー。シフタでの\nシンパシー発動時、ペットの攻撃力\n防御力、クリティカル率が強化される。",
 		"en_explain": "A Candy for your pet.\nGrants bonuses to Pet ATK, DEF,\nand Crit Rate with Shifta Sympathy."
 	},
 	{
 		"assign": "3390300000",
 		"jp_text": "みがわりロール",
 		"en_text": "Substitute Roll",
-		"jp_explain": "ペット用のキャンディー。\nアルターエゴ発動時、\n消費ＰＰが減少する。",
+		"jp_explain": "ペット用のキャンディー。\nアルターエゴ発動時\n消費ＰＰが減少する。",
 		"en_explain": "A Candy for your pet.\nReduce PP consumption while\nAlter Ego is active."
 	},
 	{
 		"assign": "3390310000",
 		"jp_text": "みがわりロール＋１",
 		"en_text": "Substitute Roll+1",
-		"jp_explain": "ペット用のキャンディー。\nアルターエゴ発動時、\n消費ＰＰが減少する。",
+		"jp_explain": "ペット用のキャンディー。\nアルターエゴ発動時\n消費ＰＰが減少する。",
 		"en_explain": "A Candy for your pet.\nReduce PP consumption while\nAlter Ego is active."
 	},
 	{
 		"assign": "3390320000",
 		"jp_text": "みがわりロール＋２",
 		"en_text": "Substitute Roll+2",
-		"jp_explain": "ペット用のキャンディー。\nアルターエゴ発動時、\n消費ＰＰが減少する。",
+		"jp_explain": "ペット用のキャンディー。\nアルターエゴ発動時\n消費ＰＰが減少する。",
 		"en_explain": "A Candy for your pet.\nReduce PP consumption while\nAlter Ego is active."
 	},
 	{

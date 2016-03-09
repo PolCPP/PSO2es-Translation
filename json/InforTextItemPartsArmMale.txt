@@ -30,7 +30,7 @@
 	{
 		"assign": "63040000",
 		"jp_text": "マギウス・アーム",
-		"en_text": "",
+		"en_text": "Magius Arm",
 		"jp_explain": "男性キャスト向けの腕部パーツ。\n平面的な部分を意識的に多くする事で\n大気中のフォトンへ干渉しやすくした。",
 		"en_explain": ""
 	},
@@ -44,7 +44,7 @@
 	{
 		"assign": "63060000",
 		"jp_text": "コロッサス・アーム",
-		"en_text": "",
+		"en_text": "Colossus Arm",
 		"jp_explain": "男性キャスト向けの腕部パーツ。\n重厚かつ巨大なそのフォルムは\n居るだけで相手に威圧感を与える。",
 		"en_explain": ""
 	},
@@ -58,7 +58,7 @@
 	{
 		"assign": "63080000",
 		"jp_text": "アングリフ・アーム",
-		"en_text": "",
+		"en_text": "Angriff Arm",
 		"jp_explain": "男性キャスト向けの腕部パーツ。\n空気抵抗を抑えた、突撃傾向の形が\n前線で戦うアークス達に好評。",
 		"en_explain": ""
 	},
@@ -93,21 +93,21 @@
 	{
 		"assign": "630140000",
 		"jp_text": "アングリフ・アームＣＶ",
-		"en_text": "",
+		"en_text": "Angriff Arm CV",
 		"jp_explain": "男性キャスト向けの腕部パーツ。\n空気抵抗を抑えた、突撃傾向の形が\n前線で戦うアークス達に好評。",
 		"en_explain": ""
 	},
 	{
 		"assign": "630150000",
 		"jp_text": "コロッサス・アームＣＶ",
-		"en_text": "",
+		"en_text": "Colossus Arm CV",
 		"jp_explain": "男性キャスト向けの腕部パーツ。\n重厚かつ巨大なそのフォルムは\n居るだけで相手に威圧感を与える。",
 		"en_explain": ""
 	},
 	{
 		"assign": "630160000",
 		"jp_text": "マギウス・アームＣＶ",
-		"en_text": "",
+		"en_text": "Magius Arm CV",
 		"jp_explain": "男性キャスト向けの腕部パーツ。\n平面的な部分を意識的に多くする事で\n大気中のフォトンへ干渉しやすくした。",
 		"en_explain": ""
 	},
@@ -506,14 +506,14 @@
 	{
 		"assign": "630750000",
 		"jp_text": "アングリフ・アームＧＶ",
-		"en_text": "",
+		"en_text": "Angriff Arm GV",
 		"jp_explain": "男性キャスト向けの腕部パーツ。\n空気抵抗を抑えた、突撃傾向の形が\n前線で戦うアークス達に好評。",
 		"en_explain": ""
 	},
 	{
 		"assign": "630760000",
 		"jp_text": "コロッサス・アームＧＶ",
-		"en_text": "",
+		"en_text": "Colossus Arm GV",
 		"jp_explain": "男性キャスト向けの腕部パーツ。\n重厚かつ巨大なそのフォルムは\n居るだけで相手に威圧感を与える。",
 		"en_explain": ""
 	},
@@ -553,9 +553,16 @@
 		"en_explain": ""
 	},
 	{
+		"assign": "630820000",
+		"jp_text": "ヴァリエス・アームＣＶ",
+		"en_text": "",
+		"jp_explain": "男性キャスト向けの腕部パーツ。\n拡張性に優れたシンプルなフォルムで\nあらゆる武装との親和性が高い。",
+		"en_explain": ""
+	},
+	{
 		"assign": "630830000",
 		"jp_text": "マギウス・アームＧＶ",
-		"en_text": "",
+		"en_text": "Magius Arm GV",
 		"jp_explain": "男性キャスト向けの腕部パーツ。\n平面的な部分を意識的に多くする事で\n大気中のフォトンへ干渉しやすくした。",
 		"en_explain": ""
 	},
@@ -585,6 +592,13 @@
 		"jp_text": "ゴウボイド・アームＧＶ",
 		"en_text": "",
 		"jp_explain": "男性キャスト向けの腕部パーツ。\nその巨大かつ頑丈なフォルムは\n説明不要の迫力を持っている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "630900000",
+		"jp_text": "ラシオス・アーム",
+		"en_text": "",
+		"jp_explain": "男性キャスト向けの腕部パーツ。\n安定性の高い箱形のフォルムを\n各部に採用した汎用フレーム。",
 		"en_explain": ""
 	}
 ]
