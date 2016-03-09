@@ -3695,6 +3695,11 @@
 		"en_text": "Pet Candy"
 	},
 	{
+		"assign": "myshop_category_gatherer",
+		"jp_text": "ギャザリング",
+		"en_text": ""
+	},
+	{
 		"assign": "myshop_category_other",
 		"jp_text": "その他",
 		"en_text": "Other"
@@ -4288,6 +4293,21 @@
 		"assign": "myshop_sub_item_sticker_ticket",
 		"jp_text": "ステッカーチケット",
 		"en_text": "Emblems"
+	},
+	{
+		"assign": "myshop_sub_item_gat_collection",
+		"jp_text": "採取素材",
+		"en_text": ""
+	},
+	{
+		"assign": "myshop_sub_item_gat_fishing",
+		"jp_text": "釣り素材",
+		"en_text": ""
+	},
+	{
+		"assign": "myshop_sub_item_gat_other",
+		"jp_text": "その他の素材",
+		"en_text": ""
 	},
 	{
 		"assign": "myshop_attribute_not_specified",
@@ -6086,7 +6106,7 @@
 	},
 	{
 		"assign": "fieldoption_category_autosetting",
-		"jp_text": "オートプレイ設定",
+		"jp_text": "プレイ設定",
 		"en_text": "Autoplay"
 	},
 	{
@@ -6116,7 +6136,7 @@
 	},
 	{
 		"assign": "fieldoption_autosetting_windowtitle",
-		"jp_text": "オートプレイ設定",
+		"jp_text": "プレイ設定",
 		"en_text": "Autoplay"
 	},
 	{
@@ -6163,6 +6183,31 @@
 		"assign": "questfield_automove_stop",
 		"jp_text": "オート移動停止",
 		"en_text": "Automove Off"
+	},
+	{
+		"assign": "fieldoption_autoatmove_text01",
+		"jp_text": "通常攻撃の移動補助",
+		"en_text": ""
+	},
+	{
+		"assign": "fieldoption_autoatmove_on",
+		"jp_text": "ON",
+		"en_text": ""
+	},
+	{
+		"assign": "fieldoption_autoatmove_off",
+		"jp_text": "OFF",
+		"en_text": ""
+	},
+	{
+		"assign": "fieldoption_autoatmove_explain01",
+		"jp_text": "通常攻撃時のオート移動をオンにします。",
+		"en_text": ""
+	},
+	{
+		"assign": "fieldoption_autoatmove_explain02",
+		"jp_text": "通常攻撃時のオート移動をオフにします。",
+		"en_text": ""
 	},
 	{
 		"assign": "quest_result_levelcap",
@@ -7750,11 +7795,6 @@
 		"en_text": "Parts (Body/Arm/Leg)"
 	},
 	{
-		"assign": "outer_palette_title",
-		"jp_text": "アウターウェア",
-		"en_text": "Outerwear"
-	},
-	{
 		"assign": "unit_palette_title",
 		"jp_text": "ユニット(リア／アーム／レッグ)",
 		"en_text": "Units (Rear/Arm/Leg)"
@@ -7763,6 +7803,11 @@
 		"assign": "costume_palette_title",
 		"jp_text": "コスチューム",
 		"en_text": "Costume Type"
+	},
+	{
+		"assign": "outer_palette_title",
+		"jp_text": "アウターウェア",
+		"en_text": "Outerwear"
 	},
 	{
 		"assign": "equip_palette_rear",
@@ -9143,6 +9188,16 @@
 		"assign": "chip_item_over_num",
 		"jp_text": "チップ　： <color=red><%chip_over>枚</color>オーバーしています。\nアイテム： <color=red><%item_over>個</color>オーバーしています。",
 		"en_text": "You are <color=red><%chip_over> chip(s)</color>over the limit.\nYou are <color=red><%item_over> item(s)</color> over the limit."
+	},
+	{
+		"assign": "non_recyclable_title",
+		"jp_text": "リサイクル不可",
+		"en_text": ""
+	},
+	{
+		"assign": "non_recyclable_body",
+		"jp_text": "アイテムパック数をオーバーするため\nリサイクルできません。\n売却またはリサイクルをして\nアイテムを整理してください。",
+		"en_text": ""
 	},
 	{
 		"assign": "quest_counter_drive_lack_t",
@@ -15061,12 +15116,12 @@
 	},
 	{
 		"assign": "pet_chip_give_window_body",
-		"jp_text": "以下のチップを合成します。\n{0}{1}よろしいですか？\n\n・{2}\n",
+		"jp_text": "以下のチップを合成します。\r\n{0}{1}よろしいですか？\r\n\r\n・{2}\r\n",
 		"en_text": "This will synthesize this chip.\n{0}{1} Are you sure?\n\n・{2}\n"
 	},
 	{
 		"assign": "pet_chip_give_window_rare_body",
-		"jp_text": "選択したチップは<color=#ff0000>★７以上</color>です。\n本当に合成しますか？\n\n・{0}\n\n",
+		"jp_text": "選択したチップは<color=#ff0000>★７以上</color>です。\r\n本当に合成しますか？\r\n\r\n・{0}\r\n\r\n",
 		"en_text": "The selected chip is <color=#ff0000>★７</color> or higher.\nAre you sure?\n\n・{0}\n\n"
 	},
 	{
@@ -15081,12 +15136,12 @@
 	},
 	{
 		"assign": "pet_egg_give_window_body",
-		"jp_text": "以下のエッグを合成します。\n{0}{1}よろしいですか？\n\n・{2}\n",
+		"jp_text": "以下のエッグを合成します。\r\n{0}{1}よろしいですか？\r\n\r\n・{2}\r\n",
 		"en_text": "This will synthesize this egg.\n{0}{1} Are you sure?\n\n・{2}\n"
 	},
 	{
 		"assign": "pet_egg_give_window_rare_body",
-		"jp_text": "選択したエッグは<color=#ff0000>★７以上</color>です。\n本当に合成しますか？\n\n・{0}\n\n",
+		"jp_text": "選択したエッグは<color=#ff0000>★７以上</color>です。\r\n本当に合成しますか？\r\n\r\n・{0}\r\n\r\n",
 		"en_text": "The selected egg is <color=#ff0000>★７</color> or higher.\nAre you sure?\n\n・{0}\n\n"
 	},
 	{
@@ -15096,7 +15151,7 @@
 	},
 	{
 		"assign": "pet_egg_give_noitem_window_body",
-		"jp_text": "エッグを所有していないか、\nエッグが選択されていません。\n\n※エッグは『PSO2』で入手が可能です。",
+		"jp_text": "エッグを所有していないか、\r\nエッグが選択されていません。\r\n\r\n※エッグは『PSO2』で入手が可能です。",
 		"en_text": "You don't own an egg,\nyou can obtain an egg in PSO2.\n\n※Eggs cannot drop in PSO2es."
 	},
 	{
@@ -15106,7 +15161,7 @@
 	},
 	{
 		"assign": "pet_chip_give_noitem_window_body",
-		"jp_text": "チップを所有していないか、\nチップが選択されていません。\n\n※チップは『PSO2es』で入手が可能です。",
+		"jp_text": "チップを所有していないか、\r\nチップが選択されていません。\r\n\r\n※チップは『PSO2es』で入手が可能です。",
 		"en_text": "You don't own a chip,\nyou can obtain a chip by\nplaying PSO2es."
 	},
 	{
@@ -15116,7 +15171,7 @@
 	},
 	{
 		"assign": "pet_notpet_window_body",
-		"jp_text": "『PSO2』でペットを所持していないため\n利用できません。\n\n",
+		"jp_text": "『PSO2』でペットを所持していないため\r\n利用できません。\r\n\r\n",
 		"en_text": "You don't own a pet in PSO2.\n\n"
 	},
 	{
@@ -15126,7 +15181,7 @@
 	},
 	{
 		"assign": "pet_acgive_window_body",
-		"jp_text": "{0}<%AC>を消費して\n合成可能回数を全回復します。\nよろしいですか？\n\n必要<%AC>：{1}\n所持<%AC>：{2}",
+		"jp_text": "ペットの合成可能数が不足しています。\n\n{0}<%AC>を消費して\n合成可能数を全回復させます。\nよろしいですか？\n\n<color=#f0df60>※合成可能数が回復するのは\n　現在選択中のペットのみです。</color>\n\r\n必要<%AC>：{1}\r\n所持<%AC>：{2}\n",
 		"en_text": "By consuming {0}<%AC>\nYou can recover your synthesis uses.\nIs that ok?\n\nNeeded <%AC>: {1}\nHave: {2} <%AC>"
 	},
 	{
@@ -15135,23 +15190,33 @@
 		"en_text": "Regen {0}:{1}"
 	},
 	{
+		"assign": "pet_egg_give_parameter_max_window_title",
+		"jp_text": "ペット育成確認",
+		"en_text": ""
+	},
+	{
+		"assign": "pet_egg_parameter_max_window_body",
+		"jp_text": "ペットのレベルと全てのプラス値が\r\n上限値に達しています。\r\nこれ以上チップ・エッグの合成は行えません。\r\n\r\n",
+		"en_text": ""
+	},
+	{
 		"assign": "pet_check_recovery_window_title",
 		"jp_text": "確認",
 		"en_text": "Confirm"
 	},
 	{
 		"assign": "pet_check_recovery_window_body",
-		"jp_text": "ペットの合成可能回数が残っています。\n現在の合成可能回数をお確かめください。\n\n",
+		"jp_text": "ペットの合成可能回数が残っています。\r\n現在の合成可能回数をお確かめください。\r\n\r\n",
 		"en_text": "Possible Pets to Synthesize.\nPlease check current possible synthesis uses.\n\n"
 	},
 	{
 		"assign": "pet_give_levelmax_body",
-		"jp_text": "<color=yellow>{0}のレベルが上限のため\n経験値は獲得できません。</color>\n",
+		"jp_text": "<color=yellow>{0}のレベルが上限のため\r\n経験値は獲得できません。</color>\r\n",
 		"en_text": "<color=yellow>Lv.{0} limit hit.\nCannot gain anymore EXP.</color>\n"
 	},
 	{
 		"assign": "pet_give_parametermax_body",
-		"jp_text": "<color=yellow>{0}のプラス値が上限のため\n上がらないパラメーターがあります。</color>\n",
+		"jp_text": "<color=yellow>{0}のプラス値が上限のため\r\n上がらないパラメーターがあります。</color>\r\n",
 		"en_text": "<color=yellow>{0}のプラス値が上限のため\n上がらないパラメーターがあります。</color>\n"
 	},
 	{
@@ -15165,6 +15230,16 @@
 		"en_text": "You're missing <%AC>.\nCharge <%AC> now?\n\nNeeded <%AC>: {0}\nOwned <%AC>： {1}"
 	},
 	{
+		"assign": "pet_recovery_dialog_yes",
+		"jp_text": "回復する",
+		"en_text": ""
+	},
+	{
+		"assign": "pet_recovery_dialog_no",
+		"jp_text": "キャンセル",
+		"en_text": ""
+	},
+	{
 		"assign": "pet_recovery_window_title",
 		"jp_text": "購入完了",
 		"en_text": "Purchased"
@@ -15173,6 +15248,76 @@
 		"assign": "pet_recovery_window_body",
 		"jp_text": "{0}の合成可能回数を回復しました。\n\n",
 		"en_text": "Recovered {0} uses.\n\n"
+	},
+	{
+		"assign": "ItemDetail_EquipSkill_ForceSufficiently",
+		"jp_text": "<color=yellow>100%</color>　　<color=white>(セット効果発動中)</color>",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_WPCBoost_Caption",
+		"jp_text": "チップ装備時のみ有効",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_WPCBoost_ChipName",
+		"jp_text": "対象チップ名：<%parameter>",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_WPCBoost_Mastary",
+		"jp_text": "セット効果発動中 習熟度<%parameter>%",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_WPCBoost_AddStrike",
+		"jp_text": "打撃力(+<%parameter>)",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_WPCBoost_AddFireArm",
+		"jp_text": "射撃力(+<%parameter>)",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_WPCBoost_AddTechnic",
+		"jp_text": "法撃力(+<%parameter>)",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_WPCBoost_AddSkill",
+		"jp_text": "技量(+<%parameter>)",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_WPCBoost_AddDefense",
+		"jp_text": "打撃防御(+<%parameter>)",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_WPCBoost_AddReflexes",
+		"jp_text": "射撃防御(+<%parameter>)",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_WPCBoost_AddMental",
+		"jp_text": "法撃防御(+<%parameter>)",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_WPCBoost_AddHP",
+		"jp_text": "HP(+<%parameter>)",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_WPCBoost_AddCP",
+		"jp_text": "CP(+<%parameter>)",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_WPCBoost_AddAttValue",
+		"jp_text": "武器属性値(+<%parameter>)",
+		"en_text": ""
 	},
 	{
 		"assign": "wh_33_01",
@@ -15188,5 +15333,25 @@
 		"assign": "myshop_pso2_spitem",
 		"jp_text": "『PSO2』専用アイテムです。",
 		"en_text": "PSO2 Only Item."
+	},
+	{
+		"assign": "ItemDetail_RingExp_Caption",
+		"jp_text": "リングEXP/",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_RingGrind_Remain",
+		"jp_text": "<color=white>(<%parameter>まで強化可能)</color>",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_RingGrind_Max",
+		"jp_text": "<color=white>(最大)</color>",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_RingSkill_TitleCaption",
+		"jp_text": "<color=white>リングスキル・パラメータ (PSO2のみで発揮)</color>",
+		"en_text": ""
 	}
 ]

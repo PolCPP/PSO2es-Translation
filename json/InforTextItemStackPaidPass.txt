@@ -711,34 +711,216 @@
 		"jp_text": "キャンディーイレイサー",
 		"en_text": "Candy Eraser",
 		"jp_explain": "指定したペットのキャンディーボックスに\nセットしたキャンディーを１つ削除する。\n削除したキャンディーは失われる。",
-		"en_explain": ""
+		"en_explain": "Destroys one Candy from\na selected Pet Candy Box."
 	},
 	{
 		"assign": "32101510000",
 		"jp_text": "全キャンディーイレイサー",
 		"en_text": "All Candy Eraser",
 		"jp_explain": "指定したペットのキャンディーボックスに\nセットしたキャンディーを全て削除する。\n削除したキャンディーは失われる。",
-		"en_explain": ""
+		"en_explain": "Destroys all specified Candy\nfrom a selected Pet Candy Box."
 	},
 	{
 		"assign": "32101520000",
 		"jp_text": "キャンディーリムーバー",
 		"en_text": "Candy Remover",
 		"jp_explain": "指定したペットのキャンディーボックスに\nセットしたキャンディーを１つ\nアイテムパックに戻す。",
-		"en_explain": ""
+		"en_explain": "Returns one set Candy from\na Candy Box back to\nyour item pack."
 	},
 	{
 		"assign": "32101530000",
 		"jp_text": "全キャンディーリムーバー",
 		"en_text": "All Candy Remover",
 		"jp_explain": "指定したペットのキャンディーボックスに\nセットしたキャンディーを全て\nアイテムパックに戻す。",
-		"en_explain": ""
+		"en_explain": "Returns all set Candy from a\nCandy Box back to your\nitem pack."
 	},
 	{
 		"assign": "32101540000",
 		"jp_text": "キャラメルクラッシャー",
 		"en_text": "Caramel Crusher",
 		"jp_explain": "指定したペットのキャンディーボックスに\nセットされたキャラメルブロックを\n１つ削除する。",
+		"en_explain": "Destroys one Caramel Cube\nfrom a selected\nPet Candy Box"
+	},
+	{
+		"assign": "32101550000",
+		"jp_text": "よいピッケル",
+		"en_text": "",
+		"jp_explain": "ギャザリングで採取を行える。\nレア採取発生率＋５％",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101580000",
+		"jp_text": "【極み】ピッケル",
+		"en_text": "",
+		"jp_explain": "ギャザリングで採取を行える。\nレア採取発生率＋１００％",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101590000",
+		"jp_text": "よい釣り竿",
+		"en_text": "",
+		"jp_explain": "ギャザリングで釣りを行える。\nレア釣り発生率＋５％",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101620000",
+		"jp_text": "【極み】釣り竿",
+		"en_text": "",
+		"jp_explain": "ギャザリングで釣りを行える。\nレア釣り発生率＋１００％",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101630000",
+		"jp_text": "採取スタミナドリンク",
+		"en_text": "",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101640000",
+		"jp_text": "採取スタドリ０１",
+		"en_text": "",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101650000",
+		"jp_text": "採取スタドリ０２",
+		"en_text": "",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101660000",
+		"jp_text": "採取スタドリ０３",
+		"en_text": "",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101670000",
+		"jp_text": "採取スタドリ０４",
+		"en_text": "",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101680000",
+		"jp_text": "採取スタドリ０５",
+		"en_text": "",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101690000",
+		"jp_text": "採取スタドリ０６",
+		"en_text": "",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101700000",
+		"jp_text": "採取スタドリ０７",
+		"en_text": "",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101710000",
+		"jp_text": "採取スタドリ０８",
+		"en_text": "",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101720000",
+		"jp_text": "採取スタドリ０９",
+		"en_text": "",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101730000",
+		"jp_text": "採取スタドリ１０",
+		"en_text": "",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101750000",
+		"jp_text": "釣りスタミナドリンク",
+		"en_text": "",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101760000",
+		"jp_text": "釣りスタドリ０１",
+		"en_text": "",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101770000",
+		"jp_text": "釣りスタドリ０２",
+		"en_text": "",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101780000",
+		"jp_text": "釣りスタドリ０３",
+		"en_text": "",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101790000",
+		"jp_text": "釣りスタドリ０４",
+		"en_text": "",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101800000",
+		"jp_text": "釣りスタドリ０５",
+		"en_text": "",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101810000",
+		"jp_text": "釣りスタドリ０６",
+		"en_text": "",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101820000",
+		"jp_text": "釣りスタドリ０７",
+		"en_text": "",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101830000",
+		"jp_text": "釣りスタドリ０８",
+		"en_text": "",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101840000",
+		"jp_text": "釣りスタドリ０９",
+		"en_text": "",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101850000",
+		"jp_text": "釣りスタドリ１０",
+		"en_text": "",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
 		"en_explain": ""
 	}
 ]
