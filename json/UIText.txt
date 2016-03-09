@@ -3262,7 +3262,7 @@
 	{
 		"assign": "myshop_guide_06",
 		"jp_text": "<color=#f0df60>アイテムパックからアイテムを選択し、出品できます。出品確認ウィンドウ内の「相場」ボタンを押すと、他のプレイヤーが出品した金額が確認できます。</color>",
-		"en_text": "<color=#f0df60>Selling an item from your pack that you wish to sell. When ready, press the 'Sell Item' button.\nYou can also see the prices for the current item.</color>"
+		"en_text": "<color=#f0df60>Selling an item from your pack that you wish to sell. When ready, press the 'Sell Item' button. You can also see the prices for the current item.</color>"
 	},
 	{
 		"assign": "myshop_guide_07",
@@ -3697,7 +3697,7 @@
 	{
 		"assign": "myshop_category_gatherer",
 		"jp_text": "ギャザリング",
-		"en_text": ""
+		"en_text": "Gathering"
 	},
 	{
 		"assign": "myshop_category_other",
@@ -4297,17 +4297,17 @@
 	{
 		"assign": "myshop_sub_item_gat_collection",
 		"jp_text": "採取素材",
-		"en_text": ""
+		"en_text": "Gather. Mats"
 	},
 	{
 		"assign": "myshop_sub_item_gat_fishing",
 		"jp_text": "釣り素材",
-		"en_text": ""
+		"en_text": "Fishing"
 	},
 	{
 		"assign": "myshop_sub_item_gat_other",
 		"jp_text": "その他の素材",
-		"en_text": ""
+		"en_text": "Other"
 	},
 	{
 		"assign": "myshop_attribute_not_specified",
@@ -4702,7 +4702,7 @@
 	{
 		"assign": "myshop_display_num",
 		"jp_text": "出品数",
-		"en_text": "Price"
+		"en_text": "Quantity"
 	},
 	{
 		"assign": "myshop_display_total",
@@ -4722,7 +4722,7 @@
 	{
 		"assign": "myshop_market_button",
 		"jp_text": "相場",
-		"en_text": "Market"
+		"en_text": "Quote"
 	},
 	{
 		"assign": "myshop_market_title",
@@ -4737,7 +4737,7 @@
 	{
 		"assign": "myshop_withdraw_num",
 		"jp_text": "出品数",
-		"en_text": "Price"
+		"en_text": "Quantity"
 	},
 	{
 		"assign": "myshop_withdraw_button",
@@ -6482,7 +6482,7 @@
 	{
 		"assign": "title_dialog_b_00",
 		"jp_text": "ワンタイムパスワードは発行されてから\n約1分間で使えなくなります。\n一定時間経過した場合は\nあらためて「再発行」をお願いします。\n\nまた、6回連続で間違えますと、\nロック状態となります。\nロック状態の解除に関する情報は\nプレイヤーズサイトにてご確認ください。",
-		"en_text": "Please enter your OTP code.\nThe OTP code can only be used after\nbeing issued for around 1 minute.\nIf too much time has passed,\nplease generate a new code.\nAlso, if you enter it wrong 6 times,\nyour account will be locked."
+		"en_text": "Please enter your OTP code.\nThe OTP code can only\nbe used after being\nissued for around 1 minute.\n\nIf too much time has passed,\nplease generate a\nnew code. Also, if\nyou enter it wrong 6 times,\nyour account will be locked."
 	},
 	{
 		"assign": "title_dialog_t_01",
@@ -6492,7 +6492,7 @@
 	{
 		"assign": "title_dialog_b_01",
 		"jp_text": "PSO2es専用プレイヤーIDと\n秘密のパスワードを入力してから、\nキャラクターデータの引き継ぎを行ってください。\n\n※変更前の端末で発行された内容を入力してください。\n※連続で失敗すると一定時間入力ができなくなります\nのでご注意ください。",
-		"en_text": "Enter your PSO2es Player ID\nand your Device ID to start\nthe transfer.\n\n※Your device ID can be generated from the Device ID menu."
+		"en_text": "Enter your PSO2es Player ID\nand your Device ID to start\nthe transfer.\n\n※Your device ID can be\ngenerated from the Device\nID menu."
 	},
 	{
 		"assign": "title_dialog_t_02",
@@ -6502,7 +6502,7 @@
 	{
 		"assign": "title_dialog_b_02",
 		"jp_text": "秘密のパスワードを入力してから、\nキャラクターデータの引き継ぎを行ってください。\n\n※変更前の端末で発行された内容を入力してください。\n\n※連続で失敗すると一定時間入力ができなくなります\nのでご注意ください。",
-		"en_text": "Please enter your Device ID,\nto start the device transfer.\n\n※Your device ID can be generated from the Device ID menu."
+		"en_text": "Please enter your Device ID,\nto start the device transfer.\n\n※Your device ID can be generated\nfrom the Device ID menu.\n\n"
 	},
 	{
 		"assign": "title_dialog_t_03",
