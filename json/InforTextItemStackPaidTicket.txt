@@ -877,7 +877,7 @@
 	{
 		"assign": "32001330000",
 		"jp_text": "ＣＭ１００００獲得チケット",
-		"en_text": "",
+		"en_text": "CM10000 Winning Ticket",
 		"jp_explain": "チャレンジマイルの授与申請チケット。\nチケットを使用すると\nＣＭを【１００００】獲得可能。",
 		"en_explain": ""
 	},
@@ -891,22 +891,22 @@
 	{
 		"assign": "32001360000",
 		"jp_text": "キャラ倉庫拡張５０",
-		"en_text": "",
+		"en_text": "Character Storage extension 50",
 		"jp_explain": "キャラ倉庫の上限を５０拡張。\nキャラ倉庫は１キャラクターにつき\n最大で１０００まで拡張可能。",
-		"en_explain": ""
+		"en_explain": "Extends Character\nStorage by 50. Up to a\nmaximum of 1000 per character."
 	},
 	{
 		"assign": "32001460000",
 		"jp_text": "採取スタミナドリンク５０",
-		"en_text": "",
+		"en_text": "Collect Stamina Drink 50",
 		"jp_explain": "ギャザリング用に開発された栄養剤。\n使用すると採取スタミナが５０回復する。",
-		"en_explain": ""
+		"en_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 50 Collecting stamina when used."
 	},
 	{
 		"assign": "32001480000",
 		"jp_text": "釣りスタミナドリンク５０",
-		"en_text": "",
+		"en_text": "Fishing Stamina Drink 50",
 		"jp_explain": "ギャザリング用に開発された栄養剤。\n使用すると釣りスタミナが５０回復する。",
-		"en_explain": ""
+		"en_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 50 Fishing stamina when used."
 	}
 ]
