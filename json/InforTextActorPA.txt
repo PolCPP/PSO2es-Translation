@@ -149,7 +149,7 @@
 	{
 		"assign": "WlancePA11",
 		"jp_text": "アダプトスピン",
-		"en_text": "",
+		"en_text": "Adapting Spin",
 		"jp_explain": "『自在槍』用のフォトンアーツ。\n鮮やかに敵の攻撃を避けつつ攻撃を行う。\n任意の方向に入力する事で挙動が変化。",
 		"en_explain": ""
 	},
@@ -226,7 +226,7 @@
 	{
 		"assign": "PartisanPA11",
 		"jp_text": "ティアーズグリッド",
-		"en_text": "",
+		"en_text": "Tear Grid",
 		"jp_explain": "『長槍』用のフォトンアーツ。\nボタンホールドで連続突きを行う。\n最終段で渾身の一撃を放ち目標を穿つ。",
 		"en_explain": ""
 	},
@@ -303,7 +303,7 @@
 	{
 		"assign": "TdaggerPA11",
 		"jp_text": "フォールノクターン",
-		"en_text": "",
+		"en_text": "Fall Nocturne",
 		"jp_explain": "『双小剣』用のフォトンアーツ。\n敵に刃を突き刺し、降下しながら攻撃を\n行う。降下は地面直前で停止する。",
 		"en_explain": ""
 	},
@@ -380,7 +380,7 @@
 	{
 		"assign": "DsaberPA11",
 		"jp_text": "ハリケーンセンダー",
-		"en_text": "",
+		"en_text": "Hurricane Sender",
 		"jp_explain": "『両剣』用のフォトンアーツ。\n敵を集める竜巻を放つ。\n使用者のかまいたちに反応して激化する。",
 		"en_explain": ""
 	},
@@ -464,7 +464,7 @@
 	{
 		"assign": "KnucklePA11",
 		"jp_text": "ハートレスインパクト",
-		"en_text": "",
+		"en_text": "Heartless Impact",
 		"jp_explain": "『鋼拳』用のフォトンアーツ。\n一瞬の溜め動作の後、素早く距離を詰め\n拳による一撃を敵に叩きこむ。",
 		"en_explain": ""
 	},
@@ -541,7 +541,7 @@
 	{
 		"assign": "GunslashPA11",
 		"jp_text": "シュトレツヴァイ",
-		"en_text": "",
+		"en_text": "Strezwei",
 		"jp_explain": "『銃剣』用のフォトンアーツ。\n銃形態、剣形態で異なる攻撃を行う。\n派生でＰＰを消費、別形態の技を放つ。",
 		"en_explain": ""
 	},
@@ -618,7 +618,7 @@
 	{
 		"assign": "RiflePA11",
 		"jp_text": "エンドアトラクト",
-		"en_text": "",
+		"en_text": "End Attract",
 		"jp_explain": "『長銃』用のフォトンアーツ。\nとっておきの一弾は万物を撃ち貫く。\nチャージで貫通力が上昇する。",
 		"en_explain": ""
 	},
@@ -695,7 +695,7 @@
 	{
 		"assign": "LauncherPA11",
 		"jp_text": "スフィアイレイザー",
-		"en_text": "",
+		"en_text": "Sphere Eraser",
 		"jp_explain": "『大砲』用のフォトンアーツ。\n凝縮したフォトン粒子砲を発射。\nボタンホールドで撃ち続ける。",
 		"en_explain": ""
 	},
@@ -772,7 +772,7 @@
 	{
 		"assign": "MachinegunPA11",
 		"jp_text": "グリムバラージュ",
-		"en_text": "",
+		"en_text": "Grim Barrage",
 		"jp_explain": "『双機銃』用のフォトンアーツ。\n瞬時に懐に飛び込み敵を射抜く。\n追加で双機銃による追撃を行う。",
 		"en_explain": ""
 	},
@@ -849,7 +849,7 @@
 	{
 		"assign": "KatanaPA11",
 		"jp_text": "グレンテッセン",
-		"en_text": "",
+		"en_text": "Guren-tessen",
 		"jp_explain": "『抜剣』用のフォトンアーツ。\n目標を斬り抜ける神速の抜刀術。\n派生でＰＰを消費し、一閃する。",
 		"en_explain": ""
 	},
@@ -926,84 +926,84 @@
 	{
 		"assign": "CompoundBowPA11",
 		"jp_text": "チェイスアロウ",
-		"en_text": "",
+		"en_text": "Chase Arrow",
 		"jp_explain": "『強弓』用のフォトンアーツ。\n3本までキープされる追撃矢を放つ。\n矢は他のＰＡとチャージテクニックに反応。",
 		"en_explain": ""
 	},
 	{
 		"assign": "JetBootsPA01",
 		"jp_text": "ストライクガスト",
-		"en_text": "",
+		"en_text": "Strike Gust",
 		"jp_explain": "『魔装脚』用のフォトンアーツ。\n回し蹴りを叩き込み、敵を浮かせる。\n派生で急降下し、蹴撃を叩き込む。",
 		"en_explain": ""
 	},
 	{
 		"assign": "JetBootsPA02",
 		"jp_text": "グランウェイヴ",
-		"en_text": "",
+		"en_text": "Gran Wave",
 		"jp_explain": "『魔装脚』用のフォトンアーツ。\nフォトンの波に乗り、連続攻撃を放つ。\n派生で追撃後、すかさず距離を取る。",
 		"en_explain": ""
 	},
 	{
 		"assign": "JetBootsPA03",
 		"jp_text": "モーメントゲイル",
-		"en_text": "",
+		"en_text": "Moment Gale",
 		"jp_explain": "『魔装脚』用のフォトンアーツ。\n尋常ならざる速さで左右へ蹴り抜ける。\n派生で、周囲に回転攻撃を放つ。",
 		"en_explain": ""
 	},
 	{
 		"assign": "JetBootsPA04",
 		"jp_text": "ヴィントジーカー",
-		"en_text": "ジェットブーツPA",
+		"en_text": "Vinto Gigue",
 		"jp_explain": "『魔装脚』用のフォトンアーツ。\nギアを全消費することで、限界を超えた\n一撃を放つ。派生で前方に蹴撃を行う。",
 		"en_explain": ""
 	},
 	{
 		"assign": "DbladePA01",
 		"jp_text": "ディストラクトウィング",
-		"en_text": "",
+		"en_text": "Distraction Wing",
 		"jp_explain": "『飛翔剣』用のフォトンアーツ。\n目にも留まらぬ神速で踏み込み\n十字斬りを見舞う。",
 		"en_explain": ""
 	},
 	{
 		"assign": "DbladePA02",
 		"jp_text": "ディスパースシュライク",
-		"en_text": "",
+		"en_text": "Dispersion Strike",
 		"jp_explain": "『飛翔剣』用のフォトンアーツ。\nフォトンの刃を散開させ\n移動しながら周囲を攻撃する。",
 		"en_explain": ""
 	},
 	{
 		"assign": "DbladePA03",
 		"jp_text": "ヘブンリーカイト",
-		"en_text": "",
+		"en_text": "Heavenly Kite",
 		"jp_explain": "『飛翔剣』用のフォトンアーツ。\nフォトンの刃と共に斬り上げ\n更に追撃の回転斬りを行う。",
 		"en_explain": ""
 	},
 	{
 		"assign": "DbladePA04",
 		"jp_text": "ジャスティスクロウ",
-		"en_text": "",
+		"en_text": "Justice Crow",
 		"jp_explain": "『飛翔剣』用のフォトンアーツ。\n斬撃により正義の印を刻み、投げ放つ。\n正義の印は爆発し、敵を打ち砕く。",
 		"en_explain": ""
 	},
 	{
 		"assign": "DbladePA05",
 		"jp_text": "スターリングフォール",
-		"en_text": "",
+		"en_text": "Starling Fall",
 		"jp_explain": "『飛翔剣』用のフォトンアーツ。\n自身の周囲にフォトンの刃を展開し\n爆発と共に四散させる無慈悲な攻撃。",
 		"en_explain": ""
 	},
 	{
 		"assign": "DbladePA06",
 		"jp_text": "ケストレルランページ",
-		"en_text": "",
+		"en_text": "Kestrel Rampage",
 		"jp_explain": "『飛翔剣』用のフォトンアーツ。\nフォトンの刃と共に乱舞を繰り出し\n数多の刃で目標を微塵に斬り刻む。",
 		"en_explain": ""
 	},
 	{
 		"assign": "DbladePA07",
 		"jp_text": "イモータルダーヴ",
-		"en_text": "",
+		"en_text": "Immortal Dove",
 		"jp_explain": "『飛翔剣』用のフォトンアーツ。\nフォトンの刃で巨大な剣を形成し\n前方に向かって叩きつける。",
 		"en_explain": ""
 	},
@@ -1304,21 +1304,21 @@
 	{
 		"assign": "MultiWT01",
 		"jp_text": "ザンディオン",
-		"en_text": "",
+		"en_text": "Zandion",
 		"jp_explain": "風と雷の複合属性テクニック。\n風と雷の翼をまとい、数多の雷撃を\n残しながら、目標へ向けて突撃する。",
 		"en_explain": ""
 	},
 	{
 		"assign": "MultiFD01",
 		"jp_text": "フォメルギオン",
-		"en_text": "",
+		"en_text": "Fomelgion",
 		"jp_explain": "炎と闇の複合属性テクニック。\n炎と闇の力を放ち、全てを焼き尽くす。\n捕らわれた目標は、獄炎に包まれる。",
 		"en_explain": ""
 	},
 	{
 		"assign": "MultiIL01",
 		"jp_text": "バーランツィオン",
-		"en_text": "",
+		"en_text": "Barantsion",
 		"jp_explain": "氷と光の複合属性テクニック。\n氷と光で作られた刃で突撃を行い\n標的に華麗なる剣舞を見舞う。",
 		"en_explain": ""
 	},
