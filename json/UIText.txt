@@ -522,7 +522,7 @@
 	{
 		"assign": "acshop_dialog_b_37",
 		"jp_text": "OP回復薬ミニの使用する数を選択してください。\n\n出発に必要なOP：<%consume_exdrive>\n現在のOP：<%current_exdrive>\n\n所持OP回復薬ミニ：<%current_oprecovery_pass_mini>",
-		"en_text": "Please select the amount of OP you wish to recover.\n\nRequired OP:<%consume_exdrive>\nCurrent OP:<%current_exdrive>\n\nOP Recovery Tickets:<%current_oprecovery_pass_mini>"
+		"en_text": "Select the amount of OP to recover.\n\nRequired OP:<%consume_exdrive>\nCurrent OP:<%current_exdrive>\n\nOP Recovery Meds:<%current_oprecovery_pass_mini>"
 	},
 	{
 		"assign": "acshop_dialog_t_38",
@@ -587,12 +587,12 @@
 	{
 		"assign": "acshop_scape_doll_es_unit",
 		"jp_text": "<%current_scape_doll_es>個",
-		"en_text": "x<%current_scape_doll_es>"
+		"en_text": "<%current_scape_doll_es>"
 	},
 	{
 		"assign": "acshop_oprecovery_pass_unit",
 		"jp_text": "<%current_oprecovery_pass>個",
-		"en_text": "x<%current_oprecovery_pass>"
+		"en_text": "<%current_oprecovery_pass>"
 	},
 	{
 		"assign": "acshop_myshop_ticket_unit",
@@ -642,22 +642,22 @@
 	{
 		"assign": "acshop_oprecovery_pass_buff_update_01",
 		"jp_text": "<color=#ff0000>攻撃力</color>アップの効果が発生！\n\n<color=#ff0000>攻撃力</color>アップの効果が<color=#f6bf03>更新</color>されました。\n<%rate>倍(<%finish_datetime>まで)",
-		"en_text": "<color=#ff0000>ATK Power</color> effect up active!\n\n<color=#ff0000>ATK Power</color>effect up has been<color=#f6bf03>updated</color>.\n<%rate> expires in <%finish_datetime>."
+		"en_text": "<color=#ff0000>ATK Power</color> effect up active!\n\n<color=#ff0000>ATK Power</color>effect up has been <color=#f6bf03>updated</color>.\n<%rate> expires in <%finish_datetime>."
 	},
 	{
 		"assign": "acshop_oprecovery_pass_buff_update_02",
 		"jp_text": "<color=#00dd72>防御力</color>アップの効果が発生！\n\n<color=#00dd72>防御力</color>アップの効果が<color=#f6bf03>更新</color>されました。\n<%rate>倍(<%finish_datetime>まで)",
-		"en_text": "<color=#00dd72>DEF Power</color> effect up active!\n\n<color=#00dd72>DEF Power</color>effect up has been<color=#f6bf03>updated</color>.\n<%rate> expires in <%finish_datetime>."
+		"en_text": "<color=#00dd72>DEF Power</color> effect up active!\n\n<color=#00dd72>DEF Power</color>effect up has been <color=#f6bf03>updated</color>.\n<%rate> expires in <%finish_datetime>."
 	},
 	{
 		"assign": "acshop_oprecovery_pass_buff_update_03",
 		"jp_text": "<color=#00ccff>CP回復力</color>アップの効果が発生！\n\n<color=#00ccff>CP回復力</color>アップの効果が<color=#f6bf03>更新</color>されました。\n<%rate>倍(<%finish_datetime>まで)",
-		"en_text": "<color=#00ccff>CP Energy</color> effect up active!\n\n<color=#00ccff>CP Energy</color>effect up has been<color=#f6bf03>updated</color>.\n<%rate> expires in <%finish_datetime>."
+		"en_text": "<color=#00ccff>CP Energy</color> effect up active!\n\n<color=#00ccff>CP Energy</color>effect up has been <color=#f6bf03>updated</color>.\n<%rate> expires in <%finish_datetime>."
 	},
 	{
 		"assign": "acshop_oprecovery_pass_buff_update_04",
 		"jp_text": "<color=#ffff00>フレンドアシスト</color>攻撃力アップの効果が発生！\n\n<color=#ffff00>フレンドアシスト</color>攻撃力アップの効果が\n<color=#f6bf03>更新</color>されました。\n<%rate>倍(<%finish_datetime>まで)",
-		"en_text": "<color=#ffff00>Friend Assist</color> effect up active!\n\n<color=#ffff00>Friend Assist</color> power has been<color=#f6bf03>updated</color>.\n<%rate> expires in <%finish_datetime>."
+		"en_text": "<color=#ffff00>Friend Assist</color> effect up active!\n\n<color=#ffff00>Friend Assist</color> power has been <color=#f6bf03>updated</color>.\n<%rate> expires in <%finish_datetime>."
 	},
 	{
 		"assign": "acshop_oprecovery_pass_attention",
@@ -6187,7 +6187,7 @@
 	{
 		"assign": "fieldoption_autoatmove_text01",
 		"jp_text": "通常攻撃の移動補助",
-		"en_text": ""
+		"en_text": "Auto Attack Move"
 	},
 	{
 		"assign": "fieldoption_autoatmove_on",
@@ -6202,12 +6202,12 @@
 	{
 		"assign": "fieldoption_autoatmove_explain01",
 		"jp_text": "通常攻撃時のオート移動をオンにします。",
-		"en_text": ""
+		"en_text": "Turn on Automove for Normal Attacks."
 	},
 	{
 		"assign": "fieldoption_autoatmove_explain02",
 		"jp_text": "通常攻撃時のオート移動をオフにします。",
-		"en_text": ""
+		"en_text": "Turn off Automove for Normal Attacks."
 	},
 	{
 		"assign": "quest_result_levelcap",
