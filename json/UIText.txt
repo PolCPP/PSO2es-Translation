@@ -3282,7 +3282,7 @@
 	{
 		"assign": "myshop_dialog_b_00",
 		"jp_text": "購入しようとしているアイテムの一部に\n★10以上のアイテムが含まれています。\n\n購入するには以下のアイテムが必要となります。\n消費して購入します。\n\nよろしいですか？\n\n<%NEEDITEM>　<%NEED>（所持：<%HAVE>）",
-		"en_text": "The Item you're trying to buy is a ★10 or higher.\nWeapons will need a weapon pass.\n\n<%NEEDITEM>　<color=red><%NEED>（Owned： <%HAVE>）</color>"
+		"en_text": "The Item you're trying to buy is a ★10 or higher.\nUnits&Weapons will need an exchange pass.\n\n<%NEEDITEM>　<color=red><%NEED>（Owned： <%HAVE>）</color>"
 	},
 	{
 		"assign": "myshop_dialog_t_01",
@@ -3292,7 +3292,7 @@
 	{
 		"assign": "myshop_dialog_b_01",
 		"jp_text": "購入しようとしているアイテムの一部に\n★10以上のアイテムが含まれていますが、\n以下のアイテムが不足しているため\n購入することができません。\n\n<%NEEDITEM>　<color=red><%NEED>（所持：<%HAVE>）</color>",
-		"en_text": "The Item you're trying to buy is a ★10 or higher.\nUnits will need a unit pass.\n\n<%NEEDITEM>　<color=red><%NEED><%NEED>（Owned： <%HAVE>）</color>"
+		"en_text": "The Item you're trying to buy is a ★10 or higher.\nUnits&Weapons will need an exchange pass.\n\n<%NEEDITEM>　<color=red><%NEED>（Owned： <%HAVE>）</color>"
 	},
 	{
 		"assign": "myshop_dialog_t_02",
@@ -3442,7 +3442,7 @@
 	{
 		"assign": "myshop_dialog_b_14",
 		"jp_text": "アイテムを出品しました。",
-		"en_text": "Item Sold"
+		"en_text": "Item placed for sale."
 	},
 	{
 		"assign": "myshop_dialog_t_15",
@@ -3472,7 +3472,7 @@
 	{
 		"assign": "myshop_dialog_b_17",
 		"jp_text": "アイテムパックの空き容量不足、\nまたは所持数の限界を超えているため、\n取り下げできませんでした。",
-		"en_text": "Because you do not have the\required free space for this item,\nyou cannot withdraw."
+		"en_text": "Because you do not have the\nrequired free space for this item,\nyou cannot withdraw."
 	},
 	{
 		"assign": "myshop_dialog_t_18",
@@ -4992,7 +4992,7 @@
 	{
 		"assign": "quest_counter_meseta",
 		"jp_text": "メセタ",
-		"en_text": "Meseta  "
+		"en_text": "Meseta\t"
 	},
 	{
 		"assign": "quest_counter_window_areaselect",
@@ -5042,12 +5042,12 @@
 	{
 		"assign": "quest_counter_label_drive",
 		"jp_text": "行動力",
-		"en_text": "Drive"
+		"en_text": "Drive\t"
 	},
 	{
 		"assign": "quest_counter_label_time",
 		"jp_text": "あと",
-		"en_text": "Regen"
+		"en_text": "Regen\t"
 	},
 	{
 		"assign": "quest_counter_window_questselect",
@@ -5847,7 +5847,7 @@
 	{
 		"assign": "scratch_bonus_list_header_status",
 		"jp_text": "ボーナスまでの回数",
-		"en_text": "Number of times til Bonus"
+		"en_text": "Times til Bonus"
 	},
 	{
 		"assign": "scratch_bonus_list_header_name",
@@ -15012,7 +15012,7 @@
 	{
 		"assign": "pet_select_give_count",
 		"jp_text": "合成可能回数{0}",
-		"en_text": "Can be fed {0} times"
+		"en_text": "Feed: {0} times."
 	},
 	{
 		"assign": "pet_info_window_title",
