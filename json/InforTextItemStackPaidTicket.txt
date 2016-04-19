@@ -896,6 +896,62 @@
 		"en_explain": "Extends Character\nStorage by 50. Up to a\nmaximum of 1000 per character."
 	},
 	{
+		"assign": "32001370000",
+		"jp_text": "１スタージェム",
+		"en_text": "",
+		"jp_explain": "スタージェムの授与。\n条件を満たすことで\nＳＧを【１】獲得する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32001380000",
+		"jp_text": "２スタージェム",
+		"en_text": "",
+		"jp_explain": "スタージェムの授与。\n条件を満たすことで\nＳＧを【２】獲得する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32001390000",
+		"jp_text": "５スタージェム",
+		"en_text": "",
+		"jp_explain": "スタージェムの授与。\n条件を満たすことで\nＳＧを【５】獲得する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32001400000",
+		"jp_text": "１０スタージェム",
+		"en_text": "",
+		"jp_explain": "スタージェムの授与。\n条件を満たすことで\nＳＧを【１０】獲得する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32001410000",
+		"jp_text": "５０スタージェム",
+		"en_text": "",
+		"jp_explain": "スタージェムの授与。\n条件を満たすことで\nＳＧを【５０】獲得する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32001420000",
+		"jp_text": "１００スタージェム",
+		"en_text": "",
+		"jp_explain": "スタージェムの授与。\n条件を満たすことで\nＳＧを【１００】獲得する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32001430000",
+		"jp_text": "２００スタージェム",
+		"en_text": "",
+		"jp_explain": "スタージェムの授与。\n条件を満たすことで\nＳＧを【２００】獲得する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32001440000",
+		"jp_text": "１０００スタージェム",
+		"en_text": "",
+		"jp_explain": "スタージェムの授与。\n条件を満たすことで\nＳＧを【１０００】獲得する。",
+		"en_explain": ""
+	},
+	{
 		"assign": "32001460000",
 		"jp_text": "採取スタミナドリンク５０",
 		"en_text": "Collect Stamina Drink 50",
@@ -908,5 +964,61 @@
 		"en_text": "Fishing Stamina Drink 50",
 		"jp_explain": "ギャザリング用に開発された栄養剤。\n使用すると釣りスタミナが５０回復する。",
 		"en_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 50 Fishing stamina when used."
+	},
+	{
+		"assign": "32001490000",
+		"jp_text": "ＳＧ１獲得チケット",
+		"en_text": "",
+		"jp_explain": "スタージェムの授与申請チケット。\nチケットを使用すると\nＳＧを【１】獲得可能。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32001500000",
+		"jp_text": "ＳＧ２獲得チケット",
+		"en_text": "",
+		"jp_explain": "スタージェムの授与申請チケット。\nチケットを使用すると\nＳＧを【２】獲得可能。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32001510000",
+		"jp_text": "ＳＧ５獲得チケット",
+		"en_text": "",
+		"jp_explain": "スタージェムの授与申請チケット。\nチケットを使用すると\nＳＧを【５】獲得可能。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32001520000",
+		"jp_text": "ＳＧ１０獲得チケット",
+		"en_text": "",
+		"jp_explain": "スタージェムの授与申請チケット。\nチケットを使用すると\nＳＧを【１０】獲得可能。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32001530000",
+		"jp_text": "ＳＧ５０獲得チケット",
+		"en_text": "",
+		"jp_explain": "スタージェムの授与申請チケット。\nチケットを使用すると\nＳＧを【５０】獲得可能。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32001540000",
+		"jp_text": "ＳＧ１００獲得チケット",
+		"en_text": "",
+		"jp_explain": "スタージェムの授与申請チケット。\nチケットを使用すると\nＳＧを【１００】獲得可能。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32001550000",
+		"jp_text": "ＳＧ２００獲得チケット",
+		"en_text": "",
+		"jp_explain": "スタージェムの授与申請チケット。\nチケットを使用すると\nＳＧを【２００】獲得可能。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32001560000",
+		"jp_text": "ＳＧ１０００獲得チケット",
+		"en_text": "",
+		"jp_explain": "スタージェムの授与申請チケット。\nチケットを使用すると\nＳＧを【１０００】獲得可能。",
+		"en_explain": ""
 	}
 ]
