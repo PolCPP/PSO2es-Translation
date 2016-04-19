@@ -1403,7 +1403,7 @@
 		"assign": "200",
 		"jp_text": "隣闘連陣",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ペットとプレイヤーの\n距離が近いほど\n与えるダメージが上昇する。",
 		"en_explain": ""
 	},
 	{
@@ -1466,7 +1466,7 @@
 		"assign": "209",
 		"jp_text": "-",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ペットのＨＰが\n１／４以下で\nダメージが上昇する。",
 		"en_explain": ""
 	},
 	{
@@ -1515,7 +1515,7 @@
 		"assign": "216",
 		"jp_text": "心血万全の剛力",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ペットのＨＰが６０％\n以上の時に与える\nダメージが増加する。",
 		"en_explain": ""
 	},
 	{
@@ -1543,21 +1543,21 @@
 		"assign": "220",
 		"jp_text": "止息の施し",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ペットの攻撃で\nエネミーを倒すとまれに\nＨＰが回復する。",
 		"en_explain": ""
 	},
 	{
 		"assign": "221",
 		"jp_text": "安息の施し",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ペットが一定時間\nダメージを受けずに\nいるとＨＰが回復。",
 		"en_explain": ""
 	},
 	{
 		"assign": "222",
 		"jp_text": "慈愛の風",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ペットのＨＰを回復した際\n周囲のプレイヤーを\n一定割合分回復する。",
 		"en_explain": ""
 	},
 	{
@@ -1571,7 +1571,7 @@
 		"assign": "224",
 		"jp_text": "絶強印",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ペットが受ける強敵からの\nダメージが減少する。",
 		"en_explain": ""
 	},
 	{
@@ -1585,7 +1585,7 @@
 		"assign": "226",
 		"jp_text": "集気光",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ペットの攻撃で回復する\nＰＰが上昇する。",
 		"en_explain": ""
 	},
 	{
@@ -1606,7 +1606,7 @@
 		"assign": "229",
 		"jp_text": "共奏の輝き",
 		"en_text": "",
-		"jp_explain": "-",
+		"jp_explain": "シンパシー発動時、\nＰＰ回復量が上昇する。",
 		"en_explain": ""
 	},
 	{

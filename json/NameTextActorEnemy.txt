@@ -1825,6 +1825,11 @@
 		"en_text": "DF Apprentice Zia"
 	},
 	{
+		"assign": "PhantomShipA",
+		"jp_text": "幻創戦艦・大和",
+		"en_text": ""
+	},
+	{
 		"assign": "VehicleEnemy",
 		"jp_text": "A.I.Sエクソーダ",
 		"en_text": "A.I.S. Exoda"
@@ -1848,6 +1853,11 @@
 		"assign": "PhantomManGun",
 		"jp_text": "チャカゾンビ",
 		"en_text": "Chaka Zombie"
+	},
+	{
+		"assign": "PhantomManSp",
+		"jp_text": "グレンゾンビ",
+		"en_text": ""
 	},
 	{
 		"assign": "PhantomHeli",
@@ -1913,6 +1923,21 @@
 		"assign": "PetCommon",
 		"jp_text": "ペット",
 		"en_text": "Pet"
+	},
+	{
+		"assign": "Char18_HG",
+		"jp_text": "ハギト・フェムト",
+		"en_text": ""
+	},
+	{
+		"assign": "NativeBeast_T",
+		"jp_text": "ウーダン",
+		"en_text": ""
+	},
+	{
+		"assign": "YetiA_T",
+		"jp_text": "キングイエーデ",
+		"en_text": ""
 	},
 	{
 		"assign": "KingRappy",
@@ -2285,6 +2310,36 @@
 		"en_text": "Type-C Bantha Ong+"
 	},
 	{
+		"assign": "PantherBRareLD0",
+		"jp_text": "小型バンサ・ドンナ",
+		"en_text": ""
+	},
+	{
+		"assign": "PantherBRareATK0",
+		"jp_text": "大型バンサ・ドンナ",
+		"en_text": ""
+	},
+	{
+		"assign": "PantherBRareSPD0",
+		"jp_text": "狂暴バンサ・ドンナ",
+		"en_text": ""
+	},
+	{
+		"assign": "PantherBRareAN0",
+		"jp_text": "特異バンサ・ドンナ",
+		"en_text": ""
+	},
+	{
+		"assign": "PantherBRareHC0",
+		"jp_text": "タイプＣバンサ・ドンナ",
+		"en_text": ""
+	},
+	{
+		"assign": "PantherBRareHC1",
+		"jp_text": "タイプＣバンサ・ドンナ＋",
+		"en_text": ""
+	},
+	{
 		"assign": "DragonMagmaRareLD0",
 		"jp_text": "小型バーン・ドラール",
 		"en_text": "Small Burn Draal"
@@ -2576,7 +2631,7 @@
 	},
 	{
 		"assign": "BirdBirdcrowAEx",
-		"jp_text": "シュトゥラーダＥｘ",
+		"jp_text": "シュトゥラーダEx",
 		"en_text": "Strahda EX"
 	},
 	{
@@ -2846,7 +2901,7 @@
 	},
 	{
 		"assign": "RappySummerEx",
-		"jp_text": "サマーラッピーＥｘ",
+		"jp_text": "サマー・ラッピーＥｘ",
 		"en_text": "Summer Rappy EX"
 	},
 	{
@@ -2861,7 +2916,7 @@
 	},
 	{
 		"assign": "RappyFrogEx",
-		"jp_text": "フログラッピーＥｘ",
+		"jp_text": "フログ・ラッピーＥｘ",
 		"en_text": "Frog Rappy EX"
 	},
 	{

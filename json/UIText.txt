@@ -800,6 +800,16 @@
 		"en_text": "This will cancel the sale.\nAre you sure?"
 	},
 	{
+		"assign": "mshop_dialog_t_06",
+		"jp_text": "アイテム売却",
+		"en_text": ""
+	},
+	{
+		"assign": "mshop_dialog_b_06",
+		"jp_text": "選択したアイテムの中に\nスタージェムを受け取っていないものが\n含まれています。\n本当に売却しますか？",
+		"en_text": ""
+	},
+	{
 		"assign": "rshop_dialog_t_00",
 		"jp_text": "リサイクルショップ",
 		"en_text": "Recycle Shop"
@@ -858,6 +868,16 @@
 		"assign": "rshop_dialog_b_05",
 		"jp_text": "交換上限数に達したため、交換できません。",
 		"en_text": "You hit the limit of said item."
+	},
+	{
+		"assign": "rshop_dialog_t_06",
+		"jp_text": "リサイクルショップ",
+		"en_text": ""
+	},
+	{
+		"assign": "rshop_dialog_b_06",
+		"jp_text": "スタージェムを受け取っていないアイテムを\n交換しようとしています。\nよろしいですか？",
+		"en_text": ""
 	},
 	{
 		"assign": "arcscard_guide_00",
@@ -3620,6 +3640,16 @@
 		"en_text": "Purchase Complete.\nItem is now bound to your account."
 	},
 	{
+		"assign": "myshop_dialog_t_32",
+		"jp_text": "アイテム出品",
+		"en_text": ""
+	},
+	{
+		"assign": "myshop_dialog_b_32",
+		"jp_text": "スタージェムを受け取っていないアイテムを\n出品しようとしています。\nよろしいですか？",
+		"en_text": ""
+	},
+	{
 		"assign": "myshop_condition_potential1",
 		"jp_text": "なし",
 		"en_text": "No"
@@ -3641,8 +3671,13 @@
 	},
 	{
 		"assign": "myshop_category_weapon",
-		"jp_text": "武器",
+		"jp_text": "旧式武器",
 		"en_text": "Weapons"
+	},
+	{
+		"assign": "myshop_category_new_weapon",
+		"jp_text": "新世武器",
+		"en_text": ""
 	},
 	{
 		"assign": "myshop_category_unit",
@@ -6400,6 +6435,31 @@
 		"en_text": "<%point> OP recovered!"
 	},
 	{
+		"assign": "questresult_weaponoid_button",
+		"jp_text": "タッチで進む",
+		"en_text": ""
+	},
+	{
+		"assign": "questresult_weaponoid_present",
+		"jp_text": "<%name>から\n<%item>をもらいました！",
+		"en_text": ""
+	},
+	{
+		"assign": "questresult_weaponoid_window",
+		"jp_text": "キャラクター一覧",
+		"en_text": ""
+	},
+	{
+		"assign": "questresult_weaponoid_story_open",
+		"jp_text": "<%name>\n第<%story>話の外伝が解放されました！",
+		"en_text": ""
+	},
+	{
+		"assign": "questresult_weaponoid_ability",
+		"jp_text": "ウェポノイド能力により行動力が<%val>回復した",
+		"en_text": ""
+	},
+	{
 		"assign": "battleresult_title",
 		"jp_text": "バトル評価",
 		"en_text": "Battle Evaluation"
@@ -7923,6 +7983,16 @@
 		"assign": "questkey_timelimit_over",
 		"jp_text": "有効期限 / <color=\"red\">yyyy年MM月dd日HH時mm分</color>",
 		"en_text": "Expires/ <color=\"red\">yyyy/MM/dd  HH:mm</color>"
+	},
+	{
+		"assign": "stargem_label_0",
+		"jp_text": "スタージェム未取得",
+		"en_text": ""
+	},
+	{
+		"assign": "stargem_label_1",
+		"jp_text": "スタージェム取得済",
+		"en_text": ""
 	},
 	{
 		"assign": "recycle_shop_header",
@@ -10681,7 +10751,7 @@
 	},
 	{
 		"assign": "tu_0006_w09_b",
-		"jp_text": "Windows PC、PlayStation®Vitaでサービス中の『PSO2』と連動すると、\n現在のキャラクターのまま『PSO2』をプレイすることができます。",
+		"jp_text": "Windows PC、PlayStation®Vita、PlayStation®4で\nサービス中の『PSO2』と連動すると、\n現在のキャラクターのまま『PSO2』をプレイすることができます。",
 		"en_text": "Linked Windows PC and PlayStation®Vita\naccounts can play on the same character."
 	},
 	{
@@ -14741,8 +14811,13 @@
 	},
 	{
 		"assign": "btl_soundset",
-		"jp_text": "サウンド設定",
+		"jp_text": "オプション(サウンド設定)",
 		"en_text": "Sound Stn."
+	},
+	{
+		"assign": "btl_voice",
+		"jp_text": "VOICE",
+		"en_text": ""
 	},
 	{
 		"assign": "btl_bgm",
@@ -15251,7 +15326,7 @@
 	},
 	{
 		"assign": "ItemDetail_EquipSkill_ForceSufficiently",
-		"jp_text": "<color=yellow>100%</color>　　<color=white>(セット効果発動中)</color>",
+		"jp_text": "<color=yellow>100％</color>　　<color=white>(セット効果発動中)</color>",
 		"en_text": "<color=yellow>100%</color>　　<color=white>(Set Effect)</color>"
 	},
 	{
@@ -15261,12 +15336,12 @@
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_ChipName",
-		"jp_text": "対象チップ名：<%parameter>",
+		"jp_text": "対象チップ / <%parameter>",
 		"en_text": "Chip Name: <%parameter>"
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_Mastary",
-		"jp_text": "セット効果発動中 習熟度<%parameter>%",
+		"jp_text": "武器習熟度<%parameter>％",
 		"en_text": "Set Effect proficiency <%parameter>%"
 	},
 	{
@@ -15335,23 +15410,493 @@
 		"en_text": "PSO2 Only Item."
 	},
 	{
+		"assign": "autobattle_start",
+		"jp_text": "オート攻撃開始",
+		"en_text": ""
+	},
+	{
+		"assign": "autobattle_using",
+		"jp_text": "オート攻撃中",
+		"en_text": ""
+	},
+	{
+		"assign": "wh_34_01",
+		"jp_text": "ウェポノイドチップには、そのウェポノイドをめぐるストーリー付きの\n外伝クエストが存在するものがあります。",
+		"en_text": ""
+	},
+	{
+		"assign": "wh_34_02",
+		"jp_text": "ウェポノイドのチップを装備してクエストをクリアすると\n「外伝解放ゲージ」が上昇し、ゲージがいっぱいになるたびに\nそのウェポノイドの外伝クエストを進めることができます。",
+		"en_text": ""
+	},
+	{
+		"assign": "wh_34_03",
+		"jp_text": "外伝クエストを全てクリアすると、ウェポノイドチップの\n新たな能力が解放されるなどのボーナスがあります。",
+		"en_text": ""
+	},
+	{
+		"assign": "wh_34_04",
+		"jp_text": "所持しているウェポノイドに外伝クエストが追加されたら\nぜひプレイして、ウェポノイドとの絆を深めましょう！",
+		"en_text": ""
+	},
+	{
+		"assign": "wh_35_01",
+		"jp_text": "全ての外伝クエストをクリアすると「外伝解放ゲージ」が\n「プレゼントゲージ」に変わり、ゲージがたまるたびに、\nウェポノイドからプレゼントが贈られるようになります。",
+		"en_text": ""
+	},
+	{
 		"assign": "ItemDetail_RingExp_Caption",
 		"jp_text": "リングEXP/",
 		"en_text": "Ring EXP/"
 	},
 	{
 		"assign": "ItemDetail_RingGrind_Remain",
-		"jp_text": "<color=white>(<%parameter>まで強化可能)</color>",
+		"jp_text": "(<%parameter>まで<color=yellow>強化可</color>)",
 		"en_text": "<color=white>(<%parameter> Grind Possible)</color>"
 	},
 	{
 		"assign": "ItemDetail_RingGrind_Max",
-		"jp_text": "<color=white>(最大)</color>",
+		"jp_text": "<color=orange>(最大)</color>",
 		"en_text": "<color=white>(Max)</color>"
 	},
 	{
 		"assign": "ItemDetail_RingSkill_TitleCaption",
 		"jp_text": "<color=white>リングスキル・パラメータ (PSO2のみで発揮)</color>",
 		"en_text": "<color=white>Skill Ring parameters (PSO2 only)</color>"
+	},
+	{
+		"assign": "SideSt_Title",
+		"jp_text": "外伝クエスト",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Prologue",
+		"jp_text": "ストーリー視聴",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Memorial_Label",
+		"jp_text": "外伝解放ゲージst.{0}",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Present_Label",
+		"jp_text": "プレゼントまで",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Bonds_Lv",
+		"jp_text": "絆Lv.{0}",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Browse_Story",
+		"jp_text": "ストーリーを振り返る",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Play_Voice",
+		"jp_text": "ボイス再生",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Confirm_SetEffect",
+		"jp_text": "武器セット効果確認",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Browse_Window_Title",
+		"jp_text": "ストーリーを再生する",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Select_Area_Title",
+		"jp_text": "外伝クエストエリア選択",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Select_Quest_Title",
+		"jp_text": "外伝クエスト選択",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Detail_Title",
+		"jp_text": "メニュー",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Play_Voice_Title",
+		"jp_text": "ボイス再生",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Weaponoid_Window_Title",
+		"jp_text": "ウェポノイド一覧",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Weaponoid_Sort_Normal",
+		"jp_text": "通常",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Weaponoid_Sort_Got",
+		"jp_text": "入手済",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Weaponoid_Sort_Progress",
+		"jp_text": "進行度",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_Parameter_GammaExpCaption",
+		"jp_text": "強化EXP　　　　/",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Bonds_Lv_Effect",
+		"jp_text": "効果「{0}」が解放されました！",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_Fondness_Caption",
+		"jp_text": "愛着度　/",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_Fondness_Acquired",
+		"jp_text": "スタージェム取得済",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_Fondness_Unacquired",
+		"jp_text": "スタージェム未取得",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Dialog_t_00",
+		"jp_text": "外伝クエスト 解放条件",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Dialog_b_00",
+		"jp_text": "ウェポノイドのチップを入手して\n解放条件をクリアすると第{0}話が解放されます。",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Dialog_b_00_1",
+		"jp_text": "ウェポノイドのチップを入手すると\n第1話が解放されます。",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Dialog_t_01",
+		"jp_text": "外伝クエスト 解放条件",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Dialog_b_01",
+		"jp_text": "このクエストは\nアップデートにて配信予定です。\n配信後に解放条件をクリアしてください。",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Dialog_t_02",
+		"jp_text": "外伝クエスト 解放条件",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Dialog_b_02_0",
+		"jp_text": "・ストーリークエスト第{0}章\n「{1}」クリア",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Dialog_b_02_1",
+		"jp_text": "・「{0}」の\n　　外伝解放ゲージst.{1} を最大にする",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Dialog_b_02_2",
+		"jp_text": "・「{0}」の\n　　第{1}話クリア（絆Lv.{2}）",
+		"en_text": ""
+	},
+	{
+		"assign": "pet_rehatch_body",
+		"jp_text": "<color=yellow>ペットから戻したエッグが選択されています。\nエッグは合成実行後に消滅します。</color>\nエッグ合成を実行してもよろしいですか？\n\n\n\n\n\n\n\n",
+		"en_text": ""
+	},
+	{
+		"assign": "pet_rehatch_title",
+		"jp_text": "エッグ合成確認",
+		"en_text": ""
+	},
+	{
+		"assign": "pet_eggdetail_title_03",
+		"jp_text": "ペットネーム",
+		"en_text": ""
+	},
+	{
+		"assign": "ItemDetail_RingGrind_EnableLimitBreak",
+		"jp_text": "(リングEXP100％で<color=yellow>上限UP</color>)",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Ordinal",
+		"jp_text": "第{0}話",
+		"en_text": ""
+	},
+	{
+		"assign": "wpc_list_sorttype_id",
+		"jp_text": "標準",
+		"en_text": ""
+	},
+	{
+		"assign": "wpc_list_sorttype_isalreadyhave",
+		"jp_text": "入手済",
+		"en_text": ""
+	},
+	{
+		"assign": "wpc_list_sorttype_progress",
+		"jp_text": "進行度",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_play_locked_title",
+		"jp_text": "ボイス再生",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_play_locked_info",
+		"jp_text": "このボイスは\n絆レベルがLv.<%parameter>になると解放されます。",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_greeting",
+		"jp_text": "外伝追加時",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_equipedreaction1",
+		"jp_text": "チップ装備時１",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_questdeparture",
+		"jp_text": "クエスト出発時",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_questclear",
+		"jp_text": "クエストクリア時",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_activatechip1",
+		"jp_text": "チップ発動時１",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_activatechip2",
+		"jp_text": "チップ発動時２",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_memlevelup1",
+		"jp_text": "絆レベルアップ１",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_memlevelup2",
+		"jp_text": "絆レベルアップ２",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_equipedreaction2",
+		"jp_text": "チップ装備時２",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_memlevelup3",
+		"jp_text": "絆レベルアップ３",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_memlevelup4",
+		"jp_text": "絆レベルアップ４",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_getpresent",
+		"jp_text": "プレゼント獲得時",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_evoandlvmax",
+		"jp_text": "強化＆絆レベル最大時",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_story_replay_unknownsotry",
+		"jp_text": "？？？",
+		"en_text": ""
+	},
+	{
+		"assign": "weaponoid_boost_info_title",
+		"jp_text": "武器セット効果",
+		"en_text": ""
+	},
+	{
+		"assign": "weaponoid_boost_info_explain",
+		"jp_text": "武器「<%parameter1>」と\nチップ「<%parameter2>」を\nあわせて装備すると効果発動！",
+		"en_text": ""
+	},
+	{
+		"assign": "weaponoid_boost_info_detail",
+		"jp_text": "・<%parameter>",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_shout",
+		"jp_text": "かけ声",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_laughter",
+		"jp_text": "笑い",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_surprised",
+		"jp_text": "驚き",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_interest",
+		"jp_text": "興味",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_story_replay_locked_title",
+		"jp_text": "ストーリーの再生",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_story_replay_locked_info",
+		"jp_text": "このストーリーは\n絆レベルがLv.<%parameter>になると\n再生できるようになります。",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_story_replay_btn_title1",
+		"jp_text": "第<%story_num>話",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_story_replay_btn_title2",
+		"jp_text": "<%story_title>",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_story_menu_title",
+		"jp_text": "ストーリーを再生する",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_story_partname_prologue",
+		"jp_text": "前編",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_story_partname_epilogue",
+		"jp_text": "後編",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_touchreaction1",
+		"jp_text": "タッチ１",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_touchreaction2",
+		"jp_text": "タッチ２",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_touchreaction3",
+		"jp_text": "タッチ３",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_touchreaction4",
+		"jp_text": "タッチ４",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_touchreaction5",
+		"jp_text": "タッチ５",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_touchreaction6",
+		"jp_text": "タッチ６",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_touchreaction7",
+		"jp_text": "タッチ７",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_guide_message_01",
+		"jp_text": "<color=#f0df60>ウェポノイドの外伝クエストに出発できます。クエストは、ウェポノイドのチップを装備してクエストをプレイすることで解放されます。</color>",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_guide_message_02",
+		"jp_text": "<color=#f0df60>外伝が配信されているウェポノイドの一覧です。入手済みのウェポノイドは明るく表示されます。</color>",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_guide_message_03",
+		"jp_text": "<color=#f0df60>ウェポノイドのさまざまな情報を確認することができます。</color>",
+		"en_text": ""
+	},
+	{
+		"assign": "weaponoid_boost_info_commingsoon",
+		"jp_text": "このチップには\n武器セット効果がありません。\nアップデートにて配信予定です。\n\n",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_play_locked_info0",
+		"jp_text": "ウェポノイドのチップを入手して\n絆レベルをLv.<%parameter>にすると再生できます。\n\n",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_voice_play_locked_info1",
+		"jp_text": "このボイスは\n絆レベルをLv.<%parameter>にすると再生できます。\n\n",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_story_replay_locked_info1",
+		"jp_text": "ウェポノイドのチップを入手して\n絆レベルをLv.<%parameter>にすると再生できます。\n\n",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_story_replay_locked_info2",
+		"jp_text": "このストーリーは\n絆レベルをLv.<%parameter>にすると再生できます。\n\n",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_story_replay_locked_info3",
+		"jp_text": "このストーリーは\nアップデートにて配信予定です。\n配信後に絆レベルをLv.<%parameter>にすると再生できます。\n\n",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_memlevel0",
+		"jp_text": "未入手",
+		"en_text": ""
+	},
+	{
+		"assign": "SideSt_Dialog_b_02_3",
+		"jp_text": "以下の条件をクリアすると第{0}話が解放されます。",
+		"en_text": ""
 	}
 ]

@@ -675,28 +675,28 @@
 		"assign": "96",
 		"jp_text": "ラッキーライズⅠ",
 		"en_text": "Lucky Rise I",
-		"jp_explain": "アイテムドロップ率が\n5%増加",
+		"jp_explain": "レアドロップ倍率が\n5%増加",
 		"en_explain": "Item Drop Rate +5%"
 	},
 	{
 		"assign": "97",
 		"jp_text": "テンプテーション",
 		"en_text": "Temptation",
-		"jp_explain": "アイテムドロップ率が\n10%増加",
+		"jp_explain": "レアドロップ倍率が\n10%増加",
 		"en_explain": "Item Drop Rate +10%"
 	},
 	{
 		"assign": "98",
 		"jp_text": "ラッキーライズⅡ",
 		"en_text": "Lucky Rise II",
-		"jp_explain": "アイテムドロップ率が\n7%増加",
+		"jp_explain": "レアドロップ倍率が\n7%増加",
 		"en_explain": "Item Drop Rate +7%"
 	},
 	{
 		"assign": "99",
 		"jp_text": "ラッキーライズⅢ",
 		"en_text": "Lucky Rise II",
-		"jp_explain": "アイテムドロップ率が\n10%増加",
+		"jp_explain": "レアドロップ倍率が\n10%増加",
 		"en_explain": "Item Drop Rate +10%"
 	},
 	{
@@ -977,6 +977,13 @@
 		"jp_text": "-",
 		"en_text": "",
 		"jp_explain": "-",
+		"en_explain": ""
+	},
+	{
+		"assign": "140",
+		"jp_text": "エンぺ・エンブレイス",
+		"en_text": "",
+		"jp_explain": "新世武器強化時の\n経験値が９０増加する",
 		"en_explain": ""
 	}
 ]
