@@ -3642,7 +3642,7 @@
 	{
 		"assign": "myshop_dialog_t_32",
 		"jp_text": "アイテム出品",
-		"en_text": ""
+		"en_text": "Sell Item"
 	},
 	{
 		"assign": "myshop_dialog_b_32",
@@ -3677,7 +3677,7 @@
 	{
 		"assign": "myshop_category_new_weapon",
 		"jp_text": "新世武器",
-		"en_text": ""
+		"en_text": "NT Weapons"
 	},
 	{
 		"assign": "myshop_category_unit",
@@ -7987,12 +7987,12 @@
 	{
 		"assign": "stargem_label_0",
 		"jp_text": "スタージェム未取得",
-		"en_text": ""
+		"en_text": "Star Gem has not been acquired"
 	},
 	{
 		"assign": "stargem_label_1",
 		"jp_text": "スタージェム取得済",
-		"en_text": ""
+		"en_text": "Star Gem GET"
 	},
 	{
 		"assign": "recycle_shop_header",
@@ -8792,7 +8792,7 @@
 	{
 		"assign": "loginbonus_chara_name",
 		"jp_text": "<color=#FFFFFF>モア</color>",
-		"en_text": "<color=#FFFFFF>Clay</color>"
+		"en_text": "<color=#FFFFFF>More</color>"
 	},
 	{
 		"assign": "loginbonus_first_message",
@@ -8812,7 +8812,7 @@
 	{
 		"assign": "loginbonus_premium_warning",
 		"jp_text": "※ボーナス獲得時にプレミアム期間内であった場合適用されます。",
-		"en_text": "※Applied during premium active."
+		"en_text": "※Applied during when premium is active."
 	},
 	{
 		"assign": "lobby_support_title",
@@ -15467,117 +15467,117 @@
 	{
 		"assign": "SideSt_Title",
 		"jp_text": "外伝クエスト",
-		"en_text": ""
+		"en_text": "Side Story Quest"
 	},
 	{
 		"assign": "SideSt_Prologue",
 		"jp_text": "ストーリー視聴",
-		"en_text": ""
+		"en_text": "View Story"
 	},
 	{
 		"assign": "SideSt_Memorial_Label",
 		"jp_text": "外伝解放ゲージst.{0}",
-		"en_text": ""
+		"en_text": "Story st.{0}"
 	},
 	{
 		"assign": "SideSt_Present_Label",
 		"jp_text": "プレゼントまで",
-		"en_text": ""
+		"en_text": "Till Next Gift"
 	},
 	{
 		"assign": "SideSt_Bonds_Lv",
 		"jp_text": "絆Lv.{0}",
-		"en_text": ""
+		"en_text": "Bond Lv.{0}"
 	},
 	{
 		"assign": "SideSt_Browse_Story",
 		"jp_text": "ストーリーを振り返る",
-		"en_text": ""
+		"en_text": "Browse Side Story"
 	},
 	{
 		"assign": "SideSt_Play_Voice",
 		"jp_text": "ボイス再生",
-		"en_text": ""
+		"en_text": "Playback Voice"
 	},
 	{
 		"assign": "SideSt_Confirm_SetEffect",
 		"jp_text": "武器セット効果確認",
-		"en_text": ""
+		"en_text": "Weapon Set Effect Confirm"
 	},
 	{
 		"assign": "SideSt_Browse_Window_Title",
 		"jp_text": "ストーリーを再生する",
-		"en_text": ""
+		"en_text": "Play Story"
 	},
 	{
 		"assign": "SideSt_Select_Area_Title",
 		"jp_text": "外伝クエストエリア選択",
-		"en_text": ""
+		"en_text": "Gaiden Area Select"
 	},
 	{
 		"assign": "SideSt_Select_Quest_Title",
 		"jp_text": "外伝クエスト選択",
-		"en_text": ""
+		"en_text": "Gaiden Quest Select"
 	},
 	{
 		"assign": "SideSt_Detail_Title",
 		"jp_text": "メニュー",
-		"en_text": ""
+		"en_text": "Menu"
 	},
 	{
 		"assign": "SideSt_Play_Voice_Title",
 		"jp_text": "ボイス再生",
-		"en_text": ""
+		"en_text": "Playback Voice"
 	},
 	{
 		"assign": "SideSt_Weaponoid_Window_Title",
 		"jp_text": "ウェポノイド一覧",
-		"en_text": ""
+		"en_text": "Weaponoid List"
 	},
 	{
 		"assign": "SideSt_Weaponoid_Sort_Normal",
 		"jp_text": "通常",
-		"en_text": ""
+		"en_text": "Normal"
 	},
 	{
 		"assign": "SideSt_Weaponoid_Sort_Got",
 		"jp_text": "入手済",
-		"en_text": ""
+		"en_text": "Owned"
 	},
 	{
 		"assign": "SideSt_Weaponoid_Sort_Progress",
 		"jp_text": "進行度",
-		"en_text": ""
+		"en_text": "Progress"
 	},
 	{
 		"assign": "ItemDetail_Parameter_GammaExpCaption",
 		"jp_text": "強化EXP　　　　/",
-		"en_text": ""
+		"en_text": "Grind EXP\t/"
 	},
 	{
 		"assign": "SideSt_Bonds_Lv_Effect",
 		"jp_text": "効果「{0}」が解放されました！",
-		"en_text": ""
+		"en_text": "Effect 「{0}」 released!"
 	},
 	{
 		"assign": "ItemDetail_Fondness_Caption",
 		"jp_text": "愛着度　/",
-		"en_text": ""
+		"en_text": "Love   /"
 	},
 	{
 		"assign": "ItemDetail_Fondness_Acquired",
 		"jp_text": "スタージェム取得済",
-		"en_text": ""
+		"en_text": "Star Gem Acquired"
 	},
 	{
 		"assign": "ItemDetail_Fondness_Unacquired",
 		"jp_text": "スタージェム未取得",
-		"en_text": ""
+		"en_text": "Star Gem Not Acquired"
 	},
 	{
 		"assign": "SideSt_Dialog_t_00",
 		"jp_text": "外伝クエスト 解放条件",
-		"en_text": ""
+		"en_text": "Gaiden Release Conditions"
 	},
 	{
 		"assign": "SideSt_Dialog_b_00",
@@ -15592,7 +15592,7 @@
 	{
 		"assign": "SideSt_Dialog_t_01",
 		"jp_text": "外伝クエスト 解放条件",
-		"en_text": ""
+		"en_text": "Gaiden Release Conditions"
 	},
 	{
 		"assign": "SideSt_Dialog_b_01",
@@ -15602,22 +15602,22 @@
 	{
 		"assign": "SideSt_Dialog_t_02",
 		"jp_text": "外伝クエスト 解放条件",
-		"en_text": ""
+		"en_text": "Side Story Quest Conditions"
 	},
 	{
 		"assign": "SideSt_Dialog_b_02_0",
 		"jp_text": "・ストーリークエスト第{0}章\n「{1}」クリア",
-		"en_text": ""
+		"en_text": "・Side Story Ch.{0}\n「{1}」 cleared"
 	},
 	{
 		"assign": "SideSt_Dialog_b_02_1",
 		"jp_text": "・「{0}」の\n　　外伝解放ゲージst.{1} を最大にする",
-		"en_text": ""
+		"en_text": "・「{0}」\n　　Side Story Stage.{1}"
 	},
 	{
 		"assign": "SideSt_Dialog_b_02_2",
 		"jp_text": "・「{0}」の\n　　第{1}話クリア（絆Lv.{2}）",
-		"en_text": ""
+		"en_text": "・「{0}」\n　　Story #{1} Clear （Bond Lv.{2}）"
 	},
 	{
 		"assign": "pet_rehatch_body",
@@ -15632,7 +15632,7 @@
 	{
 		"assign": "pet_eggdetail_title_03",
 		"jp_text": "ペットネーム",
-		"en_text": ""
+		"en_text": "Pet Name"
 	},
 	{
 		"assign": "ItemDetail_RingGrind_EnableLimitBreak",
@@ -15642,112 +15642,112 @@
 	{
 		"assign": "SideSt_Ordinal",
 		"jp_text": "第{0}話",
-		"en_text": ""
+		"en_text": "Story {0}"
 	},
 	{
 		"assign": "wpc_list_sorttype_id",
 		"jp_text": "標準",
-		"en_text": ""
+		"en_text": "Level"
 	},
 	{
 		"assign": "wpc_list_sorttype_isalreadyhave",
 		"jp_text": "入手済",
-		"en_text": ""
+		"en_text": "Owned"
 	},
 	{
 		"assign": "wpc_list_sorttype_progress",
 		"jp_text": "進行度",
-		"en_text": ""
+		"en_text": "Progress"
 	},
 	{
 		"assign": "sidestory_voice_play_locked_title",
 		"jp_text": "ボイス再生",
-		"en_text": ""
+		"en_text": "Playback Voice"
 	},
 	{
 		"assign": "sidestory_voice_play_locked_info",
 		"jp_text": "このボイスは\n絆レベルがLv.<%parameter>になると解放されます。",
-		"en_text": ""
+		"en_text": "Voice will\nbe unlocked at Bond Lv.<%parameter>"
 	},
 	{
 		"assign": "sidestory_voice_playbtn_greeting",
 		"jp_text": "外伝追加時",
-		"en_text": ""
+		"en_text": "Greeting"
 	},
 	{
 		"assign": "sidestory_voice_playbtn_equipedreaction1",
 		"jp_text": "チップ装備時１",
-		"en_text": ""
+		"en_text": "Chip Equipped 1"
 	},
 	{
 		"assign": "sidestory_voice_playbtn_questdeparture",
 		"jp_text": "クエスト出発時",
-		"en_text": ""
+		"en_text": "Quest Depart"
 	},
 	{
 		"assign": "sidestory_voice_playbtn_questclear",
 		"jp_text": "クエストクリア時",
-		"en_text": ""
+		"en_text": "Quest Clear"
 	},
 	{
 		"assign": "sidestory_voice_playbtn_activatechip1",
 		"jp_text": "チップ発動時１",
-		"en_text": ""
+		"en_text": "When Activated 1"
 	},
 	{
 		"assign": "sidestory_voice_playbtn_activatechip2",
 		"jp_text": "チップ発動時２",
-		"en_text": ""
+		"en_text": "When Activated 2"
 	},
 	{
 		"assign": "sidestory_voice_playbtn_memlevelup1",
 		"jp_text": "絆レベルアップ１",
-		"en_text": ""
+		"en_text": "Bond Level 1"
 	},
 	{
 		"assign": "sidestory_voice_playbtn_memlevelup2",
 		"jp_text": "絆レベルアップ２",
-		"en_text": ""
+		"en_text": "Bond Level 2"
 	},
 	{
 		"assign": "sidestory_voice_playbtn_equipedreaction2",
 		"jp_text": "チップ装備時２",
-		"en_text": ""
+		"en_text": "Chip Equipped 2"
 	},
 	{
 		"assign": "sidestory_voice_playbtn_memlevelup3",
 		"jp_text": "絆レベルアップ３",
-		"en_text": ""
+		"en_text": "Bond Level 3"
 	},
 	{
 		"assign": "sidestory_voice_playbtn_memlevelup4",
 		"jp_text": "絆レベルアップ４",
-		"en_text": ""
+		"en_text": "Bond Level 4"
 	},
 	{
 		"assign": "sidestory_voice_playbtn_getpresent",
 		"jp_text": "プレゼント獲得時",
-		"en_text": ""
+		"en_text": "Gift Recieved"
 	},
 	{
 		"assign": "sidestory_voice_playbtn_evoandlvmax",
 		"jp_text": "強化＆絆レベル最大時",
-		"en_text": ""
+		"en_text": "Bond and Level Up"
 	},
 	{
 		"assign": "sidestory_story_replay_unknownsotry",
 		"jp_text": "？？？",
-		"en_text": ""
+		"en_text": "???"
 	},
 	{
 		"assign": "weaponoid_boost_info_title",
 		"jp_text": "武器セット効果",
-		"en_text": ""
+		"en_text": "Weapon Set Effect"
 	},
 	{
 		"assign": "weaponoid_boost_info_explain",
 		"jp_text": "武器「<%parameter1>」と\nチップ「<%parameter2>」を\nあわせて装備すると効果発動！",
-		"en_text": ""
+		"en_text": "Weapon 「<%parameter1>」\nand 「<%parameter2>」 chip\ntogether activates set effect!"
 	},
 	{
 		"assign": "weaponoid_boost_info_detail",
@@ -15757,37 +15757,37 @@
 	{
 		"assign": "sidestory_voice_playbtn_shout",
 		"jp_text": "かけ声",
-		"en_text": ""
+		"en_text": "Shout"
 	},
 	{
 		"assign": "sidestory_voice_playbtn_laughter",
 		"jp_text": "笑い",
-		"en_text": ""
+		"en_text": "Laughter"
 	},
 	{
 		"assign": "sidestory_voice_playbtn_surprised",
 		"jp_text": "驚き",
-		"en_text": ""
+		"en_text": "Surprise"
 	},
 	{
 		"assign": "sidestory_voice_playbtn_interest",
 		"jp_text": "興味",
-		"en_text": ""
+		"en_text": "Interest"
 	},
 	{
 		"assign": "sidestory_story_replay_locked_title",
 		"jp_text": "ストーリーの再生",
-		"en_text": ""
+		"en_text": "Play Story"
 	},
 	{
 		"assign": "sidestory_story_replay_locked_info",
 		"jp_text": "このストーリーは\n絆レベルがLv.<%parameter>になると\n再生できるようになります。",
-		"en_text": ""
+		"en_text": "This Story\nwill be unlocked at\nBond Lv.<%parameter>"
 	},
 	{
 		"assign": "sidestory_story_replay_btn_title1",
 		"jp_text": "第<%story_num>話",
-		"en_text": ""
+		"en_text": "Story No. <%story_num>"
 	},
 	{
 		"assign": "sidestory_story_replay_btn_title2",
@@ -15797,62 +15797,62 @@
 	{
 		"assign": "sidestory_story_menu_title",
 		"jp_text": "ストーリーを再生する",
-		"en_text": ""
+		"en_text": "Play the Story"
 	},
 	{
 		"assign": "sidestory_story_partname_prologue",
 		"jp_text": "前編",
-		"en_text": ""
+		"en_text": "Prologue"
 	},
 	{
 		"assign": "sidestory_story_partname_epilogue",
 		"jp_text": "後編",
-		"en_text": ""
+		"en_text": "Epilogue"
 	},
 	{
 		"assign": "sidestory_voice_playbtn_touchreaction1",
 		"jp_text": "タッチ１",
-		"en_text": ""
+		"en_text": "Touch 1"
 	},
 	{
 		"assign": "sidestory_voice_playbtn_touchreaction2",
 		"jp_text": "タッチ２",
-		"en_text": ""
+		"en_text": "Touch 2"
 	},
 	{
 		"assign": "sidestory_voice_playbtn_touchreaction3",
 		"jp_text": "タッチ３",
-		"en_text": ""
+		"en_text": "Touch 3"
 	},
 	{
 		"assign": "sidestory_voice_playbtn_touchreaction4",
 		"jp_text": "タッチ４",
-		"en_text": ""
+		"en_text": "Touch 4"
 	},
 	{
 		"assign": "sidestory_voice_playbtn_touchreaction5",
 		"jp_text": "タッチ５",
-		"en_text": ""
+		"en_text": "Touch 5"
 	},
 	{
 		"assign": "sidestory_voice_playbtn_touchreaction6",
 		"jp_text": "タッチ６",
-		"en_text": ""
+		"en_text": "Touch 6"
 	},
 	{
 		"assign": "sidestory_voice_playbtn_touchreaction7",
 		"jp_text": "タッチ７",
-		"en_text": ""
+		"en_text": "Touch 7"
 	},
 	{
 		"assign": "sidestory_guide_message_01",
 		"jp_text": "<color=#f0df60>ウェポノイドの外伝クエストに出発できます。クエストは、ウェポノイドのチップを装備してクエストをプレイすることで解放されます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Play the Weaponoid Quests. Leveling up your weaponoid's bond level advances the story.</color>"
 	},
 	{
 		"assign": "sidestory_guide_message_02",
 		"jp_text": "<color=#f0df60>外伝が配信されているウェポノイドの一覧です。入手済みのウェポノイドは明るく表示されます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>外伝が配信されているウェポノイドの一覧です。入手済みのウェポノイドは明るく表示されます。</color>"
 	},
 	{
 		"assign": "sidestory_guide_message_03",
@@ -15872,7 +15872,7 @@
 	{
 		"assign": "sidestory_voice_play_locked_info1",
 		"jp_text": "このボイスは\n絆レベルをLv.<%parameter>にすると再生できます。\n\n",
-		"en_text": ""
+		"en_text": "This voice\nwill be unlocked at Bond Lv.<%parameter>.\n\n"
 	},
 	{
 		"assign": "sidestory_story_replay_locked_info1",
@@ -15892,7 +15892,7 @@
 	{
 		"assign": "sidestory_memlevel0",
 		"jp_text": "未入手",
-		"en_text": ""
+		"en_text": "Not Available"
 	},
 	{
 		"assign": "SideSt_Dialog_b_02_3",
