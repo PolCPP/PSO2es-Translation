@@ -162,7 +162,7 @@
 	{
 		"assign": "acshop_dialog_b_01",
 		"jp_text": "-",
-		"en_text": "Are you sure you\nwant to use AC？\n\nパックサイズ（現在のサイズ）→（拡張後のサイズ）\n※Can extend to a Maximum of 500.\n\nAC cost：xxＡＣ\nAC owned：xxＡＣ"
+		"en_text": ""
 	},
 	{
 		"assign": "acshop_dialog_t_02",
@@ -197,12 +197,12 @@
 	{
 		"assign": "acshop_dialog_t_05",
 		"jp_text": "-",
-		"en_text": "AC Shop"
+		"en_text": ""
 	},
 	{
 		"assign": "acshop_dialog_b_05",
 		"jp_text": "-",
-		"en_text": "Are you sure\nyou want to use AC？\n\n現在の行動力（現在の数値）→（回復後の行動力）　\n\nAC cost：xxＡＣ\nAC owned：xxＡＣ"
+		"en_text": ""
 	},
 	{
 		"assign": "acshop_dialog_t_06",
@@ -802,12 +802,12 @@
 	{
 		"assign": "mshop_dialog_t_06",
 		"jp_text": "アイテム売却",
-		"en_text": ""
+		"en_text": "Sell items"
 	},
 	{
 		"assign": "mshop_dialog_b_06",
 		"jp_text": "選択したアイテムの中に\nスタージェムを受け取っていないものが\n含まれています。\n本当に売却しますか？",
-		"en_text": ""
+		"en_text": "You haven't recieved\nthe Star Gems from this\noutfit, are you sure\nyou wish to sell?"
 	},
 	{
 		"assign": "rshop_dialog_t_00",
@@ -872,7 +872,7 @@
 	{
 		"assign": "rshop_dialog_t_06",
 		"jp_text": "リサイクルショップ",
-		"en_text": ""
+		"en_text": "Recycle Shop"
 	},
 	{
 		"assign": "rshop_dialog_b_06",
@@ -2367,7 +2367,7 @@
 	{
 		"assign": "chipevo_npc_t_00",
 		"jp_text": "-",
-		"en_text": "Serafi"
+		"en_text": ""
 	},
 	{
 		"assign": "chipevo_npc_b_00",
@@ -3627,7 +3627,7 @@
 	{
 		"assign": "myshop_dialog_b_30",
 		"jp_text": "★12以上の武器の購入後\nオーナー登録が発生します。\nよろしいですか？",
-		"en_text": "When purchasing ★12,\nit is bound to your account.\nDo you wish to continue?"
+		"en_text": "When purchasing ★12,\nit will be bound to your account.\nDo you wish to continue?"
 	},
 	{
 		"assign": "myshop_dialog_t_31",
@@ -3647,7 +3647,7 @@
 	{
 		"assign": "myshop_dialog_b_32",
 		"jp_text": "スタージェムを受け取っていないアイテムを\n出品しようとしています。\nよろしいですか？",
-		"en_text": ""
+		"en_text": "You're trying to sell an item\nthat you haven't claimed\nstar gems from, continue?"
 	},
 	{
 		"assign": "myshop_condition_potential1",
