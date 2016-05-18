@@ -247,35 +247,35 @@
 	{
 		"assign": "35",
 		"jp_text": "アビリティⅠ",
-		"en_text": "Abl. I",
+		"en_text": "Ａｂｉｌｉｔｙ I",
 		"jp_explain": "全+5",
 		"en_explain": "ALL+5"
 	},
 	{
 		"assign": "36",
 		"jp_text": "アビリティⅡ",
-		"en_text": "Abl. II",
+		"en_text": "Ａｂｉｌｉｔｙ II",
 		"jp_explain": "全+10",
 		"en_explain": "ALL+10"
 	},
 	{
 		"assign": "37",
 		"jp_text": "アビリティⅢ",
-		"en_text": "Abl. III",
+		"en_text": "Ａｂｉｌｉｔｙ III",
 		"jp_explain": "全+15",
 		"en_explain": "ALL+15"
 	},
 	{
 		"assign": "38",
 		"jp_text": "アビリティⅣ",
-		"en_text": "Abl. IV",
+		"en_text": "Ａｂｉｌｉｔｙ IV",
 		"jp_explain": "全+20",
 		"en_explain": "ALL+20"
 	},
 	{
 		"assign": "39",
 		"jp_text": "アビリティⅤ",
-		"en_text": "Abl. V",
+		"en_text": "Ａｂｉｌｉｔｙ V",
 		"jp_explain": "全+25",
 		"en_explain": "ALL+25"
 	},
@@ -366,21 +366,21 @@
 	{
 		"assign": "52",
 		"jp_text": "テクニック・ブースト",
-		"en_text": "Tech Boost",
+		"en_text": "Ｔｅｃｈｎｉｑｕｅ Ｂｏｏｓｔ",
 		"jp_explain": "法撃+25",
 		"en_explain": "T-ATK+25"
 	},
 	{
 		"assign": "53",
 		"jp_text": "スタミナ・ブースト",
-		"en_text": "Stam Boost",
+		"en_text": "Ｓｔａｍｉｎａ Ｂｏｏｓｔ",
 		"jp_explain": "HP+45",
 		"en_explain": ""
 	},
 	{
 		"assign": "54",
 		"jp_text": "スピリタ・ブースト",
-		"en_text": "SpiritaBoost",
+		"en_text": "Ｓｐｉｒｉｔａ Ｂｏｏｓｔ",
 		"jp_explain": "PP+5",
 		"en_explain": ""
 	},
@@ -457,7 +457,7 @@
 	{
 		"assign": "65",
 		"jp_text": "ロックベア・ソール",
-		"en_text": "R.Bear Soul",
+		"en_text": "Ｒｏｃｋｂｅａｒ Ｓｏｕｌ",
 		"jp_explain": "打防+30 HP+10 PP+3",
 		"en_explain": "S-DEF+30 HP+10 PP+3"
 	},
@@ -501,7 +501,7 @@
 		"jp_text": "ミューテーションⅠ",
 		"en_text": "Mutation I",
 		"jp_explain": "特定の合成確率が上昇\n打撃+10 射撃+10\n法撃+10　HP+10",
-		"en_explain": "Increases specific synthetic probability.\nATK+10 HP+10"
+		"en_explain": "Increases specific\nsynthetic probability.\nATK+10 HP+10"
 	},
 	{
 		"assign": "72",
@@ -527,7 +527,7 @@
 	{
 		"assign": "75",
 		"jp_text": "フォトンコレクト",
-		"en_text": "PhotonCollect",
+		"en_text": "Ｐｈｏｔｏｎ Ｃｏｌｌｅｃｔ",
 		"jp_explain": "状態異常と属性耐性の\n合成確率を上昇させる\nステータス上昇なし",
 		"en_explain": "Boost synthesis transfer\nrate of status effect\nabilities."
 	},
@@ -646,7 +646,7 @@
 	{
 		"assign": "92",
 		"jp_text": "タガミカヅチ・ソール",
-		"en_text": "TagamiKazuchi",
+		"en_text": "Ｔａｇａｍｉｋａｚｕｃｈｉ Ｓｏｕｌ",
 		"jp_explain": "射撃+20 法撃+20\nPP+2",
 		"en_explain": "R-ATK+20 T-ATK+20\nPP+2"
 	},
@@ -667,7 +667,7 @@
 	{
 		"assign": "95",
 		"jp_text": "ビブラス・ソール",
-		"en_text": "VibraceSoul",
+		"en_text": "Ｖｉｂｒａｃｅ Ｓｏｕｌ",
 		"jp_explain": "射撃+20 法撃+20\nHP+5 PP+1",
 		"en_explain": "R-ATK+20 T-ATK+20\nHP+5 PP+1"
 	},
@@ -786,7 +786,7 @@
 	{
 		"assign": "112",
 		"jp_text": "ソールレセプター",
-		"en_text": "SoulReceptor",
+		"en_text": "Ｓｏｕｌ Ｒｅｃｅｐｔｏｒ",
 		"jp_explain": "ソール系特殊能力の\n合成成功率を大幅に上昇\n全+10",
 		"en_explain": "Boosts transfer\nrate of Soul Abilities.\nALL+10"
 	},
@@ -800,7 +800,7 @@
 	{
 		"assign": "114",
 		"jp_text": "マーク・カレジナ",
-		"en_text": "M.Couragena",
+		"en_text": "Ｍａｒｋ Ｃｏｕｒａｇｅｎａ",
 		"jp_explain": "打撃+40 射撃+40\n法撃+40 PP+5",
 		"en_explain": "S-ATK+40 R-ATK+40\nT-ATK+40 PP+5"
 	},
@@ -821,7 +821,7 @@
 	{
 		"assign": "117",
 		"jp_text": "ナイトギア・ソール",
-		"en_text": "K. Gear Soul",
+		"en_text": "Ｋｎｉｇｈｔ Ｇｅａｒ Ｓｏｕｌ",
 		"jp_explain": "打撃+15 射撃+15\n法撃+15 技量+15 PP+4",
 		"en_explain": "S-ATK+15 R-ATK+15\nT-ATK+15 PP+4"
 	},
@@ -884,9 +884,9 @@
 	{
 		"assign": "126",
 		"jp_text": "ギフトレセプター",
-		"en_text": "GiftReceptor",
+		"en_text": "Ｇｉｆｔ Ｒｅｃｅｐｔｏｒ",
 		"jp_explain": "ギフト系特殊能力の\n引き継ぎが可能になる\n全+10",
-		"en_explain": "Boosts transfer rate of gift abilities.\nALL+10"
+		"en_explain": "Boosts transfer\nrate of gift abilities.\nALL+10"
 	},
 	{
 		"assign": "127",
@@ -912,7 +912,7 @@
 	{
 		"assign": "130",
 		"jp_text": "トロクロ・フィーバー",
-		"en_text": "ToroKuroFever",
+		"en_text": "Ｔｏｒｏ Ｋｕｒｏ Ｆｅｖｅｒ",
 		"jp_explain": "技量+15 HP+5 PP+1",
 		"en_explain": "DEX+15 HP+5\nPP+1"
 	},
@@ -1164,7 +1164,7 @@
 	{
 		"assign": "166",
 		"jp_text": "アプレンティス・ソール",
-		"en_text": "Apprentice",
+		"en_text": "Ａｐｐｒｅｎｔｉｃｅ Ｓｏｕｌ",
 		"jp_explain": "打撃+40 射撃+40\n法撃+40",
 		"en_explain": "S-ATK+40 R-ATK+40\nT-ATK+40"
 	},
@@ -1178,14 +1178,14 @@
 	{
 		"assign": "168",
 		"jp_text": "シノワ・ソール",
-		"en_text": "SinowSoul",
+		"en_text": "Ｓｉｎｏｗ Ｓｏｕｌ",
 		"jp_explain": "打撃+5 技量+30\nHP+25 PP+2",
 		"en_explain": "S-ATK+5 DEX+30\nHP+25 PP+2"
 	},
 	{
 		"assign": "169",
 		"jp_text": "スピリタ・アルファ",
-		"en_text": "Spirita α",
+		"en_text": "Ｓｐｉｒｉｔａ Ａｌｐｈａ",
 		"jp_explain": "技量+30 PP+3",
 		"en_explain": "DEX+30 PP+3"
 	},
@@ -1227,14 +1227,14 @@
 	{
 		"assign": "175",
 		"jp_text": "ダブル・ソール",
-		"en_text": "DoubleSoul",
+		"en_text": "Ｄｏｕｂｌｅ Ｓｏｕｌ",
 		"jp_explain": "HP+40 PP+3",
 		"en_explain": ""
 	},
 	{
 		"assign": "176",
 		"jp_text": "ダークネス・ソール",
-		"en_text": "DarknessSoul",
+		"en_text": "Ｄａｒｋｎｅｓｓ Ｓｏｕｌ",
 		"jp_explain": "全+15 HP+15 PP+2",
 		"en_explain": "ALL+15 HP+15\nPP+2"
 	},
@@ -1248,7 +1248,7 @@
 	{
 		"assign": "178",
 		"jp_text": "ソール・カタリスト",
-		"en_text": "SoulCatalyst",
+		"en_text": "Ｓｏｕｌ Ｃａｔａｌｙｓｔ",
 		"jp_explain": "4つ集めると\n特定のソールと合成可能\nHP+10 PP+1",
 		"en_explain": ""
 	},
@@ -1439,7 +1439,7 @@
 		"jp_text": "ミューテーションⅡ",
 		"en_text": "Mutation II",
 		"jp_explain": "特定の合成確率が上昇\n打撃+15 射撃+15\n法撃+15　HP+15",
-		"en_explain": "Increases Synthetic Probability.\nS-ATK+15 R-ATK+15\nT-ATK+15 HP+15"
+		"en_explain": "Increases Synthetic\nProbability.\nS-ATK+15 R-ATK+15\nT-ATK+15 HP+15"
 	},
 	{
 		"assign": "206",
