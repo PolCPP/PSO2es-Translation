@@ -137,17 +137,17 @@
 	{
 		"assign": "acshop_dialog_obt_t_00",
 		"jp_text": "<%AC>ショップについて",
-		"en_text": "About the AC Shop"
+		"en_text": "About the <%AC> Shop"
 	},
 	{
 		"assign": "acshop_dialog_obt_b_00",
 		"jp_text": "<%AC>ショップ等の課金システムは\n正式サービス開始と同時にオープン予定となります。",
-		"en_text": "You cannot buy AC at this time.\nPlease wait until the service's official start."
+		"en_text": "You cannot buy <%AC> at this time.\nPlease wait until the service's official start."
 	},
 	{
 		"assign": "acshop_dialog_t_00",
 		"jp_text": "<%AC>ショップ",
-		"en_text": "AC Shop"
+		"en_text": "<%AC> Shop"
 	},
 	{
 		"assign": "acshop_dialog_b_00",
@@ -157,7 +157,7 @@
 	{
 		"assign": "acshop_dialog_t_01",
 		"jp_text": "-",
-		"en_text": "AC Shop"
+		"en_text": ""
 	},
 	{
 		"assign": "acshop_dialog_b_01",
@@ -167,7 +167,7 @@
 	{
 		"assign": "acshop_dialog_t_02",
 		"jp_text": "<%AC>ショップ",
-		"en_text": "AC Shop"
+		"en_text": "<%AC> Shop"
 	},
 	{
 		"assign": "acshop_dialog_b_02",
@@ -177,7 +177,7 @@
 	{
 		"assign": "acshop_dialog_t_03",
 		"jp_text": "<%AC>ショップ",
-		"en_text": "AC Shop"
+		"en_text": "<%AC> Shop"
 	},
 	{
 		"assign": "acshop_dialog_b_03",
@@ -187,7 +187,7 @@
 	{
 		"assign": "acshop_dialog_t_04",
 		"jp_text": "<%AC>ショップ",
-		"en_text": "AC Shop"
+		"en_text": "<%AC> Shop"
 	},
 	{
 		"assign": "acshop_dialog_b_04",
@@ -207,7 +207,7 @@
 	{
 		"assign": "acshop_dialog_t_06",
 		"jp_text": "<%AC>ショップ",
-		"en_text": "AC Shop"
+		"en_text": "<%AC> Shop"
 	},
 	{
 		"assign": "acshop_dialog_b_06",
@@ -217,7 +217,7 @@
 	{
 		"assign": "acshop_dialog_t_07",
 		"jp_text": "<%AC>ショップ",
-		"en_text": "AC Shop"
+		"en_text": "<%AC> Shop"
 	},
 	{
 		"assign": "acshop_dialog_b_07",
@@ -227,12 +227,12 @@
 	{
 		"assign": "acshop_dialog_t_08",
 		"jp_text": "<%AC>チャージ",
-		"en_text": "AC Charge"
+		"en_text": "<%AC> Charge"
 	},
 	{
 		"assign": "acshop_dialog_b_08",
 		"jp_text": "所持<%AC>が不足しています。\n<%AC>をチャージしますか？\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"en_text": "Not enough AC.\nDo you want to buy more AC？\n\nAC needed：<%consume_AC>\nAC owned：<%current_AC>"
+		"en_text": "Not enough <%AC>.\nDo you want to buy more AC？\n\n<%AC> needed：<%consume_AC>\n<%AC> owned：<%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_09",
@@ -297,7 +297,7 @@
 	{
 		"assign": "acshop_dialog_t_15",
 		"jp_text": "<%AC>チャージ",
-		"en_text": "AC Charge"
+		"en_text": "<%AC> Charge"
 	},
 	{
 		"assign": "acshop_dialog_b_15",
@@ -307,7 +307,7 @@
 	{
 		"assign": "acshop_dialog_t_16",
 		"jp_text": "<%AC>チャージ",
-		"en_text": "AC Charge"
+		"en_text": "<%AC> Charge"
 	},
 	{
 		"assign": "acshop_dialog_b_16",
@@ -317,7 +317,7 @@
 	{
 		"assign": "acshop_dialog_t_17",
 		"jp_text": "<%AC>チャージ",
-		"en_text": "AC Charge"
+		"en_text": "<%AC> Charge"
 	},
 	{
 		"assign": "acshop_dialog_b_17",
@@ -327,7 +327,7 @@
 	{
 		"assign": "acshop_dialog_t_18",
 		"jp_text": "<%AC>チャージ",
-		"en_text": "AC Charge"
+		"en_text": "<%AC> Charge"
 	},
 	{
 		"assign": "acshop_dialog_b_18",
@@ -337,32 +337,32 @@
 	{
 		"assign": "acshop_dialog_t_19",
 		"jp_text": "<%AC>チャージ",
-		"en_text": "AC Charge"
+		"en_text": "<%AC> Charge"
 	},
 	{
 		"assign": "acshop_dialog_b_19",
 		"jp_text": "<%AC>の購入に失敗しました。\n前回購入分の<%AC>が未反映の可能性があります\nので、お手数ですが再度ログインし直して<%AC>が\n反映されるかご確認ください。",
-		"en_text": "AC Purchase Failed.\nIt is still possible the charge succeeded.\nTo be certain, please restart PSO2es\nand confirm you have been charged."
+		"en_text": "<%AC> Purchase Failed.\nIt is still possible the charge succeeded.\nTo be certain, please restart PSO2es\nand confirm you have been charged."
 	},
 	{
 		"assign": "acshop_dialog_t_20",
 		"jp_text": "<%AC>チャージ",
-		"en_text": "AC Charge"
+		"en_text": "<%AC> Charge"
 	},
 	{
 		"assign": "acshop_dialog_b_20",
 		"jp_text": "<%AC>の購入をキャンセルしました。",
-		"en_text": "Purchase of AC was canceled."
+		"en_text": "Purchase of <%AC> was canceled."
 	},
 	{
 		"assign": "acshop_dialog_t_21",
 		"jp_text": "<%AC>チャージ",
-		"en_text": "AC Charge"
+		"en_text": "<%AC> Charge"
 	},
 	{
 		"assign": "acshop_dialog_b_21",
 		"jp_text": "Googleアカウントにログインしていない場合、\nACをご購入することはできません。\n\nGoogle Playに接続できることをご確認の上、\n再度お試しください。",
-		"en_text": "You cannot purchase AC without\nlogging into your Google Account.\n\nPlease confirm that you can connect\nto the Play store and try again."
+		"en_text": "You cannot purchase <%AC> without\nlogging into your Google Account.\n\nPlease confirm that you can connect\nto the Play store and try again."
 	},
 	{
 		"assign": "acshop_dialog_t_22",
@@ -562,12 +562,12 @@
 	{
 		"assign": "acshop_oprecovery_use_btn",
 		"jp_text": "OP回復薬使用",
-		"en_text": "OP Recovery"
+		"en_text": "ＯＰ Ｒｅｃｏｖｅｒｙ"
 	},
 	{
 		"assign": "acshop_oprecovery_mini_use_btn",
 		"jp_text": "OP回復薬ミニ使用",
-		"en_text": "OP Mini Recovery"
+		"en_text": "ＯＰ Ｍｉｎｉ Ｒｅｃｏｖｅｒｙ"
 	},
 	{
 		"assign": "acshop_oprecovery_back_btn",
@@ -602,12 +602,12 @@
 	{
 		"assign": "acshop_item_oprecovery_pass",
 		"jp_text": "OP回復薬",
-		"en_text": "OP Recovery Meds"
+		"en_text": "ＯＰ Ｒｅｃｏｖｅｒｙ Ｍｅｄｓ"
 	},
 	{
 		"assign": "acshop_item_oprecovery_pass_mini",
 		"jp_text": "OP回復薬ミニ",
-		"en_text": "OP Mini Recovery Meds"
+		"en_text": "ＯＰ Ｍｉｎｉ Ｒｅｃｏｖｅｒｙ Ｍｅｄｓ"
 	},
 	{
 		"assign": "acshop_item_unit",
@@ -3592,7 +3592,7 @@
 	{
 		"assign": "myshop_dialog_t_27",
 		"jp_text": "商品検索",
-		"en_text": "Product Search"
+		"en_text": "Item Search"
 	},
 	{
 		"assign": "myshop_dialog_b_27",
@@ -3602,7 +3602,7 @@
 	{
 		"assign": "myshop_dialog_t_28",
 		"jp_text": "商品検索",
-		"en_text": "Product Search"
+		"en_text": "Item Search"
 	},
 	{
 		"assign": "myshop_dialog_b_28",
@@ -4397,7 +4397,7 @@
 	{
 		"assign": "myshop_purchase",
 		"jp_text": "商品検索",
-		"en_text": "Product Search"
+		"en_text": "Item Search"
 	},
 	{
 		"assign": "myshop_purchase_confirm",
@@ -4427,7 +4427,7 @@
 	{
 		"assign": "myshop_name_match",
 		"jp_text": "名前の設定(完全一致)",
-		"en_text": "Product Name (Exact Match)"
+		"en_text": "Item Name (Exact Match)"
 	},
 	{
 		"assign": "myshop_item_name",
@@ -4607,7 +4607,7 @@
 	{
 		"assign": "myshop_category_result2",
 		"jp_text": "属性選択（詳細検索）",
-		"en_text": "Attr. Search Result (Adv. Search)"
+		"en_text": "Ａｔｔｒ. Search Result (Adv. Search)"
 	},
 	{
 		"assign": "myshop_category_result3",
@@ -4657,7 +4657,7 @@
 	{
 		"assign": "myshop_button_attribute",
 		"jp_text": "変更",
-		"en_text": "Atrr."
+		"en_text": "Ａｔｔｒ."
 	},
 	{
 		"assign": "myshop_button_potential",
@@ -4672,7 +4672,7 @@
 	{
 		"assign": "myshop_ability_condition_set",
 		"jp_text": "検索設定",
-		"en_text": "Abl. Search"
+		"en_text": "Ａｂｉｌｉｔｙ Ｓｅａｒｃｈ"
 	},
 	{
 		"assign": "myshop_ability_condition_set_title",
@@ -4857,7 +4857,7 @@
 	{
 		"assign": "myshop_to_easy",
 		"jp_text": "簡易検索へ",
-		"en_text": "Smpl. Search"
+		"en_text": "Ｓｉｍｐｌｅ Ｓｅａｒｃｈ"
 	},
 	{
 		"assign": "myshop_to_detail",
@@ -4917,7 +4917,7 @@
 	{
 		"assign": "quest_counter_bonus_exp",
 		"jp_text": "EXP×",
-		"en_text": "EXP×"
+		"en_text": "EXP × "
 	},
 	{
 		"assign": "quest_counter_bonus_meseta",
@@ -4987,7 +4987,7 @@
 	{
 		"assign": "quest_counter_quest_drive",
 		"jp_text": "<color=orange>行動力　　</color><color=red><%drive></color>",
-		"en_text": "<color=orange>Drive Req　</color><color=red><%drive></color>"
+		"en_text": "<color=orange>Drive Req.　</color><color=red><%drive></color>"
 	},
 	{
 		"assign": "quest_counter_quest_drive_ex",
@@ -7362,7 +7362,7 @@
 	{
 		"assign": "attribute",
 		"jp_text": "属性",
-		"en_text": "Attribute"
+		"en_text": "Ａｔｔｒ."
 	},
 	{
 		"assign": "chip_name",
@@ -7697,7 +7697,7 @@
 	{
 		"assign": "window_sort_attr_value",
 		"jp_text": "属性値",
-		"en_text": "Attribute"
+		"en_text": "Ａｔｔｒｉｂｕｔｅ"
 	},
 	{
 		"assign": "window_sort_category",
@@ -13392,7 +13392,7 @@
 	{
 		"assign": "sns_post_hashtag",
 		"jp_text": "#PSO2esお題",
-		"en_text": "#PSO2es"
+		"en_text": "#PSO2esお題"
 	},
 	{
 		"assign": "sns_post_b",
@@ -15412,12 +15412,12 @@
 	{
 		"assign": "autobattle_start",
 		"jp_text": "オート攻撃開始",
-		"en_text": ""
+		"en_text": "Start Auto Battle"
 	},
 	{
 		"assign": "autobattle_using",
 		"jp_text": "オート攻撃中",
-		"en_text": ""
+		"en_text": "AB is On"
 	},
 	{
 		"assign": "wh_34_01",
@@ -15467,7 +15467,7 @@
 	{
 		"assign": "SideSt_Title",
 		"jp_text": "外伝クエスト",
-		"en_text": "Side Story Quest"
+		"en_text": "Gaiden Quest"
 	},
 	{
 		"assign": "SideSt_Prologue",
@@ -15587,7 +15587,7 @@
 	{
 		"assign": "SideSt_Dialog_b_00_1",
 		"jp_text": "ウェポノイドのチップを入手すると\n第1話が解放されます。",
-		"en_text": ""
+		"en_text": "When you get the Weaponoid,\nanother episode is released"
 	},
 	{
 		"assign": "SideSt_Dialog_t_01",
@@ -15602,7 +15602,7 @@
 	{
 		"assign": "SideSt_Dialog_t_02",
 		"jp_text": "外伝クエスト 解放条件",
-		"en_text": "Side Story Quest Conditions"
+		"en_text": "Gaiden Quest Conditions"
 	},
 	{
 		"assign": "SideSt_Dialog_b_02_0",
@@ -15622,12 +15622,12 @@
 	{
 		"assign": "pet_rehatch_body",
 		"jp_text": "<color=yellow>ペットから戻したエッグが選択されています。\nエッグは合成実行後に消滅します。</color>\nエッグ合成を実行してもよろしいですか？\n\n\n\n\n\n\n\n",
-		"en_text": ""
+		"en_text": "color=yellow>Egg will be returned as a pet.\nThe egg will no longer show\nafter this synthesis.</color>\nDo you wish to proceed?\n\n\n\n\n"
 	},
 	{
 		"assign": "pet_rehatch_title",
 		"jp_text": "エッグ合成確認",
-		"en_text": ""
+		"en_text": "Egg Synthesis Confirm"
 	},
 	{
 		"assign": "pet_eggdetail_title_03",
@@ -15637,7 +15637,7 @@
 	{
 		"assign": "ItemDetail_RingGrind_EnableLimitBreak",
 		"jp_text": "(リングEXP100％で<color=yellow>上限UP</color>)",
-		"en_text": ""
+		"en_text": "{Ring EXP 100% <color=yellow>Limit UP</color>"
 	},
 	{
 		"assign": "SideSt_Ordinal",
@@ -15852,22 +15852,22 @@
 	{
 		"assign": "sidestory_guide_message_02",
 		"jp_text": "<color=#f0df60>外伝が配信されているウェポノイドの一覧です。入手済みのウェポノイドは明るく表示されます。</color>",
-		"en_text": "<color=#f0df60>外伝が配信されているウェポノイドの一覧です。入手済みのウェポノイドは明るく表示されます。</color>"
+		"en_text": "<color=#f0df60>Here's a list of Gaiden Quests available. Weaponoids you own are displayed brightly.</color>"
 	},
 	{
 		"assign": "sidestory_guide_message_03",
 		"jp_text": "<color=#f0df60>ウェポノイドのさまざまな情報を確認することができます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>You can check out a variety of information relating to Weaponoids.</color>"
 	},
 	{
 		"assign": "weaponoid_boost_info_commingsoon",
 		"jp_text": "このチップには\n武器セット効果がありません。\nアップデートにて配信予定です。\n\n",
-		"en_text": ""
+		"en_text": "This chip\ndoes not have a weapon\nset effect at the moment.\n\n"
 	},
 	{
 		"assign": "sidestory_voice_play_locked_info0",
 		"jp_text": "ウェポノイドのチップを入手して\n絆レベルをLv.<%parameter>にすると再生できます。\n\n",
-		"en_text": ""
+		"en_text": "Get this Weaponoid Chip\nand raise its Bond Level to\nLv.<%parameter> to unlock.\n"
 	},
 	{
 		"assign": "sidestory_voice_play_locked_info1",
@@ -15877,12 +15877,12 @@
 	{
 		"assign": "sidestory_story_replay_locked_info1",
 		"jp_text": "ウェポノイドのチップを入手して\n絆レベルをLv.<%parameter>にすると再生できます。\n\n",
-		"en_text": ""
+		"en_text": "Get this Weaponoid Chip\nand raise its Bond Level to\nLv.<%parameter> to unlock.\n"
 	},
 	{
 		"assign": "sidestory_story_replay_locked_info2",
 		"jp_text": "このストーリーは\n絆レベルをLv.<%parameter>にすると再生できます。\n\n",
-		"en_text": ""
+		"en_text": "This replay\nwill be unlocked at Bond Lv.<%parameter>.\n\n"
 	},
 	{
 		"assign": "sidestory_story_replay_locked_info3",
