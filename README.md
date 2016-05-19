@@ -3,7 +3,7 @@
 ## Usage
 
 1. Get the Fileco.dat from PSO2es /Android/data/com.sega.phantasystar2es/cache/sd
-2. Load the Patcher tool. From https://dl.dropboxusercontent.com/u/3115520/ESBreaker.zip or https://dl.dropboxusercontent.com/u/3115520/LinuxEsBreaker.zip for a linux version.
+2. Load the Patcher tool. From https://dl.dropboxusercontent.com/u/3115520/PhantomEsbreaker.zip or https://dl.dropboxusercontent.com/u/3115520/LinuxEsBreaker.zip for a linux version.
 3. Put Fileco where the tool says, json files in a json subfolder.
 4. Hit the loadit button
 5. Hit the load in and generate json button (this updates the pso2es database on memory), and updates the json files with new entries. Wait a few minutes. (Json lib is too slow, but since its not a process thats done every 5 min i don't care).
@@ -15,6 +15,8 @@
 It's possible that sega updates the game and esbreaker stops working (it will spit out some weird mambo jumbo when loading the contents database).
 
 Just grab the current pso2es ContentsSerializer.dll, protobuf-net.dll, ProtoBuffSerializer.dll, and assembly-firstpass.dll  renamed to fp.dll and replace the files in ESBreaker_Data/Managed and it will just work.
+
+**May 19th note**  If you're using a version of esbreaker older than the one from today _(dubbed Phantom Esbreaker)_ it will partially fail and mess up some files like side stories so please upgrade.
 
 ## Credits
 
