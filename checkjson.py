@@ -12,11 +12,9 @@ for files in os.listdir(os.getcwd()):
             simplejson.load(json_file)
             read_json_files.append(files)
         except ValueError, e:
-            print ("JSON object issue: %s") % e
-            print files
+            print ("%s: %s") % (files, e)
             invalid_json_files.append(files)
 
 if len(invalid_json_files) != 0:
-    print invalid_json_files, len(read_json_files)
-    sys.exit("Found Errors in JSON files")
+    sys.exit("=============\nFound Errors in JSON files")
 
