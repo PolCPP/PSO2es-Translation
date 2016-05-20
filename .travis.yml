@@ -1,6 +1,7 @@
 language: python
 
-install: true
+install: 
+  -  pip install simplejson
 
 script:
   - python checkjson.py

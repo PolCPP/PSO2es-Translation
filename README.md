@@ -1,5 +1,7 @@
 # Phantasy Star Online 2 es English translation project
 
+[![Build Status](https://travis-ci.org/PolCPP/PSO2es-Translation.svg?branch=master)](https://travis-ci.org/PolCPP/PSO2es-Translation)
+
 ## Usage
 
 1. Get the Fileco.dat from PSO2es /Android/data/com.sega.phantasystar2es/cache/sd
