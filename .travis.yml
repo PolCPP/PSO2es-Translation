@@ -2,8 +2,11 @@ language: python
 
 sudo: false
 
+cache:
+  - pip
+
 install: 
-  -  pip install simplejson
+  - pip install simplejson
 
 script:
   - python checkjson.py
