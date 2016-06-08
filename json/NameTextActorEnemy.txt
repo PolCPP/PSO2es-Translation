@@ -1780,9 +1780,19 @@
 		"en_text": "[Profound Darkness]"
 	},
 	{
+		"assign": "DpAbyssEx",
+		"jp_text": "【深遠なる闇】",
+		"en_text": ""
+	},
+	{
 		"assign": "DpAbyssChar",
 		"jp_text": "【深遠なる闇】",
 		"en_text": "[Profound Darkness]"
+	},
+	{
+		"assign": "DpAbyssCharEx",
+		"jp_text": "【深遠なる闇】",
+		"en_text": ""
 	},
 	{
 		"assign": "DpAbyssCharUniq",
@@ -1920,6 +1930,21 @@
 		"en_text": "Red Roller"
 	},
 	{
+		"assign": "Char19_BT",
+		"jp_text": "ベトール",
+		"en_text": "Bethor"
+	},
+	{
+		"assign": "Char19_BT_Camera",
+		"jp_text": "幻創カメラ",
+		"en_text": "Phantom Camera"
+	},
+	{
+		"assign": "Char19_BT_Fan",
+		"jp_text": "幻創ビッグファン",
+		"en_text": "Phantom Big Fan"
+	},
+	{
 		"assign": "PetCommon",
 		"jp_text": "ペット",
 		"en_text": "Pet"
@@ -1927,7 +1952,12 @@
 	{
 		"assign": "Char18_HG",
 		"jp_text": "ハギト・フェムト",
-		"en_text": "Hagito Femto"
+		"en_text": "Hagito Phemut"
+	},
+	{
+		"assign": "DpToyEx",
+		"jp_text": "ダークファルス・ダブル",
+		"en_text": ""
 	},
 	{
 		"assign": "NativeBeast_T",
@@ -2250,6 +2280,11 @@
 		"en_text": "Darker Particle Battery"
 	},
 	{
+		"assign": "PantherBRareST0",
+		"jp_text": "レヴィ",
+		"en_text": ""
+	},
+	{
 		"assign": "PantherSnowARareLD0",
 		"jp_text": "小型バンサ・オラン",
 		"en_text": "Small Banther Oran"
@@ -2533,6 +2568,31 @@
 		"assign": "MarineOrcaRareHC1",
 		"jp_text": "タイプＣオルグケラトス＋",
 		"en_text": "Type-C Org Keratos+"
+	},
+	{
+		"assign": "FishBigBeastLD0",
+		"jp_text": "小型アロナガーダ",
+		"en_text": ""
+	},
+	{
+		"assign": "FishBigBeastATK0",
+		"jp_text": "大型アロナガーダ",
+		"en_text": ""
+	},
+	{
+		"assign": "FishBigBeastSPD0",
+		"jp_text": "狂暴アロナガーダ",
+		"en_text": ""
+	},
+	{
+		"assign": "FishBigBeastMU0",
+		"jp_text": "未知アロナガーダ",
+		"en_text": ""
+	},
+	{
+		"assign": "FishBigBeastMU1",
+		"jp_text": "未知アロナガーダ＋",
+		"en_text": ""
 	},
 	{
 		"assign": "LocustEx",
@@ -2878,6 +2938,11 @@
 		"assign": "DarkerCannonAEx",
 		"jp_text": "特殊粒子砲台Ｅｘ",
 		"en_text": "Darker Particle Battery EX"
+	},
+	{
+		"assign": "PantherBRareST0Ex",
+		"jp_text": "レヴィＥｘ",
+		"en_text": ""
 	},
 	{
 		"assign": "RappyEx",

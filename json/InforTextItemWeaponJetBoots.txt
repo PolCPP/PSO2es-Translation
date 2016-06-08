@@ -380,7 +380,7 @@
 	{
 		"assign": "1160920000",
 		"jp_text": "ゲインスクラッパー-NT",
-		"en_text": "Gain Scrapper-NT",
+		"en_text": "",
 		"jp_explain": "回転式のブレードを採用した魔装脚。\n激しい駆動音を撒き散らしながら\n対象をバラバラに分解する。",
 		"en_explain": ""
 	},
@@ -588,6 +588,20 @@
 		"en_explain": ""
 	},
 	{
+		"assign": "11601850000",
+		"jp_text": "ジグマフーリーン",
+		"en_text": "Sigma Thulen",
+		"jp_explain": "伝説の生物を機械的に再現した魔装脚。\n形状を変えることなく破壊力を求めた為\n負担を省みない出力設定になっている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11601960000",
+		"jp_text": "レイＪブーツ",
+		"en_text": "Ray Jet Boots",
+		"jp_explain": "次世代の主力として開発された魔装脚。\n基礎モデルの直系の後継機であり\n出力、安定性共に高いスペックを誇る。",
+		"en_explain": ""
+	},
+	{
 		"assign": "11602020000",
 		"jp_text": "ジェットブーツ-NT",
 		"en_text": "Jet Boots-NT",
@@ -676,6 +690,13 @@
 		"jp_text": "ノクスプラシス-NT",
 		"en_text": "Nox Plasis-NT",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き魔装脚。装者も\n恐怖するほどの法撃性能を宿す。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11602150000",
+		"jp_text": "エルアリオVer2",
+		"en_text": "El Ario Ver2",
+		"jp_explain": "鉤爪のような爪と刃が付いた魔装脚。\n前方と外側に付いた爪により、致命傷に\n近い裂傷や刺傷を負わせることが可能。",
 		"en_explain": ""
 	}
 ]

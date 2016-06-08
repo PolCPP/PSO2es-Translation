@@ -806,7 +806,7 @@
 	},
 	{
 		"assign": "mshop_dialog_b_06",
-		"jp_text": "選択したアイテムの中に\nスタージェムを受け取っていないものが\n含まれています。\n本当に売却しますか？",
+		"jp_text": "選択したアイテムの中に\nスタージェムを入手していないものが\n含まれています。\n本当に売却しますか？",
 		"en_text": "You haven't recieved\nthe Star Gems from this\noutfit, are you sure\nyou wish to sell?"
 	},
 	{
@@ -876,7 +876,7 @@
 	},
 	{
 		"assign": "rshop_dialog_b_06",
-		"jp_text": "スタージェムを受け取っていないアイテムを\n交換しようとしています。\nよろしいですか？",
+		"jp_text": "スタージェムを入手していないアイテムを\n交換しようとしています。\nよろしいですか？",
 		"en_text": "The item you're trying to recycle\nhasn't recieved its star gems.\nContinue?"
 	},
 	{
@@ -2761,12 +2761,12 @@
 	},
 	{
 		"assign": "mag_guide_01",
-		"jp_text": "<color=#f0df60>マグに与えるアイテムを選択してください。なお、与えられるアイテムは、スペシャルウェポン以外の武器とユニット（いずれも★９以下）、回復アイテム、ディスク、ルームグッズ、リフォーム用のパスです。</color>",
+		"jp_text": "<color=#f0df60>マグに与えるアイテムを選択してください。なお、与えられるアイテムは、スペシャルウェポン以外の武器とユニット（いずれも★９以下）、回復アイテム、ディスク、ルームグッズ、リフォーム用のパス、キャンディーです。</color>",
 		"en_text": "<color=#f0df60>Please select an Item you want to Feed to your Mag. This can be any Weapon, Unit, Disc, Room Good or Recovery Item.</color>"
 	},
 	{
 		"assign": "mag_guide_02",
-		"jp_text": "<color=#f0df60>マグに与えるフードデバイスを選択してください。</color>",
+		"jp_text": "<color=#f0df60>マグに与えるデバイスを選択してください。なお、『PSO2es』で与えられるデバイスは、フードデバイス、マグレベルダウンデバイスです。</color>",
 		"en_text": "<color=#f0df60>Please select a Device to be Fed to the Mag.</color>"
 	},
 	{
@@ -3646,7 +3646,7 @@
 	},
 	{
 		"assign": "myshop_dialog_b_32",
-		"jp_text": "スタージェムを受け取っていないアイテムを\n出品しようとしています。\nよろしいですか？",
+		"jp_text": "スタージェムを入手していないアイテムを\n出品しようとしています。\nよろしいですか？",
 		"en_text": "You're trying to sell an item\nthat you haven't claimed\nstar gems from, continue?"
 	},
 	{
@@ -6156,7 +6156,7 @@
 	},
 	{
 		"assign": "fieldoption_soundsetting_windowtitle",
-		"jp_text": "サウンド設定",
+		"jp_text": "オプション（サウンド設定）",
 		"en_text": "Sound Options"
 	},
 	{
@@ -6251,7 +6251,7 @@
 	},
 	{
 		"assign": "quest_result_button_end",
-		"jp_text": "終了",
+		"jp_text": "次へ",
 		"en_text": "Close"
 	},
 	{
@@ -6356,7 +6356,7 @@
 	},
 	{
 		"assign": "questresult_item_button",
-		"jp_text": "終了",
+		"jp_text": "次へ",
 		"en_text": "Close"
 	},
 	{
@@ -6436,7 +6436,7 @@
 	},
 	{
 		"assign": "questresult_weaponoid_button",
-		"jp_text": "タッチで進む",
+		"jp_text": "次へ",
 		"en_text": ""
 	},
 	{
@@ -7986,12 +7986,12 @@
 	},
 	{
 		"assign": "stargem_label_0",
-		"jp_text": "スタージェム未取得",
+		"jp_text": "スタージェム未入手",
 		"en_text": "Star Gem has not been acquired"
 	},
 	{
 		"assign": "stargem_label_1",
-		"jp_text": "スタージェム取得済",
+		"jp_text": "スタージェム入手済",
 		"en_text": "Star Gem GET"
 	},
 	{
@@ -9216,12 +9216,12 @@
 	},
 	{
 		"assign": "chip_over_message",
-		"jp_text": "チップパックの所持枠をオーバーしています。\n\nチップパックを拡張するか\n強化／売却／リサイクルをしてチップを整理してください。",
+		"jp_text": "チップパックの所持枠をオーバーしています。\n\nチップパックを拡張するか\n強化／売却をしてチップを整理してください。",
 		"en_text": "You are now over the chip limit.\nYou can purchase a chip extension pack.\nPlease lower your chip count by grinding/selling\nif you do not wish to purchase an extension."
 	},
 	{
 		"assign": "item_over_message",
-		"jp_text": "アイテムパックの所持枠をオーバーしています。\n\n売却またはリサイクルをして\nアイテムを整理してください。",
+		"jp_text": "アイテムパックの所持枠をオーバーしています。\n\n売却をしてアイテムを整理してください。",
 		"en_text": "You have too many items,\nand are over the limit.\nPlease sell some items."
 	},
 	{
@@ -15566,12 +15566,12 @@
 	},
 	{
 		"assign": "ItemDetail_Fondness_Acquired",
-		"jp_text": "スタージェム取得済",
+		"jp_text": "スタージェム入手済",
 		"en_text": "Star Gem Acquired"
 	},
 	{
 		"assign": "ItemDetail_Fondness_Unacquired",
-		"jp_text": "スタージェム未取得",
+		"jp_text": "スタージェム未入手",
 		"en_text": "Star Gem Not Acquired"
 	},
 	{
@@ -15606,17 +15606,17 @@
 	},
 	{
 		"assign": "SideSt_Dialog_b_02_0",
-		"jp_text": "・ストーリークエスト第{0}章\n「{1}」クリア",
+		"jp_text": "・ストーリークエスト第{0}章\n　　『{1}』クリア",
 		"en_text": "・Side Story Ch.{0}\n「{1}」 cleared"
 	},
 	{
 		"assign": "SideSt_Dialog_b_02_1",
-		"jp_text": "・「{0}」の\n　　外伝解放ゲージst.{1} を最大にする",
+		"jp_text": "・『{0}』の\n　　外伝解放ゲージst.{1} を最大にする",
 		"en_text": "・「{0}」\n　　Side Story Stage.{1}"
 	},
 	{
 		"assign": "SideSt_Dialog_b_02_2",
-		"jp_text": "・「{0}」の\n　　第{1}話クリア（絆Lv.{2}）",
+		"jp_text": "・『{0}』の\n　　第{1}話クリア（絆Lv.{2}）",
 		"en_text": "・「{0}」\n　　Story #{1} Clear （Bond Lv.{2}）"
 	},
 	{
@@ -15865,6 +15865,16 @@
 		"en_text": "This chip\ndoes not have a weapon\nset effect at the moment.\n\n"
 	},
 	{
+		"assign": "sidestory_comm_error_t_00",
+		"jp_text": "エラー",
+		"en_text": ""
+	},
+	{
+		"assign": "sidestory_comm_error_b_00",
+		"jp_text": "ゲームデータの情報取得に失敗しました。\nロビートップに戻ります。",
+		"en_text": ""
+	},
+	{
 		"assign": "sidestory_voice_play_locked_info0",
 		"jp_text": "ウェポノイドのチップを入手して\n絆レベルをLv.<%parameter>にすると再生できます。\n\n",
 		"en_text": "Get this Weaponoid Chip\nand raise its Bond Level to\nLv.<%parameter> to unlock.\n"
@@ -15897,6 +15907,136 @@
 	{
 		"assign": "SideSt_Dialog_b_02_3",
 		"jp_text": "以下の条件をクリアすると第{0}話が解放されます。",
+		"en_text": ""
+	},
+	{
+		"assign": "acshop_dialog_b_42",
+		"jp_text": "<%item_name>を購入します。\nよろしいですか？\n\n<color=yellow>※マイショップ利用券はプレミアム期間中でないとき\n マイショップでのアイテム購入に必要になります。</color>\n\n所持数：<%current_item_num>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
+		"en_text": ""
+	},
+	{
+		"assign": "lookback_scene_title",
+		"jp_text": "ストーリー閲覧室",
+		"en_text": "Story Reading Room"
+	},
+	{
+		"assign": "lookback_character_name",
+		"jp_text": "ジェネ",
+		"en_text": "Jeane"
+	},
+	{
+		"assign": "lookback_character_text",
+		"jp_text": "わたし達の想い出を\n一緒に振り返りましょう！",
+		"en_text": "Let's look back\ninto our memories together!"
+	},
+	{
+		"assign": "lookback_guide_1",
+		"jp_text": "<color=#f0df60>これまでに見たストーリーを回想できます。</color>",
+		"en_text": "<color=#f0df60>You can recall the story events seen in the past.</color>"
+	},
+	{
+		"assign": "lookback_category_title",
+		"jp_text": "カテゴリー選択",
+		"en_text": "Select Category"
+	},
+	{
+		"assign": "lookback_maintitle_0",
+		"jp_text": "ストーリークエスト",
+		"en_text": "Story Quest"
+	},
+	{
+		"assign": "lookback_maintext_0",
+		"jp_text": "ジェネやモアたちとの物語を振り返ります。",
+		"en_text": "I remember the story of Jeane and More."
+	},
+	{
+		"assign": "lookback_episode_title",
+		"jp_text": "章選択",
+		"en_text": "Chapter Selection"
+	},
+	{
+		"assign": "lookback_mainchapter_0",
+		"jp_text": "序章　宇宙を旅する船団",
+		"en_text": ""
+	},
+	{
+		"assign": "lookback_mainchapter_1",
+		"jp_text": "１章　　始まりと出会い　　",
+		"en_text": ""
+	},
+	{
+		"assign": "lookback_mainchapter_2",
+		"jp_text": "２章　　ひとつの結末　　　",
+		"en_text": ""
+	},
+	{
+		"assign": "lookback_mainchapter_3",
+		"jp_text": "３章　　新たな暗影　　　　",
+		"en_text": ""
+	},
+	{
+		"assign": "lookback_mainchapter_4",
+		"jp_text": "４章　　揺らぐ境界　　　　",
+		"en_text": ""
+	},
+	{
+		"assign": "lookback_mainchapter_5",
+		"jp_text": "５章　　異なる覚悟　　　　",
+		"en_text": ""
+	},
+	{
+		"assign": "lookback_mainchapter_6",
+		"jp_text": "６章　　忘れられた約束　　",
+		"en_text": ""
+	},
+	{
+		"assign": "lookback_mainchapter_7",
+		"jp_text": "７章　　不完全な心　　　　",
+		"en_text": ""
+	},
+	{
+		"assign": "lookback_mainchapter_8",
+		"jp_text": "８章　　探す道の先　　　　",
+		"en_text": ""
+	},
+	{
+		"assign": "lookback_mainchapter_9",
+		"jp_text": "９章　　否定する世界　　　",
+		"en_text": ""
+	},
+	{
+		"assign": "lookback_mainchapter_10",
+		"jp_text": "１０章　だから、美しい　",
+		"en_text": ""
+	},
+	{
+		"assign": "lookback_mainchapter_11",
+		"jp_text": "エピローグ",
+		"en_text": ""
+	},
+	{
+		"assign": "menu_menu_lookback",
+		"jp_text": "ストーリー閲覧室",
+		"en_text": "Story Reading Room"
+	},
+	{
+		"assign": "lookback_event_title",
+		"jp_text": "ストーリー選択",
+		"en_text": "Story Selection"
+	},
+	{
+		"assign": "loginbonus_sgticket",
+		"jp_text": "<%ticketname> <%ticketnum>枚",
+		"en_text": "<%ticketname> <%ticketnum>"
+	},
+	{
+		"assign": "ItemDetail_GammaExp_Grindable",
+		"jp_text": "<color=yellow>上限UP可</color>",
+		"en_text": "<color=yellow>Max Limit UP</color>"
+	},
+	{
+		"assign": "ItemDetail_GammaExp_MaximumGrind",
+		"jp_text": "‐",
 		"en_text": ""
 	}
 ]
