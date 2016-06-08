@@ -632,9 +632,9 @@
 	{
 		"assign": "31201010000",
 		"jp_text": "進化デバイス／ＲＲリコ",
-		"en_text": "",
+		"en_text": "Evo. Device / RR Rico",
 		"jp_explain": "Ｌｖ．１００以上のマグに使用できる\nマグの形態進化デバイス。\n「ＲＲリコ」に進化する。",
-		"en_explain": ""
+		"en_explain": "Requires a Lv.100 mag or\nabove to use. Evolves\nyour mag into a RR Rico."
 	},
 	{
 		"assign": "31201020000",
@@ -662,6 +662,13 @@
 		"jp_text": "進化デバイス／オパオパ",
 		"en_text": "",
 		"jp_explain": "Ｌｖ．１００以上のマグに使用できる\nマグの形態進化デバイス。\n「オパオパ」に進化する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "31201080000",
+		"jp_text": "進化デバイス／紫ぷよ",
+		"en_text": "",
+		"jp_explain": "Ｌｖ．１００以上のマグに使用できる\nマグの形態進化デバイス。\n「紫ぷよ」に進化する。",
 		"en_explain": ""
 	},
 	{
@@ -802,6 +809,20 @@
 		"jp_text": "進化デバイス／プリュミー",
 		"en_text": "",
 		"jp_explain": "Ｌｖ．１００以上のマグに使用できる\nマグの形態進化デバイス。\n「プリュミー」に進化する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "31201330000",
+		"jp_text": "進化Ｄ／光武二式（大神機）",
+		"en_text": "",
+		"jp_explain": "Ｌｖ．１００以上のマグに使用できる\nマグの形態進化デバイス。\n「光武二式（大神機）」に進化する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "31201340000",
+		"jp_text": "進化Ｄ／光武二式（さくら機）",
+		"en_text": "",
+		"jp_explain": "Ｌｖ．１００以上のマグに使用できる\nマグの形態進化デバイス。\n「光武二式（さくら機）」に進化する。",
 		"en_explain": ""
 	}
 ]
