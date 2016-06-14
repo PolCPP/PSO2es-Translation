@@ -8117,7 +8117,7 @@
 	{
 		"assign": "recycle_item_trade_limit_info",
 		"jp_text": "<color=#f0df60>残り交換可能数：{0}個({1}まで)</color>",
-		"en_text": "<color=#f0df60>Time Remaining： {0}/({1})</color>"
+		"en_text": "<color=#f0df60>Available Until： {1} Limit: {0}</color>"
 	},
 	{
 		"assign": "recycle_item_trade_rest",
@@ -15947,7 +15947,7 @@
 	{
 		"assign": "lookback_maintext_0",
 		"jp_text": "ジェネやモアたちとの物語を振り返ります。",
-		"en_text": "I remember the story of Jeane and More."
+		"en_text": "The story of Jeane and More."
 	},
 	{
 		"assign": "lookback_episode_title",
@@ -16002,17 +16002,17 @@
 	{
 		"assign": "lookback_mainchapter_9",
 		"jp_text": "９章　　否定する世界　　　",
-		"en_text": ""
+		"en_text": "Ch 9. Denying the World "
 	},
 	{
 		"assign": "lookback_mainchapter_10",
 		"jp_text": "１０章　だから、美しい　",
-		"en_text": ""
+		"en_text": "Ch 10. So Lovely "
 	},
 	{
 		"assign": "lookback_mainchapter_11",
 		"jp_text": "エピローグ",
-		"en_text": ""
+		"en_text": "Epilogue"
 	},
 	{
 		"assign": "menu_menu_lookback",
