@@ -8102,7 +8102,7 @@
 	{
 		"assign": "recycle_raid_chip_category",
 		"jp_text": "{0}系チップ",
-		"en_text": "{0} System Chip"
+		"en_text": "{0} Chip(s)"
 	},
 	{
 		"assign": "recycle_item_num_format",
@@ -15612,7 +15612,7 @@
 	{
 		"assign": "SideSt_Dialog_b_02_1",
 		"jp_text": "・『{0}』の\n　　外伝解放ゲージst.{1} を最大にする",
-		"en_text": "・「{0}」\n　　Side Story Stage.{1}"
+		"en_text": "・「{0}」\n　　Side Story Stage {1}"
 	},
 	{
 		"assign": "SideSt_Dialog_b_02_2",
@@ -15867,12 +15867,12 @@
 	{
 		"assign": "sidestory_comm_error_t_00",
 		"jp_text": "エラー",
-		"en_text": ""
+		"en_text": "Error"
 	},
 	{
 		"assign": "sidestory_comm_error_b_00",
 		"jp_text": "ゲームデータの情報取得に失敗しました。\nロビートップに戻ります。",
-		"en_text": ""
+		"en_text": "Failed to grab game data.\nReturning to main menu."
 	},
 	{
 		"assign": "sidestory_voice_play_locked_info0",
@@ -15897,7 +15897,7 @@
 	{
 		"assign": "sidestory_story_replay_locked_info3",
 		"jp_text": "このストーリーは\nアップデートにて配信予定です。\n配信後に絆レベルをLv.<%parameter>にすると再生できます。\n\n",
-		"en_text": ""
+		"en_text": "This story\nwill be released in a future update.\nYou will be able to play up\nto Bond Lv. <%parameter> afterwards.\n"
 	},
 	{
 		"assign": "sidestory_memlevel0",
@@ -15907,7 +15907,7 @@
 	{
 		"assign": "SideSt_Dialog_b_02_3",
 		"jp_text": "以下の条件をクリアすると第{0}話が解放されます。",
-		"en_text": ""
+		"en_text": "Ch. {0} requires the following to be completed:"
 	},
 	{
 		"assign": "acshop_dialog_b_42",
