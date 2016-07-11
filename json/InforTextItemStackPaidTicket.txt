@@ -765,14 +765,14 @@
 	{
 		"assign": "32001160000",
 		"jp_text": "経験値獲得１０００００",
-		"en_text": "",
+		"en_text": "EXP 100000 Ticket",
 		"jp_explain": "経験値の授与申請チケット。\n使用したクラスの経験値を\n【１０００００】獲得可能。",
 		"en_explain": ""
 	},
 	{
 		"assign": "32001170000",
 		"jp_text": "ＣＣ７１１獲得チケット",
-		"en_text": "",
+		"en_text": "CC711 Winning Ticket",
 		"jp_explain": "ＣＣ（カジノコイン）の授与申請チケット。\nチケットを使用すると\nＣＣを【７１１】獲得可能。",
 		"en_explain": ""
 	},
@@ -1068,6 +1068,13 @@
 		"jp_text": "ＣＣ１２０獲得チケット",
 		"en_text": "CC 120 Winning Ticket",
 		"jp_explain": "ＣＣ（カジノコイン）の授与申請チケット。\nチケットを使用すると\nＣＣを【１２０】獲得可能。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32001640000",
+		"jp_text": "２０スタージェム",
+		"en_text": "20 Star Gems",
+		"jp_explain": "スタージェムの授与。\n条件を満たすことで\nＳＧを【２０】獲得する。",
 		"en_explain": ""
 	}
 ]

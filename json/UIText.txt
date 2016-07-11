@@ -13387,7 +13387,7 @@
 	{
 		"assign": "sns_post_message",
 		"jp_text": "【今日のお題：<%question>】\n<%inputText>\nhttp://pso2.jp/es/",
-		"en_text": "【Today's Topic】<%question>\n<%inputText>\n『PSO2es』 Official site: http://pso2es.jp"
+		"en_text": ""
 	},
 	{
 		"assign": "sns_post_hashtag",
@@ -13397,7 +13397,7 @@
 	{
 		"assign": "sns_post_b",
 		"jp_text": "45文字まで入力可能",
-		"en_text": ""
+		"en_text": "Message Limit: 45 characters."
 	},
 	{
 		"assign": "sns_post_replace",
@@ -13462,17 +13462,17 @@
 	{
 		"assign": "raid_log_00",
 		"jp_text": "クエストを開始しました。",
-		"en_text": ""
+		"en_text": "Started the Quest."
 	},
 	{
 		"assign": "raid_log_01",
 		"jp_text": "目標に",
-		"en_text": "大ダメージを与えました。"
+		"en_text": "Target"
 	},
 	{
 		"assign": "raid_log_02",
 		"jp_text": "ダメージを与えました。",
-		"en_text": "小ダメージを与えました。"
+		"en_text": ""
 	},
 	{
 		"assign": "raid_dialog_t_00",
@@ -14057,7 +14057,7 @@
 	{
 		"assign": "RaidEvent_Achievement_list_01",
 		"jp_text": "デイリー報酬 {0}月{1}日",
-		"en_text": ""
+		"en_text": "Daily Reward(s) {0}/{1}"
 	},
 	{
 		"assign": "RaidEvent_Achievement_dialog00",
@@ -14067,7 +14067,7 @@
 	{
 		"assign": "RaidEvent_Achievement_dialog01",
 		"jp_text": "以下の報酬を受け取りました。\n<color=#f0df60>※一部、所持数あふれにより\n受け取れなかった報酬があります。</color>",
-		"en_text": ""
+		"en_text": "I received the following rewards:"
 	},
 	{
 		"assign": "RaidEvent_Achievement_dialog02",
@@ -14132,7 +14132,7 @@
 	{
 		"assign": "raid_scratch_available_bonus_point",
 		"jp_text": "{0}\nでの使用可能ボーナスポイント",
-		"en_text": ""
+		"en_text": "{0}\nAvailable Points"
 	},
 	{
 		"assign": "raid_scratch_bonus_point",
@@ -14362,7 +14362,7 @@
 	{
 		"assign": "invite_dialog_t_04",
 		"jp_text": "エラー",
-		"en_text": ""
+		"en_text": "Error"
 	},
 	{
 		"assign": "invite_dialog_b_04",
@@ -14382,7 +14382,7 @@
 	{
 		"assign": "quest_lobby_guide_00",
 		"jp_text": "<color=#f0df60>現在の装備を表示します。「武器／チップ装備」「防具装備」ボタンから、装備の変更を行えます。</color>",
-		"en_text": "<color=#f0df61>現在の装備を表示します。「武器／チップ装備」「防具装備」ボタンから、装備の変更を行えます。</color>"
+		"en_text": "<color=#f0df61>Displays current equipment.</color>"
 	},
 	{
 		"assign": "tutorial_skip_dialog_t_00",
@@ -14622,7 +14622,7 @@
 	{
 		"assign": "arksexpeditioncounter_guide_00",
 		"jp_text": "<color=#f0df60>選択したクエストを即時に探索することができます。アカウントごとに毎日初回のみ無料で、以降は有料で利用できます。</color>",
-		"en_text": ""
+		"en_text": "<color=#f0df60>You can explore the selected quest immediately once free per day.</color>"
 	},
 	{
 		"assign": "quest_counter_header_arks_expedition",
@@ -14727,7 +14727,7 @@
 	{
 		"assign": "select_weaponoid_body",
 		"jp_text": "ウェポノイドチップを所持していません。\nウェポノイドチップを獲得すると\nキャラクターの切り替えやボイスを\n楽しむことができます。",
-		"en_text": ""
+		"en_text": "You do not have a Weaponoid.\nWhen you acquire a Weaponoid Chip,\nThis feature can be used."
 	},
 	{
 		"assign": "fld_productionset_btn",
@@ -15292,7 +15292,7 @@
 	{
 		"assign": "pet_give_parametermax_body",
 		"jp_text": "<color=yellow>{0}のプラス値が上限のため\r\n上がらないパラメーターがあります。</color>\r\n",
-		"en_text": "<color=yellow>{0}のプラス値が上限のため\n上がらないパラメーターがあります。</color>\n"
+		"en_text": "<color=yellow>{0} cannot go up any further.</color>\n"
 	},
 	{
 		"assign": "pet_chargeac_window_title",
@@ -15422,27 +15422,27 @@
 	{
 		"assign": "wh_34_01",
 		"jp_text": "ウェポノイドチップには、そのウェポノイドをめぐるストーリー付きの\n外伝クエストが存在するものがあります。",
-		"en_text": ""
+		"en_text": "Weaponoids now have a side story quest\nthat can be unlocked."
 	},
 	{
 		"assign": "wh_34_02",
 		"jp_text": "ウェポノイドのチップを装備してクエストをクリアすると\n「外伝解放ゲージ」が上昇し、ゲージがいっぱいになるたびに\nそのウェポノイドの外伝クエストを進めることができます。",
-		"en_text": ""
+		"en_text": "If you clear a quest with a Weaponoid\nequipped, the story gauge will fill up.\nWhen full, you can proceed in the Weaponoid Story."
 	},
 	{
 		"assign": "wh_34_03",
 		"jp_text": "外伝クエストを全てクリアすると、ウェポノイドチップの\n新たな能力が解放されるなどのボーナスがあります。",
-		"en_text": ""
+		"en_text": "When you clear the Side Story Quest,\nBonuses, such as new abilities, can be unlocked."
 	},
 	{
 		"assign": "wh_34_04",
 		"jp_text": "所持しているウェポノイドに外伝クエストが追加されたら\nぜひプレイして、ウェポノイドとの絆を深めましょう！",
-		"en_text": ""
+		"en_text": "Once a Side Story Quest has been added,\nYou can deepen the bond with your Weaponoids!"
 	},
 	{
 		"assign": "wh_35_01",
 		"jp_text": "全ての外伝クエストをクリアすると「外伝解放ゲージ」が\n「プレゼントゲージ」に変わり、ゲージがたまるたびに、\nウェポノイドからプレゼントが贈られるようになります。",
-		"en_text": ""
+		"en_text": "Once you clear all of the Weaponoid's\nStory Quests, the Gauge changes to a gift\ngauge, allowing you to recieve presents from the Weaponoid."
 	},
 	{
 		"assign": "ItemDetail_RingExp_Caption",
@@ -15597,7 +15597,7 @@
 	{
 		"assign": "SideSt_Dialog_b_01",
 		"jp_text": "このクエストは\nアップデートにて配信予定です。\n配信後に解放条件をクリアしてください。",
-		"en_text": ""
+		"en_text": "This quest will be\ndelivered in a future update.\nPlease check back again later."
 	},
 	{
 		"assign": "SideSt_Dialog_t_02",
@@ -15917,7 +15917,7 @@
 	{
 		"assign": "lookback_scene_title",
 		"jp_text": "ストーリー閲覧室",
-		"en_text": "Story Reading Room"
+		"en_text": "Story Room"
 	},
 	{
 		"assign": "lookback_character_name",
@@ -15957,47 +15957,47 @@
 	{
 		"assign": "lookback_mainchapter_0",
 		"jp_text": "序章　宇宙を旅する船団",
-		"en_text": ""
+		"en_text": "Oracle Introduction"
 	},
 	{
 		"assign": "lookback_mainchapter_1",
 		"jp_text": "１章　　始まりと出会い　　",
-		"en_text": ""
+		"en_text": "Ch 1. The First Encounter"
 	},
 	{
 		"assign": "lookback_mainchapter_2",
 		"jp_text": "２章　　ひとつの結末　　　",
-		"en_text": ""
+		"en_text": "Ch 2. One Ending"
 	},
 	{
 		"assign": "lookback_mainchapter_3",
 		"jp_text": "３章　　新たな暗影　　　　",
-		"en_text": ""
+		"en_text": "Ch 3. A New Shadow"
 	},
 	{
 		"assign": "lookback_mainchapter_4",
 		"jp_text": "４章　　揺らぐ境界　　　　",
-		"en_text": ""
+		"en_text": "Ch 4. Boundaries Shaken"
 	},
 	{
 		"assign": "lookback_mainchapter_5",
 		"jp_text": "５章　　異なる覚悟　　　　",
-		"en_text": ""
+		"en_text": "Ch 5. Different Readiness"
 	},
 	{
 		"assign": "lookback_mainchapter_6",
 		"jp_text": "６章　　忘れられた約束　　",
-		"en_text": ""
+		"en_text": "Ch 6. Forgotten Promises"
 	},
 	{
 		"assign": "lookback_mainchapter_7",
 		"jp_text": "７章　　不完全な心　　　　",
-		"en_text": ""
+		"en_text": "Ch 7. Imperfect Heart"
 	},
 	{
 		"assign": "lookback_mainchapter_8",
 		"jp_text": "８章　　探す道の先　　　　",
-		"en_text": ""
+		"en_text": "Ch 8. Find the Road Ahead."
 	},
 	{
 		"assign": "lookback_mainchapter_9",
@@ -16007,7 +16007,7 @@
 	{
 		"assign": "lookback_mainchapter_10",
 		"jp_text": "１０章　だから、美しい　",
-		"en_text": "Ch 10. So Lovely "
+		"en_text": "Ch 10. So, Beautiful "
 	},
 	{
 		"assign": "lookback_mainchapter_11",
