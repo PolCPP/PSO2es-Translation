@@ -3382,12 +3382,12 @@
 	{
 		"assign": "myshop_dialog_b_08",
 		"jp_text": "購入には「ＰＳＯ２ｅｓマイショップ利用券」またはラッピーメダルが必要です。\n利用券がない場合、<%AC>で利用券を購入できます。\n\n必要ＰＳＯ２ｅｓマイショップ利用券：<%NEEDTICKET>\n所持ＰＳＯ２ｅｓマイショップ利用券：<%HAVETICKET>\n\n必要ラッピーメダル：<%NEEDMEDAL>\n所持ラッピーメダル：<%HAVEMEDAL>",
-		"en_text": "「PSO2es MyShop Ticket」 or Rappy Coins required to buy.\nIf you don't have a ticket, you can buy one with <%AC>.\n\nNeeded：<%NEEDTICKET>\nOwned:<%HAVETICKET>\n\nRappy Coins Needed:<%NEEDMEDAL>\nOwned:<%HAVEMEDAL>"
+		"en_text": "「PSO2es MyShop Voucher」 or Rappy Coins required to buy.\nIf you don't have a voucher, you can buy one with <%AC>.\n\nNeeded Vouchers： <%NEEDTICKET>\nOwned: <%HAVETICKET>\n\nRappy Coins Needed: <%NEEDMEDAL>\nOwned: <%HAVEMEDAL>"
 	},
 	{
 		"assign": "myshop_dialog_b_08_1",
 		"jp_text": "<%NUM>枚",
-		"en_text": "Page <%NUM>"
+		"en_text": "<%NUM>"
 	},
 	{
 		"assign": "myshop_dialog_b_08_ticket",
