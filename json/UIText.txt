@@ -701,7 +701,7 @@
 	},
 	{
 		"assign": "mshop_npc_b_00",
-		"jp_text": "<color=black>いらっしゃいませ！\nこちらではチップやアイテムを\n売却・リサイクルできます。</color>",
+		"jp_text": "<color=black>いらっしゃいませ！\nこちらではチップやアイテムを\n売却・交換できます。</color>",
 		"en_text": "<color=black>Welcome!\nYou can sell items/chips here.</color>"
 	},
 	{
@@ -722,12 +722,17 @@
 	{
 		"assign": "mshop_guide_03",
 		"jp_text": "<color=#f0df60>欲しいチップまたはアイテムを選んでください。あなたの持っているアイテムと交換できます。</color>",
-		"en_text": "<color=#f0df60>This is the Recycle shop. Tap twice on the item you wish to exchange es/scratch items for.</color>"
+		"en_text": "<color=#f0df60>This is the Exchange shop. Tap twice on the item you wish to exchange es/scratch items for.</color>"
 	},
 	{
 		"assign": "mshop_guide_04",
 		"jp_text": "<color=#f0df60>渡すチップまたはアイテムを選んでください。必要な数を選択すると、交換できます。</color>",
 		"en_text": "<color=#f0df60>After you've selected enough items for the Exchange, you can acquire it.</color>"
+	},
+	{
+		"assign": "mshop_guide_05",
+		"jp_text": "<color=#f0df60>利用したい項目を選んでください。</color>",
+		"en_text": ""
 	},
 	{
 		"assign": "mshop_dialog_t_00",
@@ -811,8 +816,8 @@
 	},
 	{
 		"assign": "rshop_dialog_t_00",
-		"jp_text": "リサイクルショップ",
-		"en_text": "Recycle Shop"
+		"jp_text": "交換ショップ",
+		"en_text": "Exchange Shop"
 	},
 	{
 		"assign": "rshop_dialog_b_00",
@@ -821,8 +826,8 @@
 	},
 	{
 		"assign": "rshop_dialog_t_01",
-		"jp_text": "リサイクルショップ",
-		"en_text": "Recycle Shop"
+		"jp_text": "交換ショップ",
+		"en_text": "Exchange Shop"
 	},
 	{
 		"assign": "rshop_dialog_b_01",
@@ -831,8 +836,8 @@
 	},
 	{
 		"assign": "rshop_dialog_t_02",
-		"jp_text": "リサイクルショップ",
-		"en_text": "Recycle Shop"
+		"jp_text": "交換ショップ",
+		"en_text": "Exchange Shop"
 	},
 	{
 		"assign": "rshop_dialog_b_02",
@@ -841,8 +846,8 @@
 	},
 	{
 		"assign": "rshop_dialog_t_03",
-		"jp_text": "リサイクルショップ",
-		"en_text": "Recycle Shop"
+		"jp_text": "交換ショップ",
+		"en_text": "Exchange Shop"
 	},
 	{
 		"assign": "rshop_dialog_b_03",
@@ -851,8 +856,8 @@
 	},
 	{
 		"assign": "rshop_dialog_t_04",
-		"jp_text": "リサイクルショップ",
-		"en_text": "Recycle Shop"
+		"jp_text": "交換ショップ",
+		"en_text": "Exchange Shop"
 	},
 	{
 		"assign": "rshop_dialog_b_04",
@@ -861,8 +866,8 @@
 	},
 	{
 		"assign": "rshop_dialog_t_05",
-		"jp_text": "リサイクルショップ",
-		"en_text": "Recycle Shop"
+		"jp_text": "交換ショップ",
+		"en_text": "Exchange Shop"
 	},
 	{
 		"assign": "rshop_dialog_b_05",
@@ -871,13 +876,13 @@
 	},
 	{
 		"assign": "rshop_dialog_t_06",
-		"jp_text": "リサイクルショップ",
-		"en_text": "Recycle Shop"
+		"jp_text": "交換ショップ",
+		"en_text": "Exchange Shop"
 	},
 	{
 		"assign": "rshop_dialog_b_06",
 		"jp_text": "スタージェムを入手していないアイテムを\n交換しようとしています。\nよろしいですか？",
-		"en_text": "The item you're trying to recycle\nhasn't recieved its star gems.\nContinue?"
+		"en_text": "The item you're trying to exchange\nhasn't recieved its star gems.\nContinue?"
 	},
 	{
 		"assign": "arcscard_guide_00",
@@ -7390,6 +7395,11 @@
 		"en_text": "Held"
 	},
 	{
+		"assign": "storage_num",
+		"jp_text": "収納数",
+		"en_text": ""
+	},
+	{
 		"assign": "rearrange",
 		"jp_text": "並び替え",
 		"en_text": "Sort"
@@ -7896,7 +7906,7 @@
 	},
 	{
 		"assign": "item_sale",
-		"jp_text": "アイテム売却／リサイクル",
+		"jp_text": "アイテム売却／交換",
 		"en_text": "Sell items"
 	},
 	{
@@ -7951,13 +7961,13 @@
 	},
 	{
 		"assign": "item_sale_menu",
-		"jp_text": "売却／リサイクルメニュー",
-		"en_text": "Sell/Recycle"
+		"jp_text": "売却／交換メニュー",
+		"en_text": "Sell/Exchange"
 	},
 	{
 		"assign": "item_sale_recycle",
-		"jp_text": "リサイクル",
-		"en_text": "Recycle Shop"
+		"jp_text": "交換ショップ",
+		"en_text": "Exchange Shop"
 	},
 	{
 		"assign": "item_pack_window",
@@ -7996,28 +8006,13 @@
 	},
 	{
 		"assign": "recycle_shop_header",
-		"jp_text": "リサイクル",
-		"en_text": "Recycle Shop"
+		"jp_text": "交換ショップ",
+		"en_text": "Exchange Shop"
 	},
 	{
-		"assign": "recycle_chip_list",
-		"jp_text": "リサイクルで手に入るチップ一覧",
-		"en_text": "Recycle Shop Chips"
-	},
-	{
-		"assign": "recycle_item_list",
-		"jp_text": "リサイクルで手に入るアイテム一覧",
-		"en_text": "Recycle Shop Items"
-	},
-	{
-		"assign": "recycle_switch_item",
-		"jp_text": "アイテム一覧を見る",
-		"en_text": "Switch to Items"
-	},
-	{
-		"assign": "recycle_switch_chip",
-		"jp_text": "チップ一覧を見る",
-		"en_text": "Switch to Chips"
+		"assign": "recycle_product_list",
+		"jp_text": "交換で手に入るチップ・アイテム",
+		"en_text": "Chip & Item Exchanges"
 	},
 	{
 		"assign": "recycle_switch_item_pack",
@@ -8031,8 +8026,8 @@
 	},
 	{
 		"assign": "recycle_menu",
-		"jp_text": "リサイクルメニュー",
-		"en_text": "Recycle Menu"
+		"jp_text": "交換ショップメニュー",
+		"en_text": "Exchange Menu"
 	},
 	{
 		"assign": "recycle_ac_item_chip",
@@ -8097,7 +8092,7 @@
 	{
 		"assign": "recycle_rare_enemy_chip",
 		"jp_text": "対象のレアエネミーチップ",
-		"en_text": "Rare Enemy Chips "
+		"en_text": "Rare Enemy Chip(s)"
 	},
 	{
 		"assign": "recycle_raid_chip_category",
@@ -8112,16 +8107,16 @@
 	{
 		"assign": "recycle_item_trade_info",
 		"jp_text": "交換に必要：{0} {1}個",
-		"en_text": "{0}×{1} needed to recycle. "
+		"en_text": "Needs x{1} {0}."
 	},
 	{
 		"assign": "recycle_item_trade_limit_info",
-		"jp_text": "<color=#f0df60>残り交換可能数：{0}個({1}まで)</color>",
-		"en_text": "<color=#f0df60>Available Until： {1} Limit: {0}</color>"
+		"jp_text": "交換期限：　<color=#ffff00>{0}</color>",
+		"en_text": "Deadline: <color=#ffff00>{0}</color>"
 	},
 	{
 		"assign": "recycle_item_trade_rest",
-		"jp_text": "あと{0}個",
+		"jp_text": "交換可能数：　<color=#ffff00>あと{0}個</color>",
 		"en_text": "{0} needed items/chips. "
 	},
 	{
@@ -8132,7 +8127,7 @@
 	{
 		"assign": "recycle_shop_trade_chip",
 		"jp_text": "チップ選択数",
-		"en_text": "Chips selected"
+		"en_text": "Chip(s) selected"
 	},
 	{
 		"assign": "recycle_shop_trade_item_sum",
@@ -8152,12 +8147,37 @@
 	{
 		"assign": "recycle_shop_item_pack",
 		"jp_text": "渡すアイテム",
-		"en_text": "Recycle Items"
+		"en_text": "Exchange Items"
 	},
 	{
 		"assign": "recycle_shop_chip_pack",
 		"jp_text": "渡すチップ",
-		"en_text": "Recycle Chips"
+		"en_text": "Exchange Chips"
+	},
+	{
+		"assign": "recycle_shop_have_num",
+		"jp_text": "所持　<color=#e25f04>{0}</color>/{1}",
+		"en_text": "Have <color=#e25f04>{0}</color>/{1}"
+	},
+	{
+		"assign": "recycle_shop_have_num_over",
+		"jp_text": "所持　{0}/{1}",
+		"en_text": "Have {0}/{1}"
+	},
+	{
+		"assign": "recycle_shop_change_view_button",
+		"jp_text": "表示形式変更",
+		"en_text": "Sort"
+	},
+	{
+		"assign": "recycle_shop_shop_limit",
+		"jp_text": "<color=#e25f04>～{0}</color>",
+		"en_text": ""
+	},
+	{
+		"assign": "recycle_shop_rest_count",
+		"jp_text": "あと <color=#ffff00>{0}</color> 個",
+		"en_text": ""
 	},
 	{
 		"assign": "chip_grind_ability_level_up",
@@ -8951,7 +8971,7 @@
 	},
 	{
 		"assign": "menu_shop_mshop",
-		"jp_text": "売却／リサイクル",
+		"jp_text": "売却／交換",
 		"en_text": "Sell items"
 	},
 	{
@@ -9261,12 +9281,12 @@
 	},
 	{
 		"assign": "non_recyclable_title",
-		"jp_text": "リサイクル不可",
+		"jp_text": "交換不可",
 		"en_text": ""
 	},
 	{
 		"assign": "non_recyclable_body",
-		"jp_text": "アイテムパック数をオーバーするため\nリサイクルできません。\n売却またはリサイクルをして\nアイテムを整理してください。",
+		"jp_text": "アイテムパックの空き容量または所持数を\nオーバーするため交換できません。\n売却または交換をして\nアイテムを整理してください。",
 		"en_text": ""
 	},
 	{
@@ -10926,23 +10946,23 @@
 	},
 	{
 		"assign": "wh_21_00",
-		"jp_text": "リサイクルショップでは、\n不要なチップやアイテムをリサイクルして\nほかのチップやアイテムと交換することができます。",
-		"en_text": "In the Recycle Shop,\nyou can recycle unwanted\nchips and items for other chips and items."
+		"jp_text": "交換ショップでは、不要なチップやアイテムを\nほかのチップやアイテムと交換することができます。",
+		"en_text": "In the Exchange Shop,\nyou can recycle unwanted\nchips and items for other chips and items."
 	},
 	{
 		"assign": "wh_21_01",
-		"jp_text": "＜リサイクルの方法＞\nまずは、リサイクルショップのリストの中から\n手に入れたいチップ・アイテムを選択しましょう。",
-		"en_text": "<How to Recycle>\nFirst, you'll need to select\nthe chip or item you wish to get."
+		"jp_text": "＜交換の方法＞\nまずは、交換ショップのリストの中から\n手に入れたいチップ・アイテムを選択しましょう。",
+		"en_text": "<How to Exchange>\nFirst, you'll need to select\nthe chip or item you wish to get."
 	},
 	{
 		"assign": "wh_21_02",
-		"jp_text": "続いて、指定された複数のチップ・アイテムの中から\nリサイクルに出すものを選んでください。",
-		"en_text": "Then, select the items or chips that\nyou wish to be recycled."
+		"jp_text": "続いて、指定された複数のチップ・アイテムの中から\n交換に出すものを選んでください。",
+		"en_text": "Then, select the items or chips that\nyou wish to be exchanged."
 	},
 	{
 		"assign": "wh_21_03",
-		"jp_text": "＜リサイクル時の注意事項＞\n交換に必要なチップ・アイテムは、ものにより個数や内容が異なります。\nまた、対象アイテムは時期やイベントにより変化します。",
-		"en_text": "<Notes on Recycling>\nDifferent chips or items will have different target\nitems/chips needed, please keep note."
+		"jp_text": "＜交換時の注意事項＞\n交換に必要なチップ・アイテムは、ものにより個数や内容が異なります。\nまた、対象アイテムは時期やイベントにより変化します。",
+		"en_text": "<Notes on Exchanging>\nDifferent chips or items will have different target\nitems/chips needed, please keep note."
 	},
 	{
 		"assign": "wh_22_00",
@@ -15551,7 +15571,7 @@
 	},
 	{
 		"assign": "ItemDetail_Parameter_GammaExpCaption",
-		"jp_text": "強化EXP　　　　/",
+		"jp_text": "次の強化値まで　　　　/",
 		"en_text": "Grind EXP\t/"
 	},
 	{
@@ -16038,5 +16058,95 @@
 		"assign": "ItemDetail_GammaExp_MaximumGrind",
 		"jp_text": "‐",
 		"en_text": ""
+	},
+	{
+		"assign": "arks_exp_result_bonus_text",
+		"jp_text": "ボーナス",
+		"en_text": "Bonus"
+	},
+	{
+		"assign": "arks_exp_result_reward_text",
+		"jp_text": "報酬",
+		"en_text": "Reward"
+	},
+	{
+		"assign": "arks_exp_result_quest_bonus_text",
+		"jp_text": "連続探索ボーナス",
+		"en_text": "Continous Search Bonus"
+	},
+	{
+		"assign": "arks_exp_result_reward_exp_text",
+		"jp_text": "経験値　/",
+		"en_text": "EXP /"
+	},
+	{
+		"assign": "arks_exp_result_reward_meseta_text",
+		"jp_text": "メセタ　 /",
+		"en_text": "Meseta /"
+	},
+	{
+		"assign": "arks_exp_result_stack_num_text",
+		"jp_text": "×",
+		"en_text": ""
+	},
+	{
+		"assign": "arks_exp_quest_area_info",
+		"jp_text": "報酬情報",
+		"en_text": "Reward Info"
+	},
+	{
+		"assign": "arks_exp_quest_pickup_item_text",
+		"jp_text": "目玉アイテム 　 /",
+		"en_text": "Featured     /"
+	},
+	{
+		"assign": "arks_exp_quest_exp_text",
+		"jp_text": "経験値　/",
+		"en_text": "EXP    /"
+	},
+	{
+		"assign": "arks_exp_quest_meseta_text",
+		"jp_text": "メセタ　 /",
+		"en_text": "Meseta /"
+	},
+	{
+		"assign": "arks_exp_quest_bonus_info",
+		"jp_text": "連続探索ボーナス",
+		"en_text": "Continous Search Bonus"
+	},
+	{
+		"assign": "arks_exp_quest_drop_num_text",
+		"jp_text": "アイテム獲得枠　/",
+		"en_text": "Item Acq. Frame /"
+	},
+	{
+		"assign": "arks_exp_quest_rera_text",
+		"jp_text": "レアドロップ倍率 /",
+		"en_text": "Rare Drop %  /"
+	},
+	{
+		"assign": "arks_exp_quest_lap_text",
+		"jp_text": "あと",
+		"en_text": "after"
+	},
+	{
+		"assign": "arks_exp_quest_num",
+		"jp_text": "残り探索回数：",
+		"en_text": "Searches Left:"
+	},
+	{
+		"assign": "arks_exp_quest_info_title",
+		"jp_text": "クエスト情報",
+		"en_text": "Quest Info"
+	},
+	{
+		"assign": "story_event_end_text_1",
+		"jp_text": "現在のストーリークエストの配信は\r\nここまでとなります。",
+		"en_text": "Current Story Ends Here"
+	},
+	{
+		"assign": "story_event_end_text_2",
+		"jp_text": "今後も新たなストーリークエストが追加される\r\n予定です。次回の配信をお待ちください。",
+		"en_text": "Stay tuned for the next exciting\r\nupdate for PSO2es."
 	}
 ]

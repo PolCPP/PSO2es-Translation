@@ -1782,7 +1782,7 @@
 	{
 		"assign": "DpAbyssEx",
 		"jp_text": "【深遠なる闇】",
-		"en_text": ""
+		"en_text": "[Profound Darkness]"
 	},
 	{
 		"assign": "DpAbyssChar",
@@ -1792,7 +1792,7 @@
 	{
 		"assign": "DpAbyssCharEx",
 		"jp_text": "【深遠なる闇】",
-		"en_text": ""
+		"en_text": "[Profound Darkness]"
 	},
 	{
 		"assign": "DpAbyssCharUniq",
@@ -1867,7 +1867,7 @@
 	{
 		"assign": "PhantomManSp",
 		"jp_text": "グレンゾンビ",
-		"en_text": ""
+		"en_text": "Glen Zombie"
 	},
 	{
 		"assign": "PhantomHeli",
@@ -1945,6 +1945,31 @@
 		"en_text": "Phantom Big Fan"
 	},
 	{
+		"assign": "PhantomGoddess",
+		"jp_text": "ベガス・イリュージア",
+		"en_text": "Vegas Illusia"
+	},
+	{
+		"assign": "PhantomGoddessRare",
+		"jp_text": "ナイトメア・ベガス",
+		"en_text": "Nightmare Vegas"
+	},
+	{
+		"assign": "PhantomTrack",
+		"jp_text": "デビルズトレーラー",
+		"en_text": "Devil’s Trailer"
+	},
+	{
+		"assign": "PhantomTrackRare",
+		"jp_text": "マーダートレーラー",
+		"en_text": "Murder Trailer"
+	},
+	{
+		"assign": "PhantomDog",
+		"jp_text": "ボクサーファムト",
+		"en_text": "Boxer Phantom"
+	},
+	{
 		"assign": "PetCommon",
 		"jp_text": "ペット",
 		"en_text": "Pet"
@@ -1955,14 +1980,84 @@
 		"en_text": "Odin"
 	},
 	{
+		"assign": "PhantomPierrotA",
+		"jp_text": "ジャグラーピエロ",
+		"en_text": "Juggler Clown"
+	},
+	{
+		"assign": "PhantomPierrotB",
+		"jp_text": "チェーンソーピエロ",
+		"en_text": "Chainsaw Clown"
+	},
+	{
+		"assign": "PhantomBuffalo",
+		"jp_text": "スカルバファロー",
+		"en_text": "Skull Buffalo"
+	},
+	{
+		"assign": "PhantomBuffaloRare",
+		"jp_text": "バファローヘッド",
+		"en_text": "Buffalo Head"
+	},
+	{
+		"assign": "PhantomVulture",
+		"jp_text": "バルチャファムト",
+		"en_text": ""
+	},
+	{
+		"assign": "PhantomUFO",
+		"jp_text": "U.F.O",
+		"en_text": ""
+	},
+	{
+		"assign": "PhantomRider",
+		"jp_text": "デュラハンライダー",
+		"en_text": "Dullahan Rider"
+	},
+	{
+		"assign": "PhantomRiderRare",
+		"jp_text": "レッドデュライダー",
+		"en_text": ""
+	},
+	{
+		"assign": "Char20_FLG",
+		"jp_text": "ファレグ",
+		"en_text": "Phaleg"
+	},
+	{
 		"assign": "Char18_HG",
 		"jp_text": "ハギト・フェムト",
 		"en_text": "Hagito Phemut"
 	},
 	{
+		"assign": "PhantomMaxwell",
+		"jp_text": "マクスウェルの悪魔",
+		"en_text": "Maxwell's Demon"
+	},
+	{
+		"assign": "PhantomLaplace",
+		"jp_text": "ラプラスの悪魔",
+		"en_text": "Laplace's Demon"
+	},
+	{
+		"assign": "PhantomSniperA",
+		"jp_text": "スナイパーネオン",
+		"en_text": ""
+	},
+	{
+		"assign": "PhantomSniperB",
+		"jp_text": "ランチャーネオン",
+		"en_text": ""
+	},
+	{
+		"assign": "PhantomCaravan",
+		"jp_text": "サーカスキャリッジ",
+		"en_text": ""
+	},
+	{
 		"assign": "DpToyEx",
 		"jp_text": "ダークファルス・ダブル",
-		"en_text": ""
+		"en_text": "Dark Falz Double"
 	},
 	{
 		"assign": "NativeBeast_T",
@@ -2016,6 +2111,11 @@
 	},
 	{
 		"assign": "SpiderSP1",
+		"jp_text": "ダーク・ラグネ＋",
+		"en_text": "Dark Ragne+"
+	},
+	{
+		"assign": "SpiderSP2",
 		"jp_text": "ダーク・ラグネ＋",
 		"en_text": "Dark Ragne+"
 	},
@@ -2265,6 +2365,11 @@
 		"en_text": "Quartz Dragon+"
 	},
 	{
+		"assign": "DragonGladiatorSP1",
+		"jp_text": "ドラゴン・エクス＋",
+		"en_text": ""
+	},
+	{
 		"assign": "MarineTetraSP1",
 		"jp_text": "トルボン＋",
 		"en_text": "Torbon+"
@@ -2273,6 +2378,11 @@
 		"assign": "MarineFlowerSP1",
 		"jp_text": "ブルメガーラ＋",
 		"en_text": "Blumegalla+"
+	},
+	{
+		"assign": "MarineOrcaSP1",
+		"jp_text": "オルグブラン＋",
+		"en_text": ""
 	},
 	{
 		"assign": "MarineOrcaRareST0",
@@ -2287,7 +2397,12 @@
 	{
 		"assign": "PantherBRareST0",
 		"jp_text": "レヴィ",
-		"en_text": ""
+		"en_text": "Levi"
+	},
+	{
+		"assign": "DragonGladiatorRareST0",
+		"jp_text": "フェル",
+		"en_text": "Phel"
 	},
 	{
 		"assign": "PantherSnowARareLD0",
@@ -2352,32 +2467,32 @@
 	{
 		"assign": "PantherBRareLD0",
 		"jp_text": "小型バンサ・ドンナ",
-		"en_text": ""
+		"en_text": "Small Banther Donna"
 	},
 	{
 		"assign": "PantherBRareATK0",
 		"jp_text": "大型バンサ・ドンナ",
-		"en_text": ""
+		"en_text": "Large Banther Donna"
 	},
 	{
 		"assign": "PantherBRareSPD0",
 		"jp_text": "狂暴バンサ・ドンナ",
-		"en_text": ""
+		"en_text": "Violent Banther Donna"
 	},
 	{
 		"assign": "PantherBRareAN0",
 		"jp_text": "特異バンサ・ドンナ",
-		"en_text": ""
+		"en_text": "Exceptional Banther Donna"
 	},
 	{
 		"assign": "PantherBRareHC0",
 		"jp_text": "タイプＣバンサ・ドンナ",
-		"en_text": ""
+		"en_text": "Type-C Banther Donna"
 	},
 	{
 		"assign": "PantherBRareHC1",
 		"jp_text": "タイプＣバンサ・ドンナ＋",
-		"en_text": ""
+		"en_text": "Type-C Banther Donna+"
 	},
 	{
 		"assign": "DragonMagmaRareLD0",
@@ -2468,6 +2583,36 @@
 		"assign": "DragonCrystalRareHC1",
 		"jp_text": "タイプＣクリス・ドラール＋",
 		"en_text": "Type-C Crys Draal+"
+	},
+	{
+		"assign": "DragonGladiatorRareLD0",
+		"jp_text": "小型ノワル・ドラール",
+		"en_text": "Small Noir Draal"
+	},
+	{
+		"assign": "DragonGladiatorRareATK0",
+		"jp_text": "大型ノワル・ドラール",
+		"en_text": "Large Noir Draal"
+	},
+	{
+		"assign": "DragonGladiatorRareSPD0",
+		"jp_text": "狂暴ノワル・ドラール",
+		"en_text": "Violent Noir Draal"
+	},
+	{
+		"assign": "DragonGladiatorRareAN0",
+		"jp_text": "特異ノワル・ドラール",
+		"en_text": "Exceptional Noir Draal"
+	},
+	{
+		"assign": "DragonGladiatorRareHC0",
+		"jp_text": "タイプＣノワル・ドラール",
+		"en_text": "Type-C Noir Draal"
+	},
+	{
+		"assign": "DragonGladiatorRareHC1",
+		"jp_text": "タイプＣノワル・ドラール＋",
+		"en_text": "Type-C Noir Draal+"
 	},
 	{
 		"assign": "AlligatorSnapperRareLD0",
@@ -2577,27 +2722,27 @@
 	{
 		"assign": "FishBigBeastLD0",
 		"jp_text": "小型アロナガーダ",
-		"en_text": ""
+		"en_text": "Small Alonagahda"
 	},
 	{
 		"assign": "FishBigBeastATK0",
 		"jp_text": "大型アロナガーダ",
-		"en_text": ""
+		"en_text": "Large Alonagahda"
 	},
 	{
 		"assign": "FishBigBeastSPD0",
 		"jp_text": "狂暴アロナガーダ",
-		"en_text": ""
+		"en_text": "Violent Alonagahda"
 	},
 	{
 		"assign": "FishBigBeastMU0",
 		"jp_text": "未知アロナガーダ",
-		"en_text": ""
+		"en_text": "Unknown Alonagahda"
 	},
 	{
 		"assign": "FishBigBeastMU1",
 		"jp_text": "未知アロナガーダ＋",
-		"en_text": ""
+		"en_text": "Unknown Alonagahda+"
 	},
 	{
 		"assign": "LocustEx",
@@ -2885,6 +3030,21 @@
 		"en_text": "Windira EX"
 	},
 	{
+		"assign": "DragonFlyraptorShotEx",
+		"jp_text": "ソル・ディガーラＥｘ",
+		"en_text": ""
+	},
+	{
+		"assign": "DragonChariotVanguardEx",
+		"jp_text": "ディランダールＥｘ",
+		"en_text": ""
+	},
+	{
+		"assign": "DragonChariotRearguardEx",
+		"jp_text": "ソル・ディランダールＥｘ",
+		"en_text": ""
+	},
+	{
 		"assign": "DragonWormEx",
 		"jp_text": "キャタドランＥｘ",
 		"en_text": "Caterdra'n EX"
@@ -2913,6 +3073,11 @@
 		"assign": "DragonCrystalEx",
 		"jp_text": "クォーツ・ドラゴンＥｘ",
 		"en_text": "Quartz Dragon EX"
+	},
+	{
+		"assign": "DragonGladiatorEx",
+		"jp_text": "ドラゴン・エクスＥｘ",
+		"en_text": ""
 	},
 	{
 		"assign": "MarineTetraEx",
@@ -2948,6 +3113,11 @@
 		"assign": "PantherBRareST0Ex",
 		"jp_text": "レヴィＥｘ",
 		"en_text": "Levi EX"
+	},
+	{
+		"assign": "DragonGladiatorRareST0Ex",
+		"jp_text": "フェルＥｘ",
+		"en_text": ""
 	},
 	{
 		"assign": "RappyEx",

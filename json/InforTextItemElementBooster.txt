@@ -1256,154 +1256,154 @@
 		"assign": "179",
 		"jp_text": "打撃アップ",
 		"en_text": "S-ATK Up",
-		"jp_explain": "打撃+35",
+		"jp_explain": "---",
 		"en_explain": "S-ATK+35"
 	},
 	{
 		"assign": "180",
 		"jp_text": "射撃アップ",
 		"en_text": "R-ATK Up",
-		"jp_explain": "射撃+35",
+		"jp_explain": "---",
 		"en_explain": "R-ATK+35"
 	},
 	{
 		"assign": "181",
 		"jp_text": "法撃アップ",
 		"en_text": "T-ATK Up",
-		"jp_explain": "法撃+35",
+		"jp_explain": "---",
 		"en_explain": "T-ATK+35"
 	},
 	{
 		"assign": "182",
 		"jp_text": "技量アップ",
 		"en_text": "DEX Up",
-		"jp_explain": "技量+40",
+		"jp_explain": "---",
 		"en_explain": "DEX+40"
 	},
 	{
 		"assign": "183",
 		"jp_text": "ＨＰアップ",
 		"en_text": "HP Up",
-		"jp_explain": "HP+100",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "184",
 		"jp_text": "ＰＰアップ",
 		"en_text": "PP Up",
-		"jp_explain": "PP+5",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "185",
 		"jp_text": "打撃ＨＰアップ",
 		"en_text": "Strike HP Up",
-		"jp_explain": "打撃+25 HP+20",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "186",
 		"jp_text": "射撃ＨＰアップ",
 		"en_text": "Ranged HP Up",
-		"jp_explain": "射撃+25 HP+20",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "187",
 		"jp_text": "法撃ＨＰアップ",
 		"en_text": "Tech HP Up",
-		"jp_explain": "法撃+25 HP+20",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "188",
 		"jp_text": "技量ＨＰアップ",
 		"en_text": "DEX HP Up",
-		"jp_explain": "技量+30 HP+20",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "189",
 		"jp_text": "打撃ＰＰアップ",
 		"en_text": "Strike PP Up",
-		"jp_explain": "打撃+25 PP+3",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "190",
 		"jp_text": "射撃ＰＰアップ",
 		"en_text": "Ranged PP Up",
-		"jp_explain": "射撃+25 PP+3",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "191",
 		"jp_text": "法撃ＰＰアップ",
 		"en_text": "Tech PP Up",
-		"jp_explain": "法撃+25 PP+3",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "192",
 		"jp_text": "技量ＰＰアップ",
 		"en_text": "DEX PP Up",
-		"jp_explain": "技量+30 PP+3",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "193",
 		"jp_text": "ＨＰＰＰアップ",
 		"en_text": "HP PP Up",
-		"jp_explain": "HP+30 PP+3",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "194",
 		"jp_text": "ＰＰＨＰアップ",
 		"en_text": "PP HP Up",
-		"jp_explain": "HP+20 PP+4",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "195",
 		"jp_text": "打撃射撃アップ",
 		"en_text": "Strike and Ranged Atk Up",
-		"jp_explain": "打撃+25 射撃+25",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "196",
 		"jp_text": "打撃法撃アップ",
 		"en_text": "",
-		"jp_explain": "打撃+25 法撃+25",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "197",
 		"jp_text": "打撃技量アップ",
 		"en_text": "",
-		"jp_explain": "打撃+25 技量+30",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "198",
 		"jp_text": "射撃法撃アップ",
 		"en_text": "",
-		"jp_explain": "射撃+25 法撃+25",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "199",
 		"jp_text": "射撃技量アップ",
 		"en_text": "",
-		"jp_explain": "射撃+25 技量+30",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "200",
 		"jp_text": "法撃技量アップ",
 		"en_text": "",
-		"jp_explain": "法撃+25 技量+30",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
@@ -1423,7 +1423,7 @@
 	{
 		"assign": "203",
 		"jp_text": "ティル・ジ・ソール",
-		"en_text": "Tail The Soul",
+		"en_text": "Till The Soul",
 		"jp_explain": "射撃+35 PP+3",
 		"en_explain": "R-ATK+35 PP+3"
 	},
@@ -1445,84 +1445,84 @@
 		"assign": "206",
 		"jp_text": "ペットスタミナⅠ",
 		"en_text": "Pet Stamina I",
-		"jp_explain": "HP+10",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "207",
 		"jp_text": "ペットスタミナⅡ",
-		"en_text": "",
-		"jp_explain": "HP+15",
+		"en_text": "Pet Stamina II",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "208",
 		"jp_text": "ペットスタミナⅢ",
-		"en_text": "",
-		"jp_explain": "HP+25",
+		"en_text": "Pet Stamina III",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "209",
 		"jp_text": "ペットボディⅠ",
 		"en_text": "Pet Body I",
-		"jp_explain": "打防+100",
+		"jp_explain": "---",
 		"en_explain": "S-DEF+100"
 	},
 	{
 		"assign": "210",
 		"jp_text": "ペットボディⅡ",
-		"en_text": "",
-		"jp_explain": "打防+120",
+		"en_text": "Pet Body II",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "211",
 		"jp_text": "ペットボディⅢ",
-		"en_text": "",
-		"jp_explain": "打防+130",
+		"en_text": "Pet Body III",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "212",
 		"jp_text": "ペットリアクトⅠ",
 		"en_text": "Pet React I",
-		"jp_explain": "射防+100",
+		"jp_explain": "---",
 		"en_explain": "R-DEF+100"
 	},
 	{
 		"assign": "213",
 		"jp_text": "ペットリアクトⅡ",
-		"en_text": "",
-		"jp_explain": "射防+120",
+		"en_text": "Pet React II",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "214",
 		"jp_text": "ペットリアクトⅢ",
-		"en_text": "",
-		"jp_explain": "射防+130",
+		"en_text": "Pet React III",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "215",
 		"jp_text": "ペットマインドⅠ",
 		"en_text": "Pet Mind I",
-		"jp_explain": "法防+100",
+		"jp_explain": "---",
 		"en_explain": "T-DEF+100"
 	},
 	{
 		"assign": "216",
 		"jp_text": "ペットマインドⅡ",
-		"en_text": "",
-		"jp_explain": "法防+120",
+		"en_text": "Pet Mind II",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
 		"assign": "217",
 		"jp_text": "ペットマインドⅢ",
-		"en_text": "",
-		"jp_explain": "法防+130",
+		"en_text": "Pet Mind III",
+		"jp_explain": "---",
 		"en_explain": ""
 	},
 	{
@@ -1576,37 +1576,37 @@
 	},
 	{
 		"assign": "225",
-		"jp_text": "-",
-		"en_text": "",
-		"jp_explain": "---",
-		"en_explain": ""
+		"jp_text": "テノラ・ブースト",
+		"en_text": "Tenora Boost",
+		"jp_explain": "打撃+35",
+		"en_explain": "S-ATK+35"
 	},
 	{
 		"assign": "226",
-		"jp_text": "-",
-		"en_text": "",
-		"jp_explain": "---",
-		"en_explain": ""
+		"jp_text": "ＧＲＭ・ブースト",
+		"en_text": "GRM Boost",
+		"jp_explain": "射撃+35",
+		"en_explain": "R-ATK+35"
 	},
 	{
 		"assign": "227",
-		"jp_text": "-",
-		"en_text": "",
-		"jp_explain": "---",
-		"en_explain": ""
+		"jp_text": "ヨウメイ・ブースト",
+		"en_text": "Yohmei Boost",
+		"jp_explain": "法撃+35",
+		"en_explain": "T-ATK+35"
 	},
 	{
 		"assign": "228",
-		"jp_text": "-",
+		"jp_text": "フルベガス・ソール",
 		"en_text": "",
-		"jp_explain": "---",
+		"jp_explain": "特定のソールと合成可能\n打撃+15 射撃+15\n法撃+15",
 		"en_explain": ""
 	},
 	{
 		"assign": "229",
-		"jp_text": "-",
-		"en_text": "",
-		"jp_explain": "---",
+		"jp_text": "エクストレセプター",
+		"en_text": "Extreme Receptor",
+		"jp_explain": "アルター、フリクト系と\n特定の特殊能力合成率を\n大幅に上昇　全+10",
 		"en_explain": ""
 	},
 	{
