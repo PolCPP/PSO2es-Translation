@@ -4071,35 +4071,35 @@
 		"jp_text": "レコードストーン金",
 		"en_text": "Gold Ranking Stone",
 		"jp_explain": "エネミーとの戦闘データを記録した石。\n『ＰＳＯ２ｅｓ』リサイクルショップで\n景品と交換できる。",
-		"en_explain": ""
+		"en_explain": "Recorded Data of Enemy Combat.\nPSO2es only item.\nCan be exchanged for prizes."
 	},
 	{
 		"assign": "3306410000",
 		"jp_text": "レコードストーン銀",
 		"en_text": "Silver Ranking Stone",
 		"jp_explain": "エネミーとの戦闘データを記録した石。\n『ＰＳＯ２ｅｓ』リサイクルショップで\n景品と交換できる。",
-		"en_explain": ""
+		"en_explain": "Recorded Data of Enemy Combat.\nPSO2es only item.\nCan be exchanged for prizes."
 	},
 	{
 		"assign": "3306420000",
 		"jp_text": "オペレーションスター",
 		"en_text": "Operation Star",
 		"jp_explain": "任務での活躍を讃えた栄誉の証。\n『ＰＳＯ２ｅｓ』リサイクルショップで\n景品と交換できる。",
-		"en_explain": ""
+		"en_explain": "Proof of Honor from missions.\nPSO2es only item.\nCan be exchanged for prizes."
 	},
 	{
 		"assign": "3306430000",
 		"jp_text": "ウェポノイドストーン金",
 		"en_text": "Gold Weaponoid Stone",
 		"jp_explain": "ウェポノイドのデータを記録した石。\n『PSO2es』リサイクルショップで\n景品と交換できる。 ",
-		"en_explain": ""
+		"en_explain": "Recorded Data of Weaponoids.\nPSO2es only item.\nCan be exchanged for prizes."
 	},
 	{
 		"assign": "3306440000",
 		"jp_text": "ウェポノイドストーン銀",
 		"en_text": "Silver Weaponoid Stone",
 		"jp_explain": "ウェポノイドのデータを記録した石。\n『PSO2es』リサイクルショップで\n景品と交換できる。 ",
-		"en_explain": ""
+		"en_explain": "Recorded Data of Weaponoids.\nPSO2es only item.\nCan be exchanged for prizes."
 	},
 	{
 		"assign": "3306450000",
@@ -4134,35 +4134,49 @@
 		"jp_text": "チップのかけら２０１６金",
 		"en_text": "Gold Chip Fragment 2016",
 		"jp_explain": "破損したチップのかけら。\nまばゆい金色に輝いている。",
-		"en_explain": ""
+		"en_explain": "Corrupted Chip Piece.\nIt has a dazzling golden shine."
 	},
 	{
 		"assign": "3306500000",
 		"jp_text": "チップのかけら２０１６銀",
 		"en_text": "Silver Chip Fragment 2016",
 		"jp_explain": "破損したチップのかけら。\nつめたい銀色に輝いている。",
-		"en_explain": ""
+		"en_explain": "Corrupted Chip Piece.\nIt has a cold silver shine."
 	},
 	{
 		"assign": "3306510000",
 		"jp_text": "チップのかけら２０１６銅",
 		"en_text": "Bronze Chip Fragment 2016",
 		"jp_explain": "破損したチップのかけら。\nにぶい銅色に輝いている。",
-		"en_explain": ""
+		"en_explain": "Corrupted Chip Piece.\nIt has a dull copper finish."
 	},
 	{
 		"assign": "3306520000",
 		"jp_text": "ウェポノイドストーン虹",
 		"en_text": "Rainbow Weaponoid Stone",
 		"jp_explain": "ウェポノイドのデータを記録した石。\n『PSO2es』リサイクルショップで\n景品と交換できる。",
-		"en_explain": ""
+		"en_explain": "Recorded Data of Weaponoids.\nPSO2es only item.\nCan be exchanged for prizes."
+	},
+	{
+		"assign": "3306530000",
+		"jp_text": "想念の粒砂・金",
+		"en_text": "Gold Sands of Thoughts",
+		"jp_explain": "人の描いた想いを吸収した砂。\n『PSO2es』のリサイクルショップで\n景品と交換できる。",
+		"en_explain": "Feelings of People absorbed by Sand.\nPSO2es only item.\nCan be exchanged for prizes."
+	},
+	{
+		"assign": "3306540000",
+		"jp_text": "想念の粒砂・銀",
+		"en_text": "Silver Sands of Thoughts",
+		"jp_explain": "人の描いた想いを吸収した砂。\n『PSO2es』のリサイクルショップで\n景品と交換できる。",
+		"en_explain": "Feelings of People absorbed by Sand.\nPSO2es only item.\nCan be exchanged for prizes."
 	},
 	{
 		"assign": "3306730000",
 		"jp_text": "ふんわりケープ",
-		"en_text": "",
+		"en_text": "Fluffy Cape",
 		"jp_explain": "セント・ラッピーの着ているケープ。\n赤くて、ふわふわで、ふかふか。\n依頼者：<c a1ff6d>シー<c>　クリスマス",
-		"en_explain": ""
+		"en_explain": "Cape worn by a Saint Rappy.\nRed, soft, and fluffy.\nRequested by: <c a1ff6d>Xie<c> Christmas"
 	},
 	{
 		"assign": "3306740000",
@@ -4356,7 +4370,7 @@
 	{
 		"assign": "3307070000",
 		"jp_text": "ぐるぐるロリポップ",
-		"en_text": "",
+		"en_text": "Round Lolipop",
 		"jp_explain": "オロタ・ビケッタが持つ\n飴を模した巨大な杖。\n依頼者：<c a1ff6d>シー<c>　ハロウィン2015",
 		"en_explain": ""
 	},
@@ -4384,7 +4398,7 @@
 	{
 		"assign": "3307110000",
 		"jp_text": "極彩色のかけら",
-		"en_text": "",
+		"en_text": "Rich-Colored Fragments",
 		"jp_explain": "不思議な色合いをした硬質のかけら。\n加工すれば装飾品に使えそう？\n依頼者：<c a1ff6d>シー<c>　クリスマス2015",
 		"en_explain": ""
 	},
@@ -4477,6 +4491,55 @@
 		"jp_text": "きれいな貝殻",
 		"en_text": "Beautiful Shells",
 		"jp_explain": "きらきら光るきれいな貝殻。\nちょっとしたプレゼントに喜ばれそう。\n依頼者：<c a1ff6d>ジェネ<c>　再受注可能",
+		"en_explain": ""
+	},
+	{
+		"assign": "3307280000",
+		"jp_text": "ピエロナイフ",
+		"en_text": "Clown Knife",
+		"jp_explain": "ジャグラーピエロのナイフ。\nするどい刃がギラギラと光っている。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
+		"en_explain": ""
+	},
+	{
+		"assign": "3307290000",
+		"jp_text": "ピエロチェーンソー",
+		"en_text": "Clown Chainsaw",
+		"jp_explain": "チェーンソーピエロの武器だったもの。\n使用のさいには取り扱いに要注意。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
+		"en_explain": ""
+	},
+	{
+		"assign": "3307300000",
+		"jp_text": "牽引ビーム発生装置",
+		"en_text": "Tractor Beam Generator",
+		"jp_explain": "U.F.Oに搭載されていた装置。\n謎の光線で物体を引き寄せられる。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
+		"en_explain": ""
+	},
+	{
+		"assign": "3307310000",
+		"jp_text": "トラックマフラー",
+		"en_text": "Track Scarf",
+		"jp_explain": "デビルズトレーラーの円筒型マフラー。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
+		"en_explain": ""
+	},
+	{
+		"assign": "3307320000",
+		"jp_text": "忘失の欠片",
+		"en_text": "Lost Fragment",
+		"jp_explain": "ラスベガスエリアで採れる奇妙な石片。\n曇り空のような鈍い光を放っている。\n依頼者：<c a1ff6d>クレシダ<c>　再受注可能",
+		"en_explain": ""
+	},
+	{
+		"assign": "3307330000",
+		"jp_text": "ネオン管",
+		"en_text": "Neon Tube",
+		"jp_explain": "どことなくレトロさを感じるネオン管。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
+		"en_explain": ""
+	},
+	{
+		"assign": "3307340000",
+		"jp_text": "デュラハンライダーの側車",
+		"en_text": "Dullahan Side Car",
+		"jp_explain": "デュラハンライダーのサイドカー。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
 		"en_explain": ""
 	}
 ]
