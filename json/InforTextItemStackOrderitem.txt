@@ -2627,65 +2627,65 @@
 	{
 		"assign": "3303860000",
 		"jp_text": "ハートキーの欠片",
-		"en_text": "",
+		"en_text": "Heart Key Fragment",
 		"jp_explain": "魔石と呼ばれる素材の欠片。\nわずかに力を宿しているが\nこのままでは役に立たない。",
-		"en_explain": ""
+		"en_explain": "Fragment of a spellstone.\nContains some power, but useless\nin its current state."
 	},
 	{
 		"assign": "3303870000",
 		"jp_text": "ハートキーの原石",
-		"en_text": "",
+		"en_text": "Heart Key Ore",
 		"jp_explain": "魔石の欠片を集め、錬成したもの。\nさらに錬成を進めることで\n純度が高まり価値が生まれる。",
-		"en_explain": ""
+		"en_explain": "Collection of spellstone pieces\ncombined together. Used for\ntrading at the Rare Stone shop."
 	},
 	{
 		"assign": "3303880000",
 		"jp_text": "魔石ハートキー",
-		"en_text": "",
+		"en_text": "Heart Key Spellstone",
 		"jp_explain": "紅桜に染まったハート型の魔石。\n武器との交換が可能。",
-		"en_explain": ""
+		"en_explain": "Spellstone with a scarlet glow.\nUsed as currency at the\nRare Stone Shop.\n(Found in Glacial Machinery)"
 	},
 	{
 		"assign": "3303890000",
 		"jp_text": "ブラッディムーンの欠片",
-		"en_text": "",
+		"en_text": "Bloody Moon Fragment",
 		"jp_explain": "魔石と呼ばれる素材の欠片。\nわずかに力を宿しているが\nこのままでは役に立たない。",
-		"en_explain": ""
+		"en_explain": "Fragment of a spellstone.\nContains some power, but useless\nin its current state."
 	},
 	{
 		"assign": "3303900000",
 		"jp_text": "ブラッディムーンの原石",
-		"en_text": "",
+		"en_text": "Bloody Moon Ore",
 		"jp_explain": "魔石の欠片を集め、錬成したもの。\nさらに錬成を進めることで\n純度が高まり価値が生まれる。",
-		"en_explain": ""
+		"en_explain": "Collection of spellstone pieces\ncombined together. Used for\ntrading at the Rare Stone shop."
 	},
 	{
 		"assign": "3303910000",
 		"jp_text": "魔石ブラッディムーン",
-		"en_text": "",
+		"en_text": "Bloody Moon Spellstone",
 		"jp_explain": "真紅に染まった三日月型の魔石。\n武器との交換が可能。",
-		"en_explain": ""
+		"en_explain": "Spellstone with a crimson glow.\nUsed as currency at the\nRare Stone Shop.\n(Found in Sylvan Wyverns)"
 	},
 	{
 		"assign": "3303920000",
 		"jp_text": "ハートキー触媒",
-		"en_text": "",
+		"en_text": "Heart Key Catalyst",
 		"jp_explain": "魔石錬成ショップで他の魔石の\nフォトン組成を魔石ハートキーへ\n変換するために必要な触媒。",
-		"en_explain": ""
+		"en_explain": "Catalyst for converting other\nspellstones into a Heart Key."
 	},
 	{
 		"assign": "3303930000",
 		"jp_text": "ブラッディムーン触媒",
-		"en_text": "",
+		"en_text": "Bloody Moon Catalyst",
 		"jp_explain": "魔石錬成ショップで他の魔石の\nフォトン組成を魔石ブラッディムーンへ\n変換するために必要な触媒。",
-		"en_explain": ""
+		"en_explain": "Catalyst for converting other\nspellstones into a Bloody Moon."
 	},
 	{
 		"assign": "3303940000",
 		"jp_text": "ファントムナイト触媒",
-		"en_text": "",
+		"en_text": "Phantom Night Catalyst",
 		"jp_explain": "魔石錬成ショップで他の魔石の\nフォトン組成を魔石ファントムナイトへ\n変換するために必要な触媒。",
-		"en_explain": ""
+		"en_explain": "Catalyst for converting other\nspellstones into a Phantom Night."
 	},
 	{
 		"assign": "3303950000",
@@ -2788,23 +2788,23 @@
 	{
 		"assign": "3304120000",
 		"jp_text": "ファントムナイトの欠片",
-		"en_text": "",
+		"en_text": "Phantom Night Fragment",
 		"jp_explain": "魔石と呼ばれる素材の欠片。\nわずかに力を宿しているが\nこのままでは役に立たない。",
-		"en_explain": ""
+		"en_explain": "Fragment of a spellstone.\nContains some power, but useless\nin its current state."
 	},
 	{
 		"assign": "3304130000",
 		"jp_text": "ファントムナイトの原石",
-		"en_text": "",
+		"en_text": "Phantom Night Ore",
 		"jp_explain": "魔石の欠片を集め、錬成したもの。\nさらに錬成を進めることで\n純度が高まり価値が生まれる。",
-		"en_explain": ""
+		"en_explain": "Collection of spellstone pieces\ncombined together. Used for\ntrading at the Rare Stone shop."
 	},
 	{
 		"assign": "3304140000",
 		"jp_text": "魔石ファントムナイト",
-		"en_text": "",
+		"en_text": "Phantom Night Spellstone",
 		"jp_explain": "蒼碧に染まった勾玉型の魔石。\n武器との交換が可能。",
-		"en_explain": ""
+		"en_explain": "Spellstone with a pale blue glow.\nUsed as currency at the\nRare Stone Shop.\n(Found in Forsaken Aquatics)"
 	},
 	{
 		"assign": "3304150000",
@@ -4225,14 +4225,14 @@
 		"jp_text": "極原晶ガレル",
 		"en_text": "Galeru Crystal",
 		"jp_explain": "惑星ナベリウスの壊世区域でのみ\n確認されている特異なフォトン結晶。\n武器との交換が可能。",
-		"en_explain": "Unique photon crystals\nfound on corrupted regions\nof Naberius."
+		"en_explain": "Unique photon crystals\nfound only in corrupted regions\nof Naberius. May be exchanged\nfor weapons."
 	},
 	{
 		"assign": "3306820000",
 		"jp_text": "極機晶ユルルングル",
 		"en_text": "Yurlungur Crystal",
 		"jp_explain": "惑星リリーパの壊世区域でのみ\n確認されている特異なフォトン結晶。\n武器との交換が可能。",
-		"en_explain": "Unique photon crystals\nfound on corrupted regions\nof Lillipa."
+		"en_explain": "Unique photon crystals\nfound only in corrupted regions\nof Lillipa. May be exchanged\nfor weapons."
 	},
 	{
 		"assign": "3306880000",
@@ -4379,21 +4379,21 @@
 		"jp_text": "黒曜片ネロウ",
 		"en_text": "Dark Nero Fragment",
 		"jp_explain": "ダークファルスの残骸から発見された\n負の力を放つフォトン結晶片。\n武器との交換が可能。",
-		"en_explain": ""
+		"en_explain": "A Negative Photon Crystal\nfragment found from remnants\nof the Dark Falz."
 	},
 	{
 		"assign": "3307090000",
 		"jp_text": "深遠片カリギューラ",
 		"en_text": "Profound Caligula Fragment",
 		"jp_explain": "【深遠なる闇】の残骸から発見された\n負の力を放つフォトン結晶片。\n武器との交換が可能。 ",
-		"en_explain": ""
+		"en_explain": "A Corrupted Photon Crystal\nfragment found from residual\nremains of the [Profound Darkness]."
 	},
 	{
 		"assign": "3307100000",
 		"jp_text": "幻精石アーレス",
 		"en_text": "Phantasmal Ares Stone",
 		"jp_explain": "幻獣と同種の力を蓄えた結晶体。\n武器との交換が可能。",
-		"en_explain": ""
+		"en_explain": "The power of Photon Beasts\nstored in the form of a crystal.\nCan be used for trading\nat the stone shop."
 	},
 	{
 		"assign": "3307110000",
@@ -4414,21 +4414,21 @@
 		"jp_text": "光輝片トラナ",
 		"en_text": "Torana Fragment",
 		"jp_explain": "清める力を持つフォトンの結晶片。\n負の力を清め、新しい武器へと\n生まれ変わらせるという。",
-		"en_explain": ""
+		"en_explain": "Crystal pieces that have the\npower to purify negatively\ncharged photon weapons."
 	},
 	{
 		"assign": "3307140000",
 		"jp_text": "星繋石プレアデス",
 		"en_text": "Pleiades Stone",
 		"jp_explain": "未知の粒子を放つフォトン結晶体。\nフォトンリング機構の開発に用いる。\n武器との交換が可能。",
-		"en_explain": ""
+		"en_explain": "Photon Crystals created with a\nparticle beam. Used for the\ndevelopment of the\nPhoton Ring System."
 	},
 	{
 		"assign": "3307150000",
 		"jp_text": "幻創石カガセオ",
 		"en_text": "Phantasmal Kagaseo Stone",
 		"jp_explain": "幻が形作ったかのような未知の鉱石。\n地球の科学力での解析は不可能。\n武器との交換が可能。",
-		"en_explain": ""
+		"en_explain": "Unidentified ore that scientists\non Earth cannot analyze.\nCan be exchanged for weapons\nat the stone shop."
 	},
 	{
 		"assign": "3307190000",
@@ -4517,7 +4517,7 @@
 	{
 		"assign": "3307310000",
 		"jp_text": "トラックマフラー",
-		"en_text": "Track Scarf",
+		"en_text": "Truck Muffler",
 		"jp_explain": "デビルズトレーラーの円筒型マフラー。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
 		"en_explain": ""
 	},
