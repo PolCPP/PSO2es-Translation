@@ -501,7 +501,7 @@
 		"jp_text": "ミューテーションⅠ",
 		"en_text": "Mutation I",
 		"jp_explain": "特定の合成確率が上昇\n打撃+10 射撃+10\n法撃+10　HP+10",
-		"en_explain": "Increases specific\nsynthetic probability.\nATK+10 HP+10"
+		"en_explain": "Boosts certain abilities\nsuccess rates.\nATK+10 HP+10"
 	},
 	{
 		"assign": "72",
@@ -912,7 +912,7 @@
 	{
 		"assign": "130",
 		"jp_text": "トロクロ・フィーバー",
-		"en_text": "Ｔｏｒｏ Ｋｕｒｏ Ｆｅｖｅｒ",
+		"en_text": "Toro Kuro Fever",
 		"jp_explain": "技量+15 HP+5 PP+1",
 		"en_explain": "DEX+15 HP+5\nPP+1"
 	},
@@ -1164,7 +1164,7 @@
 	{
 		"assign": "166",
 		"jp_text": "アプレンティス・ソール",
-		"en_text": "Ａｐｐｒｅｎｔｉｃｅ Ｓｏｕｌ",
+		"en_text": "Apprentice Soul",
 		"jp_explain": "打撃+40 射撃+40\n法撃+40",
 		"en_explain": "S-ATK+40 R-ATK+40\nT-ATK+40"
 	},
@@ -1178,14 +1178,14 @@
 	{
 		"assign": "168",
 		"jp_text": "シノワ・ソール",
-		"en_text": "Ｓｉｎｏｗ Ｓｏｕｌ",
+		"en_text": "Sinow Soul",
 		"jp_explain": "打撃+5 技量+30\nHP+25 PP+2",
 		"en_explain": "S-ATK+5 DEX+30\nHP+25 PP+2"
 	},
 	{
 		"assign": "169",
 		"jp_text": "スピリタ・アルファ",
-		"en_text": "Ｓｐｉｒｉｔａ Ａｌｐｈａ",
+		"en_text": "Spirita Alpha",
 		"jp_explain": "技量+30 PP+3",
 		"en_explain": "DEX+30 PP+3"
 	},
@@ -1227,14 +1227,14 @@
 	{
 		"assign": "175",
 		"jp_text": "ダブル・ソール",
-		"en_text": "Ｄｏｕｂｌｅ Ｓｏｕｌ",
+		"en_text": "Double Soul",
 		"jp_explain": "HP+40 PP+3",
 		"en_explain": ""
 	},
 	{
 		"assign": "176",
 		"jp_text": "ダークネス・ソール",
-		"en_text": "Ｄａｒｋｎｅｓｓ Ｓｏｕｌ",
+		"en_text": "Darkness Soul",
 		"jp_explain": "全+15 HP+15 PP+2",
 		"en_explain": "ALL+15 HP+15\nPP+2"
 	},
@@ -1248,7 +1248,7 @@
 	{
 		"assign": "178",
 		"jp_text": "ソール・カタリスト",
-		"en_text": "Ｓｏｕｌ Ｃａｔａｌｙｓｔ",
+		"en_text": "Soul Catalyst",
 		"jp_explain": "4つ集めると\n特定のソールと合成可能\nHP+10 PP+1",
 		"en_explain": ""
 	},
@@ -1411,7 +1411,7 @@
 		"jp_text": "トウオウ・ソール",
 		"en_text": "Toh'oh Soul",
 		"jp_explain": "特定のソールと合成可能\n全+10",
-		"en_explain": "All +10"
+		"en_explain": "Can be combined with\ncertain abilities.\nAll +10"
 	},
 	{
 		"assign": "202",
@@ -1439,7 +1439,7 @@
 		"jp_text": "ミューテーションⅡ",
 		"en_text": "Mutation II",
 		"jp_explain": "特定の合成確率が上昇\n打撃+15 射撃+15\n法撃+15　HP+15",
-		"en_explain": "Increases Synthetic\nProbability.\nS-ATK+15 R-ATK+15\nT-ATK+15 HP+15"
+		"en_explain": "Boosts certain abilities\nsuccess rates.\nS-ATK+15 R-ATK+15\nT-ATK+15 HP+15"
 	},
 	{
 		"assign": "206",
@@ -1537,42 +1537,42 @@
 		"jp_text": "オフェンス・ブースト",
 		"en_text": "Offense Boost",
 		"jp_explain": "打撃+15 射撃+15\n法撃+15 技量+25 PP+1",
-		"en_explain": ""
+		"en_explain": "S-ATK+15 R-ATK+15\nT-ATK+15 DEX+25 PP+1"
 	},
 	{
 		"assign": "220",
 		"jp_text": "ディフェンス・ブースト",
 		"en_text": "Defense Boost",
 		"jp_explain": "打防+25 射防+25\n法防+25 HP+55 PP+1",
-		"en_explain": ""
+		"en_explain": "S-DEF+25 R-DEF+25\nT-DEX+25 HP+55 PP+1"
 	},
 	{
 		"assign": "221",
 		"jp_text": "アタックレセプター",
 		"en_text": "Attack Receptor",
 		"jp_explain": "攻撃上昇特殊能力3種と\nアームの合成成功率を\n大幅に上昇　　　全+5",
-		"en_explain": ""
+		"en_explain": "Greatly increases the\naffix rate of 3 ATK abilities.\nAll+5"
 	},
 	{
 		"assign": "222",
 		"jp_text": "ガードレセプター",
 		"en_text": "Guard Receptor",
 		"jp_explain": "特殊能力ボディ、リアクト\nマインドの合成成功率を\n大幅に上昇　　　全+5",
-		"en_explain": ""
+		"en_explain": "Greatly increases the\naffix rate of 3 DEF abilities.\nAll+5"
 	},
 	{
 		"assign": "223",
 		"jp_text": "フォトンレセプター",
 		"en_text": "Photon Receptor",
 		"jp_explain": "特殊能力スタミナと\nスピリタの合成成功率を\n大幅に上昇　　　全+5",
-		"en_explain": ""
+		"en_explain": "Greatly increases the\naffix rate of Stamina and Spirita.\nAll+5"
 	},
 	{
 		"assign": "224",
 		"jp_text": "ドゥームブレイク",
 		"en_text": "Doom Break",
 		"jp_explain": "打撃+15 射撃+15\n法撃+15 PP+2",
-		"en_explain": ""
+		"en_explain": "S-ATK+15 R-ATK+15\nT-ATK+15 PP+2"
 	},
 	{
 		"assign": "225",
@@ -1598,16 +1598,16 @@
 	{
 		"assign": "228",
 		"jp_text": "フルベガス・ソール",
-		"en_text": "",
+		"en_text": "Full Vegas Soul",
 		"jp_explain": "特定のソールと合成可能\n打撃+15 射撃+15\n法撃+15",
-		"en_explain": ""
+		"en_explain": "Can be combined with\ncertain abilities.\nS-ATK+15 R-ATK+15 T-ATK+15"
 	},
 	{
 		"assign": "229",
 		"jp_text": "エクストレセプター",
-		"en_text": "Extreme Receptor",
+		"en_text": "Extreceptor",
 		"jp_explain": "アルター、フリクト系と\n特定の特殊能力合成率を\n大幅に上昇　全+10",
-		"en_explain": ""
+		"en_explain": "Significantly increases Flict,\nand Alter add rate during affixing.\nAll+10"
 	},
 	{
 		"assign": "230",

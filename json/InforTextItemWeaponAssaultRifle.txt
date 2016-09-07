@@ -4,7 +4,7 @@
 		"jp_text": "ライフル",
 		"en_text": "Rifle",
 		"jp_explain": "アークスで正式採用されている長銃。\n連射による行動阻害に重きを置いた\nレンジャーのための武器。",
-		"en_explain": ""
+		"en_explain": "ARKS standard issue rifle.\nA weapon for Rangers that\nputs empahsis on rapid fire."
 	},
 	{
 		"assign": "18010000",
@@ -109,7 +109,7 @@
 		"jp_text": "フルシリンダー",
 		"en_text": "Full Cylinder",
 		"jp_explain": "試験的モデルとして開発された長銃。\nコンパクトな見た目ながら威力は高く\n集弾性能も高い、高レベルな水準の型。",
-		"en_explain": ""
+		"en_explain": "An experimental Assault Rifle.\nAlthough light, it has both high\npotency and precision, meeting standards."
 	},
 	{
 		"assign": "180160000",
@@ -130,7 +130,7 @@
 		"jp_text": "ティグリドル",
 		"en_text": "Tigredor",
 		"jp_explain": "全体をフォトンコートした長銃。\n細部にわたる入念なコーティングで\n全体性能を大幅に向上させた。",
-		"en_explain": ""
+		"en_explain": "A Rifle completely coated with Photons.\nThe elaborate coating improves\nperformance significantly overall."
 	},
 	{
 		"assign": "180190000",
@@ -443,7 +443,7 @@
 	{
 		"assign": "180750000",
 		"jp_text": "シルバ専用Ａライザー",
-		"en_text": "",
+		"en_text": "Silvia's A. Riser",
 		"jp_explain": "仮テキスト",
 		"en_explain": ""
 	},
@@ -704,7 +704,7 @@
 		"jp_text": "イデアルラルク",
 		"en_text": "Ideal Larc",
 		"jp_explain": "新開発のフォトンジェネレーターを\n搭載した長銃。発せられる\nフォトンの輝きは次代の証とされる。",
-		"en_explain": ""
+		"en_explain": "A Rifle equipped with the latest\nphoton generator. The Photons produced\nare a proof of the next generation."
 	},
 	{
 		"assign": "1801750000",
@@ -718,7 +718,7 @@
 		"jp_text": "サルスパニッシャー",
 		"en_text": "Sarce Punisher",
 		"jp_explain": "製作者が全く明らかになっていない\n究極の銃の模倣品。「天罰」は\n撃てないが、高い威力を持つ長銃。",
-		"en_explain": ""
+		"en_explain": "A Rifle with an unknown creator.\nIts bullets mimic the effect known\nas 「Divine Punishment」, with each shot."
 	},
 	{
 		"assign": "1801810000",
@@ -732,7 +732,7 @@
 		"jp_text": "アストラルライザー",
 		"en_text": "Astral Riser",
 		"jp_explain": "大気中のフォトンを銃身に収束させ\n固定化する機構を持つ長銃。\nその威力は空間をも歪ませる。",
-		"en_explain": ""
+		"en_explain": "A Rifle equipped with a mechanism\nthat converges photons inside\nits barrel, which can distort time & space."
 	},
 	{
 		"assign": "1801920000",
@@ -767,14 +767,14 @@
 		"jp_text": "インヴェイドシューター",
 		"en_text": "Invade Shooter",
 		"jp_explain": "【深遠なる闇】より生まれし負の長銃。\n装者は不動の精神を有するが\n無情に敵を狩る冷酷な狙撃者と化す。",
-		"en_explain": ""
+		"en_explain": "Born from the [Profound Darkness],\nthis Rifle harbors a steadfast spirit\nthat who hunts the enemy."
 	},
 	{
 		"assign": "1802060000",
 		"jp_text": "オフスティアシューター",
 		"en_text": "Austere Shooter",
 		"jp_explain": "負の力を識り、制することで転化した\n浄化の長銃。もたらされた動じない\n精神は、苦境を打開する力となる。",
-		"en_explain": ""
+		"en_explain": "A purified Assault Rifle. Its force\ncan overcome any obstacle with\nits undaunted spirit."
 	},
 	{
 		"assign": "1802090000",
@@ -809,7 +809,7 @@
 		"jp_text": "アストラルライザー-NT",
 		"en_text": "Astral Riser-NT",
 		"jp_explain": "大気中のフォトンを銃身に収束させ\n固定化する機構を持つ長銃。\nその威力は空間をも歪ませる。",
-		"en_explain": ""
+		"en_explain": "A Rifle equipped with a mechanism\nthat converges photons inside\nits barrel, which can distort time & space."
 	},
 	{
 		"assign": "1802180000",
@@ -830,21 +830,21 @@
 		"jp_text": "リグファーガン",
 		"en_text": "Rig Fagan",
 		"jp_explain": "伝説の生物を機械的に再現した長銃。\n頭部を模した装飾のついた銃身は重く\n扱いには相応の技術が必要とされる。",
-		"en_explain": ""
+		"en_explain": "A Rifle modeled after a legendary\ncreature. Its decor makes the barrel\nheavier, thus requiring skill to handle."
 	},
 	{
 		"assign": "1802310000",
 		"jp_text": "ジグマファーガン",
 		"en_text": "Sigma Fagan",
 		"jp_explain": "伝説の生物を機械的に再現した長銃。\n頭部を模した装飾には、弾丸に炎を\nまとわせ破壊力を増す機構がある。",
-		"en_explain": ""
+		"en_explain": "A Rifle modeled after a legendary\ncreature. Its head replicates the\nflame effect which increases its power."
 	},
 	{
 		"assign": "1802320000",
 		"jp_text": "アウラレガルス",
 		"en_text": "Aura Regalus",
 		"jp_explain": "異界の因子を触媒に生み出された\n漆黒の長銃。装者の活力に比例して\n創られる弾丸は蒼き輝きを増すという。",
-		"en_explain": ""
+		"en_explain": "A Rifle embedded with a catalyst\nfrom another world. Its energy creates\na pale blue glow from its bullets."
 	},
 	{
 		"assign": "1802350000",
@@ -928,14 +928,14 @@
 		"jp_text": "フルシリンダー-NT",
 		"en_text": "Full Cylinder-NT",
 		"jp_explain": "試験的モデルとして開発された長銃。\nコンパクトな見た目ながら威力は高く\n集弾性能も高い、高レベルな水準の型。",
-		"en_explain": ""
+		"en_explain": "An experimental Assault Rifle.\nAlthough light, it has both high\npotency and precision, meeting standards."
 	},
 	{
 		"assign": "1802620000",
 		"jp_text": "ティグリドル-NT",
 		"en_text": "Tigredor-NT",
 		"jp_explain": "全体をフォトンコートした長銃。\n細部にわたる入念なコーティングで\n全体性能を大幅に向上させた。",
-		"en_explain": ""
+		"en_explain": "A Rifle completely coated with Photons.\nThe elaborate coating improves\nperformance significantly overall."
 	},
 	{
 		"assign": "1802630000",

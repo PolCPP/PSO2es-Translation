@@ -394,16 +394,16 @@
 	{
 		"assign": "30069",
 		"jp_explainShort": "通常攻撃と移動が加速＋攻撃力が大強化",
-		"en_explainShort": "",
+		"en_explainShort": "Normals&Movement Speed Up+ATK Power Up",
 		"jp_explainLong": "スライド操作時、一定時間\n自身の通常攻撃と移動のスピードが加速され\n攻撃力が大きく強化される。",
-		"en_explainLong": ""
+		"en_explainLong": "Slide Action activates an effect that\nspeeds up normal attacks and movement speed,\nwhile greatly enhancing attack power."
 	},
 	{
 		"assign": "30070",
 		"jp_explainShort": "通常攻撃と移動が加速＋攻撃力が大強化",
-		"en_explainShort": "",
+		"en_explainShort": "Normals&Movement Speed Up+ATK Power Up",
 		"jp_explainLong": "スライド操作時、長い時間\n自身の通常攻撃と移動のスピードが加速され\n攻撃力が大きく強化される。",
-		"en_explainLong": ""
+		"en_explainLong": "Slide Action activates an effect that\nspeeds up normal attacks and movement speed,\nwhile greatly enhancing attack power."
 	},
 	{
 		"assign": "30073",
@@ -758,16 +758,16 @@
 	{
 		"assign": "31039",
 		"jp_explainShort": "龍族にダメージ大増加＋被ダメージ軽減",
-		"en_explainShort": "",
+		"en_explainShort": "Dragonkin DMG Boost, DMG Reduction",
 		"jp_explainLong": "龍族に攻撃がヒットした時、短い時間\n龍族に与えるダメージが大きく増加され\n龍族から受けるダメージが軽減される。",
-		"en_explainLong": ""
+		"en_explainLong": "Damage against Dragonkin activates an\neffect that increases damage done towards\nthem, while reducing damage taken from them."
 	},
 	{
 		"assign": "31040",
 		"jp_explainShort": "龍族にダメージ劇的増加＋被ダメージ大軽減",
-		"en_explainShort": "",
+		"en_explainShort": "Dragonkin DMG Boost, DMG Reduction",
 		"jp_explainLong": "龍族に攻撃がヒットした時、一定時間\n龍族に与えるダメージが劇的に増加され\n龍族から受けるダメージが大きく軽減される。",
-		"en_explainLong": ""
+		"en_explainLong": "Damage against Dragonkin activates an\neffect that increases damage done towards\nthem, while greatly reducing damage from them."
 	},
 	{
 		"assign": "31041",
@@ -800,58 +800,58 @@
 	{
 		"assign": "31053",
 		"jp_explainShort": "炎チップ数に応じて攻撃力が劇的増加",
-		"en_explainShort": "",
+		"en_explainShort": "ATK PWR Boost+# of Fire chips",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n装備中の炎属性チップの枚数に応じて\n攻撃力が劇的に増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "JAs will activate an effect that\ndramatically increases ATK power based\non the number of Fire chips equipped."
 	},
 	{
 		"assign": "31054",
 		"jp_explainShort": "炎チップ数に応じて攻撃力が絶大増加",
-		"en_explainShort": "",
+		"en_explainShort": "ATK PWR Boost+# of Fire chips",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n装備中の炎属性チップの枚数に応じて\n攻撃力が絶大に増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "JAs will activate an effect that\ndramatically increases ATK power based\non the number of Fire chips equipped."
 	},
 	{
 		"assign": "31055",
 		"jp_explainShort": "氷チップ数に応じて攻撃力が劇的増加",
-		"en_explainShort": "",
+		"en_explainShort": "JA increase ATK PWR+# of Ice Chips",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n装備中の氷属性チップの枚数に応じて\n攻撃力が劇的に増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "JAs activate an effect that dramatically\nboosts Attack Power based\non # of Ice Chips equipped."
 	},
 	{
 		"assign": "31056",
 		"jp_explainShort": "氷チップ数に応じて攻撃力が絶大増加",
-		"en_explainShort": "",
+		"en_explainShort": "JA increase ATK PWR+# of Ice Chips",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n装備中の氷属性チップの枚数に応じて\n攻撃力が絶大に増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "JAs activate an effect that overwhelmingly\nboosts Attack Power based\non # of Ice Chips equipped."
 	},
 	{
 		"assign": "31057",
 		"jp_explainShort": "消費ＣＰ減少＋光弱点時ダメージ劇的増加",
 		"en_explainShort": "",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n消費ＣＰが減少し、攻撃対象のエネミーが光属性弱点\nの場合に与えるダメージが劇的に増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "JAs activate an effect that dramatically\nincreases damage to enemies weak to Light.\nThe effect also reduces CP consumption."
 	},
 	{
 		"assign": "31058",
 		"jp_explainShort": "消費ＣＰ減少＋光弱点時ダメージ劇的増加",
 		"en_explainShort": "",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n消費ＣＰが減少し、攻撃対象のエネミーが光属性弱点\nの場合に与えるダメージが劇的に増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "JAs activate an effect that dramatically\nincreases damage to enemies weak to Light.\nThe effect also reduces CP consumption."
 	},
 	{
 		"assign": "31059",
 		"jp_explainShort": "ダメージ絶大増加",
-		"en_explainShort": "",
+		"en_explainShort": "JA/Slide Chance to ATK Power UP",
 		"jp_explainLong": "ジャストアタック成功時もしくはスライド操作時\n短い時間、敵に与えるダメージが絶大に増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "JAs and Slide Actions have a chance effect\nactivation that boosts Attack Power tremendously\nfor a short period of time."
 	},
 	{
 		"assign": "31060",
 		"jp_explainShort": "ダメージ絶大増加",
-		"en_explainShort": "",
+		"en_explainShort": "JA/Slide Chance to ATK Power UP",
 		"jp_explainLong": "ジャストアタック成功時もしくはスライド操作時\n一定時間、敵に与えるダメージが絶大に増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "JAs and Slide Actions have a chance effect\nactivation that boosts Attack Power tremendously\nfor a short period of time."
 	},
 	{
 		"assign": "31065",
@@ -898,44 +898,44 @@
 	{
 		"assign": "31075",
 		"jp_explainShort": "雷チップ数に応じて攻撃力が劇的増加",
-		"en_explainShort": "",
+		"en_explainShort": "ATK Power Boosted based on Number of Lightning Chips",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n装備中の雷属性チップの枚数に応じて\n攻撃力が劇的に増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "JAs activate an effect that increases\nATK Power dramatically based on the number\nof Lightning chips equipped for a limited time."
 	},
 	{
 		"assign": "31076",
 		"jp_explainShort": "雷チップ数に応じて攻撃力が絶大増加",
-		"en_explainShort": "",
+		"en_explainShort": "ATK Power Boosted based on Number of Lightning Chips",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n装備中の雷属性チップの枚数に応じて\n攻撃力が絶大に増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "JAs activate an effect that greatly increases\nATK Power dramatically based on the number of\nLightning chips equipped for a limited time."
 	},
 	{
 		"assign": "31077",
 		"jp_explainShort": "ダメージ大増加＋鋼拳・自在槍で大増加",
-		"en_explainShort": "",
+		"en_explainShort": "Damage Boost+Larger boost with WL or Knux",
 		"jp_explainLong": "ジャストアタック成功時、一定時間、敵に与える\nダメージが大きく増加され、鋼拳か自在槍を装備\nしている場合は、さらにダメージが大きく増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "Chance activating during Just Attacks,\nGreatly increases damage towards enemies.\nEven more so if Knuckles or Wired Lances are used."
 	},
 	{
 		"assign": "31078",
 		"jp_explainShort": "ダメージ劇的増加＋鋼拳・自在槍で大増加",
-		"en_explainShort": "",
+		"en_explainShort": "Damage Boost+Larger boost with WL or Knux",
 		"jp_explainLong": "ジャストアタック成功時、一定時間、敵に与える\nダメージが劇的に増加され、鋼拳か自在槍を装備\nしている場合は、さらにダメージが大きく増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "Chance activating during Just Attacks,\nGreatly increases damage towards enemies.\nEven more so if Knuckles or Wired Lances are used."
 	},
 	{
 		"assign": "31079",
 		"jp_explainShort": "ＣＰ一定以下時にダメージ量が大増加",
-		"en_explainShort": "",
+		"en_explainShort": "Large Damage Boost when CP below limit",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\nＣＰが一定値以下の場合に\n敵に与えるダメージが大きく増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "Chance activating during Just Attacks,\nBoosts damage for a short period of time\nwhen CP is below a certain value."
 	},
 	{
 		"assign": "31080",
 		"jp_explainShort": "ＣＰ一定以下時にダメージ量が劇的増加",
-		"en_explainShort": "",
+		"en_explainShort": "Large Damage Boost when CP below limit",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\nＣＰが一定値以下の場合に\n敵に与えるダメージが劇的に増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "Chance activating during Just Attacks,\nGreatly boosts damage for a short period of\ntime when CP is below a certain value."
 	},
 	{
 		"assign": "31081",
@@ -1094,30 +1094,30 @@
 	{
 		"assign": "31113",
 		"jp_explainShort": "海王種・ダーカーにダメージ大増加＋軽減",
-		"en_explainShort": "",
+		"en_explainShort": "Damage Boost against Oceanids, Darkers+Damage Reduction",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n海王種もしくはダーカーに対して、与えるダメージが\n大きく増加され、受けるダメージが軽減される。",
-		"en_explainLong": ""
+		"en_explainLong": "JAs will activate an effect that\nincreases damage towards Oceanids and Darkers\nwhile also reducing damage received."
 	},
 	{
 		"assign": "31114",
 		"jp_explainShort": "海王種・ダーカーにダメージ劇的増加＋大軽減",
-		"en_explainShort": "",
+		"en_explainShort": "Damage Boost against Oceanids, Darkers+Damage Reduction",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n海王種もしくはダーカーに対して、与えるダメージが\n劇的に増加され、受けるダメージが大きく軽減される。",
-		"en_explainLong": ""
+		"en_explainLong": "JAs will activate an effect that heavily\nincreases damage towards Oceanids and Darkers\nwhile also reducing damage received."
 	},
 	{
 		"assign": "31115",
 		"jp_explainShort": "チップの属性種数に応じてダメージ絶大増加",
-		"en_explainShort": "",
+		"en_explainShort": "JA Activate ATK PWR boost+chip element+CP down",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n消費ＣＰが減少し、装備中チップの属性の\n種類が多いほど攻撃力が絶大に増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "JAs activate an effect that increases attack power\ndramatically based on the number of chip\nelements equipped and reduces CP consumption."
 	},
 	{
 		"assign": "31116",
 		"jp_explainShort": "チップの属性種数に応じてダメージ絶大増加",
-		"en_explainShort": "",
+		"en_explainShort": "JA Activate ATK PWR boost+chip element+CP down",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n消費ＣＰが減少し、装備中チップの属性の\n種類が多いほど攻撃力が絶大に増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "JAs activate an effect that increases attack power\ndramatically based on the number of chip\nelements equipped and reduces CP consumption."
 	},
 	{
 		"assign": "31117",
@@ -1136,16 +1136,16 @@
 	{
 		"assign": "31121",
 		"jp_explainShort": "攻撃力が強化＋定期的にＨＰが小回復",
-		"en_explainShort": "",
+		"en_explainShort": "ATK Power Boost+Small HP Recovery",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復され\n攻撃力が強化される。",
-		"en_explainLong": ""
+		"en_explainLong": "Attacking an enemy activates an effect\nthat increases attack power while recovering\nslight amounts of HP periodically."
 	},
 	{
 		"assign": "31122",
 		"jp_explainShort": "攻撃力が強化＋定期的にＨＰが小回復",
-		"en_explainShort": "",
+		"en_explainShort": "ATK Power Boost+Small HP Recovery",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復され\n攻撃力が強化される。",
-		"en_explainLong": ""
+		"en_explainLong": "Attacking an enemy activates an effect\nthat increases attack power while recovering\nslight amounts of HP periodically."
 	},
 	{
 		"assign": "31123",
@@ -1187,14 +1187,14 @@
 		"jp_explainShort": "光チップ数に応じて攻撃力が絶大増加",
 		"en_explainShort": "",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n装備中の光属性チップの枚数に応じて\n攻撃力が絶大に増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "Chance activating during Just Attacks,\nBoosts damage for a short period of time\nwhen CP is below a certain value."
 	},
 	{
 		"assign": "31129",
 		"jp_explainShort": "ＣＰ一定以下時にダメージ量が大増加",
 		"en_explainShort": "",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\nＣＰが一定値以下の場合に\n敵に与えるダメージが大きく増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "Chance activating during Just Attacks,\nGreatly boosts damage for a short period of\ntime when CP is below a certain value."
 	},
 	{
 		"assign": "31130",
@@ -1206,30 +1206,30 @@
 	{
 		"assign": "31133",
 		"jp_explainShort": "状態異常付与＋状態異常ダメージ絶大増加",
-		"en_explainShort": "",
+		"en_explainShort": "Chance Inflict Status+Damage Boost",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n通常攻撃にランダムで特定の状態異常を付与し\n状態異常の敵に対してダメージ量が絶大に増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "JAs activate effect that allows normal attacks to\nhave a random chance to inflict status effects while\nmassively boosting damage to statused enemies."
 	},
 	{
 		"assign": "31134",
 		"jp_explainShort": "状態異常付与＋状態異常ダメージ絶大増加",
-		"en_explainShort": "",
+		"en_explainShort": "Chance Inflict Status+Damage Boost",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n通常攻撃にランダムで特定の状態異常を付与し\n状態異常の敵に対してダメージ量が絶大に増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "JAs activate effect that allows normal attacks to\nhave a random chance to inflict status effects while\nmassively boosting damage to statused enemies."
 	},
 	{
 		"assign": "31135",
 		"jp_explainShort": "属性種類数ダメージ大増加＋追加ダメージ",
 		"en_explainShort": "",
 		"jp_explainLong": "ジャストアタック時、一定時間\n敵に追加でダメージを与え、装備中チップの\n属性の種類が多いほど攻撃力が大きく増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "JAs provide supplemental damage, and greatly\nincreases attack power based on\nthe variety of elemental chips equipped."
 	},
 	{
 		"assign": "31136",
 		"jp_explainShort": "属性種類数ダメージ劇的増＋追加ダメージ",
 		"en_explainShort": "",
 		"jp_explainLong": "ジャストアタック時、長い時間\n敵に追加で大ダメージを与え、装備中チップの\n属性の種類が多いほど攻撃力が劇的に増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "JAs provide supplemental damage, and greatly\nincreases attack power based on\nthe variety of elemental chips equipped."
 	},
 	{
 		"assign": "31139",
@@ -1402,16 +1402,16 @@
 	{
 		"assign": "31173",
 		"jp_explainShort": "消費ＣＰ減少＋雷弱点時ダメージ大増加",
-		"en_explainShort": "",
+		"en_explainShort": "CP Consumption decrease+Lightning weakness increased",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n消費ＣＰが減少し、攻撃対象のエネミーが雷属性弱点\nの場合に与えるダメージが大きく増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "JAs activate an effect that\nincreases damage to enemies weak to\nlightning while reducing CP consumption."
 	},
 	{
 		"assign": "31174",
 		"jp_explainShort": "消費ＣＰ減少＋雷弱点時ダメージ劇的増加",
-		"en_explainShort": "",
+		"en_explainShort": "CP Consumption decrease+Lightning weakness increased",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n消費ＣＰが減少し、攻撃対象のエネミーが雷属性弱点\nの場合に与えるダメージが劇的に増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "JAs activate an effect that dramatically\nincreases damage to enemies weak to\nlightning while reducing CP consumption."
 	},
 	{
 		"assign": "31177",
@@ -1570,16 +1570,16 @@
 	{
 		"assign": "31209",
 		"jp_explainShort": "機甲種にダメージ大増加＋被ダメージ軽減",
-		"en_explainShort": "",
+		"en_explainShort": "Mech dmg up+dmg taken from mechs down",
 		"jp_explainLong": "機甲種に攻撃がヒットした時、一定時間\n機甲種に与えるダメージが大きく増加され\n機甲種から受けるダメージが軽減される。",
-		"en_explainLong": ""
+		"en_explainLong": "Attacking a Mech, activates an effect\nthat heavily increases damage to mechs,\ndamage received from Mechs is reduced."
 	},
 	{
 		"assign": "31210",
 		"jp_explainShort": "機甲種ダメージ劇的増加＋被ダメージ大軽減",
-		"en_explainShort": "",
+		"en_explainShort": "Mech dmg up+dmg taken from mechs down",
 		"jp_explainLong": "機甲種に攻撃がヒットした時、一定時間\n機甲種に与えるダメージが劇的に増加され\n機甲種から受けるダメージが大きく軽減される。",
-		"en_explainLong": ""
+		"en_explainLong": "Attacking a Mech, activates an effect\nthat dramatically increases damage to mechs,\ndamage received from Mechs is greatly reduced."
 	},
 	{
 		"assign": "31213",
@@ -1752,30 +1752,30 @@
 	{
 		"assign": "31247",
 		"jp_explainShort": "攻撃力絶大増加＋ダメージ防御",
-		"en_explainShort": "",
+		"en_explainShort": "ATK PWR Tremendously boosted+HP Boost",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n一定ダメージを防ぐ効果がHPに上乗せされ\n攻撃力が絶大に増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "JAs activate an effect that temporarily\nadds an extra HP bar and tremendously\nincreases attack power."
 	},
 	{
 		"assign": "31248",
 		"jp_explainShort": "攻撃力絶大増加＋ダメージ防御",
-		"en_explainShort": "",
+		"en_explainShort": "ATK PWR Tremendously boosted+HP Boost",
 		"jp_explainLong": "ジャストアタック成功時、長い時間\n一定ダメージを防ぐ効果がHPに上乗せされ\n攻撃力が絶大に増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "JAs activate an effect that temporarily\nadds an extra HP bar and tremendously\nincreases attack power."
 	},
 	{
 		"assign": "31251",
 		"jp_explainShort": "ダメージ軽減＋雷チップ数で攻撃力劇的増加",
-		"en_explainShort": "",
+		"en_explainShort": "DMG Recieved Down/ATK PWR Up+#Lightning Chips",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n敵からのダメージが軽減され、装備中の雷属性チップの\n枚数に応じて攻撃力が劇的に増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "Attacking activates an effect that reduces damage\nfrom enemies and dramatically increases ATK Power\nbased on the number of Lightning chips equipped."
 	},
 	{
 		"assign": "31252",
 		"jp_explainShort": "ダメージ軽減＋雷チップ数で攻撃力劇的増加",
-		"en_explainShort": "",
+		"en_explainShort": "DMG Recieved Down/ATK PWR Up+#Lightning Chips",
 		"jp_explainLong": "攻撃ヒット時、長い時間\n敵からのダメージが軽減され、装備中の雷属性チップの\n枚数に応じて攻撃力が劇的に増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "Attacking activates an effect that reduces damage\nfrom enemies and dramatically increases ATK Power\nbased on the number of Lightning chips equipped."
 	},
 	{
 		"assign": "31253",
@@ -1809,14 +1809,14 @@
 		"assign": "31261",
 		"jp_explainShort": "ＣＰ消費減＋アビリティレベル闇法術劇的強化",
 		"en_explainShort": "",
-		"jp_explainLong": "ジャストアタック成功時、長い時間\n消費ＣＰが減少し、アビリティレベルに応じて\n闇法術の威力が劇的に強化される。",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n消費ＣＰが減少し、アビリティレベルに応じて\n闇法術の威力が劇的に強化される。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "31262",
 		"jp_explainShort": "ＣＰ消費減＋アビリティレベル闇法術劇的強化",
 		"en_explainShort": "",
-		"jp_explainLong": "ジャストアタック成功時、長い時間\n消費ＣＰが減少し、アビリティレベルに応じて\n闇法術の威力が劇的に強化される。",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n消費ＣＰが減少し、アビリティレベルに応じて\n闇法術の威力が劇的に強化される。",
 		"en_explainLong": ""
 	},
 	{
@@ -1835,14 +1835,14 @@
 	},
 	{
 		"assign": "31265",
-		"jp_explainShort": "風数攻撃絶大増＋風属性値追加特大ダメージ",
+		"jp_explainShort": "風チップ数攻撃絶大増＋属性追加ダメージ",
 		"en_explainShort": "",
 		"jp_explainLong": "ジャストアタック成功時、一定時間、装備中チップの\n風属性の枚数が多いほど攻撃力が絶大に増加され\n風属性値に応じて敵に追加で特大ダメージを与える。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "31266",
-		"jp_explainShort": "風数攻撃絶大増＋風属性値追加特大ダメージ",
+		"jp_explainShort": "風チップ数攻撃絶大増＋属性追加ダメージ",
 		"en_explainShort": "",
 		"jp_explainLong": "ジャストアタック成功時、長い時間、装備中チップの\n風属性の枚数が多いほど攻撃力が絶大に増加され\n風属性値に応じて敵に追加で特大ダメージを与える。",
 		"en_explainLong": ""
@@ -1877,14 +1877,14 @@
 	},
 	{
 		"assign": "31275",
-		"jp_explainShort": "炎チップ数攻撃劇的増＋通常攻撃と移動加速",
+		"jp_explainShort": "通常攻撃と移動加速＋炎チップ数攻撃劇的増",
 		"en_explainShort": "",
 		"jp_explainLong": "ジャストアタック成功時、一定時間、自身の通常攻撃と\n移動のスピードが加速され、装備中の炎属性チップの\n枚数に応じて、攻撃力が劇的に増加される。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "31276",
-		"jp_explainShort": "炎チップ数攻撃劇的増＋通常攻撃と移動加速",
+		"jp_explainShort": "通常攻撃と移動加速＋炎チップ数攻撃劇的増",
 		"en_explainShort": "",
 		"jp_explainLong": "ジャストアタック成功時、長い時間、自身の通常攻撃と\n移動のスピードが加速され、装備中の炎属性チップの\n枚数に応じて、攻撃力が劇的に増加される。",
 		"en_explainLong": ""
@@ -1892,43 +1892,43 @@
 	{
 		"assign": "31279",
 		"jp_explainShort": "ダメージ軽減＋攻撃力劇的増加",
-		"en_explainShort": "",
+		"en_explainShort": "Damage Reduction+ATK Power increase",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n敵からのダメージが軽減され\n攻撃力が劇的に増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "Attacking an enemy activates an effect\nthat increases Attack Power dramatically while\nreducing the damage you receive from attacks."
 	},
 	{
 		"assign": "31280",
 		"jp_explainShort": "ダメージ軽減＋攻撃力劇的増加",
-		"en_explainShort": "",
+		"en_explainShort": "Damage Reduction+ATK Power increase",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n敵からのダメージが軽減され\n攻撃力が劇的に増加される。",
-		"en_explainLong": ""
+		"en_explainLong": "Attacking an enemy activates an effect\nthat increases Attack Power dramatically while\nreducing the damage you receive from attacks."
 	},
 	{
 		"assign": "31281",
 		"jp_explainShort": "通常攻撃にポイズン付与＋弱点属性大強化",
-		"en_explainShort": "",
+		"en_explainShort": "JA effect normals do Poison+Weak Attr. Up",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n通常攻撃に「ポイズン」効果が付与され\nターゲット中の敵の弱点属性が大きく強化される。",
-		"en_explainLong": ""
+		"en_explainLong": "JAs activate an effect that causes normal attacks\nto inflict Poison. Addtionally, it greatly\nincreases the element weak to the targeted enemy."
 	},
 	{
 		"assign": "31282",
 		"jp_explainShort": "通常攻撃にポイズン付与＋弱点属性劇的強化",
-		"en_explainShort": "",
+		"en_explainShort": "JA effect normals do Poison+Weak Attr. Up",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n通常攻撃に「ポイズン」効果が付与され\nターゲット中の敵の弱点属性が劇的に強化される。",
-		"en_explainLong": ""
+		"en_explainLong": "JAs activate an effect that causes normal attacks\nto inflict Poison. Addtionally, it dramatically\nincreases the element weak to the targeted enemy."
 	},
 	{
 		"assign": "31283",
 		"jp_explainShort": "炎属性強化＋追加で特大ダメージ",
 		"en_explainShort": "",
-		"jp_explainLong": "攻撃ヒット時、一定時間\n炎属性が強化され、追加で特大ダメージを与える。",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n炎属性が強化され、追加で特大ダメージを与える。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "31284",
 		"jp_explainShort": "炎属性大強化＋追加で特大ダメージ",
 		"en_explainShort": "",
-		"jp_explainLong": "攻撃ヒット時、一定時間\n炎属性が大きく強化され、追加で特大ダメージを与える。",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n炎属性が大きく強化され、追加で特大ダメージを与える。",
 		"en_explainLong": ""
 	},
 	{
