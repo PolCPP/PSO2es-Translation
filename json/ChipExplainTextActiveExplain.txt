@@ -772,16 +772,16 @@
 	{
 		"assign": "31131",
 		"jp_explainShort": "アビリティレベルに応じて攻撃力劇的増加",
-		"en_explainShort": "",
+		"en_explainShort": "Attack Power Boost Based on Ability Level",
 		"jp_explainLong": "長い時間\nアビリティレベルに応じて攻撃力を劇的に増加する。",
-		"en_explainLong": ""
+		"en_explainLong": "Increases attack power dramatically\nbased on the chip’s ability level."
 	},
 	{
 		"assign": "31132",
 		"jp_explainShort": "アビリティレベルに応じて攻撃力絶大増加",
-		"en_explainShort": "",
+		"en_explainShort": "Attack Power Boost Based on Ability Level",
 		"jp_explainLong": "長い時間\nアビリティレベルに応じて攻撃力を絶大に増加する。",
-		"en_explainLong": ""
+		"en_explainLong": "Greatly increases attack power\ndramatically, based on the chip's ability level."
 	},
 	{
 		"assign": "31137",
@@ -870,16 +870,16 @@
 	{
 		"assign": "31175",
 		"jp_explainShort": "全アクティブチップ発動＋攻撃力劇的増加",
-		"en_explainShort": "",
+		"en_explainShort": "All Active Chips Activate+ATK PWR Boost",
 		"jp_explainLong": "長い時間\n必殺技・法術以外の全てのアクティブチップを発動し\n攻撃力を劇的に増加する。",
-		"en_explainLong": ""
+		"en_explainLong": "Increases attack power dramatically and activates\nall active chips excluding PAs and Technics."
 	},
 	{
 		"assign": "31176",
 		"jp_explainShort": "全アクティブチップ発動＋攻撃力劇的増加",
-		"en_explainShort": "",
+		"en_explainShort": "All Active Chips Activate+ATK PWR Boost",
 		"jp_explainLong": "長い時間\n必殺技・法術以外の全てのアクティブチップを発動し\n攻撃力を劇的に増加する。",
-		"en_explainLong": ""
+		"en_explainLong": "Increases attack power dramatically and activates\nall active chips excluding PAs and Technics."
 	},
 	{
 		"assign": "31185",
@@ -998,28 +998,28 @@
 		"jp_explainShort": "チップのＣＰ消費量が減少＋攻撃力劇的増加",
 		"en_explainShort": "",
 		"jp_explainLong": "長い時間\n消費ＣＰが減少し、攻撃力を劇的に増加する。\n消費ＣＰ減少はこのチップ発動時にも効果が適用される。",
-		"en_explainLong": ""
+		"en_explainLong": "Increases attack power dramatically\nand reduces CP consumption."
 	},
 	{
 		"assign": "31242",
 		"jp_explainShort": "チップのＣＰ消費量が減少＋攻撃力劇的増加",
 		"en_explainShort": "",
 		"jp_explainLong": "長い時間\n消費ＣＰが減少し、攻撃力を劇的に増加する。\n消費ＣＰ減少はこのチップ発動時にも効果が適用される。",
-		"en_explainLong": ""
+		"en_explainLong": "Increases attack power dramatically\nand reduces CP consumption."
 	},
 	{
 		"assign": "31243",
 		"jp_explainShort": "攻撃力絶大増加＋法術が小強化",
 		"en_explainShort": "",
 		"jp_explainLong": "長い時間\n攻撃力を絶大に増加し、法術の威力をわずかに強化する。",
-		"en_explainLong": ""
+		"en_explainLong": "Attack power increases tremendously and slightly boosts Technic power."
 	},
 	{
 		"assign": "31244",
 		"jp_explainShort": "攻撃力絶大増加＋法術が大強化",
 		"en_explainShort": "",
 		"jp_explainLong": "長い時間\n攻撃力を絶大に増加し、法術の威力を大きく強化する。",
-		"en_explainLong": ""
+		"en_explainLong": "Attack power increases tremendously and slightly boosts Technic power."
 	},
 	{
 		"assign": "31245",
@@ -1066,16 +1066,16 @@
 	{
 		"assign": "31259",
 		"jp_explainShort": "ＨＰ回復＋アビリティレベルで光法術劇的強化",
-		"en_explainShort": "",
+		"en_explainShort": "Recovers HP+Chip ability boosts Light Tech PWR",
 		"jp_explainLong": "ＨＰを回復し\n長い時間、アビリティレベルに応じて\n光法術の威力を劇的に強化する。",
-		"en_explainLong": ""
+		"en_explainLong": "Recovers HP and boosts the power of\nLight technics dramatically based\non the chip’s ability level."
 	},
 	{
 		"assign": "31260",
 		"jp_explainShort": "ＨＰ回復＋アビリティレベルで光法術劇的強化",
-		"en_explainShort": "",
+		"en_explainShort": "Recovers HP+Chip ability boosts Light Tech PWR",
 		"jp_explainLong": "ＨＰを回復し\n長い時間、アビリティレベルに応じて\n光法術の威力を劇的に強化する。",
-		"en_explainLong": ""
+		"en_explainLong": "Recovers HP and boosts the power of\nLight technics dramatically based\non the chip’s ability level."
 	},
 	{
 		"assign": "31269",
@@ -3740,58 +3740,58 @@
 	{
 		"assign": "60117",
 		"jp_explainShort": "フォトンの刃を叩きつける飛翔剣用の必殺技",
-		"en_explainShort": "",
+		"en_explainShort": "Special Attack using Photon Blades",
 		"jp_explainLong": "「飛翔剣用の必殺技」\nフォトンの刃で巨大な剣を形成し\n前方に向かって叩きつける。",
-		"en_explainLong": ""
+		"en_explainLong": "Dual Blade Photon Art\nUsing Photon Blades as a huge sword,\nDeliver a slash attack against the enemy."
 	},
 	{
 		"assign": "60118",
 		"jp_explainShort": "フォトンの刃を叩きつける飛翔剣用の必殺技",
-		"en_explainShort": "",
+		"en_explainShort": "Special Attack using Photon Blades",
 		"jp_explainLong": "「飛翔剣用の必殺技」\nフォトンの刃で巨大な剣を形成し\n前方に向かって叩きつける。",
-		"en_explainLong": ""
+		"en_explainLong": "Dual Blade Photon Art\nUsing Photon Blades as a huge sword,\nDeliver a slash attack against the enemy."
 	},
 	{
 		"assign": "60119",
 		"jp_explainShort": "フォトンの刃を叩きつける飛翔剣用の必殺技",
-		"en_explainShort": "",
+		"en_explainShort": "Special Attack using Photon Blades",
 		"jp_explainLong": "「飛翔剣用の必殺技」\nフォトンの刃で巨大な剣を形成し\n前方に向かって叩きつける。",
-		"en_explainLong": ""
+		"en_explainLong": "Dual Blade Photon Art\nUsing Photon Blades as a huge sword,\nDeliver a slash attack against the enemy."
 	},
 	{
 		"assign": "60120",
 		"jp_explainShort": "フォトンの刃を叩きつける飛翔剣用の必殺技",
-		"en_explainShort": "",
+		"en_explainShort": "Special Attack using Photon Blades",
 		"jp_explainLong": "「飛翔剣用の必殺技」\nフォトンの刃で巨大な剣を形成し\n前方に向かって叩きつける。",
-		"en_explainLong": ""
+		"en_explainLong": "Dual Blade Photon Art\nUsing Photon Blades as a huge sword,\nDeliver a slash attack against the enemy."
 	},
 	{
 		"assign": "60121",
 		"jp_explainShort": "フォトンの刃を叩きつける飛翔剣用の必殺技",
-		"en_explainShort": "",
+		"en_explainShort": "Special Attack using Photon Blades",
 		"jp_explainLong": "「飛翔剣用の必殺技」\nフォトンの刃で巨大な剣を形成し\n前方に向かって叩きつける。",
-		"en_explainLong": ""
+		"en_explainLong": "Dual Blade Photon Art\nUsing Photon Blades as a huge sword,\nDeliver a slash attack against the enemy."
 	},
 	{
 		"assign": "60122",
 		"jp_explainShort": "フォトンの刃を叩きつける飛翔剣用の必殺技",
-		"en_explainShort": "",
+		"en_explainShort": "Special Attack using Photon Blades",
 		"jp_explainLong": "「飛翔剣用の必殺技」\nフォトンの刃で巨大な剣を形成し\n前方に向かって叩きつける。",
-		"en_explainLong": ""
+		"en_explainLong": "Dual Blade Photon Art\nUsing Photon Blades as a huge sword,\nDeliver a slash attack against the enemy."
 	},
 	{
 		"assign": "60123",
 		"jp_explainShort": "フォトンの刃を叩きつける飛翔剣用の必殺技",
-		"en_explainShort": "",
+		"en_explainShort": "Special Attack using Photon Blades",
 		"jp_explainLong": "「飛翔剣用の必殺技」\nフォトンの刃で巨大な剣を形成し\n前方に向かって叩きつける。",
-		"en_explainLong": ""
+		"en_explainLong": "Dual Blade Photon Art\nUsing Photon Blades as a huge sword,\nDeliver a slash attack against the enemy."
 	},
 	{
 		"assign": "60124",
 		"jp_explainShort": "フォトンの刃を叩きつける飛翔剣用の必殺技",
-		"en_explainShort": "",
+		"en_explainShort": "Special Attack using Photon Blades",
 		"jp_explainLong": "「飛翔剣用の必殺技」\nフォトンの刃で巨大な剣を形成し\n前方に向かって叩きつける。",
-		"en_explainLong": ""
+		"en_explainLong": "Dual Blade Photon Art\nUsing Photon Blades as a huge sword,\nDeliver a slash attack against the enemy."
 	},
 	{
 		"assign": "60125",

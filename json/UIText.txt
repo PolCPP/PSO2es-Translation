@@ -6447,7 +6447,7 @@
 	{
 		"assign": "questresult_weaponoid_present",
 		"jp_text": "<%name>から\n<%item>をもらいました！",
-		"en_text": ""
+		"en_text": "Recieved <%item>\nfrom <%name>!"
 	},
 	{
 		"assign": "questresult_weaponoid_window",
@@ -7987,12 +7987,12 @@
 	{
 		"assign": "questkey_timelimit",
 		"jp_text": "有効期限 / yyyy年MM月dd日HH時mm分",
-		"en_text": "Expires/ yyyy/MM/dd  HH:mm"
+		"en_text": "Expires:  <color=\"yellow\">yyyy/MM/dd  HH:mm</color>"
 	},
 	{
 		"assign": "questkey_timelimit_over",
 		"jp_text": "有効期限 / <color=\"red\">yyyy年MM月dd日HH時mm分</color>",
-		"en_text": "Expires/ <color=\"red\">yyyy/MM/dd  HH:mm</color>"
+		"en_text": "Expires:  <color=\"red\">yyyy/MM/dd  HH:mm</color>"
 	},
 	{
 		"assign": "stargem_label_0",
@@ -8232,7 +8232,7 @@
 	{
 		"assign": "dict_attribute",
 		"jp_text": "最大属性値",
-		"en_text": "Max Attr. Value"
+		"en_text": "Max Element"
 	},
 	{
 		"assign": "dict_hp",
@@ -14832,7 +14832,7 @@
 	{
 		"assign": "btl_soundset",
 		"jp_text": "オプション(サウンド設定)",
-		"en_text": "Sound Stn."
+		"en_text": "Sound Settings"
 	},
 	{
 		"assign": "btl_voice",
@@ -15882,7 +15882,7 @@
 	{
 		"assign": "weaponoid_boost_info_commingsoon",
 		"jp_text": "このチップには\n武器セット効果がありません。\nアップデートにて配信予定です。\n\n",
-		"en_text": "This chip\ndoes not have a weapon\nset effect at the moment.\n\n"
+		"en_text": "This chip does not have a weapon\nset effect at the moment.\n\n"
 	},
 	{
 		"assign": "sidestory_comm_error_t_00",
