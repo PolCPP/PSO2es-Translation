@@ -4922,7 +4922,7 @@
 	{
 		"assign": "quest_counter_bonus_exp",
 		"jp_text": "EXP×",
-		"en_text": "EXP × "
+		"en_text": "EXP: "
 	},
 	{
 		"assign": "quest_counter_bonus_meseta",
@@ -4987,7 +4987,7 @@
 	{
 		"assign": "quest_counter_accompany_ng",
 		"jp_text": "同行可能まであと<%h>時間<%m>分",
-		"en_text": "Cooling off (<%h> hours and <%m> minutes left)"
+		"en_text": "Cooling off (<%h> hour(s) and <%m> minutes left)"
 	},
 	{
 		"assign": "quest_counter_quest_drive",
@@ -5032,7 +5032,7 @@
 	{
 		"assign": "quest_counter_meseta",
 		"jp_text": "メセタ",
-		"en_text": "Meseta\t"
+		"en_text": "Meseta"
 	},
 	{
 		"assign": "quest_counter_window_areaselect",
@@ -5087,7 +5087,7 @@
 	{
 		"assign": "quest_counter_label_time",
 		"jp_text": "あと",
-		"en_text": "Regen\t"
+		"en_text": ""
 	},
 	{
 		"assign": "quest_counter_window_questselect",
@@ -5282,17 +5282,17 @@
 	{
 		"assign": "quest_counter_raid_point_unit",
 		"jp_text": "<%point>ポイント　<color=#68a0a7>/</color>",
-		"en_text": "<%point>\t  　<color=#68a0a7>/</color>"
+		"en_text": "<%point> <color=#68a0a7>/</color>"
 	},
 	{
 		"assign": "quest_counter_raid_time_grade",
 		"jp_text": "時間評価      <color=#68a0a7>/</color>",
-		"en_text": "Time\t      <color=#68a0a7>/</color>"
+		"en_text": "Time  <color=#68a0a7>/</color>"
 	},
 	{
 		"assign": "quest_counter_raid_rank_grade",
 		"jp_text": "： 発生から<%hh>:<%mm>:<%ss>以内に討伐\n",
-		"en_text": ": clear time <%hh>:<%mm>:<%ss>\n"
+		"en_text": ": clear time <%H>:<%mm>:<%ss>\n"
 	},
 	{
 		"assign": "quest_counter_raid_rank_grade2",
@@ -13447,37 +13447,37 @@
 	{
 		"assign": "raid_n_good",
 		"jp_text": "目標が逃走しました。\n攻撃したぶんの体力は低下しているので\n引き続き挑戦して、討伐を目指しましょう！",
-		"en_text": ""
+		"en_text": "We didn't reach our goal.\nLet's try this again.\nLet's defeat the enemy!"
 	},
 	{
 		"assign": "raid_n_hp01",
 		"jp_text": "もはや目標はいつ倒れてもおかしくありません！\n勝利は目前！\nさあ、この戦いに決着をつけてください！",
-		"en_text": ""
+		"en_text": "Look, it's already exhausted!\nVictory is almost here!\nLet's wrap this up!"
 	},
 	{
 		"assign": "raid_n_hp02",
 		"jp_text": "あと少しで、目標を討伐できそうです！\nここまで来たら根くらべです。がんばって！",
-		"en_text": ""
+		"en_text": "Just a bit more ok!\nKeep doing what you're doing!"
 	},
 	{
 		"assign": "raid_n_hp03",
 		"jp_text": "目標の体力、半減！\nいいですよ、攻撃が効果的に機能しています。",
-		"en_text": ""
+		"en_text": "We're at half HP!\nLooks like your attacks are working."
 	},
 	{
 		"assign": "raid_n_hp04",
 		"jp_text": "着々と目標の体力が減りつつあります。\nこの調子でがんばっていきましょう！",
-		"en_text": ""
+		"en_text": "We're steadily lowering it's health.\nKeep up the good work!"
 	},
 	{
 		"assign": "raid_n_hp05",
 		"jp_text": "目標の体力はまだまだ残っています。\nこのまま継続してダメージを与えていきましょう。",
-		"en_text": ""
+		"en_text": "We still have a bit more to go.\nPlease continue your attacks."
 	},
 	{
 		"assign": "raid_n_hp06",
 		"jp_text": "目標の討伐を目指して頑張りましょう。\nせいいっぱい応援しています！",
-		"en_text": ""
+		"en_text": "Let's do our best, ok!\nYou have my utmost support!"
 	},
 	{
 		"assign": "raid_log_00",
@@ -13492,7 +13492,7 @@
 	{
 		"assign": "raid_log_02",
 		"jp_text": "ダメージを与えました。",
-		"en_text": ""
+		"en_text": " damage done."
 	},
 	{
 		"assign": "raid_dialog_t_00",
@@ -13977,7 +13977,7 @@
 	{
 		"assign": "RaidEvent_Achievement_Text_0-1-0",
 		"jp_text": "実績を{1}個達成 [{0} / {1}]",
-		"en_text": ""
+		"en_text": "Number of Achievements: {1}"
 	},
 	{
 		"assign": "RaidEvent_Achievement_Text_0-1-1",
@@ -14067,12 +14067,12 @@
 	{
 		"assign": "RaidEvent_Achievement_list_00",
 		"jp_text": "イベント期間 実績報酬",
-		"en_text": ""
+		"en_text": "Event Rewards"
 	},
 	{
 		"assign": "RaidEvent_Achievement_list_02",
 		"jp_text": "イベント期間 達成数報酬",
-		"en_text": ""
+		"en_text": "Redeemed Rewards"
 	},
 	{
 		"assign": "RaidEvent_Achievement_list_01",
@@ -14082,7 +14082,7 @@
 	{
 		"assign": "RaidEvent_Achievement_dialog00",
 		"jp_text": "所持数あふれのため\n受け取れる報酬がありません。\nチップやアイテムなどの整理を行ってください。",
-		"en_text": ""
+		"en_text": "Cannot Redeem Reward(s)\ndue to lack of space.\nPlease make room for chips or items."
 	},
 	{
 		"assign": "RaidEvent_Achievement_dialog01",
@@ -14167,12 +14167,12 @@
 	{
 		"assign": "raid_scratch_kingrappy_medal_count",
 		"jp_text": "<color=#fffa00>{0}</color>枚",
-		"en_text": ""
+		"en_text": "<color=#fffa00>{0}</color>"
 	},
 	{
 		"assign": "raid_scratch_kingrappy_medal_title",
 		"jp_text": "<color=#fffa00>{0}</color>枚",
-		"en_text": ""
+		"en_text": "<color=#fffa00>{0}</color>"
 	},
 	{
 		"assign": "raid_scratch_get_item_message",
@@ -16037,7 +16037,7 @@
 	{
 		"assign": "menu_menu_lookback",
 		"jp_text": "ストーリー閲覧室",
-		"en_text": "Story Reading Room"
+		"en_text": "Story Room"
 	},
 	{
 		"assign": "lookback_event_title",
@@ -16141,12 +16141,12 @@
 	},
 	{
 		"assign": "story_event_end_text_1",
-		"jp_text": "現在のストーリークエストの配信は\r\nここまでとなります。",
+		"jp_text": "現在のストーリークエストの配信は\nここまでとなります。",
 		"en_text": "Current Story Ends Here"
 	},
 	{
 		"assign": "story_event_end_text_2",
-		"jp_text": "今後も新たなストーリークエストが追加される\r\n予定です。次回の配信をお待ちください。",
+		"jp_text": "今後も新たなストーリークエストが追加される\n予定です。次回の配信をお待ちください。",
 		"en_text": "Stay tuned for the next exciting\r\nupdate for PSO2es."
 	}
 ]
