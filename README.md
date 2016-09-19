@@ -5,7 +5,7 @@
 ## Usage
 
 1. Get the Fileco.dat from PSO2es /Android/data/com.sega.phantasystar2es/cache/sd
-2. Load the Patcher tool. From https://dl.dropboxusercontent.com/u/3115520/PhantomEsbreaker.zip or https://dl.dropboxusercontent.com/u/3115520/LinuxEsBreaker.zip for a linux version.
+2. Load the Patcher tool. From https://dl.dropboxusercontent.com/u/3115520/aidanudes.zip
 3. Put Fileco where the tool says, json files in a json subfolder.
 4. Hit the loadit button
 5. Hit the load in and generate json button (this updates the pso2es database on memory), and updates the json files with new entries. Wait a few minutes. (Json lib is too slow, but since its not a process thats done every 5 min i don't care).
@@ -27,7 +27,7 @@ Just grab the current pso2es ContentsSerializer.dll, protobuf-net.dll, ProtoBuff
 * PolCPP - Aka Rupikachu for the tool
 * AIDA - Initial translations
 * Logokas - A lot of UI translation work
-* Synthsy - Translation work
+* SynthSy - Translation work
 * Bumped.org - Item Names and Wonderful other translations
 * ARKS-Visiphone - Weapon names and other neat stuff
 
