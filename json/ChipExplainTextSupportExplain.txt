@@ -617,30 +617,30 @@
 	},
 	{
 		"assign": "31015",
-		"jp_explainShort": "攻撃を３回行うごとに攻撃力が強化",
+		"jp_explainShort": "攻撃力大強化＋攻撃３回ごと攻撃力強化",
 		"en_explainShort": "",
-		"jp_explainLong": "ジャストアタック成功時、一定時間、攻撃力が\n大きく強化され、アクティブチップ使用か通常攻撃を\n３回行うごとに攻撃力が強化される。",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、攻撃力が\n大きく強化され、アクティブチップ使用か通常攻撃を\n３回行うごとに攻撃力が強化され劇的となる。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "31016",
-		"jp_explainShort": "攻撃を３回行うごとに攻撃力が強化",
+		"jp_explainShort": "攻撃力劇的強化＋攻撃３回ごと攻撃力強化",
 		"en_explainShort": "",
-		"jp_explainLong": "ジャストアタック成功時、長い時間、攻撃力が\n劇的に強化され、アクティブチップ使用か通常攻撃を\n３回行うごとに攻撃力が強化される。",
+		"jp_explainLong": "ジャストアタック成功時、長い時間、攻撃力が\n劇的に強化され、アクティブチップ使用か通常攻撃を\n３回行うごとに攻撃力が強化され劇的となる。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "31017",
-		"jp_explainShort": "攻撃を３回行うごとに攻撃力が強化",
+		"jp_explainShort": "雷属性大強化＋攻撃３回ごと攻撃力強化",
 		"en_explainShort": "",
-		"jp_explainLong": "ジャストアタック成功時、長い時間、雷属性が\n大きく強化され、アクティブチップ使用か通常攻撃を\n３回行うごとに攻撃力が強化される。",
+		"jp_explainLong": "ジャストアタック成功時、長い時間、雷属性が\n大きく強化され、アクティブチップ使用か通常攻撃を\n３回行うごとに攻撃力が強化され劇的となる。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "31018",
-		"jp_explainShort": "攻撃を３回行うごとに攻撃力が強化",
+		"jp_explainShort": "雷属性大強化＋攻撃３回ごと攻撃力強化",
 		"en_explainShort": "",
-		"jp_explainLong": "ジャストアタック成功時、長い時間、雷属性が\n大きく強化され、アクティブチップ使用か通常攻撃を\n３回行うごとに攻撃力が強化される。",
+		"jp_explainLong": "ジャストアタック成功時、長い時間、雷属性が\n大きく強化され、アクティブチップ使用か通常攻撃を\n３回行うごとに攻撃力が強化され劇的となる。",
 		"en_explainLong": ""
 	},
 	{
@@ -1247,16 +1247,16 @@
 	},
 	{
 		"assign": "31143",
-		"jp_explainShort": "攻撃を３回行うごとに攻撃力が大強化",
+		"jp_explainShort": "炎属性強化＋攻撃３回ごと攻撃力強化",
 		"en_explainShort": "",
-		"jp_explainLong": "ジャストアタック成功時、一定時間、炎属性が\n強化され、アクティブチップ使用か通常攻撃を\n３回行うごとに攻撃力が大きく強化される。",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、炎属性が\n強化され、アクティブチップ使用か通常攻撃を\n３回行うごとに攻撃力が強化され劇的となる。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "31144",
-		"jp_explainShort": "攻撃を３回行うごとに攻撃力が大強化",
+		"jp_explainShort": "炎属性強化＋攻撃３回ごと攻撃力強化",
 		"en_explainShort": "",
-		"jp_explainLong": "ジャストアタック成功時、長い時間、炎属性が\n強化され、アクティブチップ使用か通常攻撃を\n３回行うごとに攻撃力が大きく強化される。",
+		"jp_explainLong": "ジャストアタック成功時、長い時間、炎属性が\n強化され、アクティブチップ使用か通常攻撃を\n３回行うごとに攻撃力が強化され劇的となる。",
 		"en_explainLong": ""
 	},
 	{
@@ -1930,6 +1930,188 @@
 		"en_explainShort": "Fire Attr. % increase+extra dmg",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n炎属性が大きく強化され、追加で特大ダメージを与える。",
 		"en_explainLong": "JAs chance activate an effect that greatly\nboosts Fire Attribute while boosting damage."
+	},
+	{
+		"assign": "31285",
+		"jp_explainShort": "攻撃力劇的増加＋カウンターダメージ",
+		"en_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、攻撃力が劇的に増加され\nターゲット中のエネミーから攻撃を受けた時\nそのダメージに応じたカウンターを与える。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31286",
+		"jp_explainShort": "攻撃力劇的増加＋カウンターダメージ",
+		"en_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、長い時間、攻撃力が劇的に増加され\nターゲット中のエネミーから攻撃を受けた時\nそのダメージに応じたカウンターを与える。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31287",
+		"jp_explainShort": "定期的に攻撃力が増加",
+		"en_explainShort": "",
+		"jp_explainLong": "-",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31288",
+		"jp_explainShort": "定期的に攻撃力が増加",
+		"en_explainShort": "",
+		"jp_explainLong": "-",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31289",
+		"jp_explainShort": "攻撃力大増加＋JA毎に攻撃力小増加",
+		"en_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n攻撃力が大きく増加され、さらに\nジャストアタックごとに攻撃力がわずかに増加される。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31290",
+		"jp_explainShort": "攻撃力劇的増加＋JA毎に攻撃力小増加",
+		"en_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、長い時間\n攻撃力が劇的に増加され、さらに\nジャストアタックごとに攻撃力がわずかに増加される。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31293",
+		"jp_explainShort": "攻撃力絶大増＋ダメージ無で攻撃力劇的増",
+		"en_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、長い時間、攻撃力が\n絶大に増加される。一定時間、ダメージを\n受けなければさらに攻撃力が増加され超絶となる。 ",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31294",
+		"jp_explainShort": "攻撃力絶大増＋ダメージ無で攻撃力劇的増",
+		"en_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、長い時間、攻撃力が\n絶大に増加される。一定時間、ダメージを\n受けなければさらに攻撃力が増加され超絶となる。 ",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31295",
+		"jp_explainShort": "攻撃力劇的増加＋状態異常無効",
+		"en_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、長い時間\n攻撃力が劇的に増加され\n自身を状態異常にならなくする。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31296",
+		"jp_explainShort": "攻撃力劇的増加＋状態異常無効",
+		"en_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、長い時間\n攻撃力が劇的に増加され\n自身を状態異常にならなくする。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31297",
+		"jp_explainShort": "強弓の技が劇的強化＋通常攻撃と移動加速",
+		"en_explainShort": "",
+		"jp_explainLong": "-",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31298",
+		"jp_explainShort": "強弓の技が劇的強化＋通常攻撃と移動加速",
+		"en_explainShort": "",
+		"jp_explainLong": "-",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31299",
+		"jp_explainShort": "攻撃力劇的増加＋弱点属性大強化",
+		"en_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n攻撃力が劇的に増加され、ターゲット中の敵の\n弱点属性が大きく強化される。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31300",
+		"jp_explainShort": "攻撃力劇的増加＋弱点属性大強化",
+		"en_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、長い時間\n攻撃力が劇的に増加され、ターゲット中の敵の\n弱点属性が大きく強化される。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31301",
+		"jp_explainShort": "ＨＰとＣＰが小回復＋追加特大ダメージ",
+		"en_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時\nＨＰとＣＰがわずかに回復し\n敵に追加で大ダメージを与える。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31302",
+		"jp_explainShort": "ＨＰとＣＰが小回復＋追加特大ダメージ",
+		"en_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時\nＨＰとＣＰがわずかに回復し\n敵に追加で特大ダメージを与える。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31303",
+		"jp_explainShort": "発見済みエネミーチップ数に応じ追加ダメージ",
+		"en_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、チップ研究室において\n発見済エネミーチップが多いほど\n追加でダメージを与える。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31304",
+		"jp_explainShort": "発見済みエネミーチップ数に応じ追加ダメージ",
+		"en_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、チップ研究室において\n発見済エネミーチップが多いほど\n追加でダメージを与える。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31305",
+		"jp_explainShort": "ダーカーにダメージ劇的増加＋光属性大強化",
+		"en_explainShort": "",
+		"jp_explainLong": "ダーカーに攻撃がヒットした時、一定時間\nダーカーに与えるダメージが劇的に増加され\n光属性が大きく強化される。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31306",
+		"jp_explainShort": "ダーカーにダメージ劇的増加＋光属性大強化",
+		"en_explainShort": "",
+		"jp_explainLong": "ダーカーに攻撃がヒットした時、長い時間\nダーカーに与えるダメージが劇的に増加され\n光属性が大きく強化される。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31307",
+		"jp_explainShort": "抜剣の技が劇的強化＋通常攻撃と移動加速",
+		"en_explainShort": "",
+		"jp_explainLong": "-",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31308",
+		"jp_explainShort": "抜剣の技が劇的強化＋通常攻撃と移動加速",
+		"en_explainShort": "",
+		"jp_explainLong": "-",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31309",
+		"jp_explainShort": "攻撃力劇的増加＋ＣＰ最大値増加",
+		"en_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、長い時間\n攻撃力が劇的に増加され\nＣＰの最大値が増加される。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31310",
+		"jp_explainShort": "攻撃力劇的増加＋ＣＰ最大値増加",
+		"en_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、長い時間\n攻撃力が劇的に増加され\nＣＰの最大値が増加される。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31313",
+		"jp_explainShort": "確率回避＋アビリティレベル炎法術劇的強化",
+		"en_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\nアビリティレベルに応じて炎法術の威力が劇的に\n強化され、敵からの攻撃を一定確率で回避する。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31314",
+		"jp_explainShort": "確率回避＋アビリティレベル炎法術劇的強化",
+		"en_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、長い時間\nアビリティレベルに応じて炎法術の威力が劇的に\n強化され、敵からの攻撃を一定確率で回避する。",
+		"en_explainLong": ""
 	},
 	{
 		"assign": "11030",
@@ -3109,44 +3291,44 @@
 	},
 	{
 		"assign": "40151",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋両剣の技が強化",
 		"en_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n両剣の必殺技の威力が大きく強化される。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "40152",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋両剣の技が大強化",
 		"en_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n両剣の必殺技の威力が大きく強化される。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "40153",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋鋼拳の技が強化",
 		"en_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n鋼拳の必殺技の威力が強化される。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "40154",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋鋼拳の技が大強化",
 		"en_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n鋼拳の必殺技の威力が大きく強化される。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "40155",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋銃剣の技が強化",
 		"en_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n銃剣の必殺技の威力が強化される。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "40156",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋銃剣の技が大強化",
 		"en_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n銃剣の必殺技の威力が大きく強化される。",
 		"en_explainLong": ""
 	},
 	{
@@ -3221,16 +3403,16 @@
 	},
 	{
 		"assign": "40167",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋魔装脚の技が強化",
 		"en_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n魔装脚の必殺技の威力が強化される。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "40168",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋魔装脚の技が大強化",
 		"en_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n魔装脚の必殺技の威力が大きく強化される。",
 		"en_explainLong": ""
 	},
 	{
@@ -3333,16 +3515,16 @@
 	},
 	{
 		"assign": "40183",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋銃剣の技が強化",
 		"en_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n銃剣の必殺技の威力が強化される。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "40184",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋銃剣の技が大強化",
 		"en_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n銃剣の必殺技の威力が大きく強化される。",
 		"en_explainLong": ""
 	},
 	{
@@ -3361,30 +3543,30 @@
 	},
 	{
 		"assign": "40187",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋大砲の技が強化",
 		"en_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n大砲の必殺技の威力が強化される。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "40188",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋大砲の技が大強化",
 		"en_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n大砲の必殺技の威力が大きく強化される。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "40189",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋双機銃の技が強化",
 		"en_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n双機銃の必殺技の威力が強化される。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "40190",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋双機銃の技が大強化",
 		"en_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n双機銃の必殺技の威力が大きく強化される。",
 		"en_explainLong": ""
 	},
 	{
@@ -3403,16 +3585,16 @@
 	},
 	{
 		"assign": "40193",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋強弓の技が強化",
 		"en_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n強弓の必殺技の威力が強化される。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "40194",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋強弓の技が大強化",
 		"en_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n強弓の必殺技の威力が大きく強化される。",
 		"en_explainLong": ""
 	},
 	{
