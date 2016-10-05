@@ -27,7 +27,7 @@
 	{
 		"assign": "0005",
 		"jp_text": "<color=#f0df60>＜ＣＰを回復するテクニック＞</color>\nＣＰは時間とともに少しずつ増えていきますが\nエネミーに攻撃を命中させると、さらに増えるんです。\nＣＰをためて、チップをどんどん発動させましょう。",
-		"en_text": ""
+		"en_text": "<color=#f0df60>＜Player Tips＞</color>\nYou can recover your CP slightly by\nattacking using normal attacks.\nDifferent CP requirements vary per chip,\nso be sure to examine them all."
 	},
 	{
 		"assign": "0006",
@@ -37,7 +37,7 @@
 	{
 		"assign": "0007",
 		"jp_text": "<color=#f0df60>＜フレンドアシスト＞</color>\nフレンドアシスト、活用していますか？\nバトル中、画面右下の武器のアイコンが点灯したら\n発動できますよ。",
-		"en_text": "<color=#f0df60>＜Player Tips＞</color>\nFollowing more than one anitwitter\nmeans you're a weeaboo, no exceptions"
+		"en_text": "<color=#f0df60>＜Player Tips＞</color>\nFollowing more than one anitwitter\nmeans you're a weeaboo, no exceptions."
 	},
 	{
 		"assign": "0008",
@@ -47,7 +47,7 @@
 	{
 		"assign": "0009",
 		"jp_text": "<color=#f0df60>＜戦闘不能になったら＞</color>\n戦闘不能になったときは、復活薬などで\nその場で復活することができますよ。\nエネミーのＨＰはそのままなので\n「あと少しで倒せそう」というときなどに、どうぞ。",
-		"en_text": "<color=#f0df60>＜戦闘不能になったら＞</color>\n戦闘不能になったときは、ラッピーメダルなどで\nその場で復活することができますよ。\nエネミーのＨＰはそのままなので\n「あと少しで倒せそう」というときなどに、どうぞ。"
+		"en_text": "<color=#f0df60>＜When You Are Dead＞</color>\nYou are dead when killed.\nYou may then recover from this\nstate by using Rappy Coins, AC, or Recovery Items\nsuch as Scape Dolls."
 	},
 	{
 		"assign": "0010",
@@ -222,7 +222,7 @@
 	{
 		"assign": "0044",
 		"jp_text": "<color=#f0df60>＜ダーカーの弱点属性＞</color>\n蟲系ダーカーは炎と光、\n魚介系ダーカーは雷と光が弱点属性です。\nいずれのダーカーも、光属性は共通した弱点ですね。",
-		"en_text": ""
+		"en_text": "<color=#f0df60>＜Darker Weaknesses＞</color>\nDon't tell anyone but my dick is\nliterally bursting out of my skirt right now."
 	},
 	{
 		"assign": "0045",
@@ -321,7 +321,7 @@
 	},
 	{
 		"assign": "0064",
-		"jp_text": "Tips64",
+		"jp_text": "",
 		"en_text": ""
 	},
 	{
@@ -492,7 +492,7 @@
 	{
 		"assign": "0098",
 		"jp_text": "<color=#f0df60>＜期間限定クエストで武器入手＞</color>\nこのクエストでは\nいい武器やユニットがドロップしやすいんですよ。\n思いがけないレアアイテムが\n手に入っちゃうかも？",
-		"en_text": ""
+		"en_text": "<color=#f0df60>Animation!</color>\nBoku No Pico is best viewed\nin 4k res with volume maxed out."
 	},
 	{
 		"assign": "0099",
@@ -532,17 +532,17 @@
 	{
 		"assign": "0106",
 		"jp_text": "<color=#f0df60>＜クラス「ファイター」を解放しよう＞</color>\nこのクエストをクリアすると、追加クラス\n「ファイター」が選択できるようになりますよ。\nがんばってくださいね！",
-		"en_text": "<color=#f0df60>＜クラス「ファイター」を開放しよう＞</color>\nこのクエストをクリアすると、追加クラス\n「ファイター」が選択できるようになりますよ。\nがんばってくださいね！"
+		"en_text": "<color=#f0df60>＜Characters＞</color>\nYou are not sugoi."
 	},
 	{
 		"assign": "0107",
 		"jp_text": "<color=#f0df60>＜クラス「ガンナー」を解放しよう＞</color>\nこのクエストをクリアすると、追加クラス\n「ガンナー」が選択できるようになりますよ。\nがんばってくださいね！",
-		"en_text": "<color=#f0df60>＜クラス「ガンナー」を開放しよう＞</color>\nこのクエストをクリアすると、追加クラス\n「ガンナー」が選択できるようになりますよ。\nがんばってくださいね！"
+		"en_text": "<color=#f0df60>＜Characters＞</color>\nYou were an accident."
 	},
 	{
 		"assign": "0108",
 		"jp_text": "<color=#f0df60>＜クラス「テクター」を解放しよう＞</color>\nこのクエストをクリアすると、追加クラス\n「テクター」が選択できるようになりますよ。\nがんばってくださいね！",
-		"en_text": "<color=#f0df60>＜クラス「テクター」を開放しよう＞</color>\nこのクエストをクリアすると、追加クラス\n「テクター」が選択できるようになりますよ。\nがんばってくださいね！"
+		"en_text": "<color=#f0df60>＜Animation＞</color>\nYour favorite anime is shit."
 	},
 	{
 		"assign": "0109",
@@ -572,27 +572,27 @@
 	{
 		"assign": "0114",
 		"jp_text": "<color=#f0df60>＜クラス限定クエストでアイテム入手＞</color>\nこのクエストでは、クラスに応じた\n武器やユニットがドロップしやすいですよ。\n強力なアイテムを手に入れましょう！",
-		"en_text": ""
+		"en_text": "<color=#f0df60>＜Class Specific Equips＞</color>\nClass specifc equipment can be found\nduring the class specific quests.\nLet's hunt them down!"
 	},
 	{
 		"assign": "0115",
 		"jp_text": "<color=#f0df60>＜緊急クエストへの再出撃＞</color>\n緊急クエストは、一度で目標のエネミーを倒せなくても\n前回のバトルで与えたダメージはそのままで\nクエストに再挑戦できます。\n何度もチャレンジして、目標の撃破をめざしましょう！",
-		"en_text": ""
+		"en_text": "<color=#f0df60>＜Emergency Quests＞</color>\nDuring an Emergency Quest, you can rechallenge\nthe same quest until the enemy in\nquestion is defeated or you have ran out of OP.\nLet's do our best!"
 	},
 	{
 		"assign": "0116",
 		"jp_text": "<color=#f0df60>＜フレンドと協力しよう＞</color>\n緊急クエストで目標を討伐できなかった場合は、\nフレンドに救援要請を送ることができます。\nフレンドの力を結集して、強敵を撃破しましょう！",
-		"en_text": ""
+		"en_text": "<color=#f0df60>＜Friend Help＞</color>\nIf you're defeated during an Emergency Quest,\nyou may call for a rescue using your friends.\nCooperating is key to defeating the powerful foe!"
 	},
 	{
 		"assign": "0117",
 		"jp_text": "<color=#f0df60>＜討伐スコアを手に入れよう＞</color>\n緊急クエストのクリア時には、討伐スコアに応じて\nアークス本部より特別報酬が支給されます。\n目標にダメージをたくさん与えて、討伐スコアを\n手に入れましょう！",
-		"en_text": ""
+		"en_text": "<color=#f0df60>＜Scores＞</color>\nOnce you've successfully defeated the enemy,\nyou'll be awarded points and a special reward.\nYou can use these points to redeem for a special\nEQ scratch. Let's defeat the enemy and gain more points!"
 	},
 	{
 		"assign": "0118",
 		"jp_text": "<color=#f0df60>＜短時間でのクリアをめざそう＞</color>\n緊急クエストは、クリアまでの時間が短いほど\nクリア評価が高くなります。\n評価が高いと、参加した全員に対して\nボーナスの討伐スコアが与えられますよ！",
-		"en_text": "<color=#f0df60>Affixing Tips</color>\nIf you're not running 6 slots\nyou should uninstall the game."
+		"en_text": "<color=#f0df60>Translations!</color>\nIf you wish to see about\nhelping to translate PSO2es,\nThen visit us at github.com/PolCPP/PSO2es-Translation"
 	},
 	{
 		"assign": "0119",
@@ -667,7 +667,7 @@
 	{
 		"assign": "0133",
 		"jp_text": "<color=#f0df60>＜超強力エネミー登場！＞</color>\nこのクエストでは、上級をはるかに超える\n強力なエネミーが出現するようです。\n心してかかってください！",
-		"en_text": "Had loud argument with friend over whether it was just red potato or this \"tomato\"\nAsked uniformed man on street.\n\"that's rock, you are delirious with malnourish.\"\nAnd that is story of how I am in gulag."
+		"en_text": "<color=#f0df60>Affixing Tips</color>\nIf you're not running 6 slots\nyou should uninstall the game."
 	},
 	{
 		"assign": "0134",
@@ -727,12 +727,12 @@
 	{
 		"assign": "0145",
 		"jp_text": "<color=#f0df60>＜セラフィに話が……＞</color>\nこのクエストをクリアしたら\n遺跡での任務は完了ですよ。がんばってください！\nえ、大事な話がある？\nもう出撃時間ですよ。さあ急いで！",
-		"en_text": "<color=#f0df60>Need help?</color>\nThe next randomly selected\nloading screen tip might help."
+		"en_text": "<color=#f0df60>Translations!</color>\nIf you wish to see about\nhelping to translate PSO2es,\nThen visit us at github.com/PolCPP/PSO2es-Translation"
 	},
 	{
 		"assign": "0146",
 		"jp_text": "<color=#f0df60>＜コーエン博士の話＞</color>\n父の話、もっと早く話してくださいよっ！\nえっ、話そうとした？\nえーと……そうでしたっけ？　えーと……",
-		"en_text": ""
+		"en_text": "What the fuck did you just fucking say about me, you little bitch?\nI'll have you know I graduated top of my class in the Arks School of Darker Slaying,\nand I've been involved in numerous secret raids on Magatsu, and I have over 300\nconfirmed 13* drops. I am trained in guerilla Limit Breaking and I'm the\ntop TA time sniper in the entire world. You are nothing to me but just another filthy gaijin. I will wipe your dps the fuck out with precision the likes of which has never been seen before on this Earth, mark my fucking words. You think you can get away with saying that shit to me? Think again, fucker. As we speak I am contacting my secret network of Dudus across the Arks Ships and your gear is already being broken as we speak. So you better prepare for the storm, maggot. The storm that wipes out the pathetic little thing you call your wallet.You're fucking broke, kid. I can be anywhere, anytime, and I can out DPS you in over seven hundred ways, and that's just with my bare hands. Not only am I extensively trained in fighter weapons, but I have access to the entire arsenal of the CM Shop and I will use it to its full extent to wipe your miserable DPS off the face of the continent, you little shit. If you only could have known what unholy retribution your little "clever" comment was about to bring down upon you, maybe you would have held your fucking tongue. But you couldn't, you didn't, and now you're paying the price you goddamn baka. I will shit damage all over you and you will drown in it. You're fucking destitute, kiddo."
 	},
 	{
 		"assign": "0147",
@@ -742,7 +742,7 @@
 	{
 		"assign": "0148",
 		"jp_text": "<color=#f0df60>＜博士を追って遺跡へ！＞</color>\nさあ、再び遺跡エリアの探索ですよ！\n父を捜しましょう！\n表情はいつもと変わってないよう見えるでしょうが\n私は今、とても張り切っています！",
-		"en_text": ""
+		"en_text": "TL note:\nC U C K\nU\nC\nK"
 	},
 	{
 		"assign": "0149",
@@ -752,7 +752,7 @@
 	{
 		"assign": "0150",
 		"jp_text": "<color=#f0df60>＜遺跡の奥地＞</color>\n遺跡のかなり奥まで進んできました……\n登場するエネミーもかなり強力になっています。\n気をつけて進んでください。",
-		"en_text": "<color=#f0df60>Player Tips</color>\nHi pso2g!"
+		"en_text": "<color=#f0df60>Translations!</color>\nIf you wish to see about\nhelping to translate PSO2es,\nThen visit us at github.com/PolCPP/PSO2es-Translation"
 	},
 	{
 		"assign": "0151",
