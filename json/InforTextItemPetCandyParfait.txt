@@ -35,6 +35,41 @@
 		"en_explain": "A Candy for your pet.\nWhen pet and player are\nclose, damage is increased."
 	},
 	{
+		"assign": "338050000",
+		"jp_text": "ぎゃくてんパフェ",
+		"en_text": "Reversal Parfait",
+		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが１／４以下の時\nダメージが上昇する。",
+		"en_explain": "A Candy for your pet.\nWhen Pet HP is less than 1/4\nof its max HP, damage is increased."
+	},
+	{
+		"assign": "338060000",
+		"jp_text": "ぎゃくてんパフェ＋１",
+		"en_text": "Reversal Parfait+1",
+		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが１／４以下の時\nダメージが上昇する。",
+		"en_explain": "A Candy for your pet.\nWhen Pet HP is less than 1/4\nof its max HP, damage is increased."
+	},
+	{
+		"assign": "338070000",
+		"jp_text": "ぎゃくてんパフェ＋２",
+		"en_text": "Reversal Parfait+2",
+		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが１／４以下の時\nダメージが上昇する。",
+		"en_explain": "A Candy for your pet.\nWhen Pet HP is less than 1/4\nof its max HP, damage is increased."
+	},
+	{
+		"assign": "338080000",
+		"jp_text": "ぎゃくてんパフェ＋３",
+		"en_text": "Reversal Parfait+3",
+		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが１／４以下の時\nダメージが上昇する。",
+		"en_explain": "A Candy for your pet.\nWhen Pet HP is less than 1/4\nof its max HP, damage is increased."
+	},
+	{
+		"assign": "338090000",
+		"jp_text": "ぎゃくてんパフェ＋４",
+		"en_text": "Reversal Parfait+4",
+		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが１／４以下の時\nダメージが上昇する。",
+		"en_explain": "A Candy for your pet.\nWhen Pet HP is less than 1/4\nof its max HP, damage is increased."
+	},
+	{
 		"assign": "3380100000",
 		"jp_text": "はりきりパフェ",
 		"en_text": "Spirited Parfait",
@@ -175,6 +210,41 @@
 		"en_explain": "A Candy for your pet.\nIncreases damage dealt\nto powerful foes."
 	},
 	{
+		"assign": "3380400000",
+		"jp_text": "たっぷりパフェ",
+		"en_text": "Complete Parfait",
+		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが６０％以上の時に\n与えるダメージが増加する。",
+		"en_explain": "A Candy for your Pet.\nWhen Pet HP is 60%\nor higher, damage is increased."
+	},
+	{
+		"assign": "3380410000",
+		"jp_text": "たっぷりパフェ＋１",
+		"en_text": "Complete Parfait+1",
+		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが６０％以上の時に\n与えるダメージが増加する。",
+		"en_explain": "A Candy for your Pet.\nWhen Pet HP is 60%\nor higher, damage is increased."
+	},
+	{
+		"assign": "3380420000",
+		"jp_text": "たっぷりパフェ＋２",
+		"en_text": "Complete Parfait+2",
+		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが６０％以上の時に\n与えるダメージが増加する。",
+		"en_explain": "A Candy for your Pet.\nWhen Pet HP is 60%\nor higher, damage is increased."
+	},
+	{
+		"assign": "3380430000",
+		"jp_text": "たっぷりパフェ＋３",
+		"en_text": "Complete Parfait+3",
+		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが６０％以上の時に\n与えるダメージが増加する。",
+		"en_explain": "A Candy for your Pet.\nWhen Pet HP is 60%\nor higher, damage is increased."
+	},
+	{
+		"assign": "3380440000",
+		"jp_text": "たっぷりパフェ＋４",
+		"en_text": "Complete Parfait+4",
+		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが６０％以上の時に\n与えるダメージが増加する。",
+		"en_explain": "A Candy for your Pet.\nWhen Pet HP is 60%\nor higher, damage is increased."
+	},
+	{
 		"assign": "3380450000",
 		"jp_text": "がむしゃらパフェ",
 		"en_text": "Daredevil Parfait",
@@ -243,5 +313,40 @@
 		"en_text": "Blast Parfait+4",
 		"jp_explain": "ペット用のキャンディー。\nフォトンブラストゲージに応じて\nペットの攻撃威力が変動する。",
 		"en_explain": "A Candy for your pet.\nIncreases Pet damage in proportion\nto Photon Blast Gauge level."
+	},
+	{
+		"assign": "3380900000",
+		"jp_text": "アルティメットパフェ",
+		"en_text": "Ultimate Parfait",
+		"jp_explain": "ペット用のキャンディー。\nペットが世壊種に与える\nダメージが上昇する。",
+		"en_explain": "A Candy for your pet.\nBoost Pet damage against aberrations."
+	},
+	{
+		"assign": "3380910000",
+		"jp_text": "アルティメットパフェ＋１",
+		"en_text": "Ultimate Parfait+1",
+		"jp_explain": "ペット用のキャンディー。\nペットが世壊種に与える\nダメージが上昇する。",
+		"en_explain": "A Candy for your pet.\nBoost Pet damage against aberrations."
+	},
+	{
+		"assign": "3380920000",
+		"jp_text": "アルティメットパフェ＋２",
+		"en_text": "Ultimate Parfait+2",
+		"jp_explain": "ペット用のキャンディー。\nペットが世壊種に与える\nダメージが上昇する。",
+		"en_explain": "A Candy for your pet.\nBoost Pet damage against aberrations."
+	},
+	{
+		"assign": "3380930000",
+		"jp_text": "アルティメットパフェ＋３",
+		"en_text": "Ultimate Parfait+3",
+		"jp_explain": "ペット用のキャンディー。\nペットが世壊種に与える\nダメージが上昇する。",
+		"en_explain": "A Candy for your pet.\nBoost Pet damage against aberrations."
+	},
+	{
+		"assign": "3380940000",
+		"jp_text": "アルティメットパフェ＋４",
+		"en_text": "Ultimate Parfait+4",
+		"jp_explain": "ペット用のキャンディー。\nペットが世壊種に与える\nダメージが上昇する。",
+		"en_explain": "A Candy for your pet.\nBoost Pet damage against aberrations."
 	}
 ]

@@ -751,32 +751,32 @@
 	},
 	{
 		"assign": "951",
-		"jp_text": "-",
+		"jp_text": "氷の両剣 激化",
 		"en_text": ""
 	},
 	{
 		"assign": "952",
-		"jp_text": "-",
+		"jp_text": "氷の両剣 激化＋",
 		"en_text": ""
 	},
 	{
 		"assign": "953",
-		"jp_text": "-",
+		"jp_text": "風の鋼拳 激化",
 		"en_text": ""
 	},
 	{
 		"assign": "954",
-		"jp_text": "-",
+		"jp_text": "風の鋼拳 激化＋",
 		"en_text": ""
 	},
 	{
 		"assign": "955",
-		"jp_text": "-",
+		"jp_text": "風の銃剣 激化",
 		"en_text": ""
 	},
 	{
 		"assign": "956",
-		"jp_text": "-",
+		"jp_text": "風の銃剣 激化＋",
 		"en_text": ""
 	},
 	{
@@ -791,12 +791,12 @@
 	},
 	{
 		"assign": "959",
-		"jp_text": "炎の大砲 激化",
+		"jp_text": "-",
 		"en_text": ""
 	},
 	{
 		"assign": "960",
-		"jp_text": "炎の大砲 激化＋",
+		"jp_text": "-",
 		"en_text": ""
 	},
 	{
@@ -831,22 +831,22 @@
 	},
 	{
 		"assign": "967",
-		"jp_text": "-",
+		"jp_text": "風の魔装脚 激化",
 		"en_text": ""
 	},
 	{
 		"assign": "968",
-		"jp_text": "-",
+		"jp_text": "風の魔装脚 激化＋",
 		"en_text": ""
 	},
 	{
 		"assign": "969",
-		"jp_text": "炎の飛翔剣 激化",
+		"jp_text": "-",
 		"en_text": ""
 	},
 	{
 		"assign": "970",
-		"jp_text": "炎の飛翔剣 激化＋",
+		"jp_text": "-",
 		"en_text": ""
 	},
 	{
@@ -911,12 +911,12 @@
 	},
 	{
 		"assign": "983",
-		"jp_text": "-",
+		"jp_text": "氷の銃剣 激化",
 		"en_text": ""
 	},
 	{
 		"assign": "984",
-		"jp_text": "-",
+		"jp_text": "氷の銃剣 激化＋",
 		"en_text": ""
 	},
 	{
@@ -931,12 +931,12 @@
 	},
 	{
 		"assign": "987",
-		"jp_text": "-",
+		"jp_text": "氷の大砲 激化",
 		"en_text": ""
 	},
 	{
 		"assign": "988",
-		"jp_text": "-",
+		"jp_text": "氷の大砲 激化＋",
 		"en_text": ""
 	},
 	{
@@ -961,12 +961,12 @@
 	},
 	{
 		"assign": "993",
-		"jp_text": "-",
+		"jp_text": "風の強弓 激化",
 		"en_text": ""
 	},
 	{
 		"assign": "994",
-		"jp_text": "-",
+		"jp_text": "風の強弓 激化＋",
 		"en_text": ""
 	},
 	{
@@ -2010,6 +2010,16 @@
 		"en_text": ""
 	},
 	{
+		"assign": "1913",
+		"jp_text": "-",
+		"en_text": ""
+	},
+	{
+		"assign": "1914",
+		"jp_text": "-",
+		"en_text": ""
+	},
+	{
 		"assign": "1921",
 		"jp_text": "ゼロディスタンス２（大砲/光）",
 		"en_text": "ゼロディスタンス２（大砲）"
@@ -2027,6 +2037,16 @@
 	{
 		"assign": "1924",
 		"jp_text": "スフィアイレイザー２＋（大砲/闇）",
+		"en_text": ""
+	},
+	{
+		"assign": "1933",
+		"jp_text": "クラッカーバレット２（大砲/風）",
+		"en_text": ""
+	},
+	{
+		"assign": "1934",
+		"jp_text": "クラッカーバレット２＋（大砲/風）",
 		"en_text": ""
 	},
 	{
@@ -2090,6 +2110,16 @@
 		"en_text": ""
 	},
 	{
+		"assign": "1953",
+		"jp_text": "クラッカーバレット３（大砲/氷）",
+		"en_text": ""
+	},
+	{
+		"assign": "1954",
+		"jp_text": "クラッカーバレット３＋（大砲/氷）",
+		"en_text": ""
+	},
+	{
 		"assign": "1963",
 		"jp_text": "スフィアイレイザーＥＸ（大砲/光）",
 		"en_text": "Sphere Eraser EX (PA/Light)"
@@ -2098,6 +2128,16 @@
 		"assign": "1964",
 		"jp_text": "スフィアイレイザーＥＸ＋（大砲/光）",
 		"en_text": "Sphere Eraser EX+ (PA/Light)"
+	},
+	{
+		"assign": "1973",
+		"jp_text": "クラッカーバレットＥＸ（大砲/雷）",
+		"en_text": ""
+	},
+	{
+		"assign": "1974",
+		"jp_text": "クラッカーバレットＥＸ＋（大砲/雷）",
+		"en_text": ""
 	},
 	{
 		"assign": "2001",
@@ -2228,6 +2268,16 @@
 		"assign": "2104",
 		"jp_text": "サクラエンド１＋（抜剣/氷）",
 		"en_text": "Sakura-end 1+ (PA/Ice)"
+	},
+	{
+		"assign": "2113",
+		"jp_text": "グレンテッセン１（抜剣/闇）",
+		"en_text": ""
+	},
+	{
+		"assign": "2114",
+		"jp_text": "グレンテッセン１＋（抜剣/闇）",
+		"en_text": ""
 	},
 	{
 		"assign": "2121",
@@ -3138,6 +3188,16 @@
 		"assign": "4194",
 		"jp_text": "ギ・バータＥＸ＋（氷の法術）",
 		"en_text": "Gibarta EX+ (Technique)"
+	},
+	{
+		"assign": "4195",
+		"jp_text": "-",
+		"en_text": ""
+	},
+	{
+		"assign": "4196",
+		"jp_text": "-",
+		"en_text": ""
 	},
 	{
 		"assign": "4201",
