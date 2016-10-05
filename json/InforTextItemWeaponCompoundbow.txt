@@ -1,856 +1,856 @@
 [
-  {
-    "assign": "115000000",
-    "jp_text": "バレットボウ",
-    "en_text": "Bullet Bow",
-    "jp_explain": "アークスで正式採用されている強弓。\n武器工学の粋を結集し、新感覚の設計で\n広く普及したロールモデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "115010000",
-    "jp_text": "アルバボウ",
-    "en_text": "Alva Bow",
-    "jp_explain": "アークスで使用される改良型強弓。\n命中精度を高めるために部材が一点一点\n強化され、安定性が向上した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "115020000",
-    "jp_text": "ヴィタボウ",
-    "en_text": "Vita Bow",
-    "jp_explain": "基礎モデルに改良を加えた強弓。\n設計の見直しにより部品を減らし\nよりコンパクトな作りになった。",
-    "en_explain": ""
-  },
-  {
-    "assign": "115090000",
-    "jp_text": "クワドラプト",
-    "en_text": "Quadrapt",
-    "jp_explain": "アークスで正式採用されている強弓。\n４つの足が伸びたような特殊な形状から\nその名がついた次世代モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150100000",
-    "jp_text": "アルバクワドラプト",
-    "en_text": "Alva Quadrapt",
-    "jp_explain": "アークスで使用される改良型強弓。\n従来より大きな弧から放たれる矢は\n攻撃力が大きく向上した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150110000",
-    "jp_text": "ヴィタクワドラプト",
-    "en_text": "Vita Quadrapt",
-    "jp_explain": "基礎モデルに改良を加えた強弓。\n命中精度を高めるフォトンセンサーを\n２本配列した同型の最上級モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150120000",
-    "jp_text": "アルクレイ",
-    "en_text": "Arkray",
-    "jp_explain": "アークスで正式採用されている強弓。\n弓を軽く矢を重く、というオーダーを\nクリアした次世代モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150130000",
-    "jp_text": "アルバアルクレイ",
-    "en_text": "Alva Arkray",
-    "jp_explain": "アークスで使用される改良型強弓。\nフォトンヘッドを随所に配置した特殊\n加工で、命中精度が飛躍的に向上した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150140000",
-    "jp_text": "ヴィタアルクレイ",
-    "en_text": "Vita Arkray",
-    "jp_explain": "基礎モデルに改良を加えた強弓。\nフォトンヘッドとフォトンセンサーを\nダブルで搭載した試作モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150150000",
-    "jp_text": "赤のバレットボウ",
-    "en_text": "Red Bullet Bow",
-    "jp_explain": "試験的にカラーリングを\nシンボリックにした強弓。\n目映い赤色は必然的に目を引く。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150160000",
-    "jp_text": "青のバレットボウ",
-    "en_text": "Blue Bullet Bow",
-    "jp_explain": "試験的にカラーリングを\nシンボリックにした強弓。\n目映い青色は必然的に目を引く。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150170000",
-    "jp_text": "タービュラス",
-    "en_text": "Turbulas",
-    "jp_explain": "女子アークスに広くアピールすべく\nデザインと配色にこだわった強弓。\nもちろん攻撃力も折紙付き。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150180000",
-    "jp_text": "ディオタービュラス",
-    "en_text": "Dio Turbulas",
-    "jp_explain": "デザインと配色にこだわり、フォトンの\n消費効率を上げた強弓。次期主力候補と\n噂され、抜群の操作性能を誇る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150190000",
-    "jp_text": "ラムダタービュラス",
-    "en_text": "Lambda Turbulas",
-    "jp_explain": "デザインと配色に、さらなるこだわりを\n求めたデザイナーズ強弓。機能的な\nフォルムながら一般に浸透しなかった。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150200000",
-    "jp_text": "ティグリボウ",
-    "en_text": "Tigrebow",
-    "jp_explain": "全体をフォトンコートした強弓。\n細部にわたる入念なコーティングで\n矢に伝わる力の減衰を最小限にした。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150210000",
-    "jp_text": "ラムダティグリボウ",
-    "en_text": "Lambda Tigrebow",
-    "jp_explain": "全体をフォトンコートした強弓。\n従来よりフォトン含有量が増加され\n攻撃力も著しく増強された。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150220000",
-    "jp_text": "ディオティグリボウ",
-    "en_text": "Dio Tigrebow",
-    "jp_explain": "全体をフォトンコートした強弓。\nフォトン減衰しにくい新技法の採用で\n強い攻撃力が長く持続される。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150230000",
-    "jp_text": "ビッグロウ",
-    "en_text": "Bigglow",
-    "jp_explain": "シンプルな構造で攻撃効率を追求した\n強弓。ごく少数が限定試作されたが\n一部で根強い人気を持つ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150240000",
-    "jp_text": "ディオビッグロウ",
-    "en_text": "Dio Bigglow",
-    "jp_explain": "シンプルな構造で攻撃効率を追求した\n強弓。試作品のため故障が頻発し\n数少ない良品が高額で取引されている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150250000",
-    "jp_text": "ラムダビッグロウ",
-    "en_text": "Lambda Bigglow",
-    "jp_explain": "シンプルな構造で攻撃効率を追求した\n強弓。フォトン固着素材が採算度外視で\nふんだんに使われ、ごく少数が流通。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150260000",
-    "jp_text": "フィリアス",
-    "en_text": "Phileas",
-    "jp_explain": "小型化と軽量化を追求した試作の強弓。\n抜群の攻撃力を誇るが、使い勝手が悪く\nそれほど流通せず稀少価値が増した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150270000",
-    "jp_text": "ラムダフィリアス",
-    "en_text": "Lambda Phileas",
-    "jp_explain": "小型化と軽量化を追求した試作の強弓。\n基礎モデルの攻撃力そのままに扱いが\n容易になり、多くの使用者を魅了した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150290000",
-    "jp_text": "フォーヴ",
-    "en_text": "Fauve",
-    "jp_explain": "量産を前提に開発されながら実用化に\n至らなかった強弓。汎用パーツのみで\n構成されたがコストオーバーしたため。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150300000",
-    "jp_text": "ラムダフォーヴ",
-    "en_text": "Lambda Fauve",
-    "jp_explain": "汎用パーツのみで構成された強弓。\n大幅なコストダウンに成功し、攻撃力も\n充分ながら、出荷数が少なかった。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150320000",
-    "jp_text": "ベルドレア",
-    "en_text": "Beldrea",
-    "jp_explain": "新開発のフォトンコート技術により\n柔軟性が向上した強弓。標的を正確に\n捉え、精度の高い攻撃を保証する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150330000",
-    "jp_text": "ラムダベルドレア",
-    "en_text": "Lambda Beldrea",
-    "jp_explain": "フォトンコートで柔軟性が向上した\n強弓。フォトンセンサーの改良により\n標的の捕捉率性能が改善された。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150340000",
-    "jp_text": "ディオベルドレア",
-    "en_text": "Dio Beldrea",
-    "jp_explain": "フォトンコートで柔軟性が向上した\n強弓。破損しにくい構造で、長時間の\n連続使用に耐える抜群の安定性を誇る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150350000",
-    "jp_text": "ナヴトルス",
-    "en_text": "Navtors",
-    "jp_explain": "金属製のフレームで作成された強弓。\n電流が走っているような弦が特徴的。\n飛距離が長く、命中率も高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150360000",
-    "jp_text": "ステルトルス",
-    "en_text": "Stelltor",
-    "jp_explain": "金属製のフレームで作成された強弓。\n射手の負担も大きくなったが、貫通力を\n上げるため、弦を調整した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150380000",
-    "jp_text": "ロングボウ",
-    "en_text": "Longbow",
-    "jp_explain": "フォトン加速機を備えた強弓。\n初心者が扱うにはうってつけの\n性能となっている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150390000",
-    "jp_text": "アロウシューター",
-    "en_text": "Arrow Shooter",
-    "jp_explain": "フォトン加速機を備えた強弓。\n上級者向けの細かな調整を施し\n性能を向上させている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150400000",
-    "jp_text": "ティラールク",
-    "en_text": "Tillarc",
-    "jp_explain": "フォトン加速機を備えた強弓。\n初期設定を見直し、フォトンの\n集中率を高めている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150410000",
-    "jp_text": "ボウゲンシー-NT",
-    "en_text": "Bowgency-NT",
-    "jp_explain": "フォトン加速機を備えた強弓。\n独自に設計されたリアクターが強度と\n命中精度を飛躍的に高めた人気の品。",
-    "en_explain": "A Bullet Bow with a\nphoton reactor, providing\ngreater durability and accuracy."
-  },
-  {
-    "assign": "1150440000",
-    "jp_text": "アルテイリ",
-    "en_text": "Alteri",
-    "jp_explain": "美しいフォルムが人気の強弓。\n伝統的な形状をしており、\n初心者向けに調整されている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150450000",
-    "jp_text": "ダルテイリ",
-    "en_text": "Dalteri",
-    "jp_explain": "美しいフォルムが人気の強弓。\nフォトンリアクターが搭載され\nエネルギー変換効率が良いのが特徴。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150460000",
-    "jp_text": "コヌパダリ",
-    "en_text": "Compadri",
-    "jp_explain": "美しいフォルムが人気の強弓。\nリアクター出力を強化し、\nより高性能にチューンした中級者向け。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150470000",
-    "jp_text": "リカルバリ",
-    "en_text": "Rikalbari",
-    "jp_explain": "美しいフォルムが人気の強弓。\n高性能な大容量リアクターを持つが、\n安定させるには高い技術が要求される。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150500000",
-    "jp_text": "ハンマテリ",
-    "en_text": "Hanmateri",
-    "jp_explain": "上級者向け高性能高級強弓。\n美しいフォルムの内に非常に\n高い性能を秘めている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150530000",
-    "jp_text": "ヒロクテリ",
-    "en_text": "Hirokteri",
-    "jp_explain": "大容量フォトンリアクターを搭載した\n超高級カスタム強弓。美しいフォルムの\n内に激烈な攻撃力を秘める。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150540000",
-    "jp_text": "リカウテリ",
-    "en_text": "Rikauteri",
-    "jp_explain": "最高級フォトンリアクターでしか\n作れないフォトンアローが人気の\n超高級限定生産型強弓。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150550000",
-    "jp_text": "ナスヨテリ",
-    "en_text": "Nasuyoteri",
-    "jp_explain": "職人の手で作られた強弓。\n一撃で天災級の破壊をもたらすと\n言われている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150560000",
-    "jp_text": "エーデル・アーロ",
-    "en_text": "Edel Arrow",
-    "jp_explain": "高貴な者しか持つ事を許されない強弓。\n瞬きよりも早く射抜くため\n標的にその輝きが届くことはない。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150570000",
-    "jp_text": "サザンクロス",
-    "en_text": "Southern Cross",
-    "jp_explain": "哀しい運命を背負った戦士が土壇場で\n使用するという強弓。その怒りの力に\nよって敵は成す術もなく散っていく。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150590000",
-    "jp_text": "メタルアーク",
-    "en_text": "Metal Arc",
-    "jp_explain": "新型ジェネレーターを搭載した鋼の強弓。\n弓の両端までフォトンを送り込むため\n放たれる矢は弓と同じ形状になる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150600000",
-    "jp_text": "ハードリカーブ",
-    "en_text": "Hard Recurve",
-    "jp_explain": "鋭利なパーツを複雑に組み合わせた\n強弓。弦を引くことでパーツが展開し\n強力な矢を放つフォルムとなる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150610000",
-    "jp_text": "ソリッドリカーブ",
-    "en_text": "Solid Ricurve",
-    "jp_explain": "鋭利なパーツを複雑に組み合わせた\n強弓。展開構造の接合部を調整し\n威力を向上させた改良モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150630000",
-    "jp_text": "スサノヒキ",
-    "en_text": "Susano Hiki",
-    "jp_explain": "古来より伝承された由緒正しき儀礼服に\nよく似合うと評判の強弓。縁起の良い\n飾り結びを矢に施し平和と安寧を祈る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150640000",
-    "jp_text": "スサノシナリ",
-    "en_text": "Susano Shinari",
-    "jp_explain": "古来より伝承された由緒正しき儀礼服に\nよく似合うと評判の強弓。波打つ形状は\n美しく、装者の雅な心を呼び覚ます。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150660000",
-    "jp_text": "ネブラウィンド",
-    "en_text": "Nebula Wind",
-    "jp_explain": "メリハリのあるカラーリングが\n特徴的な強弓。高いレベルでまとまった\n性能と、扱いやすさが人気の秘密。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150670000",
-    "jp_text": "コリスウィンド",
-    "en_text": "Collis Wind",
-    "jp_explain": "メリハリのあるカラーリングが\n特徴的な強弓。暖色系を主体とした\n存在感のある見た目は、人気が高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150750000",
-    "jp_text": "ブルールフルード",
-    "en_text": "Brule Fluid",
-    "jp_explain": "流水の力を宿した強弓。\n弓自体に流れる水のようなフォトンが\n光を受けて、虹色に発光している。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150760000",
-    "jp_text": "ナナイトフルード",
-    "en_text": "Nanite Fluid",
-    "jp_explain": "流水の力を宿した強弓。\n弓矢双方に付与された流水のような\nフォトンによって、威力を高めている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150770000",
-    "jp_text": "カーレットフルード",
-    "en_text": "Carlet Fluid",
-    "jp_explain": "流水の力を宿した強弓。\n薄暮のように赤く染まったフォトンは\n放たれる矢の威力を高めるという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150780000",
-    "jp_text": "天河一位",
-    "en_text": "Tenkawa Ichii",
-    "jp_explain": "引き絞られたその弓は、天に浮かぶ\n星すら射貫くといわれる強弓。\n不思議な力を持つ樹を素材として利用。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150800000",
-    "jp_text": "リカウテリ／リヒト",
-    "en_text": "Rikauteri / Licht",
-    "jp_explain": "白夜の色を抱く強弓。 \n出自の仔細は不明だが、性能は高く\n全クラス装備可能な、特殊な武器。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150810000",
-    "jp_text": "ヒロクテリ／リヒト",
-    "en_text": "Hirokteri / Licht",
-    "jp_explain": "白夜の色を抱く強弓。 \n出自の仔細は不明だが、性能は高く\n全クラス装備可能な、特殊な武器。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150840000",
-    "jp_text": "神撃ライコウ",
-    "en_text": "Divine Raikou",
-    "jp_explain": "無限の力を秘めた強弓。装者は\n弓に宿った二神に加護される。\n放たれた矢は雷を纏って中空を舞う。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150850000",
-    "jp_text": "フチセフウエン",
-    "en_text": "Fuchisefuuen",
-    "jp_explain": "蒸気エネルギーで効能を増幅した強弓。\n弦を引く力の強弱を自在に調整可能。\n専用の矢は安定した重金属を採用した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150880000",
-    "jp_text": "フォートバスター",
-    "en_text": "Fort Buster",
-    "jp_explain": "機械工学にのっとり、もっとも力を\n伝導しやすい形にくみ上げられた強弓。\n堅実な性能で、人気が高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150890000",
-    "jp_text": "アルクスバスター",
-    "en_text": "Arcus Buster",
-    "jp_explain": "機械工学に基づいて設計された強弓。\nフォトンをなじませたフレームは\n紅色を帯び、より強固になっている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150900000",
-    "jp_text": "フルリオバスター",
-    "en_text": "Flurio Buster",
-    "jp_explain": "機械工学の理論に従い設計された強弓。\nフレームの強化に使われたフォトンが\n青く浮かび、性能を底上げしている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150910000",
-    "jp_text": "バイオベルド",
-    "en_text": "Bio Beld",
-    "jp_explain": "最先端の生体工学を応用し開発された\n強弓。弓、矢、矢筒すべてに充填された\nフォトンの介在により機能連携する。",
-    "en_explain": "A Bullet Bow made from a State of\nthe Art Bio-engineering application process,\nit's composed entirely of photons."
-  },
-  {
-    "assign": "1150920000",
-    "jp_text": "ライブベルド",
-    "en_text": "Live Beld",
-    "jp_explain": "最先端の生体工学を応用し開発された\n強弓。高純度培養液が矢の射出直前まで\n機能向上を促し破壊力を高める。",
-    "en_explain": "A Bullet Bow made from a State of\nthe Art Bio-engineering application process, it's\nphotons were enhanced by a pure source in material."
-  },
-  {
-    "assign": "1150940000",
-    "jp_text": "クスフサ",
-    "en_text": "Kusouffsa",
-    "jp_explain": "パティシエが宣伝用に製作した強弓。\n可愛らしく装飾されたデザインが\n人気の品。やや脆い部分がある。",
-    "en_explain": "A Bullet Bow in the form of a\npastry. Popular and Pretty, it's somewhat fragile."
-  },
-  {
-    "assign": "1150960000",
-    "jp_text": "ダールボーデン",
-    "en_text": "Darl Bowden",
-    "jp_explain": "ダーカーが使用する装備を解析し\nアークス仕様に再設計された強弓。\nＹ字状に張られた弦が最大出力を保証。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150970000",
-    "jp_text": "クラテルアーチェ",
-    "en_text": "Crater Arche",
-    "jp_explain": "局地戦闘用に気密性を高めた防護服との\n相性がいい強弓。十字形状に展開して\n使用する大型の弓身は防御にも効果的。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150980000",
-    "jp_text": "ヒュリオロア",
-    "en_text": "Hurio Roar",
-    "jp_explain": "鋭く研ぎ澄まされたフォルムを追求する\nキャストに人気の強弓。フルオートで\n高威力のフォトンアローを射出可能。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1150990000",
-    "jp_text": "アーレスボウ",
-    "en_text": "Ares Bow",
-    "jp_explain": "戦士の幻獣の力を宿した強弓。装者に\nフォトンブラストの効果で挫けぬ力を\n与え、敵を圧倒する矢を放たせる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501020000",
-    "jp_text": "ステルスウェポン：ＢＷ",
-    "en_text": "Stealth Weapon: BW",
-    "jp_explain": "ダミー１０２",
-    "en_explain": "Unknown Weapon.\nSeems to be in the shape of\na Bullet Bow."
-  },
-  {
-    "assign": "11501080000",
-    "jp_text": "クラテルダート",
-    "en_text": "Crater Dart",
-    "jp_explain": "局地戦闘用に気密性を高めた防護服との\n相性がいい強弓。長い矢を収める矢筒も\n大型だが、使用者の背面防護に役立つ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501110000",
-    "jp_text": "ヒュリオローキ",
-    "en_text": "Hurio Loqi",
-    "jp_explain": "鋭く研ぎ澄まされたフォルムを追求する\nキャストに人気の強弓。グリップ保護の\n三枚刃は同時に水平を完全制御する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501120000",
-    "jp_text": "ビブラスボウ",
-    "en_text": "Vibras Bow",
-    "jp_explain": "ダーク・ビブラスの外骨格を加工して\n作られた強弓。素材の外骨格を細かく\n複雑に組み合わせたデザインが特徴的。",
-    "en_explain": "A Bullet Bow made by processing the\nexoskeleton of Dark Vibrace. The distinctive\nmaterial in the exoskeleton\nmade for a complex design."
-  },
-  {
-    "assign": "11501130000",
-    "jp_text": "ダルスバーレイ",
-    "en_text": "Dalz Varley",
-    "jp_explain": "ダークファルスの身体機能を武器として\n使用可能にした強弓。Ｘ字状に張られた\n弦から射られる矢の威力は脅威的。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501140000",
-    "jp_text": "テネルフター",
-    "en_text": "Tenelfter",
-    "jp_explain": "フォトンの吸収が効率的になるように\nデザインされた強弓。斬新な形状が\n特徴的だが、操作性がやや悪い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501160000",
-    "jp_text": "レウィスルフター",
-    "en_text": "Revisulfter",
-    "jp_explain": "フォトンの吸収が効率的になるように\nデザインされた強弓。全体的に軽量化し\n携行性を高めた新型モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501170000",
-    "jp_text": "マーシー・オブ・リリーパ",
-    "en_text": "Mercy of Lillipa",
-    "jp_explain": "イクリプストーチの炎で鍛えられた\n伝説の強弓。別名トライブ・ライア。\n強力なフォトンアローを撃ち出す。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501190000",
-    "jp_text": "ファーレンフレイン",
-    "en_text": "Fahrenfrein",
-    "jp_explain": "大勢のためでなく、ただひとりのために\n刀匠ジグが創り上げた強弓。\nそれは、彼の情熱の結晶。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501220000",
-    "jp_text": "ルビラウス",
-    "en_text": "Rubirauss",
-    "jp_explain": "宇宙という海原を駆け巡るにふさわしい\n強弓。弦が鎖になっており、射手の\n負担も大きいが、驚異的な威力を放つ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501240000",
-    "jp_text": "ルビレディーン",
-    "en_text": "Rubiledean",
-    "jp_explain": "宇宙という海原を駆け巡るにふさわしい\n強弓。専用の補助機能がついており\n少ない負担で高威力の矢を放てる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501250000",
-    "jp_text": "新光鋼弓",
-    "en_text": "Pristine Steel Bow",
-    "jp_explain": "伝承上の大国の意匠を模した強弓。\n伝統的な手法で束ねられた弦が\n使用されており、非常に強力。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501310000",
-    "jp_text": "エーデルイーオー",
-    "en_text": "Edel Io",
-    "jp_explain": "イオが設計改良に携わった強弓。\n基礎設計から大胆にカスタマイズされ\n非常に高い実用性を誇る。",
-    "en_explain": "Io's customized Bullet Bow.\nBoldly modified from it's basic design,\nit's very high in practical use."
-  },
-  {
-    "assign": "11501330000",
-    "jp_text": "テイトウツヅミ",
-    "en_text": "Teitou Tsuzumi",
-    "jp_explain": "夏祭りを満喫するべく作られた強弓。\n矢が炸裂すると広がる花火は美しく\n風流だが、当たると大変痛い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501350000",
-    "jp_text": "ハクミナリ",
-    "en_text": "Hakuminari",
-    "jp_explain": "耐久性の高い素材で作られた強弓。\n射手の技量に影響されづらい弓を目標に\n設計された。引きやすい弦が特徴。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501380000",
-    "jp_text": "フブキジュウキ",
-    "en_text": "Fubuki Juuki",
-    "jp_explain": "華やかに彩られた弓が特徴的な強弓。\n結われている大きな紐と弦はフォトンに\nよって硬化する素材で出来ている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501410000",
-    "jp_text": "ギグルカーシ",
-    "en_text": "Gigur Kashi",
-    "jp_explain": "黒の民ギグル・グンネガムの鎧を\n加工した強弓。素材は鎧だが\nどこか生体的な雰囲気を持っている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501430000",
-    "jp_text": "ネメシスフェザー",
-    "en_text": "Nemesis Feather",
-    "jp_explain": "古の時代に封印された聖なる強弓。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501440000",
-    "jp_text": "スレイヴフェザー",
-    "en_text": "Slave Feather",
-    "jp_explain": "古の時代に封印された邪なる強弓。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501450000",
-    "jp_text": "ガーンデーヴァ",
-    "en_text": "Gandiva",
-    "jp_explain": "失われし宝具を機械的に再現した強弓。\nその威力はあまりに強力で、真の実力を\n持つ者のみが弓を引くことが出来る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501480000",
-    "jp_text": "白雉春光",
-    "en_text": "Shirokiji Shunkou",
-    "jp_explain": "新しい季節の始まりを祝し、制作された\n儀礼用の強弓。満開の桜に止まる鳥が\n見事に再現された逸品。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501490000",
-    "jp_text": "ハマノゲンシ",
-    "en_text": "Hamano Genshi",
-    "jp_explain": "古来より伝わる由緒正しき強弓。\n弓にこめられた言霊の力は、番えた\n矢にも伝わり、強力な一撃となる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501520000",
-    "jp_text": "バレヌコレト",
-    "en_text": "Baren Coleto",
-    "jp_explain": "巨大なバックパックが特徴的な強弓。\nタンクにはフォトンの備蓄が可能で\n高いエネルギー効率を有している。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501580000",
-    "jp_text": "イデアルシューター",
-    "en_text": "Ideal Shooter",
-    "jp_explain": "新開発のフォトンジェネレーターを\n搭載した強弓。発せられる\nフォトンの輝きは次代の証とされる。",
-    "en_explain": "A Bullet Bow with a new\nPhoton Generator. Witness its next\ngeneration shine."
-  },
-  {
-    "assign": "11501610000",
-    "jp_text": "叫喚",
-    "en_text": "Kyoukan",
-    "jp_explain": "太古の教義に従う、屈強な武僧衆が\n用いる強弓。「阿鼻」とあわせ\n罰しの武器とされる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501640000",
-    "jp_text": "グライロウ",
-    "en_text": "Glayrow",
-    "jp_explain": "大気の力を宿すといわれる強弓。\n風と雷の力をまとった矢は\n容赦なく敵をうがつ。",
-    "en_explain": "A Bullet Bow said to be harboring the\npower of the atmosphere. Its arrows\npowered by the wind and thunder."
-  },
-  {
-    "assign": "11501650000",
-    "jp_text": "グライジャダク",
-    "en_text": "Glay Jadaku",
-    "jp_explain": "大気の力を宿すといわれる強弓。\nガラスのように美しい矢の威力は高く\n硬い装甲すら容易く貫くほど。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501700000",
-    "jp_text": "ノクスレクシオ",
-    "en_text": "Nox Lexio",
-    "jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き強弓。装者も恐怖を\n抱くほどの威力を宿すという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501730000",
-    "jp_text": "リグブランチ",
-    "en_text": "Rig Branch",
-    "jp_explain": "伝説の生物を機械的に再現した強弓。\nグリップを引くと顎が開き\n矢の代わりに強力な火球を吐き出す。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501750000",
-    "jp_text": "ジグマブランチ",
-    "en_text": "Sigma Branch",
-    "jp_explain": "伝説の生物を機械的に再現した強弓。\n最大限まで高められた火力は\n装者ごと丸焦げにしかねないという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501760000",
-    "jp_text": "ガイルズオービット",
-    "en_text": "Gaels Orbit",
-    "jp_explain": "新開発のフォトンリング機構を搭載した\n強弓。展開された部品が合体し\n星をも射抜く弓へと姿を変える。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501870000",
-    "jp_text": "インヴェイドボーゲン",
-    "en_text": "Invade Bogen",
-    "jp_explain": "【深遠なる闇】より生まれし負の強弓。\n装者は非常なる辣腕を有するも\n災禍を導く扇動者となる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11501880000",
-    "jp_text": "オフスティアボーゲン",
-    "en_text": "Austere Bogen",
-    "jp_explain": "負の力を識り、制することで転化した\n浄化の強弓。装者は授けられた慧眼で\n凶悪を討ち取り、平安をきずく。",
-    "en_explain": "A Purified Bullet Bow.\nIts unparalleled prowess pierces evil\nwith its majestic power."
-  },
-  {
-    "assign": "11501890000",
-    "jp_text": "セイガーアーチャー",
-    "en_text": "Seiga Archer",
-    "jp_explain": "世界征服を企む悪の組織と戦うために\n作られた強弓。エネルギーを矢に収束し\n放つセイガーアローは悪を貫く！",
-    "en_explain": "A Bullet Bow designed to fight\nevil. It shoots energy that\nconverges onto its Seiga Arrow!"
-  },
-  {
-    "assign": "11501990000",
-    "jp_text": "アーチレボルシオ",
-    "en_text": "Arch Revolucio",
-    "jp_explain": "新開発の演算装置を搭載した強弓。\n装者の思考や戦況を分析することで\n出力を最適に保ち、負荷を軽減する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11502020000",
-    "jp_text": "アステユニコン",
-    "en_text": "Aste Unicorn",
-    "jp_explain": "伝説の生物をモチーフにした強弓。\n幻想的で美しい外観と鋭く激しい\n一撃は、まさに一角獣そのもの。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11502080000",
-    "jp_text": "ステルクイセーラ",
-    "en_text": "Stelk Isera",
-    "jp_explain": "専用エネルギータンクがついた強弓。\n射撃時に、専用エネルギーによる\n補助システムで照準のブレを軽減する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11502140000",
-    "jp_text": "レイボウ",
-    "en_text": "Ray Bow",
-    "jp_explain": "次世代の主力として開発された強弓。\n基礎モデルの直系の後継機であり\n出力、安定性共に高いスペックを誇る。",
-    "en_explain": "A Bow developed as the latest\nmodel, boasting high photon stability\nwith next-gen specifications."
-  },
-  {
-    "assign": "11502180000",
-    "jp_text": "バレットボウ-NT",
-    "en_text": "Bullet Bow-NT",
-    "jp_explain": "アークスで正式採用されている強弓。\n武器工学の粋を結集し、新感覚の設計で\n広く普及したロールモデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11502190000",
-    "jp_text": "アルバボウ-NT",
-    "en_text": "Alva Bow-NT",
-    "jp_explain": "アークスで使用される改良型強弓。\n命中精度を高めるために部材が一点一点\n強化され、安定性が向上した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11502200000",
-    "jp_text": "ヴィタボウ-NT",
-    "en_text": "Vita Bow-NT",
-    "jp_explain": "基礎モデルに改良を加えた強弓。\n設計の見直しにより部品を減らし\nよりコンパクトな作りになった。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11502210000",
-    "jp_text": "クワドラプト-NT",
-    "en_text": "Quadrapt-NT",
-    "jp_explain": "アークスで正式採用されている強弓。\n４つの足が伸びたような特殊な形状から\nその名がついた次世代モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11502220000",
-    "jp_text": "アルバクワドラプト-NT",
-    "en_text": "Alva Quadrapt-NT",
-    "jp_explain": "アークスで使用される改良型強弓。\n従来より大きな弧から放たれる矢は\n攻撃力が大きく向上した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11502230000",
-    "jp_text": "ヴィタクワドラプト-NT",
-    "en_text": "Vita Quadrapt-NT",
-    "jp_explain": "基礎モデルに改良を加えた強弓。\n命中精度を高めるフォトンセンサーを\n２本配列した同型の最上級モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11502240000",
-    "jp_text": "アルクレイ-NT",
-    "en_text": "Arkray-NT",
-    "jp_explain": "アークスで正式採用されている強弓。\n弓を軽く矢を重く、というオーダーを\nクリアした次世代モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11502250000",
-    "jp_text": "アルバアルクレイ-NT",
-    "en_text": "Alva Arkray-NT",
-    "jp_explain": "アークスで使用される改良型強弓。\nフォトンヘッドを随所に配置した特殊\n加工で、命中精度が飛躍的に向上した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11502260000",
-    "jp_text": "ヴィタアルクレイ-NT",
-    "en_text": "Vita Arkray-NT",
-    "jp_explain": "基礎モデルに改良を加えた強弓。\nフォトンヘッドとフォトンセンサーを\nダブルで搭載した試作モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11502270000",
-    "jp_text": "ビッグロウ-NT",
-    "en_text": "Bigglow-NT",
-    "jp_explain": "シンプルな構造で攻撃効率を追求した\n強弓。ごく少数が限定試作されたが\n一部で根強い人気を持つ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11502280000",
-    "jp_text": "ティグリボウ-NT",
-    "en_text": "Tigrebow-NT",
-    "jp_explain": "全体をフォトンコートした強弓。\n細部にわたる入念なコーティングで\n矢に伝わる力の減衰を最小限にした。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11502290000",
-    "jp_text": "ディオティグリボウ-NT",
-    "en_text": "Dio Tigrebow-NT",
-    "jp_explain": "全体をフォトンコートした強弓。\nフォトン減衰しにくい新技法の採用で\n強い攻撃力が長く持続される。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11502300000",
-    "jp_text": "スサノヒキ-NT",
-    "en_text": "Susano Hiki-NT",
-    "jp_explain": "古来より伝承された由緒正しき儀礼服に\nよく似合うと評判の強弓。縁起の良い\n飾り結びを矢に施し平和と安寧を祈る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11502310000",
-    "jp_text": "サザンクロス-NT",
-    "en_text": "Southern Cross-NT",
-    "jp_explain": "哀しい運命を背負った戦士が土壇場で\n使用するという強弓。その怒りの力に\nよって敵は成す術もなく散っていく。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11502320000",
-    "jp_text": "ノクスレクシオ-NT",
-    "en_text": "Nox Lexio-NT",
-    "jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き強弓。装者も恐怖を\n抱くほどの威力を宿すという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11502330000",
-    "jp_text": "ラムダビッグロウVer2",
-    "en_text": "Lambda Bigglow Ver2",
-    "jp_explain": "シンプルな構造で攻撃効率を追求した\n強弓。フォトン固着素材が採算度外視で\nふんだんに使われ、ごく少数が流通。",
-    "en_explain": ""
-  }
+	{
+		"assign": "115000000",
+		"jp_text": "バレットボウ",
+		"en_text": "Bullet Bow",
+		"jp_explain": "アークスで正式採用されている強弓。\n武器工学の粋を結集し、新感覚の設計で\n広く普及したロールモデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "115010000",
+		"jp_text": "アルバボウ",
+		"en_text": "Alva Bow",
+		"jp_explain": "アークスで使用される改良型強弓。\n命中精度を高めるために部材が一点一点\n強化され、安定性が向上した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "115020000",
+		"jp_text": "ヴィタボウ",
+		"en_text": "Vita Bow",
+		"jp_explain": "基礎モデルに改良を加えた強弓。\n設計の見直しにより部品を減らし\nよりコンパクトな作りになった。",
+		"en_explain": ""
+	},
+	{
+		"assign": "115090000",
+		"jp_text": "クワドラプト",
+		"en_text": "Quadrapt",
+		"jp_explain": "アークスで正式採用されている強弓。\n４つの足が伸びたような特殊な形状から\nその名がついた次世代モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150100000",
+		"jp_text": "アルバクワドラプト",
+		"en_text": "Alva Quadrapt",
+		"jp_explain": "アークスで使用される改良型強弓。\n従来より大きな弧から放たれる矢は\n攻撃力が大きく向上した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150110000",
+		"jp_text": "ヴィタクワドラプト",
+		"en_text": "Vita Quadrapt",
+		"jp_explain": "基礎モデルに改良を加えた強弓。\n命中精度を高めるフォトンセンサーを\n２本配列した同型の最上級モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150120000",
+		"jp_text": "アルクレイ",
+		"en_text": "Arkray",
+		"jp_explain": "アークスで正式採用されている強弓。\n弓を軽く矢を重く、というオーダーを\nクリアした次世代モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150130000",
+		"jp_text": "アルバアルクレイ",
+		"en_text": "Alva Arkray",
+		"jp_explain": "アークスで使用される改良型強弓。\nフォトンヘッドを随所に配置した特殊\n加工で、命中精度が飛躍的に向上した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150140000",
+		"jp_text": "ヴィタアルクレイ",
+		"en_text": "Vita Arkray",
+		"jp_explain": "基礎モデルに改良を加えた強弓。\nフォトンヘッドとフォトンセンサーを\nダブルで搭載した試作モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150150000",
+		"jp_text": "赤のバレットボウ",
+		"en_text": "Red Bullet Bow",
+		"jp_explain": "試験的にカラーリングを\nシンボリックにした強弓。\n目映い赤色は必然的に目を引く。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150160000",
+		"jp_text": "青のバレットボウ",
+		"en_text": "Blue Bullet Bow",
+		"jp_explain": "試験的にカラーリングを\nシンボリックにした強弓。\n目映い青色は必然的に目を引く。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150170000",
+		"jp_text": "タービュラス",
+		"en_text": "Turbulas",
+		"jp_explain": "女子アークスに広くアピールすべく\nデザインと配色にこだわった強弓。\nもちろん攻撃力も折紙付き。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150180000",
+		"jp_text": "ディオタービュラス",
+		"en_text": "Dio Turbulas",
+		"jp_explain": "デザインと配色にこだわり、フォトンの\n消費効率を上げた強弓。次期主力候補と\n噂され、抜群の操作性能を誇る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150190000",
+		"jp_text": "ラムダタービュラス",
+		"en_text": "Lambda Turbulas",
+		"jp_explain": "デザインと配色に、さらなるこだわりを\n求めたデザイナーズ強弓。機能的な\nフォルムながら一般に浸透しなかった。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150200000",
+		"jp_text": "ティグリボウ",
+		"en_text": "Tigrebow",
+		"jp_explain": "全体をフォトンコートした強弓。\n細部にわたる入念なコーティングで\n矢に伝わる力の減衰を最小限にした。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150210000",
+		"jp_text": "ラムダティグリボウ",
+		"en_text": "Lambda Tigrebow",
+		"jp_explain": "全体をフォトンコートした強弓。\n従来よりフォトン含有量が増加され\n攻撃力も著しく増強された。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150220000",
+		"jp_text": "ディオティグリボウ",
+		"en_text": "Dio Tigrebow",
+		"jp_explain": "全体をフォトンコートした強弓。\nフォトン減衰しにくい新技法の採用で\n強い攻撃力が長く持続される。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150230000",
+		"jp_text": "ビッグロウ",
+		"en_text": "Bigglow",
+		"jp_explain": "シンプルな構造で攻撃効率を追求した\n強弓。ごく少数が限定試作されたが\n一部で根強い人気を持つ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150240000",
+		"jp_text": "ディオビッグロウ",
+		"en_text": "Dio Bigglow",
+		"jp_explain": "シンプルな構造で攻撃効率を追求した\n強弓。試作品のため故障が頻発し\n数少ない良品が高額で取引されている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150250000",
+		"jp_text": "ラムダビッグロウ",
+		"en_text": "Lambda Bigglow",
+		"jp_explain": "シンプルな構造で攻撃効率を追求した\n強弓。フォトン固着素材が採算度外視で\nふんだんに使われ、ごく少数が流通。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150260000",
+		"jp_text": "フィリアス",
+		"en_text": "Phileas",
+		"jp_explain": "小型化と軽量化を追求した試作の強弓。\n抜群の攻撃力を誇るが、使い勝手が悪く\nそれほど流通せず稀少価値が増した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150270000",
+		"jp_text": "ラムダフィリアス",
+		"en_text": "Lambda Phileas",
+		"jp_explain": "小型化と軽量化を追求した試作の強弓。\n基礎モデルの攻撃力そのままに扱いが\n容易になり、多くの使用者を魅了した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150290000",
+		"jp_text": "フォーヴ",
+		"en_text": "Fauve",
+		"jp_explain": "量産を前提に開発されながら実用化に\n至らなかった強弓。汎用パーツのみで\n構成されたがコストオーバーしたため。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150300000",
+		"jp_text": "ラムダフォーヴ",
+		"en_text": "Lambda Fauve",
+		"jp_explain": "汎用パーツのみで構成された強弓。\n大幅なコストダウンに成功し、攻撃力も\n充分ながら、出荷数が少なかった。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150320000",
+		"jp_text": "ベルドレア",
+		"en_text": "Beldrea",
+		"jp_explain": "新開発のフォトンコート技術により\n柔軟性が向上した強弓。標的を正確に\n捉え、精度の高い攻撃を保証する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150330000",
+		"jp_text": "ラムダベルドレア",
+		"en_text": "Lambda Beldrea",
+		"jp_explain": "フォトンコートで柔軟性が向上した\n強弓。フォトンセンサーの改良により\n標的の捕捉率性能が改善された。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150340000",
+		"jp_text": "ディオベルドレア",
+		"en_text": "Dio Beldrea",
+		"jp_explain": "フォトンコートで柔軟性が向上した\n強弓。破損しにくい構造で、長時間の\n連続使用に耐える抜群の安定性を誇る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150350000",
+		"jp_text": "ナヴトルス",
+		"en_text": "Navtors",
+		"jp_explain": "金属製のフレームで作成された強弓。\n電流が走っているような弦が特徴的。\n飛距離が長く、命中率も高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150360000",
+		"jp_text": "ステルトルス",
+		"en_text": "Stelltor",
+		"jp_explain": "金属製のフレームで作成された強弓。\n射手の負担も大きくなったが、貫通力を\n上げるため、弦を調整した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150380000",
+		"jp_text": "ロングボウ",
+		"en_text": "Longbow",
+		"jp_explain": "フォトン加速機を備えた強弓。\n初心者が扱うにはうってつけの\n性能となっている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150390000",
+		"jp_text": "アロウシューター",
+		"en_text": "Arrow Shooter",
+		"jp_explain": "フォトン加速機を備えた強弓。\n上級者向けの細かな調整を施し\n性能を向上させている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150400000",
+		"jp_text": "ティラールク",
+		"en_text": "Tillarc",
+		"jp_explain": "フォトン加速機を備えた強弓。\n初期設定を見直し、フォトンの\n集中率を高めている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150410000",
+		"jp_text": "ボウゲンシー-NT",
+		"en_text": "Bowgency-NT",
+		"jp_explain": "フォトン加速機を備えた強弓。\n独自に設計されたリアクターが強度と\n命中精度を飛躍的に高めた人気の品。",
+		"en_explain": "A Bullet Bow with a\nphoton reactor, providing\ngreater durability and accuracy."
+	},
+	{
+		"assign": "1150440000",
+		"jp_text": "アルテイリ",
+		"en_text": "Alteri",
+		"jp_explain": "美しいフォルムが人気の強弓。\n伝統的な形状をしており、\n初心者向けに調整されている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150450000",
+		"jp_text": "ダルテイリ",
+		"en_text": "Dalteri",
+		"jp_explain": "美しいフォルムが人気の強弓。\nフォトンリアクターが搭載され\nエネルギー変換効率が良いのが特徴。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150460000",
+		"jp_text": "コヌパダリ",
+		"en_text": "Compadri",
+		"jp_explain": "美しいフォルムが人気の強弓。\nリアクター出力を強化し、\nより高性能にチューンした中級者向け。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150470000",
+		"jp_text": "リカルバリ",
+		"en_text": "Rikalbari",
+		"jp_explain": "美しいフォルムが人気の強弓。\n高性能な大容量リアクターを持つが、\n安定させるには高い技術が要求される。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150500000",
+		"jp_text": "ハンマテリ",
+		"en_text": "Hanmateri",
+		"jp_explain": "上級者向け高性能高級強弓。\n美しいフォルムの内に非常に\n高い性能を秘めている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150530000",
+		"jp_text": "ヒロクテリ",
+		"en_text": "Hirokteri",
+		"jp_explain": "大容量フォトンリアクターを搭載した\n超高級カスタム強弓。美しいフォルムの\n内に激烈な攻撃力を秘める。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150540000",
+		"jp_text": "リカウテリ",
+		"en_text": "Rikauteri",
+		"jp_explain": "最高級フォトンリアクターでしか\n作れないフォトンアローが人気の\n超高級限定生産型強弓。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150550000",
+		"jp_text": "ナスヨテリ",
+		"en_text": "Nasuyoteri",
+		"jp_explain": "職人の手で作られた強弓。\n一撃で天災級の破壊をもたらすと\n言われている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150560000",
+		"jp_text": "エーデル・アーロ",
+		"en_text": "Edel Arrow",
+		"jp_explain": "高貴な者しか持つ事を許されない強弓。\n瞬きよりも早く射抜くため\n標的にその輝きが届くことはない。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150570000",
+		"jp_text": "サザンクロス",
+		"en_text": "Southern Cross",
+		"jp_explain": "哀しい運命を背負った戦士が土壇場で\n使用するという強弓。その怒りの力に\nよって敵は成す術もなく散っていく。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150590000",
+		"jp_text": "メタルアーク",
+		"en_text": "Metal Arc",
+		"jp_explain": "新型ジェネレーターを搭載した鋼の強弓。\n弓の両端までフォトンを送り込むため\n放たれる矢は弓と同じ形状になる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150600000",
+		"jp_text": "ハードリカーブ",
+		"en_text": "Hard Recurve",
+		"jp_explain": "鋭利なパーツを複雑に組み合わせた\n強弓。弦を引くことでパーツが展開し\n強力な矢を放つフォルムとなる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150610000",
+		"jp_text": "ソリッドリカーブ",
+		"en_text": "Solid Ricurve",
+		"jp_explain": "鋭利なパーツを複雑に組み合わせた\n強弓。展開構造の接合部を調整し\n威力を向上させた改良モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150630000",
+		"jp_text": "スサノヒキ",
+		"en_text": "Susano Hiki",
+		"jp_explain": "古来より伝承された由緒正しき儀礼服に\nよく似合うと評判の強弓。縁起の良い\n飾り結びを矢に施し平和と安寧を祈る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150640000",
+		"jp_text": "スサノシナリ",
+		"en_text": "Susano Shinari",
+		"jp_explain": "古来より伝承された由緒正しき儀礼服に\nよく似合うと評判の強弓。波打つ形状は\n美しく、装者の雅な心を呼び覚ます。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150660000",
+		"jp_text": "ネブラウィンド",
+		"en_text": "Nebula Wind",
+		"jp_explain": "メリハリのあるカラーリングが\n特徴的な強弓。高いレベルでまとまった\n性能と、扱いやすさが人気の秘密。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150670000",
+		"jp_text": "コリスウィンド",
+		"en_text": "Collis Wind",
+		"jp_explain": "メリハリのあるカラーリングが\n特徴的な強弓。暖色系を主体とした\n存在感のある見た目は、人気が高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150750000",
+		"jp_text": "ブルールフルード",
+		"en_text": "Brule Fluid",
+		"jp_explain": "流水の力を宿した強弓。\n弓自体に流れる水のようなフォトンが\n光を受けて、虹色に発光している。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150760000",
+		"jp_text": "ナナイトフルード",
+		"en_text": "Nanite Fluid",
+		"jp_explain": "流水の力を宿した強弓。\n弓矢双方に付与された流水のような\nフォトンによって、威力を高めている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150770000",
+		"jp_text": "カーレットフルード",
+		"en_text": "Carlet Fluid",
+		"jp_explain": "流水の力を宿した強弓。\n薄暮のように赤く染まったフォトンは\n放たれる矢の威力を高めるという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150780000",
+		"jp_text": "天河一位",
+		"en_text": "Tenkawa Ichii",
+		"jp_explain": "引き絞られたその弓は、天に浮かぶ\n星すら射貫くといわれる強弓。\n不思議な力を持つ樹を素材として利用。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150800000",
+		"jp_text": "リカウテリ／リヒト",
+		"en_text": "Rikauteri / Licht",
+		"jp_explain": "白夜の色を抱く強弓。 \n出自の仔細は不明だが、性能は高く\n全クラス装備可能な、特殊な武器。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150810000",
+		"jp_text": "ヒロクテリ／リヒト",
+		"en_text": "Hirokteri / Licht",
+		"jp_explain": "白夜の色を抱く強弓。 \n出自の仔細は不明だが、性能は高く\n全クラス装備可能な、特殊な武器。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150840000",
+		"jp_text": "神撃ライコウ",
+		"en_text": "Divine Raikou",
+		"jp_explain": "無限の力を秘めた強弓。装者は\n弓に宿った二神に加護される。\n放たれた矢は雷を纏って中空を舞う。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150850000",
+		"jp_text": "フチセフウエン",
+		"en_text": "Fuchisefuuen",
+		"jp_explain": "蒸気エネルギーで効能を増幅した強弓。\n弦を引く力の強弱を自在に調整可能。\n専用の矢は安定した重金属を採用した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150880000",
+		"jp_text": "フォートバスター",
+		"en_text": "Fort Buster",
+		"jp_explain": "機械工学にのっとり、もっとも力を\n伝導しやすい形にくみ上げられた強弓。\n堅実な性能で、人気が高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150890000",
+		"jp_text": "アルクスバスター",
+		"en_text": "Arcus Buster",
+		"jp_explain": "機械工学に基づいて設計された強弓。\nフォトンをなじませたフレームは\n紅色を帯び、より強固になっている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150900000",
+		"jp_text": "フルリオバスター",
+		"en_text": "Flurio Buster",
+		"jp_explain": "機械工学の理論に従い設計された強弓。\nフレームの強化に使われたフォトンが\n青く浮かび、性能を底上げしている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150910000",
+		"jp_text": "バイオベルド",
+		"en_text": "Bio Beld",
+		"jp_explain": "最先端の生体工学を応用し開発された\n強弓。弓、矢、矢筒すべてに充填された\nフォトンの介在により機能連携する。",
+		"en_explain": "A Bullet Bow made from a State of\nthe Art Bio-engineering application process,\nit's composed entirely of photons."
+	},
+	{
+		"assign": "1150920000",
+		"jp_text": "ライブベルド",
+		"en_text": "Live Beld",
+		"jp_explain": "最先端の生体工学を応用し開発された\n強弓。高純度培養液が矢の射出直前まで\n機能向上を促し破壊力を高める。",
+		"en_explain": "A Bullet Bow made from a State of\nthe Art Bio-engineering application process, it's\nphotons were enhanced by a pure source in material."
+	},
+	{
+		"assign": "1150940000",
+		"jp_text": "クスフサ",
+		"en_text": "Kusouffsa",
+		"jp_explain": "パティシエが宣伝用に製作した強弓。\n可愛らしく装飾されたデザインが\n人気の品。やや脆い部分がある。",
+		"en_explain": "A Bullet Bow in the form of a\npastry. Popular and Pretty, it's somewhat fragile."
+	},
+	{
+		"assign": "1150960000",
+		"jp_text": "ダールボーデン",
+		"en_text": "Darl Bowden",
+		"jp_explain": "ダーカーが使用する装備を解析し\nアークス仕様に再設計された強弓。\nＹ字状に張られた弦が最大出力を保証。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150970000",
+		"jp_text": "クラテルアーチェ",
+		"en_text": "Crater Arche",
+		"jp_explain": "局地戦闘用に気密性を高めた防護服との\n相性がいい強弓。十字形状に展開して\n使用する大型の弓身は防御にも効果的。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150980000",
+		"jp_text": "ヒュリオロア",
+		"en_text": "Hurio Roar",
+		"jp_explain": "鋭く研ぎ澄まされたフォルムを追求する\nキャストに人気の強弓。フルオートで\n高威力のフォトンアローを射出可能。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1150990000",
+		"jp_text": "アーレスボウ",
+		"en_text": "Ares Bow",
+		"jp_explain": "戦士の幻獣の力を宿した強弓。装者に\nフォトンブラストの効果で挫けぬ力を\n与え、敵を圧倒する矢を放たせる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501020000",
+		"jp_text": "ステルスウェポン：ＢＷ",
+		"en_text": "Stealth Weapon: BW",
+		"jp_explain": "ダミー１０２",
+		"en_explain": "Unknown Weapon.\nSeems to be in the shape of\na Bullet Bow."
+	},
+	{
+		"assign": "11501080000",
+		"jp_text": "クラテルダート",
+		"en_text": "Crater Dart",
+		"jp_explain": "局地戦闘用に気密性を高めた防護服との\n相性がいい強弓。長い矢を収める矢筒も\n大型だが、使用者の背面防護に役立つ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501110000",
+		"jp_text": "ヒュリオローキ",
+		"en_text": "Hurio Loqi",
+		"jp_explain": "鋭く研ぎ澄まされたフォルムを追求する\nキャストに人気の強弓。グリップ保護の\n三枚刃は同時に水平を完全制御する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501120000",
+		"jp_text": "ビブラスボウ",
+		"en_text": "Vibras Bow",
+		"jp_explain": "ダーク・ビブラスの外骨格を加工して\n作られた強弓。素材の外骨格を細かく\n複雑に組み合わせたデザインが特徴的。",
+		"en_explain": "A Bullet Bow made by processing the\nexoskeleton of Dark Vibrace. The distinctive\nmaterial in the exoskeleton\nmade for a complex design."
+	},
+	{
+		"assign": "11501130000",
+		"jp_text": "ダルスバーレイ",
+		"en_text": "Dalz Varley",
+		"jp_explain": "ダークファルスの身体機能を武器として\n使用可能にした強弓。Ｘ字状に張られた\n弦から射られる矢の威力は脅威的。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501140000",
+		"jp_text": "テネルフター",
+		"en_text": "Tenelfter",
+		"jp_explain": "フォトンの吸収が効率的になるように\nデザインされた強弓。斬新な形状が\n特徴的だが、操作性がやや悪い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501160000",
+		"jp_text": "レウィスルフター",
+		"en_text": "Revisulfter",
+		"jp_explain": "フォトンの吸収が効率的になるように\nデザインされた強弓。全体的に軽量化し\n携行性を高めた新型モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501170000",
+		"jp_text": "マーシー・オブ・リリーパ",
+		"en_text": "Mercy of Lillipa",
+		"jp_explain": "イクリプストーチの炎で鍛えられた\n伝説の強弓。別名トライブ・ライア。\n強力なフォトンアローを撃ち出す。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501190000",
+		"jp_text": "ファーレンフレイン",
+		"en_text": "Fahrenfrein",
+		"jp_explain": "大勢のためでなく、ただひとりのために\n刀匠ジグが創り上げた強弓。\nそれは、彼の情熱の結晶。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501220000",
+		"jp_text": "ルビラウス",
+		"en_text": "Rubirauss",
+		"jp_explain": "宇宙という海原を駆け巡るにふさわしい\n強弓。弦が鎖になっており、射手の\n負担も大きいが、驚異的な威力を放つ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501240000",
+		"jp_text": "ルビレディーン",
+		"en_text": "Rubiledean",
+		"jp_explain": "宇宙という海原を駆け巡るにふさわしい\n強弓。専用の補助機能がついており\n少ない負担で高威力の矢を放てる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501250000",
+		"jp_text": "新光鋼弓",
+		"en_text": "Pristine Steel Bow",
+		"jp_explain": "伝承上の大国の意匠を模した強弓。\n伝統的な手法で束ねられた弦が\n使用されており、非常に強力。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501310000",
+		"jp_text": "エーデルイーオー",
+		"en_text": "Edel Io",
+		"jp_explain": "イオが設計改良に携わった強弓。\n基礎設計から大胆にカスタマイズされ\n非常に高い実用性を誇る。",
+		"en_explain": "Io's customized Bullet Bow.\nBoldly modified from it's basic design,\nit's very high in practical use."
+	},
+	{
+		"assign": "11501330000",
+		"jp_text": "テイトウツヅミ",
+		"en_text": "Teitou Tsuzumi",
+		"jp_explain": "夏祭りを満喫するべく作られた強弓。\n矢が炸裂すると広がる花火は美しく\n風流だが、当たると大変痛い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501350000",
+		"jp_text": "ハクミナリ",
+		"en_text": "Hakuminari",
+		"jp_explain": "耐久性の高い素材で作られた強弓。\n射手の技量に影響されづらい弓を目標に\n設計された。引きやすい弦が特徴。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501380000",
+		"jp_text": "フブキジュウキ",
+		"en_text": "Fubuki Juuki",
+		"jp_explain": "華やかに彩られた弓が特徴的な強弓。\n結われている大きな紐と弦はフォトンに\nよって硬化する素材で出来ている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501410000",
+		"jp_text": "ギグルカーシ",
+		"en_text": "Gigur Kashi",
+		"jp_explain": "黒の民ギグル・グンネガムの鎧を\n加工した強弓。素材は鎧だが\nどこか生体的な雰囲気を持っている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501430000",
+		"jp_text": "ネメシスフェザー",
+		"en_text": "Nemesis Feather",
+		"jp_explain": "古の時代に封印された聖なる強弓。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501440000",
+		"jp_text": "スレイヴフェザー",
+		"en_text": "Slave Feather",
+		"jp_explain": "古の時代に封印された邪なる強弓。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501450000",
+		"jp_text": "ガーンデーヴァ",
+		"en_text": "Gandiva",
+		"jp_explain": "失われし宝具を機械的に再現した強弓。\nその威力はあまりに強力で、真の実力を\n持つ者のみが弓を引くことが出来る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501480000",
+		"jp_text": "白雉春光",
+		"en_text": "Shirokiji Shunkou",
+		"jp_explain": "新しい季節の始まりを祝し、制作された\n儀礼用の強弓。満開の桜に止まる鳥が\n見事に再現された逸品。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501490000",
+		"jp_text": "ハマノゲンシ",
+		"en_text": "Hamano Genshi",
+		"jp_explain": "古来より伝わる由緒正しき強弓。\n弓にこめられた言霊の力は、番えた\n矢にも伝わり、強力な一撃となる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501520000",
+		"jp_text": "バレヌコレト",
+		"en_text": "Baren Coleto",
+		"jp_explain": "巨大なバックパックが特徴的な強弓。\nタンクにはフォトンの備蓄が可能で\n高いエネルギー効率を有している。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501580000",
+		"jp_text": "イデアルシューター",
+		"en_text": "Ideal Shooter",
+		"jp_explain": "新開発のフォトンジェネレーターを\n搭載した強弓。発せられる\nフォトンの輝きは次代の証とされる。",
+		"en_explain": "A Bullet Bow with a new\nPhoton Generator. Witness its next\ngeneration shine."
+	},
+	{
+		"assign": "11501610000",
+		"jp_text": "叫喚",
+		"en_text": "Kyoukan",
+		"jp_explain": "太古の教義に従う、屈強な武僧衆が\n用いる強弓。「阿鼻」とあわせ\n罰しの武器とされる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501640000",
+		"jp_text": "グライロウ",
+		"en_text": "Glayrow",
+		"jp_explain": "大気の力を宿すといわれる強弓。\n風と雷の力をまとった矢は\n容赦なく敵をうがつ。",
+		"en_explain": "A Bullet Bow said to be harboring the\npower of the atmosphere. Its arrows\npowered by the wind and thunder."
+	},
+	{
+		"assign": "11501650000",
+		"jp_text": "グライジャダク",
+		"en_text": "Glay Jadaku",
+		"jp_explain": "大気の力を宿すといわれる強弓。\nガラスのように美しい矢の威力は高く\n硬い装甲すら容易く貫くほど。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501700000",
+		"jp_text": "ノクスレクシオ",
+		"en_text": "Nox Lexio",
+		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き強弓。装者も恐怖を\n抱くほどの威力を宿すという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501730000",
+		"jp_text": "リグブランチ",
+		"en_text": "Rig Branch",
+		"jp_explain": "伝説の生物を機械的に再現した強弓。\nグリップを引くと顎が開き\n矢の代わりに強力な火球を吐き出す。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501750000",
+		"jp_text": "ジグマブランチ",
+		"en_text": "Sigma Branch",
+		"jp_explain": "伝説の生物を機械的に再現した強弓。\n最大限まで高められた火力は\n装者ごと丸焦げにしかねないという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501760000",
+		"jp_text": "ガイルズオービット",
+		"en_text": "Gaels Orbit",
+		"jp_explain": "新開発のフォトンリング機構を搭載した\n強弓。展開された部品が合体し\n星をも射抜く弓へと姿を変える。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501870000",
+		"jp_text": "インヴェイドボーゲン",
+		"en_text": "Invade Bogen",
+		"jp_explain": "【深遠なる闇】より生まれし負の強弓。\n装者は非常なる辣腕を有するも\n災禍を導く扇動者となる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11501880000",
+		"jp_text": "オフスティアボーゲン",
+		"en_text": "Austere Bogen",
+		"jp_explain": "負の力を識り、制することで転化した\n浄化の強弓。装者は授けられた慧眼で\n凶悪を討ち取り、平安をきずく。",
+		"en_explain": "A Purified Bullet Bow.\nIts unparalleled prowess pierces evil\nwith its majestic power."
+	},
+	{
+		"assign": "11501890000",
+		"jp_text": "セイガーアーチャー",
+		"en_text": "Seiga Archer",
+		"jp_explain": "世界征服を企む悪の組織と戦うために\n作られた強弓。エネルギーを矢に収束し\n放つセイガーアローは悪を貫く！",
+		"en_explain": "A Bullet Bow designed to fight\nevil. It shoots energy that\nconverges onto its Seiga Arrow!"
+	},
+	{
+		"assign": "11501990000",
+		"jp_text": "アーチレボルシオ",
+		"en_text": "Arch Revolucio",
+		"jp_explain": "新開発の演算装置を搭載した強弓。\n装者の思考や戦況を分析することで\n出力を最適に保ち、負荷を軽減する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11502020000",
+		"jp_text": "アステユニコン",
+		"en_text": "Aste Unicorn",
+		"jp_explain": "伝説の生物をモチーフにした強弓。\n幻想的で美しい外観と鋭く激しい\n一撃は、まさに一角獣そのもの。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11502080000",
+		"jp_text": "ステルクイセーラ",
+		"en_text": "Stelk Isera",
+		"jp_explain": "専用エネルギータンクがついた強弓。\n射撃時に、専用エネルギーによる\n補助システムで照準のブレを軽減する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11502140000",
+		"jp_text": "レイボウ",
+		"en_text": "Ray Bow",
+		"jp_explain": "次世代の主力として開発された強弓。\n基礎モデルの直系の後継機であり\n出力、安定性共に高いスペックを誇る。",
+		"en_explain": "A Bow developed as the latest\nmodel, boasting high photon stability\nwith next-gen specifications."
+	},
+	{
+		"assign": "11502180000",
+		"jp_text": "バレットボウ-NT",
+		"en_text": "Bullet Bow-NT",
+		"jp_explain": "アークスで正式採用されている強弓。\n武器工学の粋を結集し、新感覚の設計で\n広く普及したロールモデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11502190000",
+		"jp_text": "アルバボウ-NT",
+		"en_text": "Alva Bow-NT",
+		"jp_explain": "アークスで使用される改良型強弓。\n命中精度を高めるために部材が一点一点\n強化され、安定性が向上した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11502200000",
+		"jp_text": "ヴィタボウ-NT",
+		"en_text": "Vita Bow-NT",
+		"jp_explain": "基礎モデルに改良を加えた強弓。\n設計の見直しにより部品を減らし\nよりコンパクトな作りになった。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11502210000",
+		"jp_text": "クワドラプト-NT",
+		"en_text": "Quadrapt-NT",
+		"jp_explain": "アークスで正式採用されている強弓。\n４つの足が伸びたような特殊な形状から\nその名がついた次世代モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11502220000",
+		"jp_text": "アルバクワドラプト-NT",
+		"en_text": "Alva Quadrapt-NT",
+		"jp_explain": "アークスで使用される改良型強弓。\n従来より大きな弧から放たれる矢は\n攻撃力が大きく向上した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11502230000",
+		"jp_text": "ヴィタクワドラプト-NT",
+		"en_text": "Vita Quadrapt-NT",
+		"jp_explain": "基礎モデルに改良を加えた強弓。\n命中精度を高めるフォトンセンサーを\n２本配列した同型の最上級モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11502240000",
+		"jp_text": "アルクレイ-NT",
+		"en_text": "Arkray-NT",
+		"jp_explain": "アークスで正式採用されている強弓。\n弓を軽く矢を重く、というオーダーを\nクリアした次世代モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11502250000",
+		"jp_text": "アルバアルクレイ-NT",
+		"en_text": "Alva Arkray-NT",
+		"jp_explain": "アークスで使用される改良型強弓。\nフォトンヘッドを随所に配置した特殊\n加工で、命中精度が飛躍的に向上した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11502260000",
+		"jp_text": "ヴィタアルクレイ-NT",
+		"en_text": "Vita Arkray-NT",
+		"jp_explain": "基礎モデルに改良を加えた強弓。\nフォトンヘッドとフォトンセンサーを\nダブルで搭載した試作モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11502270000",
+		"jp_text": "ビッグロウ-NT",
+		"en_text": "Bigglow-NT",
+		"jp_explain": "シンプルな構造で攻撃効率を追求した\n強弓。ごく少数が限定試作されたが\n一部で根強い人気を持つ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11502280000",
+		"jp_text": "ティグリボウ-NT",
+		"en_text": "Tigrebow-NT",
+		"jp_explain": "全体をフォトンコートした強弓。\n細部にわたる入念なコーティングで\n矢に伝わる力の減衰を最小限にした。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11502290000",
+		"jp_text": "ディオティグリボウ-NT",
+		"en_text": "Dio Tigrebow-NT",
+		"jp_explain": "全体をフォトンコートした強弓。\nフォトン減衰しにくい新技法の採用で\n強い攻撃力が長く持続される。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11502300000",
+		"jp_text": "スサノヒキ-NT",
+		"en_text": "Susano Hiki-NT",
+		"jp_explain": "古来より伝承された由緒正しき儀礼服に\nよく似合うと評判の強弓。縁起の良い\n飾り結びを矢に施し平和と安寧を祈る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11502310000",
+		"jp_text": "サザンクロス-NT",
+		"en_text": "Southern Cross-NT",
+		"jp_explain": "哀しい運命を背負った戦士が土壇場で\n使用するという強弓。その怒りの力に\nよって敵は成す術もなく散っていく。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11502320000",
+		"jp_text": "ノクスレクシオ-NT",
+		"en_text": "Nox Lexio-NT",
+		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き強弓。装者も恐怖を\n抱くほどの威力を宿すという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11502330000",
+		"jp_text": "ラムダビッグロウVer2",
+		"en_text": "Lambda Bigglow Ver2",
+		"jp_explain": "シンプルな構造で攻撃効率を追求した\n強弓。フォトン固着素材が採算度外視で\nふんだんに使われ、ごく少数が流通。",
+		"en_explain": ""
+	}
 ]
