@@ -1,884 +1,884 @@
 [
-  {
-    "assign": "17000000",
-    "jp_text": "ガンスラッシュ",
-    "en_text": "Gunslash",
-    "jp_explain": "アークスで正式採用されている銃剣。\n片刃の剣と銃を両立させ、任意で機能を\n切り替えられる扱いやすい武器。",
-    "en_explain": ""
-  },
-  {
-    "assign": "17010000",
-    "jp_text": "アルバスラッシュ",
-    "en_text": "Alva Slash",
-    "jp_explain": "アークスで使用される改良型の銃剣。\n刃と銃弾の出力増強が行われた結果\n全体的な性能向上がみられる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "17020000",
-    "jp_text": "ヴィタスラッシュ",
-    "en_text": "Vita Slash",
-    "jp_explain": "基礎モデルに更なる改良を加えた銃剣。\nフォトン固着率、銃弾の初速度などが\n改善、高度な戦闘に適する性能を得た。",
-    "en_explain": ""
-  },
-  {
-    "assign": "17030000",
-    "jp_text": "ガンスレイヤー",
-    "en_text": "Gunslayer",
-    "jp_explain": "アークスで正式採用されている銃剣。\n小型軽量化により操作性を向上させた\n初心者にも扱いやすい人気モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "17040000",
-    "jp_text": "アルバスレイヤー",
-    "en_text": "Alva Slayer",
-    "jp_explain": "アークスで使用される改良型の銃剣。\n銃機能は従来どおりだが、刃の出力を\n増強して攻撃力を向上させた。",
-    "en_explain": ""
-  },
-  {
-    "assign": "17050000",
-    "jp_text": "ヴィタスレイヤー",
-    "en_text": "Vita Slayer",
-    "jp_explain": "基礎モデルに更なる改良を加えた銃剣。\n砲身を伸張し銃機能が強化され、全体に\n刃が広がり高級感ある仕様となった。",
-    "en_explain": ""
-  },
-  {
-    "assign": "17060000",
-    "jp_text": "ガンホーク",
-    "en_text": "Gunhawk",
-    "jp_explain": "アークスで正式採用されている銃剣。\n銃機能の強化をコンセプトに開発され\n台座を独立させた新型モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "17070000",
-    "jp_text": "アルバホーク",
-    "en_text": "Alva Hawk",
-    "jp_explain": "アークスで使用される改良型の銃剣。\n剣と銃、双方の出力を増強し、全体の\n攻撃力を向上させた上位モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "17080000",
-    "jp_text": "ヴィタホーク",
-    "en_text": "Vita Hawk",
-    "jp_explain": "基礎モデルに更なる改良を加えた銃剣。\n銃機能の完成を目指して大型化され\nバランスよく剣も伸張されている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "17090000",
-    "jp_text": "ガンシザー",
-    "en_text": "Gunscissor",
-    "jp_explain": "従来の銃剣の枠を超えた新感覚の銃剣。\n槍先をイメージした特殊形状の両刃で\n鋭く標的に斬り込むことを可能にした。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170100000",
-    "jp_text": "アルバシザー",
-    "en_text": "Alva Scissor",
-    "jp_explain": "新感覚の銃剣を大型化した改良型。\n特殊形状の両刃の出力が増強され\n接近戦における攻撃力を向上させた。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170110000",
-    "jp_text": "ヴィタシザー",
-    "en_text": "Vita Scissor",
-    "jp_explain": "新感覚の銃剣を大型化した最上位機種。\n特殊形状の両刃に配した突起によって\n安定した高いフォトン固着を実現した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170120000",
-    "jp_text": "ガンハチェット",
-    "en_text": "Gunhatchet",
-    "jp_explain": "銃機能を隠すことに主眼を置いた銃剣。\nソード形状を維持し、銃身は外観からは\nまったく確認できない騙しの武器。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170130000",
-    "jp_text": "アルバハチェット",
-    "en_text": "Alva Hatchet",
-    "jp_explain": "銃機能を隠した銃剣の改良型。\n剣の大型化により、さらに銃機能が\n隠し兵器化し、視認が困難になった。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170140000",
-    "jp_text": "ヴィタハチェット",
-    "en_text": "Vita Hatchet",
-    "jp_explain": "銃機能を隠した銃剣の最終試作機。\n銃も撃てるソードというコンセプトで\nより洗練されたフォームを追求した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170150000",
-    "jp_text": "トゥウィスラー",
-    "en_text": "Twizzler",
-    "jp_explain": "銃と剣の完全一体化を果たした銃剣。\n砲身がそのまま剣の両刃を支えており\n無駄のない動きでの攻撃を可能にする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170160000",
-    "jp_text": "ディオトゥウィスラー",
-    "en_text": "Dio Twizzler",
-    "jp_explain": "銃と剣が完全一体化した銃剣の改良型。\n形状はそのままに全体的な出力増強を\n果たし、イメージカラーを一新した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170170000",
-    "jp_text": "ラムダトゥウィスラー",
-    "en_text": "Lambda Twizzler",
-    "jp_explain": "銃と剣が完全一体化した銃剣の最終形。\n完全受注生産で、選択できるカラー\nバリエーションの一番人気。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170180000",
-    "jp_text": "ラムダジャレイド",
-    "en_text": "Lambda Jareid",
-    "jp_explain": "試作された銃剣の銃出力改良型。\n形状はそのままに構造を一新し\n攻撃力を大幅に向上させた。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170190000",
-    "jp_text": "ディオジャレイド",
-    "en_text": "Dio Jareid",
-    "jp_explain": "試作された銃剣の高出力改良型。\nフォトン固着率を改良と軽量化により\n操作性が向上した次世代標準モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170200000",
-    "jp_text": "ジャレイド",
-    "en_text": "Jareid",
-    "jp_explain": "のこぎりに着想を得た銃剣の試作品。\n剣としての切断力は圧倒的だが、銃は\nアークス標準装備品を流用している。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170210000",
-    "jp_text": "サーハリング",
-    "en_text": "Sarhaling",
-    "jp_explain": "巨大なフォトン刃を誇る銃剣。\nバランスが洗練されているからこそ\n可能なフォルムであり、人気が高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170220000",
-    "jp_text": "ネグリング",
-    "en_text": "Neigling",
-    "jp_explain": "サーハリングの近接特化カスタム。\n刃の出力を再度見直し、さらなる\n効率化と威力の向上を図っている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170230000",
-    "jp_text": "ナーゲルリング",
-    "en_text": "Naglering",
-    "jp_explain": "サーハリングの射撃特化カスタム。\n弾体加速へのブーステッドを第一に\n全体のバランスを構築し直している。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170240000",
-    "jp_text": "ブラオレット",
-    "en_text": "Vraolet",
-    "jp_explain": "特異とも言えるフォルムをした銃剣。\n波打つような刃の切れ味は鋭く\n研ぎ澄まされた弾丸もまた、強力。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170250000",
-    "jp_text": "ラムダブラオレット",
-    "en_text": "Lambda Vraolet",
-    "jp_explain": "特異とも言えるフォルムをした銃剣。\n偏執的に性能の向上を追求した結果\n汎用性を犠牲に、高い性能を得た。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170260000",
-    "jp_text": "ディオブラオレット",
-    "en_text": "Dio Vraolet",
-    "jp_explain": "特異とも言えるフォルムをした銃剣。\n汎用性を求め調整を加えた結果\n扱いやすくはなったが、形はそのまま。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170270000",
-    "jp_text": "ガンスラッシュゼロ",
-    "en_text": "Gunslash Zero",
-    "jp_explain": "発掘品を基に改良した銃剣。\n持ちやすさと扱いやすさにこだわった\n万人向けのモデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170280000",
-    "jp_text": "アインマズルガ",
-    "en_text": "Ein Mazurka",
-    "jp_explain": "機械的な部品を多く含む銃剣。\nバランスを保ちつつ、攻撃力を\n底上げした改良品。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170290000",
-    "jp_text": "アキシオン",
-    "en_text": "Axeon",
-    "jp_explain": "バカでかい剣と銃を組み合わせた銃剣。\nムリヤリ作った改造品のため\nバランスが無茶苦茶で使い手を選ぶ。",
-    "en_explain": "Gunslash made from combining a\ngun and a sword. Forcibly\nthrown together, it is unbalanced."
-  },
-  {
-    "assign": "170300000",
-    "jp_text": "カラカサジコミ",
-    "en_text": "Karakasa Jikomi",
-    "jp_explain": "雨を好む幽霊が持ち歩くという銃剣。\nなぜだか、相手の恐怖心を誘う。\nしとしとと小雨の降る夜にはご注意。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170310000",
-    "jp_text": "レイデュプル",
-    "en_text": "Ray Duplex",
-    "jp_explain": "透き通る美しいフォルムを持つ銃剣。\n使いやすさを向上させ、バランスの\n取れた性能を実現させている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170320000",
-    "jp_text": "ソニックレイザー",
-    "en_text": "Sonic Laser",
-    "jp_explain": "目にも留まらぬ速さを秘めた銃剣。\n使い手にも熟練の技術が必要となるが\n使いこなせれば最速最強。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170330000",
-    "jp_text": "ネグリングゼロ",
-    "en_text": "Neigling Zero",
-    "jp_explain": "銃剣の開発者と言われる巨匠イッコウの\n名作。銃として見ても、剣として見ても\n申し分のない、珠玉の作品。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170340000",
-    "jp_text": "ブラオレットゼロ",
-    "en_text": "Vraolet Zero",
-    "jp_explain": "その巨大さと性能で注目を集めた銃剣。\n扱うには、相当の純粋な力を必要とし\n持ち手を選ぶ武器。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170350000",
-    "jp_text": "ネルシール",
-    "en_text": "Nersir",
-    "jp_explain": "全てにおいて高性能を誇る銃剣。\n銃の攻撃力を損なわず、剣としての\n性能も求める者のために作られた。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170360000",
-    "jp_text": "ガンブレイバー",
-    "en_text": "Gunbraver",
-    "jp_explain": "発掘品をもとに改良した銃剣。\n銃身に加工を加え、初弾速と切れ味を\n向上させている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170370000",
-    "jp_text": "デオマズルガ",
-    "en_text": "Deo Mazurka",
-    "jp_explain": "機械的な部品を含む銃剣。\n攻撃力と共に、武器自身の耐久力を\n大きく強化したモデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170380000",
-    "jp_text": "ロードアキシオン",
-    "en_text": "Lord Axeon",
-    "jp_explain": "アキシオンに改良を加えた銃剣。\nあるハンターの想い出の品であり\n命を預ける武器でもあった。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170390000",
-    "jp_text": "バンガサジコミ",
-    "en_text": "Bangasa Jikomi",
-    "jp_explain": "小粋なロウニンが好んで使う銃剣。\nふざけているようだが、その攻撃力は\n想像以上にすさまじい。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170400000",
-    "jp_text": "クリアデュプル",
-    "en_text": "Clear Duplex",
-    "jp_explain": "透き通る美しいフォルムを持つ銃剣。\n全体に強化が施され、より扱いやすく\nそして強力になったアッパーモデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170410000",
-    "jp_text": "セレスタレイザー",
-    "en_text": "Celesta Laser",
-    "jp_explain": "スタイリッシュな作りが人気の銃剣。\n様々な戦闘スタイルに、武器が合わせ\n最高の形で応えてくれるという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170420000",
-    "jp_text": "ナーゲルリングゼロ",
-    "en_text": "Naglering Zero",
-    "jp_explain": "巨匠イッコウが出した銃剣の答え。\n銃であり剣であるというコンセプトを\n貫き通した名作。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170430000",
-    "jp_text": "フリギアエンド",
-    "en_text": "Frigiand",
-    "jp_explain": "各所で最高傑作とうたわれた銃剣。\n赤い刃と舞う銃弾が、相対する敵に\n終わりを予感させると言わしめた。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170440000",
-    "jp_text": "ネイダリール",
-    "en_text": "Neidaryl",
-    "jp_explain": "見た目にもこだわりを感じる銃剣。\nフォトンの細かなバランスにまで\n気を配った最高級品といわれる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170450000",
-    "jp_text": "エンペルアキシオン",
-    "en_text": "Emperor Axeon",
-    "jp_explain": "あるハンターが使い続けた伝説の武器。\nその刃には過去への懺悔を刻み\nその銃弾には未来への希望を乗せる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170460000",
-    "jp_text": "クルールコフィン",
-    "en_text": "Cruel Coffin",
-    "jp_explain": "永久凍土の氷を利用し作られた銃剣。\n白く冷たい輝きを放つ銃身からは\n絶対零度の如き弾丸が放たれる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170470000",
-    "jp_text": "ルージュコフィン",
-    "en_text": "Rouge Coffin",
-    "jp_explain": "永久凍土の氷を利用し作られた銃剣。\n氷に対するフォトンの感度を調整し\n全体がほのかに紅色を帯びた改良型。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170480000",
-    "jp_text": "ブルーコフィン",
-    "en_text": "Blue Coffin",
-    "jp_explain": "永久凍土の氷を利用し作られた銃剣。\nフレーム部分の強化に伴い、藍色を\n基調としたフォルムになった改良型。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170490000",
-    "jp_text": "ブロックベロウ",
-    "en_text": "Block Bellow",
-    "jp_explain": "地下坑道の奥地で発見された素材を\n基に再構築されて作られた銃剣。\n質が良く、高い性能でまとまっている。",
-    "en_explain": "Gunslash made from materials\non Lilipa. It is of good\nquality and has high performance."
-  },
-  {
-    "assign": "170510000",
-    "jp_text": "ダガンスラッシュ",
-    "en_text": "Daganslash",
-    "jp_explain": "ダガンの構成パラメータを解析し\n強固な外殻を銃剣として組み上げた。\nダガンに見間違える、精巧な一品。",
-    "en_explain": "Gunslash made from a Dagan.\nThis sophisticated weapon is\noften mistaken for a dagan."
-  },
-  {
-    "assign": "170520000",
-    "jp_text": "シグノブレイバー",
-    "en_text": "Signo Braver",
-    "jp_explain": "シグノビートの腕部機構を使った銃剣。\n鋭い刃はそのままに銃弾の発射機構まで\n付随し、それでいて高い性能を保持。",
-    "en_explain": "Gunslash made from a Signo Beat.\nDespite being built together,\nboth parts retain high power."
-  },
-  {
-    "assign": "170530000",
-    "jp_text": "トラメガッシュ",
-    "en_text": "Tramegash",
-    "jp_explain": "拡声器の形に偽装された銃剣。\n刃が飛び出すだけでなく、奇抜な弾丸を\n飛ばすというおかしなギミックが満載。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170560000",
-    "jp_text": "ロードアキシオン／ナハト",
-    "en_text": "Lord Axeon / Nacht",
-    "jp_explain": "闇夜の色を抱く銃剣。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170570000",
-    "jp_text": "フロムベロウ",
-    "en_text": "Fromm Bellow",
-    "jp_explain": "地下坑道の奥地で発見された素材を\n利用して製造された銃剣。\n打突による破砕力に優れている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170580000",
-    "jp_text": "ロエリアベロウ",
-    "en_text": "Roelia Bellow",
-    "jp_explain": "地下坑道の奥地で発見された素材を\n解析して作られた銃剣。非常に高い\n性能でまとまっているが、重い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170590000",
-    "jp_text": "アーレスバスター",
-    "en_text": "Ares Buster",
-    "jp_explain": "一角獣の幻獣の力を宿した銃剣。装者に\nフォトンブラストの効果で貫く力を\n与え、あらゆるものを断ち切る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170600000",
-    "jp_text": "仲秋丸",
-    "en_text": "Chuushuumaru",
-    "jp_explain": "葉の色変わりを表現した刃が美しい\n伝統的な装飾の施された銃剣。\n振るうのがためらわれるほどの出来。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170670000",
-    "jp_text": "ネーロパラソーレ",
-    "en_text": "Nero Parasol",
-    "jp_explain": "強い日射しを遮断するための道具を\n模して作られたれっきとした銃剣。\n黒は紫外線を多く吸収するという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170690000",
-    "jp_text": "ルフネシア",
-    "en_text": "Lufnesia",
-    "jp_explain": "可動式の仕掛けが特徴的な銃剣。\n手の甲を全体的に覆うデザインは\n接近戦での戦闘を考慮したため。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170700000",
-    "jp_text": "機甲剣メックカタール",
-    "en_text": "Mech Katar",
-    "jp_explain": "武器を身体の一部のように扱う研究を\n基に作られた銃剣。手の甲に直接装着し\nフォトン感応力を最大限に引き出す。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170750000",
-    "jp_text": "ステルスウェポン：ＧＳ",
-    "en_text": "Stealth Weapon: GS",
-    "jp_explain": "認識不能な武器。\n形状はガンスラッシュ型。",
-    "en_explain": "Unknown Weapon.\nSeems to be in the shape of\na Gunslash."
-  },
-  {
-    "assign": "170760000",
-    "jp_text": "赤のガンスラッシュ",
-    "en_text": "Red Gunslash",
-    "jp_explain": "試験的にカラーリングを\nシンボリックにした銃剣。\n目映い赤色は必然的に目を引く。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170770000",
-    "jp_text": "青のガンスラッシュ",
-    "en_text": "Blue Gunslash",
-    "jp_explain": "試験的にカラーリングを\nシンボリックにした銃剣。\n目映い青色は必然的に目を引く。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170790000",
-    "jp_text": "Ａライザー／ナハト",
-    "en_text": "Astral Riser / Nacht",
-    "jp_explain": "闇夜の色を抱く銃剣。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170800000",
-    "jp_text": "ビアンコパラソーレ",
-    "en_text": "Bianco Parasol",
-    "jp_explain": "強い日射しを遮断するための道具を\n模して作られたれっきとした銃剣。\n涼しげな白は日光をほどよく反射する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170850000",
-    "jp_text": "戒剣ナナキ",
-    "en_text": "Nanaki",
-    "jp_explain": "■",
-    "en_explain": ""
-  },
-  {
-    "assign": "170890000",
-    "jp_text": "クイーンヴィエラ",
-    "en_text": "Queen Viera",
-    "jp_explain": "銃器の要素を多く取り入れ、扱い\nやすさを高めた銃剣。軽量だが\nフォトンで出来た弾丸の威力は本物。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170920000",
-    "jp_text": "カリブルヌス",
-    "en_text": "Caliburnus",
-    "jp_explain": "回転衝角を刃に持つ独特な形をした\n銃剣。その刃は破砕力に優れており\n放たれる弾丸は、貫通力に優れる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170950000",
-    "jp_text": "コールサイファー",
-    "en_text": "Call Cipher",
-    "jp_explain": "不思議な文様の刻まれた刃が特徴的な\n銃剣。透き通った美しいフォトンの刃は\n弾丸としても研ぎ澄まされている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170960000",
-    "jp_text": "ルベルサイファー",
-    "en_text": "Rubel Cypher",
-    "jp_explain": "特徴的な文様が刻み込まれた銃剣。\nほのかに赤色に染まったフォトンの刃は\n触れるものを容易に切り裂くという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170980000",
-    "jp_text": "セレスタレイザー／ナハト",
-    "en_text": "Celesta Laser / Nacht",
-    "jp_explain": "闇夜の色を抱く銃剣。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "170990000",
-    "jp_text": "エクスリーザー",
-    "en_text": "Ex Lieser",
-    "jp_explain": "ドラゴン・エクスの鱗を用いて\n作られた銃剣。切れ味もさることながら\n弾の初速が高く、威力も抜群。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701010000",
-    "jp_text": "ノワルリーザー",
-    "en_text": "Noire Lieser",
-    "jp_explain": "ノワル・ドラールの鱗を用いて\n作られた銃剣。触れれば切り裂き\n離れれば撃ち砕く距離を選ばない武器。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701030000",
-    "jp_text": "リカスネシア",
-    "en_text": "Licasnesia",
-    "jp_explain": "可動式の仕掛けが特徴的な銃剣。\n切替時のもたつきを解消するため\n操作の簡略が行われた上級モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701050000",
-    "jp_text": "ピュアルサード",
-    "en_text": "Purelthird",
-    "jp_explain": "蒸気エネルギーで効能を増幅した銃剣。\n銃剣には珍しい高速回転刃の採用により\n剣の攻撃力が著しく向上したレア品。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701070000",
-    "jp_text": "バイオスリドゥン",
-    "en_text": "Bio Slidawn",
-    "jp_explain": "最先端の生体工学を応用し開発された\n銃剣。フォトン循環による自律制御で\n大型化による不安定をすべて解消した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701080000",
-    "jp_text": "ライブスリドゥン",
-    "en_text": "Live Slidawn",
-    "jp_explain": "最先端の生体工学を応用し開発された\n銃剣。高純度培養液の働きで安定した\n形状を保ち、素速く攻撃態勢を整える。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701100000",
-    "jp_text": "ビスケドロプ",
-    "en_text": "Biskedrop",
-    "jp_explain": "パティシエが宣伝用に製作した銃剣。\n細かな所までこだわり設計された。\nでも食べられません。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701110000",
-    "jp_text": "アラオスラッシュ",
-    "en_text": "Arao Slash",
-    "jp_explain": "惑星リリーパの各種データを基に開発\nされた銃剣。銃と剣がそれぞれ現地での\n戦闘活動に最適化されている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701120000",
-    "jp_text": "カルデスタ",
-    "en_text": "Cardesta",
-    "jp_explain": "宇宙という海原を駆け巡るにふさわしい\n銃剣。かつて宝を求め航海した人々が\n愛用していたとされる武器を模した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701130000",
-    "jp_text": "シャットラウンダー",
-    "en_text": "Shut Rounder",
-    "jp_explain": "円状グリップの回転で変形する銃剣。\n二枚の刃が銃身を支え\n射撃の精度を向上させている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701150000",
-    "jp_text": "ベントラウンダー",
-    "en_text": "Bent Rounder",
-    "jp_explain": "円状グリップの回転で変形する銃剣。\n銃身と刃を繋ぐ部分の素材を\nより強靭なものにした改良モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701160000",
-    "jp_text": "エクサグラフ",
-    "en_text": "Exa Graph",
-    "jp_explain": "既存の武器に満足できないアークスが\n独自開発した銃剣。砲台スライドによる\n銃機構と剣機構の切り替えが斬新。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701270000",
-    "jp_text": "カルデリフク",
-    "en_text": "",
-    "jp_explain": "宇宙という海原を駆け巡るにふさわしい\n銃剣。二対の武骨な刃は相対する\n敵に恐怖を抱かせる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701320000",
-    "jp_text": "ダルスヘイアン",
-    "en_text": "Dalz Heian",
-    "jp_explain": "ダークファルスの身体機能を武器として\n使用可能にした銃剣。赤と黒の銃身から\n放たれる光弾は驚異的な攻撃力を誇る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701330000",
-    "jp_text": "バウカーディン",
-    "en_text": "Baucardin",
-    "jp_explain": "機能性を重視して開発された銃剣。\n衝撃に強い素材で作られていて\n軽量ながら、強度は高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701350000",
-    "jp_text": "テスロカーディン",
-    "en_text": "Tesro Cadin",
-    "jp_explain": "機能性を重視して開発された銃剣。\n内部構造を見直したことで\nフレームの安定度が増した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701360000",
-    "jp_text": "ホークフィアンマ",
-    "en_text": "Hawk Fiamma",
-    "jp_explain": "基本に立ち返って設計された銃剣。\nフォトンを伝導させた金属製の刃は\n高い切れ味と堅牢性を誇る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701390000",
-    "jp_text": "ファーレンシュテイク",
-    "en_text": "Fahrensteg",
-    "jp_explain": "大勢のためでなく、ただひとりのために\n刀匠ジグが創り上げた銃剣。\nそれは、彼の情熱の結晶。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701420000",
-    "jp_text": "ガヴェジスト",
-    "en_text": "Gavethyst",
-    "jp_explain": "重厚で威圧的なデザインの銃剣。\n独特の形状は、高濃度のフォトンで\n出来た広い刃を支えるため。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701450000",
-    "jp_text": "グルベスタ",
-    "en_text": "Gurbesta",
-    "jp_explain": "重厚で環境の影響を受けづらい作りの\n銃剣。内部に特殊な機構を持ち、どんな\n環境下でも安定した戦闘を行える。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701480000",
-    "jp_text": "リグガヴエル",
-    "en_text": "Riggavuel",
-    "jp_explain": "幾何学的なデザインが目を引く銃剣。\n切替時に大きく形状が変わらないため\n判別が付きづらく、隙をつきやすい。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701610000",
-    "jp_text": "ネメシススラッシュ",
-    "en_text": "Nemesis Slash",
-    "jp_explain": "古の時代に封印された聖なる銃剣。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701620000",
-    "jp_text": "スレイヴスラッシュ",
-    "en_text": "Slave Slash",
-    "jp_explain": "古の時代に封印された邪なる銃剣。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701660000",
-    "jp_text": "ビターソング",
-    "en_text": "Bitter Song",
-    "jp_explain": "音楽をこよなく愛するアークスが企画し\n開発した銃剣。シンプルながらも頑丈。\nこれを使えば、主役級間違いなし。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701690000",
-    "jp_text": "紫黒桜",
-    "en_text": "Shiguro Sakura",
-    "jp_explain": "春の宵を思わせる色合いが美しい銃剣。\nフレームに描かれた桜と波紋は見事で\n至極の逸品と言えるほどの出来映え。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701700000",
-    "jp_text": "イデアルバネット",
-    "en_text": "Ideal Banette",
-    "jp_explain": "新開発のフォトンジェネレーターを\n搭載した銃剣。発せられる\nフォトンの輝きは次代の証とされる。",
-    "en_explain": "A Gunslash powered by a\nPhoton Generator. Witness its\nnext generation photon shine."
-  },
-  {
-    "assign": "1701740000",
-    "jp_text": "リンドオネット",
-    "en_text": "Lind Onett",
-    "jp_explain": "次元を越えるほどの力を秘めた銃剣。\n眩いフォトンの輝きが持つ力は\n空間を歪めるといわれている。",
-    "en_explain": "A gunslash with the power of\ndimensions. Its said to distort space\nwith its dazzling photons."
-  },
-  {
-    "assign": "1701770000",
-    "jp_text": "スカルシュクター",
-    "en_text": "Skull Schecter",
-    "jp_explain": "死者の念が乗り移ったとされる禍々しき\nオーラを放つ銃剣。仄かに輝く青い光に\n狙われたら最後、死が訪れるという。",
-    "en_explain": "A gunslash possessing the cold\nfeeling of death. Its shining\nblue aura calls Death to visit."
-  },
-  {
-    "assign": "1701840000",
-    "jp_text": "ノクスシュディクス",
-    "en_text": "Nox Schdyx",
-    "jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き銃剣。\n装者も畏怖するほどの莫大な力を宿す。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1701900000",
-    "jp_text": "インヴェイドバスター",
-    "en_text": "Invade Buster",
-    "jp_explain": "【深遠なる闇】より生まれし負の銃剣。\n装者は非常なる辣腕を有するも\n禍災をもたらす牽引者と化す。",
-    "en_explain": "A Gunslash born from the [Profound Darkness].\nIts the manifestation of woefullness that\nbears the fruit of shrewdness."
-  },
-  {
-    "assign": "1701910000",
-    "jp_text": "オフスティアバスター",
-    "en_text": "Austere Buster",
-    "jp_explain": "負の力を識り、制することで転化した\n浄化の銃剣。装者は授けられた才覚で\n悪者を討ち取り、災禍を鎮める。",
-    "en_explain": "A purified Gunslash.\nIts said that it has the power\nto quell disasters."
-  },
-  {
-    "assign": "1702010000",
-    "jp_text": "マーセナリスターロード",
-    "en_text": "Mercenary Star Road",
-    "jp_explain": "拳銃に巨大なブレードを接続した銃剣。\n汎用性を高めるため、拳銃に大規模な\n近接戦向けのカスタマイズを施した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1702030000",
-    "jp_text": "マーセナリシュバルツ",
-    "en_text": "Mercenary Schwarz",
-    "jp_explain": "拳銃に巨大なブレードを接続した銃剣。\n木製グリップなどがアンティーク品を\n思わせるが、まだまだ現役。",
-    "en_explain": "A Gunslash with a huge blade.\nIt seems to have antiques,\nsuch as a wooden grip\nfeatured on the weapon."
-  },
-  {
-    "assign": "1702110000",
-    "jp_text": "リグジエンザー",
-    "en_text": "Rig Dienzer",
-    "jp_explain": "伝説の生物を機械的に再現した銃剣。\n頭部を模した銃身から放たれる弾丸は\n烈火の如く燃え盛り、対象を焼き払う。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1702130000",
-    "jp_text": "ジグマジエンザー",
-    "en_text": "Sigma Dienzer",
-    "jp_explain": "伝説の生物を機械的に再現した銃剣。\n内部に強力なジェネレーターを搭載し\n小柄ながらも高い性能を発揮する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1702140000",
-    "jp_text": "スラッシュレボルシオ",
-    "en_text": "Slash Revolucio",
-    "jp_explain": "新開発の演算装置を搭載した銃剣。\n装者の思考や戦況を分析することで\n出力を最適に保ち、負荷を軽減する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1702250000",
-    "jp_text": "レイスラッシュ",
-    "en_text": "Ray Slash",
-    "jp_explain": "次世代の主力として開発された銃剣。\n基礎モデルの直系の後継機であり\n出力、安定性共に高いスペックを誇る。",
-    "en_explain": "A Gunslash developed as the latest\nmodel, boasting high photon stability\nwith next-gen specifications."
-  },
-  {
-    "assign": "1702290000",
-    "jp_text": "ガンスラッシュ-NT",
-    "en_text": "Gunslash-NT",
-    "jp_explain": "アークスで正式採用されている銃剣。\n片刃の剣と銃を両立させ、任意で機能を\n切り替えられる扱いやすい武器。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1702300000",
-    "jp_text": "アルバスラッシュ-NT",
-    "en_text": "Alva Gunslash-NT",
-    "jp_explain": "アークスで使用される改良型の銃剣。\n刃と銃弾の出力増強が行われた結果\n全体的な性能向上がみられる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1702310000",
-    "jp_text": "ヴィタスラッシュ-NT",
-    "en_text": "Vita Gunslash-NT",
-    "jp_explain": "基礎モデルに更なる改良を加えた銃剣。\nフォトン固着率、銃弾の初速度などが\n改善、高度な戦闘に適する性能を得た。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1702320000",
-    "jp_text": "ガンシザー-NT",
-    "en_text": "Gunscissor-NT",
-    "jp_explain": "従来の銃剣の枠を超えた新感覚の銃剣。\n槍先をイメージした特殊形状の両刃で\n鋭く標的に斬り込むことを可能にした。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1702330000",
-    "jp_text": "アルバシザー-NT",
-    "en_text": "Alva Gunscissor-NT",
-    "jp_explain": "新感覚の銃剣を大型化した改良型。\n特殊形状の両刃の出力が増強され\n接近戦における攻撃力を向上させた。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1702340000",
-    "jp_text": "ヴィタシザー-NT",
-    "en_text": "Vita Gunscissor-NT",
-    "jp_explain": "新感覚の銃剣を大型化した最上位機種。\n特殊形状の両刃に配した突起によって\n安定した高いフォトン固着を実現した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1702350000",
-    "jp_text": "ガンハチェット-NT",
-    "en_text": "Gunhatchet-NT",
-    "jp_explain": "銃機能を隠すことに主眼を置いた銃剣。\nソード形状を維持し、銃身は外観からは\nまったく確認できない騙しの武器。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1702360000",
-    "jp_text": "アルバハチェット-NT",
-    "en_text": "Alva Gunhatchet-NT",
-    "jp_explain": "銃機能を隠した銃剣の改良型。\n剣の大型化により、さらに銃機能が\n隠し兵器化し、視認が困難になった。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1702370000",
-    "jp_text": "ヴィタハチェット-NT",
-    "en_text": "Vita Gunhatchet-NT",
-    "jp_explain": "銃機能を隠した銃剣の最終試作機。\n銃も撃てるソードというコンセプトで\nより洗練されたフォームを追求した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1702380000",
-    "jp_text": "ガンスラッシュゼロ-NT",
-    "en_text": "Gunslash Zero-NT",
-    "jp_explain": "発掘品を基に改良した銃剣。\n持ちやすさと扱いやすさにこだわった\n万人向けのモデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1702390000",
-    "jp_text": "ジャレイド-NT",
-    "en_text": "Jareid-NT",
-    "jp_explain": "のこぎりに着想を得た銃剣の試作品。\n剣としての切断力は圧倒的だが、銃は\nアークス標準装備品を流用している。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1702400000",
-    "jp_text": "ディオジャレイド-NT",
-    "en_text": "Dio Jareid-NT",
-    "jp_explain": "試作された銃剣の高出力改良型。\nフォトン固着率を改良と軽量化により\n操作性が向上した次世代標準モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1702410000",
-    "jp_text": "エンペルアキシオン-NT",
-    "en_text": "Emperor Axeon-NT",
-    "jp_explain": "あるハンターが使い続けた伝説の武器。\nその刃には過去への懺悔を刻み\nその銃弾には未来への希望を乗せる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1702420000",
-    "jp_text": "カルデスタ-NT",
-    "en_text": "Cardesta-NT",
-    "jp_explain": "宇宙という海原を駆け巡るにふさわしい\n銃剣。かつて宝を求め航海した人々が\n愛用していたとされる武器を模した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1702430000",
-    "jp_text": "機甲剣メックカタール-NT",
-    "en_text": "Mech Katar-NT",
-    "jp_explain": "武器を身体の一部のように扱う研究を\n基に作られた銃剣。手の甲に直接装着し\nフォトン感応力を最大限に引き出す。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1702440000",
-    "jp_text": "ノクスシュディクス-NT",
-    "en_text": "Nox Schdyx-NT",
-    "jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き銃剣。\n装者も畏怖するほどの莫大な力を宿す。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1702450000",
-    "jp_text": "サーハリングVer2",
-    "en_text": "Sarhaling Ver2",
-    "jp_explain": "巨大なフォトン刃を誇る銃剣。\nバランスが洗練されているからこそ\n可能なフォルムであり、人気が高い。",
-    "en_explain": ""
-  }
+	{
+		"assign": "17000000",
+		"jp_text": "ガンスラッシュ",
+		"en_text": "Gunslash",
+		"jp_explain": "アークスで正式採用されている銃剣。\n片刃の剣と銃を両立させ、任意で機能を\n切り替えられる扱いやすい武器。",
+		"en_explain": ""
+	},
+	{
+		"assign": "17010000",
+		"jp_text": "アルバスラッシュ",
+		"en_text": "Alva Slash",
+		"jp_explain": "アークスで使用される改良型の銃剣。\n刃と銃弾の出力増強が行われた結果\n全体的な性能向上がみられる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "17020000",
+		"jp_text": "ヴィタスラッシュ",
+		"en_text": "Vita Slash",
+		"jp_explain": "基礎モデルに更なる改良を加えた銃剣。\nフォトン固着率、銃弾の初速度などが\n改善、高度な戦闘に適する性能を得た。",
+		"en_explain": ""
+	},
+	{
+		"assign": "17030000",
+		"jp_text": "ガンスレイヤー",
+		"en_text": "Gunslayer",
+		"jp_explain": "アークスで正式採用されている銃剣。\n小型軽量化により操作性を向上させた\n初心者にも扱いやすい人気モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "17040000",
+		"jp_text": "アルバスレイヤー",
+		"en_text": "Alva Slayer",
+		"jp_explain": "アークスで使用される改良型の銃剣。\n銃機能は従来どおりだが、刃の出力を\n増強して攻撃力を向上させた。",
+		"en_explain": ""
+	},
+	{
+		"assign": "17050000",
+		"jp_text": "ヴィタスレイヤー",
+		"en_text": "Vita Slayer",
+		"jp_explain": "基礎モデルに更なる改良を加えた銃剣。\n砲身を伸張し銃機能が強化され、全体に\n刃が広がり高級感ある仕様となった。",
+		"en_explain": ""
+	},
+	{
+		"assign": "17060000",
+		"jp_text": "ガンホーク",
+		"en_text": "Gunhawk",
+		"jp_explain": "アークスで正式採用されている銃剣。\n銃機能の強化をコンセプトに開発され\n台座を独立させた新型モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "17070000",
+		"jp_text": "アルバホーク",
+		"en_text": "Alva Hawk",
+		"jp_explain": "アークスで使用される改良型の銃剣。\n剣と銃、双方の出力を増強し、全体の\n攻撃力を向上させた上位モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "17080000",
+		"jp_text": "ヴィタホーク",
+		"en_text": "Vita Hawk",
+		"jp_explain": "基礎モデルに更なる改良を加えた銃剣。\n銃機能の完成を目指して大型化され\nバランスよく剣も伸張されている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "17090000",
+		"jp_text": "ガンシザー",
+		"en_text": "Gunscissor",
+		"jp_explain": "従来の銃剣の枠を超えた新感覚の銃剣。\n槍先をイメージした特殊形状の両刃で\n鋭く標的に斬り込むことを可能にした。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170100000",
+		"jp_text": "アルバシザー",
+		"en_text": "Alva Scissor",
+		"jp_explain": "新感覚の銃剣を大型化した改良型。\n特殊形状の両刃の出力が増強され\n接近戦における攻撃力を向上させた。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170110000",
+		"jp_text": "ヴィタシザー",
+		"en_text": "Vita Scissor",
+		"jp_explain": "新感覚の銃剣を大型化した最上位機種。\n特殊形状の両刃に配した突起によって\n安定した高いフォトン固着を実現した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170120000",
+		"jp_text": "ガンハチェット",
+		"en_text": "Gunhatchet",
+		"jp_explain": "銃機能を隠すことに主眼を置いた銃剣。\nソード形状を維持し、銃身は外観からは\nまったく確認できない騙しの武器。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170130000",
+		"jp_text": "アルバハチェット",
+		"en_text": "Alva Hatchet",
+		"jp_explain": "銃機能を隠した銃剣の改良型。\n剣の大型化により、さらに銃機能が\n隠し兵器化し、視認が困難になった。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170140000",
+		"jp_text": "ヴィタハチェット",
+		"en_text": "Vita Hatchet",
+		"jp_explain": "銃機能を隠した銃剣の最終試作機。\n銃も撃てるソードというコンセプトで\nより洗練されたフォームを追求した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170150000",
+		"jp_text": "トゥウィスラー",
+		"en_text": "Twizzler",
+		"jp_explain": "銃と剣の完全一体化を果たした銃剣。\n砲身がそのまま剣の両刃を支えており\n無駄のない動きでの攻撃を可能にする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170160000",
+		"jp_text": "ディオトゥウィスラー",
+		"en_text": "Dio Twizzler",
+		"jp_explain": "銃と剣が完全一体化した銃剣の改良型。\n形状はそのままに全体的な出力増強を\n果たし、イメージカラーを一新した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170170000",
+		"jp_text": "ラムダトゥウィスラー",
+		"en_text": "Lambda Twizzler",
+		"jp_explain": "銃と剣が完全一体化した銃剣の最終形。\n完全受注生産で、選択できるカラー\nバリエーションの一番人気。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170180000",
+		"jp_text": "ラムダジャレイド",
+		"en_text": "Lambda Jareid",
+		"jp_explain": "試作された銃剣の銃出力改良型。\n形状はそのままに構造を一新し\n攻撃力を大幅に向上させた。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170190000",
+		"jp_text": "ディオジャレイド",
+		"en_text": "Dio Jareid",
+		"jp_explain": "試作された銃剣の高出力改良型。\nフォトン固着率を改良と軽量化により\n操作性が向上した次世代標準モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170200000",
+		"jp_text": "ジャレイド",
+		"en_text": "Jareid",
+		"jp_explain": "のこぎりに着想を得た銃剣の試作品。\n剣としての切断力は圧倒的だが、銃は\nアークス標準装備品を流用している。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170210000",
+		"jp_text": "サーハリング",
+		"en_text": "Sarhaling",
+		"jp_explain": "巨大なフォトン刃を誇る銃剣。\nバランスが洗練されているからこそ\n可能なフォルムであり、人気が高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170220000",
+		"jp_text": "ネグリング",
+		"en_text": "Neigling",
+		"jp_explain": "サーハリングの近接特化カスタム。\n刃の出力を再度見直し、さらなる\n効率化と威力の向上を図っている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170230000",
+		"jp_text": "ナーゲルリング",
+		"en_text": "Naglering",
+		"jp_explain": "サーハリングの射撃特化カスタム。\n弾体加速へのブーステッドを第一に\n全体のバランスを構築し直している。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170240000",
+		"jp_text": "ブラオレット",
+		"en_text": "Vraolet",
+		"jp_explain": "特異とも言えるフォルムをした銃剣。\n波打つような刃の切れ味は鋭く\n研ぎ澄まされた弾丸もまた、強力。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170250000",
+		"jp_text": "ラムダブラオレット",
+		"en_text": "Lambda Vraolet",
+		"jp_explain": "特異とも言えるフォルムをした銃剣。\n偏執的に性能の向上を追求した結果\n汎用性を犠牲に、高い性能を得た。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170260000",
+		"jp_text": "ディオブラオレット",
+		"en_text": "Dio Vraolet",
+		"jp_explain": "特異とも言えるフォルムをした銃剣。\n汎用性を求め調整を加えた結果\n扱いやすくはなったが、形はそのまま。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170270000",
+		"jp_text": "ガンスラッシュゼロ",
+		"en_text": "Gunslash Zero",
+		"jp_explain": "発掘品を基に改良した銃剣。\n持ちやすさと扱いやすさにこだわった\n万人向けのモデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170280000",
+		"jp_text": "アインマズルガ",
+		"en_text": "Ein Mazurka",
+		"jp_explain": "機械的な部品を多く含む銃剣。\nバランスを保ちつつ、攻撃力を\n底上げした改良品。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170290000",
+		"jp_text": "アキシオン",
+		"en_text": "Axeon",
+		"jp_explain": "バカでかい剣と銃を組み合わせた銃剣。\nムリヤリ作った改造品のため\nバランスが無茶苦茶で使い手を選ぶ。",
+		"en_explain": "Gunslash made from combining a\ngun and a sword. Forcibly\nthrown together, it is unbalanced."
+	},
+	{
+		"assign": "170300000",
+		"jp_text": "カラカサジコミ",
+		"en_text": "Karakasa Jikomi",
+		"jp_explain": "雨を好む幽霊が持ち歩くという銃剣。\nなぜだか、相手の恐怖心を誘う。\nしとしとと小雨の降る夜にはご注意。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170310000",
+		"jp_text": "レイデュプル",
+		"en_text": "Ray Duplex",
+		"jp_explain": "透き通る美しいフォルムを持つ銃剣。\n使いやすさを向上させ、バランスの\n取れた性能を実現させている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170320000",
+		"jp_text": "ソニックレイザー",
+		"en_text": "Sonic Laser",
+		"jp_explain": "目にも留まらぬ速さを秘めた銃剣。\n使い手にも熟練の技術が必要となるが\n使いこなせれば最速最強。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170330000",
+		"jp_text": "ネグリングゼロ",
+		"en_text": "Neigling Zero",
+		"jp_explain": "銃剣の開発者と言われる巨匠イッコウの\n名作。銃として見ても、剣として見ても\n申し分のない、珠玉の作品。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170340000",
+		"jp_text": "ブラオレットゼロ",
+		"en_text": "Vraolet Zero",
+		"jp_explain": "その巨大さと性能で注目を集めた銃剣。\n扱うには、相当の純粋な力を必要とし\n持ち手を選ぶ武器。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170350000",
+		"jp_text": "ネルシール",
+		"en_text": "Nersir",
+		"jp_explain": "全てにおいて高性能を誇る銃剣。\n銃の攻撃力を損なわず、剣としての\n性能も求める者のために作られた。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170360000",
+		"jp_text": "ガンブレイバー",
+		"en_text": "Gunbraver",
+		"jp_explain": "発掘品をもとに改良した銃剣。\n銃身に加工を加え、初弾速と切れ味を\n向上させている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170370000",
+		"jp_text": "デオマズルガ",
+		"en_text": "Deo Mazurka",
+		"jp_explain": "機械的な部品を含む銃剣。\n攻撃力と共に、武器自身の耐久力を\n大きく強化したモデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170380000",
+		"jp_text": "ロードアキシオン",
+		"en_text": "Lord Axeon",
+		"jp_explain": "アキシオンに改良を加えた銃剣。\nあるハンターの想い出の品であり\n命を預ける武器でもあった。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170390000",
+		"jp_text": "バンガサジコミ",
+		"en_text": "Bangasa Jikomi",
+		"jp_explain": "小粋なロウニンが好んで使う銃剣。\nふざけているようだが、その攻撃力は\n想像以上にすさまじい。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170400000",
+		"jp_text": "クリアデュプル",
+		"en_text": "Clear Duplex",
+		"jp_explain": "透き通る美しいフォルムを持つ銃剣。\n全体に強化が施され、より扱いやすく\nそして強力になったアッパーモデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170410000",
+		"jp_text": "セレスタレイザー",
+		"en_text": "Celesta Laser",
+		"jp_explain": "スタイリッシュな作りが人気の銃剣。\n様々な戦闘スタイルに、武器が合わせ\n最高の形で応えてくれるという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170420000",
+		"jp_text": "ナーゲルリングゼロ",
+		"en_text": "Naglering Zero",
+		"jp_explain": "巨匠イッコウが出した銃剣の答え。\n銃であり剣であるというコンセプトを\n貫き通した名作。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170430000",
+		"jp_text": "フリギアエンド",
+		"en_text": "Frigiand",
+		"jp_explain": "各所で最高傑作とうたわれた銃剣。\n赤い刃と舞う銃弾が、相対する敵に\n終わりを予感させると言わしめた。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170440000",
+		"jp_text": "ネイダリール",
+		"en_text": "Neidaryl",
+		"jp_explain": "見た目にもこだわりを感じる銃剣。\nフォトンの細かなバランスにまで\n気を配った最高級品といわれる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170450000",
+		"jp_text": "エンペルアキシオン",
+		"en_text": "Emperor Axeon",
+		"jp_explain": "あるハンターが使い続けた伝説の武器。\nその刃には過去への懺悔を刻み\nその銃弾には未来への希望を乗せる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170460000",
+		"jp_text": "クルールコフィン",
+		"en_text": "Cruel Coffin",
+		"jp_explain": "永久凍土の氷を利用し作られた銃剣。\n白く冷たい輝きを放つ銃身からは\n絶対零度の如き弾丸が放たれる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170470000",
+		"jp_text": "ルージュコフィン",
+		"en_text": "Rouge Coffin",
+		"jp_explain": "永久凍土の氷を利用し作られた銃剣。\n氷に対するフォトンの感度を調整し\n全体がほのかに紅色を帯びた改良型。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170480000",
+		"jp_text": "ブルーコフィン",
+		"en_text": "Blue Coffin",
+		"jp_explain": "永久凍土の氷を利用し作られた銃剣。\nフレーム部分の強化に伴い、藍色を\n基調としたフォルムになった改良型。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170490000",
+		"jp_text": "ブロックベロウ",
+		"en_text": "Block Bellow",
+		"jp_explain": "地下坑道の奥地で発見された素材を\n基に再構築されて作られた銃剣。\n質が良く、高い性能でまとまっている。",
+		"en_explain": "Gunslash made from materials\non Lilipa. It is of good\nquality and has high performance."
+	},
+	{
+		"assign": "170510000",
+		"jp_text": "ダガンスラッシュ",
+		"en_text": "Daganslash",
+		"jp_explain": "ダガンの構成パラメータを解析し\n強固な外殻を銃剣として組み上げた。\nダガンに見間違える、精巧な一品。",
+		"en_explain": "Gunslash made from a Dagan.\nThis sophisticated weapon is\noften mistaken for a dagan."
+	},
+	{
+		"assign": "170520000",
+		"jp_text": "シグノブレイバー",
+		"en_text": "Signo Braver",
+		"jp_explain": "シグノビートの腕部機構を使った銃剣。\n鋭い刃はそのままに銃弾の発射機構まで\n付随し、それでいて高い性能を保持。",
+		"en_explain": "Gunslash made from a Signo Beat.\nDespite being built together,\nboth parts retain high power."
+	},
+	{
+		"assign": "170530000",
+		"jp_text": "トラメガッシュ",
+		"en_text": "Tramegash",
+		"jp_explain": "拡声器の形に偽装された銃剣。\n刃が飛び出すだけでなく、奇抜な弾丸を\n飛ばすというおかしなギミックが満載。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170560000",
+		"jp_text": "ロードアキシオン／ナハト",
+		"en_text": "Lord Axeon / Nacht",
+		"jp_explain": "闇夜の色を抱く銃剣。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170570000",
+		"jp_text": "フロムベロウ",
+		"en_text": "Fromm Bellow",
+		"jp_explain": "地下坑道の奥地で発見された素材を\n利用して製造された銃剣。\n打突による破砕力に優れている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170580000",
+		"jp_text": "ロエリアベロウ",
+		"en_text": "Roelia Bellow",
+		"jp_explain": "地下坑道の奥地で発見された素材を\n解析して作られた銃剣。非常に高い\n性能でまとまっているが、重い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170590000",
+		"jp_text": "アーレスバスター",
+		"en_text": "Ares Buster",
+		"jp_explain": "一角獣の幻獣の力を宿した銃剣。装者に\nフォトンブラストの効果で貫く力を\n与え、あらゆるものを断ち切る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170600000",
+		"jp_text": "仲秋丸",
+		"en_text": "Chuushuumaru",
+		"jp_explain": "葉の色変わりを表現した刃が美しい\n伝統的な装飾の施された銃剣。\n振るうのがためらわれるほどの出来。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170670000",
+		"jp_text": "ネーロパラソーレ",
+		"en_text": "Nero Parasol",
+		"jp_explain": "強い日射しを遮断するための道具を\n模して作られたれっきとした銃剣。\n黒は紫外線を多く吸収するという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170690000",
+		"jp_text": "ルフネシア",
+		"en_text": "Lufnesia",
+		"jp_explain": "可動式の仕掛けが特徴的な銃剣。\n手の甲を全体的に覆うデザインは\n接近戦での戦闘を考慮したため。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170700000",
+		"jp_text": "機甲剣メックカタール",
+		"en_text": "Mech Katar",
+		"jp_explain": "武器を身体の一部のように扱う研究を\n基に作られた銃剣。手の甲に直接装着し\nフォトン感応力を最大限に引き出す。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170750000",
+		"jp_text": "ステルスウェポン：ＧＳ",
+		"en_text": "Stealth Weapon: GS",
+		"jp_explain": "認識不能な武器。\n形状はガンスラッシュ型。",
+		"en_explain": "Unknown Weapon.\nSeems to be in the shape of\na Gunslash."
+	},
+	{
+		"assign": "170760000",
+		"jp_text": "赤のガンスラッシュ",
+		"en_text": "Red Gunslash",
+		"jp_explain": "試験的にカラーリングを\nシンボリックにした銃剣。\n目映い赤色は必然的に目を引く。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170770000",
+		"jp_text": "青のガンスラッシュ",
+		"en_text": "Blue Gunslash",
+		"jp_explain": "試験的にカラーリングを\nシンボリックにした銃剣。\n目映い青色は必然的に目を引く。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170790000",
+		"jp_text": "Ａライザー／ナハト",
+		"en_text": "Astral Riser / Nacht",
+		"jp_explain": "闇夜の色を抱く銃剣。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170800000",
+		"jp_text": "ビアンコパラソーレ",
+		"en_text": "Bianco Parasol",
+		"jp_explain": "強い日射しを遮断するための道具を\n模して作られたれっきとした銃剣。\n涼しげな白は日光をほどよく反射する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170850000",
+		"jp_text": "戒剣ナナキ",
+		"en_text": "Nanaki",
+		"jp_explain": "■",
+		"en_explain": ""
+	},
+	{
+		"assign": "170890000",
+		"jp_text": "クイーンヴィエラ",
+		"en_text": "Queen Viera",
+		"jp_explain": "銃器の要素を多く取り入れ、扱い\nやすさを高めた銃剣。軽量だが\nフォトンで出来た弾丸の威力は本物。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170920000",
+		"jp_text": "カリブルヌス",
+		"en_text": "Caliburnus",
+		"jp_explain": "回転衝角を刃に持つ独特な形をした\n銃剣。その刃は破砕力に優れており\n放たれる弾丸は、貫通力に優れる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170950000",
+		"jp_text": "コールサイファー",
+		"en_text": "Call Cipher",
+		"jp_explain": "不思議な文様の刻まれた刃が特徴的な\n銃剣。透き通った美しいフォトンの刃は\n弾丸としても研ぎ澄まされている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170960000",
+		"jp_text": "ルベルサイファー",
+		"en_text": "Rubel Cypher",
+		"jp_explain": "特徴的な文様が刻み込まれた銃剣。\nほのかに赤色に染まったフォトンの刃は\n触れるものを容易に切り裂くという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170980000",
+		"jp_text": "セレスタレイザー／ナハト",
+		"en_text": "Celesta Laser / Nacht",
+		"jp_explain": "闇夜の色を抱く銃剣。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "170990000",
+		"jp_text": "エクスリーザー",
+		"en_text": "Ex Lieser",
+		"jp_explain": "ドラゴン・エクスの鱗を用いて\n作られた銃剣。切れ味もさることながら\n弾の初速が高く、威力も抜群。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701010000",
+		"jp_text": "ノワルリーザー",
+		"en_text": "Noire Lieser",
+		"jp_explain": "ノワル・ドラールの鱗を用いて\n作られた銃剣。触れれば切り裂き\n離れれば撃ち砕く距離を選ばない武器。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701030000",
+		"jp_text": "リカスネシア",
+		"en_text": "Licasnesia",
+		"jp_explain": "可動式の仕掛けが特徴的な銃剣。\n切替時のもたつきを解消するため\n操作の簡略が行われた上級モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701050000",
+		"jp_text": "ピュアルサード",
+		"en_text": "Purelthird",
+		"jp_explain": "蒸気エネルギーで効能を増幅した銃剣。\n銃剣には珍しい高速回転刃の採用により\n剣の攻撃力が著しく向上したレア品。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701070000",
+		"jp_text": "バイオスリドゥン",
+		"en_text": "Bio Slidawn",
+		"jp_explain": "最先端の生体工学を応用し開発された\n銃剣。フォトン循環による自律制御で\n大型化による不安定をすべて解消した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701080000",
+		"jp_text": "ライブスリドゥン",
+		"en_text": "Live Slidawn",
+		"jp_explain": "最先端の生体工学を応用し開発された\n銃剣。高純度培養液の働きで安定した\n形状を保ち、素速く攻撃態勢を整える。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701100000",
+		"jp_text": "ビスケドロプ",
+		"en_text": "Biskedrop",
+		"jp_explain": "パティシエが宣伝用に製作した銃剣。\n細かな所までこだわり設計された。\nでも食べられません。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701110000",
+		"jp_text": "アラオスラッシュ",
+		"en_text": "Arao Slash",
+		"jp_explain": "惑星リリーパの各種データを基に開発\nされた銃剣。銃と剣がそれぞれ現地での\n戦闘活動に最適化されている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701120000",
+		"jp_text": "カルデスタ",
+		"en_text": "Cardesta",
+		"jp_explain": "宇宙という海原を駆け巡るにふさわしい\n銃剣。かつて宝を求め航海した人々が\n愛用していたとされる武器を模した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701130000",
+		"jp_text": "シャットラウンダー",
+		"en_text": "Shut Rounder",
+		"jp_explain": "円状グリップの回転で変形する銃剣。\n二枚の刃が銃身を支え\n射撃の精度を向上させている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701150000",
+		"jp_text": "ベントラウンダー",
+		"en_text": "Bent Rounder",
+		"jp_explain": "円状グリップの回転で変形する銃剣。\n銃身と刃を繋ぐ部分の素材を\nより強靭なものにした改良モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701160000",
+		"jp_text": "エクサグラフ",
+		"en_text": "Exa Graph",
+		"jp_explain": "既存の武器に満足できないアークスが\n独自開発した銃剣。砲台スライドによる\n銃機構と剣機構の切り替えが斬新。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701270000",
+		"jp_text": "カルデリフク",
+		"en_text": "",
+		"jp_explain": "宇宙という海原を駆け巡るにふさわしい\n銃剣。二対の武骨な刃は相対する\n敵に恐怖を抱かせる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701320000",
+		"jp_text": "ダルスヘイアン",
+		"en_text": "Dalz Heian",
+		"jp_explain": "ダークファルスの身体機能を武器として\n使用可能にした銃剣。赤と黒の銃身から\n放たれる光弾は驚異的な攻撃力を誇る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701330000",
+		"jp_text": "バウカーディン",
+		"en_text": "Baucardin",
+		"jp_explain": "機能性を重視して開発された銃剣。\n衝撃に強い素材で作られていて\n軽量ながら、強度は高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701350000",
+		"jp_text": "テスロカーディン",
+		"en_text": "Tesro Cadin",
+		"jp_explain": "機能性を重視して開発された銃剣。\n内部構造を見直したことで\nフレームの安定度が増した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701360000",
+		"jp_text": "ホークフィアンマ",
+		"en_text": "Hawk Fiamma",
+		"jp_explain": "基本に立ち返って設計された銃剣。\nフォトンを伝導させた金属製の刃は\n高い切れ味と堅牢性を誇る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701390000",
+		"jp_text": "ファーレンシュテイク",
+		"en_text": "Fahrensteg",
+		"jp_explain": "大勢のためでなく、ただひとりのために\n刀匠ジグが創り上げた銃剣。\nそれは、彼の情熱の結晶。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701420000",
+		"jp_text": "ガヴェジスト",
+		"en_text": "Gavethyst",
+		"jp_explain": "重厚で威圧的なデザインの銃剣。\n独特の形状は、高濃度のフォトンで\n出来た広い刃を支えるため。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701450000",
+		"jp_text": "グルベスタ",
+		"en_text": "Gurbesta",
+		"jp_explain": "重厚で環境の影響を受けづらい作りの\n銃剣。内部に特殊な機構を持ち、どんな\n環境下でも安定した戦闘を行える。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701480000",
+		"jp_text": "リグガヴエル",
+		"en_text": "Riggavuel",
+		"jp_explain": "幾何学的なデザインが目を引く銃剣。\n切替時に大きく形状が変わらないため\n判別が付きづらく、隙をつきやすい。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701610000",
+		"jp_text": "ネメシススラッシュ",
+		"en_text": "Nemesis Slash",
+		"jp_explain": "古の時代に封印された聖なる銃剣。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701620000",
+		"jp_text": "スレイヴスラッシュ",
+		"en_text": "Slave Slash",
+		"jp_explain": "古の時代に封印された邪なる銃剣。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701660000",
+		"jp_text": "ビターソング",
+		"en_text": "Bitter Song",
+		"jp_explain": "音楽をこよなく愛するアークスが企画し\n開発した銃剣。シンプルながらも頑丈。\nこれを使えば、主役級間違いなし。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701690000",
+		"jp_text": "紫黒桜",
+		"en_text": "Shiguro Sakura",
+		"jp_explain": "春の宵を思わせる色合いが美しい銃剣。\nフレームに描かれた桜と波紋は見事で\n至極の逸品と言えるほどの出来映え。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701700000",
+		"jp_text": "イデアルバネット",
+		"en_text": "Ideal Banette",
+		"jp_explain": "新開発のフォトンジェネレーターを\n搭載した銃剣。発せられる\nフォトンの輝きは次代の証とされる。",
+		"en_explain": "A Gunslash powered by a\nPhoton Generator. Witness its\nnext generation photon shine."
+	},
+	{
+		"assign": "1701740000",
+		"jp_text": "リンドオネット",
+		"en_text": "Lind Onett",
+		"jp_explain": "次元を越えるほどの力を秘めた銃剣。\n眩いフォトンの輝きが持つ力は\n空間を歪めるといわれている。",
+		"en_explain": "A gunslash with the power of\ndimensions. Its said to distort space\nwith its dazzling photons."
+	},
+	{
+		"assign": "1701770000",
+		"jp_text": "スカルシュクター",
+		"en_text": "Skull Schecter",
+		"jp_explain": "死者の念が乗り移ったとされる禍々しき\nオーラを放つ銃剣。仄かに輝く青い光に\n狙われたら最後、死が訪れるという。",
+		"en_explain": "A gunslash possessing the cold\nfeeling of death. Its shining\nblue aura calls Death to visit."
+	},
+	{
+		"assign": "1701840000",
+		"jp_text": "ノクスシュディクス",
+		"en_text": "Nox Schdyx",
+		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き銃剣。\n装者も畏怖するほどの莫大な力を宿す。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1701900000",
+		"jp_text": "インヴェイドバスター",
+		"en_text": "Invade Buster",
+		"jp_explain": "【深遠なる闇】より生まれし負の銃剣。\n装者は非常なる辣腕を有するも\n禍災をもたらす牽引者と化す。",
+		"en_explain": "A Gunslash born from the [Profound Darkness].\nIts the manifestation of woefullness that\nbears the fruit of shrewdness."
+	},
+	{
+		"assign": "1701910000",
+		"jp_text": "オフスティアバスター",
+		"en_text": "Austere Buster",
+		"jp_explain": "負の力を識り、制することで転化した\n浄化の銃剣。装者は授けられた才覚で\n悪者を討ち取り、災禍を鎮める。",
+		"en_explain": "A purified Gunslash.\nIts said that it has the power\nto quell disasters."
+	},
+	{
+		"assign": "1702010000",
+		"jp_text": "マーセナリスターロード",
+		"en_text": "Mercenary Star Road",
+		"jp_explain": "拳銃に巨大なブレードを接続した銃剣。\n汎用性を高めるため、拳銃に大規模な\n近接戦向けのカスタマイズを施した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1702030000",
+		"jp_text": "マーセナリシュバルツ",
+		"en_text": "Mercenary Schwarz",
+		"jp_explain": "拳銃に巨大なブレードを接続した銃剣。\n木製グリップなどがアンティーク品を\n思わせるが、まだまだ現役。",
+		"en_explain": "A Gunslash with a huge blade.\nIt seems to have antiques,\nsuch as a wooden grip\nfeatured on the weapon."
+	},
+	{
+		"assign": "1702110000",
+		"jp_text": "リグジエンザー",
+		"en_text": "Rig Dienzer",
+		"jp_explain": "伝説の生物を機械的に再現した銃剣。\n頭部を模した銃身から放たれる弾丸は\n烈火の如く燃え盛り、対象を焼き払う。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1702130000",
+		"jp_text": "ジグマジエンザー",
+		"en_text": "Sigma Dienzer",
+		"jp_explain": "伝説の生物を機械的に再現した銃剣。\n内部に強力なジェネレーターを搭載し\n小柄ながらも高い性能を発揮する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1702140000",
+		"jp_text": "スラッシュレボルシオ",
+		"en_text": "Slash Revolucio",
+		"jp_explain": "新開発の演算装置を搭載した銃剣。\n装者の思考や戦況を分析することで\n出力を最適に保ち、負荷を軽減する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1702250000",
+		"jp_text": "レイスラッシュ",
+		"en_text": "Ray Slash",
+		"jp_explain": "次世代の主力として開発された銃剣。\n基礎モデルの直系の後継機であり\n出力、安定性共に高いスペックを誇る。",
+		"en_explain": "A Gunslash developed as the latest\nmodel, boasting high photon stability\nwith next-gen specifications."
+	},
+	{
+		"assign": "1702290000",
+		"jp_text": "ガンスラッシュ-NT",
+		"en_text": "Gunslash-NT",
+		"jp_explain": "アークスで正式採用されている銃剣。\n片刃の剣と銃を両立させ、任意で機能を\n切り替えられる扱いやすい武器。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1702300000",
+		"jp_text": "アルバスラッシュ-NT",
+		"en_text": "Alva Gunslash-NT",
+		"jp_explain": "アークスで使用される改良型の銃剣。\n刃と銃弾の出力増強が行われた結果\n全体的な性能向上がみられる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1702310000",
+		"jp_text": "ヴィタスラッシュ-NT",
+		"en_text": "Vita Gunslash-NT",
+		"jp_explain": "基礎モデルに更なる改良を加えた銃剣。\nフォトン固着率、銃弾の初速度などが\n改善、高度な戦闘に適する性能を得た。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1702320000",
+		"jp_text": "ガンシザー-NT",
+		"en_text": "Gunscissor-NT",
+		"jp_explain": "従来の銃剣の枠を超えた新感覚の銃剣。\n槍先をイメージした特殊形状の両刃で\n鋭く標的に斬り込むことを可能にした。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1702330000",
+		"jp_text": "アルバシザー-NT",
+		"en_text": "Alva Gunscissor-NT",
+		"jp_explain": "新感覚の銃剣を大型化した改良型。\n特殊形状の両刃の出力が増強され\n接近戦における攻撃力を向上させた。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1702340000",
+		"jp_text": "ヴィタシザー-NT",
+		"en_text": "Vita Gunscissor-NT",
+		"jp_explain": "新感覚の銃剣を大型化した最上位機種。\n特殊形状の両刃に配した突起によって\n安定した高いフォトン固着を実現した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1702350000",
+		"jp_text": "ガンハチェット-NT",
+		"en_text": "Gunhatchet-NT",
+		"jp_explain": "銃機能を隠すことに主眼を置いた銃剣。\nソード形状を維持し、銃身は外観からは\nまったく確認できない騙しの武器。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1702360000",
+		"jp_text": "アルバハチェット-NT",
+		"en_text": "Alva Gunhatchet-NT",
+		"jp_explain": "銃機能を隠した銃剣の改良型。\n剣の大型化により、さらに銃機能が\n隠し兵器化し、視認が困難になった。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1702370000",
+		"jp_text": "ヴィタハチェット-NT",
+		"en_text": "Vita Gunhatchet-NT",
+		"jp_explain": "銃機能を隠した銃剣の最終試作機。\n銃も撃てるソードというコンセプトで\nより洗練されたフォームを追求した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1702380000",
+		"jp_text": "ガンスラッシュゼロ-NT",
+		"en_text": "Gunslash Zero-NT",
+		"jp_explain": "発掘品を基に改良した銃剣。\n持ちやすさと扱いやすさにこだわった\n万人向けのモデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1702390000",
+		"jp_text": "ジャレイド-NT",
+		"en_text": "Jareid-NT",
+		"jp_explain": "のこぎりに着想を得た銃剣の試作品。\n剣としての切断力は圧倒的だが、銃は\nアークス標準装備品を流用している。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1702400000",
+		"jp_text": "ディオジャレイド-NT",
+		"en_text": "Dio Jareid-NT",
+		"jp_explain": "試作された銃剣の高出力改良型。\nフォトン固着率を改良と軽量化により\n操作性が向上した次世代標準モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1702410000",
+		"jp_text": "エンペルアキシオン-NT",
+		"en_text": "Emperor Axeon-NT",
+		"jp_explain": "あるハンターが使い続けた伝説の武器。\nその刃には過去への懺悔を刻み\nその銃弾には未来への希望を乗せる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1702420000",
+		"jp_text": "カルデスタ-NT",
+		"en_text": "Cardesta-NT",
+		"jp_explain": "宇宙という海原を駆け巡るにふさわしい\n銃剣。かつて宝を求め航海した人々が\n愛用していたとされる武器を模した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1702430000",
+		"jp_text": "機甲剣メックカタール-NT",
+		"en_text": "Mech Katar-NT",
+		"jp_explain": "武器を身体の一部のように扱う研究を\n基に作られた銃剣。手の甲に直接装着し\nフォトン感応力を最大限に引き出す。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1702440000",
+		"jp_text": "ノクスシュディクス-NT",
+		"en_text": "Nox Schdyx-NT",
+		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き銃剣。\n装者も畏怖するほどの莫大な力を宿す。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1702450000",
+		"jp_text": "サーハリングVer2",
+		"en_text": "Sarhaling Ver2",
+		"jp_explain": "巨大なフォトン刃を誇る銃剣。\nバランスが洗練されているからこそ\n可能なフォルムであり、人気が高い。",
+		"en_explain": ""
+	}
 ]
