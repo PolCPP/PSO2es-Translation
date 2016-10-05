@@ -18,7 +18,7 @@ It's possible that sega updates the game and esbreaker stops working (it will sp
 
 Just grab the current pso2es ContentsSerializer.dll, protobuf-net.dll, ProtoBuffSerializer.dll, and assembly-firstpass.dll  renamed to fp.dll and replace the files in ESBreaker_Data/Managed and it will just work.
 
-**May 19th note**  If you're using a version of esbreaker older than the one from today _(dubbed Phantom Esbreaker)_ it will partially fail and mess up some files like side stories so please upgrade.
+**May 19th note**  If you're using a version of esbreaker older than the one from today _(dubbed AIDA nudes)_ it will partially fail and mess up some files like side stories so please upgrade.
 
 ## Credits
 
