@@ -37,7 +37,7 @@
 	{
 		"assign": "0007",
 		"jp_text": "<color=#f0df60>＜フレンドアシスト＞</color>\nフレンドアシスト、活用していますか？\nバトル中、画面右下の武器のアイコンが点灯したら\n発動できますよ。",
-		"en_text": "<color=#f0df60>＜Player Tips＞</color>\nHave you been using Friend Assist?\nYou can use it in battle when\nthe weapon icon in the right corner\nlights up."
+		"en_text": "<color=#f0df60>＜Friend Assist＞</color>\nHave you been using Friend Assist?\nYou can use it in battle when\nthe weapon icon in the right corner\nlights up."
 	},
 	{
 		"assign": "0008",
@@ -57,7 +57,7 @@
 	{
 		"assign": "0011",
 		"jp_text": "<color=#f0df60>＜エリアについて＞</color>\n冒険に出発するときは\nまず、出撃するマップである「エリア」を選び\n次に、エリアの中から「クエスト」を選びます。",
-		"en_text": "<color=#f0df60>＜Areas＞</color>\nWhen starting a mission,\nfirst select the area you'd like\nto travel to, then select a quest."
+		"en_text": "<color=#f0df60>＜Area＞</color>\nWhen starting a mission,\nfirst select the area you'd like\nto travel to, then select a quest."
 	},
 	{
 		"assign": "0012",
@@ -137,7 +137,7 @@
 	{
 		"assign": "0027",
 		"jp_text": "<color=#f0df60>＜スペシャルクエスト＞</color>\nチップ解放の素材となるチップは\n日替わりで配信される\nスペシャルクエストで入手可能ですよ！",
-		"en_text": "<color=#f0df60>＜スペシャルクエスト＞</color>\nチップ解放の素材となるチップは\n日替わりで配信される\nスペシャルクエストで入手可能ですよ！"
+		"en_text": "<color=#f0df60>＜Chinese Cartoons＞</color>\nYou and I both know you searched up rule 34 on me."
 	},
 	{
 		"assign": "0028",
@@ -222,12 +222,12 @@
 	{
 		"assign": "0044",
 		"jp_text": "<color=#f0df60>＜ダーカーの弱点属性＞</color>\n蟲系ダーカーは炎と光、\n魚介系ダーカーは雷と光が弱点属性です。\nいずれのダーカーも、光属性は共通した弱点ですね。",
-		"en_text": "<color=#f0df60>＜Darker Weaknesses＞</color>\nDarkers are generally weak against\nflame and light. Water-based Darkers\nare weak against thunder and light.\nMost darkers are weak against light."
+		"en_text": "<color=#f0df60>＜Darker Weaknesses＞</color>\nDarkers are generally weak against\nFire and Light. Aquatic Darkers\nare weak against Lightning and Light.\nMost darkers are weak against light."
 	},
 	{
 		"assign": "0045",
 		"jp_text": "<color=#f0df60>＜レアドロップ＞</color>\nクエスト選択画面の「クエスト情報」では\nボスがまれに落とす「レアドロップ」アイテムが\n表示されています。\nほしいアイテムがあったら、そのクエストに\n何度もチャレンジしてみましょう。",
-		"en_text": "<color=#f0df60>＜Rare Drops＞</color>\nThe quest information will display\nrare drop items that the boss may drop.\nIf you want these items, you may\nhave to do the quest many times."
+		"en_text": "<color=#f0df60>＜Rare Drops＞</color>\n.The quest information will display\nrare drop items that the boss may drop.\nIf you want these items, you may\nhave to repeat the quest multiple times."
 	},
 	{
 		"assign": "0046",
@@ -537,12 +537,12 @@
 	{
 		"assign": "0107",
 		"jp_text": "<color=#f0df60>＜クラス「ガンナー」を解放しよう＞</color>\nこのクエストをクリアすると、追加クラス\n「ガンナー」が選択できるようになりますよ。\nがんばってくださいね！",
-		"en_text": "<color=#f0df60>＜Unlocking Fighter＞</color>\nIf you clear this quest, you will\nunlock the \"Gunner\" class.\nDo your best!"
+		"en_text": "<color=#f0df60>＜Unlocking Gunner＞</color>\nIf you clear this quest, you will\nunlock the \"Gunner\" class.\nDo your best!"
 	},
 	{
 		"assign": "0108",
 		"jp_text": "<color=#f0df60>＜クラス「テクター」を解放しよう＞</color>\nこのクエストをクリアすると、追加クラス\n「テクター」が選択できるようになりますよ。\nがんばってくださいね！",
-		"en_text": "<color=#f0df60>＜Unlocking Fighter＞</color>\nIf you clear this quest, you will\nunlock the \"Techer\" class.\nDo your best!"
+		"en_text": "<color=#f0df60>＜Unlocking Techer＞</color>\nIf you clear this quest, you will\nunlock the \"Techer\" class.\nDo your best!"
 	},
 	{
 		"assign": "0109",
@@ -732,7 +732,7 @@
 	{
 		"assign": "0146",
 		"jp_text": "<color=#f0df60>＜コーエン博士の話＞</color>\n父の話、もっと早く話してくださいよっ！\nえっ、話そうとした？\nえーと……そうでしたっけ？　えーと……",
-		"en_text": "<color=#f0df60>＜コーエン博士の話＞</color>\n父の話、もっと早く話してくださいよっ！\nえっ、話そうとした？\nえーと……そうでしたっけ？　えーと……"
+		"en_text": ""
 	},
 	{
 		"assign": "0147",
@@ -742,17 +742,17 @@
 	{
 		"assign": "0148",
 		"jp_text": "<color=#f0df60>＜博士を追って遺跡へ！＞</color>\nさあ、再び遺跡エリアの探索ですよ！\n父を捜しましょう！\n表情はいつもと変わってないよう見えるでしょうが\n私は今、とても張り切っています！",
-		"en_text": "<color=#f0df60>＜博士を追って遺跡へ！＞</color>\nさあ、再び遺跡エリアの探索ですよ！\n父を捜しましょう！\n表情はいつもと変わってないよう見えるでしょうが\n私は今、とても張り切っています！"
+		"en_text": ""
 	},
 	{
 		"assign": "0149",
 		"jp_text": "<color=#f0df60>＜ドノヴァンについて＞</color>\n父と一緒に行動しているドノヴァンは\n昔から、父の研究を支えた腕利きのハンターです。\n無口で物静かですが\n私が小さいころは、よく一緒に遊んでくれました。",
-		"en_text": "<color=#f0df60>＜ドノヴァンについて＞</color>\n父と一緒に行動しているドノヴァンは\n昔から、父の研究を支えた腕利きのハンターです。\n無口で物静かですが\n私が小さいころは、よく一緒に遊んでくれました。"
+		"en_text": ""
 	},
 	{
 		"assign": "0150",
 		"jp_text": "<color=#f0df60>＜遺跡の奥地＞</color>\n遺跡のかなり奥まで進んできました……\n登場するエネミーもかなり強力になっています。\n気をつけて進んでください。",
-		"en_text": "<color=#f0df60>Translations!</color>\nIf you wish to see about\nhelping to translate PSO2es,\nThen visit us at github.com/PolCPP/PSO2es-Translation"
+		"en_text": ""
 	},
 	{
 		"assign": "0151",
