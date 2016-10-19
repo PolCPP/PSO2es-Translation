@@ -989,7 +989,7 @@
 	{
 		"assign": "5301820000",
 		"jp_text": "レッグ／ベンダマーニ",
-		"en_text": "",
+		"en_text": "Leg / Benda Magni",
 		"jp_explain": "脚部ユニット。繊細な造りが特徴。\n打撃、射撃への耐性と\n最大ＨＰと各種防御を上昇させる。",
 		"en_explain": ""
 	},
@@ -1015,6 +1015,13 @@
 		"en_explain": ""
 	},
 	{
+		"assign": "5302410000",
+		"jp_text": "レッグ／抱っこニャウ",
+		"en_text": "Leg / Hug Nyau",
+		"jp_explain": "脚部ユニット。ニャウが守ってくれる。\n打撃、射撃、法撃属性の耐性と\n最大ＨＰ、打撃防御を上昇させる。",
+		"en_explain": ""
+	},
+	{
 		"assign": "5302430000",
 		"jp_text": "レッグ／サイハニセン",
 		"en_text": "Leg / Saiha Nisen",
@@ -1031,14 +1038,14 @@
 	{
 		"assign": "5302470000",
 		"jp_text": "レッグ／インヴェリーフ",
-		"en_text": "Leg / Invade Reef",
+		"en_text": "Leg / Invarif",
 		"jp_explain": "脚部ユニット。【深遠なる闇】の残骸。\n打射法撃、炎、雷、闇属性の耐性と\nＨＰ、ＰＰ、各種防御を上昇させる。",
 		"en_explain": ""
 	},
 	{
 		"assign": "5302480000",
 		"jp_text": "レッグ／オフゼリーフ",
-		"en_text": "Leg / Austere Reef",
+		"en_text": "Leg / Austerif",
 		"jp_explain": "脚部ユニット。【深遠なる闇】の残骸。\n打射法撃、氷、風、光属性の耐性と\nＨＰ、ＰＰ、各種防御を上昇させる。",
 		"en_explain": ""
 	},
@@ -1047,6 +1054,13 @@
 		"jp_text": "レッグ／雷剛タガツチ",
 		"en_text": "Leg / Thunder Tagatsuchi",
 		"jp_explain": "脚部ユニット。雷玉の力で保護する。\n打撃、法撃、雷、光属性の耐性と\nＨＰ、ＰＰ、各種防御を上昇させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "5302580000",
+		"jp_text": "レッグ／サークレイ",
+		"en_text": "Leg / Circ Ray",
+		"jp_explain": "脚部ユニット。新開発された次世代型。\n打撃、射撃、法撃属性の耐性と\n各種攻撃、防御を上昇させる。",
 		"en_explain": ""
 	}
 ]
