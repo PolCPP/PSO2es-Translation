@@ -147,6 +147,27 @@
 		"en_explain": "A Candy for your pet.\nPet PP & HP increased when placed."
 	},
 	{
+		"assign": "3400540000",
+		"jp_text": "パワアムクッキー",
+		"en_text": "Power-Arm Cookie",
+		"jp_explain": "ペット用のキャンディー。\nキャンディーボックスに設置することで\nペットの打撃力と技量が上昇。",
+		"en_explain": "A Candy for your pet.\nPet S-ATK and DEX\nincreased when placed."
+	},
+	{
+		"assign": "3400550000",
+		"jp_text": "パワアムクッキー＋１",
+		"en_text": "Power-Arm Cookie+1",
+		"jp_explain": "ペット用のキャンディー。\nキャンディーボックスに設置することで\nペットの打撃力と技量が上昇。",
+		"en_explain": "A Candy for your pet.\nPet S-ATK and DEX\nincreased when placed."
+	},
+	{
+		"assign": "3400560000",
+		"jp_text": "パワアムクッキー＋２",
+		"en_text": "Power-Arm Cookie+2",
+		"jp_explain": "ペット用のキャンディー。\nキャンディーボックスに設置することで\nペットの打撃力と技量が上昇。",
+		"en_explain": "A Candy for your pet.\nPet S-ATK and DEX\nincreased when placed."
+	},
+	{
 		"assign": "3400630000",
 		"jp_text": "テクアムクッキー",
 		"en_text": "Tech-Arm Cookie",
@@ -214,7 +235,14 @@
 		"jp_text": "スタスピクッキー＋３",
 		"en_text": "Sta-Spi Cookie+3",
 		"jp_explain": "ペット用のキャンディー。\nキャンディーボックスに設置することで\nペットのＨＰとＰＰが上昇。",
-		"en_explain": "A Candy for your pet.\nPet PP & HP increased when placed."
+		"en_explain": "A Candy for your pet.\nPet PP & HP increased\nwhen placed."
+	},
+	{
+		"assign": "3400840000",
+		"jp_text": "パワアムクッキー＋３",
+		"en_text": "Power-Arm Cookie+3",
+		"jp_explain": "ペット用のキャンディー。\nキャンディーボックスに設置することで\nペットの打撃力と技量が上昇。",
+		"en_explain": "A Candy for your pet.\nPet S-ATK and DEX\nincreased when placed."
 	},
 	{
 		"assign": "3400870000",

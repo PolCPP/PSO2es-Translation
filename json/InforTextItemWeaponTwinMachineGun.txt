@@ -674,7 +674,7 @@
 	{
 		"assign": "11001400000",
 		"jp_text": "マシナフィルフォン",
-		"en_text": "",
+		"en_text": "Macina Philfond",
 		"jp_explain": "局地戦で活躍する男性キャストが好んで\n使用する双機銃。消音性がさらに向上し\n隠密作戦を確実に成功へ導く。",
 		"en_explain": ""
 	},
@@ -896,6 +896,13 @@
 		"en_explain": ""
 	},
 	{
+		"assign": "11002430000",
+		"jp_text": "ギクスカフィール",
+		"en_text": "Gix Kafir",
+		"jp_explain": "臨界寸前まで圧縮したフォトンと\n同調した双機銃。装者の精神とリンクし\n感情の昂ぶりが弾丸を強化する。",
+		"en_explain": ""
+	},
+	{
 		"assign": "11002440000",
 		"jp_text": "インヴェイドレイン",
 		"en_text": "Invade Rain",
@@ -1096,6 +1103,20 @@
 		"jp_text": "ラムダサークウェイドVer2",
 		"en_text": "Lambda Sarcueid Ver2",
 		"jp_explain": "独自改造の双機銃。その一つの答え。\n経験に裏打ちされたカスタムのため\n非常に扱いやすく、それでいて強力。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11003200000",
+		"jp_text": "ファルコフリント-NT",
+		"en_text": "Falco Flint-NT",
+		"jp_explain": "空中戦を想定して設計された可変式の\n双機銃。待機時と戦闘時で\n大きく変形するフォルムが特徴的。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11003210000",
+		"jp_text": "イーグルフリント-NT",
+		"en_text": "Eagle Flint-NT",
+		"jp_explain": "空中戦を想定して設計された可変式の\n双機銃。射撃精度の向上を目標に\n基礎設計から見直した珠玉の一品。",
 		"en_explain": ""
 	}
 ]
