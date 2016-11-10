@@ -1,37 +1,51 @@
 [
-  {
-    "assign": "344090000",
-    "jp_text": "スピリタアメ",
-    "en_text": "Spirita Candy Stick",
-    "jp_explain": "ペット用のキャンディー。\nキャンディーボックスに設置することで\nＰＰが５上昇。",
-    "en_explain": "A Candy for your pet.\nPet PP +5 when placed."
-  },
-  {
-    "assign": "3440140000",
-    "jp_text": "アビリティアメ",
-    "en_text": "Ability Candy Stick",
-    "jp_explain": "ペット用のキャンディー。\nキャンディーボックスに設置することで\nペットの全ての能力が５上昇。",
-    "en_explain": "A Candy for your pet.\nAll Pet Stats +5 when placed."
-  },
-  {
-    "assign": "3440200000",
-    "jp_text": "ブロウレジストアメ",
-    "en_text": "Blow Resist Candy Stick",
-    "jp_explain": "ペット用のキャンディー。\nキャンディーボックスに設置することで\nペットの打撃耐性が５％上昇。",
-    "en_explain": "A Candy for your pet.\nPet Strike Resistance +5%\nwhen placed."
-  },
-  {
-    "assign": "3440230000",
-    "jp_text": "ショットレジストアメ",
-    "en_text": "Shot Resist Candy Stick",
-    "jp_explain": "ペット用のキャンディー。\nキャンディーボックスに設置することで\nペットの射撃耐性が５％上昇。",
-    "en_explain": "A Candy for your pet.\nPet Ranged Resistance +5%\nwhen placed."
-  },
-  {
-    "assign": "3440260000",
-    "jp_text": "マインドレジストアメ",
-    "en_text": "Mind Resist Candy Stick",
-    "jp_explain": "ペット用のキャンディー。\nキャンディーボックスに設置することで\nペットの法撃耐性が５％上昇。",
-    "en_explain": "A Candy for your pet.\nPet Tech Resistance +5%\nwhen placed."
-  }
+	{
+		"assign": "344090000",
+		"jp_text": "スピリタアメ",
+		"en_text": "Spirita Candy Stick",
+		"jp_explain": "ペット用のキャンディー。\nキャンディーボックスに設置することで\nＰＰが５上昇。",
+		"en_explain": "A Candy for your pet.\nPet PP +5 when placed."
+	},
+	{
+		"assign": "3440140000",
+		"jp_text": "アビリティアメ",
+		"en_text": "Ability Candy Stick",
+		"jp_explain": "ペット用のキャンディー。\nキャンディーボックスに設置することで\nペットの全ての能力が５上昇。",
+		"en_explain": "A Candy for your pet.\nAll Pet Stats +5 when placed."
+	},
+	{
+		"assign": "3440170000",
+		"jp_text": "クリティカルアメ",
+		"en_text": "Critical Candy Stick",
+		"jp_explain": "ペット用のキャンディー。\nキャンディーボックスに設置することで\nペットのクリティカル率が上昇。",
+		"en_explain": "A Candy for your pet.\nRaise your Pet's\nCritical Rate when placed."
+	},
+	{
+		"assign": "3440200000",
+		"jp_text": "ブロウレジストアメ",
+		"en_text": "Blow Resist Candy Stick",
+		"jp_explain": "ペット用のキャンディー。\nキャンディーボックスに設置することで\nペットの打撃耐性が５％上昇。",
+		"en_explain": "A Candy for your pet.\nPet Strike Resistance +5%\nwhen placed."
+	},
+	{
+		"assign": "3440230000",
+		"jp_text": "ショットレジストアメ",
+		"en_text": "Shot Resist Candy Stick",
+		"jp_explain": "ペット用のキャンディー。\nキャンディーボックスに設置することで\nペットの射撃耐性が５％上昇。",
+		"en_explain": "A Candy for your pet.\nPet Ranged Resistance +5%\nwhen placed."
+	},
+	{
+		"assign": "3440260000",
+		"jp_text": "マインドレジストアメ",
+		"en_text": "Mind Resist Candy Stick",
+		"jp_explain": "ペット用のキャンディー。\nキャンディーボックスに設置することで\nペットの法撃耐性が５％上昇。",
+		"en_explain": "A Candy for your pet.\nPet Tech Resistance +5%\nwhen placed."
+	},
+	{
+		"assign": "3440290000",
+		"jp_text": "ウィンスピアメ",
+		"en_text": "Vin-Spi Candy Stick",
+		"jp_explain": "ペット用のキャンディー。\nキャンディーボックスに設置することで\n打撃力、射撃力、法撃力、ＰＰが上昇。",
+		"en_explain": "A Candy for your pet.\nPet Striking, Ranged, Tech\nand PP UP when placed."
+	}
 ]

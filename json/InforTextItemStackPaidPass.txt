@@ -1,1157 +1,1157 @@
 [
-  {
-    "assign": "321010000",
-    "jp_text": "エステ利用パス",
-    "en_text": "Makeover Pass",
-    "jp_explain": "エステカウンターの機能利用パス。\nサポートパートナーにも使用可能。\n利用するたびにパスは消費される。 ",
-    "en_explain": ""
-  },
-  {
-    "assign": "321030000",
-    "jp_text": "カラーチェンジパス",
-    "en_text": "Color Change Pass",
-    "jp_explain": "コスチュームのカラー変更パス\nエステにてカラーリングの変更が可能。\n利用するたびにパスは消費される。",
-    "en_explain": ""
-  },
-  {
-    "assign": "321040000",
-    "jp_text": "スキルツリー追加パス",
-    "en_text": "Add. Skill Tree Pass",
-    "jp_explain": "クラスカウンターで使われるパス。\n新規のスキルツリーを１枚追加できる。\n１キャラクター２０枚まで拡張可能。",
-    "en_explain": ""
-  },
-  {
-    "assign": "321050000",
-    "jp_text": "追加ツリー振り替えパス",
-    "en_text": "",
-    "jp_explain": "クラスカウンターで使われるパス。\n「スキルツリー追加パス」で追加した\nツリーを初期化しSPを振り直せる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "321060000",
-    "jp_text": "ＡＣスクラッチ券",
-    "en_text": "AC Scratch Tickets",
-    "jp_explain": "ＡＣスクラッチの利用券。\n持っているとＡＣスクラッチに\n１回挑戦することができる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "321070000",
-    "jp_text": "ＡＣスクラッチゴールド券",
-    "en_text": "AC Gold Scratch Tickets",
-    "jp_explain": "ＡＣスクラッチゴールドの利用券。\n持っているとＡＣスクラッチゴールドに\n１回挑戦することができる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "321080000",
-    "jp_text": "強化成功率＋５％",
-    "en_text": "Grind Success Rate +5%",
-    "jp_explain": "旧式武器、防具、キャンディー用の\n強化補助素材。強化時に使用することで\n成功率を５％上昇させる。",
-    "en_explain": "Increase the success rate\nby 5% when grinding equipments."
-  },
-  {
-    "assign": "321090000",
-    "jp_text": "強化成功率＋１０％",
-    "en_text": "Grind Success Rate +10%",
-    "jp_explain": "旧式武器、防具、キャンディー用の\n強化補助素材。強化時に使用することで\n成功率を１０％上昇させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210100000",
-    "jp_text": "強化成功率＋２０％",
-    "en_text": "Grind Success Rate +20%",
-    "jp_explain": "旧式武器、防具、キャンディー用の\n強化補助素材。強化時に使用することで\n成功率を２０％上昇させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210110000",
-    "jp_text": "強化スキップ（→７）",
-    "en_text": "Grind Skip (→7)",
-    "jp_explain": "旧式武器、ユニット用の強化補助素材。\n強化値が＋６以下の時に使用すると\n＋７まで一気に強化することができる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210120000",
-    "jp_text": "強化リスク軽減（＋１）",
-    "en_text": "Grind Risk Reduction (+1)",
-    "jp_explain": "旧式武器、ユニット用の原型保護素材。\n強化時に使用することで\n強化失敗時のリスクを１段階低減する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210130000",
-    "jp_text": "強化リスク軽減（完全）",
-    "en_text": "Grind Risk Reduction (Full)",
-    "jp_explain": "旧式武器、ユニット用の原型保護素材。\n強化時に使用することで\n強化失敗時のリスクを打ち消す。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210140000",
-    "jp_text": "属性強化＋５％",
-    "en_text": "Attribute Enhance +5%",
-    "jp_explain": "属性強化用の強化補助素材。\n属性強化時に使用することで\n属性値を５％底上げする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210150000",
-    "jp_text": "属性変化（炎属性）",
-    "en_text": "Attribute Change (Fire)",
-    "jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【炎】属性へと変化させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210160000",
-    "jp_text": "属性変化（氷属性）",
-    "en_text": "Attribute Change (Ice)",
-    "jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【氷】属性へと変化させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210170000",
-    "jp_text": "属性変化（雷属性）",
-    "en_text": "Attribute Change (Lightning)",
-    "jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【雷】属性へと変化させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210180000",
-    "jp_text": "属性変化（風属性）",
-    "en_text": "Attribute Change (Wind)",
-    "jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【風】属性へと変化させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210190000",
-    "jp_text": "属性変化（光属性）",
-    "en_text": "Attribute Change (Light)",
-    "jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【光】属性へと変化させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210200000",
-    "jp_text": "属性変化（闇属性）",
-    "en_text": "Attribute Change (Dark)",
-    "jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【闇】属性へと変化させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210210000",
-    "jp_text": "能力追加成功率＋５％",
-    "en_text": "Ability Success Rate +5%",
-    "jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を５％上昇させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210220000",
-    "jp_text": "能力追加成功率＋１０％",
-    "en_text": "Ability Success Rate +10%",
-    "jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を１０％上昇させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210230000",
-    "jp_text": "能力追加成功率＋２０％",
-    "en_text": "Ability Success Rate +20%",
-    "jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を２０％上昇させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210240000",
-    "jp_text": "特殊能力追加（打撃）",
-    "en_text": "Add Ability Power Boost",
-    "jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃】の特殊能力を追加する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210250000",
-    "jp_text": "特殊能力追加（射撃）",
-    "en_text": "Add Ability Shoot Boost",
-    "jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃】の特殊能力を追加する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210260000",
-    "jp_text": "特殊能力追加（法撃）",
-    "en_text": "Add Ability Tech Boost",
-    "jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃】の特殊能力を追加する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210270000",
-    "jp_text": "特殊能力追加（ＨＰ）",
-    "en_text": "Add Ability Stamina Boost",
-    "jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ】の特殊能力を追加する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210280000",
-    "jp_text": "特殊能力追加（ＰＰ）",
-    "en_text": "Add Ability Spirita Boost",
-    "jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＰＰ】の特殊能力を追加する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210300000",
-    "jp_text": "強化成功率＋３０％",
-    "en_text": "Grind Success Rate +30%",
-    "jp_explain": "旧式武器、防具、キャンディー用の\n強化補助素材。強化時に使用することで\n成功率を３０％上昇させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210310000",
-    "jp_text": "能力追加成功率＋３０％",
-    "en_text": "Ability Success Rate +30%",
-    "jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を３０％上昇させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210320000",
-    "jp_text": "全スキルツリー初期化パス",
-    "en_text": "All Skill Tree Reset Pass",
-    "jp_explain": "クラスカウンターで使われるパス。\n追加したツリーを含めて全スキルツリー\nを初期化しＳＰを振り直せる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210330000",
-    "jp_text": "★１０武器購入パス",
-    "en_text": "10★ Weapon Exchange Pass",
-    "jp_explain": "特定レアリティ武器の購入パス。\nマイショップで【★１０】武器を\n購入する際に消費される。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210340000",
-    "jp_text": "★１１武器購入パス",
-    "en_text": "11★ Weapon Exchange Pass",
-    "jp_explain": "特定レアリティ武器の購入パス。\nマイショップで【★１１】武器を\n購入する際に消費される。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210350000",
-    "jp_text": "★１２武器購入パス",
-    "en_text": "★12 Weapon Exchange Pass",
-    "jp_explain": "特定レアリティ武器の購入パス。\nマイショップで【★１２】武器を\n購入する際に消費される。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210390000",
-    "jp_text": "★１０ユニット購入パス",
-    "en_text": "10★ Unit Exchange Pass",
-    "jp_explain": "特定レアリティユニットの購入パス。\nマイショップで【★１０】ユニットを\n購入する際に消費される。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210400000",
-    "jp_text": "★１１ユニット購入パス",
-    "en_text": "11★ Unit Exchange Pass",
-    "jp_explain": "特定レアリティユニットの購入パス。\nマイショップで【★１１】ユニットを\n購入する際に消費される。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210470000",
-    "jp_text": "強化成功（１００％）",
-    "en_text": "Grind Success +100%",
-    "jp_explain": "旧式武器、防具、キャンディー用の\n強化補助素材。強化時に使用することで\n確実に成功させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210480000",
-    "jp_text": "強化リスク軽減（＋２）",
-    "en_text": "Grind Risk Reduction (+2)",
-    "jp_explain": "旧式武器、ユニット用の原型保護素材。\n強化時に使用することで\n強化失敗時のリスクを２段階低減する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210510000",
-    "jp_text": "属性強化＋１０％",
-    "en_text": "Attribute Enhance +10%",
-    "jp_explain": "属性強化用の強化補助素材。\n属性強化時に使用することで\n属性値を１０％底上げする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210540000",
-    "jp_text": "能力追加成功率＋４０％",
-    "en_text": "Ability Success Rate +40%",
-    "jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を４０％上昇させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210560000",
-    "jp_text": "能力追加成功（１００％）",
-    "en_text": "Ability Success Rate +100%",
-    "jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n確実に成功させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210570000",
-    "jp_text": "パートナー追加パス",
-    "en_text": "Add. Support Partners Ticket",
-    "jp_explain": "サポートパートナーの追加使用パス。\n新規のサポートパートナーを１体追加。\n１キャラクター２枚まで拡張可能。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210580000",
-    "jp_text": "パートナーリセットパス",
-    "en_text": "Reset Partners Pass",
-    "jp_explain": "サポートパートナーのリメイクパス。\nサポートパートナーの状態をリセットし\nキャラクタークリエイトからやり直す。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210590000",
-    "jp_text": "クラフトライン追加",
-    "en_text": "Additional Craft Line",
-    "jp_explain": "仮設定",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210600000",
-    "jp_text": "リリパリウムフルチャージ",
-    "en_text": "Liliparium Full Charge",
-    "jp_explain": "現在所持している全ての\nクラフトエネルギーを\n全回復させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210610000",
-    "jp_text": "リリパリウム（極小）",
-    "en_text": "Liliparium (Mini)",
-    "jp_explain": "選択したクラフトエネルギーを\n１５分回復させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210620000",
-    "jp_text": "リリパリウム（小）",
-    "en_text": "Liliparium (Small)",
-    "jp_explain": "選択したクラフトエネルギーを\n３０分回復させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210660000",
-    "jp_text": "リリパリウム（極大）",
-    "en_text": "Liliparium (Max)",
-    "jp_explain": "選択したクラフトエネルギーを\n１２時間回復させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210670000",
-    "jp_text": "クラス追加（ハンター）",
-    "en_text": "Add Class (Hunter)",
-    "jp_explain": "武装エクステンド実行時に\nハンターのクラス追加が\n必ず発生するようになる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210680000",
-    "jp_text": "クラス追加（レンジャー）",
-    "en_text": "Add Class (Ranger)",
-    "jp_explain": "武装エクステンド実行時に\nレンジャーのクラス追加が\n必ず発生するようになる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210690000",
-    "jp_text": "クラス追加（フォース）",
-    "en_text": "Add Class (Force)",
-    "jp_explain": "武装エクステンド実行時に\nフォースのクラス追加が\n必ず発生するようになる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210700000",
-    "jp_text": "クラス追加（ファイター）",
-    "en_text": "Add Class (Fighter)",
-    "jp_explain": "武装エクステンド実行時に\nファイターのクラス追加が\n必ず発生するようになる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210710000",
-    "jp_text": "クラス追加（ガンナー）",
-    "en_text": "Add Class (Gunner)",
-    "jp_explain": "武装エクステンド実行時に\nガンナーのクラス追加が\n必ず発生するようになる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210720000",
-    "jp_text": "クラス追加（テクター）",
-    "en_text": "Add Class (Techer)",
-    "jp_explain": "武装エクステンド実行時に\nテクターのクラス追加が\n必ず発生するようになる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210730000",
-    "jp_text": "クラス追加（ブレイバー）",
-    "en_text": "Add Class (Braver)",
-    "jp_explain": "武装エクステンド実行時に\nブレイバーのクラス追加が\n必ず発生するようになる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210740000",
-    "jp_text": "装備条件変更（打撃）",
-    "en_text": "Equip. Condition Swap (S-ATK)",
-    "jp_explain": "武装エクステンド実行時に\n装備条件を打撃に\n変更する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210750000",
-    "jp_text": "装備条件変更（射撃）",
-    "en_text": "Equip. Condition Swap (R-ATK)",
-    "jp_explain": "武装エクステンド実行時に\n装備条件を射撃に\n変更する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210760000",
-    "jp_text": "装備条件変更（法撃）",
-    "en_text": "Equip. Condition Swap (T-ATK)",
-    "jp_explain": "武装エクステンド実行時に\n装備条件を法撃に\n変更する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210770000",
-    "jp_text": "装備条件変更（技量）",
-    "en_text": "Equip. Condition Swap (DEX)",
-    "jp_explain": "武装エクステンド実行時に\n装備条件を技量に\n変更する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210780000",
-    "jp_text": "装備条件変更（打撃防御）",
-    "en_text": "Equip. Condition Swap (S-DEF)",
-    "jp_explain": "武装エクステンド実行時に\n装備条件を打撃防御に\n変更する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210790000",
-    "jp_text": "装備条件変更（射撃防御）",
-    "en_text": "Equip. Condition Swap (R-DEF)",
-    "jp_explain": "武装エクステンド実行時に\n装備条件を射撃防御に\n変更する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210800000",
-    "jp_text": "装備条件変更（法撃防御）",
-    "en_text": "Equip. Condition Swap (T-DEF)",
-    "jp_explain": "武装エクステンド実行時に\n装備条件を法撃防御に\n変更する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210810000",
-    "jp_text": "装備条件緩和＋１０％",
-    "en_text": "Relax Equip. Conditions +10%",
-    "jp_explain": "武装エクステンド実行時に\n装備条件を１０％緩和する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210820000",
-    "jp_text": "装備条件緩和＋２０％",
-    "en_text": "Relax Equip. Conditions +20%",
-    "jp_explain": "武装エクステンド実行時に\n装備条件を２０％緩和する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210830000",
-    "jp_text": "装備条件緩和＋３０％",
-    "en_text": "Relax Equip. Conditions +30%",
-    "jp_explain": "武装エクステンド実行時に\n装備条件を３０％緩和する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210860000",
-    "jp_text": "メリット値＋１０％",
-    "en_text": "Merit Value +10%",
-    "jp_explain": "テクニックカスタマイズ実行時に\nメリットの下限値を\n１０％上昇させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210870000",
-    "jp_text": "メリット値＋２０％",
-    "en_text": "Merit Value +20%",
-    "jp_explain": "テクニックカスタマイズ実行時に\nメリットの下限値を\n２０％上昇させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210880000",
-    "jp_text": "メリット値＋３０％",
-    "en_text": "Merit Value +30%",
-    "jp_explain": "テクニックカスタマイズ実行時に\nメリットの下限値を\n３０％上昇させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210910000",
-    "jp_text": "デメリット値－１０％",
-    "en_text": "Demerit Value -10%",
-    "jp_explain": "テクニックカスタマイズ実行時に\nデメリットの上限値を\n１０％軽減させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210920000",
-    "jp_text": "デメリット値－２０％",
-    "en_text": "Demerit Value -20%",
-    "jp_explain": "テクニックカスタマイズ実行時に\nデメリットの上限値を\n２０％軽減させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210930000",
-    "jp_text": "デメリット値－３０％",
-    "en_text": "Demerit Value -30%",
-    "jp_explain": "テクニックカスタマイズ実行時に\nデメリットの上限値を\n３０％軽減させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210960000",
-    "jp_text": "エステ無料パス",
-    "en_text": "Free Makeover Pass",
-    "jp_explain": "エステカウンターの機能利用パス。\nサポートパートナーにも使用可能。\n利用するたびにパスは消費される。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210970000",
-    "jp_text": "マグ形態変更パス",
-    "en_text": "Mag Form Change Pass",
-    "jp_explain": "マグ形態変更機能利用パス。\n登録済リストからマグ形態を選択できる。\n利用するたびにパスは消費される。",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210980000",
-    "jp_text": "キャラクター名変更アイテム",
-    "en_text": "Character Name Change",
-    "jp_explain": "仮テキスト",
-    "en_explain": ""
-  },
-  {
-    "assign": "3210990000",
-    "jp_text": "プレイヤーID変更アイテム",
-    "en_text": "Player ID Change",
-    "jp_explain": "仮テキスト",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101000000",
-    "jp_text": "メイン効果（固定）",
-    "en_text": "Main Effect (Fixed)",
-    "jp_explain": "時限能力インストール実行時に\n「選ばれやすいメイン効果」が\n必ず発生するようになる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101110000",
-    "jp_text": "効果時間延長＋７日",
-    "en_text": "Timed Effect Extension +7 Days",
-    "jp_explain": "時限能力インストール実行時に\nデータの効果時間を７日\n延長させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101140000",
-    "jp_text": "クラス追加（バウンサー）",
-    "en_text": "Add Class (Bouncer)",
-    "jp_explain": "武装エクステンド実行時に\nバウンサーのクラス追加が\n必ず発生するようになる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101150000",
-    "jp_text": "特殊能力追加（打撃＆ＰＰ）",
-    "en_text": "Add Ability Noble Power",
-    "jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃＆ＰＰ】の特殊能力を追加する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101160000",
-    "jp_text": "特殊能力追加（射撃＆ＰＰ）",
-    "en_text": "Add Ability Noble Shoot",
-    "jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃＆ＰＰ】の特殊能力を追加する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101170000",
-    "jp_text": "特殊能力追加（法撃＆ＰＰ）",
-    "en_text": "Add Ability Noble Tech",
-    "jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃＆ＰＰ】の特殊能力を追加する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101180000",
-    "jp_text": "特殊能力追加（ＨＰ＆ＰＰ）",
-    "en_text": "Add Ability Noble Stamina",
-    "jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ＆ＰＰ】の特殊能力を追加する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101190000",
-    "jp_text": "カスタムタイプ１＋１０％",
-    "en_text": "Custom Type 1 +10%",
-    "jp_explain": "カスタマイズ実行時に\nカスタムタイプ１の効果値を\n１０％向上させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101200000",
-    "jp_text": "カスタムタイプ１＋２０％",
-    "en_text": "Custom Type 1 + 20%",
-    "jp_explain": "カスタマイズ実行時に\nカスタムタイプ１の効果値を\n２０％向上させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101210000",
-    "jp_text": "カスタムタイプ１＋３０％",
-    "en_text": "",
-    "jp_explain": "カスタマイズ実行時に\nカスタムタイプ１の効果値を\n３０％向上させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101240000",
-    "jp_text": "カスタムタイプ２＋１０％",
-    "en_text": "Custom Type 2 +10%",
-    "jp_explain": "カスタマイズ実行時に\nカスタムタイプ２の効果値を\n１０％向上させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101250000",
-    "jp_text": "カスタムタイプ２＋２０％",
-    "en_text": "",
-    "jp_explain": "カスタマイズ実行時に\nカスタムタイプ２の効果値を\n２０％向上させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101260000",
-    "jp_text": "カスタムタイプ２＋３０％",
-    "en_text": "",
-    "jp_explain": "カスタマイズ実行時に\nカスタムタイプ２の効果値を\n３０％向上させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101290000",
-    "jp_text": "オーナー登録解除パス",
-    "en_text": "Owner Registration Cancel Pass",
-    "jp_explain": "オーナー登録の解除申請パス。\nアイテムラボにて★１１以下の\nオーナー登録を解除する際に使用する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101350000",
-    "jp_text": "リリパリウムオール（極大）",
-    "en_text": "Liliparium (MAX)",
-    "jp_explain": "現在所持している全ての\nクラフトエネルギーを\n１２時間回復させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101360000",
-    "jp_text": "強化スキップ（→５）",
-    "en_text": "Grind Skip (→5)",
-    "jp_explain": "旧式武器、ユニット用の強化補助素材。\n強化値が＋４以下の時に使用すると\n＋５まで一気に強化することができる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101390000",
-    "jp_text": "クラス追加（サモナー）",
-    "en_text": "Add Class(Summoner)",
-    "jp_explain": "武装エクステンド実行時に\nサモナーのクラス追加が\n必ず発生するようになる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101400000",
-    "jp_text": "合成可能数回復１",
-    "en_text": "",
-    "jp_explain": "ペットの合成回数が５回増加する。\n増加した合成回数の間は、\n合成経験値が２倍になる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101410000",
-    "jp_text": "合成可能数回復２",
-    "en_text": "",
-    "jp_explain": "ペットの合成回数が５回増加する。\n増加した合成回数の間は、\n合成経験値が２倍になる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101420000",
-    "jp_text": "合成可能数回復３",
-    "en_text": "",
-    "jp_explain": "ペットの合成回数が５回増加する。\n増加した合成回数の間は、\n合成経験値が２倍になる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101430000",
-    "jp_text": "合成可能数回復４",
-    "en_text": "",
-    "jp_explain": "ペットの合成回数が５回増加する。\n増加した合成回数の間は、\n合成経験値が２倍になる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101440000",
-    "jp_text": "合成可能数回復５",
-    "en_text": "",
-    "jp_explain": "ペットの合成回数が５回増加する。\n増加した合成回数の間は、\n合成経験値が２倍になる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101450000",
-    "jp_text": "合成可能数回復６",
-    "en_text": "",
-    "jp_explain": "ペットの合成回数が５回増加する。\n増加した合成回数の間は、\n合成経験値が２倍になる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101460000",
-    "jp_text": "合成可能数回復７",
-    "en_text": "",
-    "jp_explain": "ペットの合成回数が５回増加する。\n増加した合成回数の間は、\n合成経験値が２倍になる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101470000",
-    "jp_text": "合成可能数回復８",
-    "en_text": "",
-    "jp_explain": "ペットの合成回数が５回増加する。\n増加した合成回数の間は、\n合成経験値が２倍になる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101480000",
-    "jp_text": "合成可能数回復９",
-    "en_text": "",
-    "jp_explain": "ペットの合成回数が５回増加する。\n増加した合成回数の間は、\n合成経験値が２倍になる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101490000",
-    "jp_text": "合成可能数回復１０",
-    "en_text": "",
-    "jp_explain": "ペットの合成回数が５回増加する。\n増加した合成回数の間は、\n合成経験値が２倍になる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101500000",
-    "jp_text": "キャンディーイレイサー",
-    "en_text": "Candy Eraser",
-    "jp_explain": "指定したペットのキャンディーボックスに\nセットしたキャンディーを１つ削除する。\n削除したキャンディーは失われる。",
-    "en_explain": "Destroys one Candy from\na selected Pet Candy Box."
-  },
-  {
-    "assign": "32101510000",
-    "jp_text": "全キャンディーイレイサー",
-    "en_text": "All Candy Eraser",
-    "jp_explain": "指定したペットのキャンディーボックスに\nセットしたキャンディーを全て削除する。\n削除したキャンディーは失われる。",
-    "en_explain": "Destroys all specified Candy\nfrom a selected Pet Candy Box."
-  },
-  {
-    "assign": "32101520000",
-    "jp_text": "キャンディーリムーバー",
-    "en_text": "Candy Remover",
-    "jp_explain": "指定したペットのキャンディーボックスに\nセットしたキャンディーを１つ\nアイテムパックに戻す。",
-    "en_explain": "Returns one set Candy from\na Candy Box back to\nyour item pack."
-  },
-  {
-    "assign": "32101530000",
-    "jp_text": "全キャンディーリムーバー",
-    "en_text": "All Candy Remover",
-    "jp_explain": "指定したペットのキャンディーボックスに\nセットしたキャンディーを全て\nアイテムパックに戻す。",
-    "en_explain": "Returns all set Candy from a\nCandy Box back to your\nitem pack."
-  },
-  {
-    "assign": "32101540000",
-    "jp_text": "キャラメルクラッシャー",
-    "en_text": "Caramel Crusher",
-    "jp_explain": "指定したペットのキャンディーボックスに\nセットされたキャラメルブロックを\n１つ削除する。",
-    "en_explain": "Destroys one Caramel Cube\nfrom a selected\nPet Candy Box"
-  },
-  {
-    "assign": "32101550000",
-    "jp_text": "よいピッケル",
-    "en_text": "Good Pickaxe",
-    "jp_explain": "ギャザリングで採取を行える。\nレア採取発生率＋５％",
-    "en_explain": "A tool for Collecting.\nRare Collect Rate +5%"
-  },
-  {
-    "assign": "32101580000",
-    "jp_text": "【極み】ピッケル",
-    "en_text": "[Master] Pickaxe",
-    "jp_explain": "ギャザリングで採取を行える。\nレア採取発生率＋１００％",
-    "en_explain": "A tool for Collecting.\nRare Collect Rate +100%"
-  },
-  {
-    "assign": "32101590000",
-    "jp_text": "よい釣り竿",
-    "en_text": "Good Fishing Rod",
-    "jp_explain": "ギャザリングで釣りを行える。\nレア釣り発生率＋５％",
-    "en_explain": "A tool for Fishing.\nRare Fishing Rate +5%"
-  },
-  {
-    "assign": "32101620000",
-    "jp_text": "【極み】釣り竿",
-    "en_text": "[Master] Fishing Rod",
-    "jp_explain": "ギャザリングで釣りを行える。\nレア釣り発生率＋１００％",
-    "en_explain": "A tool for Fishing.\nRare Fishing Rate +100%"
-  },
-  {
-    "assign": "32101630000",
-    "jp_text": "採取スタミナドリンク",
-    "en_text": "Collecting Stam. Drink",
-    "jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-    "en_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
-  },
-  {
-    "assign": "32101640000",
-    "jp_text": "採取スタドリ０１",
-    "en_text": "Collect Stam. Drink 01",
-    "jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101650000",
-    "jp_text": "採取スタドリ０２",
-    "en_text": "Collect Stam. Drink 02",
-    "jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101660000",
-    "jp_text": "採取スタドリ０３",
-    "en_text": "Collect Stam. Drink 03",
-    "jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101670000",
-    "jp_text": "採取スタドリ０４",
-    "en_text": "Collect Stam. Drink 04",
-    "jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101680000",
-    "jp_text": "採取スタドリ０５",
-    "en_text": "Collect Stam. Drink 05",
-    "jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101690000",
-    "jp_text": "採取スタドリ０６",
-    "en_text": "Collect Stam. Drink 06",
-    "jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101700000",
-    "jp_text": "採取スタドリ０７",
-    "en_text": "Collect Stam. Drink 07",
-    "jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101710000",
-    "jp_text": "採取スタドリ０８",
-    "en_text": "Collect Stam. Drink 08",
-    "jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101720000",
-    "jp_text": "採取スタドリ０９",
-    "en_text": "Collect Stam. Drink 09",
-    "jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101730000",
-    "jp_text": "採取スタドリ１０",
-    "en_text": "Collect Stam. Drink 10",
-    "jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101750000",
-    "jp_text": "釣りスタミナドリンク",
-    "en_text": "Fishing Stam. Drink",
-    "jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-    "en_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
-  },
-  {
-    "assign": "32101760000",
-    "jp_text": "釣りスタドリ０１",
-    "en_text": "Fishing Stam. Drink 01",
-    "jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101770000",
-    "jp_text": "釣りスタドリ０２",
-    "en_text": "Fishing Stam. Drink 02",
-    "jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101780000",
-    "jp_text": "釣りスタドリ０３",
-    "en_text": "Fishing Stam. Drink 03",
-    "jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101790000",
-    "jp_text": "釣りスタドリ０４",
-    "en_text": "Fishing Stam. Drink 04",
-    "jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101800000",
-    "jp_text": "釣りスタドリ０５",
-    "en_text": "Fishing Stam. Drink 05",
-    "jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101810000",
-    "jp_text": "釣りスタドリ０６",
-    "en_text": "Fishing Stam. Drink 06",
-    "jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101820000",
-    "jp_text": "釣りスタドリ０７",
-    "en_text": "Fishing Stam. Drink 07",
-    "jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101830000",
-    "jp_text": "釣りスタドリ０８",
-    "en_text": "Fishing Stam. Drink 08",
-    "jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101840000",
-    "jp_text": "釣りスタドリ０９",
-    "en_text": "Fishing Stam. Drink 09",
-    "jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101850000",
-    "jp_text": "釣りスタドリ１０",
-    "en_text": "Fishing Stam. Drink 10",
-    "jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101890000",
-    "jp_text": "強化大成功確率＋２０％",
-    "en_text": "Great Success Grind Rate +20%",
-    "jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n大成功確率を２０％上昇させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101900000",
-    "jp_text": "強化大成功確率＋３０％",
-    "en_text": "Great Success Grind Rate +30%",
-    "jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n大成功確率を３０％上昇させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101920000",
-    "jp_text": "強化大成功確率＋５０％",
-    "en_text": "Great Success Grind Rate +50%",
-    "jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n大成功確率を５０％上昇させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101930000",
-    "jp_text": "強化大成功（１００％）",
-    "en_text": "Great Success Grind Rate (100%)",
-    "jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n確実に大成功を発生させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101940000",
-    "jp_text": "コレクトシート再受注パス",
-    "en_text": "Collect File Reorder Pass",
-    "jp_explain": "コレクトシートの再受注申請パス。\n対象の課題に発生しているクール\nタイムをリセットし受注可能とする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101950000",
-    "jp_text": "ＳＧトレジャー更新１",
-    "en_text": "SG Treasure Update 1",
-    "jp_explain": "トレジャーショップの陳列更新パス。\nＳＧで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101960000",
-    "jp_text": "ＳＧトレジャー更新２",
-    "en_text": "SG Treasure Update 2",
-    "jp_explain": "トレジャーショップの陳列更新パス。\nＳＧで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101970000",
-    "jp_text": "ＳＧトレジャー更新３",
-    "en_text": "SG Treasure Update 3",
-    "jp_explain": "トレジャーショップの陳列更新パス。\nＳＧで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101980000",
-    "jp_text": "ＳＧトレジャー更新４",
-    "en_text": "SG Treasure Update 4",
-    "jp_explain": "トレジャーショップの陳列更新パス。\nＳＧで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32101990000",
-    "jp_text": "ＳＧトレジャー更新５",
-    "en_text": "SG Treasure Update 5",
-    "jp_explain": "トレジャーショップの陳列更新パス。\nＳＧで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32102000000",
-    "jp_text": "ＳＧトレジャー更新６",
-    "en_text": "SG Treasure Update 6",
-    "jp_explain": "トレジャーショップの陳列更新パス。\nＳＧで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32102010000",
-    "jp_text": "ＳＧトレジャー更新７",
-    "en_text": "SG Treasure Update 7",
-    "jp_explain": "トレジャーショップの陳列更新パス。\nＳＧで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32102020000",
-    "jp_text": "ＳＧトレジャー更新８",
-    "en_text": "SG Treasure Update 8",
-    "jp_explain": "トレジャーショップの陳列更新パス。\nＳＧで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32102030000",
-    "jp_text": "ＳＧトレジャー更新９",
-    "en_text": "SG Treasure Update 9",
-    "jp_explain": "トレジャーショップの陳列更新パス。\nＳＧで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32102040000",
-    "jp_text": "ＳＧトレジャー更新１０",
-    "en_text": "SG Treasure Update 10",
-    "jp_explain": "トレジャーショップの陳列更新パス。\nＳＧで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32102050000",
-    "jp_text": "特殊能力追加（攻撃総合）",
-    "en_text": "Add Special Ability (Attack Fusion)",
-    "jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【攻撃総合】の特殊能力を追加する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32102060000",
-    "jp_text": "特殊能力追加（防御総合）",
-    "en_text": "Add Special Ability (Defense Fusion)",
-    "jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【防御総合】の特殊能力を追加する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32102070000",
-    "jp_text": "特殊能力追加（攻撃継承）",
-    "en_text": "Add Special Ability (Attack Transfer)",
-    "jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【攻撃継承】の特殊能力を追加する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32102080000",
-    "jp_text": "特殊能力追加（防御継承）",
-    "en_text": "Add Special Ability (Defense Transfer)",
-    "jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【防御継承】の特殊能力を追加する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32102090000",
-    "jp_text": "特殊能力追加（心身継承）",
-    "en_text": "Add Special Ability (Mind & Body)",
-    "jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【心身継承】の特殊能力を追加する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32102100000",
-    "jp_text": "メセタトレジャー更新１",
-    "en_text": "Meseta Shop Update 1",
-    "jp_explain": "トレジャーショップの陳列更新パス。\nメセタで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32102110000",
-    "jp_text": "メセタトレジャー更新２",
-    "en_text": "Meseta Shop Update 2",
-    "jp_explain": "トレジャーショップの陳列更新パス。\nメセタで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32102120000",
-    "jp_text": "メセタトレジャー更新３",
-    "en_text": "Meseta Shop Update 3",
-    "jp_explain": "トレジャーショップの陳列更新パス。\nメセタで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32102130000",
-    "jp_text": "メセタトレジャー更新４",
-    "en_text": "Meseta Shop Update 4",
-    "jp_explain": "トレジャーショップの陳列更新パス。\nメセタで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32102140000",
-    "jp_text": "メセタトレジャー更新５",
-    "en_text": "Meseta Shop Update 5",
-    "jp_explain": "トレジャーショップの陳列更新パス。\nメセタで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32102150000",
-    "jp_text": "メセタトレジャー更新６",
-    "en_text": "Meseta Shop Update 6",
-    "jp_explain": "トレジャーショップの陳列更新パス。\nメセタで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32102160000",
-    "jp_text": "メセタトレジャー更新７",
-    "en_text": "Meseta Shop Update 7",
-    "jp_explain": "トレジャーショップの陳列更新パス。\nメセタで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32102170000",
-    "jp_text": "メセタトレジャー更新８",
-    "en_text": "Meseta Shop Update 8",
-    "jp_explain": "トレジャーショップの陳列更新パス。\nメセタで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32102180000",
-    "jp_text": "メセタトレジャー更新９",
-    "en_text": "Meseta Shop Update 9",
-    "jp_explain": "トレジャーショップの陳列更新パス。\nメセタで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32102190000",
-    "jp_text": "メセタトレジャー更新１０",
-    "en_text": "Meseta Shop Update 10",
-    "jp_explain": "トレジャーショップの陳列更新パス。\nメセタで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32102200000",
-    "jp_text": "特殊能力追加（ＧＲＭ）",
-    "en_text": "Add Special Ability (GRM)",
-    "jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＧＲＭ】の特殊能力を追加する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32102210000",
-    "jp_text": "特殊能力追加（テノラ）",
-    "en_text": "Add Special Ability (Tenora)",
-    "jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【テノラ】の特殊能力を追加する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "32102220000",
-    "jp_text": "特殊能力追加（ヨウメイ）",
-    "en_text": "Add Special Ability (Yohmei)",
-    "jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ヨウメイ】の特殊能力を追加する。",
-    "en_explain": ""
-  }
+	{
+		"assign": "321010000",
+		"jp_text": "エステ利用パス",
+		"en_text": "Makeover Pass",
+		"jp_explain": "エステカウンターの機能利用パス。\nサポートパートナーにも使用可能。\n利用するたびにパスは消費される。 ",
+		"en_explain": ""
+	},
+	{
+		"assign": "321030000",
+		"jp_text": "カラーチェンジパス",
+		"en_text": "Color Change Pass",
+		"jp_explain": "コスチュームのカラー変更パス\nエステにてカラーリングの変更が可能。\n利用するたびにパスは消費される。",
+		"en_explain": ""
+	},
+	{
+		"assign": "321040000",
+		"jp_text": "スキルツリー追加パス",
+		"en_text": "Add. Skill Tree Pass",
+		"jp_explain": "クラスカウンターで使われるパス。\n新規のスキルツリーを１枚追加できる。\n１キャラクター２０枚まで拡張可能。",
+		"en_explain": ""
+	},
+	{
+		"assign": "321050000",
+		"jp_text": "追加ツリー振り替えパス",
+		"en_text": "Skill Tree Transfer Pass",
+		"jp_explain": "クラスカウンターで使われるパス。\n「スキルツリー追加パス」で追加した\nツリーを初期化しSPを振り直せる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "321060000",
+		"jp_text": "ＡＣスクラッチ券",
+		"en_text": "AC Scratch Tickets",
+		"jp_explain": "ＡＣスクラッチの利用券。\n持っているとＡＣスクラッチに\n１回挑戦することができる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "321070000",
+		"jp_text": "ＡＣスクラッチゴールド券",
+		"en_text": "AC Gold Scratch Tickets",
+		"jp_explain": "ＡＣスクラッチゴールドの利用券。\n持っているとＡＣスクラッチゴールドに\n１回挑戦することができる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "321080000",
+		"jp_text": "強化成功率＋５％",
+		"en_text": "Grind Success Rate +5%",
+		"jp_explain": "旧式武器、防具、キャンディー用の\n強化補助素材。強化時に使用することで\n成功率を５％上昇させる。",
+		"en_explain": "Increase the success rate\nby 5% when grinding equipments."
+	},
+	{
+		"assign": "321090000",
+		"jp_text": "強化成功率＋１０％",
+		"en_text": "Grind Success Rate +10%",
+		"jp_explain": "旧式武器、防具、キャンディー用の\n強化補助素材。強化時に使用することで\n成功率を１０％上昇させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210100000",
+		"jp_text": "強化成功率＋２０％",
+		"en_text": "Grind Success Rate +20%",
+		"jp_explain": "旧式武器、防具、キャンディー用の\n強化補助素材。強化時に使用することで\n成功率を２０％上昇させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210110000",
+		"jp_text": "強化スキップ（→７）",
+		"en_text": "Grind Skip (→7)",
+		"jp_explain": "旧式武器、ユニット用の強化補助素材。\n強化値が＋６以下の時に使用すると\n＋７まで一気に強化することができる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210120000",
+		"jp_text": "強化リスク軽減（＋１）",
+		"en_text": "Grind Risk Reduction (+1)",
+		"jp_explain": "旧式武器、ユニット用の原型保護素材。\n強化時に使用することで\n強化失敗時のリスクを１段階低減する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210130000",
+		"jp_text": "強化リスク軽減（完全）",
+		"en_text": "Grind Risk Reduction (Full)",
+		"jp_explain": "旧式武器、ユニット用の原型保護素材。\n強化時に使用することで\n強化失敗時のリスクを打ち消す。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210140000",
+		"jp_text": "属性強化＋５％",
+		"en_text": "Attribute Enhance +5%",
+		"jp_explain": "属性強化用の強化補助素材。\n属性強化時に使用することで\n属性値を５％底上げする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210150000",
+		"jp_text": "属性変化（炎属性）",
+		"en_text": "Attribute Change (Fire)",
+		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【炎】属性へと変化させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210160000",
+		"jp_text": "属性変化（氷属性）",
+		"en_text": "Attribute Change (Ice)",
+		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【氷】属性へと変化させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210170000",
+		"jp_text": "属性変化（雷属性）",
+		"en_text": "Attribute Change (Lightning)",
+		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【雷】属性へと変化させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210180000",
+		"jp_text": "属性変化（風属性）",
+		"en_text": "Attribute Change (Wind)",
+		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【風】属性へと変化させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210190000",
+		"jp_text": "属性変化（光属性）",
+		"en_text": "Attribute Change (Light)",
+		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【光】属性へと変化させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210200000",
+		"jp_text": "属性変化（闇属性）",
+		"en_text": "Attribute Change (Dark)",
+		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【闇】属性へと変化させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210210000",
+		"jp_text": "能力追加成功率＋５％",
+		"en_text": "Ability Success Rate +5%",
+		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を５％上昇させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210220000",
+		"jp_text": "能力追加成功率＋１０％",
+		"en_text": "Ability Success Rate +10%",
+		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を１０％上昇させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210230000",
+		"jp_text": "能力追加成功率＋２０％",
+		"en_text": "Ability Success Rate +20%",
+		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を２０％上昇させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210240000",
+		"jp_text": "特殊能力追加（打撃）",
+		"en_text": "Add Ability Power Boost",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃】の特殊能力を追加する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210250000",
+		"jp_text": "特殊能力追加（射撃）",
+		"en_text": "Add Ability Shoot Boost",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃】の特殊能力を追加する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210260000",
+		"jp_text": "特殊能力追加（法撃）",
+		"en_text": "Add Ability Tech Boost",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃】の特殊能力を追加する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210270000",
+		"jp_text": "特殊能力追加（ＨＰ）",
+		"en_text": "Add Ability Stamina Boost",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ】の特殊能力を追加する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210280000",
+		"jp_text": "特殊能力追加（ＰＰ）",
+		"en_text": "Add Ability Spirita Boost",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＰＰ】の特殊能力を追加する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210300000",
+		"jp_text": "強化成功率＋３０％",
+		"en_text": "Grind Success Rate +30%",
+		"jp_explain": "旧式武器、防具、キャンディー用の\n強化補助素材。強化時に使用することで\n成功率を３０％上昇させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210310000",
+		"jp_text": "能力追加成功率＋３０％",
+		"en_text": "Ability Success Rate +30%",
+		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を３０％上昇させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210320000",
+		"jp_text": "全スキルツリー初期化パス",
+		"en_text": "All Skill Tree Reset Pass",
+		"jp_explain": "クラスカウンターで使われるパス。\n追加したツリーを含めて全スキルツリー\nを初期化しＳＰを振り直せる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210330000",
+		"jp_text": "★１０武器購入パス",
+		"en_text": "10★ Weapon Exchange Pass",
+		"jp_explain": "特定レアリティ武器の購入パス。\nマイショップで【★１０】武器を\n購入する際に消費される。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210340000",
+		"jp_text": "★１１武器購入パス",
+		"en_text": "11★ Weapon Exchange Pass",
+		"jp_explain": "特定レアリティ武器の購入パス。\nマイショップで【★１１】武器を\n購入する際に消費される。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210350000",
+		"jp_text": "★１２武器購入パス",
+		"en_text": "★12 Weapon Exchange Pass",
+		"jp_explain": "特定レアリティ武器の購入パス。\nマイショップで【★１２】武器を\n購入する際に消費される。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210390000",
+		"jp_text": "★１０ユニット購入パス",
+		"en_text": "10★ Unit Exchange Pass",
+		"jp_explain": "特定レアリティユニットの購入パス。\nマイショップで【★１０】ユニットを\n購入する際に消費される。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210400000",
+		"jp_text": "★１１ユニット購入パス",
+		"en_text": "11★ Unit Exchange Pass",
+		"jp_explain": "特定レアリティユニットの購入パス。\nマイショップで【★１１】ユニットを\n購入する際に消費される。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210470000",
+		"jp_text": "強化成功（１００％）",
+		"en_text": "Grind Success +100%",
+		"jp_explain": "旧式武器、防具、キャンディー用の\n強化補助素材。強化時に使用することで\n確実に成功させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210480000",
+		"jp_text": "強化リスク軽減（＋２）",
+		"en_text": "Grind Risk Reduction (+2)",
+		"jp_explain": "旧式武器、ユニット用の原型保護素材。\n強化時に使用することで\n強化失敗時のリスクを２段階低減する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210510000",
+		"jp_text": "属性強化＋１０％",
+		"en_text": "Attribute Enhance +10%",
+		"jp_explain": "属性強化用の強化補助素材。\n属性強化時に使用することで\n属性値を１０％底上げする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210540000",
+		"jp_text": "能力追加成功率＋４０％",
+		"en_text": "Ability Success Rate +40%",
+		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を４０％上昇させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210560000",
+		"jp_text": "能力追加成功（１００％）",
+		"en_text": "Ability Success Rate +100%",
+		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n確実に成功させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210570000",
+		"jp_text": "パートナー追加パス",
+		"en_text": "Add. Support Partners Ticket",
+		"jp_explain": "サポートパートナーの追加使用パス。\n新規のサポートパートナーを１体追加。\n１キャラクター２枚まで拡張可能。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210580000",
+		"jp_text": "パートナーリセットパス",
+		"en_text": "Reset Partners Pass",
+		"jp_explain": "サポートパートナーのリメイクパス。\nサポートパートナーの状態をリセットし\nキャラクタークリエイトからやり直す。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210590000",
+		"jp_text": "クラフトライン追加",
+		"en_text": "Additional Craft Line",
+		"jp_explain": "仮設定",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210600000",
+		"jp_text": "リリパリウムフルチャージ",
+		"en_text": "Liliparium Full Charge",
+		"jp_explain": "現在所持している全ての\nクラフトエネルギーを\n全回復させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210610000",
+		"jp_text": "リリパリウム（極小）",
+		"en_text": "Liliparium (Mini)",
+		"jp_explain": "選択したクラフトエネルギーを\n１５分回復させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210620000",
+		"jp_text": "リリパリウム（小）",
+		"en_text": "Liliparium (Small)",
+		"jp_explain": "選択したクラフトエネルギーを\n３０分回復させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210660000",
+		"jp_text": "リリパリウム（極大）",
+		"en_text": "Liliparium (Max)",
+		"jp_explain": "選択したクラフトエネルギーを\n１２時間回復させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210670000",
+		"jp_text": "クラス追加（ハンター）",
+		"en_text": "Add Class (Hunter)",
+		"jp_explain": "武装エクステンド実行時に\nハンターのクラス追加が\n必ず発生するようになる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210680000",
+		"jp_text": "クラス追加（レンジャー）",
+		"en_text": "Add Class (Ranger)",
+		"jp_explain": "武装エクステンド実行時に\nレンジャーのクラス追加が\n必ず発生するようになる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210690000",
+		"jp_text": "クラス追加（フォース）",
+		"en_text": "Add Class (Force)",
+		"jp_explain": "武装エクステンド実行時に\nフォースのクラス追加が\n必ず発生するようになる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210700000",
+		"jp_text": "クラス追加（ファイター）",
+		"en_text": "Add Class (Fighter)",
+		"jp_explain": "武装エクステンド実行時に\nファイターのクラス追加が\n必ず発生するようになる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210710000",
+		"jp_text": "クラス追加（ガンナー）",
+		"en_text": "Add Class (Gunner)",
+		"jp_explain": "武装エクステンド実行時に\nガンナーのクラス追加が\n必ず発生するようになる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210720000",
+		"jp_text": "クラス追加（テクター）",
+		"en_text": "Add Class (Techer)",
+		"jp_explain": "武装エクステンド実行時に\nテクターのクラス追加が\n必ず発生するようになる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210730000",
+		"jp_text": "クラス追加（ブレイバー）",
+		"en_text": "Add Class (Braver)",
+		"jp_explain": "武装エクステンド実行時に\nブレイバーのクラス追加が\n必ず発生するようになる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210740000",
+		"jp_text": "装備条件変更（打撃）",
+		"en_text": "Equip. Condition Swap (S-ATK)",
+		"jp_explain": "武装エクステンド実行時に\n装備条件を打撃に\n変更する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210750000",
+		"jp_text": "装備条件変更（射撃）",
+		"en_text": "Equip. Condition Swap (R-ATK)",
+		"jp_explain": "武装エクステンド実行時に\n装備条件を射撃に\n変更する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210760000",
+		"jp_text": "装備条件変更（法撃）",
+		"en_text": "Equip. Condition Swap (T-ATK)",
+		"jp_explain": "武装エクステンド実行時に\n装備条件を法撃に\n変更する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210770000",
+		"jp_text": "装備条件変更（技量）",
+		"en_text": "Equip. Condition Swap (DEX)",
+		"jp_explain": "武装エクステンド実行時に\n装備条件を技量に\n変更する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210780000",
+		"jp_text": "装備条件変更（打撃防御）",
+		"en_text": "Equip. Condition Swap (S-DEF)",
+		"jp_explain": "武装エクステンド実行時に\n装備条件を打撃防御に\n変更する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210790000",
+		"jp_text": "装備条件変更（射撃防御）",
+		"en_text": "Equip. Condition Swap (R-DEF)",
+		"jp_explain": "武装エクステンド実行時に\n装備条件を射撃防御に\n変更する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210800000",
+		"jp_text": "装備条件変更（法撃防御）",
+		"en_text": "Equip. Condition Swap (T-DEF)",
+		"jp_explain": "武装エクステンド実行時に\n装備条件を法撃防御に\n変更する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210810000",
+		"jp_text": "装備条件緩和＋１０％",
+		"en_text": "Relax Equip. Conditions +10%",
+		"jp_explain": "武装エクステンド実行時に\n装備条件を１０％緩和する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210820000",
+		"jp_text": "装備条件緩和＋２０％",
+		"en_text": "Relax Equip. Conditions +20%",
+		"jp_explain": "武装エクステンド実行時に\n装備条件を２０％緩和する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210830000",
+		"jp_text": "装備条件緩和＋３０％",
+		"en_text": "Relax Equip. Conditions +30%",
+		"jp_explain": "武装エクステンド実行時に\n装備条件を３０％緩和する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210860000",
+		"jp_text": "メリット値＋１０％",
+		"en_text": "Merit Value +10%",
+		"jp_explain": "テクニックカスタマイズ実行時に\nメリットの下限値を\n１０％上昇させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210870000",
+		"jp_text": "メリット値＋２０％",
+		"en_text": "Merit Value +20%",
+		"jp_explain": "テクニックカスタマイズ実行時に\nメリットの下限値を\n２０％上昇させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210880000",
+		"jp_text": "メリット値＋３０％",
+		"en_text": "Merit Value +30%",
+		"jp_explain": "テクニックカスタマイズ実行時に\nメリットの下限値を\n３０％上昇させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210910000",
+		"jp_text": "デメリット値－１０％",
+		"en_text": "Demerit Value -10%",
+		"jp_explain": "テクニックカスタマイズ実行時に\nデメリットの上限値を\n１０％軽減させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210920000",
+		"jp_text": "デメリット値－２０％",
+		"en_text": "Demerit Value -20%",
+		"jp_explain": "テクニックカスタマイズ実行時に\nデメリットの上限値を\n２０％軽減させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210930000",
+		"jp_text": "デメリット値－３０％",
+		"en_text": "Demerit Value -30%",
+		"jp_explain": "テクニックカスタマイズ実行時に\nデメリットの上限値を\n３０％軽減させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210960000",
+		"jp_text": "エステ無料パス",
+		"en_text": "Free Makeover Pass",
+		"jp_explain": "エステカウンターの機能利用パス。\nサポートパートナーにも使用可能。\n利用するたびにパスは消費される。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210970000",
+		"jp_text": "マグ形態変更パス",
+		"en_text": "Mag Form Change Pass",
+		"jp_explain": "マグ形態変更機能利用パス。\n登録済リストからマグ形態を選択できる。\n利用するたびにパスは消費される。",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210980000",
+		"jp_text": "キャラクター名変更アイテム",
+		"en_text": "Character Name Change",
+		"jp_explain": "仮テキスト",
+		"en_explain": ""
+	},
+	{
+		"assign": "3210990000",
+		"jp_text": "プレイヤーID変更アイテム",
+		"en_text": "Player ID Change",
+		"jp_explain": "仮テキスト",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101000000",
+		"jp_text": "メイン効果（固定）",
+		"en_text": "Main Effect (Fixed)",
+		"jp_explain": "時限能力インストール実行時に\n「選ばれやすいメイン効果」が\n必ず発生するようになる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101110000",
+		"jp_text": "効果時間延長＋７日",
+		"en_text": "Timed Effect Extension +7 Days",
+		"jp_explain": "時限能力インストール実行時に\nデータの効果時間を７日\n延長させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101140000",
+		"jp_text": "クラス追加（バウンサー）",
+		"en_text": "Add Class (Bouncer)",
+		"jp_explain": "武装エクステンド実行時に\nバウンサーのクラス追加が\n必ず発生するようになる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101150000",
+		"jp_text": "特殊能力追加（打撃＆ＰＰ）",
+		"en_text": "Add Ability Noble Power",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃＆ＰＰ】の特殊能力を追加する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101160000",
+		"jp_text": "特殊能力追加（射撃＆ＰＰ）",
+		"en_text": "Add Ability Noble Shoot",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃＆ＰＰ】の特殊能力を追加する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101170000",
+		"jp_text": "特殊能力追加（法撃＆ＰＰ）",
+		"en_text": "Add Ability Noble Tech",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃＆ＰＰ】の特殊能力を追加する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101180000",
+		"jp_text": "特殊能力追加（ＨＰ＆ＰＰ）",
+		"en_text": "Add Ability Noble Stamina",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ＆ＰＰ】の特殊能力を追加する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101190000",
+		"jp_text": "カスタムタイプ１＋１０％",
+		"en_text": "Custom Type 1+10%",
+		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ１の効果値を\n１０％向上させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101200000",
+		"jp_text": "カスタムタイプ１＋２０％",
+		"en_text": "Custom Type 1+20%",
+		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ１の効果値を\n２０％向上させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101210000",
+		"jp_text": "カスタムタイプ１＋３０％",
+		"en_text": "Custom Type 1+30%",
+		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ１の効果値を\n３０％向上させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101240000",
+		"jp_text": "カスタムタイプ２＋１０％",
+		"en_text": "Custom Type 2+10%",
+		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ２の効果値を\n１０％向上させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101250000",
+		"jp_text": "カスタムタイプ２＋２０％",
+		"en_text": "Custom Type 2+20%",
+		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ２の効果値を\n２０％向上させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101260000",
+		"jp_text": "カスタムタイプ２＋３０％",
+		"en_text": "Custom Type 2+30%",
+		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ２の効果値を\n３０％向上させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101290000",
+		"jp_text": "オーナー登録解除パス",
+		"en_text": "Owner Registration Cancel Pass",
+		"jp_explain": "オーナー登録の解除申請パス。\nアイテムラボにて★１１以下の\nオーナー登録を解除する際に使用する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101350000",
+		"jp_text": "リリパリウムオール（極大）",
+		"en_text": "Liliparium (MAX)",
+		"jp_explain": "現在所持している全ての\nクラフトエネルギーを\n１２時間回復させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101360000",
+		"jp_text": "強化スキップ（→５）",
+		"en_text": "Grind Skip (→5)",
+		"jp_explain": "旧式武器、ユニット用の強化補助素材。\n強化値が＋４以下の時に使用すると\n＋５まで一気に強化することができる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101390000",
+		"jp_text": "クラス追加（サモナー）",
+		"en_text": "Add Class(Summoner)",
+		"jp_explain": "武装エクステンド実行時に\nサモナーのクラス追加が\n必ず発生するようになる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101400000",
+		"jp_text": "合成可能数回復１",
+		"en_text": "Pet Synthesis Recovery 1",
+		"jp_explain": "ペットの合成回数が５回増加する。\n増加した合成回数の間は、\n合成経験値が２倍になる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101410000",
+		"jp_text": "合成可能数回復２",
+		"en_text": "Pet Synthesis Recovery 2",
+		"jp_explain": "ペットの合成回数が５回増加する。\n増加した合成回数の間は、\n合成経験値が２倍になる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101420000",
+		"jp_text": "合成可能数回復３",
+		"en_text": "Pet Synthesis Recovery 3",
+		"jp_explain": "ペットの合成回数が５回増加する。\n増加した合成回数の間は、\n合成経験値が２倍になる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101430000",
+		"jp_text": "合成可能数回復４",
+		"en_text": "Pet Synthesis Recovery 4",
+		"jp_explain": "ペットの合成回数が５回増加する。\n増加した合成回数の間は、\n合成経験値が２倍になる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101440000",
+		"jp_text": "合成可能数回復５",
+		"en_text": "Pet Synthesis Recovery 5",
+		"jp_explain": "ペットの合成回数が５回増加する。\n増加した合成回数の間は、\n合成経験値が２倍になる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101450000",
+		"jp_text": "合成可能数回復６",
+		"en_text": "Pet Synthesis Recovery 6",
+		"jp_explain": "ペットの合成回数が５回増加する。\n増加した合成回数の間は、\n合成経験値が２倍になる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101460000",
+		"jp_text": "合成可能数回復７",
+		"en_text": "Pet Synthesis Recovery 7",
+		"jp_explain": "ペットの合成回数が５回増加する。\n増加した合成回数の間は、\n合成経験値が２倍になる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101470000",
+		"jp_text": "合成可能数回復８",
+		"en_text": "Pet Synthesis Recovery 8",
+		"jp_explain": "ペットの合成回数が５回増加する。\n増加した合成回数の間は、\n合成経験値が２倍になる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101480000",
+		"jp_text": "合成可能数回復９",
+		"en_text": "Pet Synthesis Recovery 9",
+		"jp_explain": "ペットの合成回数が５回増加する。\n増加した合成回数の間は、\n合成経験値が２倍になる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101490000",
+		"jp_text": "合成可能数回復１０",
+		"en_text": "Pet Synthesis Recovery 10",
+		"jp_explain": "ペットの合成回数が５回増加する。\n増加した合成回数の間は、\n合成経験値が２倍になる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101500000",
+		"jp_text": "キャンディーイレイサー",
+		"en_text": "Candy Eraser",
+		"jp_explain": "指定したペットのキャンディーボックスに\nセットしたキャンディーを１つ削除する。\n削除したキャンディーは失われる。",
+		"en_explain": "Destroys one Candy from\na selected Pet Candy Box."
+	},
+	{
+		"assign": "32101510000",
+		"jp_text": "全キャンディーイレイサー",
+		"en_text": "All Candy Eraser",
+		"jp_explain": "指定したペットのキャンディーボックスに\nセットしたキャンディーを全て削除する。\n削除したキャンディーは失われる。",
+		"en_explain": "Destroys all specified Candy\nfrom a selected Pet Candy Box."
+	},
+	{
+		"assign": "32101520000",
+		"jp_text": "キャンディーリムーバー",
+		"en_text": "Candy Remover",
+		"jp_explain": "指定したペットのキャンディーボックスに\nセットしたキャンディーを１つ\nアイテムパックに戻す。",
+		"en_explain": "Returns one set Candy from\na Candy Box back to\nyour item pack."
+	},
+	{
+		"assign": "32101530000",
+		"jp_text": "全キャンディーリムーバー",
+		"en_text": "All Candy Remover",
+		"jp_explain": "指定したペットのキャンディーボックスに\nセットしたキャンディーを全て\nアイテムパックに戻す。",
+		"en_explain": "Returns all set Candy from a\nCandy Box back to your\nitem pack."
+	},
+	{
+		"assign": "32101540000",
+		"jp_text": "キャラメルクラッシャー",
+		"en_text": "Caramel Crusher",
+		"jp_explain": "指定したペットのキャンディーボックスに\nセットされたキャラメルブロックを\n１つ削除する。",
+		"en_explain": "Destroys one Caramel Cube\nfrom a selected\nPet Candy Box"
+	},
+	{
+		"assign": "32101550000",
+		"jp_text": "よいピッケル",
+		"en_text": "Good Pickaxe",
+		"jp_explain": "ギャザリングで採取を行える。\nレア採取発生率＋５％",
+		"en_explain": "A tool for Collecting.\nRare Collect Rate +5%"
+	},
+	{
+		"assign": "32101580000",
+		"jp_text": "【極み】ピッケル",
+		"en_text": "[Master] Pickaxe",
+		"jp_explain": "ギャザリングで採取を行える。\nレア採取発生率＋１００％",
+		"en_explain": "A tool for Collecting.\nRare Collect Rate +100%"
+	},
+	{
+		"assign": "32101590000",
+		"jp_text": "よい釣り竿",
+		"en_text": "Good Fishing Rod",
+		"jp_explain": "ギャザリングで釣りを行える。\nレア釣り発生率＋５％",
+		"en_explain": "A tool for Fishing.\nRare Fishing Rate +5%"
+	},
+	{
+		"assign": "32101620000",
+		"jp_text": "【極み】釣り竿",
+		"en_text": "[Master] Fishing Rod",
+		"jp_explain": "ギャザリングで釣りを行える。\nレア釣り発生率＋１００％",
+		"en_explain": "A tool for Fishing.\nRare Fishing Rate +100%"
+	},
+	{
+		"assign": "32101630000",
+		"jp_text": "採取スタミナドリンク",
+		"en_text": "Collecting Stam. Drink",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
+		"en_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
+	},
+	{
+		"assign": "32101640000",
+		"jp_text": "採取スタドリ０１",
+		"en_text": "Collect Stam. Drink 01",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101650000",
+		"jp_text": "採取スタドリ０２",
+		"en_text": "Collect Stam. Drink 02",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101660000",
+		"jp_text": "採取スタドリ０３",
+		"en_text": "Collect Stam. Drink 03",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101670000",
+		"jp_text": "採取スタドリ０４",
+		"en_text": "Collect Stam. Drink 04",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101680000",
+		"jp_text": "採取スタドリ０５",
+		"en_text": "Collect Stam. Drink 05",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101690000",
+		"jp_text": "採取スタドリ０６",
+		"en_text": "Collect Stam. Drink 06",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101700000",
+		"jp_text": "採取スタドリ０７",
+		"en_text": "Collect Stam. Drink 07",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101710000",
+		"jp_text": "採取スタドリ０８",
+		"en_text": "Collect Stam. Drink 08",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101720000",
+		"jp_text": "採取スタドリ０９",
+		"en_text": "Collect Stam. Drink 09",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101730000",
+		"jp_text": "採取スタドリ１０",
+		"en_text": "Collect Stam. Drink 10",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101750000",
+		"jp_text": "釣りスタミナドリンク",
+		"en_text": "Fishing Stam. Drink",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
+		"en_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
+	},
+	{
+		"assign": "32101760000",
+		"jp_text": "釣りスタドリ０１",
+		"en_text": "Fishing Stam. Drink 01",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101770000",
+		"jp_text": "釣りスタドリ０２",
+		"en_text": "Fishing Stam. Drink 02",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101780000",
+		"jp_text": "釣りスタドリ０３",
+		"en_text": "Fishing Stam. Drink 03",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101790000",
+		"jp_text": "釣りスタドリ０４",
+		"en_text": "Fishing Stam. Drink 04",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101800000",
+		"jp_text": "釣りスタドリ０５",
+		"en_text": "Fishing Stam. Drink 05",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101810000",
+		"jp_text": "釣りスタドリ０６",
+		"en_text": "Fishing Stam. Drink 06",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101820000",
+		"jp_text": "釣りスタドリ０７",
+		"en_text": "Fishing Stam. Drink 07",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101830000",
+		"jp_text": "釣りスタドリ０８",
+		"en_text": "Fishing Stam. Drink 08",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101840000",
+		"jp_text": "釣りスタドリ０９",
+		"en_text": "Fishing Stam. Drink 09",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101850000",
+		"jp_text": "釣りスタドリ１０",
+		"en_text": "Fishing Stam. Drink 10",
+		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101890000",
+		"jp_text": "強化大成功確率＋２０％",
+		"en_text": "Great Success Grind Rate +20%",
+		"jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n大成功確率を２０％上昇させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101900000",
+		"jp_text": "強化大成功確率＋３０％",
+		"en_text": "Great Success Grind Rate +30%",
+		"jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n大成功確率を３０％上昇させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101920000",
+		"jp_text": "強化大成功確率＋５０％",
+		"en_text": "Great Success Grind Rate +50%",
+		"jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n大成功確率を５０％上昇させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101930000",
+		"jp_text": "強化大成功（１００％）",
+		"en_text": "Great Success Grind Rate (100%)",
+		"jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n確実に大成功を発生させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101940000",
+		"jp_text": "コレクトシート再受注パス",
+		"en_text": "Collect File Reorder Pass",
+		"jp_explain": "コレクトシートの再受注申請パス。\n対象の課題に発生しているクール\nタイムをリセットし受注可能とする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101950000",
+		"jp_text": "ＳＧトレジャー更新１",
+		"en_text": "SG Treasure Update 1",
+		"jp_explain": "トレジャーショップの陳列更新パス。\nＳＧで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101960000",
+		"jp_text": "ＳＧトレジャー更新２",
+		"en_text": "SG Treasure Update 2",
+		"jp_explain": "トレジャーショップの陳列更新パス。\nＳＧで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101970000",
+		"jp_text": "ＳＧトレジャー更新３",
+		"en_text": "SG Treasure Update 3",
+		"jp_explain": "トレジャーショップの陳列更新パス。\nＳＧで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101980000",
+		"jp_text": "ＳＧトレジャー更新４",
+		"en_text": "SG Treasure Update 4",
+		"jp_explain": "トレジャーショップの陳列更新パス。\nＳＧで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32101990000",
+		"jp_text": "ＳＧトレジャー更新５",
+		"en_text": "SG Treasure Update 5",
+		"jp_explain": "トレジャーショップの陳列更新パス。\nＳＧで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32102000000",
+		"jp_text": "ＳＧトレジャー更新６",
+		"en_text": "SG Treasure Update 6",
+		"jp_explain": "トレジャーショップの陳列更新パス。\nＳＧで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32102010000",
+		"jp_text": "ＳＧトレジャー更新７",
+		"en_text": "SG Treasure Update 7",
+		"jp_explain": "トレジャーショップの陳列更新パス。\nＳＧで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32102020000",
+		"jp_text": "ＳＧトレジャー更新８",
+		"en_text": "SG Treasure Update 8",
+		"jp_explain": "トレジャーショップの陳列更新パス。\nＳＧで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32102030000",
+		"jp_text": "ＳＧトレジャー更新９",
+		"en_text": "SG Treasure Update 9",
+		"jp_explain": "トレジャーショップの陳列更新パス。\nＳＧで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32102040000",
+		"jp_text": "ＳＧトレジャー更新１０",
+		"en_text": "SG Treasure Update 10",
+		"jp_explain": "トレジャーショップの陳列更新パス。\nＳＧで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32102050000",
+		"jp_text": "特殊能力追加（攻撃総合）",
+		"en_text": "Add Special Ability (Attack Fusion)",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【攻撃総合】の特殊能力を追加する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32102060000",
+		"jp_text": "特殊能力追加（防御総合）",
+		"en_text": "Add Special Ability (Defense Fusion)",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【防御総合】の特殊能力を追加する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32102070000",
+		"jp_text": "特殊能力追加（攻撃継承）",
+		"en_text": "Add Special Ability (Attack Transfer)",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【攻撃継承】の特殊能力を追加する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32102080000",
+		"jp_text": "特殊能力追加（防御継承）",
+		"en_text": "Add Special Ability (Defense Transfer)",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【防御継承】の特殊能力を追加する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32102090000",
+		"jp_text": "特殊能力追加（心身継承）",
+		"en_text": "Add Special Ability (Mind & Body)",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【心身継承】の特殊能力を追加する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32102100000",
+		"jp_text": "メセタトレジャー更新１",
+		"en_text": "Meseta Shop Update 1",
+		"jp_explain": "トレジャーショップの陳列更新パス。\nメセタで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32102110000",
+		"jp_text": "メセタトレジャー更新２",
+		"en_text": "Meseta Shop Update 2",
+		"jp_explain": "トレジャーショップの陳列更新パス。\nメセタで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32102120000",
+		"jp_text": "メセタトレジャー更新３",
+		"en_text": "Meseta Shop Update 3",
+		"jp_explain": "トレジャーショップの陳列更新パス。\nメセタで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32102130000",
+		"jp_text": "メセタトレジャー更新４",
+		"en_text": "Meseta Shop Update 4",
+		"jp_explain": "トレジャーショップの陳列更新パス。\nメセタで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32102140000",
+		"jp_text": "メセタトレジャー更新５",
+		"en_text": "Meseta Shop Update 5",
+		"jp_explain": "トレジャーショップの陳列更新パス。\nメセタで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32102150000",
+		"jp_text": "メセタトレジャー更新６",
+		"en_text": "Meseta Shop Update 6",
+		"jp_explain": "トレジャーショップの陳列更新パス。\nメセタで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32102160000",
+		"jp_text": "メセタトレジャー更新７",
+		"en_text": "Meseta Shop Update 7",
+		"jp_explain": "トレジャーショップの陳列更新パス。\nメセタで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32102170000",
+		"jp_text": "メセタトレジャー更新８",
+		"en_text": "Meseta Shop Update 8",
+		"jp_explain": "トレジャーショップの陳列更新パス。\nメセタで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32102180000",
+		"jp_text": "メセタトレジャー更新９",
+		"en_text": "Meseta Shop Update 9",
+		"jp_explain": "トレジャーショップの陳列更新パス。\nメセタで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32102190000",
+		"jp_text": "メセタトレジャー更新１０",
+		"en_text": "Meseta Shop Update 10",
+		"jp_explain": "トレジャーショップの陳列更新パス。\nメセタで購入するトレジャーショップの\n陳列を変更し購入上限をリセットする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32102200000",
+		"jp_text": "特殊能力追加（ＧＲＭ）",
+		"en_text": "Add Special Ability (GRM)",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＧＲＭ】の特殊能力を追加する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32102210000",
+		"jp_text": "特殊能力追加（テノラ）",
+		"en_text": "Add Special Ability (Tenora)",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【テノラ】の特殊能力を追加する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "32102220000",
+		"jp_text": "特殊能力追加（ヨウメイ）",
+		"en_text": "Add Special Ability (Yohmei)",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ヨウメイ】の特殊能力を追加する。",
+		"en_explain": ""
+	}
 ]

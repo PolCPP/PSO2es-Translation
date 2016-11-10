@@ -1,674 +1,681 @@
 [
-  {
-    "assign": "65000000",
-    "jp_text": "ディスタ・レッグ",
-    "en_text": "Dista Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n安定性の高い箱形のフォルムがベースで\n主にレンジャークラスが愛用している。",
-    "en_explain": ""
-  },
-  {
-    "assign": "65010000",
-    "jp_text": "ロニア・レッグ",
-    "en_text": "Ronia Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\nその機動性と、シャープなフォルムが\nハンタークラスに人気の理由。",
-    "en_explain": ""
-  },
-  {
-    "assign": "65020000",
-    "jp_text": "ファウマ・レッグ",
-    "en_text": "Fauma Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\nゆったりとした布のようなフォルムは\nフォトンへの感応性を高めるという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "65030000",
-    "jp_text": "ジョーカ・レッグ",
-    "en_text": "Joker Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n流線的な部分と鋭角的な部分が共存し\n独特の威圧感を醸し出している。",
-    "en_explain": ""
-  },
-  {
-    "assign": "65040000",
-    "jp_text": "マギウス・レッグ",
-    "en_text": "Magius Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n平面的な部分を意識的に多くする事で\n大気中のフォトンへ干渉しやすくした。",
-    "en_explain": ""
-  },
-  {
-    "assign": "65050000",
-    "jp_text": "シェリフ・レッグ",
-    "en_text": "Sheriff Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n示威目的のシルエットを考慮しつつ\n射撃時等の動きを阻害しないよう設計。",
-    "en_explain": ""
-  },
-  {
-    "assign": "65060000",
-    "jp_text": "コロッサス・レッグ",
-    "en_text": "Colossus Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n重厚かつ巨大なそのフォルムは\n居るだけで相手に威圧感を与える。",
-    "en_explain": ""
-  },
-  {
-    "assign": "65070000",
-    "jp_text": "バルドル・レッグ",
-    "en_text": "Baldur Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n存在を主張する流線形のデザインは\n戦闘だけでなく平時であっても華美。",
-    "en_explain": ""
-  },
-  {
-    "assign": "65080000",
-    "jp_text": "アングリフ・レッグ",
-    "en_text": "Angriff Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n空気抵抗を抑えた、突撃傾向の形が\n前線で戦うアークス達に好評。",
-    "en_explain": ""
-  },
-  {
-    "assign": "65090000",
-    "jp_text": "メルダー・レッグ",
-    "en_text": "Melder Leg",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\nすらっとしたシャープなフォルムだが\n不思議と静かな威圧感をも併せ持つ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650100000",
-    "jp_text": "ディスタ・レッグＣＶ",
-    "en_text": "Dista Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n安定性の高い箱形のフォルムがベースで\n主にレンジャークラスが愛用している。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650110000",
-    "jp_text": "ロニア・レッグＣＶ",
-    "en_text": "Ronia Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\nその機動性と、シャープなフォルムが\nハンタークラスに人気の理由。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650130000",
-    "jp_text": "ファウマ・レッグＣＶ",
-    "en_text": "Fauma Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\nゆったりとした布のようなフォルムは\nフォトンへの感応性を高めるという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650140000",
-    "jp_text": "アングリフ・レッグＣＶ",
-    "en_text": "Angriff Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n空気抵抗を抑えた、突撃傾向の形が\n前線で戦うアークス達に好評。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650150000",
-    "jp_text": "コロッサス・レッグＣＶ",
-    "en_text": "Colossus Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n重厚かつ巨大なそのフォルムは\n居るだけで相手に威圧感を与える。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650160000",
-    "jp_text": "マギウス・レッグＣＶ",
-    "en_text": "Magius Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n平面的な部分を意識的に多くする事で\n大気中のフォトンへ干渉しやすくした。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650170000",
-    "jp_text": "シェリフ・レッグＣＶ",
-    "en_text": "Sheriff Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n示威目的のシルエットを考慮しつつ\n射撃時等の動きを阻害しないよう設計。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650180000",
-    "jp_text": "メルダー・レッグＣＶ",
-    "en_text": "Melder Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\nすらっとしたシャープなフォルムだが\n不思議と静かな威圧感をも併せ持つ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650190000",
-    "jp_text": "バルドル・レッグＣＶ",
-    "en_text": "Baldur Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n存在を主張する流線形のデザインは\n戦闘だけでなく平時であっても華美。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650200000",
-    "jp_text": "ジョーカ・レッグＣＶ",
-    "en_text": "Joker Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n流線的な部分と鋭角的な部分が共存し\n独特の威圧感を醸し出している。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650210000",
-    "jp_text": "フィルフ・レッグ",
-    "en_text": "Filph Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n軽く、消音性に優れた素材を使用し\n局地戦などで重宝される隠密性を得た。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650220000",
-    "jp_text": "フィルフ・レッグＣＶ",
-    "en_text": "Filph Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n軽く、消音性に優れた素材を使用し\n局地戦などで重宝される隠密性を得た。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650230000",
-    "jp_text": "ゴウボイド・レッグ",
-    "en_text": "Gouboid Leg",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\nその巨大かつ頑丈なフォルムは\n説明不要の迫力を持っている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650240000",
-    "jp_text": "ゴウボイド・レッグＣＶ",
-    "en_text": "Gouboid Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\nその巨大かつ頑丈なフォルムは\n説明不要の迫力を持っている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650250000",
-    "jp_text": "アラオ・レッグ",
-    "en_text": "Arao Leg",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n儀式的な装飾を施されており\nフォトンへの感受性が高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650260000",
-    "jp_text": "アラオ・レッグＣＶ",
-    "en_text": "Arao Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n儀式的な装飾を施されており\nフォトンへの感受性が高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650270000",
-    "jp_text": "ベルガ・レッグ",
-    "en_text": "Beluga Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n間接部などにコーティングが施された\n過酷環境下にも耐えうるモデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650280000",
-    "jp_text": "ベルガ・レッグＣＶ",
-    "en_text": "Beluga Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n間接部などにコーティングが施された\n過酷環境下にも耐えうるモデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650290000",
-    "jp_text": "ヒュリオン・レッグ",
-    "en_text": "Hurion Leg",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n鋭く研ぎ澄まされたフォルムは\n冷たさと共に荘厳さを感じさせる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650300000",
-    "jp_text": "ヒュリオン・レッグＣＶ",
-    "en_text": "Hurion Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n鋭く研ぎ澄まされたフォルムは\n冷たさと共に荘厳さを感じさせる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650310000",
-    "jp_text": "Ｏフレーム・レッグ",
-    "en_text": "Oratorio Frame Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n戦闘に必要なパーツの軽量化と、\n移動速度の迅速化に成功。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650320000",
-    "jp_text": "ディヴァリースＦ・レッグ",
-    "en_text": "Divarius Frame Leg",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n見た目の割りに重量が軽く\n着心地の悪さを感じる事はない。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650330000",
-    "jp_text": "レギア・レッグ",
-    "en_text": "Regia Legs",
-    "jp_explain": "六芒均衡レギアスの用いる脚部パーツ。\nこれの性能が優れているわけではなく\nレギアスの強さはレギアス自身の強さ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650340000",
-    "jp_text": "ドレーク・レッグ",
-    "en_text": "Drake Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n威圧感のあるシルエットが特徴的で\n言いしれぬ迫力を秘めている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650350000",
-    "jp_text": "ドレーク・レッグＣＶ",
-    "en_text": "Drake Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n威圧感のあるシルエットが特徴的で\n言いしれぬ迫力を秘めている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650360000",
-    "jp_text": "ジャスティスＡ・レッグ",
-    "en_text": "Justice A Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n高貴な雰囲気を持つ、すらりとした\nシルエットが人気を集めている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650370000",
-    "jp_text": "ジャスティスＡ・レッグＣＶ",
-    "en_text": "Justice A Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n高貴な雰囲気を持つ、すらりとした\nシルエットが人気を集めている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650380000",
-    "jp_text": "ディヴァリースＦ・レッグＣＶ",
-    "en_text": "Divarius Frame Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n見た目の割りに重量が軽く\n着心地の悪さを感じる事はない。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650390000",
-    "jp_text": "ディバインＫ・レッグ",
-    "en_text": "Divine Kaiser Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n新型フォトンリアクターを搭載し\n機動力を確保している。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650400000",
-    "jp_text": "ディバインＫ・レッグＣＶ",
-    "en_text": "Divine Kaiser Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n新型フォトンリアクターを搭載し\n機動力を確保している。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650410000",
-    "jp_text": "エヴァレット・レッグ",
-    "en_text": "Everett Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n素材の軽量化を限界まで施したことで\n機動性と威圧的なシルエットを両立。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650420000",
-    "jp_text": "エヴァレット・レッグＣＶ",
-    "en_text": "Everett Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n素材の軽量化を限界まで施したことで\n機動性と威圧的なシルエットを両立。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650430000",
-    "jp_text": "ベイバレル・レッグ",
-    "en_text": "Beybarrel Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n高出力での起動時に、専用で用いられた\n発光回路が美しく煌びやかに輝く。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650440000",
-    "jp_text": "ベイバレル・レッグＣＶ",
-    "en_text": "Beybarrel Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n高出力での起動時に、専用で用いられた\n発光回路が美しく煌びやかに輝く。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650450000",
-    "jp_text": "グアルディ・レッグ",
-    "en_text": "Guardi Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n無骨な作りに見えるが、その実\nフォトンの励起に重点を置いた設計。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650460000",
-    "jp_text": "グアルディ・レッグＣＶ",
-    "en_text": "Guardi Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n無骨な作りに見えるが、その実\nフォトンの励起に重点を置いた設計。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650470000",
-    "jp_text": "レギア・レッグＣＶ",
-    "en_text": "Legia Legs CV",
-    "jp_explain": "六芒均衡レギアスの用いる脚部パーツ。\nこれの性能が優れているわけではなく\nレギアスの強さはレギアス自身の強さ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650480000",
-    "jp_text": "ネメジスト・レッグ",
-    "en_text": "Nemethyst Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n設計を共有したパーツのデータを元に\nより攻撃的な形へと再構成された。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650490000",
-    "jp_text": "ネメジスト・レッグＣＶ",
-    "en_text": "Nemethyst Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n設計を共有したパーツのデータを元に\nより攻撃的な形へと再構成された。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650500000",
-    "jp_text": "ライザーＦ・レッグ",
-    "en_text": "Riser Frame Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n機動性を重視して開発され、洗練された\nボディラインに人気が高まっている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650510000",
-    "jp_text": "ライザーＦ・レッグＣＶ",
-    "en_text": "Riser Frame Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n機動性を重視して開発され、洗練された\nボディラインに人気が高まっている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650520000",
-    "jp_text": "Ｏフレーム・レッグＣＶ",
-    "en_text": "Oratorio Frame Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n戦闘に必要なパーツの軽量化と、\n移動速度の迅速化に成功。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650530000",
-    "jp_text": "グラニーダ・レッグ",
-    "en_text": "Granida Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\nフォトンケーブルで繋ぐことにより\n安定した性能を手に入れた。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650540000",
-    "jp_text": "グラニーダ・レッグＣＶ",
-    "en_text": "Granida Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\nフォトンケーブルで繋ぐことにより\n安定した性能を手に入れた。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650550000",
-    "jp_text": "グルマイカ・レッグ",
-    "en_text": "Gurmica Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n幅広のフォルムが特徴的。\n重厚な作りで環境の影響を受けにくい。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650560000",
-    "jp_text": "グルマイカ・レッグＣＶ",
-    "en_text": "Gurmyca Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n幅広のフォルムが特徴的。\n重厚な作りで環境の影響を受けにくい。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650570000",
-    "jp_text": "ディスタ・レッグＧＶ",
-    "en_text": "Dista Legs GV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n安定性の高い箱形のフォルムがベースで\n主にレンジャークラスが愛用している。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650580000",
-    "jp_text": "ロニア・レッグＧＶ",
-    "en_text": "Ronia Legs GV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\nその機動性と、シャープなフォルムが\nハンタークラスに人気の理由。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650590000",
-    "jp_text": "ファウマ・レッグＧＶ",
-    "en_text": "Fauma Legs GV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\nゆったりとした布のようなフォルムは\nフォトンへの感応性を高めるという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650600000",
-    "jp_text": "サイハジン・レッグ",
-    "en_text": "Saihajin Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n静音性の高いジェネレーターと\n軽量フレームにより高い隠密性を誇る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650610000",
-    "jp_text": "サイハジン・レッグＣＶ",
-    "en_text": "Saihajin Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n静音性の高いジェネレーターと\n軽量フレームにより高い隠密性を誇る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650620000",
-    "jp_text": "レクトアギル・レッグ",
-    "en_text": "Rectagil Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n細身のシルエットで、機動力の高さから\nブレイバーに愛用されている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650630000",
-    "jp_text": "レクトアギル・レッグＣＶ",
-    "en_text": "Rectagil Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n細身のシルエットで、機動力の高さから\nブレイバーに愛用されている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650640000",
-    "jp_text": "フリーヴァ・レッグ",
-    "en_text": "Freeva Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n味方を鼓舞する勇壮さと\n敵をひるませる威圧感を兼ね備える。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650650000",
-    "jp_text": "フリーヴァ・レッグＣＶ",
-    "en_text": "Freeva Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n味方を鼓舞する勇壮さと\n敵をひるませる威圧感を兼ね備える。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650660000",
-    "jp_text": "キオウガイ・レッグ",
-    "en_text": "Kiougai Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n鎧を模した重厚な装甲が特徴で\nそのフォルムは威厳すら感じさせる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650670000",
-    "jp_text": "キオウガイ・レッグＣＶ",
-    "en_text": "Kiougai Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n鎧を模した重厚な装甲が特徴で\nそのフォルムは威厳すら感じさせる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650680000",
-    "jp_text": "ギャレオス・レッグ",
-    "en_text": "Galeos Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n細身でシャープなシルエットが特徴的。\n水域でも高い機動性を誇る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650690000",
-    "jp_text": "ギャレオス・レッグＣＶ",
-    "en_text": "Galeos Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n細身でシャープなシルエットが特徴的。\n水域でも高い機動性を誇る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650700000",
-    "jp_text": "Ｏフレーム・レッグＧＶ",
-    "en_text": "Oratorio Frame Legs GV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n戦闘に必要なパーツの軽量化と、\n移動速度の迅速化に成功。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650710000",
-    "jp_text": "セイタカ・レッグ",
-    "en_text": "Seitaka Legs",
-    "jp_explain": "男性キャスト用の脚部パーツ。\n武僧衆に伝わる教義「制多迦」に従い\n攻撃する相手に罪業を説くための装備。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650730000",
-    "jp_text": "コンガラ・レッグ",
-    "en_text": "Kongara Legs",
-    "jp_explain": "男性キャスト用の脚部パーツ。\n武僧衆に伝わる教義「矜羯羅」に則り\n周囲の人々に罪業を説くための装備。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650750000",
-    "jp_text": "アングリフ・レッグＧＶ",
-    "en_text": "Angriff Legs GV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n空気抵抗を抑えた、突撃傾向の形が\n前線で戦うアークス達に好評。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650760000",
-    "jp_text": "コロッサス・レッグＧＶ",
-    "en_text": "Colossus Legs GV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n重厚かつ巨大なそのフォルムは\n居るだけで相手に威圧感を与える。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650770000",
-    "jp_text": "バンテスタ・レッグ",
-    "en_text": "Vantesta Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\nたくましいフォルムが特徴的で\n見た目に違わぬ出力、頑強さを誇る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650780000",
-    "jp_text": "バンテスタ・レッグＣＶ",
-    "en_text": "Vantesta Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\nたくましいフォルムが特徴的で\n見た目に違わぬ出力、頑強さを誇る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650790000",
-    "jp_text": "アラオ・レッグＧＶ",
-    "en_text": "Arao Legs GV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n儀式的な装飾を施されており\nフォトンへの感受性が高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650800000",
-    "jp_text": "サイハジン・レッグＧＶ",
-    "en_text": "Saihajin Legs GV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n静音性の高いジェネレーターと\n軽量フレームにより高い隠密性を誇る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650810000",
-    "jp_text": "ヴァリエス・レッグ",
-    "en_text": "Valiesse Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n拡張性に優れたシンプルなフォルムで\nあらゆる武装との親和性が高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650820000",
-    "jp_text": "ヴァリエス・レッグＣＶ",
-    "en_text": "Valiesse Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n拡張性に優れたシンプルなフォルムで\nあらゆる武装との親和性が高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650830000",
-    "jp_text": "マギウス・レッグＧＶ",
-    "en_text": "Magius Legs GV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n平面的な部分を意識的に多くする事で\n大気中のフォトンへ干渉しやすくした。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650840000",
-    "jp_text": "ジョーカ・レッグＧＶ",
-    "en_text": "Joker Legs GV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n流線的な部分と鋭角的な部分が共存し\n独特の威圧感を醸し出している。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650850000",
-    "jp_text": "センガミ・レッグ",
-    "en_text": "Sengami Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n格闘戦に特化させた高出力フレーム。\n末端は特にフォトン感応力が高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650860000",
-    "jp_text": "センガミ・レッグＣＶ",
-    "en_text": "Sengami Legs CV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n格闘戦に特化させた高出力フレーム。\n末端は特にフォトン感応力が高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650870000",
-    "jp_text": "アコーディ・レッグ",
-    "en_text": "Accordi Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n各部に搭載されたジェネレーターが\n安定したエネルギー供給を実現した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650880000",
-    "jp_text": "アコーディ・レッグＣＶ",
-    "en_text": "",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n各部に搭載されたジェネレーターが\n安定したエネルギー供給を実現した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650890000",
-    "jp_text": "ゴウボイド・レッグＧＶ",
-    "en_text": "Gouboid Legs GV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\nその巨大かつ頑丈なフォルムは\n説明不要の迫力を持っている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650900000",
-    "jp_text": "ラシオス・レッグ",
-    "en_text": "Lacios Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n安定性の高い箱形のフォルムを\n各部に採用した汎用フレーム。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650910000",
-    "jp_text": "ラシオス・レッグＣＶ",
-    "en_text": "",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n安定性の高い箱形のフォルムを\n各部に採用した汎用フレーム。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650920000",
-    "jp_text": "アルベリカ・レッグ",
-    "en_text": "Arbelica Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n空中戦に特化した設計がされ\n各部に装着されたウィングが特徴的。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650940000",
-    "jp_text": "ギガンテ・レッグ",
-    "en_text": "Gigante Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n如何な攻撃にも屈さない強固さがウリ。\n巨大なフレームに驚く者も多い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650960000",
-    "jp_text": "バルドル・レッグＧＶ",
-    "en_text": "Baldur Legs GV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n存在を主張する流線形のデザインは\n戦闘だけでなく平時であっても華美。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650970000",
-    "jp_text": "ヴォグルス・レッグ",
-    "en_text": "Voglus Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n丸みを帯びたフレームによって\nシルエットから力強さを表現した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "650990000",
-    "jp_text": "エヴァレット・レッグＧＶ",
-    "en_text": "Everett Legs GV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n素材の軽量化を限界まで施したことで\n機動性と威圧的なシルエットを両立。",
-    "en_explain": ""
-  },
-  {
-    "assign": "6501000000",
-    "jp_text": "フリーヴァ・レッグＧＶ",
-    "en_text": "Freeva Legs GV",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n味方を鼓舞する勇壮さと\n敵をひるませる威圧感を兼ね備える。",
-    "en_explain": ""
-  },
-  {
-    "assign": "6501010000",
-    "jp_text": "ガルファ・レッグ",
-    "en_text": "Galpha Legs",
-    "jp_explain": "男性キャスト向けの脚部パーツ。\n雄々しくも気高さを感じさせる\nフレームは守護の精神を表現している。",
-    "en_explain": ""
-  }
+	{
+		"assign": "65000000",
+		"jp_text": "ディスタ・レッグ",
+		"en_text": "Dista Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n安定性の高い箱形のフォルムがベースで\n主にレンジャークラスが愛用している。",
+		"en_explain": ""
+	},
+	{
+		"assign": "65010000",
+		"jp_text": "ロニア・レッグ",
+		"en_text": "Ronia Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\nその機動性と、シャープなフォルムが\nハンタークラスに人気の理由。",
+		"en_explain": ""
+	},
+	{
+		"assign": "65020000",
+		"jp_text": "ファウマ・レッグ",
+		"en_text": "Fauma Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\nゆったりとした布のようなフォルムは\nフォトンへの感応性を高めるという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "65030000",
+		"jp_text": "ジョーカ・レッグ",
+		"en_text": "Joker Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n流線的な部分と鋭角的な部分が共存し\n独特の威圧感を醸し出している。",
+		"en_explain": ""
+	},
+	{
+		"assign": "65040000",
+		"jp_text": "マギウス・レッグ",
+		"en_text": "Magius Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n平面的な部分を意識的に多くする事で\n大気中のフォトンへ干渉しやすくした。",
+		"en_explain": ""
+	},
+	{
+		"assign": "65050000",
+		"jp_text": "シェリフ・レッグ",
+		"en_text": "Sheriff Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n示威目的のシルエットを考慮しつつ\n射撃時等の動きを阻害しないよう設計。",
+		"en_explain": ""
+	},
+	{
+		"assign": "65060000",
+		"jp_text": "コロッサス・レッグ",
+		"en_text": "Colossus Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n重厚かつ巨大なそのフォルムは\n居るだけで相手に威圧感を与える。",
+		"en_explain": ""
+	},
+	{
+		"assign": "65070000",
+		"jp_text": "バルドル・レッグ",
+		"en_text": "Baldur Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n存在を主張する流線形のデザインは\n戦闘だけでなく平時であっても華美。",
+		"en_explain": ""
+	},
+	{
+		"assign": "65080000",
+		"jp_text": "アングリフ・レッグ",
+		"en_text": "Angriff Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n空気抵抗を抑えた、突撃傾向の形が\n前線で戦うアークス達に好評。",
+		"en_explain": ""
+	},
+	{
+		"assign": "65090000",
+		"jp_text": "メルダー・レッグ",
+		"en_text": "Melder Leg",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\nすらっとしたシャープなフォルムだが\n不思議と静かな威圧感をも併せ持つ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650100000",
+		"jp_text": "ディスタ・レッグＣＶ",
+		"en_text": "Dista Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n安定性の高い箱形のフォルムがベースで\n主にレンジャークラスが愛用している。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650110000",
+		"jp_text": "ロニア・レッグＣＶ",
+		"en_text": "Ronia Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\nその機動性と、シャープなフォルムが\nハンタークラスに人気の理由。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650130000",
+		"jp_text": "ファウマ・レッグＣＶ",
+		"en_text": "Fauma Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\nゆったりとした布のようなフォルムは\nフォトンへの感応性を高めるという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650140000",
+		"jp_text": "アングリフ・レッグＣＶ",
+		"en_text": "Angriff Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n空気抵抗を抑えた、突撃傾向の形が\n前線で戦うアークス達に好評。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650150000",
+		"jp_text": "コロッサス・レッグＣＶ",
+		"en_text": "Colossus Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n重厚かつ巨大なそのフォルムは\n居るだけで相手に威圧感を与える。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650160000",
+		"jp_text": "マギウス・レッグＣＶ",
+		"en_text": "Magius Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n平面的な部分を意識的に多くする事で\n大気中のフォトンへ干渉しやすくした。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650170000",
+		"jp_text": "シェリフ・レッグＣＶ",
+		"en_text": "Sheriff Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n示威目的のシルエットを考慮しつつ\n射撃時等の動きを阻害しないよう設計。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650180000",
+		"jp_text": "メルダー・レッグＣＶ",
+		"en_text": "Melder Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\nすらっとしたシャープなフォルムだが\n不思議と静かな威圧感をも併せ持つ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650190000",
+		"jp_text": "バルドル・レッグＣＶ",
+		"en_text": "Baldur Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n存在を主張する流線形のデザインは\n戦闘だけでなく平時であっても華美。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650200000",
+		"jp_text": "ジョーカ・レッグＣＶ",
+		"en_text": "Joker Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n流線的な部分と鋭角的な部分が共存し\n独特の威圧感を醸し出している。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650210000",
+		"jp_text": "フィルフ・レッグ",
+		"en_text": "Filph Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n軽く、消音性に優れた素材を使用し\n局地戦などで重宝される隠密性を得た。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650220000",
+		"jp_text": "フィルフ・レッグＣＶ",
+		"en_text": "Filph Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n軽く、消音性に優れた素材を使用し\n局地戦などで重宝される隠密性を得た。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650230000",
+		"jp_text": "ゴウボイド・レッグ",
+		"en_text": "Gouboid Leg",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\nその巨大かつ頑丈なフォルムは\n説明不要の迫力を持っている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650240000",
+		"jp_text": "ゴウボイド・レッグＣＶ",
+		"en_text": "Gouboid Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\nその巨大かつ頑丈なフォルムは\n説明不要の迫力を持っている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650250000",
+		"jp_text": "アラオ・レッグ",
+		"en_text": "Arao Leg",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n儀式的な装飾を施されており\nフォトンへの感受性が高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650260000",
+		"jp_text": "アラオ・レッグＣＶ",
+		"en_text": "Arao Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n儀式的な装飾を施されており\nフォトンへの感受性が高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650270000",
+		"jp_text": "ベルガ・レッグ",
+		"en_text": "Beluga Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n間接部などにコーティングが施された\n過酷環境下にも耐えうるモデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650280000",
+		"jp_text": "ベルガ・レッグＣＶ",
+		"en_text": "Beluga Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n間接部などにコーティングが施された\n過酷環境下にも耐えうるモデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650290000",
+		"jp_text": "ヒュリオン・レッグ",
+		"en_text": "Hurion Leg",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n鋭く研ぎ澄まされたフォルムは\n冷たさと共に荘厳さを感じさせる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650300000",
+		"jp_text": "ヒュリオン・レッグＣＶ",
+		"en_text": "Hurion Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n鋭く研ぎ澄まされたフォルムは\n冷たさと共に荘厳さを感じさせる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650310000",
+		"jp_text": "Ｏフレーム・レッグ",
+		"en_text": "Oratorio Frame Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n戦闘に必要なパーツの軽量化と、\n移動速度の迅速化に成功。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650320000",
+		"jp_text": "ディヴァリースＦ・レッグ",
+		"en_text": "Divarius Frame Leg",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n見た目の割りに重量が軽く\n着心地の悪さを感じる事はない。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650330000",
+		"jp_text": "レギア・レッグ",
+		"en_text": "Regia Legs",
+		"jp_explain": "六芒均衡レギアスの用いる脚部パーツ。\nこれの性能が優れているわけではなく\nレギアスの強さはレギアス自身の強さ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650340000",
+		"jp_text": "ドレーク・レッグ",
+		"en_text": "Drake Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n威圧感のあるシルエットが特徴的で\n言いしれぬ迫力を秘めている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650350000",
+		"jp_text": "ドレーク・レッグＣＶ",
+		"en_text": "Drake Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n威圧感のあるシルエットが特徴的で\n言いしれぬ迫力を秘めている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650360000",
+		"jp_text": "ジャスティスＡ・レッグ",
+		"en_text": "Justice A Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n高貴な雰囲気を持つ、すらりとした\nシルエットが人気を集めている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650370000",
+		"jp_text": "ジャスティスＡ・レッグＣＶ",
+		"en_text": "Justice A Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n高貴な雰囲気を持つ、すらりとした\nシルエットが人気を集めている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650380000",
+		"jp_text": "ディヴァリースＦ・レッグＣＶ",
+		"en_text": "Divarius Frame Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n見た目の割りに重量が軽く\n着心地の悪さを感じる事はない。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650390000",
+		"jp_text": "ディバインＫ・レッグ",
+		"en_text": "Divine Kaiser Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n新型フォトンリアクターを搭載し\n機動力を確保している。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650400000",
+		"jp_text": "ディバインＫ・レッグＣＶ",
+		"en_text": "Divine Kaiser Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n新型フォトンリアクターを搭載し\n機動力を確保している。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650410000",
+		"jp_text": "エヴァレット・レッグ",
+		"en_text": "Everett Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n素材の軽量化を限界まで施したことで\n機動性と威圧的なシルエットを両立。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650420000",
+		"jp_text": "エヴァレット・レッグＣＶ",
+		"en_text": "Everett Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n素材の軽量化を限界まで施したことで\n機動性と威圧的なシルエットを両立。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650430000",
+		"jp_text": "ベイバレル・レッグ",
+		"en_text": "Beybarrel Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n高出力での起動時に、専用で用いられた\n発光回路が美しく煌びやかに輝く。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650440000",
+		"jp_text": "ベイバレル・レッグＣＶ",
+		"en_text": "Beybarrel Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n高出力での起動時に、専用で用いられた\n発光回路が美しく煌びやかに輝く。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650450000",
+		"jp_text": "グアルディ・レッグ",
+		"en_text": "Guardi Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n無骨な作りに見えるが、その実\nフォトンの励起に重点を置いた設計。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650460000",
+		"jp_text": "グアルディ・レッグＣＶ",
+		"en_text": "Guardi Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n無骨な作りに見えるが、その実\nフォトンの励起に重点を置いた設計。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650470000",
+		"jp_text": "レギア・レッグＣＶ",
+		"en_text": "Legia Legs CV",
+		"jp_explain": "六芒均衡レギアスの用いる脚部パーツ。\nこれの性能が優れているわけではなく\nレギアスの強さはレギアス自身の強さ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650480000",
+		"jp_text": "ネメジスト・レッグ",
+		"en_text": "Nemethyst Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n設計を共有したパーツのデータを元に\nより攻撃的な形へと再構成された。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650490000",
+		"jp_text": "ネメジスト・レッグＣＶ",
+		"en_text": "Nemethyst Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n設計を共有したパーツのデータを元に\nより攻撃的な形へと再構成された。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650500000",
+		"jp_text": "ライザーＦ・レッグ",
+		"en_text": "Riser Frame Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n機動性を重視して開発され、洗練された\nボディラインに人気が高まっている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650510000",
+		"jp_text": "ライザーＦ・レッグＣＶ",
+		"en_text": "Riser Frame Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n機動性を重視して開発され、洗練された\nボディラインに人気が高まっている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650520000",
+		"jp_text": "Ｏフレーム・レッグＣＶ",
+		"en_text": "Oratorio Frame Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n戦闘に必要なパーツの軽量化と、\n移動速度の迅速化に成功。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650530000",
+		"jp_text": "グラニーダ・レッグ",
+		"en_text": "Granida Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\nフォトンケーブルで繋ぐことにより\n安定した性能を手に入れた。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650540000",
+		"jp_text": "グラニーダ・レッグＣＶ",
+		"en_text": "Granida Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\nフォトンケーブルで繋ぐことにより\n安定した性能を手に入れた。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650550000",
+		"jp_text": "グルマイカ・レッグ",
+		"en_text": "Gurmica Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n幅広のフォルムが特徴的。\n重厚な作りで環境の影響を受けにくい。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650560000",
+		"jp_text": "グルマイカ・レッグＣＶ",
+		"en_text": "Gurmyca Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n幅広のフォルムが特徴的。\n重厚な作りで環境の影響を受けにくい。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650570000",
+		"jp_text": "ディスタ・レッグＧＶ",
+		"en_text": "Dista Legs GV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n安定性の高い箱形のフォルムがベースで\n主にレンジャークラスが愛用している。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650580000",
+		"jp_text": "ロニア・レッグＧＶ",
+		"en_text": "Ronia Legs GV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\nその機動性と、シャープなフォルムが\nハンタークラスに人気の理由。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650590000",
+		"jp_text": "ファウマ・レッグＧＶ",
+		"en_text": "Fauma Legs GV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\nゆったりとした布のようなフォルムは\nフォトンへの感応性を高めるという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650600000",
+		"jp_text": "サイハジン・レッグ",
+		"en_text": "Saihajin Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n静音性の高いジェネレーターと\n軽量フレームにより高い隠密性を誇る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650610000",
+		"jp_text": "サイハジン・レッグＣＶ",
+		"en_text": "Saihajin Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n静音性の高いジェネレーターと\n軽量フレームにより高い隠密性を誇る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650620000",
+		"jp_text": "レクトアギル・レッグ",
+		"en_text": "Rectagil Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n細身のシルエットで、機動力の高さから\nブレイバーに愛用されている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650630000",
+		"jp_text": "レクトアギル・レッグＣＶ",
+		"en_text": "Rectagil Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n細身のシルエットで、機動力の高さから\nブレイバーに愛用されている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650640000",
+		"jp_text": "フリーヴァ・レッグ",
+		"en_text": "Freeva Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n味方を鼓舞する勇壮さと\n敵をひるませる威圧感を兼ね備える。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650650000",
+		"jp_text": "フリーヴァ・レッグＣＶ",
+		"en_text": "Freeva Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n味方を鼓舞する勇壮さと\n敵をひるませる威圧感を兼ね備える。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650660000",
+		"jp_text": "キオウガイ・レッグ",
+		"en_text": "Kiougai Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n鎧を模した重厚な装甲が特徴で\nそのフォルムは威厳すら感じさせる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650670000",
+		"jp_text": "キオウガイ・レッグＣＶ",
+		"en_text": "Kiougai Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n鎧を模した重厚な装甲が特徴で\nそのフォルムは威厳すら感じさせる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650680000",
+		"jp_text": "ギャレオス・レッグ",
+		"en_text": "Galeos Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n細身でシャープなシルエットが特徴的。\n水域でも高い機動性を誇る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650690000",
+		"jp_text": "ギャレオス・レッグＣＶ",
+		"en_text": "Galeos Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n細身でシャープなシルエットが特徴的。\n水域でも高い機動性を誇る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650700000",
+		"jp_text": "Ｏフレーム・レッグＧＶ",
+		"en_text": "Oratorio Frame Legs GV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n戦闘に必要なパーツの軽量化と、\n移動速度の迅速化に成功。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650710000",
+		"jp_text": "セイタカ・レッグ",
+		"en_text": "Seitaka Legs",
+		"jp_explain": "男性キャスト用の脚部パーツ。\n武僧衆に伝わる教義「制多迦」に従い\n攻撃する相手に罪業を説くための装備。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650730000",
+		"jp_text": "コンガラ・レッグ",
+		"en_text": "Kongara Legs",
+		"jp_explain": "男性キャスト用の脚部パーツ。\n武僧衆に伝わる教義「矜羯羅」に則り\n周囲の人々に罪業を説くための装備。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650750000",
+		"jp_text": "アングリフ・レッグＧＶ",
+		"en_text": "Angriff Legs GV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n空気抵抗を抑えた、突撃傾向の形が\n前線で戦うアークス達に好評。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650760000",
+		"jp_text": "コロッサス・レッグＧＶ",
+		"en_text": "Colossus Legs GV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n重厚かつ巨大なそのフォルムは\n居るだけで相手に威圧感を与える。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650770000",
+		"jp_text": "バンテスタ・レッグ",
+		"en_text": "Vantesta Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\nたくましいフォルムが特徴的で\n見た目に違わぬ出力、頑強さを誇る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650780000",
+		"jp_text": "バンテスタ・レッグＣＶ",
+		"en_text": "Vantesta Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\nたくましいフォルムが特徴的で\n見た目に違わぬ出力、頑強さを誇る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650790000",
+		"jp_text": "アラオ・レッグＧＶ",
+		"en_text": "Arao Legs GV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n儀式的な装飾を施されており\nフォトンへの感受性が高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650800000",
+		"jp_text": "サイハジン・レッグＧＶ",
+		"en_text": "Saihajin Legs GV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n静音性の高いジェネレーターと\n軽量フレームにより高い隠密性を誇る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650810000",
+		"jp_text": "ヴァリエス・レッグ",
+		"en_text": "Valiesse Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n拡張性に優れたシンプルなフォルムで\nあらゆる武装との親和性が高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650820000",
+		"jp_text": "ヴァリエス・レッグＣＶ",
+		"en_text": "Valiesse Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n拡張性に優れたシンプルなフォルムで\nあらゆる武装との親和性が高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650830000",
+		"jp_text": "マギウス・レッグＧＶ",
+		"en_text": "Magius Legs GV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n平面的な部分を意識的に多くする事で\n大気中のフォトンへ干渉しやすくした。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650840000",
+		"jp_text": "ジョーカ・レッグＧＶ",
+		"en_text": "Joker Legs GV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n流線的な部分と鋭角的な部分が共存し\n独特の威圧感を醸し出している。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650850000",
+		"jp_text": "センガミ・レッグ",
+		"en_text": "Sengami Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n格闘戦に特化させた高出力フレーム。\n末端は特にフォトン感応力が高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650860000",
+		"jp_text": "センガミ・レッグＣＶ",
+		"en_text": "Sengami Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n格闘戦に特化させた高出力フレーム。\n末端は特にフォトン感応力が高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650870000",
+		"jp_text": "アコーディ・レッグ",
+		"en_text": "Accordi Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n各部に搭載されたジェネレーターが\n安定したエネルギー供給を実現した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650880000",
+		"jp_text": "アコーディ・レッグＣＶ",
+		"en_text": "",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n各部に搭載されたジェネレーターが\n安定したエネルギー供給を実現した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650890000",
+		"jp_text": "ゴウボイド・レッグＧＶ",
+		"en_text": "Gouboid Legs GV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\nその巨大かつ頑丈なフォルムは\n説明不要の迫力を持っている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650900000",
+		"jp_text": "ラシオス・レッグ",
+		"en_text": "Lacios Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n安定性の高い箱形のフォルムを\n各部に採用した汎用フレーム。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650910000",
+		"jp_text": "ラシオス・レッグＣＶ",
+		"en_text": "",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n安定性の高い箱形のフォルムを\n各部に採用した汎用フレーム。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650920000",
+		"jp_text": "アルベリカ・レッグ",
+		"en_text": "Arbelica Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n空中戦に特化した設計がされ\n各部に装着されたウィングが特徴的。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650940000",
+		"jp_text": "ギガンテ・レッグ",
+		"en_text": "Gigante Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n如何な攻撃にも屈さない強固さがウリ。\n巨大なフレームに驚く者も多い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650960000",
+		"jp_text": "バルドル・レッグＧＶ",
+		"en_text": "Baldur Legs GV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n存在を主張する流線形のデザインは\n戦闘だけでなく平時であっても華美。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650970000",
+		"jp_text": "ヴォグルス・レッグ",
+		"en_text": "Voglus Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n丸みを帯びたフレームによって\nシルエットから力強さを表現した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "650990000",
+		"jp_text": "エヴァレット・レッグＧＶ",
+		"en_text": "Everett Legs GV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n素材の軽量化を限界まで施したことで\n機動性と威圧的なシルエットを両立。",
+		"en_explain": ""
+	},
+	{
+		"assign": "6501000000",
+		"jp_text": "フリーヴァ・レッグＧＶ",
+		"en_text": "Freeva Legs GV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n味方を鼓舞する勇壮さと\n敵をひるませる威圧感を兼ね備える。",
+		"en_explain": ""
+	},
+	{
+		"assign": "6501010000",
+		"jp_text": "ガルファ・レッグ",
+		"en_text": "Galpha Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n雄々しくも気高さを感じさせる\nフレームは守護の精神を表現している。",
+		"en_explain": ""
+	},
+	{
+		"assign": "6501030000",
+		"jp_text": "グロード・レッグ",
+		"en_text": "Glode Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n古い文献に記された兵隊のデータを\n基に設計された、屈強なパーツ。",
+		"en_explain": ""
+	}
 ]

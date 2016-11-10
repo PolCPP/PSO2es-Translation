@@ -1,184 +1,191 @@
 [
-  {
-    "assign": "1014000000",
-    "jp_text": "＊ケイコウトウ",
-    "en_text": "＊Keikoutou",
-    "jp_explain": "照明器具を作っていたはずがなぜか\n抜剣型武器迷彩になってしまった。\nとてももろいので取扱注意。",
-    "en_explain": "Katana-type weapon camouflage\nthat should've been used as\na light fixture. It's very fragile."
-  },
-  {
-    "assign": "1014010000",
-    "jp_text": "＊プリティヒガサ",
-    "en_text": "＊Pretty Parasol",
-    "jp_explain": "可愛い外見が人気の抜剣型武器迷彩。\nたかだか日除けの傘と侮ると、\n手痛い反撃を受けることだろう。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1014020000",
-    "jp_text": "＊ハリ・セン",
-    "en_text": "",
-    "jp_explain": "舞台の小道具からヒントを得た抜剣型\n武器迷彩。フォトン薄膜をコートした\n紙素材による打擲に最適な居合武器。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1014030000",
-    "jp_text": "＊真島吾朗ドス",
-    "en_text": "＊Majima Goro Knife",
-    "jp_explain": "「嶋野の狂犬」真島吾朗が使用する\nドスを模した武器迷彩。\n小ぶりであるものの切れ味は本物。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1014040000",
-    "jp_text": "＊霊刀雪姫",
-    "en_text": "＊Soul Blade Yukihime",
-    "jp_explain": "選ばれた勇者にのみ使用できる伝説の\n剣を模した武器迷彩。\n透き通るような美しい刀身を持つ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1014050000",
-    "jp_text": "＊スタークエーサー",
-    "en_text": "＊Star Quasar",
-    "jp_explain": "伝説の抜剣を模して作られた武器迷彩。\nその刃は、遙か彼方に存在する銀河すら\nやすやすと斬り裂くと言われている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1014060000",
-    "jp_text": "＊鬼哭破軍",
-    "en_text": "＊Kikoku Hagun",
-    "jp_explain": "鍛冶師Ｈｏｕｎｄによって打たれた\n抜剣型武器迷彩。血涙を思わせる紋様に\n鬼の面など禍々しいデザインが特徴的。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1014070000",
-    "jp_text": "＊ローズオブマタドール",
-    "en_text": "＊Rose of Matador",
-    "jp_explain": "トコヤミによりデザインされた\n抜剣型武器迷彩。赤い布を翻す度に\nバラが舞い散り、戦闘を美しく彩る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1014080000",
-    "jp_text": "＊アークマミカタナ",
-    "en_text": "＊Arkmami Katana",
-    "jp_explain": "可愛らしいヌイグルミを元に作成された\n抜剣型武器迷彩。プラグ型の尻尾は\n抜刀時に外れるようになっている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1014090000",
-    "jp_text": "＊サクラ・ランドセル",
-    "en_text": "＊Sakura Ransel",
-    "jp_explain": "サクラ・ニャウの持つ学生鞄の抜剣を\n模して作られた抜剣型武器迷彩。\n勉強道具がたくさん入っている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "10140110000",
-    "jp_text": "＊儀礼剣",
-    "en_text": "＊Ceremonial Sword",
-    "jp_explain": "探検家を夢見る少年が\n遺跡で拾ったという儀礼剣を\n模した武器迷彩。",
-    "en_explain": ""
-  },
-  {
-    "assign": "10140120000",
-    "jp_text": "＊ソウル・オブ・ウォパル",
-    "en_text": "Soul of Vopar",
-    "jp_explain": "イクリプストーチの炎で鍛えられた\n抜剣型武器迷彩。別名ラシーク・ブレード。\n血色のフォトンブレードは類稀な威力。",
-    "en_explain": ""
-  },
-  {
-    "assign": "10140130000",
-    "jp_text": "＊レンゴクトウ・エンサ",
-    "en_text": "＊Rengokuto Ensa",
-    "jp_explain": "向かってくるものに一切の容赦を\n与えない鬼神の抜剣型武器迷彩。\n血肉を糧とし歓喜に刀身を紅く染める。",
-    "en_explain": ""
-  },
-  {
-    "assign": "10140140000",
-    "jp_text": "＊ホシアイ",
-    "en_text": "＊Hoshiai",
-    "jp_explain": "年に一度だけ再会を許される夫妻の\n伝説を元に作られた抜剣型武器迷彩。\n羽衣をまとったような鞘が特徴的。",
-    "en_explain": ""
-  },
-  {
-    "assign": "10140150000",
-    "jp_text": "＊カガヤキ",
-    "en_text": "",
-    "jp_explain": "刀身がネオンのように光り輝くド派手な\n抜剣型武器迷彩。高速で振り回すと\n見る者の目を惑わすことが出来る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "10140160000",
-    "jp_text": "＊ユキガラス",
-    "en_text": "＊Yukigaras",
-    "jp_explain": "人気の武器のデザインを元に作られた\n抜剣型武器迷彩。刀身に霊気をまとう\n霊刀で、大変美しい鞘を持つ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "10140170000",
-    "jp_text": "＊氷剣・ユキアネサ",
-    "en_text": "＊Mucro Algesco: Yukianesa",
-    "jp_explain": "アークエネミーの一つを\n模倣した抜剣型武器迷彩。\n刀身が溶けない氷で出来ている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "10140180000",
-    "jp_text": "＊リッターオーダー",
-    "en_text": "",
-    "jp_explain": "高貴な騎士を思わせる抜剣型武器迷彩。\n優美な盾に刻まれた紋様には\n民を守るという願いが込められている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "10140190000",
-    "jp_text": "＊マグノリアエクレール2",
-    "en_text": "Magnolia Eclair 2",
-    "jp_explain": "イリュリア連王カイ＝キスクが愛用する\n細身の刀剣。カイ専用として製作された\n逸品で刀身には刻印が刻まれている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "10140200000",
-    "jp_text": "＊終刀・創世",
-    "en_text": "＊Tsukuriyo",
-    "jp_explain": "創世器「終刀・創世」を模して作られた\n抜剣型武器迷彩。刀匠ジグが生みだした\n宇宙を創りし色の刀身をもつ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "10140210000",
-    "jp_text": "＊リィンの太刀",
-    "en_text": "＊Rean’s Katana",
-    "jp_explain": "「八葉一刀流」の指南を受けた少年の\n太刀を模した抜剣型武器迷彩。少年は\n中伝を受けるほどの実力だったという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "10140220000",
-    "jp_text": "＊龍鱗爪剣テンペリオン",
-    "en_text": "＊Dragonscale Sword Temperion",
-    "jp_explain": "「竜奏騎士」として覚醒した王女が\n所持する、伝説の楽器「竜刃器」の\nひとつを模した武器迷彩。",
-    "en_explain": ""
-  },
-  {
-    "assign": "10140230000",
-    "jp_text": "＊神刀スサノオ",
-    "en_text": "＊Divine Katana Susanoo",
-    "jp_explain": "孤高のドラゴンスレイヤーが振るう\n太刀を模した武器迷彩。腕次第では\n伝説の竜をも断ち斬ることが出来る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "10140240000",
-    "jp_text": "＊ＤＢの盾剣",
-    "en_text": "＊DB’s Sword&Shield",
-    "jp_explain": "ある軍人の剣を模した抜剣型武器迷彩。\n多数のレプリカが存在する中でも\n軍によって生産されているもの。",
-    "en_explain": "Katana Camo that mimics the\nweapon of a soldier. Replicas that\nexist are produced by the military."
-  },
-  {
-    "assign": "10140250000",
-    "jp_text": "＊霊剣・荒鷹",
-    "en_text": "＊Reiken-Arataka",
-    "jp_explain": "真宮寺家に伝わる家宝を模した武器迷彩。\n「破邪の血統」に属する者だけが\n真の力を引き出すことができる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "10140260000",
-    "jp_text": "＊Liberation",
-    "en_text": "",
-    "jp_explain": "世の理からの解放、そして全ての事象を\n覆す魔剣の武器迷彩。屠られし存在は\n無へと還り、真の解放を得るとされる。",
-    "en_explain": ""
-  }
+	{
+		"assign": "1014000000",
+		"jp_text": "＊ケイコウトウ",
+		"en_text": "＊Keikoutou",
+		"jp_explain": "照明器具を作っていたはずがなぜか\n抜剣型武器迷彩になってしまった。\nとてももろいので取扱注意。",
+		"en_explain": "Katana-type weapon camouflage\nthat should've been used as\na light fixture. It's very fragile."
+	},
+	{
+		"assign": "1014010000",
+		"jp_text": "＊プリティヒガサ",
+		"en_text": "＊Pretty Parasol",
+		"jp_explain": "可愛い外見が人気の抜剣型武器迷彩。\nたかだか日除けの傘と侮ると、\n手痛い反撃を受けることだろう。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1014020000",
+		"jp_text": "＊ハリ・セン",
+		"en_text": "",
+		"jp_explain": "舞台の小道具からヒントを得た抜剣型\n武器迷彩。フォトン薄膜をコートした\n紙素材による打擲に最適な居合武器。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1014030000",
+		"jp_text": "＊真島吾朗ドス",
+		"en_text": "＊Majima Goro Knife",
+		"jp_explain": "「嶋野の狂犬」真島吾朗が使用する\nドスを模した武器迷彩。\n小ぶりであるものの切れ味は本物。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1014040000",
+		"jp_text": "＊霊刀雪姫",
+		"en_text": "＊Soul Blade Yukihime",
+		"jp_explain": "選ばれた勇者にのみ使用できる伝説の\n剣を模した武器迷彩。\n透き通るような美しい刀身を持つ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1014050000",
+		"jp_text": "＊スタークエーサー",
+		"en_text": "＊Star Quasar",
+		"jp_explain": "伝説の抜剣を模して作られた武器迷彩。\nその刃は、遙か彼方に存在する銀河すら\nやすやすと斬り裂くと言われている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1014060000",
+		"jp_text": "＊鬼哭破軍",
+		"en_text": "＊Kikoku Hagun",
+		"jp_explain": "鍛冶師Ｈｏｕｎｄによって打たれた\n抜剣型武器迷彩。血涙を思わせる紋様に\n鬼の面など禍々しいデザインが特徴的。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1014070000",
+		"jp_text": "＊ローズオブマタドール",
+		"en_text": "＊Rose of Matador",
+		"jp_explain": "トコヤミによりデザインされた\n抜剣型武器迷彩。赤い布を翻す度に\nバラが舞い散り、戦闘を美しく彩る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1014080000",
+		"jp_text": "＊アークマミカタナ",
+		"en_text": "＊Arkmami Katana",
+		"jp_explain": "可愛らしいヌイグルミを元に作成された\n抜剣型武器迷彩。プラグ型の尻尾は\n抜刀時に外れるようになっている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1014090000",
+		"jp_text": "＊サクラ・ランドセル",
+		"en_text": "＊Sakura Ransel",
+		"jp_explain": "サクラ・ニャウの持つ学生鞄の抜剣を\n模して作られた抜剣型武器迷彩。\n勉強道具がたくさん入っている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "10140110000",
+		"jp_text": "＊儀礼剣",
+		"en_text": "＊Ceremonial Sword",
+		"jp_explain": "探検家を夢見る少年が\n遺跡で拾ったという儀礼剣を\n模した武器迷彩。",
+		"en_explain": ""
+	},
+	{
+		"assign": "10140120000",
+		"jp_text": "＊ソウル・オブ・ウォパル",
+		"en_text": "Soul of Vopar",
+		"jp_explain": "イクリプストーチの炎で鍛えられた\n抜剣型武器迷彩。別名ラシーク・ブレード。\n血色のフォトンブレードは類稀な威力。",
+		"en_explain": ""
+	},
+	{
+		"assign": "10140130000",
+		"jp_text": "＊レンゴクトウ・エンサ",
+		"en_text": "＊Rengokuto Ensa",
+		"jp_explain": "向かってくるものに一切の容赦を\n与えない鬼神の抜剣型武器迷彩。\n血肉を糧とし歓喜に刀身を紅く染める。",
+		"en_explain": ""
+	},
+	{
+		"assign": "10140140000",
+		"jp_text": "＊ホシアイ",
+		"en_text": "＊Hoshiai",
+		"jp_explain": "年に一度だけ再会を許される夫妻の\n伝説を元に作られた抜剣型武器迷彩。\n羽衣をまとったような鞘が特徴的。",
+		"en_explain": ""
+	},
+	{
+		"assign": "10140150000",
+		"jp_text": "＊カガヤキ",
+		"en_text": "＊Kagayaki",
+		"jp_explain": "刀身がネオンのように光り輝くド派手な\n抜剣型武器迷彩。高速で振り回すと\n見る者の目を惑わすことが出来る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "10140160000",
+		"jp_text": "＊ユキガラス",
+		"en_text": "＊Yukigaras",
+		"jp_explain": "人気の武器のデザインを元に作られた\n抜剣型武器迷彩。刀身に霊気をまとう\n霊刀で、大変美しい鞘を持つ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "10140170000",
+		"jp_text": "＊氷剣・ユキアネサ",
+		"en_text": "＊Mucro Algesco: Yukianesa",
+		"jp_explain": "アークエネミーの一つを\n模倣した抜剣型武器迷彩。\n刀身が溶けない氷で出来ている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "10140180000",
+		"jp_text": "＊リッターオーダー",
+		"en_text": "＊Ridder Order",
+		"jp_explain": "高貴な騎士を思わせる抜剣型武器迷彩。\n優美な盾に刻まれた紋様には\n民を守るという願いが込められている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "10140190000",
+		"jp_text": "＊マグノリアエクレール2",
+		"en_text": "Magnolia Eclair 2",
+		"jp_explain": "イリュリア連王カイ＝キスクが愛用する\n細身の刀剣。カイ専用として製作された\n逸品で刀身には刻印が刻まれている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "10140200000",
+		"jp_text": "＊終刀・創世",
+		"en_text": "＊Tsukuriyo",
+		"jp_explain": "創世器「終刀・創世」を模して作られた\n抜剣型武器迷彩。刀匠ジグが生みだした\n宇宙を創りし色の刀身をもつ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "10140210000",
+		"jp_text": "＊リィンの太刀",
+		"en_text": "＊Rean’s Katana",
+		"jp_explain": "「八葉一刀流」の指南を受けた少年の\n太刀を模した抜剣型武器迷彩。少年は\n中伝を受けるほどの実力だったという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "10140220000",
+		"jp_text": "＊龍鱗爪剣テンペリオン",
+		"en_text": "＊Dragonscale Sword Temperion",
+		"jp_explain": "「竜奏騎士」として覚醒した王女が\n所持する、伝説の楽器「竜刃器」の\nひとつを模した武器迷彩。",
+		"en_explain": ""
+	},
+	{
+		"assign": "10140230000",
+		"jp_text": "＊神刀スサノオ",
+		"en_text": "＊Divine Katana Susanoo",
+		"jp_explain": "孤高のドラゴンスレイヤーが振るう\n太刀を模した武器迷彩。腕次第では\n伝説の竜をも断ち斬ることが出来る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "10140240000",
+		"jp_text": "＊ＤＢの盾剣",
+		"en_text": "＊DB’s Sword&Shield",
+		"jp_explain": "ある軍人の剣を模した抜剣型武器迷彩。\n多数のレプリカが存在する中でも\n軍によって生産されているもの。",
+		"en_explain": "Katana Camo that mimics the\nweapon of a soldier. Replicas that\nexist are produced by the military."
+	},
+	{
+		"assign": "10140250000",
+		"jp_text": "＊霊剣・荒鷹",
+		"en_text": "＊Reiken-Arataka",
+		"jp_explain": "真宮寺家に伝わる家宝を模した武器迷彩。\n「破邪の血統」に属する者だけが\n真の力を引き出すことができる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "10140260000",
+		"jp_text": "＊Liberation",
+		"en_text": "＊Liberation",
+		"jp_explain": "世の理からの解放、そして全ての事象を\n覆す魔剣の武器迷彩。屠られし存在は\n無へと還り、真の解放を得るとされる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "10140270000",
+		"jp_text": "＊魔法の派・エクスカリバー",
+		"en_text": "＊Sorcery King Excalibur",
+		"jp_explain": "ブリテンの王を選定する為に制作された\n１００万のエクスカリバーのうち\n一本を模した武器迷彩。",
+		"en_explain": ""
+	}
 ]

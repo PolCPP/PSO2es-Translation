@@ -960,10 +960,10 @@
 	},
 	{
 		"assign": "137",
-		"jp_text": "ENT_ULTソール01",
-		"en_text": "",
-		"jp_explain": "---",
-		"en_explain": ""
+		"jp_text": "デッドリオン・ソール",
+		"en_text": "Deadlion Soul",
+		"jp_explain": "打撃+35 技量+5\nHP+30",
+		"en_explain": "S-ATK+35 DEX+5\nHP+20"
 	},
 	{
 		"assign": "138",
@@ -995,10 +995,10 @@
 	},
 	{
 		"assign": "142",
-		"jp_text": "ENT_ULTソール06",
-		"en_text": "",
-		"jp_explain": "---",
-		"en_explain": ""
+		"jp_text": "ドゥバルス・ソール",
+		"en_text": "Dewbles Soul",
+		"jp_explain": "法撃+35 技量+5\nHP+20 PP+1",
+		"en_explain": "T-ATK+35 DEX+5\nHP+20 PP+1"
 	},
 	{
 		"assign": "143",
@@ -1009,10 +1009,10 @@
 	},
 	{
 		"assign": "144",
-		"jp_text": "ENT_ULTソール08",
-		"en_text": "",
-		"jp_explain": "---",
-		"en_explain": ""
+		"jp_text": "グリュゾラス・ソール",
+		"en_text": "Gruezoras Soul",
+		"jp_explain": "射撃+35 技量+5\nPP+3",
+		"en_explain": "R-ATK+35 DEX+5\nPP+3"
 	},
 	{
 		"assign": "145",
@@ -1636,5 +1636,26 @@
 		"en_text": "",
 		"jp_explain": "---",
 		"en_explain": ""
+	},
+	{
+		"assign": "234",
+		"jp_text": "ネッキー・スマイル",
+		"en_text": "",
+		"jp_explain": "打撃+5 射撃+5\n法撃+5 PP+2",
+		"en_explain": ""
+	},
+	{
+		"assign": "235",
+		"jp_text": "打射法撃ＰＰアップ",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "236",
+		"jp_text": "イザネカヅチ・ソール",
+		"en_text": "Izane Kazuchi Soul",
+		"jp_explain": "打撃+20 射撃+20\n法撃+20 PP+2",
+		"en_explain": "S-ATK+20 R-ATK+20\nT-ATK+20 PP+2"
 	}
 ]

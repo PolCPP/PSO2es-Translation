@@ -1037,16 +1037,16 @@
 	},
 	{
 		"assign": "31249",
-		"jp_explainShort": "攻撃３回毎に攻撃力大強化＋追加小ダメージ",
+		"jp_explainShort": "攻撃３回ごと攻撃力強化＋追加小ダメージ",
 		"en_explainShort": "",
-		"jp_explainLong": "長い時間、アクティブチップ使用か通常攻撃を\n３回行うごとに攻撃力を大きく強化し\n敵に追加で小ダメージを与える。",
+		"jp_explainLong": "長い時間、アクティブチップ使用か通常攻撃を\n３回行うごとに攻撃力を強化し絶大となる。\nさらに、敵に追加で小ダメージを与える。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "31250",
-		"jp_explainShort": "攻撃３回毎に攻撃力大強化＋追加小ダメージ",
+		"jp_explainShort": "攻撃３回ごと攻撃力強化＋追加小ダメージ",
 		"en_explainShort": "",
-		"jp_explainLong": "長い時間、アクティブチップ使用か通常攻撃を\n３回行うごとに攻撃力を大きく強化し\n敵に追加で小ダメージを与える。",
+		"jp_explainLong": "長い時間、アクティブチップ使用か通常攻撃を\n３回行うごとに攻撃力を強化し絶大となる。\nさらに、敵に追加で小ダメージを与える。",
 		"en_explainLong": ""
 	},
 	{
@@ -1108,15 +1108,57 @@
 	{
 		"assign": "31277",
 		"jp_explainShort": "技と法術のＣＰ消費を増加し、威力絶大強化",
-		"en_explainShort": "",
+		"en_explainShort": "CP Consumption for Techs and PA+Power Boost",
 		"jp_explainLong": "長い時間、必殺技・法術の\nＣＰ消費量を増加するとともに\n威力を絶大に強化する。",
-		"en_explainLong": ""
+		"en_explainLong": "This chip increases CP consumption for PAs\n& Techs while boosting their power tremendously."
 	},
 	{
 		"assign": "31278",
 		"jp_explainShort": "技と法術のＣＰ消費を増加し、威力絶大強化",
-		"en_explainShort": "",
+		"en_explainShort": "CP Consumption for Techs and PA+Power Boost",
 		"jp_explainLong": "長い時間、必殺技・法術の\nＣＰ消費量を増加するとともに\n威力を絶大に強化する。",
+		"en_explainLong": "This chip increases CP consumption for PAs\n& Techs while boosting their power tremendously."
+	},
+	{
+		"assign": "31291",
+		"jp_explainShort": "弱点属性を劇的強化＋追加大ダメージ",
+		"en_explainShort": "",
+		"jp_explainLong": "長い時間\nターゲット中の敵の弱点属性を劇的に強化し\n追加で大ダメージを与える。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31292",
+		"jp_explainShort": "弱点属性を劇的強化＋追加大ダメージ",
+		"en_explainShort": "",
+		"jp_explainLong": "長い時間\nターゲット中の敵の弱点属性を劇的に強化し\n追加で大ダメージを与える。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31311",
+		"jp_explainShort": "攻撃３回毎に攻撃力強化＋加速",
+		"en_explainShort": "",
+		"jp_explainLong": "長い時間、自身の通常攻撃と移動のスピードを加速する。\nさらに、アクティブチップ使用か通常攻撃を３回行うごとに\n攻撃力を強化し超絶となる。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31312",
+		"jp_explainShort": "攻撃３回毎に攻撃力強化＋加速",
+		"en_explainShort": "",
+		"jp_explainLong": "長い時間、自身の通常攻撃と移動のスピードを加速する。\nさらに、アクティブチップ使用か通常攻撃を３回行うごとに\n攻撃力を強化し超絶となる。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31315",
+		"jp_explainShort": "雷枚数攻撃劇的増＋攻撃３回毎攻撃強化",
+		"en_explainShort": "",
+		"jp_explainLong": "長い時間、雷属性の枚数が多いほど攻撃力を\n絶大に増加する。さらに、アクティブチップ使用か\n通常攻撃を３回行うごとに攻撃力を強化し絶大となる。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "31316",
+		"jp_explainShort": "雷枚数攻撃劇的増＋攻撃３回毎攻撃強化",
+		"en_explainShort": "",
+		"jp_explainLong": "長い時間、雷属性の枚数が多いほど攻撃力を\n絶大に増加する。さらに、アクティブチップ使用か\n通常攻撃を３回行うごとに攻撃力を強化し絶大となる。",
 		"en_explainLong": ""
 	},
 	{
@@ -3962,6 +4004,62 @@
 		"en_explainLong": ""
 	},
 	{
+		"assign": "60161",
+		"jp_explainShort": "はじけ飛ぶ特殊爆弾を放つ大砲用の必殺技",
+		"en_explainShort": "",
+		"jp_explainLong": "「大砲用の必殺技」\n着弾地点で複数回はじけ飛ぶ特殊爆弾。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "60162",
+		"jp_explainShort": "はじけ飛ぶ特殊爆弾を放つ大砲用の必殺技",
+		"en_explainShort": "",
+		"jp_explainLong": "「大砲用の必殺技」\n着弾地点で複数回はじけ飛ぶ特殊爆弾。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "60163",
+		"jp_explainShort": "はじけ飛ぶ特殊爆弾を放つ大砲用の必殺技",
+		"en_explainShort": "",
+		"jp_explainLong": "「大砲用の必殺技」\n着弾地点で複数回はじけ飛ぶ特殊爆弾。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "60164",
+		"jp_explainShort": "はじけ飛ぶ特殊爆弾を放つ大砲用の必殺技",
+		"en_explainShort": "",
+		"jp_explainLong": "「大砲用の必殺技」\n着弾地点で複数回はじけ飛ぶ特殊爆弾。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "60165",
+		"jp_explainShort": "はじけ飛ぶ特殊爆弾を放つ大砲用の必殺技",
+		"en_explainShort": "",
+		"jp_explainLong": "「大砲用の必殺技」\n着弾地点で複数回はじけ飛ぶ特殊爆弾。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "60166",
+		"jp_explainShort": "はじけ飛ぶ特殊爆弾を放つ大砲用の必殺技",
+		"en_explainShort": "",
+		"jp_explainLong": "「大砲用の必殺技」\n着弾地点で複数回はじけ飛ぶ特殊爆弾。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "60167",
+		"jp_explainShort": "はじけ飛ぶ特殊爆弾を放つ大砲用の必殺技",
+		"en_explainShort": "",
+		"jp_explainLong": "「大砲用の必殺技」\n着弾地点で複数回はじけ飛ぶ特殊爆弾。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "60168",
+		"jp_explainShort": "はじけ飛ぶ特殊爆弾を放つ大砲用の必殺技",
+		"en_explainShort": "",
+		"jp_explainLong": "「大砲用の必殺技」\n着弾地点で複数回はじけ飛ぶ特殊爆弾。",
+		"en_explainLong": ""
+	},
+	{
 		"assign": "70110",
 		"jp_explainShort": "火の玉を放出する炎属性初級の法術",
 		"en_explainShort": "",
@@ -4271,44 +4369,58 @@
 	},
 	{
 		"assign": "70810",
-		"jp_explainShort": "周囲に吹雪を発生させる氷属性中級の法術",
+		"jp_explainShort": "前方に冷気を放出し続ける氷属性上級の法術",
 		"en_explainShort": "",
-		"jp_explainLong": "「中級の氷属性の法術」\n周囲に吹雪を発生させる。",
+		"jp_explainLong": "「上級の氷属性の法術」\n前方に冷気を放出し続ける。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "70820",
-		"jp_explainShort": "周囲に吹雪を発生させる氷属性中級の法術",
+		"jp_explainShort": "前方に冷気を放出し続ける氷属性上級の法術",
 		"en_explainShort": "",
-		"jp_explainLong": "「中級の氷属性の法術」\n周囲に吹雪を発生させる。",
+		"jp_explainLong": "「上級の氷属性の法術」\n前方に冷気を放出し続ける。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "70830",
-		"jp_explainShort": "周囲に吹雪を発生させる氷属性中級の法術",
+		"jp_explainShort": "前方に冷気を放出し続ける氷属性上級の法術",
 		"en_explainShort": "",
-		"jp_explainLong": "「中級の氷属性の法術」\n周囲に吹雪を発生させる。",
+		"jp_explainLong": "「上級の氷属性の法術」\n前方に冷気を放出し続ける。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "70840",
-		"jp_explainShort": "周囲に吹雪を発生させる氷属性中級の法術",
+		"jp_explainShort": "前方に冷気を放出し続ける氷属性上級の法術",
 		"en_explainShort": "",
-		"jp_explainLong": "「中級の氷属性の法術」\n周囲に吹雪を発生させる。",
+		"jp_explainLong": "「上級の氷属性の法術」\n前方に冷気を放出し続ける。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "70850",
-		"jp_explainShort": "周囲に吹雪を発生させる氷属性中級の法術",
+		"jp_explainShort": "前方に冷気を放出し続ける氷属性上級の法術",
 		"en_explainShort": "",
-		"jp_explainLong": "「中級の氷属性の法術」\n周囲に吹雪を発生させる。",
+		"jp_explainLong": "「上級の氷属性の法術」\n前方に冷気を放出し続ける。",
 		"en_explainLong": ""
 	},
 	{
 		"assign": "70860",
-		"jp_explainShort": "周囲に吹雪を発生させる氷属性中級の法術",
+		"jp_explainShort": "前方に冷気を放出し続ける氷属性上級の法術",
 		"en_explainShort": "",
-		"jp_explainLong": "「中級の氷属性の法術」\n周囲に吹雪を発生させる。",
+		"jp_explainLong": "「上級の氷属性の法術」\n前方に冷気を放出し続ける。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "70861",
+		"jp_explainShort": "前方に冷気を放出し続ける氷属性上級の法術",
+		"en_explainShort": "",
+		"jp_explainLong": "「上級の氷属性の法術」\n前方に冷気を放出し続ける。",
+		"en_explainLong": ""
+	},
+	{
+		"assign": "70862",
+		"jp_explainShort": "前方に冷気を放出し続ける氷属性上級の法術",
+		"en_explainShort": "",
+		"jp_explainLong": "「上級の氷属性の法術」\n前方に冷気を放出し続ける。",
 		"en_explainLong": ""
 	},
 	{

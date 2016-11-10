@@ -968,7 +968,7 @@
 	{
 		"assign": "DbladePA02",
 		"jp_text": "ディスパースシュライク",
-		"en_text": "Dispersion Strike",
+		"en_text": "Dispersion Shrike",
 		"jp_explain": "『飛翔剣』用のフォトンアーツ。\nフォトンの刃を散開させ\n移動しながら周囲を攻撃する。",
 		"en_explain": ""
 	},
@@ -1600,6 +1600,111 @@
 		"jp_text": "シンクロウゲキ",
 		"en_text": "",
 		"jp_explain": "『シンクロウ』用のフォトンアーツ。\n全身の力を乗せた一撃を叩き込む。\n「繋ぎ」の回数に応じて、威力が上昇。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetMPA01",
+		"jp_text": "ジンガスライサー",
+		"en_text": "",
+		"jp_explain": "『ジンガ』用のフォトンアーツ。\n広範囲にわたる素早い双撃で\n数多の敵を同時に攻撃する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetMPA02",
+		"jp_text": "ジンガショック",
+		"en_text": "",
+		"jp_explain": "『ジンガ』用のフォトンアーツ。\n閃光を伴う衝撃波を発生させ\n敵の目をくらませ、足止めをする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetMPA03",
+		"jp_text": "ジンガブレイク",
+		"en_text": "",
+		"jp_explain": "『ジンガ』用のフォトンアーツ。\n円を描くような、強力な一撃を放つ。\n範囲は狭いが、周囲の敵をなぎ倒せる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetMPA04",
+		"jp_text": "ジンガパルサー",
+		"en_text": "",
+		"jp_explain": "『ジンガ』用のフォトンアーツ。\n跳ねるように敵を突き上げて攻撃する。\nヒットした敵に持続ダメージが発生。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetMPA05",
+		"jp_text": "ジンガアサルト",
+		"en_text": "",
+		"jp_explain": "『ジンガ』用のフォトンアーツ。\nフォトンをまとい、ジグザグに突撃し\nその後、プレイヤーの元へと戻る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetNPA01",
+		"jp_text": "エアロシャウト",
+		"en_text": "",
+		"jp_explain": "『エアロ』用のフォトンアーツ。\n咆哮と共に気合を溜める。一定時間\n特定のフォトンアーツの威力が上がる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetNPA02",
+		"jp_text": "エアロスタッブ",
+		"en_text": "",
+		"jp_explain": "『エアロ』用のフォトンアーツ。\n瞬時に敵に近づき、体当たりで攻撃。\n攻撃と同時に敵の反対側へ回る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetNPA03",
+		"jp_text": "エアロスラッシュ",
+		"en_text": "",
+		"jp_explain": "『エアロ』用のフォトンアーツ。\n双翼のフォトンによる連続攻撃を行う。\n幾重にも渡る翼撃は敵を切り刻む。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetNPA04",
+		"jp_text": "エアロスパイラル",
+		"en_text": "",
+		"jp_explain": "『エアロ』用のフォトンアーツ。\n力を溜め、必殺の一撃を放つ。\nボタンホールドで溜め、離すと発動。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetNPA05",
+		"jp_text": "エアロバレット",
+		"en_text": "",
+		"jp_explain": "『エアロ』用のフォトンアーツ。\n宙返りと共に羽根弾を発射する。\nその後、プレイヤーの元へと戻る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetOPA01",
+		"jp_text": "ポップルプロード",
+		"en_text": "",
+		"jp_explain": "『ポップル』用のフォトンアーツ。\n凝縮されたフォトン炸裂弾を発射する。\nボタンホールドでチャージ可能。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetOPA02",
+		"jp_text": "ポップルフォール",
+		"en_text": "",
+		"jp_explain": "『ポップル』用のフォトンアーツ。\nフォトンによる重力場を形成し\n敵を捕らえ、行動を阻害する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetOPA03",
+		"jp_text": "ポップルテリトリー",
+		"en_text": "",
+		"jp_explain": "『ポップル』用のフォトンアーツ。\n激化するフォトンによる攻撃。\nボタンホールドで威力が上昇する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetOPA04",
+		"jp_text": "ポップルチェイサー",
+		"en_text": "",
+		"jp_explain": "『ポップル』用のフォトンアーツ。\n敵をなぎ倒して進む追尾弾を発射する。\n弾速は速いが、持続性は低い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "PetOPA05",
+		"jp_text": "ポップルカース",
+		"en_text": "",
+		"jp_explain": "『ポップル』用のフォトンアーツ。\nジェルン効果を持つ追尾弾を敵へ放つ。\nジェルンは攻撃力を低下させる。",
 		"en_explain": ""
 	}
 ]
