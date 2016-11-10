@@ -2,14 +2,20 @@ language: python
 
 sudo: false
 
+addons:
+  apt:
+    packages:
+    - jq
+
 cache:
   - pip
 
-install: 
+install:
   - pip install simplejson
 
 script:
-  - python checkjson.py
+  - python checkjson.py && python coverage.py | sort -n
+  - ./tidy-json.sh && git diff --exit-code
 
 before_cache:
   - rm -f $HOME/.cache/pip/log/debug.log
