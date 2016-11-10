@@ -1,191 +1,191 @@
 [
-	{
-		"assign": "310010000",
-		"jp_text": "打撃デバイス／アタック",
-		"en_text": "S-ATK Device / Attack",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。通常打撃による支援行動\nが登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "310020000",
-		"jp_text": "打撃デバイス／アッパー",
-		"en_text": "S-ATK Device / Upper",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。打ち上げ打撃による支援行動\nが登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "310030000",
-		"jp_text": "打撃デバイス／ブロー",
-		"en_text": "S-ATK Device / Blow",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。敵を攻撃し転倒させる\n支援行動が登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "310040000",
-		"jp_text": "射撃デバイス／炎通常弾",
-		"en_text": "R-ATK Device / Fire Bullet",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。炎属性弾による支援行動が\n登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "310050000",
-		"jp_text": "射撃デバイス／氷通常弾",
-		"en_text": "R-ATK Device / Ice Bullet",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。氷属性弾による支援行動が\n登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "310060000",
-		"jp_text": "射撃デバイス／雷通常弾",
-		"en_text": "R-ATK Device / Lightning Bullet",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。雷属性弾による支援行動が\n登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "310070000",
-		"jp_text": "射撃デバイス／風通常弾",
-		"en_text": "R-ATK Device / Wind Bullets",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。風属性弾による支援行動が\n登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "310080000",
-		"jp_text": "射撃デバイス／光通常弾",
-		"en_text": "R-ATK Device / Light Bullet",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。光属性弾による支援行動が\n登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "310090000",
-		"jp_text": "射撃デバイス／闇通常弾",
-		"en_text": "R-ATK Device / Dark Bullet",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。闇属性弾による支援行動が\n登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "3100100000",
-		"jp_text": "射撃デバイス／炎貫通弾",
-		"en_text": "R-ATK Device / Piercing Fire Bullet",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。炎属性貫通弾による\n支援行動が登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "3100110000",
-		"jp_text": "射撃デバイス／氷貫通弾",
-		"en_text": "R-ATK Device / Piercing Ice Bullet",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。氷属性貫通弾による\n支援行動が登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "3100120000",
-		"jp_text": "射撃デバイス／雷貫通弾",
-		"en_text": "R-ATK Device / Piercing Lightning Bullet",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。雷属性貫通弾による\n支援行動が登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "3100130000",
-		"jp_text": "射撃デバイス／風貫通弾",
-		"en_text": "R-ATK Device / Piercing Wind Bullet",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。風属性貫通弾による\n支援行動が登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "3100140000",
-		"jp_text": "射撃デバイス／光貫通弾",
-		"en_text": "R-ATK Device / Piercing Light Bullet",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。光属性貫通弾による\n支援行動が登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "3100150000",
-		"jp_text": "射撃デバイス／闇貫通弾",
-		"en_text": "R-ATK Device / Piercing Dark Bullet",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。闇属性貫通弾による\n支援行動が登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "3100160000",
-		"jp_text": "射撃デバイス／炎炸裂弾",
-		"en_text": "R-ATK Device / Exploding Fire Bullet",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。炎属性炸裂弾による\n支援行動が登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "3100170000",
-		"jp_text": "射撃デバイス／氷炸裂弾",
-		"en_text": "R-ATK Device / Exploding Ice Bullet",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。氷属性炸裂弾による\n支援行動が登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "3100180000",
-		"jp_text": "射撃デバイス／雷炸裂弾",
-		"en_text": "R-ATK Device / Exploding Lightning Bullet",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。雷属性炸裂弾による\n支援行動が登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "3100190000",
-		"jp_text": "射撃デバイス／風炸裂弾",
-		"en_text": "R-ATK Device / Exploding Wind Bullet",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。風属性炸裂弾による\n支援行動が登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "3100200000",
-		"jp_text": "射撃デバイス／光炸裂弾",
-		"en_text": "R-ATK Device / Exploding Light Bullet",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。光属性炸裂弾による\n支援行動が登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "3100210000",
-		"jp_text": "射撃デバイス／闇炸裂弾",
-		"en_text": "R-ATK Device / Exploding Dark Bullet",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。闇属性炸裂弾による\n支援行動が登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "3100220000",
-		"jp_text": "法撃デバイス／フォイエ",
-		"en_text": "T-ATK Device / Foie",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。\nフォイエによる支援行動が登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "3100230000",
-		"jp_text": "法撃デバイス／バータ",
-		"en_text": "T-ATK Device / Barta",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。\nバータによる支援行動が登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "3100240000",
-		"jp_text": "法撃デバイス／ゾンデ",
-		"en_text": "T-ATK Device / Zonde",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。\nゾンデによる支援行動が登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "3100250000",
-		"jp_text": "法撃デバイス／ザン",
-		"en_text": "T-ATK Device / Zan",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。\nザンによる支援行動が登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "3100260000",
-		"jp_text": "法撃デバイス／グランツ",
-		"en_text": "T-ATK Device / Grants",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。\nグランツによる支援行動が登録される。",
-		"en_explain": ""
-	},
-	{
-		"assign": "3100270000",
-		"jp_text": "法撃デバイス／メギド",
-		"en_text": "T-ATK Device / Megid",
-		"jp_explain": "マグのオートアクションを上書きする\nデバイス。\nメギドによる支援行動が登録される。",
-		"en_explain": ""
-	}
+  {
+    "assign": "310010000",
+    "jp_text": "打撃デバイス／アタック",
+    "en_text": "S-ATK Device / Attack",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。通常打撃による支援行動\nが登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "310020000",
+    "jp_text": "打撃デバイス／アッパー",
+    "en_text": "S-ATK Device / Upper",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。打ち上げ打撃による支援行動\nが登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "310030000",
+    "jp_text": "打撃デバイス／ブロー",
+    "en_text": "S-ATK Device / Blow",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。敵を攻撃し転倒させる\n支援行動が登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "310040000",
+    "jp_text": "射撃デバイス／炎通常弾",
+    "en_text": "R-ATK Device / Fire Bullet",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。炎属性弾による支援行動が\n登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "310050000",
+    "jp_text": "射撃デバイス／氷通常弾",
+    "en_text": "R-ATK Device / Ice Bullet",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。氷属性弾による支援行動が\n登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "310060000",
+    "jp_text": "射撃デバイス／雷通常弾",
+    "en_text": "R-ATK Device / Lightning Bullet",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。雷属性弾による支援行動が\n登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "310070000",
+    "jp_text": "射撃デバイス／風通常弾",
+    "en_text": "R-ATK Device / Wind Bullets",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。風属性弾による支援行動が\n登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "310080000",
+    "jp_text": "射撃デバイス／光通常弾",
+    "en_text": "R-ATK Device / Light Bullet",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。光属性弾による支援行動が\n登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "310090000",
+    "jp_text": "射撃デバイス／闇通常弾",
+    "en_text": "R-ATK Device / Dark Bullet",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。闇属性弾による支援行動が\n登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "3100100000",
+    "jp_text": "射撃デバイス／炎貫通弾",
+    "en_text": "R-ATK Device / Piercing Fire Bullet",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。炎属性貫通弾による\n支援行動が登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "3100110000",
+    "jp_text": "射撃デバイス／氷貫通弾",
+    "en_text": "R-ATK Device / Piercing Ice Bullet",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。氷属性貫通弾による\n支援行動が登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "3100120000",
+    "jp_text": "射撃デバイス／雷貫通弾",
+    "en_text": "R-ATK Device / Piercing Lightning Bullet",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。雷属性貫通弾による\n支援行動が登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "3100130000",
+    "jp_text": "射撃デバイス／風貫通弾",
+    "en_text": "R-ATK Device / Piercing Wind Bullet",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。風属性貫通弾による\n支援行動が登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "3100140000",
+    "jp_text": "射撃デバイス／光貫通弾",
+    "en_text": "R-ATK Device / Piercing Light Bullet",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。光属性貫通弾による\n支援行動が登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "3100150000",
+    "jp_text": "射撃デバイス／闇貫通弾",
+    "en_text": "R-ATK Device / Piercing Dark Bullet",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。闇属性貫通弾による\n支援行動が登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "3100160000",
+    "jp_text": "射撃デバイス／炎炸裂弾",
+    "en_text": "R-ATK Device / Exploding Fire Bullet",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。炎属性炸裂弾による\n支援行動が登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "3100170000",
+    "jp_text": "射撃デバイス／氷炸裂弾",
+    "en_text": "R-ATK Device / Exploding Ice Bullet",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。氷属性炸裂弾による\n支援行動が登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "3100180000",
+    "jp_text": "射撃デバイス／雷炸裂弾",
+    "en_text": "R-ATK Device / Exploding Lightning Bullet",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。雷属性炸裂弾による\n支援行動が登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "3100190000",
+    "jp_text": "射撃デバイス／風炸裂弾",
+    "en_text": "R-ATK Device / Exploding Wind Bullet",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。風属性炸裂弾による\n支援行動が登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "3100200000",
+    "jp_text": "射撃デバイス／光炸裂弾",
+    "en_text": "R-ATK Device / Exploding Light Bullet",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。光属性炸裂弾による\n支援行動が登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "3100210000",
+    "jp_text": "射撃デバイス／闇炸裂弾",
+    "en_text": "R-ATK Device / Exploding Dark Bullet",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。闇属性炸裂弾による\n支援行動が登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "3100220000",
+    "jp_text": "法撃デバイス／フォイエ",
+    "en_text": "T-ATK Device / Foie",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。\nフォイエによる支援行動が登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "3100230000",
+    "jp_text": "法撃デバイス／バータ",
+    "en_text": "T-ATK Device / Barta",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。\nバータによる支援行動が登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "3100240000",
+    "jp_text": "法撃デバイス／ゾンデ",
+    "en_text": "T-ATK Device / Zonde",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。\nゾンデによる支援行動が登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "3100250000",
+    "jp_text": "法撃デバイス／ザン",
+    "en_text": "T-ATK Device / Zan",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。\nザンによる支援行動が登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "3100260000",
+    "jp_text": "法撃デバイス／グランツ",
+    "en_text": "T-ATK Device / Grants",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。\nグランツによる支援行動が登録される。",
+    "en_explain": ""
+  },
+  {
+    "assign": "3100270000",
+    "jp_text": "法撃デバイス／メギド",
+    "en_text": "T-ATK Device / Megid",
+    "jp_explain": "マグのオートアクションを上書きする\nデバイス。\nメギドによる支援行動が登録される。",
+    "en_explain": ""
+  }
 ]

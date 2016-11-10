@@ -1,247 +1,247 @@
 [
-	{
-		"assign": "350030000",
-		"jp_text": "森林トマトのサラダ",
-		"en_text": "Forest Tomato Salad",
-		"jp_explain": "新鮮な野菜をふんだんに使った料理。\n【１分間】野菜取得率＋３０％\n追加採取率＋３％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	},
-	{
-		"assign": "350040000",
-		"jp_text": "お刺身",
-		"en_text": "Sashimi",
-		"jp_explain": "新鮮な魚の味がそのまま生きた料理。\n【１分間】鉱石取得率＋３０％\n追加採取率＋３％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	},
-	{
-		"assign": "350050000",
-		"jp_text": "焼き魚",
-		"en_text": "Grilled Fish",
-		"jp_explain": "魚をじっくりと炭火で焼いた料理。\n【１分間】魚類取得率＋３０％\n追加釣り率＋３％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	},
-	{
-		"assign": "350060000",
-		"jp_text": "森林マグロのカルパッチョ",
-		"en_text": "Forest Tuna Carpaccio",
-		"jp_explain": "さっぱりとした味わいの料理。\n【１分間】穀物取得率＋５０％\n追加採取率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	},
-	{
-		"assign": "350070000",
-		"jp_text": "森林アユのトマト煮",
-		"en_text": "Forest Tomato Stewed Sweetfish",
-		"jp_explain": "時間を掛けて煮込んだ魚の料理。\n【１分間】大型取得率＋３０％\n追加採取、釣り率＋３％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	},
-	{
-		"assign": "350080000",
-		"jp_text": "遺跡サケの果実ソースかけ",
-		"en_text": "Ruins Salmon w/Fruit Sauce",
-		"jp_explain": "蒸した魚に果実ソースを添えた料理。\n【１分間】野菜取得率＋５０％\n追加採取率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	},
-	{
-		"assign": "350090000",
-		"jp_text": "遺跡エビのかき揚げ",
-		"en_text": "Ruins Shrimp Tempura",
-		"jp_explain": "小さなエビを衣でつなぎ、揚げた料理。\n【１分間】中型取得率＋３０％\n追加採取、釣り率＋３％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	},
-	{
-		"assign": "3500100000",
-		"jp_text": "海岸ハギの塩焼き",
-		"en_text": "Coast Grilled Triggerfish",
-		"jp_explain": "魚に塩を振って焼いたシンプルな料理。\n【１分間】果物取得率＋５０％\n追加採取率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	},
-	{
-		"assign": "3500110000",
-		"jp_text": "海岸ムール貝のオイルづけ",
-		"en_text": "Coast Moule with Oil",
-		"jp_explain": "ボイルした貝をオイルづけにした料理。\n【１分間】小型取得率＋３０％\n追加採取、釣り率＋３％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	},
-	{
-		"assign": "3500120000",
-		"jp_text": "東京マダイの照り焼き",
-		"en_text": "Tokyo Terayaki Tai Fish",
-		"jp_explain": "切り身に醤油をつけながら焼いた料理。\n【１分間】鉱石取得率＋５０％\n追加採取率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	},
-	{
-		"assign": "3500130000",
-		"jp_text": "東京マグロのお刺身",
-		"en_text": "Tokyo Tuna Sashimi",
-		"jp_explain": "脂のたっぷりのった刺し身料理。\n【１分間】甲殻類取得率＋５０％\n追加釣り率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	},
-	{
-		"assign": "3500140000",
-		"jp_text": "海鮮スープ",
-		"en_text": "Seafood Soup",
-		"jp_explain": "海の幸をふんだんに使った料理。\n【１分間】追加採取、釣り率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	},
-	{
-		"assign": "3500150000",
-		"jp_text": "森林ブリのあら汁",
-		"en_text": "Forest Yellowtail Broth",
-		"jp_explain": "新鮮な魚のあらを実とした料理。\n【３分間】追加採取、釣り率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	},
-	{
-		"assign": "3500160000",
-		"jp_text": "ジャーキー",
-		"en_text": "Jerky",
-		"jp_explain": "薄くスライスした肉を干した料理。\n【５分間】ＨＰ＋５０、ＰＰ＋５\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	},
-	{
-		"assign": "3500170000",
-		"jp_text": "肉野菜炒め",
-		"en_text": "Meat Stir Fry",
-		"jp_explain": "高熱でしっかり炒められた料理。\n【５分間】打射法撃力＋１００、ＨＰ＋５０\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": "Robust Fried Dish with High Heat.\n[5 min] ATK+100, HP+50\n<yellow>Same Dish will overwrite the effect.<c>"
-	},
-	{
-		"assign": "3500180000",
-		"jp_text": "マリネ",
-		"en_text": "Marinade",
-		"jp_explain": "揚げた肉を酢と油に漬けた料理。\n【５分間】打射法防御＋１００、ＰＰ＋５\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": "Fried meat soaked in vinegar and oil.\n[5 min] DEF+100, PP+5\n<yellow>Same Dish will overwrite the effect.<c>"
-	},
-	{
-		"assign": "3500190000",
-		"jp_text": "デリシャスバーガー",
-		"en_text": "Delicious Burger",
-		"jp_explain": "ジューシーな肉汁たっぷりの料理。\n使用することでＰＰが回復する。",
-		"en_explain": ""
-	},
-	{
-		"assign": "3500200000",
-		"jp_text": "東京風ハンバーグ",
-		"en_text": "Tokyo Style Burger",
-		"jp_explain": "辛いソースがついたハンバーグ料理。\n使用することでＨＰが回復する。",
-		"en_explain": ""
-	},
-	{
-		"assign": "3500210000",
-		"jp_text": "砂漠ヒラメのパスタ",
-		"en_text": "Desert Flounder Pasta",
-		"jp_explain": "魚肉を用いたパスタ料理。\n【１分間】貝類取得率＋５０％\n追加釣り率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	},
-	{
-		"assign": "3500220000",
-		"jp_text": "採掘場跡ウナギのうな重",
-		"en_text": "Quarry Eel Unadon",
-		"jp_explain": "濃厚な味わいのする魚料理。\n【１分間】宝石取得率＋３０％\n追加採取率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": "Seafood Dish with Rich Flavor.\n+30% Gem Rate, +3% Extra\nCollect Rate. [1 min]"
-	},
-	{
-		"assign": "3500230000",
-		"jp_text": "砂漠カニのコロッケ",
-		"en_text": "Desert Crab Croquette",
-		"jp_explain": "クリーミーな味わいの揚げ物料理。\n【３分間】果実取得率＋３０％\n追加採取率＋３％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": "Fried Dish with a Creamy Taste.\n+30% Fruit Rate, +3% Extra\nCollect Rate [3 min]"
-	},
-	{
-		"assign": "3500240000",
-		"jp_text": "採掘場跡タチウオのソテー",
-		"en_text": "Quarry Fried Cutlass",
-		"jp_explain": "フルーツソースを用いた魚料理。\n【１分間】魚類取得率＋５０％\n追加釣り率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": "Seafood Dish with Fruit Sauce.\n+50% Fish Rate\n+5% Extra Fishing Rate [1 min]"
-	},
-	{
-		"assign": "3500250000",
-		"jp_text": "浮上施設ミントのムニエル",
-		"en_text": "Facility Peppermint Meuniere",
-		"jp_explain": "魚の切り身をバターで焼いた魚料理。\n【３分間】甲殻類取得率＋３０％\n追加釣り率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	},
-	{
-		"assign": "3500260000",
-		"jp_text": "浮上施設イカのブリトー",
-		"en_text": "Facility Squid Burrito",
-		"jp_explain": "薄焼きのパンに炒めた具を挟んだ料理。\n【３分間】魚類取得率＋３０％\n追加釣り率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	},
-	{
-		"assign": "3500270000",
-		"jp_text": "浮上施設イワシのサラダ",
-		"en_text": "Facility Sardine Salad",
-		"jp_explain": "新鮮な魚介類をふんだんに使った料理。\n【３分間】穀物取得率＋３０％\n追加採取率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	},
-	{
-		"assign": "3500280000",
-		"jp_text": "浮上施設カブのラビオリ",
-		"en_text": "Facility Turnip Ravioli",
-		"jp_explain": "パスタ生地の間に食材を挟んだ料理。\n【１分間】巨大取得率＋５０％\n追加採取、釣り率＋３％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	},
-	{
-		"assign": "3500290000",
-		"jp_text": "から揚げ",
-		"en_text": "Karaage",
-		"jp_explain": "ほとんど衣をつけずに揚げた料理。\n【５分間】レアドロップ倍率＋１０％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	},
-	{
-		"assign": "3500300000",
-		"jp_text": "コルトバジュース",
-		"en_text": "Koltova Juice",
-		"jp_explain": "【３０分間】レアドロップ倍率＋５０％\n<yellow>他のレアドロップ倍率上昇効果と重複可。<c>\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": "[30 Minutes] Rare Drop Rate+50%\n<yellow>Can be stacked with other boosts.</c>\n<yellow>Same Dish will overwrite the effect.<c>"
-	},
-	{
-		"assign": "3500310000",
-		"jp_text": "採掘場跡サメのスープ",
-		"en_text": "Quarry Shark Soup",
-		"jp_explain": "希少な食材と濃厚なダシを使った料理。\n【３分間】宝石取得率＋３０％\n追加採取率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": "A Rich Soup with Rare Ingredients.\n[3 Minutes] +30% Gem Rate\n+5% Extra Collecting Rate"
-	},
-	{
-		"assign": "3500320000",
-		"jp_text": "浮上施設ニジエビの清蒸",
-		"en_text": "Facility Steamed Rainbow Shrimp",
-		"jp_explain": "新鮮な魚介類を使った蒸し料理。\n【３分間】鉱石取得率＋３０％\n追加採取率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": "Freshly Steamed Seafood Cusine.\n[3 Minutes] +30% Mineral Rate\n+5% Extra Collecting Rate"
-	},
-	{
-		"assign": "3500330000",
-		"jp_text": "海鮮フルーツコンフィ",
-		"en_text": "Seafood Fruit Confit",
-		"jp_explain": "魚介類を低温の果実オイルで煮た料理。\n【３分間】野菜取得率＋３０％\n追加採取率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	},
-	{
-		"assign": "3500340000",
-		"jp_text": "海鮮パンプキンパイ",
-		"en_text": "Seafood Pumpkin Pie",
-		"jp_explain": "魚介類をパイ生地で包んで焼いた料理。\n【１分間】軟体類取得率＋５０％\n追加釣り率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	},
-	{
-		"assign": "3500350000",
-		"jp_text": "凍土ネギのアヒージョ",
-		"en_text": "Ahijo with Tundra Green Onions",
-		"jp_explain": "具をにんにくとオイルで煮込んだ料理。\n【３分間】特殊取得率＋３０％\n追加採取、釣り率＋３％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	},
-	{
-		"assign": "3500360000",
-		"jp_text": "凍土ニシンのカインチュア",
-		"en_text": "Canh Chua with Tundra Herring",
-		"jp_explain": "魚介類がたくさん入ったスープ。\n【３分間】貝類取得率＋３０％\n追加釣り率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	},
-	{
-		"assign": "3500370000",
-		"jp_text": "火山洞窟イワナのポワレ",
-		"en_text": "Pan Fried Char",
-		"jp_explain": "魚介類を蒸し焼きにした料理。\n【３分間】小型取得率＋３０％\n追加採取、釣り率＋３％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"en_explain": ""
-	}
+  {
+    "assign": "350030000",
+    "jp_text": "森林トマトのサラダ",
+    "en_text": "Forest Tomato Salad",
+    "jp_explain": "新鮮な野菜をふんだんに使った料理。\n【１分間】野菜取得率＋３０％\n追加採取率＋３％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  },
+  {
+    "assign": "350040000",
+    "jp_text": "お刺身",
+    "en_text": "Sashimi",
+    "jp_explain": "新鮮な魚の味がそのまま生きた料理。\n【１分間】鉱石取得率＋３０％\n追加採取率＋３％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  },
+  {
+    "assign": "350050000",
+    "jp_text": "焼き魚",
+    "en_text": "Grilled Fish",
+    "jp_explain": "魚をじっくりと炭火で焼いた料理。\n【１分間】魚類取得率＋３０％\n追加釣り率＋３％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  },
+  {
+    "assign": "350060000",
+    "jp_text": "森林マグロのカルパッチョ",
+    "en_text": "Forest Tuna Carpaccio",
+    "jp_explain": "さっぱりとした味わいの料理。\n【１分間】穀物取得率＋５０％\n追加採取率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  },
+  {
+    "assign": "350070000",
+    "jp_text": "森林アユのトマト煮",
+    "en_text": "Forest Tomato Stewed Sweetfish",
+    "jp_explain": "時間を掛けて煮込んだ魚の料理。\n【１分間】大型取得率＋３０％\n追加採取、釣り率＋３％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  },
+  {
+    "assign": "350080000",
+    "jp_text": "遺跡サケの果実ソースかけ",
+    "en_text": "Ruins Salmon w/Fruit Sauce",
+    "jp_explain": "蒸した魚に果実ソースを添えた料理。\n【１分間】野菜取得率＋５０％\n追加採取率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  },
+  {
+    "assign": "350090000",
+    "jp_text": "遺跡エビのかき揚げ",
+    "en_text": "Ruins Shrimp Tempura",
+    "jp_explain": "小さなエビを衣でつなぎ、揚げた料理。\n【１分間】中型取得率＋３０％\n追加採取、釣り率＋３％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  },
+  {
+    "assign": "3500100000",
+    "jp_text": "海岸ハギの塩焼き",
+    "en_text": "Coast Grilled Triggerfish",
+    "jp_explain": "魚に塩を振って焼いたシンプルな料理。\n【１分間】果物取得率＋５０％\n追加採取率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  },
+  {
+    "assign": "3500110000",
+    "jp_text": "海岸ムール貝のオイルづけ",
+    "en_text": "Coast Moule with Oil",
+    "jp_explain": "ボイルした貝をオイルづけにした料理。\n【１分間】小型取得率＋３０％\n追加採取、釣り率＋３％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  },
+  {
+    "assign": "3500120000",
+    "jp_text": "東京マダイの照り焼き",
+    "en_text": "Tokyo Terayaki Tai Fish",
+    "jp_explain": "切り身に醤油をつけながら焼いた料理。\n【１分間】鉱石取得率＋５０％\n追加採取率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  },
+  {
+    "assign": "3500130000",
+    "jp_text": "東京マグロのお刺身",
+    "en_text": "Tokyo Tuna Sashimi",
+    "jp_explain": "脂のたっぷりのった刺し身料理。\n【１分間】甲殻類取得率＋５０％\n追加釣り率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  },
+  {
+    "assign": "3500140000",
+    "jp_text": "海鮮スープ",
+    "en_text": "Seafood Soup",
+    "jp_explain": "海の幸をふんだんに使った料理。\n【１分間】追加採取、釣り率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  },
+  {
+    "assign": "3500150000",
+    "jp_text": "森林ブリのあら汁",
+    "en_text": "Forest Yellowtail Broth",
+    "jp_explain": "新鮮な魚のあらを実とした料理。\n【３分間】追加採取、釣り率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  },
+  {
+    "assign": "3500160000",
+    "jp_text": "ジャーキー",
+    "en_text": "Jerky",
+    "jp_explain": "薄くスライスした肉を干した料理。\n【５分間】ＨＰ＋５０、ＰＰ＋５\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  },
+  {
+    "assign": "3500170000",
+    "jp_text": "肉野菜炒め",
+    "en_text": "Meat Stir Fry",
+    "jp_explain": "高熱でしっかり炒められた料理。\n【５分間】打射法撃力＋１００、ＨＰ＋５０\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": "Robust Fried Dish with High Heat.\n[5 min] ATK+100, HP+50\n<yellow>Same Dish will overwrite the effect.<c>"
+  },
+  {
+    "assign": "3500180000",
+    "jp_text": "マリネ",
+    "en_text": "Marinade",
+    "jp_explain": "揚げた肉を酢と油に漬けた料理。\n【５分間】打射法防御＋１００、ＰＰ＋５\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": "Fried meat soaked in vinegar and oil.\n[5 min] DEF+100, PP+5\n<yellow>Same Dish will overwrite the effect.<c>"
+  },
+  {
+    "assign": "3500190000",
+    "jp_text": "デリシャスバーガー",
+    "en_text": "Delicious Burger",
+    "jp_explain": "ジューシーな肉汁たっぷりの料理。\n使用することでＰＰが回復する。",
+    "en_explain": ""
+  },
+  {
+    "assign": "3500200000",
+    "jp_text": "東京風ハンバーグ",
+    "en_text": "Tokyo Style Burger",
+    "jp_explain": "辛いソースがついたハンバーグ料理。\n使用することでＨＰが回復する。",
+    "en_explain": ""
+  },
+  {
+    "assign": "3500210000",
+    "jp_text": "砂漠ヒラメのパスタ",
+    "en_text": "Desert Flounder Pasta",
+    "jp_explain": "魚肉を用いたパスタ料理。\n【１分間】貝類取得率＋５０％\n追加釣り率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  },
+  {
+    "assign": "3500220000",
+    "jp_text": "採掘場跡ウナギのうな重",
+    "en_text": "Quarry Eel Unadon",
+    "jp_explain": "濃厚な味わいのする魚料理。\n【１分間】宝石取得率＋３０％\n追加採取率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": "Seafood Dish with Rich Flavor.\n+30% Gem Rate, +3% Extra\nCollect Rate. [1 min]"
+  },
+  {
+    "assign": "3500230000",
+    "jp_text": "砂漠カニのコロッケ",
+    "en_text": "Desert Crab Croquette",
+    "jp_explain": "クリーミーな味わいの揚げ物料理。\n【３分間】果実取得率＋３０％\n追加採取率＋３％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": "Fried Dish with a Creamy Taste.\n+30% Fruit Rate, +3% Extra\nCollect Rate [3 min]"
+  },
+  {
+    "assign": "3500240000",
+    "jp_text": "採掘場跡タチウオのソテー",
+    "en_text": "Quarry Fried Cutlass",
+    "jp_explain": "フルーツソースを用いた魚料理。\n【１分間】魚類取得率＋５０％\n追加釣り率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": "Seafood Dish with Fruit Sauce.\n+50% Fish Rate\n+5% Extra Fishing Rate [1 min]"
+  },
+  {
+    "assign": "3500250000",
+    "jp_text": "浮上施設ミントのムニエル",
+    "en_text": "Facility Peppermint Meuniere",
+    "jp_explain": "魚の切り身をバターで焼いた魚料理。\n【３分間】甲殻類取得率＋３０％\n追加釣り率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  },
+  {
+    "assign": "3500260000",
+    "jp_text": "浮上施設イカのブリトー",
+    "en_text": "Facility Squid Burrito",
+    "jp_explain": "薄焼きのパンに炒めた具を挟んだ料理。\n【３分間】魚類取得率＋３０％\n追加釣り率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  },
+  {
+    "assign": "3500270000",
+    "jp_text": "浮上施設イワシのサラダ",
+    "en_text": "Facility Sardine Salad",
+    "jp_explain": "新鮮な魚介類をふんだんに使った料理。\n【３分間】穀物取得率＋３０％\n追加採取率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  },
+  {
+    "assign": "3500280000",
+    "jp_text": "浮上施設カブのラビオリ",
+    "en_text": "Facility Turnip Ravioli",
+    "jp_explain": "パスタ生地の間に食材を挟んだ料理。\n【１分間】巨大取得率＋５０％\n追加採取、釣り率＋３％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  },
+  {
+    "assign": "3500290000",
+    "jp_text": "から揚げ",
+    "en_text": "Karaage",
+    "jp_explain": "ほとんど衣をつけずに揚げた料理。\n【５分間】レアドロップ倍率＋１０％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  },
+  {
+    "assign": "3500300000",
+    "jp_text": "コルトバジュース",
+    "en_text": "Koltova Juice",
+    "jp_explain": "【３０分間】レアドロップ倍率＋５０％\n<yellow>他のレアドロップ倍率上昇効果と重複可。<c>\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": "[30 Minutes] Rare Drop Rate+50%\n<yellow>Can be stacked with other boosts.</c>\n<yellow>Same Dish will overwrite the effect.<c>"
+  },
+  {
+    "assign": "3500310000",
+    "jp_text": "採掘場跡サメのスープ",
+    "en_text": "Quarry Shark Soup",
+    "jp_explain": "希少な食材と濃厚なダシを使った料理。\n【３分間】宝石取得率＋３０％\n追加採取率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": "A Rich Soup with Rare Ingredients.\n[3 Minutes] +30% Gem Rate\n+5% Extra Collecting Rate"
+  },
+  {
+    "assign": "3500320000",
+    "jp_text": "浮上施設ニジエビの清蒸",
+    "en_text": "Facility Steamed Rainbow Shrimp",
+    "jp_explain": "新鮮な魚介類を使った蒸し料理。\n【３分間】鉱石取得率＋３０％\n追加採取率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": "Freshly Steamed Seafood Cusine.\n[3 Minutes] +30% Mineral Rate\n+5% Extra Collecting Rate"
+  },
+  {
+    "assign": "3500330000",
+    "jp_text": "海鮮フルーツコンフィ",
+    "en_text": "Seafood Fruit Confit",
+    "jp_explain": "魚介類を低温の果実オイルで煮た料理。\n【３分間】野菜取得率＋３０％\n追加採取率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  },
+  {
+    "assign": "3500340000",
+    "jp_text": "海鮮パンプキンパイ",
+    "en_text": "Seafood Pumpkin Pie",
+    "jp_explain": "魚介類をパイ生地で包んで焼いた料理。\n【１分間】軟体類取得率＋５０％\n追加釣り率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  },
+  {
+    "assign": "3500350000",
+    "jp_text": "凍土ネギのアヒージョ",
+    "en_text": "Ahijo with Tundra Green Onions",
+    "jp_explain": "具をにんにくとオイルで煮込んだ料理。\n【３分間】特殊取得率＋３０％\n追加採取、釣り率＋３％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  },
+  {
+    "assign": "3500360000",
+    "jp_text": "凍土ニシンのカインチュア",
+    "en_text": "Canh Chua with Tundra Herring",
+    "jp_explain": "魚介類がたくさん入ったスープ。\n【３分間】貝類取得率＋３０％\n追加釣り率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  },
+  {
+    "assign": "3500370000",
+    "jp_text": "火山洞窟イワナのポワレ",
+    "en_text": "Pan Fried Char",
+    "jp_explain": "魚介類を蒸し焼きにした料理。\n【３分間】小型取得率＋３０％\n追加採取、釣り率＋３％\n<yellow>同種の料理は効果が上書きされます。<c>",
+    "en_explain": ""
+  }
 ]
