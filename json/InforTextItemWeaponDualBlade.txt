@@ -1,737 +1,737 @@
 [
-  {
-    "assign": "117000000",
-    "jp_text": "デュアルブレード",
-    "en_text": "Dual Blade",
-    "jp_explain": "アークスで正式採用されている飛翔剣。\nシンプルな構造で非常に軽量な\n初心者に扱いやすい入門用モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "117010000",
-    "jp_text": "アルバＤブレード",
-    "en_text": "Alva Dual Blade",
-    "jp_explain": "アークスで使用される改良型飛翔剣。\n基礎モデルと構造は同じだが\n大型化した入門モデルの第二段階。",
-    "en_explain": ""
-  },
-  {
-    "assign": "117020000",
-    "jp_text": "ヴィタＤブレード",
-    "en_text": "Vita Dual Blade",
-    "jp_explain": "基礎モデルに改良を加えた飛翔剣。\n基礎モデルから倍近いサイズアップが\n施された入門モデルの最終段階。",
-    "en_explain": ""
-  },
-  {
-    "assign": "117090000",
-    "jp_text": "デュアルサーベル",
-    "en_text": "Dual Saber",
-    "jp_explain": "突起が付いた護拳が特徴的な飛翔剣。\n柄の部分で出力の調整がされており\n大型だが扱い易い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170100000",
-    "jp_text": "アルバＤサーベル",
-    "en_text": "Alva Dual Saber",
-    "jp_explain": "護拳が特徴的な飛翔剣の改良型。\n柄部分が大きく改良され、重量は\nあるものの高い出力を誇る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170110000",
-    "jp_text": "ヴィタＤサーベル",
-    "en_text": "Vita Dual Saber",
-    "jp_explain": "護拳が特徴的な飛翔剣の最終形。\n限界まで大型化したことで\nこれまで以上の破壊力を実現した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170120000",
-    "jp_text": "デュアルスティレット",
-    "en_text": "Dual Stiletto",
-    "jp_explain": "非常に細身で軽量な飛翔剣。\nリミッターによって出力が制限され\n扱い易さが優先されている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170130000",
-    "jp_text": "アルバＤスティレット",
-    "en_text": "Alva Dual Stiletto",
-    "jp_explain": "非常に細身で軽量な飛翔剣の改良型。\nリミッターを緩め、出力を向上させた。\nフォルムも若干変化している。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170140000",
-    "jp_text": "ヴィタＤスティレット",
-    "en_text": "Vita Dual Stiletto",
-    "jp_explain": "非常に細身で軽量な飛翔剣の改良型。\nリミッターを解放し内蔵するフォトンを\n解き放った熟練者向けモデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170150000",
-    "jp_text": "赤のデュアルブレード",
-    "en_text": "Red Dual Blade",
-    "jp_explain": "試験的にカラーリングを\nシンボリックにした飛翔剣。\n目映い赤色は必然的に目を引く。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170160000",
-    "jp_text": "青のデュアルブレード",
-    "en_text": "Blue Dual Blade",
-    "jp_explain": "試験的にカラーリングを\nシンボリックにした飛翔剣。\n目映い青色は必然的に目を引く。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170170000",
-    "jp_text": "ステルスウェポン：ＤＢ",
-    "en_text": "Stealth Weapon: DB",
-    "jp_explain": "ステルスウェポン：ＤＢ",
-    "en_explain": "Unknown Weapon.\nSeems to be in the shape of\na Dual Blade."
-  },
-  {
-    "assign": "1170180000",
-    "jp_text": "グランフォル",
-    "en_text": "Granfol",
-    "jp_explain": "大きな持ち手と弧を描いた刃が特徴的な\n飛翔剣。刺突も斬撃もこなせるため\n幅広い世代で使用されている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170200000",
-    "jp_text": "グランスハール",
-    "en_text": "Grans Hall",
-    "jp_explain": "大きな持ち手と曲刃が特徴的な飛翔剣の\n最終形。フォトン加工を施すことで\n高い切断力と耐久性を手に入れた。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170210000",
-    "jp_text": "ラムダアデレード",
-    "en_text": "Lambda Adelaide",
-    "jp_explain": "流通量が少ない飛翔剣の改良型。\n持ち手の方まで伸びたフォトン刃は\n密度も高く、高い切断力を誇る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170220000",
-    "jp_text": "ディオアデレード",
-    "en_text": "Dio Adelaide",
-    "jp_explain": "流通量が少ない飛翔剣の最終形。\n摩擦による抵抗を減らすため、加工され\n切断力が大幅に向上した次世代モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170230000",
-    "jp_text": "アデレード",
-    "en_text": "Adelaide",
-    "jp_explain": "製造が困難で流通量が少ない飛翔剣。\n特徴的な波打った刀身は、傷口を\n広げる効果があり、殺傷性が高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170240000",
-    "jp_text": "レクスティー",
-    "en_text": "Lextear",
-    "jp_explain": "高磁性合金で加工された飛翔剣。\n金色の装飾に、細長いフォトン刃が\n目立つ美しい武器。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170250000",
-    "jp_text": "ディオレクスティー",
-    "en_text": "Dio Lextear",
-    "jp_explain": "高磁性合金で加工した飛翔剣の最終形。\nバランスを考慮し、再調整された。\n薙ぎ払いやすく、攻撃力は高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170260000",
-    "jp_text": "ラムダレクスティー",
-    "en_text": "Lambda Lextear",
-    "jp_explain": "高磁性合金で加工した飛翔剣の改良型。\n尖った柄頭と長い護拳が特徴的。\n薄く細い片刃だが、切れ味は良い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170270000",
-    "jp_text": "スターフリサ",
-    "en_text": "Starfrisa",
-    "jp_explain": "ファンタジックな形状をした飛翔剣。\n細身の直刀で、重さを感じづらく\n初心者でも扱いやすいのが特徴。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170280000",
-    "jp_text": "エスカフリサ",
-    "en_text": "Escafrisa",
-    "jp_explain": "ファンタジックな形状をした飛翔剣。\n内部の素材を変更し、更なる軽量化を\n行った。連撃がしやすく、威力も高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170290000",
-    "jp_text": "シェーンフリサ",
-    "en_text": "Shanefrisa",
-    "jp_explain": "ファンタジックな形状をした飛翔剣。\n美しい刀身に目が奪われるが、切断力は\n非常に高く、扱いには注意が必要。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170300000",
-    "jp_text": "宵",
-    "en_text": "Yoi",
-    "jp_explain": "流線形の美しい刃を持つ飛翔剣。\n装飾的な色合いと雅やかで上品な姿に\n魅了される者は多い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170310000",
-    "jp_text": "響",
-    "en_text": "Hibiki",
-    "jp_explain": "流線形の美しい刃を持つ飛翔剣。\n端麗で気品ある姿からは想像も\nできないほどの威力を誇る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170320000",
-    "jp_text": "曙",
-    "en_text": "Akebono",
-    "jp_explain": "流線形の美しい刃を持つ飛翔剣。\n淡く光を放つ刃は鋭さを増しており\n対象を難なく斬り伏せる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170330000",
-    "jp_text": "サーブライト",
-    "en_text": "Sarblight",
-    "jp_explain": "巨大なフォトン刃を持つ飛翔剣。\n柄の箇所を覆うように複数の刃があり\n敵に効果的な傷を与えることが可能。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170340000",
-    "jp_text": "フォルブライト",
-    "en_text": "Forblight",
-    "jp_explain": "巨大なフォトン刃を持つ飛翔剣。\n斬ることに特化させるべく、あらゆる\n箇所を改造し、攻撃力を上げた。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170350000",
-    "jp_text": "ミリオブライト",
-    "en_text": "Millioblight",
-    "jp_explain": "巨大なフォトン刃を持つ飛翔剣。\n度重なる改良の末、高威力で負担が\n少なく扱いやすい形となった。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170360000",
-    "jp_text": "ディオセラヴァーン",
-    "en_text": "Dio Seravahn",
-    "jp_explain": "無駄を省くという設計思想の飛翔剣。\n振り回した際に確実に傷を抉れる様に\n角度が再調整された。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170370000",
-    "jp_text": "ラムダセラヴァーン",
-    "en_text": "Lambda Seravahn",
-    "jp_explain": "無駄を省くという設計思想の飛翔剣。\n僅かに刃の角度を変更することにより\n抵抗を軽減させ、切断力を増強した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170380000",
-    "jp_text": "セラヴァーン",
-    "en_text": "Seravahn",
-    "jp_explain": "無駄を省くという設計思想の飛翔剣。\n刀身全体にある尖った切れ込みが特徴で\n扱いには慣れが必要だが、強力。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170420000",
-    "jp_text": "カドルフ-NT",
-    "en_text": "Kaddle Full-NT",
-    "jp_explain": "フォトンの吸収が効率的になるように\nデザインされた飛翔剣。細かく入った\n波型により切れ味が増している。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170510000",
-    "jp_text": "ケイトレイター",
-    "en_text": "Kae Traitor",
-    "jp_explain": "局地戦用にシンプルで運用しやすい\n形に作られた飛翔剣。細身で薄い刀身は\n軽量で扱いやすく、人気の品。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170520000",
-    "jp_text": "グラストレイター",
-    "en_text": "Glass Traitor",
-    "jp_explain": "局地戦用にシンプルで運用しやすい\n形に作られた飛翔剣。寒冷地での使用を\n想定し、滑りづらい柄に改良された。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170540000",
-    "jp_text": "アーレスブレード",
-    "en_text": "Ares Blade",
-    "jp_explain": "戦士の幻獣の力を宿した飛翔剣。装者に\nフォトンブラストの効果で挫けぬ力を\n与え、あらゆるものを切り伏せる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170550000",
-    "jp_text": "イデアルデュオス",
-    "en_text": "Ideal Duos",
-    "jp_explain": "新開発のフォトンジェネレーターを\n搭載した飛翔剣。発せられる\nフォトンの輝きは次代の証とされる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170570000",
-    "jp_text": "新光鎧刀",
-    "en_text": "Pristine Armor Blades",
-    "jp_explain": "伝承上の大国の意匠を模した飛翔剣。\n大小異なるが一対の刀剣であり\n二振りが揃うことで真価を発揮する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170600000",
-    "jp_text": "ヘレティックペイル",
-    "en_text": "Heretic Pair",
-    "jp_explain": "鎌のようなおぞましいフォルムを持つ\n飛翔剣。持ち手以外は殆どが刃の武器。\n赤と黒の刀身は死神を彷彿とさせる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170630000",
-    "jp_text": "フラドール",
-    "en_text": "Fradoll",
-    "jp_explain": "機能性を重視して開発された飛翔剣。\n薄く切れ味の鋭い曲刀で、敵を\n切り伏せることを目的に制作された。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170650000",
-    "jp_text": "フラドスクノス",
-    "en_text": "Fradskunoth",
-    "jp_explain": "機能性を重視して開発された飛翔剣。\n斬撃に適した形に再開発され\n敵を両断する程の切断力を持つに至る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170670000",
-    "jp_text": "シャルクパニス",
-    "en_text": "Schalkpanis",
-    "jp_explain": "最先端の技術を結集し作られた飛翔剣。\nスタイリッシュなデザインはそのままに\nフォトン出力を上げ威力を底上げした。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170690000",
-    "jp_text": "イスアリス",
-    "en_text": "Ys Alice",
-    "jp_explain": "ゴシックな装飾が特徴的な飛翔剣。\n独特の形状に目が奪われるが\n性能は高く、切断力に優れる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170700000",
-    "jp_text": "シェナアリス",
-    "en_text": "Shena Alice",
-    "jp_explain": "ゴシックな装飾が特徴的な飛翔剣。\n刃それぞれの角度をわずかに変化させ\n優れた切断力を更に向上させた。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170710000",
-    "jp_text": "ヴィクトアリス",
-    "en_text": "Victo Alice",
-    "jp_explain": "ゴシックな装飾が特徴的な飛翔剣。\nフォトン加工が施されたことにより\n抵抗が減り、耐久性が向上した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170720000",
-    "jp_text": "ファーレンクロイツ",
-    "en_text": "Fahrenkreutz",
-    "jp_explain": "大勢のためでなく、ただひとりのために\n刀匠ジグが創り上げた飛翔剣。\nそれは、彼の情熱の結晶。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170750000",
-    "jp_text": "グレスミカ",
-    "en_text": "Gresmica",
-    "jp_explain": "さりげなく光る三枚刃を持つ飛翔剣。\n鮮やかな鉱石のブレードはフォトンを\n伝導させることで威力を倍増する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170780000",
-    "jp_text": "テスフレイ",
-    "en_text": "Tesfrey",
-    "jp_explain": "幾何学的なデザインが目を引く飛翔剣。\n左右非対称で、左側の方が大きく\n横から飛び出した突起が付いている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170810000",
-    "jp_text": "ソルリシェル",
-    "en_text": "Sol Rishell",
-    "jp_explain": "携帯性に優れた格納機構を持つ飛翔剣。\n小型ブレードを伸縮させることで\n大型ブレードへ格納することが可能。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170830000",
-    "jp_text": "シエルリシェル",
-    "en_text": "Ciel Rishell",
-    "jp_explain": "携帯性に優れた格納機構を持つ飛翔剣。\nブレードの正面に薄いフォトンの膜を\n張ることで攻撃性能を底上げした。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170930000",
-    "jp_text": "イグニス",
-    "en_text": "Ignis",
-    "jp_explain": "フォトンエネルギーパックを内蔵する\n飛翔剣。双方向から襲い掛かる二層の\n刃が、攻撃をより正確なものにする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170940000",
-    "jp_text": "グランドクロス-NT",
-    "en_text": "Grand Cross-NT",
-    "jp_explain": "最高級フォトンリアクターでのみ\n実現可能な特徴的な刃が人気の飛翔剣。\n素材の貴重さゆえ生産数も少ない。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170970000",
-    "jp_text": "ヒャッカリョウラン",
-    "en_text": "Hyakka Ryouran",
-    "jp_explain": "全ての邪をはらいのけ、失われた\n秩序を取り戻す力を持つという飛翔剣。\n剣の銘は『月華美刃』と『疾風刃雷』。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1170990000",
-    "jp_text": "ツーヘッドラグナス",
-    "en_text": "Two-Headed Ragnus",
-    "jp_explain": "とある軍の幹部が使用していた超高級\nカスタムモデルの飛翔剣。威圧的な\nフォルムと圧倒的な破壊力を持つ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701010000",
-    "jp_text": "サンゲヤシャ",
-    "en_text": "Sange Yasha",
-    "jp_explain": "出自の異なる二振りの刀から成る\n飛翔剣。不思議な力で引かれあう\nつがいの刃がすべてを切り裂く。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701030000",
-    "jp_text": "スプルコル",
-    "en_text": "Spruecoll",
-    "jp_explain": "音楽をこよなく愛するアークスが企画し\n開発した飛翔剣。二つの刃からの連撃は\nあらゆるものを引き裂くという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701060000",
-    "jp_text": "フブキレイセン",
-    "en_text": "Fubuki Reisen",
-    "jp_explain": "華やかな複数の刃が特徴的な飛翔剣。\n刀身が七本に枝分かれしており\n二振りで計十四本にも及ぶ刃を持つ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701090000",
-    "jp_text": "バイオリブジール",
-    "en_text": "Bio Ribzeal",
-    "jp_explain": "最先端の生体工学を応用し開発された\n飛翔剣。使用時の特徴的なスタイルは\n安定した戦闘と負担軽減を考えた結果。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701100000",
-    "jp_text": "ライブリブジール",
-    "en_text": "Live Ribzeal",
-    "jp_explain": "最先端の生体工学を応用し開発された\n飛翔剣。高純度培養液によって\n刃先は常に最良の状態に保たれる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701120000",
-    "jp_text": "落秋水",
-    "en_text": "Raku Shusui",
-    "jp_explain": "流水に散る紅葉が描かれた刀身が\n美しい飛翔剣。山吹色の見事な刃は\n曇りひとつなく、研ぎ澄まされている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701130000",
-    "jp_text": "紫紺流水",
-    "en_text": "Shikon Ryuusui",
-    "jp_explain": "流水と共に流れる花をイメージして\n制作された飛翔剣。散りゆく桜の儚さと\n潔さを表現した刃が非常に美しい。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701140000",
-    "jp_text": "ネメシスデュアル",
-    "en_text": "Nemesis Dual",
-    "jp_explain": "古の時代に封印された聖なる飛翔剣。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701150000",
-    "jp_text": "スレイヴデュアル",
-    "en_text": "Slave Dual",
-    "jp_explain": "古の時代に封印された邪なる飛翔剣。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701190000",
-    "jp_text": "ニレンオロチ",
-    "en_text": "Niren Orochi",
-    "jp_explain": "稀代の名匠ドウセツが鍛えし飛翔剣。\n芸術の域に達している美しき刀身は\n幾星霜の時を経ても衰えることはない。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701200000",
-    "jp_text": "イグニス／リヒト",
-    "en_text": "Ignis / Licht",
-    "jp_explain": "白夜の色を抱く飛翔剣。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701210000",
-    "jp_text": "グランドクロス／リヒト",
-    "en_text": "Grand Cross / Licht",
-    "jp_explain": "白夜の色を抱く飛翔剣。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701220000",
-    "jp_text": "ニレンアギト",
-    "en_text": "Niren Agito",
-    "jp_explain": "オロチアギト誕生後に打たれた飛翔剣。\n数多く打たれた習作のうちの二振りだが\n刀身は錆で覆われてしまっている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701230000",
-    "jp_text": "トウシナギ",
-    "en_text": "Toushinagi",
-    "jp_explain": "耐衝撃性能に特化させた設計の飛翔剣。\n護拳に描かれた大胆な荒波が特徴的。\n耐久性に優れており扱いやすい。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701260000",
-    "jp_text": "フレトクル",
-    "en_text": "Furetokuru",
-    "jp_explain": "独特の裝飾が施された飛翔剣。\n立体的に波打った刀身が特徴的。\n殺傷力が高く、扱いには注意が必要。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701290000",
-    "jp_text": "レイルランダー",
-    "en_text": "Rail Lander",
-    "jp_explain": "蒸気エネルギーで効能増幅した飛翔剣。\n機能的に配置された強化機構が\n状況に合わせて出力を最適化する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701370000",
-    "jp_text": "パルシュクレ",
-    "en_text": "Palsucre",
-    "jp_explain": "パティシエが宣伝用に製作した飛翔剣。\n今にも溶けそうなアイスを模した刃は\n宣伝用とは思えないほどの切れ味。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701430000",
-    "jp_text": "レクトラ",
-    "en_text": "Rektora",
-    "jp_explain": "非常に鋭利で細身なフォルムの飛翔剣。\nフォトンを内部に満たしたブレードは\n非常に鋭利で、高い切れ味を誇る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701490000",
-    "jp_text": "金剛杵",
-    "en_text": "Kongousho",
-    "jp_explain": "太古の教義に従う、屈強な武僧衆が\n用いる飛翔剣。「合掌輪」と共に\n救いの武器とされる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701520000",
-    "jp_text": "ノクスディナス",
-    "en_text": "Nox Dinas",
-    "jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き飛翔剣。\n装者も恐怖を抱くほどの切れ味を持つ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701580000",
-    "jp_text": "ラビットブレード",
-    "en_text": "Rabbit Blade",
-    "jp_explain": "柄についたマスコットがカワイイ\n飛翔剣。武器だけでなく\n装飾品としても重宝され、人気の品。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701590000",
-    "jp_text": "フルネシブレード",
-    "en_text": "Furnish Blade",
-    "jp_explain": "柄についたマスコットがカワイイ\n飛翔剣。大人向けに作られ\n落ち着いた色彩ながらも性能は高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701610000",
-    "jp_text": "リグトゥーレン",
-    "en_text": "Rig Thulen",
-    "jp_explain": "伝説の生物を機械的に再現した飛翔剣。\n磨き鍛え抜かれた一対の刃は\n縦横無尽に対象を切り刻む。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701630000",
-    "jp_text": "ジグマトゥーレン",
-    "en_text": "Sigma Touren",
-    "jp_explain": "伝説の生物を機械的に再現した飛翔剣。\n内蔵するフォトン量が大幅に向上し\n溢れんばかりの力で対象を刻む。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701750000",
-    "jp_text": "ファヴニスオービット",
-    "en_text": "Fafnir Orbit",
-    "jp_explain": "新開発のフォトンリング機構を搭載した\n飛翔剣。展開された部品が合体し\n二刀一対の刃へと姿を変える。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701800000",
-    "jp_text": "ギクスクトリデーブ",
-    "en_text": "Gix Khutriv",
-    "jp_explain": "臨界寸前まで圧縮したフォトンと\n同調した飛翔剣。装者の精神とリンクし\n不屈の闘志が威力を跳ね上げる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701870000",
-    "jp_text": "カセントリハルカ",
-    "en_text": "Kasentori Haruka",
-    "jp_explain": "カトリが設計に関わった特別な飛翔剣。\nただし彼女はデザインをしたのみで\n性能に関してはサガが調整を行った。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701920000",
-    "jp_text": "インヴェイドセイヴァー",
-    "en_text": "Invade Savior",
-    "jp_explain": "【深遠なる闇】より生まれし負の\n飛翔剣。古の言霊に魅せられ\n万能だけを渇望する追求者となる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11701930000",
-    "jp_text": "オフスティアセイヴァー",
-    "en_text": "Austere Savior",
-    "jp_explain": "負の力を識り、制することで転化した\n浄化の飛翔剣。その比類なき武勇は\n悪しきを砕き、至高の力となる。",
-    "en_explain": "A Purified Dual Blade.\nIts unparalled prowess crushes evil\nwith its supreme power."
-  },
-  {
-    "assign": "11701970000",
-    "jp_text": "Ｓ．ＣＮマンティス",
-    "en_text": "S.CN Mantis",
-    "jp_explain": "白兵戦に特化して作られた飛翔剣。\n長時間の使用による肉体疲労を\n軽減するため、刃は薄く設計された。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11702080000",
-    "jp_text": "アウラヴォルザーグ",
-    "en_text": "Aura Vulzzarg",
-    "jp_explain": "異界の因子を触媒に生み出された\n漆黒の飛翔剣。装者の覇気に比例して\n二刀の刃は蒼き輝きを増すという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11702140000",
-    "jp_text": "ブレードレボルシオ",
-    "en_text": "Blade Revolucio",
-    "jp_explain": "新開発の演算装置を搭載した飛翔剣。\n装者の思考や戦況を分析することで\n出力を最適に保ち、負荷を軽減する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11702190000",
-    "jp_text": "タイタンブレイザー",
-    "en_text": "Titan Blazer",
-    "jp_explain": "古典的技術が用いられた超重量飛翔剣。\n連続してフォトンを解き放っても支障を\nきたさない頑丈なフレームが採用された。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11702240000",
-    "jp_text": "レイＤブレード",
-    "en_text": "Ray Dual Blade",
-    "jp_explain": "次世代の主力として開発された飛翔剣。\n基礎モデルの直系の後継機であり\n出力、安定性共に高いスペックを誇る。",
-    "en_explain": "Dual Blades developed as the latest\nmodel, boasting high photon stability\nwith next-gen specifications."
-  },
-  {
-    "assign": "11702320000",
-    "jp_text": "デュアルブレード-NT",
-    "en_text": "Dual Blade-NT",
-    "jp_explain": "アークスで正式採用されている飛翔剣。\nシンプルな構造で非常に軽量な\n初心者に扱いやすい入門用モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11702330000",
-    "jp_text": "アルバＤブレード-NT",
-    "en_text": "Alva Dual Blade-NT",
-    "jp_explain": "アークスで使用される改良型飛翔剣。\n基礎モデルと構造は同じだが\n大型化した入門モデルの第二段階。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11702340000",
-    "jp_text": "ヴィタＤブレード-NT",
-    "en_text": "Vita Dual Blade-NT",
-    "jp_explain": "基礎モデルに改良を加えた飛翔剣。\n基礎モデルから倍近いサイズアップが\n施された入門モデルの最終段階。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11702350000",
-    "jp_text": "デュアルサーベル-NT",
-    "en_text": "Dual Saber-NT",
-    "jp_explain": "突起が付いた護拳が特徴的な飛翔剣。\n柄の部分で出力の調整がされており\n大型だが扱い易い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11702360000",
-    "jp_text": "アルバＤサーベル-NT",
-    "en_text": "Alva Dual Saber-NT",
-    "jp_explain": "護拳が特徴的な飛翔剣の改良型。\n柄部分が大きく改良され、重量は\nあるものの高い出力を誇る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11702370000",
-    "jp_text": "ヴィタＤサーベル-NT",
-    "en_text": "Vita Dual Saber-NT",
-    "jp_explain": "護拳が特徴的な飛翔剣の最終形。\n限界まで大型化したことで\nこれまで以上の破壊力を実現した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11702380000",
-    "jp_text": "デュアルスティレット-NT",
-    "en_text": "Dual Stiletto-NT",
-    "jp_explain": "非常に細身で軽量な飛翔剣。\nリミッターによって出力が制限され\n扱い易さが優先されている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11702390000",
-    "jp_text": "アルバＤスティレット-NT",
-    "en_text": "Alva D. Stiletto-NT",
-    "jp_explain": "非常に細身で軽量な飛翔剣の改良型。\nリミッターを緩め、出力を向上させた。\nフォルムも若干変化している。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11702400000",
-    "jp_text": "ヴィタＤスティレット-NT",
-    "en_text": "Vita D. Stiletto-NT",
-    "jp_explain": "非常に細身で軽量な飛翔剣の改良型。\nリミッターを解放し内蔵するフォトンを\n解き放った熟練者向けモデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11702410000",
-    "jp_text": "サーブライト-NT",
-    "en_text": "Sarblight-NT",
-    "jp_explain": "巨大なフォトン刃を持つ飛翔剣。\n柄の箇所を覆うように複数の刃があり\n敵に効果的な傷を与えることが可能。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11702420000",
-    "jp_text": "アデレード-NT",
-    "en_text": "Adelaide-NT",
-    "jp_explain": "製造が困難で流通量が少ない飛翔剣。\n特徴的な波打った刀身は、傷口を\n広げる効果があり、殺傷性が高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11702430000",
-    "jp_text": "ディオアデレード-NT",
-    "en_text": "Dio Adelaide-NT",
-    "jp_explain": "流通量が少ない飛翔剣の最終形。\n摩擦による抵抗を減らすため、加工され\n切断力が大幅に向上した次世代モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11702440000",
-    "jp_text": "ニレンアギト-NT",
-    "en_text": "Niren Agito-NT",
-    "jp_explain": "オロチアギト誕生後に打たれた飛翔剣。\n数多く打たれた習作のうちの二振りだが\n刀身は錆で覆われてしまっている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11702450000",
-    "jp_text": "ノクスディナス-NT",
-    "en_text": "Nox Dinas-NT",
-    "jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き飛翔剣。\n装者も恐怖を抱くほどの切れ味を持つ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11702460000",
-    "jp_text": "宵Ver2",
-    "en_text": "Yoi Ver2",
-    "jp_explain": "流線形の美しい刃を持つ飛翔剣。\n装飾的な色合いと雅やかで上品な姿に\n魅了される者は多い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11702560000",
-    "jp_text": "シエルリシェル-NT",
-    "en_text": "Ciel Rishell-NT",
-    "jp_explain": "携帯性に優れた格納機構を持つ飛翔剣。\nブレードの正面に薄いフォトンの膜を\n張ることで攻撃性能を底上げした。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11702570000",
-    "jp_text": "ソルリシェル-NT",
-    "en_text": "Sol Rishell-NT",
-    "jp_explain": "携帯性に優れた格納機構を持つ飛翔剣。\n小型ブレードを伸縮させることで\n大型ブレードへ格納することが可能。",
-    "en_explain": ""
-  }
+	{
+		"assign": "117000000",
+		"jp_text": "デュアルブレード",
+		"en_text": "Dual Blade",
+		"jp_explain": "アークスで正式採用されている飛翔剣。\nシンプルな構造で非常に軽量な\n初心者に扱いやすい入門用モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "117010000",
+		"jp_text": "アルバＤブレード",
+		"en_text": "Alva Dual Blade",
+		"jp_explain": "アークスで使用される改良型飛翔剣。\n基礎モデルと構造は同じだが\n大型化した入門モデルの第二段階。",
+		"en_explain": ""
+	},
+	{
+		"assign": "117020000",
+		"jp_text": "ヴィタＤブレード",
+		"en_text": "Vita Dual Blade",
+		"jp_explain": "基礎モデルに改良を加えた飛翔剣。\n基礎モデルから倍近いサイズアップが\n施された入門モデルの最終段階。",
+		"en_explain": ""
+	},
+	{
+		"assign": "117090000",
+		"jp_text": "デュアルサーベル",
+		"en_text": "Dual Saber",
+		"jp_explain": "突起が付いた護拳が特徴的な飛翔剣。\n柄の部分で出力の調整がされており\n大型だが扱い易い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170100000",
+		"jp_text": "アルバＤサーベル",
+		"en_text": "Alva Dual Saber",
+		"jp_explain": "護拳が特徴的な飛翔剣の改良型。\n柄部分が大きく改良され、重量は\nあるものの高い出力を誇る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170110000",
+		"jp_text": "ヴィタＤサーベル",
+		"en_text": "Vita Dual Saber",
+		"jp_explain": "護拳が特徴的な飛翔剣の最終形。\n限界まで大型化したことで\nこれまで以上の破壊力を実現した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170120000",
+		"jp_text": "デュアルスティレット",
+		"en_text": "Dual Stiletto",
+		"jp_explain": "非常に細身で軽量な飛翔剣。\nリミッターによって出力が制限され\n扱い易さが優先されている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170130000",
+		"jp_text": "アルバＤスティレット",
+		"en_text": "Alva Dual Stiletto",
+		"jp_explain": "非常に細身で軽量な飛翔剣の改良型。\nリミッターを緩め、出力を向上させた。\nフォルムも若干変化している。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170140000",
+		"jp_text": "ヴィタＤスティレット",
+		"en_text": "Vita Dual Stiletto",
+		"jp_explain": "非常に細身で軽量な飛翔剣の改良型。\nリミッターを解放し内蔵するフォトンを\n解き放った熟練者向けモデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170150000",
+		"jp_text": "赤のデュアルブレード",
+		"en_text": "Red Dual Blade",
+		"jp_explain": "試験的にカラーリングを\nシンボリックにした飛翔剣。\n目映い赤色は必然的に目を引く。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170160000",
+		"jp_text": "青のデュアルブレード",
+		"en_text": "Blue Dual Blade",
+		"jp_explain": "試験的にカラーリングを\nシンボリックにした飛翔剣。\n目映い青色は必然的に目を引く。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170170000",
+		"jp_text": "ステルスウェポン：ＤＢ",
+		"en_text": "Stealth Weapon: DB",
+		"jp_explain": "ステルスウェポン：ＤＢ",
+		"en_explain": "Unknown Weapon.\nSeems to be in the shape of\na Dual Blade."
+	},
+	{
+		"assign": "1170180000",
+		"jp_text": "グランフォル",
+		"en_text": "Granfol",
+		"jp_explain": "大きな持ち手と弧を描いた刃が特徴的な\n飛翔剣。刺突も斬撃もこなせるため\n幅広い世代で使用されている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170200000",
+		"jp_text": "グランスハール",
+		"en_text": "Grans Hall",
+		"jp_explain": "大きな持ち手と曲刃が特徴的な飛翔剣の\n最終形。フォトン加工を施すことで\n高い切断力と耐久性を手に入れた。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170210000",
+		"jp_text": "ラムダアデレード",
+		"en_text": "Lambda Adelaide",
+		"jp_explain": "流通量が少ない飛翔剣の改良型。\n持ち手の方まで伸びたフォトン刃は\n密度も高く、高い切断力を誇る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170220000",
+		"jp_text": "ディオアデレード",
+		"en_text": "Dio Adelaide",
+		"jp_explain": "流通量が少ない飛翔剣の最終形。\n摩擦による抵抗を減らすため、加工され\n切断力が大幅に向上した次世代モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170230000",
+		"jp_text": "アデレード",
+		"en_text": "Adelaide",
+		"jp_explain": "製造が困難で流通量が少ない飛翔剣。\n特徴的な波打った刀身は、傷口を\n広げる効果があり、殺傷性が高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170240000",
+		"jp_text": "レクスティー",
+		"en_text": "Lextear",
+		"jp_explain": "高磁性合金で加工された飛翔剣。\n金色の装飾に、細長いフォトン刃が\n目立つ美しい武器。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170250000",
+		"jp_text": "ディオレクスティー",
+		"en_text": "Dio Lextear",
+		"jp_explain": "高磁性合金で加工した飛翔剣の最終形。\nバランスを考慮し、再調整された。\n薙ぎ払いやすく、攻撃力は高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170260000",
+		"jp_text": "ラムダレクスティー",
+		"en_text": "Lambda Lextear",
+		"jp_explain": "高磁性合金で加工した飛翔剣の改良型。\n尖った柄頭と長い護拳が特徴的。\n薄く細い片刃だが、切れ味は良い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170270000",
+		"jp_text": "スターフリサ",
+		"en_text": "Starfrisa",
+		"jp_explain": "ファンタジックな形状をした飛翔剣。\n細身の直刀で、重さを感じづらく\n初心者でも扱いやすいのが特徴。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170280000",
+		"jp_text": "エスカフリサ",
+		"en_text": "Escafrisa",
+		"jp_explain": "ファンタジックな形状をした飛翔剣。\n内部の素材を変更し、更なる軽量化を\n行った。連撃がしやすく、威力も高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170290000",
+		"jp_text": "シェーンフリサ",
+		"en_text": "Shanefrisa",
+		"jp_explain": "ファンタジックな形状をした飛翔剣。\n美しい刀身に目が奪われるが、切断力は\n非常に高く、扱いには注意が必要。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170300000",
+		"jp_text": "宵",
+		"en_text": "Yoi",
+		"jp_explain": "流線形の美しい刃を持つ飛翔剣。\n装飾的な色合いと雅やかで上品な姿に\n魅了される者は多い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170310000",
+		"jp_text": "響",
+		"en_text": "Hibiki",
+		"jp_explain": "流線形の美しい刃を持つ飛翔剣。\n端麗で気品ある姿からは想像も\nできないほどの威力を誇る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170320000",
+		"jp_text": "曙",
+		"en_text": "Akebono",
+		"jp_explain": "流線形の美しい刃を持つ飛翔剣。\n淡く光を放つ刃は鋭さを増しており\n対象を難なく斬り伏せる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170330000",
+		"jp_text": "サーブライト",
+		"en_text": "Sarblight",
+		"jp_explain": "巨大なフォトン刃を持つ飛翔剣。\n柄の箇所を覆うように複数の刃があり\n敵に効果的な傷を与えることが可能。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170340000",
+		"jp_text": "フォルブライト",
+		"en_text": "Forblight",
+		"jp_explain": "巨大なフォトン刃を持つ飛翔剣。\n斬ることに特化させるべく、あらゆる\n箇所を改造し、攻撃力を上げた。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170350000",
+		"jp_text": "ミリオブライト",
+		"en_text": "Millioblight",
+		"jp_explain": "巨大なフォトン刃を持つ飛翔剣。\n度重なる改良の末、高威力で負担が\n少なく扱いやすい形となった。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170360000",
+		"jp_text": "ディオセラヴァーン",
+		"en_text": "Dio Seravahn",
+		"jp_explain": "無駄を省くという設計思想の飛翔剣。\n振り回した際に確実に傷を抉れる様に\n角度が再調整された。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170370000",
+		"jp_text": "ラムダセラヴァーン",
+		"en_text": "Lambda Seravahn",
+		"jp_explain": "無駄を省くという設計思想の飛翔剣。\n僅かに刃の角度を変更することにより\n抵抗を軽減させ、切断力を増強した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170380000",
+		"jp_text": "セラヴァーン",
+		"en_text": "Seravahn",
+		"jp_explain": "無駄を省くという設計思想の飛翔剣。\n刀身全体にある尖った切れ込みが特徴で\n扱いには慣れが必要だが、強力。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170420000",
+		"jp_text": "カドルフ-NT",
+		"en_text": "Kaddle Full-NT",
+		"jp_explain": "フォトンの吸収が効率的になるように\nデザインされた飛翔剣。細かく入った\n波型により切れ味が増している。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170510000",
+		"jp_text": "ケイトレイター",
+		"en_text": "Kae Traitor",
+		"jp_explain": "局地戦用にシンプルで運用しやすい\n形に作られた飛翔剣。細身で薄い刀身は\n軽量で扱いやすく、人気の品。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170520000",
+		"jp_text": "グラストレイター",
+		"en_text": "Glass Traitor",
+		"jp_explain": "局地戦用にシンプルで運用しやすい\n形に作られた飛翔剣。寒冷地での使用を\n想定し、滑りづらい柄に改良された。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170540000",
+		"jp_text": "アーレスブレード",
+		"en_text": "Ares Blade",
+		"jp_explain": "戦士の幻獣の力を宿した飛翔剣。装者に\nフォトンブラストの効果で挫けぬ力を\n与え、あらゆるものを切り伏せる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170550000",
+		"jp_text": "イデアルデュオス",
+		"en_text": "Ideal Duos",
+		"jp_explain": "新開発のフォトンジェネレーターを\n搭載した飛翔剣。発せられる\nフォトンの輝きは次代の証とされる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170570000",
+		"jp_text": "新光鎧刀",
+		"en_text": "Pristine Armor Blades",
+		"jp_explain": "伝承上の大国の意匠を模した飛翔剣。\n大小異なるが一対の刀剣であり\n二振りが揃うことで真価を発揮する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170600000",
+		"jp_text": "ヘレティックペイル",
+		"en_text": "Heretic Pair",
+		"jp_explain": "鎌のようなおぞましいフォルムを持つ\n飛翔剣。持ち手以外は殆どが刃の武器。\n赤と黒の刀身は死神を彷彿とさせる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170630000",
+		"jp_text": "フラドール",
+		"en_text": "Fradoll",
+		"jp_explain": "機能性を重視して開発された飛翔剣。\n薄く切れ味の鋭い曲刀で、敵を\n切り伏せることを目的に制作された。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170650000",
+		"jp_text": "フラドスクノス",
+		"en_text": "Fradskunoth",
+		"jp_explain": "機能性を重視して開発された飛翔剣。\n斬撃に適した形に再開発され\n敵を両断する程の切断力を持つに至る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170670000",
+		"jp_text": "シャルクパニス",
+		"en_text": "Schalkpanis",
+		"jp_explain": "最先端の技術を結集し作られた飛翔剣。\nスタイリッシュなデザインはそのままに\nフォトン出力を上げ威力を底上げした。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170690000",
+		"jp_text": "イスアリス",
+		"en_text": "Ys Alice",
+		"jp_explain": "ゴシックな装飾が特徴的な飛翔剣。\n独特の形状に目が奪われるが\n性能は高く、切断力に優れる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170700000",
+		"jp_text": "シェナアリス",
+		"en_text": "Shena Alice",
+		"jp_explain": "ゴシックな装飾が特徴的な飛翔剣。\n刃それぞれの角度をわずかに変化させ\n優れた切断力を更に向上させた。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170710000",
+		"jp_text": "ヴィクトアリス",
+		"en_text": "Victo Alice",
+		"jp_explain": "ゴシックな装飾が特徴的な飛翔剣。\nフォトン加工が施されたことにより\n抵抗が減り、耐久性が向上した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170720000",
+		"jp_text": "ファーレンクロイツ",
+		"en_text": "Fahrenkreutz",
+		"jp_explain": "大勢のためでなく、ただひとりのために\n刀匠ジグが創り上げた飛翔剣。\nそれは、彼の情熱の結晶。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170750000",
+		"jp_text": "グレスミカ",
+		"en_text": "Gresmica",
+		"jp_explain": "さりげなく光る三枚刃を持つ飛翔剣。\n鮮やかな鉱石のブレードはフォトンを\n伝導させることで威力を倍増する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170780000",
+		"jp_text": "テスフレイ",
+		"en_text": "Tesfrey",
+		"jp_explain": "幾何学的なデザインが目を引く飛翔剣。\n左右非対称で、左側の方が大きく\n横から飛び出した突起が付いている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170810000",
+		"jp_text": "ソルリシェル",
+		"en_text": "Sol Rishell",
+		"jp_explain": "携帯性に優れた格納機構を持つ飛翔剣。\n小型ブレードを伸縮させることで\n大型ブレードへ格納することが可能。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170830000",
+		"jp_text": "シエルリシェル",
+		"en_text": "Ciel Rishell",
+		"jp_explain": "携帯性に優れた格納機構を持つ飛翔剣。\nブレードの正面に薄いフォトンの膜を\n張ることで攻撃性能を底上げした。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170930000",
+		"jp_text": "イグニス",
+		"en_text": "Ignis",
+		"jp_explain": "フォトンエネルギーパックを内蔵する\n飛翔剣。双方向から襲い掛かる二層の\n刃が、攻撃をより正確なものにする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170940000",
+		"jp_text": "グランドクロス-NT",
+		"en_text": "Grand Cross-NT",
+		"jp_explain": "最高級フォトンリアクターでのみ\n実現可能な特徴的な刃が人気の飛翔剣。\n素材の貴重さゆえ生産数も少ない。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170970000",
+		"jp_text": "ヒャッカリョウラン",
+		"en_text": "Hyakka Ryouran",
+		"jp_explain": "全ての邪をはらいのけ、失われた\n秩序を取り戻す力を持つという飛翔剣。\n剣の銘は『月華美刃』と『疾風刃雷』。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1170990000",
+		"jp_text": "ツーヘッドラグナス",
+		"en_text": "Two-Headed Ragnus",
+		"jp_explain": "とある軍の幹部が使用していた超高級\nカスタムモデルの飛翔剣。威圧的な\nフォルムと圧倒的な破壊力を持つ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701010000",
+		"jp_text": "サンゲヤシャ",
+		"en_text": "Sange Yasha",
+		"jp_explain": "出自の異なる二振りの刀から成る\n飛翔剣。不思議な力で引かれあう\nつがいの刃がすべてを切り裂く。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701030000",
+		"jp_text": "スプルコル",
+		"en_text": "Spruecoll",
+		"jp_explain": "音楽をこよなく愛するアークスが企画し\n開発した飛翔剣。二つの刃からの連撃は\nあらゆるものを引き裂くという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701060000",
+		"jp_text": "フブキレイセン",
+		"en_text": "Fubuki Reisen",
+		"jp_explain": "華やかな複数の刃が特徴的な飛翔剣。\n刀身が七本に枝分かれしており\n二振りで計十四本にも及ぶ刃を持つ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701090000",
+		"jp_text": "バイオリブジール",
+		"en_text": "Bio Ribzeal",
+		"jp_explain": "最先端の生体工学を応用し開発された\n飛翔剣。使用時の特徴的なスタイルは\n安定した戦闘と負担軽減を考えた結果。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701100000",
+		"jp_text": "ライブリブジール",
+		"en_text": "Live Ribzeal",
+		"jp_explain": "最先端の生体工学を応用し開発された\n飛翔剣。高純度培養液によって\n刃先は常に最良の状態に保たれる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701120000",
+		"jp_text": "落秋水",
+		"en_text": "Raku Shusui",
+		"jp_explain": "流水に散る紅葉が描かれた刀身が\n美しい飛翔剣。山吹色の見事な刃は\n曇りひとつなく、研ぎ澄まされている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701130000",
+		"jp_text": "紫紺流水",
+		"en_text": "Shikon Ryuusui",
+		"jp_explain": "流水と共に流れる花をイメージして\n制作された飛翔剣。散りゆく桜の儚さと\n潔さを表現した刃が非常に美しい。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701140000",
+		"jp_text": "ネメシスデュアル",
+		"en_text": "Nemesis Dual",
+		"jp_explain": "古の時代に封印された聖なる飛翔剣。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701150000",
+		"jp_text": "スレイヴデュアル",
+		"en_text": "Slave Dual",
+		"jp_explain": "古の時代に封印された邪なる飛翔剣。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701190000",
+		"jp_text": "ニレンオロチ",
+		"en_text": "Niren Orochi",
+		"jp_explain": "稀代の名匠ドウセツが鍛えし飛翔剣。\n芸術の域に達している美しき刀身は\n幾星霜の時を経ても衰えることはない。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701200000",
+		"jp_text": "イグニス／リヒト",
+		"en_text": "Ignis / Licht",
+		"jp_explain": "白夜の色を抱く飛翔剣。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701210000",
+		"jp_text": "グランドクロス／リヒト",
+		"en_text": "Grand Cross / Licht",
+		"jp_explain": "白夜の色を抱く飛翔剣。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701220000",
+		"jp_text": "ニレンアギト",
+		"en_text": "Niren Agito",
+		"jp_explain": "オロチアギト誕生後に打たれた飛翔剣。\n数多く打たれた習作のうちの二振りだが\n刀身は錆で覆われてしまっている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701230000",
+		"jp_text": "トウシナギ",
+		"en_text": "Toushinagi",
+		"jp_explain": "耐衝撃性能に特化させた設計の飛翔剣。\n護拳に描かれた大胆な荒波が特徴的。\n耐久性に優れており扱いやすい。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701260000",
+		"jp_text": "フレトクル",
+		"en_text": "Furetokuru",
+		"jp_explain": "独特の裝飾が施された飛翔剣。\n立体的に波打った刀身が特徴的。\n殺傷力が高く、扱いには注意が必要。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701290000",
+		"jp_text": "レイルランダー",
+		"en_text": "Rail Lander",
+		"jp_explain": "蒸気エネルギーで効能増幅した飛翔剣。\n機能的に配置された強化機構が\n状況に合わせて出力を最適化する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701370000",
+		"jp_text": "パルシュクレ",
+		"en_text": "Palsucre",
+		"jp_explain": "パティシエが宣伝用に製作した飛翔剣。\n今にも溶けそうなアイスを模した刃は\n宣伝用とは思えないほどの切れ味。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701430000",
+		"jp_text": "レクトラ",
+		"en_text": "Rektora",
+		"jp_explain": "非常に鋭利で細身なフォルムの飛翔剣。\nフォトンを内部に満たしたブレードは\n非常に鋭利で、高い切れ味を誇る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701490000",
+		"jp_text": "金剛杵",
+		"en_text": "Kongousho",
+		"jp_explain": "太古の教義に従う、屈強な武僧衆が\n用いる飛翔剣。「合掌輪」と共に\n救いの武器とされる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701520000",
+		"jp_text": "ノクスディナス",
+		"en_text": "Nox Dinas",
+		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き飛翔剣。\n装者も恐怖を抱くほどの切れ味を持つ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701580000",
+		"jp_text": "ラビットブレード",
+		"en_text": "Rabbit Blade",
+		"jp_explain": "柄についたマスコットがカワイイ\n飛翔剣。武器だけでなく\n装飾品としても重宝され、人気の品。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701590000",
+		"jp_text": "フルネシブレード",
+		"en_text": "Furnish Blade",
+		"jp_explain": "柄についたマスコットがカワイイ\n飛翔剣。大人向けに作られ\n落ち着いた色彩ながらも性能は高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701610000",
+		"jp_text": "リグトゥーレン",
+		"en_text": "Rig Thulen",
+		"jp_explain": "伝説の生物を機械的に再現した飛翔剣。\n磨き鍛え抜かれた一対の刃は\n縦横無尽に対象を切り刻む。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701630000",
+		"jp_text": "ジグマトゥーレン",
+		"en_text": "Sigma Touren",
+		"jp_explain": "伝説の生物を機械的に再現した飛翔剣。\n内蔵するフォトン量が大幅に向上し\n溢れんばかりの力で対象を刻む。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701750000",
+		"jp_text": "ファヴニスオービット",
+		"en_text": "Fafnir Orbit",
+		"jp_explain": "新開発のフォトンリング機構を搭載した\n飛翔剣。展開された部品が合体し\n二刀一対の刃へと姿を変える。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701800000",
+		"jp_text": "ギクスクトリデーブ",
+		"en_text": "Gix Khutriv",
+		"jp_explain": "臨界寸前まで圧縮したフォトンと\n同調した飛翔剣。装者の精神とリンクし\n不屈の闘志が威力を跳ね上げる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701870000",
+		"jp_text": "カセントリハルカ",
+		"en_text": "Kasentori Haruka",
+		"jp_explain": "カトリが設計に関わった特別な飛翔剣。\nただし彼女はデザインをしたのみで\n性能に関してはサガが調整を行った。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701920000",
+		"jp_text": "インヴェイドセイヴァー",
+		"en_text": "Invade Savior",
+		"jp_explain": "【深遠なる闇】より生まれし負の\n飛翔剣。古の言霊に魅せられ\n万能だけを渇望する追求者となる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11701930000",
+		"jp_text": "オフスティアセイヴァー",
+		"en_text": "Austere Savior",
+		"jp_explain": "負の力を識り、制することで転化した\n浄化の飛翔剣。その比類なき武勇は\n悪しきを砕き、至高の力となる。",
+		"en_explain": "A Purified Dual Blade.\nIts unparalled prowess crushes evil\nwith its supreme power."
+	},
+	{
+		"assign": "11701970000",
+		"jp_text": "Ｓ．ＣＮマンティス",
+		"en_text": "S.CN Mantis",
+		"jp_explain": "白兵戦に特化して作られた飛翔剣。\n長時間の使用による肉体疲労を\n軽減するため、刃は薄く設計された。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11702080000",
+		"jp_text": "アウラヴォルザーグ",
+		"en_text": "Aura Vulzzarg",
+		"jp_explain": "異界の因子を触媒に生み出された\n漆黒の飛翔剣。装者の覇気に比例して\n二刀の刃は蒼き輝きを増すという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11702140000",
+		"jp_text": "ブレードレボルシオ",
+		"en_text": "Blade Revolucio",
+		"jp_explain": "新開発の演算装置を搭載した飛翔剣。\n装者の思考や戦況を分析することで\n出力を最適に保ち、負荷を軽減する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11702190000",
+		"jp_text": "タイタンブレイザー",
+		"en_text": "Titan Blazer",
+		"jp_explain": "古典的技術が用いられた超重量飛翔剣。\n連続してフォトンを解き放っても支障を\nきたさない頑丈なフレームが採用された。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11702240000",
+		"jp_text": "レイＤブレード",
+		"en_text": "Ray Dual Blade",
+		"jp_explain": "次世代の主力として開発された飛翔剣。\n基礎モデルの直系の後継機であり\n出力、安定性共に高いスペックを誇る。",
+		"en_explain": "Dual Blades developed as the latest\nmodel, boasting high photon stability\nwith next-gen specifications."
+	},
+	{
+		"assign": "11702320000",
+		"jp_text": "デュアルブレード-NT",
+		"en_text": "Dual Blade-NT",
+		"jp_explain": "アークスで正式採用されている飛翔剣。\nシンプルな構造で非常に軽量な\n初心者に扱いやすい入門用モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11702330000",
+		"jp_text": "アルバＤブレード-NT",
+		"en_text": "Alva Dual Blade-NT",
+		"jp_explain": "アークスで使用される改良型飛翔剣。\n基礎モデルと構造は同じだが\n大型化した入門モデルの第二段階。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11702340000",
+		"jp_text": "ヴィタＤブレード-NT",
+		"en_text": "Vita Dual Blade-NT",
+		"jp_explain": "基礎モデルに改良を加えた飛翔剣。\n基礎モデルから倍近いサイズアップが\n施された入門モデルの最終段階。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11702350000",
+		"jp_text": "デュアルサーベル-NT",
+		"en_text": "Dual Saber-NT",
+		"jp_explain": "突起が付いた護拳が特徴的な飛翔剣。\n柄の部分で出力の調整がされており\n大型だが扱い易い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11702360000",
+		"jp_text": "アルバＤサーベル-NT",
+		"en_text": "Alva Dual Saber-NT",
+		"jp_explain": "護拳が特徴的な飛翔剣の改良型。\n柄部分が大きく改良され、重量は\nあるものの高い出力を誇る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11702370000",
+		"jp_text": "ヴィタＤサーベル-NT",
+		"en_text": "Vita Dual Saber-NT",
+		"jp_explain": "護拳が特徴的な飛翔剣の最終形。\n限界まで大型化したことで\nこれまで以上の破壊力を実現した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11702380000",
+		"jp_text": "デュアルスティレット-NT",
+		"en_text": "Dual Stiletto-NT",
+		"jp_explain": "非常に細身で軽量な飛翔剣。\nリミッターによって出力が制限され\n扱い易さが優先されている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11702390000",
+		"jp_text": "アルバＤスティレット-NT",
+		"en_text": "Alva D. Stiletto-NT",
+		"jp_explain": "非常に細身で軽量な飛翔剣の改良型。\nリミッターを緩め、出力を向上させた。\nフォルムも若干変化している。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11702400000",
+		"jp_text": "ヴィタＤスティレット-NT",
+		"en_text": "Vita D. Stiletto-NT",
+		"jp_explain": "非常に細身で軽量な飛翔剣の改良型。\nリミッターを解放し内蔵するフォトンを\n解き放った熟練者向けモデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11702410000",
+		"jp_text": "サーブライト-NT",
+		"en_text": "Sarblight-NT",
+		"jp_explain": "巨大なフォトン刃を持つ飛翔剣。\n柄の箇所を覆うように複数の刃があり\n敵に効果的な傷を与えることが可能。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11702420000",
+		"jp_text": "アデレード-NT",
+		"en_text": "Adelaide-NT",
+		"jp_explain": "製造が困難で流通量が少ない飛翔剣。\n特徴的な波打った刀身は、傷口を\n広げる効果があり、殺傷性が高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11702430000",
+		"jp_text": "ディオアデレード-NT",
+		"en_text": "Dio Adelaide-NT",
+		"jp_explain": "流通量が少ない飛翔剣の最終形。\n摩擦による抵抗を減らすため、加工され\n切断力が大幅に向上した次世代モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11702440000",
+		"jp_text": "ニレンアギト-NT",
+		"en_text": "Niren Agito-NT",
+		"jp_explain": "オロチアギト誕生後に打たれた飛翔剣。\n数多く打たれた習作のうちの二振りだが\n刀身は錆で覆われてしまっている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11702450000",
+		"jp_text": "ノクスディナス-NT",
+		"en_text": "Nox Dinas-NT",
+		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き飛翔剣。\n装者も恐怖を抱くほどの切れ味を持つ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11702460000",
+		"jp_text": "宵Ver2",
+		"en_text": "Yoi Ver2",
+		"jp_explain": "流線形の美しい刃を持つ飛翔剣。\n装飾的な色合いと雅やかで上品な姿に\n魅了される者は多い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11702560000",
+		"jp_text": "シエルリシェル-NT",
+		"en_text": "Ciel Rishell-NT",
+		"jp_explain": "携帯性に優れた格納機構を持つ飛翔剣。\nブレードの正面に薄いフォトンの膜を\n張ることで攻撃性能を底上げした。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11702570000",
+		"jp_text": "ソルリシェル-NT",
+		"en_text": "Sol Rishell-NT",
+		"jp_explain": "携帯性に優れた格納機構を持つ飛翔剣。\n小型ブレードを伸縮させることで\n大型ブレードへ格納することが可能。",
+		"en_explain": ""
+	}
 ]
