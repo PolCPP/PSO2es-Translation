@@ -1,6 +1,7 @@
 language: python
 
-sudo: false
+dist: trusty
+sudo: required
 
 addons:
   apt:
