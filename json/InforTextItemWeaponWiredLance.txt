@@ -1,968 +1,968 @@
 [
-  {
-    "assign": "12000000",
-    "jp_text": "ワイヤードランス",
-    "en_text": "Wired Lance",
-    "jp_explain": "アークスで正式採用されている自在槍。\nワイヤーでつながれた刃を自在に操作し\n多様な距離での交戦を可能としている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "12010000",
-    "jp_text": "アルバランス",
-    "en_text": "Alva Lance",
-    "jp_explain": "アークスで使用される改良型自在槍。\n刃の部分のみの出力効率化を行い\nコストの変動なく威力を増強させた。",
-    "en_explain": ""
-  },
-  {
-    "assign": "12020000",
-    "jp_text": "ヴィタランス",
-    "en_text": "Vita Lance",
-    "jp_explain": "基礎モデルに改良を加えた自在槍。\nフォトン固着率の改良と性能向上を両立\n多くのアークスの要望に応えたモデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "12030000",
-    "jp_text": "ワイヤードゲイン",
-    "en_text": "Wired Gain",
-    "jp_explain": "アークスで正式採用されている自在槍。\nワイヤーでつながれた刃の操作性と\n攻撃力を向上させた中型モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "12040000",
-    "jp_text": "アルバゲイン",
-    "en_text": "Alva Gain",
-    "jp_explain": "アークスで使用される改良型自在槍。\n刃の「返し」が大きくなったことで\nより大きなダメージを標的に与える。",
-    "en_explain": ""
-  },
-  {
-    "assign": "12050000",
-    "jp_text": "ヴィタゲイン",
-    "en_text": "Vita Gain",
-    "jp_explain": "基礎モデルに改良を加えた自在槍。\n投げやすさにこだわりながら、さらなる\n大型化により攻撃力向上を実現した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "12060000",
-    "jp_text": "ワイヤードオーバー",
-    "en_text": "Wired Over",
-    "jp_explain": "アークスで正式採用されている自在槍。\nワイヤーでつながれた刃を伸張し\n命中精度を向上させた中型モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "12070000",
-    "jp_text": "アルバオーバー",
-    "en_text": "Alva Over",
-    "jp_explain": "アークスで使用される改良型自在槍。\n刃をさらに伸張し、槍としての\n攻撃性能を向上させたモデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "12080000",
-    "jp_text": "ヴィタオーバー",
-    "en_text": "Vita Over",
-    "jp_explain": "基礎モデルに改良を加えた自在槍。\n刃を極限まで伸張し、標的を容易に\n深くとらえる操作性を実現した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "12090000",
-    "jp_text": "ワイヤードトライ",
-    "en_text": "Wired Tri",
-    "jp_explain": "鋭角シルエットにこだわった自在槍。\n遠距離攻撃に適した抵抗の少ない形状で\n操作性の向上を目指した高級モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120100000",
-    "jp_text": "アルバトライ",
-    "en_text": "Alva Tri",
-    "jp_explain": "高級モデル自在槍の改良型。\n抵抗の少ない形状そのままに大型化し\nさらなる攻撃力の向上を実現した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120110000",
-    "jp_text": "ヴィタトライ",
-    "en_text": "Vita Tri",
-    "jp_explain": "高級モデル自在槍の超大型バージョン。\n全体的に性能も向上しているが\n量産が困難なレアモデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120120000",
-    "jp_text": "ワイヤードアーチ",
-    "en_text": "Wired Arch",
-    "jp_explain": "伸張性能を向上させた自在槍。\n独特のアーチ形状でなめらかな軌跡を\n描きながら標的を捉える。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120130000",
-    "jp_text": "アルバアーチ",
-    "en_text": "Alva Arch",
-    "jp_explain": "伸張性能を向上させた自在槍の改良型。\n先端部の突起が重心を安定させ\n基礎モデルより確実に標的を捉える。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120140000",
-    "jp_text": "ヴィタアーチ",
-    "en_text": "Vita Arch",
-    "jp_explain": "アーチ形状の自在槍の大型モデル。\n弧に並べられた突起により、従来の\n安定した伸張性能を確保した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120150000",
-    "jp_text": "クシャネビュラ",
-    "en_text": "Kuscha Nebula",
-    "jp_explain": "二叉に分けられた刃が特徴的な自在槍。\n既定のフォルムにとらわれない\n威力と効率重視の一つの答えである。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120160000",
-    "jp_text": "ディオクシャネビュラ",
-    "en_text": "Dio Kuscha Nebula",
-    "jp_explain": "二叉に分けられた刃が特徴的な自在槍。\n扱いやすさを度外視し、性能強化に\nすべてのリソースをつぎ込んだ改良品。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120170000",
-    "jp_text": "ラムダクシャネビュラ",
-    "en_text": "Lambda Kuscha Nebula",
-    "jp_explain": "二叉に分けられた刃が特徴的な自在槍。\n全体の出力を調整し、誰でも扱えるよう\n安定性を高めた改良品。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120180000",
-    "jp_text": "ラムダジャグリアス",
-    "en_text": "Lambda Jagriath",
-    "jp_explain": "大型自在槍の量産用試作品。\n従来品の課題だった扱いにくさを克服し\n投擲が容易になった。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120190000",
-    "jp_text": "ディオジャグリアス",
-    "en_text": "Dio Jagriath",
-    "jp_explain": "大型自在槍の高機能バージョン。\n扱いやすさよりも破壊力を重視し\n攻撃性能の向上を追求した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120200000",
-    "jp_text": "ジャグリアス",
-    "en_text": "Jagriath",
-    "jp_explain": "従来の概念を覆した大型の自在槍。\n近距離攻撃用に開発された装着武器を\n投擲武器として転用している。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120210000",
-    "jp_text": "ハイペリオン",
-    "en_text": "Hyperion",
-    "jp_explain": "装飾様式の洗練された美しい自在槍。\n振るうたびに、その華美な装飾が\n相手の目を惹きつける。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120220000",
-    "jp_text": "ディオハイペリオン",
-    "en_text": "Dio Hyperion",
-    "jp_explain": "装飾様式の洗練された美しい自在槍。\n美しさを損なうことなく、特化性能を\n伸ばした、改良作。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120230000",
-    "jp_text": "ラムダハイペリオン",
-    "en_text": "Lambda Hyperion",
-    "jp_explain": "装飾様式の洗練された美しい自在槍。\n万人が扱えるように改良されている。\n全クラス装備可能な、特殊な武器。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120240000",
-    "jp_text": "ベルカード",
-    "en_text": "Belcard",
-    "jp_explain": "巨大で強大な穂先がうりの自在槍。\n無骨な見た目からは想像できないほどの\n素早い伸縮を見せる名作。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120250000",
-    "jp_text": "ラムダベルカード",
-    "en_text": "Lambda Belcard",
-    "jp_explain": "巨大で強大な穂先がうりの自在槍。\n特徴はそのままに、全体的なバランスを\n見直し、改良を加えた一品。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120260000",
-    "jp_text": "ディオベルカード",
-    "en_text": "Dio Belcard",
-    "jp_explain": "巨大で強大な穂先がうりの自在槍。\n改良に改良を加え、最早別物と言える\n性能を誇る、ひとつの完成形。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120270000",
-    "jp_text": "デイライトスカー",
-    "en_text": "Daylight Scar",
-    "jp_explain": "六爪の刃で全てを切り裂く自在槍。\n交差するフォトンの銀光こそ\n犠牲者が最後に見る光景となる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120280000",
-    "jp_text": "ファルクロー",
-    "en_text": "Falclaw",
-    "jp_explain": "伝説のニューマンが持っていた自在槍。\n本物かどうかは不明だが\n伝説を生むだけの性能を誇る。",
-    "en_explain": "Wired Lances used by a\nLegendary Newman. Unclear if the real\nthing, it's performance is legendary."
-  },
-  {
-    "assign": "120290000",
-    "jp_text": "ギガススピナー",
-    "en_text": "Gigas Spinner",
-    "jp_explain": "巨大な鉄球を先端に結びつけた自在槍。\n鋭いトゲとその重量にものを言わせた\n一撃は、どんな装甲をも破砕する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120300000",
-    "jp_text": "ディアボリックガント",
-    "en_text": "Diabolic Gauntlet",
-    "jp_explain": "地獄に住む悪魔の宿りし自在槍。\n切り裂かれた相手は、死の間際に\n快感すら覚えるという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120310000",
-    "jp_text": "アサシンクロー",
-    "en_text": "Assassin Claw",
-    "jp_explain": "ある暗殺者が愛用していた自在槍。\n無拍子で繰り出される攻撃は\n瞬時に相手の命を絶つ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120320000",
-    "jp_text": "ネイクロー",
-    "en_text": "Neiclaw",
-    "jp_explain": "伝説のニューマンが愛用していたと\n言われている自在槍。\n強力な残留思念が残されている。",
-    "en_explain": "A Legendary Newman's\nfavorite Wired Lance. It's said\nthat it harbors residual memories when touched."
-  },
-  {
-    "assign": "120330000",
-    "jp_text": "ロケットパンチ",
-    "en_text": "Rocket Punch",
-    "jp_explain": "全クラス装備可能な、特殊な自在槍。\n燃える血潮と使命を胸に、巨大な敵に\n立ち向かえ！",
-    "en_explain": ""
-  },
-  {
-    "assign": "120340000",
-    "jp_text": "ファティウーマ",
-    "en_text": "Phyteuma",
-    "jp_explain": "対象を切り刻むために作られた自在槍。\nその忌まわしき刃を振るう者は\n畏敬をこめて、死神と呼ばれる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120350000",
-    "jp_text": "グッダスケラ",
-    "en_text": "Gudda Skela",
-    "jp_explain": "大型のリアクターを搭載した自在槍。\n採算度外視のカスタムモデルであり\n特徴的な軌跡を残す。",
-    "en_explain": "A Wired Lance with a\nlarge-scale reactor. It leaves behind\na custom pattern on its victims."
-  },
-  {
-    "assign": "120360000",
-    "jp_text": "ベルクヴェルカー",
-    "en_text": "Belk Welker",
-    "jp_explain": "地下坑道に存在していた機器の部品を\n用いて作られた自在槍。一つ一つの\nパーツの強度が高く、性能も相応。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120370000",
-    "jp_text": "ブルートギフト",
-    "en_text": "Brute Gift",
-    "jp_explain": "禍々しいフォルムが特徴の自在槍。\n複雑な形をしたフォトンの刃は\n触れた者に無残な傷を残す。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120390000",
-    "jp_text": "カールドランサー",
-    "en_text": "Curldranser",
-    "jp_explain": "キャタドランの強靱な鱗がそのまま\n刃として用いられた自在槍。\n非常に頑丈で、切れ味が落ちない。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120400000",
-    "jp_text": "カタドランサー",
-    "en_text": "Catadranser",
-    "jp_explain": "カタドラールの堅牢な鱗がそのまま\n刃に用いられた自在槍。\n切れずとも、打ち負けることはない。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120410000",
-    "jp_text": "マルモスファング",
-    "en_text": "Malmoth Fang",
-    "jp_explain": "ナベリウス原生種マルモスの牙を\n自在槍の穂先に転用した特異な武器。\nそれを振るう姿の迫力はすさまじい。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120420000",
-    "jp_text": "ダルマルファング",
-    "en_text": "Dal Mal Fang",
-    "jp_explain": "ダル・マルリの牙を自在槍の穂先に\n転用した特異な武器。\n振るう姿は原生種を彷彿とさせる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120430000",
-    "jp_text": "ラズライル",
-    "en_text": "Razrail",
-    "jp_explain": "クォーツ・ドラゴンの鋭角を利用して\n作られた巨大な自在槍。綺麗に輝く\nその刃は触れたものを容易に斬り刻む。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120440000",
-    "jp_text": "クリスライル",
-    "en_text": "Crysrail",
-    "jp_explain": "クリス・ドラールの鋭衝角を利用して\n作られた巨大な自在槍。壮麗に輝く\nその刃は触れた者を微塵に斬り刻む。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120450000",
-    "jp_text": "ブレイド・ボール",
-    "en_text": "Blade Ball",
-    "jp_explain": "遊戯具を改造してしまった自在槍。\n遊びのように振るうと大怪我必至。\n全クラス装備可能な、特殊な武器。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120480000",
-    "jp_text": "ロケットパンチ／ナハト",
-    "en_text": "Rocket Punch / Nacht",
-    "jp_explain": "闇夜の色を抱く自在槍。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120490000",
-    "jp_text": "ネイクロー／ナハト",
-    "en_text": "Neiclaw / Nacht",
-    "jp_explain": "闇夜の色を抱く自在槍。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120500000",
-    "jp_text": "タイドヴァルガー",
-    "en_text": "Tide Valger",
-    "jp_explain": "地下坑道に点在していた機械部品を\n用いて作られた自在槍。劣化しにくく\n安定した性能を常時発揮する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120510000",
-    "jp_text": "ロッソヴァルガー",
-    "en_text": "Rosso Welker",
-    "jp_explain": "地下坑道の機械部品を選別加工して\n作られた自在槍。フォトンの伝導率も\n飛躍的に上昇しており、高性能。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120520000",
-    "jp_text": "ブルートカース",
-    "en_text": "Brute Curse",
-    "jp_explain": "おぞましいフォルムが特徴の自在槍。\n網目に組まれたフォトンの刃は\nそれぞれが鋭く研ぎ済まされている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120530000",
-    "jp_text": "ブルートネグロ",
-    "en_text": "Brute Negro",
-    "jp_explain": "忌まわしいフォルムが特徴の自在槍。\n漆黒を帯びた刀身とフォトンの刃は\n振るうたびに呪詛を振りまくという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120540000",
-    "jp_text": "刃鞭パラティーゼル",
-    "en_text": "Whipblade Paratizel",
-    "jp_explain": "心から正しいと思った行動を取った時に\n真の力を発揮するという紅い自在槍。\n希望はすぐそばにあると教えてくれる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120570000",
-    "jp_text": "アーレスランス",
-    "en_text": "Ares Lance",
-    "jp_explain": "一角獣の幻獣の力を宿した自在槍。\n装者にフォトンブラストの効果で\n貫く力を与え、敵を瞬時に切り刻む。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120580000",
-    "jp_text": "嵐魔",
-    "en_text": "Ranma",
-    "jp_explain": "舞い散る枯葉の如く、音もなく\nその刃を敵へと到達させる自在槍。\n触れる者を嵐のように斬り刻む。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120590000",
-    "jp_text": "ヘレティックエンド",
-    "en_text": "Heretic End",
-    "jp_explain": "悪魔のかぎ爪のようなおぞましい\nフォルムを持つ自在槍。これにより\nついた傷は生涯治らないとされる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120600000",
-    "jp_text": "ヴァイスビュート",
-    "en_text": "Weisee Butte",
-    "jp_explain": "伸縮自在の金属で作られた自在槍。\n飾り付けられたような外装からは\n想像し得ないほどの攻撃力を持つ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120610000",
-    "jp_text": "エナジーヒューザー",
-    "en_text": "Energy Huezer",
-    "jp_explain": "六芒均衡ヒューイが企画し、開発した\n燃え盛る自在槍。破拳ワルフラーンを\n参考にデザインされたはずだった。",
-    "en_explain": "Wired Lances based off\nof the Council of Six\nHuey's Genesis Weapon Wolfram."
-  },
-  {
-    "assign": "120620000",
-    "jp_text": "グワナーダランス",
-    "en_text": "Gwanahda Lance",
-    "jp_explain": "グワナーダの触手で作られた自在槍。\n柔軟性と強度に優れ、外見以上の\n性能を発揮する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120630000",
-    "jp_text": "Ｇネロランス",
-    "en_text": "G Nero Lance",
-    "jp_explain": "グワナーダ・ネロの触手が用いられた\n自在槍。安定度が高く、製作者の\n想像を超えた性能を発揮している。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120650000",
-    "jp_text": "イミディエイトフェザー",
-    "en_text": "Immediate Feather",
-    "jp_explain": "高価な軽量金属羽を贅沢にあしらった\n限定品の自在槍。翼を広げて飛ぶように\n美しい攻撃をくり出す。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120670000",
-    "jp_text": "フルキュリオ",
-    "en_text": "Full Curio",
-    "jp_explain": "新発想で左右に大きく広がる変形機構を\n採用した自在槍。標的への命中精度と\n破壊力が従来品より飛躍的に向上した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120690000",
-    "jp_text": "グロリアスウィング",
-    "en_text": "Glorious Wing",
-    "jp_explain": "圧倒的な破壊力を持つ流麗なデザインの\n自在槍。敵を討つ際に放たれるサクラの\n花弁に似た煌きは息を呑むほどに美しい。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120730000",
-    "jp_text": "ステルスウェポン：ＷＬ",
-    "en_text": "Stealth Weapon: WL",
-    "jp_explain": "認識不能な武器。\n形状はワイヤードランス型。",
-    "en_explain": "Unknown Weapon.\nSeems to be of a Wired Lance-type."
-  },
-  {
-    "assign": "120740000",
-    "jp_text": "赤のワイヤードランス",
-    "en_text": "Red Wired Lance",
-    "jp_explain": "試験的にカラーリングを\nシンボリックにした自在槍。\n目映い赤色は必然的に目を引く。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120750000",
-    "jp_text": "青のワイヤードランス",
-    "en_text": "Blue Wired Lance",
-    "jp_explain": "試験的にカラーリングを\nシンボリックにした自在槍。\n目映い青色は必然的に目を引く。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120780000",
-    "jp_text": "バードケージ",
-    "en_text": "Bird Cage",
-    "jp_explain": "愛鳥家が愛用する自在槍。飼っている\n鳥を連れ歩きながら戦闘参加できる\n利便性が受けて、ブームになっている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120840000",
-    "jp_text": "ゴーストハット",
-    "en_text": "Ghost Hat",
-    "jp_explain": "有名な霊媒師が秘蔵する古美術の\n自在槍。見る者を恐怖させる\nちょっと乱暴なゴーストが飛び出す。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120850000",
-    "jp_text": "ファントムハット",
-    "en_text": "Phantom Hat",
-    "jp_explain": "伝説の魔術師が封印していた、世にも\n怖ろしい自在槍。邪悪なファントムが\n執拗に攻めてきて相手を逃さない。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120930000",
-    "jp_text": "ヤサカニノマガタマ",
-    "en_text": "Yasakani no Magatama",
-    "jp_explain": "いにしえより伝わる由緒正しき至宝を\n模して作られた自在槍。その名に恥じぬ\n圧倒的な性能を誇る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120940000",
-    "jp_text": "ククノチノマガタマ",
-    "en_text": "Kukunochi no Magatama",
-    "jp_explain": "いにしえより伝わる至宝を模倣した\n自在槍にさらなる改良を加えたもの。\n透き通るような色合いが特徴的。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120960000",
-    "jp_text": "セイントラスター",
-    "en_text": "Saint Luster",
-    "jp_explain": "かつて聖職者が使用したという自在槍。\n重量感ある安定した槍先を制御するには\n熟練を要するが、攻撃に優れている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120970000",
-    "jp_text": "セイントグロス",
-    "en_text": "Saint Gloss",
-    "jp_explain": "聖職者が使用した自在槍の軽量モデル。\n広く一般向けの使用を想定した改良が\n施されたが、攻撃性能は高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "120990000",
-    "jp_text": "リリカ用イデアルシザーズ",
-    "en_text": "",
-    "jp_explain": "リリカ用イデアルシザーズ",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201020000",
-    "jp_text": "ファティウーマ／リヒト",
-    "en_text": "Phyteuma / Licht",
-    "jp_explain": "白夜の色を抱く自在槍。\n出自の仔細は不明だが、性能は高く\n全クラス装備可能な、特殊な武器。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201030000",
-    "jp_text": "シェルオプス",
-    "en_text": "Shell Opus",
-    "jp_explain": "惑星ウォパルで調達可能な物資のみで\n製造された自在槍。天然の硬質素材の\n特性と優位性を最大限に引き出した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201040000",
-    "jp_text": "シェルガイア",
-    "en_text": "Shell Gaia",
-    "jp_explain": "惑星ウォパルで調達可能な物資のみで\n製造された自在槍。フォトンに反応する\n発光物質を配合し独特な色合いを再現。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201050000",
-    "jp_text": "シェルクロノス",
-    "en_text": "Shell Chronos",
-    "jp_explain": "惑星ウォパルで調達可能な物資のみで\n製造された自在槍。硬度の高い赤色種を\n採用し、全体の強度を増した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201060000",
-    "jp_text": "マークキュリオ",
-    "en_text": "Mark Curio",
-    "jp_explain": "変形機構を調整した自在槍。初心者に\nありがちなタイミングのズレを自動的に\n調整し、効果的な攻撃をアシストする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201080000",
-    "jp_text": "ウィールローレン",
-    "en_text": "Wheel Rolen",
-    "jp_explain": "蒸気エネルギーで効能増幅した自在槍。\n使用者の負担を軽減しつつ攻撃力を増強\nさせる機能的な強化機構を持つ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201100000",
-    "jp_text": "バイオレードル",
-    "en_text": "Bio Radle",
-    "jp_explain": "最先端の生体工学を応用し開発された\n自在槍。膨張フォトンの反収縮作用で\n高速伸縮し、高い攻撃効率を誇る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201110000",
-    "jp_text": "ライブレードル",
-    "en_text": "Live Radle",
-    "jp_explain": "最先端の生体工学を応用し開発された\n自在槍。高純度培養液が固形化と液化を\n瞬時にくり返し高速攻撃を可能にする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201150000",
-    "jp_text": "ダールワイグル",
-    "en_text": "Darl Weigle",
-    "jp_explain": "ダーカーが使用する装備を解析し\nアークス仕様に再設計された自在槍。\n抜群の張力で標的を翻弄する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201160000",
-    "jp_text": "クラテルネイルス",
-    "en_text": "Crater Nails",
-    "jp_explain": "局地戦闘用に気密性を高めた防護服との\n相性がいい自在槍。鋭利な３本の鈎爪が\nくり出す攻撃で足元の不利を補う。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201170000",
-    "jp_text": "ラミアスロイアー",
-    "en_text": "Lamia Slawyer",
-    "jp_explain": "鋭角的な装飾が特徴の自在槍。\nブレードを重ね、鋭利なシルエットで\n周囲を威圧する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201180000",
-    "jp_text": "ヒュリオランサー",
-    "en_text": "Hurio Lancer",
-    "jp_explain": "鋭く研ぎ澄まされたフォルムを追求する\nキャストに人気の自在槍。冷たく荘厳な\n色合いがクールな戦闘シーンを演出。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201220000",
-    "jp_text": "クラテルブロウス",
-    "en_text": "Crater Blows",
-    "jp_explain": "局地戦闘用に気密性を高めた防護服との\n相性がいい自在槍。自然背景に溶け込む\n鮮やかな色合いで敵の目を撹乱する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201240000",
-    "jp_text": "ラミアスラウナー",
-    "en_text": "Lamia Slauner",
-    "jp_explain": "鋭角的な装飾が特徴の自在槍。\n柔軟なテールワイヤーを採用し\n多彩な攻撃が可能。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201270000",
-    "jp_text": "ヒュリオランシヴ",
-    "en_text": "Hurio Lanshiv",
-    "jp_explain": "鋭く研ぎ澄まされたフォルムを追求する\nキャストに人気の自在槍。強化された\n爪を安定性の高い主翼が確実に支える。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201280000",
-    "jp_text": "グラスクライン",
-    "en_text": "Glass Klein",
-    "jp_explain": "シンプルな装飾の六枚刃を持つ自在槍。\nフォトンを伝導する鉱物を装飾に使用し\nデザイン性と実用性を両立させた。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201310000",
-    "jp_text": "ファーレントリッガー",
-    "en_text": "Fahrentrigger",
-    "jp_explain": "大勢のためでなく、ただひとりのために\n刀匠ジグが創り上げた自在槍。\nそれは、彼の情熱の結晶。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201340000",
-    "jp_text": "ビブラスランス",
-    "en_text": "Vibrace Lance",
-    "jp_explain": "ダーク・ビブラスの爪を加工して\n作られた自在槍。鋭利な爪は\n頑丈な外骨格と同様の強度を誇る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201370000",
-    "jp_text": "リムリーゼ",
-    "en_text": "Rimliese",
-    "jp_explain": "媚びない美しさが魅力的な自在槍。\nバラを模して造られたデザインは、\n華麗で美しい。ある意味、両手に花。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201410000",
-    "jp_text": "アンジャクゥーリ",
-    "en_text": "Anjakuhri",
-    "jp_explain": "黒の民アンジャドゥリリの輪を加工した\n自在槍。巨大な輪は鬼火を灯しながら\n回転し、対象を追跡する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201430000",
-    "jp_text": "ネメシスチェイン",
-    "en_text": "Nemesis Chain",
-    "jp_explain": "古の時代に封印された聖なる自在槍。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201440000",
-    "jp_text": "スレイヴチェイン",
-    "en_text": "Slave Chain",
-    "jp_explain": "古の時代に封印された邪なる自在槍。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201450000",
-    "jp_text": "ネプトアンカー",
-    "en_text": "Nepto Anchor",
-    "jp_explain": "惑星ウォパルの海王種が持っていた錨を\n加工し作りなおした自在槍。非常に\n頑強であり、優れた切れ味を持つ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201470000",
-    "jp_text": "風霞",
-    "en_text": "Kaze Kasumi",
-    "jp_explain": "鮮やかな紫紺色が目を引く自在槍。\n舞い散る花びらと共に、美しい\n桜色の刃が容赦なく標的を仕留める。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201480000",
-    "jp_text": "イデアルシザーズ",
-    "en_text": "Ideal Scissors",
-    "jp_explain": "新開発のフォトンジェネレーターを\n搭載した自在槍。発せられる\nフォトンの輝きは次代の証とされる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201520000",
-    "jp_text": "蛇腹グリゴロス",
-    "en_text": "Serpent Grigoros",
-    "jp_explain": "身を伸ばし、素早く敵の急所に致命傷を\n与える特殊な自在槍。高い伸縮性能を\n誇り、瞬時にその刃を敵へ到達させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201530000",
-    "jp_text": "レザルコレト",
-    "en_text": "Rezar Coleto",
-    "jp_explain": "凶暴な幻獣を連想させる自在槍。\nブレードの返しの部分が\n対象により大きなダメージを与える。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201560000",
-    "jp_text": "禍矛ユクカ",
-    "en_text": "Evil Yukuka",
-    "jp_explain": "惑星ハルコタンで発掘された自在槍。\n勇ましい角を模した頑強な刃は\n『禍津』の影響を受けてしまっている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201610000",
-    "jp_text": "サギタレオーネ",
-    "en_text": "Sagita Leone",
-    "jp_explain": "ファルケ・レオーネの残骸を加工し\n作られた自在槍。射出時はプラズマを\nまとったレーザーブレードを形成する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201630000",
-    "jp_text": "エルデトロス",
-    "en_text": "Eldetross",
-    "jp_explain": "大気の力を宿すといわれる自在槍。\n刃の中心にあるクリスタルが力を司り\n風雷をまとわせ、敵を両断するという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201640000",
-    "jp_text": "ケイモストロス",
-    "en_text": "Keimostross",
-    "jp_explain": "大気の力を宿すといわれる自在槍。\n薙ぎ切ることに適した刃に\n調整されており、重い一撃を放てる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201740000",
-    "jp_text": "ノクスジラーク",
-    "en_text": "Nox Jiraku",
-    "jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き自在槍。装者も恐怖を\n抱くほどの強大な力で敵を斬り伏せる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201790000",
-    "jp_text": "ギクスギルミナド",
-    "en_text": "Gix Gilminadu",
-    "jp_explain": "臨界寸前まで圧縮したフォトンと\n同調した自在槍。装者の精神とリンクし\n冷静であるほど、刃は切れ味を増す。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201820000",
-    "jp_text": "ラッピーフウセン",
-    "en_text": "Rappy Balloon",
-    "jp_explain": "ラッピー好きのアークスにより作られた\n自在槍。ラッピーへの並々ならぬ愛情が\n伝わってくる力作。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201860000",
-    "jp_text": "インヴェイドウィング",
-    "en_text": "Invade Wing",
-    "jp_explain": "【深遠なる闇】より生まれし負の\n自在槍。装者は比類なき力を手にするが\n戦いと殲滅だけを渇望するようになる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201870000",
-    "jp_text": "オフスティアウィング",
-    "en_text": "Austere Wing",
-    "jp_explain": "負の力を識り、制することで転化した\n浄化の自在槍。もたらされた強大な力は\n弱きを救い、邪なる者を仕留める。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201880000",
-    "jp_text": "セイガーシールド",
-    "en_text": "Seiga Shield",
-    "jp_explain": "世界征服を企む悪の組織と戦うために\n作られた自在槍。盾の先端部を飛ばす\nセイガーシュートは非常に強力！",
-    "en_explain": ""
-  },
-  {
-    "assign": "1201970000",
-    "jp_text": "ランスレボルシオ",
-    "en_text": "Lance Revolucio",
-    "jp_explain": "新開発の演算装置を搭載した自在槍。\n装者の思考や戦況を分析することで\n出力を最適に保ち、負荷を軽減する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202000000",
-    "jp_text": "リグガイラー",
-    "en_text": "Rig Gaira",
-    "jp_explain": "伝説の生物を機械的に再現した自在槍。\n強靭な顎を模して作られた刃は一度\n喰らいつけば確実に対象を噛み砕く。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202020000",
-    "jp_text": "ジグマガイラー",
-    "en_text": "Sigma Gaira",
-    "jp_explain": "伝説の生物を機械的に再現した自在槍。\n鍛えられた牙はかすめるだけでも傷を\n負ってしまうほどの鋭さを誇る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202030000",
-    "jp_text": "アウラデルウォッグ",
-    "en_text": "Aura Dellwogg",
-    "jp_explain": "異界の因子を触媒に生み出された\n漆黒の自在槍。装者の生命力に比例して\n二刀の鞭刃は蒼き輝きを増すという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202080000",
-    "jp_text": "レッツゴーシャイニー",
-    "en_text": "Let's Go Shiny",
-    "jp_explain": "ロープがついた浮き輪の自在槍。\nエンペ・ラッピー柄の高級浮き輪。\n強化繊維が使用されているため超硬い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202100000",
-    "jp_text": "フロウレイザー",
-    "en_text": "Flow Razor",
-    "jp_explain": "￥サラ新コスＷＲＣＶ１",
-    "en_explain": "￥Sara's New KOS WRCV1."
-  },
-  {
-    "assign": "1202220000",
-    "jp_text": "レイランス",
-    "en_text": "Ray Lance",
-    "jp_explain": "次世代の主力として開発された自在槍。\n基礎モデルの直系の後継機であり\n出力、安定性共に高いスペックを誇る。",
-    "en_explain": "A Wired Lance developed as the latest\nmodel, boasting high photon stability\nwith next-gen specifications."
-  },
-  {
-    "assign": "1202240000",
-    "jp_text": "レイニールオービット",
-    "en_text": "Reinier Orbit",
-    "jp_explain": "新開発のフォトンリング機構を搭載した\n自在槍。展開された部品が合体し\n闇を穿つ閃光の刃へと姿を変える。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202270000",
-    "jp_text": "ワイヤードランス-NT",
-    "en_text": "Wired Lance-NT",
-    "jp_explain": "アークスで正式採用されている自在槍。\nワイヤーでつながれた刃を自在に操作し\n多様な距離での交戦を可能としている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202280000",
-    "jp_text": "アルバランス-NT",
-    "en_text": "Alva Lance-NT",
-    "jp_explain": "アークスで使用される改良型自在槍。\n刃の部分のみの出力効率化を行い\nコストの変動なく威力を増強させた。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202290000",
-    "jp_text": "ヴィタランス-NT",
-    "en_text": "Vita Lance-NT",
-    "jp_explain": "基礎モデルに改良を加えた自在槍。\nフォトン固着率の改良と性能向上を両立\n多くのアークスの要望に応えたモデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202300000",
-    "jp_text": "ワイヤードトライ-NT",
-    "en_text": "Wired Tri-NT",
-    "jp_explain": "鋭角シルエットにこだわった自在槍。\n遠距離攻撃に適した抵抗の少ない形状で\n操作性の向上を目指した高級モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202310000",
-    "jp_text": "アルバトライ-NT",
-    "en_text": "Alva Tri-NT",
-    "jp_explain": "高級モデル自在槍の改良型。\n抵抗の少ない形状そのままに大型化し\nさらなる攻撃力の向上を実現した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202320000",
-    "jp_text": "ヴィタトライ-NT",
-    "en_text": "Vita Tri-NT",
-    "jp_explain": "高級モデル自在槍の超大型バージョン。\n全体的に性能も向上しているが\n量産が困難なレアモデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202330000",
-    "jp_text": "ワイヤードアーチ-NT",
-    "en_text": "Wired Arch-NT",
-    "jp_explain": "伸張性能を向上させた自在槍。\n独特のアーチ形状でなめらかな軌跡を\n描きながら標的を捉える。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202340000",
-    "jp_text": "アルバアーチ-NT",
-    "en_text": "Alva Arch-NT",
-    "jp_explain": "伸張性能を向上させた自在槍の改良型。\n先端部の突起が重心を安定させ\n基礎モデルより確実に標的を捉える。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202350000",
-    "jp_text": "ヴィタアーチ-NT",
-    "en_text": "Vita Arch-NT",
-    "jp_explain": "アーチ形状の自在槍の大型モデル。\n弧に並べられた突起により、従来の\n安定した伸張性能を確保した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202360000",
-    "jp_text": "クシャネビュラ-NT",
-    "en_text": "Kuscha Nebula-NT",
-    "jp_explain": "二叉に分けられた刃が特徴的な自在槍。\n既定のフォルムにとらわれない\n威力と効率重視の一つの答えである。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202370000",
-    "jp_text": "ジャグリアス-NT",
-    "en_text": "Jagriath-NT",
-    "jp_explain": "従来の概念を覆した大型の自在槍。\n近距離攻撃用に開発された装着武器を\n投擲武器として転用している。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202380000",
-    "jp_text": "ディオジャグリアス-NT",
-    "en_text": "Dio Jagriath-NT",
-    "jp_explain": "大型自在槍の高機能バージョン。\n扱いやすさよりも破壊力を重視し\n攻撃性能の向上を追求した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202390000",
-    "jp_text": "ディアボリックガント-NT",
-    "en_text": "Diabolic Gauntlet-NT",
-    "jp_explain": "地獄に住む悪魔の宿りし自在槍。\n切り裂かれた相手は、死の間際に\n快感すら覚えるという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202400000",
-    "jp_text": "ヘレティックエンド-NT",
-    "en_text": "Heretic End-NT",
-    "jp_explain": "悪魔のかぎ爪のようなおぞましい\nフォルムを持つ自在槍。これにより\nついた傷は生涯治らないとされる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202410000",
-    "jp_text": "グロリアスウィング-NT",
-    "en_text": "Glorious Wing-NT",
-    "jp_explain": "圧倒的な破壊力を持つ流麗なデザインの\n自在槍。敵を討つ際に放たれるサクラの\n花弁に似た煌きは息を呑むほどに美しい。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202420000",
-    "jp_text": "ノクスジラーク-NT",
-    "en_text": "Nox Jiraku-NT",
-    "jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き自在槍。装者も恐怖を\n抱くほどの強大な力で敵を斬り伏せる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202430000",
-    "jp_text": "ラズライルVer2",
-    "en_text": "Razrail Ver2",
-    "jp_explain": "クォーツ・ドラゴンの鋭角を利用して\n作られた巨大な自在槍。綺麗に輝く\nその刃は触れたものを容易に斬り刻む。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202450000",
-    "jp_text": "ボクスドビュール",
-    "en_text": "Box Dobule",
-    "jp_explain": "ボクス・ドゥバルスの鋭爪を加工し\n作られた自在槍。素材の結晶は硬質で\n決して刃こぼれしないといわれるほど。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202490000",
-    "jp_text": "フルキュリオ-NT",
-    "en_text": "Full Curio-NT",
-    "jp_explain": "新発想で左右に大きく広がる変形機構を\n採用した自在槍。標的への命中精度と\n破壊力が従来品より飛躍的に向上した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1202500000",
-    "jp_text": "マークキュリオ-NT",
-    "en_text": "Mark Curio-NT",
-    "jp_explain": "変形機構を調整した自在槍。初心者に\nありがちなタイミングのズレを自動的に\n調整し、効果的な攻撃をアシストする。",
-    "en_explain": ""
-  }
+	{
+		"assign": "12000000",
+		"jp_text": "ワイヤードランス",
+		"en_text": "Wired Lance",
+		"jp_explain": "アークスで正式採用されている自在槍。\nワイヤーでつながれた刃を自在に操作し\n多様な距離での交戦を可能としている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "12010000",
+		"jp_text": "アルバランス",
+		"en_text": "Alva Lance",
+		"jp_explain": "アークスで使用される改良型自在槍。\n刃の部分のみの出力効率化を行い\nコストの変動なく威力を増強させた。",
+		"en_explain": ""
+	},
+	{
+		"assign": "12020000",
+		"jp_text": "ヴィタランス",
+		"en_text": "Vita Lance",
+		"jp_explain": "基礎モデルに改良を加えた自在槍。\nフォトン固着率の改良と性能向上を両立\n多くのアークスの要望に応えたモデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "12030000",
+		"jp_text": "ワイヤードゲイン",
+		"en_text": "Wired Gain",
+		"jp_explain": "アークスで正式採用されている自在槍。\nワイヤーでつながれた刃の操作性と\n攻撃力を向上させた中型モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "12040000",
+		"jp_text": "アルバゲイン",
+		"en_text": "Alva Gain",
+		"jp_explain": "アークスで使用される改良型自在槍。\n刃の「返し」が大きくなったことで\nより大きなダメージを標的に与える。",
+		"en_explain": ""
+	},
+	{
+		"assign": "12050000",
+		"jp_text": "ヴィタゲイン",
+		"en_text": "Vita Gain",
+		"jp_explain": "基礎モデルに改良を加えた自在槍。\n投げやすさにこだわりながら、さらなる\n大型化により攻撃力向上を実現した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "12060000",
+		"jp_text": "ワイヤードオーバー",
+		"en_text": "Wired Over",
+		"jp_explain": "アークスで正式採用されている自在槍。\nワイヤーでつながれた刃を伸張し\n命中精度を向上させた中型モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "12070000",
+		"jp_text": "アルバオーバー",
+		"en_text": "Alva Over",
+		"jp_explain": "アークスで使用される改良型自在槍。\n刃をさらに伸張し、槍としての\n攻撃性能を向上させたモデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "12080000",
+		"jp_text": "ヴィタオーバー",
+		"en_text": "Vita Over",
+		"jp_explain": "基礎モデルに改良を加えた自在槍。\n刃を極限まで伸張し、標的を容易に\n深くとらえる操作性を実現した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "12090000",
+		"jp_text": "ワイヤードトライ",
+		"en_text": "Wired Tri",
+		"jp_explain": "鋭角シルエットにこだわった自在槍。\n遠距離攻撃に適した抵抗の少ない形状で\n操作性の向上を目指した高級モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120100000",
+		"jp_text": "アルバトライ",
+		"en_text": "Alva Tri",
+		"jp_explain": "高級モデル自在槍の改良型。\n抵抗の少ない形状そのままに大型化し\nさらなる攻撃力の向上を実現した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120110000",
+		"jp_text": "ヴィタトライ",
+		"en_text": "Vita Tri",
+		"jp_explain": "高級モデル自在槍の超大型バージョン。\n全体的に性能も向上しているが\n量産が困難なレアモデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120120000",
+		"jp_text": "ワイヤードアーチ",
+		"en_text": "Wired Arch",
+		"jp_explain": "伸張性能を向上させた自在槍。\n独特のアーチ形状でなめらかな軌跡を\n描きながら標的を捉える。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120130000",
+		"jp_text": "アルバアーチ",
+		"en_text": "Alva Arch",
+		"jp_explain": "伸張性能を向上させた自在槍の改良型。\n先端部の突起が重心を安定させ\n基礎モデルより確実に標的を捉える。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120140000",
+		"jp_text": "ヴィタアーチ",
+		"en_text": "Vita Arch",
+		"jp_explain": "アーチ形状の自在槍の大型モデル。\n弧に並べられた突起により、従来の\n安定した伸張性能を確保した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120150000",
+		"jp_text": "クシャネビュラ",
+		"en_text": "Kuscha Nebula",
+		"jp_explain": "二叉に分けられた刃が特徴的な自在槍。\n既定のフォルムにとらわれない\n威力と効率重視の一つの答えである。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120160000",
+		"jp_text": "ディオクシャネビュラ",
+		"en_text": "Dio Kuscha Nebula",
+		"jp_explain": "二叉に分けられた刃が特徴的な自在槍。\n扱いやすさを度外視し、性能強化に\nすべてのリソースをつぎ込んだ改良品。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120170000",
+		"jp_text": "ラムダクシャネビュラ",
+		"en_text": "Lambda Kuscha Nebula",
+		"jp_explain": "二叉に分けられた刃が特徴的な自在槍。\n全体の出力を調整し、誰でも扱えるよう\n安定性を高めた改良品。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120180000",
+		"jp_text": "ラムダジャグリアス",
+		"en_text": "Lambda Jagriath",
+		"jp_explain": "大型自在槍の量産用試作品。\n従来品の課題だった扱いにくさを克服し\n投擲が容易になった。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120190000",
+		"jp_text": "ディオジャグリアス",
+		"en_text": "Dio Jagriath",
+		"jp_explain": "大型自在槍の高機能バージョン。\n扱いやすさよりも破壊力を重視し\n攻撃性能の向上を追求した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120200000",
+		"jp_text": "ジャグリアス",
+		"en_text": "Jagriath",
+		"jp_explain": "従来の概念を覆した大型の自在槍。\n近距離攻撃用に開発された装着武器を\n投擲武器として転用している。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120210000",
+		"jp_text": "ハイペリオン",
+		"en_text": "Hyperion",
+		"jp_explain": "装飾様式の洗練された美しい自在槍。\n振るうたびに、その華美な装飾が\n相手の目を惹きつける。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120220000",
+		"jp_text": "ディオハイペリオン",
+		"en_text": "Dio Hyperion",
+		"jp_explain": "装飾様式の洗練された美しい自在槍。\n美しさを損なうことなく、特化性能を\n伸ばした、改良作。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120230000",
+		"jp_text": "ラムダハイペリオン",
+		"en_text": "Lambda Hyperion",
+		"jp_explain": "装飾様式の洗練された美しい自在槍。\n万人が扱えるように改良されている。\n全クラス装備可能な、特殊な武器。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120240000",
+		"jp_text": "ベルカード",
+		"en_text": "Belcard",
+		"jp_explain": "巨大で強大な穂先がうりの自在槍。\n無骨な見た目からは想像できないほどの\n素早い伸縮を見せる名作。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120250000",
+		"jp_text": "ラムダベルカード",
+		"en_text": "Lambda Belcard",
+		"jp_explain": "巨大で強大な穂先がうりの自在槍。\n特徴はそのままに、全体的なバランスを\n見直し、改良を加えた一品。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120260000",
+		"jp_text": "ディオベルカード",
+		"en_text": "Dio Belcard",
+		"jp_explain": "巨大で強大な穂先がうりの自在槍。\n改良に改良を加え、最早別物と言える\n性能を誇る、ひとつの完成形。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120270000",
+		"jp_text": "デイライトスカー",
+		"en_text": "Daylight Scar",
+		"jp_explain": "六爪の刃で全てを切り裂く自在槍。\n交差するフォトンの銀光こそ\n犠牲者が最後に見る光景となる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120280000",
+		"jp_text": "ファルクロー",
+		"en_text": "Falclaw",
+		"jp_explain": "伝説のニューマンが持っていた自在槍。\n本物かどうかは不明だが\n伝説を生むだけの性能を誇る。",
+		"en_explain": "Wired Lances used by a\nLegendary Newman. Unclear if the real\nthing, it's performance is legendary."
+	},
+	{
+		"assign": "120290000",
+		"jp_text": "ギガススピナー",
+		"en_text": "Gigas Spinner",
+		"jp_explain": "巨大な鉄球を先端に結びつけた自在槍。\n鋭いトゲとその重量にものを言わせた\n一撃は、どんな装甲をも破砕する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120300000",
+		"jp_text": "ディアボリックガント",
+		"en_text": "Diabolic Gauntlet",
+		"jp_explain": "地獄に住む悪魔の宿りし自在槍。\n切り裂かれた相手は、死の間際に\n快感すら覚えるという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120310000",
+		"jp_text": "アサシンクロー",
+		"en_text": "Assassin Claw",
+		"jp_explain": "ある暗殺者が愛用していた自在槍。\n無拍子で繰り出される攻撃は\n瞬時に相手の命を絶つ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120320000",
+		"jp_text": "ネイクロー",
+		"en_text": "Neiclaw",
+		"jp_explain": "伝説のニューマンが愛用していたと\n言われている自在槍。\n強力な残留思念が残されている。",
+		"en_explain": "A Legendary Newman's\nfavorite Wired Lance. It's said\nthat it harbors residual memories when touched."
+	},
+	{
+		"assign": "120330000",
+		"jp_text": "ロケットパンチ",
+		"en_text": "Rocket Punch",
+		"jp_explain": "全クラス装備可能な、特殊な自在槍。\n燃える血潮と使命を胸に、巨大な敵に\n立ち向かえ！",
+		"en_explain": ""
+	},
+	{
+		"assign": "120340000",
+		"jp_text": "ファティウーマ",
+		"en_text": "Phyteuma",
+		"jp_explain": "対象を切り刻むために作られた自在槍。\nその忌まわしき刃を振るう者は\n畏敬をこめて、死神と呼ばれる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120350000",
+		"jp_text": "グッダスケラ",
+		"en_text": "Gudda Skela",
+		"jp_explain": "大型のリアクターを搭載した自在槍。\n採算度外視のカスタムモデルであり\n特徴的な軌跡を残す。",
+		"en_explain": "A Wired Lance with a\nlarge-scale reactor. It leaves behind\na custom pattern on its victims."
+	},
+	{
+		"assign": "120360000",
+		"jp_text": "ベルクヴェルカー",
+		"en_text": "Belk Welker",
+		"jp_explain": "地下坑道に存在していた機器の部品を\n用いて作られた自在槍。一つ一つの\nパーツの強度が高く、性能も相応。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120370000",
+		"jp_text": "ブルートギフト",
+		"en_text": "Brute Gift",
+		"jp_explain": "禍々しいフォルムが特徴の自在槍。\n複雑な形をしたフォトンの刃は\n触れた者に無残な傷を残す。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120390000",
+		"jp_text": "カールドランサー",
+		"en_text": "Curldranser",
+		"jp_explain": "キャタドランの強靱な鱗がそのまま\n刃として用いられた自在槍。\n非常に頑丈で、切れ味が落ちない。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120400000",
+		"jp_text": "カタドランサー",
+		"en_text": "Catadranser",
+		"jp_explain": "カタドラールの堅牢な鱗がそのまま\n刃に用いられた自在槍。\n切れずとも、打ち負けることはない。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120410000",
+		"jp_text": "マルモスファング",
+		"en_text": "Malmoth Fang",
+		"jp_explain": "ナベリウス原生種マルモスの牙を\n自在槍の穂先に転用した特異な武器。\nそれを振るう姿の迫力はすさまじい。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120420000",
+		"jp_text": "ダルマルファング",
+		"en_text": "Dal Mal Fang",
+		"jp_explain": "ダル・マルリの牙を自在槍の穂先に\n転用した特異な武器。\n振るう姿は原生種を彷彿とさせる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120430000",
+		"jp_text": "ラズライル",
+		"en_text": "Razrail",
+		"jp_explain": "クォーツ・ドラゴンの鋭角を利用して\n作られた巨大な自在槍。綺麗に輝く\nその刃は触れたものを容易に斬り刻む。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120440000",
+		"jp_text": "クリスライル",
+		"en_text": "Crysrail",
+		"jp_explain": "クリス・ドラールの鋭衝角を利用して\n作られた巨大な自在槍。壮麗に輝く\nその刃は触れた者を微塵に斬り刻む。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120450000",
+		"jp_text": "ブレイド・ボール",
+		"en_text": "Blade Ball",
+		"jp_explain": "遊戯具を改造してしまった自在槍。\n遊びのように振るうと大怪我必至。\n全クラス装備可能な、特殊な武器。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120480000",
+		"jp_text": "ロケットパンチ／ナハト",
+		"en_text": "Rocket Punch / Nacht",
+		"jp_explain": "闇夜の色を抱く自在槍。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120490000",
+		"jp_text": "ネイクロー／ナハト",
+		"en_text": "Neiclaw / Nacht",
+		"jp_explain": "闇夜の色を抱く自在槍。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120500000",
+		"jp_text": "タイドヴァルガー",
+		"en_text": "Tide Valger",
+		"jp_explain": "地下坑道に点在していた機械部品を\n用いて作られた自在槍。劣化しにくく\n安定した性能を常時発揮する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120510000",
+		"jp_text": "ロッソヴァルガー",
+		"en_text": "Rosso Welker",
+		"jp_explain": "地下坑道の機械部品を選別加工して\n作られた自在槍。フォトンの伝導率も\n飛躍的に上昇しており、高性能。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120520000",
+		"jp_text": "ブルートカース",
+		"en_text": "Brute Curse",
+		"jp_explain": "おぞましいフォルムが特徴の自在槍。\n網目に組まれたフォトンの刃は\nそれぞれが鋭く研ぎ済まされている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120530000",
+		"jp_text": "ブルートネグロ",
+		"en_text": "Brute Negro",
+		"jp_explain": "忌まわしいフォルムが特徴の自在槍。\n漆黒を帯びた刀身とフォトンの刃は\n振るうたびに呪詛を振りまくという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120540000",
+		"jp_text": "刃鞭パラティーゼル",
+		"en_text": "Whipblade Paratizel",
+		"jp_explain": "心から正しいと思った行動を取った時に\n真の力を発揮するという紅い自在槍。\n希望はすぐそばにあると教えてくれる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120570000",
+		"jp_text": "アーレスランス",
+		"en_text": "Ares Lance",
+		"jp_explain": "一角獣の幻獣の力を宿した自在槍。\n装者にフォトンブラストの効果で\n貫く力を与え、敵を瞬時に切り刻む。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120580000",
+		"jp_text": "嵐魔",
+		"en_text": "Ranma",
+		"jp_explain": "舞い散る枯葉の如く、音もなく\nその刃を敵へと到達させる自在槍。\n触れる者を嵐のように斬り刻む。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120590000",
+		"jp_text": "ヘレティックエンド",
+		"en_text": "Heretic End",
+		"jp_explain": "悪魔のかぎ爪のようなおぞましい\nフォルムを持つ自在槍。これにより\nついた傷は生涯治らないとされる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120600000",
+		"jp_text": "ヴァイスビュート",
+		"en_text": "Weisee Butte",
+		"jp_explain": "伸縮自在の金属で作られた自在槍。\n飾り付けられたような外装からは\n想像し得ないほどの攻撃力を持つ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120610000",
+		"jp_text": "エナジーヒューザー",
+		"en_text": "Energy Huezer",
+		"jp_explain": "六芒均衡ヒューイが企画し、開発した\n燃え盛る自在槍。破拳ワルフラーンを\n参考にデザインされたはずだった。",
+		"en_explain": "Wired Lances based off\nof the Council of Six\nHuey's Genesis Weapon Wolfram."
+	},
+	{
+		"assign": "120620000",
+		"jp_text": "グワナーダランス",
+		"en_text": "Gwanahda Lance",
+		"jp_explain": "グワナーダの触手で作られた自在槍。\n柔軟性と強度に優れ、外見以上の\n性能を発揮する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120630000",
+		"jp_text": "Ｇネロランス",
+		"en_text": "G Nero Lance",
+		"jp_explain": "グワナーダ・ネロの触手が用いられた\n自在槍。安定度が高く、製作者の\n想像を超えた性能を発揮している。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120650000",
+		"jp_text": "イミディエイトフェザー",
+		"en_text": "Immediate Feather",
+		"jp_explain": "高価な軽量金属羽を贅沢にあしらった\n限定品の自在槍。翼を広げて飛ぶように\n美しい攻撃をくり出す。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120670000",
+		"jp_text": "フルキュリオ",
+		"en_text": "Full Curio",
+		"jp_explain": "新発想で左右に大きく広がる変形機構を\n採用した自在槍。標的への命中精度と\n破壊力が従来品より飛躍的に向上した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120690000",
+		"jp_text": "グロリアスウィング",
+		"en_text": "Glorious Wing",
+		"jp_explain": "圧倒的な破壊力を持つ流麗なデザインの\n自在槍。敵を討つ際に放たれるサクラの\n花弁に似た煌きは息を呑むほどに美しい。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120730000",
+		"jp_text": "ステルスウェポン：ＷＬ",
+		"en_text": "Stealth Weapon: WL",
+		"jp_explain": "認識不能な武器。\n形状はワイヤードランス型。",
+		"en_explain": "Unknown Weapon.\nSeems to be of a Wired Lance-type."
+	},
+	{
+		"assign": "120740000",
+		"jp_text": "赤のワイヤードランス",
+		"en_text": "Red Wired Lance",
+		"jp_explain": "試験的にカラーリングを\nシンボリックにした自在槍。\n目映い赤色は必然的に目を引く。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120750000",
+		"jp_text": "青のワイヤードランス",
+		"en_text": "Blue Wired Lance",
+		"jp_explain": "試験的にカラーリングを\nシンボリックにした自在槍。\n目映い青色は必然的に目を引く。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120780000",
+		"jp_text": "バードケージ",
+		"en_text": "Bird Cage",
+		"jp_explain": "愛鳥家が愛用する自在槍。飼っている\n鳥を連れ歩きながら戦闘参加できる\n利便性が受けて、ブームになっている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120840000",
+		"jp_text": "ゴーストハット",
+		"en_text": "Ghost Hat",
+		"jp_explain": "有名な霊媒師が秘蔵する古美術の\n自在槍。見る者を恐怖させる\nちょっと乱暴なゴーストが飛び出す。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120850000",
+		"jp_text": "ファントムハット",
+		"en_text": "Phantom Hat",
+		"jp_explain": "伝説の魔術師が封印していた、世にも\n怖ろしい自在槍。邪悪なファントムが\n執拗に攻めてきて相手を逃さない。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120930000",
+		"jp_text": "ヤサカニノマガタマ",
+		"en_text": "Yasakani no Magatama",
+		"jp_explain": "いにしえより伝わる由緒正しき至宝を\n模して作られた自在槍。その名に恥じぬ\n圧倒的な性能を誇る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120940000",
+		"jp_text": "ククノチノマガタマ",
+		"en_text": "Kukunochi no Magatama",
+		"jp_explain": "いにしえより伝わる至宝を模倣した\n自在槍にさらなる改良を加えたもの。\n透き通るような色合いが特徴的。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120960000",
+		"jp_text": "セイントラスター",
+		"en_text": "Saint Luster",
+		"jp_explain": "かつて聖職者が使用したという自在槍。\n重量感ある安定した槍先を制御するには\n熟練を要するが、攻撃に優れている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120970000",
+		"jp_text": "セイントグロス",
+		"en_text": "Saint Gloss",
+		"jp_explain": "聖職者が使用した自在槍の軽量モデル。\n広く一般向けの使用を想定した改良が\n施されたが、攻撃性能は高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "120990000",
+		"jp_text": "リリカ用イデアルシザーズ",
+		"en_text": "",
+		"jp_explain": "リリカ用イデアルシザーズ",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201020000",
+		"jp_text": "ファティウーマ／リヒト",
+		"en_text": "Phyteuma / Licht",
+		"jp_explain": "白夜の色を抱く自在槍。\n出自の仔細は不明だが、性能は高く\n全クラス装備可能な、特殊な武器。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201030000",
+		"jp_text": "シェルオプス",
+		"en_text": "Shell Opus",
+		"jp_explain": "惑星ウォパルで調達可能な物資のみで\n製造された自在槍。天然の硬質素材の\n特性と優位性を最大限に引き出した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201040000",
+		"jp_text": "シェルガイア",
+		"en_text": "Shell Gaia",
+		"jp_explain": "惑星ウォパルで調達可能な物資のみで\n製造された自在槍。フォトンに反応する\n発光物質を配合し独特な色合いを再現。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201050000",
+		"jp_text": "シェルクロノス",
+		"en_text": "Shell Chronos",
+		"jp_explain": "惑星ウォパルで調達可能な物資のみで\n製造された自在槍。硬度の高い赤色種を\n採用し、全体の強度を増した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201060000",
+		"jp_text": "マークキュリオ",
+		"en_text": "Mark Curio",
+		"jp_explain": "変形機構を調整した自在槍。初心者に\nありがちなタイミングのズレを自動的に\n調整し、効果的な攻撃をアシストする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201080000",
+		"jp_text": "ウィールローレン",
+		"en_text": "Wheel Rolen",
+		"jp_explain": "蒸気エネルギーで効能増幅した自在槍。\n使用者の負担を軽減しつつ攻撃力を増強\nさせる機能的な強化機構を持つ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201100000",
+		"jp_text": "バイオレードル",
+		"en_text": "Bio Radle",
+		"jp_explain": "最先端の生体工学を応用し開発された\n自在槍。膨張フォトンの反収縮作用で\n高速伸縮し、高い攻撃効率を誇る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201110000",
+		"jp_text": "ライブレードル",
+		"en_text": "Live Radle",
+		"jp_explain": "最先端の生体工学を応用し開発された\n自在槍。高純度培養液が固形化と液化を\n瞬時にくり返し高速攻撃を可能にする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201150000",
+		"jp_text": "ダールワイグル",
+		"en_text": "Darl Weigle",
+		"jp_explain": "ダーカーが使用する装備を解析し\nアークス仕様に再設計された自在槍。\n抜群の張力で標的を翻弄する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201160000",
+		"jp_text": "クラテルネイルス",
+		"en_text": "Crater Nails",
+		"jp_explain": "局地戦闘用に気密性を高めた防護服との\n相性がいい自在槍。鋭利な３本の鈎爪が\nくり出す攻撃で足元の不利を補う。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201170000",
+		"jp_text": "ラミアスロイアー",
+		"en_text": "Lamia Slawyer",
+		"jp_explain": "鋭角的な装飾が特徴の自在槍。\nブレードを重ね、鋭利なシルエットで\n周囲を威圧する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201180000",
+		"jp_text": "ヒュリオランサー",
+		"en_text": "Hurio Lancer",
+		"jp_explain": "鋭く研ぎ澄まされたフォルムを追求する\nキャストに人気の自在槍。冷たく荘厳な\n色合いがクールな戦闘シーンを演出。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201220000",
+		"jp_text": "クラテルブロウス",
+		"en_text": "Crater Blows",
+		"jp_explain": "局地戦闘用に気密性を高めた防護服との\n相性がいい自在槍。自然背景に溶け込む\n鮮やかな色合いで敵の目を撹乱する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201240000",
+		"jp_text": "ラミアスラウナー",
+		"en_text": "Lamia Slauner",
+		"jp_explain": "鋭角的な装飾が特徴の自在槍。\n柔軟なテールワイヤーを採用し\n多彩な攻撃が可能。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201270000",
+		"jp_text": "ヒュリオランシヴ",
+		"en_text": "Hurio Lanshiv",
+		"jp_explain": "鋭く研ぎ澄まされたフォルムを追求する\nキャストに人気の自在槍。強化された\n爪を安定性の高い主翼が確実に支える。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201280000",
+		"jp_text": "グラスクライン",
+		"en_text": "Glass Klein",
+		"jp_explain": "シンプルな装飾の六枚刃を持つ自在槍。\nフォトンを伝導する鉱物を装飾に使用し\nデザイン性と実用性を両立させた。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201310000",
+		"jp_text": "ファーレントリッガー",
+		"en_text": "Fahrentrigger",
+		"jp_explain": "大勢のためでなく、ただひとりのために\n刀匠ジグが創り上げた自在槍。\nそれは、彼の情熱の結晶。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201340000",
+		"jp_text": "ビブラスランス",
+		"en_text": "Vibrace Lance",
+		"jp_explain": "ダーク・ビブラスの爪を加工して\n作られた自在槍。鋭利な爪は\n頑丈な外骨格と同様の強度を誇る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201370000",
+		"jp_text": "リムリーゼ",
+		"en_text": "Rimliese",
+		"jp_explain": "媚びない美しさが魅力的な自在槍。\nバラを模して造られたデザインは、\n華麗で美しい。ある意味、両手に花。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201410000",
+		"jp_text": "アンジャクゥーリ",
+		"en_text": "Anjakuhri",
+		"jp_explain": "黒の民アンジャドゥリリの輪を加工した\n自在槍。巨大な輪は鬼火を灯しながら\n回転し、対象を追跡する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201430000",
+		"jp_text": "ネメシスチェイン",
+		"en_text": "Nemesis Chain",
+		"jp_explain": "古の時代に封印された聖なる自在槍。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201440000",
+		"jp_text": "スレイヴチェイン",
+		"en_text": "Slave Chain",
+		"jp_explain": "古の時代に封印された邪なる自在槍。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201450000",
+		"jp_text": "ネプトアンカー",
+		"en_text": "Nepto Anchor",
+		"jp_explain": "惑星ウォパルの海王種が持っていた錨を\n加工し作りなおした自在槍。非常に\n頑強であり、優れた切れ味を持つ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201470000",
+		"jp_text": "風霞",
+		"en_text": "Kaze Kasumi",
+		"jp_explain": "鮮やかな紫紺色が目を引く自在槍。\n舞い散る花びらと共に、美しい\n桜色の刃が容赦なく標的を仕留める。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201480000",
+		"jp_text": "イデアルシザーズ",
+		"en_text": "Ideal Scissors",
+		"jp_explain": "新開発のフォトンジェネレーターを\n搭載した自在槍。発せられる\nフォトンの輝きは次代の証とされる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201520000",
+		"jp_text": "蛇腹グリゴロス",
+		"en_text": "Serpent Grigoros",
+		"jp_explain": "身を伸ばし、素早く敵の急所に致命傷を\n与える特殊な自在槍。高い伸縮性能を\n誇り、瞬時にその刃を敵へ到達させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201530000",
+		"jp_text": "レザルコレト",
+		"en_text": "Rezar Coleto",
+		"jp_explain": "凶暴な幻獣を連想させる自在槍。\nブレードの返しの部分が\n対象により大きなダメージを与える。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201560000",
+		"jp_text": "禍矛ユクカ",
+		"en_text": "Evil Yukuka",
+		"jp_explain": "惑星ハルコタンで発掘された自在槍。\n勇ましい角を模した頑強な刃は\n『禍津』の影響を受けてしまっている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201610000",
+		"jp_text": "サギタレオーネ",
+		"en_text": "Sagita Leone",
+		"jp_explain": "ファルケ・レオーネの残骸を加工し\n作られた自在槍。射出時はプラズマを\nまとったレーザーブレードを形成する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201630000",
+		"jp_text": "エルデトロス",
+		"en_text": "Eldetross",
+		"jp_explain": "大気の力を宿すといわれる自在槍。\n刃の中心にあるクリスタルが力を司り\n風雷をまとわせ、敵を両断するという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201640000",
+		"jp_text": "ケイモストロス",
+		"en_text": "Keimostross",
+		"jp_explain": "大気の力を宿すといわれる自在槍。\n薙ぎ切ることに適した刃に\n調整されており、重い一撃を放てる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201740000",
+		"jp_text": "ノクスジラーク",
+		"en_text": "Nox Jiraku",
+		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き自在槍。装者も恐怖を\n抱くほどの強大な力で敵を斬り伏せる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201790000",
+		"jp_text": "ギクスギルミナド",
+		"en_text": "Gix Gilminadu",
+		"jp_explain": "臨界寸前まで圧縮したフォトンと\n同調した自在槍。装者の精神とリンクし\n冷静であるほど、刃は切れ味を増す。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201820000",
+		"jp_text": "ラッピーフウセン",
+		"en_text": "Rappy Balloon",
+		"jp_explain": "ラッピー好きのアークスにより作られた\n自在槍。ラッピーへの並々ならぬ愛情が\n伝わってくる力作。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201860000",
+		"jp_text": "インヴェイドウィング",
+		"en_text": "Invade Wing",
+		"jp_explain": "【深遠なる闇】より生まれし負の\n自在槍。装者は比類なき力を手にするが\n戦いと殲滅だけを渇望するようになる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201870000",
+		"jp_text": "オフスティアウィング",
+		"en_text": "Austere Wing",
+		"jp_explain": "負の力を識り、制することで転化した\n浄化の自在槍。もたらされた強大な力は\n弱きを救い、邪なる者を仕留める。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201880000",
+		"jp_text": "セイガーシールド",
+		"en_text": "Seiga Shield",
+		"jp_explain": "世界征服を企む悪の組織と戦うために\n作られた自在槍。盾の先端部を飛ばす\nセイガーシュートは非常に強力！",
+		"en_explain": ""
+	},
+	{
+		"assign": "1201970000",
+		"jp_text": "ランスレボルシオ",
+		"en_text": "Lance Revolucio",
+		"jp_explain": "新開発の演算装置を搭載した自在槍。\n装者の思考や戦況を分析することで\n出力を最適に保ち、負荷を軽減する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202000000",
+		"jp_text": "リグガイラー",
+		"en_text": "Rig Gaira",
+		"jp_explain": "伝説の生物を機械的に再現した自在槍。\n強靭な顎を模して作られた刃は一度\n喰らいつけば確実に対象を噛み砕く。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202020000",
+		"jp_text": "ジグマガイラー",
+		"en_text": "Sigma Gaira",
+		"jp_explain": "伝説の生物を機械的に再現した自在槍。\n鍛えられた牙はかすめるだけでも傷を\n負ってしまうほどの鋭さを誇る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202030000",
+		"jp_text": "アウラデルウォッグ",
+		"en_text": "Aura Dellwogg",
+		"jp_explain": "異界の因子を触媒に生み出された\n漆黒の自在槍。装者の生命力に比例して\n二刀の鞭刃は蒼き輝きを増すという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202080000",
+		"jp_text": "レッツゴーシャイニー",
+		"en_text": "Let's Go Shiny",
+		"jp_explain": "ロープがついた浮き輪の自在槍。\nエンペ・ラッピー柄の高級浮き輪。\n強化繊維が使用されているため超硬い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202100000",
+		"jp_text": "フロウレイザー",
+		"en_text": "Flow Razor",
+		"jp_explain": "￥サラ新コスＷＲＣＶ１",
+		"en_explain": "￥Sara's New KOS WRCV1."
+	},
+	{
+		"assign": "1202220000",
+		"jp_text": "レイランス",
+		"en_text": "Ray Lance",
+		"jp_explain": "次世代の主力として開発された自在槍。\n基礎モデルの直系の後継機であり\n出力、安定性共に高いスペックを誇る。",
+		"en_explain": "A Wired Lance developed as the latest\nmodel, boasting high photon stability\nwith next-gen specifications."
+	},
+	{
+		"assign": "1202240000",
+		"jp_text": "レイニールオービット",
+		"en_text": "Reinier Orbit",
+		"jp_explain": "新開発のフォトンリング機構を搭載した\n自在槍。展開された部品が合体し\n闇を穿つ閃光の刃へと姿を変える。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202270000",
+		"jp_text": "ワイヤードランス-NT",
+		"en_text": "Wired Lance-NT",
+		"jp_explain": "アークスで正式採用されている自在槍。\nワイヤーでつながれた刃を自在に操作し\n多様な距離での交戦を可能としている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202280000",
+		"jp_text": "アルバランス-NT",
+		"en_text": "Alva Lance-NT",
+		"jp_explain": "アークスで使用される改良型自在槍。\n刃の部分のみの出力効率化を行い\nコストの変動なく威力を増強させた。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202290000",
+		"jp_text": "ヴィタランス-NT",
+		"en_text": "Vita Lance-NT",
+		"jp_explain": "基礎モデルに改良を加えた自在槍。\nフォトン固着率の改良と性能向上を両立\n多くのアークスの要望に応えたモデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202300000",
+		"jp_text": "ワイヤードトライ-NT",
+		"en_text": "Wired Tri-NT",
+		"jp_explain": "鋭角シルエットにこだわった自在槍。\n遠距離攻撃に適した抵抗の少ない形状で\n操作性の向上を目指した高級モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202310000",
+		"jp_text": "アルバトライ-NT",
+		"en_text": "Alva Tri-NT",
+		"jp_explain": "高級モデル自在槍の改良型。\n抵抗の少ない形状そのままに大型化し\nさらなる攻撃力の向上を実現した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202320000",
+		"jp_text": "ヴィタトライ-NT",
+		"en_text": "Vita Tri-NT",
+		"jp_explain": "高級モデル自在槍の超大型バージョン。\n全体的に性能も向上しているが\n量産が困難なレアモデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202330000",
+		"jp_text": "ワイヤードアーチ-NT",
+		"en_text": "Wired Arch-NT",
+		"jp_explain": "伸張性能を向上させた自在槍。\n独特のアーチ形状でなめらかな軌跡を\n描きながら標的を捉える。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202340000",
+		"jp_text": "アルバアーチ-NT",
+		"en_text": "Alva Arch-NT",
+		"jp_explain": "伸張性能を向上させた自在槍の改良型。\n先端部の突起が重心を安定させ\n基礎モデルより確実に標的を捉える。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202350000",
+		"jp_text": "ヴィタアーチ-NT",
+		"en_text": "Vita Arch-NT",
+		"jp_explain": "アーチ形状の自在槍の大型モデル。\n弧に並べられた突起により、従来の\n安定した伸張性能を確保した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202360000",
+		"jp_text": "クシャネビュラ-NT",
+		"en_text": "Kuscha Nebula-NT",
+		"jp_explain": "二叉に分けられた刃が特徴的な自在槍。\n既定のフォルムにとらわれない\n威力と効率重視の一つの答えである。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202370000",
+		"jp_text": "ジャグリアス-NT",
+		"en_text": "Jagriath-NT",
+		"jp_explain": "従来の概念を覆した大型の自在槍。\n近距離攻撃用に開発された装着武器を\n投擲武器として転用している。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202380000",
+		"jp_text": "ディオジャグリアス-NT",
+		"en_text": "Dio Jagriath-NT",
+		"jp_explain": "大型自在槍の高機能バージョン。\n扱いやすさよりも破壊力を重視し\n攻撃性能の向上を追求した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202390000",
+		"jp_text": "ディアボリックガント-NT",
+		"en_text": "Diabolic Gauntlet-NT",
+		"jp_explain": "地獄に住む悪魔の宿りし自在槍。\n切り裂かれた相手は、死の間際に\n快感すら覚えるという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202400000",
+		"jp_text": "ヘレティックエンド-NT",
+		"en_text": "Heretic End-NT",
+		"jp_explain": "悪魔のかぎ爪のようなおぞましい\nフォルムを持つ自在槍。これにより\nついた傷は生涯治らないとされる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202410000",
+		"jp_text": "グロリアスウィング-NT",
+		"en_text": "Glorious Wing-NT",
+		"jp_explain": "圧倒的な破壊力を持つ流麗なデザインの\n自在槍。敵を討つ際に放たれるサクラの\n花弁に似た煌きは息を呑むほどに美しい。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202420000",
+		"jp_text": "ノクスジラーク-NT",
+		"en_text": "Nox Jiraku-NT",
+		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き自在槍。装者も恐怖を\n抱くほどの強大な力で敵を斬り伏せる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202430000",
+		"jp_text": "ラズライルVer2",
+		"en_text": "Razrail Ver2",
+		"jp_explain": "クォーツ・ドラゴンの鋭角を利用して\n作られた巨大な自在槍。綺麗に輝く\nその刃は触れたものを容易に斬り刻む。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202450000",
+		"jp_text": "ボクスドビュール",
+		"en_text": "Box Dobule",
+		"jp_explain": "ボクス・ドゥバルスの鋭爪を加工し\n作られた自在槍。素材の結晶は硬質で\n決して刃こぼれしないといわれるほど。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202490000",
+		"jp_text": "フルキュリオ-NT",
+		"en_text": "Full Curio-NT",
+		"jp_explain": "新発想で左右に大きく広がる変形機構を\n採用した自在槍。標的への命中精度と\n破壊力が従来品より飛躍的に向上した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1202500000",
+		"jp_text": "マークキュリオ-NT",
+		"en_text": "Mark Curio-NT",
+		"jp_explain": "変形機構を調整した自在槍。初心者に\nありがちなタイミングのズレを自動的に\n調整し、効果的な攻撃をアシストする。",
+		"en_explain": ""
+	}
 ]

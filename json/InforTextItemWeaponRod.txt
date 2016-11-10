@@ -1,1136 +1,1136 @@
 [
-  {
-    "assign": "111000000",
-    "jp_text": "ロッド",
-    "en_text": "Rod",
-    "jp_explain": "アークスで正式採用されている長杖。\n打突用の武器ではなくテクニック使用の\n補助デバイスとしての役割が主。",
-    "en_explain": ""
-  },
-  {
-    "assign": "111010000",
-    "jp_text": "アルバロッド",
-    "en_text": "Alva Rod",
-    "jp_explain": "アークスで使用される改良型の長杖。\nフォトンに対する感応力を高めると共に\n強度も高められ打突用としても使用可。",
-    "en_explain": ""
-  },
-  {
-    "assign": "111020000",
-    "jp_text": "ヴィタロッド",
-    "en_text": "Vita Rod",
-    "jp_explain": "基礎モデルに改良を加えた長杖。\n儀礼的なフォルムが強化、フォトンへの\n感応力が強められた分、装者を選ぶ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "111030000",
-    "jp_text": "ポール",
-    "en_text": "Pole",
-    "jp_explain": "アークスで正式採用されている長杖。\n初心者のテクニック行使補助を\n最優先に設計された入門モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "111040000",
-    "jp_text": "アルバポール",
-    "en_text": "Alva Pole",
-    "jp_explain": "アークスで使用される改良型の長杖。\n先端部の強度が高められ、フォトンの\n集束率も引き上げられている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "111050000",
-    "jp_text": "ヴィタポール",
-    "en_text": "Vita Pole",
-    "jp_explain": "基礎モデルに改良を加えた長杖。\n強度やフォトンの集束率がバランス良く\n向上し、広く愛用されている一品。",
-    "en_explain": ""
-  },
-  {
-    "assign": "111060000",
-    "jp_text": "パイラー",
-    "en_text": "Piler",
-    "jp_explain": "アークスで正式採用されている長杖。\nテクニック行使を最優先にフォトンが\n増強されたが扱いやすさは損なわれた。",
-    "en_explain": ""
-  },
-  {
-    "assign": "111070000",
-    "jp_text": "アルバパイラー",
-    "en_text": "Alva Piler",
-    "jp_explain": "アークスで使用される改良型の長杖。\nフォトンバランスの緻密な調整により\n扱いやすさが向上した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "111080000",
-    "jp_text": "ヴィタパイラー",
-    "en_text": "Vita Piler",
-    "jp_explain": "基礎モデルに改良を加えた長杖。\n扱いやすくテクニック行使に最適な\nフォトンの含有量の限界を再計算した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "111090000",
-    "jp_text": "ストライカー",
-    "en_text": "Striker",
-    "jp_explain": "意図的に大型化された長杖。\n見た目で威嚇することを狙ったもので\n扱いにくいが従来機より法撃力は高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110100000",
-    "jp_text": "アルバストライカー",
-    "en_text": "Alva Striker",
-    "jp_explain": "大型長杖の改良型。\nフォトンバランスを調整し体感重量を\n軽減させ、扱いやすさを向上させた。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110110000",
-    "jp_text": "ヴィタストライカー",
-    "en_text": "Vita Striker",
-    "jp_explain": "大型化された長杖のカスタム改造版。\nあらゆる局面での使用を想定し\nフォトン感応力の底上げを重視した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110120000",
-    "jp_text": "フォールオンス",
-    "en_text": "Folones",
-    "jp_explain": "フォトン吸収に優れた長杖。\n超軽量ながら新機構により大気中の\nフォトンを取り込み出力を保つ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110130000",
-    "jp_text": "アルバフォールオンス",
-    "en_text": "Alva Folones",
-    "jp_explain": "フォトン吸収に優れた長杖の改良型。\n大気中のフォトン取り込み機構を\n大型化し、法撃力全般を向上させた。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110140000",
-    "jp_text": "ヴィタフォールオンス",
-    "en_text": "Vita Folones",
-    "jp_explain": "フォトン吸収に優れた長杖の高機能型。\n物理的な攻撃を回避する防御ユニットを\n組み込み、安定した法撃を可能にした。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110150000",
-    "jp_text": "ラムダガーランド",
-    "en_text": "Lambda Garland",
-    "jp_explain": "熟練のフォースが改良した長杖。\nシンプルな構造そのままにフォトンを\n重層コートして頑強性を高めた。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110160000",
-    "jp_text": "ディオガーランド",
-    "en_text": "Dio Garland",
-    "jp_explain": "熟練のフォースが試作した改良型長杖。\nテクニック行使を自動補助するような\n実験的な試みが行われている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110170000",
-    "jp_text": "ガーランド",
-    "en_text": "Garland",
-    "jp_explain": "テクニック行使に最適化された長杖。\n法撃に必要ないパーツを潔く除外した\nシンプルな構造が特徴的。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110180000",
-    "jp_text": "レッドプロセッサ",
-    "en_text": "Red Processor",
-    "jp_explain": "簡易的な変形機構を搭載した長杖。\nパーツのそれぞれが大気中のフォトンを\n吸収し、装者の力へと還元する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110190000",
-    "jp_text": "シージプロセッサ",
-    "en_text": "Siege Processor",
-    "jp_explain": "簡易的な変形機構を搭載した長杖。\n洗練されたフォルムはフォトンに感応し\nテクニックの行使を強く後押しする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110200000",
-    "jp_text": "ヘイズプロセッサ",
-    "en_text": "Haze Processor",
-    "jp_explain": "簡易的な変形機構を搭載した長杖。\n個々のパーツがフォトンに感応し\nその漆黒の姿を鋭く輝かせる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110210000",
-    "jp_text": "サルバドール",
-    "en_text": "Salvador",
-    "jp_explain": "実験的に装甲を付与した長杖。\nテクニック補助の用途も満たすだけの\n性能を保持した、巨大な試作品。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110220000",
-    "jp_text": "ラムダサルバドール",
-    "en_text": "Lambda Salvador",
-    "jp_explain": "実験的に装甲を付与した長杖。\nより汎用的な方向に性能調整を行った\n純然たるバージョンアップの作品。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110230000",
-    "jp_text": "ディオサルバドール",
-    "en_text": "Dio Salvador",
-    "jp_explain": "実験的に装甲を付与した長杖。\nテストの結果を受けて、さらに特徴を\n伸ばす方向に調整された特化モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110240000",
-    "jp_text": "ステラトゥインクル",
-    "en_text": "Stella Twinkle",
-    "jp_explain": "童心を忘れないフォースのための長杖。\n装者のフォトン感応力が、そのまま\n星のきらめきに反映される。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110250000",
-    "jp_text": "ヴェガトゥインクル",
-    "en_text": "Vega Twinkle",
-    "jp_explain": "遊び心のあるフォースのための長杖。\n打突の回数によってテクニック行使の\n感応性が変化する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110260000",
-    "jp_text": "ミルキートゥインクル",
-    "en_text": "Milky Twinkle",
-    "jp_explain": "宇宙へはばたくフォースのための長杖。\nアークスとしてのキャリアの長さが\nそのまま星のきらめきに反映される。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110270000",
-    "jp_text": "サイコウォンド",
-    "en_text": "Psycho Wand",
-    "jp_explain": "未元金属によって作られた伝説の長杖。\n詳細は一切不明ながら、宇宙の起源に\n関わったとの伝承も存在するらしい。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110280000",
-    "jp_text": "クラーリタ・ヴィサス",
-    "en_text": "Clarita Visas",
-    "jp_explain": "翼を持つ一角獣の角が素材の長杖。\n持ち主を選ぶ武器といわれ、純粋な心を\n持たないものは使いこなせないという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110290000",
-    "jp_text": "カジューシース",
-    "en_text": "Caduceus",
-    "jp_explain": "不思議な波動を放つ長杖。\n聖なる杖として伝えられてきたものを\n基に開発が行われた。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110300000",
-    "jp_text": "デモニックフォーク",
-    "en_text": "Demonic Fork",
-    "jp_explain": "不可思議な力で装者に不幸を呼ぶ長杖。\n返しのついたその刃は、捕らえた獲物を\n決して離すことはない。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110310000",
-    "jp_text": "ピコピコハンマー",
-    "en_text": "Pico Pico Hammer",
-    "jp_explain": "生まれる理由を間違えてしまった長杖。\n元は子供用だったが、改良を重ねた結果\n全クラス装備可能な特殊な武器となった。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110320000",
-    "jp_text": "パンプキンロッド",
-    "en_text": "Pumpkin Rod",
-    "jp_explain": "伝説上の怪物の頭を模した長杖。\nジョークグッズだが、戦闘にも使える。\n全クラス装備可能な、特殊な武器。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110330000",
-    "jp_text": "ストライクブルーム",
-    "en_text": "Strike Broom",
-    "jp_explain": "古のフォースが使用していたとされる\nホウキ型長杖を模して作られたもの。\n見た目だけでなく性能も完全再現。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110340000",
-    "jp_text": "神杖アマテラス",
-    "en_text": "Divine Amaterasu",
-    "jp_explain": "伝承に伝わる長杖のレプリカ。\nかつて巫女と呼ばれていた存在が抱き\n裁きの雷を操っていたという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110350000",
-    "jp_text": "トワイライトルーン",
-    "en_text": "Twilight Rune",
-    "jp_explain": "夜を愛する芸術家が想いを込めた長杖。\n満ち欠けする月が満ちたその時\n真の姿をあらわすという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110360000",
-    "jp_text": "ウィッチブルーム",
-    "en_text": "Witch Broom",
-    "jp_explain": "古来より、由緒正しいフォースの\n正統な長杖として伝わっているもの。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110370000",
-    "jp_text": "白錫クラリッサ",
-    "en_text": "",
-    "jp_explain": "■",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110380000",
-    "jp_text": "灰錫クラリッサⅡ",
-    "en_text": "",
-    "jp_explain": "■",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110390000",
-    "jp_text": "セイテンバイセ",
-    "en_text": "Seitenweise",
-    "jp_explain": "圧倒的な年を重ねた樹木の幹を用い\n長い時間を掛けてフォトンをなじませた\n至高の長杖。樹とは思えぬ性能を持つ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110400000",
-    "jp_text": "セイテンランセ",
-    "en_text": "Seitenranse",
-    "jp_explain": "長寿の樹木を用いて作られた長杖。\nフォトンと生体の無理ない融合により\n自然に大量のフォトンを使役可能。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110410000",
-    "jp_text": "セイテンヘイセ",
-    "en_text": "Seitenheise",
-    "jp_explain": "長寿の樹木を用いて作られた長杖。\n意識的に与えたフォトンの属性により\n性能を特化させる形となった。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110420000",
-    "jp_text": "ヴァイフロース",
-    "en_text": "Vifroze",
-    "jp_explain": "氷の結晶を模して作られた長杖。\n冷たい輝きは常に保たれており\n時に吹雪すら呼び起こすという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110430000",
-    "jp_text": "メリオフロース",
-    "en_text": "Meliofroze",
-    "jp_explain": "氷の結晶を模して作られた長杖。\n情熱的な色合いだが、身体の底まで\n凍えるような冷たいフォトンは健在。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110440000",
-    "jp_text": "アズーフロース",
-    "en_text": "Azufroze",
-    "jp_explain": "氷の結晶を模して作られた長杖。\n持ちうる性能を十全に発揮できるよう\n徹底的に性能を高めた特化モデル。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110450000",
-    "jp_text": "グラマシェント",
-    "en_text": "Gramascient",
-    "jp_explain": "幾何学的な模様が刻まれた長杖。\n由来や素材に謎が多く、その性能の\n全貌は未だ明らかにされていない。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110470000",
-    "jp_text": "アンブラステッキ",
-    "en_text": "Umblla Stick",
-    "jp_explain": "異次元よりの来訪者が、気まぐれに\n置いていったステキなステッキ。\n全クラス装備可能な、特殊な長杖。",
-    "en_explain": "A Rod from another dimension.\nNicely crafted for\na whimsical visitor."
-  },
-  {
-    "assign": "1110480000",
-    "jp_text": "ディニアロッド",
-    "en_text": "Dinia Rod",
-    "jp_explain": "アムドゥスキア原生の龍族が持つ\n大きな杖を回収し、使用できるように\n改良を加えた、生体的な長杖。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110490000",
-    "jp_text": "サディールロッド",
-    "en_text": "Sadiel Rod",
-    "jp_explain": "アムドゥスキア原生の龍族が持つ\n大きな杖を回収、改良した長杖。\n大気中のフォトンへの感応力が高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110500000",
-    "jp_text": "ウィンディシャフト",
-    "en_text": "Windy Shaft",
-    "jp_explain": "ウィンディラの翼膜などを利用して\n作られた長杖。はばたきのような\nフォトンの奔流を巻き起こす。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110510000",
-    "jp_text": "エルダーロッド",
-    "en_text": "Elder Rod",
-    "jp_explain": "ダークファルス・エルダーの\nデータを基に作り上げた長杖。\n禍々しいフォトンをまとう。",
-    "en_explain": "Rod made from DF Elder.\nIts data carries\nomnious photons around it."
-  },
-  {
-    "assign": "1110520000",
-    "jp_text": "マイク・スタンド",
-    "en_text": "Mic Stand",
-    "jp_explain": "元は拡声器を固定するためのスタンド。\n長杖として使用できるよう改造された。\n全クラス装備可能な、特殊な武器。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110530000",
-    "jp_text": "ピコピコハンマー／ナハト",
-    "en_text": "Pico Pico Hammer / Nacht",
-    "jp_explain": "闇夜の色を抱く長杖。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110540000",
-    "jp_text": "ルビアシェント",
-    "en_text": "Rubiascient",
-    "jp_explain": "幾何学的な模様の刻まれている長杖。\n来歴だけでなく、文様の意味すら未だ\n不明ながら、性能に優れ人気が高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110550000",
-    "jp_text": "ラルダシェント",
-    "en_text": "Raldacient",
-    "jp_explain": "幾何学的な模様が特徴的な長杖。\nフォトンを食うかのように吸収し\n装者の力へと変換する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110560000",
-    "jp_text": "アーレスロッド",
-    "en_text": "Ares Rod",
-    "jp_explain": "白魚の幻獣の力を宿した長杖。装者に\nフォトンブラストの効果で惑わぬ力を\n与え、テクニック行使を補助する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110570000",
-    "jp_text": "恋鳳凰",
-    "en_text": "Koi Houou",
-    "jp_explain": "施された装飾の風に舞う姿が\n伝説上の鳥の舞う姿を想起させる\n由緒正しき長杖。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110580000",
-    "jp_text": "ルーライラ",
-    "en_text": "Rulyra",
-    "jp_explain": "フォトンの総量が少ない場でも\n効率の良い運用が出来るように\n調節された長杖。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110590000",
-    "jp_text": "スタークカッツェ",
-    "en_text": "Stark Katze",
-    "jp_explain": "蝶の羽を模したかのような華美な\n装飾が特徴的な長杖。自然に漂う\nフォトンへの感応力が高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110610000",
-    "jp_text": "ゴロンロッド",
-    "en_text": "Goron Rod",
-    "jp_explain": "ゴロンゾランの持っていた杖を再現し\n作られた長杖。召喚こそ不可能だが\n性能自体は抜群に高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110620000",
-    "jp_text": "ゾロンロッド",
-    "en_text": "Zoron Rod",
-    "jp_explain": "ゾロン・ゴラールの使用していた杖を\n模して作り上げた長杖。フォトンへの\n感応力が高く、装者の力を底上げする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110660000",
-    "jp_text": "オーバーテイル",
-    "en_text": "Overtail",
-    "jp_explain": "新開発のフォトン回転機構により変形が\n可能な長杖。使用者のテクニック行使に\n合わせ自動で形状が最適化される。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110670000",
-    "jp_text": "サテライトライザー",
-    "en_text": "Satellite Riser",
-    "jp_explain": "戦闘への強き意思を表す長杖。\n心強き力の象徴として、猛々しい\n切っ先は敵への威嚇としても効果的。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110690000",
-    "jp_text": "アメン・ラー",
-    "en_text": "Amun Ra",
-    "jp_explain": "神々しさを感じる金色の長杖。\n杖に描かれた瞳は太陽を象徴し、\nその大いなる力は万物を司るという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110700000",
-    "jp_text": "ラビットウォンド",
-    "en_text": "Rabbit Wand",
-    "jp_explain": "先端のマスコットがカワイイ長杖。\nその見かけから武器としてだけでなく\nアクセサリーとしても重宝される。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110710000",
-    "jp_text": "リベラシオン",
-    "en_text": "Liberacion",
-    "jp_explain": "生と死の狭間に鎮座している\n命の番人が持つという長杖。\n魂の灯火をその力とし輝きを放つ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110720000",
-    "jp_text": "ステルスウェポン：ＲＯ",
-    "en_text": "Stealth Weapon:RO",
-    "jp_explain": "認識不能な武器。\n形状はロッド型。",
-    "en_explain": "Unknown Weapon.\nSeems to be of the Rod-type."
-  },
-  {
-    "assign": "1110730000",
-    "jp_text": "クラッドロッド",
-    "en_text": "Clad Rod",
-    "jp_explain": "希望を抱く翼の名を冠し、その意志を\n力に変えてくれる不思議な長杖。\n全クラス装備可能な、特殊な武器。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110740000",
-    "jp_text": "トロピコハン",
-    "en_text": "Toro Pikohan",
-    "jp_explain": "極端なかたちまで改造された\nほぼ専用の長杖のようなもの。\n杖？　という疑問はもっとも。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110750000",
-    "jp_text": "赤のロッド",
-    "en_text": "Red Rod",
-    "jp_explain": "試験的にカラーリングを\nシンボリックにした長杖。\n目映い赤色は必然的に目を引く。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110760000",
-    "jp_text": "青のロッド",
-    "en_text": "Blue Rod",
-    "jp_explain": "試験的にカラーリングを\nシンボリックにした長杖。\n目映い青色は必然的に目を引く。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110770000",
-    "jp_text": "クロームエヴォル",
-    "en_text": "Chrome Evol",
-    "jp_explain": "生体的な部品を用いて作られた長杖。\n時折、うごめくようなフォトンを\n感じることもあるが、性能は高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110780000",
-    "jp_text": "ヘイズエヴォル",
-    "en_text": "Haze Evol",
-    "jp_explain": "生体的な部品が用いられた長杖。\n漆黒に染まった部位からは、奇妙な\nフォトンのうごめきが感じられる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110820000",
-    "jp_text": "ディーライラ",
-    "en_text": "Deelyra",
-    "jp_explain": "わずかなフォトンしか存在しなくても\n装者が不自由しないように、さまざまな\n効率化がはかられた長杖。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110830000",
-    "jp_text": "トラリーシャフト",
-    "en_text": "Tiger Li Shaft",
-    "jp_explain": "底抜けにリリーパ族を想いすぎたため\n作り上げてしまった長杖。\n虎柄がキュートだが、愛が重い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110890000",
-    "jp_text": "ビーチシェード",
-    "en_text": "Beach Shade",
-    "jp_explain": "ＵＶカット率が向上したレジャー長杖。\nロッドだと気づかずビーチで使用する\n若い女性が続出したという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "1110900000",
-    "jp_text": "ストームシェード",
-    "en_text": "Storm Shade",
-    "jp_explain": "強風対策が施されたレジャー長杖。\n硬質フォトンファイバー製の骨を採用し\n折れにくくしなやかな動きが可能。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101010000",
-    "jp_text": "カラミティソウル",
-    "en_text": "Calamity Soul",
-    "jp_explain": "タマシイを食らうと言われる長杖。\n主に多大なる力を与えるが\n同時にその心をむしばむ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101040000",
-    "jp_text": "ヒガンシャク",
-    "en_text": "Higanshaku",
-    "jp_explain": "かねてより儀式に用いられてきた\n由緒正しい長杖。その神聖さを損なう\nことなく、戦闘用に強化されている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101050000",
-    "jp_text": "スイレンシャク",
-    "en_text": "Suirenshaku",
-    "jp_explain": "儀式用に作られた由緒正しい長杖。\n励起した周囲のフォトンがほのかに\n青を帯び、杖の周囲を漂っている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101070000",
-    "jp_text": "エスカヘルメス",
-    "en_text": "Esca Hermes",
-    "jp_explain": "穂先の装飾部に技術を集約し\n桁違いのフォトン感応力を実現した\nシンプルながらも高性能な長杖。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101080000",
-    "jp_text": "ヴィオヘルメス",
-    "en_text": "Vio Hermes",
-    "jp_explain": "最先端の技術が注ぎ込まれた長杖。\nほのかに発光しているのは\nフォトンの強制励起による影響。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101100000",
-    "jp_text": "セイントフェザー",
-    "en_text": "Saint Feather",
-    "jp_explain": "かつて聖職者が使用したという長杖。\n新開発の軽量硬化羽毛をふんだんに使い\n気品あふれるテクニック行使を実現。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101110000",
-    "jp_text": "セイントフラップ",
-    "en_text": "Saint Flap",
-    "jp_explain": "聖職者が使用した長杖の軽量モデル。\n軽量硬化羽毛を見た目そのままに減量し\n配列の調整で従来どおりの性能を維持。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101130000",
-    "jp_text": "カジバゴコウ",
-    "en_text": "Cagiva Gokou",
-    "jp_explain": "粋で雅な戦闘スタイルを実現する長杖。\nかつて一部地域で火消しのシンボルと\nされた印に由来し、戦闘を鼓舞する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101140000",
-    "jp_text": "バレンゴコウ",
-    "en_text": "Baren Gokou",
-    "jp_explain": "粋で雅な戦闘スタイルを実現する長杖。\nフォトン吸収に優れた房飾りが\nテクニック行使を効率よく補助する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101170000",
-    "jp_text": "ヴェイズテイル",
-    "en_text": "Vasetail",
-    "jp_explain": "フォトン回転速度の向上で高速変形する\n長杖。法撃性能が飛躍的に強化され\n燃え盛る炎のようなシルエットも人気。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101180000",
-    "jp_text": "トランスシリンダー",
-    "en_text": "Trance Cylinder",
-    "jp_explain": "蒸気エネルギーで効能を増幅した長杖。\n強化機構をヘッドにバランス良く配置し\n握りやすい細身の柄を採用した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101190000",
-    "jp_text": "シリカローゼス",
-    "en_text": "Silica Roses",
-    "jp_explain": "花の咲き散る様を模倣して作られた\n芸術的な長杖。一つ一つの花弁が\nそれぞれフォトンの増幅機能を持つ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101210000",
-    "jp_text": "シリカロストーク",
-    "en_text": "Silica Rostalk",
-    "jp_explain": "咲く花やそのつぼみをイメージした\n芸術的な装いの長杖。花弁が散る時\n敵の命も散り果てるという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101230000",
-    "jp_text": "バイオリアス",
-    "en_text": "Bio Rias",
-    "jp_explain": "最先端の生体工学を応用し開発された\n長杖。にじみ出るフォトンが外装保護し\n内部に溜め込んだ力を一気に放出する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101240000",
-    "jp_text": "ライブリアス",
-    "en_text": "Live Rias",
-    "jp_explain": "最先端の生体工学を応用し開発された\n長杖。無機的形状ながら高純度培養液が\n極めて有機的に反応し法撃力を増強。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101260000",
-    "jp_text": "クレマケーク",
-    "en_text": "Crema Cake",
-    "jp_explain": "パティシエが宣伝用に製作した長杖。\n戦場のためケーキでお祝いできない\nアークスを中心に大人気の品。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101270000",
-    "jp_text": "ロドスコルジュ",
-    "en_text": "Rodos Korge",
-    "jp_explain": "惑星ウォパルで発見された変異生物の\n身体機能を解析し再現した長杖。\n法撃に最適な出力調整を施す。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101290000",
-    "jp_text": "キュイプロウ",
-    "en_text": "Cuiplow",
-    "jp_explain": "かわいらしさにこだわり抜いた長杖。\n太陽を模した宝石とキュートな羽根が\nフォトンエネルギーを増幅させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101300000",
-    "jp_text": "ウェドルパーク",
-    "en_text": "Weddle Park",
-    "jp_explain": "威圧的な外観にこだわるキャストが\n好んで使用する長杖。フォトンドラムが\nバランス良く配置され法撃力を高める。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101310000",
-    "jp_text": "ベルトロダン",
-    "en_text": "Bert Rodan",
-    "jp_explain": "防護を重視する女性キャストが好んで\n使用する長杖。大型ヘッドは軽量設計で\n重心が偏らず安定した操作性を誇る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101320000",
-    "jp_text": "チェイドラーケン",
-    "en_text": "Cheyd Raken",
-    "jp_explain": "宇宙という海原を駆け巡るにふさわしい\n長杖。錨を模した形状で重量感ある鎖を\n揺らし、荒々しくも高貴に戦う。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101410000",
-    "jp_text": "チェイドジェンヌ",
-    "en_text": "Cheyd Jenne",
-    "jp_explain": "宇宙という海原を駆け巡るにふさわしい\n長杖。華やかな色合いが重苦しい戦闘の\n現場をおしゃれに彩る。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101430000",
-    "jp_text": "キュイプラバ",
-    "en_text": "Cuiprava",
-    "jp_explain": "かわいらしさにこだわり抜いた長杖。\nブラックホールを模した宝石と黒羽根が\n使用者の心の奥底から力を引き出す。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101460000",
-    "jp_text": "ウェドルパーダスト",
-    "en_text": "Weddle Pardust",
-    "jp_explain": "威圧的な外観にこだわるキャストが\n好んで使用する長杖。徹底して軽量化を\n図られたブレードは女性にも人気。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101470000",
-    "jp_text": "ベルトローナー",
-    "en_text": "Bert Launer",
-    "jp_explain": "防護を重視する女性キャストが好んで\n使用する長杖。グリップに至るまで\n確かな厚装甲で圧倒的強度を確保した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101500000",
-    "jp_text": "ビブラスロッド",
-    "en_text": "Vibras Rod",
-    "jp_explain": "ダーク・ビブラスの角を加工して\n作られた長杖。先端に装着された\n二股の角が特徴的。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101510000",
-    "jp_text": "リクウィグ",
-    "en_text": "Lickwig",
-    "jp_explain": "鋭利な形状が特徴的な長杖。\n物理的な攻撃力も高く、フォトンの\n吸収効率も非常に良い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101540000",
-    "jp_text": "ルーチェフラーシュ",
-    "en_text": "Luce Flash",
-    "jp_explain": "基本に立ち返って設計された長杖。\n動きを阻害しないシンプルな形状で\n非常に扱い易くなっている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101580000",
-    "jp_text": "ファーレンケイオン",
-    "en_text": "Fahrenkeion",
-    "jp_explain": "大勢のためでなく、ただひとりのために\n刀匠ジグが創り上げた長杖。\nそれは、彼の情熱の結晶。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101610000",
-    "jp_text": "アリシアリビリス",
-    "en_text": "Alicia Libris",
-    "jp_explain": "翼のような装飾が特徴的な長杖。\n清浄で神聖な美しさを持つ。柄には\nフォトンを集束する文様が刻まれている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101640000",
-    "jp_text": "スコークラヴィア",
-    "en_text": "Scroll Klavier",
-    "jp_explain": "音楽をこよなく愛するアークスが企画し\n開発した長杖。紡ぎ出されるフォトンは\n装者の力へと変わり、法撃力となる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101680000",
-    "jp_text": "キャナロップ",
-    "en_text": "Canaropp",
-    "jp_explain": "リリーパ族のデータを元に設計された\n長杖。振る度に揺れる腕と長い耳が\n可愛いと評判。性能も折り紙つき。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101750000",
-    "jp_text": "エオスウェール",
-    "en_text": "Eosweil",
-    "jp_explain": "春の訪れを祝う祭りにちなんで制作\nされた長杖。浅葱色の柄が可憐な武器。\n儀礼用から実戦用に改良された。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101770000",
-    "jp_text": "シュペロイス",
-    "en_text": "Sperois",
-    "jp_explain": "耐久性の高い素材で作られた長杖。\n何にも捕らわれない鳥をイメージして\n作成された。広がる両翼が美しい。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101830000",
-    "jp_text": "フルーブライラ",
-    "en_text": "Fleuve Lyra",
-    "jp_explain": "年に一度だけ再会を許される夫妻の\n伝説を元に作られた長杖。天の川を\n連想させる柄が美しいと評判。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101880000",
-    "jp_text": "フブキエニシ",
-    "en_text": "Fubuki Enishi",
-    "jp_explain": "華やかに彩られた刀型の長杖。\n形状こそ長刀だが、刃は無く\n超高濃度のフォトンが収まっている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101950000",
-    "jp_text": "ギグルテッソ",
-    "en_text": "Gigur Tesso",
-    "jp_explain": "黒の民ギグル・グンネガムが持つ\n巨大な剣を加工した長杖。\n刃には奇怪な文字が刻まれている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101970000",
-    "jp_text": "ネメシスセイジ",
-    "en_text": "Nemesis Sage",
-    "jp_explain": "古の時代に封印された聖なる長杖。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101980000",
-    "jp_text": "スレイヴセイジ",
-    "en_text": "Slave Sage",
-    "jp_explain": "古の時代に封印された邪なる長杖。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11101990000",
-    "jp_text": "ネプトロッド",
-    "en_text": "Nepto Rod",
-    "jp_explain": "ウォパル海王種から採取したヒレを\n加工し作成した長杖。周囲のフォトンを\n効率良く取り込む事ができる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102010000",
-    "jp_text": "イデアルプレアー",
-    "en_text": "Ideal Prayer",
-    "jp_explain": "新開発のフォトンジェネレーターを\n搭載した長杖。発せられる\nフォトンの輝きは次代の証とされる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102050000",
-    "jp_text": "宵白鳳",
-    "en_text": "Yoi Hakuhou",
-    "jp_explain": "吉兆の証とされる伝説の霊鳥を模して\n制作された美しい長杖。空を飛ぶ姿を\n想像し作られたと言われている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102090000",
-    "jp_text": "ベーアリリクレニア",
-    "en_text": "Bayari Rikurenia",
-    "jp_explain": "ベーアリブルスの組織形成を模倣して\n作られた生物的なフォルムの長杖。\n荒々しい法撃力をもたらす。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102150000",
-    "jp_text": "グラヴィリオス",
-    "en_text": "Gravilios",
-    "jp_explain": "蜃気楼の中に稀に現れるという古城に\n眠る究極の長杖。青く光るフォトンから\n計り知れない力が生まれ出でる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102210000",
-    "jp_text": "禍杖ノチウハウ",
-    "en_text": "Evil Nochiuhau",
-    "jp_explain": "惑星ハルコタンで発掘された長杖。\n『禍津』の影響で不気味なフォトンを\n帯びているが、元は由緒ある杖だった。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102250000",
-    "jp_text": "シャルイスト",
-    "en_text": "Shallist",
-    "jp_explain": "大気の力を宿すといわれる長杖。\n強大な法撃力を内包しており、限られた\n実力者のみが扱う事を許されるという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102260000",
-    "jp_text": "アルミスイスト",
-    "en_text": "Aluminum Swift",
-    "jp_explain": "大気の力を宿すといわれる長杖。\nまとい付く風と雷のフォトンは甚大だが\n扱えれば絶大な法撃力が約束される。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102310000",
-    "jp_text": "ノクスリフェル",
-    "en_text": "Nox Lipher",
-    "jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き長杖。装者も恐怖を\n抱くほどの強大な法撃力を宿す。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102370000",
-    "jp_text": "ギクスジェウド",
-    "en_text": "Gix Jeudu",
-    "jp_explain": "臨界寸前まで圧縮したフォトンと\n同調した長杖。装者の精神とリンクし\n大出力のテクニック行使を可能にする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102390000",
-    "jp_text": "壊錫アグリッサ",
-    "en_text": "Agrissa",
-    "jp_explain": "￥黒衣マトイロッド",
-    "en_explain": "Black Matoi Rod"
-  },
-  {
-    "assign": "11102430000",
-    "jp_text": "明錫クラリッサⅢ",
-    "en_text": "Clarissa III",
-    "jp_explain": "￥新マトイコスロッド",
-    "en_explain": "￥New Matoi Costume Rod"
-  },
-  {
-    "assign": "11102440000",
-    "jp_text": "インヴェイドソーサラー",
-    "en_text": "Invade Sorcerer",
-    "jp_explain": "【深遠なる闇】より生まれし負の長杖。\n装者に万の叡知を与えるが\n強き力の崇拝者へと変貌させる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102450000",
-    "jp_text": "オフスティアソーサラー",
-    "en_text": "Austere Sorcerer",
-    "jp_explain": "負の力を識り、制することで転化した\n浄化の長杖。与えられた大いなる智慧は\n悪者を倒し、平穏をもたらす力となる。",
-    "en_explain": "A purified Rod.\nIts great wisdom brings\njustice through peace\nthat vanquishes evil."
-  },
-  {
-    "assign": "11102460000",
-    "jp_text": "幻創電探",
-    "en_text": "Phantom Radar",
-    "jp_explain": "エーテルにより具現された\n幻創戦艦・大和の部品を模した長杖。\n超弩級の大砲は見る者を圧倒する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102490000",
-    "jp_text": "クオツラウラ",
-    "en_text": "Quotz Laura",
-    "jp_explain": "特定地域のみで採掘される鉱石を使い\n製作された長杖。フォトン伝導率の良い\n石を上部に配置し、法撃性能を高めた。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102530000",
-    "jp_text": "エンジュリーミスティー",
-    "en_text": "Angely Misty",
-    "jp_explain": "勇気と希望を持つ者が扱える\n神秘的な長杖。情愛の深さに反応して\n優れた法撃力をもたらすという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102600000",
-    "jp_text": "シャフトレボルシオ",
-    "en_text": "Shaft Revolucio",
-    "jp_explain": "新開発の演算装置を搭載した長杖。\n装者の思考や戦況を分析することで\n出力を最適に保ち、負荷を軽減する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102650000",
-    "jp_text": "リグファーシー",
-    "en_text": "Rig Farshee",
-    "jp_explain": "伝説の生物を機械的に再現した長杖。\n頭部を模したパーツからは、炎のような\n高密度のフォトンが溢れ出す。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102670000",
-    "jp_text": "ジグマファーシー",
-    "en_text": "Sigma Farshee",
-    "jp_explain": "伝説の生物を機械的に再現した長杖。\n輪状パーツがフォトン感応を強化し\n高威力のテクニック行使を可能とする。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102680000",
-    "jp_text": "フォームザッパー",
-    "en_text": "Form Zapper",
-    "jp_explain": "近接武器の設計図を基に開発された\n長杖。ブースターを用いた加速によって\n大剣さながらの威力を生み出す。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102710000",
-    "jp_text": "アウラエストゥール",
-    "en_text": "Aura Estour",
-    "jp_explain": "異界の因子を触媒に生み出された\n漆黒の長杖。装者の気力に比例して\n長大な矛は蒼き輝きを増すという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102770000",
-    "jp_text": "レイロッド",
-    "en_text": "Ray Rod",
-    "jp_explain": "次世代の主力として開発された長杖。\n基礎モデルの直系の後継機であり\n出力、安定性共に高いスペックを誇る。",
-    "en_explain": "A Rod developed as the latest\nmodel, boasting high photon stability\nwith next-gen specifications."
-  },
-  {
-    "assign": "11102850000",
-    "jp_text": "シグリアオービット",
-    "en_text": "Sigulia Orbit",
-    "jp_explain": "新開発のフォトンリング機構を搭載した\n長杖。展開された部品が合体し\n万象を操る閃光の杖へと姿を変える。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102890000",
-    "jp_text": "ロッド-NT",
-    "en_text": "Rod-NT",
-    "jp_explain": "アークスで正式採用されている長杖。\n打突用の武器ではなくテクニック使用の\n補助デバイスとしての役割が主。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102900000",
-    "jp_text": "アルバロッド-NT",
-    "en_text": "Alva Rod-NT",
-    "jp_explain": "アークスで使用される改良型の長杖。\nフォトンに対する感応力を高めると共に\n強度も高められ打突用としても使用可。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102910000",
-    "jp_text": "ヴィタロッド-NT",
-    "en_text": "Vita Rod-NT",
-    "jp_explain": "基礎モデルに改良を加えた長杖。\n儀礼的なフォルムが強化、フォトンへの\n感応力が強められた分、装者を選ぶ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102920000",
-    "jp_text": "ストライカー-NT",
-    "en_text": "Striker-NT",
-    "jp_explain": "意図的に大型化された長杖。\n見た目で威嚇することを狙ったもので\n扱いにくいが従来機より法撃力は高い。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102930000",
-    "jp_text": "アルバストライカー-NT",
-    "en_text": "Alva Striker-NT",
-    "jp_explain": "大型長杖の改良型。\nフォトンバランスを調整し体感重量を\n軽減させ、扱いやすさを向上させた。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102940000",
-    "jp_text": "ヴィタストライカー-NT",
-    "en_text": "Vita Striker-NT",
-    "jp_explain": "大型化された長杖のカスタム改造版。\nあらゆる局面での使用を想定し\nフォトン感応力の底上げを重視した。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102950000",
-    "jp_text": "フォールオンス-NT",
-    "en_text": "Fallounce-NT",
-    "jp_explain": "フォトン吸収に優れた長杖。\n超軽量ながら新機構により大気中の\nフォトンを取り込み出力を保つ。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102960000",
-    "jp_text": "アルバフォールオンス-NT",
-    "en_text": "Alva Fallounce-NT",
-    "jp_explain": "フォトン吸収に優れた長杖の改良型。\n大気中のフォトン取り込み機構を\n大型化し、法撃力全般を向上させた。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102970000",
-    "jp_text": "ヴィタフォールオンス-NT",
-    "en_text": "Vita Fallounce-NT",
-    "jp_explain": "フォトン吸収に優れた長杖の高機能型。\n物理的な攻撃を回避する防御ユニットを\n組み込み、安定した法撃を可能にした。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102980000",
-    "jp_text": "レッドプロセッサ-NT",
-    "en_text": "Red Processor-NT",
-    "jp_explain": "簡易的な変形機構を搭載した長杖。\nパーツのそれぞれが大気中のフォトンを\n吸収し、装者の力へと還元する。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11102990000",
-    "jp_text": "ガーランド-NT",
-    "en_text": "Garland-NT",
-    "jp_explain": "テクニック行使に最適化された長杖。\n法撃に必要ないパーツを潔く除外した\nシンプルな構造が特徴的。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11103000000",
-    "jp_text": "ディオガーランド-NT",
-    "en_text": "Dio Garland-NT",
-    "jp_explain": "熟練のフォースが試作した改良型長杖。\nテクニック行使を自動補助するような\n実験的な試みが行われている。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11103010000",
-    "jp_text": "神杖アマテラス-NT",
-    "en_text": "Divine Amaterasu-NT",
-    "jp_explain": "伝承に伝わる長杖のレプリカ。\nかつて巫女と呼ばれていた存在が抱き\n裁きの雷を操っていたという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11103020000",
-    "jp_text": "ルーライラ-NT",
-    "en_text": "Rulyra-NT",
-    "jp_explain": "フォトンの総量が少ない場でも\n効率の良い運用が出来るように\n調節された長杖。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11103030000",
-    "jp_text": "ラビットウォンド-NT",
-    "en_text": "Rabbit Wand-NT",
-    "jp_explain": "先端のマスコットがカワイイ長杖。\nその見かけから武器としてだけでなく\nアクセサリーとしても重宝される。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11103040000",
-    "jp_text": "ノクスリフェル-NT",
-    "en_text": "Nox Lipher-NT",
-    "jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き長杖。装者も恐怖を\n抱くほどの強大な法撃力を宿す。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11103050000",
-    "jp_text": "ヘイズプロセッサVer2",
-    "en_text": "Haze Processor Ver2",
-    "jp_explain": "簡易的な変形機構を搭載した長杖。\n個々のパーツがフォトンに感応し\nその漆黒の姿を鋭く輝かせる。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11103160000",
-    "jp_text": "オーバーテイル-NT",
-    "en_text": "Overtail-NT",
-    "jp_explain": "新開発のフォトン回転機構により変形が\n可能な長杖。使用者のテクニック行使に\n合わせ自動で形状が最適化される。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11103170000",
-    "jp_text": "ヴェイズテイル-NT",
-    "en_text": "Vasetail-NT",
-    "jp_explain": "フォトン回転速度の向上で高速変形する\n長杖。法撃性能が飛躍的に強化され\n燃え盛る炎のようなシルエットも人気。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11103200000",
-    "jp_text": "クラーリタ・ヴィサス-NT",
-    "en_text": "Clarita Visas-NT",
-    "jp_explain": "翼を持つ一角獣の角が素材の長杖。\n持ち主を選ぶ武器といわれ、純粋な心を\n持たないものは使いこなせないという。",
-    "en_explain": ""
-  },
-  {
-    "assign": "11103210000",
-    "jp_text": "[NPC]Ｃ・ヴィサス",
-    "en_text": "Emilia's Rod",
-    "jp_explain": "■NPC専用",
-    "en_explain": ""
-  },
-  {
-    "assign": "11103220000",
-    "jp_text": "パンプキンロッド-NT",
-    "en_text": "Pumpkin Rod-NT",
-    "jp_explain": "伝説上の怪物の頭を模した長杖。\nジョークグッズだが、戦闘にも使える。\n全クラス装備可能な、特殊な武器。",
-    "en_explain": ""
-  }
+	{
+		"assign": "111000000",
+		"jp_text": "ロッド",
+		"en_text": "Rod",
+		"jp_explain": "アークスで正式採用されている長杖。\n打突用の武器ではなくテクニック使用の\n補助デバイスとしての役割が主。",
+		"en_explain": ""
+	},
+	{
+		"assign": "111010000",
+		"jp_text": "アルバロッド",
+		"en_text": "Alva Rod",
+		"jp_explain": "アークスで使用される改良型の長杖。\nフォトンに対する感応力を高めると共に\n強度も高められ打突用としても使用可。",
+		"en_explain": ""
+	},
+	{
+		"assign": "111020000",
+		"jp_text": "ヴィタロッド",
+		"en_text": "Vita Rod",
+		"jp_explain": "基礎モデルに改良を加えた長杖。\n儀礼的なフォルムが強化、フォトンへの\n感応力が強められた分、装者を選ぶ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "111030000",
+		"jp_text": "ポール",
+		"en_text": "Pole",
+		"jp_explain": "アークスで正式採用されている長杖。\n初心者のテクニック行使補助を\n最優先に設計された入門モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "111040000",
+		"jp_text": "アルバポール",
+		"en_text": "Alva Pole",
+		"jp_explain": "アークスで使用される改良型の長杖。\n先端部の強度が高められ、フォトンの\n集束率も引き上げられている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "111050000",
+		"jp_text": "ヴィタポール",
+		"en_text": "Vita Pole",
+		"jp_explain": "基礎モデルに改良を加えた長杖。\n強度やフォトンの集束率がバランス良く\n向上し、広く愛用されている一品。",
+		"en_explain": ""
+	},
+	{
+		"assign": "111060000",
+		"jp_text": "パイラー",
+		"en_text": "Piler",
+		"jp_explain": "アークスで正式採用されている長杖。\nテクニック行使を最優先にフォトンが\n増強されたが扱いやすさは損なわれた。",
+		"en_explain": ""
+	},
+	{
+		"assign": "111070000",
+		"jp_text": "アルバパイラー",
+		"en_text": "Alva Piler",
+		"jp_explain": "アークスで使用される改良型の長杖。\nフォトンバランスの緻密な調整により\n扱いやすさが向上した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "111080000",
+		"jp_text": "ヴィタパイラー",
+		"en_text": "Vita Piler",
+		"jp_explain": "基礎モデルに改良を加えた長杖。\n扱いやすくテクニック行使に最適な\nフォトンの含有量の限界を再計算した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "111090000",
+		"jp_text": "ストライカー",
+		"en_text": "Striker",
+		"jp_explain": "意図的に大型化された長杖。\n見た目で威嚇することを狙ったもので\n扱いにくいが従来機より法撃力は高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110100000",
+		"jp_text": "アルバストライカー",
+		"en_text": "Alva Striker",
+		"jp_explain": "大型長杖の改良型。\nフォトンバランスを調整し体感重量を\n軽減させ、扱いやすさを向上させた。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110110000",
+		"jp_text": "ヴィタストライカー",
+		"en_text": "Vita Striker",
+		"jp_explain": "大型化された長杖のカスタム改造版。\nあらゆる局面での使用を想定し\nフォトン感応力の底上げを重視した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110120000",
+		"jp_text": "フォールオンス",
+		"en_text": "Folones",
+		"jp_explain": "フォトン吸収に優れた長杖。\n超軽量ながら新機構により大気中の\nフォトンを取り込み出力を保つ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110130000",
+		"jp_text": "アルバフォールオンス",
+		"en_text": "Alva Folones",
+		"jp_explain": "フォトン吸収に優れた長杖の改良型。\n大気中のフォトン取り込み機構を\n大型化し、法撃力全般を向上させた。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110140000",
+		"jp_text": "ヴィタフォールオンス",
+		"en_text": "Vita Folones",
+		"jp_explain": "フォトン吸収に優れた長杖の高機能型。\n物理的な攻撃を回避する防御ユニットを\n組み込み、安定した法撃を可能にした。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110150000",
+		"jp_text": "ラムダガーランド",
+		"en_text": "Lambda Garland",
+		"jp_explain": "熟練のフォースが改良した長杖。\nシンプルな構造そのままにフォトンを\n重層コートして頑強性を高めた。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110160000",
+		"jp_text": "ディオガーランド",
+		"en_text": "Dio Garland",
+		"jp_explain": "熟練のフォースが試作した改良型長杖。\nテクニック行使を自動補助するような\n実験的な試みが行われている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110170000",
+		"jp_text": "ガーランド",
+		"en_text": "Garland",
+		"jp_explain": "テクニック行使に最適化された長杖。\n法撃に必要ないパーツを潔く除外した\nシンプルな構造が特徴的。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110180000",
+		"jp_text": "レッドプロセッサ",
+		"en_text": "Red Processor",
+		"jp_explain": "簡易的な変形機構を搭載した長杖。\nパーツのそれぞれが大気中のフォトンを\n吸収し、装者の力へと還元する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110190000",
+		"jp_text": "シージプロセッサ",
+		"en_text": "Siege Processor",
+		"jp_explain": "簡易的な変形機構を搭載した長杖。\n洗練されたフォルムはフォトンに感応し\nテクニックの行使を強く後押しする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110200000",
+		"jp_text": "ヘイズプロセッサ",
+		"en_text": "Haze Processor",
+		"jp_explain": "簡易的な変形機構を搭載した長杖。\n個々のパーツがフォトンに感応し\nその漆黒の姿を鋭く輝かせる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110210000",
+		"jp_text": "サルバドール",
+		"en_text": "Salvador",
+		"jp_explain": "実験的に装甲を付与した長杖。\nテクニック補助の用途も満たすだけの\n性能を保持した、巨大な試作品。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110220000",
+		"jp_text": "ラムダサルバドール",
+		"en_text": "Lambda Salvador",
+		"jp_explain": "実験的に装甲を付与した長杖。\nより汎用的な方向に性能調整を行った\n純然たるバージョンアップの作品。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110230000",
+		"jp_text": "ディオサルバドール",
+		"en_text": "Dio Salvador",
+		"jp_explain": "実験的に装甲を付与した長杖。\nテストの結果を受けて、さらに特徴を\n伸ばす方向に調整された特化モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110240000",
+		"jp_text": "ステラトゥインクル",
+		"en_text": "Stella Twinkle",
+		"jp_explain": "童心を忘れないフォースのための長杖。\n装者のフォトン感応力が、そのまま\n星のきらめきに反映される。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110250000",
+		"jp_text": "ヴェガトゥインクル",
+		"en_text": "Vega Twinkle",
+		"jp_explain": "遊び心のあるフォースのための長杖。\n打突の回数によってテクニック行使の\n感応性が変化する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110260000",
+		"jp_text": "ミルキートゥインクル",
+		"en_text": "Milky Twinkle",
+		"jp_explain": "宇宙へはばたくフォースのための長杖。\nアークスとしてのキャリアの長さが\nそのまま星のきらめきに反映される。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110270000",
+		"jp_text": "サイコウォンド",
+		"en_text": "Psycho Wand",
+		"jp_explain": "未元金属によって作られた伝説の長杖。\n詳細は一切不明ながら、宇宙の起源に\n関わったとの伝承も存在するらしい。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110280000",
+		"jp_text": "クラーリタ・ヴィサス",
+		"en_text": "Clarita Visas",
+		"jp_explain": "翼を持つ一角獣の角が素材の長杖。\n持ち主を選ぶ武器といわれ、純粋な心を\n持たないものは使いこなせないという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110290000",
+		"jp_text": "カジューシース",
+		"en_text": "Caduceus",
+		"jp_explain": "不思議な波動を放つ長杖。\n聖なる杖として伝えられてきたものを\n基に開発が行われた。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110300000",
+		"jp_text": "デモニックフォーク",
+		"en_text": "Demonic Fork",
+		"jp_explain": "不可思議な力で装者に不幸を呼ぶ長杖。\n返しのついたその刃は、捕らえた獲物を\n決して離すことはない。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110310000",
+		"jp_text": "ピコピコハンマー",
+		"en_text": "Pico Pico Hammer",
+		"jp_explain": "生まれる理由を間違えてしまった長杖。\n元は子供用だったが、改良を重ねた結果\n全クラス装備可能な特殊な武器となった。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110320000",
+		"jp_text": "パンプキンロッド",
+		"en_text": "Pumpkin Rod",
+		"jp_explain": "伝説上の怪物の頭を模した長杖。\nジョークグッズだが、戦闘にも使える。\n全クラス装備可能な、特殊な武器。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110330000",
+		"jp_text": "ストライクブルーム",
+		"en_text": "Strike Broom",
+		"jp_explain": "古のフォースが使用していたとされる\nホウキ型長杖を模して作られたもの。\n見た目だけでなく性能も完全再現。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110340000",
+		"jp_text": "神杖アマテラス",
+		"en_text": "Divine Amaterasu",
+		"jp_explain": "伝承に伝わる長杖のレプリカ。\nかつて巫女と呼ばれていた存在が抱き\n裁きの雷を操っていたという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110350000",
+		"jp_text": "トワイライトルーン",
+		"en_text": "Twilight Rune",
+		"jp_explain": "夜を愛する芸術家が想いを込めた長杖。\n満ち欠けする月が満ちたその時\n真の姿をあらわすという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110360000",
+		"jp_text": "ウィッチブルーム",
+		"en_text": "Witch Broom",
+		"jp_explain": "古来より、由緒正しいフォースの\n正統な長杖として伝わっているもの。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110370000",
+		"jp_text": "白錫クラリッサ",
+		"en_text": "",
+		"jp_explain": "■",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110380000",
+		"jp_text": "灰錫クラリッサⅡ",
+		"en_text": "",
+		"jp_explain": "■",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110390000",
+		"jp_text": "セイテンバイセ",
+		"en_text": "Seitenweise",
+		"jp_explain": "圧倒的な年を重ねた樹木の幹を用い\n長い時間を掛けてフォトンをなじませた\n至高の長杖。樹とは思えぬ性能を持つ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110400000",
+		"jp_text": "セイテンランセ",
+		"en_text": "Seitenranse",
+		"jp_explain": "長寿の樹木を用いて作られた長杖。\nフォトンと生体の無理ない融合により\n自然に大量のフォトンを使役可能。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110410000",
+		"jp_text": "セイテンヘイセ",
+		"en_text": "Seitenheise",
+		"jp_explain": "長寿の樹木を用いて作られた長杖。\n意識的に与えたフォトンの属性により\n性能を特化させる形となった。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110420000",
+		"jp_text": "ヴァイフロース",
+		"en_text": "Vifroze",
+		"jp_explain": "氷の結晶を模して作られた長杖。\n冷たい輝きは常に保たれており\n時に吹雪すら呼び起こすという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110430000",
+		"jp_text": "メリオフロース",
+		"en_text": "Meliofroze",
+		"jp_explain": "氷の結晶を模して作られた長杖。\n情熱的な色合いだが、身体の底まで\n凍えるような冷たいフォトンは健在。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110440000",
+		"jp_text": "アズーフロース",
+		"en_text": "Azufroze",
+		"jp_explain": "氷の結晶を模して作られた長杖。\n持ちうる性能を十全に発揮できるよう\n徹底的に性能を高めた特化モデル。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110450000",
+		"jp_text": "グラマシェント",
+		"en_text": "Gramascient",
+		"jp_explain": "幾何学的な模様が刻まれた長杖。\n由来や素材に謎が多く、その性能の\n全貌は未だ明らかにされていない。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110470000",
+		"jp_text": "アンブラステッキ",
+		"en_text": "Umblla Stick",
+		"jp_explain": "異次元よりの来訪者が、気まぐれに\n置いていったステキなステッキ。\n全クラス装備可能な、特殊な長杖。",
+		"en_explain": "A Rod from another dimension.\nNicely crafted for\na whimsical visitor."
+	},
+	{
+		"assign": "1110480000",
+		"jp_text": "ディニアロッド",
+		"en_text": "Dinia Rod",
+		"jp_explain": "アムドゥスキア原生の龍族が持つ\n大きな杖を回収し、使用できるように\n改良を加えた、生体的な長杖。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110490000",
+		"jp_text": "サディールロッド",
+		"en_text": "Sadiel Rod",
+		"jp_explain": "アムドゥスキア原生の龍族が持つ\n大きな杖を回収、改良した長杖。\n大気中のフォトンへの感応力が高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110500000",
+		"jp_text": "ウィンディシャフト",
+		"en_text": "Windy Shaft",
+		"jp_explain": "ウィンディラの翼膜などを利用して\n作られた長杖。はばたきのような\nフォトンの奔流を巻き起こす。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110510000",
+		"jp_text": "エルダーロッド",
+		"en_text": "Elder Rod",
+		"jp_explain": "ダークファルス・エルダーの\nデータを基に作り上げた長杖。\n禍々しいフォトンをまとう。",
+		"en_explain": "Rod made from DF Elder.\nIts data carries\nomnious photons around it."
+	},
+	{
+		"assign": "1110520000",
+		"jp_text": "マイク・スタンド",
+		"en_text": "Mic Stand",
+		"jp_explain": "元は拡声器を固定するためのスタンド。\n長杖として使用できるよう改造された。\n全クラス装備可能な、特殊な武器。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110530000",
+		"jp_text": "ピコピコハンマー／ナハト",
+		"en_text": "Pico Pico Hammer / Nacht",
+		"jp_explain": "闇夜の色を抱く長杖。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110540000",
+		"jp_text": "ルビアシェント",
+		"en_text": "Rubiascient",
+		"jp_explain": "幾何学的な模様の刻まれている長杖。\n来歴だけでなく、文様の意味すら未だ\n不明ながら、性能に優れ人気が高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110550000",
+		"jp_text": "ラルダシェント",
+		"en_text": "Raldacient",
+		"jp_explain": "幾何学的な模様が特徴的な長杖。\nフォトンを食うかのように吸収し\n装者の力へと変換する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110560000",
+		"jp_text": "アーレスロッド",
+		"en_text": "Ares Rod",
+		"jp_explain": "白魚の幻獣の力を宿した長杖。装者に\nフォトンブラストの効果で惑わぬ力を\n与え、テクニック行使を補助する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110570000",
+		"jp_text": "恋鳳凰",
+		"en_text": "Koi Houou",
+		"jp_explain": "施された装飾の風に舞う姿が\n伝説上の鳥の舞う姿を想起させる\n由緒正しき長杖。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110580000",
+		"jp_text": "ルーライラ",
+		"en_text": "Rulyra",
+		"jp_explain": "フォトンの総量が少ない場でも\n効率の良い運用が出来るように\n調節された長杖。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110590000",
+		"jp_text": "スタークカッツェ",
+		"en_text": "Stark Katze",
+		"jp_explain": "蝶の羽を模したかのような華美な\n装飾が特徴的な長杖。自然に漂う\nフォトンへの感応力が高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110610000",
+		"jp_text": "ゴロンロッド",
+		"en_text": "Goron Rod",
+		"jp_explain": "ゴロンゾランの持っていた杖を再現し\n作られた長杖。召喚こそ不可能だが\n性能自体は抜群に高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110620000",
+		"jp_text": "ゾロンロッド",
+		"en_text": "Zoron Rod",
+		"jp_explain": "ゾロン・ゴラールの使用していた杖を\n模して作り上げた長杖。フォトンへの\n感応力が高く、装者の力を底上げする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110660000",
+		"jp_text": "オーバーテイル",
+		"en_text": "Overtail",
+		"jp_explain": "新開発のフォトン回転機構により変形が\n可能な長杖。使用者のテクニック行使に\n合わせ自動で形状が最適化される。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110670000",
+		"jp_text": "サテライトライザー",
+		"en_text": "Satellite Riser",
+		"jp_explain": "戦闘への強き意思を表す長杖。\n心強き力の象徴として、猛々しい\n切っ先は敵への威嚇としても効果的。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110690000",
+		"jp_text": "アメン・ラー",
+		"en_text": "Amun Ra",
+		"jp_explain": "神々しさを感じる金色の長杖。\n杖に描かれた瞳は太陽を象徴し、\nその大いなる力は万物を司るという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110700000",
+		"jp_text": "ラビットウォンド",
+		"en_text": "Rabbit Wand",
+		"jp_explain": "先端のマスコットがカワイイ長杖。\nその見かけから武器としてだけでなく\nアクセサリーとしても重宝される。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110710000",
+		"jp_text": "リベラシオン",
+		"en_text": "Liberacion",
+		"jp_explain": "生と死の狭間に鎮座している\n命の番人が持つという長杖。\n魂の灯火をその力とし輝きを放つ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110720000",
+		"jp_text": "ステルスウェポン：ＲＯ",
+		"en_text": "Stealth Weapon:RO",
+		"jp_explain": "認識不能な武器。\n形状はロッド型。",
+		"en_explain": "Unknown Weapon.\nSeems to be of the Rod-type."
+	},
+	{
+		"assign": "1110730000",
+		"jp_text": "クラッドロッド",
+		"en_text": "Clad Rod",
+		"jp_explain": "希望を抱く翼の名を冠し、その意志を\n力に変えてくれる不思議な長杖。\n全クラス装備可能な、特殊な武器。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110740000",
+		"jp_text": "トロピコハン",
+		"en_text": "Toro Pikohan",
+		"jp_explain": "極端なかたちまで改造された\nほぼ専用の長杖のようなもの。\n杖？　という疑問はもっとも。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110750000",
+		"jp_text": "赤のロッド",
+		"en_text": "Red Rod",
+		"jp_explain": "試験的にカラーリングを\nシンボリックにした長杖。\n目映い赤色は必然的に目を引く。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110760000",
+		"jp_text": "青のロッド",
+		"en_text": "Blue Rod",
+		"jp_explain": "試験的にカラーリングを\nシンボリックにした長杖。\n目映い青色は必然的に目を引く。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110770000",
+		"jp_text": "クロームエヴォル",
+		"en_text": "Chrome Evol",
+		"jp_explain": "生体的な部品を用いて作られた長杖。\n時折、うごめくようなフォトンを\n感じることもあるが、性能は高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110780000",
+		"jp_text": "ヘイズエヴォル",
+		"en_text": "Haze Evol",
+		"jp_explain": "生体的な部品が用いられた長杖。\n漆黒に染まった部位からは、奇妙な\nフォトンのうごめきが感じられる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110820000",
+		"jp_text": "ディーライラ",
+		"en_text": "Deelyra",
+		"jp_explain": "わずかなフォトンしか存在しなくても\n装者が不自由しないように、さまざまな\n効率化がはかられた長杖。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110830000",
+		"jp_text": "トラリーシャフト",
+		"en_text": "Tiger Li Shaft",
+		"jp_explain": "底抜けにリリーパ族を想いすぎたため\n作り上げてしまった長杖。\n虎柄がキュートだが、愛が重い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110890000",
+		"jp_text": "ビーチシェード",
+		"en_text": "Beach Shade",
+		"jp_explain": "ＵＶカット率が向上したレジャー長杖。\nロッドだと気づかずビーチで使用する\n若い女性が続出したという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "1110900000",
+		"jp_text": "ストームシェード",
+		"en_text": "Storm Shade",
+		"jp_explain": "強風対策が施されたレジャー長杖。\n硬質フォトンファイバー製の骨を採用し\n折れにくくしなやかな動きが可能。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101010000",
+		"jp_text": "カラミティソウル",
+		"en_text": "Calamity Soul",
+		"jp_explain": "タマシイを食らうと言われる長杖。\n主に多大なる力を与えるが\n同時にその心をむしばむ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101040000",
+		"jp_text": "ヒガンシャク",
+		"en_text": "Higanshaku",
+		"jp_explain": "かねてより儀式に用いられてきた\n由緒正しい長杖。その神聖さを損なう\nことなく、戦闘用に強化されている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101050000",
+		"jp_text": "スイレンシャク",
+		"en_text": "Suirenshaku",
+		"jp_explain": "儀式用に作られた由緒正しい長杖。\n励起した周囲のフォトンがほのかに\n青を帯び、杖の周囲を漂っている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101070000",
+		"jp_text": "エスカヘルメス",
+		"en_text": "Esca Hermes",
+		"jp_explain": "穂先の装飾部に技術を集約し\n桁違いのフォトン感応力を実現した\nシンプルながらも高性能な長杖。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101080000",
+		"jp_text": "ヴィオヘルメス",
+		"en_text": "Vio Hermes",
+		"jp_explain": "最先端の技術が注ぎ込まれた長杖。\nほのかに発光しているのは\nフォトンの強制励起による影響。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101100000",
+		"jp_text": "セイントフェザー",
+		"en_text": "Saint Feather",
+		"jp_explain": "かつて聖職者が使用したという長杖。\n新開発の軽量硬化羽毛をふんだんに使い\n気品あふれるテクニック行使を実現。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101110000",
+		"jp_text": "セイントフラップ",
+		"en_text": "Saint Flap",
+		"jp_explain": "聖職者が使用した長杖の軽量モデル。\n軽量硬化羽毛を見た目そのままに減量し\n配列の調整で従来どおりの性能を維持。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101130000",
+		"jp_text": "カジバゴコウ",
+		"en_text": "Cagiva Gokou",
+		"jp_explain": "粋で雅な戦闘スタイルを実現する長杖。\nかつて一部地域で火消しのシンボルと\nされた印に由来し、戦闘を鼓舞する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101140000",
+		"jp_text": "バレンゴコウ",
+		"en_text": "Baren Gokou",
+		"jp_explain": "粋で雅な戦闘スタイルを実現する長杖。\nフォトン吸収に優れた房飾りが\nテクニック行使を効率よく補助する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101170000",
+		"jp_text": "ヴェイズテイル",
+		"en_text": "Vasetail",
+		"jp_explain": "フォトン回転速度の向上で高速変形する\n長杖。法撃性能が飛躍的に強化され\n燃え盛る炎のようなシルエットも人気。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101180000",
+		"jp_text": "トランスシリンダー",
+		"en_text": "Trance Cylinder",
+		"jp_explain": "蒸気エネルギーで効能を増幅した長杖。\n強化機構をヘッドにバランス良く配置し\n握りやすい細身の柄を採用した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101190000",
+		"jp_text": "シリカローゼス",
+		"en_text": "Silica Roses",
+		"jp_explain": "花の咲き散る様を模倣して作られた\n芸術的な長杖。一つ一つの花弁が\nそれぞれフォトンの増幅機能を持つ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101210000",
+		"jp_text": "シリカロストーク",
+		"en_text": "Silica Rostalk",
+		"jp_explain": "咲く花やそのつぼみをイメージした\n芸術的な装いの長杖。花弁が散る時\n敵の命も散り果てるという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101230000",
+		"jp_text": "バイオリアス",
+		"en_text": "Bio Rias",
+		"jp_explain": "最先端の生体工学を応用し開発された\n長杖。にじみ出るフォトンが外装保護し\n内部に溜め込んだ力を一気に放出する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101240000",
+		"jp_text": "ライブリアス",
+		"en_text": "Live Rias",
+		"jp_explain": "最先端の生体工学を応用し開発された\n長杖。無機的形状ながら高純度培養液が\n極めて有機的に反応し法撃力を増強。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101260000",
+		"jp_text": "クレマケーク",
+		"en_text": "Crema Cake",
+		"jp_explain": "パティシエが宣伝用に製作した長杖。\n戦場のためケーキでお祝いできない\nアークスを中心に大人気の品。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101270000",
+		"jp_text": "ロドスコルジュ",
+		"en_text": "Rodos Korge",
+		"jp_explain": "惑星ウォパルで発見された変異生物の\n身体機能を解析し再現した長杖。\n法撃に最適な出力調整を施す。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101290000",
+		"jp_text": "キュイプロウ",
+		"en_text": "Cuiplow",
+		"jp_explain": "かわいらしさにこだわり抜いた長杖。\n太陽を模した宝石とキュートな羽根が\nフォトンエネルギーを増幅させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101300000",
+		"jp_text": "ウェドルパーク",
+		"en_text": "Weddle Park",
+		"jp_explain": "威圧的な外観にこだわるキャストが\n好んで使用する長杖。フォトンドラムが\nバランス良く配置され法撃力を高める。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101310000",
+		"jp_text": "ベルトロダン",
+		"en_text": "Bert Rodan",
+		"jp_explain": "防護を重視する女性キャストが好んで\n使用する長杖。大型ヘッドは軽量設計で\n重心が偏らず安定した操作性を誇る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101320000",
+		"jp_text": "チェイドラーケン",
+		"en_text": "Cheyd Raken",
+		"jp_explain": "宇宙という海原を駆け巡るにふさわしい\n長杖。錨を模した形状で重量感ある鎖を\n揺らし、荒々しくも高貴に戦う。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101410000",
+		"jp_text": "チェイドジェンヌ",
+		"en_text": "Cheyd Jenne",
+		"jp_explain": "宇宙という海原を駆け巡るにふさわしい\n長杖。華やかな色合いが重苦しい戦闘の\n現場をおしゃれに彩る。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101430000",
+		"jp_text": "キュイプラバ",
+		"en_text": "Cuiprava",
+		"jp_explain": "かわいらしさにこだわり抜いた長杖。\nブラックホールを模した宝石と黒羽根が\n使用者の心の奥底から力を引き出す。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101460000",
+		"jp_text": "ウェドルパーダスト",
+		"en_text": "Weddle Pardust",
+		"jp_explain": "威圧的な外観にこだわるキャストが\n好んで使用する長杖。徹底して軽量化を\n図られたブレードは女性にも人気。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101470000",
+		"jp_text": "ベルトローナー",
+		"en_text": "Bert Launer",
+		"jp_explain": "防護を重視する女性キャストが好んで\n使用する長杖。グリップに至るまで\n確かな厚装甲で圧倒的強度を確保した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101500000",
+		"jp_text": "ビブラスロッド",
+		"en_text": "Vibras Rod",
+		"jp_explain": "ダーク・ビブラスの角を加工して\n作られた長杖。先端に装着された\n二股の角が特徴的。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101510000",
+		"jp_text": "リクウィグ",
+		"en_text": "Lickwig",
+		"jp_explain": "鋭利な形状が特徴的な長杖。\n物理的な攻撃力も高く、フォトンの\n吸収効率も非常に良い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101540000",
+		"jp_text": "ルーチェフラーシュ",
+		"en_text": "Luce Flash",
+		"jp_explain": "基本に立ち返って設計された長杖。\n動きを阻害しないシンプルな形状で\n非常に扱い易くなっている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101580000",
+		"jp_text": "ファーレンケイオン",
+		"en_text": "Fahrenkeion",
+		"jp_explain": "大勢のためでなく、ただひとりのために\n刀匠ジグが創り上げた長杖。\nそれは、彼の情熱の結晶。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101610000",
+		"jp_text": "アリシアリビリス",
+		"en_text": "Alicia Libris",
+		"jp_explain": "翼のような装飾が特徴的な長杖。\n清浄で神聖な美しさを持つ。柄には\nフォトンを集束する文様が刻まれている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101640000",
+		"jp_text": "スコークラヴィア",
+		"en_text": "Scroll Klavier",
+		"jp_explain": "音楽をこよなく愛するアークスが企画し\n開発した長杖。紡ぎ出されるフォトンは\n装者の力へと変わり、法撃力となる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101680000",
+		"jp_text": "キャナロップ",
+		"en_text": "Canaropp",
+		"jp_explain": "リリーパ族のデータを元に設計された\n長杖。振る度に揺れる腕と長い耳が\n可愛いと評判。性能も折り紙つき。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101750000",
+		"jp_text": "エオスウェール",
+		"en_text": "Eosweil",
+		"jp_explain": "春の訪れを祝う祭りにちなんで制作\nされた長杖。浅葱色の柄が可憐な武器。\n儀礼用から実戦用に改良された。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101770000",
+		"jp_text": "シュペロイス",
+		"en_text": "Sperois",
+		"jp_explain": "耐久性の高い素材で作られた長杖。\n何にも捕らわれない鳥をイメージして\n作成された。広がる両翼が美しい。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101830000",
+		"jp_text": "フルーブライラ",
+		"en_text": "Fleuve Lyra",
+		"jp_explain": "年に一度だけ再会を許される夫妻の\n伝説を元に作られた長杖。天の川を\n連想させる柄が美しいと評判。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101880000",
+		"jp_text": "フブキエニシ",
+		"en_text": "Fubuki Enishi",
+		"jp_explain": "華やかに彩られた刀型の長杖。\n形状こそ長刀だが、刃は無く\n超高濃度のフォトンが収まっている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101950000",
+		"jp_text": "ギグルテッソ",
+		"en_text": "Gigur Tesso",
+		"jp_explain": "黒の民ギグル・グンネガムが持つ\n巨大な剣を加工した長杖。\n刃には奇怪な文字が刻まれている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101970000",
+		"jp_text": "ネメシスセイジ",
+		"en_text": "Nemesis Sage",
+		"jp_explain": "古の時代に封印された聖なる長杖。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101980000",
+		"jp_text": "スレイヴセイジ",
+		"en_text": "Slave Sage",
+		"jp_explain": "古の時代に封印された邪なる長杖。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11101990000",
+		"jp_text": "ネプトロッド",
+		"en_text": "Nepto Rod",
+		"jp_explain": "ウォパル海王種から採取したヒレを\n加工し作成した長杖。周囲のフォトンを\n効率良く取り込む事ができる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102010000",
+		"jp_text": "イデアルプレアー",
+		"en_text": "Ideal Prayer",
+		"jp_explain": "新開発のフォトンジェネレーターを\n搭載した長杖。発せられる\nフォトンの輝きは次代の証とされる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102050000",
+		"jp_text": "宵白鳳",
+		"en_text": "Yoi Hakuhou",
+		"jp_explain": "吉兆の証とされる伝説の霊鳥を模して\n制作された美しい長杖。空を飛ぶ姿を\n想像し作られたと言われている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102090000",
+		"jp_text": "ベーアリリクレニア",
+		"en_text": "Bayari Rikurenia",
+		"jp_explain": "ベーアリブルスの組織形成を模倣して\n作られた生物的なフォルムの長杖。\n荒々しい法撃力をもたらす。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102150000",
+		"jp_text": "グラヴィリオス",
+		"en_text": "Gravilios",
+		"jp_explain": "蜃気楼の中に稀に現れるという古城に\n眠る究極の長杖。青く光るフォトンから\n計り知れない力が生まれ出でる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102210000",
+		"jp_text": "禍杖ノチウハウ",
+		"en_text": "Evil Nochiuhau",
+		"jp_explain": "惑星ハルコタンで発掘された長杖。\n『禍津』の影響で不気味なフォトンを\n帯びているが、元は由緒ある杖だった。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102250000",
+		"jp_text": "シャルイスト",
+		"en_text": "Shallist",
+		"jp_explain": "大気の力を宿すといわれる長杖。\n強大な法撃力を内包しており、限られた\n実力者のみが扱う事を許されるという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102260000",
+		"jp_text": "アルミスイスト",
+		"en_text": "Aluminum Swift",
+		"jp_explain": "大気の力を宿すといわれる長杖。\nまとい付く風と雷のフォトンは甚大だが\n扱えれば絶大な法撃力が約束される。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102310000",
+		"jp_text": "ノクスリフェル",
+		"en_text": "Nox Lipher",
+		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き長杖。装者も恐怖を\n抱くほどの強大な法撃力を宿す。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102370000",
+		"jp_text": "ギクスジェウド",
+		"en_text": "Gix Jeudu",
+		"jp_explain": "臨界寸前まで圧縮したフォトンと\n同調した長杖。装者の精神とリンクし\n大出力のテクニック行使を可能にする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102390000",
+		"jp_text": "壊錫アグリッサ",
+		"en_text": "Agrissa",
+		"jp_explain": "￥黒衣マトイロッド",
+		"en_explain": "Black Matoi Rod"
+	},
+	{
+		"assign": "11102430000",
+		"jp_text": "明錫クラリッサⅢ",
+		"en_text": "Clarissa III",
+		"jp_explain": "￥新マトイコスロッド",
+		"en_explain": "￥New Matoi Costume Rod"
+	},
+	{
+		"assign": "11102440000",
+		"jp_text": "インヴェイドソーサラー",
+		"en_text": "Invade Sorcerer",
+		"jp_explain": "【深遠なる闇】より生まれし負の長杖。\n装者に万の叡知を与えるが\n強き力の崇拝者へと変貌させる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102450000",
+		"jp_text": "オフスティアソーサラー",
+		"en_text": "Austere Sorcerer",
+		"jp_explain": "負の力を識り、制することで転化した\n浄化の長杖。与えられた大いなる智慧は\n悪者を倒し、平穏をもたらす力となる。",
+		"en_explain": "A purified Rod.\nIts great wisdom brings\njustice through peace\nthat vanquishes evil."
+	},
+	{
+		"assign": "11102460000",
+		"jp_text": "幻創電探",
+		"en_text": "Phantom Radar",
+		"jp_explain": "エーテルにより具現された\n幻創戦艦・大和の部品を模した長杖。\n超弩級の大砲は見る者を圧倒する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102490000",
+		"jp_text": "クオツラウラ",
+		"en_text": "Quotz Laura",
+		"jp_explain": "特定地域のみで採掘される鉱石を使い\n製作された長杖。フォトン伝導率の良い\n石を上部に配置し、法撃性能を高めた。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102530000",
+		"jp_text": "エンジュリーミスティー",
+		"en_text": "Angely Misty",
+		"jp_explain": "勇気と希望を持つ者が扱える\n神秘的な長杖。情愛の深さに反応して\n優れた法撃力をもたらすという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102600000",
+		"jp_text": "シャフトレボルシオ",
+		"en_text": "Shaft Revolucio",
+		"jp_explain": "新開発の演算装置を搭載した長杖。\n装者の思考や戦況を分析することで\n出力を最適に保ち、負荷を軽減する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102650000",
+		"jp_text": "リグファーシー",
+		"en_text": "Rig Farshee",
+		"jp_explain": "伝説の生物を機械的に再現した長杖。\n頭部を模したパーツからは、炎のような\n高密度のフォトンが溢れ出す。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102670000",
+		"jp_text": "ジグマファーシー",
+		"en_text": "Sigma Farshee",
+		"jp_explain": "伝説の生物を機械的に再現した長杖。\n輪状パーツがフォトン感応を強化し\n高威力のテクニック行使を可能とする。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102680000",
+		"jp_text": "フォームザッパー",
+		"en_text": "Form Zapper",
+		"jp_explain": "近接武器の設計図を基に開発された\n長杖。ブースターを用いた加速によって\n大剣さながらの威力を生み出す。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102710000",
+		"jp_text": "アウラエストゥール",
+		"en_text": "Aura Estour",
+		"jp_explain": "異界の因子を触媒に生み出された\n漆黒の長杖。装者の気力に比例して\n長大な矛は蒼き輝きを増すという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102770000",
+		"jp_text": "レイロッド",
+		"en_text": "Ray Rod",
+		"jp_explain": "次世代の主力として開発された長杖。\n基礎モデルの直系の後継機であり\n出力、安定性共に高いスペックを誇る。",
+		"en_explain": "A Rod developed as the latest\nmodel, boasting high photon stability\nwith next-gen specifications."
+	},
+	{
+		"assign": "11102850000",
+		"jp_text": "シグリアオービット",
+		"en_text": "Sigulia Orbit",
+		"jp_explain": "新開発のフォトンリング機構を搭載した\n長杖。展開された部品が合体し\n万象を操る閃光の杖へと姿を変える。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102890000",
+		"jp_text": "ロッド-NT",
+		"en_text": "Rod-NT",
+		"jp_explain": "アークスで正式採用されている長杖。\n打突用の武器ではなくテクニック使用の\n補助デバイスとしての役割が主。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102900000",
+		"jp_text": "アルバロッド-NT",
+		"en_text": "Alva Rod-NT",
+		"jp_explain": "アークスで使用される改良型の長杖。\nフォトンに対する感応力を高めると共に\n強度も高められ打突用としても使用可。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102910000",
+		"jp_text": "ヴィタロッド-NT",
+		"en_text": "Vita Rod-NT",
+		"jp_explain": "基礎モデルに改良を加えた長杖。\n儀礼的なフォルムが強化、フォトンへの\n感応力が強められた分、装者を選ぶ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102920000",
+		"jp_text": "ストライカー-NT",
+		"en_text": "Striker-NT",
+		"jp_explain": "意図的に大型化された長杖。\n見た目で威嚇することを狙ったもので\n扱いにくいが従来機より法撃力は高い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102930000",
+		"jp_text": "アルバストライカー-NT",
+		"en_text": "Alva Striker-NT",
+		"jp_explain": "大型長杖の改良型。\nフォトンバランスを調整し体感重量を\n軽減させ、扱いやすさを向上させた。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102940000",
+		"jp_text": "ヴィタストライカー-NT",
+		"en_text": "Vita Striker-NT",
+		"jp_explain": "大型化された長杖のカスタム改造版。\nあらゆる局面での使用を想定し\nフォトン感応力の底上げを重視した。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102950000",
+		"jp_text": "フォールオンス-NT",
+		"en_text": "Fallounce-NT",
+		"jp_explain": "フォトン吸収に優れた長杖。\n超軽量ながら新機構により大気中の\nフォトンを取り込み出力を保つ。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102960000",
+		"jp_text": "アルバフォールオンス-NT",
+		"en_text": "Alva Fallounce-NT",
+		"jp_explain": "フォトン吸収に優れた長杖の改良型。\n大気中のフォトン取り込み機構を\n大型化し、法撃力全般を向上させた。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102970000",
+		"jp_text": "ヴィタフォールオンス-NT",
+		"en_text": "Vita Fallounce-NT",
+		"jp_explain": "フォトン吸収に優れた長杖の高機能型。\n物理的な攻撃を回避する防御ユニットを\n組み込み、安定した法撃を可能にした。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102980000",
+		"jp_text": "レッドプロセッサ-NT",
+		"en_text": "Red Processor-NT",
+		"jp_explain": "簡易的な変形機構を搭載した長杖。\nパーツのそれぞれが大気中のフォトンを\n吸収し、装者の力へと還元する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11102990000",
+		"jp_text": "ガーランド-NT",
+		"en_text": "Garland-NT",
+		"jp_explain": "テクニック行使に最適化された長杖。\n法撃に必要ないパーツを潔く除外した\nシンプルな構造が特徴的。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11103000000",
+		"jp_text": "ディオガーランド-NT",
+		"en_text": "Dio Garland-NT",
+		"jp_explain": "熟練のフォースが試作した改良型長杖。\nテクニック行使を自動補助するような\n実験的な試みが行われている。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11103010000",
+		"jp_text": "神杖アマテラス-NT",
+		"en_text": "Divine Amaterasu-NT",
+		"jp_explain": "伝承に伝わる長杖のレプリカ。\nかつて巫女と呼ばれていた存在が抱き\n裁きの雷を操っていたという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11103020000",
+		"jp_text": "ルーライラ-NT",
+		"en_text": "Rulyra-NT",
+		"jp_explain": "フォトンの総量が少ない場でも\n効率の良い運用が出来るように\n調節された長杖。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11103030000",
+		"jp_text": "ラビットウォンド-NT",
+		"en_text": "Rabbit Wand-NT",
+		"jp_explain": "先端のマスコットがカワイイ長杖。\nその見かけから武器としてだけでなく\nアクセサリーとしても重宝される。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11103040000",
+		"jp_text": "ノクスリフェル-NT",
+		"en_text": "Nox Lipher-NT",
+		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き長杖。装者も恐怖を\n抱くほどの強大な法撃力を宿す。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11103050000",
+		"jp_text": "ヘイズプロセッサVer2",
+		"en_text": "Haze Processor Ver2",
+		"jp_explain": "簡易的な変形機構を搭載した長杖。\n個々のパーツがフォトンに感応し\nその漆黒の姿を鋭く輝かせる。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11103160000",
+		"jp_text": "オーバーテイル-NT",
+		"en_text": "Overtail-NT",
+		"jp_explain": "新開発のフォトン回転機構により変形が\n可能な長杖。使用者のテクニック行使に\n合わせ自動で形状が最適化される。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11103170000",
+		"jp_text": "ヴェイズテイル-NT",
+		"en_text": "Vasetail-NT",
+		"jp_explain": "フォトン回転速度の向上で高速変形する\n長杖。法撃性能が飛躍的に強化され\n燃え盛る炎のようなシルエットも人気。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11103200000",
+		"jp_text": "クラーリタ・ヴィサス-NT",
+		"en_text": "Clarita Visas-NT",
+		"jp_explain": "翼を持つ一角獣の角が素材の長杖。\n持ち主を選ぶ武器といわれ、純粋な心を\n持たないものは使いこなせないという。",
+		"en_explain": ""
+	},
+	{
+		"assign": "11103210000",
+		"jp_text": "[NPC]Ｃ・ヴィサス",
+		"en_text": "Emilia's Rod",
+		"jp_explain": "■NPC専用",
+		"en_explain": ""
+	},
+	{
+		"assign": "11103220000",
+		"jp_text": "パンプキンロッド-NT",
+		"en_text": "Pumpkin Rod-NT",
+		"jp_explain": "伝説上の怪物の頭を模した長杖。\nジョークグッズだが、戦闘にも使える。\n全クラス装備可能な、特殊な武器。",
+		"en_explain": ""
+	}
 ]
