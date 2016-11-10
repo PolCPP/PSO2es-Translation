@@ -1,7 +1,8 @@
 language: python
 
 dist: trusty
-sudo: required
+sudo: false
+group: beta
 
 addons:
   apt:
