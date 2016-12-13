@@ -28,6 +28,7 @@ Just grab the current pso2es ContentsSerializer.dll, protobuf-net.dll, ProtoBuff
 * AIDA - Initial translations
 * Logokas - A lot of UI translation work
 * SynthSy - Translation work
+* Alam Arias - Adding travis support and other stuff 
 * Bumped.org - Item Names and Wonderful other translations
 * ARKS-Visiphone - Weapon names and other neat stuff
 
