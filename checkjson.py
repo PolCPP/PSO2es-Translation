@@ -18,7 +18,7 @@ for files in json_files:
                 countin += 1
             if (countin == 0):
                print("%s: %s") % (files, "BLANK")
-               invalid_json_files.append(files)
+               #invalid_json_files.append(files)
         except ValueError as e:
             print("%s: %s") % (files, e)
             invalid_json_files.append(files)
