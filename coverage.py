@@ -34,6 +34,6 @@ for files in json_files:
 
 counterr += len(invalid_json_files)
 if counterr != 0:
-    sys.exit("=============\nJSON files with issues: %d" % count)
+    sys.exit("=============\nJSON files with issues: %d" % counterr)
 else:
     print bufout
