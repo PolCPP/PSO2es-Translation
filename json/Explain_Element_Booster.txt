@@ -1,0 +1,1696 @@
+[
+	{
+		"assign": "0",
+		"jp_text": "パワーⅠ",
+		"en_text": "Power I",
+		"jp_explain": "打撃+10",
+		"en_explain": "S-ATK+10"
+	},
+	{
+		"assign": "1",
+		"jp_text": "パワーⅡ",
+		"en_text": "Power II",
+		"jp_explain": "打撃+20",
+		"en_explain": "S-ATK+20"
+	},
+	{
+		"assign": "2",
+		"jp_text": "パワーⅢ",
+		"en_text": "Power III",
+		"jp_explain": "打撃+30",
+		"en_explain": "S-ATK+30"
+	},
+	{
+		"assign": "3",
+		"jp_text": "パワーⅣ",
+		"en_text": "Power IV",
+		"jp_explain": "打撃+35",
+		"en_explain": "S-ATK+35"
+	},
+	{
+		"assign": "4",
+		"jp_text": "パワーⅤ",
+		"en_text": "Power V",
+		"jp_explain": "打撃+40",
+		"en_explain": "S-ATK+40"
+	},
+	{
+		"assign": "5",
+		"jp_text": "シュートⅠ",
+		"en_text": "Shoot I",
+		"jp_explain": "射撃+10",
+		"en_explain": "R-ATK+10"
+	},
+	{
+		"assign": "6",
+		"jp_text": "シュートⅡ",
+		"en_text": "Shoot II",
+		"jp_explain": "射撃+20",
+		"en_explain": "R-ATK+20"
+	},
+	{
+		"assign": "7",
+		"jp_text": "シュートⅢ",
+		"en_text": "Shoot III",
+		"jp_explain": "射撃+30",
+		"en_explain": "R-ATK+30"
+	},
+	{
+		"assign": "8",
+		"jp_text": "シュートⅣ",
+		"en_text": "Shoot IV",
+		"jp_explain": "射撃+35",
+		"en_explain": "R-ATK+35"
+	},
+	{
+		"assign": "9",
+		"jp_text": "シュートⅤ",
+		"en_text": "Shoot V",
+		"jp_explain": "射撃+40",
+		"en_explain": "R-ATK+40"
+	},
+	{
+		"assign": "10",
+		"jp_text": "テクニックⅠ",
+		"en_text": "Tech I",
+		"jp_explain": "法撃+10",
+		"en_explain": "T-ATK+10"
+	},
+	{
+		"assign": "11",
+		"jp_text": "テクニックⅡ",
+		"en_text": "Tech II",
+		"jp_explain": "法撃+20",
+		"en_explain": "T-ATK+20"
+	},
+	{
+		"assign": "12",
+		"jp_text": "テクニックⅢ",
+		"en_text": "Tech III",
+		"jp_explain": "法撃+30",
+		"en_explain": "T-ATK+30"
+	},
+	{
+		"assign": "13",
+		"jp_text": "テクニックⅣ",
+		"en_text": "Tech IV",
+		"jp_explain": "法撃+35",
+		"en_explain": "T-ATK+35"
+	},
+	{
+		"assign": "14",
+		"jp_text": "テクニックⅤ",
+		"en_text": "Tech V",
+		"jp_explain": "法撃+40",
+		"en_explain": "T-ATK+40"
+	},
+	{
+		"assign": "15",
+		"jp_text": "アームⅠ",
+		"en_text": "Arm I",
+		"jp_explain": "技量+10",
+		"en_explain": "DEX+10"
+	},
+	{
+		"assign": "16",
+		"jp_text": "アームⅡ",
+		"en_text": "Arm II",
+		"jp_explain": "技量+20",
+		"en_explain": "DEX+20"
+	},
+	{
+		"assign": "17",
+		"jp_text": "アームⅢ",
+		"en_text": "Arm III",
+		"jp_explain": "技量+30",
+		"en_explain": "DEX+30"
+	},
+	{
+		"assign": "18",
+		"jp_text": "アームⅣ",
+		"en_text": "Arm IV",
+		"jp_explain": "技量+35",
+		"en_explain": "DEX+35"
+	},
+	{
+		"assign": "19",
+		"jp_text": "アームⅤ",
+		"en_text": "Arm V",
+		"jp_explain": "技量+40",
+		"en_explain": "DEX+40"
+	},
+	{
+		"assign": "20",
+		"jp_text": "ボディⅠ",
+		"en_text": "Body I",
+		"jp_explain": "打防+10",
+		"en_explain": "S-DEF+10"
+	},
+	{
+		"assign": "21",
+		"jp_text": "ボディⅡ",
+		"en_text": "Body II",
+		"jp_explain": "打防+20",
+		"en_explain": "S-DEF+20"
+	},
+	{
+		"assign": "22",
+		"jp_text": "ボディⅢ",
+		"en_text": "Body III",
+		"jp_explain": "打防+30",
+		"en_explain": "S-DEF+30"
+	},
+	{
+		"assign": "23",
+		"jp_text": "ボディⅣ",
+		"en_text": "Body IV",
+		"jp_explain": "打防+35",
+		"en_explain": "S-DEF+35"
+	},
+	{
+		"assign": "24",
+		"jp_text": "ボディⅤ",
+		"en_text": "Body V",
+		"jp_explain": "打防+40",
+		"en_explain": "S-DEF+40"
+	},
+	{
+		"assign": "25",
+		"jp_text": "リアクトⅠ",
+		"en_text": "React I",
+		"jp_explain": "射防+10",
+		"en_explain": "R-DEF+10"
+	},
+	{
+		"assign": "26",
+		"jp_text": "リアクトⅡ",
+		"en_text": "React II",
+		"jp_explain": "射防+20",
+		"en_explain": "R-DEF+20"
+	},
+	{
+		"assign": "27",
+		"jp_text": "リアクトⅢ",
+		"en_text": "React III",
+		"jp_explain": "射防+30",
+		"en_explain": "R-DEF+30"
+	},
+	{
+		"assign": "28",
+		"jp_text": "リアクトⅣ",
+		"en_text": "React IV",
+		"jp_explain": "射防+35",
+		"en_explain": "R-DEF+35"
+	},
+	{
+		"assign": "29",
+		"jp_text": "リアクトⅤ",
+		"en_text": "React V",
+		"jp_explain": "射防+40",
+		"en_explain": "R-DEF+40"
+	},
+	{
+		"assign": "30",
+		"jp_text": "マインドⅠ",
+		"en_text": "Mind I",
+		"jp_explain": "法防+10",
+		"en_explain": "T-DEF+10"
+	},
+	{
+		"assign": "31",
+		"jp_text": "マインドⅡ",
+		"en_text": "Mind II",
+		"jp_explain": "法防+20",
+		"en_explain": "T-DEF+20"
+	},
+	{
+		"assign": "32",
+		"jp_text": "マインドⅢ",
+		"en_text": "Mind III",
+		"jp_explain": "法防+30",
+		"en_explain": "T-DEF+30"
+	},
+	{
+		"assign": "33",
+		"jp_text": "マインドⅣ",
+		"en_text": "Mind IV",
+		"jp_explain": "法防+35",
+		"en_explain": "T-DEF+35"
+	},
+	{
+		"assign": "34",
+		"jp_text": "マインドⅤ",
+		"en_text": "Mind V",
+		"jp_explain": "法防+40",
+		"en_explain": "T-DEF+40"
+	},
+	{
+		"assign": "35",
+		"jp_text": "アビリティⅠ",
+		"en_text": "Ａｂｉｌｉｔｙ I",
+		"jp_explain": "全+5",
+		"en_explain": "ALL+5"
+	},
+	{
+		"assign": "36",
+		"jp_text": "アビリティⅡ",
+		"en_text": "Ａｂｉｌｉｔｙ II",
+		"jp_explain": "全+10",
+		"en_explain": "ALL+10"
+	},
+	{
+		"assign": "37",
+		"jp_text": "アビリティⅢ",
+		"en_text": "Ａｂｉｌｉｔｙ III",
+		"jp_explain": "全+15",
+		"en_explain": "ALL+15"
+	},
+	{
+		"assign": "38",
+		"jp_text": "アビリティⅣ",
+		"en_text": "Ａｂｉｌｉｔｙ IV",
+		"jp_explain": "全+20",
+		"en_explain": "ALL+20"
+	},
+	{
+		"assign": "39",
+		"jp_text": "アビリティⅤ",
+		"en_text": "Ａｂｉｌｉｔｙ V",
+		"jp_explain": "全+25",
+		"en_explain": "ALL+25"
+	},
+	{
+		"assign": "40",
+		"jp_text": "スタミナⅠ",
+		"en_text": "Stamina I",
+		"jp_explain": "HP+20",
+		"en_explain": ""
+	},
+	{
+		"assign": "41",
+		"jp_text": "スタミナⅡ",
+		"en_text": "Stamina II",
+		"jp_explain": "HP+40",
+		"en_explain": ""
+	},
+	{
+		"assign": "42",
+		"jp_text": "スタミナⅢ",
+		"en_text": "Stamina III",
+		"jp_explain": "HP+50",
+		"en_explain": ""
+	},
+	{
+		"assign": "43",
+		"jp_text": "スタミナⅣ",
+		"en_text": "Stamina IV",
+		"jp_explain": "HP+60",
+		"en_explain": ""
+	},
+	{
+		"assign": "44",
+		"jp_text": "スタミナⅤ",
+		"en_text": "Stamina V",
+		"jp_explain": "HP+70",
+		"en_explain": ""
+	},
+	{
+		"assign": "45",
+		"jp_text": "スピリタⅠ",
+		"en_text": "Spirita I",
+		"jp_explain": "PP+2",
+		"en_explain": ""
+	},
+	{
+		"assign": "46",
+		"jp_text": "スピリタⅡ",
+		"en_text": "Spirita II",
+		"jp_explain": "PP+3",
+		"en_explain": ""
+	},
+	{
+		"assign": "47",
+		"jp_text": "スピリタⅢ",
+		"en_text": "Spirita III",
+		"jp_explain": "PP+4",
+		"en_explain": ""
+	},
+	{
+		"assign": "48",
+		"jp_text": "スピリタⅣ",
+		"en_text": "Spirita IV",
+		"jp_explain": "PP+5",
+		"en_explain": ""
+	},
+	{
+		"assign": "49",
+		"jp_text": "スピリタⅤ",
+		"en_text": "Spirita V",
+		"jp_explain": "PP+6",
+		"en_explain": ""
+	},
+	{
+		"assign": "50",
+		"jp_text": "パワー・ブースト",
+		"en_text": "Power Boost",
+		"jp_explain": "打撃+25",
+		"en_explain": "S-ATK+25"
+	},
+	{
+		"assign": "51",
+		"jp_text": "シュート・ブースト",
+		"en_text": "Shoot Boost",
+		"jp_explain": "射撃+25",
+		"en_explain": "R-ATK+25"
+	},
+	{
+		"assign": "52",
+		"jp_text": "テクニック・ブースト",
+		"en_text": "Ｔｅｃｈｎｉｑｕｅ Ｂｏｏｓｔ",
+		"jp_explain": "法撃+25",
+		"en_explain": "T-ATK+25"
+	},
+	{
+		"assign": "53",
+		"jp_text": "スタミナ・ブースト",
+		"en_text": "Ｓｔａｍｉｎａ Ｂｏｏｓｔ",
+		"jp_explain": "HP+45",
+		"en_explain": ""
+	},
+	{
+		"assign": "54",
+		"jp_text": "スピリタ・ブースト",
+		"en_text": "Ｓｐｉｒｉｔａ Ｂｏｏｓｔ",
+		"jp_explain": "PP+5",
+		"en_explain": ""
+	},
+	{
+		"assign": "55",
+		"jp_text": "グワナ・ソール",
+		"en_text": "Gwana Soul",
+		"jp_explain": "打撃+30 HP+10 PP+2",
+		"en_explain": "S-ATK+30 HP+10 PP+2"
+	},
+	{
+		"assign": "56",
+		"jp_text": "ラグネ・ソール",
+		"en_text": "Ragne Soul",
+		"jp_explain": "法撃+30 HP+20",
+		"en_explain": "T-ATK+30 HP+20"
+	},
+	{
+		"assign": "57",
+		"jp_text": "ウォルガ・ソール",
+		"en_text": "Wolga Soul",
+		"jp_explain": "法撃+30 HP+10 PP+2",
+		"en_explain": "T-ATK+30 HP+10 PP+2"
+	},
+	{
+		"assign": "58",
+		"jp_text": "エルダー・ソール",
+		"en_text": "Elder Soul",
+		"jp_explain": "法撃+30 PP+3",
+		"en_explain": "T-ATK+30 PP+3"
+	},
+	{
+		"assign": "59",
+		"jp_text": "シグノ・ソール",
+		"en_text": "Signo Soul",
+		"jp_explain": "技量+30 HP+20 PP+1",
+		"en_explain": "DEX+30 HP+20 PP+1"
+	},
+	{
+		"assign": "60",
+		"jp_text": "マイザー・ソール",
+		"en_text": "Mizer Soul",
+		"jp_explain": "射撃+30 PP+3",
+		"en_explain": "R-ATK+30 PP+3"
+	},
+	{
+		"assign": "61",
+		"jp_text": "ヴァーダー・ソール",
+		"en_text": "Vardha Soul",
+		"jp_explain": "射防+30 PP+4",
+		"en_explain": "R-DEF+30 PP+4"
+	},
+	{
+		"assign": "62",
+		"jp_text": "キャタ・ソール",
+		"en_text": "Cater Soul",
+		"jp_explain": "法防+30 HP+20 PP+1",
+		"en_explain": "T-DEF+30 HP+20 PP+1"
+	},
+	{
+		"assign": "63",
+		"jp_text": "ヴォル・ソール",
+		"en_text": "Vol Soul",
+		"jp_explain": "打撃+30 HP+20",
+		"en_explain": "S-ATK+30 HP+20"
+	},
+	{
+		"assign": "64",
+		"jp_text": "クォーツ・ソール",
+		"en_text": "Quartz Soul",
+		"jp_explain": "打撃+30 PP+3",
+		"en_explain": "S-ATK+30 PP+3"
+	},
+	{
+		"assign": "65",
+		"jp_text": "ロックベア・ソール",
+		"en_text": "Ｒｏｃｋｂｅａｒ Ｓｏｕｌ",
+		"jp_explain": "打防+30 HP+10 PP+3",
+		"en_explain": "S-DEF+30 HP+10 PP+3"
+	},
+	{
+		"assign": "66",
+		"jp_text": "マルモ・ソール",
+		"en_text": "Malmo Soul",
+		"jp_explain": "射防+30 HP+20 PP+1",
+		"en_explain": "R-DEF+30 HP+20 PP+1"
+	},
+	{
+		"assign": "67",
+		"jp_text": "ファング・ソール",
+		"en_text": "Fang Soul",
+		"jp_explain": "射撃+30 HP+10 PP+2",
+		"en_explain": "R-ATK+30 HP+10 PP+2"
+	},
+	{
+		"assign": "68",
+		"jp_text": "スノウ・ソール",
+		"en_text": "Snow Soul",
+		"jp_explain": "打防+30 HP+20 PP+1",
+		"en_explain": "S-DEF+30 HP+20 PP+1"
+	},
+	{
+		"assign": "69",
+		"jp_text": "ラッピー・ソール",
+		"en_text": "Rappy Soul",
+		"jp_explain": "技量+30 PP+4",
+		"en_explain": "DEX+30 PP+4"
+	},
+	{
+		"assign": "70",
+		"jp_text": "モデュレイター",
+		"en_text": "Modulator",
+		"jp_explain": "打撃+30\n射撃+30\n法撃+30",
+		"en_explain": "S-ATK+30 R-ATK+30\nT-ATK+30"
+	},
+	{
+		"assign": "71",
+		"jp_text": "ミューテーションⅠ",
+		"en_text": "Mutation I",
+		"jp_explain": "特定の合成確率が上昇\n打撃+10 射撃+10\n法撃+10　HP+10",
+		"en_explain": "Boosts certain abilities\nsuccess rates.\nATK+10 HP+10"
+	},
+	{
+		"assign": "72",
+		"jp_text": "ウィンクルム",
+		"en_text": "Vinculum",
+		"jp_explain": "打撃+20 射撃+20\n法撃+20",
+		"en_explain": "S-ATK+20 R-ATK+20\nT-ATK+20"
+	},
+	{
+		"assign": "73",
+		"jp_text": "ランサ・ソール",
+		"en_text": "Ra'nsaSoul",
+		"jp_explain": "射撃+30 HP+20",
+		"en_explain": "R-ATK+30 HP+20"
+	},
+	{
+		"assign": "74",
+		"jp_text": "スティグマ",
+		"en_text": "Stigma",
+		"jp_explain": "PP+5　技量+20",
+		"en_explain": "DEX+20 PP+5"
+	},
+	{
+		"assign": "75",
+		"jp_text": "フォトンコレクト",
+		"en_text": "Ｐｈｏｔｏｎ Ｃｏｌｌｅｃｔ",
+		"jp_explain": "状態異常と属性耐性の\n合成確率を上昇させる\nステータス上昇なし",
+		"en_explain": "Boost synthesis transfer\nrate of status effect\nabilities."
+	},
+	{
+		"assign": "76",
+		"jp_text": "シュレイダ・ソール",
+		"en_text": "Shrayda Soul",
+		"jp_explain": "法防+30 HP+10 PP+3",
+		"en_explain": "T-DEF+30 HP+10 PP+3"
+	},
+	{
+		"assign": "77",
+		"jp_text": "クローム・ソール",
+		"en_text": "Chrome Soul",
+		"jp_explain": "技量+30 HP+10 PP+3",
+		"en_explain": "DEX+30 HP+10 PP+3"
+	},
+	{
+		"assign": "78",
+		"jp_text": "ゴロン・ソール",
+		"en_text": "Goron Soul",
+		"jp_explain": "法防+30 PP+4",
+		"en_explain": "T-DEF+30 PP+4"
+	},
+	{
+		"assign": "79",
+		"jp_text": "エクス・ソール",
+		"en_text": "Ex Soul",
+		"jp_explain": "打防+30 PP+4",
+		"en_explain": "S-DEF+30 PP+4"
+	},
+	{
+		"assign": "80",
+		"jp_text": "アルター・アルマ",
+		"en_text": "Alter Arma",
+		"jp_explain": "HP+30 打撃+20",
+		"en_explain": "S-ATK+20 HP+30"
+	},
+	{
+		"assign": "81",
+		"jp_text": "アルター・ティロ",
+		"en_text": "Alter Tiro",
+		"jp_explain": "HP+30 射撃+20",
+		"en_explain": "R-ATK+20 HP+30"
+	},
+	{
+		"assign": "82",
+		"jp_text": "アルター・マギア",
+		"en_text": "Alter Magia",
+		"jp_explain": "HP+30 法撃+20",
+		"en_explain": "T-ATK+20 HP+30"
+	},
+	{
+		"assign": "83",
+		"jp_text": "フリクト・アルマ",
+		"en_text": "Flict Arma",
+		"jp_explain": "PP+3 打撃+20",
+		"en_explain": "S-ATK+20 PP+3"
+	},
+	{
+		"assign": "84",
+		"jp_text": "フリクト・ティロ",
+		"en_text": "Flict Tiro",
+		"jp_explain": "PP+3 射撃+20",
+		"en_explain": "R-ATK+20 PP+3"
+	},
+	{
+		"assign": "85",
+		"jp_text": "フリクト・マギア",
+		"en_text": "Flict Magia",
+		"jp_explain": "PP+3 法撃+20",
+		"en_explain": "T-ATK+20 PP+3"
+	},
+	{
+		"assign": "86",
+		"jp_text": "ペルソナ・ソール",
+		"en_text": "Persona Soul",
+		"jp_explain": "射防+30 HP+10 PP+3",
+		"en_explain": "R-DEF+30 HP+10 PP+3"
+	},
+	{
+		"assign": "87",
+		"jp_text": "クーガー・ソール",
+		"en_text": "Cougar Soul",
+		"jp_explain": "打撃+15 射撃+15\n法撃+15 技量+15\nHP+10 PP+2",
+		"en_explain": "S-ATK+15 R-ATK+15\nT-ATK+15 DEX+15\nHP+10 PP+2"
+	},
+	{
+		"assign": "88",
+		"jp_text": "オルグ・ソール",
+		"en_text": "Org Soul",
+		"jp_explain": "打撃+20 射撃+20\nHP+10",
+		"en_explain": "S-ATK+20 R-ATK+20\nHP+10"
+	},
+	{
+		"assign": "89",
+		"jp_text": "バル・ソール",
+		"en_text": "Bal Soul",
+		"jp_explain": "射撃+20 法撃+20\nHP+10",
+		"en_explain": "R-ATK+20 T-ATK+20\nHP+10"
+	},
+	{
+		"assign": "90",
+		"jp_text": "リンガ・ソール",
+		"en_text": "Ringa Soul",
+		"jp_explain": "打撃+20 法撃+20\nHP+10",
+		"en_explain": "S-ATK+20 T-ATK+20\nHP+10"
+	},
+	{
+		"assign": "91",
+		"jp_text": "ソーマ・ソール",
+		"en_text": "Soma Soul",
+		"jp_explain": "打撃+20 射撃+20\nPP+2",
+		"en_explain": "S-ATK+20 R-ATK+20\nPP+2"
+	},
+	{
+		"assign": "92",
+		"jp_text": "タガミカヅチ・ソール",
+		"en_text": "Ｔａｇａｍｉｋａｚｕｃｈｉ Ｓｏｕｌ",
+		"jp_explain": "射撃+20 法撃+20\nPP+2",
+		"en_explain": "R-ATK+20 T-ATK+20\nPP+2"
+	},
+	{
+		"assign": "93",
+		"jp_text": "マリューダ・ソール",
+		"en_text": "Malluda Soul",
+		"jp_explain": "打撃+20 法撃+20\nPP+2",
+		"en_explain": "S-ATK+20 T-ATK+20\nPP+2"
+	},
+	{
+		"assign": "94",
+		"jp_text": "メデューナ・ソール",
+		"en_text": "Meduna Soul",
+		"jp_explain": "打撃+20 射撃+20\nHP+5 PP+1",
+		"en_explain": "S-ATK+20 R-ATK+20\nHP+5 PP+1"
+	},
+	{
+		"assign": "95",
+		"jp_text": "ビブラス・ソール",
+		"en_text": "Ｖｉｂｒａｃｅ Ｓｏｕｌ",
+		"jp_explain": "射撃+20 法撃+20\nHP+5 PP+1",
+		"en_explain": "R-ATK+20 T-ATK+20\nHP+5 PP+1"
+	},
+	{
+		"assign": "96",
+		"jp_text": "ルーサー・ソール",
+		"en_text": "Loser Soul",
+		"jp_explain": "打撃+20 法撃+20\nHP+5 PP+1",
+		"en_explain": "S-ATK+20 T-ATK+20\nHP+5 PP+1"
+	},
+	{
+		"assign": "97",
+		"jp_text": "リーリー・ソール",
+		"en_text": "Lilli Soul",
+		"jp_explain": "打撃+20 打防+20\nHP+20",
+		"en_explain": "S-ATK+20 S-DEF+20\nHP+20"
+	},
+	{
+		"assign": "98",
+		"jp_text": "ラタン・フィーバー",
+		"en_text": "Latan Fever",
+		"jp_explain": "法撃+10 技量+5\nPP+2",
+		"en_explain": "T-ATK+10 DEX+5\nPP+2"
+	},
+	{
+		"assign": "99",
+		"jp_text": "セント・フィーバー",
+		"en_text": "St. Fever",
+		"jp_explain": "射撃+10 技量+5\nPP+2",
+		"en_explain": "R-ATK+10 DEX+5\nPP+2"
+	},
+	{
+		"assign": "100",
+		"jp_text": "ラブ・フィーバー",
+		"en_text": "Love Fever",
+		"jp_explain": "打撃+10 技量+5\nPP+2",
+		"en_explain": "S-ATK+10 DEX+5\nPP+2"
+	},
+	{
+		"assign": "101",
+		"jp_text": "ラヴィ・フィーバー",
+		"en_text": "Lovey Fever",
+		"jp_explain": "打撃+10 技量+5\nHP+10",
+		"en_explain": "S-ATK+10 DEX+5\nHP+10"
+	},
+	{
+		"assign": "102",
+		"jp_text": "エグ・フィーバー",
+		"en_text": "Egg Fever",
+		"jp_explain": "射撃+10 技量+5\nHP+10",
+		"en_explain": "R-ATK+10 DEX+5\nHP+10"
+	},
+	{
+		"assign": "103",
+		"jp_text": "フログ・フィーバー",
+		"en_text": "Frog Fever",
+		"jp_explain": "法撃+10 技量+5\nHP+10",
+		"en_explain": "T-ATK+10 DEX+5\nHP+10"
+	},
+	{
+		"assign": "104",
+		"jp_text": "サマー・フィーバー",
+		"en_text": "Summer Fever",
+		"jp_explain": "法撃+10 技量+5\nHP+5 PP+1",
+		"en_explain": "T-ATK+10 DEX+5\nHP+5 PP+1"
+	},
+	{
+		"assign": "105",
+		"jp_text": "リターナーⅠ",
+		"en_text": "Returner I",
+		"jp_explain": "全+3 HP+3 PP+1",
+		"en_explain": "ALL+5 HP+3 PP+1"
+	},
+	{
+		"assign": "106",
+		"jp_text": "リターナーⅡ",
+		"en_text": "Returner II",
+		"jp_explain": "全+5 HP+5 PP+2",
+		"en_explain": "ALL+5 HP+5 PP+2"
+	},
+	{
+		"assign": "107",
+		"jp_text": "リターナーⅢ",
+		"en_text": "Returner III",
+		"jp_explain": "全+10 HP+10 PP+3",
+		"en_explain": "ALL+10 HP+10 PP+3"
+	},
+	{
+		"assign": "108",
+		"jp_text": "リターナーⅣ",
+		"en_text": "Returner IV",
+		"jp_explain": "全+15 HP+15 PP+4",
+		"en_explain": "ALL+15 HP+15 PP+4"
+	},
+	{
+		"assign": "109",
+		"jp_text": "リターナーⅤ",
+		"en_text": "Returner V",
+		"jp_explain": "全+30 HP+30 PP+5",
+		"en_explain": "ALL+30 HP+30 PP+5"
+	},
+	{
+		"assign": "110",
+		"jp_text": "ドラゴン・フィーバー",
+		"en_text": "Dragon Fever",
+		"jp_explain": "射撃+10 技量+5\nPP+2",
+		"en_explain": "R-ATK+10 T-DEF+5\nPP+2"
+	},
+	{
+		"assign": "111",
+		"jp_text": "エレファント・フィーバー",
+		"en_text": "Elephant Fever",
+		"jp_explain": "打撃+10 技量+5\nHP+10",
+		"en_explain": "S-ATK+10 T-DEF+5\nHP+10"
+	},
+	{
+		"assign": "112",
+		"jp_text": "ソールレセプター",
+		"en_text": "Ｓｏｕｌ Ｒｅｃｅｐｔｏｒ",
+		"jp_explain": "ソール系特殊能力の\n合成成功率を大幅に上昇\n全+10",
+		"en_explain": "Boosts transfer\nrate of Soul Abilities.\nALL+10"
+	},
+	{
+		"assign": "113",
+		"jp_text": "マーク・ジョイオ",
+		"en_text": "Mark Joyo",
+		"jp_explain": "打撃+40 射撃+40\n法撃+40 HP+50",
+		"en_explain": "S-ATK+40 R-ATK+40\nT-ATK+40 HP+50"
+	},
+	{
+		"assign": "114",
+		"jp_text": "マーク・カレジナ",
+		"en_text": "Ｍａｒｋ Ｃｏｕｒａｇｅｎａ",
+		"jp_explain": "打撃+40 射撃+40\n法撃+40 PP+5",
+		"en_explain": "S-ATK+40 R-ATK+40\nT-ATK+40 PP+5"
+	},
+	{
+		"assign": "115",
+		"jp_text": "マーク・アンガル",
+		"en_text": "Mark Angar",
+		"jp_explain": "打撃+50 射撃+50\n法撃+50 技量+40",
+		"en_explain": "S-ATK+40 R-ATK+40\nT-ATK+40 DEX+40"
+	},
+	{
+		"assign": "116",
+		"jp_text": "マーク・グリフ",
+		"en_text": "Mark Grif",
+		"jp_explain": "打防+50 射防+50\n法防+50 HP+80",
+		"en_explain": "S-DEF+50 R-DEF+50\nT-DEF+50 HP+80"
+	},
+	{
+		"assign": "117",
+		"jp_text": "ナイトギア・ソール",
+		"en_text": "Ｋｎｉｇｈｔ Ｇｅａｒ Ｓｏｕｌ",
+		"jp_explain": "打撃+15 射撃+15\n法撃+15 技量+15 PP+4",
+		"en_explain": "S-ATK+15 R-ATK+15\nT-ATK+15 PP+4"
+	},
+	{
+		"assign": "118",
+		"jp_text": "グンネ・ソール",
+		"en_text": "Gunne Soul",
+		"jp_explain": "打撃+15 HP+45",
+		"en_explain": "S-ATK+15 HP+45"
+	},
+	{
+		"assign": "119",
+		"jp_text": "イーデッタ・ソール",
+		"en_text": "Idetta Soul",
+		"jp_explain": "射撃+15 HP+45",
+		"en_explain": "R-ATK+15 HP+45"
+	},
+	{
+		"assign": "120",
+		"jp_text": "ジャドゥ・ソール",
+		"en_text": "Jhadu Soul",
+		"jp_explain": "法撃+15 HP+45",
+		"en_explain": "T-DEF+15 HP+45"
+	},
+	{
+		"assign": "121",
+		"jp_text": "ENT_02ソール",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "122",
+		"jp_text": "ジグモル・ソール",
+		"en_text": "Zigmor Soul",
+		"jp_explain": "打撃+15 PP+4",
+		"en_explain": "S-ATK+15 PP+4"
+	},
+	{
+		"assign": "123",
+		"jp_text": "マドゥ・ソール",
+		"en_text": "Madu Soul",
+		"jp_explain": "射撃+15 PP+4",
+		"en_explain": "R-ATK+15 PP+4"
+	},
+	{
+		"assign": "124",
+		"jp_text": "ネプト・ソール",
+		"en_text": "Nepto Soul",
+		"jp_explain": "法撃+15 PP+4",
+		"en_explain": "T-ATK+15 PP+4"
+	},
+	{
+		"assign": "125",
+		"jp_text": "ニャウ・ソール",
+		"en_text": "Nyau Soul",
+		"jp_explain": "技量+15 PP+4",
+		"en_explain": "DEX+15 PP+4"
+	},
+	{
+		"assign": "126",
+		"jp_text": "ギフトレセプター",
+		"en_text": "Ｇｉｆｔ Ｒｅｃｅｐｔｏｒ",
+		"jp_explain": "ギフト系特殊能力の\n引き継ぎが可能になる\n全+10",
+		"en_explain": "Boosts transfer\nrate of gift abilities.\nALL+10"
+	},
+	{
+		"assign": "127",
+		"jp_text": "セレモ・フィーバー",
+		"en_text": "Ceremo Fever",
+		"jp_explain": "打撃+10 技量+5\nHP+5 PP+1",
+		"en_explain": "S-ATK+10 DEX+5\nHP+5 PP+1"
+	},
+	{
+		"assign": "128",
+		"jp_text": "ノイヤ・フィーバー",
+		"en_text": "Noiya Fever",
+		"jp_explain": "射撃+10 技量+5\nHP+5 PP+1",
+		"en_explain": "R-ATK+10 DEX+5\nHP+5 PP+1"
+	},
+	{
+		"assign": "129",
+		"jp_text": "ルーナ・フィーバー",
+		"en_text": "Luna Fever",
+		"jp_explain": "法撃+10 HP+10 PP+1",
+		"en_explain": "T-ATK+10 HP+10\nPP+1"
+	},
+	{
+		"assign": "130",
+		"jp_text": "トロクロ・フィーバー",
+		"en_text": "Toro Kuro Fever",
+		"jp_explain": "技量+15 HP+5 PP+1",
+		"en_explain": "DEX+15 HP+5\nPP+1"
+	},
+	{
+		"assign": "131",
+		"jp_text": "サクラ・フィーバー",
+		"en_text": "Sakura Fever",
+		"jp_explain": "打防+10 技量+5\nHP+5 PP+1",
+		"en_explain": "S-DEF+10 DEX+5\nHP+5 PP+1"
+	},
+	{
+		"assign": "132",
+		"jp_text": "ソニック・フィーバー",
+		"en_text": "Sonic Fever",
+		"jp_explain": "打撃+10 射防+10\nHP+5 PP+1",
+		"en_explain": "S-ATK+10 R-DEF+10\nHP+5 PP+1"
+	},
+	{
+		"assign": "133",
+		"jp_text": "サンサン・フィーバー",
+		"en_text": "Sun Sun Fever",
+		"jp_explain": "打撃+5 射撃+5\n法撃+5 HP+5 PP+1",
+		"en_explain": "S-ATK+5 R-ATK+5\nT-ATK+5 HP+5 PP+1"
+	},
+	{
+		"assign": "134",
+		"jp_text": "ENT_フィーバー07",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "135",
+		"jp_text": "ENT_フィーバー08",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "136",
+		"jp_text": "アンガ・ソール",
+		"en_text": "Anga Soul",
+		"jp_explain": "打撃+20 射撃+20\n法撃+20 PP+4",
+		"en_explain": "S-ATK+20 R-ATK+20\nT-ATK+20 PP+4"
+	},
+	{
+		"assign": "137",
+		"jp_text": "デッドリオン・ソール",
+		"en_text": "Deadlion Soul",
+		"jp_explain": "打撃+35 技量+5\nHP+30",
+		"en_explain": "S-ATK+35 DEX+5\nHP+20"
+	},
+	{
+		"assign": "138",
+		"jp_text": "レオパード・ソール",
+		"en_text": "Leopard Soul",
+		"jp_explain": "射撃+35 技量+5\nHP+30",
+		"en_explain": "R-ATK+35 DEX+5\nHP30"
+	},
+	{
+		"assign": "139",
+		"jp_text": "ディアボ・ソール",
+		"en_text": "Diabo Soul",
+		"jp_explain": "法撃+35 技量+5\nHP+30",
+		"en_explain": "T-ATK+35 DEX+5\nHP+30"
+	},
+	{
+		"assign": "140",
+		"jp_text": "レオーネ・ソール",
+		"en_text": "Leone Soul",
+		"jp_explain": "打撃+35 技量+5\nHP+20 PP+1",
+		"en_explain": "S-ATK+35 DEX+5\nHP+20 PP+1"
+	},
+	{
+		"assign": "141",
+		"jp_text": "ジオーグ・ソール",
+		"en_text": "Siorg Soul",
+		"jp_explain": "射撃+35 技量+5\nHP+20 PP+1",
+		"en_explain": "R-ATK+35 DEX+5\nHP+20 PP+1"
+	},
+	{
+		"assign": "142",
+		"jp_text": "ドゥバルス・ソール",
+		"en_text": "Dewbles Soul",
+		"jp_explain": "法撃+35 技量+5\nHP+20 PP+1",
+		"en_explain": "T-ATK+35 DEX+5\nHP+20 PP+1"
+	},
+	{
+		"assign": "143",
+		"jp_text": "ベーアリ・ソール",
+		"en_text": "Bayari Soul",
+		"jp_explain": "打撃+35 技量+5\nPP+3",
+		"en_explain": "S-ATK+35 DEX+5\nPP+3"
+	},
+	{
+		"assign": "144",
+		"jp_text": "グリュゾラス・ソール",
+		"en_text": "Gruezoras Soul",
+		"jp_explain": "射撃+35 技量+5\nPP+3",
+		"en_explain": "R-ATK+35 DEX+5\nPP+3"
+	},
+	{
+		"assign": "145",
+		"jp_text": "グランゾ・ソール",
+		"en_text": "Guranz Soul",
+		"jp_explain": "法撃+35 技量+5\nPP+3",
+		"en_explain": "T-ATK+35 DEX+5\nPP+3"
+	},
+	{
+		"assign": "146",
+		"jp_text": "マガツ・ソール",
+		"en_text": "Magatsu Soul",
+		"jp_explain": "打防+15 射防+15\n法防+15 HP+30 PP+3",
+		"en_explain": "S-DEF+15 R-DEF+15\nT-DEF+15 HP+30 PP+3"
+	},
+	{
+		"assign": "147",
+		"jp_text": "ノーブル・パワー",
+		"en_text": "Noble Power",
+		"jp_explain": "PP+3 打撃+30",
+		"en_explain": "S-ATK+30 PP+3"
+	},
+	{
+		"assign": "148",
+		"jp_text": "ノーブル・シュート",
+		"en_text": "Noble Shot",
+		"jp_explain": "PP+3 射撃+30",
+		"en_explain": "R-ATK+30 PP+3"
+	},
+	{
+		"assign": "149",
+		"jp_text": "ノーブル・テクニック",
+		"en_text": "Noble Tech",
+		"jp_explain": "PP+3 法撃+30",
+		"en_explain": "T-ATK+30 PP+3"
+	},
+	{
+		"assign": "150",
+		"jp_text": "ノーブル・スタミナ",
+		"en_text": "Noble Stamina",
+		"jp_explain": "HP+50 PP+3",
+		"en_explain": "HP+50 PP+3"
+	},
+	{
+		"assign": "151",
+		"jp_text": "-",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "152",
+		"jp_text": "-",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "153",
+		"jp_text": "-",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "154",
+		"jp_text": "-",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "155",
+		"jp_text": "-",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "156",
+		"jp_text": "-",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "157",
+		"jp_text": "-",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "158",
+		"jp_text": "-",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "159",
+		"jp_text": "-",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "160",
+		"jp_text": "-",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "161",
+		"jp_text": "-",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "162",
+		"jp_text": "-",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "163",
+		"jp_text": "-",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "164",
+		"jp_text": "-",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "165",
+		"jp_text": "-",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "166",
+		"jp_text": "アプレンティス・ソール",
+		"en_text": "Apprentice Soul",
+		"jp_explain": "打撃+40 射撃+40\n法撃+40",
+		"en_explain": "S-ATK+40 R-ATK+40\nT-ATK+40"
+	},
+	{
+		"assign": "167",
+		"jp_text": "グリフォン・ソール",
+		"en_text": "Gryphon Soul",
+		"jp_explain": "打撃+15 射撃+15\n法撃+15 技量+15\nHP+5 PP+3",
+		"en_explain": "S-ATK+15 R-ATK+15\nT-ATK+15 DEX+15\nHP+5 PP+3"
+	},
+	{
+		"assign": "168",
+		"jp_text": "シノワ・ソール",
+		"en_text": "Sinow Soul",
+		"jp_explain": "打撃+5 技量+30\nHP+25 PP+2",
+		"en_explain": "S-ATK+5 DEX+30\nHP+25 PP+2"
+	},
+	{
+		"assign": "169",
+		"jp_text": "スピリタ・アルファ",
+		"en_text": "Spirita Alpha",
+		"jp_explain": "技量+30 PP+3",
+		"en_explain": "DEX+30 PP+3"
+	},
+	{
+		"assign": "170",
+		"jp_text": "-",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "171",
+		"jp_text": "-",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "172",
+		"jp_text": "-",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "173",
+		"jp_text": "-",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "174",
+		"jp_text": "-",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "175",
+		"jp_text": "ダブル・ソール",
+		"en_text": "Double Soul",
+		"jp_explain": "HP+40 PP+3",
+		"en_explain": ""
+	},
+	{
+		"assign": "176",
+		"jp_text": "ダークネス・ソール",
+		"en_text": "Darkness Soul",
+		"jp_explain": "全+15 HP+15 PP+2",
+		"en_explain": "ALL+15 HP+15\nPP+2"
+	},
+	{
+		"assign": "177",
+		"jp_text": "アストラル・ソール",
+		"en_text": "Astral Soul",
+		"jp_explain": "全+35 HP+35 PP+5",
+		"en_explain": "All+35 HP+35\nPP+5"
+	},
+	{
+		"assign": "178",
+		"jp_text": "ソール・カタリスト",
+		"en_text": "Soul Catalyst",
+		"jp_explain": "4つ集めると\n特定のソールと合成可能\nHP+10 PP+1",
+		"en_explain": ""
+	},
+	{
+		"assign": "179",
+		"jp_text": "打撃アップ",
+		"en_text": "S-ATK Up",
+		"jp_explain": "---",
+		"en_explain": "S-ATK+35"
+	},
+	{
+		"assign": "180",
+		"jp_text": "射撃アップ",
+		"en_text": "R-ATK Up",
+		"jp_explain": "---",
+		"en_explain": "R-ATK+35"
+	},
+	{
+		"assign": "181",
+		"jp_text": "法撃アップ",
+		"en_text": "T-ATK Up",
+		"jp_explain": "---",
+		"en_explain": "T-ATK+35"
+	},
+	{
+		"assign": "182",
+		"jp_text": "技量アップ",
+		"en_text": "DEX Up",
+		"jp_explain": "---",
+		"en_explain": "DEX+40"
+	},
+	{
+		"assign": "183",
+		"jp_text": "ＨＰアップ",
+		"en_text": "HP Up",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "184",
+		"jp_text": "ＰＰアップ",
+		"en_text": "PP Up",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "185",
+		"jp_text": "打撃ＨＰアップ",
+		"en_text": "Strike HP Up",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "186",
+		"jp_text": "射撃ＨＰアップ",
+		"en_text": "Ranged HP Up",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "187",
+		"jp_text": "法撃ＨＰアップ",
+		"en_text": "Tech HP Up",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "188",
+		"jp_text": "技量ＨＰアップ",
+		"en_text": "DEX HP Up",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "189",
+		"jp_text": "打撃ＰＰアップ",
+		"en_text": "Strike PP Up",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "190",
+		"jp_text": "射撃ＰＰアップ",
+		"en_text": "Ranged PP Up",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "191",
+		"jp_text": "法撃ＰＰアップ",
+		"en_text": "Tech PP Up",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "192",
+		"jp_text": "技量ＰＰアップ",
+		"en_text": "DEX PP Up",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "193",
+		"jp_text": "ＨＰＰＰアップ",
+		"en_text": "HP PP Up",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "194",
+		"jp_text": "ＰＰＨＰアップ",
+		"en_text": "PP HP Up",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "195",
+		"jp_text": "打撃射撃アップ",
+		"en_text": "Strike and Ranged Atk Up",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "196",
+		"jp_text": "打撃法撃アップ",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "197",
+		"jp_text": "打撃技量アップ",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "198",
+		"jp_text": "射撃法撃アップ",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "199",
+		"jp_text": "射撃技量アップ",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "200",
+		"jp_text": "法撃技量アップ",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "201",
+		"jp_text": "トウオウ・ソール",
+		"en_text": "Toh'oh Soul",
+		"jp_explain": "特定のソールと合成可能\n全+10",
+		"en_explain": "Can be combined with\ncertain abilities.\nAll +10"
+	},
+	{
+		"assign": "202",
+		"jp_text": "アクト・ジ・ソール",
+		"en_text": "Act The Soul",
+		"jp_explain": "打撃+35 PP+3",
+		"en_explain": "S-ATK+35 PP+3"
+	},
+	{
+		"assign": "203",
+		"jp_text": "ティル・ジ・ソール",
+		"en_text": "Till The Soul",
+		"jp_explain": "射撃+35 PP+3",
+		"en_explain": "R-ATK+35 PP+3"
+	},
+	{
+		"assign": "204",
+		"jp_text": "マギー・ジ・ソール",
+		"en_text": "Magi The Soul",
+		"jp_explain": "法撃+35 PP+3",
+		"en_explain": "T-ATK+35 PP+3"
+	},
+	{
+		"assign": "205",
+		"jp_text": "ミューテーションⅡ",
+		"en_text": "Mutation II",
+		"jp_explain": "特定の合成確率が上昇\n打撃+15 射撃+15\n法撃+15　HP+15",
+		"en_explain": "Boosts certain abilities\nsuccess rates.\nS-ATK+15 R-ATK+15\nT-ATK+15 HP+15"
+	},
+	{
+		"assign": "206",
+		"jp_text": "ペットスタミナⅠ",
+		"en_text": "Pet Stamina I",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "207",
+		"jp_text": "ペットスタミナⅡ",
+		"en_text": "Pet Stamina II",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "208",
+		"jp_text": "ペットスタミナⅢ",
+		"en_text": "Pet Stamina III",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "209",
+		"jp_text": "ペットボディⅠ",
+		"en_text": "Pet Body I",
+		"jp_explain": "---",
+		"en_explain": "S-DEF+100"
+	},
+	{
+		"assign": "210",
+		"jp_text": "ペットボディⅡ",
+		"en_text": "Pet Body II",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "211",
+		"jp_text": "ペットボディⅢ",
+		"en_text": "Pet Body III",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "212",
+		"jp_text": "ペットリアクトⅠ",
+		"en_text": "Pet React I",
+		"jp_explain": "---",
+		"en_explain": "R-DEF+100"
+	},
+	{
+		"assign": "213",
+		"jp_text": "ペットリアクトⅡ",
+		"en_text": "Pet React II",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "214",
+		"jp_text": "ペットリアクトⅢ",
+		"en_text": "Pet React III",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "215",
+		"jp_text": "ペットマインドⅠ",
+		"en_text": "Pet Mind I",
+		"jp_explain": "---",
+		"en_explain": "T-DEF+100"
+	},
+	{
+		"assign": "216",
+		"jp_text": "ペットマインドⅡ",
+		"en_text": "Pet Mind II",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "217",
+		"jp_text": "ペットマインドⅢ",
+		"en_text": "Pet Mind III",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "218",
+		"jp_text": "ヤマト・ファクター",
+		"en_text": "Yamato Factor",
+		"jp_explain": "打撃+10 射撃+20\n法撃+10 HP+20 PP+1",
+		"en_explain": "S-ATK+10 R-ATK+20\nT-ATK+10 HP+20 PP+1"
+	},
+	{
+		"assign": "219",
+		"jp_text": "オフェンス・ブースト",
+		"en_text": "Offense Boost",
+		"jp_explain": "打撃+15 射撃+15\n法撃+15 技量+25 PP+1",
+		"en_explain": "S-ATK+15 R-ATK+15\nT-ATK+15 DEX+25 PP+1"
+	},
+	{
+		"assign": "220",
+		"jp_text": "ディフェンス・ブースト",
+		"en_text": "Defense Boost",
+		"jp_explain": "打防+25 射防+25\n法防+25 HP+55 PP+1",
+		"en_explain": "S-DEF+25 R-DEF+25\nT-DEX+25 HP+55 PP+1"
+	},
+	{
+		"assign": "221",
+		"jp_text": "アタックレセプター",
+		"en_text": "Attack Receptor",
+		"jp_explain": "攻撃上昇特殊能力3種と\nアームの合成成功率を\n大幅に上昇　　　全+5",
+		"en_explain": "Greatly increases the\naffix rate of 3 ATK abilities.\nAll+5"
+	},
+	{
+		"assign": "222",
+		"jp_text": "ガードレセプター",
+		"en_text": "Guard Receptor",
+		"jp_explain": "特殊能力ボディ、リアクト\nマインドの合成成功率を\n大幅に上昇　　　全+5",
+		"en_explain": "Greatly increases the\naffix rate of 3 DEF abilities.\nAll+5"
+	},
+	{
+		"assign": "223",
+		"jp_text": "フォトンレセプター",
+		"en_text": "Photon Receptor",
+		"jp_explain": "特殊能力スタミナと\nスピリタの合成成功率を\n大幅に上昇　　　全+5",
+		"en_explain": "Greatly increases the\naffix rate of Stamina and Spirita.\nAll+5"
+	},
+	{
+		"assign": "224",
+		"jp_text": "ドゥームブレイク",
+		"en_text": "Doom Break",
+		"jp_explain": "打撃+15 射撃+15\n法撃+15 PP+2",
+		"en_explain": "S-ATK+15 R-ATK+15\nT-ATK+15 PP+2"
+	},
+	{
+		"assign": "225",
+		"jp_text": "テノラ・ブースト",
+		"en_text": "Tenora Boost",
+		"jp_explain": "打撃+35",
+		"en_explain": "S-ATK+35"
+	},
+	{
+		"assign": "226",
+		"jp_text": "ＧＲＭ・ブースト",
+		"en_text": "GRM Boost",
+		"jp_explain": "射撃+35",
+		"en_explain": "R-ATK+35"
+	},
+	{
+		"assign": "227",
+		"jp_text": "ヨウメイ・ブースト",
+		"en_text": "Yohmei Boost",
+		"jp_explain": "法撃+35",
+		"en_explain": "T-ATK+35"
+	},
+	{
+		"assign": "228",
+		"jp_text": "フルベガス・ソール",
+		"en_text": "Full Vegas Soul",
+		"jp_explain": "特定のソールと合成可能\n打撃+15 射撃+15\n法撃+15",
+		"en_explain": "Can be combined with\ncertain abilities.\nS-ATK+15 R-ATK+15 T-ATK+15"
+	},
+	{
+		"assign": "229",
+		"jp_text": "エクストレセプター",
+		"en_text": "Extreceptor",
+		"jp_explain": "アルター、フリクト系と\n特定の特殊能力合成率を\n大幅に上昇　全+10",
+		"en_explain": "Significantly increases Flict,\nand Alter add rate during affixing.\nAll+10"
+	},
+	{
+		"assign": "230",
+		"jp_text": "エレガント・パワー",
+		"en_text": "Elegant Power",
+		"jp_explain": "打撃+40 PP+4",
+		"en_explain": "S-ATK+40 PP+4"
+	},
+	{
+		"assign": "231",
+		"jp_text": "エレガント・シュート",
+		"en_text": "Elegant Shot",
+		"jp_explain": "射撃+40 PP+4",
+		"en_explain": "R-ATK+40 PP+4"
+	},
+	{
+		"assign": "232",
+		"jp_text": "エレガント・テクニック",
+		"en_text": "Elegant Technique",
+		"jp_explain": "法撃+40 PP+4",
+		"en_explain": "T-ATK+40 PP+4"
+	},
+	{
+		"assign": "233",
+		"jp_text": "エレガント・スタミナ",
+		"en_text": "Elegant Stamina",
+		"jp_explain": "HP+70 PP+4",
+		"en_explain": "HP+70 PP+4"
+	},
+	{
+		"assign": "234",
+		"jp_text": "ネッキー・スマイル",
+		"en_text": "Necky Smile",
+		"jp_explain": "打撃+5 射撃+5\n法撃+5 PP+2",
+		"en_explain": "S-ATK+5 R-ATK+5\nT-ATK+5 PP+2"
+	},
+	{
+		"assign": "235",
+		"jp_text": "打射法撃ＰＰアップ",
+		"en_text": "",
+		"jp_explain": "---",
+		"en_explain": ""
+	},
+	{
+		"assign": "236",
+		"jp_text": "イザネカヅチ・ソール",
+		"en_text": "Izane Kazuchi Soul",
+		"jp_explain": "打撃+20 射撃+20\n法撃+20 PP+2",
+		"en_explain": "S-ATK+20 R-ATK+20\nT-ATK+20 PP+2"
+	},
+	{
+		"assign": "237",
+		"jp_text": "マザー・ファクター",
+		"en_text": "Mother Factor",
+		"jp_explain": "打撃+10 射撃+10\n法撃+20 HP+20 PP+1",
+		"en_explain": "S-ATK+10 R-ATK+10\nT-ATK+20 HP+20 PP+1"
+	},
+	{
+		"assign": "238",
+		"jp_text": "エスカード・ソール",
+		"en_text": "Escarde Soul",
+		"jp_explain": "打撃+10 射撃+10\n法撃+10 技量+20",
+		"en_explain": "S-ATK+10 R-ATK+10\nT-ATK+10 DEX+20"
+	},
+	{
+		"assign": "239",
+		"jp_text": "センテンス・パワー",
+		"en_text": "Sentence Power",
+		"jp_explain": "打撃+20 PP+4",
+		"en_explain": "S-ATK+20 PP+4"
+	},
+	{
+		"assign": "240",
+		"jp_text": "センテンス・シュート",
+		"en_text": "Sentence Shoot",
+		"jp_explain": "射撃+20 PP+4",
+		"en_explain": "R-ATK+20 PP+4"
+	},
+	{
+		"assign": "241",
+		"jp_text": "センテンス・テクニック",
+		"en_text": "Sentence Tech",
+		"jp_explain": "法撃+20 PP+4",
+		"en_explain": "T-ATK+20 PP+4"
+	}
+]
