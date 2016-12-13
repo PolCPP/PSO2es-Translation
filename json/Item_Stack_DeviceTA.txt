@@ -1,0 +1,121 @@
+[
+	{
+		"assign": "31100",
+		"jp_text": "支援デバイス／ＨＰ回復Ａ",
+		"en_text": "Support Device / HP Restore A",
+		"jp_explain": "マグの支援機能を設定するデバイス。\n主人の体力低下時に回復支援を行う。\n発動率は高く、回復量が低い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "31101",
+		"jp_text": "支援デバイス／ＨＰ回復Ｂ",
+		"en_text": "Support Device / HP Restore B",
+		"jp_explain": "マグの支援機能を設定するデバイス。\n主人の体力低下時に回復支援を行う。\n発動率は普通で、回復量も普通。",
+		"en_explain": ""
+	},
+	{
+		"assign": "31103",
+		"jp_text": "支援デバイス／能力上昇Ａ",
+		"en_text": "Support Device / Stat Boost A",
+		"jp_explain": "マグの支援機能を設定するデバイス。\nエリア変更時に能力上昇支援を行う。\n発動率は低く、インターバルは短い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "31104",
+		"jp_text": "支援デバイス／能力上昇Ｂ",
+		"en_text": "Support Device / Stat Boost B",
+		"jp_explain": "マグの支援機能を設定するデバイス。\nエリア変更時に能力上昇支援を行う。\n発動率は普通、インターバルも普通。",
+		"en_explain": ""
+	},
+	{
+		"assign": "31106",
+		"jp_text": "支援デバイス／ＰＰ回復Ａ",
+		"en_text": "Support Device / PP Restore A",
+		"jp_explain": "マグの支援機能を設定するデバイス。\nエリア変更時にＰＰ回復支援を行う。\n発動率が高く、効果時間が短い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "31107",
+		"jp_text": "支援デバイス／ＰＰ回復Ｂ",
+		"en_text": "Support Device / PP Restore B",
+		"jp_explain": "マグの支援機能を設定するデバイス。\nエリア変更時にＰＰ回復支援を行う。\n発動率が普通、効果時間も普通。",
+		"en_explain": ""
+	},
+	{
+		"assign": "31109",
+		"jp_text": "支援デバイス／状態異常Ａ",
+		"en_text": "Support Device / Status Heal A",
+		"jp_explain": "マグの支援機能を設定するデバイス。\n状態異常時に異常回復支援を行う。\n発動率は低く、インターバルは短い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "311010",
+		"jp_text": "支援デバイス／状態異常Ｂ",
+		"en_text": "Support Device / Status Heal B",
+		"jp_explain": "マグの支援機能を設定するデバイス。\n状態異常時に異常回復支援を行う。\n発動率が普通で、インターバルも普通。",
+		"en_explain": ""
+	},
+	{
+		"assign": "311012",
+		"jp_text": "支援デバイス／無敵Ａ",
+		"en_text": "Support Device / Invincibility A",
+		"jp_explain": "マグの支援機能を設定するデバイス。\nＰＢゲージ満タン時に無敵支援を行う。\n効果時間が短い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "311016",
+		"jp_text": "支援デバイス／能力上昇Ｅ",
+		"en_text": "Support Device / Stat Boost E",
+		"jp_explain": "マグの支援機能を設定するデバイス。\nＰＢゲージ満タン時に能力上昇支援を\n行う。インターバルが普通。",
+		"en_explain": ""
+	},
+	{
+		"assign": "311021",
+		"jp_text": "支援デバイス／能力上昇Ｇ",
+		"en_text": "Support Device / Stat Boost G",
+		"jp_explain": "マグの支援機能を設定するデバイス。\nＥトライアル時に能力上昇支援を行う。\n発動率は低く、インターバルは短い。",
+		"en_explain": ""
+	},
+	{
+		"assign": "311022",
+		"jp_text": "支援デバイス／能力上昇Ｈ",
+		"en_text": "Support Device / Stat Boost H",
+		"jp_explain": "マグの支援機能を設定するデバイス。\nＥトライアル時に能力上昇支援を行う。\n発動率は普通、インターバルも普通。",
+		"en_explain": ""
+	},
+	{
+		"assign": "311027",
+		"jp_text": "支援デバイス／復活Ａ",
+		"en_text": "Support Device / Revival A",
+		"jp_explain": "マグの支援機能を設定するデバイス。\n戦闘不能時に復活支援を行う。\n発動は非常に稀。",
+		"en_explain": ""
+	},
+	{
+		"assign": "311030",
+		"jp_text": "支援デバイス／ＨＰ回復Ｋ",
+		"en_text": "Support Device / HP Restore K",
+		"jp_explain": "マグの支援機能を設定するデバイス。\n一定間隔でＨＰ回復支援を行う。\n間隔が普通で、回復量も普通。",
+		"en_explain": ""
+	},
+	{
+		"assign": "311033",
+		"jp_text": "支援デバイス／能力上昇Ｋ",
+		"en_text": "Support Device / Stat Boost K",
+		"jp_explain": "マグの支援機能を設定するデバイス。\n一定間隔で能力上昇支援を行う。\n間隔が普通。",
+		"en_explain": ""
+	},
+	{
+		"assign": "311038",
+		"jp_text": "生産デバイス／ＨＰ回復系",
+		"en_text": "Production Device / Mates",
+		"jp_explain": "マグの生産機能を設定するデバイス。\n一定時間経過でモノメイトなどの\n消費系アイテムを生産する。",
+		"en_explain": ""
+	},
+	{
+		"assign": "311039",
+		"jp_text": "生産デバイス／範囲系",
+		"en_text": "Production Device / Mizers",
+		"jp_explain": "マグの生産機能を設定するデバイス。\n一定時間経過でソルアトマイザーなどの\n消費系アイテムを生産する。",
+		"en_explain": ""
+	}
+]
