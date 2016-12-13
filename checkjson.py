@@ -18,11 +18,11 @@ for files in json_files:
                 countin += 1
             if (countin == 0):
                print("%s: %s") % (files, "BLANK")
-               invalid_json_files.append(files)
+               #invalid_json_files.append(files)
         except ValueError as e:
             print("%s: %s") % (files, e)
             invalid_json_files.append(files)
 
 counterr += len(invalid_json_files)
 if counterr != 0:
-    sys.exit("=============\nJSON files with issues: %d" % errcount)
+    sys.exit("=============\nJSON files with issues: %d" % counterr)
