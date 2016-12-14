@@ -19,7 +19,7 @@ for files in json_files:
             djson = simplejson.load(json_file)
             for rmid in djson:
                 countin += 1
-                if (("en_text" in rmid) and (rmid["en_text"] != "")):
+                if (("tr_text" in rmid) and (rmid["tr_text"] != "")):
                        countout += 1
             #print ("%s/%s" % (countin, countout))
             if (countin):
