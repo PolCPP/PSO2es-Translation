@@ -16747,7 +16747,7 @@
 	{
 		"assign": "acceptbox_guide_00",
 		"jp_text": "<color=#f0df60>受け取りボックスの中には、受け取り期限のあるアイテムがあります。期限が過ぎると受け取れなくなりますので、ご注意ください。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>There are items with a deadline. Once it's past the deadline, you cannot redeem the items.</color>"
 	},
 	{
 		"assign": "acceptbox_title",
@@ -16862,12 +16862,12 @@
 	{
 		"assign": "acceptbox_recieve_end",
 		"jp_text": "受け取り期限",
-		"tr_text": "Deadline"
+		"tr_text": "Deadline\t"
 	},
 	{
 		"assign": "acceptbox_recieve_expiration",
 		"jp_text": "有効期限",
-		"tr_text": "Expires"
+		"tr_text": "Expires\t"
 	},
 	{
 		"assign": "acceptbox_dialog_t_1",
@@ -16877,7 +16877,7 @@
 	{
 		"assign": "acceptbox_dialog_b_1",
 		"jp_text": "残り24時間以内に期限切れのアイテムがあります。",
-		"tr_text": "There was items that expired 24 hours ago."
+		"tr_text": "There's item(s) that will expire in 24 hours."
 	},
 	{
 		"assign": "acceptbox_dialog_t_2",
@@ -16897,7 +16897,7 @@
 	{
 		"assign": "acceptbox_dialog_b_3",
 		"jp_text": "以下のアイテムを受け取りました。",
-		"tr_text": "Accepted the Items(s)"
+		"tr_text": "Accepted the Items(s)."
 	},
 	{
 		"assign": "acceptbox_dialog_t_4",
@@ -16907,7 +16907,7 @@
 	{
 		"assign": "acceptbox_dialog_b_4",
 		"jp_text": "以下のアイテムを受け取りました。",
-		"tr_text": "I accepted the items."
+		"tr_text": "I recieved the item(s)."
 	},
 	{
 		"assign": "acceptbox_dialog_t_5",
@@ -16937,7 +16937,7 @@
 	{
 		"assign": "acceptbox_dialog_items",
 		"jp_text": "・<%item_name> × <%item_num>",
-		"tr_text": ""
+		"tr_text": "<%item_name> × <%item_num>"
 	},
 	{
 		"assign": "system_dialog_t_acceptbox01",
