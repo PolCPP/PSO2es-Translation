@@ -16497,7 +16497,7 @@
 	{
 		"assign": "LimitWeaponSword",
 		"jp_text": "大剣",
-		"tr_text": "Swd."
+		"tr_text": "SW"
 	},
 	{
 		"assign": "LimitWeaponPartizan",
@@ -16527,7 +16527,7 @@
 	{
 		"assign": "LimitWeaponTalis",
 		"jp_text": "導具",
-		"tr_text": "Talis"
+		"tr_text": "TL"
 	},
 	{
 		"assign": "LimitWeaponKnuckle",
@@ -16557,12 +16557,12 @@
 	{
 		"assign": "LimitWeaponKatana",
 		"jp_text": "抜剣",
-		"tr_text": "Kat."
+		"tr_text": "KT"
 	},
 	{
 		"assign": "LimitWeaponCompoundBow",
 		"jp_text": "強弓",
-		"tr_text": "Bow"
+		"tr_text": "BW"
 	},
 	{
 		"assign": "LimitWeaponUnarmed",
@@ -16752,7 +16752,7 @@
 	{
 		"assign": "acceptbox_title",
 		"jp_text": "受け取りボックス",
-		"tr_text": "Reciept Box"
+		"tr_text": "Reception Box"
 	},
 	{
 		"assign": "acceptbox_return_lobby",
@@ -16762,12 +16762,12 @@
 	{
 		"assign": "acceptbox_list_title",
 		"jp_text": "受け取りボックス一覧",
-		"tr_text": "Reciept Box List"
+		"tr_text": "Reception Box List"
 	},
 	{
 		"assign": "acceptbox_recieve_num",
 		"jp_text": "保存数",
-		"tr_text": "#Saved"
+		"tr_text": "Saved"
 	},
 	{
 		"assign": "acceptbox_sort_standard",
@@ -16852,7 +16852,7 @@
 	{
 		"assign": "acceptbox_page_recieve",
 		"jp_text": "一括受取（ページ内）",
-		"tr_text": "Bulk Receive (On Page)"
+		"tr_text": "Bulk Receive (Single Page)"
 	},
 	{
 		"assign": "acceptbox_no_item",
@@ -16862,12 +16862,12 @@
 	{
 		"assign": "acceptbox_recieve_end",
 		"jp_text": "受け取り期限",
-		"tr_text": "Deadline\t"
+		"tr_text": "Expires\t"
 	},
 	{
 		"assign": "acceptbox_recieve_expiration",
 		"jp_text": "有効期限",
-		"tr_text": "Expires\t"
+		"tr_text": "Deadline\t"
 	},
 	{
 		"assign": "acceptbox_dialog_t_1",
@@ -16892,7 +16892,7 @@
 	{
 		"assign": "acceptbox_dialog_t_3",
 		"jp_text": "受け取り完了",
-		"tr_text": "Reciept Complete"
+		"tr_text": "Reception Complete"
 	},
 	{
 		"assign": "acceptbox_dialog_b_3",
@@ -16942,22 +16942,22 @@
 	{
 		"assign": "system_dialog_t_acceptbox01",
 		"jp_text": "受け取りボックス",
-		"tr_text": "Recipet Box"
+		"tr_text": "Reception Box"
 	},
 	{
 		"assign": "system_dialog_b_acceptbox01",
 		"jp_text": "入手したアイテムを受け取りボックスに送りました。\nロビーの「受け取り」ボタンからアイテムを\n受け取ってください。",
-		"tr_text": "Items were sent to the Reciept Box."
+		"tr_text": "Items were sent to the Reception Box."
 	},
 	{
 		"assign": "system_linetext_acceptbox01",
 		"jp_text": "入手したアイテムを受け取りボックスに送りました。\nロビーの「受け取り」ボタンからアイテムを受け取ってください。",
-		"tr_text": "Items were sent to the Reciept Box."
+		"tr_text": "Items were sent to the Reception Box."
 	},
 	{
 		"assign": "acceptbox_dialog_t_01",
 		"jp_text": "受け取りボックスオーバー",
-		"tr_text": "Reciept Box Over"
+		"tr_text": "Reception Box Over"
 	},
 	{
 		"assign": "acceptbox_dialog_b_01",
@@ -16967,7 +16967,7 @@
 	{
 		"assign": "acceptbox_over_yes",
 		"jp_text": "受け取りボックス",
-		"tr_text": "Receipt Box"
+		"tr_text": "Reception Box"
 	},
 	{
 		"assign": "acceptbox_over_close",
