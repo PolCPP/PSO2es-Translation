@@ -152,7 +152,7 @@
 	{
 		"assign": "acshop_dialog_b_00",
 		"jp_text": "ラッピーメダルか<%AC>を消費して\nチップパックを拡張しますか？\n\nパックサイズ（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※チップパックは<%max_pack_size>まで拡張できます。\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "This will extend\nyour Chip Storage.\n\nChip Storage（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※Can extend to a Maximum of 500.\n\nRappy Coins needed：<%consume_rappy_coin>枚\nRappy Coins owned：<%current_rappy_coin>枚\n\nAC needed：<%consume_AC>\nAC owned：<%current_AC>"
+		"tr_text": "This will extend\nyour Chip Storage.\n\nChip Storage（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※Can extend to a Maximum of 600.\n\nRappy Coins needed：<%consume_rappy_coin>枚\nRappy Coins owned：<%current_rappy_coin>枚\n\nAC needed：<%consume_AC>\nAC owned：<%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_01",
@@ -5417,7 +5417,7 @@
 	{
 		"assign": "quest_counter_raid_sp_z_dialog_00_b",
 		"jp_text": "「覇級トリガー」を所持していません。",
-		"tr_text": ""
+		"tr_text": "You do not own an 'Extra Hard Trigger'."
 	},
 	{
 		"assign": "quest_counter_raid_sp_z_dialog_01_t",
@@ -5427,7 +5427,7 @@
 	{
 		"assign": "quest_counter_raid_sp_z_dialog_01_b",
 		"jp_text": "「覇級トリガー」を1個消費して、覇級を解除します。\nよろしいですか？\n\n<color=#ffff00>所持数：{0}個</color>\n\n※クエストに出発せずに開催クエストが終了した場合、\nロック状態と覇級トリガーの所持数は元に戻ります。",
-		"tr_text": ""
+		"tr_text": "This will use an \"Extra Hard Trigger.\"\nIs that OK?\n\n<color=#ffff00>Owned Triggers：{0}</color>\n\n※Triggers will be used when starting the quest"
 	},
 	{
 		"assign": "reward_dialog_title",
@@ -5462,7 +5462,7 @@
 	{
 		"assign": "reward_caption_get_point",
 		"jp_text": "ボーナスポイント",
-		"tr_text": ""
+		"tr_text": "Bonus Points"
 	},
 	{
 		"assign": "reward_caption_clear",
@@ -5487,32 +5487,32 @@
 	{
 		"assign": "reward_bonus1",
 		"jp_text": "【参加者の中で、最初に救援に参加した】",
-		"tr_text": "【You were the first to participate】"
+		"tr_text": "[You were the first to participate]"
 	},
 	{
 		"assign": "reward_bonus2",
 		"jp_text": "【討伐者ボーナス】",
-		"tr_text": "【Subdue Bonus】"
+		"tr_text": "[Subdue Bonus]"
 	},
 	{
 		"assign": "reward_bonus3",
 		"jp_text": "【参加者の中で、最も討伐スコアを貯めた】",
-		"tr_text": "【You were the first to score】"
+		"tr_text": "[You were the first to score]"
 	},
 	{
 		"assign": "reward_bonus4",
 		"jp_text": "【参加者の中で、最も救援に参加した】",
-		"tr_text": "【You were the first to help】"
+		"tr_text": "[You were the first to help]"
 	},
 	{
 		"assign": "reward_bonus5",
 		"jp_text": "【遭遇者ボーナス】",
-		"tr_text": "【Encounter Bonus】"
+		"tr_text": "[Encounter Bonus]"
 	},
 	{
 		"assign": "reward_bonus6",
 		"jp_text": "【Ｇライン到達ボーナス】",
-		"tr_text": ""
+		"tr_text": "[G Line Reach Bonus]"
 	},
 	{
 		"assign": "reward_total_point",
@@ -5527,7 +5527,7 @@
 	{
 		"assign": "reward_caption_bonus",
 		"jp_text": "ボーナスポイント内訳",
-		"tr_text": ""
+		"tr_text": "Points Breakdown"
 	},
 	{
 		"assign": "reward_caption_clear_info",
@@ -5612,7 +5612,7 @@
 	{
 		"assign": "reward_enemy_type_7",
 		"jp_text": "覇滅種",
-		"tr_text": ""
+		"tr_text": "Extinct Type"
 	},
 	{
 		"assign": "reward_enemy_lv_high",
@@ -13567,17 +13567,17 @@
 	{
 		"assign": "raid_log_01",
 		"jp_text": "目標に",
-		"tr_text": "Target"
+		"tr_text": ""
 	},
 	{
 		"assign": "raid_log_02",
 		"jp_text": "ダメージを与えました。",
-		"tr_text": " damage done."
+		"tr_text": "damage done."
 	},
 	{
 		"assign": "raid_dialog_t_00",
 		"jp_text": "緊急クエスト",
-		"tr_text": ""
+		"tr_text": "EQ"
 	},
 	{
 		"assign": "raid_dialog_b_00",
