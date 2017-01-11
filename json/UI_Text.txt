@@ -811,8 +811,8 @@
 	},
 	{
 		"assign": "mshop_dialog_b_06",
-		"jp_text": "選択したアイテムの中に\nスタージェムを入手していないものが\n含まれています。\n本当に売却しますか？",
-		"tr_text": "You haven't recieved\nthe Star Gems from this\noutfit, are you sure\nyou wish to sell?"
+		"jp_text": "<color=#ff0000>選択したアイテムの中に\nスタージェムを入手していないものが\n含まれています。</color>\n本当に売却しますか？",
+		"tr_text": ""
 	},
 	{
 		"assign": "rshop_dialog_t_00",
@@ -881,8 +881,8 @@
 	},
 	{
 		"assign": "rshop_dialog_b_06",
-		"jp_text": "スタージェムを入手していないアイテムを\n交換しようとしています。\nよろしいですか？",
-		"tr_text": "The item you're trying to exchange\nhasn't recieved its star gems.\nContinue?"
+		"jp_text": "<color=#ff0000>スタージェムを入手していないアイテムを\n交換しようとしています。</color>\nよろしいですか？",
+		"tr_text": ""
 	},
 	{
 		"assign": "arcscard_guide_00",
@@ -3221,8 +3221,8 @@
 	},
 	{
 		"assign": "mail_dialog_b_11",
-		"jp_text": "添付アイテム未受領のメールが含まれています。\n本当に削除してよろしいですか？",
-		"tr_text": "This Mail contains an unreceived Item.\nAre you sure you want to Delete?"
+		"jp_text": "<color=#ff0000>添付アイテム未受領のメールが含まれています。</color>\n本当に削除してよろしいですか？",
+		"tr_text": ""
 	},
 	{
 		"assign": "mail_dialog_t_12",
@@ -3231,8 +3231,8 @@
 	},
 	{
 		"assign": "mail_dialog_b_12",
-		"jp_text": "このメールの添付アイテムは未受領です。\n本当に削除してよろしいですか？",
-		"tr_text": "There are Items you have not taken.\nAre you sure you want to Delete?"
+		"jp_text": "<color=#ff0000>このメールの添付アイテムは未受領です。</color>\n本当に削除してよろしいですか？",
+		"tr_text": ""
 	},
 	{
 		"assign": "mail_dialog_t_13",
@@ -3671,8 +3671,8 @@
 	},
 	{
 		"assign": "myshop_dialog_b_32",
-		"jp_text": "スタージェムを入手していないアイテムを\n出品しようとしています。\nよろしいですか？",
-		"tr_text": "You're trying to sell an item\nthat you haven't claimed\nstar gems from, continue?"
+		"jp_text": "<color=#ff0000>スタージェムを入手していないアイテムを\n出品しようとしています。</color>\nよろしいですか？",
+		"tr_text": ""
 	},
 	{
 		"assign": "myshop_condition_potential1",
@@ -3761,8 +3761,13 @@
 	},
 	{
 		"assign": "myshop_category_gatherer",
-		"jp_text": "ギャザリング",
-		"tr_text": "Gathering"
+		"jp_text": "ギャザリング素材",
+		"tr_text": ""
+	},
+	{
+		"assign": "myshop_category_cooking",
+		"jp_text": "ギャザリング料理",
+		"tr_text": ""
 	},
 	{
 		"assign": "myshop_category_other",
@@ -5013,6 +5018,11 @@
 		"assign": "quest_counter_unarmed_b",
 		"jp_text": "現在、武器を装備しておりません。\nこのまま出発しますか？\n\n武器を装備する場合は、「いいえ」選択後に\n画面右下の「武器／チップ装備」を\nタッチしてください。",
 		"tr_text": "You're currently unarmed.\nAre you sure you're ok?"
+	},
+	{
+		"assign": "questcounter_shortage_drive_b",
+		"jp_text": "クエストの情報が更新されました。\nロビートップに戻ります。",
+		"tr_text": ""
 	},
 	{
 		"assign": "quest_counter_lv",
@@ -9216,8 +9226,8 @@
 	},
 	{
 		"assign": "menu_fulldownload_b_02",
-		"jp_text": "追加のゲームデータを下記のボタンから\nダウンロードすることができます。\n\n※ダウンロード目安容量\n「アイテムアイコン」… 約220MB\n「全てをダウンロード」… 約2.4GB\n\n※ダウンロード目安時間\n「アイテムアイコン」… 約1時間30分\n「全てをダウンロード」… 約3時間\n\n※選択する内容や通信環境によって、\nダウンロードにかかる時間が異なりますので\nご注意ください。\n※ゲームデータのダウンロードは\n通信環境のいい場所で行ってください。\n※ゲームの配信データが追加された場合には\n必要となるデータ容量が増えていきますので\n端末、SDカード等の容量にはご注意ください。\n",
-		"tr_text": "This will download the extra data\nfor PSO2es.\n\n※The \"Item Icons\" require 220MB of free space\n※The \"Full Download\" requires 2.4GB of free space.\n※Estimated time for \"Item Icons\" will take approx. 1hr 30min.\n※Estimated time for the \"Full Download\" approx. 3hrs or more.\n\nLinked accounts with PSO2 can login into\nthe main game during this period.\n"
+		"jp_text": "追加のゲームデータを下記のボタンから\nダウンロードすることができます。\n\n※ダウンロード目安容量\n「アイテムアイコン」… 約550MB\n「全てをダウンロード」… 約3.8GB\n\n※ダウンロード目安時間\n「アイテムアイコン」… 約1時間30分\n「全てをダウンロード」… 約5時間\n\n※お使いの端末や通信環境、選択する\n内容によって、ダウンロードにかかる\n時間が異なりますのでご注意ください。\n※ゲームデータのダウンロードは\n通信環境のいい場所で行ってください。\n※ゲームの配信データが追加された場合には\n必要となるデータ容量が増えていきますので\n端末、SDカード等の容量にはご注意ください。\n",
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_fulldownload_btn_02_1",
@@ -16711,8 +16721,8 @@
 	},
 	{
 		"assign": "NameLimitWeaponJetBoots",
-		"jp_text": "ジェッドブーツ",
-		"tr_text": "Jetboots"
+		"jp_text": "ジェットブーツ",
+		"tr_text": ""
 	},
 	{
 		"assign": "NameLimitWeaponDualBlade",
@@ -16981,7 +16991,7 @@
 	},
 	{
 		"assign": "wh_36_01",
-		"jp_text": "「受け取りボックス」には、クエストやスクラッチで\n入手したアイテムのうち持ちきれなくなったものや\n運営からのプレゼントが保管されます。",
+		"jp_text": "「受け取りボックス」には、クエストやスクラッチで\n入手したアイテムのうち持ちきれなくなったものや\n『PSO2es』運営チームからの配付アイテムが保管されます。",
 		"tr_text": ""
 	},
 	{
@@ -17013,5 +17023,240 @@
 		"assign": "reward_button_next",
 		"jp_text": "次へ",
 		"tr_text": "Next"
+	},
+	{
+		"assign": "base_item_special_weapon",
+		"jp_text": "?",
+		"tr_text": ""
+	},
+	{
+		"assign": "base_item_per",
+		"jp_text": "%",
+		"tr_text": ""
+	},
+	{
+		"assign": "base_item_plus",
+		"jp_text": "+",
+		"tr_text": ""
+	},
+	{
+		"assign": "base_item_lv",
+		"jp_text": "Lv.",
+		"tr_text": ""
+	},
+	{
+		"assign": "base_item_num_format",
+		"jp_text": "×{0}",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_pso2_collect_search",
+		"jp_text": "コレクトサーチ",
+		"tr_text": "Collect Search"
+	},
+	{
+		"assign": "collect_search_return_lobby",
+		"jp_text": "ロビートップへ戻る",
+		"tr_text": "Return to Lobby"
+	},
+	{
+		"assign": "collect_search_return",
+		"jp_text": "戻る",
+		"tr_text": "Return"
+	},
+	{
+		"assign": "collect_search_title",
+		"jp_text": "コレクトサーチ",
+		"tr_text": "Collect Search"
+	},
+	{
+		"assign": "collect_search_guide_00",
+		"jp_text": "<color=#f0df60>ゲージを上昇させたいコレクトシートを選択してください。『PSO2』で所持中のシートが選択可能です。アカウントごとに毎日初回のみ無料で、以降は有料で利用できます。</color>",
+		"tr_text": "<color=#f0df60>Please select the Collect File to raise. Up to 2 sheets can be boosted. However, only the first time is free.</color>"
+	},
+	{
+		"assign": "collect_search_comment_00",
+		"jp_text": "大成功時はゲージの上昇量が増加します。\n残り回数は毎日５時にリセットされます。",
+		"tr_text": "Each increase is a Great Success.\nCooldown resets at 5:00 JST."
+	},
+	{
+		"assign": "collect_search_info_title",
+		"jp_text": "コレクトシート情報",
+		"tr_text": "Collect Sheet Info"
+	},
+	{
+		"assign": "collect_search_bonus_info",
+		"jp_text": "連続サーチボーナス",
+		"tr_text": "Search Bonus"
+	},
+	{
+		"assign": "collect_search_lap_text",
+		"jp_text": "あと",
+		"tr_text": "After"
+	},
+	{
+		"assign": "collect_search_drop_rate_text",
+		"jp_text": "大成功発生確率　/",
+		"tr_text": "Great Success Chance /"
+	},
+	{
+		"assign": "collect_search_drop_rate_value",
+		"jp_text": "{0}倍",
+		"tr_text": "x{0}"
+	},
+	{
+		"assign": "collect_search_item_info",
+		"jp_text": "必要アイテム",
+		"tr_text": "Required"
+	},
+	{
+		"assign": "collect_search_exp_text",
+		"jp_text": "経験値　/",
+		"tr_text": "EXP　　　　/"
+	},
+	{
+		"assign": "collect_search_meseta_text",
+		"jp_text": "メセタ　 /",
+		"tr_text": "Meseta　/"
+	},
+	{
+		"assign": "collect_search_range",
+		"jp_text": "～",
+		"tr_text": "～"
+	},
+	{
+		"assign": "collect_search_window_aheetselect",
+		"jp_text": "コレクトシート選択",
+		"tr_text": "Select a Sheet"
+	},
+	{
+		"assign": "collect_search_count_title",
+		"jp_text": "残りサーチ回数：",
+		"tr_text": "Remaining:"
+	},
+	{
+		"assign": "collect_search_count",
+		"jp_text": "{0}回",
+		"tr_text": "{0}x"
+	},
+	{
+		"assign": "dialog_title_collect_search_use_free",
+		"jp_text": "コレクトサーチ",
+		"tr_text": "Collect Search"
+	},
+	{
+		"assign": "dialog_body_collect_search_use_free",
+		"jp_text": "「<%SHEET>」の\nコレクトサーチを実行します。よろしいですか？\n\n※コレクトサーチは毎日初回のみ無料で利用できます。\n２回目以降の利用には<%AC>が必要です。",
+		"tr_text": "Boosting 「<%SHEET>」.\nIs that OK?\n\n※Boosting a sheet once is free,\nbut doing it again will require <%AC>."
+	},
+	{
+		"assign": "dialog_title_collect_search_use_ac",
+		"jp_text": "コレクトサーチ",
+		"tr_text": "Collect Search"
+	},
+	{
+		"assign": "dialog_body_collect_search_use_ac",
+		"jp_text": "{0}<%AC>で「<%SHEET>」の\nコレクトサーチを1回行います。よろしいですか？\n\n次回連続サーチボーナス:<color=#ffff00>大成功確率{1}倍!</color>\n所持<%AC>：<%current_AC>",
+		"tr_text": ""
+	},
+	{
+		"assign": "collect_search_one_time",
+		"jp_text": "1回実行",
+		"tr_text": "1 more"
+	},
+	{
+		"assign": "collect_search_reward_dialog_title",
+		"jp_text": "コレクトサーチ(<%number>回目)",
+		"tr_text": "Collect Search (x<%number>)"
+	},
+	{
+		"assign": "collect_search_bonus_up_title",
+		"jp_text": "報酬",
+		"tr_text": "Reward"
+	},
+	{
+		"assign": "collect_search_bonus_up",
+		"jp_text": "大成功！",
+		"tr_text": "Great Success!"
+	},
+	{
+		"assign": "collect_search_result_reward_exp_text",
+		"jp_text": "経験値　/",
+		"tr_text": "EXP /"
+	},
+	{
+		"assign": "collect_search_result_reward_meseta_text",
+		"jp_text": "メセタ　 /",
+		"tr_text": "Meseta /"
+	},
+	{
+		"assign": "collect_search_result",
+		"jp_text": "コレクトサーチリザルト",
+		"tr_text": "Search Results"
+	},
+	{
+		"assign": "collect_search_close",
+		"jp_text": "閉じる",
+		"tr_text": "Close"
+	},
+	{
+		"assign": "collect_search_reward_button_next",
+		"jp_text": "もう1回<{0}<%AC>>",
+		"tr_text": "Again<{0}<%AC>>"
+	},
+	{
+		"assign": "collect_search_dialog_t_01",
+		"jp_text": "コレクトサーチ",
+		"tr_text": "Collect Search"
+	},
+	{
+		"assign": "collect_search_dialog_b_01",
+		"jp_text": "このシートは配信期間が終了しているため\nコレクトサーチを行えません。",
+		"tr_text": "As the CF for this sheet has\nended, you cannot search anymore."
+	},
+	{
+		"assign": "collect_search_dialog_t_02",
+		"jp_text": "コレクトサーチ",
+		"tr_text": "Collect Search"
+	},
+	{
+		"assign": "collect_search_dialog_b_02",
+		"jp_text": "このシートはコンプリートしたため\nこれ以上コレクトサーチを行えません。",
+		"tr_text": "As the CF for this sheet is\ncompleted, you cannot search anymore."
+	},
+	{
+		"assign": "collect_search_dialog_t_03",
+		"jp_text": "コレクトサーチ",
+		"tr_text": "Collect Search"
+	},
+	{
+		"assign": "collect_search_dialog_b_03",
+		"jp_text": "『PSO2』でコレクトファイルを入手していないため\n現在利用できません。 \n\n",
+		"tr_text": "No Collect File in PSO2 has been obtained.\nYou cannot use this function.\n\n"
+	},
+	{
+		"assign": "collect_serach_footer_ship_no",
+		"jp_text": "Ship{0}のコレクトファイル",
+		"tr_text": "Ship{0}'s Collect File"
+	},
+	{
+		"assign": "collect_search_bonus_normal",
+		"jp_text": "サーチ完了",
+		"tr_text": "Complete"
+	},
+	{
+		"assign": "collect_search_meter_full",
+		"jp_text": "<color=yellow>『PSO2』で対象エネミーを撃破時、ゲージが\n100%の必要アイテムがドロップします。</color> ",
+		"tr_text": "<color=yellow>You will need to defeat the enemy\nin PSO2 as the meter is now 100%</color>"
+	},
+	{
+		"assign": "collect_search_item_complete",
+		"jp_text": "COMPLETE!",
+		"tr_text": ""
+	},
+	{
+		"assign": "collect_search_drop_rate_info_text",
+		"jp_text": "<%AC>で実行時、大成功発生確率アップ！",
+		"tr_text": ""
 	}
 ]
