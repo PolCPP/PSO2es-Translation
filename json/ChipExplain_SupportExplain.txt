@@ -2299,14 +2299,14 @@
 		"assign": "31353",
 		"jp_explainShort": "攻撃力超絶増加＋消費ＣＰ減少",
 		"tr_explainShort": "",
-		"jp_explainLong": "ジャストアタック成功時もしくはスライド操作時\n一定時間、消費ＣＰが減少し、装備中チップの\n雷属性の種類が多いほど攻撃力が超絶に増加される。",
+		"jp_explainLong": "ジャストアタック成功時もしくはスライド操作時\n一定時間、消費ＣＰが減少し、装備中チップの\n雷属性の枚数が多いほど攻撃力が超絶に増加される。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31354",
 		"jp_explainShort": "攻撃力超絶増加＋消費ＣＰ減少",
 		"tr_explainShort": "",
-		"jp_explainLong": "ジャストアタック成功時もしくはスライド操作時\n一定時間、消費ＣＰが減少し、装備中チップの\n雷属性の種類が多いほど攻撃力が超絶に増加される。",
+		"jp_explainLong": "ジャストアタック成功時もしくはスライド操作時\n一定時間、消費ＣＰが減少し、装備中チップの\n雷属性の枚数が多いほど攻撃力が超絶に増加される。",
 		"tr_explainLong": ""
 	},
 	{
@@ -2419,6 +2419,258 @@
 		"jp_explainShort": "アビリティレベル攻撃増＋ＣＰ回復速度強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\nアビリティレベルに応じて攻撃力が絶大に増加され\nＣＰの回復速度が劇的に強化される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31373",
+		"jp_explainShort": "法術劇的強化＋一定確率で回避",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n法術の威力が劇的に強化され\n敵からの攻撃を一定確率で回避する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31374",
+		"jp_explainShort": "法術劇的強化＋一定確率で回避",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n法術の威力が劇的に強化され\n敵からの攻撃を一定確率で回避する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31375",
+		"jp_explainShort": "消費ＣＰ減少＋氷弱点時ダメージ劇的増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n消費ＣＰが減少し、攻撃対象のエネミーが氷属性弱点\nの場合に与えるダメージが劇的に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31376",
+		"jp_explainShort": "消費ＣＰ減少＋氷弱点時ダメージ劇的増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、長い時間\n消費ＣＰが減少し、攻撃対象のエネミーが氷属性弱点\nの場合に与えるダメージが劇的に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31377",
+		"jp_explainShort": "攻撃力絶大増加＋炎属性武器で攻撃力増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、攻撃力が絶大に増加され\n装備中の武器の属性が炎属性の場合\nさらに攻撃力が増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31378",
+		"jp_explainShort": "攻撃力絶大増加＋炎属性武器で攻撃力増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、攻撃力が絶大に増加され\n装備中の武器の属性が炎属性の場合\nさらに攻撃力が増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31381",
+		"jp_explainShort": "闇属性大強化＋追加で大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n闇属性が大きく強化され\n追加で大ダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31382",
+		"jp_explainShort": "闇属性劇的強化＋追加で特大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、長い時間\n闇属性が劇的に強化され\n追加で特大ダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31383",
+		"jp_explainShort": "バーン付与＋バーン時ダメージ絶大増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n通常攻撃に「バーン」を付与し、「バーン」状態の\n敵に対してダメージ量が絶大に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31384",
+		"jp_explainShort": "バーン付与＋バーン時ダメージ絶大増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n通常攻撃に「バーン」を付与し、「バーン」状態の\n敵に対してダメージ量が絶大に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31385",
+		"jp_explainShort": "光属性値に応じて攻撃力超絶増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n光属性値に応じて\n攻撃力が超絶に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31386",
+		"jp_explainShort": "光属性値に応じて攻撃力超絶増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n光属性値に応じて\n攻撃力が超絶に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31387",
+		"jp_explainShort": "追加特大ダメージ＋カウンターダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、追加で特大ダメージを与え\nターゲット中のエネミーから攻撃を受けた時\nそのダメージに応じたカウンターを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31388",
+		"jp_explainShort": "追加特大ダメージ＋カウンターダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、追加で特大ダメージを与え\nターゲット中のエネミーから攻撃を受けた時\nそのダメージに応じたカウンターを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31391",
+		"jp_explainShort": "攻撃小増＋必殺技のＣＰ消費増加と劇的強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、攻撃力が\nわずかに増加され、必殺技・法術のＣＰ消費量が\n増加されるとともに威力が劇的に強化される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31392",
+		"jp_explainShort": "攻撃小増＋必殺技のＣＰ消費増加と劇的強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、長い時間、攻撃力が\nわずかに増加され、必殺技・法術のＣＰ消費量が\n増加されるとともに威力が劇的に強化される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31393",
+		"jp_explainShort": "攻撃力絶大増＋ＣＰ一定以上時攻撃力劇的増",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n攻撃力が絶大に増加され、ＣＰが一定値以上の場合は\nさらに攻撃力が劇的に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31394",
+		"jp_explainShort": "攻撃力絶大増＋ＣＰ一定以上時攻撃力劇的増",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n攻撃力が絶大に増加され、ＣＰが一定値以上の場合は\nさらに攻撃力が劇的に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31395",
+		"jp_explainShort": "抜剣の技が劇的強化＋通常攻撃と移動が加速",
+		"tr_explainShort": "",
+		"jp_explainLong": "スライド操作時、一定時間\n強弓の必殺技の威力が劇的に強化され\n自身の通常攻撃と移動のスピードが加速される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31396",
+		"jp_explainShort": "抜剣の技が劇的強化＋通常攻撃と移動が加速",
+		"tr_explainShort": "",
+		"jp_explainLong": "スライド操作時、一定時間\n強弓の必殺技の威力が劇的に強化され\n自身の通常攻撃と移動のスピードが加速される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31397",
+		"jp_explainShort": "強弓の技が劇的強化＋通常攻撃と移動が加速",
+		"tr_explainShort": "",
+		"jp_explainLong": "スライド操作時、一定時間\n抜剣の必殺技の威力が劇的に強化され\n自身の通常攻撃と移動のスピードが加速される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31398",
+		"jp_explainShort": "強弓の技が劇的強化＋通常攻撃と移動が加速",
+		"tr_explainShort": "",
+		"jp_explainLong": "スライド操作時、一定時間\n抜剣の必殺技の威力が劇的に強化され\n自身の通常攻撃と移動のスピードが加速される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31399",
+		"jp_explainShort": "攻撃３回ごと攻撃力大強化＋追加大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、長い時間、敵に追加で大ダメージ\nを与える。アクティブチップ使用か通常攻撃を\n３回行うごとに攻撃力が大きく強化される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31400",
+		"jp_explainShort": "攻撃３回ごと攻撃力大強化＋追加大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、長い時間、敵に追加で大ダメージ\nを与える。アクティブチップ使用か通常攻撃を\n３回行うごとに攻撃力が大きく強化される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31401",
+		"jp_explainShort": "攻撃力劇的増加＋チップ発動率上昇",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n攻撃力が劇的に増加され\nサポートチップの発動率が上昇する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31402",
+		"jp_explainShort": "攻撃力劇的増加＋チップ発動率上昇",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、長い時間\n攻撃力が劇的に増加され\nサポートチップの発動率が上昇する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31403",
+		"jp_explainShort": "攻撃力劇的増加＋被ダメ―ジ時ＣＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n攻撃力が劇的に増加され\n敵からダメージを受けた際、ＨＰが回復する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31404",
+		"jp_explainShort": "攻撃力劇的増加＋被ダメ―ジ時ＣＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n攻撃力が劇的に増加され\n敵からダメージを受けた際、ＨＰが回復する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31407",
+		"jp_explainShort": "海王種・原生種にダメージ大増加＋軽減",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n海王種もしくは原生種に対して、与えるダメージが\n大きく増加され、受けるダメージが軽減される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31408",
+		"jp_explainShort": "海王種・原生種にダメージ劇的増加＋大軽減",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n海王種もしくは原生種に対して、与えるダメージが\n劇的に増加され、受けるダメージが大きく軽減される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31411",
+		"jp_explainShort": "定期的に攻撃力が大増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、長い時間\n定期的に攻撃力が大きく増加され絶大となる。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31412",
+		"jp_explainShort": "定期的に攻撃力が大増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、長い時間\n定期的に攻撃力が大きく増加され絶大となる。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31413",
+		"jp_explainShort": "攻撃力超絶増加＋ＣＰ最大値増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時もしくはスライド操作時\n短い時間、攻撃力が超絶に増加され\nＣＰの最大値が増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31414",
+		"jp_explainShort": "攻撃力超絶増加＋ＣＰ最大値増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時もしくはスライド操作時\n一定時間、攻撃力が超絶に増加され\nＣＰの最大値が増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31415",
+		"jp_explainShort": "ジャストアタックごと攻撃力強化＋ＣＰ最大増",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、長い時間、CPの最大値が増加され\nジャストアタックごとに\n攻撃力が強化され絶大となる。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31416",
+		"jp_explainShort": "ジャストアタックごと攻撃力強化＋ＣＰ最大増",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、長い時間、CPの最大値が増加され\nジャストアタックごとに\n攻撃力が強化され絶大となる。",
 		"tr_explainLong": ""
 	},
 	{
@@ -3601,7 +3853,7 @@
 		"assign": "40151",
 		"jp_explainShort": "定期的にＨＰが小回復＋両剣の技が強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n両剣の必殺技の威力が大きく強化される。",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n両剣の必殺技の威力が強化される。",
 		"tr_explainLong": ""
 	},
 	{
@@ -3739,16 +3991,16 @@
 	},
 	{
 		"assign": "40171",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋大剣の技が強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n大剣の必殺技の威力が強化される。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40172",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋大剣の技が大強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n大剣の必殺技の威力が大きく強化される。",
 		"tr_explainLong": ""
 	},
 	{
@@ -3781,16 +4033,16 @@
 	},
 	{
 		"assign": "40177",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋双小剣の技が強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n双小剣の必殺技の威力が強化される。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40178",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋双小剣の技が大強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n双小剣の必殺技の威力が大きく強化される。",
 		"tr_explainLong": ""
 	},
 	{
@@ -3809,16 +4061,16 @@
 	},
 	{
 		"assign": "40181",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋鋼拳の技が強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n鋼拳の必殺技の威力が強化される。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40182",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋鋼拳の技が大強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n鋼拳の必殺技の威力が大きく強化される。",
 		"tr_explainLong": ""
 	},
 	{
@@ -3907,16 +4159,16 @@
 	},
 	{
 		"assign": "40195",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋魔装脚の技が強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n魔装脚の必殺技の威力が強化される。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40196",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋魔装脚の技が大強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n魔装脚の必殺技の威力が大きく強化される。",
 		"tr_explainLong": ""
 	},
 	{
@@ -4005,30 +4257,30 @@
 	},
 	{
 		"assign": "40209",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋鋼拳の技が強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n鋼拳の必殺技の威力が強化される。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40210",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋鋼拳の技が大強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n鋼拳の必殺技の威力が大きく強化される。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40211",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋銃剣の技が強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n銃剣の必殺技の威力が強化される。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40212",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋銃剣の技が大強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n銃剣の必殺技の威力が大きく強化される。",
 		"tr_explainLong": ""
 	},
 	{
@@ -4061,16 +4313,16 @@
 	},
 	{
 		"assign": "40217",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋双機銃の技が強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n双機銃の必殺技の威力が強化される。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40218",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋双機銃の技が大強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n双機銃の必殺技の威力が大きく強化される。",
 		"tr_explainLong": ""
 	},
 	{
@@ -4673,6 +4925,20 @@
 		"jp_explainShort": "攻撃３回毎に攻撃力小強化＋追加小ダメージ",
 		"tr_explainShort": "",
 		"jp_explainLong": "スライド操作時、一定時間、アクティブチップ使用か\n通常攻撃を３回行うごとに攻撃力をわずかに強化し\n敵に追加で小ダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "20039",
+		"jp_explainShort": "攻撃力小増加＋ダメージ大軽減＋ダウン無効",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n攻撃力がわずかに増加され、敵から受けるダメージが\n大きく軽減される。さらに、ダウン状態にならない。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "20040",
+		"jp_explainShort": "攻撃力小増加＋ダメージ大軽減＋ダウン無効",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n攻撃力がわずかに増加され、敵から受けるダメージが\n大きく軽減される。さらに、ダウン状態にならない。",
 		"tr_explainLong": ""
 	},
 	{

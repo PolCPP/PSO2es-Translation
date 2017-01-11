@@ -1825,6 +1825,11 @@
 		"tr_text": "[Profound Darkness]"
 	},
 	{
+		"assign": "DpAbyssU",
+		"jp_text": "【深遠なる闇】",
+		"tr_text": "[Profound Darkness]"
+	},
+	{
 		"assign": "DpAbyssChar",
 		"jp_text": "【深遠なる闇】",
 		"tr_text": "[Profound Darkness]"
@@ -1837,7 +1842,7 @@
 	{
 		"assign": "DpAbyssCharUniq",
 		"jp_text": "【深遠なる闇】",
-		"tr_text": "[Profound Darkness]"
+		"tr_text": ""
 	},
 	{
 		"assign": "BugLegion",
@@ -2240,6 +2245,11 @@
 		"tr_text": "Vido Luze"
 	},
 	{
+		"assign": "PAMan",
+		"jp_text": "エス・アンジェス",
+		"tr_text": ""
+	},
+	{
 		"assign": "KingRappy",
 		"jp_text": "キング・ラッピー",
 		"tr_text": "King Rappy"
@@ -2595,6 +2605,11 @@
 		"tr_text": "Phel"
 	},
 	{
+		"assign": "DragonGladiatorRareST1",
+		"jp_text": "フェル",
+		"tr_text": ""
+	},
+	{
 		"assign": "MachineLittleBossRareST0",
 		"jp_text": "タイプＺエンブリオヴァーダー",
 		"tr_text": "Type-Z Embryo Vardha"
@@ -2703,6 +2718,21 @@
 		"assign": "PantherBRareHC1",
 		"jp_text": "タイプＣバンサ・ドンナ＋",
 		"tr_text": "Type-C Banther Donna+"
+	},
+	{
+		"assign": "PantherBRareMC0",
+		"jp_text": "覇滅バンサ・ドンナ",
+		"tr_text": ""
+	},
+	{
+		"assign": "PantherBRareMC1",
+		"jp_text": "覇滅バンサ・ドンナ",
+		"tr_text": ""
+	},
+	{
+		"assign": "PantherBRareMC2",
+		"jp_text": "覇滅バンサ・ドンナ",
+		"tr_text": ""
 	},
 	{
 		"assign": "DragonMagmaRareLD0",
@@ -2973,6 +3003,21 @@
 		"assign": "MarineOrcaRareHC1",
 		"jp_text": "タイプＣオルグケラトス＋",
 		"tr_text": "Type-C Org Keratos+"
+	},
+	{
+		"assign": "MarineOrcaRareMC0",
+		"jp_text": "覇滅オルグケラトス",
+		"tr_text": ""
+	},
+	{
+		"assign": "MarineOrcaRareMC1",
+		"jp_text": "覇滅オルグケラトス",
+		"tr_text": ""
+	},
+	{
+		"assign": "MarineOrcaRareMC2",
+		"jp_text": "覇滅オルグケラトス",
+		"tr_text": ""
 	},
 	{
 		"assign": "FishBigBeastLD0",
@@ -3393,6 +3438,11 @@
 		"assign": "DragonGladiatorRareST0Ex",
 		"jp_text": "フェルＥｘ",
 		"tr_text": "Phel EX"
+	},
+	{
+		"assign": "DragonGladiatorRareST1Ex",
+		"jp_text": "フェルＥｘ",
+		"tr_text": ""
 	},
 	{
 		"assign": "MachineLittleBossRareST0Ex",
