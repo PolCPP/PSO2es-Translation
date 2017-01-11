@@ -4,21 +4,21 @@
 		"jp_text": "ツインマシンガン",
 		"tr_text": "Twin Machinegun",
 		"jp_explain": "アークスで正式採用されている双機銃。\n携帯性を追求した最軽量モデルで\n初心者にも扱いやすい入門機。",
-		"tr_explain": ""
+		"tr_explain": "A Twin Machinegun adopted by ARKS.\nWith emphasis on lightweight mobility,\nthis weapon is ideal for beginners."
 	},
 	{
 		"assign": "11001",
 		"jp_text": "アルバＴマシンガン",
 		"tr_text": "Alva Twin Machinegun",
 		"jp_explain": "アークスで使用される改良型の双機銃。\n砲身を伸張して射程不足を克服し\n弾倉の改良により連射性能も向上した。",
-		"tr_explain": ""
+		"tr_explain": "An improved Twin Machinegun. It's\nlong barrel and improved magazine,\nare better than the previous model."
 	},
 	{
 		"assign": "11002",
 		"jp_text": "ヴィタＴマシンガン",
 		"tr_text": "Vita Twin Machinegun",
 		"jp_explain": "基礎モデルに改良を加えた双機銃。\n課題であった衝撃吸収と安定性を確保し\n一層の軽量化がなされた。",
-		"tr_explain": ""
+		"tr_explain": "An improved Twin Machinegun that\nsports shock absorbent stabilizers,\nwhile reducing the overall weight."
 	},
 	{
 		"assign": "11003",
@@ -550,7 +550,7 @@
 		"jp_text": "アタッシュオブス",
 		"tr_text": "Attache Obs",
 		"jp_explain": "スタイリッシュな戦闘スタイルを機能的\nにアシストする双機銃。携行性を重視し\n工夫を重ねたクールな変形武器。",
-		"tr_explain": "Functional and Stylish TMG's.\nBuilt with an emphasis on\nmobility to the weapon"
+		"tr_explain": "Functional and Stylish TMG's.\nBuilt with an emphasis on\nmobility to the weapon."
 	},
 	{
 		"assign": "1100104",
@@ -854,6 +854,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "1100217",
+		"jp_text": "シャリオアリオン",
+		"tr_text": "",
+		"jp_explain": "数多の儀式を施し、錬成の果てに\n生み出された紫の双機銃。装者の感情を\n弾に変え、その威力で敵を撃つ。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1100218",
 		"jp_text": "グロブレオパード",
 		"tr_text": "Glob Leopard",
@@ -879,7 +886,7 @@
 		"jp_text": "ヤスミノコフ８０００Ｃ",
 		"tr_text": "Yasminkov 8000C",
 		"jp_explain": "一風変わったヤスミノコフ型双機銃。\nヘリカルマガジンを採用することで\nコンパクトながら屈指の装填数を誇る。",
-		"tr_explain": ""
+		"tr_explain": "An unusual shaped TMG. By adopting\na helical magazine, it offers instant\nreloading of its ammo in seconds."
 	},
 	{
 		"assign": "1100232",
@@ -924,11 +931,18 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "1100249",
+		"jp_text": "フォルニスフィジス",
+		"tr_text": "",
+		"jp_explain": "異なる力を宿した恐るべき双機銃。\n扱いは非常に難しいものの、卓越した\n威力を誇り、敵を圧倒できる。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1100251",
 		"jp_text": "ワルキューレＲ２５",
 		"tr_text": "Valkyrie R25",
 		"jp_explain": "伝説的なエージェントが使用したことで\n有名な双機銃。サイレンサーなど\n専用アクセサリーも存在している。",
-		"tr_explain": ""
+		"tr_explain": "A TMG that was used by a famous\nsecret agent, with dedicated add-ons,\nsuch as the silencer, are also present."
 	},
 	{
 		"assign": "1100254",
@@ -984,7 +998,7 @@
 		"jp_text": "ステルクシュタヤー",
 		"tr_text": "Stelk Shootyr",
 		"jp_explain": "専用エネルギータンクがついた双機銃。\n射撃時に、専用エネルギーによる\n補助システムで反動が抑えられる。",
-		"tr_explain": ""
+		"tr_explain": "A TMG with a dedicated energy tank.\nBecause of the tank, recoil energy is\nfed through the auxiliary system."
 	},
 	{
 		"assign": "1100295",
@@ -1110,6 +1124,13 @@
 		"jp_text": "ラムダサークウェイドVer2",
 		"tr_text": "Lambda Sarcueid Ver2",
 		"jp_explain": "独自改造の双機銃。その一つの答え。\n経験に裏打ちされたカスタムのため\n非常に扱いやすく、それでいて強力。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100314",
+		"jp_text": "虚細氷",
+		"tr_text": "Kyohoso Kouri",
+		"jp_explain": "冷気を操る妖魔を討ったという双機銃。\n妖魔の力が銃身に宿り、射出した弾丸は\n戦場に吹雪を起こすと言われている。",
 		"tr_explain": ""
 	},
 	{
