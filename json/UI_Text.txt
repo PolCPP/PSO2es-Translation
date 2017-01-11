@@ -17097,7 +17097,7 @@
 	{
 		"assign": "collect_search_drop_rate_text",
 		"jp_text": "大成功発生確率　/",
-		"tr_text": "Chance of Great Success /"
+		"tr_text": "Great Success Chance /"
 	},
 	{
 		"assign": "collect_search_drop_rate_value",
@@ -17112,17 +17112,17 @@
 	{
 		"assign": "collect_search_exp_text",
 		"jp_text": "経験値　/",
-		"tr_text": "EXP /"
+		"tr_text": "EXP　　　　/"
 	},
 	{
 		"assign": "collect_search_meseta_text",
 		"jp_text": "メセタ　 /",
-		"tr_text": "Meseta /"
+		"tr_text": "Meseta　/"
 	},
 	{
 		"assign": "collect_search_range",
 		"jp_text": "～",
-		"tr_text": " to "
+		"tr_text": "～"
 	},
 	{
 		"assign": "collect_search_window_aheetselect",
@@ -17162,7 +17162,7 @@
 	{
 		"assign": "collect_search_one_time",
 		"jp_text": "1回実行",
-		"tr_text": "Search Once"
+		"tr_text": "1 more"
 	},
 	{
 		"assign": "collect_search_reward_dialog_title",
@@ -17202,7 +17202,7 @@
 	{
 		"assign": "collect_search_reward_button_next",
 		"jp_text": "もう1回<{0}<%AC>>",
-		"tr_text": "1 more time <{0}<%AC>>"
+		"tr_text": "Again<{0}<%AC>>"
 	},
 	{
 		"assign": "collect_search_dialog_t_01",
@@ -17257,6 +17257,6 @@
 	{
 		"assign": "collect_search_drop_rate_info_text",
 		"jp_text": "<%AC>で実行時、大成功発生確率アップ！",
-		"tr_text": "When using <%AC>, the chance of Great Success increases!"
+		"tr_text": ""
 	}
 ]
