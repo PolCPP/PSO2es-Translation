@@ -3712,7 +3712,7 @@
 	{
 		"assign": "myshop_category_ring",
 		"jp_text": "スキルリング",
-		"tr_text": ""
+		"tr_text": "Skill Rings"
 	},
 	{
 		"assign": "myshop_category_costume",
@@ -3762,12 +3762,12 @@
 	{
 		"assign": "myshop_category_gatherer",
 		"jp_text": "ギャザリング素材",
-		"tr_text": ""
+		"tr_text": "Gathering Materials"
 	},
 	{
 		"assign": "myshop_category_cooking",
 		"jp_text": "ギャザリング料理",
-		"tr_text": ""
+		"tr_text": "Gathering Food"
 	},
 	{
 		"assign": "myshop_category_other",
@@ -3902,17 +3902,17 @@
 	{
 		"assign": "myshop_sub_ring_not_specified",
 		"jp_text": "指定なし",
-		"tr_text": ""
+		"tr_text": "None"
 	},
 	{
 		"assign": "myshop_sub_ring_l",
 		"jp_text": "Lリング",
-		"tr_text": ""
+		"tr_text": "Left Rings"
 	},
 	{
 		"assign": "myshop_sub_ring_r",
 		"jp_text": "Rリング",
-		"tr_text": ""
+		"tr_text": "Right Rings"
 	},
 	{
 		"assign": "myshop_sub_costume_not_specified",
@@ -17097,7 +17097,7 @@
 	{
 		"assign": "collect_search_drop_rate_text",
 		"jp_text": "大成功発生確率　/",
-		"tr_text": "Great Success Chance /"
+		"tr_text": "Great Success /"
 	},
 	{
 		"assign": "collect_search_drop_rate_value",
@@ -17162,7 +17162,7 @@
 	{
 		"assign": "collect_search_one_time",
 		"jp_text": "1回実行",
-		"tr_text": "1 more"
+		"tr_text": "Again"
 	},
 	{
 		"assign": "collect_search_reward_dialog_title",
@@ -17247,7 +17247,7 @@
 	{
 		"assign": "collect_search_meter_full",
 		"jp_text": "<color=yellow>『PSO2』で対象エネミーを撃破時、ゲージが\n100%の必要アイテムがドロップします。</color> ",
-		"tr_text": "<color=yellow>You will need to defeat the enemy\nin PSO2 as the meter is now 100%</color>"
+		"tr_text": "<color=yellow>You will need to defeat the enemy\nin PSO2 as the meter is now 100%.</color>"
 	},
 	{
 		"assign": "collect_search_item_complete",
