@@ -4,21 +4,21 @@
 		"jp_text": "エステ利用パス",
 		"tr_text": "Makeover Pass",
 		"jp_explain": "エステカウンターの機能利用パス。\nサポートパートナーにも使用可能。\n利用するたびにパスは消費される。 ",
-		"tr_explain": ""
+		"tr_explain": "Allows you to use AC restricted\noptions in the Beauty Salon. Ticket is\nused after saving changes."
 	},
 	{
 		"assign": "32103",
 		"jp_text": "カラーチェンジパス",
 		"tr_text": "Color Change Pass",
 		"jp_explain": "コスチュームのカラー変更パス\nエステにてカラーリングの変更が可能。\n利用するたびにパスは消費される。",
-		"tr_explain": ""
+		"tr_explain": "Allows you to recolor your\ncharacter from the Beauty Salon."
 	},
 	{
 		"assign": "32104",
 		"jp_text": "スキルツリー追加パス",
 		"tr_text": "Add. Skill Tree Pass",
 		"jp_explain": "クラスカウンターで使われるパス。\n新規のスキルツリーを１枚追加できる。\n１キャラクター２０枚まで拡張可能。",
-		"tr_explain": ""
+		"tr_explain": "Adds an additional Skill Tree\nto a selected class, up to\n20 trees from a single class."
 	},
 	{
 		"assign": "32105",
@@ -46,112 +46,112 @@
 		"jp_text": "強化成功率＋５％",
 		"tr_text": "Grind Success Rate +5%",
 		"jp_explain": "旧式武器、防具、キャンディー用の\n強化補助素材。強化時に使用することで\n成功率を５％上昇させる。",
-		"tr_explain": "Increase the success rate\nby 5% when grinding Units\nand Old Type weapons."
+		"tr_explain": "Increase the success rate\nby 5% when grinding equipment."
 	},
 	{
 		"assign": "32109",
 		"jp_text": "強化成功率＋１０％",
 		"tr_text": "Grind Success Rate +10%",
 		"jp_explain": "旧式武器、防具、キャンディー用の\n強化補助素材。強化時に使用することで\n成功率を１０％上昇させる。",
-		"tr_explain": "Increase the success rate\nby 10% when grinding Units\nand Old Type weapons."
+		"tr_explain": "Increase the success rate\nby 10% when grinding equipment."
 	},
 	{
 		"assign": "321010",
 		"jp_text": "強化成功率＋２０％",
 		"tr_text": "Grind Success Rate +20%",
 		"jp_explain": "旧式武器、防具、キャンディー用の\n強化補助素材。強化時に使用することで\n成功率を２０％上昇させる。",
-		"tr_explain": "Increase the success rate\nby 20% when grinding Units\nand Old Type weapons."
+		"tr_explain": "Increase the success rate\nby 20% when grinding equipment."
 	},
 	{
 		"assign": "321011",
 		"jp_text": "強化スキップ（→７）",
 		"tr_text": "Grind Skip (→7)",
 		"jp_explain": "旧式武器、ユニット用の強化補助素材。\n強化値が＋６以下の時に使用すると\n＋７まで一気に強化することができる。",
-		"tr_explain": ""
+		"tr_explain": "Instantly grinds to +7 when the item is\ngrinding is +6 or lower. Cannot be\ntraded or sold to other players."
 	},
 	{
 		"assign": "321012",
 		"jp_text": "強化リスク軽減（＋１）",
 		"tr_text": "Grind Risk Reduction (+1)",
 		"jp_explain": "旧式武器、ユニット用の原型保護素材。\n強化時に使用することで\n強化失敗時のリスクを１段階低減する。",
-		"tr_explain": ""
+		"tr_explain": "Used when grinding equipment.\nDecreases grinding risk by 1."
 	},
 	{
 		"assign": "321013",
 		"jp_text": "強化リスク軽減（完全）",
 		"tr_text": "Grind Risk Reduction (Full)",
 		"jp_explain": "旧式武器、ユニット用の原型保護素材。\n強化時に使用することで\n強化失敗時のリスクを打ち消す。",
-		"tr_explain": ""
+		"tr_explain": "Used when grinding equipment.\nCompletely removes grinding risk."
 	},
 	{
 		"assign": "321014",
 		"jp_text": "属性強化＋５％",
 		"tr_text": "Attribute Enhance +5%",
 		"jp_explain": "属性強化用の強化補助素材。\n属性強化時に使用することで\n属性値を５％底上げする。",
-		"tr_explain": ""
+		"tr_explain": "Used when grinding attributes.\nIncreases weapon attribute by 5%."
 	},
 	{
 		"assign": "321015",
 		"jp_text": "属性変化（炎属性）",
 		"tr_text": "Attribute Change (Fire)",
 		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【炎】属性へと変化させる。",
-		"tr_explain": ""
+		"tr_explain": "Used when grinding attributes.\nChanges weapon attribute to \"Fire\"."
 	},
 	{
 		"assign": "321016",
 		"jp_text": "属性変化（氷属性）",
 		"tr_text": "Attribute Change (Ice)",
 		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【氷】属性へと変化させる。",
-		"tr_explain": ""
+		"tr_explain": "Used when grinding attributes.\nChanges weapon attribute to \"Ice\"."
 	},
 	{
 		"assign": "321017",
 		"jp_text": "属性変化（雷属性）",
 		"tr_text": "Attribute Change (Lightning)",
 		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【雷】属性へと変化させる。",
-		"tr_explain": ""
+		"tr_explain": "Used when grinding attributes.\nChanges weapon attribute\nto \"Lightning\"."
 	},
 	{
 		"assign": "321018",
 		"jp_text": "属性変化（風属性）",
 		"tr_text": "Attribute Change (Wind)",
 		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【風】属性へと変化させる。",
-		"tr_explain": ""
+		"tr_explain": "Used when grinding attributes.\nChanges weapon attribute to \"Wind\"."
 	},
 	{
 		"assign": "321019",
 		"jp_text": "属性変化（光属性）",
 		"tr_text": "Attribute Change (Light)",
 		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【光】属性へと変化させる。",
-		"tr_explain": ""
+		"tr_explain": "Used when grinding attributes.\nChanges weapon attribute to \"Light\"."
 	},
 	{
 		"assign": "321020",
 		"jp_text": "属性変化（闇属性）",
 		"tr_text": "Attribute Change (Dark)",
 		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【闇】属性へと変化させる。",
-		"tr_explain": ""
+		"tr_explain": "Used when grinding attributes.\nChanges weapon attribute to \"Dark\"."
 	},
 	{
 		"assign": "321021",
 		"jp_text": "能力追加成功率＋５％",
 		"tr_text": "Ability Success Rate +5%",
 		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を５％上昇させる。",
-		"tr_explain": ""
+		"tr_explain": "Used when adding Special Abilities\non your equipment.\nBoosts success rate by 5%."
 	},
 	{
 		"assign": "321022",
 		"jp_text": "能力追加成功率＋１０％",
 		"tr_text": "Ability Success Rate +10%",
 		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を１０％上昇させる。",
-		"tr_explain": ""
+		"tr_explain": "Used when adding Special Abilities\non your equipment.\nBoosts success rate by 10%."
 	},
 	{
 		"assign": "321023",
 		"jp_text": "能力追加成功率＋２０％",
 		"tr_text": "Ability Success Rate +20%",
 		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を２０％上昇させる。",
-		"tr_explain": ""
+		"tr_explain": "Used when adding Special Abilities\non your equipment.\nBoosts success rate by 20%."
 	},
 	{
 		"assign": "321024",
@@ -193,105 +193,105 @@
 		"jp_text": "強化成功率＋３０％",
 		"tr_text": "Grind Success Rate +30%",
 		"jp_explain": "旧式武器、防具、キャンディー用の\n強化補助素材。強化時に使用することで\n成功率を３０％上昇させる。",
-		"tr_explain": ""
+		"tr_explain": "Increase the success rate\nby 30% when grinding equipment."
 	},
 	{
 		"assign": "321031",
 		"jp_text": "能力追加成功率＋３０％",
 		"tr_text": "Ability Success Rate +30%",
 		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を３０％上昇させる。",
-		"tr_explain": ""
+		"tr_explain": "Used when adding Special Abilities\non your equipment.\nBoosts success rate by 30%."
 	},
 	{
 		"assign": "321032",
 		"jp_text": "全スキルツリー初期化パス",
 		"tr_text": "All Skill Tree Reset Pass",
 		"jp_explain": "クラスカウンターで使われるパス。\n追加したツリーを含めて全スキルツリー\nを初期化しＳＰを振り直せる。",
-		"tr_explain": ""
+		"tr_explain": "Resets all of your skill from\nyour trees back into Skill Points."
 	},
 	{
 		"assign": "321033",
 		"jp_text": "★１０武器購入パス",
 		"tr_text": "10★ Weapon Exchange Pass",
 		"jp_explain": "特定レアリティ武器の購入パス。\nマイショップで【★１０】武器を\n購入する際に消費される。",
-		"tr_explain": ""
+		"tr_explain": "A pass that grants the purchase\nof 10★ weapons from My Shop."
 	},
 	{
 		"assign": "321034",
 		"jp_text": "★１１武器購入パス",
 		"tr_text": "11★ Weapon Exchange Pass",
 		"jp_explain": "特定レアリティ武器の購入パス。\nマイショップで【★１１】武器を\n購入する際に消費される。",
-		"tr_explain": ""
+		"tr_explain": "A pass that grants the purchase\nof 11★ weapons from My Shop."
 	},
 	{
 		"assign": "321035",
 		"jp_text": "★１２武器購入パス",
 		"tr_text": "★12 Weapon Exchange Pass",
 		"jp_explain": "特定レアリティ武器の購入パス。\nマイショップで【★１２】武器を\n購入する際に消費される。",
-		"tr_explain": ""
+		"tr_explain": "A pass that grants the purchase\nof 12★ weapons from My Shop."
 	},
 	{
 		"assign": "321039",
 		"jp_text": "★１０ユニット購入パス",
 		"tr_text": "10★ Unit Exchange Pass",
 		"jp_explain": "特定レアリティユニットの購入パス。\nマイショップで【★１０】ユニットを\n購入する際に消費される。",
-		"tr_explain": ""
+		"tr_explain": "A pass that grants the purchase\nof 10★ units from My Shop."
 	},
 	{
 		"assign": "321040",
 		"jp_text": "★１１ユニット購入パス",
 		"tr_text": "11★ Unit Exchange Pass",
 		"jp_explain": "特定レアリティユニットの購入パス。\nマイショップで【★１１】ユニットを\n購入する際に消費される。",
-		"tr_explain": ""
+		"tr_explain": "A pass that grants the purchase\nof 11★ units from My Shop."
 	},
 	{
 		"assign": "321047",
 		"jp_text": "強化成功（１００％）",
 		"tr_text": "Grind Success +100%",
 		"jp_explain": "旧式武器、防具、キャンディー用の\n強化補助素材。強化時に使用することで\n確実に成功させる。",
-		"tr_explain": ""
+		"tr_explain": "Increase the success rate\nby 100% when grinding equipment."
 	},
 	{
 		"assign": "321048",
 		"jp_text": "強化リスク軽減（＋２）",
 		"tr_text": "Grind Risk Reduction (+2)",
 		"jp_explain": "旧式武器、ユニット用の原型保護素材。\n強化時に使用することで\n強化失敗時のリスクを２段階低減する。",
-		"tr_explain": ""
+		"tr_explain": "Used when grinding equipment.\nDecreases grinding risk by 2."
 	},
 	{
 		"assign": "321051",
 		"jp_text": "属性強化＋１０％",
 		"tr_text": "Attribute Enhance +10%",
 		"jp_explain": "属性強化用の強化補助素材。\n属性強化時に使用することで\n属性値を１０％底上げする。",
-		"tr_explain": ""
+		"tr_explain": "Used when grinding attributes.\nIncreases weapon attribute by 10%."
 	},
 	{
 		"assign": "321054",
 		"jp_text": "能力追加成功率＋４０％",
 		"tr_text": "Ability Success Rate +40%",
 		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を４０％上昇させる。",
-		"tr_explain": ""
+		"tr_explain": "Used when adding Special Abilities\non your equipment.\nBoosts success rate by 40%"
 	},
 	{
 		"assign": "321056",
 		"jp_text": "能力追加成功（１００％）",
 		"tr_text": "Ability Success Rate +100%",
 		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n確実に成功させる。",
-		"tr_explain": ""
+		"tr_explain": "Used when adding Special Abilities\non your equipment.\nBoosts success rate by 100%"
 	},
 	{
 		"assign": "321057",
 		"jp_text": "パートナー追加パス",
 		"tr_text": "Add. Support Partners Ticket",
 		"jp_explain": "サポートパートナーの追加使用パス。\n新規のサポートパートナーを１体追加。\n１キャラクター２枚まで拡張可能。",
-		"tr_explain": ""
+		"tr_explain": "Adds an additional Support Partner.\nUp to a maximum of 2\nadditional support partners."
 	},
 	{
 		"assign": "321058",
 		"jp_text": "パートナーリセットパス",
 		"tr_text": "Reset Partners Pass",
 		"jp_explain": "サポートパートナーのリメイクパス。\nサポートパートナーの状態をリセットし\nキャラクタークリエイトからやり直す。",
-		"tr_explain": ""
+		"tr_explain": "Allows you to reset and\nremake your Support Partner."
 	},
 	{
 		"assign": "321059",
@@ -305,203 +305,203 @@
 		"jp_text": "リリパリウムフルチャージ",
 		"tr_text": "Liliparium Full Charge",
 		"jp_explain": "現在所持している全ての\nクラフトエネルギーを\n全回復させる。",
-		"tr_explain": ""
+		"tr_explain": "Reduces the cooldown of\nall craft lines completely."
 	},
 	{
 		"assign": "321061",
 		"jp_text": "リリパリウム（極小）",
 		"tr_text": "Liliparium (Mini)",
 		"jp_explain": "選択したクラフトエネルギーを\n１５分回復させる。",
-		"tr_explain": ""
+		"tr_explain": "Reduces the cooldown of a\ncraft line by 15 minutes."
 	},
 	{
 		"assign": "321062",
 		"jp_text": "リリパリウム（小）",
 		"tr_text": "Liliparium (Small)",
 		"jp_explain": "選択したクラフトエネルギーを\n３０分回復させる。",
-		"tr_explain": ""
+		"tr_explain": "Reduces the cooldown of a\ncraft line by 30 minutes."
 	},
 	{
 		"assign": "321066",
 		"jp_text": "リリパリウム（極大）",
 		"tr_text": "Liliparium (Max)",
 		"jp_explain": "選択したクラフトエネルギーを\n１２時間回復させる。",
-		"tr_explain": ""
+		"tr_explain": "Reduces the cooldown of a\ncraft line by 12 hours."
 	},
 	{
 		"assign": "321067",
 		"jp_text": "クラス追加（ハンター）",
 		"tr_text": "Add Class (Hunter)",
 		"jp_explain": "武装エクステンド実行時に\nハンターのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": ""
+		"tr_explain": "Adds the class \"Hunter\"\nto equipment when extended."
 	},
 	{
 		"assign": "321068",
 		"jp_text": "クラス追加（レンジャー）",
 		"tr_text": "Add Class (Ranger)",
 		"jp_explain": "武装エクステンド実行時に\nレンジャーのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": ""
+		"tr_explain": "Adds the class \"Ranger\"\nto equipment when extended."
 	},
 	{
 		"assign": "321069",
 		"jp_text": "クラス追加（フォース）",
 		"tr_text": "Add Class (Force)",
 		"jp_explain": "武装エクステンド実行時に\nフォースのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": ""
+		"tr_explain": "Adds the class \"Force\"\nto equipment when extended."
 	},
 	{
 		"assign": "321070",
 		"jp_text": "クラス追加（ファイター）",
 		"tr_text": "Add Class (Fighter)",
 		"jp_explain": "武装エクステンド実行時に\nファイターのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": ""
+		"tr_explain": "Adds the class \"Fighter\"\nto equipment when extended."
 	},
 	{
 		"assign": "321071",
 		"jp_text": "クラス追加（ガンナー）",
 		"tr_text": "Add Class (Gunner)",
 		"jp_explain": "武装エクステンド実行時に\nガンナーのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": ""
+		"tr_explain": "Adds the class \"Gunner\"\nto equipment when extended."
 	},
 	{
 		"assign": "321072",
 		"jp_text": "クラス追加（テクター）",
 		"tr_text": "Add Class (Techer)",
 		"jp_explain": "武装エクステンド実行時に\nテクターのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": ""
+		"tr_explain": "Adds the class \"Techer\"\nto equipment when extended."
 	},
 	{
 		"assign": "321073",
 		"jp_text": "クラス追加（ブレイバー）",
 		"tr_text": "Add Class (Braver)",
 		"jp_explain": "武装エクステンド実行時に\nブレイバーのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": ""
+		"tr_explain": "Adds the class \"Braver\"\nto equipment when extended."
 	},
 	{
 		"assign": "321074",
 		"jp_text": "装備条件変更（打撃）",
 		"tr_text": "Equip. Condition Swap (S-ATK)",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を打撃に\n変更する。",
-		"tr_explain": ""
+		"tr_explain": "Swaps the equipment requirement\nwhen used during equipment\nextension with S-ATK."
 	},
 	{
 		"assign": "321075",
 		"jp_text": "装備条件変更（射撃）",
 		"tr_text": "Equip. Condition Swap (R-ATK)",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を射撃に\n変更する。",
-		"tr_explain": ""
+		"tr_explain": "Swaps the equipment requirement\nwhen used during equipment\nextension with R-ATK."
 	},
 	{
 		"assign": "321076",
 		"jp_text": "装備条件変更（法撃）",
 		"tr_text": "Equip. Condition Swap (T-ATK)",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を法撃に\n変更する。",
-		"tr_explain": ""
+		"tr_explain": "Swaps the equipment requirement\nwhen used during equipment\nextension with T-ATK."
 	},
 	{
 		"assign": "321077",
 		"jp_text": "装備条件変更（技量）",
 		"tr_text": "Equip. Condition Swap (DEX)",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を技量に\n変更する。",
-		"tr_explain": ""
+		"tr_explain": "Swaps the equipment requirement\nwhen used during equipment\nextension with DEX."
 	},
 	{
 		"assign": "321078",
 		"jp_text": "装備条件変更（打撃防御）",
 		"tr_text": "Equip. Condition Swap (S-DEF)",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を打撃防御に\n変更する。",
-		"tr_explain": ""
+		"tr_explain": "Swaps the equipment requirement\nwhen used during equipment\nextension with S-DEF."
 	},
 	{
 		"assign": "321079",
 		"jp_text": "装備条件変更（射撃防御）",
 		"tr_text": "Equip. Condition Swap (R-DEF)",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を射撃防御に\n変更する。",
-		"tr_explain": ""
+		"tr_explain": "Swaps the equipment requirement\nwhen used during equipment\nextension with R-DEF."
 	},
 	{
 		"assign": "321080",
 		"jp_text": "装備条件変更（法撃防御）",
 		"tr_text": "Equip. Condition Swap (T-DEF)",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を法撃防御に\n変更する。",
-		"tr_explain": ""
+		"tr_explain": "Swaps the equipment requirement\nwhen used during equipment\nextension with T-DEF."
 	},
 	{
 		"assign": "321081",
 		"jp_text": "装備条件緩和＋１０％",
 		"tr_text": "Relax Equip. Conditions +10%",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を１０％緩和する。",
-		"tr_explain": ""
+		"tr_explain": "Decreases the required stat of\nthe extended equipment by 10%."
 	},
 	{
 		"assign": "321082",
 		"jp_text": "装備条件緩和＋２０％",
 		"tr_text": "Relax Equip. Conditions +20%",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を２０％緩和する。",
-		"tr_explain": ""
+		"tr_explain": "Decreases the required stat of\nthe extended equipment by 20%."
 	},
 	{
 		"assign": "321083",
 		"jp_text": "装備条件緩和＋３０％",
 		"tr_text": "Relax Equip. Conditions +30%",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を３０％緩和する。",
-		"tr_explain": ""
+		"tr_explain": "Decreases the required stat of\nthe extended equipment by 30%."
 	},
 	{
 		"assign": "321086",
 		"jp_text": "メリット値＋１０％",
 		"tr_text": "Merit Value +10%",
 		"jp_explain": "テクニックカスタマイズ実行時に\nメリットの下限値を\n１０％上昇させる。",
-		"tr_explain": ""
+		"tr_explain": "Increases the merit value by 10%\nwhen customizing techniques."
 	},
 	{
 		"assign": "321087",
 		"jp_text": "メリット値＋２０％",
 		"tr_text": "Merit Value +20%",
 		"jp_explain": "テクニックカスタマイズ実行時に\nメリットの下限値を\n２０％上昇させる。",
-		"tr_explain": ""
+		"tr_explain": "Increases the merit value by 20%\nwhen customizing techniques."
 	},
 	{
 		"assign": "321088",
 		"jp_text": "メリット値＋３０％",
 		"tr_text": "Merit Value +30%",
 		"jp_explain": "テクニックカスタマイズ実行時に\nメリットの下限値を\n３０％上昇させる。",
-		"tr_explain": ""
+		"tr_explain": "Increases the merit value by 30%\nwhen customizing techniques."
 	},
 	{
 		"assign": "321091",
 		"jp_text": "デメリット値－１０％",
 		"tr_text": "Demerit Value -10%",
 		"jp_explain": "テクニックカスタマイズ実行時に\nデメリットの上限値を\n１０％軽減させる。",
-		"tr_explain": ""
+		"tr_explain": "Decreases the demerit value by -10%\nwhen customizing techniques."
 	},
 	{
 		"assign": "321092",
 		"jp_text": "デメリット値－２０％",
 		"tr_text": "Demerit Value -20%",
 		"jp_explain": "テクニックカスタマイズ実行時に\nデメリットの上限値を\n２０％軽減させる。",
-		"tr_explain": ""
+		"tr_explain": "Decreases the demerit value by -20%\nwhen customizing techniques."
 	},
 	{
 		"assign": "321093",
 		"jp_text": "デメリット値－３０％",
 		"tr_text": "Demerit Value -30%",
 		"jp_explain": "テクニックカスタマイズ実行時に\nデメリットの上限値を\n３０％軽減させる。",
-		"tr_explain": ""
+		"tr_explain": "Decreases the demerit value by -30%\nwhen customizing techniques."
 	},
 	{
 		"assign": "321096",
 		"jp_text": "エステ無料パス",
 		"tr_text": "Free Makeover Pass",
 		"jp_explain": "エステカウンターの機能利用パス。\nサポートパートナーにも使用可能。\n利用するたびにパスは消費される。",
-		"tr_explain": ""
+		"tr_explain": "Allows you to use AC restricted\noptions in the Beauty Salon. Ticket is\nused after saving changes."
 	},
 	{
 		"assign": "321097",
 		"jp_text": "マグ形態変更パス",
 		"tr_text": "Mag Form Change Pass",
 		"jp_explain": "マグ形態変更機能利用パス。\n登録済リストからマグ形態を選択できる。\n利用するたびにパスは消費される。",
-		"tr_explain": ""
+		"tr_explain": "Allows you to select the form\nof your Mag. Pass is consumed\nwhen you select a form."
 	},
 	{
 		"assign": "321098",
@@ -522,21 +522,21 @@
 		"jp_text": "メイン効果（固定）",
 		"tr_text": "Main Effect (Fixed)",
 		"jp_explain": "時限能力インストール実行時に\n「選ばれやすいメイン効果」が\n必ず発生するようになる。",
-		"tr_explain": ""
+		"tr_explain": "Guarantees the install of a\nspecified Main Ability when used\nduring unit ability crafts."
 	},
 	{
 		"assign": "3210111",
 		"jp_text": "効果時間延長＋７日",
 		"tr_text": "Timed Effect Extension +7 Days",
 		"jp_explain": "時限能力インストール実行時に\nデータの効果時間を７日\n延長させる。",
-		"tr_explain": ""
+		"tr_explain": "Extends the expiration of\na Timed Ability by 7 days."
 	},
 	{
 		"assign": "3210114",
 		"jp_text": "クラス追加（バウンサー）",
 		"tr_text": "Add Class (Bouncer)",
 		"jp_explain": "武装エクステンド実行時に\nバウンサーのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": ""
+		"tr_explain": "Adds the class \"Bouncer\"\nto equipment when extended."
 	},
 	{
 		"assign": "3210115",
@@ -571,70 +571,70 @@
 		"jp_text": "カスタムタイプ１＋１０％",
 		"tr_text": "Custom Type 1+10%",
 		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ１の効果値を\n１０％向上させる。",
-		"tr_explain": ""
+		"tr_explain": "Used during customization crafts.\nCustom Type 1 effect boosted\nby 10%."
 	},
 	{
 		"assign": "3210120",
 		"jp_text": "カスタムタイプ１＋２０％",
 		"tr_text": "Custom Type 1+20%",
 		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ１の効果値を\n２０％向上させる。",
-		"tr_explain": ""
+		"tr_explain": "Used during customization crafts.\nCustom Type 1 effect boosted\nby 20%."
 	},
 	{
 		"assign": "3210121",
 		"jp_text": "カスタムタイプ１＋３０％",
 		"tr_text": "Custom Type 1+30%",
 		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ１の効果値を\n３０％向上させる。",
-		"tr_explain": ""
+		"tr_explain": "Used during customization crafts.\nCustom Type 1 effect boosted\nby 30%."
 	},
 	{
 		"assign": "3210124",
 		"jp_text": "カスタムタイプ２＋１０％",
 		"tr_text": "Custom Type 2+10%",
 		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ２の効果値を\n１０％向上させる。",
-		"tr_explain": ""
+		"tr_explain": "Used during customization crafts.\nCustom Type 2 effect boosted\nby 10%."
 	},
 	{
 		"assign": "3210125",
 		"jp_text": "カスタムタイプ２＋２０％",
 		"tr_text": "Custom Type 2+20%",
 		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ２の効果値を\n２０％向上させる。",
-		"tr_explain": ""
+		"tr_explain": "Used during customization crafts.\nCustom Type 2 effect boosted\nby 20%."
 	},
 	{
 		"assign": "3210126",
 		"jp_text": "カスタムタイプ２＋３０％",
 		"tr_text": "Custom Type 2+30%",
 		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ２の効果値を\n３０％向上させる。",
-		"tr_explain": ""
+		"tr_explain": "Used during customization crafts.\nCustom Type 2 effect boosted\nby 30%."
 	},
 	{
 		"assign": "3210129",
 		"jp_text": "オーナー登録解除パス",
 		"tr_text": "Owner Registration Cancel Pass",
 		"jp_explain": "オーナー登録の解除申請パス。\nアイテムラボにて★１１以下の\nオーナー登録を解除する際に使用する。",
-		"tr_explain": ""
+		"tr_explain": "Removes the account bindings of\nequipment rarity 11★ or below.\nDoes not work on 12★ or higher."
 	},
 	{
 		"assign": "3210135",
 		"jp_text": "リリパリウムオール（極大）",
 		"tr_text": "Liliparium (MAX)",
 		"jp_explain": "現在所持している全ての\nクラフトエネルギーを\n１２時間回復させる。",
-		"tr_explain": ""
+		"tr_explain": "Reduces the cooldown of all\ncraft lines by 12 hours."
 	},
 	{
 		"assign": "3210136",
 		"jp_text": "強化スキップ（→５）",
 		"tr_text": "Grind Skip (→5)",
 		"jp_explain": "旧式武器、ユニット用の強化補助素材。\n強化値が＋４以下の時に使用すると\n＋５まで一気に強化することができる。",
-		"tr_explain": ""
+		"tr_explain": "Instantly grinds to +5 when the item is\ngrinding is +4 or lower. Cannot be\ntraded or sold to other players."
 	},
 	{
 		"assign": "3210139",
 		"jp_text": "クラス追加（サモナー）",
 		"tr_text": "Add Class(Summoner)",
 		"jp_explain": "武装エクステンド実行時に\nサモナーのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": ""
+		"tr_explain": "Adds the class \"Summoner\"\nto equipment when extended."
 	},
 	{
 		"assign": "3210140",
@@ -751,9 +751,9 @@
 	{
 		"assign": "3210157",
 		"jp_text": "ファミ通ピッケル",
-		"tr_text": "",
+		"tr_text": "Famitsu Pickaxe",
 		"jp_explain": "ギャザリングで\nボーナス付き採取を行える。\nレア採取発生率＋８０％\n<yellow>有効期限／２０１６年１２月７日１１時００分<c>",
-		"tr_explain": ""
+		"tr_explain": "A tool for Collecting.\nRare Collect Rate +80%\n<yellow>Expires Dec 7, 2016 11:00 JST<c>"
 	},
 	{
 		"assign": "3210158",
@@ -772,9 +772,9 @@
 	{
 		"assign": "3210161",
 		"jp_text": "ファミ通釣り竿",
-		"tr_text": "",
+		"tr_text": "Famitsu Fishing Rod",
 		"jp_explain": "ギャザリングで\nボーナス付き釣りを行える。\nレア釣り発生率＋８０％\n<yellow>有効期限／２０１６年１２月７日１１時００分<c>",
-		"tr_explain": ""
+		"tr_explain": "A tool for Fishing.\nRare Fishing Rate +80%\n<yellow>Expires Dec 7, 2016 11:00 JST<c>"
 	},
 	{
 		"assign": "3210162",
@@ -795,70 +795,70 @@
 		"jp_text": "採取スタドリ０１",
 		"tr_text": "Collect Stam. Drink 01",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-		"tr_explain": ""
+		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
 	},
 	{
 		"assign": "3210165",
 		"jp_text": "採取スタドリ０２",
 		"tr_text": "Collect Stam. Drink 02",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-		"tr_explain": ""
+		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
 	},
 	{
 		"assign": "3210166",
 		"jp_text": "採取スタドリ０３",
 		"tr_text": "Collect Stam. Drink 03",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-		"tr_explain": ""
+		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
 	},
 	{
 		"assign": "3210167",
 		"jp_text": "採取スタドリ０４",
 		"tr_text": "Collect Stam. Drink 04",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-		"tr_explain": ""
+		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
 	},
 	{
 		"assign": "3210168",
 		"jp_text": "採取スタドリ０５",
 		"tr_text": "Collect Stam. Drink 05",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-		"tr_explain": ""
+		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
 	},
 	{
 		"assign": "3210169",
 		"jp_text": "採取スタドリ０６",
 		"tr_text": "Collect Stam. Drink 06",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-		"tr_explain": ""
+		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
 	},
 	{
 		"assign": "3210170",
 		"jp_text": "採取スタドリ０７",
 		"tr_text": "Collect Stam. Drink 07",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-		"tr_explain": ""
+		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
 	},
 	{
 		"assign": "3210171",
 		"jp_text": "採取スタドリ０８",
 		"tr_text": "Collect Stam. Drink 08",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-		"tr_explain": ""
+		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
 	},
 	{
 		"assign": "3210172",
 		"jp_text": "採取スタドリ０９",
 		"tr_text": "Collect Stam. Drink 09",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-		"tr_explain": ""
+		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
 	},
 	{
 		"assign": "3210173",
 		"jp_text": "採取スタドリ１０",
 		"tr_text": "Collect Stam. Drink 10",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-		"tr_explain": ""
+		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
 	},
 	{
 		"assign": "3210175",
@@ -872,98 +872,98 @@
 		"jp_text": "釣りスタドリ０１",
 		"tr_text": "Fishing Stam. Drink 01",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-		"tr_explain": ""
+		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
 	},
 	{
 		"assign": "3210177",
 		"jp_text": "釣りスタドリ０２",
 		"tr_text": "Fishing Stam. Drink 02",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-		"tr_explain": ""
+		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
 	},
 	{
 		"assign": "3210178",
 		"jp_text": "釣りスタドリ０３",
 		"tr_text": "Fishing Stam. Drink 03",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-		"tr_explain": ""
+		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
 	},
 	{
 		"assign": "3210179",
 		"jp_text": "釣りスタドリ０４",
 		"tr_text": "Fishing Stam. Drink 04",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-		"tr_explain": ""
+		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
 	},
 	{
 		"assign": "3210180",
 		"jp_text": "釣りスタドリ０５",
 		"tr_text": "Fishing Stam. Drink 05",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-		"tr_explain": ""
+		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
 	},
 	{
 		"assign": "3210181",
 		"jp_text": "釣りスタドリ０６",
 		"tr_text": "Fishing Stam. Drink 06",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-		"tr_explain": ""
+		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
 	},
 	{
 		"assign": "3210182",
 		"jp_text": "釣りスタドリ０７",
 		"tr_text": "Fishing Stam. Drink 07",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-		"tr_explain": ""
+		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
 	},
 	{
 		"assign": "3210183",
 		"jp_text": "釣りスタドリ０８",
 		"tr_text": "Fishing Stam. Drink 08",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-		"tr_explain": ""
+		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
 	},
 	{
 		"assign": "3210184",
 		"jp_text": "釣りスタドリ０９",
 		"tr_text": "Fishing Stam. Drink 09",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-		"tr_explain": ""
+		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
 	},
 	{
 		"assign": "3210185",
 		"jp_text": "釣りスタドリ１０",
 		"tr_text": "Fishing Stam. Drink 10",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-		"tr_explain": ""
+		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
 	},
 	{
 		"assign": "3210189",
 		"jp_text": "強化大成功確率＋２０％",
 		"tr_text": "Great Success Grind Rate +20%",
 		"jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n大成功確率を２０％上昇させる。",
-		"tr_explain": ""
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, success\nprobability rate boosted by 20%."
 	},
 	{
 		"assign": "3210190",
 		"jp_text": "強化大成功確率＋３０％",
 		"tr_text": "Great Success Grind Rate +30%",
 		"jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n大成功確率を３０％上昇させる。",
-		"tr_explain": ""
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, success\nprobability rate boosted by 30%."
 	},
 	{
 		"assign": "3210192",
 		"jp_text": "強化大成功確率＋５０％",
 		"tr_text": "Great Success Grind Rate +50%",
 		"jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n大成功確率を５０％上昇させる。",
-		"tr_explain": ""
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, success\nprobability rate boosted by 50%."
 	},
 	{
 		"assign": "3210193",
 		"jp_text": "強化大成功（１００％）",
 		"tr_text": "Great Success Grind Rate (100%)",
 		"jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n確実に大成功を発生させる。",
-		"tr_explain": ""
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, success\nprobability rate boosted by 100%."
 	},
 	{
 		"assign": "3210194",
