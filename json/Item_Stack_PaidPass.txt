@@ -46,21 +46,21 @@
 		"jp_text": "強化成功率＋５％",
 		"tr_text": "Grind Success Rate +5%",
 		"jp_explain": "旧式武器、防具、キャンディー用の\n強化補助素材。強化時に使用することで\n成功率を５％上昇させる。",
-		"tr_explain": "Increase the success rate\nby 5% when grinding equipments."
+		"tr_explain": "Increase the success rate\nby 5% when grinding Units\nand Old Type weapons."
 	},
 	{
 		"assign": "32109",
 		"jp_text": "強化成功率＋１０％",
 		"tr_text": "Grind Success Rate +10%",
 		"jp_explain": "旧式武器、防具、キャンディー用の\n強化補助素材。強化時に使用することで\n成功率を１０％上昇させる。",
-		"tr_explain": ""
+		"tr_explain": "Increase the success rate\nby 10% when grinding Units\nand Old Type weapons."
 	},
 	{
 		"assign": "321010",
 		"jp_text": "強化成功率＋２０％",
 		"tr_text": "Grind Success Rate +20%",
 		"jp_explain": "旧式武器、防具、キャンディー用の\n強化補助素材。強化時に使用することで\n成功率を２０％上昇させる。",
-		"tr_explain": ""
+		"tr_explain": "Increase the success rate\nby 20% when grinding Units\nand Old Type weapons."
 	},
 	{
 		"assign": "321011",
@@ -158,35 +158,35 @@
 		"jp_text": "特殊能力追加（打撃）",
 		"tr_text": "Add Ability Power Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃】の特殊能力を追加する。",
-		"tr_explain": ""
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Power Boost\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "321025",
 		"jp_text": "特殊能力追加（射撃）",
 		"tr_text": "Add Ability Shoot Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃】の特殊能力を追加する。",
-		"tr_explain": ""
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Shooting Boost\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "321026",
 		"jp_text": "特殊能力追加（法撃）",
 		"tr_text": "Add Ability Tech Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃】の特殊能力を追加する。",
-		"tr_explain": ""
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Technique Boost\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "321027",
 		"jp_text": "特殊能力追加（ＨＰ）",
 		"tr_text": "Add Ability Stamina Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ】の特殊能力を追加する。",
-		"tr_explain": ""
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Stamina Boost\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "321028",
 		"jp_text": "特殊能力追加（ＰＰ）",
 		"tr_text": "Add Ability Spirita Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＰＰ】の特殊能力を追加する。",
-		"tr_explain": ""
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Spirita Boost\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "321030",
@@ -543,28 +543,28 @@
 		"jp_text": "特殊能力追加（打撃＆ＰＰ）",
 		"tr_text": "Add Special Ability (Striking&PP)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃＆ＰＰ】の特殊能力を追加する。",
-		"tr_explain": ""
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Noble Power\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210116",
 		"jp_text": "特殊能力追加（射撃＆ＰＰ）",
 		"tr_text": "Add Special Ability (Shooting&PP)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃＆ＰＰ】の特殊能力を追加する。",
-		"tr_explain": ""
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Noble Shoot\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210117",
 		"jp_text": "特殊能力追加（法撃＆ＰＰ）",
 		"tr_text": "Add Special Ability (Technique&PP)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃＆ＰＰ】の特殊能力を追加する。",
-		"tr_explain": ""
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Noble Technique\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210118",
 		"jp_text": "特殊能力追加（ＨＰ＆ＰＰ）",
 		"tr_text": "Add Special Ability (Stamina&PP)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ＆ＰＰ】の特殊能力を追加する。",
-		"tr_explain": ""
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Noble Stamina\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210119",
@@ -1047,35 +1047,35 @@
 		"jp_text": "特殊能力追加（攻撃総合）",
 		"tr_text": "Add Special Ability (Attack Fusion)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【攻撃総合】の特殊能力を追加する。",
-		"tr_explain": ""
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Offensive Boost\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210206",
 		"jp_text": "特殊能力追加（防御総合）",
 		"tr_text": "Add Special Ability (Defense Fusion)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【防御総合】の特殊能力を追加する。",
-		"tr_explain": ""
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Defense Boost\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210207",
 		"jp_text": "特殊能力追加（攻撃継承）",
 		"tr_text": "Add Special Ability (Attack Transfer)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【攻撃継承】の特殊能力を追加する。",
-		"tr_explain": ""
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Attack Receptor\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210208",
 		"jp_text": "特殊能力追加（防御継承）",
 		"tr_text": "Add Special Ability (Defense Transfer)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【防御継承】の特殊能力を追加する。",
-		"tr_explain": ""
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Defense Receptor\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210209",
 		"jp_text": "特殊能力追加（心身継承）",
 		"tr_text": "Add Special Ability (Mind & Body)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【心身継承】の特殊能力を追加する。",
-		"tr_explain": ""
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Photon Receptor\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210210",
@@ -1152,62 +1152,62 @@
 		"jp_text": "特殊能力追加（ＧＲＭ）",
 		"tr_text": "Add Special Ability (GRM)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＧＲＭ】の特殊能力を追加する。",
-		"tr_explain": ""
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"GRM Boost\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210221",
 		"jp_text": "特殊能力追加（テノラ）",
 		"tr_text": "Add Special Ability (Tenora)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【テノラ】の特殊能力を追加する。",
-		"tr_explain": ""
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Tenora Boost\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210222",
 		"jp_text": "特殊能力追加（ヨウメイ）",
 		"tr_text": "Add Special Ability (Yohmei)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ヨウメイ】の特殊能力を追加する。",
-		"tr_explain": ""
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Yohmei Boost\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210223",
 		"jp_text": "特殊能力（打撃＆ＰＰ/２）",
 		"tr_text": "Add Special Ability (Striking＆PP/2)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃＆ＰＰ/２】の特殊能力を追加する。",
-		"tr_explain": ""
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Elegant Power\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210224",
 		"jp_text": "特殊能力（射撃＆ＰＰ/２）",
 		"tr_text": "Add Special Ability (Shooting＆PP/2)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃＆ＰＰ/２】の特殊能力を追加する。",
-		"tr_explain": ""
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Elegant Shoot\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210225",
 		"jp_text": "特殊能力（法撃＆ＰＰ/２）",
 		"tr_text": "Add Special Ability (Technique＆PP/2)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃＆ＰＰ/２】の特殊能力を追加する。",
-		"tr_explain": ""
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Elegant Technique\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210226",
 		"jp_text": "特殊能力（ＨＰ＆ＰＰ/２）",
 		"tr_text": "Add Special Ability (Stamina＆PP/2)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ＆ＰＰ/２】の特殊能力を追加する。",
-		"tr_explain": ""
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Elegant Stamina\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210227",
 		"jp_text": "シート所持数拡張１",
 		"tr_text": "Expansion Sheet 1",
 		"jp_explain": "コレクトシートの最大所持枚数を\n拡張するパス。使用することで\n最大所持枚数が１枚追加される。",
-		"tr_explain": ""
+		"tr_explain": "Expands the Collect File Sheet\nby a single slot."
 	},
 	{
 		"assign": "3210228",
 		"jp_text": "シート所持数拡張２",
 		"tr_text": "Expansion Sheet 2",
 		"jp_explain": "コレクトシートの最大所持枚数を\n拡張するパス。使用することで\n最大所持枚数が１枚追加される。",
-		"tr_explain": ""
+		"tr_explain": "Expands the Collect File Sheet\nby a single slot."
 	}
 ]
