@@ -3705,6 +3705,11 @@
 		"tr_text": "NT Weapons"
 	},
 	{
+		"assign": "myshop_category_all_weapon",
+		"jp_text": "すべての武器",
+		"tr_text": ""
+	},
+	{
 		"assign": "myshop_category_unit",
 		"jp_text": "ユニット",
 		"tr_text": "Units"
@@ -5581,13 +5586,13 @@
 	},
 	{
 		"assign": "reward_term_rare_up",
-		"jp_text": "【<color=#ffff00>レアチップ獲得率ＵＰ</color>】",
-		"tr_text": "【<color=#ffff00>Rare Chip Drop Rate UP</color>】"
+		"jp_text": "【<color=#ffff00>レアドロップ確率アップ</color>】",
+		"tr_text": ""
 	},
 	{
 		"assign": "reward_term_item_up",
-		"jp_text": "【<color=#ffff00>報酬の獲得数ＵＰ</color>】",
-		"tr_text": "【<color=#ffff00>Item Drop Rate UP</color>】"
+		"jp_text": "【<color=#ffff00>討伐報酬数アップ</color>】",
+		"tr_text": ""
 	},
 	{
 		"assign": "reward_enemy_type_1",
@@ -9377,6 +9382,11 @@
 	{
 		"assign": "chip_over_num_recycle",
 		"jp_text": "このチップを交換すると\n<color=red><%chip_over>枚</color>オーバーしてしまいます。\n\nチップパックを拡張するか\n強化／売却をしてチップを整理してください。",
+		"tr_text": ""
+	},
+	{
+		"assign": "point_over_num_recycle",
+		"jp_text": "所持数をオーバーするため交換できません。\n消費をしてから受け取ってください。",
 		"tr_text": ""
 	},
 	{
@@ -14721,8 +14731,18 @@
 	},
 	{
 		"assign": "story_clear_dialog_b_00",
-		"jp_text": "アークスクエストクリアおめでとうございます！\nクリア記念のチップをプレゼントいたします。\nメールをご確認ください。",
-		"tr_text": "ARKS Quests cleared, congratulations!\nYou will receive a memorial chip.\nPlease check your mail."
+		"jp_text": "アークスクエストクリアおめでとうございます！\nクリア記念のチップをプレゼントいたします。\n受け取りボックスをご確認ください。",
+		"tr_text": ""
+	},
+	{
+		"assign": "story_chapter10_clear_dialog_title",
+		"jp_text": "ストーリークエストクリア",
+		"tr_text": ""
+	},
+	{
+		"assign": "story_chapter10_clear_dialog_body",
+		"jp_text": "ストーリークエストクリアおめでとうございます！\nクリア記念のアイテムをプレゼントいたします。\n受け取りボックスをご確認ください。\n\n<color=yellow>「創者の証」は、3月22日以降\n『PSO2』で新たなアイテムと交換できます。\n大切に保管しておきましょう！</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "scratch_dialog_name_es",
@@ -17258,5 +17278,10 @@
 		"assign": "collect_search_drop_rate_info_text",
 		"jp_text": "<%AC>で実行時、大成功発生確率アップ！",
 		"tr_text": "<%AC> boosts CF % chance!"
+	},
+	{
+		"assign": "acshop_dialog_b_43",
+		"jp_text": "OP回復薬ミニの使用する数を選択してください。\n\n\n現在のOP：<%current_exdrive>\n\n所持OP回復薬ミニ：<%current_oprecovery_pass_mini>",
+		"tr_text": ""
 	}
 ]

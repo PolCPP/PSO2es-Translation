@@ -15960,6 +15960,41 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "385114860",
+		"jp_text": "血闇の双魔刃 Lv.1",
+		"tr_text": "",
+		"jp_explain": "弱点へのダメージが10％\nクリティカル率が\n50％上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "385114859",
+		"jp_text": "血闇の双魔刃 Lv.2",
+		"tr_text": "",
+		"jp_explain": "弱点へのダメージが13％\nクリティカル率が\n60％上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "385114858",
+		"jp_text": "血闇の双魔刃 Lv.3",
+		"tr_text": "",
+		"jp_explain": "弱点へのダメージが16％\nクリティカル率が\n70％上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "385114857",
+		"jp_text": "血闇の双魔刃 Lv.4",
+		"tr_text": "",
+		"jp_explain": "弱点へのダメージが19％\nクリティカル率が\n80％上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "385114856",
+		"jp_text": "血闇の双魔刃 Lv.5",
+		"tr_text": "",
+		"jp_explain": "弱点へのダメージが22％\nクリティカル率が\n90％上昇する。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3231571330",
 		"jp_text": "新世の理 Lv.1",
 		"tr_text": "New Type's Law Lv.1",
@@ -16346,37 +16381,37 @@
 	},
 	{
 		"assign": "3366318928",
-		"jp_text": "未設定潜在能力",
+		"jp_text": "炎祈浄化 Lv.1",
 		"tr_text": "",
-		"jp_explain": "【説明】未設定潜在能力",
+		"jp_explain": "バーン発生率上昇。\nバーン状態の敵への\n与ダメージ20％上昇。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3366318943",
-		"jp_text": "未設定潜在能力",
+		"jp_text": "炎祈浄化 Lv.2",
 		"tr_text": "",
-		"jp_explain": "【説明】未設定潜在能力",
+		"jp_explain": "バーン発生率上昇。\nバーン状態の敵への\n与ダメージ23％上昇。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3366318942",
-		"jp_text": "未設定潜在能力",
+		"jp_text": "炎祈浄化 Lv.3",
 		"tr_text": "",
-		"jp_explain": "【説明】未設定潜在能力",
+		"jp_explain": "バーン発生率上昇。\nバーン状態の敵への\n与ダメージ27％上昇。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3366318941",
-		"jp_text": "未設定潜在能力",
+		"jp_text": "炎祈浄化 Lv.4",
 		"tr_text": "",
-		"jp_explain": "【説明】未設定潜在能力",
+		"jp_explain": "バーン発生率上昇。\nバーン状態の敵への\n与ダメージ30％上昇。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3366318940",
-		"jp_text": "未設定潜在能力",
+		"jp_text": "炎祈浄化 Lv.5",
 		"tr_text": "",
-		"jp_explain": "【説明】未設定潜在能力",
+		"jp_explain": "バーン発生率上昇。\nバーン状態の敵への\n与ダメージ33％上昇。",
 		"tr_explain": ""
 	},
 	{
@@ -18478,6 +18513,76 @@
 		"tr_text": "",
 		"jp_explain": "「輝光を屠る輪廻の徒花」\nにて、威力が上昇し\n被ダメージが減少する。",
 		"tr_explain": "Neo JP weapons"
+	},
+	{
+		"assign": "1301962614",
+		"jp_text": "錬成進化 Lv.1",
+		"tr_text": "",
+		"jp_explain": "特殊能力数に応じて\n威力、ＰＰ回復効果が\n上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1301962613",
+		"jp_text": "錬成進化 Lv.2",
+		"tr_text": "",
+		"jp_explain": "特殊能力数に応じて\n威力、ＰＰ回復効果が\n上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1301962612",
+		"jp_text": "錬成進化 Lv.3",
+		"tr_text": "",
+		"jp_explain": "特殊能力数に応じて\n威力、ＰＰ回復効果が\n上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1301962611",
+		"jp_text": "錬成進化 Lv.4",
+		"tr_text": "",
+		"jp_explain": "特殊能力数に応じて\n威力、ＰＰ回復効果が\n上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1301962610",
+		"jp_text": "錬成進化 Lv.5",
+		"tr_text": "",
+		"jp_explain": "特殊能力数に応じて\n威力、ＰＰ回復効果が\n上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4228493275",
+		"jp_text": "精緻なる演算 Lv.1",
+		"tr_text": "",
+		"jp_explain": "ダメージ量、被ダメージ量\n発動時PP消費量に応じて\n能力が強化される。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4228493252",
+		"jp_text": "精緻なる演算 Lv.2",
+		"tr_text": "",
+		"jp_explain": "ダメージ量、被ダメージ量\n発動時PP消費量に応じて\n能力が強化される。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4228493253",
+		"jp_text": "精緻なる演算 Lv.3",
+		"tr_text": "",
+		"jp_explain": "ダメージ量、被ダメージ量\n発動時PP消費量に応じて\n能力が強化される。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4228493254",
+		"jp_text": "精緻なる演算 Lv.4",
+		"tr_text": "",
+		"jp_explain": "ダメージ量、被ダメージ量\n発動時PP消費量に応じて\n能力が強化される。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4228493255",
+		"jp_text": "精緻なる演算 Lv.5",
+		"tr_text": "",
+		"jp_explain": "ダメージ量、被ダメージ量\n発動時PP消費量に応じて\n能力が強化される。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "2472775797",
