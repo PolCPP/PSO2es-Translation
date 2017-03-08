@@ -2674,6 +2674,118 @@
 		"tr_explainLong": ""
 	},
 	{
+		"assign": "31421",
+		"jp_explainShort": "攻撃力超絶増＋ダメージの一部ＨＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n攻撃力が超絶に増加され、ジャストアタックで与えた\nダメージ量の一部を自身のＨＰとして回復する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31422",
+		"jp_explainShort": "攻撃力超絶増＋ダメージの一部ＨＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、長い時間\n攻撃力が超絶に増加され、ジャストアタックで与えた\nダメージ量の一部を自身のＨＰとして回復する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31423",
+		"jp_explainShort": "ミラージュ付与＋ミラージュ時ダメージ大増",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n通常攻撃に「ミラージュ」を付与し、「ミラージュ」状態の\n敵に対してダメージ量が大きく増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31424",
+		"jp_explainShort": "ミラージュ付与＋ミラージュ時ダメージ劇的増",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n通常攻撃に「ミラージュ」を付与し、「ミラージュ」状態の\n敵に対してダメージ量が劇的に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31429",
+		"jp_explainShort": "攻撃力大増加＋ダメージ防御",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n一定ダメージを防ぐ効果がＨＰに上乗せされ\n攻撃力が大きく増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31430",
+		"jp_explainShort": "攻撃力劇的増加＋ダメージ防御",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n一定ダメージを防ぐ効果がＨＰに上乗せされ\n攻撃力が劇的に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31431",
+		"jp_explainShort": "消費ＣＰ減少＋風弱点時ダメージ劇的増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n消費ＣＰが減少し、攻撃対象のエネミーが風属性弱点\nの場合に与えるダメージが劇的に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31432",
+		"jp_explainShort": "消費ＣＰ減少＋風弱点時ダメージ劇的増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n消費ＣＰが減少し、攻撃対象のエネミーが風属性弱点\nの場合に与えるダメージが劇的に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31433",
+		"jp_explainShort": "ＨＰが小回復＋必殺技が大強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、ＨＰがわずかに回復し\n短い時間、アビリティレベルに応じて\n必殺技の威力が大きく強化される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31434",
+		"jp_explainShort": "ＨＰが小回復＋必殺技が大強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、ＨＰがわずかに回復し\n一定時間、アビリティレベルに応じて\n必殺技の威力が大きく強化される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31435",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31436",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31439",
+		"jp_explainShort": "有効弱点時ダメージ絶大増＋追加ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、攻撃対象のエネミーの\n弱点に有効な属性で攻撃したとき、与えるダメージが\n絶大に増加され、敵に追加で特大ダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31440",
+		"jp_explainShort": "有効弱点時ダメージ絶大増＋追加ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、攻撃対象のエネミーの\n弱点に有効な属性で攻撃したとき、与えるダメージが\n絶大に増加され、敵に追加で特大ダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31441",
+		"jp_explainShort": "ダメージ軽減＋有効弱点時ダメージ劇的増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、敵からのダメージが\n軽減され、攻撃対象のエネミーが光属性弱点の場合に\n与えるダメージが劇的に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31442",
+		"jp_explainShort": "ダメージ軽減＋有効弱点時ダメージ絶大増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、敵からのダメージが\n軽減され、攻撃対象のエネミーが光属性弱点の場合に\n与えるダメージが絶大に増加される。",
+		"tr_explainLong": ""
+	},
+	{
 		"assign": "11030",
 		"jp_explainShort": "攻撃力が小強化",
 		"tr_explainShort": "",
@@ -4089,16 +4201,16 @@
 	},
 	{
 		"assign": "40185",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋長銃の技が強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n長銃の必殺技の威力が強化される。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40186",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋長銃の技が大強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n長銃の必殺技の威力が大きく強化される。",
 		"tr_explainLong": ""
 	},
 	{
@@ -4173,16 +4285,16 @@
 	},
 	{
 		"assign": "40197",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋飛翔剣の技が強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n飛翔剣の必殺技の威力が強化される。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40198",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋飛翔剣の技が大強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n飛翔剣の必殺技の威力が大きく強化される。",
 		"tr_explainLong": ""
 	},
 	{
@@ -5124,10 +5236,10 @@
 		"tr_explainLong": ""
 	},
 	{
-		"assign": "25014",
-		"jp_explainShort": "-",
+		"assign": "25018",
+		"jp_explainShort": "敵からのダメージがやや軽減",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "被ダメージ時、一定時間\n敵からのダメージがわずかに軽減される。\nチップ強化の素材に使うと効果大。",
 		"tr_explainLong": ""
 	},
 	{
