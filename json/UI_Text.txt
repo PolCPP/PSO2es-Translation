@@ -13587,12 +13587,12 @@
 	{
 		"assign": "raid_log_01",
 		"jp_text": "目標に",
-		"tr_text": ""
+		"tr_text": "Damage:\t"
 	},
 	{
 		"assign": "raid_log_02",
 		"jp_text": "ダメージを与えました。",
-		"tr_text": "damage done."
+		"tr_text": "\t"
 	},
 	{
 		"assign": "raid_dialog_t_00",
@@ -16072,7 +16072,7 @@
 	{
 		"assign": "lookback_character_name",
 		"jp_text": "ジェネ",
-		"tr_text": "Jeane"
+		"tr_text": "Gene"
 	},
 	{
 		"assign": "lookback_character_text",
@@ -16097,7 +16097,7 @@
 	{
 		"assign": "lookback_maintext_0",
 		"jp_text": "ジェネやモアたちとの物語を振り返ります。",
-		"tr_text": "The story of Jeane and More."
+		"tr_text": "The story of Gene and More."
 	},
 	{
 		"assign": "lookback_episode_title",
