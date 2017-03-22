@@ -152,7 +152,7 @@
 	{
 		"assign": "acshop_dialog_b_00",
 		"jp_text": "ラッピーメダルか<%AC>を消費して\nチップパックを拡張しますか？\n\nパックサイズ（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※チップパックは<%max_pack_size>まで拡張できます。\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "This will extend\nyour Chip Storage.\n\nChip Storage（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※Can extend to a Maximum of 600.\n\nRappy Coins needed：<%consume_rappy_coin>枚\nRappy Coins owned：<%current_rappy_coin>枚\n\nAC needed：<%consume_AC>\nAC owned：<%current_AC>"
+		"tr_text": "This will extend\nyour Chip Storage.\n\nChip Storage（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※Can extend to a Maximum of <%max_pack_size>.\n\nRappy Coins needed：<%consume_rappy_coin>枚\nRappy Coins owned：<%current_rappy_coin>枚\n\nAC needed：<%consume_AC>\nAC owned：<%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_01",
@@ -1671,8 +1671,8 @@
 	},
 	{
 		"assign": "equip_dialog_b_06",
-		"jp_text": "『PSO2』でアイテムパックから武器が移動されました。\n条件に合わなくなったチップの装備は解除されます。",
-		"tr_text": "『PSO2』Weapons that weren't\nin the character inventory\nwere removed."
+		"jp_text": "『PSO2』でアイテムパック内の状態が変更されました。\n条件に合わなくなったチップの装備は解除されます。",
+		"tr_text": ""
 	},
 	{
 		"assign": "equip_dialog_t_07",
@@ -5287,7 +5287,7 @@
 	{
 		"assign": "quest_counter_raid_label_encount",
 		"jp_text": "遭遇者　<color=#68a0a7>/\n</color>　",
-		"tr_text": "Met   <color=#68a0a7>/\n</color>　"
+		"tr_text": "Owner　<color=#68a0a7>/\n</color>　"
 	},
 	{
 		"assign": "quest_counter_raid_not_accept",
@@ -14741,7 +14741,7 @@
 	},
 	{
 		"assign": "story_chapter10_clear_dialog_body",
-		"jp_text": "ストーリークエストクリアおめでとうございます！\nクリア記念のアイテムをプレゼントいたします。\n受け取りボックスをご確認ください。\n\n<color=yellow>「創者の証」は、3月22日以降\n『PSO2』で新たなアイテムと交換できます。\n大切に保管しておきましょう！</color>",
+		"jp_text": "ストーリークエストクリアおめでとうございます！\nクリア記念のアイテムをプレゼントいたします。\n受け取りボックスをご確認ください。\n\n<color=yellow>「創者の証」は、『PSO2』で\n武器迷彩「*断翼ロート＝ラウト」などと\n交換できます。</color>",
 		"tr_text": ""
 	},
 	{
@@ -14876,8 +14876,8 @@
 	},
 	{
 		"assign": "select_weaponoid_body",
-		"jp_text": "ウェポノイドチップを所持していません。\nウェポノイドチップを獲得すると\nキャラクターの切り替えやボイスを\n楽しむことができます。",
-		"tr_text": "You do not have a Weaponoid.\nWhen you acquire a Weaponoid Chip,\nThis feature can be used."
+		"jp_text": "表示できるチップを所持していません。\nウェポノイドや外伝のあるキャラクターのチップを\n獲得すると、キャラクターの切り替えや\nボイスを楽しむことができます。",
+		"tr_text": ""
 	},
 	{
 		"assign": "fld_productionset_btn",
@@ -14891,8 +14891,8 @@
 	},
 	{
 		"assign": "fld_productionset_obi",
-		"jp_text": "ウェポノイドチップ発動演出",
-		"tr_text": "Weaponoid Animation"
+		"jp_text": "チップ発動演出",
+		"tr_text": ""
 	},
 	{
 		"assign": "fld_productionset_btn_ON",
@@ -14941,8 +14941,8 @@
 	},
 	{
 		"assign": "btl_wep_obi",
-		"jp_text": "ウェポノイドチップ発動演出",
-		"tr_text": "Weaponoid Animation"
+		"jp_text": "チップ発動演出",
+		"tr_text": ""
 	},
 	{
 		"assign": "btl_wep_btn_ON",
@@ -15571,23 +15571,23 @@
 	},
 	{
 		"assign": "wh_34_01",
-		"jp_text": "ウェポノイドチップには、そのウェポノイドをめぐるストーリー付きの\n外伝クエストが存在するものがあります。",
-		"tr_text": "Weaponoids now have a side story quest\nthat can be unlocked."
+		"jp_text": "ウェポノイドやキャラクターのチップには、そのキャラクターをめぐる\nストーリー付きの外伝クエストが存在するものがあります。",
+		"tr_text": ""
 	},
 	{
 		"assign": "wh_34_02",
-		"jp_text": "ウェポノイドのチップを装備してクエストをクリアすると\n「外伝解放ゲージ」が上昇し、ゲージがいっぱいになるたびに\nそのウェポノイドの外伝クエストを進めることができます。",
-		"tr_text": "If you clear a quest with a Weaponoid\nequipped, the story gauge will fill up.\nWhen full, you can proceed in the Weaponoid Story."
+		"jp_text": "外伝のあるチップを装備してクエストをクリアすると\n「外伝解放ゲージ」が上昇し、ゲージがいっぱいになるたびに\nそのキャラクターの外伝クエストを進めることができます。",
+		"tr_text": ""
 	},
 	{
 		"assign": "wh_34_03",
-		"jp_text": "外伝クエストを全てクリアすると、ウェポノイドチップの\n新たな能力が解放されるなどのボーナスがあります。",
-		"tr_text": "When you clear the Side Story Quest,\nBonuses, such as new abilities, can be unlocked."
+		"jp_text": "外伝クエストを全てクリアすると、キャラクターのチップに\n新たな能力が解放されるなどのボーナスがあります。",
+		"tr_text": ""
 	},
 	{
 		"assign": "wh_34_04",
-		"jp_text": "所持しているウェポノイドに外伝クエストが追加されたら\nぜひプレイして、ウェポノイドとの絆を深めましょう！",
-		"tr_text": "Once a Side Story Quest has been added,\nYou can deepen the bond with your Weaponoids!"
+		"jp_text": "所持しているキャラクターに外伝クエストが追加されたら\nぜひプレイして、キャラクターとの絆を深めましょう！",
+		"tr_text": ""
 	},
 	{
 		"assign": "wh_35_01",
@@ -15681,8 +15681,8 @@
 	},
 	{
 		"assign": "SideSt_Weaponoid_Window_Title",
-		"jp_text": "ウェポノイド一覧",
-		"tr_text": "Weaponoid List"
+		"jp_text": "外伝チップ一覧",
+		"tr_text": ""
 	},
 	{
 		"assign": "SideSt_Weaponoid_Sort_Normal",
@@ -15731,13 +15731,13 @@
 	},
 	{
 		"assign": "SideSt_Dialog_b_00",
-		"jp_text": "ウェポノイドのチップを入手して\n解放条件をクリアすると第{0}話が解放されます。",
+		"jp_text": "対象のキャラクターのチップを入手して\n解放条件をクリアすると第{0}話が解放されます。",
 		"tr_text": ""
 	},
 	{
 		"assign": "SideSt_Dialog_b_00_1",
-		"jp_text": "ウェポノイドのチップを入手すると\n第1話が解放されます。",
-		"tr_text": "When you get the Weaponoid,\nanother episode is released"
+		"jp_text": "対象のキャラクターのチップを入手すると\n第1話が解放されます。",
+		"tr_text": ""
 	},
 	{
 		"assign": "SideSt_Dialog_t_01",
@@ -15996,18 +15996,18 @@
 	},
 	{
 		"assign": "sidestory_guide_message_01",
-		"jp_text": "<color=#f0df60>ウェポノイドの外伝クエストに出発できます。クエストは、ウェポノイドのチップを装備してクエストをプレイすることで解放されます。</color>",
-		"tr_text": "<color=#f0df60>Play the Weaponoid Quests. Leveling up your weaponoid's bond level advances the story.</color>"
+		"jp_text": "<color=#f0df60>キャラクターの外伝クエストに出発できます。クエストは、外伝のあるキャラクターのチップを装備してクエストをプレイすることで解放されます。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "sidestory_guide_message_02",
-		"jp_text": "<color=#f0df60>外伝が配信されているウェポノイドの一覧です。入手済みのウェポノイドは明るく表示されます。</color>",
-		"tr_text": "<color=#f0df60>Here's a list of Gaiden Quests available. Weaponoids you own are displayed brightly.</color>"
+		"jp_text": "<color=#f0df60>外伝が配信されているキャラクターの一覧です。入手済みの外伝チップは明るく表示されます。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "sidestory_guide_message_03",
-		"jp_text": "<color=#f0df60>ウェポノイドのさまざまな情報を確認することができます。</color>",
-		"tr_text": "<color=#f0df60>You can check out a variety of information relating to Weaponoids.</color>"
+		"jp_text": "<color=#f0df60>キャラクターのさまざまな情報を確認することができます。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "weaponoid_boost_info_commingsoon",
@@ -16026,8 +16026,8 @@
 	},
 	{
 		"assign": "sidestory_voice_play_locked_info0",
-		"jp_text": "ウェポノイドのチップを入手して\n絆レベルをLv.<%parameter>にすると再生できます。\n\n",
-		"tr_text": "Get this Weaponoid Chip\nand raise its Bond Level to\nLv.<%parameter> to unlock.\n"
+		"jp_text": "対象のキャラクターのチップを入手して\n絆レベルをLv.<%parameter>にすると再生できます。\n\n",
+		"tr_text": ""
 	},
 	{
 		"assign": "sidestory_voice_play_locked_info1",
@@ -16036,8 +16036,8 @@
 	},
 	{
 		"assign": "sidestory_story_replay_locked_info1",
-		"jp_text": "ウェポノイドのチップを入手して\n絆レベルをLv.<%parameter>にすると再生できます。\n\n",
-		"tr_text": "Get this Weaponoid Chip\nand raise its Bond Level to\nLv.<%parameter> to unlock.\n"
+		"jp_text": "対象のキャラクターのチップを入手して\n絆レベルをLv.<%parameter>にすると再生できます。\n\n",
+		"tr_text": ""
 	},
 	{
 		"assign": "sidestory_story_replay_locked_info2",
