@@ -13822,17 +13822,17 @@
 	{
 		"assign": "ItemDetail_Correction_AttackReduction",
 		"jp_text": "<color=white>打撃軽減 (+<%parameter>)</color>",
-		"tr_text": "<color=white>Cut S-ATK (+<%parameter>)</color>"
+		"tr_text": "<color=white>Strike Res. (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_ShootingReduction",
 		"jp_text": "<color=white>射撃軽減 (+<%parameter>)</color>",
-		"tr_text": "<color=white>Cut R-ATK (+<%parameter>)</color>"
+		"tr_text": "<color=white>Range Res. (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_SorceryReduction",
 		"jp_text": "<color=white>法撃軽減 (+<%parameter>)</color>",
-		"tr_text": "<color=white>Cut T-ATK (+<%parameter>)</color>"
+		"tr_text": "<color=white>Tech Res. (+<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Fire",
