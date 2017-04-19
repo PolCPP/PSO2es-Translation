@@ -150,7 +150,7 @@
 		"assign": "22",
 		"jp_text": "ＤＢスナッチ",
 		"tr_text": "DB Snatch",
-		"jp_explain": "デュアルブレードスナッチ\nデュアルブレードのシフトアクションで移動した時\n敵に打撃ダメージを与える挙動が追加される。",
+		"jp_explain": "デュアルブレードスナッチ\nデュアルブレードの武器アクションで移動した時\n敵に打撃ダメージを与える挙動が追加される。",
 		"tr_explain": ""
 	},
 	{
@@ -311,21 +311,21 @@
 		"assign": "48",
 		"jp_text": "Jリバーサルカバー",
 		"tr_text": "J Reversal Cover",
-		"jp_explain": "Jリバーサルカバー／リング\r\nジャストリバーサル発動時に\r\nHPが回復するようになる。",
+		"jp_explain": "Jリバーサルカバー／リング\nジャストリバーサル発動時に\nHPが回復するようになる。",
 		"tr_explain": "J Reversal Cover / Ring\nRestores HP upon activating\nJust Reversal."
 	},
 	{
 		"assign": "49",
 		"jp_text": "ヒールシェア",
 		"tr_text": "",
-		"jp_explain": "ヒールシェア／リング\r\nHPを回復した際、回復した値の一定割合分\r\n周囲のキャラクターを回復する。",
+		"jp_explain": "ヒールシェア／リング\nHPを回復した際、回復した値の一定割合分\n周囲のキャラクターを回復する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "50",
 		"jp_text": "アドレナリン",
 		"tr_text": "",
-		"jp_explain": "アドレナリン／リング\r\n自分が受けるシフタ・デバンド1回あたりの\r\n効果時間を増加する。",
+		"jp_explain": "アドレナリン／リング\n自分が受けるシフタ・デバンド1回あたりの\n効果時間を増加する。",
 		"tr_explain": ""
 	},
 	{
@@ -374,21 +374,21 @@
 		"assign": "57",
 		"jp_text": "ワイドサポート",
 		"tr_text": "Wide Support",
-		"jp_explain": "ワイドサポート／リング\r\n「レスタ」「アンティ」「シフタ」「デバンド」の\r\n効果範囲が上昇する。",
+		"jp_explain": "ワイドサポート／リング\n「レスタ」「アンティ」「シフタ」「デバンド」の\n効果範囲が上昇する。",
 		"tr_explain": "Wide Support / Ring\nIncreases range for Resta,\nAnti, Shifta, and Deband."
 	},
 	{
 		"assign": "58",
 		"jp_text": "JリバーサルPPゲイン",
 		"tr_text": "J Reversal PP Gain",
-		"jp_explain": "JリバーサルPPゲイン／リング\r\nジャストリバーサル発動時に\r\nＰＰが回復するようになる。",
+		"jp_explain": "JリバーサルPPゲイン／リング\nジャストリバーサル発動時に\nＰＰが回復するようになる。",
 		"tr_explain": "J Reversal PP Gain / Ring\nRestores PP upon activating\nJust Reversal."
 	},
 	{
 		"assign": "59",
 		"jp_text": "ヒーリングガード",
 		"tr_text": "Healing Guard",
-		"jp_explain": "ヒーリングガード／リング\r\nジャストガード成功時\r\n自分と周囲にいるキャラクターのＨＰを回復する。",
+		"jp_explain": "ヒーリングガード／リング\nジャストガード成功時\n自分と周囲にいるキャラクターのＨＰを回復する。",
 		"tr_explain": "Healing Guard / Ring\nUpon performing a Just Guard,\nrestore HP for yourself and surrounding characters."
 	},
 	{
@@ -472,7 +472,7 @@
 		"assign": "70",
 		"jp_text": "テックアーツJAPPセイブ",
 		"tr_text": "Tech Arts JAPP Save",
-		"jp_explain": "テックアーツJAPPセイブ／リング\r\n異なるPAやテクニックを\r\n連続でジャストアタックするとPP消費が軽減される。",
+		"jp_explain": "テックアーツJAPPセイブ／リング\n異なるPAやテクニックを\n連続でジャストアタックするとPP消費が軽減される。",
 		"tr_explain": ""
 	},
 	{
@@ -542,14 +542,14 @@
 		"assign": "81",
 		"jp_text": "クイックメイト",
 		"tr_text": "",
-		"jp_explain": "クイックメイト／リング\r\nメイト系アイテムが素早く使用出来る。",
+		"jp_explain": "クイックメイト／リング\nメイト系アイテムが素早く使用出来る。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "82",
 		"jp_text": "クリティカルフィールド",
 		"tr_text": "",
-		"jp_explain": "クリティカルフィールド／リング\r\n自分の周囲にクリティカル率が\r\n上昇するフィールドを発生させる。",
+		"jp_explain": "クリティカルフィールド／リング\n自分の周囲にクリティカル率が\n上昇するフィールドを発生させる。",
 		"tr_explain": ""
 	},
 	{

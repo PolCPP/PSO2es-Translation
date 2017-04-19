@@ -925,30 +925,30 @@
 	},
 	{
 		"assign": "31201",
-		"jp_explainShort": "攻撃力増加＋チップ使用時に効果時間延長",
+		"jp_explainShort": "攻撃力増加＋チップ発動時に効果時間延長",
 		"tr_explainShort": "",
-		"jp_explainLong": "一定時間、攻撃力を増加する。\nさらに、アクティブチップを使用するたびに\n攻撃力をわずかに増加し、効果時間を延長する。",
+		"jp_explainLong": "一定時間、攻撃力を増加する。\nさらに、アクティブチップが発動するたびに\n攻撃力をわずかに増加し、効果時間を延長する。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31202",
-		"jp_explainShort": "攻撃力大増加＋チップ使用時に効果時間延長",
+		"jp_explainShort": "攻撃力大増加＋チップ発動時に効果時間延長",
 		"tr_explainShort": "",
-		"jp_explainLong": "長い時間、攻撃力を大きく増加する。\nさらに、アクティブチップを使用するたびに\n攻撃力をわずかに増加し、効果時間を延長する。",
+		"jp_explainLong": "長い時間、攻撃力を大きく増加する。\nさらに、アクティブチップが発動するたびに\n攻撃力をわずかに増加し、効果時間を延長する。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31203",
-		"jp_explainShort": "攻撃力微増加＋チップ使用時に効果時間延長",
+		"jp_explainShort": "攻撃力微増加＋チップ発動時に効果時間延長",
 		"tr_explainShort": "",
-		"jp_explainLong": "長い時間、攻撃力をわずかに増加する。\nさらに、アクティブチップを使用するたびに\n攻撃力を増加し、効果時間をわずかに延長する。",
+		"jp_explainLong": "長い時間、攻撃力をわずかに増加する。\nさらに、アクティブチップが発動するたびに\n攻撃力を増加し、効果時間をわずかに延長する。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31204",
-		"jp_explainShort": "攻撃力増加＋チップ使用時に効果時間延長",
+		"jp_explainShort": "攻撃力増加＋チップ発動時に効果時間延長",
 		"tr_explainShort": "",
-		"jp_explainLong": "長い時間、攻撃力を増加する。\nさらに、アクティブチップを使用するたびに\n攻撃力を増加し、効果時間をわずかに延長する。",
+		"jp_explainLong": "長い時間、攻撃力を増加する。\nさらに、アクティブチップが発動するたびに\n攻撃力を増加し、効果時間をわずかに延長する。",
 		"tr_explainLong": ""
 	},
 	{
@@ -1369,6 +1369,48 @@
 		"jp_explainShort": "アビリティレベルに応じて攻撃力絶大増加",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間\nアビリティレベルに応じて攻撃力を絶大に増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31443",
+		"jp_explainShort": "氷属性大強化＋追加で特大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間\n氷属性を大きく強化し、追加で特大ダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31444",
+		"jp_explainShort": "氷属性劇的強化＋追加特大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間\n氷属性を劇的に強化し、追加で特大ダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31453",
+		"jp_explainShort": "技と法術のＣＰ消費を増加し、威力絶大強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、必殺技・法術のＣＰ消費量を\n増加するとともに威力を絶大に強化する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31454",
+		"jp_explainShort": "技と法術のＣＰ消費を増加し、威力絶大強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、必殺技・法術のＣＰ消費量を\n増加するとともに威力を絶大に強化する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31457",
+		"jp_explainShort": "属性種類数攻撃力劇的増加＋追加大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、攻撃力が劇的に増加し、敵に追加で\n特大ダメージを与える。さらに、装備中のチップの\n属性の種類が多いほど、攻撃力が増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31458",
+		"jp_explainShort": "属性種類数攻撃力絶大増加＋追加大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、攻撃力が絶大に増加し、敵に追加で\n特大ダメージを与える。さらに、装備中のチップの\n属性の種類が多いほど、攻撃力が増加する。",
 		"tr_explainLong": ""
 	},
 	{
@@ -4379,6 +4421,62 @@
 		"jp_explainShort": "懐に飛び込み敵を射抜く双機銃用の必殺技",
 		"tr_explainShort": "",
 		"jp_explainLong": "「双機銃用の必殺技」\n瞬時に懐に飛び込んで敵を射抜き\n追加で双機銃による追撃を行う。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60187",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60188",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60189",
+		"jp_explainShort": "距離を詰め連続攻撃を行う大剣用の必殺技",
+		"tr_explainShort": "",
+		"jp_explainLong": "「大剣用の必殺技」\n一気に距離を詰め、連続攻撃を加える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60190",
+		"jp_explainShort": "距離を詰め連続攻撃を行う大剣用の必殺技",
+		"tr_explainShort": "",
+		"jp_explainLong": "「大剣用の必殺技」\n一気に距離を詰め、連続攻撃を加える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60191",
+		"jp_explainShort": "距離を詰め連続攻撃を行う大剣用の必殺技",
+		"tr_explainShort": "",
+		"jp_explainLong": "「大剣用の必殺技」\n一気に距離を詰め、連続攻撃を加える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60192",
+		"jp_explainShort": "距離を詰め連続攻撃を行う大剣用の必殺技",
+		"tr_explainShort": "",
+		"jp_explainLong": "「大剣用の必殺技」\n一気に距離を詰め、連続攻撃を加える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60193",
+		"jp_explainShort": "距離を詰め連続攻撃を行う大剣用の必殺技",
+		"tr_explainShort": "",
+		"jp_explainLong": "「大剣用の必殺技」\n一気に距離を詰め、連続攻撃を加える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60194",
+		"jp_explainShort": "距離を詰め連続攻撃を行う大剣用の必殺技",
+		"tr_explainShort": "",
+		"jp_explainLong": "「大剣用の必殺技」\n一気に距離を詰め、連続攻撃を加える。",
 		"tr_explainLong": ""
 	},
 	{
