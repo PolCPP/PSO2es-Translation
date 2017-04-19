@@ -1737,7 +1737,7 @@
 	{
 		"assign": "equip_dialog_t_13",
 		"jp_text": "チップ解除確認",
-		"tr_text": ""
+		"tr_text": "Chip Release Confirmation"
 	},
 	{
 		"assign": "equip_dialog_b_13",
@@ -17347,12 +17347,12 @@
 	{
 		"assign": "chip_depot_select_num",
 		"jp_text": "選択数",
-		"tr_text": "Num."
+		"tr_text": "Slots Remaining"
 	},
 	{
 		"assign": "chip_depot_leave",
 		"jp_text": "預ける",
-		"tr_text": "Return"
+		"tr_text": "Deposit"
 	},
 	{
 		"assign": "chip_depot_take",
