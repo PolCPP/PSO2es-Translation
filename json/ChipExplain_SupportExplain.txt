@@ -2745,16 +2745,16 @@
 	},
 	{
 		"assign": "31435",
-		"jp_explainShort": "-",
+		"jp_explainShort": "全種族に対してダメージが増加",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\nアビリティレベルに応じて、すべての種族に対して\n与えるダメージが増加される。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31436",
-		"jp_explainShort": "-",
+		"jp_explainShort": "全種族に対してダメージが大増加",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\nアビリティレベルに応じて、すべての種族に対して\n与えるダメージが大きく増加される。",
 		"tr_explainLong": ""
 	},
 	{
@@ -2783,6 +2783,174 @@
 		"jp_explainShort": "ダメージ軽減＋光弱点時ダメージ絶大増加",
 		"tr_explainShort": "",
 		"jp_explainLong": "ジャストアタック成功時、一定時間、敵からのダメージが\n軽減され、攻撃対象のエネミーが光属性弱点の場合に\n与えるダメージが絶大に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31445",
+		"jp_explainShort": "攻撃力大増加＋氷風闇の技・法の攻撃力大増",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、攻撃力が\n大きく増加され、必殺技・法術チップが氷・風・闇属性の\n場合はその必殺技・法術の攻撃力が大きく増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31446",
+		"jp_explainShort": "攻撃力大増加＋氷風闇の技・法の攻撃力大増",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、攻撃力が\n大きく増加され、必殺技・法術チップが氷・風・闇属性の\n場合はその必殺技・法術の攻撃力が大きく増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31447",
+		"jp_explainShort": "炎属性上限上昇＋炎弱点時ダメージ絶大増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、炎属性の\n上限値が上昇し、攻撃対象の敵が炎属性弱点の\n場合に与えるダメージを絶大に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31448",
+		"jp_explainShort": "炎属性上限上昇＋炎弱点時ダメージ絶大増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、炎属性の\n上限値が上昇し、攻撃対象の敵が炎属性弱点の\n場合に与えるダメージを絶大に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31449",
+		"jp_explainShort": "炎チップ数攻撃劇的増＋属性追加ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、装備中のチップの\n炎属性の枚数が多いほど攻撃力が劇的に増加され\n炎属性値に応じて敵に追加で大ダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31450",
+		"jp_explainShort": "炎チップ数攻撃劇的増＋属性追加ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、長い時間、装備中のチップの\n炎属性の枚数が多いほど攻撃力が劇的に増加され\n炎属性値に応じて敵に追加で大ダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31451",
+		"jp_explainShort": "消費ＣＰ減少＋風チップ数攻撃力超絶増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n消費ＣＰが減少し、装備中チップの風属性の枚数が\n多いほど攻撃力が超絶に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31452",
+		"jp_explainShort": "消費ＣＰ減少＋風チップ数攻撃力超絶増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、長い時間\n消費ＣＰが減少し、装備中チップの風属性の枚数が\n多いほど攻撃力が超絶に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31455",
+		"jp_explainShort": "攻撃力劇的増加＋追加ダメージ効果小増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、攻撃力が劇的に増加され\n装備中チップの追加ダメージ威力が\nそれぞれわずかに増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31456",
+		"jp_explainShort": "攻撃力絶大増加＋追加ダメージ効果増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、攻撃力が絶大に増加され\n装備中チップの追加ダメージ威力が\nそれぞれ増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31459",
+		"jp_explainShort": "ダメージ軽減＋氷弱点時ダメージ劇的増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、敵からのダメージが\n軽減され、攻撃対象のエネミーが氷属性弱点の場合に\n与えるダメージが劇的に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31460",
+		"jp_explainShort": "ダメージ軽減＋氷弱点時ダメージ絶大増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、敵からのダメージが\n軽減され、攻撃対象のエネミーが氷属性弱点の場合に\n与えるダメージが絶大に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31461",
+		"jp_explainShort": "氷属性上限上昇＋氷弱点時ダメージ絶大増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、氷属性の\n上限値が上昇し、攻撃対象の敵が氷属性弱点の\n場合に与えるダメージを絶大に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31462",
+		"jp_explainShort": "氷属性上限上昇＋氷弱点時ダメージ絶大増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、氷属性の\n上限値が上昇し、攻撃対象の敵が氷属性弱点の\n場合に与えるダメージを絶大に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31463",
+		"jp_explainShort": "ポイズン付与＋ポイズン時ダメージ劇的増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n通常攻撃に「ポイズン」を付与し、「ポイズン」状態の\n敵に対してダメージ量が劇的に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31464",
+		"jp_explainShort": "ポイズン付与＋ポイズン時ダメージ劇的増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n通常攻撃に「ポイズン」を付与し、「ポイズン」状態の\n敵に対してダメージ量が劇的に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31465",
+		"jp_explainShort": "ダメージ軽減＋風弱点時ダメージ劇的増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、敵からのダメージが\n軽減され、攻撃対象のエネミーが風属性弱点の場合に\n与えるダメージが劇的に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31466",
+		"jp_explainShort": "ダメージ軽減＋風弱点時ダメージ絶大増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、敵からのダメージが\n軽減され、攻撃対象のエネミーが風属性弱点の場合に\n与えるダメージが絶大に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31467",
+		"jp_explainShort": "攻撃力絶大増＋チップ発動時効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、短い時間、攻撃力を絶大に\n増加し、チップが発動するたびに、装備中の氷属性の\n枚数に応じ攻撃力が増加され、効果時間を延長する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31468",
+		"jp_explainShort": "攻撃力絶大増＋チップ発動時効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、攻撃力を絶大に\n増加し、チップが発動するたびに、装備中の氷属性の\n枚数に応じ攻撃力が増加され、効果時間を延長する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31469",
+		"jp_explainShort": "攻撃劇的増加＋常時ジャストアタック",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、短い時間、攻撃力が劇的に増加され\n通常攻撃・必殺技・法術が全て\nジャストアタックタイミングとなる。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31470",
+		"jp_explainShort": "攻撃劇的増加＋常時ジャストアタック",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、攻撃力が劇的に増加され\n通常攻撃・必殺技・法術が全て\nジャストアタックタイミングとなる。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31471",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31472",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
 		"tr_explainLong": ""
 	},
 	{
@@ -4131,16 +4299,16 @@
 	},
 	{
 		"assign": "40175",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋長槍の技が強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n長槍の必殺技の威力が強化される。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40176",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋長槍の技が大強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n長槍の必殺技の威力が大きく強化される。",
 		"tr_explainLong": ""
 	},
 	{
@@ -4159,16 +4327,16 @@
 	},
 	{
 		"assign": "40179",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋両剣の技が強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n両剣の必殺技の威力が強化される。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40180",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋両剣の技が大強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n両剣の必殺技の威力が大きく強化される。",
 		"tr_explainLong": ""
 	},
 	{
@@ -4341,16 +4509,16 @@
 	},
 	{
 		"assign": "40205",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋双小剣の技が強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n双小剣の必殺技の威力が強化される。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40206",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋双小剣の技が大強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n双小剣の必殺技の威力が大きく強化される。",
 		"tr_explainLong": ""
 	},
 	{
@@ -4453,16 +4621,16 @@
 	},
 	{
 		"assign": "40221",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋強弓の技が強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n強弓の必殺技の威力が強化される。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40222",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋強弓の技が大強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n強弓の必殺技の威力が大きく強化される。",
 		"tr_explainLong": ""
 	},
 	{

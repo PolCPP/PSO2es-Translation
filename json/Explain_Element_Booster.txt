@@ -1846,5 +1846,40 @@
 		"tr_text": "Sentence Receptor",
 		"jp_explain": "センテンス系特殊能力の\n合成成功率を大幅に上昇\n全+10",
 		"tr_explain": "Boosts transfer\nrate of Sentence Abilities.\nALL+10"
+	},
+	{
+		"assign": "264",
+		"jp_text": "センテンス・トリプル",
+		"tr_text": "Sentence Triple",
+		"jp_explain": "打撃+30\n射撃+30\n法撃+30",
+		"tr_explain": "S-ATK+30 R-ATK+30\nT-ATK+30"
+	},
+	{
+		"assign": "265",
+		"jp_text": "デウス・ファクター",
+		"tr_text": "Deus Factor",
+		"jp_explain": "打撃+20 射撃+10\n法撃+10 HP+20 PP+1",
+		"tr_explain": "S-ATK+20 R-ATK+10\nT-ATK+10 HP+20 PP+1"
+	},
+	{
+		"assign": "266",
+		"jp_text": "ファクター・カタリスト",
+		"tr_text": "Factor Catalyst",
+		"jp_explain": "4つ集めると\n特定のソールと合成可能\nHP+10 PP+1",
+		"tr_explain": ""
+	},
+	{
+		"assign": "267",
+		"jp_text": "エーテル・ソール",
+		"tr_text": "Ether Soul",
+		"jp_explain": "全+15 HP+15 PP+2",
+		"tr_explain": "All+15 HP+15 PP+2"
+	},
+	{
+		"assign": "268",
+		"jp_text": "エーテル・ファクター",
+		"tr_text": "Ether Factor",
+		"jp_explain": "全+30 HP+10 PP+6",
+		"tr_explain": "All+30 HP+10 PP+6"
 	}
 ]
