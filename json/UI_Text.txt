@@ -7497,7 +7497,7 @@
 	{
 		"assign": "storage_num",
 		"jp_text": "収納数",
-		"tr_text": ""
+		"tr_text": "# of Storage"
 	},
 	{
 		"assign": "rearrange",
@@ -8062,7 +8062,7 @@
 	{
 		"assign": "item_sale_sum",
 		"jp_text": "売上合計",
-		"tr_text": "Total Worth"
+		"tr_text": "Total"
 	},
 	{
 		"assign": "item_sale_select_num",
@@ -8232,7 +8232,7 @@
 	{
 		"assign": "recycle_item_trade_rest",
 		"jp_text": "交換可能数：　<color=#ffff00>あと{0}個</color>",
-		"tr_text": "{0} needed items/chips. "
+		"tr_text": "Limit: {0}"
 	},
 	{
 		"assign": "recycle_shop_trade_item",
@@ -9127,12 +9127,12 @@
 	{
 		"assign": "caption_equip",
 		"jp_text": "装備",
-		"tr_text": ""
+		"tr_text": "Equipment"
 	},
 	{
 		"assign": "caption_grind",
 		"jp_text": "強化/売却",
-		"tr_text": ""
+		"tr_text": "Strengthen / Sell"
 	},
 	{
 		"assign": "caption_class",
@@ -9417,12 +9417,12 @@
 	{
 		"assign": "non_recyclable_title",
 		"jp_text": "交換不可",
-		"tr_text": ""
+		"tr_text": "Can't Exchange"
 	},
 	{
 		"assign": "non_recyclable_body",
 		"jp_text": "アイテムパックの空き容量または所持数を\nオーバーするため交換できません。\n売却または交換をして\nアイテムを整理してください。",
-		"tr_text": ""
+		"tr_text": "You cannot exchange items as\nyou're over the limit.\nPlease sell or deposit your\nitems and try again."
 	},
 	{
 		"assign": "chip_over_num_recycle",
@@ -9467,7 +9467,7 @@
 	{
 		"assign": "quest_counter_no_area_raid_t",
 		"jp_text": "緊急クエスト",
-		"tr_text": ""
+		"tr_text": "Emergency Quest"
 	},
 	{
 		"assign": "quest_counter_no_area_raid_b",
@@ -9782,7 +9782,7 @@
 	{
 		"assign": "class",
 		"jp_text": "クラス",
-		"tr_text": ""
+		"tr_text": "Class"
 	},
 	{
 		"assign": "level",
@@ -9867,7 +9867,7 @@
 	{
 		"assign": "friend_login_5",
 		"jp_text": "10日以内",
-		"tr_text": "Last seen 10 days ago "
+		"tr_text": "Last seen 10 days ago"
 	},
 	{
 		"assign": "friend_login_6",
