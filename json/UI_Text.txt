@@ -17332,22 +17332,22 @@
 	{
 		"assign": "chip_depot_title",
 		"jp_text": "チップ倉庫",
-		"tr_text": "Chip Storage"
+		"tr_text": "Storage"
 	},
 	{
 		"assign": "chip_depot_side_button_pack",
 		"jp_text": "チップパック",
-		"tr_text": "Chip Inventory"
+		"tr_text": "Inventory"
 	},
 	{
 		"assign": "chip_depot_side_button_depot",
 		"jp_text": "チップ倉庫",
-		"tr_text": "Chip Storage"
+		"tr_text": "Storage"
 	},
 	{
 		"assign": "chip_depot_select_num",
 		"jp_text": "選択数",
-		"tr_text": "Slots Remaining"
+		"tr_text": "Slots"
 	},
 	{
 		"assign": "chip_depot_leave",
@@ -17362,7 +17362,7 @@
 	{
 		"assign": "chip_depot_expand",
 		"jp_text": "へ拡張",
-		"tr_text": "Expand"
+		"tr_text": "Expand Slots"
 	},
 	{
 		"assign": "chip_depot_dialog_t_00",
@@ -17372,7 +17372,7 @@
 	{
 		"assign": "chip_depot_dialog_b_00",
 		"jp_text": "<%AC>を消費して\nチップ倉庫を拡張しますか？\n\nチップ倉庫上限（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※チップ倉庫は<%max_pack_size>まで拡張できます。\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "This will increase your chip\nstorage using <%AC>. Is this OK?\n\nCurrent Limit (<%current_pack_size>)→<color=red>（<%after_pack_size>）</color>\n※Chip Storage can be expanded to <%max_pack_size>.\n\nNeeded <%AC>： <%consume_AC>\nOwned <%AC>： <%current_AC>"
+		"tr_text": "This will increase your chip\nstorage using <%AC>. Is this OK?\n\nCurrent Limit (<%current_pack_size>)→<color=red>（<%after_pack_size>）</color>\n※Chip Storage can be expanded to <%max_pack_size> slots.\n\nNeeded <%AC>： <%consume_AC>\nOwned <%AC>： <%current_AC>"
 	},
 	{
 		"assign": "chip_depot_dialog_t_01",
@@ -17427,7 +17427,7 @@
 	{
 		"assign": "chip_depot_expand_num",
 		"jp_text": "<color=#ffff00>{0:N0}個</color>",
-		"tr_text": ""
+		"tr_text": "<color=#ffff00>{0:N0}</color>"
 	},
 	{
 		"assign": "scratch_pickup_select_window_title",
