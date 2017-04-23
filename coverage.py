@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # coding=utf8
+import codecs
 import re
 import os
 import pprint
@@ -12,7 +13,7 @@ invalid_json_files = []
 os.chdir(os.getcwd() + "/json")
 json_files = [f for f in os.listdir('./') if re.match(r'.*\.txt', f)]
 for files in json_files:
-    with open(files) as json_file:
+    with codecs.open(files, mode='r', encoding='utf-8') as json_file:
         try:
             countin = 0
             countout = 0
@@ -35,4 +36,4 @@ counterr += len(invalid_json_files)
 if counterr != 0:
     sys.exit("=============\nJSON files with issues: %d" % count)
 else:
-    print bufout
+    print(bufout)
