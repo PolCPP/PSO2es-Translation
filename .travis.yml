@@ -13,6 +13,7 @@ install:
 script:
   - python checkjson.py && ./coverage.sh
   - ./tidy-json.sh && git diff --exit-code
+  - ./dupcheck.py
 
 before_cache:
   - rm -f $HOME/.cache/pip/log/debug.log
