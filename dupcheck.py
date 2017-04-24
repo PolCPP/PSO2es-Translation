@@ -7,6 +7,8 @@ import pprint
 import simplejson
 import sys
 
+countdup = 0
+bufout = "FILE: ID"
 os.chdir(os.getcwd() + "/json")
 ENMap = dict()
 json_files = [f for f in os.listdir('./') if re.match(r'Item_.*\.txt', f)]
@@ -22,6 +24,10 @@ for files in json_files:
                     elif ENMap[rmid["tr_text"]] == rmid["jp_text"]:
                         print("DUP")
                     else:
-                        print("%s: %s" % (files, rmid["assign"]))
+                        bufout += ("%s: %s\n" % (files, rmid["assign"]))
+                        countdup += 1
         except ValueError as e:
             print("%s: %s") % (files, e)
+
+if countdup != 0:
+    sys.exit(bufout)
