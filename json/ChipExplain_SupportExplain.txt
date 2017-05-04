@@ -1010,72 +1010,72 @@
 	{
 		"assign": "31101",
 		"jp_explainShort": "ダメージが大増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Large ATK Boost",
 		"jp_explainLong": "ジャストアタック成功時\n敵に与えるダメージが大きく増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that largely boosts ATK."
 	},
 	{
 		"assign": "31102",
 		"jp_explainShort": "ダメージが劇的増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Large ATK Boost",
 		"jp_explainLong": "ジャストアタック成功時\n敵に与えるダメージが劇的に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that largely boosts ATK."
 	},
 	{
 		"assign": "31103",
 		"jp_explainShort": "ダメージが増加＋一定確率で回避",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost + Chance of Avoiding Damage",
 		"jp_explainLong": "スライド操作時、一定時間\n敵に与えるダメージが増加され\n敵からの攻撃を一定確率で回避する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Slide Action activates an effect that\nboosts ATK and gives a certain amount of\nprobability to avoid damage from enemies."
 	},
 	{
 		"assign": "31104",
 		"jp_explainShort": "ダメージが大増加＋一定確率で回避",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost + Chance of Avoiding Damage",
 		"jp_explainLong": "スライド操作時、一定時間\n敵に与えるダメージが大きく増加され\n敵からの攻撃を一定確率で回避する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Slide Action activates an effect that\nboosts ATK and gives a certain amount of\nprobability to avoid damage from enemies."
 	},
 	{
 		"assign": "31105",
 		"jp_explainShort": "光属性値に応じてダメージ劇的増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost Proportional to Light Attr.",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n光属性値に応じて\n敵に与えるダメージが劇的に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that\nboosts ATK proportional\nto the amount of Light Attr."
 	},
 	{
 		"assign": "31106",
 		"jp_explainShort": "光属性値に応じてダメージ絶大増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost Proportional to Light Attr.",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n光属性値に応じて\n敵に与えるダメージが絶大に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that\ndramatically boosts ATK proportional\nto the amount of Light Attr."
 	},
 	{
 		"assign": "31107",
 		"jp_explainShort": "炎属性値に応じてダメージ劇的増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost Proportional to Fire Attr.",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n炎属性値に応じて\n敵に与えるダメージが劇的に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that\nboosts ATK proportional\nto the amount of Fire Attr."
 	},
 	{
 		"assign": "31108",
 		"jp_explainShort": "炎属性値に応じてダメージ絶大増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost Proportional to Fire Attr.",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n炎属性値に応じて\n敵に与えるダメージが絶大に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that\ndramatically boosts ATK proportional\nto the amount of Fire Attr."
 	},
 	{
 		"assign": "31109",
 		"jp_explainShort": "氷属性値に応じてダメージ劇的増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost Proportional to Ice Attr.",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n氷属性値に応じて\n敵に与えるダメージが劇的に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that\nboosts ATK proportional\nto the amount of Ice Attr."
 	},
 	{
 		"assign": "31110",
 		"jp_explainShort": "氷属性値に応じてダメージ絶大増加",
 		"tr_explainShort": "",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n氷属性値に応じて\n敵に与えるダメージが絶大に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that\nboosts ATK proportional\nto the amount of Ice Attr."
 	},
 	{
 		"assign": "31111",
@@ -1122,16 +1122,16 @@
 	{
 		"assign": "31117",
 		"jp_explainShort": "追加で特大ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "Additional Damage on Hit",
 		"jp_explainLong": "攻撃ヒット時、追加で特大ダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Deals additional great amount damage on hit to target."
 	},
 	{
 		"assign": "31118",
 		"jp_explainShort": "追加で特大ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "Additional Damage on Hit",
 		"jp_explainLong": "攻撃ヒット時、追加で特大ダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Deals additional great amount damage on hit to target."
 	},
 	{
 		"assign": "31121",
@@ -1234,44 +1234,44 @@
 	{
 		"assign": "31139",
 		"jp_explainShort": "属性種類数ダメージ大増加＋定期ＨＰ回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost Proportional to Chips + Periodic HP Recovery",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復され、装備中チップの\n属性の種類が多いほど攻撃力が大きく増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effects that boosts ATK\nproportional to the amount of different attr. chips\nequipped, as well as granting periodic HP recovery."
 	},
 	{
 		"assign": "31140",
 		"jp_explainShort": "属性種類数ダメージ劇的増＋定期ＨＰ回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost Proportional to Chips + Periodic HP Recovery",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復され、装備中チップの\n属性の種類が多いほど攻撃力が劇的に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effects that boosts ATK\nproportional to the amount of different attr. chips\nequipped, as well as granting periodic HP recovery."
 	},
 	{
 		"assign": "31143",
 		"jp_explainShort": "炎属性強化＋攻撃３回ごと攻撃力強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "Boost Fire Attr. + Every 3 Attack Boost ATK",
 		"jp_explainLong": "ジャストアタック成功時、一定時間、炎属性が\n強化され、アクティブチップ使用か通常攻撃を\n３回行うごとに攻撃力が強化され劇的となる。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that boosts\nFire Attr. In addition, every 3 normal attacks\nof active chip activation boosts ATK."
 	},
 	{
 		"assign": "31144",
 		"jp_explainShort": "炎属性強化＋攻撃３回ごと攻撃力強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "Boost Fire Attr. + Every 3 Attack Boost ATK",
 		"jp_explainLong": "ジャストアタック成功時、長い時間、炎属性が\n強化され、アクティブチップ使用か通常攻撃を\n３回行うごとに攻撃力が強化され劇的となる。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that boosts\nFire Attr. In addition, every 3 normal attacks\nof active chip activation boosts ATK."
 	},
 	{
 		"assign": "31147",
 		"jp_explainShort": "ダメージ大増加＋状態異常無効",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost + Status Immunity",
 		"jp_explainLong": "スライド操作時、一定時間\n敵に与えるダメージが大きく増加され\n自身を状態異常にならなくする。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Slide Action activates an effect that\nlargely boosts ATK and grants status immunity for a period of time."
 	},
 	{
 		"assign": "31148",
 		"jp_explainShort": "ダメージ大増加＋状態異常無効",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost + Status Immunity",
 		"jp_explainLong": "スライド操作時、一定時間\n敵に与えるダメージが大きく増加され\n自身を状態異常にならなくする。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Slide Action activates an effect that\nlargely boosts ATK and grants status immunity for a period of time."
 	},
 	{
 		"assign": "31149",
@@ -1360,44 +1360,44 @@
 	{
 		"assign": "31165",
 		"jp_explainShort": "炎チップ数ダメージ劇的増加＋定期ＨＰ回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost Proportional to Fire Chips + Periodic HP Recovery",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復され、装備中チップの\n炎属性の枚数が多いほど攻撃力が劇的に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effects that boosts ATK\nproportional to the amount of Fire attr. chips\nequipped, as well as granting periodic HP recovery."
 	},
 	{
 		"assign": "31166",
 		"jp_explainShort": "炎チップ数ダメージ劇的増加＋定期ＨＰ回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost Proportional to Fire Chips + Periodic HP Recovery",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復され、装備中チップの\n炎属性の枚数が多いほど攻撃力が劇的に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effects that boosts ATK\nproportional to the amount of Fire attr. chips\nequipped, as well as granting periodic HP recovery."
 	},
 	{
 		"assign": "31167",
 		"jp_explainShort": "属性種類数攻撃力劇的増加＋追加大ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost Proportional to Chips + ATK Boost",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n敵に追加で大ダメージを与え、装備中チップの\n属性の種類が多いほど攻撃力が劇的に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effects that boosts ATK\nproportional to the amount of different attr. chips\nequipped & boosts ATK."
 	},
 	{
 		"assign": "31168",
 		"jp_explainShort": "属性種類数攻撃力劇的増加＋追加大ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost Proportional to Chips + ATK Boost",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n敵に追加で大ダメージを与え、装備中チップの\n属性の種類が多いほど攻撃力が劇的に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effects that boosts ATK\nproportional to the amount of different attr. chips\nequipped & boosts ATK."
 	},
 	{
 		"assign": "31169",
 		"jp_explainShort": "チップ発見数攻撃力大増加＋ＨＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Boost ATK Proportional to Chips Registered + HP Recovery",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰが小回復し、チップ研究室において\n発見済みチップが多いほど攻撃力が大増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that boosts ATK\nproportional to the amount of chips registered to Chip Lab\nand recovers small amount of HP."
 	},
 	{
 		"assign": "31170",
 		"jp_explainShort": "チップ発見数攻撃力劇的増加＋ＨＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Boost ATK Proportional to Chips Registered + HP Recovery",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰが小回復し、チップ研究室において\n発見済みチップが多いほど攻撃力が劇的増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that boosts ATK\nproportional to the amount of chips registered to Chip Lab\nand recovers small amount of HP."
 	},
 	{
 		"assign": "31173",
@@ -1458,100 +1458,100 @@
 	{
 		"assign": "31183",
 		"jp_explainShort": "攻撃力絶大増加＋弱点属性大強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + ATK Boost on Weak Attr.",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n攻撃力を絶大に増加し、ターゲット中の敵の\n弱点属性が大きく強化される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK and increases DMG done on weak attr."
 	},
 	{
 		"assign": "31184",
 		"jp_explainShort": "攻撃力絶大増加＋弱点属性劇的強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + ATK Boost on Weak Attr.",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n攻撃力を絶大に増加し、ターゲット中の敵の\n弱点属性が劇的に強化される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK and increases DMG done on weak attr."
 	},
 	{
 		"assign": "31187",
 		"jp_explainShort": "ミラージュ付与＋ミラージュ時ダメージ大増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Imbues [Mirage] + ATK Boost",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n通常攻撃に「ミラージュ」を付与し、「ミラージュ」状態の\n敵に対してダメージ量が大きく増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that grants\n[Mirage] on attacks and greatly boosts ATK."
 	},
 	{
 		"assign": "31188",
 		"jp_explainShort": "ミラージュ付与＋ミラージュ時ダメージ劇的増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Imbues [Mirage] + ATK Boost",
 		"jp_explainLong": "攻撃ヒット時、長い時間\n通常攻撃に「ミラージュ」を付与し、「ミラージュ」状態の\n敵に対してダメージ量が劇的に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that grants\n[Mirage] on attacks and greatly boosts ATK."
 	},
 	{
 		"assign": "31191",
 		"jp_explainShort": "攻撃力大増加＋ＨＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost + Small HP Recovery",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復され\n攻撃力が大きく増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that greatly\nboosts ATK and recovers small amount of HP."
 	},
 	{
 		"assign": "31192",
 		"jp_explainShort": "攻撃力劇的増加＋ＨＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost + Small HP Recovery",
 		"jp_explainLong": "攻撃ヒット時、長い時間\n定期的にＨＰがわずかに回復され\n攻撃力が劇的に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that greatly\nboosts ATK and recovers small amount of HP."
 	},
 	{
 		"assign": "31193",
 		"jp_explainShort": "ダメージ大増加＋ＨＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost + Small HP Recovery",
 		"jp_explainLong": "法術チップ発動時、長い時間\n定期的にＨＰがわずかに回復され\n敵に与えるダメージが大きく増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Tech Chips activations activates an\neffect that greatly boosts ATK and\nrecovers small amount of HP."
 	},
 	{
 		"assign": "31194",
 		"jp_explainShort": "ダメージ劇的増加＋ＨＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost + Small HP Recovery",
 		"jp_explainLong": "法術チップ発動時、長い時間\n定期的にＨＰがわずかに回復され\n敵に与えるダメージが劇的に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Tech Chips activations activates an\neffect that greatly boosts ATK and\nrecovers small amount of HP."
 	},
 	{
 		"assign": "31195",
 		"jp_explainShort": "攻撃力大増加＋大剣・銃剣でさらに増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost + Further Boost for Sword or Gunslash",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n攻撃力が大きく増加され、大剣か銃剣を\n装備している場合はさらに攻撃力が増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that greatly boosts ATK and further boosts if using Swords or Gunslashes."
 	},
 	{
 		"assign": "31196",
 		"jp_explainShort": "攻撃力劇的増加＋大剣・銃剣でさらに増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost + Further Boost for Sword or Gunslash",
 		"jp_explainLong": "攻撃ヒット時、長い時間\n攻撃力が劇的に増加され、大剣か銃剣を\n装備している場合はさらに攻撃力が増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that greatly boosts ATK and further boosts if using Swords or Gunslashes."
 	},
 	{
 		"assign": "31199",
 		"jp_explainShort": "攻撃力大増加＋定期的にＣＰが微回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + Periodic CP Recovery",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＣＰがわずかに回復され\n攻撃力が大きく増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that\nlargely boosts ATK and periodically recovers CP."
 	},
 	{
 		"assign": "31200",
 		"jp_explainShort": "攻撃力劇的増加＋定期的にＣＰが回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + Periodic CP Recovery",
 		"jp_explainLong": "攻撃ヒット時、長い時間\n定期的にＣＰが回復され\n攻撃力が劇的に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that\nlargely boosts ATK and periodically recovers CP."
 	},
 	{
 		"assign": "31205",
 		"jp_explainShort": "攻撃力劇的増加＋ダメージ無で攻撃力大増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + Further Boosts with No Damage Taken",
 		"jp_explainLong": "ジャストアタック成功時、長い時間\n攻撃力が劇的に増加される。一定時間、ダメージを\n受けなければさらに攻撃力が大きく増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK and further boosts ATK if no damage\nis taken during a certain period of time."
 	},
 	{
 		"assign": "31206",
 		"jp_explainShort": "攻撃力絶大増加＋ダメージ無で攻撃力大増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + Further Boosts with No Damage Taken",
 		"jp_explainLong": "ジャストアタック成功時、長い時間\n攻撃力が絶大に増加される。一定時間、ダメージを\n受けなければさらに攻撃力が大きく増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK and further boosts ATK if no damage\nis taken during a certain period of time."
 	},
 	{
 		"assign": "31207",
@@ -1738,16 +1738,16 @@
 	{
 		"assign": "31239",
 		"jp_explainShort": "攻撃力絶大増加＋定期的にＨＰが微回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Enormous ATK Boost + Periodic HP Recovery",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n攻撃力が絶大に増加され\n定期的にＨＰがわずかに回復される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that enormously\nboosts ATK and periodically recovers HP."
 	},
 	{
 		"assign": "31240",
 		"jp_explainShort": "攻撃力絶大増加＋定期的にＨＰが微回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Enormous ATK Boost + Periodic HP Recovery",
 		"jp_explainLong": "攻撃ヒット時、長い時間\n攻撃力が絶大に増加され\n定期的にＨＰがわずかに回復される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that enormously\nboosts ATK and periodically recovers HP."
 	},
 	{
 		"assign": "31247",
@@ -1780,28 +1780,28 @@
 	{
 		"assign": "31253",
 		"jp_explainShort": "攻撃力が劇的増加＋一定確率で回避",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + Chance of Avoiding Damage",
 		"jp_explainLong": "スライド操作時、一定時間\n攻撃力が劇的に増加され\n敵からの攻撃を一定確率で回避する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Slide Action activates an effect that\nboosts ATK and gives a certain amount of\nprobability to avoid damage from enemies."
 	},
 	{
 		"assign": "31254",
 		"jp_explainShort": "攻撃力が劇的増加＋一定確率で回避",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + Chance of Avoiding Damage",
 		"jp_explainLong": "スライド操作時、一定時間\n攻撃力が劇的に増加され\n敵からの攻撃を一定確率で回避する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Slide Action activates an effect that\nboosts ATK and gives a certain amount of\nprobability to avoid damage from enemies."
 	},
 	{
 		"assign": "31257",
 		"jp_explainShort": "攻撃力絶大増＋ＣＰ一定以上時攻撃力大増",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost + Further Boost when CP is Below Threshold",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n攻撃力が絶大に増加され、ＣＰが一定値以上の場合は\nさらに攻撃力が大きく増加される。",
 		"tr_explainLong": "JAs activate an effect that increases attack\npower tremendously. Attack Power will increase\neven more if your CP is below a certain amount."
 	},
 	{
 		"assign": "31258",
 		"jp_explainShort": "攻撃力絶大増＋ＣＰ一定以上時攻撃力大増",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost + Further Boost when CP is Below Threshold",
 		"jp_explainLong": "ジャストアタック成功時、長い時間\n攻撃力が絶大に増加され、ＣＰが一定値以上の場合は\nさらに攻撃力が大きく増加される。",
 		"tr_explainLong": "JAs activate an effect that increases attack\npower greatly. Attack Power will increase even\nmore if your CP is below a certain amount."
 	},
@@ -1822,44 +1822,44 @@
 	{
 		"assign": "31263",
 		"jp_explainShort": "攻撃力大増加＋飛翔剣で大増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Large ATK Boost + Further Boost on Dual Blades",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n攻撃力が大きく増加され、飛翔剣を\n装備している場合はさらに攻撃力が大きく増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that largely boosts\nATK and further boosts ATK if using Dual Blades."
 	},
 	{
 		"assign": "31264",
 		"jp_explainShort": "攻撃力劇的増加＋飛翔剣で大増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Large ATK Boost + Further Boost on Dual Blades",
 		"jp_explainLong": "ジャストアタック成功時、長い時間\n攻撃力が劇的に増加され、飛翔剣を\n装備している場合はさらに攻撃力が大きく増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that largely boosts\nATK and further boosts ATK if using Dual Blades."
 	},
 	{
 		"assign": "31265",
 		"jp_explainShort": "風チップ数攻撃絶大増＋属性追加ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost Prop. to Wind Chips+Boost ATK Prop. to Wind Attr.",
 		"jp_explainLong": "ジャストアタック成功時、一定時間、装備中チップの\n風属性の枚数が多いほど攻撃力が絶大に増加され\n風属性値に応じて敵に追加で特大ダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that boosts ATK\nproportional to amount of Wind chips, and further\nboosts proportional to amount of Wind Attr."
 	},
 	{
 		"assign": "31266",
 		"jp_explainShort": "風チップ数攻撃絶大増＋属性追加ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost Prop. to Wind Chips+Boost ATK Prop. to Wind Attr.",
 		"jp_explainLong": "ジャストアタック成功時、長い時間、装備中チップの\n風属性の枚数が多いほど攻撃力が絶大に増加され\n風属性値に応じて敵に追加で特大ダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that boosts ATK\nproportional to amount of Wind chips, and further\nboosts proportional to amount of Wind Attr."
 	},
 	{
 		"assign": "31267",
 		"jp_explainShort": "ダメージ大軽減＋法術が大強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "Reduce Damage Taken + Boost Tech Power",
 		"jp_explainLong": "法術チップ発動時、一定時間\n法術の威力が劇的に強化され\n敵からのダメージが軽減される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Tech Chips activations activates an effect that greatly reduces damage taken and boosts Tech power."
 	},
 	{
 		"assign": "31268",
 		"jp_explainShort": "ダメージ大軽減＋法術が劇的強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "法術チップ発動時、長い時間\n法術の威力が劇的に強化され\n敵からのダメージが大きく軽減される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Tech Chips activations activates an effect that greatly reduces damage taken and boosts Tech power."
 	},
 	{
 		"assign": "31273",
@@ -1934,184 +1934,184 @@
 	{
 		"assign": "31285",
 		"jp_explainShort": "攻撃力劇的増加＋カウンターダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + Counter Attack",
 		"jp_explainLong": "攻撃ヒット時、一定時間、攻撃力が劇的に増加され\nターゲット中のエネミーから攻撃を受けた時\nそのダメージに応じたカウンターを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that dramatically\nboosts ATK and for a period of time,\ncounters enemy's attacks."
 	},
 	{
 		"assign": "31286",
 		"jp_explainShort": "攻撃力劇的増加＋カウンターダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + Counter Attack",
 		"jp_explainLong": "攻撃ヒット時、長い時間、攻撃力が劇的に増加され\nターゲット中のエネミーから攻撃を受けた時\nそのダメージに応じたカウンターを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that dramatically\nboosts ATK and for a period of time,\ncounters enemy's attacks."
 	},
 	{
 		"assign": "31287",
 		"jp_explainShort": "定期的に攻撃力が増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Periodic ATK Boost",
 		"jp_explainLong": "-",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31288",
 		"jp_explainShort": "定期的に攻撃力が増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Periodic ATK Boost",
 		"jp_explainLong": "-",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31289",
 		"jp_explainShort": "攻撃力大増加＋JA毎に攻撃力小増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost + Each JA Further Boosts ATK",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n攻撃力が大きく増加され、さらに\nジャストアタックごとに攻撃力がわずかに増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that boosts ATK and each JA will further grant a small attack boost."
 	},
 	{
 		"assign": "31290",
 		"jp_explainShort": "攻撃力劇的増加＋JA毎に攻撃力小増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost + Each JA Further Boosts ATK",
 		"jp_explainLong": "ジャストアタック成功時、長い時間\n攻撃力が劇的に増加され、さらに\nジャストアタックごとに攻撃力がわずかに増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that boosts ATK and each JA will further grant a small attack boost."
 	},
 	{
 		"assign": "31293",
 		"jp_explainShort": "攻撃力絶大増＋ダメージ無で攻撃力劇的増",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + Further Boosts with No Damage Taken",
 		"jp_explainLong": "ジャストアタック成功時、長い時間、攻撃力が\n絶大に増加される。一定時間、ダメージを\n受けなければさらに攻撃力が増加され超絶となる。 ",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK and further boosts ATK if no damage\nis taken during a certain period of time."
 	},
 	{
 		"assign": "31294",
 		"jp_explainShort": "攻撃力絶大増＋ダメージ無で攻撃力劇的増",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + Further Boosts with No Damage Taken",
 		"jp_explainLong": "ジャストアタック成功時、長い時間、攻撃力が\n絶大に増加される。一定時間、ダメージを\n受けなければさらに攻撃力が増加され超絶となる。 ",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK and further boosts ATK if no damage\nis taken during a certain period of time."
 	},
 	{
 		"assign": "31295",
 		"jp_explainShort": "攻撃力劇的増加＋状態異常無効",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + Status Immunity",
 		"jp_explainLong": "ジャストアタック成功時、長い時間\n攻撃力が劇的に増加され\n自身を状態異常にならなくする。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that\ndramatically boosts ATK and grants status\nimmunity for a period of time."
 	},
 	{
 		"assign": "31296",
 		"jp_explainShort": "攻撃力劇的増加＋状態異常無効",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + Status Immunity",
 		"jp_explainLong": "ジャストアタック成功時、長い時間\n攻撃力が劇的に増加され\n自身を状態異常にならなくする。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that\ndramatically boosts ATK and grants status\nimmunity for a period of time."
 	},
 	{
 		"assign": "31297",
 		"jp_explainShort": "強弓の技が劇的強化＋通常攻撃と移動加速",
-		"tr_explainShort": "",
+		"tr_explainShort": "Boost Bullet Bow + Quicks Actions",
 		"jp_explainLong": "-",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31298",
 		"jp_explainShort": "強弓の技が劇的強化＋通常攻撃と移動加速",
-		"tr_explainShort": "",
+		"tr_explainShort": "Boost Bullet Bow + Quicks Actions",
 		"jp_explainLong": "-",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31299",
 		"jp_explainShort": "攻撃力劇的増加＋弱点属性大強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + ATK Boost on Weak Attr.",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n攻撃力が劇的に増加され、ターゲット中の敵の\n弱点属性が大きく強化される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK and increases DMG done on Weak Attr."
 	},
 	{
 		"assign": "31300",
 		"jp_explainShort": "攻撃力劇的増加＋弱点属性大強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + ATK Boost on Weak Attr.",
 		"jp_explainLong": "ジャストアタック成功時、長い時間\n攻撃力が劇的に増加され、ターゲット中の敵の\n弱点属性が大きく強化される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK and increases DMG done on Weak Attr."
 	},
 	{
 		"assign": "31301",
 		"jp_explainShort": "ＨＰとＣＰが小回復＋追加大ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "Small HP & CP Recovery + Additional Large Damage",
 		"jp_explainLong": "攻撃ヒット時\nＨＰとＣＰがわずかに回復し\n敵に追加で大ダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that recovers a small amount of HP and CP and additional large damage on hit."
 	},
 	{
 		"assign": "31302",
 		"jp_explainShort": "ＨＰとＣＰが小回復＋追加特大ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "Small HP & CP Recovery + Additional Dramatic Damage",
 		"jp_explainLong": "攻撃ヒット時\nＨＰとＣＰがわずかに回復し\n敵に追加で特大ダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that recovers a small amount of HP and CP and additional dramatic damage on hit."
 	},
 	{
 		"assign": "31303",
 		"jp_explainShort": "発見済みエネミーチップ数に応じ追加ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "Boost ATK Proportional to Enemy Chips Registered",
 		"jp_explainLong": "攻撃ヒット時、チップ研究室において\n発見済エネミーチップが多いほど\n追加でダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that boosts ATK\nproportional to the amount of enemy chips\nregistered to Chip Lab."
 	},
 	{
 		"assign": "31304",
 		"jp_explainShort": "発見済みエネミーチップ数に応じ追加ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "Boost ATK Proportional to Enemy Chips Registered",
 		"jp_explainLong": "攻撃ヒット時、チップ研究室において\n発見済エネミーチップが多いほど\n追加でダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that boosts ATK\nproportional to the amount of enemy chips\nregistered to Chip Lab."
 	},
 	{
 		"assign": "31305",
 		"jp_explainShort": "ダーカーにダメージ劇的増加＋光属性大強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost Against Darkers + Boost Light Attr.",
 		"jp_explainLong": "ダーカーに攻撃がヒットした時、一定時間\nダーカーに与えるダメージが劇的に増加され\n光属性が大きく強化される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "When attacking Darkers, activates an effects\nthat dramatically boosts ATK against Darkers\nand largely boosts Light Attr."
 	},
 	{
 		"assign": "31306",
 		"jp_explainShort": "ダーカーにダメージ劇的増加＋光属性大強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost Against Darkers + Boost Light Attr.",
 		"jp_explainLong": "ダーカーに攻撃がヒットした時、長い時間\nダーカーに与えるダメージが劇的に増加され\n光属性が大きく強化される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "When attacking Darkers, activates an effects\nthat dramatically boosts ATK against Darkers\nand largely boosts Light Attr."
 	},
 	{
 		"assign": "31307",
 		"jp_explainShort": "抜剣の技が劇的強化＋通常攻撃と移動加速",
-		"tr_explainShort": "",
+		"tr_explainShort": "Boosts Katana PAs + Quickens Actions",
 		"jp_explainLong": "-",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31308",
 		"jp_explainShort": "抜剣の技が劇的強化＋通常攻撃と移動加速",
-		"tr_explainShort": "",
+		"tr_explainShort": "Boosts Katana PAs + Quickens Actions",
 		"jp_explainLong": "-",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31309",
 		"jp_explainShort": "攻撃力劇的増加＋ＣＰ最大値増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + Boost Maximum CP",
 		"jp_explainLong": "ジャストアタック成功時、長い時間\n攻撃力が劇的に増加され\nＣＰの最大値が増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK and boosts maximum CP."
 	},
 	{
 		"assign": "31310",
 		"jp_explainShort": "攻撃力劇的増加＋ＣＰ最大値増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + Boost Maximum CP",
 		"jp_explainLong": "ジャストアタック成功時、長い時間\n攻撃力が劇的に増加され\nＣＰの最大値が増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK and boosts maximum CP."
 	},
 	{
 		"assign": "31313",
 		"jp_explainShort": "アビリティレベルに応じて攻撃力劇的増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost Based on Ability Level",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\nアビリティレベルに応じて攻撃力が劇的に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK based on Ability Level of Chip."
 	},
 	{
 		"assign": "31314",
 		"jp_explainShort": "アビリティレベルに応じて攻撃力絶大増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Enormous ATK Boost Based on Ability Level",
 		"jp_explainLong": "ジャストアタック成功時、長い時間\nアビリティレベルに応じて攻撃力が絶大に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that enormously\nboosts ATK based on Ability Level of Chip."
 	},
 	{
 		"assign": "31317",
@@ -2130,366 +2130,366 @@
 	{
 		"assign": "31321",
 		"jp_explainShort": "攻撃力大増加＋ＨＰ一定以上時攻撃力大増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost + Further Boost With HP",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n攻撃力が大きく増加され、ＨＰが一定値以上の場合は\nさらに攻撃力が大きく増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that largely\nboosts ATK and further boosts if HP is above a\ncertain threshold."
 	},
 	{
 		"assign": "31322",
 		"jp_explainShort": "攻撃力大増加＋ＨＰ一定以上時攻撃力大増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost + Further Boost With HP",
 		"jp_explainLong": "攻撃ヒット時、長い時間\n攻撃力が大きく増加され、ＨＰが一定値以上の場合は\nさらに攻撃力が大きく増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that largely\nboosts ATK and further boosts if HP is above a\ncertain threshold."
 	},
 	{
 		"assign": "31323",
 		"jp_explainShort": "消費ＣＰ減少＋炎弱点時ダメージ劇的増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Reduce CP Usage + Dramatic ATK Boost on Attr. Weak to Fire",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n消費ＣＰが減少し、攻撃対象のエネミーが炎属性弱点\nの場合に与えるダメージが劇的に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that reduces\nCP usage and dramatically boosts ATK against\nenemies weak to Fire."
 	},
 	{
 		"assign": "31324",
 		"jp_explainShort": "消費ＣＰ減少＋炎弱点時ダメージ劇的増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Reduce CP Usage + Dramatic ATK Boost on Attr. Weak to Fire",
 		"jp_explainLong": "ジャストアタック成功時、長い時間\n消費ＣＰが減少し、攻撃対象のエネミーが炎属性弱点\nの場合に与えるダメージが劇的に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that reduces\nCP usage and dramatically boosts ATK against\nenemies weak to Fire."
 	},
 	{
 		"assign": "31325",
 		"jp_explainShort": "攻撃力絶大増加＋光属性武器で攻撃力増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + Further Boost with Light Attr. Weapons",
 		"jp_explainLong": "攻撃ヒット時、一定時間、攻撃力が絶大に増加され\n装備中の武器の属性が光属性の場合\nさらに攻撃力が増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that dramatically\nboosts ATK and further boosts ATK if weapon is of\nLight Attr."
 	},
 	{
 		"assign": "31326",
 		"jp_explainShort": "攻撃力絶大増加＋光属性武器で攻撃力増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + Further Boost with Light Attr. Weapons",
 		"jp_explainLong": "攻撃ヒット時、長い時間、攻撃力が絶大に増加され\n装備中の武器の属性が光属性の場合\nさらに攻撃力が増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that dramatically\nboosts ATK and further boosts ATK if weapon is of\nLight Attr."
 	},
 	{
 		"assign": "31329",
 		"jp_explainShort": "定期的に攻撃力が小増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Periodic small ATK Boost",
 		"jp_explainLong": "攻撃ヒット時、長い時間\n定期的に攻撃力がわずかに増加され劇的となる。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that\nperiodically boosts ATK by a small amount."
 	},
 	{
 		"assign": "31330",
 		"jp_explainShort": "定期的に攻撃力が小増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Periodic small ATK Boost",
 		"jp_explainLong": "攻撃ヒット時、長い時間\n定期的に攻撃力がわずかに増加され劇的となる。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that\nperiodically boosts ATK by a small amount."
 	},
 	{
 		"assign": "31331",
 		"jp_explainShort": "ダメージ軽減＋法術が大強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "Reduce Damage Taken + Boost Tech Power",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n敵からのダメージが軽減され\n法術の威力が大きく強化される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that\nreduces damage taken and boosts Tech power."
 	},
 	{
 		"assign": "31332",
 		"jp_explainShort": "ダメージ大軽減＋法術が劇的強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "Reduce Damage Taken + Boost Tech Power",
 		"jp_explainLong": "攻撃ヒット時、長い時間\n敵からのダメージが大きく軽減され\n法術の威力が劇的に強化される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that\ngreatly reduces damage taken and boosts Tech power."
 	},
 	{
 		"assign": "31333",
 		"jp_explainShort": "ダーカー以外にダメージ劇的増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boosts Against All Except Darkers",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n原生種、龍族、機甲種、海王種に\n与えるダメージが劇的に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK against Natives, Dragonkinds, Mechs and Oceanids."
 	},
 	{
 		"assign": "31334",
 		"jp_explainShort": "ダーカー以外にダメージ絶大増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boosts Against All Except Darkers",
 		"jp_explainLong": "ジャストアタック成功時、長い時間\n原生種、龍族、機甲種、海王種に\n与えるダメージが絶大に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK against Natives, Dragonkinds, Mechs and Oceanids."
 	},
 	{
 		"assign": "31337",
 		"jp_explainShort": "攻撃力超絶増加＋チップ効果時間延長",
-		"tr_explainShort": "",
+		"tr_explainShort": "Tremendous ATK Boost + Chip Effect Time Extension",
 		"jp_explainLong": "攻撃ヒット時、長い時間\n攻撃力が超絶に増加され\nチップ発動時のアビリティ効果時間を延長する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that tremendously\nboost ATK and extends the time of activated Chip Effects."
 	},
 	{
 		"assign": "31338",
 		"jp_explainShort": "攻撃力超絶増加＋チップ効果時間延長",
-		"tr_explainShort": "",
+		"tr_explainShort": "Tremendous ATK Boost + Chip Effect Time Extension",
 		"jp_explainLong": "攻撃ヒット時、長い時間\n攻撃力が超絶に増加され\nチップ発動時のアビリティ効果時間を延長する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that tremendously\nboost ATK and extends the time of activated Chip Effects."
 	},
 	{
 		"assign": "31341",
 		"jp_explainShort": "攻撃力劇的増加＋一定確率で回避",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + Chance of Avoiding Damage",
 		"jp_explainLong": "スライド操作時、一定時間\n攻撃力が劇的に増加され\n敵からの攻撃を一定確率で回避する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Slide Action activates an effect that\ndramatically boosts ATK and gives a certain amount of\nprobability to avoid damage from enemies."
 	},
 	{
 		"assign": "31342",
 		"jp_explainShort": "攻撃力劇的増加＋一定確率で回避",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + Chance of Avoiding Damage",
 		"jp_explainLong": "スライド操作時、長い時間\n攻撃力が劇的に増加され\n敵からの攻撃を一定確率で回避する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Slide Action activates an effect that\ndramatically boosts ATK and gives a certain amount of\nprobability to avoid damage from enemies."
 	},
 	{
 		"assign": "31343",
 		"jp_explainShort": "攻撃力劇的増加＋ダメージの一部ＨＰ回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + Converts Damage to HP",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n攻撃力が劇的に増加され\n与えたダメージ量の一部を自身のHPとして回復する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that dramatically\nboosts ATK and converts portion of damage dealt into HP."
 	},
 	{
 		"assign": "31344",
 		"jp_explainShort": "攻撃力劇的増加＋ダメージの一部ＨＰ回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + Converts Damage to HP",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n攻撃力が劇的に増加され\n与えたダメージ量の一部を自身のHPとして回復する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that dramatically\nboosts ATK and converts portion of damage dealt into HP."
 	},
 	{
 		"assign": "31347",
 		"jp_explainShort": "必殺技大強化＋通常攻撃と移動加速",
-		"tr_explainShort": "",
+		"tr_explainShort": "Boost PAs + Quickens Actions",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n必殺技の威力が大きく強化され\n自身の通常攻撃と移動のスピードを加速する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that boosts PA\ndamage in addition to increasing movement and attacking speed."
 	},
 	{
 		"assign": "31348",
 		"jp_explainShort": "必殺技劇的強化＋通常攻撃と移動加速",
-		"tr_explainShort": "",
+		"tr_explainShort": "Boost PAs + Quickens Actions",
 		"jp_explainLong": "攻撃ヒット時、長い時間\n必殺技の威力が劇的に強化され\n自身の通常攻撃と移動のスピードを加速する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that boosts PA\ndamage in addition to increasing movement and attacking speed."
 	},
 	{
 		"assign": "31349",
 		"jp_explainShort": "状態異常ダメージ劇的増＋定期的にＨＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost on Statused Enemies + Periodic HP Recovery",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n状態異常の敵に対してダメージ量が劇的に増加され\n定期的にＨＰがわずかに回復される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that dramatically\nboosts ATK against enemies afflicted with status effects\nand periodically recovers small amount of HP."
 	},
 	{
 		"assign": "31350",
 		"jp_explainShort": "状態異常ダメージ劇的増＋定期的にＨＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost on Statused Enemies + Periodic HP Recovery",
 		"jp_explainLong": "攻撃ヒット時、長い時間\n状態異常の敵に対してダメージ量が劇的に増加され\n定期的にＨＰがわずかに回復される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that dramatically\nboosts ATK against enemies afflicted with status effects\nand periodically recovers small amount of HP."
 	},
 	{
 		"assign": "31351",
 		"jp_explainShort": "消費ＣＰ減少＋有効弱点時ダメージ大増",
-		"tr_explainShort": "",
+		"tr_explainShort": "Reduce CP Usage + ATK Boost on Weak Attr.",
 		"jp_explainLong": "ジャストアタック成功時、一定時間、消費ＣＰが減少し\n攻撃対象のエネミーの弱点に有効な属性で攻撃したとき\n与えるダメージが大きく増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that largely\nboosts ATK on Weak Attr. and reduces CP usage."
 	},
 	{
 		"assign": "31352",
 		"jp_explainShort": "消費ＣＰ減少＋有効弱点時ダメージ劇的増",
-		"tr_explainShort": "",
+		"tr_explainShort": "Reduce CP Usage + ATK Boost on Weak Attr.",
 		"jp_explainLong": "ジャストアタック成功時、一定時間、消費ＣＰが減少し\n攻撃対象のエネミーの弱点に有効な属性で攻撃したとき\n与えるダメージが劇的に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK on Weak Attr. and reduces CP usage."
 	},
 	{
 		"assign": "31353",
 		"jp_explainShort": "攻撃力超絶増加＋消費ＣＰ減少",
-		"tr_explainShort": "",
+		"tr_explainShort": "Tremendous ATK Boost + Reduce CP Usage",
 		"jp_explainLong": "ジャストアタック成功時もしくはスライド操作時\n一定時間、消費ＣＰが減少し、装備中チップの\n雷属性の枚数が多いほど攻撃力が超絶に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that tremendously\nboosts ATK and reduces CP usage."
 	},
 	{
 		"assign": "31354",
 		"jp_explainShort": "攻撃力超絶増加＋消費ＣＰ減少",
-		"tr_explainShort": "",
+		"tr_explainShort": "Tremendous ATK Boost + Reduce CP Usage",
 		"jp_explainLong": "ジャストアタック成功時もしくはスライド操作時\n一定時間、消費ＣＰが減少し、装備中チップの\n雷属性の枚数が多いほど攻撃力が超絶に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that tremendously\nboosts ATK and reduces CP usage."
 	},
 	{
 		"assign": "31357",
 		"jp_explainShort": "攻撃力超絶増加＋状態異常無効",
-		"tr_explainShort": "",
+		"tr_explainShort": "Tremendous ATK Boost + Status Immunity",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n攻撃力が超絶に増加され\n自身を状態異常にならなくする。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that tremendously\nboosts ATK and grants status effects immunity."
 	},
 	{
 		"assign": "31358",
 		"jp_explainShort": "攻撃力超絶増加＋状態異常無効",
-		"tr_explainShort": "",
+		"tr_explainShort": "Tremendous ATK Boost + Status Immunity",
 		"jp_explainLong": "ジャストアタック成功時、長い時間\n攻撃力が超絶に増加され\n自身を状態異常にならなくする。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that tremendously\nboosts ATK and grants status effects immunity."
 	},
 	{
 		"assign": "31359",
 		"jp_explainShort": "攻撃力増加＋追加絶大ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost + Additional Damage on Hit",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n攻撃力が増加され\n敵に追加で絶大ダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that boosts ATK\nand deals additional dramatic damage on hit."
 	},
 	{
 		"assign": "31360",
 		"jp_explainShort": "攻撃力大増加＋追加絶大ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost + Additional Damage on Hit",
 		"jp_explainLong": "ジャストアタック成功時、長い時間\n攻撃力が大きく増加され\n敵に追加で絶大ダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that boosts ATK\nand deals additional dramatic damage on hit."
 	},
 	{
 		"assign": "31361",
 		"jp_explainShort": "攻撃力劇的増＋ＨＰ一定以下時ダメージ大増",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic HP Boost + Further Boost if HP is Below Threshold",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n攻撃力が劇的に増加され、ＨＰが一定値以下の場合\nさらに攻撃力が大きく増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK and further boosts ATK if HP is below a certain threshold."
 	},
 	{
 		"assign": "31362",
 		"jp_explainShort": "攻撃力劇的増＋ＨＰ一定以下時ダメージ大増",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic HP Boost + Further Boost if HP is Below Threshold",
 		"jp_explainLong": "ジャストアタック成功時、長い時間\n攻撃力が劇的に増加され、ＨＰが一定値以下の場合\nさらに攻撃力が大きく増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK and further boosts ATK if HP is below a certain threshold."
 	},
 	{
 		"assign": "31363",
 		"jp_explainShort": "攻撃力増加＋必殺技が大強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost + Boost PAs",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n攻撃力が増加され\n必殺技の威力が大きく強化される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that boosts\nATK and largely boosts PAs damage."
 	},
 	{
 		"assign": "31364",
 		"jp_explainShort": "攻撃力大増加＋必殺技が大強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost + Boost PAs",
 		"jp_explainLong": "ジャストアタック成功時、長い時間\n攻撃力が大きく増加され\n必殺技の威力が大きく強化される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that boosts\nATK and largely boosts PAs damage."
 	},
 	{
 		"assign": "31365",
 		"jp_explainShort": "アビリティレベル攻撃大増＋定期ＣＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost Based on Ability Level + Periodic CP Recovery",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\nアビリティレベルに応じて攻撃力が大きく増加され\n定期的にＣＰがわずかに回復される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that boosts ATK\nbased on the Chip's Ability Level and periodically\nrecovers CP."
 	},
 	{
 		"assign": "31366",
 		"jp_explainShort": "アビリティレベル攻撃劇的増＋定期ＣＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost Based on Ability Level + Periodic CP Recovery",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\nアビリティレベルに応じて攻撃力が劇的に増加され\n定期的にＣＰがわずかに回復される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that boosts ATK\nbased on the Chip's Ability Level and periodically\nrecovers CP."
 	},
 	{
 		"assign": "31367",
 		"jp_explainShort": "ＣＰ消費減＋アビリティレベル氷法術劇的強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "Reduce CP Usage + Tech Power Boost Based on Ability Level",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n消費ＣＰが減少し、アビリティレベルに応じて\n氷法術の威力が劇的に強化される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that reduces CP usage\nand boosts Tech Power based on Chip's Ability Level."
 	},
 	{
 		"assign": "31368",
 		"jp_explainShort": "ＣＰ消費減＋アビリティレベル氷法術劇的強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "Reduce CP Usage + Tech Power Boost Based on Ability Level",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n消費ＣＰが減少し、アビリティレベルに応じて\n氷法術の威力が劇的に強化される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that reduces CP usage\nand boosts Tech Power based on Chip's Ability Level."
 	},
 	{
 		"assign": "31369",
 		"jp_explainShort": "攻撃絶大増＋ボス時に炎チップ数で能力上昇",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + Boost Against Boss Based on # of Fire Chips",
 		"jp_explainLong": "ジャストアタック成功時、一定時間、攻撃力が絶大に\n増加され、さらにボス戦時は、装備中炎チップ数に応じ\n攻撃力が大きく増加され、敵からのダメージを軽減する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK. During boss battles, further boosts\nATK proportional to amount of Fire chips equipped."
 	},
 	{
 		"assign": "31370",
 		"jp_explainShort": "攻撃超絶増＋ボス時に炎チップ数で能力上昇",
-		"tr_explainShort": "",
+		"tr_explainShort": "Tremendous ATK Boost + Boost Against Boss Based on # of Fire Chips",
 		"jp_explainLong": "ジャストアタック成功時、長い時間、攻撃力が超絶に\n増加され、さらにボス戦時は、装備中炎チップ数に応じ\n攻撃力が大きく増加され、敵からのダメージを軽減する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that tremendously\nboosts ATK. During boss battles, further boosts\nATK proportional to amount of Fire chips equipped."
 	},
 	{
 		"assign": "31371",
 		"jp_explainShort": "アビリティレベル攻撃増＋ＣＰ回復速度強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost Based on Ability Level + Increase CP Recovery",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\nアビリティレベルに応じて攻撃力が絶大に増加され\nＣＰの回復速度が劇的に強化される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that greatly boosts\nATK based on Chip's Ability Level and dramatically\nincreases natural CP recovery."
 	},
 	{
 		"assign": "31372",
 		"jp_explainShort": "アビリティレベル攻撃増＋ＣＰ回復速度強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost Based on Ability Level + Increase CP Recovery",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\nアビリティレベルに応じて攻撃力が絶大に増加され\nＣＰの回復速度が劇的に強化される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that greatly boosts\nATK based on Chip's Ability Level and dramatically\nincreases natural CP recovery."
 	},
 	{
 		"assign": "31373",
 		"jp_explainShort": "法術劇的強化＋一定確率で回避",
-		"tr_explainShort": "",
+		"tr_explainShort": "Tech Power Boost + Chance of Avoiding Damage",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n法術の威力が劇的に強化され\n敵からの攻撃を一定確率で回避する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that boosts Tech\nPower and gives a certain amount of\nprobability to avoid damage from enemies."
 	},
 	{
 		"assign": "31374",
 		"jp_explainShort": "法術劇的強化＋一定確率で回避",
-		"tr_explainShort": "",
+		"tr_explainShort": "Tech Power Boost + Chance of Avoiding Damage",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n法術の威力が劇的に強化され\n敵からの攻撃を一定確率で回避する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that boosts Tech\nPower and gives a certain amount of\nprobability to avoid damage from enemies."
 	},
 	{
 		"assign": "31375",
 		"jp_explainShort": "消費ＣＰ減少＋氷弱点時ダメージ劇的増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Reduce CP Usage + ATK Boost on Attr. Weak to Ice",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n消費ＣＰが減少し、攻撃対象のエネミーが氷属性弱点\nの場合に与えるダメージが劇的に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that reduces\nCP usage and boosts ATK against\nenemies weak to Ice."
 	},
 	{
 		"assign": "31376",
 		"jp_explainShort": "消費ＣＰ減少＋氷弱点時ダメージ劇的増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Reduce CP Usage + ATK Boost on Attr. Weak to Ice",
 		"jp_explainLong": "ジャストアタック成功時、長い時間\n消費ＣＰが減少し、攻撃対象のエネミーが氷属性弱点\nの場合に与えるダメージが劇的に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "JAs activates an effect that reduces\nCP usage and dramatically boosts ATK against\nenemies weak to Ice."
 	},
 	{
 		"assign": "31377",
 		"jp_explainShort": "攻撃力絶大増加＋炎属性武器で攻撃力増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + Further Boost with Fire Weapons",
 		"jp_explainLong": "攻撃ヒット時、一定時間、攻撃力が絶大に増加され\n装備中の武器の属性が炎属性の場合\nさらに攻撃力が増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that dramatically\nboosts ATK and further boosts ATK if using Fire Weapons."
 	},
 	{
 		"assign": "31378",
 		"jp_explainShort": "攻撃力絶大増加＋炎属性武器で攻撃力増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dramatic ATK Boost + Further Boost with Fire Weapon",
 		"jp_explainLong": "攻撃ヒット時、一定時間、攻撃力が絶大に増加され\n装備中の武器の属性が炎属性の場合\nさらに攻撃力が増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that dramatically\nboosts ATK and further boosts ATK if using Fire Weapons."
 	},
 	{
 		"assign": "31381",
 		"jp_explainShort": "闇属性大強化＋追加で大ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "Boost Dark Attr. + Additional Damage on Hit",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n闇属性が大きく強化され\n追加で大ダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that largely\nboosts Dark Attr. and deals additional\ndamage on hit."
 	},
 	{
 		"assign": "31382",
 		"jp_explainShort": "闇属性劇的強化＋追加で特大ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "Boost Dark Attr. + Additional Damage on Hit",
 		"jp_explainLong": "攻撃ヒット時、長い時間\n闇属性が劇的に強化され\n追加で特大ダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that largely\nboosts Dark Attr. and deals additional great\ndamage on hit."
 	},
 	{
 		"assign": "31383",
 		"jp_explainShort": "バーン付与＋バーン時ダメージ絶大増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Imbues [Burn] + ATK Boost on [Burn] Afflicted Targets",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n通常攻撃に「バーン」を付与し、「バーン」状態の\n敵に対してダメージ量が絶大に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that imbues\n[Burn] to attacks and increases damage dealt to\ntargets afflicted with [Burn]."
 	},
 	{
 		"assign": "31384",
 		"jp_explainShort": "バーン付与＋バーン時ダメージ絶大増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Imbues [Burn] + ATK Boost on [Burn] Afflicted Targets",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n通常攻撃に「バーン」を付与し、「バーン」状態の\n敵に対してダメージ量が絶大に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacks activates an effect that imbues\n[Burn] to attacks and increases damage dealt to\ntargets afflicted with [Burn]."
 	},
 	{
 		"assign": "31385",
