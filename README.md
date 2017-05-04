@@ -21,6 +21,9 @@
 * Alam Arias - Adding travis support and other stuff 
 * Bumped.org - Item Names and Wonderful other translations
 * ARKS-Visiphone - Weapon names and other neat stuff
+* Nyaato - Misc. translations
+* YukaLily - Misc. translations
+* Nora - Misc. translations
 
 ## License
 
