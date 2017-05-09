@@ -9267,7 +9267,7 @@
 	{
 		"assign": "menu_fulldownload_b_01",
 		"jp_text": "<color=#f0df60>＜さらに楽しく！　快適に！＞</color>\n\n追加データをダウンロードすると\nフレンドのコスチュームやアイテムアイコンが\n本来の姿で表示されます！\n\nしかも！\nデータの読み込みにかかる\n待ち時間も短くなります！\n\n追加データをダウンロードして\nさらに楽しい『PSO2es』の世界を\nどうぞご堪能ください！\n\n\n※確認処理には数分かかる場合がございます。\n\n「はい」ボタンをタッチすると追加データの\n確認処理に進みます。",
-		"tr_text": "Please confirm.\nBy downloading this Data\nYou will be able to see\nItem Icons for Friends and\nother characters.\n※This may take a few minutes.\n\nPress Yes to confirm and begin\nthe Data Download."
+		"tr_text": "<color=#f0df60>Please confirm that you wish to perform\nthis operation.</color>\nBy downloading this data, you'll be able\nto see Item Icons for Friends and other\ncharacters.\n\n※This may take a few minutes. Actual downloading\nmay take longer.\n\nPress Yes to confirm and begin the\nData Download."
 	},
 	{
 		"assign": "menu_fulldownload_t_02",
@@ -9277,7 +9277,7 @@
 	{
 		"assign": "menu_fulldownload_b_02",
 		"jp_text": "追加のゲームデータを下記のボタンから\nダウンロードすることができます。\n\n※ダウンロード目安容量\n「アイテムアイコン」… 約550MB\n「全てをダウンロード」… 約3.8GB\n\n※ダウンロード目安時間\n「アイテムアイコン」… 約1時間30分\n「全てをダウンロード」… 約5時間\n\n※お使いの端末や通信環境、選択する\n内容によって、ダウンロードにかかる\n時間が異なりますのでご注意ください。\n※ゲームデータのダウンロードは\n通信環境のいい場所で行ってください。\n※ゲームの配信データが追加された場合には\n必要となるデータ容量が増えていきますので\n端末、SDカード等の容量にはご注意ください。\n",
-		"tr_text": ""
+		"tr_text": "This will download the additional\ndata.\n\n※The estimated download sizes follow:\n\"Item Icons\", around 550MB\n\"Full Data\", around 3.8GB\n\n※Depending on your device and connection\ntype, your download time and speed may vary.\n※Please ensure you're in a place with good\nsignal strength or reception.\n※Because extra data is being downloaded,\nensure that you have enough room on your\ndevice's storage."
 	},
 	{
 		"assign": "menu_fulldownload_btn_02_1",
