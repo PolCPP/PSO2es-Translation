@@ -3347,7 +3347,7 @@
 	{
 		"assign": "myshop_dialog_b_02",
 		"jp_text": "出品されているアイテムを購入しました。",
-		"tr_text": "I purchased an item that was sold."
+		"tr_text": "Item Purchased."
 	},
 	{
 		"assign": "myshop_dialog_t_03",
@@ -4932,7 +4932,7 @@
 	{
 		"assign": "myshop_keyword_gentime",
 		"jp_text": "候補検索リスト作成時間：{0}",
-		"tr_text": "Search List Creation: {0}"
+		"tr_text": "List generated on: {0}"
 	},
 	{
 		"assign": "questcounter_guide_00",
@@ -4972,7 +4972,7 @@
 	{
 		"assign": "quest_counter_bonus_exp",
 		"jp_text": "EXP×",
-		"tr_text": "EXP: "
+		"tr_text": "EXP ×"
 	},
 	{
 		"assign": "quest_counter_bonus_meseta",
@@ -5002,7 +5002,7 @@
 	{
 		"assign": "quest_counter_bonus_period",
 		"jp_text": "あと<%period>時間",
-		"tr_text": "After <%period> time"
+		"tr_text": " after <%period>hrs."
 	},
 	{
 		"assign": "quest_counter_departure_t",
@@ -5027,12 +5027,12 @@
 	{
 		"assign": "questcounter_shortage_drive_b",
 		"jp_text": "クエストの情報が更新されました。\nロビートップに戻ります。",
-		"tr_text": ""
+		"tr_text": "Quest info updated.\nYou will return to the lobby."
 	},
 	{
 		"assign": "quest_counter_lv",
 		"jp_text": "Lv.",
-		"tr_text": ""
+		"tr_text": "Lv."
 	},
 	{
 		"assign": "quest_counter_accompany_ok",
@@ -5042,7 +5042,7 @@
 	{
 		"assign": "quest_counter_accompany_ng",
 		"jp_text": "同行可能まであと<%h>時間<%m>分",
-		"tr_text": "Cooling off (<%h> hour(s) and <%m> minutes left)"
+		"tr_text": "Cooldown (<%h> hour(s) and <%m> minutes left)"
 	},
 	{
 		"assign": "quest_counter_quest_drive",
@@ -5052,12 +5052,12 @@
 	{
 		"assign": "quest_counter_quest_drive_ex",
 		"jp_text": "<color=orange>OP：　　</color><color=red><%drive></color>",
-		"tr_text": ""
+		"tr_text": "<color=orange>OP：　　</color><color=red><%drive></color>"
 	},
 	{
 		"assign": "quest_counter_enemy_hidden",
 		"jp_text": "？",
-		"tr_text": ""
+		"tr_text": "??"
 	},
 	{
 		"assign": "quest_counter_get_medal",
@@ -5142,7 +5142,7 @@
 	{
 		"assign": "quest_counter_label_time",
 		"jp_text": "あと",
-		"tr_text": ""
+		"tr_text": "CD:"
 	},
 	{
 		"assign": "quest_counter_window_questselect",
@@ -5347,7 +5347,7 @@
 	{
 		"assign": "quest_counter_raid_rank_grade",
 		"jp_text": "： 発生から<%hh>:<%mm>:<%ss>以内に討伐\n",
-		"tr_text": ": clear time <%H>:<%mm>:<%ss>\n"
+		"tr_text": ": clear time <%h>:<%mm>:<%ss>\n"
 	},
 	{
 		"assign": "quest_counter_raid_rank_grade2",
@@ -5667,27 +5667,27 @@
 	{
 		"assign": "reward_enemy_class_1",
 		"jp_text": "初級",
-		"tr_text": ""
+		"tr_text": "Novice"
 	},
 	{
 		"assign": "reward_enemy_class_2",
 		"jp_text": "中級",
-		"tr_text": ""
+		"tr_text": "Intermediate"
 	},
 	{
 		"assign": "reward_enemy_class_3",
 		"jp_text": "上級",
-		"tr_text": ""
+		"tr_text": "Advanced"
 	},
 	{
 		"assign": "reward_enemy_class_4",
 		"jp_text": "超級",
-		"tr_text": ""
+		"tr_text": "Super"
 	},
 	{
 		"assign": "reward_enemy_class_5",
 		"jp_text": "覇級",
-		"tr_text": ""
+		"tr_text": "Champion"
 	},
 	{
 		"assign": "relief_dialog_no_select_t",
@@ -13697,42 +13697,42 @@
 	{
 		"assign": "ItemDetail_Parameter_AttrFire",
 		"jp_text": "炎属性       /",
-		"tr_text": "Fire         /"
+		"tr_text": "Fire"
 	},
 	{
 		"assign": "ItemDetail_Parameter_AttrIce",
 		"jp_text": "氷属性       /",
-		"tr_text": "Ice          /"
+		"tr_text": "Ice"
 	},
 	{
 		"assign": "ItemDetail_Parameter_AttrThunder",
 		"jp_text": "雷属性       /",
-		"tr_text": "Lightning    /"
+		"tr_text": "Lightning"
 	},
 	{
 		"assign": "ItemDetail_Parameter_AttrWind",
 		"jp_text": "風属性       /",
-		"tr_text": "Wind         /"
+		"tr_text": "Wind"
 	},
 	{
 		"assign": "ItemDetail_Parameter_AttrLight",
 		"jp_text": "光属性       /",
-		"tr_text": "Light        /"
+		"tr_text": "Light"
 	},
 	{
 		"assign": "ItemDetail_Parameter_AttrDark",
 		"jp_text": "闇属性       /",
-		"tr_text": "Dark         /"
+		"tr_text": "Dark"
 	},
 	{
 		"assign": "ItemDetail_Parameter_StrengthenCaption",
 		"jp_text": "強化値       /",
-		"tr_text": "Grind        /"
+		"tr_text": "Grind"
 	},
 	{
 		"assign": "ItemDetail_Parameter_ExtendCaption",
 		"jp_text": "エクステンド /",
-		"tr_text": "Extend   /"
+		"tr_text": "Extend"
 	},
 	{
 		"assign": "ItemDetail_Parameter_Up",
