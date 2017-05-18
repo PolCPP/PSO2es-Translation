@@ -522,7 +522,7 @@
 	{
 		"assign": "acshop_dialog_b_37",
 		"jp_text": "OP回復薬ミニの使用する数を選択してください。\n\n出発に必要なOP：<%consume_exdrive>\n現在のOP：<%current_exdrive>\n\n所持OP回復薬ミニ：<%current_oprecovery_pass_mini>",
-		"tr_text": "Select the amount of OP to recover.\n\nRequired OP:<%consume_exdrive>\nCurrent OP:<%current_exdrive>\n\nOP Recovery Meds:<%current_oprecovery_pass_mini>"
+		"tr_text": "Select the amount of OP to recover.\n\nRequired OP: <%consume_exdrive>\nCurrent OP: <%current_exdrive>\n\nOP Recovery Meds: <%current_oprecovery_pass_mini>"
 	},
 	{
 		"assign": "acshop_dialog_t_38",
@@ -732,7 +732,7 @@
 	{
 		"assign": "mshop_guide_05",
 		"jp_text": "<color=#f0df60>利用したい項目を選んでください。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Please select an item.</color>"
 	},
 	{
 		"assign": "mshop_dialog_t_00",
@@ -742,7 +742,7 @@
 	{
 		"assign": "mshop_dialog_b_00",
 		"jp_text": "チップを{0}メセタで売却します。\nよろしいですか？",
-		"tr_text": "You will receive {0} Meseta for selling the selected\nchip(s). Continue?"
+		"tr_text": "You will receive {0} Meseta for selling the\nselected chip(s). Continue?"
 	},
 	{
 		"assign": "mshop_dialog_b_00_rare",
@@ -767,7 +767,7 @@
 	{
 		"assign": "mshop_dialog_b_02",
 		"jp_text": "アイテムを{0}メセタで売却します。\nよろしいですか？",
-		"tr_text": "You will receive {0} Meseta for selling the selected\nitem(s). Continue?"
+		"tr_text": "You will receive {0} Meseta for selling the\nselected item(s). Continue?"
 	},
 	{
 		"assign": "mshop_dialog_b_02_rare",
