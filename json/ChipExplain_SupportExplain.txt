@@ -312,28 +312,28 @@
 		"jp_explainShort": "炎属性が大強化＋攻撃力が強化",
 		"tr_explainShort": "Fire Attr. Boost + ATK Boost",
 		"jp_explainLong": "必殺技チップ発動時、一定時間\n炎属性が大きく強化され\n攻撃力が強化される。",
-		"tr_explainLong": "When a PA Chip is used,\nfor a period of time,\nboosts ATK & greatly boosts Fire Attr."
+		"tr_explainLong": "When a PA Chip is used,\nfor a period of time,\nboosts ATK & greatly boosts Fire Attribute."
 	},
 	{
 		"assign": "30056",
 		"jp_explainShort": "炎属性が劇的強化＋攻撃力が大強化",
 		"tr_explainShort": "Fire Attr. Boost + ATK Boost",
 		"jp_explainLong": "必殺技チップ発動時、長い時間\n炎属性が劇的に強化され\n攻撃力が大きく強化される。",
-		"tr_explainLong": "When a PA Chip is used,\nfor a period of time,\nboosts ATK & greatly boosts Fire Attr."
+		"tr_explainLong": "When a PA Chip is used,\nfor a period of time,\nboosts ATK & greatly boosts Fire Attribute."
 	},
 	{
 		"assign": "30057",
 		"jp_explainShort": "闇属性が大強化＋攻撃力が強化",
 		"tr_explainShort": "Dark Attr. Boost + ATK Boost",
 		"jp_explainLong": "法術チップ発動時、一定時間\n闇属性が大きく強化され\n攻撃力が強化される。",
-		"tr_explainLong": "When a Tech Chip is used,\nfor a period of time,\nboosts ATK & greatly boosts Dark Attr."
+		"tr_explainLong": "When a Tech Chip is used, for a period of time,\nboosts ATK & greatly boosts Dark Attribute."
 	},
 	{
 		"assign": "30058",
 		"jp_explainShort": "闇属性が劇的強化＋攻撃力が大強化",
 		"tr_explainShort": "Dark Attr. Boost + ATK Boost",
 		"jp_explainLong": "法術チップ発動時、長い時間\n闇属性が劇的に強化され\n攻撃力が大きく強化される。",
-		"tr_explainLong": "When a Tech Chip is used,\nfor a period of time,\nboosts ATK & greatly boosts Dark Attr."
+		"tr_explainLong": "When a Tech Chip is used, for a period of time,\nboosts ATK & greatly boosts Dark Attribute."
 	},
 	{
 		"assign": "30059",
@@ -592,14 +592,14 @@
 		"jp_explainShort": "左隣のチップが発動＋攻撃力が劇的強化",
 		"tr_explainShort": "Left-side Chips Activation + ATK Boost",
 		"jp_explainLong": "スライド操作時、ひとつ左に装備している必殺技\n以外のアクティブチップが消費ＣＰなしで発動され\n一定時間、攻撃力が劇的に強化される。",
-		"tr_explainLong": "Slide Action activates an effect that\ndramtically boosts ATK and activates all Chips (excluding PAs)\nleft of this chip without costing CP."
+		"tr_explainLong": "Slide Action activates an effect that dramatically\nboosts ATK and activates all Chips (excluding PAs)\nleft of this chip without costing CP."
 	},
 	{
 		"assign": "31008",
 		"jp_explainShort": "左隣のチップが発動＋攻撃力が劇的強化",
 		"tr_explainShort": "Left-side Chips Activation + ATK Boost",
 		"jp_explainLong": "スライド操作時、ひとつ左に装備している必殺技\n以外のアクティブチップが消費ＣＰなしで発動され\n一定時間、攻撃力が劇的に強化される。",
-		"tr_explainLong": "Slide Action activates an effect that\ndramtically boosts ATK and activates all Chips (excluding PAs)\nleft of this chip without costing CP."
+		"tr_explainLong": "Slide Action activates an effect that dramatically\nboosts ATK and activates all Chips (excluding PAs)\nleft of this chip without costing CP."
 	},
 	{
 		"assign": "31013",
@@ -718,14 +718,14 @@
 		"jp_explainShort": "弱点属性で攻撃時にダメージ量が増加",
 		"tr_explainShort": "ATK Boost Against Weak Attr.",
 		"jp_explainLong": "ジャストアタック成功時\n敵の弱点に有効な属性での\nダメージ量が増加される。 ",
-		"tr_explainLong": "JAs activates an effect that greatly\nboosts ATK against Weak Attr."
+		"tr_explainLong": "JAs activates an effect that greatly\nboosts ATK against Weak Attribute."
 	},
 	{
 		"assign": "31034",
 		"jp_explainShort": "弱点属性で攻撃時にダメージ量が増加",
 		"tr_explainShort": "ATK Boost Against Weak Attr.",
 		"jp_explainLong": "ジャストアタック成功時\n敵の弱点に有効な属性での\nダメージ量が増加される。 ",
-		"tr_explainLong": "JAs activates an effect that greatly\nboosts ATK against Weak Attr."
+		"tr_explainLong": "JAs activates an effect that greatly\nboosts ATK against Weak Attribute."
 	},
 	{
 		"assign": "31035",
@@ -970,14 +970,14 @@
 		"jp_explainShort": "雷属性値に応じてダメージ劇的増加",
 		"tr_explainShort": "ATK Boost Proportional to Lightning Attr.",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n雷属性値に応じて\n敵に与えるダメージを劇的に増加する。",
-		"tr_explainLong": "JAs activates an effect that\ndramatically boosts ATK proportional\nto the amount of Lightning Attr."
+		"tr_explainLong": "JAs activates an effect that\ndramatically boosts ATK proportional\nto the amount of Lightning Attribute."
 	},
 	{
 		"assign": "31090",
 		"jp_explainShort": "雷属性値に応じてダメージ絶大増加",
 		"tr_explainShort": "ATK Boost Proportional to Lightning Attr.",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n雷属性値に応じて\n敵に与えるダメージを絶大に増加する。",
-		"tr_explainLong": "JAs activates an effect that\ndramatically boosts ATK proportional\nto the amount of Lightning Attr."
+		"tr_explainLong": "JAs activates an effect that\ndramatically boosts ATK proportional\nto the amount of Lightning Attribute."
 	},
 	{
 		"assign": "31091",
