@@ -382,14 +382,14 @@
 		"jp_explainShort": "発見済みチップ数に応じて追加でダメージ",
 		"tr_explainShort": "Boost ATK Proportional to Chips Registered",
 		"jp_explainLong": "攻撃ヒット時、チップ研究室において\n発見済チップが多いほど追加でダメージを与える。",
-		"tr_explainLong": "Attacks activates an effect that boosts ATK\nproportional to the amount of chips registered to Chip Lab."
+		"tr_explainLong": "Attacks activates an effect that boosts ATK\nproportional to the amount of chips registered to\nthe Chip Lab."
 	},
 	{
 		"assign": "30066",
 		"jp_explainShort": "発見済みチップ数に応じて追加でダメージ",
 		"tr_explainShort": "Boost ATK Proportional to Chips Registered",
 		"jp_explainLong": "攻撃ヒット時、チップ研究室において\n発見済チップが多いほど追加でダメージを与える。",
-		"tr_explainLong": "Attacks activates an effect that boosts ATK\nproportional to the amount of chips registered to Chip Lab."
+		"tr_explainLong": "Attacks activates an effect that boosts ATK\nproportional to the amount of chips registered to\nthe Chip Lab."
 	},
 	{
 		"assign": "30069",
@@ -1390,14 +1390,14 @@
 		"jp_explainShort": "チップ発見数攻撃力大増加＋ＨＰ小回復",
 		"tr_explainShort": "Boost ATK Proportional to Chips Registered + HP Recovery",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰが小回復し、チップ研究室において\n発見済みチップが多いほど攻撃力が大増加される。",
-		"tr_explainLong": "Attacks activates an effect that boosts ATK\nproportional to the amount of chips registered to Chip Lab\nand recovers small amount of HP."
+		"tr_explainLong": "Attacks activates an effect that boosts ATK\nproportional to the amount of chips registered to\nthe Chip Lab and recovers small amount of HP."
 	},
 	{
 		"assign": "31170",
 		"jp_explainShort": "チップ発見数攻撃力劇的増加＋ＨＰ小回復",
 		"tr_explainShort": "Boost ATK Proportional to Chips Registered + HP Recovery",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰが小回復し、チップ研究室において\n発見済みチップが多いほど攻撃力が劇的増加される。",
-		"tr_explainLong": "Attacks activates an effect that boosts ATK\nproportional to the amount of chips registered to Chip Lab\nand recovers small amount of HP."
+		"tr_explainLong": "Attacks activates an effect that boosts ATK\nproportional to the amount of chips registered to\nthe Chip Lab and recovers small amount of HP."
 	},
 	{
 		"assign": "31173",
@@ -5408,7 +5408,7 @@
 		"jp_explainShort": "敵からのダメージがやや軽減",
 		"tr_explainShort": "Reduce Damage Taken",
 		"jp_explainLong": "被ダメージ時、一定時間\n敵からのダメージがわずかに軽減される。\nチップ強化の素材に使うと効果大。",
-		"tr_explainLong": "When damaged, grants an effect that slightly reduces\n damage taken from enemies. This chip grants a lot\nof points when used as a material for Chip Grinding."
+		"tr_explainLong": "When damaged, grants an effect that slightly reduces\ndamage taken from enemies. This chip grants a lot\nof points when used as a material for Chip Grinding."
 	},
 	{
 		"assign": "25114",
