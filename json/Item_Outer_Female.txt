@@ -44,7 +44,7 @@
 	{
 		"assign": "24013",
 		"jp_text": "ボアジャケット鋼[Ou]",
-		"tr_text": "",
+		"tr_text": "Boa Jacket Steel [Ou]",
 		"jp_explain": "ティーンズなどの若い層に人気の\nデザインを取り入れたジャケット。\nボア付きで、防寒性に優れている。",
 		"tr_explain": ""
 	},
@@ -58,7 +58,7 @@
 	{
 		"assign": "24017",
 		"jp_text": "ウールコート月[Ou]",
-		"tr_text": "",
+		"tr_text": "Wool Coat Moon [Ou]",
 		"jp_explain": "刺繍が施されたトレンチコート。\n飽きのこない定番デザインで\nカジュアルなスタイルに最適。",
 		"tr_explain": ""
 	},
@@ -84,6 +84,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "24029",
+		"jp_text": "ショートジャケット影[Ou]",
+		"tr_text": "Short Jacket Shadow [Ou]",
+		"jp_explain": "エレガントなノーカラーデザインの\nジャケット。カッチリコーデにも\nキュートなコーデにも着回しできる。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "24032",
 		"jp_text": "オフショルダーニット[Ou]",
 		"tr_text": "Off Shoulder Knit [Ou]",
@@ -93,7 +100,7 @@
 	{
 		"assign": "24033",
 		"jp_text": "オフショルダーニット影[Ou]",
-		"tr_text": "",
+		"tr_text": "Off Shoulder Knit Shadow [Ou]",
 		"jp_explain": "ティーンズブランド「HAPPY STAR」から\n発売されたオフショルダーニット。\n温かくゆったりとしており着心地がいい。",
 		"tr_explain": ""
 	},
@@ -107,7 +114,7 @@
 	{
 		"assign": "24037",
 		"jp_text": "ファニーパーカー空[Ou]",
-		"tr_text": "",
+		"tr_text": "Funny Parka Sky [Ou]",
 		"jp_explain": "ティーンズブランド「HAPPY STAR」から\n発売されたパーカー。生地が二重に\nなっているため防寒性が高い。",
 		"tr_explain": ""
 	},
@@ -149,7 +156,7 @@
 	{
 		"assign": "24056",
 		"jp_text": "リーヴァスワロー影[Ou]",
-		"tr_text": "",
+		"tr_text": "Riva Swallow Shadow [Ou]",
 		"jp_explain": "空中戦に特化したアークス戦闘服。\nスカート単体が一個の防具であるため\nあらゆる戦闘服に装着が可能。",
 		"tr_explain": ""
 	},
@@ -170,7 +177,7 @@
 	{
 		"assign": "24064",
 		"jp_text": "ウィスタフロウ影[Ou]",
-		"tr_text": "",
+		"tr_text": "Vista Flow Shadow [Ou]",
 		"jp_explain": "次世代アークス用戦闘服\nプロトタイプモデル。共有する素材を\n用いた汎用化試験作の近接型。",
 		"tr_explain": ""
 	},
@@ -191,7 +198,7 @@
 	{
 		"assign": "24074",
 		"jp_text": "ウィオラフロウ影[Ou]",
-		"tr_text": "",
+		"tr_text": "Viola Flow Shadow [Ou]",
 		"jp_explain": "次世代アークス用戦闘服\nプロトタイプモデル。共有する素材を\n用いた汎用化試験作の法撃型。",
 		"tr_explain": ""
 	},
@@ -212,7 +219,7 @@
 	{
 		"assign": "24085",
 		"jp_text": "ノーヴィカッツェ雅[Ou]",
-		"tr_text": "",
+		"tr_text": "Novi Katze Elegance [Ou]",
 		"jp_explain": "アークス用に開発された戦闘服。\n頑丈な素材を使用しており、柔軟で\nありながら十分な耐久性を有する。",
 		"tr_explain": ""
 	},
@@ -255,6 +262,13 @@
 		"assign": "240109",
 		"jp_text": "レフィーネアトリス[Ou]",
 		"tr_text": "Refine Actress [Ou]",
+		"jp_explain": "舞台衣装を思わせるゴージャスな服装。\nファンタジックながらもクラシカルな\nデザインは、凛とした存在感を示す。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240110",
+		"jp_text": "レフィーネアトリス影[Ou]",
+		"tr_text": "Refine Actress Shadow [Ou]",
 		"jp_explain": "舞台衣装を思わせるゴージャスな服装。\nファンタジックながらもクラシカルな\nデザインは、凛とした存在感を示す。",
 		"tr_explain": ""
 	},
@@ -304,6 +318,13 @@
 		"assign": "240138",
 		"jp_text": "リブルガール[Ou]",
 		"tr_text": "Libre Girl [Ou]",
+		"jp_explain": "古い文献に記された少女のデータを\n基に作られた衣装。着用していると\n不思議な出来事に出会うらしい。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240139",
+		"jp_text": "リブルガール影[Ou]",
+		"tr_text": "Libre Girl Shadow [Ou]",
 		"jp_explain": "古い文献に記された少女のデータを\n基に作られた衣装。着用していると\n不思議な出来事に出会うらしい。",
 		"tr_explain": ""
 	},
@@ -422,43 +443,120 @@
 	{
 		"assign": "240196",
 		"jp_text": "はだけパジャマ[Ou]",
-		"tr_text": "",
+		"tr_text": "Revealing Pajamas [Ou]",
 		"jp_explain": "サイズがやや大きめのパジャマ。\nゆったりしており着心地は良いが\n襟元が大きく、はだけてしまう。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "240200",
 		"jp_text": "ハートエフェクタ[Ou]",
-		"tr_text": "",
+		"tr_text": "Heart Effector [Ou]",
 		"jp_explain": "サモナーのフォトン傾向に合わせた\n新機軸の戦闘服。フォトンの増幅機構に\n音響機器の技術が用いられている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "240204",
 		"jp_text": "スティッチＰコート[Ou]",
-		"tr_text": "",
+		"tr_text": "Stitched P Coat [Ou]",
 		"jp_explain": "スティッチがはいった厚手のＰコート。\n定番スタイルにアレンジを加えた\n可愛いデザインが人気の秘訣。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "240208",
 		"jp_text": "佳凰錦繍[Ou]",
-		"tr_text": "",
+		"tr_text": "Beautiful Phoenix Attire [Ou]",
 		"jp_explain": "異なる地域の文化を取り入れて作られた\n華やかな服装。他に類を見ない個性的な\nデザインが好評で、非常に人気が高い。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "240212",
 		"jp_text": "ラックレイズバニー[Ou]",
-		"tr_text": "",
+		"tr_text": "Luck Raise Bunny [Ou]",
 		"jp_explain": "運に全てを賭けたショーの進行役の\n従業員が着用する衣装。トランプなどの\nゲームを知り尽くしたプロの証。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "240216",
 		"jp_text": "スタッズジャケットＦ[Ou]",
-		"tr_text": "",
+		"tr_text": "Studs Jacket F [Ou]",
 		"jp_explain": "革素材のライダースジャケット。\nスタッズにベルト、ファーなどが付いた\nロックな印象を与えるデザイン。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240220",
+		"jp_text": "リデルミナドルＦ[Ou]",
+		"tr_text": "Ridel Minadol F [Ou]",
+		"jp_explain": "幾つもの終わりを見届けてきた者が\n着用するというコート。擦り切れた裾は\nそれだけ場数を踏んできた証。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240224",
+		"jp_text": "スタジアムジャンパーＦ[Ou]",
+		"tr_text": "Stadium Jumper F [Ou]",
+		"jp_explain": "ベーシックなスタジアムジャンパー。\nカジュアルなスタイルにおすすめ。\n背中のイラストがとってもキュート。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240228",
+		"jp_text": "ボア・ボワール[Ou]",
+		"tr_text": "Boa Voir [Ou]",
+		"jp_explain": "ワイルドさを重視した服。\nトップスは全部毛皮で\n印象も発想も大胆である。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240234",
+		"jp_text": "傾花恋詠[Ou]",
+		"tr_text": "Nanamebana Ren'ei [Ou]",
+		"jp_explain": "美貌と教養を兼ね備えた者が着用できる\n伝統的な装束。大輪の花のような姿は\n多くの人を惹き付けてやまない。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240235",
+		"jp_text": "傾花恋詠　紅[Ou]",
+		"tr_text": "Nanamebana Ren'ei Crimson [Ou]",
+		"jp_explain": "美貌と教養を兼ね備えた者が着用できる\n伝統的な装束。大輪の花のような姿は\n多くの人を惹き付けてやまない。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240236",
+		"jp_text": "傾花恋詠　銀[Ou]",
+		"tr_text": "Nanamebana Ren'ei Metal [Ou]",
+		"jp_explain": "美貌と教養を兼ね備えた者が着用できる\n伝統的な装束。大輪の花のような姿は\n多くの人を惹き付けてやまない。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240238",
+		"jp_text": "ロゼラービッツ[Ou]",
+		"tr_text": "Rose Rabbits [Ou]",
+		"jp_explain": "心が弾むキュートなデザインの服装。\nもこもこ生地が疲れた身体に\n癒しを与えてくれると女性に人気。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240242",
+		"jp_text": "天星初等部制服Ｆ[Ou]",
+		"tr_text": "Tensei Elementary F [Ou]",
+		"jp_explain": "天星学院の初等部女子生徒用制服。\n世界的に有名なデザイナーの作品で\n着用が一種のステイタスとなっている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240246",
+		"jp_text": "ゾディアック・カモＦ[Ou]",
+		"tr_text": "Zodiac Camo F [Ou]",
+		"jp_explain": "局地戦を想定して作られた野戦服。\n繊維状にした金属で編まれている為\n柔軟でありながら十分な耐久性を誇る。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240250",
+		"jp_text": "氷を召す理装[Ou]",
+		"tr_text": "Frigid Ideal [Ou]",
+		"jp_explain": "グラムの新生と共に、コオリの紡いだ\n決意の正装。遠き氷国の伝承曰く\n静かなる怒りを力と変え、全てを貫く。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240254",
+		"jp_text": "タイトジャケット[Ou]",
+		"tr_text": "Tight Jacket [Ou]",
+		"jp_explain": "上質な生地のシンプルなジャケット。\n身体にフィットした細身のシルエットで\n女性らしく、おしゃれに着こなせる。",
 		"tr_explain": ""
 	}
 ]

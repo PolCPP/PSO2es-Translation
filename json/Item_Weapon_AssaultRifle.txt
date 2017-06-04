@@ -375,7 +375,7 @@
 		"jp_text": "スプレッドニードル",
 		"tr_text": "Spread Needle",
 		"jp_explain": "敵に向け無数のハリを発射する特殊長銃。\n弾に比べて一発の威力は劣るが\n収束したハリは桁違いの破壊力を誇る。",
-		"tr_explain": "A Rifle that shoots countless needles.\nThey are inferior to bullets, but when\nfocused, they boast destructive power."
+		"tr_explain": "A Rifle that shoots countless needles.\nThey are inferior to bullets, but when\nfocused, they unleash destruction."
 	},
 	{
 		"assign": "18061",
@@ -401,9 +401,9 @@
 	{
 		"assign": "18067",
 		"jp_text": "ステルスウェポン：ＡＲ",
-		"tr_text": "Stealth Weapon: AR",
+		"tr_text": "",
 		"jp_explain": "認識不能な武器。\n形状はアサルトライフル型。",
-		"tr_explain": "Unknown Weapon.\nSeems to be in the shape of\nan Assault Rifle."
+		"tr_explain": ""
 	},
 	{
 		"assign": "18068",
@@ -795,7 +795,7 @@
 		"jp_text": "インヴェイドシューター",
 		"tr_text": "Invade Shooter",
 		"jp_explain": "【深遠なる闇】より生まれし負の長銃。\n装者は不動の精神を有するが\n無情に敵を狩る冷酷な狙撃者と化す。",
-		"tr_explain": "Born from the [Profound Darkness],\nthis Rifle harbors a steadfast spirit\nthat who hunts the enemy."
+		"tr_explain": "Born from the [Profound Darkness],\nthis Rifle harbors a steadfast spirit\nthat hunts the enemy."
 	},
 	{
 		"assign": "180206",
@@ -851,7 +851,7 @@
 		"jp_text": "ショットレボルシオ",
 		"tr_text": "Shot Revolucio",
 		"jp_explain": "新開発の演算装置を搭載した長銃。\n装者の思考や戦況を分析することで\n出力を最適に保ち、負荷を軽減する。",
-		"tr_explain": "A Rifle equiped with a\ncomputing device. It scans battle\npatterns for optimal efficiency."
+		"tr_explain": "A Rifle equipped with a newly\ndeveloped computing device. It scans\nbattle patterns for optimal efficiency."
 	},
 	{
 		"assign": "180229",
@@ -1022,6 +1022,20 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "180272",
+		"jp_text": "ゼイネシスレーザー",
+		"tr_text": "Zeinesis Laser",
+		"jp_explain": "幻創の主より生まれた大樹の長銃。\n悲嘆に暮れず困難を耐えた者に\n転機を起こし終わらせる力を授ける。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "180273",
+		"jp_text": "クリファドレーザー",
+		"tr_text": "Qliphad Laser",
+		"jp_explain": "理から外れ虚無と化した大樹の長銃。\n装者は己が築きし幻想を大義とし\n幸福なる終末のため引き金を引く。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "180276",
 		"jp_text": "氷天華",
 		"tr_text": "Hyou Tenka",
@@ -1048,5 +1062,26 @@
 		"tr_text": "Astra Tremb",
 		"jp_explain": "マザーの残滓たる、幻創の長銃。\n撃つ度に戦意を削られているかのようで\n埋めようのない虚しさが手の中に残る。",
 		"tr_explain": "A Phantom Rifle imbued with Mother's\npower. Each use in combat, slowly\nmakes its user detached from reality."
+	},
+	{
+		"assign": "180295",
+		"jp_text": "バトルライフルＬｖ１",
+		"tr_text": "Battle Rifle Lv.1",
+		"jp_explain": "バトルアリーナ用に調整された長銃。\n純粋に技を競うため基本性能のみを\n強化している。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "180296",
+		"jp_text": "バトルライフルＬｖ２",
+		"tr_text": "Battle Rifle Lv.2",
+		"jp_explain": "バトルアリーナ用に調整された長銃。\n戦技比較が目的となるため\n基本性能の強化にとどまっている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "180297",
+		"jp_text": "バトルライフルＬｖ３",
+		"tr_text": "Battle Rifle Lv.3",
+		"jp_explain": "バトルアリーナ専用に作られた長銃。\n戦技比較用に特化しており、力量が\nより発揮される調整となっている。",
+		"tr_explain": ""
 	}
 ]

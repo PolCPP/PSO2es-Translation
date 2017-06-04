@@ -674,7 +674,7 @@
 	{
 		"assign": "64099",
 		"jp_text": "フレイジア・アームＣＶ",
-		"tr_text": "",
+		"tr_text": "Frasier Arms CV",
 		"jp_explain": "女性キャスト向けの腕部パーツ。\n各部にスラスターとウィングを装着し\n空中戦を得意とする軽量フレーム。",
 		"tr_explain": ""
 	},
@@ -688,7 +688,7 @@
 	{
 		"assign": "640101",
 		"jp_text": "ワルキア・アームＣＶ",
-		"tr_text": "",
+		"tr_text": "Valkia Arms CV",
 		"jp_explain": "女性キャスト向けの腕部パーツ。\n鎧とドレスを掛け合わせたような意匠の\nフレームが特徴。鋭利な装甲に注意。",
 		"tr_explain": ""
 	},
@@ -709,7 +709,7 @@
 	{
 		"assign": "640104",
 		"jp_text": "アルナール・アームＣＶ",
-		"tr_text": "",
+		"tr_text": "Alnar Arms CV",
 		"jp_explain": "女性キャスト向けの腕部パーツ。\n流線的なフレームを採用し、十分な\n耐久性と広い可動範囲を実現した。",
 		"tr_explain": ""
 	},
@@ -735,9 +735,23 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "640108",
+		"jp_text": "ウィルカ・アームＣＶ",
+		"tr_text": "Wilka Arms CV",
+		"jp_explain": "女性キャスト向けの腕部パーツ。\nとある芸術文化を取り入れ設計され\nその装甲はまるで芸術品のよう。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "640109",
 		"jp_text": "ハローゼ・アーム",
 		"tr_text": "Hallows Arms",
+		"jp_explain": "女性キャスト向けの腕部パーツ。\n古い文献に記された女王のデータを\n基に設計された、華やかなパーツ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "640110",
+		"jp_text": "ハローゼ・アームＣＶ",
+		"tr_text": "",
 		"jp_explain": "女性キャスト向けの腕部パーツ。\n古い文献に記された女王のデータを\n基に設計された、華やかなパーツ。",
 		"tr_explain": ""
 	},
@@ -772,15 +786,29 @@
 	{
 		"assign": "640117",
 		"jp_text": "アムアイラ・アームＧＶ",
-		"tr_text": "",
+		"tr_text": "Amaira Arms GV",
 		"jp_explain": "女性キャスト向けの腕部パーツ。\n揺れるリボンが特徴的で、戦場でも\n可愛くありたいキャストに人気。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "640118",
 		"jp_text": "クレスロ・アーム",
-		"tr_text": "",
+		"tr_text": "Clesro Arms",
 		"jp_explain": "女性キャスト向けの腕部パーツ。\n音波が与えるフォトンへの影響を\n検証する為に開発された。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "640120",
+		"jp_text": "サフィーア・アームＧＶ",
+		"tr_text": "Saphir Arms GV",
+		"jp_explain": "女性キャスト向けの腕部パーツ。\nふわふわとしたキュートなデザインで\n若い女性からの人気を集めている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "640121",
+		"jp_text": "シルフォス・アーム",
+		"tr_text": "",
+		"jp_explain": "女性キャスト向けの腕部パーツ。\n見る者を魅了する、妖しくも\n美しい雰囲気を漂わせている。",
 		"tr_explain": ""
 	}
 ]

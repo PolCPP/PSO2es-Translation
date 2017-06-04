@@ -1,8 +1,8 @@
 [
 	{
 		"assign": "9999001",
-		"jp_text": "－",
-		"tr_text": ""
+		"jp_text": "-",
+		"tr_text": "Debug Quest"
 	},
 	{
 		"assign": "1000901",
@@ -32,17 +32,17 @@
 	{
 		"assign": "1001004",
 		"jp_text": "-",
-		"tr_text": "Debug Quest"
+		"tr_text": "Establishing a Standard Scale"
 	},
 	{
 		"assign": "1001005",
 		"jp_text": "-",
-		"tr_text": "Establishing a Standard Scale"
+		"tr_text": "Long Scale Demo"
 	},
 	{
 		"assign": "1001006",
 		"jp_text": "-",
-		"tr_text": "Long Scale Demo"
+		"tr_text": "Peerless Play Demo"
 	},
 	{
 		"assign": "1002001",
@@ -77,7 +77,7 @@
 	{
 		"assign": "1003004",
 		"jp_text": "-",
-		"tr_text": "Peerless Play Demo"
+		"tr_text": ""
 	},
 	{
 		"assign": "1004001",
@@ -1940,69 +1940,249 @@
 		"tr_text": ""
 	},
 	{
-		"assign": "4001001",
-		"jp_text": "-",
+		"assign": "6081001",
+		"jp_text": "犠牲の結果",
 		"tr_text": ""
 	},
 	{
-		"assign": "4001002",
+		"assign": "6081002",
+		"jp_text": "失われた支援",
+		"tr_text": ""
+	},
+	{
+		"assign": "6081003",
+		"jp_text": "「庭」",
+		"tr_text": ""
+	},
+	{
+		"assign": "6081101",
+		"jp_text": "犠牲の結果",
+		"tr_text": ""
+	},
+	{
+		"assign": "6081102",
+		"jp_text": "失われた支援",
+		"tr_text": ""
+	},
+	{
+		"assign": "6081103",
+		"jp_text": "「庭」",
+		"tr_text": ""
+	},
+	{
+		"assign": "6082001",
+		"jp_text": "信じてみる",
+		"tr_text": ""
+	},
+	{
+		"assign": "6082002",
+		"jp_text": "探し物",
+		"tr_text": ""
+	},
+	{
+		"assign": "6082003",
+		"jp_text": "姿を変えた",
+		"tr_text": ""
+	},
+	{
+		"assign": "6082101",
+		"jp_text": "信じてみる",
+		"tr_text": ""
+	},
+	{
+		"assign": "6082102",
+		"jp_text": "探し物",
+		"tr_text": ""
+	},
+	{
+		"assign": "6082103",
+		"jp_text": "姿を変えた",
+		"tr_text": ""
+	},
+	{
+		"assign": "6083001",
+		"jp_text": "割れた創世器",
+		"tr_text": ""
+	},
+	{
+		"assign": "6083002",
+		"jp_text": "罰と赦し",
+		"tr_text": ""
+	},
+	{
+		"assign": "6083003",
+		"jp_text": "欲望と悪意",
+		"tr_text": ""
+	},
+	{
+		"assign": "6083101",
+		"jp_text": "割れた創世器",
+		"tr_text": ""
+	},
+	{
+		"assign": "6083102",
+		"jp_text": "罰と赦し",
+		"tr_text": ""
+	},
+	{
+		"assign": "6083103",
+		"jp_text": "欲望と悪意",
+		"tr_text": ""
+	},
+	{
+		"assign": "6084001",
+		"jp_text": "「ボクが守る」",
+		"tr_text": ""
+	},
+	{
+		"assign": "6084002",
+		"jp_text": "再会",
+		"tr_text": ""
+	},
+	{
+		"assign": "6084003",
+		"jp_text": "懺悔",
+		"tr_text": ""
+	},
+	{
+		"assign": "6084101",
+		"jp_text": "「ボクが守る」",
+		"tr_text": ""
+	},
+	{
+		"assign": "6084102",
+		"jp_text": "再会",
+		"tr_text": ""
+	},
+	{
+		"assign": "6084103",
+		"jp_text": "懺悔",
+		"tr_text": ""
+	},
+	{
+		"assign": "6091001",
+		"jp_text": "世界の再生",
+		"tr_text": ""
+	},
+	{
+		"assign": "6091002",
+		"jp_text": "感情の排除",
+		"tr_text": ""
+	},
+	{
+		"assign": "6091003",
+		"jp_text": "問い",
+		"tr_text": ""
+	},
+	{
+		"assign": "6091101",
+		"jp_text": "世界の再生",
+		"tr_text": ""
+	},
+	{
+		"assign": "6091102",
+		"jp_text": "感情の排除",
+		"tr_text": ""
+	},
+	{
+		"assign": "6091103",
+		"jp_text": "問い",
+		"tr_text": ""
+	},
+	{
+		"assign": "6092001",
+		"jp_text": "ダンテの選択",
+		"tr_text": ""
+	},
+	{
+		"assign": "6092002",
+		"jp_text": "ヒーローの登場",
+		"tr_text": ""
+	},
+	{
+		"assign": "6092003",
+		"jp_text": "「赦さない」",
+		"tr_text": ""
+	},
+	{
+		"assign": "6092101",
+		"jp_text": "ダンテの選択",
+		"tr_text": ""
+	},
+	{
+		"assign": "6092102",
+		"jp_text": "ヒーローの登場",
+		"tr_text": ""
+	},
+	{
+		"assign": "6092103",
+		"jp_text": "「赦さない」",
+		"tr_text": ""
+	},
+	{
+		"assign": "4001001",
 		"jp_text": "-",
 		"tr_text": "Land of Darkness and Photons - Normal"
 	},
 	{
-		"assign": "4001101",
+		"assign": "4001002",
 		"jp_text": "-",
 		"tr_text": "Land of Darkness and Photons - Hard"
 	},
 	{
-		"assign": "4001102",
+		"assign": "4001101",
 		"jp_text": "-",
 		"tr_text": "Dragon Data Search - Normal"
 	},
 	{
-		"assign": "4001201",
+		"assign": "4001102",
 		"jp_text": "-",
 		"tr_text": "Dragon Data Search - Hard"
 	},
 	{
-		"assign": "4001202",
+		"assign": "4001201",
 		"jp_text": "-",
 		"tr_text": "Chaos in the Streets - Normal"
 	},
 	{
-		"assign": "4001301",
+		"assign": "4001202",
 		"jp_text": "-",
 		"tr_text": "Chaos in the Streets - Hard"
 	},
 	{
-		"assign": "4001302",
+		"assign": "4001301",
 		"jp_text": "-",
 		"tr_text": "Primal Data Search - Normal"
 	},
 	{
-		"assign": "4001401",
+		"assign": "4001302",
 		"jp_text": "-",
 		"tr_text": "Primal Data Search - Hard"
 	},
 	{
-		"assign": "4001402",
+		"assign": "4001401",
 		"jp_text": "-",
 		"tr_text": "Mech Data Search - Normal"
 	},
 	{
-		"assign": "4001501",
+		"assign": "4001402",
 		"jp_text": "-",
 		"tr_text": "Mech Data Search - Hard"
 	},
 	{
-		"assign": "4001502",
+		"assign": "4001501",
 		"jp_text": "-",
 		"tr_text": "Meseta Rush - Normal"
 	},
 	{
-		"assign": "4001601",
+		"assign": "4001502",
 		"jp_text": "-",
 		"tr_text": "Meseta Rush - Hard"
+	},
+	{
+		"assign": "4001601",
+		"jp_text": "-",
+		"tr_text": ""
 	},
 	{
 		"assign": "4001602",
@@ -2012,12 +2192,12 @@
 	{
 		"assign": "4001701",
 		"jp_text": "-",
-		"tr_text": ""
+		"tr_text": "Rappy Special Survey - Normal"
 	},
 	{
 		"assign": "4001702",
 		"jp_text": "-",
-		"tr_text": "Rappy Special Survey - Normal"
+		"tr_text": "Rappy Special Survey - Hard"
 	},
 	{
 		"assign": "4002001",
@@ -2082,7 +2262,7 @@
 	{
 		"assign": "4002601",
 		"jp_text": "-",
-		"tr_text": "Rappy Special Survey - Hard"
+		"tr_text": ""
 	},
 	{
 		"assign": "4002602",
@@ -2832,6 +3012,66 @@
 	{
 		"assign": "4019904",
 		"jp_text": "ボンボンチョコを求めて・超級",
+		"tr_text": ""
+	},
+	{
+		"assign": "4040101",
+		"jp_text": "チップのかけらを探せ・初級",
+		"tr_text": ""
+	},
+	{
+		"assign": "4040102",
+		"jp_text": "チップのかけらを探せ・中級",
+		"tr_text": ""
+	},
+	{
+		"assign": "4040103",
+		"jp_text": "チップのかけらを探せ・上級",
+		"tr_text": ""
+	},
+	{
+		"assign": "4040104",
+		"jp_text": "チップのかけらを探せ・超級",
+		"tr_text": ""
+	},
+	{
+		"assign": "4040201",
+		"jp_text": "チップのかけらを探せ・初級",
+		"tr_text": ""
+	},
+	{
+		"assign": "4040202",
+		"jp_text": "チップのかけらを探せ・中級",
+		"tr_text": ""
+	},
+	{
+		"assign": "4040203",
+		"jp_text": "チップのかけらを探せ・上級",
+		"tr_text": ""
+	},
+	{
+		"assign": "4040204",
+		"jp_text": "チップのかけらを探せ・超級",
+		"tr_text": ""
+	},
+	{
+		"assign": "4040301",
+		"jp_text": "チップのかけらを探せ・初級",
+		"tr_text": ""
+	},
+	{
+		"assign": "4040302",
+		"jp_text": "チップのかけらを探せ・中級",
+		"tr_text": ""
+	},
+	{
+		"assign": "4040303",
+		"jp_text": "チップのかけらを探せ・上級",
+		"tr_text": ""
+	},
+	{
+		"assign": "4040304",
+		"jp_text": "チップのかけらを探せ・超級",
 		"tr_text": ""
 	},
 	{
@@ -3815,23 +4055,103 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "3020501",
+		"jp_text": "ダーク・アグラニ・初級",
+		"tr_text": ""
+	},
+	{
+		"assign": "3020502",
+		"jp_text": "ダーク・アグラニ・中級",
+		"tr_text": ""
+	},
+	{
+		"assign": "3020503",
+		"jp_text": "ダーク・アグラニ・上級",
+		"tr_text": ""
+	},
+	{
+		"assign": "3020504",
+		"jp_text": "ダーク・アグラニ・超級",
+		"tr_text": ""
+	},
+	{
+		"assign": "3020505",
+		"jp_text": "ダーク・アグラニ・覇級",
+		"tr_text": ""
+	},
+	{
+		"assign": "3020601",
+		"jp_text": "ノーヴ・リンガダール・初級",
+		"tr_text": ""
+	},
+	{
+		"assign": "3020602",
+		"jp_text": "ノーヴ・リンガダール・中級",
+		"tr_text": ""
+	},
+	{
+		"assign": "3020603",
+		"jp_text": "ノーヴ・リンガダール・上級",
+		"tr_text": ""
+	},
+	{
+		"assign": "3020604",
+		"jp_text": "ノーヴ・リンガダール・超級",
+		"tr_text": ""
+	},
+	{
+		"assign": "3020605",
+		"jp_text": "ノーヴ・リンガダール・覇級",
+		"tr_text": ""
+	},
+	{
+		"assign": "3020701",
+		"jp_text": "バーン・ドラール・初級",
+		"tr_text": ""
+	},
+	{
+		"assign": "3020702",
+		"jp_text": "バーン・ドラール・中級",
+		"tr_text": ""
+	},
+	{
+		"assign": "3020703",
+		"jp_text": "バーン・ドラール・上級",
+		"tr_text": ""
+	},
+	{
+		"assign": "3020704",
+		"jp_text": "バーン・ドラール・超級",
+		"tr_text": ""
+	},
+	{
+		"assign": "3020705",
+		"jp_text": "バーン・ドラール・覇級",
+		"tr_text": ""
+	},
+	{
 		"assign": "3900101",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "3900102",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "3900103",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "3900104",
-		"jp_text": "－",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "3900105",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
@@ -4011,62 +4331,62 @@
 	},
 	{
 		"assign": "4014701",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4014702",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4014703",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4014801",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4014802",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4014803",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4014901",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4014902",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4014903",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4015001",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4015002",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4015003",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
@@ -5116,22 +5436,22 @@
 	},
 	{
 		"assign": "7015201",
-		"jp_text": "－",
+		"jp_text": "幸せを探して",
 		"tr_text": ""
 	},
 	{
 		"assign": "7015301",
-		"jp_text": "－",
+		"jp_text": "幸せになりたい",
 		"tr_text": ""
 	},
 	{
 		"assign": "7015401",
-		"jp_text": "－",
+		"jp_text": "幸せはどこに？",
 		"tr_text": ""
 	},
 	{
 		"assign": "7015501",
-		"jp_text": "－",
+		"jp_text": "そこにある幸せ",
 		"tr_text": ""
 	},
 	{
@@ -5176,22 +5496,22 @@
 	},
 	{
 		"assign": "7016401",
-		"jp_text": "－",
+		"jp_text": "無数の刃を纏う美女",
 		"tr_text": ""
 	},
 	{
 		"assign": "7016501",
-		"jp_text": "－",
+		"jp_text": "やさしいフォトン",
 		"tr_text": ""
 	},
 	{
 		"assign": "7016601",
-		"jp_text": "－",
+		"jp_text": "笑顔と誤解",
 		"tr_text": ""
 	},
 	{
 		"assign": "7016701",
-		"jp_text": "－",
+		"jp_text": "自然な笑顔",
 		"tr_text": ""
 	},
 	{
@@ -5296,22 +5616,22 @@
 	},
 	{
 		"assign": "7018801",
-		"jp_text": "－",
+		"jp_text": "関わりたくない",
 		"tr_text": ""
 	},
 	{
 		"assign": "7018901",
-		"jp_text": "－",
+		"jp_text": "アヴェンジャーの優しさ",
 		"tr_text": ""
 	},
 	{
 		"assign": "7019001",
-		"jp_text": "－",
+		"jp_text": "近づく距離",
 		"tr_text": ""
 	},
 	{
 		"assign": "7019101",
-		"jp_text": "－",
+		"jp_text": "その先の目的",
 		"tr_text": ""
 	},
 	{
@@ -5356,22 +5676,22 @@
 	},
 	{
 		"assign": "7020001",
-		"jp_text": "－",
+		"jp_text": "運命の邂逅",
 		"tr_text": ""
 	},
 	{
 		"assign": "7020101",
-		"jp_text": "－",
+		"jp_text": "悪魔の囁き",
 		"tr_text": ""
 	},
 	{
 		"assign": "7020201",
-		"jp_text": "－",
+		"jp_text": "至高の言葉",
 		"tr_text": ""
 	},
 	{
 		"assign": "7020301",
-		"jp_text": "－",
+		"jp_text": "盟約の代償",
 		"tr_text": ""
 	},
 	{
@@ -5396,22 +5716,22 @@
 	},
 	{
 		"assign": "7020801",
-		"jp_text": "－",
+		"jp_text": "古強者のウェポノイド",
 		"tr_text": ""
 	},
 	{
 		"assign": "7020901",
-		"jp_text": "－",
+		"jp_text": "いぶし銀の存在",
 		"tr_text": ""
 	},
 	{
 		"assign": "7021001",
-		"jp_text": "－",
+		"jp_text": "戦士の秘密",
 		"tr_text": ""
 	},
 	{
 		"assign": "7021101",
-		"jp_text": "－",
+		"jp_text": "積み重ねていくもの",
 		"tr_text": ""
 	},
 	{
@@ -5436,62 +5756,62 @@
 	},
 	{
 		"assign": "7021601",
-		"jp_text": "－",
+		"jp_text": "食えない男",
 		"tr_text": ""
 	},
 	{
 		"assign": "7021701",
-		"jp_text": "－",
+		"jp_text": "卑劣なトリックスター",
 		"tr_text": ""
 	},
 	{
 		"assign": "7021801",
-		"jp_text": "－",
+		"jp_text": "ジョーカーのジレンマ",
 		"tr_text": ""
 	},
 	{
 		"assign": "7021901",
-		"jp_text": "－",
+		"jp_text": "自由を求めて",
 		"tr_text": ""
 	},
 	{
 		"assign": "7022001",
-		"jp_text": "－",
+		"jp_text": "天命を知る",
 		"tr_text": ""
 	},
 	{
 		"assign": "7022101",
-		"jp_text": "－",
+		"jp_text": "その性格",
 		"tr_text": ""
 	},
 	{
 		"assign": "7022201",
-		"jp_text": "－",
+		"jp_text": "武器として生まれた",
 		"tr_text": ""
 	},
 	{
 		"assign": "7022301",
-		"jp_text": "－",
+		"jp_text": "目的のその後",
 		"tr_text": ""
 	},
 	{
 		"assign": "7022401",
-		"jp_text": "－",
+		"jp_text": "まどろむウェポノイド",
 		"tr_text": ""
 	},
 	{
 		"assign": "7022501",
-		"jp_text": "－",
+		"jp_text": "けだるげな午後",
 		"tr_text": ""
 	},
 	{
 		"assign": "7022601",
-		"jp_text": "－",
+		"jp_text": "弓のしなり",
 		"tr_text": ""
 	},
 	{
 		"assign": "7022701",
-		"jp_text": "－",
+		"jp_text": "安らげる場所",
 		"tr_text": ""
 	},
 	{
@@ -5576,22 +5896,22 @@
 	},
 	{
 		"assign": "7024401",
-		"jp_text": "－",
+		"jp_text": "最強のウェポノイド",
 		"tr_text": ""
 	},
 	{
 		"assign": "7024501",
-		"jp_text": "－",
+		"jp_text": "ストライクブルートに学ぶ最強",
 		"tr_text": ""
 	},
 	{
 		"assign": "7024601",
-		"jp_text": "－",
+		"jp_text": "ゴッドハンドに学ぶ最強",
 		"tr_text": ""
 	},
 	{
 		"assign": "7024701",
-		"jp_text": "－",
+		"jp_text": "サイコウォンドに学ぶ最強",
 		"tr_text": ""
 	},
 	{
@@ -5716,22 +6036,22 @@
 	},
 	{
 		"assign": "7027201",
-		"jp_text": "－",
+		"jp_text": "凍土の炎",
 		"tr_text": ""
 	},
 	{
 		"assign": "7027301",
-		"jp_text": "－",
+		"jp_text": "火山の炎",
 		"tr_text": ""
 	},
 	{
 		"assign": "7027401",
-		"jp_text": "－",
+		"jp_text": "市街地の炎",
 		"tr_text": ""
 	},
 	{
 		"assign": "7027501",
-		"jp_text": "－",
+		"jp_text": "情熱の炎",
 		"tr_text": ""
 	},
 	{
@@ -5776,22 +6096,22 @@
 	},
 	{
 		"assign": "7028401",
-		"jp_text": "－",
+		"jp_text": "舞い散る氷華",
 		"tr_text": ""
 	},
 	{
 		"assign": "7028501",
-		"jp_text": "－",
+		"jp_text": "ほころぶ蕾",
 		"tr_text": ""
 	},
 	{
 		"assign": "7028601",
-		"jp_text": "－",
+		"jp_text": "落花狼藉",
 		"tr_text": ""
 	},
 	{
 		"assign": "7028701",
-		"jp_text": "－",
+		"jp_text": "桜花繚乱",
 		"tr_text": ""
 	},
 	{
@@ -5856,42 +6176,42 @@
 	},
 	{
 		"assign": "7030001",
-		"jp_text": "－",
+		"jp_text": "キラキラエンカウント",
 		"tr_text": ""
 	},
 	{
 		"assign": "7030101",
-		"jp_text": "－",
+		"jp_text": "キラキラバトル",
 		"tr_text": ""
 	},
 	{
 		"assign": "7030201",
-		"jp_text": "－",
+		"jp_text": "キラキラシンキング",
 		"tr_text": ""
 	},
 	{
 		"assign": "7030301",
-		"jp_text": "－",
+		"jp_text": "キラキラプレゼント",
 		"tr_text": ""
 	},
 	{
 		"assign": "7030401",
-		"jp_text": "－",
+		"jp_text": "咎人",
 		"tr_text": ""
 	},
 	{
 		"assign": "7030501",
-		"jp_text": "－",
+		"jp_text": "イカサマ遊戯",
 		"tr_text": ""
 	},
 	{
 		"assign": "7030601",
-		"jp_text": "－",
+		"jp_text": "背徳の魂",
 		"tr_text": ""
 	},
 	{
 		"assign": "7030701",
-		"jp_text": "－",
+		"jp_text": "それでも光の下に",
 		"tr_text": ""
 	},
 	{
@@ -5956,22 +6276,22 @@
 	},
 	{
 		"assign": "7032001",
-		"jp_text": "－",
+		"jp_text": "怖がりなウェポノイド",
 		"tr_text": ""
 	},
 	{
 		"assign": "7032101",
-		"jp_text": "－",
+		"jp_text": "役立たずなダメな子",
 		"tr_text": ""
 	},
 	{
 		"assign": "7032201",
-		"jp_text": "－",
+		"jp_text": "克服したい",
 		"tr_text": ""
 	},
 	{
 		"assign": "7032301",
-		"jp_text": "－",
+		"jp_text": "みんなの役に立ちたい",
 		"tr_text": ""
 	},
 	{
@@ -6015,6 +6335,286 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "7033201",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7033301",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7033401",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7033501",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7033601",
+		"jp_text": "闇の環",
+		"tr_text": ""
+	},
+	{
+		"assign": "7033701",
+		"jp_text": "影を抱いて",
+		"tr_text": ""
+	},
+	{
+		"assign": "7033801",
+		"jp_text": "傷を求める理由",
+		"tr_text": ""
+	},
+	{
+		"assign": "7033901",
+		"jp_text": "ほどかれた拘束",
+		"tr_text": ""
+	},
+	{
+		"assign": "7034001",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7034101",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7034201",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7034301",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7034401",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7034501",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7034601",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7034701",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7034801",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7034901",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7035001",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7035101",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7035201",
+		"jp_text": "ザ・デストロイヤー",
+		"tr_text": ""
+	},
+	{
+		"assign": "7035301",
+		"jp_text": "悪意なき大破壊",
+		"tr_text": ""
+	},
+	{
+		"assign": "7035401",
+		"jp_text": "火力の加減に気をつけて",
+		"tr_text": ""
+	},
+	{
+		"assign": "7035501",
+		"jp_text": "明日に向かって撃て",
+		"tr_text": ""
+	},
+	{
+		"assign": "7035601",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7035701",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7035801",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7035901",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7036001",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7036101",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7036201",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7036301",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7036401",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7036501",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7036601",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7036701",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7036801",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7036901",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7037001",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7037101",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "7100101",
+		"jp_text": "チームの思い出",
+		"tr_text": ""
+	},
+	{
+		"assign": "7100201",
+		"jp_text": "ジェネとモアの2年",
+		"tr_text": ""
+	},
+	{
+		"assign": "7100301",
+		"jp_text": "悩むこと",
+		"tr_text": ""
+	},
+	{
+		"assign": "7100401",
+		"jp_text": "冒険のキラキラ",
+		"tr_text": ""
+	},
+	{
+		"assign": "7100501",
+		"jp_text": "思い出作り",
+		"tr_text": ""
+	},
+	{
+		"assign": "7100601",
+		"jp_text": "あり得た未来",
+		"tr_text": ""
+	},
+	{
+		"assign": "7100701",
+		"jp_text": "届かぬ面影",
+		"tr_text": ""
+	},
+	{
+		"assign": "7100801",
+		"jp_text": "始まりの海",
+		"tr_text": ""
+	},
+	{
+		"assign": "7100901",
+		"jp_text": "チーム0808",
+		"tr_text": ""
+	},
+	{
+		"assign": "7101001",
+		"jp_text": "繋がる点",
+		"tr_text": ""
+	},
+	{
+		"assign": "7101101",
+		"jp_text": "予期した犠牲",
+		"tr_text": ""
+	},
+	{
+		"assign": "7101201",
+		"jp_text": "虚偽の報告",
+		"tr_text": ""
+	},
+	{
+		"assign": "7101301",
+		"jp_text": "謎のなぞかけ",
+		"tr_text": ""
+	},
+	{
+		"assign": "7101401",
+		"jp_text": "時を超えた伝言",
+		"tr_text": ""
+	},
+	{
+		"assign": "7101501",
+		"jp_text": "開かずの宝箱",
+		"tr_text": ""
+	},
+	{
+		"assign": "7101601",
+		"jp_text": "父と娘",
+		"tr_text": ""
+	},
+	{
 		"assign": "5012001",
 		"jp_text": "-",
 		"tr_text": ""
@@ -6046,707 +6646,707 @@
 	},
 	{
 		"assign": "9000801",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9000802",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9000901",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001001",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001002",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001003",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001004",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001005",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001006",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001007",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001008",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001009",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001010",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001101",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001102",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001103",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001104",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001105",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001106",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001107",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001108",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001109",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001110",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001201",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001202",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001203",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001204",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001205",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001206",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001207",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001208",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001209",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001210",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001301",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001302",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001303",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001304",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001305",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001306",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001307",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001308",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001309",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001310",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001401",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001402",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001403",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001404",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001405",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001406",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001407",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001408",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001409",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001410",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001501",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001502",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001503",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001504",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001505",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001506",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001507",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001508",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001509",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001510",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001601",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001602",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001603",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001604",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001605",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001606",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001607",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9001608",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9005001",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9005002",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9005003",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9005004",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9005005",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9005006",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9005007",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9005008",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9005009",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9005010",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9005101",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9005102",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9005103",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9005104",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9005105",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9020007",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9030001",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9030004",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9030005",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9030006",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "9030007",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900101",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900102",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900103",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900104",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900105",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900106",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900107",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900108",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900109",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900201",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900202",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900203",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900204",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900205",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900206",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900207",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900208",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900209",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900301",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900302",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900303",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900304",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900305",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900306",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900307",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900308",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4900309",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4910101",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4910102",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4910103",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4910104",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4910105",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4910106",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4910107",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4910108",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4910109",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4910110",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4910201",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4910202",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4910203",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4920101",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4920102",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4920103",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4920104",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4920105",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4920106",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4920107",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4920108",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
 		"assign": "4920109",
-		"jp_text": "－",
+		"jp_text": "-",
 		"tr_text": ""
 	}
 ]

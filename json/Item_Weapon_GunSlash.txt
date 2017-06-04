@@ -429,9 +429,9 @@
 	{
 		"assign": "17075",
 		"jp_text": "ステルスウェポン：ＧＳ",
-		"tr_text": "Stealth Weapon: GS",
+		"tr_text": "",
 		"jp_explain": "認識不能な武器。\n形状はガンスラッシュ型。",
-		"tr_explain": "Unknown Weapon.\nSeems to be in the shape of\na Gunslash."
+		"tr_explain": ""
 	},
 	{
 		"assign": "17076",
@@ -725,7 +725,7 @@
 		"jp_text": "インヴェイドバスター",
 		"tr_text": "Invade Buster",
 		"jp_explain": "【深遠なる闇】より生まれし負の銃剣。\n装者は非常なる辣腕を有するも\n禍災をもたらす牽引者と化す。",
-		"tr_explain": "A Gunslash born from the [Profound Darkness].\nIts the manifestation of woefullness that\nbears the fruit of shrewdness."
+		"tr_explain": "Born from the [Profound Darkness].\nIts the manifestation of woefullness\nthat bears the fruit of shrewdness."
 	},
 	{
 		"assign": "170191",
@@ -789,6 +789,13 @@
 		"tr_text": "Union Slash",
 		"jp_explain": "次世代の主力として開発された銃剣。\n専用ブーストパーツが装着されたことで\n限界を超えた性能を発揮する。",
 		"tr_explain": "A Gunslash developed as the latest\nmodel. Augmented with boost parts,\nits performance exceed its limits."
+	},
+	{
+		"assign": "170227",
+		"jp_text": "フォルニスハルーブ",
+		"tr_text": "Fornis Halube",
+		"jp_explain": "異なる力を宿した恐るべき銃剣。\n無情な闇と吹きすさぶ烈風の力で\n標的を切り刻み、撃ち抜くという。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "170229",
@@ -936,6 +943,27 @@
 		"tr_text": "Astra Diffie",
 		"jp_explain": "マザーの残滓たる、幻創の銃剣。\n銃撃と斬撃で破壊の嵐を振りまき\nいかなる敵をも破る、憤怒の表出。",
 		"tr_explain": "A Gunslash imbued with Mother's\npower. Channel your fury to crush\nfoes with a cataclysmic bladestorm."
+	},
+	{
+		"assign": "170254",
+		"jp_text": "ＥＸＰウェポン-NT",
+		"tr_text": "EXP Weapon-NT",
+		"jp_explain": "新世武器の強化に使う素材用銃剣。\n専用の特殊能力により新世武器強化の\n獲得強化ＥＸＰを増加させる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "170255",
+		"jp_text": "ゼイネシスガンシザー",
+		"tr_text": "Zeinesis Gunscissor",
+		"jp_explain": "幻創の主より生まれた大樹の銃剣。\n正しく誠実に秩序を保ち続けた者に\n安定した未来と優れた決断力を授ける。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "170256",
+		"jp_text": "クリファドガンシザー",
+		"tr_text": "Qliphad Gunscissor",
+		"jp_explain": "理から外れ虚無と化した大樹の銃剣。\n己が理念と正義の名のもとに装者は\n剣を持ち、思うがままに裁きを下す。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "170259",

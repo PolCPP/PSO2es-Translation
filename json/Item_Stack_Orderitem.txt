@@ -37,7 +37,7 @@
 	{
 		"assign": "3305",
 		"jp_text": "ディグナッツの肉",
-		"tr_text": "",
+		"tr_text": "Diggnutt Meat",
 		"jp_explain": "ディグナッツから採れた肉。\n肉質がとてもかたい。",
 		"tr_explain": ""
 	},
@@ -107,7 +107,7 @@
 	{
 		"assign": "33015",
 		"jp_text": "ロックベアの角",
-		"tr_text": "",
+		"tr_text": "Rockbear Horn",
 		"jp_explain": "ロックベアから採れた角。",
 		"tr_explain": ""
 	},
@@ -128,7 +128,7 @@
 	{
 		"assign": "33018",
 		"jp_text": "スノウバンシーの爪",
-		"tr_text": "",
+		"tr_text": "Snow Banshee Claws",
 		"jp_explain": "スノウバンシーから採れた爪。",
 		"tr_explain": ""
 	},
@@ -170,7 +170,7 @@
 	{
 		"assign": "33024",
 		"jp_text": "ヴォル・ドラゴンのかぎ爪",
-		"tr_text": "Vol Dragon Claws",
+		"tr_text": "Vol Dragon Hooked Claw",
 		"jp_explain": "ヴォル・ドラゴンの前脚にあるかぎ爪。\n非常に硬く加工しづらい。\n依頼者：<c a1ff6d>ローラ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -254,7 +254,7 @@
 	{
 		"assign": "33036",
 		"jp_text": "スパルガンのパーツａ",
-		"tr_text": "",
+		"tr_text": "Spargun Part ａ",
 		"jp_explain": "スパルガンを構成する部品の一つ。\n用途は不明。\n依頼者：<c a1ff6d>ローラ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -268,14 +268,14 @@
 	{
 		"assign": "33038",
 		"jp_text": "シグノガンのパーツａ",
-		"tr_text": "",
+		"tr_text": "Signo Gun Part ａ",
 		"jp_explain": "シグノガンを構成する部品の一つ。\n用途は不明。\n依頼者：<c a1ff6d>ローラ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "33039",
 		"jp_text": "シグノガンのパーツｂ",
-		"tr_text": "Signo Gun Parts ｂ",
+		"tr_text": "Signo Gun Part ｂ",
 		"jp_explain": "シグノガンを構成する部品の一つ。\n用途は不明。\n依頼者：<c a1ff6d>ローラ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -807,7 +807,7 @@
 	{
 		"assign": "330115",
 		"jp_text": "ザウーダンの棘",
-		"tr_text": "Za Oodan Horns",
+		"tr_text": "Za Oodan Thorns",
 		"jp_explain": "ザウーダンから採れた上腕部の棘。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
 		"tr_explain": ""
 	},
@@ -884,7 +884,7 @@
 	{
 		"assign": "330126",
 		"jp_text": "ヴォル・ドラゴンの爪",
-		"tr_text": "Vol Dragon Claws",
+		"tr_text": "Vol Dragon Claw",
 		"jp_explain": "ヴォル・ドラゴンから採れた爪。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
 		"tr_explain": ""
 	},
@@ -1563,7 +1563,7 @@
 	{
 		"assign": "330223",
 		"jp_text": "ダガンのきれいな薄羽",
-		"tr_text": "Dagan Thin Wings",
+		"tr_text": "Odd Dagan Wing",
 		"jp_explain": "ダガンの頭部から生える薄羽。\n激しい戦闘の中破損状況が軽微なもの。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -2298,7 +2298,7 @@
 	{
 		"assign": "330328",
 		"jp_text": "ディーニアンの杖",
-		"tr_text": "Dinian Rod Fragment",
+		"tr_text": "Dinian Cane Piece",
 		"jp_explain": "ディーニアンの所持していた\n杖の柄部分。\n依頼者：<c a1ff6d>トロ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -2333,7 +2333,7 @@
 	{
 		"assign": "330343",
 		"jp_text": "エル・アーダの後脚",
-		"tr_text": "El Ahda Blades",
+		"tr_text": "El Ahda Hind-leg",
 		"jp_explain": "エル・アーダの後脚。\n空中での姿勢制御に使われる。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -3306,42 +3306,42 @@
 	{
 		"assign": "330519",
 		"jp_text": "セヴァニアンの鱗",
-		"tr_text": "",
+		"tr_text": "Sevanian Scales",
 		"jp_explain": "セヴァニアンの全身をおおう鱗。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330520",
 		"jp_text": "ファルカボネの角片",
-		"tr_text": "",
+		"tr_text": "Falcabone Piece",
 		"jp_explain": "ファルカボネの頭部にある角の破片。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330521",
 		"jp_text": "タロベッコの腕角",
-		"tr_text": "",
+		"tr_text": "Talobecko Arm",
 		"jp_explain": "タロベッコの腕部にある角状の突起。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330522",
 		"jp_text": "ブルトルボンの殻の欠片",
-		"tr_text": "",
+		"tr_text": "Blutorbon Piece",
 		"jp_explain": "ブルトルボンの殻の上部を占める\n突起状の部分の欠片。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330523",
 		"jp_text": "タグ・セヴァニアンのひれ",
-		"tr_text": "",
+		"tr_text": "Tag Sevanian Fins",
 		"jp_explain": "タグ・セヴァニアンの頭部に\nはえているひれ。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330524",
 		"jp_text": "タグ・アクルプスの牙",
-		"tr_text": "",
+		"tr_text": "Tag Aculpus Fangs",
 		"jp_explain": "タグ・アクルプスから採れた牙。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -3768,7 +3768,7 @@
 	{
 		"assign": "330597",
 		"jp_text": "シンボル・エッグ",
-		"tr_text": "",
+		"tr_text": "Symbol Egg",
 		"jp_explain": "イースターの目印。\n車輪が取り付けられている。\n依頼者：<c a1ff6d>シー<c>　スプリング",
 		"tr_explain": ""
 	},
@@ -4230,16 +4230,30 @@
 	{
 		"assign": "330663",
 		"jp_text": "金包みのボンボンチョコ",
-		"tr_text": "",
+		"tr_text": "Wrapped Gold Bonbons",
 		"jp_explain": "ひと口サイズのかわいいチョコレート。\n『ＰＳＯ２ｅｓ』交換ショップで\n景品と交換できる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330664",
 		"jp_text": "銀包みのボンボンチョコ",
-		"tr_text": "",
+		"tr_text": "Wrapped Silver Bonbons",
 		"jp_explain": "ひと口サイズのかわいいチョコレート。\n『ＰＳＯ２ｅｓ』交換ショップで\n景品と交換できる。",
 		"tr_explain": ""
+	},
+	{
+		"assign": "330665",
+		"jp_text": "チップのかけら２０１７金",
+		"tr_text": "Chip Fragment 2017 Gold",
+		"jp_explain": "破損したチップのかけら。\nまばゆい金色に輝いている。",
+		"tr_explain": "A broken chip fragment.\nIt shines of a dazzling gold."
+	},
+	{
+		"assign": "330666",
+		"jp_text": "チップのかけら２０１７銀",
+		"tr_text": "Chip Fragment 2017 Silver",
+		"jp_explain": "破損したチップのかけら。\nするどい銀色に輝いている。",
+		"tr_explain": "A broken chip fragment.\nIt shines of a shining silver."
 	},
 	{
 		"assign": "330673",
@@ -4615,7 +4629,7 @@
 	{
 		"assign": "330735",
 		"jp_text": "グリュゾラス・ドラゴの鱗",
-		"tr_text": "Gruezoras Drago Scales",
+		"tr_text": "Greuzoras Drago Scales",
 		"jp_explain": "グリュゾラス・ドラゴの硬質な鱗。\n光にあてると七色に輝く。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
 		"tr_explain": ""
 	},
@@ -4660,5 +4674,12 @@
 		"tr_text": "Skyscape White Clay",
 		"jp_explain": "浮遊大陸でとれる粘土。焼成して磨くと\n銀細工のような光沢を帯びる。\n依頼者：<c a1ff6d>ムサシ<c>　再受注不可",
 		"tr_explain": ""
+	},
+	{
+		"assign": "330742",
+		"jp_text": "クリファドフューズ",
+		"tr_text": "Qliphad Fuse",
+		"jp_explain": "神代の力を持つ結合誘導素子。\n特定のアイテムと交換可能な素材で\n特定武器の強化にも使うことが可能。",
+		"tr_explain": "An ancient element that fuses\nthe power of gods. Used as material\nfor certain weapons or exchanged for\nprizes."
 	}
 ]

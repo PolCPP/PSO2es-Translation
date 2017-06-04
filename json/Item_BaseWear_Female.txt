@@ -546,6 +546,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "335097",
+		"jp_text": "ナギサスイムウェア[Ba]",
+		"tr_text": "Nagisa Swimwear [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nナギサスイムウェア[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
+		"tr_explain": ""
+	},
+	{
 		"assign": "335098",
 		"jp_text": "シフォンワンピース[Ba]",
 		"tr_text": "Chiffon One-piece [Ba]",
@@ -1640,7 +1647,7 @@
 	{
 		"assign": "3350264",
 		"jp_text": "リーヴァスワロー玄[Ba]",
-		"tr_text": "Riva Swallow Mystery [Ba]",
+		"tr_text": "Riva Swallow Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリーヴァスワロー玄[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
@@ -1857,7 +1864,7 @@
 	{
 		"assign": "3350295",
 		"jp_text": "火を継ぐ真衣　雪[Ba]",
-		"tr_text": "Ascendant Flame [Ba]",
+		"tr_text": "Ascendant Flame Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n火を継ぐ真衣　雪[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
@@ -1948,7 +1955,7 @@
 	{
 		"assign": "3350308",
 		"jp_text": "マーシャルリリアン玄[Ba]",
-		"tr_text": "Martial Lillian Mystery [Ba]",
+		"tr_text": "Martial Lillian Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nマーシャルリリアン玄[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
@@ -2151,323 +2158,925 @@
 	{
 		"assign": "3350338",
 		"jp_text": "七分丈パジャマ[Ba]",
-		"tr_text": "",
+		"tr_text": "Quarter Length Pajamas [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n七分丈パジャマ[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350339",
 		"jp_text": "七分丈パジャマ空[Ba]",
-		"tr_text": "",
+		"tr_text": "Quarter Length Pajamas Sky [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n七分丈パジャマ空[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350340",
 		"jp_text": "七分丈パジャマ桜[Ba]",
-		"tr_text": "",
+		"tr_text": "Quarter Length Pajamas Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n七分丈パジャマ桜[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350341",
 		"jp_text": "七分丈パジャマ萌[Ba]",
-		"tr_text": "",
+		"tr_text": "Quarter Length Pajamas Sprout [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n七分丈パジャマ萌[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350342",
 		"jp_text": "七分丈パジャマ雪[Ba]",
-		"tr_text": "",
+		"tr_text": "Quarter Length Pajamas Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n七分丈パジャマ雪[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350343",
 		"jp_text": "七分丈パジャマ影[Ba]",
-		"tr_text": "",
+		"tr_text": "Quarter Length Pajamas Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n七分丈パジャマ影[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350344",
 		"jp_text": "ハートエフェクタ[Ba]",
-		"tr_text": "",
+		"tr_text": "Heart Effector [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハートエフェクタ[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350345",
 		"jp_text": "ハートエフェクタ紅[Ba]",
-		"tr_text": "",
+		"tr_text": "Heart Effector Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハートエフェクタ紅[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350346",
 		"jp_text": "ハートエフェクタ海[Ba]",
-		"tr_text": "",
+		"tr_text": "Heart Effector Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハートエフェクタ海[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350347",
 		"jp_text": "ハートエフェクタ陽[Ba]",
-		"tr_text": "",
+		"tr_text": "Heart Effector Sun [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハートエフェクタ陽[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350348",
 		"jp_text": "ハートエフェクタ雪[Ba]",
-		"tr_text": "",
+		"tr_text": "Heart Effector Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハートエフェクタ雪[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350349",
 		"jp_text": "ハートエフェクタ影[Ba]",
-		"tr_text": "",
+		"tr_text": "Heart Effector Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハートエフェクタ影[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350350",
 		"jp_text": "袖なしニットワンピ[Ba]",
-		"tr_text": "",
+		"tr_text": "Sleeveless Knit Dress [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n袖なしニットワンピ[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350351",
 		"jp_text": "袖なしニットワンピ栗[Ba]",
-		"tr_text": "",
+		"tr_text": "Sleeveless Knit Dress Chestnut [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n袖なしニットワンピ栗[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350352",
 		"jp_text": "袖なしニットワンピ夜[Ba]",
-		"tr_text": "",
+		"tr_text": "Sleeveless Knit Dress Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n袖なしニットワンピ夜[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350353",
 		"jp_text": "袖なしニットワンピ鋼[Ba]",
-		"tr_text": "",
+		"tr_text": "Sleeveless Knit Dress Steel [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n袖なしニットワンピ鋼[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350354",
 		"jp_text": "袖なしニットワンピ雪[Ba]",
-		"tr_text": "",
+		"tr_text": "Sleeveless Knit Dress Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n袖なしニットワンピ雪[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350355",
 		"jp_text": "袖なしニットワンピ影[Ba]",
-		"tr_text": "",
+		"tr_text": "Sleeveless Knit Dress Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n袖なしニットワンピ影[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350356",
 		"jp_text": "レースカラーブラウス[Ba]",
-		"tr_text": "",
+		"tr_text": "Lace Colored Blouse [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nレースカラーブラウス[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350357",
 		"jp_text": "レースカラーブラウス紅[Ba]",
-		"tr_text": "",
+		"tr_text": "Lace Colored Blouse Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nレースカラーブラウス紅[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350358",
 		"jp_text": "レースカラーブラウス影[Ba]",
-		"tr_text": "",
+		"tr_text": "Lace Colored Blouse Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nレースカラーブラウス影[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350359",
 		"jp_text": "レースカラーブラウス陽[Ba]",
-		"tr_text": "",
+		"tr_text": "Lace Colored Blouse Sun [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nレースカラーブラウス陽[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350360",
 		"jp_text": "レースカラーブラウス雪[Ba]",
-		"tr_text": "",
+		"tr_text": "Lace Colored Blouse Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nレースカラーブラウス雪[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350361",
 		"jp_text": "レースカラーブラウス玄[Ba]",
-		"tr_text": "",
+		"tr_text": "Lace Colored Blouse Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nレースカラーブラウス玄[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350362",
 		"jp_text": "佳凰錦繍[Ba]",
-		"tr_text": "",
+		"tr_text": "Beautiful Phoenix Attire [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n佳凰錦繍[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350363",
 		"jp_text": "佳凰錦繍　紅[Ba]",
-		"tr_text": "",
+		"tr_text": "Beautiful Phoenix Attire Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n佳凰錦繍　紅[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350364",
 		"jp_text": "佳凰錦繍　海[Ba]",
-		"tr_text": "",
+		"tr_text": "Beautiful Phoenix Attire Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n佳凰錦繍　海[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350365",
 		"jp_text": "佳凰錦繍　雅[Ba]",
-		"tr_text": "",
+		"tr_text": "Beautiful Phoenix Attire Elegance [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n佳凰錦繍　雅[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350366",
 		"jp_text": "佳凰錦繍　雪[Ba]",
-		"tr_text": "",
+		"tr_text": "Beautiful Phoenix Attire Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n佳凰錦繍　雪[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350367",
 		"jp_text": "佳凰錦繍　影[Ba]",
-		"tr_text": "",
+		"tr_text": "Beautiful Phoenix Attire Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n佳凰錦繍　影[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350368",
 		"jp_text": "ラックレイズバニー[Ba]",
-		"tr_text": "",
+		"tr_text": "Luck Raise Bunny [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラックレイズバニー[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350369",
 		"jp_text": "ラックレイズバニー雪[Ba]",
-		"tr_text": "",
+		"tr_text": "Luck Raise Bunny Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラックレイズバニー雪[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350370",
 		"jp_text": "ラックレイズバニー紅[Ba]",
-		"tr_text": "",
+		"tr_text": "Luck Raise Bunny Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラックレイズバニー紅[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350371",
 		"jp_text": "ラックレイズバニー海[Ba]",
-		"tr_text": "",
+		"tr_text": "Luck Raise Bunny Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラックレイズバニー海[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350372",
 		"jp_text": "ラックレイズバニー桜[Ba]",
-		"tr_text": "",
+		"tr_text": "Luck Raise Bunny Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラックレイズバニー桜[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350373",
 		"jp_text": "ラックレイズバニー雅[Ba]",
-		"tr_text": "",
+		"tr_text": "Luck Raise Bunny Elegance [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラックレイズバニー雅[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350374",
 		"jp_text": "デニムスカート冬[Ba]",
-		"tr_text": "",
+		"tr_text": "Denim Skirt Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nデニムスカート冬[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350375",
 		"jp_text": "デニムスカート鋼[Ba]",
-		"tr_text": "",
+		"tr_text": "Denim Skirt Steel [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nデニムスカート鋼[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350376",
 		"jp_text": "ショートパンツ影[Ba]",
-		"tr_text": "",
+		"tr_text": "Shorts Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nショートパンツ影[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350377",
 		"jp_text": "ショートパンツ月[Ba]",
-		"tr_text": "",
+		"tr_text": "Shorts Moon [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nショートパンツ月[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350378",
 		"jp_text": "ハーフパンツＦ玄[Ba]",
-		"tr_text": "",
+		"tr_text": "Half Pants F Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハーフパンツＦ玄[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350379",
 		"jp_text": "ハーフパンツＦ雪[Ba]",
-		"tr_text": "",
+		"tr_text": "Half Pants F Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハーフパンツＦ雪[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350380",
 		"jp_text": "ショートデニム影[Ba]",
-		"tr_text": "",
+		"tr_text": "Short Denim Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nショートデニム影[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350381",
 		"jp_text": "ショートデニム冬[Ba]",
-		"tr_text": "",
+		"tr_text": "Short Denim Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nショートデニム冬[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350382",
 		"jp_text": "フリルスカート雅[Ba]",
-		"tr_text": "",
+		"tr_text": "Frill Skirt Elegance [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nフリルスカート雅[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3350383",
 		"jp_text": "フリルスカート鋼[Ba]",
-		"tr_text": "",
+		"tr_text": "Frill Skirt Steel [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nフリルスカート鋼[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350384",
+		"jp_text": "リデルミナドルＦ[Ba]",
+		"tr_text": "Ridel Minadol F [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nリデルミナドルＦ[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350385",
+		"jp_text": "リデルミナドルＦ夜[Ba]",
+		"tr_text": "Ridel Minadol F Night [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nリデルミナドルＦ夜[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350386",
+		"jp_text": "リデルミナドルＦ雅[Ba]",
+		"tr_text": "Ridel Minadol F Elegance [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nリデルミナドルＦ雅[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350387",
+		"jp_text": "リデルミナドルＦ鋼[Ba]",
+		"tr_text": "Ridel Minadol F Steel [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nリデルミナドルＦ鋼[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350388",
+		"jp_text": "リデルミナドルＦ影[Ba]",
+		"tr_text": "Ridel Minadol F Shadow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nリデルミナドルＦ影[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350389",
+		"jp_text": "リデルミナドルＦ紅[Ba]",
+		"tr_text": "Ridel Minadol F Crimson [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nリデルミナドルＦ紅[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350390",
+		"jp_text": "ナナフンスタイル[Ba]",
+		"tr_text": "Nanafun Style [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nナナフンスタイル[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350391",
+		"jp_text": "ナナフンスタイル雪[Ba]",
+		"tr_text": "Nanafun Style Snow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nナナフンスタイル雪[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350392",
+		"jp_text": "フレアスカート冬[Ba]",
+		"tr_text": "Flared Skirt Winter [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nフレアスカート冬[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350393",
+		"jp_text": "フレアスカート影[Ba]",
+		"tr_text": "Flared Skirt Shadow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nフレアスカート影[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350394",
+		"jp_text": "レフィーネアトリス茜[Ba]",
+		"tr_text": "Refine Actress Madder [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nレフィーネアトリス茜[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350395",
+		"jp_text": "レフィーネアトリス玄[Ba]",
+		"tr_text": "Refine Actress Mysterious [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nレフィーネアトリス玄[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350396",
+		"jp_text": "カフェコックコートＦ茜[Ba]",
+		"tr_text": "Cafe Cook Coat F Madder [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nカフェコックコートＦ茜[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350397",
+		"jp_text": "カフェコックコートＦ雪[Ba]",
+		"tr_text": "Cafe Cook Coat F Snow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nカフェコックコートＦ雪[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350398",
+		"jp_text": "ヨルハＡ２・レプカ[Ba]",
+		"tr_text": "YoRHa A2 Repca [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nヨルハＡ２・レプカ[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350401",
+		"jp_text": "タンクトップデニム[Ba]",
+		"tr_text": "Tank Top Denim [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nタンクトップデニム[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350402",
+		"jp_text": "タンクトップデニム紅[Ba]",
+		"tr_text": "Tank Top Denim Crimson [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nタンクトップデニム紅[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350403",
+		"jp_text": "タンクトップデニム影[Ba]",
+		"tr_text": "Tank Top Denim Shadow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nタンクトップデニム影[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350404",
+		"jp_text": "タンクトップデニム月[Ba]",
+		"tr_text": "Tank Top Denim Moon [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nタンクトップデニム月[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350405",
+		"jp_text": "タンクトップデニム雪[Ba]",
+		"tr_text": "Tank Top Denim Snow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nタンクトップデニム雪[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350406",
+		"jp_text": "タンクトップデニム空[Ba]",
+		"tr_text": "Tank Top Denim Sky [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nタンクトップデニム空[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350407",
+		"jp_text": "ピュアグレース[Ba]",
+		"tr_text": "Pure Grace [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nピュアグレース[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350408",
+		"jp_text": "ピュアグレース桜[Ba]",
+		"tr_text": "Pure Grace Sakura [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nピュアグレース桜[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350409",
+		"jp_text": "ピュアグレース海[Ba]",
+		"tr_text": "Pure Grace Sea [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nピュアグレース海[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350410",
+		"jp_text": "ピュアグレース紅[Ba]",
+		"tr_text": "Pure Grace Crimson [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nピュアグレース紅[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350411",
+		"jp_text": "ピュアグレース空[Ba]",
+		"tr_text": "Pure Grace Sky [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nピュアグレース空[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350412",
+		"jp_text": "ピュアグレース影[Ba]",
+		"tr_text": "Pure Grace Shadow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nピュアグレース影[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350413",
+		"jp_text": "ボア・ボワール[Ba]",
+		"tr_text": "Boa Voir [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nボア・ボワール[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350414",
+		"jp_text": "ボア・ボワール紅[Ba]",
+		"tr_text": "Boa Voir Crimson [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nボア・ボワール紅[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350415",
+		"jp_text": "ボア・ボワール夜[Ba]",
+		"tr_text": "Boa Voir Night [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nボア・ボワール夜[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350416",
+		"jp_text": "ボア・ボワール葉[Ba]",
+		"tr_text": "Boa Voir Leaf [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nボア・ボワール葉[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350417",
+		"jp_text": "ボア・ボワール雪[Ba]",
+		"tr_text": "Boa Voir Snow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nボア・ボワール雪[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350418",
+		"jp_text": "ボア・ボワール影[Ba]",
+		"tr_text": "Boa Voir Shadow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nボア・ボワール影[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350419",
+		"jp_text": "天星学院制服Ｆ茜[Ba]",
+		"tr_text": "Tensei Academy Uniform F Madder [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n天星学院制服Ｆ茜[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350420",
+		"jp_text": "天星学院制服Ｆ影[Ba]",
+		"tr_text": "Tensei Academy Uniform F Shadow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n天星学院制服Ｆ影[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350421",
+		"jp_text": "アステリアガーダー玄[Ba]",
+		"tr_text": "Asteria Guarder Mysterious [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nアステリアガーダー玄[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350422",
+		"jp_text": "アステリアガーダー海[Ba]",
+		"tr_text": "Asteria Guarder Sea [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nアステリアガーダー海[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350426",
+		"jp_text": "傾花恋詠[Ba]",
+		"tr_text": "Nanamebana Ren'ei [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n傾花恋詠[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350427",
+		"jp_text": "傾花恋詠　紅[Ba]",
+		"tr_text": "Nanamebana Ren'ei Crimson [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n傾花恋詠　紅[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350428",
+		"jp_text": "傾花恋詠　海[Ba]",
+		"tr_text": "Nanamebana Ren'ei Sea [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n傾花恋詠　海[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350429",
+		"jp_text": "傾花恋詠　桜[Ba]",
+		"tr_text": "Nanamebana Ren'ei Sakura [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n傾花恋詠　桜[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350430",
+		"jp_text": "傾花恋詠　雪[Ba]",
+		"tr_text": "Nanamebana Ren'ei Snow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n傾花恋詠　雪[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350431",
+		"jp_text": "傾花恋詠　影[Ba]",
+		"tr_text": "Nanamebana Ren'ei Shadow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n傾花恋詠　影[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350432",
+		"jp_text": "ロゼラービッツ[Ba]",
+		"tr_text": "Rose Rabbits [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nロゼラービッツ[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350433",
+		"jp_text": "ロゼラービッツ空[Ba]",
+		"tr_text": "Rose Rabbits Sky [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nロゼラービッツ空[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350434",
+		"jp_text": "ロゼラービッツ月[Ba]",
+		"tr_text": "Rose Rabbits Moon [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nロゼラービッツ月[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350435",
+		"jp_text": "ロゼラービッツ銀[Ba]",
+		"tr_text": "Rose Rabbits Metal [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nロゼラービッツ銀[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350436",
+		"jp_text": "ロゼラービッツ鋼[Ba]",
+		"tr_text": "Rose Rabbits Steel [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nロゼラービッツ鋼[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350437",
+		"jp_text": "ロゼラービッツ陽[Ba]",
+		"tr_text": "Rose Rabbits Sun [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nロゼラービッツ陽[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350438",
+		"jp_text": "天星初等部制服Ｆ[Ba]",
+		"tr_text": "Tensei Elementary F [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n天星初等部制服Ｆ[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350439",
+		"jp_text": "天星初等部制服Ｆ栗[Ba]",
+		"tr_text": "Tensei Elementary F Chestnut [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n天星初等部制服Ｆ栗[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350440",
+		"jp_text": "天星初等部制服Ｆ葉[Ba]",
+		"tr_text": "Tensei Elementary F Leaf [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n天星初等部制服Ｆ葉[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350441",
+		"jp_text": "天星初等部制服Ｆ夜[Ba]",
+		"tr_text": "Tensei Elementary F Night [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n天星初等部制服Ｆ夜[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350442",
+		"jp_text": "天星初等部制服Ｆ紅[Ba]",
+		"tr_text": "Tensei Elementary F Crimson [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n天星初等部制服Ｆ紅[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350443",
+		"jp_text": "天星初等部制服Ｆ影[Ba]",
+		"tr_text": "Tensei Elementary F Shadow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n天星初等部制服Ｆ影[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350444",
+		"jp_text": "テーパードパンツ[Ba]",
+		"tr_text": "Tapered Pants [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nテーパードパンツ[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350445",
+		"jp_text": "テーパードパンツ影[Ba]",
+		"tr_text": "Tapered Pants Shadow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nテーパードパンツ影[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350446",
+		"jp_text": "テーパードパンツ夜[Ba]",
+		"tr_text": "Tapered Pants Night [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nテーパードパンツ夜[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350447",
+		"jp_text": "テーパードパンツ雪[Ba]",
+		"tr_text": "Tapered Pants Snow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nテーパードパンツ雪[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350448",
+		"jp_text": "テーパードパンツ桜[Ba]",
+		"tr_text": "Tapered Pants Sakura [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nテーパードパンツ桜[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350449",
+		"jp_text": "テーパードパンツ鋼[Ba]",
+		"tr_text": "Tapered Pants Steel [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nテーパードパンツ鋼[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350450",
+		"jp_text": "フリルワンピース冬[Ba]",
+		"tr_text": "Frill One-piece Winter [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nフリルワンピース冬[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350451",
+		"jp_text": "フリルワンピース栗[Ba]",
+		"tr_text": "Frill One-piece Chestnut [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nフリルワンピース栗[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350452",
+		"jp_text": "シフォンワンピース涼[Ba]",
+		"tr_text": "Chiffon One-piece Cool [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nシフォンワンピース涼[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350453",
+		"jp_text": "シフォンワンピース銀[Ba]",
+		"tr_text": "Chiffon One-piece Silver [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nシフォンワンピース銀[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350454",
+		"jp_text": "クールフリッシュ雪[Ba]",
+		"tr_text": "Cool Frisch Snow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nクールフリッシュ雪[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350455",
+		"jp_text": "クールフリッシュ玄[Ba]",
+		"tr_text": "Cool Frisch Mysterious [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nクールフリッシュ玄[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350456",
+		"jp_text": "ベアトップドレス陽[Ba]",
+		"tr_text": "Bare Top Dress Sun [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nベアトップドレス陽[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350457",
+		"jp_text": "ベアトップドレス冬[Ba]",
+		"tr_text": "Bare Top Dress Winter [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nベアトップドレス冬[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350458",
+		"jp_text": "ベアトップドレス鋼[Ba]",
+		"tr_text": "Bare Top Dress Steel [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nベアトップドレス鋼[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350459",
+		"jp_text": "リブルガール雪[Ba]",
+		"tr_text": "Libre Girl Snow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nリブルガール雪[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350460",
+		"jp_text": "リブルガール影[Ba]",
+		"tr_text": "Libre Girl Shadow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nリブルガール影[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350461",
+		"jp_text": "氷を召す理装[Ba]",
+		"tr_text": "Frigid Ideal [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n氷を召す理装[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350462",
+		"jp_text": "氷を召す理装　紅[Ba]",
+		"tr_text": "Frigid Ideal Crimson [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n氷を召す理装　紅[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350463",
+		"jp_text": "氷を召す理装　空[Ba]",
+		"tr_text": "Frigid Ideal Sky [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n氷を召す理装　空[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350464",
+		"jp_text": "氷を召す理装　萌[Ba]",
+		"tr_text": "Frigid Ideal Sprout [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n氷を召す理装　萌[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350465",
+		"jp_text": "氷を召す理装　夜[Ba]",
+		"tr_text": "Frigid Ideal Night [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n氷を召す理装　夜[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350466",
+		"jp_text": "氷を召す理装　影[Ba]",
+		"tr_text": "Frigid Ideal Shadow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n氷を召す理装　影[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350467",
+		"jp_text": "スーツスカート[Ba]",
+		"tr_text": "Skirt Suit [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nスーツスカート[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350468",
+		"jp_text": "スーツスカート紅[Ba]",
+		"tr_text": "Skirt Suit Crimson [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nスーツスカート紅[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350469",
+		"jp_text": "スーツスカート雪[Ba]",
+		"tr_text": "Skirt Suit Snow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nスーツスカート雪[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350470",
+		"jp_text": "スーツスカート栗[Ba]",
+		"tr_text": "Skirt Suit Chestnut [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nスーツスカート栗[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350471",
+		"jp_text": "スーツスカート２[Ba]",
+		"tr_text": "Skirt Suit 2 [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nスーツスカート２[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350472",
+		"jp_text": "スーツスカート２紅[Ba]",
+		"tr_text": "Skirt Suit 2 Crimson [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nスーツスカート２紅[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350473",
+		"jp_text": "スーツスカート２雪[Ba]",
+		"tr_text": "Skirt Suit 2 Snow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nスーツスカート２雪[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3350474",
+		"jp_text": "スーツスカート２栗[Ba]",
+		"tr_text": "Skirt Suit 2 Chestnut [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nスーツスカート２栗[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	}
 ]

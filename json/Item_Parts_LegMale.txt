@@ -240,7 +240,7 @@
 	{
 		"assign": "65035",
 		"jp_text": "ドレーク・レッグＣＶ",
-		"tr_text": "Drake Legs",
+		"tr_text": "Drake Legs CV",
 		"jp_explain": "男性キャスト向けの脚部パーツ。\n威圧感のあるシルエットが特徴的で\n言いしれぬ迫力を秘めている。",
 		"tr_explain": ""
 	},
@@ -632,7 +632,7 @@
 	{
 		"assign": "65093",
 		"jp_text": "アルベリカ・レッグＣＶ",
-		"tr_text": "",
+		"tr_text": "Arbelica Legs CV",
 		"jp_explain": "男性キャスト向けの脚部パーツ。\n空中戦に特化した設計がされ\n各部に装着されたウィングが特徴的。",
 		"tr_explain": ""
 	},
@@ -646,7 +646,7 @@
 	{
 		"assign": "65095",
 		"jp_text": "ギガンテ・レッグＣＶ",
-		"tr_text": "",
+		"tr_text": "Gigante Legs CV",
 		"jp_explain": "男性キャスト向けの脚部パーツ。\n如何な攻撃にも屈さない強固さがウリ。\n巨大なフレームに驚く者も多い。",
 		"tr_explain": ""
 	},
@@ -667,7 +667,7 @@
 	{
 		"assign": "65098",
 		"jp_text": "ヴォグルス・レッグＣＶ",
-		"tr_text": "",
+		"tr_text": "Voglus Legs CV",
 		"jp_explain": "男性キャスト向けの脚部パーツ。\n丸みを帯びたフレームによって\nシルエットから力強さを表現した。",
 		"tr_explain": ""
 	},
@@ -693,9 +693,23 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "650102",
+		"jp_text": "ガルファ・レッグＣＶ",
+		"tr_text": "Galpha Legs CV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n雄々しくも気高さを感じさせる\nフレームは守護の精神を表現している。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "650103",
 		"jp_text": "グロード・レッグ",
 		"tr_text": "Glode Legs",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n古い文献に記された兵隊のデータを\n基に設計された、屈強なパーツ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "650104",
+		"jp_text": "グロード・レッグＣＶ",
+		"tr_text": "",
 		"jp_explain": "男性キャスト向けの脚部パーツ。\n古い文献に記された兵隊のデータを\n基に設計された、屈強なパーツ。",
 		"tr_explain": ""
 	},
@@ -730,15 +744,29 @@
 	{
 		"assign": "650111",
 		"jp_text": "バンテスタ・レッグＧＶ",
-		"tr_text": "",
+		"tr_text": "Vantesta Legs GV",
 		"jp_explain": "男性キャスト向けの脚部パーツ。\nたくましいフォルムが特徴的で\n見た目に違わぬ出力、頑強さを誇る。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "650112",
 		"jp_text": "ローロック・レッグ",
-		"tr_text": "",
+		"tr_text": "Lowrock Legs",
 		"jp_explain": "男性キャスト向けの脚部パーツ。\n音声に反応するセンサーを採用しており\n内部にはマイクが搭載されている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "650114",
+		"jp_text": "ヴァリエス・レッグＧＶ",
+		"tr_text": "Valiesse Legs GV",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n拡張性に優れたシンプルなフォルムで\nあらゆる武装との親和性が高い。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "650115",
+		"jp_text": "ゴルンレオ・レッグ",
+		"tr_text": "",
+		"jp_explain": "男性キャスト向けの脚部パーツ。\n強靭なフォルムは皆を圧倒する。\n戦場を駆け抜ける姿はまさに百獣の王。",
 		"tr_explain": ""
 	}
 ]

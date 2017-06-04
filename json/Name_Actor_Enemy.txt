@@ -285,6 +285,16 @@
 		"tr_text": "Lovey Rappy"
 	},
 	{
+		"assign": "RappyDragon",
+		"jp_text": "ドラグ・ラッピー",
+		"tr_text": "Drag Rappy"
+	},
+	{
+		"assign": "RappyElep",
+		"jp_text": "エレフ・ラッピー",
+		"tr_text": "Eleph Rappy"
+	},
+	{
 		"assign": "DragonRaptor",
 		"jp_text": "ディッグ",
 		"tr_text": "Digg"
@@ -1825,11 +1835,6 @@
 		"tr_text": "[Profound Darkness]"
 	},
 	{
-		"assign": "DpAbyssU",
-		"jp_text": "【深遠なる闇】",
-		"tr_text": "[Profound Darkness]"
-	},
-	{
 		"assign": "DpAbyssChar",
 		"jp_text": "【深遠なる闇】",
 		"tr_text": "[Profound Darkness]"
@@ -1857,7 +1862,7 @@
 	{
 		"assign": "UltDragonCrystal",
 		"jp_text": "グリュゾラス・ドラゴ",
-		"tr_text": "Gruzoras Drago"
+		"tr_text": "Greuzoras Drago"
 	},
 	{
 		"assign": "UltDragonCrystalRare",
@@ -2182,7 +2187,7 @@
 	{
 		"assign": "PtmSpider",
 		"jp_text": "エスカ・ラグナス",
-		"tr_text": "Esca Ragnus"
+		"tr_text": "ESC-A Ragnus"
 	},
 	{
 		"assign": "PtmToyBoxMissile",
@@ -2198,6 +2203,11 @@
 		"assign": "PtmFloatageFish",
 		"jp_text": "ガッチャス",
 		"tr_text": "Gachas"
+	},
+	{
+		"assign": "PtmBugLegion",
+		"jp_text": "エスモス",
+		"tr_text": "Esmoth"
 	},
 	{
 		"assign": "PtmBirdBat",
@@ -2222,17 +2232,17 @@
 	{
 		"assign": "DPP1",
 		"jp_text": "エスカファルス・マザー",
-		"tr_text": "Esca Falz Mother"
+		"tr_text": "ESC-A Falz Mother"
 	},
 	{
 		"assign": "DPP2",
 		"jp_text": "エスカファルス・マザー",
-		"tr_text": "Esca Falz Mother"
+		"tr_text": "ESC-A Falz Mother"
 	},
 	{
 		"assign": "DPP2U",
 		"jp_text": "エスカファルス・マザー",
-		"tr_text": "Esca Falz Mother"
+		"tr_text": "ESC-A Falz Mother"
 	},
 	{
 		"assign": "C0_MT",
@@ -2245,9 +2255,59 @@
 		"tr_text": "Vido Luze"
 	},
 	{
+		"assign": "DE",
+		"jp_text": "デウスエスカ・ゼフィロス",
+		"tr_text": "Deus ESC-A Zephyros"
+	},
+	{
+		"assign": "DEB",
+		"jp_text": "デウスエスカ・グラーシア",
+		"tr_text": "Deus ESC-A Gracia"
+	},
+	{
+		"assign": "DEHm1",
+		"jp_text": "デウス・ヒューナス",
+		"tr_text": "Deus Hunas"
+	},
+	{
+		"assign": "DEHm1U",
+		"jp_text": "デウス・ヒューナス",
+		"tr_text": "Deus Hunas"
+	},
+	{
+		"assign": "DEHm2",
+		"jp_text": "デウス・アンジェス",
+		"tr_text": "Deus Anges"
+	},
+	{
 		"assign": "PAMan",
 		"jp_text": "エス・アンジェス",
 		"tr_text": "Es Anges"
+	},
+	{
+		"assign": "PAFly",
+		"jp_text": "エス・オプシス",
+		"tr_text": "Es Opsis"
+	},
+	{
+		"assign": "PAWpn",
+		"jp_text": "エス・サントルス",
+		"tr_text": "Es Santorus"
+	},
+	{
+		"assign": "C1_Of",
+		"jp_text": "水の使徒　オフィエル",
+		"tr_text": "Apostle of Water Ophiel"
+	},
+	{
+		"assign": "C2_Ar",
+		"jp_text": "サー・アーデム・S",
+		"tr_text": "Sir Ardem S"
+	},
+	{
+		"assign": "C3_F",
+		"jp_text": "魔人・ファレグ",
+		"tr_text": ""
 	},
 	{
 		"assign": "KingRappy",
@@ -2290,6 +2350,16 @@
 		"tr_text": "Breeahda+"
 	},
 	{
+		"assign": "DoodlebugSP1",
+		"jp_text": "グワナーダ＋",
+		"tr_text": "Gwanahda+"
+	},
+	{
+		"assign": "DoodlebugNeedleSP1",
+		"jp_text": "グワナーダ・ビット＋",
+		"tr_text": "Gwanahda Bit+"
+	},
+	{
 		"assign": "SpiderSP1",
 		"jp_text": "ダーク・ラグネ＋",
 		"tr_text": "Dark Ragne+"
@@ -2302,7 +2372,7 @@
 	{
 		"assign": "MantisWarriorASP1",
 		"jp_text": "プレディカーダ＋",
-		"tr_text": "Predicahda Nero+"
+		"tr_text": "Predicahda+"
 	},
 	{
 		"assign": "MimicASP1",
@@ -2615,6 +2685,21 @@
 		"tr_text": "Type-Z Embryo Vardha"
 	},
 	{
+		"assign": "BirdDpHumanUniqST0",
+		"jp_text": "プロトファルス・ロード",
+		"tr_text": "Proto-Falz Lord"
+	},
+	{
+		"assign": "BirdDpHumanUniqST1",
+		"jp_text": "プロトファルス・ロード",
+		"tr_text": "Proto-Falz Lord"
+	},
+	{
+		"assign": "PantherBRareQU0",
+		"jp_text": "バンサ・ドンナ",
+		"tr_text": "Banther Donna"
+	},
+	{
 		"assign": "PantherSnowARareLD0",
 		"jp_text": "小型バンサ・オラン",
 		"tr_text": "Small Banther Oran"
@@ -2763,6 +2848,21 @@
 		"assign": "DragonMagmaRareHC1",
 		"jp_text": "タイプＣバーン・ドラール＋",
 		"tr_text": "Type-C Burn Draal+"
+	},
+	{
+		"assign": "DragonMagmaRareMC0",
+		"jp_text": "覇滅バーン・ドラール",
+		"tr_text": ""
+	},
+	{
+		"assign": "DragonMagmaRareMC1",
+		"jp_text": "覇滅バーン・ドラール",
+		"tr_text": ""
+	},
+	{
+		"assign": "DragonMagmaRareMC2",
+		"jp_text": "覇滅バーン・ドラール",
+		"tr_text": ""
 	},
 	{
 		"assign": "TransformMechaRareLD0",
@@ -2950,6 +3050,21 @@
 		"tr_text": "Unknown Dark Agrani+"
 	},
 	{
+		"assign": "SpiderRareMC0",
+		"jp_text": "覇滅ダーク・アグラニ",
+		"tr_text": ""
+	},
+	{
+		"assign": "SpiderRareMC1",
+		"jp_text": "覇滅ダーク・アグラニ",
+		"tr_text": ""
+	},
+	{
+		"assign": "SpiderRareMC2",
+		"jp_text": "覇滅ダーク・アグラニ",
+		"tr_text": ""
+	},
+	{
 		"assign": "BirdCentaurRareLD0",
 		"jp_text": "小型ノーヴ・リンガダール",
 		"tr_text": "Small Nove Ringadarl"
@@ -2973,6 +3088,21 @@
 		"assign": "BirdCentaurRareMU1",
 		"jp_text": "未知ノーヴ・リンガダール＋",
 		"tr_text": "Unknown Nove Ringadarl+"
+	},
+	{
+		"assign": "BirdCentaurRareMC0",
+		"jp_text": "覇滅ノーヴ・リンガダール",
+		"tr_text": ""
+	},
+	{
+		"assign": "BirdCentaurRareMC1",
+		"jp_text": "覇滅ノーヴ・リンガダール",
+		"tr_text": ""
+	},
+	{
+		"assign": "BirdCentaurRareMC2",
+		"jp_text": "覇滅ノーヴ・リンガダール",
+		"tr_text": ""
 	},
 	{
 		"assign": "MarineOrcaRareLD0",
@@ -3086,7 +3216,7 @@
 	},
 	{
 		"assign": "MantisWarriorAEx",
-		"jp_text": "プレディカーダEx",
+		"jp_text": "プレディカーダＥｘ",
 		"tr_text": "Predicahda EX"
 	},
 	{
@@ -3141,13 +3271,13 @@
 	},
 	{
 		"assign": "BirdBirdcrowAEx",
-		"jp_text": "シュトゥラーダEx",
-		"tr_text": "Strahda EX"
+		"jp_text": "シュトゥラーダＥｘ",
+		"tr_text": ""
 	},
 	{
 		"assign": "BirdDoubleHeadEx",
-		"jp_text": "リューダソーサラーEx",
-		"tr_text": "Luda Sorcerer EX"
+		"jp_text": "リューダソーサラーＥｘ",
+		"tr_text": ""
 	},
 	{
 		"assign": "BirdCentaurEx",
@@ -3396,13 +3526,13 @@
 	},
 	{
 		"assign": "MarineTetraEx",
-		"jp_text": "トルボンEx",
-		"tr_text": "Torbon EX"
+		"jp_text": "トルボンＥｘ",
+		"tr_text": ""
 	},
 	{
 		"assign": "MarineFlowerEx",
-		"jp_text": "ブルメガーラEx",
-		"tr_text": "Blumegalla EX"
+		"jp_text": "ブルメガーラＥｘ",
+		"tr_text": ""
 	},
 	{
 		"assign": "MarineOrcaEx",
@@ -3450,6 +3580,21 @@
 		"tr_text": "Type-Z Embryo Vardha EX"
 	},
 	{
+		"assign": "BirdDpHumanUniqST0Ex",
+		"jp_text": "プロトファルス・ロードＥｘ",
+		"tr_text": ""
+	},
+	{
+		"assign": "BirdDpHumanUniqST1Ex",
+		"jp_text": "プロトファルス・ロードＥｘ",
+		"tr_text": ""
+	},
+	{
+		"assign": "PantherBRareQU0Ex",
+		"jp_text": "バンサ・ドンナＥｘ",
+		"tr_text": ""
+	},
+	{
 		"assign": "RappyEx",
 		"jp_text": "ラッピーＥｘ",
 		"tr_text": "Rappy EX"
@@ -3491,12 +3636,12 @@
 	},
 	{
 		"assign": "KingRappyEx",
-		"jp_text": "キングラッピーＥｘ",
-		"tr_text": "King Rappy EX"
+		"jp_text": "キング・ラッピーＥｘ",
+		"tr_text": ""
 	},
 	{
 		"assign": "KingRappyQEx",
-		"jp_text": "クィーンラッピーＥｘ",
-		"tr_text": "Queen Rappy EX"
+		"jp_text": "クィーン・ラッピーＥｘ",
+		"tr_text": ""
 	}
 ]

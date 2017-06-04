@@ -450,9 +450,9 @@
 	{
 		"assign": "114081",
 		"jp_text": "ステルスウェポン：ＫＴ",
-		"tr_text": "Stealth Weapon: KT",
+		"tr_text": "",
 		"jp_explain": "ダミー８１",
-		"tr_explain": "Unknown Weapon.\nSeems to be in the shape of\na Katana."
+		"tr_explain": ""
 	},
 	{
 		"assign": "114085",
@@ -690,7 +690,7 @@
 		"jp_text": "ＨＦＢカマイタチ",
 		"tr_text": "HFB Kamaitachi",
 		"jp_explain": "ブレードを高速振動させることで\n極めて高い切れ味を発揮する抜剣。\n切断時は激しく火花が散る。",
-		"tr_explain": ""
+		"tr_explain": "A Katana that is powered by a high\nalternating current that resonates at\nhigh frequencies. It pierces anything."
 	},
 	{
 		"assign": "1140198",
@@ -702,7 +702,7 @@
 	{
 		"assign": "1140199",
 		"jp_text": "雷閃タガミコウガ",
-		"tr_text": "Thunder Crack Tagamikouga",
+		"tr_text": "Thunder Crack Tagamikoga",
 		"jp_explain": "雷玉をまとうタガミカヅチの組織が\n用いられた抜剣。雷玉の力をまとった\n一閃は、雷光のように素早く鋭い。",
 		"tr_explain": ""
 	},
@@ -870,7 +870,7 @@
 	{
 		"assign": "1140249",
 		"jp_text": "ノクスサジェフス-NT",
-		"tr_text": "Nox Jefus-NT",
+		"tr_text": "Nox Sagephus-NT",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き抜剣。装者も\n恐怖する強大な力で敵を両断する。",
 		"tr_explain": ""
 	},
@@ -894,6 +894,20 @@
 		"tr_text": "Sky Shine",
 		"jp_explain": "きらびやかな鞘と月のモチーフが付いた\n美しい抜剣。眩しいほどに\n白く輝く刀身が特徴的。",
 		"tr_explain": ""
+	},
+	{
+		"assign": "1140259",
+		"jp_text": "ゼイネシスシース",
+		"tr_text": "Zeinesis Sheath",
+		"jp_explain": "幻創の主より生まれた大樹の抜剣。\n秩序と慈悲をもって対峙した時\n広き視野と絶対の信頼を得る。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1140260",
+		"jp_text": "クリファドシース",
+		"tr_text": "Qliphad Sheath",
+		"jp_explain": "理から外れ虚無と化した大樹の抜剣。\n装者は己が信ずる理念にのみ従い\n抵抗する者全てを斬り伏せる。",
+		"tr_explain": "A Katana that fell from grace.\nThis weapon follows the ideology of\n\"Strike those who resist\"."
 	},
 	{
 		"assign": "1140262",

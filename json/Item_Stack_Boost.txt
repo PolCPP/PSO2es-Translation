@@ -109,21 +109,21 @@
 		"jp_text": "ショートケーキ",
 		"tr_text": "Shortcake",
 		"jp_explain": "ナウラ三姉妹お手製の定番レシピ。\nイチゴの乗った特製ショートケーキ。\n食べると体の底から元気が湧いてくる。",
-		"tr_explain": ""
+		"tr_explain": "A Naura Cake Shop classic.\nA shortcake with strawberry toppings.\n[30 min] S-ATK +30 PP +3"
 	},
 	{
 		"assign": "32021",
 		"jp_text": "チーズケーキ",
 		"tr_text": "Cheesecake",
 		"jp_explain": "ナウラ三姉妹お手製の定番レシピ。\nまろやか濃厚特製チーズケーキ。\n食べると体の底から元気が湧いてくる。",
-		"tr_explain": ""
+		"tr_explain": "A Naura Cake Shop classic.\nA rich and mild deluxe cheese cake.\n[30 min] R-ATK +30 PP +3"
 	},
 	{
 		"assign": "32022",
 		"jp_text": "フルーツタルト",
 		"tr_text": "Fruit Tart",
 		"jp_explain": "ナウラ三姉妹お手製の定番レシピ。\n旬の果実山盛り特製フルーツタルト。\n食べると体の底から元気が湧いてくる。",
-		"tr_explain": ""
+		"tr_explain": "A Naura Cake Shop classic.\nA seasonal deluxe fruit tart.\n[30 min] T-ATK +30 PP +3"
 	},
 	{
 		"assign": "32023",
@@ -186,14 +186,14 @@
 		"jp_text": "トライブースト＋５０％",
 		"tr_text": "Tri Boost +50%",
 		"jp_explain": "三種複合のブーストアイテム。\n獲得メセタ、経験値、レアドロップが\n【３０分】の間だけ５０％アップ。",
-		"tr_explain": ""
+		"tr_explain": "Boost item that boosts Rare Drop\nRate, Meseta, and EXP by 50%.\nLasts 30 minutes."
 	},
 	{
 		"assign": "32033",
 		"jp_text": "トライブースト＋１００％",
 		"tr_text": "Tri Boost +100%",
 		"jp_explain": "三種複合のブーストアイテム。\n獲得メセタ、経験値、レアドロップが\n【３０分】の間だけ１００％アップ。",
-		"tr_explain": ""
+		"tr_explain": "Boost item that boosts Rare Drop\nRate, Meseta, and EXP by 100%.\nLasts 30 minutes."
 	},
 	{
 		"assign": "32034",
@@ -459,7 +459,7 @@
 		"jp_text": "ユクリータのチョコ’１６",
 		"tr_text": "Eucretia's Chocolate 2016",
 		"jp_explain": "ユクリータからもらった\n手作りバレンタインチョコ。\n【５分間】射撃力＋１００、ＰＰ＋１０",
-		"tr_explain": "Handmade chocolate\nfrom Eucreta.\nR-ATK+100, PP+10"
+		"tr_explain": "Handmade chocolate\nfrom Yucreta.\nR-ATK+100, PP+10"
 	},
 	{
 		"assign": "32087",
@@ -473,7 +473,7 @@
 		"jp_text": "トライブースト＋１５０％",
 		"tr_text": "Tri Boost +150%",
 		"jp_explain": "三種複合のブーストアイテム。\n獲得メセタ、経験値、レアドロップが\n【３０分】の間だけ１５０％アップ。",
-		"tr_explain": "Boost item that boosts\nRDR, Meseta, and EXP\nby 150%. Lasts 30 minutes."
+		"tr_explain": "Boost item that boosts Rare Drop\nRate, Meseta, and EXP by 150%.\nLasts 30 minutes."
 	},
 	{
 		"assign": "32089",
@@ -585,7 +585,7 @@
 		"jp_text": "トライブースト＋１２５％",
 		"tr_text": "Tri-Boost +125%",
 		"jp_explain": "三種複合のブーストアイテム。\n獲得メセタ、経験値、レアドロップが\n【３０分】の間だけ１２５％アップ。",
-		"tr_explain": "Boost item that boosts\nRDR, Meseta, and EXP\nby 125%. Lasts 30 minutes."
+		"tr_explain": "Boost item that boosts Rare Drop\nRate, Meseta, and EXP by 125%.\nLasts 30 minutes."
 	},
 	{
 		"assign": "320105",
@@ -604,8 +604,8 @@
 	{
 		"assign": "320107",
 		"jp_text": "イツキのショコラ",
-		"tr_text": "",
+		"tr_text": "Itsuki Chocolat",
 		"jp_explain": "イツキからもらった特製ショコラ。\n【５分間】打・射＋５０　ＨＰ＋５０\nレアドロップ倍率＋７５％",
-		"tr_explain": ""
+		"tr_explain": "Special Chocolat from Itsuki.\n[5 min]S&R-ATK+50 HP+50\nRare Drop Rate +75%"
 	}
 ]

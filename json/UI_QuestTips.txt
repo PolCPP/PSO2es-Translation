@@ -587,7 +587,7 @@
 	{
 		"assign": "0117",
 		"jp_text": "<color=#f0df60>＜討伐スコアを手に入れよう＞</color>\n緊急クエストのクリア時には、討伐スコアに応じて\nアークス本部より特別報酬が支給されます。\n目標にダメージをたくさん与えて、討伐スコアを\n手に入れましょう！",
-		"tr_text": "<color=#f0df60>＜Scores＞</color>\nOnce you've successfully defeated the enemy,\nyou'll be awarded points and a special reward.\nYou can use these points to redeem for a special\nEQ scratch. Let's defeat the enemy and gain more points!"
+		"tr_text": "<color=#f0df60>＜Scores＞</color>\nOnce you've successfully defeated the enemy,\nyou'll be awarded points and a special reward.\nYou can use these points to redeem for a special\nEQ scratch.\nLet's defeat the enemy and gain more points!"
 	},
 	{
 		"assign": "0118",
@@ -691,7 +691,7 @@
 	},
 	{
 		"assign": "0138",
-		"jp_text": "<color=#f0df60>＜激化・特化チップとは＞</color>\n激化・特化チップには、装備している武器の\n威力を高めてくれる効果があります。\n手に入るクエストが配信されたら、たくさん\nゲットしてアビリティレベルを上げましょう！",
+		"jp_text": "<color=#f0df60>＜激化・特化チップとは＞</color>\n激化・特化チップには、必殺技・法術・装備武器の\n威力を高めてくれる効果があります。\n手に入るクエストが配信されたら、たくさん\nゲットしてアビリティレベルを上げましょう！",
 		"tr_text": ""
 	},
 	{
@@ -901,12 +901,12 @@
 	},
 	{
 		"assign": "0180",
-		"jp_text": "<color=#f0df60>＜外伝クエストの解放＞</color>\nウェポノイドチップを装備して\nクエストをクリアしていくと\n次の外伝クエストが解放されますよ。",
+		"jp_text": "<color=#f0df60>＜外伝クエストの解放＞</color>\n外伝のあるキャラクターやウェポノイドの\nチップを装備してクエストをクリアしていくと\n次の外伝クエストが解放されますよ。",
 		"tr_text": ""
 	},
 	{
 		"assign": "0181",
-		"jp_text": "<color=#f0df60>＜ウェポノイドの能力を解放しよう＞</color>\n外伝を最後までクリアすると\nそのウェポノイドの隠された能力が\n解放されますよ！",
+		"jp_text": "<color=#f0df60>＜能力を解放しよう＞</color>\n外伝を最後までクリアすると\nそのキャラクターやウェポノイドの\n隠された能力が解放されますよ！",
 		"tr_text": ""
 	},
 	{
@@ -916,12 +916,12 @@
 	},
 	{
 		"assign": "0183",
-		"jp_text": "<color=#f0df60>＜ウェポノイドからのプレゼント＞</color>\n外伝を最後までクリアした後\nウェポノイドをクエストに連れていくと\nプレゼントをくれることがありますよ！",
+		"jp_text": "<color=#f0df60>＜プレゼントゲージを貯めよう＞</color>\n外伝を最後までクリアした後\nそのキャラクターやウェポノイドをクエストに\n連れていくと、プレゼントをくれることがありますよ！",
 		"tr_text": ""
 	},
 	{
 		"assign": "0184",
-		"jp_text": "<color=#f0df60>＜ウェポノイドストーン虹の交換＞</color>\nウェポノイドからのプレゼントでまれに手に入る\n「ウェポノイドストーン虹」は\n交換ショップで強力な武器に交換できますよ！",
+		"jp_text": "<color=#f0df60>＜ウェポノイドストーン虹の交換＞</color>\nキャラクターやウェポノイドからのプレゼントで\nまれに手に入る「ウェポノイドストーン虹」は\n交換ショップで強力な武器に交換できますよ！",
 		"tr_text": ""
 	},
 	{
@@ -931,7 +931,7 @@
 	},
 	{
 		"assign": "0186",
-		"jp_text": "あああああ",
+		"jp_text": "<color=#f0df60>＜外伝クエストについて＞</color>\nウェポノイド以外にも、キャラクターなどのチップには\n特別に外伝クエストが配信されるものがあります。\n外伝が配信されているチップは、チップ画像の隣に\n外伝マークが表示されますよ！",
 		"tr_text": ""
 	},
 	{
@@ -951,7 +951,7 @@
 	},
 	{
 		"assign": "0190",
-		"jp_text": "<color=#f0df60>＜激化チップをゲットしよう！＞</color>\nこのクエストでは、装備している武器の威力を\n高めてくれる「激化チップ」が手に入りますよ！\nたくさんゲットしてアビリティレベルを上げましょう！",
+		"jp_text": "<color=#f0df60>＜激化チップをゲットしよう！＞</color>\nこのクエストでは、装備している必殺技・法術の威力を\n高めてくれる「激化チップ」が手に入りますよ！\nたくさんゲットしてアビリティレベルを上げましょう！",
 		"tr_text": ""
 	},
 	{
@@ -1001,7 +1001,7 @@
 	},
 	{
 		"assign": "0200",
-		"jp_text": "あああああ",
+		"jp_text": "<color=#f0df60>＜チップのかけら2017を集めよう！＞</color>\nこのクエストでは、「チップのかけら2017」という\nアイテムが手に入ることがあります！\n交換ショップに持って行くと\nいろいろな景品と交換できますよ！",
 		"tr_text": ""
 	},
 	{

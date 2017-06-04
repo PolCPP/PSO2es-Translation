@@ -303,7 +303,7 @@
 	{
 		"assign": "62044",
 		"jp_text": "ロニアレディ・ボディＣＶ",
-		"tr_text": "Ronia Body CV",
+		"tr_text": "Ronia Lady Body CV",
 		"jp_explain": "女性キャスト向けの基礎的なパーツ。\nその機動性と、シャープなフォルムが\nハンタークラスに人気の理由。",
 		"tr_explain": ""
 	},
@@ -667,7 +667,7 @@
 	{
 		"assign": "62098",
 		"jp_text": "フレイジア・ボディＣＶ",
-		"tr_text": "",
+		"tr_text": "Frasier Body CV",
 		"jp_explain": "女性キャスト向けの基礎的なパーツ。\n各部にスラスターとウィングを装着し\n空中戦を得意とする軽量フレーム。",
 		"tr_explain": ""
 	},
@@ -681,7 +681,7 @@
 	{
 		"assign": "620100",
 		"jp_text": "ワルキア・ボディＣＶ",
-		"tr_text": "",
+		"tr_text": "Valkia Body CV",
 		"jp_explain": "女性キャスト向けの基礎的なパーツ。\n鎧とドレスを掛け合わせたような意匠の\nフレームが特徴。鋭利な装甲に注意。",
 		"tr_explain": ""
 	},
@@ -702,7 +702,7 @@
 	{
 		"assign": "620103",
 		"jp_text": "アルナール・ボディＣＶ",
-		"tr_text": "",
+		"tr_text": "Alnar Body CV",
 		"jp_explain": "女性キャスト向けの基礎的なパーツ。\n流線的なフレームを採用し、十分な\n耐久性と広い可動範囲を実現した。",
 		"tr_explain": ""
 	},
@@ -728,9 +728,23 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "620107",
+		"jp_text": "ウィルカ・ボディＣＶ",
+		"tr_text": "Wilka Body CV",
+		"jp_explain": "女性キャスト向けの基礎的なパーツ。\nとある芸術文化を取り入れ設計され\nその装甲はまるで芸術品のよう。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "620108",
 		"jp_text": "ハローゼ・ボディ",
 		"tr_text": "Hallows Body",
+		"jp_explain": "女性キャスト向けの基礎的なパーツ。\n古い文献に記された女王のデータを\n基に設計された、華やかなパーツ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "620109",
+		"jp_text": "ハローゼ・ボディＣＶ",
+		"tr_text": "",
 		"jp_explain": "女性キャスト向けの基礎的なパーツ。\n古い文献に記された女王のデータを\n基に設計された、華やかなパーツ。",
 		"tr_explain": ""
 	},
@@ -765,15 +779,29 @@
 	{
 		"assign": "620116",
 		"jp_text": "アムアイラ・ボディＧＶ",
-		"tr_text": "",
+		"tr_text": "Amaira Body GV",
 		"jp_explain": "女性キャスト向けの基礎的なパーツ。\n揺れるリボンが特徴的で、戦場でも\n可愛くありたいキャストに人気。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "620117",
 		"jp_text": "クレスロ・ボディ",
-		"tr_text": "",
+		"tr_text": "Clesro Body",
 		"jp_explain": "女性キャスト向けの基礎的なパーツ。\n音波が与えるフォトンへの影響を\n検証する為に開発された。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "620119",
+		"jp_text": "サフィーア・ボディＧＶ",
+		"tr_text": "Saphir Body GV",
+		"jp_explain": "女性キャスト向けの基礎的なパーツ。\nふわふわとしたキュートなデザインで\n若い女性からの人気を集めている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "620120",
+		"jp_text": "シルフォス・ボディ",
+		"tr_text": "",
+		"jp_explain": "女性キャスト向けの基礎的なパーツ。\n見る者を魅了する、妖しくも\n美しい雰囲気を漂わせている。",
 		"tr_explain": ""
 	}
 ]

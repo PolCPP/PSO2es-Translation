@@ -625,7 +625,7 @@
 	{
 		"assign": "61092",
 		"jp_text": "アルベリカ・ボディＣＶ",
-		"tr_text": "",
+		"tr_text": "Arbelica Body CV",
 		"jp_explain": "男性キャスト向けの基礎的なパーツ。\n空中戦に特化した設計がされ\n各部に装着されたウィングが特徴的。",
 		"tr_explain": ""
 	},
@@ -639,7 +639,7 @@
 	{
 		"assign": "61094",
 		"jp_text": "ギガンテ・ボディＣＶ",
-		"tr_text": "",
+		"tr_text": "Gigante Body CV",
 		"jp_explain": "男性キャスト向けの基礎的なパーツ。\n如何な攻撃にも屈さない強固さがウリ。\n巨大なフレームに驚く者も多い。",
 		"tr_explain": ""
 	},
@@ -660,7 +660,7 @@
 	{
 		"assign": "61097",
 		"jp_text": "ヴォグルス・ボディＣＶ",
-		"tr_text": "",
+		"tr_text": "Voglus Body CV",
 		"jp_explain": "男性キャスト向けの基礎的なパーツ。\n丸みを帯びたフレームによって\nシルエットから力強さを表現した。",
 		"tr_explain": ""
 	},
@@ -686,9 +686,23 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "610101",
+		"jp_text": "ガルファ・ボディＣＶ",
+		"tr_text": "Galpha Body CV",
+		"jp_explain": "男性キャスト向けの基礎的なパーツ。\n雄々しくも気高さを感じさせる\nフレームは守護の精神を表現している。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "610102",
 		"jp_text": "グロード・ボディ",
 		"tr_text": "Glode Body",
+		"jp_explain": "男性キャスト向けの基礎的なパーツ。\n古い文献に記された兵隊のデータを\n基に設計された、屈強なパーツ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "610103",
+		"jp_text": "グロード・ボディＣＶ",
+		"tr_text": "",
 		"jp_explain": "男性キャスト向けの基礎的なパーツ。\n古い文献に記された兵隊のデータを\n基に設計された、屈強なパーツ。",
 		"tr_explain": ""
 	},
@@ -723,15 +737,29 @@
 	{
 		"assign": "610110",
 		"jp_text": "バンテスタ・ボディＧＶ",
-		"tr_text": "",
+		"tr_text": "Vantesta Body GV",
 		"jp_explain": "男性キャスト向けの基礎的なパーツ。\nたくましいフォルムが特徴的で\n見た目に違わぬ出力、頑強さを誇る。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "610111",
 		"jp_text": "ローロック・ボディ",
-		"tr_text": "",
+		"tr_text": "Lowrock Body",
 		"jp_explain": "男性キャスト向けの基礎的なパーツ。\n音声に反応するセンサーを採用しており\n内部にはマイクが搭載されている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "610113",
+		"jp_text": "ヴァリエス・ボディＧＶ",
+		"tr_text": "Valiesse Body GV",
+		"jp_explain": "男性キャスト向けの基礎的なパーツ。\n拡張性に優れたシンプルなフォルムで\nあらゆる武装との親和性が高い。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "610114",
+		"jp_text": "ゴルンレオ・ボディ",
+		"tr_text": "",
+		"jp_explain": "男性キャスト向けの基礎的なパーツ。\n強靭なフォルムは皆を圧倒する。\n戦場を駆け抜ける姿はまさに百獣の王。",
 		"tr_explain": ""
 	}
 ]

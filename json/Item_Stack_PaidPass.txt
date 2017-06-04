@@ -4,14 +4,14 @@
 		"jp_text": "エステ利用パス",
 		"tr_text": "Makeover Pass",
 		"jp_explain": "エステカウンターの機能利用パス。\nサポートパートナーにも使用可能。\n利用するたびにパスは消費される。 ",
-		"tr_explain": "Allows you to use AC restricted\noptions in the Beauty Salon. Ticket is\nused after saving changes."
+		"tr_explain": "Allows you to use AC restricted\noptions in the Makeover Shop. Ticket is\nused after saving changes."
 	},
 	{
 		"assign": "32103",
 		"jp_text": "カラーチェンジパス",
 		"tr_text": "Color Change Pass",
 		"jp_explain": "コスチュームのカラー変更パス\nエステにてカラーリングの変更が可能。\n利用するたびにパスは消費される。",
-		"tr_explain": "Allows you to recolor your\ncharacter from the Beauty Salon."
+		"tr_explain": "Allows you to recolor your\ncharacter from the Makeover Shop."
 	},
 	{
 		"assign": "32104",
@@ -30,16 +30,16 @@
 	{
 		"assign": "32106",
 		"jp_text": "ＡＣスクラッチ券",
-		"tr_text": "AC Scratch Tickets",
+		"tr_text": "AC Scratch Ticket",
 		"jp_explain": "ＡＣスクラッチの利用券。\n持っているとＡＣスクラッチに\n１回挑戦することができる。",
-		"tr_explain": ""
+		"tr_explain": "AC Scratch Tickets.\nWith this ticket, you can try\nAC Scratch once per ticket."
 	},
 	{
 		"assign": "32107",
 		"jp_text": "ＡＣスクラッチゴールド券",
-		"tr_text": "AC Gold Scratch Tickets",
+		"tr_text": "AC Gold Scratch Ticket",
 		"jp_explain": "ＡＣスクラッチゴールドの利用券。\n持っているとＡＣスクラッチゴールドに\n１回挑戦することができる。",
-		"tr_explain": ""
+		"tr_explain": "AC Scratch Tickets.\nWith this ticket, you can try\nGold AC Scratch once per ticket."
 	},
 	{
 		"assign": "32108",
@@ -67,7 +67,7 @@
 		"jp_text": "強化スキップ（→７）",
 		"tr_text": "Grind Skip (→7)",
 		"jp_explain": "旧式武器、ユニット用の強化補助素材。\n強化値が＋６以下の時に使用すると\n＋７まで一気に強化することができる。",
-		"tr_explain": "Instantly grinds to +7 when the item is\ngrinding is +6 or lower. Cannot be\ntraded or sold to other players."
+		"tr_explain": "Instantly grinds to +7 when the item\ngrinding is +6 or lower. Cannot be\ntraded or sold to other players."
 	},
 	{
 		"assign": "321012",
@@ -612,8 +612,8 @@
 		"assign": "3210129",
 		"jp_text": "オーナー登録解除パス",
 		"tr_text": "Owner Registration Cancel Pass",
-		"jp_explain": "オーナー登録の解除申請パス。\nアイテムラボにて★１１以下の\nオーナー登録を解除する際に使用する。",
-		"tr_explain": "Removes the account bindings of\nequipment rarity 11★ or below.\nDoes not work on 12★ or higher."
+		"jp_explain": "オーナー登録の解除申請パス。\nアイテムラボにて★１２以下の\nオーナー登録を解除する際に使用する。",
+		"tr_explain": "Removes the account bindings of\nequipment rarity 12★ or below.\nDoes not work on 13★ or higher."
 	},
 	{
 		"assign": "3210135",
@@ -627,7 +627,7 @@
 		"jp_text": "強化スキップ（→５）",
 		"tr_text": "Grind Skip (→5)",
 		"jp_explain": "旧式武器、ユニット用の強化補助素材。\n強化値が＋４以下の時に使用すると\n＋５まで一気に強化することができる。",
-		"tr_explain": "Instantly grinds to +5 when the item is\ngrinding is +4 or lower. Cannot be\ntraded or sold to other players."
+		"tr_explain": "Instantly grinds to +5 when the item\ngrinding is +4 or lower. Cannot be\ntraded or sold to other players."
 	},
 	{
 		"assign": "3210139",
@@ -1209,5 +1209,159 @@
 		"tr_text": "Expansion Sheet 2",
 		"jp_explain": "コレクトシートの最大所持枚数を\n拡張するパス。使用することで\n最大所持枚数が１枚追加される。",
 		"tr_explain": "Expands the Collect File Sheet\nby a single slot."
+	},
+	{
+		"assign": "3210229",
+		"jp_text": "クエスト報酬獲得１",
+		"tr_text": "",
+		"jp_explain": "追加のクエスト報酬を得られる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3210230",
+		"jp_text": "クエスト報酬獲得２",
+		"tr_text": "",
+		"jp_explain": "追加のクエスト報酬を得られる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3210231",
+		"jp_text": "属性強化＋２％",
+		"tr_text": "Attribute Enhance +2%",
+		"jp_explain": "属性強化用の強化補助素材。\n属性強化時に使用することで\n属性値を２％底上げする。",
+		"tr_explain": "Used when grinding attributes.\nIncreases weapon attribute by 2%."
+	},
+	{
+		"assign": "3210232",
+		"jp_text": "強化値上限＋１",
+		"tr_text": "Grind Cap +1",
+		"jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n強化値の上限を１上昇させる。",
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, the\ngrind cap is boosted by +1"
+	},
+	{
+		"assign": "3210233",
+		"jp_text": "強化値上限＋１／大剣",
+		"tr_text": "Grind Cap +1 /  Sword",
+		"jp_explain": "新世武器用の強化補助素材。\n『大剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Sword\ngrind cap is boosted by +1"
+	},
+	{
+		"assign": "3210234",
+		"jp_text": "強化値上限＋１／自在槍",
+		"tr_text": "Grind Cap +1 / Wired Lance",
+		"jp_explain": "新世武器用の強化補助素材。\n『自在槍』の強化時に使用することで\n強化値の上限を１上昇させる。",
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Wired Lance\ngrind cap is boosted by +1"
+	},
+	{
+		"assign": "3210235",
+		"jp_text": "強化値上限＋１／長槍",
+		"tr_text": "Grind Cap +1 / Partizan",
+		"jp_explain": "新世武器用の強化補助素材。\n『長槍』の強化時に使用することで\n強化値の上限を１上昇させる。",
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Partizan\ngrind cap is boosted by +1"
+	},
+	{
+		"assign": "3210236",
+		"jp_text": "強化値上限＋１／双小剣",
+		"tr_text": "Grind Cap +1 / Twin Dagger",
+		"jp_explain": "新世武器用の強化補助素材。\n『双小剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, T. Dagger\ngrind cap is boosted by +1"
+	},
+	{
+		"assign": "3210237",
+		"jp_text": "強化値上限＋１／両剣",
+		"tr_text": "Grind Cap +1 / Double Saber",
+		"jp_explain": "新世武器用の強化補助素材。\n『両剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, D. Saber\ngrind cap is boosted by +1"
+	},
+	{
+		"assign": "3210238",
+		"jp_text": "強化値上限＋１／鋼拳",
+		"tr_text": "Grind Cap +1 / Knuckles",
+		"jp_explain": "新世武器用の強化補助素材。\n『鋼拳』の強化時に使用することで\n強化値の上限を１上昇させる。",
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Knuckles\ngrind cap is boosted by +1"
+	},
+	{
+		"assign": "3210239",
+		"jp_text": "強化値上限＋１／銃剣",
+		"tr_text": "Grind Cap +1 / Gunslash",
+		"jp_explain": "新世武器用の強化補助素材。\n『銃剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Gunslash\ngrind cap is boosted by +1"
+	},
+	{
+		"assign": "3210240",
+		"jp_text": "強化値上限＋１／長銃",
+		"tr_text": "Grind Cap +1 / Assault Rifle",
+		"jp_explain": "新世武器用の強化補助素材。\n『長銃』の強化時に使用することで\n強化値の上限を１上昇させる。",
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Rifle\ngrind cap is boosted by +1"
+	},
+	{
+		"assign": "3210241",
+		"jp_text": "強化値上限＋１／大砲",
+		"tr_text": "Grind Cap +1 / Launcher",
+		"jp_explain": "新世武器用の強化補助素材。\n『大砲』の強化時に使用することで\n強化値の上限を１上昇させる。",
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Launcher\ngrind cap is boosted by +1"
+	},
+	{
+		"assign": "3210242",
+		"jp_text": "強化値上限＋１／双機銃",
+		"tr_text": "Grind Cap +1 / Twin Machinegun",
+		"jp_explain": "新世武器用の強化補助素材。\n『双機銃』の強化時に使用することで\n強化値の上限を１上昇させる。",
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, TMG\ngrind cap is boosted by +1"
+	},
+	{
+		"assign": "3210243",
+		"jp_text": "強化値上限＋１／長杖",
+		"tr_text": "Grind Cap +1 / Rod",
+		"jp_explain": "新世武器用の強化補助素材。\n『長杖』の強化時に使用することで\n強化値の上限を１上昇させる。",
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Rod\ngrind cap is boosted by +1"
+	},
+	{
+		"assign": "3210244",
+		"jp_text": "強化値上限＋１／導具",
+		"tr_text": "Grind Cap +1 / Talis",
+		"jp_explain": "新世武器用の強化補助素材。\n『導具』の強化時に使用することで\n強化値の上限を１上昇させる。",
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Talis\ngrind cap is boosted by +1"
+	},
+	{
+		"assign": "3210245",
+		"jp_text": "強化値上限＋１／短杖",
+		"tr_text": "Grind Cap +1 / Wand",
+		"jp_explain": "新世武器用の強化補助素材。\n『短杖』の強化時に使用することで\n強化値の上限を１上昇させる。",
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Wand\ngrind cap is boosted by +1"
+	},
+	{
+		"assign": "3210246",
+		"jp_text": "強化値上限＋１／抜剣",
+		"tr_text": "Grind Cap +1 / Katana",
+		"jp_explain": "新世武器用の強化補助素材。\n『抜剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Katana\ngrind cap is boosted by +1"
+	},
+	{
+		"assign": "3210247",
+		"jp_text": "強化値上限＋１／強弓",
+		"tr_text": "Grind Cap +1 / Bullet Bow",
+		"jp_explain": "新世武器用の強化補助素材。\n『強弓』の強化時に使用することで\n強化値の上限を１上昇させる。",
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Bow\ngrind cap is boosted by +1"
+	},
+	{
+		"assign": "3210248",
+		"jp_text": "強化値上限＋１／魔装脚",
+		"tr_text": "Grind Cap +1 / Jet Boots",
+		"jp_explain": "新世武器用の強化補助素材。\n『魔装脚』の強化時に使用することで\n強化値の上限を１上昇させる。",
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Jet Boots\ngrind cap is boosted by +1"
+	},
+	{
+		"assign": "3210249",
+		"jp_text": "強化値上限＋１／飛翔剣",
+		"tr_text": "Grind Cap +1 / Dual Blade",
+		"jp_explain": "新世武器用の強化補助素材。\n『飛翔剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, D. Blades\ngrind cap is boosted by +1"
+	},
+	{
+		"assign": "3210250",
+		"jp_text": "強化値上限＋１／奏具",
+		"tr_text": "Grind Cap +1 / Takt",
+		"jp_explain": "新世武器用の強化補助素材。\n『奏具』の強化時に使用することで\n強化値の上限を１上昇させる。",
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Takt\ngrind cap is boosted by +1"
 	}
 ]

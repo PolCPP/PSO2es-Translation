@@ -431,7 +431,7 @@
 		"jp_text": "バイオベルド",
 		"tr_text": "Bio Beld",
 		"jp_explain": "最先端の生体工学を応用し開発された\n強弓。弓、矢、矢筒すべてに充填された\nフォトンの介在により機能連携する。",
-		"tr_explain": "A Bullet Bow made from a State of\nthe Art Bio-engineering application process,\nit's composed entirely of photons."
+		"tr_explain": "A Bullet Bow made from a State of\nthe Art Bio-engineering process,\nit's composed entirely of photons."
 	},
 	{
 		"assign": "115092",
@@ -478,9 +478,9 @@
 	{
 		"assign": "1150102",
 		"jp_text": "ステルスウェポン：ＢＷ",
-		"tr_text": "Stealth Weapon: BW",
+		"tr_text": "",
 		"jp_explain": "ダミー１０２",
-		"tr_explain": "Unknown Weapon.\nSeems to be in the shape of\na Bullet Bow."
+		"tr_explain": ""
 	},
 	{
 		"assign": "1150108",
@@ -763,6 +763,13 @@
 		"tr_explain": "A Bow developed as the latest\nmodel. Augmented with boost parts,\nits performance exceed its limits."
 	},
 	{
+		"assign": "1150216",
+		"jp_text": "フォルニスエスビア",
+		"tr_text": "Fornis Esvia",
+		"jp_explain": "異なる力を宿した恐るべき強弓。\n凍てつく氷と轟く雷の力を宿した矢で\n標的を射抜き、仕留める。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1150218",
 		"jp_text": "バレットボウ-NT",
 		"tr_text": "Bullet Bow-NT",
@@ -882,6 +889,20 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "1150237",
+		"jp_text": "ゼイネシスアロウ",
+		"tr_text": "Zeinesis Arrow",
+		"jp_explain": "幻創の主より生まれた大樹の強弓。\n惑わされることなく誘惑と対峙した時\n全てを見抜く目と打破する力を得る。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1150238",
+		"jp_text": "クリファドアロウ",
+		"tr_text": "Qliphad Arrow",
+		"jp_explain": "理から外れ虚無と化した大樹の強弓。\n装者は幻の幸福に囚われ安住し\n誘惑に導かれるがまま弓を引く。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1150239",
 		"jp_text": "砥氷雨",
 		"tr_text": "Tohisame",
@@ -908,5 +929,26 @@
 		"tr_text": "Astra Snarl",
 		"jp_explain": "マザーの残滓たる、幻創の強弓。\n放たれた矢の音は遙か彼方まで\n響き、生ある者全てを竦ませるという。",
 		"tr_explain": "A Phantom Bow imbued with Mother's\npower. Its snarling arrow reminds you\nof its benevolence of life."
+	},
+	{
+		"assign": "1150256",
+		"jp_text": "バトルボウＬｖ１",
+		"tr_text": "Battle Bow Lv.1",
+		"jp_explain": "バトルアリーナ用に調整された強弓。\n純粋に技を競うため基本性能のみを\n強化している。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1150257",
+		"jp_text": "バトルボウＬｖ２",
+		"tr_text": "Battle Bow Lv.2",
+		"jp_explain": "バトルアリーナ用に調整された強弓。\n戦技比較が目的となるため\n基本性能の強化にとどまっている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1150258",
+		"jp_text": "バトルボウＬｖ３",
+		"tr_text": "Battle Bow Lv.3",
+		"jp_explain": "バトルアリーナ専用に作られた強弓。\n戦技比較用に特化しており、力量が\nより発揮される調整となっている。",
+		"tr_explain": ""
 	}
 ]

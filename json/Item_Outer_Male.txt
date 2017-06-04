@@ -44,7 +44,7 @@
 	{
 		"assign": "23013",
 		"jp_text": "モッズコート雪[Ou]",
-		"tr_text": "",
+		"tr_text": "Mod Coat Snow [Ou]",
 		"jp_explain": "カジュアルにもパンクにも着こなせる\n男性服。流行りすたりを受けない定番の\nアイテムとして一枚は持っておきたい。",
 		"tr_explain": ""
 	},
@@ -100,7 +100,7 @@
 	{
 		"assign": "23042",
 		"jp_text": "リアドファルコ影[Ou]",
-		"tr_text": "",
+		"tr_text": "Riad Falco Shadow [Ou]",
 		"jp_explain": "空中戦に特化したアークス戦闘服。\n全身くまなく装甲で覆うことで\nあらゆる環境下でも身体を保護する。",
 		"tr_explain": ""
 	},
@@ -121,7 +121,7 @@
 	{
 		"assign": "23050",
 		"jp_text": "レーグルストレイト鋼[Ou]",
-		"tr_text": "",
+		"tr_text": "Regle Straight Steel [Ou]",
 		"jp_explain": "アークス情報部司令、カスラの纏う\n司令専用の制服。礼装ではあるものの\n戦闘にも支障のない作りをしている。",
 		"tr_explain": ""
 	},
@@ -149,7 +149,7 @@
 	{
 		"assign": "23065",
 		"jp_text": "ノーグライアー雅[Ou]",
-		"tr_text": "",
+		"tr_text": "Nogue Lyra Elegance [Ou]",
 		"jp_explain": "アークス用に開発された戦闘服。\n丈夫な素材をコート形に設計し\n耐久性、機動性を両立している。",
 		"tr_explain": ""
 	},
@@ -189,6 +189,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "23086",
+		"jp_text": "レフィードアクトル影[Ou]",
+		"tr_text": "Lefeed Actor Shadow [Ou]",
+		"jp_explain": "舞台衣装を思わせるゴージャスな服装。\nエレガントでクラシカルな装いは\n人々の視線を釘付けにする。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "23089",
 		"jp_text": "ラボコートＭ[Ou]",
 		"tr_text": "Lab Coat M [Ou]",
@@ -220,6 +227,13 @@
 		"assign": "230107",
 		"jp_text": "フォリーテイラー[Ou]",
 		"tr_text": "Folly Tailor [Ou]",
+		"jp_explain": "古い文献に記された商人のデータを\n基に作られた衣装。着用すればもれなく\n全身から怪しい雰囲気が漂う。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "230108",
+		"jp_text": "フォリーテイラー銀[Ou]",
+		"tr_text": "Folly Tailor Metal [Ou]",
 		"jp_explain": "古い文献に記された商人のデータを\n基に作られた衣装。着用すればもれなく\n全身から怪しい雰囲気が漂う。",
 		"tr_explain": ""
 	},
@@ -310,22 +324,57 @@
 	{
 		"assign": "230147",
 		"jp_text": "スタッズジャケットＭ[Ou]",
-		"tr_text": "",
+		"tr_text": "Studs Jacket M [Ou]",
 		"jp_explain": "革素材のライダースジャケット。\nスタッズにベルト、ファーなどが付いた\nロックな印象を与えるデザイン。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "230151",
 		"jp_text": "勇鳳錦装[Ou]",
-		"tr_text": "",
+		"tr_text": "Valiant Phoenix Attire [Ou]",
 		"jp_explain": "異なる地域の文化を取り入れて作られた\n華やかな服装。互いの伝統美を生かした\n独自のデザインが人気で愛用者が多い。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "230155",
 		"jp_text": "ハードエモーション[Ou]",
-		"tr_text": "",
+		"tr_text": "Hard Emotion [Ou]",
 		"jp_explain": "サモナーのフォトン傾向に合わせた\n新機軸の戦闘服。新たな試みとして\n製造に音響機器の技術が用いられている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "230159",
+		"jp_text": "リデルミナドルＭ[Ou]",
+		"tr_text": "Ridel Minadol M [Ou]",
+		"jp_explain": "幾つもの終わりを見届けてきた者が\n着用するというコート。擦り切れた裾は\nそれだけ場数を踏んできた証。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "230163",
+		"jp_text": "スタジアムジャンパーＭ[Ou]",
+		"tr_text": "Stadium Jumper M [Ou]",
+		"jp_explain": "ベーシックなスタジアムジャンパー。\nカジュアルなスタイルにおすすめ。\n背中のイラストがとってもキュート。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "230169",
+		"jp_text": "リムニックヴァンス[Ou]",
+		"tr_text": "Limnick Vance [Ou]",
+		"jp_explain": "服の柄が特徴的なアークス用戦闘服。\n空気抵抗を最大限まで軽減した\n機動性特化のスマートなデザイン。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "230173",
+		"jp_text": "ゾディアック・カモＭ[Ou]",
+		"tr_text": "Zodiac Camo M [Ou]",
+		"jp_explain": "局地戦を想定して作られた野戦服。\n繊維状にした金属で編まれている為\n柔軟でありながら十分な耐久性を誇る。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "230177",
+		"jp_text": "天星初等部制服Ｍ[Ou]",
+		"tr_text": "Tensei Elementary M [Ou]",
+		"jp_explain": "天星学院の初等部男子生徒用制服。\n著名なデザイナーが手がけたもので\n生徒以上に家族からの人気が高い。",
 		"tr_explain": ""
 	}
 ]

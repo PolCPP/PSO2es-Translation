@@ -674,7 +674,7 @@
 	{
 		"assign": "66099",
 		"jp_text": "フレイジア・レッグＣＶ",
-		"tr_text": "",
+		"tr_text": "Frasier Legs CV",
 		"jp_explain": "女性キャスト向けの脚部パーツ。\n各部にスラスターとウィングを装着し\n空中戦を得意とする軽量フレーム。",
 		"tr_explain": ""
 	},
@@ -688,7 +688,7 @@
 	{
 		"assign": "660101",
 		"jp_text": "ワルキア・レッグＣＶ",
-		"tr_text": "",
+		"tr_text": "Valkia Legs CV",
 		"jp_explain": "女性キャスト向けの脚部パーツ。\n鎧とドレスを掛け合わせたような意匠の\nフレームが特徴。鋭利な装甲に注意。",
 		"tr_explain": ""
 	},
@@ -709,7 +709,7 @@
 	{
 		"assign": "660104",
 		"jp_text": "アルナール・レッグＣＶ",
-		"tr_text": "",
+		"tr_text": "Alnar Legs CV",
 		"jp_explain": "女性キャスト向けの脚部パーツ。\n流線的なフレームを採用し、十分な\n耐久性と広い可動範囲を実現した。",
 		"tr_explain": ""
 	},
@@ -735,9 +735,23 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "660108",
+		"jp_text": "ウィルカ・レッグＣＶ",
+		"tr_text": "Wilka Legs CV",
+		"jp_explain": "女性キャスト向けの脚部パーツ。\nとある芸術文化を取り入れ設計され\nその装甲はまるで芸術品のよう。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "660109",
 		"jp_text": "ハローゼ・レッグ",
 		"tr_text": "Hallows Legs",
+		"jp_explain": "女性キャスト向けの脚部パーツ。\n古い文献に記された女王のデータを\n基に設計された、華やかなパーツ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "660110",
+		"jp_text": "ハローゼ・レッグＣＶ",
+		"tr_text": "",
 		"jp_explain": "女性キャスト向けの脚部パーツ。\n古い文献に記された女王のデータを\n基に設計された、華やかなパーツ。",
 		"tr_explain": ""
 	},
@@ -772,15 +786,29 @@
 	{
 		"assign": "660117",
 		"jp_text": "アムアイラ・レッグＧＶ",
-		"tr_text": "",
+		"tr_text": "Amaira Legs GV",
 		"jp_explain": "女性キャスト向けの脚部パーツ。\n揺れるリボンが特徴的で、戦場でも\n可愛くありたいキャストに人気。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "660118",
 		"jp_text": "クレスロ・レッグ",
-		"tr_text": "",
+		"tr_text": "Clesro Legs",
 		"jp_explain": "女性キャスト向けの脚部パーツ。\n音波が与えるフォトンへの影響を\n検証する為に開発された。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "660120",
+		"jp_text": "サフィーア・レッグＧＶ",
+		"tr_text": "Saphir Legs GV",
+		"jp_explain": "女性キャスト向けの脚部パーツ。\nふわふわとしたキュートなデザインで\n若い女性からの人気を集めている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "660121",
+		"jp_text": "シルフォス・レッグ",
+		"tr_text": "",
+		"jp_explain": "女性キャスト向けの脚部パーツ。\n見る者を魅了する、妖しくも\n美しい雰囲気を漂わせている。",
 		"tr_explain": ""
 	}
 ]
