@@ -32,14 +32,14 @@
 		"jp_explainShort": "追加で大ダメージ",
 		"tr_explainShort": "Additional Damage on Hit",
 		"jp_explainLong": "攻撃ヒット時、追加で大ダメージを与える。",
-		"tr_explainLong": "Deals additional damage on hit to target."
+		"tr_explainLong": "Deals additional damage on hit\nto target."
 	},
 	{
 		"assign": "1020",
 		"jp_explainShort": "追加で特大ダメージ",
 		"tr_explainShort": "Additional Damage on Hit",
 		"jp_explainLong": "攻撃ヒット時、追加で特大ダメージを与える。",
-		"tr_explainLong": "Deals additional damage on hit to target."
+		"tr_explainLong": "Deals additional damage on hit\nto target."
 	},
 	{
 		"assign": "1210",
@@ -2195,7 +2195,7 @@
 		"jp_explainShort": "ダメージ大軽減＋法術が劇的強化",
 		"tr_explainShort": "Reduce Damage Taken + Boost Tech Power",
 		"jp_explainLong": "攻撃ヒット時、長い時間\n敵からのダメージが大きく軽減され\n法術の威力が劇的に強化される。",
-		"tr_explainLong": "Attacks activates an effect that\ngreatly reduces damage taken and boosts Tech power."
+		"tr_explainLong": "Attacks activates an effect that\ngreatly reduces damage taken and\nboosts Tech power."
 	},
 	{
 		"assign": "31333",
@@ -2762,14 +2762,14 @@
 		"jp_explainShort": "追加ダメージ＋有効弱点時ダメージ絶大増",
 		"tr_explainShort": "Additional Damage on Hit + ATK Boost on Weak Attr.",
 		"jp_explainLong": "攻撃ヒット時、一定時間、敵に追加で特大ダメージを\n与え、攻撃対象の敵の弱点に有効な属性で\n攻撃したとき、与えるダメージが絶大に増加される。",
-		"tr_explainLong": "Attacks activates an effect that adds large\ndamage on hit and dramatically boosts ATK against Weak Attr."
+		"tr_explainLong": "Attacks activates an effect that adds large\ndamage on hit and dramatically boosts ATK\nagainst weak elements."
 	},
 	{
 		"assign": "31440",
 		"jp_explainShort": "追加ダメージ＋有効弱点時ダメージ絶大増",
 		"tr_explainShort": "Additional Damage on Hit + ATK Boost on Weak Attr.",
 		"jp_explainLong": "攻撃ヒット時、一定時間、敵に追加で特大ダメージを\n与え、攻撃対象の敵の弱点に有効な属性で\n攻撃したとき、与えるダメージが絶大に増加される。",
-		"tr_explainLong": "Attacks activates an effect that adds large\ndamage on hit and dramatically boosts ATK against Weak Attr."
+		"tr_explainLong": "Attacks activates an effect that adds large\ndamage on hit and dramatically boosts ATK\nagainst weak elements."
 	},
 	{
 		"assign": "31441",
@@ -2916,28 +2916,28 @@
 		"jp_explainShort": "攻撃力絶大増＋チップ発動時効果時間延長",
 		"tr_explainShort": "Dramatic ATK Boost + Chip Effect Time Extension",
 		"jp_explainLong": "ジャストアタック成功時、短い時間、攻撃力を絶大に\n増加し、チップが発動するたびに、装備中の氷属性の\n枚数に応じ攻撃力が増加され、効果時間を延長する。",
-		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK, further boosts based on # of Ice chips equipped\nand extends the duration of activated chip effects."
+		"tr_explainLong": "JAs activates an effect that dramatically boosts ATK,\nfurther boosts based on # of Ice chips equipped\nand extends the duration of activated chip effects."
 	},
 	{
 		"assign": "31468",
 		"jp_explainShort": "攻撃力絶大増＋チップ発動時効果時間延長",
 		"tr_explainShort": "Dramatic ATK Boost + Chip Effect Time Extension",
 		"jp_explainLong": "ジャストアタック成功時、一定時間、攻撃力を絶大に\n増加し、チップが発動するたびに、装備中の氷属性の\n枚数に応じ攻撃力が増加され、効果時間を延長する。",
-		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK, further boosts based on # of Ice chips equipped\nand extends the duration of activated chip effects."
+		"tr_explainLong": "JAs activates an effect that dramatically boosts ATK,n\further boosts based on # of Ice chips equipped\nand extends the duration of activated chip effects."
 	},
 	{
 		"assign": "31469",
 		"jp_explainShort": "攻撃劇的増加＋常時ジャストアタック",
 		"tr_explainShort": "Dramatic ATK Boost + All Attacks JAs",
 		"jp_explainLong": "攻撃ヒット時、短い時間、攻撃力が劇的に増加され\n通常攻撃・必殺技・法術が全て\nジャストアタックタイミングとなる。",
-		"tr_explainLong": "Attacks activates an effect the dramatically\nboosts ATK and all normal attacks, techs and PAs are considered as\nJAs for a short duration."
+		"tr_explainLong": "Attacks activates an effect that dramatically\nboosts ATK and all normal attacks. Techs and PAs\nare considered as JAs for a short duration."
 	},
 	{
 		"assign": "31470",
 		"jp_explainShort": "攻撃劇的増加＋常時ジャストアタック",
 		"tr_explainShort": "Dramatic ATK Boost + All Attacks JAs",
 		"jp_explainLong": "攻撃ヒット時、一定時間、攻撃力が劇的に増加され\n通常攻撃・必殺技・法術が全て\nジャストアタックタイミングとなる。",
-		"tr_explainLong": "Attacks activates an effect the dramatically\nboosts ATK and all normal attacks, techs and PAs are considered as\nJAs for a short duration."
+		"tr_explainLong": "Attacks activates an effect that dramatically\nboosts ATK and all normal attacks. Techs and PAs\nare considered as JAs for a short duration."
 	},
 	{
 		"assign": "31471",
