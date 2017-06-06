@@ -5057,17 +5057,17 @@
 	{
 		"assign": "quest_counter_enemy_hidden",
 		"jp_text": "？",
-		"tr_text": "??"
+		"tr_text": "?"
 	},
 	{
 		"assign": "quest_counter_get_medal",
 		"jp_text": "<%high_score>　<color=#68a0a7>/</color>　<%max>",
-		"tr_text": "Best Score　　<%high_score>　<color=#68a0a7>/</color>　<%max>"
+		"tr_text": "<%high_score>　<color=#68a0a7>/</color>　<%max>"
 	},
 	{
 		"assign": "quest_counter_area_medal",
 		"jp_text": "<%high_score>　<color=#68a0a7>/</color>　<%max>",
-		"tr_text": ""
+		"tr_text": "<%high_score>　<color=#68a0a7>/</color>　<%max>"
 	},
 	{
 		"assign": "quest_counter_medalbonus",
@@ -10092,7 +10092,7 @@
 	{
 		"assign": "tu_0005_n00_b",
 		"jp_text": "<color=black>大変長らくお待たせいたしました。\n『PSO2es』のデータの\nダウンロードが完了しました！</color>",
-		"tr_text": "<color=black>Thank you for your patience.\nDownload of the 『PSO2es』 data\nis now complete!</color>"
+		"tr_text": "<color=black>Thank you for your patience.\nDownload of the [PSO2es] data\nis now complete!</color>"
 	},
 	{
 		"assign": "tu_0005_n01_b",
@@ -10107,7 +10107,7 @@
 	{
 		"assign": "tu_0005_n03_b",
 		"jp_text": "<color=black>すでにアークスとして\n登録済みのかたですね。\nそれでは、『PSO2es』への\nログインを進めましょう！</color>",
-		"tr_text": "<color=black>Great! You're already\nan ARKS member.\nLet's start 『PSO2es』!</color>"
+		"tr_text": "<color=black>Great! You're already\nan ARKS member.\nLet's start [PSO2es]!</color>"
 	},
 	{
 		"assign": "tu_0005_n04_b",
@@ -10742,7 +10742,7 @@
 	{
 		"assign": "tu_0004_n05_b",
 		"jp_text": "<color=black>これがスクラッチのメニュー画面です。\nいろいろなスクラッチがありますが\n今回は「ｅｓスクラッチ」を引いてみましょう。</color>",
-		"tr_text": "<color=black>これがスクラッチのメニュー画面です。\nいろいろなスクラッチがありますが\n今回は「レアチップスクラッチ」を引いてみましょう。</color>"
+		"tr_text": ""
 	},
 	{
 		"assign": "tu_0004_n06_b",
@@ -10752,17 +10752,17 @@
 	{
 		"assign": "tu_0004_n07_b",
 		"jp_text": "<color=black>いいチップが手に入りましたね！\nこのように、スクラッチでは\nレアリティの高いチップを入手することができます。</color>",
-		"tr_text": "<color=black>おめでとうございます！\nいいチップが手に入りましたね。</color>"
+		"tr_text": ""
 	},
 	{
 		"assign": "tu_0004_n08_b",
 		"jp_text": "<color=black>ゲーム中、無料でもらえるポイント「FUN」で\n引けるスクラッチもありますので\nぜひ試してみてくださいね。</color>",
-		"tr_text": "<color=black>このように、スクラッチでは\nレアリティの高いチップを入手することができます。</color>"
+		"tr_text": ""
 	},
 	{
 		"assign": "tu_0004_n09_b",
 		"jp_text": "<color=black>スクラッチの説明は以上です。\nラッピーメダルをプレゼントしておきますので\nあとで使ってみてくださいね！</color>",
-		"tr_text": "<color=black>ゲーム中、無料でもらえるポイント「FUN」で\n引けるスクラッチもありますので\nぜひ試してみてくださいね。</color>"
+		"tr_text": ""
 	},
 	{
 		"assign": "tu_0004_n10_b",
@@ -11327,7 +11327,7 @@
 	{
 		"assign": "ef_0001_n00_b",
 		"jp_text": "<color=black>森林エリアの探索任務\nおつかれさまでした！</color>",
-		"tr_text": "<color=black>The mission in the forest\nwas completed.\nGood Work!</color>"
+		"tr_text": "<color=black>The mission in the forest was completed.\nGood Work!</color>"
 	},
 	{
 		"assign": "ef_0001_n01_b",
@@ -11357,7 +11357,7 @@
 	{
 		"assign": "ef_0001_n06_b",
 		"jp_text": "<color=black>アムドゥスキアは、火山活動が活発な惑星です。\n「龍族」と呼ばれる生物がすんでいるのですが\n龍族の一部も、何らかの理由で凶暴化しています。</color>",
-		"tr_text": "<color=black>Amduscia is an Active Volcanic Planet.\nBut there's local inhabitants\ncalled Dragonkin.\nThey're a bit barbaric.</color>"
+		"tr_text": "<color=black>Amduscia is an Active Volcanic Planet.\nBut there's local inhabitants\ncalled Dragonkin, they're a bit barbaric.</color>"
 	},
 	{
 		"assign": "ef_0001_n07_b",
@@ -11367,7 +11367,7 @@
 	{
 		"assign": "ef_0001_n08_b",
 		"jp_text": "<color=black>龍族のエネミーの弱点は「氷」属性です。\nチップを氷属性のチップに装備変更しておくと\n戦いが楽になりますよ。\nでは、健闘を祈っています！</color>",
-		"tr_text": "<color=black>However, they're weak to Ice.\nIf you have an Ice Weapon or Chip,\nplease use them.\nGood luck out there!</color>"
+		"tr_text": "<color=black>However, they're weak to ice.\nIf you have an ice weapon or chip,\nplease use them.\nGood luck out there!</color>"
 	},
 	{
 		"assign": "ef_0002_n00_b",
@@ -11572,7 +11572,7 @@
 	{
 		"assign": "es_0003_n07_b",
 		"jp_text": "<color=black>コーエン博士は技術者であると同時に\nすぐれた生物学者でもありました。\nコーエン博士がもし生きていたら……\n今の現状を、どう思うでしょうね……</color>",
-		"tr_text": "<color=black>コーエン博士は技術者であると同時に\nすぐれた生物学者でもありました。\nコーエン博士がもし生きていたら……\n今の現状を、どう思うでしょうね……</color>"
+		"tr_text": "<color=black>Dr. Cohen was both an excellent\nbiologist and scientist.\nI wonder however, if he were\nstill alive, what would he think...</color>"
 	},
 	{
 		"assign": "es_0004_n00_b",
@@ -11602,77 +11602,77 @@
 	{
 		"assign": "es_0005_n00_b",
 		"jp_text": "<color=black>二回目の砂漠探索任務\nおつかれさまでした！\n今回は、収穫がありましたよ！</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>Your search in the desert\nwas a success!\nNow, for the fruit of our labor!</color>"
 	},
 	{
 		"assign": "es_0005_n01_b",
 		"jp_text": "<color=black>あなたが探索したエリアから\nコーエン博士が作成したと思われる\n特殊な「チップ」が発見されたんです。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>During your search of the area,\nwe have located a special \"chip\"\nthat was created by Dr. Cohen.</color>"
 	},
 	{
 		"assign": "es_0005_n02_b",
 		"jp_text": "<color=black>博士が開発したチップシステムの\nフォーマットとは異なる\nまったく新しい構造のチップでした。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>This chip is different from\nthe chips that were created,\nas part of the chip system.</color>"
 	},
 	{
 		"assign": "es_0005_n03_b",
 		"jp_text": "<color=black>博士のメッセージパックに\n残されていた「実験」とは\nこの新しいチップの実験のことを\n指していたのでしょうか……？</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>The Doctor's Message Pack, it was left\nwith this chip.\nThe experiments on this chip, was it\nselecting someone ... ?</color>"
 	},
 	{
 		"assign": "es_0005_n04_b",
 		"jp_text": "<color=black>この新型のチップについては\n急ぎ、解析に回すことにします。\n解析結果が出るまで\nしばらくお待ちくださいね。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>I'll have this chip rushed for analysis.\nGo kill some time, it will be a\nwhile until we get the results.</color>"
 	},
 	{
 		"assign": "es_0005_n05_b",
 		"jp_text": "<color=black>あなたの活躍のおかげで\n少しずつ、行方不明だった\nコーエン博士の手がかりが\n集まってきました。\n本当に……ありがとうございます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>Little by little, we were able to\nfind clues relating to Dr. Cohen.\nThanks ... a lot.</color>"
 	},
 	{
 		"assign": "es_0005_n06_b",
 		"jp_text": "<color=black>……</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>……</color>"
 	},
 	{
 		"assign": "es_0005_n07_b",
 		"jp_text": "<color=black>あなたに……\nお伝えしておきたいことがあります。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>There's something... that I\nneed to tell you.</color>"
 	},
 	{
 		"assign": "es_0005_n08_b",
 		"jp_text": "<color=black>コーエン博士は……\n実は、私の父親なのです。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>About Dr. Cohen...\nHe's my father.</color>"
 	},
 	{
 		"assign": "es_0005_n09_b",
 		"jp_text": "<color=black>４年前、突然姿を消した父……\nその理由は、私にもわかりません。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>Four years ago, he disappeared\nsuddenly and I don't know why.</color>"
 	},
 	{
 		"assign": "es_0005_n10_b",
 		"jp_text": "<color=black>父の行方を知りたくて\n私はアークスの管理官になりました。\nけれども、これまで手がかりは\nまったく得られませんでした。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>I wanted to find out why he suddenly went\nmissing, so I became an ARKS Administrator\nto find out why. However, there wasn't\nany leads until now.</color>"
 	},
 	{
 		"assign": "es_0005_n11_b",
 		"jp_text": "<color=black>あなたのおかげで、少しずつ……\n父の足跡が\n見えてきたような気がします。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>But thanks to you, bit by bit...\nI feel as if I can finally see\nmy father's footsteps.</color>"
 	},
 	{
 		"assign": "es_0005_n12_b",
 		"jp_text": "<color=black>父のことは、誰にも口外せぬよう\n極秘情報として\n固く口止めをされてきました。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>Anyways, please don't mention this\nto anyone else. This is strictly\nconfidential information.\nI haven't told anyone regarding this.</color>"
 	},
 	{
 		"assign": "es_0005_n13_b",
 		"jp_text": "<color=black>けれども、父の情報を求めて\n必死に戦ってくれている\nあなたの姿を見ていて……\n打ち明けずにはいられませんでした。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>I am desparate for information regarding\nmy father. And observing you like this...\nI felt that I could confide in you.</color>"
 	},
 	{
 		"assign": "es_0005_n14_b",
 		"jp_text": "<color=black>黙っていて、ごめんなさい。\nこれからも、父を捜すために\nどうか、力を貸してください。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>I'm sorry for keeping quiet about this.\nPlease, lend me your strength in searching\nfor my father.</color>"
 	},
 	{
 		"assign": "es_0006_n00_b",
@@ -12782,7 +12782,7 @@
 	{
 		"assign": "es_0028_n04_b",
 		"jp_text": "<color=black>彼女は、発信器を所持しています。\n現在、彼女の発信器からの信号を解析し\n彼女が拉致されている場所……\n博士の本拠地と想定される座標の\n特定を急いでいます。</color>",
-		"tr_text": "<color=black>She has a transmitter on her.\nWe're tracking her signal.....\nCoordinates found.\nWe believe it's the home of the Doctor.\nHurry now!</color>"
+		"tr_text": "<color=black>She has a transmitter on her.\nWe're tracking her signal.....\nCoordinates found.\nWe believe it's the home of the Doctor.\nHurry! Quickly! Now!</color>"
 	},
 	{
 		"assign": "es_0028_n05_b",
