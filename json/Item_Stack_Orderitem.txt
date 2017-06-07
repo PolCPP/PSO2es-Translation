@@ -4256,6 +4256,13 @@
 		"tr_explain": "A broken chip fragment.\nIt shines of a shining silver."
 	},
 	{
+		"assign": "330667",
+		"jp_text": "マジック・カード",
+		"tr_text": "",
+		"jp_explain": "カード当てに使う、マジック用カード。\n『ＰＳＯ２ｅｓ』交換ショップで\n景品と交換できる。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "330673",
 		"jp_text": "ふんわりケープ",
 		"tr_text": "Fluffy Cape",
@@ -4681,5 +4688,12 @@
 		"tr_text": "Qliphad Fuse",
 		"jp_explain": "神代の力を持つ結合誘導素子。\n特定のアイテムと交換可能な素材で\n特定武器の強化にも使うことが可能。",
 		"tr_explain": "An ancient element that fuses\nthe power of gods. Used as material\nfor certain weapons or exchanged for\nprizes."
+	},
+	{
+		"assign": "330743",
+		"jp_text": "エーテルフューズ",
+		"tr_text": "Ether Fuse",
+		"jp_explain": "エーテル結合誘導素子。\n特定のアイテムと交換可能な素材で\n特定武器の強化にも使うことが可能。",
+		"tr_explain": "An Ether bonding inductive\nelement. Used as material for certain\nweapons or exchange for prizes."
 	}
 ]

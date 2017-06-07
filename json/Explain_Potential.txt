@@ -17886,72 +17886,72 @@
 	},
 	{
 		"assign": "3238753245",
-		"jp_text": "未設定潜在能力 Lv.1",
+		"jp_text": "流星爆砕奏 Lv.1",
 		"tr_text": "",
-		"jp_explain": "【説明】未設定潜在能力",
+		"jp_explain": "ＨＰが７５％以上の時\n与ダメージが20％\n上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3238753244",
-		"jp_text": "未設定潜在能力 Lv.2",
+		"jp_text": "流星爆砕奏 Lv.2",
 		"tr_text": "",
-		"jp_explain": "【説明】未設定潜在能力",
+		"jp_explain": "ＨＰが７５％以上の時\n与ダメージが21％\n上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3238753247",
-		"jp_text": "未設定潜在能力 Lv.3",
+		"jp_text": "流星爆砕奏 Lv.3",
 		"tr_text": "",
-		"jp_explain": "【説明】未設定潜在能力",
+		"jp_explain": "ＨＰが７５％以上の時\n与ダメージが23％\n上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3238753246",
-		"jp_text": "未設定潜在能力 Lv.4",
+		"jp_text": "流星爆砕奏 Lv.4",
 		"tr_text": "",
-		"jp_explain": "【説明】未設定潜在能力",
+		"jp_explain": "ＨＰが７５％以上の時\n与ダメージが25％\n上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3238753233",
-		"jp_text": "未設定潜在能力 Lv.5",
+		"jp_text": "流星爆砕奏 Lv.5",
 		"tr_text": "",
-		"jp_explain": "【説明】未設定潜在能力",
+		"jp_explain": "ＨＰが７５％以上の時\n与ダメージが27％\n上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3238740748",
-		"jp_text": "未設定潜在能力 Lv.1",
+		"jp_text": "天晶暁光 Lv.1",
 		"tr_text": "",
-		"jp_explain": "【説明】未設定潜在能力",
+		"jp_explain": "ＰＰ回復効果が上昇し\nＰＰ30％以上の時\n与ダメージが5％上昇。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3238740749",
-		"jp_text": "未設定潜在能力 Lv.2",
+		"jp_text": "天晶暁光 Lv.2",
 		"tr_text": "",
-		"jp_explain": "【説明】未設定潜在能力",
+		"jp_explain": "ＰＰ回復効果が上昇し\nＰＰ30％以上の時\n与ダメージが7％上昇。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3238740750",
-		"jp_text": "未設定潜在能力 Lv.3",
+		"jp_text": "天晶暁光 Lv.3",
 		"tr_text": "",
-		"jp_explain": "【説明】未設定潜在能力",
+		"jp_explain": "ＰＰ回復効果が上昇し\nＰＰ30％以上の時\n与ダメージが10％上昇。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3238740751",
-		"jp_text": "未設定潜在能力 Lv.4",
+		"jp_text": "天晶暁光 Lv.4",
 		"tr_text": "",
-		"jp_explain": "【説明】未設定潜在能力",
+		"jp_explain": "ＰＰ回復効果が上昇し\nＰＰ30％以上の時\n与ダメージが10％上昇。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3238740736",
-		"jp_text": "未設定潜在能力 Lv.5",
+		"jp_text": "天晶暁光 Lv.5",
 		"tr_text": "",
-		"jp_explain": "【説明】未設定潜在能力",
+		"jp_explain": "ＰＰ回復効果が上昇し\nＰＰ30％以上の時\n与ダメージが10％上昇。",
 		"tr_explain": ""
 	},
 	{
@@ -19108,6 +19108,251 @@
 		"tr_text": "Glance of Darkness Lv.5",
 		"jp_explain": "アルターエゴ発動中\n状況に応じた\n自動支援を行う。",
 		"tr_explain": ""
+	},
+	{
+		"assign": "717915737",
+		"jp_text": "疾風の双機銃 Lv.1",
+		"tr_text": "Monsoon Machinegun Lv.1",
+		"jp_explain": "チェイントリガー開始時\nＰＰが回復し、一定時間\n無敵となり威力が上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "717915736",
+		"jp_text": "疾風の双機銃 Lv.2",
+		"tr_text": "Monsoon Machinegun Lv.2",
+		"jp_explain": "チェイントリガー開始時\nＰＰが回復し、一定時間\n無敵となり威力が上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "717915739",
+		"jp_text": "疾風の双機銃 Lv.3",
+		"tr_text": "Monsoon Machinegun Lv.3",
+		"jp_explain": "チェイントリガー開始時\nＰＰが回復し、一定時間\n無敵となり威力が上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "717915738",
+		"jp_text": "疾風の双機銃 Lv.4",
+		"tr_text": "Monsoon Machinegun Lv.4",
+		"jp_explain": "チェイントリガー開始時\nＰＰが回復し、一定時間\n無敵となり威力が上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "717915741",
+		"jp_text": "疾風の双機銃 Lv.5",
+		"tr_text": "Monsoon Machinegun Lv.5",
+		"jp_explain": "チェイントリガー開始時\nＰＰが回復し、一定時間\n無敵となり威力が上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "815083759",
+		"jp_text": "真刃解放 Lv.1",
+		"tr_text": "Natural Release Lv.1",
+		"jp_explain": "武器アクションによる\nＪＧで封印が解放され\n性能が変化する。",
+		"tr_explain": "By using weapon action\na JG releases the seal\nand perfomance changes."
+	},
+	{
+		"assign": "815083758",
+		"jp_text": "真刃解放 Lv.2",
+		"tr_text": "Natural Release Lv.2",
+		"jp_explain": "武器アクションによる\nＪＧで封印が解放され\n性能が変化する。",
+		"tr_explain": "By using weapon action\na JG releases the seal\nand perfomance changes."
+	},
+	{
+		"assign": "815083757",
+		"jp_text": "真刃解放 Lv.3",
+		"tr_text": "Natural Release Lv.3",
+		"jp_explain": "武器アクションによる\nＪＧで封印が解放され\n性能が変化する。",
+		"tr_explain": "By using weapon action\na JG releases the seal\nand perfomance changes."
+	},
+	{
+		"assign": "815083756",
+		"jp_text": "真刃解放 Lv.4",
+		"tr_text": "Natural Release Lv.4",
+		"jp_explain": "武器アクションによる\nＪＧで封印が解放され\n性能が変化する。",
+		"tr_explain": "By using weapon action\na JG releases the seal\nand perfomance changes."
+	},
+	{
+		"assign": "815083747",
+		"jp_text": "真刃解放 Lv.5",
+		"tr_text": "Natural Release Lv.5",
+		"jp_explain": "武器アクションによる\nＪＧで封印が解放され\n性能が変化する。",
+		"tr_explain": "By using weapon action\na JG releases the seal\nand perfomance changes."
+	},
+	{
+		"assign": "2879550307",
+		"jp_text": "天雷の飛翔剣 Lv.1",
+		"tr_text": "",
+		"jp_explain": "ＰＡを使用すると\n雷光を纏った\nフォトンが発生する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2879550316",
+		"jp_text": "天雷の飛翔剣 Lv.2",
+		"tr_text": "",
+		"jp_explain": "ＰＡを使用すると\n雷光を纏った\nフォトンが発生する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2879550317",
+		"jp_text": "天雷の飛翔剣 Lv.3",
+		"tr_text": "",
+		"jp_explain": "ＰＡを使用すると\n雷光を纏った\nフォトンが発生する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2879550318",
+		"jp_text": "天雷の飛翔剣 Lv.4",
+		"tr_text": "",
+		"jp_explain": "ＰＡを使用すると\n雷光を纏った\nフォトンが発生する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2879550319",
+		"jp_text": "天雷の飛翔剣 Lv.5",
+		"tr_text": "",
+		"jp_explain": "ＰＡを使用すると\n雷光を纏った\nフォトンが発生する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1851314278",
+		"jp_text": "進軍の勲 Lv.1",
+		"tr_text": "Advancing Merit Lv.1",
+		"jp_explain": "時間経過で最大14％\n威力上昇。",
+		"tr_explain": "Increases power\nby 14% over time."
+	},
+	{
+		"assign": "1851314279",
+		"jp_text": "進軍の勲 Lv.2",
+		"tr_text": "Advancing Merit Lv.2",
+		"jp_explain": "時間経過で最大15％\n威力上昇。",
+		"tr_explain": "Increases power\nby 15% over time."
+	},
+	{
+		"assign": "1851314280",
+		"jp_text": "進軍の勲 Lv.3",
+		"tr_text": "Advancing Merit Lv.3",
+		"jp_explain": "時間経過で最大16％\n威力上昇。",
+		"tr_explain": "Increases power\nby 16% over time."
+	},
+	{
+		"assign": "1851314281",
+		"jp_text": "進軍の勲 Lv.4",
+		"tr_text": "Advancing Merit Lv.4",
+		"jp_explain": "時間経過で最大17％\n威力上昇。",
+		"tr_explain": "Increases power\nby 17% over time."
+	},
+	{
+		"assign": "1851314282",
+		"jp_text": "進軍の勲 Lv.5",
+		"tr_text": "Advancing Merit Lv.5",
+		"jp_explain": "時間経過で最大17％\n威力上昇。",
+		"tr_explain": "Increases power\nby 17% over time."
+	},
+	{
+		"assign": "177236679",
+		"jp_text": "殺心襲撃 Lv.1",
+		"tr_text": "",
+		"jp_explain": "クリティカル率が1％\nクリティカル威力が5％\n弱点への威力が6％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "177236678",
+		"jp_text": "殺心襲撃 Lv.2",
+		"tr_text": "",
+		"jp_explain": "クリティカル率が3％\nクリティカル威力が7％\n弱点への威力が6％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "177236681",
+		"jp_text": "殺心襲撃 Lv.3",
+		"tr_text": "",
+		"jp_explain": "クリティカル率が5％\nクリティカル威力が10％\n弱点への威力が6％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "177236680",
+		"jp_text": "殺心襲撃 Lv.4",
+		"tr_text": "",
+		"jp_explain": "クリティカル率が5％\nクリティカル威力が10％\n弱点への威力が6％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "177236683",
+		"jp_text": "殺心襲撃 Lv.5",
+		"tr_text": "",
+		"jp_explain": "クリティカル率が5％\nクリティカル威力が10％\n弱点への威力が6％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4022843858",
+		"jp_text": "希望の証 Lv.1",
+		"tr_text": "Hope Symbol Lv.1",
+		"jp_explain": "一定間隔でＨＰが回復し\n与ダメージが7％上昇\n被ダメージを1％軽減。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4022843857",
+		"jp_text": "希望の証 Lv.2",
+		"tr_text": "Hope Symbol Lv.2",
+		"jp_explain": "一定間隔でＨＰが回復し\n与ダメージが9％上昇\n被ダメージを3％軽減。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4022843856",
+		"jp_text": "希望の証 Lv.3",
+		"tr_text": "Hope Symbol Lv.3",
+		"jp_explain": "一定間隔でＨＰが回復し\n与ダメージが11％上昇\n被ダメージを5％軽減。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4022843887",
+		"jp_text": "希望の証 Lv.4",
+		"tr_text": "Hope Symbol Lv.4",
+		"jp_explain": "一定間隔でＨＰが回復し\n与ダメージが13％上昇\n被ダメージを10％軽減。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4022843886",
+		"jp_text": "希望の証 Lv.5",
+		"tr_text": "Hope Symbol Lv.5",
+		"jp_explain": "一定間隔でＨＰが回復し\n与ダメージが15％上昇\n被ダメージを12％軽減。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1440568570",
+		"jp_text": "錬成練化 Lv.1",
+		"tr_text": "Tempering Trainer Lv.1",
+		"jp_explain": "特殊能力数に応じて\n威力が上昇し\nＰＰ消費量が減少する。",
+		"tr_explain": "Number of abilities\nboosts power and\nreduces PP consumption."
+	},
+	{
+		"assign": "1440568571",
+		"jp_text": "錬成練化 Lv.2",
+		"tr_text": "Tempering Trainer Lv.2",
+		"jp_explain": "特殊能力数に応じて\n威力が上昇し\nＰＰ消費量が減少する。",
+		"tr_explain": "Number of abilities\nboosts power and\nreduces PP consumption."
+	},
+	{
+		"assign": "1440568572",
+		"jp_text": "錬成練化 Lv.3",
+		"tr_text": "Tempering Trainer Lv.3",
+		"jp_explain": "特殊能力数に応じて\n威力が上昇し\nＰＰ消費量が減少する。",
+		"tr_explain": "Number of abilities\nboosts power and\nreduces PP consumption."
+	},
+	{
+		"assign": "1440568573",
+		"jp_text": "錬成練化 Lv.4",
+		"tr_text": "Tempering Trainer Lv.4",
+		"jp_explain": "特殊能力数に応じて\n威力が上昇し\nＰＰ消費量が減少する。",
+		"tr_explain": "Number of abilities\nboosts power and\nreduces PP consumption."
+	},
+	{
+		"assign": "1440568574",
+		"jp_text": "錬成練化 Lv.5",
+		"tr_text": "Tempering Trainer Lv.5",
+		"jp_explain": "特殊能力数に応じて\n威力が上昇し\nＰＰ消費量が減少する。",
+		"tr_explain": "Number of abilities\nboosts power and\nreduces PP consumption."
 	},
 	{
 		"assign": "2472775797",
