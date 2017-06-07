@@ -1071,12 +1071,12 @@
 	},
 	{
 		"assign": "1015",
-		"jp_text": "-",
+		"jp_text": "1015",
 		"tr_text": ""
 	},
 	{
 		"assign": "1016",
-		"jp_text": "-",
+		"jp_text": "1016",
 		"tr_text": ""
 	},
 	{
@@ -1091,12 +1091,12 @@
 	},
 	{
 		"assign": "1019",
-		"jp_text": "-",
+		"jp_text": "1019",
 		"tr_text": ""
 	},
 	{
 		"assign": "1020",
-		"jp_text": "-",
+		"jp_text": "1020",
 		"tr_text": ""
 	},
 	{
@@ -1121,12 +1121,12 @@
 	},
 	{
 		"assign": "1025",
-		"jp_text": "-",
+		"jp_text": "1025",
 		"tr_text": ""
 	},
 	{
 		"assign": "1026",
-		"jp_text": "-",
+		"jp_text": "1026",
 		"tr_text": ""
 	},
 	{
@@ -1161,12 +1161,12 @@
 	},
 	{
 		"assign": "1115",
-		"jp_text": "-",
+		"jp_text": "ギルティブレイク１（大剣/闇）",
 		"tr_text": ""
 	},
 	{
 		"assign": "1116",
-		"jp_text": "-",
+		"jp_text": "ギルティブレイク１＋（大剣/闇）",
 		"tr_text": ""
 	},
 	{
@@ -2092,12 +2092,12 @@
 	{
 		"assign": "1813",
 		"jp_text": "ディフューズシェル１（長銃/雷）",
-		"tr_text": "Grenade Shell 1 (PA/Lightning)"
+		"tr_text": "Diffuse Shell 1 (PA/Lightning)"
 	},
 	{
 		"assign": "1814",
 		"jp_text": "ディフューズシェル１＋（長銃/雷）",
-		"tr_text": "Grenade Shell 1+ (PA/Lightning)"
+		"tr_text": "Diffuse Shell 1+ (PA/Lightning)"
 	},
 	{
 		"assign": "1821",
@@ -2107,7 +2107,7 @@
 	{
 		"assign": "1822",
 		"jp_text": "グレネードシェル２＋（長銃/光）",
-		"tr_text": "Grenade Shell 1 (PA/Lightning)"
+		"tr_text": "Grenade Shell 2+ (PA/Light)"
 	},
 	{
 		"assign": "1823",
@@ -2122,12 +2122,12 @@
 	{
 		"assign": "1833",
 		"jp_text": "ディフューズシェル２（長銃/氷）",
-		"tr_text": "Grenade Shell 2 (PA/Ice)"
+		"tr_text": "Diffuse Shell 2 (PA/Ice)"
 	},
 	{
 		"assign": "1834",
 		"jp_text": "ディフューズシェル２＋（長銃/氷）",
-		"tr_text": "Grenade Shell 2+ (PA/Ice)"
+		"tr_text": "Diffuse Shell 2+ (PA/Ice)"
 	},
 	{
 		"assign": "1841",
@@ -2192,22 +2192,22 @@
 	{
 		"assign": "1853",
 		"jp_text": "ディフューズシェル３（長銃/風）",
-		"tr_text": "Grenade Shell 3 (PA/Wind)"
+		"tr_text": "Diffuse Shell 3 (PA/Wind)"
 	},
 	{
 		"assign": "1854",
 		"jp_text": "ディフューズシェル３＋（長銃/風）",
-		"tr_text": "Grenade Shell 3+ (PA/Wind)"
+		"tr_text": "Diffuse Shell 3+ (PA/Wind)"
 	},
 	{
 		"assign": "1873",
 		"jp_text": "ディフューズシェルＥＸ（長銃/闇）",
-		"tr_text": "Grenade Shell EX (PA/Dark)"
+		"tr_text": "Diffuse Shell EX (PA/Dark)"
 	},
 	{
 		"assign": "1874",
 		"jp_text": "ディフューズシェルＥＸ＋（長銃/闇）",
-		"tr_text": "Grenade Shell EX+ (PA/Dark)"
+		"tr_text": "Diffuse Shell EX+ (PA/Dark)"
 	},
 	{
 		"assign": "1901",
@@ -2940,6 +2940,16 @@
 		"tr_text": "Immortal Dove 1+ (PA/Lightning)"
 	},
 	{
+		"assign": "2415",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "2416",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
 		"assign": "2421",
 		"jp_text": "ジャスティスクロウ２（飛翔剣/炎）",
 		"tr_text": "Justice Crow 2 (PA/Fire)"
@@ -2958,6 +2968,16 @@
 		"assign": "2424",
 		"jp_text": "イモータルダーヴ２＋（飛翔剣/風）",
 		"tr_text": "Immortal Dove 2+ (PA/Wind)"
+	},
+	{
+		"assign": "2435",
+		"jp_text": "2435",
+		"tr_text": ""
+	},
+	{
+		"assign": "2436",
+		"jp_text": "2436",
+		"tr_text": ""
 	},
 	{
 		"assign": "2441",
@@ -3030,6 +3050,16 @@
 		"tr_text": "Justice Crow 3+ (PA/Dark)"
 	},
 	{
+		"assign": "2455",
+		"jp_text": "2455",
+		"tr_text": ""
+	},
+	{
+		"assign": "2456",
+		"jp_text": "2456",
+		"tr_text": ""
+	},
+	{
 		"assign": "2463",
 		"jp_text": "イモータルダーヴＥＸ（飛翔剣/炎）",
 		"tr_text": "Immortal Dove EX (PA/Fire)"
@@ -3038,6 +3068,16 @@
 		"assign": "2464",
 		"jp_text": "イモータルダーヴＥＸ＋（飛翔剣/炎）",
 		"tr_text": "Immortal Dove EX+ (PA/Fire)"
+	},
+	{
+		"assign": "2475",
+		"jp_text": "2475",
+		"tr_text": ""
+	},
+	{
+		"assign": "2476",
+		"jp_text": "2476",
+		"tr_text": ""
 	},
 	{
 		"assign": "3901",
