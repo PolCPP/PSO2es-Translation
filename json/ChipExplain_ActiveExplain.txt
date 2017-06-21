@@ -1414,6 +1414,62 @@
 		"tr_explainLong": "For a long duration, dramatically boosts Attack.\nFurther boosts ATK with proportional to amount\nof different Element Chips equipped."
 	},
 	{
+		"assign": "31475",
+		"jp_explainShort": "雷枚数攻撃力絶大増＋チップ効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間\n装備中の雷属性チップの枚数に応じ、攻撃力を絶大に\n増加し、チップ発動時のアビリティ効果時間を延長する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31476",
+		"jp_explainShort": "雷枚数攻撃力超絶増＋チップ効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間\n装備中の雷属性チップの枚数に応じ、攻撃力を超絶に\n増加し、チップ発動時のアビリティ効果時間を延長する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31483",
+		"jp_explainShort": "風チップ数攻撃絶大増＋攻撃３回毎攻撃強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、風属性の枚数が多いほど、攻撃力を\n絶大に増加する。さらに、アクティブチップ使用か\n通常攻撃を３回行うごとに攻撃力を強化し劇的となる。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31484",
+		"jp_explainShort": "風チップ数攻撃絶大増＋攻撃３回毎攻撃強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、風属性の枚数が多いほど、攻撃力を\n絶大に増加する。さらに、アクティブチップ使用か\n通常攻撃を３回行うごとに攻撃力を強化し劇的となる。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31485",
+		"jp_explainShort": "闇チップ数攻撃絶大増＋属性追加ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、装備中のチップの\n闇属性の枚数が多いほど攻撃力を絶大に増加し\n闇属性値に応じて敵に追加で特大ダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31486",
+		"jp_explainShort": "闇チップ数攻撃絶大増＋属性追加ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、装備中のチップの\n闇属性の枚数が多いほど攻撃力を絶大に増加し\n闇属性値に応じて敵に追加で特大ダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31499",
+		"jp_explainShort": "消費ＣＰ減少＋アビリティレベル技・法強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、消費ＣＰを減少し、アビリティレベルに応じ\n必殺技・法術の威力を強化する。\n消費ＣＰ減少はこのチップ発動時にも効果が適用される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31500",
+		"jp_explainShort": "消費ＣＰ減少＋アビリティレベル技・法大強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、消費ＣＰを減少し、アビリティレベルに応じ\n必殺技・法術の威力を大きく強化する。\n消費ＣＰ減少はこのチップ発動時にも効果が適用される。",
+		"tr_explainLong": ""
+	},
+	{
 		"assign": "2110",
 		"jp_explainShort": "防御力を大強化",
 		"tr_explainShort": "DEF Boost",
@@ -4425,17 +4481,17 @@
 	},
 	{
 		"assign": "60187",
-		"jp_explainShort": "-",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
+		"jp_explainShort": "距離を詰め連続攻撃を行う大剣用の必殺技",
+		"tr_explainShort": "[Sword PA] - Guilty Break",
+		"jp_explainLong": "「大剣用の必殺技」\n一気に距離を詰め、連続攻撃を加える。",
+		"tr_explainLong": "[Sword PA]\nCross to the target in a burst\nand delivers a consecutive attack."
 	},
 	{
 		"assign": "60188",
-		"jp_explainShort": "-",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
+		"jp_explainShort": "距離を詰め連続攻撃を行う大剣用の必殺技",
+		"tr_explainShort": "[Sword PA] - Guilty Break",
+		"jp_explainLong": "「大剣用の必殺技」\n一気に距離を詰め、連続攻撃を加える。",
+		"tr_explainLong": "[Sword PA]\nCross to the target in a burst\nand delivers a consecutive attack."
 	},
 	{
 		"assign": "60189",
@@ -4468,16 +4524,72 @@
 	{
 		"assign": "60193",
 		"jp_explainShort": "距離を詰め連続攻撃を行う大剣用の必殺技",
-		"tr_explainShort": "[Sword PA] - Guilty Break",
+		"tr_explainShort": "",
 		"jp_explainLong": "「大剣用の必殺技」\n一気に距離を詰め、連続攻撃を加える。",
-		"tr_explainLong": "[Sword PA]\nCross to the target in a burst\nand delivers a consecutive attack."
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "60194",
 		"jp_explainShort": "距離を詰め連続攻撃を行う大剣用の必殺技",
-		"tr_explainShort": "[Sword PA] - Guilty Break",
+		"tr_explainShort": "",
 		"jp_explainLong": "「大剣用の必殺技」\n一気に距離を詰め、連続攻撃を加える。",
-		"tr_explainLong": "[Sword PA]\nCross to the target in a burst\nand delivers a consecutive attack."
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60195",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60196",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60197",
+		"jp_explainShort": "フォトンの刃を爆散させる飛翔剣用の必殺技",
+		"tr_explainShort": "",
+		"jp_explainLong": "「飛翔剣用の必殺技」\n自身の周囲にフォトンの刃を展開し\n爆発と共に四散させる無慈悲な攻撃。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60198",
+		"jp_explainShort": "フォトンの刃を爆散させる飛翔剣用の必殺技",
+		"tr_explainShort": "",
+		"jp_explainLong": "「飛翔剣用の必殺技」\n自身の周囲にフォトンの刃を展開し\n爆発と共に四散させる無慈悲な攻撃。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60199",
+		"jp_explainShort": "フォトンの刃を爆散させる飛翔剣用の必殺技",
+		"tr_explainShort": "",
+		"jp_explainLong": "「飛翔剣用の必殺技」\n自身の周囲にフォトンの刃を展開し\n爆発と共に四散させる無慈悲な攻撃。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60200",
+		"jp_explainShort": "フォトンの刃を爆散させる飛翔剣用の必殺技",
+		"tr_explainShort": "",
+		"jp_explainLong": "「飛翔剣用の必殺技」\n自身の周囲にフォトンの刃を展開し\n爆発と共に四散させる無慈悲な攻撃。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60201",
+		"jp_explainShort": "フォトンの刃を爆散させる飛翔剣用の必殺技",
+		"tr_explainShort": "",
+		"jp_explainLong": "「飛翔剣用の必殺技」\n自身の周囲にフォトンの刃を展開し\n爆発と共に四散させる無慈悲な攻撃。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60202",
+		"jp_explainShort": "フォトンの刃を爆散させる飛翔剣用の必殺技",
+		"tr_explainShort": "",
+		"jp_explainLong": "「飛翔剣用の必殺技」\n自身の周囲にフォトンの刃を展開し\n爆発と共に四散させる無慈悲な攻撃。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "70110",
@@ -5518,44 +5630,44 @@
 	{
 		"assign": "72610",
 		"jp_explainShort": "闇の球を放つ闇属性初級の法術",
-		"tr_explainShort": "[Light Technique] - Anti",
+		"tr_explainShort": "[Dark Technique] - Megid",
 		"jp_explainLong": "「初級の闇属性の法術」\n炸裂する凝縮したフォトンを放つ。",
-		"tr_explainLong": "[Basic Light Tech]\nRemoves all negative status effects from the caster."
+		"tr_explainLong": "[Basic Dark Tech]\nReleases condensed photons which explode."
 	},
 	{
 		"assign": "72620",
 		"jp_explainShort": "闇の球を放つ闇属性初級の法術",
-		"tr_explainShort": "[Light Technique] - Anti",
+		"tr_explainShort": "[Dark Technique] - Megid",
 		"jp_explainLong": "「初級の闇属性の法術」\n炸裂する凝縮したフォトンを放つ。",
-		"tr_explainLong": "[Basic Light Tech]\nRemoves all negative status effects from the caster."
+		"tr_explainLong": "[Basic Dark Tech]\nReleases condensed photons which explode."
 	},
 	{
 		"assign": "72630",
 		"jp_explainShort": "闇の球を放つ闇属性初級の法術",
-		"tr_explainShort": "[Light Technique] - Anti",
+		"tr_explainShort": "[Dark Technique] - Megid",
 		"jp_explainLong": "「初級の闇属性の法術」\n炸裂する凝縮したフォトンを放つ。",
-		"tr_explainLong": "[Basic Light Tech]\nRemoves all negative status effects from the caster."
+		"tr_explainLong": "[Basic Dark Tech]\nReleases condensed photons which explode."
 	},
 	{
 		"assign": "72640",
 		"jp_explainShort": "闇の球を放つ闇属性初級の法術",
-		"tr_explainShort": "[Light Technique] - Anti",
+		"tr_explainShort": "[Dark Technique] - Megid",
 		"jp_explainLong": "「初級の闇属性の法術」\n炸裂する凝縮したフォトンを放つ。",
-		"tr_explainLong": "[Basic Light Tech]\nRemoves all negative status effects from the caster."
+		"tr_explainLong": "[Basic Dark Tech]\nReleases condensed photons which explode."
 	},
 	{
 		"assign": "72650",
 		"jp_explainShort": "闇の球を放つ闇属性初級の法術",
-		"tr_explainShort": "[Light Technique] - Anti",
+		"tr_explainShort": "[Dark Technique] - Megid",
 		"jp_explainLong": "「初級の闇属性の法術」\n炸裂する凝縮したフォトンを放つ。",
-		"tr_explainLong": "[Basic Light Tech]\nRemoves all negative status effects from the caster."
+		"tr_explainLong": "[Basic Dark Tech]\nReleases condensed photons which explode."
 	},
 	{
 		"assign": "72660",
 		"jp_explainShort": "闇の球を放つ闇属性初級の法術",
-		"tr_explainShort": "[Light Technique] - Anti",
+		"tr_explainShort": "[Dark Technique] - Megid",
 		"jp_explainLong": "「初級の闇属性の法術」\n炸裂する凝縮したフォトンを放つ。",
-		"tr_explainLong": "[Basic Light Tech]\nRemoves all negative status effects from the caster."
+		"tr_explainLong": "[Basic Dark Tech]\nReleases condensed photons which explode."
 	},
 	{
 		"assign": "72710",
