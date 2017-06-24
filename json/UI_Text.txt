@@ -11362,7 +11362,7 @@
 	{
 		"assign": "ef_0001_n07_b",
 		"jp_text": "<color=black>火山洞窟エリアを探索しつつ\n立ちふさがる凶暴化した龍族については\n交渉の余地がありませんので\nやむを得ないですが、倒してください。</color>",
-		"tr_text": "<color=black>While searching, please be careful.\nThe Dragonkin are known to be\naggressive, and refused formal negociations.\nAttack only when attacked.</color>"
+		"tr_text": "<color=black>While searching, please be careful.\nThe Dragonkin are known to be\naggressive, and refused formal negotiations.\nAttack only when attacked.</color>"
 	},
 	{
 		"assign": "ef_0001_n08_b",
@@ -17442,7 +17442,7 @@
 	{
 		"assign": "scratch_pickup_select_window_count",
 		"jp_text": "あと<color=yellow>{0}</color>個",
-		"tr_text": ""
+		"tr_text": "<color=yellow>{0}</color>"
 	},
 	{
 		"assign": "scratch_pickup_select_guide",
@@ -17472,7 +17472,7 @@
 	{
 		"assign": "scratch_pickup_pickup_count",
 		"jp_text": "{0}回",
-		"tr_text": ""
+		"tr_text": "{0}"
 	},
 	{
 		"assign": "scratch_guide_02",
