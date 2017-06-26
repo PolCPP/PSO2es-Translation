@@ -1,9 +1,9 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 # coding=utf8
 import codecs
 import re
 import os
-import pprint
+# import pprint
 import simplejson
 import sys
 
@@ -18,7 +18,7 @@ for files in json_files:
             djson = simplejson.load(json_file)
             for rmid in djson:
                 if (("tr_text" in rmid) and (rmid["tr_text"] != "")):
-                    #print(rmid["tr_text"])
+                    # print(rmid["tr_text"])
                     if rmid["tr_text"] not in ENMap:
                         ENMap[rmid["tr_text"]] = rmid["jp_text"]
                     elif ENMap[rmid["tr_text"]] == rmid["jp_text"]:
