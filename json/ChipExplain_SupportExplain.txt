@@ -225,17 +225,17 @@
 	},
 	{
 		"assign": "30037",
-		"jp_explainShort": "チップの属性種数に応じ攻撃・防御が強化",
-		"tr_explainShort": "Boost ATK & DEF Proportional to Chips Equipped",
-		"jp_explainLong": "ジャストアタック成功時、一定時間\n装備中チップの属性の種類が多いほど\n攻撃力と防御力が強化される。",
-		"tr_explainLong": "JAs actives an effect that\nboosts ATK & DEF proportional to the amount\nof different attribute Chips equipped."
+		"jp_explainShort": "属性種数に応じ攻撃力劇的増・ダメージ軽減",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n装備中チップの属性種類に応じ攻撃力が劇的に\n増加され、敵から受けるダメージが軽減される。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "30038",
-		"jp_explainShort": "チップの属性種数に応じ攻撃・防御が強化",
-		"tr_explainShort": "Boost ATK & DEF Proportional to Chips Equipped",
-		"jp_explainLong": "ジャストアタック成功時、一定時間\n装備中チップの属性の種類が多いほど\n攻撃力と防御力が強化される。",
-		"tr_explainLong": "JAs actives an effect that,\nboosts ATK & DEF proportional to the amount\nof different attribute Chips equipped."
+		"jp_explainShort": "属性種数に応じ攻撃力劇的増・ダメージ軽減",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、長い時間\n装備中チップの属性種類に応じ攻撃力が劇的に\n増加され、敵から受けるダメージが軽減される。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "30039",
@@ -281,17 +281,17 @@
 	},
 	{
 		"assign": "30049",
-		"jp_explainShort": "ＨＰとＣＰが小回復",
-		"tr_explainShort": "Small HP & CP Recovery",
-		"jp_explainLong": "ジャストアタック成功時\nＨＰとＣＰがわずかに回復する。",
-		"tr_explainLong": "JAs activates an effect that\nrecover small amount of HP and CP."
+		"jp_explainShort": "ＨＰ小回復＋ＣＰ小回復＋追加特大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時\nＨＰとＣＰがわずかに回復する。\nさらに、敵に追加で特大ダメージを与える。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "30050",
-		"jp_explainShort": "ＨＰが小回復＋ＣＰが回復",
-		"tr_explainShort": "Small HP & CP Recovery",
-		"jp_explainLong": "ジャストアタック成功時\nＨＰがわずかに回復し、ＣＰが回復する。",
-		"tr_explainLong": "JAs activates an effect that\nrecover small amount of HP and CP."
+		"jp_explainShort": "ＨＰ小回復＋ＣＰ回復＋追加特大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時\nＨＰがわずかに回復し、ＣＰが回復する。\nさらに、敵に追加で特大ダメージを与える。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "30051",
@@ -505,101 +505,101 @@
 	},
 	{
 		"assign": "30095",
-		"jp_explainShort": "一定ダメージ防御＋大剣・抜剣が劇的強化",
-		"tr_explainShort": "Damage Migitation + Sword & Katana ATK Boost",
-		"jp_explainLong": "攻撃ヒット時、一定時間、一定ダメージを\n防ぐ効果がＨＰに上乗せされ、大剣か抜剣を\n装備している場合に攻撃力が劇的に強化される。",
-		"tr_explainLong": "Attacks activates an effect that grants\na damaging migitating shield to HP and\ndramatically boosts ATK for Swords & Katana."
+		"jp_explainShort": "一定ダメージ防御＋大剣・抜剣が超絶強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、一定ダメージを\n防ぐ効果がＨＰに上乗せされ、大剣か抜剣を\n装備している場合に攻撃力が超絶に強化される。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "30096",
-		"jp_explainShort": "一定ダメージ防御＋大剣・抜剣が劇的強化",
-		"tr_explainShort": "Damage Migitation + Sword & Katana ATK Boost",
-		"jp_explainLong": "攻撃ヒット時、一定時間、一定ダメージを\n防ぐ効果をＨＰに上乗せされ、大剣か抜剣を\n装備している場合に攻撃力が劇的に強化される。",
-		"tr_explainLong": "Attacks activates an effect that grants\na damaging migitating shield to HP and\ndramatically boosts ATK for Swords & Katana."
+		"jp_explainShort": "一定ダメージ防御＋大剣・抜剣が超絶強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、一定ダメージを\n防ぐ効果をＨＰに上乗せされ、大剣か抜剣を\n装備している場合に攻撃力が超絶に強化される。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "30097",
-		"jp_explainShort": "一定ダメージ防御＋長槍が劇的強化",
-		"tr_explainShort": "Damage Migitation + Partisan ATK Boost",
-		"jp_explainLong": "攻撃ヒット時、一定時間、一定ダメージを\n防ぐ効果をＨＰに上乗せされ、長槍を\n装備している場合に攻撃力が劇的に強化される。",
-		"tr_explainLong": "Attacks activates an effect that grants\na damaging migitating shield to HP and\ndramatically boosts ATK for Partisans."
+		"jp_explainShort": "一定ダメージ防御＋長槍が超絶強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、一定ダメージを\n防ぐ効果をＨＰに上乗せされ、長槍を\n装備している場合に攻撃力が超絶に強化される。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "30098",
-		"jp_explainShort": "一定ダメージ防御＋長槍が劇的強化",
-		"tr_explainShort": "Damage Migitation + Partisan ATK Boost",
-		"jp_explainLong": "攻撃ヒット時、一定時間、一定ダメージを\n防ぐ効果をＨＰに上乗せされ、長槍を\n装備している場合に攻撃力が劇的に強化される。",
-		"tr_explainLong": "Attacks activates an effect that grants\na damaging migitating shield to HP and\ndramatically boosts ATK for Partisans."
+		"jp_explainShort": "一定ダメージ防御＋長槍が超絶強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、一定ダメージを\n防ぐ効果をＨＰに上乗せされ、長槍を\n装備している場合に攻撃力が超絶に強化される。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "30099",
-		"jp_explainShort": "一定ダメージ防御＋導具が劇的強化",
-		"tr_explainShort": "Damage Migitation + Talis ATK Boost",
-		"jp_explainLong": "攻撃ヒット時、一定時間、一定ダメージを\n防ぐ効果をＨＰに上乗せされ、導具を\n装備している場合に攻撃力が劇的に強化される。",
-		"tr_explainLong": "Attacks activates an effect that grants\na damaging migitating shield to HP and\ndramatically boosts ATK for Talis."
+		"jp_explainShort": "一定ダメージ防御＋導具が超絶強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、一定ダメージを\n防ぐ効果をＨＰに上乗せされ、導具を\n装備している場合に攻撃力が超絶に強化される。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "30100",
-		"jp_explainShort": "一定ダメージ防御＋導具が劇的強化",
-		"tr_explainShort": "Damage Migitation + Talis ATK Boost",
-		"jp_explainLong": "攻撃ヒット時、一定時間、一定ダメージを\n防ぐ効果をＨＰに上乗せされ、導具を\n装備している場合に攻撃力が劇的に強化される。",
-		"tr_explainLong": "Attacks activates an effect that grants\na damaging migitating shield to HP and\ndramatically boosts ATK for Talis."
+		"jp_explainShort": "一定ダメージ防御＋導具が超絶強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、一定ダメージを\n防ぐ効果をＨＰに上乗せされ、導具を\n装備している場合に攻撃力が超絶に強化される。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31001",
-		"jp_explainShort": "一定ダメージ防御＋長杖が劇的強化",
-		"tr_explainShort": "Damage Migitation + Rod ATK Boost",
-		"jp_explainLong": "攻撃ヒット時、一定時間、一定ダメージを\n防ぐ効果をＨＰに上乗せされ、長杖を\n装備している場合に攻撃力が劇的に強化される。",
-		"tr_explainLong": "Attacks activates an effect that grants\na damaging migitating shield to HP\nand dramatically boosts ATK for Rods."
+		"jp_explainShort": "一定ダメージ防御＋長杖が超絶強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、一定ダメージを\n防ぐ効果をＨＰに上乗せされ、長杖を\n装備している場合に攻撃力が超絶に強化される。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31002",
-		"jp_explainShort": "一定ダメージ防御＋長杖が劇的強化",
-		"tr_explainShort": "Damage Migitation + Rod ATK Boost",
-		"jp_explainLong": "攻撃ヒット時、一定時間、一定ダメージを\n防ぐ効果をＨＰに上乗せされ、長杖を\n装備している場合に攻撃力が劇的に強化される。",
-		"tr_explainLong": "Attacks activates an effect that grants\na damaging migitating shield to HP\nand dramatically boosts ATK for Rods."
+		"jp_explainShort": "一定ダメージ防御＋長杖が超絶強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、一定ダメージを\n防ぐ効果をＨＰに上乗せされ、長杖を\n装備している場合に攻撃力が超絶に強化される。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31003",
-		"jp_explainShort": "一定ダメージ防御＋鋼拳・自在槍が劇的強化",
-		"tr_explainShort": "Damage Migitation + Knuckles ATK Boost",
-		"jp_explainLong": "攻撃ヒット時、一定時間、一定ダメージを\n防ぐ効果をＨＰに上乗せされ、鋼拳か自在槍を\n装備している場合に攻撃力が劇的に強化される。",
-		"tr_explainLong": "Attacks activates an effect that grants\na damaging migitating shield to HP\nand dramatically boosts ATK for Knuckles & Wired Lance."
+		"jp_explainShort": "一定ダメージ防御＋鋼拳・自在槍が超絶強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、一定ダメージを\n防ぐ効果をＨＰに上乗せされ、鋼拳か自在槍を\n装備している場合に攻撃力が超絶に強化される。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31004",
-		"jp_explainShort": "一定ダメージ防御＋鋼拳・自在槍が劇的強化",
-		"tr_explainShort": "Damage Migitation + Knuckles & Wired Lance ATK Boost",
-		"jp_explainLong": "攻撃ヒット時、一定時間、一定ダメージを\n防ぐ効果をＨＰに上乗せされ、鋼拳か自在槍を\n装備している場合に攻撃力が劇的に強化される。",
-		"tr_explainLong": "Attacks activates an effect that grants\na damaging migitating shield to HP\nand dramatically boosts ATK for Knuckles & Wired Lance."
+		"jp_explainShort": "一定ダメージ防御＋鋼拳・自在槍が超絶強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、一定ダメージを\n防ぐ効果をＨＰに上乗せされ、鋼拳か自在槍を\n装備している場合に攻撃力が超絶に強化される。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31005",
-		"jp_explainShort": "一定ダメージ防御＋銃剣・長銃が劇的強化",
-		"tr_explainShort": "Damage Migitation + Gunslash & Rifle ATK Boost",
-		"jp_explainLong": "攻撃ヒット時、一定時間、一定ダメージを\n防ぐ効果をＨＰに上乗せされ、銃剣か長銃を\n装備している場合に攻撃力が劇的に強化される。",
-		"tr_explainLong": "Attacks activates an effect that grants\na damaging migitating shield to HP\nand dramatically boosts ATK for Gunslashes & Rifles."
+		"jp_explainShort": "一定ダメージ防御＋銃剣・長銃が超絶強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、一定ダメージを\n防ぐ効果をＨＰに上乗せされ、銃剣か長銃を\n装備している場合に攻撃力が超絶に強化される。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31006",
-		"jp_explainShort": "一定ダメージ防御＋銃剣・長銃が劇的強化",
-		"tr_explainShort": "Damage Migitation + Gunslash & Rifle ATK Boost",
-		"jp_explainLong": "攻撃ヒット時、一定時間、一定ダメージを\n防ぐ効果をＨＰに上乗せされ、銃剣か長銃を\n装備している場合に攻撃力が劇的に強化される。",
-		"tr_explainLong": "Attacks activates an effect that grants\nadds a damaging migitating shield to HP\nand dramatically boosts ATK for Gunslashes & Rifles."
+		"jp_explainShort": "一定ダメージ防御＋銃剣・長銃が超絶強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、一定ダメージを\n防ぐ効果をＨＰに上乗せされ、銃剣か長銃を\n装備している場合に攻撃力が超絶に強化される。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31007",
-		"jp_explainShort": "左隣のチップが発動＋攻撃力が劇的強化",
-		"tr_explainShort": "Left-side Chips Activation + ATK Boost",
-		"jp_explainLong": "スライド操作時、ひとつ左に装備している必殺技\n以外のアクティブチップが消費ＣＰなしで発動され\n一定時間、攻撃力が劇的に強化される。",
-		"tr_explainLong": "Slide Action activates an effect that dramatically\nboosts ATK and activates all Chips (excluding PAs)\nleft of this chip without costing CP."
+		"jp_explainShort": "全アクティブチップ発動＋攻撃力劇的増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時もしくはスライド操作時\n必殺技・法術以外の全てのアクティブチップが発動され\n一定時間、攻撃力が劇的に増加される。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31008",
-		"jp_explainShort": "左隣のチップが発動＋攻撃力が劇的強化",
-		"tr_explainShort": "Left-side Chips Activation + ATK Boost",
-		"jp_explainLong": "スライド操作時、ひとつ左に装備している必殺技\n以外のアクティブチップが消費ＣＰなしで発動され\n一定時間、攻撃力が劇的に強化される。",
-		"tr_explainLong": "Slide Action activates an effect that dramatically\nboosts ATK and activates all Chips (excluding PAs)\nleft of this chip without costing CP."
+		"jp_explainShort": "全アクティブチップ発動＋攻撃力劇的増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時もしくはスライド操作時\n必殺技・法術以外の全てのアクティブチップが発動され\n一定時間、攻撃力が劇的に増加される。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31013",
@@ -996,9 +996,9 @@
 	{
 		"assign": "31095",
 		"jp_explainShort": "ＨＰとＣＰが小回復",
-		"tr_explainShort": "Small Recovery of HP & CP",
+		"tr_explainShort": "Small HP & CP Recovery",
 		"jp_explainLong": "ジャストアタック成功時\nＨＰとＣＰがわずかに回復する。",
-		"tr_explainLong": "JAs activates an effect that\nrecovers a small amount of HP and CP."
+		"tr_explainLong": "JAs activates an effect that\nrecover small amount of HP and CP."
 	},
 	{
 		"assign": "31096",
@@ -2950,7 +2950,7 @@
 		"assign": "31472",
 		"jp_explainShort": "発見済みウェポノイドチップ数で追加ダメージ",
 		"tr_explainShort": "",
-		"jp_explainLong": "攻撃ヒット時、一定時間\nチップ研究室において発見済みのウェポノイドチップが\n多いほど追加で大ダメージを与える。",
+		"jp_explainLong": "攻撃ヒット時、一定時間\nチップ研究室において発見済みのウェポノイドチップが\n多いほど追加で特大ダメージを与える。",
 		"tr_explainLong": ""
 	},
 	{
@@ -3041,14 +3041,14 @@
 		"assign": "31491",
 		"jp_explainShort": "全属性を小強化＋属性種類数追加ダメージ",
 		"tr_explainShort": "",
-		"jp_explainLong": "攻撃ヒット時、一定時間\n装備中チップの属性の種類が多いほど、敵に追加で\nダメージを与え、全属性がわずかに強化される。",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n全属性がわずかに強化され、装備中チップの属性の\n種類が多いほど、敵に追加でダメージを与える。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31492",
 		"jp_explainShort": "全属性を強化＋属性種類数追加ダメージ",
 		"tr_explainShort": "",
-		"jp_explainLong": "攻撃ヒット時、一定時間\n装備中チップの属性の種類が多いほど、敵に追加で\nダメージを与え、全属性が強化される。",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n全属性が強化され、装備中チップの属性の\n種類が多いほど、敵に追加でダメージを与える。",
 		"tr_explainLong": ""
 	},
 	{
@@ -3067,14 +3067,14 @@
 	},
 	{
 		"assign": "31495",
-		"jp_explainShort": "氷チップ数攻撃力超絶増加＋消費ＣＰ減少",
+		"jp_explainShort": "消費ＣＰ減少＋氷チップ数攻撃力超絶増加",
 		"tr_explainShort": "",
 		"jp_explainLong": "ジャストアタック成功時もしくはスライド操作時\n一定時間、消費ＣＰが減少し、装備中チップの\n氷属性の枚数が多いほど攻撃力が超絶に増加される。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31496",
-		"jp_explainShort": "氷チップ数攻撃力超絶増加＋消費ＣＰ減少",
+		"jp_explainShort": "消費ＣＰ減少＋氷チップ数攻撃力超絶増加",
 		"tr_explainShort": "",
 		"jp_explainLong": "ジャストアタック成功時もしくはスライド操作時\n一定時間、消費ＣＰが減少し、装備中チップの\n氷属性の枚数が多いほど攻撃力が超絶に増加される。",
 		"tr_explainLong": ""

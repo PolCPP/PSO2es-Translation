@@ -197,17 +197,17 @@
 	},
 	{
 		"assign": "11050",
-		"jp_explainShort": "攻撃を大強化＋ダメージの一部をＨＰ回復",
-		"tr_explainShort": "Attack Power Boost+HP Recovery",
-		"jp_explainLong": "一定時間、攻撃力を大きく強化し\n与えたダメージ量の一部を自身のＨＰとして回復する。",
-		"tr_explainLong": "Increases attack power dramatically and\nconverts a portion of the damage dealt into HP."
+		"jp_explainShort": "攻撃力増加＋ダメージの一部ＨＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、攻撃力を増加し\n与えたダメージ量の一部が自身のHPになって回復する。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "11060",
-		"jp_explainShort": "攻撃を大強化＋ダメージの一部をＨＰ回復",
-		"tr_explainShort": "Attack Power Boost+HP Recovery",
-		"jp_explainLong": "一定時間、攻撃力を大きく強化し\n与えたダメージ量の一部を自身のＨＰとして回復する。",
-		"tr_explainLong": "Increases attack power dramatically and\nconverts a portion of the damage dealt into HP."
+		"jp_explainShort": "攻撃力大増加＋ダメージの一部ＨＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、攻撃力を大きく増加し\n与えたダメージ量の一部が自身のHPになって回復する。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "1610",
@@ -239,73 +239,73 @@
 	},
 	{
 		"assign": "30003",
-		"jp_explainShort": "機甲種攻撃時に追加で中ダメージ",
-		"tr_explainShort": "Damage Boost against Mech",
-		"jp_explainLong": "長い時間、機甲種に攻撃がヒットした時に\n追加で中ダメージを与える。",
-		"tr_explainLong": "Increased damage done to Mechs\nfor a long duration."
+		"jp_explainShort": "機甲種攻撃時に追加で特大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、機甲種に攻撃がヒットした時に\n追加で特大ダメージを与える。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "30004",
-		"jp_explainShort": "機甲種攻撃時に追加で大ダメージ",
-		"tr_explainShort": "Damage Boost against Mech",
-		"jp_explainLong": "長い時間、機甲種に攻撃がヒットした時に\n追加で大ダメージを与える。",
-		"tr_explainLong": "Greatly increased damage done to\nMechs for a long duration."
+		"jp_explainShort": "機甲種攻撃時に追加で特大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、機甲種に攻撃がヒットした時に\n追加で特大ダメージを与える。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "30005",
-		"jp_explainShort": "ダーカー攻撃時に追加で中ダメージ",
-		"tr_explainShort": "Damage Boost against Darker",
-		"jp_explainLong": "長い時間、ダーカーに攻撃がヒットした時に\n追加で中ダメージを与える。",
-		"tr_explainLong": "Increased damage done to Darkers\nfor a long duration."
+		"jp_explainShort": "ダーカー攻撃時に追加で特大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、ダーカーに攻撃がヒットした時に\n追加で特大ダメージを与える。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "30006",
-		"jp_explainShort": "ダーカー攻撃時に追加で大ダメージ",
-		"tr_explainShort": "Damage Boost against Darker",
-		"jp_explainLong": "長い時間、ダーカーに攻撃がヒットした時に\n追加で大ダメージを与える。",
-		"tr_explainLong": "Greatly increased damage done to\nDarkers for a long duration."
+		"jp_explainShort": "ダーカー攻撃時に追加で特大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、ダーカーに攻撃がヒットした時に\n追加で特大ダメージを与える。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "30007",
-		"jp_explainShort": "通常攻撃と移動を加速＋弱点属性を大強化",
-		"tr_explainShort": "Quickens Actions + Damage against Weak Attr.",
-		"jp_explainLong": "一定時間、自身の通常攻撃と移動のスピードを加速し\nターゲット中の敵の弱点属性を大きく強化する。",
-		"tr_explainLong": "Greatly increase weak point damage and increased\nmovement and attacking speed for a long duration."
-	},
-	{
-		"assign": "30008",
 		"jp_explainShort": "通常攻撃と移動を加速＋弱点属性を劇的強化",
 		"tr_explainShort": "Quickens Actions + Damage against Weak Attr.",
 		"jp_explainLong": "長い時間、自身の通常攻撃と移動のスピードを加速し\nターゲット中の敵の弱点属性を劇的に強化する。",
 		"tr_explainLong": "Greatly increase weak point damage and increased\nmovement and attacking speed for a long duration."
 	},
 	{
+		"assign": "30008",
+		"jp_explainShort": "通常攻撃と移動を加速＋弱点属性を劇的強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、自身の通常攻撃と移動のスピードを加速し\nターゲット中の敵の弱点属性を劇的に強化する。",
+		"tr_explainLong": ""
+	},
+	{
 		"assign": "30013",
-		"jp_explainShort": "龍族攻撃時に追加で中ダメージ",
-		"tr_explainShort": "Damage Boost against Dragonkin",
-		"jp_explainLong": "長い時間、龍族に攻撃がヒットした時に\n追加で中ダメージを与える。",
-		"tr_explainLong": "Increased damage done to\nDragonkin for a long duration."
+		"jp_explainShort": "龍族攻撃時に追加で特大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、龍族に攻撃がヒットした時に\n追加で特大ダメージを与える。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "30014",
-		"jp_explainShort": "龍族攻撃時に追加で大ダメージ",
-		"tr_explainShort": "Damage Boost against Dragonkin",
-		"jp_explainLong": "長い時間、龍族に攻撃がヒットした時に\n追加で大ダメージを与える。",
-		"tr_explainLong": "Greatly increased damage done to\nDragonkin for a long duration."
+		"jp_explainShort": "龍族攻撃時に追加で特大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、龍族に攻撃がヒットした時に\n追加で特大ダメージを与える。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "30015",
-		"jp_explainShort": "ダーカー攻撃時に追加で中ダメージ",
-		"tr_explainShort": "Damage Boost against Darker",
-		"jp_explainLong": "長い時間、ダーカーに攻撃がヒットした時に\n追加で中ダメージを与える。",
-		"tr_explainLong": "Increased damage done to Darkers\nfor a long duration."
+		"jp_explainShort": "ダーカー攻撃時に追加で特大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、ダーカーに攻撃がヒットした時に\n追加で特大ダメージを与える。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "30016",
-		"jp_explainShort": "ダーカー攻撃時に追加で大ダメージ",
-		"tr_explainShort": "Damage Boost against Darker",
-		"jp_explainLong": "長い時間、ダーカーに攻撃がヒットした時に\n追加で大ダメージを与える。",
-		"tr_explainLong": "Greatly increased damage done to\nDragonkin for a long duration."
+		"jp_explainShort": "ダーカー攻撃時に追加で特大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、ダーカーに攻撃がヒットした時に\n追加で特大ダメージを与える。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "30017",
@@ -4147,56 +4147,56 @@
 		"assign": "60125",
 		"jp_explainShort": "目標の直下から攻撃を行う自在槍用の必殺技",
 		"tr_explainShort": "[Wired Lance PA] - Kaiser Rise",
-		"jp_explainLong": "「自在槍の必殺技」\n自在槍を勢いよく地面に撃ちこみ\n目標の直下から攻撃を行う。",
+		"jp_explainLong": "「自在槍用の必殺技」\n自在槍を勢いよく地面に撃ちこみ\n目標の直下から攻撃を行う。",
 		"tr_explainLong": "[Wired Lance PA]\nForcefully throws the lance into\nthe ground, attacking targets from below."
 	},
 	{
 		"assign": "60126",
 		"jp_explainShort": "目標の直下から攻撃を行う自在槍用の必殺技",
 		"tr_explainShort": "[Wired Lance PA] - Kaiser Rise",
-		"jp_explainLong": "「自在槍の必殺技」\n自在槍を勢いよく地面に撃ちこみ\n目標の直下から攻撃を行う。",
+		"jp_explainLong": "「自在槍用の必殺技」\n自在槍を勢いよく地面に撃ちこみ\n目標の直下から攻撃を行う。",
 		"tr_explainLong": "[Wired Lance PA]\nForcefully throws the lance into\nthe ground, attacking targets from below."
 	},
 	{
 		"assign": "60127",
 		"jp_explainShort": "目標の直下から攻撃を行う自在槍用の必殺技",
 		"tr_explainShort": "[Wired Lance PA] - Kaiser Rise",
-		"jp_explainLong": "「自在槍の必殺技」\n自在槍を勢いよく地面に撃ちこみ\n目標の直下から攻撃を行う。",
+		"jp_explainLong": "「自在槍用の必殺技」\n自在槍を勢いよく地面に撃ちこみ\n目標の直下から攻撃を行う。",
 		"tr_explainLong": "[Wired Lance PA]\nForcefully throws the lance into\nthe ground, attacking targets from below."
 	},
 	{
 		"assign": "60128",
 		"jp_explainShort": "目標の直下から攻撃を行う自在槍用の必殺技",
 		"tr_explainShort": "[Wired Lance PA] - Kaiser Rise",
-		"jp_explainLong": "「自在槍の必殺技」\n自在槍を勢いよく地面に撃ちこみ\n目標の直下から攻撃を行う。",
+		"jp_explainLong": "「自在槍用の必殺技」\n自在槍を勢いよく地面に撃ちこみ\n目標の直下から攻撃を行う。",
 		"tr_explainLong": "[Wired Lance PA]\nForcefully throws the lance into\nthe ground, attacking targets from below."
 	},
 	{
 		"assign": "60129",
 		"jp_explainShort": "目標の直下から攻撃を行う自在槍用の必殺技",
 		"tr_explainShort": "[Wired Lance PA] - Kaiser Rise",
-		"jp_explainLong": "「自在槍の必殺技」\n自在槍を勢いよく地面に撃ちこみ\n目標の直下から攻撃を行う。",
+		"jp_explainLong": "「自在槍用の必殺技」\n自在槍を勢いよく地面に撃ちこみ\n目標の直下から攻撃を行う。",
 		"tr_explainLong": "[Wired Lance PA]\nForcefully throws the lance into\nthe ground, attacking targets from below."
 	},
 	{
 		"assign": "60130",
 		"jp_explainShort": "目標の直下から攻撃を行う自在槍用の必殺技",
 		"tr_explainShort": "[Wired Lance PA] - Kaiser Rise",
-		"jp_explainLong": "「自在槍の必殺技」\n自在槍を勢いよく地面に撃ちこみ\n目標の直下から攻撃を行う。",
+		"jp_explainLong": "「自在槍用の必殺技」\n自在槍を勢いよく地面に撃ちこみ\n目標の直下から攻撃を行う。",
 		"tr_explainLong": "[Wired Lance PA]\nForcefully throws the lance into\nthe ground, attacking targets from below."
 	},
 	{
 		"assign": "60131",
 		"jp_explainShort": "目標の直下から攻撃を行う自在槍用の必殺技",
 		"tr_explainShort": "[Wired Lance PA] - Kaiser Rise",
-		"jp_explainLong": "「自在槍の必殺技」\n自在槍を勢いよく地面に撃ちこみ\n目標の直下から攻撃を行う。",
+		"jp_explainLong": "「自在槍用の必殺技」\n自在槍を勢いよく地面に撃ちこみ\n目標の直下から攻撃を行う。",
 		"tr_explainLong": "[Wired Lance PA]\nForcefully throws the lance into\nthe ground, attacking targets from below."
 	},
 	{
 		"assign": "60132",
 		"jp_explainShort": "目標の直下から攻撃を行う自在槍用の必殺技",
 		"tr_explainShort": "[Wired Lance PA] - Kaiser Rise",
-		"jp_explainLong": "「自在槍の必殺技」\n自在槍を勢いよく地面に撃ちこみ\n目標の直下から攻撃を行う。",
+		"jp_explainLong": "「自在槍用の必殺技」\n自在槍を勢いよく地面に撃ちこみ\n目標の直下から攻撃を行う。",
 		"tr_explainLong": "[Wired Lance PA]\nForcefully throws the lance into\nthe ground, attacking targets from below."
 	},
 	{
