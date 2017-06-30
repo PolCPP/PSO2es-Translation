@@ -16192,7 +16192,7 @@
 	{
 		"assign": "help_character_text",
 		"jp_text": "知りたいことは\n何でも聞いてくださいね。",
-		"tr_text": ""
+		"tr_text": "Select a topic for\nmore information."
 	},
 	{
 		"assign": "lookback_guide_1",
@@ -16237,52 +16237,52 @@
 	{
 		"assign": "lookback_season1_chapter_1",
 		"jp_text": "１章　　始まりと出会い　　",
-		"tr_text": "Ch 1. The First Encounter"
+		"tr_text": "Chapter 1\nThe First Encounter"
 	},
 	{
 		"assign": "lookback_season1_chapter_2",
 		"jp_text": "２章　　ひとつの結末　　　",
-		"tr_text": "Ch 2. One Ending"
+		"tr_text": "Chapter 2\nOne Ending"
 	},
 	{
 		"assign": "lookback_season1_chapter_3",
 		"jp_text": "３章　　新たな暗影　　　　",
-		"tr_text": "Ch 3. Another Casted Shadow"
+		"tr_text": "Chapter 3\nAnother Casted Shadow"
 	},
 	{
 		"assign": "lookback_season1_chapter_4",
 		"jp_text": "４章　　揺らぐ境界　　　　",
-		"tr_text": "Ch 4. What Makes Us Different?"
+		"tr_text": "Chapter 4\nWhat Makes Us Different?"
 	},
 	{
 		"assign": "lookback_season1_chapter_5",
 		"jp_text": "５章　　異なる覚悟　　　　",
-		"tr_text": "Ch 5. Different Resolution"
+		"tr_text": "Chapter 5\nDifferent Resolution"
 	},
 	{
 		"assign": "lookback_season1_chapter_6",
 		"jp_text": "６章　　忘れられた約束　　",
-		"tr_text": "Ch 6. The Forgotten Promise"
+		"tr_text": "Chapter 6\nThe Forgotten Promise"
 	},
 	{
 		"assign": "lookback_season1_chapter_7",
 		"jp_text": "７章　　不完全な心　　　　",
-		"tr_text": "Ch 7. Incomplete Heart"
+		"tr_text": "Chapter 7\nIncomplete Heart"
 	},
 	{
 		"assign": "lookback_season1_chapter_8",
 		"jp_text": "８章　　探す道の先　　　　",
-		"tr_text": "Ch 8. Another Path To Find"
+		"tr_text": "Chapter 8\nAnother Path To Find"
 	},
 	{
 		"assign": "lookback_season1_chapter_9",
 		"jp_text": "９章　　否定する世界　　　",
-		"tr_text": "Ch 9. The World To Deny"
+		"tr_text": "Chapter 9\nThe World To Deny"
 	},
 	{
 		"assign": "lookback_season1_chapter_10",
 		"jp_text": "１０章　だから、美しい　",
-		"tr_text": "Ch 10. So Beautiful"
+		"tr_text": "Chapter 10\nSo Beautiful"
 	},
 	{
 		"assign": "lookback_season1_chapter_11",
@@ -16292,7 +16292,7 @@
 	{
 		"assign": "lookback_season2_chapter_1",
 		"jp_text": "１章　　想像する悪意",
-		"tr_text": ""
+		"tr_text": "Chapter 1\nImagining Malice"
 	},
 	{
 		"assign": "lookback_season2_chapter_2",
@@ -16407,12 +16407,12 @@
 	{
 		"assign": "arks_exp_result_reward_exp_text",
 		"jp_text": "経験値　/",
-		"tr_text": "EXP /"
+		"tr_text": "EXP"
 	},
 	{
 		"assign": "arks_exp_result_reward_meseta_text",
 		"jp_text": "メセタ　 /",
-		"tr_text": "Meseta /"
+		"tr_text": "Meseta"
 	},
 	{
 		"assign": "arks_exp_result_stack_num_text",
@@ -16427,17 +16427,17 @@
 	{
 		"assign": "arks_exp_quest_pickup_item_text",
 		"jp_text": "目玉アイテム 　 /",
-		"tr_text": "Featured     /"
+		"tr_text": "Featured"
 	},
 	{
 		"assign": "arks_exp_quest_exp_text",
 		"jp_text": "経験値　/",
-		"tr_text": "EXP    /"
+		"tr_text": "EXP"
 	},
 	{
 		"assign": "arks_exp_quest_meseta_text",
 		"jp_text": "メセタ　 /",
-		"tr_text": "Meseta /"
+		"tr_text": "Meseta"
 	},
 	{
 		"assign": "arks_exp_quest_bonus_info",
@@ -16447,12 +16447,12 @@
 	{
 		"assign": "arks_exp_quest_drop_num_text",
 		"jp_text": "アイテム獲得枠　/",
-		"tr_text": "Item Acq. Frame /"
+		"tr_text": "Item Acq. Frame"
 	},
 	{
 		"assign": "arks_exp_quest_rera_text",
 		"jp_text": "レアドロップ倍率 /",
-		"tr_text": "Rare Drop %  /"
+		"tr_text": "Rare Drop %"
 	},
 	{
 		"assign": "arks_exp_quest_lap_text",
@@ -17627,7 +17627,7 @@
 	{
 		"assign": "scratch_pickup_pickup_count",
 		"jp_text": "{0}回",
-		"tr_text": "{0}"
+		"tr_text": "x{0}"
 	},
 	{
 		"assign": "scratch_guide_02",
