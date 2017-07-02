@@ -1,0 +1,4 @@
+*.txt text=auto eol=native whitespace
+*.sh text=auto eol=lf
+*.py text=auto eol=native
+README.md text=auto eol=native

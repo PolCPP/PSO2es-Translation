@@ -1,9 +1,9 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 # coding=utf8
 import codecs
 import re
 import os
-import pprint
+# import pprint
 import simplejson
 import sys
 
@@ -21,19 +21,19 @@ for files in json_files:
             for rmid in djson:
                 countin += 1
                 if (("tr_text" in rmid) and (rmid["tr_text"] != "")):
-                       countout += 1
-            #print ("%s/%s" % (countin, countout))
+                    countout += 1
+            # print ("%s/%s" % (countin, countout))
             if (countin):
                 countper = "{:06.1%}".format(float(countout)/float(countin))
-                bufout += '\n{0}\t{1}'.format(countper,files)
+                bufout += '\n{0}\t{1}'.format(countper, files)
             else:
-                bufout += '\n{0}\t:{1}'.format("ERROR ",files)
+                bufout += '\n{0}\t:{1}'.format("ERROR ", files)
         except ValueError as e:
             print("%s: %s") % (files, e)
             invalid_json_files.append(files)
 
 counterr += len(invalid_json_files)
 if counterr != 0:
-    sys.exit("=============\nJSON files with issues: %d" % count)
+    sys.exit("=============\nJSON files with issues: %d" % counterr)
 else:
     print(bufout)
