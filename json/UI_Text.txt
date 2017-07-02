@@ -6022,7 +6022,7 @@
 	{
 		"assign": "scratch_bonus_list_header_status",
 		"jp_text": "ボーナスまでの回数",
-		"tr_text": "Times til Bonus"
+		"tr_text": "Times till Bonus"
 	},
 	{
 		"assign": "scratch_bonus_list_header_name",
@@ -6157,7 +6157,7 @@
 	{
 		"assign": "quest_npc_t_01",
 		"jp_text": "コフィー",
-		"tr_text": "Coffey"
+		"tr_text": "Koffie"
 	},
 	{
 		"assign": "quest_npc_b_01",
@@ -6252,22 +6252,22 @@
 	{
 		"assign": "field_exp",
 		"jp_text": "ＥＸＰ",
-		"tr_text": "EXP\t\t"
+		"tr_text": "EXP"
 	},
 	{
 		"assign": "field_meseta",
 		"jp_text": "メセタ",
-		"tr_text": "Meseta\t\t\t"
+		"tr_text": "Meseta"
 	},
 	{
 		"assign": "field_item",
 		"jp_text": "アイテム",
-		"tr_text": "Item  "
+		"tr_text": "Item"
 	},
 	{
 		"assign": "field_score",
 		"jp_text": "スコア",
-		"tr_text": "Score\t\t\t"
+		"tr_text": "Score"
 	},
 	{
 		"assign": "fieldoption_category_windowtitle",
@@ -6412,7 +6412,7 @@
 	{
 		"assign": "quest_result_lv",
 		"jp_text": "Lv.",
-		"tr_text": ""
+		"tr_text": "Lv."
 	},
 	{
 		"assign": "questresult_result_button",
@@ -6422,7 +6422,7 @@
 	{
 		"assign": "questresult_result_title",
 		"jp_text": "クエスト報酬",
-		"tr_text": " Quest Results"
+		"tr_text": "Quest Results"
 	},
 	{
 		"assign": "questresult_result_getexp",
@@ -6432,7 +6432,7 @@
 	{
 		"assign": "questresult_result_exp",
 		"jp_text": "EXP",
-		"tr_text": " EXP "
+		"tr_text": "EXP"
 	},
 	{
 		"assign": "questresult_result_getmeseta",
@@ -6442,7 +6442,7 @@
 	{
 		"assign": "questresult_result_meseta",
 		"jp_text": "メセタ",
-		"tr_text": "Meseta    "
+		"tr_text": "Meseta"
 	},
 	{
 		"assign": "questresult_result_nextlevel",
@@ -6457,7 +6457,7 @@
 	{
 		"assign": "questresult_result_level",
 		"jp_text": "Lv.",
-		"tr_text": ""
+		"tr_text": "Lv."
 	},
 	{
 		"assign": "questresult_result_point",
@@ -6512,17 +6512,17 @@
 	{
 		"assign": "questresult_level_level",
 		"jp_text": "Lv.",
-		"tr_text": ""
+		"tr_text": "Lv."
 	},
 	{
 		"assign": "questresult_level_hp",
 		"jp_text": "HP",
-		"tr_text": ""
+		"tr_text": "HP"
 	},
 	{
 		"assign": "questresult_level_cp",
 		"jp_text": "CP",
-		"tr_text": ""
+		"tr_text": "CP"
 	},
 	{
 		"assign": "questresult_level_strike",
@@ -6587,7 +6587,7 @@
 	{
 		"assign": "questresult_weaponoid_window",
 		"jp_text": "キャラクター一覧",
-		"tr_text": ""
+		"tr_text": "Character List"
 	},
 	{
 		"assign": "questresult_weaponoid_story_open",
@@ -6597,7 +6597,7 @@
 	{
 		"assign": "questresult_weaponoid_limit",
 		"jp_text": "ゲージ上昇UP",
-		"tr_text": ""
+		"tr_text": "Gauge Rise UP"
 	},
 	{
 		"assign": "questresult_weaponoid_ability",
@@ -15807,7 +15807,7 @@
 	{
 		"assign": "ItemDetail_Parameter_GammaExpCaption",
 		"jp_text": "次の強化値まで　　　　/",
-		"tr_text": "Grind EXP\t/"
+		"tr_text": "Grind EXP"
 	},
 	{
 		"assign": "SideSt_Bonds_Lv_Effect",
@@ -15817,7 +15817,7 @@
 	{
 		"assign": "ItemDetail_Fondness_Caption",
 		"jp_text": "愛着度　/",
-		"tr_text": "SG Bar /"
+		"tr_text": "SG Bar"
 	},
 	{
 		"assign": "ItemDetail_Fondness_Acquired",
