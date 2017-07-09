@@ -198,16 +198,16 @@
 	{
 		"assign": "11050",
 		"jp_explainShort": "攻撃力増加＋ダメージの一部ＨＰ回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Damage Boost + HP recovery",
 		"jp_explainLong": "長い時間、攻撃力を増加し\n与えたダメージ量の一部が自身のHPになって回復する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Increase attack power and recover\nHP based on the damage done, for a long duration."
 	},
 	{
 		"assign": "11060",
 		"jp_explainShort": "攻撃力大増加＋ダメージの一部ＨＰ回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Damage Boost + Greater HP Recovery",
 		"jp_explainLong": "長い時間、攻撃力を大きく増加し\n与えたダメージ量の一部が自身のHPになって回復する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Increase attack power and greatly\nrecover HP based on the damage done,\nfor a long duration."
 	},
 	{
 		"assign": "1610",
@@ -240,30 +240,30 @@
 	{
 		"assign": "30003",
 		"jp_explainShort": "機甲種攻撃時に追加で特大ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "Deal Add. Damage to Armored",
 		"jp_explainLong": "長い時間、機甲種に攻撃がヒットした時に\n追加で特大ダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "When attacking Armored Species,\ndeal additional damage for a long duration."
 	},
 	{
 		"assign": "30004",
 		"jp_explainShort": "機甲種攻撃時に追加で特大ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "Deal Add. Damage to Armored",
 		"jp_explainLong": "長い時間、機甲種に攻撃がヒットした時に\n追加で特大ダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "When attacking Armored Species,\ndeal additional damage for a long duration."
 	},
 	{
 		"assign": "30005",
 		"jp_explainShort": "ダーカー攻撃時に追加で特大ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "Deal Add. Damage to Darkers",
 		"jp_explainLong": "長い時間、ダーカーに攻撃がヒットした時に\n追加で特大ダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "When attacking Darkers, deal\nadditional damage for a long duration."
 	},
 	{
 		"assign": "30006",
 		"jp_explainShort": "ダーカー攻撃時に追加で特大ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "Deal Add. Damage to Darkers",
 		"jp_explainLong": "長い時間、ダーカーに攻撃がヒットした時に\n追加で特大ダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "When attacking Darkers, deal\nadditional damage for a long duration."
 	},
 	{
 		"assign": "30007",
@@ -277,35 +277,35 @@
 		"jp_explainShort": "通常攻撃と移動を加速＋弱点属性を劇的強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、自身の通常攻撃と移動のスピードを加速し\nターゲット中の敵の弱点属性を劇的に強化する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Increase normal attack speed and\nmovement speed. Dramatically strengthen\nthe element the target enemy is weak to."
 	},
 	{
 		"assign": "30013",
 		"jp_explainShort": "龍族攻撃時に追加で特大ダメージ",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、龍族に攻撃がヒットした時に\n追加で特大ダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "When attacking Dragons, deal\nadditional damage for a long duration."
 	},
 	{
 		"assign": "30014",
 		"jp_explainShort": "龍族攻撃時に追加で特大ダメージ",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、龍族に攻撃がヒットした時に\n追加で特大ダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "When attacking Dragons, deal\nadditional damage for a long duration."
 	},
 	{
 		"assign": "30015",
 		"jp_explainShort": "ダーカー攻撃時に追加で特大ダメージ",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、ダーカーに攻撃がヒットした時に\n追加で特大ダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "When attacking Darkers, deal\nadditional damage for a long duration."
 	},
 	{
 		"assign": "30016",
 		"jp_explainShort": "ダーカー攻撃時に追加で特大ダメージ",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、ダーカーに攻撃がヒットした時に\n追加で特大ダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "When attacking Darkers, deal\nadditional damage for a long duration."
 	},
 	{
 		"assign": "30017",
@@ -396,28 +396,28 @@
 		"jp_explainShort": "ダメージ軽減＋長槍の必殺技を大強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、敵からのダメージを軽減し\n長槍の必殺技の威力を大きく強化する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, reduce damage from enemies.\nGreatly strengthen Partizan Skills."
 	},
 	{
 		"assign": "30044",
 		"jp_explainShort": "ダメージ大軽減＋長槍の必殺技を劇的強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、敵からのダメージを大きく軽減し\n長槍の必殺技の威力を劇的に強化する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, reduce damage from enemies.\nDramatically strengthen Partizan Skills."
 	},
 	{
 		"assign": "30047",
 		"jp_explainShort": "ダメージ軽減＋長銃の必殺技を大強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、敵からのダメージを軽減し\n長銃の必殺技の威力を大きく強化する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, reduce damage from enemies.\nGreatly strengthen Assault Rifle Skills."
 	},
 	{
 		"assign": "30048",
 		"jp_explainShort": "ダメージ大軽減＋長銃の必殺技を劇的強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、敵からのダメージを大きく軽減し\n長銃の必殺技の威力を劇的に強化する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, reduce damage from enemies.\nDramatically strengthen Assault Rifle Skills."
 	},
 	{
 		"assign": "30053",
@@ -445,21 +445,21 @@
 		"jp_explainShort": "チップの属性種数に応じ攻撃・防御を強化",
 		"tr_explainShort": "ATK & DEF boost proportional to Chips equipped",
 		"jp_explainLong": "長い時間、装備中チップの属性の種類が多いほど\n攻撃力と防御力を強化する。",
-		"tr_explainLong": "Increase ATK and DEF proportional to\nthe different amount of chips elements\ncurrentlyequipped for a long duration."
+		"tr_explainLong": "Increase ATK and DEF proportional to\nthe different amount of chips elements\ncurrently equipped for a long duration."
 	},
 	{
 		"assign": "30071",
 		"jp_explainShort": "定期的に攻撃力を上昇",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、攻撃力を大きく強化する。\n※時間経過とともに攻撃力を上昇する",
-		"tr_explainLong": ""
+		"tr_explainLong": "Greatly increases ATK for a long duration.\n※ATK is slowly increased over time."
 	},
 	{
 		"assign": "30072",
 		"jp_explainShort": "定期的に攻撃力を上昇",
 		"tr_explainShort": "Increases ATK over time",
 		"jp_explainLong": "長い時間、攻撃力を劇的に強化する。\n※時間経過とともに攻撃力を上昇する",
-		"tr_explainLong": "Greatly increases ATK for a long duration.\n※ ATK is slowly increased over time."
+		"tr_explainLong": "Greatly increases ATK for a long duration.\n※ATK is slowly increased over time."
 	},
 	{
 		"assign": "30081",
@@ -550,28 +550,28 @@
 		"jp_explainShort": "ダメージ軽減＋飛翔剣の必殺技を大強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、敵からのダメージを軽減し\n飛翔剣の必殺技の威力を大きく強化する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, reduce damage from\nenemies. Greatly increases the power of\nDual Blade Skills."
 	},
 	{
 		"assign": "31026",
 		"jp_explainShort": "ダメージ大軽減＋飛翔剣の必殺技を劇的強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、敵からのダメージを大きく軽減し\n飛翔剣の必殺技の威力を劇的に強化する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, reduce damage from\nenemies. Dramatically increases the\npower of Dual Blade Skills."
 	},
 	{
 		"assign": "31029",
 		"jp_explainShort": "ダメージ軽減＋双機銃の必殺技を大強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、敵からのダメージを軽減し\n双機銃の必殺技の威力を大きく強化する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, reduce damage from\nenemies. Greatly increases the power of\nTwin Machinegun Skills."
 	},
 	{
 		"assign": "31030",
 		"jp_explainShort": "ダメージ大軽減＋双機銃の必殺技を劇的強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、敵からのダメージを大きく軽減し\n双機銃の必殺技の威力を劇的に強化する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, reduce damage from\nenemies. Dramatically increases the\npower of Twin Machinegun Skills."
 	},
 	{
 		"assign": "31045",
@@ -732,14 +732,14 @@
 		"jp_explainShort": "ダメージ大増加＋抜剣で増加",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、敵に与えるダメージを大きく増加し\n抜剣を装備している場合はさらにダメージを増加する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, greatly increase\ndamage to an enemy. Deal additional\ndamage if a Sword is equipped."
 	},
 	{
 		"assign": "31098",
 		"jp_explainShort": "ダメージ劇的増加＋抜剣で増加",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、敵に与えるダメージを劇的に増加し\n抜剣を装備している場合はさらにダメージを増加する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, dramatically\nincrease damage to an enemy. Deal\nadditional damage if a Sword is equipped."
 	},
 	{
 		"assign": "31099",
