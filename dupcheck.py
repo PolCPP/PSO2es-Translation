@@ -24,10 +24,7 @@ for files in json_files:
                     elif ENMap[rmid["tr_text"]] == rmid["jp_text"]:
                         print("DUP")
                     else:
-                        bufout += ("\n%s: %s DUP name" % (files, rmid["assign"]))
-                        countdup += 1
-                    if "’" in rmid["tr_text"]:
-                        bufout += ("\n%s: %s ’ in %s" % (files, rmid["assign"],rmid["tr_text"]))
+                        bufout += ("%s: %s\n" % (files, rmid["assign"]))
                         countdup += 1
         except ValueError as e:
             print("%s: %s") % (files, e)
