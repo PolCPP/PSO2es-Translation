@@ -961,7 +961,7 @@
 	{
 		"assign": "3250142",
 		"jp_text": "[NPC]ヴィヴィアンメイク",
-		"tr_text": "",
+		"tr_text": "[NPC] Vivienne Face",
 		"jp_explain": "チケットを使用すると、新しいメイクの\n[NPC]ヴィヴィアンメイクが選択可能。",
 		"tr_explain": ""
 	},
@@ -989,7 +989,7 @@
 	{
 		"assign": "3250146",
 		"jp_text": "【敗者】タトゥー",
-		"tr_text": "Loser Tattoo",
+		"tr_text": "[Loser] Tattoo",
 		"jp_explain": "チケットを使用すると、新しいメイクの\n【敗者】タトゥーが選択可能。",
 		"tr_explain": ""
 	},
@@ -1003,7 +1003,7 @@
 	{
 		"assign": "3250148",
 		"jp_text": "ハートメイク　桃",
-		"tr_text": "Round Beard",
+		"tr_text": "Peach Heart Makeup",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nハートメイク　桃が選択可能。",
 		"tr_explain": ""
 	},
@@ -1017,106 +1017,190 @@
 	{
 		"assign": "3250150",
 		"jp_text": "無精ひげＢ",
-		"tr_text": "",
+		"tr_text": "Stubble B",
 		"jp_explain": "チケットを使用すると、新しいメイクの\n無精ひげＢが選択可能。\n男性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3250151",
 		"jp_text": "丸ヒゲ",
-		"tr_text": "",
+		"tr_text": "Round Beard",
 		"jp_explain": "チケットを使用すると、新しいメイクの\n丸ヒゲが選択可能。\n男性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3250152",
 		"jp_text": "ラッピーメイク",
-		"tr_text": "",
+		"tr_text": "Rappy Makeup",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nラッピーメイクが選択可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3250154",
 		"jp_text": "イラスト風メイク",
-		"tr_text": "",
+		"tr_text": "Illustration Style Makeup",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nイラスト風メイクが選択可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3250155",
 		"jp_text": "ブルーノのヒゲ",
-		"tr_text": "",
+		"tr_text": "Bruno’s Beard",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nブルーノのヒゲが選択可能。\n男性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3250156",
 		"jp_text": "縫い傷Ｃ",
-		"tr_text": "",
+		"tr_text": "Stitched Scar C",
 		"jp_explain": "チケットを使用すると、新しいメイクの\n縫い傷Ｃが選択可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3250159",
 		"jp_text": "アニマルペイント",
-		"tr_text": "",
+		"tr_text": "Animal Paint",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nアニマルペイントが選択可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3250160",
 		"jp_text": "薄チーク",
-		"tr_text": "",
+		"tr_text": "Light Blush",
 		"jp_explain": "チケットを使用すると、新しいメイクの\n薄チークが選択可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3250161",
 		"jp_text": "傾花メイク",
-		"tr_text": "",
+		"tr_text": "Nanamebana Makeup",
 		"jp_explain": "チケットを使用すると、新しいメイクの\n傾花メイクが選択可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3250162",
 		"jp_text": "おしゃれヒゲ",
-		"tr_text": "",
+		"tr_text": "Stylish Beard",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nおしゃれヒゲが選択可能。\n男性のみ使用可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3250163",
 		"jp_text": "強面シワ",
-		"tr_text": "",
+		"tr_text": "Furrowed Brow",
 		"jp_explain": "チケットを使用すると、新しいメイクの\n強面シワが選択可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3250164",
 		"jp_text": "グロスリップ　薄桃",
-		"tr_text": "",
+		"tr_text": "Light Peach Glossed Lips",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nグロスリップ　薄桃が選択可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3250165",
 		"jp_text": "グロスリップ　桃",
-		"tr_text": "",
+		"tr_text": "Peach Glossed Lips",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nグロスリップ　桃が選択可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3250166",
 		"jp_text": "グロスリップ　朱",
-		"tr_text": "",
+		"tr_text": "Scarlet Glossed Lips",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nグロスリップ　朱が選択可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3250167",
 		"jp_text": "グロスリップ　橙",
-		"tr_text": "",
+		"tr_text": "Orange Glossy Lips",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nグロスリップ　橙が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3250168",
+		"jp_text": "色白メイク",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しいメイクの\n色白メイクが選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3250169",
+		"jp_text": "下アイシャドウ赤",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しいメイクの\n下アイシャドウ赤が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3250170",
+		"jp_text": "下アイシャドウ紫",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しいメイクの\n下アイシャドウ紫が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3250171",
+		"jp_text": "下アイシャドウ青",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しいメイクの\n下アイシャドウ青が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3250172",
+		"jp_text": "グロスリップＢ　薄桃",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しいメイクの\nグロスリップＢ　薄桃が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3250173",
+		"jp_text": "グロスリップＢ　桃",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しいメイクの\nグロスリップＢ　桃が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3250174",
+		"jp_text": "グロスリップＢ　朱",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しいメイクの\nグロスリップＢ　朱が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3250175",
+		"jp_text": "グロスリップＢ　橙",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しいメイクの\nグロスリップＢ　橙が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3250176",
+		"jp_text": "りらメイク",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しいメイクの\nりらメイクが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3250177",
+		"jp_text": "クロームメイク",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しいメイクの\nクロームメイクが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3250178",
+		"jp_text": "ブレイズメイク黒",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しいメイクの\nブレイズメイク黒が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3250179",
+		"jp_text": "冷や汗",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しいメイクの\n冷や汗が選択可能。",
 		"tr_explain": ""
 	}
 ]

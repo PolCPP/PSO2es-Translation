@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 # coding=utf8
 import codecs
 import re
@@ -18,10 +18,10 @@ for files in json_files:
             for rmid in djson:
                 countin += 1
             if (countin == 0):
-               print("%s: %s") % (files, "BLANK")
-               invalid_json_files.append(files)
+                print("%s: %s") % (files, "BLANK")
+                invalid_json_files.append(files)
         except ValueError as e:
-            print("%s: %s"% (files, e))
+            print("%s: %s" % (files, e))
             invalid_json_files.append(files)
 
 counterr += len(invalid_json_files)

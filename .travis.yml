@@ -4,16 +4,13 @@ dist: trusty
 sudo: false
 group: beta
 
-cache:
-  - pip
-
-install:
-  - pip install simplejson
+addons:
+  apt:
+    packages:
+    - python-simplejson
+    - python3-simplejson
 
 script:
-  - python checkjson.py && ./coverage.sh
+  - /usr/bin/python3 checkjson.py && ./coverage.sh
   - ./tidy-json.sh && git diff --exit-code
-  - ./dupcheck.py
-
-before_cache:
-  - rm -f $HOME/.cache/pip/log/debug.log
+  - /usr/bin/python3 dupcheck.py

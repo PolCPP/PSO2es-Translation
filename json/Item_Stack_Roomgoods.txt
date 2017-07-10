@@ -485,9 +485,9 @@
 	{
 		"assign": "35091",
 		"jp_text": "ハナ・ビー",
-		"tr_text": "Hana Bii",
+		"tr_text": "Fireworks Display",
 		"jp_explain": "マイルームに設置可能な装飾品。\n暑気払いに火の玉を打ち上げて、\n夜空を彩る風景を再現した。",
-		"tr_explain": ""
+		"tr_explain": "A decoration for My Room.\nA simulation of the fireworks display\nfestival held every summer."
 	},
 	{
 		"assign": "35092",
@@ -653,7 +653,7 @@
 	{
 		"assign": "350115",
 		"jp_text": "マークⅢ",
-		"tr_text": "",
+		"tr_text": "Mark III",
 		"jp_explain": "第三世代とも呼ばれる家庭用ゲーム機。\n高性能で拡張性があり、周辺機器も多く\nマニアには熱狂的に受け入れられた。",
 		"tr_explain": ""
 	},
@@ -695,7 +695,7 @@
 	{
 		"assign": "350121",
 		"jp_text": "コタツ・ダイ",
-		"tr_text": "",
+		"tr_text": "Kotatsu Dai",
 		"jp_explain": "マイルームに設置可能な暖房器具。\n震える寒さにさらされた後はすぐに\n駆け込み、心も体もぽかぽかに。",
 		"tr_explain": ""
 	},
@@ -716,7 +716,7 @@
 	{
 		"assign": "350124",
 		"jp_text": "ジャ・グチ",
-		"tr_text": "Ja Cuzzi",
+		"tr_text": "Jacuzzi",
 		"jp_explain": "マイルームに設置可能な洗い場。\n一人きりでも共用浴場の雰囲気を\n味わいながら入浴を楽しめる。",
 		"tr_explain": ""
 	},
@@ -744,7 +744,7 @@
 	{
 		"assign": "350128",
 		"jp_text": "ブラックチェア",
-		"tr_text": "",
+		"tr_text": "Black Chair",
 		"jp_explain": "マイルーム配置用の一人掛け椅子。\nシックな黒に渋めのデザインという\n玄人向けの調度品。",
 		"tr_explain": ""
 	},
@@ -1213,7 +1213,7 @@
 	{
 		"assign": "350195",
 		"jp_text": "ミ・カン",
-		"tr_text": "Mi Kan",
+		"tr_text": "Oranges",
 		"jp_explain": "とある惑星で収穫される果実。\n甘みの強いものが好まれる。\nコタツ・ダイに欠かせない冬の名物。",
 		"tr_explain": ""
 	},
@@ -3068,7 +3068,7 @@
 	{
 		"assign": "350477",
 		"jp_text": "ルームランナー",
-		"tr_text": "",
+		"tr_text": "Room Runner",
 		"jp_explain": "マイルームに設置可能な運動器具。\n走った距離を記録し、教えてくれる。\nトレーニング不足のあなたに。",
 		"tr_explain": ""
 	},
@@ -4734,14 +4734,14 @@
 	{
 		"assign": "350768",
 		"jp_text": "ロ・デオ",
-		"tr_text": "",
+		"tr_text": "Ro Deo",
 		"jp_explain": "マイルームに設置する健康器具。\n乗っているだけで運動効果が得られる。\nこれで簡単にシェイプアップだ！",
 		"tr_explain": ""
 	},
 	{
 		"assign": "350769",
 		"jp_text": "ＳＡフレーム",
-		"tr_text": "",
+		"tr_text": "SA Frame",
 		"jp_explain": "マイルームに設置可能な投影機。\n機器にシンボルアートを登録し\n絵画のように映し出すことが可能。",
 		"tr_explain": ""
 	},
@@ -4902,7 +4902,7 @@
 	{
 		"assign": "350792",
 		"jp_text": "ヤマト２１９９ポスター ",
-		"tr_text": "",
+		"tr_text": "Yamato 2199 Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\n宇宙戦艦ヤマト２１９９のポスター。\n「さらば地球よ」",
 		"tr_explain": ""
 	},
@@ -5868,7 +5868,7 @@
 	{
 		"assign": "350930",
 		"jp_text": "パイレーツキャノン",
-		"tr_text": "Pirate’s Cannon",
+		"tr_text": "Pirate's Cannon",
 		"jp_explain": "マイルームに設置可能なインテリア。\n飾ればおとぎ話の海賊気分！\nとはいえ気分だけですが……",
 		"tr_explain": ""
 	},
@@ -5882,7 +5882,7 @@
 	{
 		"assign": "350932",
 		"jp_text": "海賊船の舵輪",
-		"tr_text": "Pirate Ship’s Helm",
+		"tr_text": "Pirate Ship's Helm",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nこれぞ海賊、まさに海の荒くれ者。\nお宝さがしの航海へ。",
 		"tr_explain": ""
 	},
@@ -7217,6 +7217,90 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "3501135",
+		"jp_text": "リゾートライト",
+		"tr_text": "",
+		"jp_explain": "マイルームに設置可能な照明器具。\n編み込まれた模様から漏れる明かりが\n室内を癒やしの空間へと変えてくれる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501136",
+		"jp_text": "リゾートベッド",
+		"tr_text": "",
+		"jp_explain": "マイルーム用のダブルサイズベッド。\n美しいデザインに追求された寝心地。\n最高の癒やしと安らぎを与えてくれる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501137",
+		"jp_text": "リゾートローテーブル",
+		"tr_text": "",
+		"jp_explain": "小物や装飾品を置くためのテーブル。\n美しい編込みと圧迫感のないデザインで\n人気の品。気分はまるでリゾート地。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501138",
+		"jp_text": "リゾートチェア",
+		"tr_text": "",
+		"jp_explain": "マイルームに配置可能な椅子。\nフカフカで快適な座り心地は\n安らぎと贅沢な時間をもたらす。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501139",
+		"jp_text": "リゾートソファ",
+		"tr_text": "",
+		"jp_explain": "マイルーム配置用の二人掛けソファ。\n程よい硬さで座り心地が評判の品。\nのんびり過ごすには最適。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501140",
+		"jp_text": "リゾートラグ",
+		"tr_text": "",
+		"jp_explain": "マイルームの床に敷くためのマット。\n自然素材で作られた落ち着きがあり\nいつでも心地よく過ごせる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501141",
+		"jp_text": "リゾートシェルフ",
+		"tr_text": "",
+		"jp_explain": "マイルームに設置可能な棚。\n温かみのある自然素材で作られており\n収納もしやすく、人気の品。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501142",
+		"jp_text": "リゾートスタンド",
+		"tr_text": "",
+		"jp_explain": "マイルームに設置するスタンドライト。\n落ち着いた風合いと優しい灯りで\n室内を癒やしの空間へと変えてくれる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501143",
+		"jp_text": "リゾートスクリーン",
+		"tr_text": "",
+		"jp_explain": "マイルームに設置可能なオブジェクト。\n編み込まれた自然素材が素敵な逸品。\n置くだけでリゾート気分に。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501144",
+		"jp_text": "リゾートロングチェア",
+		"tr_text": "",
+		"jp_explain": "マイルームに配置可能な椅子。\n丁寧に編み込まれて作られた逸品。\nゆったりした寛ぎの時間を過ごせる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501145",
+		"jp_text": "リゾートサイドテーブル",
+		"tr_text": "",
+		"jp_explain": "マイルームに設置可能なインテリア。\n自然素材で作られたサイドテーブル。\n主張しすぎないデザインが魅力的。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501146",
+		"jp_text": "リゾートタペストリー",
+		"tr_text": "",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nエキゾチックなタペストリー。\n室内の雰囲気を一瞬で変えてくれる。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3501170",
 		"jp_text": "ビンテージライト",
 		"tr_text": "Vintage Light",
@@ -7394,56 +7478,70 @@
 	{
 		"assign": "3501207",
 		"jp_text": "ナチュラルマット",
-		"tr_text": "",
+		"tr_text": "Natural Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\n黄色い小さな花が咲いた草地。\n敷き詰めれば草原に来た気分に。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501208",
 		"jp_text": "ドリップスタンド",
-		"tr_text": "",
+		"tr_text": "Drip Stand",
 		"jp_explain": "マイルームに設置可能なオブジェクト。\nコーヒーを尊ぶ全てのアークスに向けて\n作られた代物。気分はまるでバリスタ。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501209",
 		"jp_text": "手挽きコーヒーミル",
-		"tr_text": "",
+		"tr_text": "Manual Coffee Grinder",
 		"jp_explain": "マイルームに設置可能なオブジェクト。\n限りなく贅沢なコーヒータイムのため\n労力を惜しまない者だけが扱える代物。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501210",
 		"jp_text": "コーヒーセット",
-		"tr_text": "",
+		"tr_text": "Coffee Grinder",
 		"jp_explain": "マイルームに設置可能な飲み物。\n淹れたてのコーヒーとミルクのセット。\nひとときの贅沢を味わえる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501211",
 		"jp_text": "ロ・テンブロ",
-		"tr_text": "",
+		"tr_text": "Ro Tenbro",
 		"jp_explain": "マイルームに設置可能なバスタブ。\n自然岩に囲まれた暖かなお風呂。\n心身に癒やしと安らぎを与えてくれる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501212",
 		"jp_text": "シンプルシンク",
-		"tr_text": "",
+		"tr_text": "Simple Sink",
 		"jp_explain": "マイルームに設置可能な洗面台。\n洗面台とは水を流すもの、それ以外の\n装飾は不要という倹約家に人気の品。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501223",
+		"jp_text": "アオゾラパネル",
+		"tr_text": "",
+		"jp_explain": "マイルームに設置可能なオブジェクト。\n青空と白い雲が描かれた巨大なパネル。\nどこか懐かしさを感じさせる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501224",
+		"jp_text": "ユウヤケパネル",
+		"tr_text": "",
+		"jp_explain": "マイルームに設置可能なオブジェクト。\n夕焼けが描かれた巨大なパネル。\nどこか切なさを感じさせる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501225",
 		"jp_text": "ショーユラーメン",
-		"tr_text": "",
+		"tr_text": "Shouyu Ramen",
 		"jp_explain": "マイルームに設置可能な食べ物。\nあっさりとした透き通るスープが特徴。\n好みの麺の硬さやトッピングでどうぞ。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501226",
 		"jp_text": "オ・スシ",
-		"tr_text": "",
+		"tr_text": "O Shushi",
 		"jp_explain": "マイルームに設置可能な食べ物。\n季節を通して様々なネタが楽しめる。\nワサビの入れすぎには注意。",
 		"tr_explain": ""
 	},
@@ -7522,6 +7620,13 @@
 		"jp_text": "カ・シワモチ",
 		"tr_text": "",
 		"jp_explain": "マイルームに設置可能な食べ物。\n餡入りの餅を柏の葉で包んだ菓子。\n一部地域では縁起物として扱われる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501242",
+		"jp_text": "アジサイプラント",
+		"tr_text": "",
+		"jp_explain": "マイルームに設置可能なオブジェクト。\n雨の時期になると見頃を迎える。\n土によって花の色が変わるらしい。",
 		"tr_explain": ""
 	},
 	{
@@ -8283,7 +8388,7 @@
 	{
 		"assign": "3501362",
 		"jp_text": "フーリン",
-		"tr_text": "Furin",
+		"tr_text": "Wind Chime",
 		"jp_explain": "マイルームに設置可能なインテリア。\n風に吹かれて鳴る小型の鈴。\n涼しげな音を聞いて楽しむ。",
 		"tr_explain": ""
 	},
@@ -8374,7 +8479,7 @@
 	{
 		"assign": "3501377",
 		"jp_text": "【深遠なる闇】ドール",
-		"tr_text": "",
+		"tr_text": "[Profound Darkness] Doll",
 		"jp_explain": "マイルームに設置可能なオブジェクト。\n【深遠なる闇】をイメージしたドール。\n細部までこだわって作られている。",
 		"tr_explain": ""
 	},
@@ -8535,7 +8640,7 @@
 	{
 		"assign": "3501400",
 		"jp_text": "フラワーガーデン",
-		"tr_text": "",
+		"tr_text": "Flower Garden",
 		"jp_explain": "マイルームの床に設置可能なマット。\n色とりどりの満開の花が咲いた草原。\n室内を素敵な花畑へと変える。",
 		"tr_explain": ""
 	},
@@ -8598,21 +8703,21 @@
 	{
 		"assign": "3501409",
 		"jp_text": "トールツリー",
-		"tr_text": "",
+		"tr_text": "Tall Tree",
 		"jp_explain": "マイルームに設置可能な装飾品。\n背の高い立派な樹で、樹木愛好家の\nアークス達の中でも高い人気を誇る。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501412",
 		"jp_text": "スイパラ×マトイパネル",
-		"tr_text": "",
+		"tr_text": "Sweets Paradise × Matoi Panel",
 		"jp_explain": "マイルームに設置可能な装飾品。\nマトイの等身大パネル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501413",
 		"jp_text": "スイパラ×マトイマット",
-		"tr_text": "",
+		"tr_text": "Sweets Paradise × Matoi Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
 		"tr_explain": ""
 	},
@@ -8633,7 +8738,7 @@
 	{
 		"assign": "3501416",
 		"jp_text": "ワイドツリー",
-		"tr_text": "",
+		"tr_text": "Wide Tree",
 		"jp_explain": "マイルームに設置可能な装飾品。\n青々と茂る葉が立派な樹。\n自然の偉大さが伝わってくる。",
 		"tr_explain": ""
 	},
@@ -8647,154 +8752,154 @@
 	{
 		"assign": "3501418",
 		"jp_text": "ジェネパネル",
-		"tr_text": "",
+		"tr_text": "Gene Panel",
 		"jp_explain": "マイルームに設置可能な装飾品。\nアークス・ジェネのパネル。\n本物のような弾力性は無い。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501419",
 		"jp_text": "アネットパネル",
-		"tr_text": "",
+		"tr_text": "Annette Panel",
 		"jp_explain": "マイルームに設置可能な装飾品。\nアークス・アネットのパネル。\n部屋を散らかしたら怒られそう。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501420",
 		"jp_text": "うえぽのセラフィマット",
-		"tr_text": "",
+		"tr_text": "Weapono Seraphy Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\nセラフィの顔のマット。私が笑っている\nうちに、真面目に仕事をしてください。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501421",
 		"jp_text": "うえぽのジェネマット",
-		"tr_text": "",
+		"tr_text": "Weapono Gene Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\nジェネの顔のマット。\n困ったような表情もまたチャーミング。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501422",
 		"jp_text": "うえぽのモアマット",
-		"tr_text": "",
+		"tr_text": "Weapono More Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\nモアの顔のマット。小さいなりに\n彼にも気苦労があるんです……",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501423",
 		"jp_text": "うえぽのブルーノマット",
-		"tr_text": "",
+		"tr_text": "Weapono Bruno Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\nブルーノの顔のマット。画像はイメージ\nです。実際のアゴとは異なります。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501424",
 		"jp_text": "うえぽのアネットマット",
-		"tr_text": "",
+		"tr_text": "Weapono Annette Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\nアネットの顔のマット。ツッコミ疲れで\nこんな顔をしたくなる日もある。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501425",
 		"jp_text": "ＰＳＰｏ２マットＡ",
-		"tr_text": "",
+		"tr_text": "PSPo2 Mat A",
 		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501426",
 		"jp_text": "ＰＳＰｏ２マットＢ",
-		"tr_text": "",
+		"tr_text": "PSPo2 Mat B",
 		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501427",
 		"jp_text": "ＰＳＰｏ２マットＣ",
-		"tr_text": "",
+		"tr_text": "PSPo2 Mat C",
 		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501428",
 		"jp_text": "ＰＳＰｏ２ｉポスターＡ",
-		"tr_text": "",
+		"tr_text": "PSPo2i Poster A",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nＰＳＰｏ２ｉの大判ポスター。\n「キズナが無限のチカラになる。」",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501429",
 		"jp_text": "ＰＳＰｏ２ｉポスターＢ",
-		"tr_text": "",
+		"tr_text": "PSPo2i Poster B",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nＰＳＰｏ２ｉの大判ポスター。\n「進化を超えたインフィニティ級RPG」",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501430",
 		"jp_text": "ＰＳＰｏ２ｉポスターＣ",
-		"tr_text": "",
+		"tr_text": "PSPo2i Poster C",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nＰＳＰｏ２ｉの大判ポスター。\n「４人のキズナで限界を超えろ」",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501431",
 		"jp_text": "ＰＳＰｏ２ｉポスターＤ",
-		"tr_text": "",
+		"tr_text": "PSPo2i Poster D",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nＰＳＰｏ２ｉの大判ポスター。\n「無限の可能性を、キミの手に」",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501432",
 		"jp_text": "ＰＳＰｏ２ｉマットＡ",
-		"tr_text": "",
+		"tr_text": "PSPo2i Mat A",
 		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501433",
 		"jp_text": "ＰＳＰｏ２ｉマットＢ",
-		"tr_text": "",
+		"tr_text": "PSPo2i Mat B",
 		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501434",
 		"jp_text": "ＰＳＰｏ２ｉマットＣ",
-		"tr_text": "",
+		"tr_text": "PSPo2i Mat C",
 		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501435",
 		"jp_text": "ルミアパネル",
-		"tr_text": "",
+		"tr_text": "Lumia Panel",
 		"jp_explain": "マイルームに設置可能な装飾品。\nガーディアンズに所属する少女\nルミアのパネル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501436",
 		"jp_text": "ナギサパネル",
-		"tr_text": "",
+		"tr_text": "Nagisa Panel",
 		"jp_explain": "マイルームに設置可能な装飾品。\n悪夢を狩る剣士の少女\nナギサのパネル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501437",
 		"jp_text": "ナギサ型抜きマット",
-		"tr_text": "",
+		"tr_text": "Nagisa Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\nかねこしんや先生の描かれた\nナギサの型抜きマット。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501438",
 		"jp_text": "ＰＳＵ１０周年記念マット",
-		"tr_text": "",
+		"tr_text": "PSU 10th Anniv. Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501439",
 		"jp_text": "サクラ・ツリー",
-		"tr_text": "",
+		"tr_text": "Sakura Tree",
 		"jp_explain": "マイルームに設置可能なオブジェクト。\n舞い散る花びらと薄桃色の花が美しい\n桜の樹。春を代表する植物のひとつ。",
 		"tr_explain": ""
 	},
@@ -8829,8 +8934,148 @@
 	{
 		"assign": "3501444",
 		"jp_text": "サ・クラモチ",
-		"tr_text": "",
+		"tr_text": "Sakura Mochi",
 		"jp_explain": "マイルームに設置可能な食べ物。\n餡入りの餅を桜の葉で包んだ菓子。\n地域によって名称が異なる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501445",
+		"jp_text": "スティレットＧパネル",
+		"tr_text": "",
+		"jp_explain": "マイルームに設置可能な装飾品。\nフレームアームズ・ガール\nスティレットのパネル。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501446",
+		"jp_text": "ＣＤパッケージマット８",
+		"tr_text": "",
+		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501447",
+		"jp_text": "２０１７地区優勝記念品",
+		"tr_text": "",
+		"jp_explain": "２０１７年アークスバトルトーナメント\n地区大会優勝記念の記念品。\n優勝おめでとう！　次は全国だ！",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501448",
+		"jp_text": "２０１７地区準優勝記念品",
+		"tr_text": "",
+		"jp_explain": "２０１７年アークスバトルトーナメント\n地区大会準優勝記念の記念品。\n見事な成績！　次こそリベンジを！",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501450",
+		"jp_text": "ドンキ×クーナパネル",
+		"tr_text": "Donki × Quna Panel",
+		"jp_explain": "マイルームに設置可能な装飾品。\nクーナの等身大パネル。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501451",
+		"jp_text": "プラモパッケージマット１",
+		"tr_text": "",
+		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501456",
+		"jp_text": "うえぽのＳＰマットＡ",
+		"tr_text": "Weapono SP Mat A",
+		"jp_explain": "マイルームの床に敷くためのマット。\nブルージーレクイエムの顔のマット。\n踏みたい？　それとも踏まれたい……？",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501457",
+		"jp_text": "５周年イラストマット",
+		"tr_text": "",
+		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501458",
+		"jp_text": "プラモパッケージマット２",
+		"tr_text": "",
+		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501468",
+		"jp_text": "電撃ＰＳポスター",
+		"tr_text": "",
+		"jp_explain": "マイルームの壁に設置する装飾品。\n電撃ＰＳ表紙のポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501539",
+		"jp_text": "４周年イラコン入賞作品Ｇ",
+		"tr_text": "",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」４周年記念\nイラストコンテスト入賞作品。\n作者：よよこ",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501540",
+		"jp_text": "４周年イラコン入賞作品Ａ",
+		"tr_text": "",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」４周年記念\nイラストコンテスト入賞作品。\n作者：もちゃり",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501541",
+		"jp_text": "４周年イラコン入賞作品Ｊ",
+		"tr_text": "",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」４周年記念\nイラストコンテスト入賞作品。\n作者：霜降りミサゴ",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501542",
+		"jp_text": "４周年イラコン入賞作品Ｉ",
+		"tr_text": "",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」４周年記念\nイラストコンテスト入賞作品。\n作者：みっく",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501543",
+		"jp_text": "４周年イラコン入賞作品Ｅ",
+		"tr_text": "",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」４周年記念\nイラストコンテスト入賞作品。\n作者：ぢん",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501544",
+		"jp_text": "４周年イラコン入賞作品Ｂ",
+		"tr_text": "",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」４周年記念\nイラストコンテスト入賞作品。\n作者：d.o.t.",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501545",
+		"jp_text": "４周年イラコン入賞作品Ｃ",
+		"tr_text": "",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」４周年記念\nイラストコンテスト入賞作品。\n作者：ふもねこ",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501546",
+		"jp_text": "４周年イラコン入賞作品Ｄ",
+		"tr_text": "",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」４周年記念\nイラストコンテスト入賞作品。\n作者：青空葵",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501547",
+		"jp_text": "４周年イラコン入賞作品Ｈ",
+		"tr_text": "",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」４周年記念\nイラストコンテスト入賞作品。\n作者：竹玄",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501548",
+		"jp_text": "４周年イラコン入賞作品Ｆ",
+		"tr_text": "",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」４周年記念\nイラストコンテスト入賞作品。\n作者：どれこ",
 		"tr_explain": ""
 	}
 ]
