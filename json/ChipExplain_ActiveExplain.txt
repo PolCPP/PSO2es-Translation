@@ -968,16 +968,16 @@
 	{
 		"assign": "31215",
 		"jp_explainShort": "攻撃力劇的増加＋特定条件で戦闘不能回避",
-		"tr_explainShort": "",
+		"tr_explainShort": "Increases ATK power + iron will under conditions",
 		"jp_explainLong": "長い時間、攻撃力を劇的に増加する。\nさらに、装備しているチップの中に雷属性のチップが\n２枚以下の時、効果中一度だけ戦闘不能にならない。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Dramatically increases attack power\nfor a long while. Prevents a single\ninstance of incapacitation if the #\nof lightning chips equipped is 2 or less."
 	},
 	{
 		"assign": "31216",
 		"jp_explainShort": "攻撃力劇的増加＋特定条件で戦闘不能回避",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、攻撃力を劇的に増加する。\nさらに、装備しているチップの中に雷属性のチップが\n２枚以下の時、効果中一度だけ戦闘不能にならない。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Dramatically increases attack power\nfor a long while. Prevents a single\ninstance of incapacitation if the #\nof lightning chips equipped is 2 or less."
 	},
 	{
 		"assign": "31227",
@@ -1418,56 +1418,56 @@
 		"jp_explainShort": "雷枚数攻撃力絶大増＋チップ効果時間延長",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間\n装備中の雷属性チップの枚数に応じ、攻撃力を絶大に\n増加し、チップ発動時のアビリティ効果時間を延長する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, increase attack power\nbased on the number of lightning chips equipped.\nAlso increases the duration of chip abilities\nwhen activated."
 	},
 	{
 		"assign": "31476",
 		"jp_explainShort": "雷枚数攻撃力超絶増＋チップ効果時間延長",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間\n装備中の雷属性チップの枚数に応じ、攻撃力を超絶に\n増加し、チップ発動時のアビリティ効果時間を延長する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, increase attack power\nbased on the number of lightning chips equipped.\nAlso increases the duration of chip abilities\nwhen activated."
 	},
 	{
 		"assign": "31483",
 		"jp_explainShort": "風チップ数攻撃絶大増＋攻撃３回毎攻撃強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、風属性の枚数が多いほど、攻撃力を\n絶大に増加する。さらに、アクティブチップ使用か\n通常攻撃を３回行うごとに攻撃力を強化し劇的となる。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Boosts ATK PWR tremendously in proportion to the\nnumber of Wind chips equipped. Boosts ATK Power\nuntil it reaches tremendous levels each time you\ndo (3 basic attacks) or (use an Active chip)."
 	},
 	{
 		"assign": "31484",
 		"jp_explainShort": "風チップ数攻撃絶大増＋攻撃３回毎攻撃強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、風属性の枚数が多いほど、攻撃力を\n絶大に増加する。さらに、アクティブチップ使用か\n通常攻撃を３回行うごとに攻撃力を強化し劇的となる。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Boosts ATK PWR tremendously in proportion to the\nnumber of Wind chips equipped. Boosts ATK Power\nuntil it reaches tremendous levels each time you\ndo (3 basic attacks) or (use an Active chip)."
 	},
 	{
 		"assign": "31485",
 		"jp_explainShort": "闇チップ数攻撃絶大増＋属性追加ダメージ",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、装備中のチップの\n闇属性の枚数が多いほど攻撃力を絶大に増加し\n闇属性値に応じて敵に追加で特大ダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, boosts attack power\nbased on the number of Dark Chips equipped.\nIn addition, deal extra damage based on the\nDark Attribute value."
 	},
 	{
 		"assign": "31486",
 		"jp_explainShort": "闇チップ数攻撃絶大増＋属性追加ダメージ",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、装備中のチップの\n闇属性の枚数が多いほど攻撃力を絶大に増加し\n闇属性値に応じて敵に追加で特大ダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, boosts attack power\nbased on the number of Dark Chips equipped.\nIn addition, deal extra damage based on the\nDark Attribute value."
 	},
 	{
 		"assign": "31499",
 		"jp_explainShort": "消費ＣＰ減少＋アビリティレベル技・法強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、消費ＣＰを減少し、アビリティレベルに応じ\n必殺技・法術の威力を強化する。\n消費ＣＰ減少はこのチップ発動時にも効果が適用される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, reduce CP consumption\nbased on the chip's abillity level. Boosts\nthe power of Technique skills, in addition\nto reducing CP consumption."
 	},
 	{
 		"assign": "31500",
 		"jp_explainShort": "消費ＣＰ減少＋アビリティレベル技・法大強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、消費ＣＰを減少し、アビリティレベルに応じ\n必殺技・法術の威力を大きく強化する。\n消費ＣＰ減少はこのチップ発動時にも効果が適用される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, reduce CP consumption\nbased on the chip's abillity level. Boosts\nthe power of Technique skills significantly,\nin addition to reducing CP consumption."
 	},
 	{
 		"assign": "2110",
@@ -1572,14 +1572,14 @@
 		"jp_explainShort": "ダメージを武器の上限値に収束させる",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、敵に与えるダメージを\n装備中の武器における上限値に収束する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, makes it easier\nfor the weapon to attain its maximum\ndamage values for a set amount of time."
 	},
 	{
 		"assign": "80920",
 		"jp_explainShort": "ダメージを武器の上限値に収束させる",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、敵に与えるダメージを\n装備中の武器における上限値に収束する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, makes it easier\nfor the weapon to attain its maximum\ndamage values for a set amount of time."
 	},
 	{
 		"assign": "81010",
