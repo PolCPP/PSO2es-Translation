@@ -1536,13 +1536,18 @@
 	},
 	{
 		"assign": "equip_guide_01",
-		"jp_text": "<color=#f0df60>武器やチップをタッチすると、装備の変更を行うことができます。武器やチップを長押しすると、詳細情報を確認できます。</color>",
-		"tr_text": "<color=#f0df60>If you touch the chip/weapon, you can equip it. If you press and hold over the chip/weapon, you can see more information about it.</color>"
+		"jp_text": "<color=#f0df60>武器・チップ・ユニットをタッチすると、装備の変更を行うことができます。アイテムアイコンを長押しすると、詳細情報を確認できます。迷ったらおすすめ装備をタッチしましょう。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "equip_guide_14",
 		"jp_text": "<color=#f0df60>装備したい武器を選んでください。武器を長押しすると、詳細情報を確認できます。</color>",
 		"tr_text": "<color=#f0df60>Please select the weapon you'd like to equip. If you press and hold on it, you can see more information about it.</color>"
+	},
+	{
+		"assign": "equip_guide_15",
+		"jp_text": "<color=#f0df60>詳細設定を押すと、「おすすめ装備」で選択する条件を細かく指定することができます。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "equip_guide_02",
@@ -1566,8 +1571,8 @@
 	},
 	{
 		"assign": "equip_guide_11",
-		"jp_text": "<color=#f0df60>コスチューム、パーツ、ユニットをタッチすると、装備の変更を行うことができます。アイテムのアイコンを長押しすると、詳細情報を確認できます。</color>",
-		"tr_text": "<color=#f0df60>Select your costumes, parts, or units to equip them. If you press and hold on them, you can see more information about them.</color>"
+		"jp_text": "<color=#f0df60>コスチューム、パーツをタッチすると、装備の変更を行うことができます。アイテムのアイコンを長押しすると、詳細情報を確認できます。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "equip_guide_04",
@@ -1887,12 +1892,12 @@
 	{
 		"assign": "friend_dialog_t_13",
 		"jp_text": "フレンド申請",
-		"tr_text": ""
+		"tr_text": "Friend Request"
 	},
 	{
 		"assign": "friend_dialog_b_13",
 		"jp_text": "自分のフレンドの最大数に達しています。",
-		"tr_text": ""
+		"tr_text": "You reached the maximum allowed."
 	},
 	{
 		"assign": "labo_scene_name",
@@ -3232,7 +3237,7 @@
 	{
 		"assign": "mail_dialog_b_12",
 		"jp_text": "<color=#ff0000>このメールの添付アイテムは未受領です。</color>\n本当に削除してよろしいですか？",
-		"tr_text": ""
+		"tr_text": "<color=#ff0000>Attached items haven't been received yet.</color>\nContinue deleting?"
 	},
 	{
 		"assign": "mail_dialog_t_13",
@@ -4936,8 +4941,8 @@
 	},
 	{
 		"assign": "questcounter_guide_00",
-		"jp_text": "<color=#f0df60>ジェネやモアと共に冒険する新たなストーリーです。Normalのエリアで獲得スコアを最大にすると、高難度なExのエリアが解放されます。</color>",
-		"tr_text": "<color=#f0df60>Please select a quest area.</color>"
+		"jp_text": "<color=#f0df60>ジェネやモアと共に冒険するストーリーです。Normalのエリアで獲得スコアを最大にすると、高難度なExのエリアが解放されます。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "questcounter_guide_01",
@@ -4968,6 +4973,41 @@
 		"assign": "questcounter_guide_06",
 		"jp_text": "<color=#f0df60>フレンドたちと共に強力なエネミーを討伐するクエストです。</color>",
 		"tr_text": "<color=#f0df60>Subdue a powerful enemy with help from friends.</color>"
+	},
+	{
+		"assign": "questcounter_guide_07",
+		"jp_text": "<color=#f0df60>Exのエリアは、強力なExエネミーたちが登場する高難度のクエストです。Normalのエリアで獲得スコアを最大にすると解放されます。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "questcounter_guide_08",
+		"jp_text": "<color=#f0df60>謎の少女デュナとトランスエネミーを巡る新たなストーリーです。Normalのエリアで獲得スコアを最大にすると、高難度なExのエリアが解放されます。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_counter_header_Season2",
+		"jp_text": "ストーリークエスト",
+		"tr_text": "Story Quest"
+	},
+	{
+		"assign": "quest_counter_story_bonus_window_title",
+		"jp_text": "ストーリー情報",
+		"tr_text": "Story Info"
+	},
+	{
+		"assign": "quest_counter_story_caption_title",
+		"jp_text": "ストーリーボーナス",
+		"tr_text": "Story Bonus"
+	},
+	{
+		"assign": "quest_counter_story_bonus_medal",
+		"jp_text": "ラッピーメダル　1枚",
+		"tr_text": "Rappy Coin 1st Sheet"
+	},
+	{
+		"assign": "quest_counter_story_bonus_info",
+		"jp_text": "※ストーリー閲覧後に、ストーリーボーナスは\n　受け取りボックスへ送られます。",
+		"tr_text": "※After viewing the story, a story bonus\nwill be placed in the reception box."
 	},
 	{
 		"assign": "quest_counter_bonus_exp",
@@ -5021,8 +5061,8 @@
 	},
 	{
 		"assign": "quest_counter_unarmed_b",
-		"jp_text": "現在、武器を装備しておりません。\nこのまま出発しますか？\n\n武器を装備する場合は、「いいえ」選択後に\n画面右下の「武器／チップ装備」を\nタッチしてください。",
-		"tr_text": "You're currently unarmed.\nAre you sure you're ok?"
+		"jp_text": "現在、武器を装備しておりません。\nこのまま出発しますか？\n\n武器を装備する場合は、「いいえ」選択後に\n画面右下の「装備」をタッチしてください。",
+		"tr_text": ""
 	},
 	{
 		"assign": "questcounter_shortage_drive_b",
@@ -5057,17 +5097,17 @@
 	{
 		"assign": "quest_counter_enemy_hidden",
 		"jp_text": "？",
-		"tr_text": "??"
+		"tr_text": "?"
 	},
 	{
 		"assign": "quest_counter_get_medal",
 		"jp_text": "<%high_score>　<color=#68a0a7>/</color>　<%max>",
-		"tr_text": "Best Score　　<%high_score>　<color=#68a0a7>/</color>　<%max>"
+		"tr_text": "<%high_score>　<color=#68a0a7>/</color>　<%max>"
 	},
 	{
 		"assign": "quest_counter_area_medal",
 		"jp_text": "<%high_score>　<color=#68a0a7>/</color>　<%max>",
-		"tr_text": ""
+		"tr_text": "<%high_score>　<color=#68a0a7>/</color>　<%max>"
 	},
 	{
 		"assign": "quest_counter_medalbonus",
@@ -5096,13 +5136,13 @@
 	},
 	{
 		"assign": "quest_counter_button_equip1",
-		"jp_text": "武器/チップ装備",
-		"tr_text": "Weapons/Chips"
+		"jp_text": "装備",
+		"tr_text": "Equipment"
 	},
 	{
 		"assign": "quest_counter_button_equip2",
-		"jp_text": "防具装備",
-		"tr_text": "Equip Armor"
+		"jp_text": "コスチューム",
+		"tr_text": "Costume Type"
 	},
 	{
 		"assign": "quest_counter_button_areainfo",
@@ -5542,7 +5582,7 @@
 	{
 		"assign": "reward_caption_bonus",
 		"jp_text": "オペレーションスコア内訳",
-		"tr_text": ""
+		"tr_text": "Score Breakdown"
 	},
 	{
 		"assign": "reward_caption_clear_info",
@@ -5627,7 +5667,7 @@
 	{
 		"assign": "reward_enemy_type_7",
 		"jp_text": "覇滅種",
-		"tr_text": "Extinct Type"
+		"tr_text": "Superior Type"
 	},
 	{
 		"assign": "reward_enemy_lv_high",
@@ -5917,12 +5957,12 @@
 	{
 		"assign": "scratch_message_04",
 		"jp_text": "このスクラッチあと<color=#ffff00<%alpha>>{0}回</color>で次のボーナスがもらえます！",
-		"tr_text": ""
+		"tr_text": "You can receive a bonus in <color=#ffff00<%alpha>>{0}</color> times after a scratch!"
 	},
 	{
 		"assign": "scratch_message_05",
 		"jp_text": "<color=#ffff00<%alpha>>スクラッチ回数ボーナス！</color>\n\nボーナス報酬を受け取りボックスへ送りました。\n\nロビーの「受け取り」ボタンから受け取ってください。",
-		"tr_text": ""
+		"tr_text": "<color=#ffff00<%alpha>>Current Scratch Bonus!</color>\n\nSent to Reception Box.\n\nPlease accept them from the lobby."
 	},
 	{
 		"assign": "scratch_dialog_t_12",
@@ -5982,7 +6022,7 @@
 	{
 		"assign": "scratch_bonus_list_header_status",
 		"jp_text": "ボーナスまでの回数",
-		"tr_text": "Times til Bonus"
+		"tr_text": "Times till Bonus"
 	},
 	{
 		"assign": "scratch_bonus_list_header_name",
@@ -6056,8 +6096,8 @@
 	},
 	{
 		"assign": "quest_dialog_b_03",
-		"jp_text": "ラッピーメダルか復活薬を消費して復活しますか？\nリタイアするとクエスト中に得たアイテム、経験値等がすべて失われます。\n（復活薬がない場合は<%AC>を使って復活できます）\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>\n\n必要復活薬：<%consume_scape_doll_es>個\n所持復活薬：<%current_scape_doll_es>",
-		"tr_text": "Do you want to revive using AC/Rappy Coins?\nAll Items, EXP, Meseta is lost if you choose to retire.\n\nRappy Coins needed： <%consume_rappy_coin>\nRappy Coins owned： <%current_rappy_coin>\n\nScape Dolls needed：<%consume_scape_doll_es>\nDolls owned：<%current_scape_doll_es>"
+		"jp_text": "ラッピーメダルか復活薬を消費して復活しますか？\nリタイアするとクエスト中に得たアイテム、経験値等がすべて失われます。\n\n<color=#ffff00>復活薬か<%AC>を使って復活するとすべてのPSEがMAX状態で復活します。\nMAX状態は、このバトルをクリアすると元に戻ります。</color>\nラッピーメダルでの復活ではPSEのMAX効果はありません。\n\n必要復活薬：<%consume_scape_doll_es>個\n所持復活薬：<%current_scape_doll_es>\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>　　　※復活するとHPとCPが全回復します。",
+		"tr_text": "Revive with a Rappy Coin or revive using a Scape Doll?\nIf you select retire, items gained from the current quest will be lost.\n\n<color=#ffff00>When restored with <%AC> or a Scape Doll, your PSEs will be\nrestored to their MAX state until after the battle ends.</color>\nOnly CP and HP will be recovered if using Rappy Coins.\n\nRequired Scape Dolls: <%consume_scape_doll_es>\nScape Dolls owned: <%current_scape_doll_es>\n\nRequired Rappy Coins: <%consume_rappy_coin>\nRappy Coins owned: <%current_rappy_coin>"
 	},
 	{
 		"assign": "quest_dialog_b_03_retire",
@@ -6071,8 +6111,8 @@
 	},
 	{
 		"assign": "quest_dialog_b_03_scape",
-		"jp_text": "復活薬を使用",
-		"tr_text": "Use Scape Doll"
+		"jp_text": "<color=#ffff00>復活薬を使用</color>",
+		"tr_text": "<color=#ffff00>Use Scape Dolls</color>"
 	},
 	{
 		"assign": "quest_dialog_t_04",
@@ -6117,7 +6157,7 @@
 	{
 		"assign": "quest_npc_t_01",
 		"jp_text": "コフィー",
-		"tr_text": "Coffey"
+		"tr_text": "Koffie"
 	},
 	{
 		"assign": "quest_npc_b_01",
@@ -6212,22 +6252,22 @@
 	{
 		"assign": "field_exp",
 		"jp_text": "ＥＸＰ",
-		"tr_text": "EXP\t\t"
+		"tr_text": "EXP"
 	},
 	{
 		"assign": "field_meseta",
 		"jp_text": "メセタ",
-		"tr_text": "Meseta\t\t\t"
+		"tr_text": "Meseta"
 	},
 	{
 		"assign": "field_item",
 		"jp_text": "アイテム",
-		"tr_text": "Item  "
+		"tr_text": "Item"
 	},
 	{
 		"assign": "field_score",
 		"jp_text": "スコア",
-		"tr_text": "Score\t\t\t"
+		"tr_text": "Score"
 	},
 	{
 		"assign": "fieldoption_category_windowtitle",
@@ -6372,7 +6412,7 @@
 	{
 		"assign": "quest_result_lv",
 		"jp_text": "Lv.",
-		"tr_text": ""
+		"tr_text": "Lv."
 	},
 	{
 		"assign": "questresult_result_button",
@@ -6382,7 +6422,7 @@
 	{
 		"assign": "questresult_result_title",
 		"jp_text": "クエスト報酬",
-		"tr_text": " Quest Results"
+		"tr_text": "Quest Results"
 	},
 	{
 		"assign": "questresult_result_getexp",
@@ -6392,7 +6432,7 @@
 	{
 		"assign": "questresult_result_exp",
 		"jp_text": "EXP",
-		"tr_text": " EXP "
+		"tr_text": "EXP"
 	},
 	{
 		"assign": "questresult_result_getmeseta",
@@ -6402,7 +6442,7 @@
 	{
 		"assign": "questresult_result_meseta",
 		"jp_text": "メセタ",
-		"tr_text": "Meseta    "
+		"tr_text": "Meseta"
 	},
 	{
 		"assign": "questresult_result_nextlevel",
@@ -6417,7 +6457,7 @@
 	{
 		"assign": "questresult_result_level",
 		"jp_text": "Lv.",
-		"tr_text": ""
+		"tr_text": "Lv."
 	},
 	{
 		"assign": "questresult_result_point",
@@ -6472,17 +6512,17 @@
 	{
 		"assign": "questresult_level_level",
 		"jp_text": "Lv.",
-		"tr_text": ""
+		"tr_text": "Lv."
 	},
 	{
 		"assign": "questresult_level_hp",
 		"jp_text": "HP",
-		"tr_text": ""
+		"tr_text": "HP"
 	},
 	{
 		"assign": "questresult_level_cp",
 		"jp_text": "CP",
-		"tr_text": ""
+		"tr_text": "CP"
 	},
 	{
 		"assign": "questresult_level_strike",
@@ -6547,7 +6587,7 @@
 	{
 		"assign": "questresult_weaponoid_window",
 		"jp_text": "キャラクター一覧",
-		"tr_text": ""
+		"tr_text": "Character List"
 	},
 	{
 		"assign": "questresult_weaponoid_story_open",
@@ -6557,7 +6597,7 @@
 	{
 		"assign": "questresult_weaponoid_limit",
 		"jp_text": "ゲージ上昇UP",
-		"tr_text": ""
+		"tr_text": "Gauge Rise UP"
 	},
 	{
 		"assign": "questresult_weaponoid_ability",
@@ -7426,8 +7466,8 @@
 	},
 	{
 		"assign": "weapon_chip_palette",
-		"jp_text": "武器/チップパレット",
-		"tr_text": "Weapon/Chip Palette"
+		"jp_text": "装備パレット",
+		"tr_text": "Equipment"
 	},
 	{
 		"assign": "weapon",
@@ -7761,8 +7801,8 @@
 	},
 	{
 		"assign": "equip_header",
-		"jp_text": "武器/チップ装備",
-		"tr_text": "Weapons/Chips"
+		"jp_text": "装備",
+		"tr_text": "Equipment"
 	},
 	{
 		"assign": "equip_return",
@@ -7935,6 +7975,11 @@
 		"tr_text": "Show Names"
 	},
 	{
+		"assign": "player_status",
+		"jp_text": "プレイヤーステータス",
+		"tr_text": ""
+	},
+	{
 		"assign": "illustrator_label",
 		"jp_text": "illustrated by",
 		"tr_text": "Illustrated by "
@@ -7961,8 +8006,8 @@
 	},
 	{
 		"assign": "guard_equip",
-		"jp_text": "防具装備",
-		"tr_text": "Equip Armor"
+		"jp_text": "コスチューム",
+		"tr_text": "Costume"
 	},
 	{
 		"assign": "player_guard_status",
@@ -7971,8 +8016,8 @@
 	},
 	{
 		"assign": "guard_palette",
-		"jp_text": "防具パレット",
-		"tr_text": "Armor Palette"
+		"jp_text": "コスチューム／パーツ",
+		"tr_text": "Costume/Parts"
 	},
 	{
 		"assign": "parts_palette_title",
@@ -7987,7 +8032,7 @@
 	{
 		"assign": "costume_palette_title",
 		"jp_text": "コスチューム",
-		"tr_text": "Costume Type"
+		"tr_text": "Costume"
 	},
 	{
 		"assign": "outer_palette_title",
@@ -8926,23 +8971,23 @@
 	},
 	{
 		"assign": "loginbonus_chara_name",
-		"jp_text": "<color=#FFFFFF>モア</color>",
-		"tr_text": "<color=#FFFFFF>More</color>"
+		"jp_text": "<color=#FFFFFF>ジェネ</color>",
+		"tr_text": "<color=#FFFFFF>Gene</color>"
 	},
 	{
 		"assign": "loginbonus_first_message",
-		"jp_text": "<color=#000000>よう、今日も元気そうだな！</color>",
-		"tr_text": "<color=#000000>This will be great!</color>"
+		"jp_text": "<color=#000000>今日もはりきって行きましょうね！</color>",
+		"tr_text": "<color=#000000>Let's do our best today!</color>"
 	},
 	{
 		"assign": "loginbonus_selafy_next",
-		"jp_text": "<color=#000000>明日もまってるぜ！</color>",
-		"tr_text": "<color=#000000>Can't wait for tomorrow!</color>"
+		"jp_text": "<color=#000000>明日も待ってます！</color>",
+		"tr_text": "<color=#000000>I'll be waiting tomorrow!</color>"
 	},
 	{
 		"assign": "loginbonus_selafy_complete",
-		"jp_text": "<color=#000000>やったな、おめでとう！</color>",
-		"tr_text": "<color=#000000>Whatever you did, congrats!</color>"
+		"jp_text": "<color=#000000>リーダー、おめでとうございます！</color>",
+		"tr_text": "<color=#000000>Leader, congratulations!</color>"
 	},
 	{
 		"assign": "loginbonus_premium_warning",
@@ -9106,13 +9151,13 @@
 	},
 	{
 		"assign": "menu_equip_weapon",
-		"jp_text": "武器／チップ装備",
-		"tr_text": "Weapons/Chips"
+		"jp_text": "装備",
+		"tr_text": "Equip"
 	},
 	{
 		"assign": "menu_equip_guard",
-		"jp_text": "防具装備",
-		"tr_text": "Equip Armor"
+		"jp_text": "コスチューム",
+		"tr_text": "Costume"
 	},
 	{
 		"assign": "menu_equip_class",
@@ -9550,6 +9595,11 @@
 		"tr_text": "<color=#f0df64>If you link PSO2es to Twitter, you can receive exclusive rewards.</color>"
 	},
 	{
+		"assign": "community_guide_14",
+		"jp_text": "<color=#f0df64>ヘルプメニューの利用したい項目を選択してください。</color>",
+		"tr_text": "<color=#f0df64>If you need help, select the Help Menu button.</color>"
+	},
+	{
 		"assign": "community_top",
 		"jp_text": "コミュニティメニュー",
 		"tr_text": "Community Menu"
@@ -9573,6 +9623,11 @@
 		"assign": "community_sns",
 		"jp_text": "Twitter連動",
 		"tr_text": "Link Twitter"
+	},
+	{
+		"assign": "community_help",
+		"jp_text": "ヘルプメニュー",
+		"tr_text": "Help Menu"
 	},
 	{
 		"assign": "community_new_mail",
@@ -9847,37 +9902,37 @@
 	{
 		"assign": "friend_login_1",
 		"jp_text": "{0}分以内",
-		"tr_text": "Last seen {0} minutes ago"
+		"tr_text": "Last online: {0} min ago"
 	},
 	{
 		"assign": "friend_login_2",
 		"jp_text": "{0}時間以内",
-		"tr_text": "Last seen {0} hours ago"
+		"tr_text": "Last online: {0} hours ago"
 	},
 	{
 		"assign": "friend_login_3",
 		"jp_text": "3日以内",
-		"tr_text": "Last seen 3 days ago"
+		"tr_text": "Last online: 3 days ago"
 	},
 	{
 		"assign": "friend_login_4",
 		"jp_text": "7日以内",
-		"tr_text": "Last seen 7 days ago"
+		"tr_text": "Last online: 7 days ago"
 	},
 	{
 		"assign": "friend_login_5",
 		"jp_text": "10日以内",
-		"tr_text": "Last seen 10 days ago"
+		"tr_text": "Last online: 10 days ago"
 	},
 	{
 		"assign": "friend_login_6",
 		"jp_text": "10日以上",
-		"tr_text": "Last seen more than 10 days ago"
+		"tr_text": "Last online: 10+ days"
 	},
 	{
 		"assign": "friend_login_7",
 		"jp_text": "30日以上",
-		"tr_text": "Last seen more than 30 days ago"
+		"tr_text": "Last online: 30+ days"
 	},
 	{
 		"assign": "friend_register_date",
@@ -10092,7 +10147,7 @@
 	{
 		"assign": "tu_0005_n00_b",
 		"jp_text": "<color=black>大変長らくお待たせいたしました。\n『PSO2es』のデータの\nダウンロードが完了しました！</color>",
-		"tr_text": "<color=black>Thank you for your patience.\nDownload of the 『PSO2es』 data\nis now complete!</color>"
+		"tr_text": "<color=black>Thank you for your patience.\nDownload of the [PSO2es] data\nis now complete!</color>"
 	},
 	{
 		"assign": "tu_0005_n01_b",
@@ -10107,7 +10162,7 @@
 	{
 		"assign": "tu_0005_n03_b",
 		"jp_text": "<color=black>すでにアークスとして\n登録済みのかたですね。\nそれでは、『PSO2es』への\nログインを進めましょう！</color>",
-		"tr_text": "<color=black>Great! You're already\nan ARKS member.\nLet's start 『PSO2es』!</color>"
+		"tr_text": "<color=black>Great! You're already\nan ARKS member.\nLet's start [PSO2es]!</color>"
 	},
 	{
 		"assign": "tu_0005_n04_b",
@@ -10312,7 +10367,7 @@
 	{
 		"assign": "tu_0000_w00_b",
 		"jp_text": "通常攻撃の後にタイミング良く画面をタッチすると\n「ジャストアタック」が発動し、攻撃の威力が増します。\n発動に成功すると、ダメージの数値に円状の光がつきます。",
-		"tr_text": "Time your attacks according to the\ncircle that appears around you\nafter an attack.\nWhen it’s red, you attack!"
+		"tr_text": "Time your attacks according to the\ncircle that appears around you\nafter an attack.\nWhen it's red, you attack!"
 	},
 	{
 		"assign": "tu_0001_n00_b",
@@ -10336,8 +10391,8 @@
 	},
 	{
 		"assign": "tu_0001_n03_b",
-		"jp_text": "<color=black>続けて、「武器／チップ装備」を\nタッチしてください。</color>",
-		"tr_text": "<color=black>Please touch the button\nlabeled \"Weapons/Chips.\"</color>"
+		"jp_text": "<color=black>続けて、「装備」をタッチしてください。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "tu_0001_n04_b",
@@ -10742,7 +10797,7 @@
 	{
 		"assign": "tu_0004_n05_b",
 		"jp_text": "<color=black>これがスクラッチのメニュー画面です。\nいろいろなスクラッチがありますが\n今回は「ｅｓスクラッチ」を引いてみましょう。</color>",
-		"tr_text": "<color=black>これがスクラッチのメニュー画面です。\nいろいろなスクラッチがありますが\n今回は「レアチップスクラッチ」を引いてみましょう。</color>"
+		"tr_text": ""
 	},
 	{
 		"assign": "tu_0004_n06_b",
@@ -10752,17 +10807,17 @@
 	{
 		"assign": "tu_0004_n07_b",
 		"jp_text": "<color=black>いいチップが手に入りましたね！\nこのように、スクラッチでは\nレアリティの高いチップを入手することができます。</color>",
-		"tr_text": "<color=black>おめでとうございます！\nいいチップが手に入りましたね。</color>"
+		"tr_text": ""
 	},
 	{
 		"assign": "tu_0004_n08_b",
 		"jp_text": "<color=black>ゲーム中、無料でもらえるポイント「FUN」で\n引けるスクラッチもありますので\nぜひ試してみてくださいね。</color>",
-		"tr_text": "<color=black>このように、スクラッチでは\nレアリティの高いチップを入手することができます。</color>"
+		"tr_text": ""
 	},
 	{
 		"assign": "tu_0004_n09_b",
 		"jp_text": "<color=black>スクラッチの説明は以上です。\nラッピーメダルをプレゼントしておきますので\nあとで使ってみてくださいね！</color>",
-		"tr_text": "<color=black>ゲーム中、無料でもらえるポイント「FUN」で\n引けるスクラッチもありますので\nぜひ試してみてくださいね。</color>"
+		"tr_text": ""
 	},
 	{
 		"assign": "tu_0004_n10_b",
@@ -11327,7 +11382,7 @@
 	{
 		"assign": "ef_0001_n00_b",
 		"jp_text": "<color=black>森林エリアの探索任務\nおつかれさまでした！</color>",
-		"tr_text": "<color=black>The mission in the forest\nwas completed.\nGood Work!</color>"
+		"tr_text": "<color=black>The mission in the forest was completed.\nGood Work!</color>"
 	},
 	{
 		"assign": "ef_0001_n01_b",
@@ -11357,17 +11412,17 @@
 	{
 		"assign": "ef_0001_n06_b",
 		"jp_text": "<color=black>アムドゥスキアは、火山活動が活発な惑星です。\n「龍族」と呼ばれる生物がすんでいるのですが\n龍族の一部も、何らかの理由で凶暴化しています。</color>",
-		"tr_text": "<color=black>Amduscia is an Active Volcanic Planet.\nBut there's local inhabitants\ncalled Dragonkin.\nThey're a bit barbaric.</color>"
+		"tr_text": "<color=black>Amduscia is an Active Volcanic Planet.\nBut there's local inhabitants\ncalled Dragonkin, they're a bit barbaric.</color>"
 	},
 	{
 		"assign": "ef_0001_n07_b",
 		"jp_text": "<color=black>火山洞窟エリアを探索しつつ\n立ちふさがる凶暴化した龍族については\n交渉の余地がありませんので\nやむを得ないですが、倒してください。</color>",
-		"tr_text": "<color=black>While searching, please be careful.\nThe Dragonkin are known to be\naggressive, and refused formal negociations.\nAttack only when attacked.</color>"
+		"tr_text": "<color=black>While searching, please be careful.\nThe Dragonkin are known to be\naggressive, and refused formal negotiations.\nAttack only when attacked.</color>"
 	},
 	{
 		"assign": "ef_0001_n08_b",
 		"jp_text": "<color=black>龍族のエネミーの弱点は「氷」属性です。\nチップを氷属性のチップに装備変更しておくと\n戦いが楽になりますよ。\nでは、健闘を祈っています！</color>",
-		"tr_text": "<color=black>However, they're weak to Ice.\nIf you have an Ice Weapon or Chip,\nplease use them.\nGood luck out there!</color>"
+		"tr_text": "<color=black>However, they're weak to ice.\nIf you have an ice weapon or chip,\nplease use them.\nGood luck out there!</color>"
 	},
 	{
 		"assign": "ef_0002_n00_b",
@@ -11572,7 +11627,7 @@
 	{
 		"assign": "es_0003_n07_b",
 		"jp_text": "<color=black>コーエン博士は技術者であると同時に\nすぐれた生物学者でもありました。\nコーエン博士がもし生きていたら……\n今の現状を、どう思うでしょうね……</color>",
-		"tr_text": "<color=black>コーエン博士は技術者であると同時に\nすぐれた生物学者でもありました。\nコーエン博士がもし生きていたら……\n今の現状を、どう思うでしょうね……</color>"
+		"tr_text": "<color=black>Dr. Cohen was both an excellent\nbiologist and scientist.\nI wonder however, if he were\nstill alive, what would he think...</color>"
 	},
 	{
 		"assign": "es_0004_n00_b",
@@ -11602,127 +11657,127 @@
 	{
 		"assign": "es_0005_n00_b",
 		"jp_text": "<color=black>二回目の砂漠探索任務\nおつかれさまでした！\n今回は、収穫がありましたよ！</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>Your search in the desert\nwas a success!\nNow, for the fruit of our labor!</color>"
 	},
 	{
 		"assign": "es_0005_n01_b",
 		"jp_text": "<color=black>あなたが探索したエリアから\nコーエン博士が作成したと思われる\n特殊な「チップ」が発見されたんです。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>During your search of the area,\nwe have located a special \"chip\"\nthat was created by Dr. Cohen.</color>"
 	},
 	{
 		"assign": "es_0005_n02_b",
 		"jp_text": "<color=black>博士が開発したチップシステムの\nフォーマットとは異なる\nまったく新しい構造のチップでした。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>This chip is different from\nthe chips that were created,\nas part of the chip system.</color>"
 	},
 	{
 		"assign": "es_0005_n03_b",
 		"jp_text": "<color=black>博士のメッセージパックに\n残されていた「実験」とは\nこの新しいチップの実験のことを\n指していたのでしょうか……？</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>The Doctor's Message Pack, it was left\nwith this chip.\nThe experiments on this chip, was it\nselecting someone ... ?</color>"
 	},
 	{
 		"assign": "es_0005_n04_b",
 		"jp_text": "<color=black>この新型のチップについては\n急ぎ、解析に回すことにします。\n解析結果が出るまで\nしばらくお待ちくださいね。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>I'll have this chip rushed for analysis.\nGo kill some time, it will be a\nwhile until we get the results.</color>"
 	},
 	{
 		"assign": "es_0005_n05_b",
 		"jp_text": "<color=black>あなたの活躍のおかげで\n少しずつ、行方不明だった\nコーエン博士の手がかりが\n集まってきました。\n本当に……ありがとうございます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>Little by little, we were able to\nfind clues relating to Dr. Cohen.\nThanks ... a lot.</color>"
 	},
 	{
 		"assign": "es_0005_n06_b",
 		"jp_text": "<color=black>……</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>……</color>"
 	},
 	{
 		"assign": "es_0005_n07_b",
 		"jp_text": "<color=black>あなたに……\nお伝えしておきたいことがあります。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>There's something... that I\nneed to tell you.</color>"
 	},
 	{
 		"assign": "es_0005_n08_b",
 		"jp_text": "<color=black>コーエン博士は……\n実は、私の父親なのです。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>About Dr. Cohen...\nHe's my father.</color>"
 	},
 	{
 		"assign": "es_0005_n09_b",
 		"jp_text": "<color=black>４年前、突然姿を消した父……\nその理由は、私にもわかりません。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>Four years ago, he disappeared\nsuddenly and I don't know why.</color>"
 	},
 	{
 		"assign": "es_0005_n10_b",
 		"jp_text": "<color=black>父の行方を知りたくて\n私はアークスの管理官になりました。\nけれども、これまで手がかりは\nまったく得られませんでした。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>I wanted to find out why he suddenly went\nmissing, so I became an ARKS Administrator\nto find out why. However, there wasn't\nany leads until now.</color>"
 	},
 	{
 		"assign": "es_0005_n11_b",
 		"jp_text": "<color=black>あなたのおかげで、少しずつ……\n父の足跡が\n見えてきたような気がします。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>But thanks to you, bit by bit...\nI feel as if I can finally see\nmy father's footsteps.</color>"
 	},
 	{
 		"assign": "es_0005_n12_b",
 		"jp_text": "<color=black>父のことは、誰にも口外せぬよう\n極秘情報として\n固く口止めをされてきました。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>Anyways, please don't mention this\nto anyone else. This is strictly\nconfidential information.\nI haven't told anyone regarding this.</color>"
 	},
 	{
 		"assign": "es_0005_n13_b",
 		"jp_text": "<color=black>けれども、父の情報を求めて\n必死に戦ってくれている\nあなたの姿を見ていて……\n打ち明けずにはいられませんでした。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>I am desparate for information regarding\nmy father. And observing you like this...\nI felt that I could confide in you.</color>"
 	},
 	{
 		"assign": "es_0005_n14_b",
 		"jp_text": "<color=black>黙っていて、ごめんなさい。\nこれからも、父を捜すために\nどうか、力を貸してください。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>I'm sorry for keeping quiet about this.\nPlease, lend me your strength in searching\nfor my father.</color>"
 	},
 	{
 		"assign": "es_0006_n00_b",
 		"jp_text": "<color=black>おめでとうございます！\nこれまでの活躍が認められ\nかなり難易度の高い、★４クエストの\n任務が解放されました！</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>Congratulations, <%name>!\nDue to your hard work,\n★4-quests are now available!</color>"
 	},
 	{
 		"assign": "es_0006_n01_b",
 		"jp_text": "<color=black>そして、先日砂漠エリアで発見された\nコーエン博士の手によるものと思われる\n新型特殊チップの解析結果が\n届きました！</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>The results of the analysis regarding\nthe chip made by Dr. Cohen, have came back!</color>"
 	},
 	{
 		"assign": "es_0006_n02_b",
 		"jp_text": "<color=black>それによると……\nこのチップは「侵食エネミー」の\nデータにデバイスとして対応した\nチップであることがわかりました。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>According to this...\nThis chip contains the data on \"Boosted Enemies.\"</color>"
 	},
 	{
 		"assign": "es_0006_n03_b",
 		"jp_text": "<color=black>通常のエネミーのチップより\n格段に強力な力を発揮できる性能を\n秘めているとのことです。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>Compared to the other enemy chips,\nthis chip contains powerful abilities,\nit was made in secret.</color>"
 	},
 	{
 		"assign": "es_0006_n04_b",
 		"jp_text": "<color=black>ちなみに「侵食エネミー」とは\nダーカーの残滓によって侵され\n凶暴化が進行したエネミーのことです。\n体が赤い色になっているのが特徴です。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>\"Boosted enemies,\" incase you did not know,\nare enemies who were damaged by Darkers.\nThey become infected by their negative photons,\nthus empowering their rage, glowing red.</color>"
 	},
 	{
 		"assign": "es_0006_n05_b",
 		"jp_text": "<color=black>侵食エネミーは、通常のエネミーより\n強い力を発揮するようになっており\n非常に危険な存在です。\nなお、ドロップするアイテムも\nより強力なものになる傾向があります。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>\"Boosted Enemies\" are the same as it's\nnormal counterpart, except that they are\nempowered by their rage. They're very\ndangerous; Caution must be exerted at all\ntimes if one is to be encountered.</color>"
 	},
 	{
 		"assign": "es_0006_n06_b",
 		"jp_text": "<color=black>今回のあなたの特命任務は\n★４クエストの任務を行いながら\n各惑星を再調査することになります。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>Your mission this time is\ncomplete the ★4-quests and\ninvestigate each planet again.</color>"
 	},
 	{
 		"assign": "es_0006_n07_b",
 		"jp_text": "<color=black>★４クエストには、侵食エネミーが\n多数出現すると思われます。\nそれらを倒すことで、何か\n手がかりが得られるかもしれません。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>It seems that these boosted enemies\nappear in ★4-quests. By defeating them,\nperhaps you could discover more clues.</color>"
 	},
 	{
 		"assign": "es_0006_n08_b",
 		"jp_text": "<color=black>侵食エネミーは非常に強力ですから\nチップの効果を活かすことが\nとても重要になってきます。\nクエスト出撃前に、弱点属性を\nよく確認しておいてくださいね。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>Boosted enemies are powerful.\nEnsure that you take advantage of\neach chip, as well as the weakness\nattribute, before deploying yourself.</color>"
 	},
 	{
 		"assign": "es_0006_n09_b",
 		"jp_text": "<color=black>それでは、健闘を祈っています！\n父の……コーエン博士につながる\n情報が、見つかりますように！</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>Any information, regarding\nFather... Dr. Cohen, you may come\nacross; I wish you luck!</color>"
 	},
 	{
 		"assign": "es_0007_n00_b",
@@ -12782,7 +12837,7 @@
 	{
 		"assign": "es_0028_n04_b",
 		"jp_text": "<color=black>彼女は、発信器を所持しています。\n現在、彼女の発信器からの信号を解析し\n彼女が拉致されている場所……\n博士の本拠地と想定される座標の\n特定を急いでいます。</color>",
-		"tr_text": "<color=black>She has a transmitter on her.\nWe're tracking her signal.....\nCoordinates found.\nWe believe it's the home of the Doctor.\nHurry now!</color>"
+		"tr_text": "<color=black>She has a transmitter on her.\nWe're tracking her signal.....\nCoordinates found.\nWe believe it's the home of the Doctor.\nHurry! Quickly! Now!</color>"
 	},
 	{
 		"assign": "es_0028_n05_b",
@@ -14062,52 +14117,52 @@
 	{
 		"assign": "ItemDetail_dialog_t_00",
 		"jp_text": "「早期習熟」とは",
-		"tr_text": "Early Learner"
+		"tr_text": "About \"Early Learner\""
 	},
 	{
 		"assign": "ItemDetail_dialog_b_00",
 		"jp_text": "通常よりも早い段階で\n習熟度が最大になります。\nクラスレベルが低い場合でも\n早期に最大限の力を発揮できます。",
-		"tr_text": ""
+		"tr_text": "Allows for the early use\nof an item below the maximum\nskill requirement, to have the\nmaximum power proficiency."
 	},
 	{
 		"assign": "ItemDetail_dialog_t_01",
 		"jp_text": "「属性共鳴・攻」とは",
-		"tr_text": ""
+		"tr_text": "About \"Elemental Resonance - Attack\""
 	},
 	{
 		"assign": "ItemDetail_dialog_b_01",
 		"jp_text": "装備中の武器・チップの属性値に応じて\n武器の攻撃力が強化されます。\n武器の属性と一致する属性値を高くすると\nより大きなダメージが期待できます。",
-		"tr_text": ""
+		"tr_text": "Gain a power bonus on your weapon\nand chip loadout based on the elemental\nattribute. Increasing the matching value\nwill also increase your damage."
 	},
 	{
 		"assign": "ItemDetail_dialog_t_02",
 		"jp_text": "「限界突破」とは",
-		"tr_text": "Rebirth"
+		"tr_text": "About \"Elemental Limit Break\""
 	},
 	{
 		"assign": "ItemDetail_dialog_b_02",
 		"jp_text": "特定ステータスの限界値がアップします。\n例えば、属性の限界突破の場合\n装備中の武器・チップの属性値の合計が\n本来の限界以上であっても\nその値を超えることができます。",
-		"tr_text": ""
+		"tr_text": "Allows for the natural elemental\nattribute value limit to exceed the\nvalue current limit."
 	},
 	{
 		"assign": "ItemDetail_dialog_t_03",
 		"jp_text": "「全属性共鳴・攻」とは",
-		"tr_text": ""
+		"tr_text": "About \"All Elemental Resonance - Attack\""
 	},
 	{
 		"assign": "ItemDetail_dialog_b_03",
 		"jp_text": "装備中の武器・チップの\n全属性の合計値が高いほど\n武器の攻撃力が強化されます。",
-		"tr_text": ""
+		"tr_text": "The higher the total elemental value\nof the equipped weapon and chips, the\nhigher the weapon's attack power is\nboosted by."
 	},
 	{
 		"assign": "ItemDetail_dialog_t_04",
 		"jp_text": "「属性共鳴・技」とは",
-		"tr_text": ""
+		"tr_text": "About \"Elemental Resonance - Technique\""
 	},
 	{
 		"assign": "ItemDetail_dialog_b_04",
 		"jp_text": "武器の属性と一致する属性の\nチップのコストを軽減します。\n武器の強化値に応じて軽減する値が変化します。",
-		"tr_text": ""
+		"tr_text": "Reduces chip cost of matching chips\nsharing the same element as the weapon.\nThe cost is adjusted based on the\nweapon's elemental value."
 	},
 	{
 		"assign": "RaidEvent_tab_00",
@@ -14167,12 +14222,12 @@
 	{
 		"assign": "RaidEvent_Achievement_Text_0-1-8",
 		"jp_text": "タイプCを{1}回発見討伐 [{0} / {1}]",
-		"tr_text": ""
+		"tr_text": "Encountered Type-C {1}-times [{0} / {1}]"
 	},
 	{
 		"assign": "RaidEvent_Achievement_Text_0-1-9",
 		"jp_text": "特異種を{1}回発見討伐 [{0} / {1}]",
-		"tr_text": ""
+		"tr_text": "Encountered Exceptional {1}-times [{0} / {1}]"
 	},
 	{
 		"assign": "RaidEvent_Achievement_Text_0-1-10",
@@ -14410,6 +14465,11 @@
 		"tr_text": "Guest"
 	},
 	{
+		"assign": "quest_final_check_equip",
+		"jp_text": "武器/防具",
+		"tr_text": ""
+	},
+	{
 		"assign": "menu_invite_title",
 		"jp_text": "友達招待",
 		"tr_text": "Friend Referral"
@@ -14492,7 +14552,7 @@
 	{
 		"assign": "menu_invite_tab_reward_next_condition",
 		"jp_text": "<color=#ffff00>次の報酬まであと {0} 人！</color>",
-		"tr_text": ""
+		"tr_text": "<color=#ffff00>{0} more untill next reward!</color>"
 	},
 	{
 		"assign": "menu_invite_reward_list_title_input",
@@ -14566,8 +14626,8 @@
 	},
 	{
 		"assign": "quest_lobby_guide_00",
-		"jp_text": "<color=#f0df60>現在の装備を表示します。「武器／チップ装備」「防具装備」ボタンから、装備の変更を行えます。</color>",
-		"tr_text": "<color=#f0df61>Displays current equipment.</color>"
+		"jp_text": "<color=#f0df60>現在の装備を表示します。「装備」ボタンから、装備の変更を行えます。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "tutorial_skip_dialog_t_00",
@@ -14922,7 +14982,7 @@
 	{
 		"assign": "select_weaponoid_body",
 		"jp_text": "表示できるチップを所持していません。\nウェポノイドや外伝のあるキャラクターのチップを\n獲得すると、キャラクターの切り替えや\nボイスを楽しむことができます。",
-		"tr_text": ""
+		"tr_text": "You do not have a chip that can be displayed."
 	},
 	{
 		"assign": "fld_productionset_btn",
@@ -14937,7 +14997,7 @@
 	{
 		"assign": "fld_productionset_obi",
 		"jp_text": "チップ発動演出",
-		"tr_text": ""
+		"tr_text": "Activation Effect"
 	},
 	{
 		"assign": "fld_productionset_btn_ON",
@@ -14987,7 +15047,7 @@
 	{
 		"assign": "btl_wep_obi",
 		"jp_text": "チップ発動演出",
-		"tr_text": ""
+		"tr_text": "Activation Effect"
 	},
 	{
 		"assign": "btl_wep_btn_ON",
@@ -15747,7 +15807,7 @@
 	{
 		"assign": "ItemDetail_Parameter_GammaExpCaption",
 		"jp_text": "次の強化値まで　　　　/",
-		"tr_text": "Grind EXP\t/"
+		"tr_text": "Grind EXP"
 	},
 	{
 		"assign": "SideSt_Bonds_Lv_Effect",
@@ -15757,7 +15817,7 @@
 	{
 		"assign": "ItemDetail_Fondness_Caption",
 		"jp_text": "愛着度　/",
-		"tr_text": "SG Bar /"
+		"tr_text": "SG Bar"
 	},
 	{
 		"assign": "ItemDetail_Fondness_Acquired",
@@ -15801,8 +15861,8 @@
 	},
 	{
 		"assign": "SideSt_Dialog_b_02_0",
-		"jp_text": "・ストーリークエスト第{0}章\n　　『{1}』クリア",
-		"tr_text": "・Side Story Ch.{0}\n「{1}」 cleared"
+		"jp_text": "・ストーリークエスト Season{0} 第{1}章\n　　『{2}』クリア",
+		"tr_text": " Story Quest Season {0} Ch.{1}\n\"{2}\" clear"
 	},
 	{
 		"assign": "SideSt_Dialog_b_02_1",
@@ -15812,7 +15872,7 @@
 	{
 		"assign": "SideSt_Dialog_b_02_2",
 		"jp_text": "・『{0}』の\n　　第{1}話クリア（絆Lv.{2}）",
-		"tr_text": "・「{0}」\n　　Story #{1} Clear （Bond Lv.{2}）"
+		"tr_text": "・「{0}」\n　　Story Ch.{1} Clear （Bond Lv.{2}）"
 	},
 	{
 		"assign": "pet_rehatch_body",
@@ -16125,6 +16185,16 @@
 		"tr_text": "Let's look back\ninto our memories together!"
 	},
 	{
+		"assign": "help_character_name",
+		"jp_text": "セラフィ",
+		"tr_text": "Seraphy"
+	},
+	{
+		"assign": "help_character_text",
+		"jp_text": "知りたいことは\n何でも聞いてくださいね。",
+		"tr_text": "Select a topic for\nmore information."
+	},
+	{
 		"assign": "lookback_guide_1",
 		"jp_text": "<color=#f0df60>これまでに見たストーリーを回想できます。</color>",
 		"tr_text": "<color=#f0df60>You can recall the story events seen in the past.</color>"
@@ -16136,13 +16206,13 @@
 	},
 	{
 		"assign": "lookback_maintitle_0",
-		"jp_text": "ストーリークエスト",
-		"tr_text": "Story Quest"
+		"jp_text": "ストーリークエスト　Ｓｅａｓｏｎ１",
+		"tr_text": "Story Quest Season 1"
 	},
 	{
 		"assign": "lookback_maintext_0",
-		"jp_text": "ジェネやモアたちとの物語を振り返ります。",
-		"tr_text": "The story of Gene and More."
+		"jp_text": "ジェネやモアたちとウェポノイドを巡る\n物語を振り返ります。",
+		"tr_text": "View the story of the\nWeaponoids with Gene and More."
 	},
 	{
 		"assign": "lookback_episode_title",
@@ -16150,69 +16220,154 @@
 		"tr_text": "Chapter Selection"
 	},
 	{
-		"assign": "lookback_mainchapter_0",
+		"assign": "lookback_maintitle_1",
+		"jp_text": "ストーリークエスト　Ｓｅａｓｏｎ２",
+		"tr_text": "Story Quest Season 2"
+	},
+	{
+		"assign": "lookback_maintext_1",
+		"jp_text": "謎の少女デュナとトランスエネミーを巡る\n物語を振り返ります。",
+		"tr_text": "View the story of Duna,\nthe Trans Enemy."
+	},
+	{
+		"assign": "lookback_season1_chapter_0",
 		"jp_text": "序章　宇宙を旅する船団",
 		"tr_text": "Oracle Introduction"
 	},
 	{
-		"assign": "lookback_mainchapter_1",
+		"assign": "lookback_season1_chapter_1",
 		"jp_text": "１章　　始まりと出会い　　",
-		"tr_text": "Ch 1. The First Encounter"
+		"tr_text": "Chapter 1\nThe First Encounter"
 	},
 	{
-		"assign": "lookback_mainchapter_2",
+		"assign": "lookback_season1_chapter_2",
 		"jp_text": "２章　　ひとつの結末　　　",
-		"tr_text": "Ch 2. One Ending"
+		"tr_text": "Chapter 2\nOne Ending"
 	},
 	{
-		"assign": "lookback_mainchapter_3",
+		"assign": "lookback_season1_chapter_3",
 		"jp_text": "３章　　新たな暗影　　　　",
-		"tr_text": "Ch 3. Another Casted Shadow"
+		"tr_text": "Chapter 3\nAnother Casted Shadow"
 	},
 	{
-		"assign": "lookback_mainchapter_4",
+		"assign": "lookback_season1_chapter_4",
 		"jp_text": "４章　　揺らぐ境界　　　　",
-		"tr_text": "Ch 4. What Makes Us Different?"
+		"tr_text": "Chapter 4\nWhat Makes Us Different?"
 	},
 	{
-		"assign": "lookback_mainchapter_5",
+		"assign": "lookback_season1_chapter_5",
 		"jp_text": "５章　　異なる覚悟　　　　",
-		"tr_text": "Ch 5. Different Resolution"
+		"tr_text": "Chapter 5\nDifferent Resolution"
 	},
 	{
-		"assign": "lookback_mainchapter_6",
+		"assign": "lookback_season1_chapter_6",
 		"jp_text": "６章　　忘れられた約束　　",
-		"tr_text": "Ch 6. The Forgotten Promise"
+		"tr_text": "Chapter 6\nThe Forgotten Promise"
 	},
 	{
-		"assign": "lookback_mainchapter_7",
+		"assign": "lookback_season1_chapter_7",
 		"jp_text": "７章　　不完全な心　　　　",
-		"tr_text": "Ch 7. Incomplete Heart"
+		"tr_text": "Chapter 7\nIncomplete Heart"
 	},
 	{
-		"assign": "lookback_mainchapter_8",
+		"assign": "lookback_season1_chapter_8",
 		"jp_text": "８章　　探す道の先　　　　",
-		"tr_text": "Ch 8. Another Path To Find"
+		"tr_text": "Chapter 8\nAnother Path To Find"
 	},
 	{
-		"assign": "lookback_mainchapter_9",
+		"assign": "lookback_season1_chapter_9",
 		"jp_text": "９章　　否定する世界　　　",
-		"tr_text": "Ch 9. The World To Deny"
+		"tr_text": "Chapter 9\nThe World To Deny"
 	},
 	{
-		"assign": "lookback_mainchapter_10",
+		"assign": "lookback_season1_chapter_10",
 		"jp_text": "１０章　だから、美しい　",
-		"tr_text": "Ch 10. So Beautiful"
+		"tr_text": "Chapter 10\nSo Beautiful"
 	},
 	{
-		"assign": "lookback_mainchapter_11",
+		"assign": "lookback_season1_chapter_11",
 		"jp_text": "エピローグ",
 		"tr_text": "Epilogue"
+	},
+	{
+		"assign": "lookback_season2_chapter_1",
+		"jp_text": "１章　　想像する悪意",
+		"tr_text": "Chapter 1\nImagining Malice"
+	},
+	{
+		"assign": "lookback_season2_chapter_2",
+		"jp_text": "２章　　塞がれた世界",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_season2_chapter_3",
+		"jp_text": "３章　　それぞれの「理由」",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_season2_chapter_4",
+		"jp_text": "４章　　歌の続き　",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_season2_chapter_5",
+		"jp_text": "５章　　生きる場所　　",
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_menu_lookback",
 		"jp_text": "ストーリー閲覧室",
 		"tr_text": "Story Room"
+	},
+	{
+		"assign": "lobby_help_charastatus",
+		"jp_text": "キャラクター / ステータス",
+		"tr_text": "Character / Status"
+	},
+	{
+		"assign": "lobby_help_equip",
+		"jp_text": "装備",
+		"tr_text": "Equipment"
+	},
+	{
+		"assign": "lobby_help_chip",
+		"jp_text": "チップ",
+		"tr_text": "Chip"
+	},
+	{
+		"assign": "lobby_help_grindsale",
+		"jp_text": "強化 / 売却",
+		"tr_text": "Strengthen / Sell"
+	},
+	{
+		"assign": "lobby_help_quest",
+		"jp_text": "クエスト",
+		"tr_text": "Quest"
+	},
+	{
+		"assign": "lobby_help_community",
+		"jp_text": "コミュニティ",
+		"tr_text": "Community"
+	},
+	{
+		"assign": "lobby_help_scratch",
+		"jp_text": "スクラッチ",
+		"tr_text": "Scratch"
+	},
+	{
+		"assign": "lobby_help_shop",
+		"jp_text": "ショップ",
+		"tr_text": "Shop"
+	},
+	{
+		"assign": "lobby_help_main",
+		"jp_text": "PSO2連動",
+		"tr_text": "PSO2 Linking"
+	},
+	{
+		"assign": "lobby_help_etc",
+		"jp_text": "その他",
+		"tr_text": "Other"
 	},
 	{
 		"assign": "lookback_event_title",
@@ -16252,12 +16407,12 @@
 	{
 		"assign": "arks_exp_result_reward_exp_text",
 		"jp_text": "経験値　/",
-		"tr_text": "EXP /"
+		"tr_text": "EXP"
 	},
 	{
 		"assign": "arks_exp_result_reward_meseta_text",
 		"jp_text": "メセタ　 /",
-		"tr_text": "Meseta /"
+		"tr_text": "Meseta"
 	},
 	{
 		"assign": "arks_exp_result_stack_num_text",
@@ -16272,17 +16427,17 @@
 	{
 		"assign": "arks_exp_quest_pickup_item_text",
 		"jp_text": "目玉アイテム 　 /",
-		"tr_text": "Featured     /"
+		"tr_text": "Featured"
 	},
 	{
 		"assign": "arks_exp_quest_exp_text",
 		"jp_text": "経験値　/",
-		"tr_text": "EXP    /"
+		"tr_text": "EXP"
 	},
 	{
 		"assign": "arks_exp_quest_meseta_text",
 		"jp_text": "メセタ　 /",
-		"tr_text": "Meseta /"
+		"tr_text": "Meseta"
 	},
 	{
 		"assign": "arks_exp_quest_bonus_info",
@@ -16292,12 +16447,12 @@
 	{
 		"assign": "arks_exp_quest_drop_num_text",
 		"jp_text": "アイテム獲得枠　/",
-		"tr_text": "Item Acq. Frame /"
+		"tr_text": "Item Acq. Frame"
 	},
 	{
 		"assign": "arks_exp_quest_rera_text",
 		"jp_text": "レアドロップ倍率 /",
-		"tr_text": "Rare Drop %  /"
+		"tr_text": "Rare Drop %"
 	},
 	{
 		"assign": "arks_exp_quest_lap_text",
@@ -17442,7 +17597,7 @@
 	{
 		"assign": "scratch_pickup_select_window_count",
 		"jp_text": "あと<color=yellow>{0}</color>個",
-		"tr_text": ""
+		"tr_text": "<color=yellow>{0}</color>"
 	},
 	{
 		"assign": "scratch_pickup_select_guide",
@@ -17472,7 +17627,7 @@
 	{
 		"assign": "scratch_pickup_pickup_count",
 		"jp_text": "{0}回",
-		"tr_text": ""
+		"tr_text": "x{0}"
 	},
 	{
 		"assign": "scratch_guide_02",
@@ -17513,5 +17668,65 @@
 		"assign": "ItemDetail_accessory_message",
 		"jp_text": "<color=yellow>このコスチュームを装備しているときは\n『PSO2es』ではアクセサリーは表示されません。</color>",
 		"tr_text": "<color=yellow>When equipped with this costume,\ncertain accessories in PSO2es are not displayed.</color>"
+	},
+	{
+		"assign": "quest_clear_reward_dialog_title",
+		"jp_text": "クエスト クリア報酬",
+		"tr_text": "Quest Clear Reward"
+	},
+	{
+		"assign": "quest_clear_reward_dialog_body",
+		"jp_text": "クエストクリアおめでとうございます！\n以下のクリア報酬をプレゼントいたします。\n受け取りボックスをご確認ください。",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_clear_reward_dialog_title_6104004",
+		"jp_text": "ストーリークエスト Season2　1章クリア",
+		"tr_text": "Story Quest Season 2 Ch.1 Clear"
+	},
+	{
+		"assign": "quest_clear_reward_dialog_body_6104004",
+		"jp_text": "Season2　1章クリアおめでとうございます！\n以下のクリア報酬をプレゼントいたします。\n受け取りボックスをご確認ください。",
+		"tr_text": "Season 2 Ch.1 Cleared!\nYou shall receive a clear reward.\nPlease accept from the Reception Box."
+	},
+	{
+		"assign": "recommended_equipment",
+		"jp_text": "おすすめ装備",
+		"tr_text": "Recommended Equipment"
+	},
+	{
+		"assign": "recommended_category_strike",
+		"jp_text": "打撃系",
+		"tr_text": "S-ATK"
+	},
+	{
+		"assign": "recommended_category_firearm",
+		"jp_text": "射撃系",
+		"tr_text": "R-ATK"
+	},
+	{
+		"assign": "recommended_category_tecnic",
+		"jp_text": "法撃系",
+		"tr_text": "T-ATK"
+	},
+	{
+		"assign": "recommended_not_applicable",
+		"jp_text": "該当なし",
+		"tr_text": "Not applicable"
+	},
+	{
+		"assign": "recommended_disagree",
+		"jp_text": "条件に一致する武器を持っていません。\n\n",
+		"tr_text": "Weapon does not meet the requirements.\n\n"
+	},
+	{
+		"assign": "recommended_no_tecnic",
+		"jp_text": "法術チップを所持していません。\n\n",
+		"tr_text": "T-ATK does not meet the requirements.\n\n"
+	},
+	{
+		"assign": "recommended_select_decide",
+		"jp_text": "パレットに反映する",
+		"tr_text": "Recommend Palette"
 	}
 ]

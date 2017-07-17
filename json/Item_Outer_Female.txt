@@ -210,6 +210,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "24078",
+		"jp_text": "カブキカミトキ夜[Ou]",
+		"tr_text": "",
+		"jp_explain": "とある地域の伝統的な衣装を大胆に\nアレンジした服装。異様な風体だが\n派手で力強いシルエットが印象的。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "24084",
 		"jp_text": "ノーヴィカッツェ[Ou]",
 		"tr_text": "Novi Katze [Ou]",
@@ -381,6 +388,13 @@
 		"assign": "240165",
 		"jp_text": "アベントレイス[Ou]",
 		"tr_text": "Avent Lace [Ou]",
+		"jp_explain": "ベルトや金属パーツが所々についた\nファンタジックなデザインのコート。\nその出で立ちは、さながら冒険者。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240166",
+		"jp_text": "アベントレイス鋼[Ou]",
+		"tr_text": "",
 		"jp_explain": "ベルトや金属パーツが所々についた\nファンタジックなデザインのコート。\nその出で立ちは、さながら冒険者。",
 		"tr_explain": ""
 	},
@@ -557,6 +571,97 @@
 		"jp_text": "タイトジャケット[Ou]",
 		"tr_text": "Tight Jacket [Ou]",
 		"jp_explain": "上質な生地のシンプルなジャケット。\n身体にフィットした細身のシルエットで\n女性らしく、おしゃれに着こなせる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240258",
+		"jp_text": "カテドラルスーツＦ[Ou]",
+		"tr_text": "",
+		"jp_explain": "敬虔な信心を絶やさなかった者にのみ\n着用が許される由緒正しき正装。\n服装それ自体が肩書きとなり得る服。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240262",
+		"jp_text": "ミューズフラウ[Ou]",
+		"tr_text": "Muse Frau [Ou]",
+		"jp_explain": "光の果てにある未来への標として\n高らかに空へと舞い上がる\n美しく愛おしい歌姫のための衣装。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240266",
+		"jp_text": "セイレンフラウ[Ou]",
+		"tr_text": "Siren Frau [Ou]",
+		"jp_explain": "きらめく星の輝きを具現した\n世界を繋ぐ歌姫のための衣装。\nその鮮烈な光は銀河を翔けぬける。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240270",
+		"jp_text": "クランマリーヌ[Ou]",
+		"tr_text": "Clan Marine [Ou]",
+		"jp_explain": "海を自由に生きる者たちをイメージして\n作られた衣装。立派な装飾がされており\n物語の登場人物のような印象を与える。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240274",
+		"jp_text": "幻創使徒礼装・氷[Ou]",
+		"tr_text": "Phantom Apostle Ice [Ou]",
+		"jp_explain": "マザー・クラスタの使徒だった時に\nコオリが纏っていた使徒礼装。\n不安定な精神状態が服に表れている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240275",
+		"jp_text": "幻創使徒礼装・氷　紅[Ou]",
+		"tr_text": "Phantom Apostle Ice Crimson [Ou]",
+		"jp_explain": "マザー・クラスタの使徒だった時に\nコオリが纏っていた使徒礼装。\n不安定な精神状態が服に表れている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240276",
+		"jp_text": "幻創使徒礼装・氷v2[Ou]",
+		"tr_text": "Phantom Apostle Ice v2 [Ou]",
+		"jp_explain": "マザー・クラスタの使徒だった時に\nコオリが纏っていた使徒礼装。\n不安定な精神状態が服に表れている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240277",
+		"jp_text": "幻創使徒礼装・日[Ou]",
+		"tr_text": "Phantom Apostle Sun [Ou]",
+		"jp_explain": "マザー・クラスタ、日の使徒\nオークゥが纏う使徒礼装。フルの礼装に\n合わせたため、似た部分が多い。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240278",
+		"jp_text": "幻創使徒礼装・日　紅[Ou]",
+		"tr_text": "Phantom Apostle Sun Crimson [Ou]",
+		"jp_explain": "マザー・クラスタ、日の使徒\nオークゥが纏う使徒礼装。フルの礼装に\n合わせたため、似た部分が多い。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240279",
+		"jp_text": "幻創使徒礼装・日v2[Ou]",
+		"tr_text": "Phantom Apostle Sun v2 [Ou]",
+		"jp_explain": "マザー・クラスタ、日の使徒\nオークゥが纏う使徒礼装。フルの礼装に\n合わせたため、似た部分が多い。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240280",
+		"jp_text": "幻創使徒礼装・月[Ou]",
+		"tr_text": "Phantom Apostle Moon [Ou]",
+		"jp_explain": "マザー・クラスタ、月の使徒\nフルが纏う使徒礼装。どこか物語の\n登場人物を思わせる装飾が多め。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240281",
+		"jp_text": "幻創使徒礼装・月　紅[Ou]",
+		"tr_text": "Phantom Apostle Moon Crimson [Ou]",
+		"jp_explain": "マザー・クラスタ、月の使徒\nフルが纏う使徒礼装。どこか物語の\n登場人物を思わせる装飾が多め。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240282",
+		"jp_text": "幻創使徒礼装・月v2[Ou]",
+		"tr_text": "Phantom Apostle Moon v2 [Ou]",
+		"jp_explain": "マザー・クラスタ、月の使徒\nフルが纏う使徒礼装。どこか物語の\n登場人物を思わせる装飾が多め。",
 		"tr_explain": ""
 	}
 ]
