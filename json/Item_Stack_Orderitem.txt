@@ -109,28 +109,28 @@
 		"jp_text": "ロックベアの角",
 		"tr_text": "Rockbear Horn",
 		"jp_explain": "ロックベアから採れた角。",
-		"tr_explain": ""
+		"tr_explain": "A horn from a Rockbear."
 	},
 	{
 		"assign": "33016",
 		"jp_text": "ロックベアの牙",
 		"tr_text": "Rockbear Fang",
 		"jp_explain": "ロックベアから採れた牙。\n\n依頼者：<c a1ff6d>ローラ<c>　再受注不可",
-		"tr_explain": ""
+		"tr_explain": "Fangs from a Rockbear.\n\nRequestor: <c a1ff6d>Lola<c>"
 	},
 	{
 		"assign": "33017",
 		"jp_text": "スノウバンサーの牙",
 		"tr_text": "Snow Banther Fangs",
 		"jp_explain": "スノウバンサーから採れた牙。\n\n依頼者：<c a1ff6d>ローラ<c>　再受注不可",
-		"tr_explain": ""
+		"tr_explain": "Fangs from a Snow Banther.\n\nRequestor: <c a1ff6d>Lola<c>"
 	},
 	{
 		"assign": "33018",
 		"jp_text": "スノウバンシーの爪",
 		"tr_text": "Snow Banshee Claws",
 		"jp_explain": "スノウバンシーから採れた爪。",
-		"tr_explain": ""
+		"tr_explain": "Claws from a Snow Banshee."
 	},
 	{
 		"assign": "33019",
@@ -340,14 +340,14 @@
 		"jp_text": "橙色の小さな花",
 		"tr_text": "Small Orange Flower",
 		"jp_explain": "ナベリウスで採取された花。\nマトイが気にしていたらしい……\n依頼者：<c a1ff6d>フィリア<c>　再受注不可",
-		"tr_explain": ""
+		"tr_explain": "A small flower from Naberius. Seems that\nMatoi was interested in these...\nRequestor: <c a1ff6d>Philia<c>"
 	},
 	{
 		"assign": "33049",
 		"jp_text": "桃色の小さな花",
 		"tr_text": "Small Pink Flower",
 		"jp_explain": "ナベリウスで採取された花。\nマトイが興味深く見ていたらしい……\n依頼者：<c a1ff6d>フィリア<c>　再受注不可",
-		"tr_explain": ""
+		"tr_explain": "A small flower from Naberius. Seems that\nMatoi was interested in these...\nRequestor: <c a1ff6d>Philia<c>"
 	},
 	{
 		"assign": "33050",
@@ -401,14 +401,14 @@
 	{
 		"assign": "33057",
 		"jp_text": "メカニカル・フライパン",
-		"tr_text": "",
+		"tr_text": "Mechanical Frying Pan",
 		"jp_explain": "機甲種のパーツで構成された調理器具。\n熱エネルギーの伝導率が高い。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "33058",
 		"jp_text": "大肉切包丁",
-		"tr_text": "",
+		"tr_text": "Large Meat Cleaver",
 		"jp_explain": "グワナーダのあごで作った調理器具。\n大型の肉を切るのに最適。",
 		"tr_explain": ""
 	},
@@ -422,9 +422,9 @@
 	{
 		"assign": "33060",
 		"jp_text": "ヴォル・ドラゴンの翼膜",
-		"tr_text": "",
+		"tr_text": "Vol Dragon Wings",
 		"jp_explain": "ヴォル・ドラゴンの翼膜。\n伸縮性が高いものは非常に稀少。\n依頼者：<c a1ff6d>コフィー<c>　再受注不可",
-		"tr_explain": ""
+		"tr_explain": "The wings of a Vol Dragon. Those that\nhave a very high elasticity are rare.\nRequestor: <c a1ff6d>Koffie<c>"
 	},
 	{
 		"assign": "33061",
@@ -611,23 +611,23 @@
 	{
 		"assign": "33087",
 		"jp_text": "ガロンゴの背棘",
-		"tr_text": "",
+		"tr_text": "Garongo Spine",
 		"jp_explain": "ガロンゴの背中から採れた棘。",
-		"tr_explain": ""
+		"tr_explain": "A thorny spine taken from a Garongo."
 	},
 	{
 		"assign": "33088",
 		"jp_text": "キャタドランの牙",
-		"tr_text": "",
+		"tr_text": "Caterdra'n Fang",
 		"jp_explain": "キャタドランから採れた牙。",
-		"tr_explain": ""
+		"tr_explain": "A fang from the jaws of a Caterdra'n."
 	},
 	{
 		"assign": "33089",
 		"jp_text": "スパルダンＡのセンサー",
-		"tr_text": "",
+		"tr_text": "Spardan A Sensor",
 		"jp_explain": "スパルダンＡから採れた\nセンサーパーツ。",
-		"tr_explain": ""
+		"tr_explain": "Sensor parts that were taken from a\nSpardan A."
 	},
 	{
 		"assign": "33090",
@@ -716,7 +716,7 @@
 	{
 		"assign": "330102",
 		"jp_text": "肉厚の葉",
-		"tr_text": "",
+		"tr_text": "Thicc Leaves",
 		"jp_explain": "ナベリウスに自生している植物の葉。\n食用にもなり、噛み応えがある。\n依頼者：<c a1ff6d>ミケーラ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -1150,14 +1150,14 @@
 	{
 		"assign": "330164",
 		"jp_text": "フォンガルフの鋭い牙",
-		"tr_text": "",
+		"tr_text": "Sharp Fangulf Fangs",
 		"jp_explain": "フォンガルフの牙。\nかまれると非常に痛い。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330165",
 		"jp_text": "フォンガルフの鋭い爪",
-		"tr_text": "Fangulf Sharp Claws",
+		"tr_text": "Sharp Fangulf Claws",
 		"jp_explain": "フォンガルフの鋭利な爪。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -1178,14 +1178,14 @@
 	{
 		"assign": "330168",
 		"jp_text": "侵食核の欠片ｂ",
-		"tr_text": "",
+		"tr_text": "Tainted Core Fragments B",
 		"jp_explain": "原生種にとりついた侵食核。\nとりつかれた原生種はより強くなる。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330169",
 		"jp_text": "侵食核の欠片ｃ",
-		"tr_text": "",
+		"tr_text": "Tainted Core Fragments C",
 		"jp_explain": "原生種にとりついた侵食核。\nどんな原生種も凶暴になっていく。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -1269,7 +1269,7 @@
 	{
 		"assign": "330181",
 		"jp_text": "大きく赤い欠片",
-		"tr_text": "",
+		"tr_text": "Large Red Fragments",
 		"jp_explain": "ダーカーの体の赤い部位の欠片。\n比較的大きいものがとれた。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -1332,7 +1332,7 @@
 	{
 		"assign": "330190",
 		"jp_text": "ディッグの羽",
-		"tr_text": "",
+		"tr_text": "Digg Wings",
 		"jp_explain": "ディッグの背にある小さな羽。\n小さすぎて飛ぶことはできない。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -1388,14 +1388,14 @@
 	{
 		"assign": "330198",
 		"jp_text": "熱を持った侵食核の欠片ｂ",
-		"tr_text": "",
+		"tr_text": "Heated Tainted Core Fragments B",
 		"jp_explain": "龍族にとりついた侵食核。\nとりつかれた龍族はより強くなる。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330199",
 		"jp_text": "熱を持った侵食核の欠片ｃ",
-		"tr_text": "",
+		"tr_text": "Heated Tainted Core Fragments C",
 		"jp_explain": "龍族にとりついた侵食核。\nどんな龍族も凶暴になっていく。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -1409,14 +1409,14 @@
 	{
 		"assign": "330201",
 		"jp_text": "エル・アーダの触角",
-		"tr_text": "",
+		"tr_text": "El Ahda Antennae",
 		"jp_explain": "エル・アーダの触角。\n節くれ立って大きい。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330202",
 		"jp_text": "エル・アーダの尻尾",
-		"tr_text": "",
+		"tr_text": "El Ahda Tail",
 		"jp_explain": "エル・アーダの尻尾。\n鋭い針が内蔵されている。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -1444,7 +1444,7 @@
 	{
 		"assign": "330206",
 		"jp_text": "クラーダの尾羽",
-		"tr_text": "",
+		"tr_text": "Krahda Tail",
 		"jp_explain": "クラーダの尾羽。\n体格の割に立派なものを持っている。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -1556,7 +1556,7 @@
 	{
 		"assign": "330222",
 		"jp_text": "ダガンの堅い甲殻",
-		"tr_text": "",
+		"tr_text": "Dagan Hard Shell",
 		"jp_explain": "ダガンの甲殻のうち特に堅い部位。\nここ以外を狙えると戦いやすい。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -1570,14 +1570,14 @@
 	{
 		"assign": "330224",
 		"jp_text": "ブリアーダの前脚",
-		"tr_text": "",
+		"tr_text": "Breeahda Forelegs",
 		"jp_explain": "ブリアーダの前脚と思われる部位。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330225",
 		"jp_text": "ブリアーダの後脚",
-		"tr_text": "",
+		"tr_text": "Breeahda Hindlegs",
 		"jp_explain": "ブリアーダの後脚と思われる部位。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -1591,21 +1591,21 @@
 	{
 		"assign": "330227",
 		"jp_text": "乾いた侵食核の欠片ａ",
-		"tr_text": "",
+		"tr_text": "Dried Tainted Core Fragment A",
 		"jp_explain": "機甲種にとりついた侵食核。\n機甲種の凶暴化を助長していた。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330228",
 		"jp_text": "乾いた侵食核の欠片ｂ",
-		"tr_text": "",
+		"tr_text": "Dried Tainted Core Fragment B",
 		"jp_explain": "機甲種にとりついた侵食核。\nとりつかれた機甲種はより強くなる。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330229",
 		"jp_text": "乾いた侵食核の欠片ｃ",
-		"tr_text": "",
+		"tr_text": "Dried Tainted Core Fragment C",
 		"jp_explain": "機甲種にとりついた侵食核。\nどんな機甲種も凶暴になっていく。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -1619,7 +1619,7 @@
 	{
 		"assign": "330231",
 		"jp_text": "イエーデの尾骨",
-		"tr_text": "",
+		"tr_text": "Yede Tailbone",
 		"jp_explain": "イエーデの岩のような尾骨。\n毛皮にも覆われず、堂々としたもの。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -1668,14 +1668,14 @@
 	{
 		"assign": "330238",
 		"jp_text": "ナヴ・ラッピーの凍った爪",
-		"tr_text": "",
+		"tr_text": "Frozen Nab Rappy Claw",
 		"jp_explain": "ナヴ・ラッピーの爪。\n凍土の影響で凍り付いている。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330239",
 		"jp_text": "ナヴ・ラッピーの氷結片",
-		"tr_text": "",
+		"tr_text": "Frozen Nab Rappy Beak",
 		"jp_explain": "ナヴ・ラッピーのくちばし。\n凍土の影響で凍り付いている。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -1724,14 +1724,14 @@
 	{
 		"assign": "330246",
 		"jp_text": "凍った侵食核の欠片ａ",
-		"tr_text": "",
+		"tr_text": "Frozen Tainted Core Fragment A",
 		"jp_explain": "原生種にとりついた侵食核。\nとりつかれた原生種はより強くなる。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330247",
 		"jp_text": "凍った侵食核の欠片ｂ",
-		"tr_text": "",
+		"tr_text": "Frozen Tainted Core Fragment B",
 		"jp_explain": "原生種にとりついた侵食核。\nどんな原生種も凶暴になっていく。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -1794,7 +1794,7 @@
 	{
 		"assign": "330256",
 		"jp_text": "ギルナスの肩ボルト",
-		"tr_text": "",
+		"tr_text": "Gilnas Shoulder Bolt",
 		"jp_explain": "ギルナスの肩にあるボルト。\n肩パーツをしっかりと固定している。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -1920,14 +1920,14 @@
 	{
 		"assign": "330274",
 		"jp_text": "油まみれの侵食核の欠片ａ",
-		"tr_text": "",
+		"tr_text": "Oil Covered Tainted Core A",
 		"jp_explain": "機甲種にとりついた侵食核。\nとりつかれた機甲種はより強くなる。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330275",
 		"jp_text": "油まみれの侵食核の欠片ｂ",
-		"tr_text": "",
+		"tr_text": "Oil Covered Tainted Core B",
 		"jp_explain": "機甲種にとりついた侵食核。\nどんな機甲種も凶暴になっていく。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -2130,14 +2130,14 @@
 	{
 		"assign": "330304",
 		"jp_text": "軽い侵食核の欠片ａ",
-		"tr_text": "",
+		"tr_text": "Light Tainted Core Fragments A",
 		"jp_explain": "龍族にとりついた侵食核。\nとりつかれた龍族はより強くなる。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330305",
 		"jp_text": "軽い侵食核の欠片ｂ",
-		"tr_text": "",
+		"tr_text": "Light Tainted Core Fragments B",
 		"jp_explain": "龍族にとりついた侵食核。\nどんな龍族も凶暴になっていく。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -2312,7 +2312,7 @@
 	{
 		"assign": "330340",
 		"jp_text": "異質な侵食核",
-		"tr_text": "",
+		"tr_text": "Foreign Tainted Core",
 		"jp_explain": "侵食核の残滓。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -2410,7 +2410,7 @@
 	{
 		"assign": "330354",
 		"jp_text": "サイクロネーダの星球片",
-		"tr_text": "",
+		"tr_text": "Cyclonehda Spherical Piece",
 		"jp_explain": "サイクロネーダの右腕にある\n星球状部位の欠片。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -2524,7 +2524,7 @@
 		"jp_text": "虹輝石イリティスタ",
 		"tr_text": "Iritista Rainbow Pyroxene",
 		"jp_explain": "虹光の力を蓄えた謎の輝石。\n武器との交換が可能。",
-		"tr_explain": ""
+		"tr_explain": "Mysterious stones imbued with the power\nof rainbows. Used as currency at the\nRare Stone Shop."
 	},
 	{
 		"assign": "330372",
@@ -2550,14 +2550,14 @@
 	{
 		"assign": "330375",
 		"jp_text": "クォーツ・ドラゴンの尾片",
-		"tr_text": "",
+		"tr_text": "Quartz Dragon Tail Fragment",
 		"jp_explain": "クォーツ・ドラゴンの\n尻尾の欠片。光をよく反射する。\n依頼者：<c a1ff6d>シー<c>　ホワイトデー",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330376",
 		"jp_text": "純白の小さな花",
-		"tr_text": "",
+		"tr_text": "Small White Flower",
 		"jp_explain": "ラヴィ・ラッピーが愛する\n純白の美しい花。\n依頼者：<c a1ff6d>シー<c>　ホワイトデー",
 		"tr_explain": ""
 	},
@@ -2809,7 +2809,7 @@
 	{
 		"assign": "330415",
 		"jp_text": "バトラガンの脚部装甲",
-		"tr_text": "",
+		"tr_text": "Batra Gun Leg Armor",
 		"jp_explain": "脚部を覆う分厚い装甲。\n背後からの攻撃を防ぐ。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -3061,210 +3061,210 @@
 	{
 		"assign": "330451",
 		"jp_text": "ウーダンの牙",
-		"tr_text": "",
+		"tr_text": "Oodan Fang",
 		"jp_explain": "鋭く尖ったウーダンの牙。\n取り扱いには注意が必要。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330452",
 		"jp_text": "フォンガルフの毛皮",
-		"tr_text": "",
+		"tr_text": "Fangulf Pelt",
 		"jp_explain": "ごわごわしたフォンガルフの毛皮。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330453",
 		"jp_text": "ガロンゴの歯",
-		"tr_text": "",
+		"tr_text": "Garongo Tooth",
 		"jp_explain": "すりつぶすのに適したガロンゴの歯。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330454",
 		"jp_text": "ディッグの灼熱角",
-		"tr_text": "",
+		"tr_text": "Scorching Hot Digg Horn",
 		"jp_explain": "高熱を帯びたディッグの角。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330455",
 		"jp_text": "シル・ディーニアンのひれ",
-		"tr_text": "",
+		"tr_text": "Sil Dinian Flipper",
 		"jp_explain": "頭頂から背まで続いている\nシル・ディーニアンのひれ。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330456",
 		"jp_text": "フォードランの硬いたてがみ",
-		"tr_text": "",
+		"tr_text": "Fordoran Tough Mane",
 		"jp_explain": "鋼のように硬い\n フォードランのたてがみ。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330457",
 		"jp_text": "スパルガンのパーツｋ",
-		"tr_text": "",
+		"tr_text": "Spargun Parts K",
 		"jp_explain": "スパルガンを構成するパーツ。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330458",
 		"jp_text": "シグノガンの脚部",
-		"tr_text": "",
+		"tr_text": "Signo Gun Leg",
 		"jp_explain": "どんな地形でも大砲が撃てる\nバランスの良い二足脚部。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330459",
 		"jp_text": "ブリアーダの強靭なかぎ爪",
-		"tr_text": "",
+		"tr_text": "Breeahda Hard Claws",
 		"jp_explain": "ブリアーダの中でも強力な個体から\n採取した強靭なかぎ爪。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330460",
 		"jp_text": "ガルフルの強靭な爪",
-		"tr_text": "",
+		"tr_text": "Gulfur Hard Claw",
 		"jp_explain": "硬い氷もなんなく穿ってみせる\n分厚く強靭な爪。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330461",
 		"jp_text": "マルモスの肩こぶ",
-		"tr_text": "",
+		"tr_text": "Malmoth Shoulder Lump",
 		"jp_explain": "硬く分厚い氷壁をも破壊する\nマルモスの肩にある、こぶ。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330462",
 		"jp_text": "キングイエーデの拳骨",
-		"tr_text": "",
+		"tr_text": "King Yede Fist",
 		"jp_explain": "砕けないものはないと言われる\nキングイエーデの巨大な拳骨。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330463",
 		"jp_text": "ガーディンのレンズ",
-		"tr_text": "",
+		"tr_text": "Guardine Lens",
 		"jp_explain": "ガーディンの内蔵カメラのレンズ。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330464",
 		"jp_text": "シグノビートの左腕",
-		"tr_text": "",
+		"tr_text": "Signo Beat Left Arm",
 		"jp_explain": "シグノビートの左腕。\n万力のような力をもつ。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330465",
 		"jp_text": "ギルナッチの脚部",
-		"tr_text": "",
+		"tr_text": "Gilnach Leg",
 		"jp_explain": "ギルナッチを構成する脚部のパーツ。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330466",
 		"jp_text": "シル・サディニアンのひれ",
-		"tr_text": "",
+		"tr_text": "Sil Sadinian Flipper",
 		"jp_explain": "頭頂から背まで続いている\nシル・サディニアンのひれ。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330467",
 		"jp_text": "バリドランのあご",
-		"tr_text": "",
+		"tr_text": "Baridran Chin",
 		"jp_explain": "一度かぶりついたら離れない\nバリドランのあご。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330468",
 		"jp_text": "ウィンディラの翼膜",
-		"tr_text": "",
+		"tr_text": "Windira Wings",
 		"jp_explain": "ウィンディラの翼から採れた翼膜。\n薄くて軽量ながら、伸縮性に優れる。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330469",
 		"jp_text": "ミクダの上質な紋様殻",
-		"tr_text": "",
+		"tr_text": "Perfect Micda Husk",
 		"jp_explain": "個性的な柄をもつミクダの甲羅。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330470",
 		"jp_text": "ガウォンダのひれ刀",
-		"tr_text": "",
+		"tr_text": "Ga Wonda Blade",
 		"jp_explain": "ガウォンダの左腕のひれ刀。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330471",
 		"jp_text": "キュクロナーダの武器片",
-		"tr_text": "",
+		"tr_text": "Kuklonahda Arm Weapon",
 		"jp_explain": "キュクロナーダが振り回していた\n武器の破片。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330472",
 		"jp_text": "ディガーラの皮",
-		"tr_text": "",
+		"tr_text": "Deegalla Hide",
 		"jp_explain": "ディガーラから採れた皮。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330473",
 		"jp_text": "ペンドランの爪",
-		"tr_text": "",
+		"tr_text": "Pendran Claw",
 		"jp_explain": "細長く鋭いペンドランの爪。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330474",
 		"jp_text": "ディランダールの一角",
-		"tr_text": "",
+		"tr_text": "Dirandal Horn",
 		"jp_explain": "ディランダールの\n頭頂部に生えた水晶角。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330475",
 		"jp_text": "セグレズンのサンゴ",
-		"tr_text": "",
+		"tr_text": "Seglez'n Coral",
 		"jp_explain": "セグレズンの放電現象の元となる部位。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330476",
 		"jp_text": "ブルメガーラの爪",
-		"tr_text": "",
+		"tr_text": "Blumegalla Claw",
 		"jp_explain": "ブルメガーラから採れた爪。\n少量だが毒性がある。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330477",
 		"jp_text": "オルグブランの爪",
-		"tr_text": "",
+		"tr_text": "Org Blan Claw",
 		"jp_explain": "岩をも引き裂くオルグブランの爪。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330478",
 		"jp_text": "カストキンディッドの装甲",
-		"tr_text": "",
+		"tr_text": "Custom Kindidd Armor",
 		"jp_explain": "攻撃時のみ開口する\nカストキンディッドの装甲。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330479",
 		"jp_text": "ヴィントバルガーの装甲翼",
-		"tr_text": "",
+		"tr_text": "Vinto Vargr Armored Wing",
 		"jp_explain": "ヴィントバルガーのもつ装甲翼。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330480",
 		"jp_text": "ヤクトディンゲールの右腕",
-		"tr_text": "",
+		"tr_text": "Jagd Dingell's Right Arm",
 		"jp_explain": "ヒートブレードを振り回す\nヤクトディンゲールの右腕。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
@@ -3406,217 +3406,217 @@
 		"jp_text": "ＰＡフラグメント（法撃）",
 		"tr_text": "PA Fragment (T-ATK)",
 		"jp_explain": "クラフトレシピで必要とされる\n法撃系データディスクの欠片。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nA fragment of a Technique data disk."
 	},
 	{
 		"assign": "330534",
 		"jp_text": "ＰＡフラグメント（打撃）",
 		"tr_text": "PA Fragment (S-ATK)",
 		"jp_explain": "クラフトレシピで必要とされる\n打撃系データディスクの欠片。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nA fragment of a Striking PA data disk."
 	},
 	{
 		"assign": "330535",
 		"jp_text": "ＰＡフラグメント（射撃）",
 		"tr_text": "PA Fragment (R-ATK)",
 		"jp_explain": "クラフトレシピで必要とされる\n射撃系データディスクの欠片。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nA fragment of a Ranged PA data disk."
 	},
 	{
 		"assign": "330536",
 		"jp_text": "アイロニア",
 		"tr_text": "Ironia",
 		"jp_explain": "クラフトレシピで必要とされる\n打撃武器用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for Striking weapons."
 	},
 	{
 		"assign": "330537",
 		"jp_text": "スティニア",
 		"tr_text": "Steenia",
 		"jp_explain": "クラフトレシピで必要とされる\n打撃武器用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for Striking weapons."
 	},
 	{
 		"assign": "330538",
 		"jp_text": "シルバニア",
 		"tr_text": "Silvania",
 		"jp_explain": "クラフトレシピで必要とされる\n打撃武器用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for Striking weapons."
 	},
 	{
 		"assign": "330539",
 		"jp_text": "ゴードニア",
 		"tr_text": "Goldnia",
 		"jp_explain": "クラフトレシピで必要とされる\n打撃武器用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for Striking weapons."
 	},
 	{
 		"assign": "330541",
 		"jp_text": "アイロデスト",
 		"tr_text": "Irodest",
 		"jp_explain": "クラフトレシピで必要とされる\n射撃武器用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for Ranged weapons."
 	},
 	{
 		"assign": "330542",
 		"jp_text": "スティデスト",
 		"tr_text": "Steedest",
 		"jp_explain": "クラフトレシピで必要とされる\n射撃武器用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for Ranged weapons."
 	},
 	{
 		"assign": "330543",
 		"jp_text": "シルバデスト",
 		"tr_text": "Silvadest",
 		"jp_explain": "クラフトレシピで必要とされる\n射撃武器用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for Ranged weapons."
 	},
 	{
 		"assign": "330544",
 		"jp_text": "ゴードデスト",
 		"tr_text": "Goldest",
 		"jp_explain": "クラフトレシピで必要とされる\n射撃武器用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for Ranged weapons."
 	},
 	{
 		"assign": "330546",
 		"jp_text": "アイログリモ",
 		"tr_text": "Irogrimo",
 		"jp_explain": "クラフトレシピで必要とされる\n法撃武器用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for Tech weapons."
 	},
 	{
 		"assign": "330547",
 		"jp_text": "スティグリモ",
 		"tr_text": "Steegrimo",
 		"jp_explain": "クラフトレシピで必要とされる\n法撃武器用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for Tech weapons."
 	},
 	{
 		"assign": "330548",
 		"jp_text": "シルバグリモ",
 		"tr_text": "Silvagrimo",
 		"jp_explain": "クラフトレシピで必要とされる\n法撃武器用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for Tech weapons."
 	},
 	{
 		"assign": "330549",
 		"jp_text": "ゴードグリモ",
 		"tr_text": "Goldgrimo",
 		"jp_explain": "クラフトレシピで必要とされる\n法撃武器用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for Tech weapons."
 	},
 	{
 		"assign": "330551",
 		"jp_text": "アイロリアス",
 		"tr_text": "Irorias",
 		"jp_explain": "クラフトレシピで必要とされる\nリアユニット用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for rear units."
 	},
 	{
 		"assign": "330552",
 		"jp_text": "スティリアス",
 		"tr_text": "Steerias",
 		"jp_explain": "クラフトレシピで必要とされる\nリアユニット用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for rear units."
 	},
 	{
 		"assign": "330553",
 		"jp_text": "シルバリアス",
 		"tr_text": "Silvarias",
 		"jp_explain": "クラフトレシピで必要とされる\nリアユニット用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for rear units."
 	},
 	{
 		"assign": "330554",
 		"jp_text": "ゴードリアス",
 		"tr_text": "Goldiarias",
 		"jp_explain": "クラフトレシピで必要とされる\nリアユニット用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for rear units."
 	},
 	{
 		"assign": "330556",
 		"jp_text": "アイロアムス",
 		"tr_text": "Iroams",
 		"jp_explain": "クラフトレシピで必要とされる\nアームユニット用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for arm units."
 	},
 	{
 		"assign": "330557",
 		"jp_text": "スティアムス",
 		"tr_text": "Steeams",
 		"jp_explain": "クラフトレシピで必要とされる\nアームユニット用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for arm units."
 	},
 	{
 		"assign": "330558",
 		"jp_text": "シルバアムス",
 		"tr_text": "Silvaams",
 		"jp_explain": "クラフトレシピで必要とされる\nアームユニット用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for arm units."
 	},
 	{
 		"assign": "330559",
 		"jp_text": "ゴードアムス",
 		"tr_text": "Goldiaams",
 		"jp_explain": "クラフトレシピで必要とされる\nアームユニット用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for arm units."
 	},
 	{
 		"assign": "330561",
 		"jp_text": "アイロレグス",
 		"tr_text": "Irolegs",
 		"jp_explain": "クラフトレシピで必要とされる\nレッグユニット用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for leg units."
 	},
 	{
 		"assign": "330562",
 		"jp_text": "スティレグス",
 		"tr_text": "Steelegs",
 		"jp_explain": "クラフトレシピで必要とされる\nレッグユニット用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for leg units."
 	},
 	{
 		"assign": "330563",
 		"jp_text": "シルバレグス",
 		"tr_text": "Silvalegs",
 		"jp_explain": "クラフトレシピで必要とされる\nレッグユニット用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for leg units."
 	},
 	{
 		"assign": "330564",
 		"jp_text": "ゴードレグス",
 		"tr_text": "Goldialegs",
 		"jp_explain": "クラフトレシピで必要とされる\nレッグユニット用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for leg units."
 	},
 	{
 		"assign": "330566",
 		"jp_text": "ルビアード",
 		"tr_text": "Rubiard",
 		"jp_explain": "クラフトレシピで必要とされる\n希少な武器用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for rare weapons."
 	},
 	{
 		"assign": "330567",
 		"jp_text": "サファード",
 		"tr_text": "Saphard",
 		"jp_explain": "クラフトレシピで必要とされる\n希少な武器用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for rare weapons."
 	},
 	{
 		"assign": "330570",
 		"jp_text": "ネオジット",
 		"tr_text": "Neojit",
 		"jp_explain": "クラフトレシピで必要とされる\n希少なユニット用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for rare units."
 	},
 	{
 		"assign": "330571",
 		"jp_text": "プロメチット",
 		"tr_text": "Promechit",
 		"jp_explain": "クラフトレシピで必要とされる\n希少なユニット用素材。",
-		"tr_explain": ""
+		"tr_explain": "Required for Crafting Recipes.\nMaterial for rare units."
 	},
 	{
 		"assign": "330574",
@@ -3798,7 +3798,7 @@
 		"jp_text": "幻輝石シンセスタ",
 		"tr_text": "Synsesta Phantom Pyroxene",
 		"jp_explain": "幻想の力を蓄えた謎の輝石。\n武器との交換が可能。",
-		"tr_explain": ""
+		"tr_explain": "Mysterious stones imbued with the power\nof illusions. Used as currency at the\nRare Stone Shop."
 	},
 	{
 		"assign": "330602",
@@ -3812,35 +3812,35 @@
 		"jp_text": "ナベリウス結晶",
 		"tr_text": "Naberius Crystal",
 		"jp_explain": "惑星ナベリウスで生成された\n時限能力インストール素材。",
-		"tr_explain": ""
+		"tr_explain": "Formed on the planet Naberius.\nMaterial used for Timed Ability\ninstallations."
 	},
 	{
 		"assign": "330604",
 		"jp_text": "アムドゥスキア結晶",
 		"tr_text": "Amduscia Crystal",
 		"jp_explain": "惑星アムドゥスキアで生成された\n時限能力インストール素材。",
-		"tr_explain": ""
+		"tr_explain": "Formed on the planet Amdusica.\nMaterial used for Timed Ability\ninstallations."
 	},
 	{
 		"assign": "330605",
 		"jp_text": "リリーパ結晶",
 		"tr_text": "Lillipa Crystal",
 		"jp_explain": "惑星リリーパで生成された\n時限能力インストール素材。",
-		"tr_explain": ""
+		"tr_explain": "Formed on the planet Lillipa.\nMaterial used for Timed Ability\ninstallations."
 	},
 	{
 		"assign": "330606",
 		"jp_text": "ウォパル結晶",
 		"tr_text": "Vopar Crystal",
 		"jp_explain": "惑星ウォパルで生成された\n時限能力インストール素材。",
-		"tr_explain": ""
+		"tr_explain": "Formed on the planet Vopar.\nMaterial used for Timed Ability\ninstallations."
 	},
 	{
 		"assign": "330607",
 		"jp_text": "ハルコタン結晶",
 		"tr_text": "Harkotan Crystal",
 		"jp_explain": "惑星ハルコタンで生成された\n時限能力インストール素材。",
-		"tr_explain": ""
+		"tr_explain": "Formed on the planet Harkotan.\nMaterial used for Timed Ability\ninstallations."
 	},
 	{
 		"assign": "330608",
@@ -4281,7 +4281,7 @@
 		"jp_text": "灰輝石シヴァ",
 		"tr_text": "Shiva Ash Pyroxene",
 		"jp_explain": "灰塵の力を蓄えた謎の輝石。\n武器との交換が可能。",
-		"tr_explain": ""
+		"tr_explain": "A mysterious pyroxene that harbors the\npower of ash and dust. Can be exchanged\nfor prizes."
 	},
 	{
 		"assign": "330676",
@@ -4302,7 +4302,7 @@
 		"jp_text": "壊輝石ドゥルガー",
 		"tr_text": "Durga Destruction Pyroxene",
 		"jp_explain": "破壊の力を蓄えた謎の輝石。\n武器との交換が可能。",
-		"tr_explain": ""
+		"tr_explain": "A mysterious pyroxene that harbors the\npower of annihilation. Can be exchanged\nfor prizes."
 	},
 	{
 		"assign": "330679",
@@ -4316,14 +4316,14 @@
 		"jp_text": "極原晶ガレル",
 		"tr_text": "Galeru Crystal",
 		"jp_explain": "惑星ナベリウスの壊世区域でのみ\n確認されている特異なフォトン結晶。\n武器との交換が可能。",
-		"tr_explain": "Unique photon crystals\nfound only in corrupted regions\nof Naberius. May be exchanged\nfor weapons."
+		"tr_explain": "Unique photon crystals found only in\ncorrupted regions of Naberius. Can be\nexchanged for prizes."
 	},
 	{
 		"assign": "330682",
 		"jp_text": "極機晶ユルルングル",
 		"tr_text": "Yurlungur Crystal",
 		"jp_explain": "惑星リリーパの壊世区域でのみ\n確認されている特異なフォトン結晶。\n武器との交換が可能。",
-		"tr_explain": "Unique photon crystals\nfound only in corrupted regions\nof Lillipa. May be exchanged\nfor weapons."
+		"tr_explain": "Unique photon crystals found only in\ncorrupted regions of Lillipa. Can be\nexchanged for prizes."
 	},
 	{
 		"assign": "330688",
@@ -4470,21 +4470,21 @@
 		"jp_text": "黒曜片ネロウ",
 		"tr_text": "Dark Nero Fragment",
 		"jp_explain": "ダークファルスの残骸から発見された\n負の力を放つフォトン結晶片。\n武器との交換が可能。",
-		"tr_explain": "A Negative Photon Crystal\nfragment found from remnants\nof the Dark Falz."
+		"tr_explain": "A negative photon crystal fragment\nfound from remnants of the Dark Falz."
 	},
 	{
 		"assign": "330709",
 		"jp_text": "深遠片カリギューラ",
 		"tr_text": "Profound Caligula Fragment",
 		"jp_explain": "【深遠なる闇】の残骸から発見された\n負の力を放つフォトン結晶片。\n武器との交換が可能。 ",
-		"tr_explain": "A Corrupted Photon Crystal\nfragment found from residual\nremains of the [Profound Darkness]."
+		"tr_explain": "A corrupted photon crystal fragment\nfound from residual remains of the\n[Profound Darkness]."
 	},
 	{
 		"assign": "330710",
 		"jp_text": "幻精石アーレス",
 		"tr_text": "Phantasmal Ares Stone",
 		"jp_explain": "幻獣と同種の力を蓄えた結晶体。\n武器との交換が可能。",
-		"tr_explain": "The power of Photon Beasts\nstored in the form of a crystal.\nCan be used for trading\nat the stone shop."
+		"tr_explain": "The power of Photon Beasts stored in the\nform of a crystal. Used for trading at\nthe stone shop."
 	},
 	{
 		"assign": "330711",
@@ -4505,21 +4505,21 @@
 		"jp_text": "光輝片トラナ",
 		"tr_text": "Torana Fragment",
 		"jp_explain": "清める力を持つフォトンの結晶片。\n負の力を清め、新しい武器へと\n生まれ変わらせるという。",
-		"tr_explain": "Crystal pieces that have the\npower to purify negatively\ncharged photon weapons."
+		"tr_explain": "Crystal fragments that have the power\nto purify negatively charged photon weapons."
 	},
 	{
 		"assign": "330714",
 		"jp_text": "星繋石プレアデス",
 		"tr_text": "Pleiades Stone",
 		"jp_explain": "未知の粒子を放つフォトン結晶体。\nフォトンリング機構の開発に用いる。\n武器との交換が可能。",
-		"tr_explain": "Photon Crystals created with a\nparticle beam. Used for the\ndevelopment of the\nPhoton Ring System."
+		"tr_explain": "Photon Crystals created with a particle\nbeam. Used for the development of the\nPhoton Ring System."
 	},
 	{
 		"assign": "330715",
 		"jp_text": "幻創石カガセオ",
 		"tr_text": "Phantasmal Kagaseo Stone",
 		"jp_explain": "幻が形作ったかのような未知の鉱石。\n地球の科学力での解析は不可能。\n武器との交換が可能。",
-		"tr_explain": "Unidentified ore that scientists\non Earth cannot analyze.\nCan be exchanged for weapons\nat the stone shop."
+		"tr_explain": "Unidentified ore that scientists on\nEarth cannot analyze. Can be exchanged\nfor weapons at the stone shop."
 	},
 	{
 		"assign": "330719",
@@ -4575,7 +4575,7 @@
 		"jp_text": "地球結晶",
 		"tr_text": "Earth Crystal",
 		"jp_explain": "惑星・地球で生成された\n時限能力インストール素材。",
-		"tr_explain": ""
+		"tr_explain": "Formed on the planet Earth.\nMaterial used for Timed Ability\ninstallations."
 	},
 	{
 		"assign": "330727",
@@ -4659,7 +4659,7 @@
 		"jp_text": "ユニオンブースター",
 		"tr_text": "Union Booster",
 		"jp_explain": "レイシリーズ用に開発されたパーツ。\n装着することによって\n限界を超えた性能を引き出すという。",
-		"tr_explain": "Augemented parts for Ray series.\nIt's said that they push their\nperformance beyond its limits."
+		"tr_explain": "Augemented parts developed for the Ray\nseries. It's said that they push their\nperformance beyond its limits."
 	},
 	{
 		"assign": "330739",
@@ -4687,13 +4687,13 @@
 		"jp_text": "クリファドフューズ",
 		"tr_text": "Qliphad Fuse",
 		"jp_explain": "神代の力を持つ結合誘導素子。\n特定のアイテムと交換可能な素材で\n特定武器の強化にも使うことが可能。",
-		"tr_explain": "An ancient element that fuses\nthe power of gods. Used as material\nfor certain weapons or exchanged for\nprizes."
+		"tr_explain": "An ancient element that fuses the power\nof gods. Used as material for certain\nweapons or exchanged for prizes."
 	},
 	{
 		"assign": "330743",
 		"jp_text": "エーテルフューズ",
 		"tr_text": "Ether Fuse",
 		"jp_explain": "エーテル結合誘導素子。\n特定のアイテムと交換可能な素材で\n特定武器の強化にも使うことが可能。",
-		"tr_explain": "An Ether bonding inductive\nelement. Used as material for certain\nweapons or exchange for prizes."
+		"tr_explain": "An Ether bonding inductive nelement.\nUsed as material for certain weapons\nor exchange for prizes."
 	}
 ]
