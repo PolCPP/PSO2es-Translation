@@ -1363,5 +1363,33 @@
 		"tr_text": "Grind Cap +1/Takt",
 		"jp_explain": "新世武器用の強化補助素材。\n『奏具』の強化時に使用することで\n強化値の上限を１上昇させる。",
 		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Takt\ngrind cap is boosted by +1"
+	},
+	{
+		"assign": "3210274",
+		"jp_text": "カスタムタイプ１＋７０％",
+		"tr_text": "Custom Type 1 +70%",
+		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ１の効果値を\n７０％向上させる。",
+		"tr_explain": "Used during customization crafts.\nCustom Type 1 effect boosted\nby 70%."
+	},
+	{
+		"assign": "3210275",
+		"jp_text": "カスタムタイプ２＋７０％",
+		"tr_text": "Custom Type 2 +70%",
+		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ２の効果値を\n７０％向上させる。",
+		"tr_explain": "Used during customization crafts.\nCustom Type 2 effect boosted\nby 70%."
+	},
+	{
+		"assign": "3210276",
+		"jp_text": "メリット値＋７０％",
+		"tr_text": "Merit value +70%",
+		"jp_explain": "テクニックカスタマイズ実行時に\nメリットの下限値を\n７０％上昇させる。",
+		"tr_explain": "Increases the merit value by 70%\nwhen customizing techniques."
+	},
+	{
+		"assign": "3210277",
+		"jp_text": "デメリット値－７０％",
+		"tr_text": "Demerit value +70%",
+		"jp_explain": "テクニックカスタマイズ実行時に\nデメリットの上限値を\n７０％軽減させる。",
+		"tr_explain": "Decreases the demerit value by -70%\nwhen customizing techniques."
 	}
 ]

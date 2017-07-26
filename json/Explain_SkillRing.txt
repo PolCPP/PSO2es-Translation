@@ -462,6 +462,13 @@
 		"tr_explain": "Effort Symbol Summoner\nA badge signifying experience as a strong\nsoldier, earned by facing significant hardship."
 	},
 	{
+		"assign": "90",
+		"jp_text": "エフォートシンボルHr",
+		"tr_text": "",
+		"jp_explain": "エフォートシンボルヒーロー\n努力の末に得た勇敢な英雄の証",
+		"tr_explain": ""
+	},
+	{
 		"assign": "88",
 		"jp_text": "フレンズプロテクション",
 		"tr_text": "Friends' Protection",
@@ -472,7 +479,7 @@
 		"assign": "70",
 		"jp_text": "テックアーツJAPPセイブ",
 		"tr_text": "Tech Arts JAPP Save",
-		"jp_explain": "テックアーツJAPPセイブ／リング\n異なるPAやテクニックを\n連続でジャストアタックするとPP消費が軽減される。",
+		"jp_explain": "テックアーツJAPPセイブ／リング\n同武器で異なるPAやテクニックを\n連続でジャストアタックするとPP消費が軽減される。",
 		"tr_explain": "Tech Arts JA PP Save/Ring\nReduces PP costs when performing\nconsecutive Just Attacks of PAs/Techniques."
 	},
 	{
