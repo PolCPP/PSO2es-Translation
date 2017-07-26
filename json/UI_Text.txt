@@ -6581,8 +6581,8 @@
 	},
 	{
 		"assign": "questresult_weaponoid_present",
-		"jp_text": "<%name>から\n<%item>をもらいました！",
-		"tr_text": "Recieved <%item>\nfrom <%name>!"
+		"jp_text": "<%name>からのプレゼントが\n受け取りボックスに届きました！",
+		"tr_text": ""
 	},
 	{
 		"assign": "questresult_weaponoid_window",
@@ -7516,8 +7516,8 @@
 	},
 	{
 		"assign": "ability_name",
-		"jp_text": "アビリティ名 <color=\"#688ca7\">/</color> {0}",
-		"tr_text": "Ability <color=\"#688ca7\">/</color> {0}"
+		"jp_text": "アビリティ <color=\"#688ca7\">/</color> {0}",
+		"tr_text": ""
 	},
 	{
 		"assign": "effect",
@@ -7621,8 +7621,8 @@
 	},
 	{
 		"assign": "chipequip_ability",
-		"jp_text": "アビリティ名 <color=\"#688ca7\">/</color> {0}",
-		"tr_text": "Ability <color=\"#688ca7\">/</color> {0}"
+		"jp_text": "アビリティ <color=\"#688ca7\">/</color> {0}",
+		"tr_text": ""
 	},
 	{
 		"assign": "chipequip_effect",
@@ -9085,9 +9085,19 @@
 		"tr_text": "To next Lv."
 	},
 	{
+		"assign": "menu_charainfo_linked_exp",
+		"jp_text": "<%exp>（<%max_exp>）",
+		"tr_text": ""
+	},
+	{
 		"assign": "menu_charainfo_label_linked_exp",
-		"jp_text": "PSO2連動経験値",
-		"tr_text": "Linked EXP"
+		"jp_text": "PSO2連動経験値（上限）",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_charainfo_label_linked_exp_hero",
+		"jp_text": "ヒーロー連動経験値（上限）",
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_charainfo_label_max_exp",
@@ -15427,7 +15437,7 @@
 	{
 		"assign": "pet_exp_value",
 		"jp_text": "PSO2連動経験値",
-		"tr_text": "PSO2 Linked EXP"
+		"tr_text": "Linked EXP"
 	},
 	{
 		"assign": "pet_exp_rimit_value",

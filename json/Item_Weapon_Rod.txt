@@ -261,15 +261,15 @@
 	{
 		"assign": "111037",
 		"jp_text": "白錫クラリッサ",
-		"tr_text": "",
-		"jp_explain": "■",
+		"tr_text": "White Tin Clarissa",
+		"jp_explain": "ロッド型の創世器。『くらうもの』\n桁違いのフォトンを貪るように喰らい\n破壊の力を振るう、白き災厄の顕現。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "111038",
 		"jp_text": "灰錫クラリッサⅡ",
-		"tr_text": "",
-		"jp_explain": "■",
+		"tr_text": "Ash Tin Clarissa II",
+		"jp_explain": "模倣創世器。純白の色を再現することは\n最後まで出来なかったが、性能は十分。\n爆砕の力を纏う、灰の災禍の具象。",
 		"tr_explain": ""
 	},
 	{
@@ -1001,6 +1001,27 @@
 		"tr_explain": "A Rod developed as the latest\nmodel. Augmented with boost parts,\nits performance exceed its limits."
 	},
 	{
+		"assign": "1110279",
+		"jp_text": "イヴリダマディーナ",
+		"tr_text": "Ivrida Medina",
+		"jp_explain": "古に封印されし冥夜の長杖。\n絶たれし闇の錫杖は汝の血肉を贄とし\n戒めより目覚めて、沈黙の世を築く。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110280",
+		"jp_text": "クリシスマディーナ",
+		"tr_text": "Cleasis Medina",
+		"jp_explain": "古に封印されし冥夜の長杖。\n廉潔なる導士を魅了せし禁忌の法は\n魂と合わさりし時、全て等しく無に還す。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110282",
+		"jp_text": "フォルニステルナーゼ",
+		"tr_text": "Fornis Telnaze",
+		"jp_explain": "異なる力を宿した恐るべき長杖。\n雷鳴のように猛々しいフォトンと\n抜きん出た法撃力を有している。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1110285",
 		"jp_text": "シグリアオービット",
 		"tr_text": "Sigulia Orbit",
@@ -1236,6 +1257,34 @@
 		"jp_text": "ヴィエディーマ",
 		"tr_text": "Viedima",
 		"jp_explain": "ルミアの武器を元に作られた長杖。\n精神力を補助する機能があり\n扱いやすい設計。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110349",
+		"jp_text": "[NPC]ヴェルン魔術師Ｒ",
+		"tr_text": "",
+		"jp_explain": "[NPC]ヴェルン魔術師Ｒ",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110351",
+		"jp_text": "[NPC]クエント魔術師Ｒ",
+		"tr_text": "",
+		"jp_explain": "[NPC]クエント魔術師Ｒ",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110362",
+		"jp_text": "ストライクブルーム-NT",
+		"tr_text": "Strike Broom-NT",
+		"jp_explain": "古のフォースが使用していたとされる\nホウキ型長杖を模して作られたもの。\n見た目だけでなく性能も完全再現。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110363",
+		"jp_text": "デモニックフォーク-NT",
+		"tr_text": "Demonic Fork-NT",
+		"jp_explain": "不可思議な力で装者に不幸を呼ぶ長杖。\n返しのついたその刃は、捕らえた獲物を\n決して離すことはない。",
 		"tr_explain": ""
 	}
 ]

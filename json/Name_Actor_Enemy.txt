@@ -285,16 +285,6 @@
 		"tr_text": "Lovey Rappy"
 	},
 	{
-		"assign": "RappyDragon",
-		"jp_text": "ドラグ・ラッピー",
-		"tr_text": "Drag Rappy"
-	},
-	{
-		"assign": "RappyElep",
-		"jp_text": "エレフ・ラッピー",
-		"tr_text": "Eleph Rappy"
-	},
-	{
 		"assign": "DragonRaptor",
 		"jp_text": "ディッグ",
 		"tr_text": "Digg"
@@ -1835,6 +1825,11 @@
 		"tr_text": "[Profound Darkness]"
 	},
 	{
+		"assign": "DpAbyssU",
+		"jp_text": "【深遠なる闇】",
+		"tr_text": "[Profound Darkness]"
+	},
+	{
 		"assign": "DpAbyssChar",
 		"jp_text": "【深遠なる闇】",
 		"tr_text": "[Profound Darkness]"
@@ -1845,9 +1840,14 @@
 		"tr_text": "[Profound Darkness]"
 	},
 	{
+		"assign": "DpAbyssCharU",
+		"jp_text": "【深遠なる闇】",
+		"tr_text": ""
+	},
+	{
 		"assign": "DpAbyssCharUniq",
 		"jp_text": "【深遠なる闇】",
-		"tr_text": "[Profound Darkness]"
+		"tr_text": ""
 	},
 	{
 		"assign": "BugLegion",
@@ -2318,6 +2318,96 @@
 		"assign": "C3_F",
 		"jp_text": "魔人・ファレグ",
 		"tr_text": "Demon Phaleg"
+	},
+	{
+		"assign": "B1GoSw",
+		"jp_text": "オメガゴブリン",
+		"tr_text": ""
+	},
+	{
+		"assign": "B1GoBo",
+		"jp_text": "ゴブリンボンバ",
+		"tr_text": ""
+	},
+	{
+		"assign": "B1Min",
+		"jp_text": "ミノタオルグス",
+		"tr_text": ""
+	},
+	{
+		"assign": "B1SkSw",
+		"jp_text": "スカルソルジャー",
+		"tr_text": ""
+	},
+	{
+		"assign": "B1SkAr",
+		"jp_text": "スカルアーチャー",
+		"tr_text": ""
+	},
+	{
+		"assign": "B1WoN",
+		"jp_text": "オメガウルフ",
+		"tr_text": ""
+	},
+	{
+		"assign": "B1OrN",
+		"jp_text": "オメガオーク",
+		"tr_text": ""
+	},
+	{
+		"assign": "B1CatsA",
+		"jp_text": "魔神城・ギャスルドール",
+		"tr_text": ""
+	},
+	{
+		"assign": "B1CatsB",
+		"jp_text": "魔神城・ランザーバレス",
+		"tr_text": ""
+	},
+	{
+		"assign": "B1CatsBU",
+		"jp_text": "魔神城・ランザーバレス",
+		"tr_text": ""
+	},
+	{
+		"assign": "B1OrBo",
+		"jp_text": "オークボンバ",
+		"tr_text": ""
+	},
+	{
+		"assign": "B1Wrg",
+		"jp_text": "オークキャバリエ",
+		"tr_text": ""
+	},
+	{
+		"assign": "B1GolN",
+		"jp_text": "ロックゴーレム",
+		"tr_text": ""
+	},
+	{
+		"assign": "ArksBatteringRam",
+		"jp_text": "破界鎚",
+		"tr_text": ""
+	},
+	{
+		"assign": "B1WraF",
+		"jp_text": "フォイソーサラー",
+		"tr_text": ""
+	},
+	{
+		"assign": "B1WraL",
+		"jp_text": "グランソーサラー",
+		"tr_text": ""
+	},
+	{
+		"assign": "B1WraD",
+		"jp_text": "メギドソーサラー",
+		"tr_text": ""
+	},
+	{
+		"assign": "B1GolB",
+		"jp_text": "ボンバゴーレム",
+		"tr_text": ""
 	},
 	{
 		"assign": "KingRappy",

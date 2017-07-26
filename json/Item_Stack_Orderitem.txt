@@ -2768,7 +2768,7 @@
 		"assign": "330409",
 		"jp_text": "トルボンの殻",
 		"tr_text": "Torbon Shell",
-		"jp_explain": "トルボンの殻の破片。\n条件下で発光する珍しい素材。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
+		"jp_explain": "トルボンの殻の破片。\n条件下で発光する\n珍しい素材。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": ""
 	},
 	{
@@ -3846,7 +3846,7 @@
 		"assign": "330608",
 		"jp_text": "蒼色の玉石",
 		"tr_text": "Blue Pebble",
-		"jp_explain": "龍族が所持している玉石。\n冷たい群青色をしている。\n依頼者：<c a1ff6d>シー<c>　2周年記念",
+		"jp_explain": "龍族が所持している\n玉石。\n冷たい群青色をしている。\n依頼者：<c a1ff6d>シー<c>　2周年記念",
 		"tr_explain": ""
 	},
 	{
@@ -4261,6 +4261,13 @@
 		"tr_text": "Magic Card",
 		"jp_explain": "カード当てに使う、マジック用カード。\n『ＰＳＯ２ｅｓ』交換ショップで\n景品と交換できる。",
 		"tr_explain": "Magic cards used for magic tricks.\nPSO2es only item.\nCan be exchanged for prizes."
+	},
+	{
+		"assign": "330668",
+		"jp_text": "細波の貝殻",
+		"tr_text": "",
+		"jp_explain": "夏の思い出が詰まった貝殻。\n『ＰＳＯ２ｅｓ』交換ショップで\n景品と交換できる。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "330673",
@@ -4695,5 +4702,33 @@
 		"tr_text": "Ether Fuse",
 		"jp_explain": "エーテル結合誘導素子。\n特定のアイテムと交換可能な素材で\n特定武器の強化にも使うことが可能。",
 		"tr_explain": "An Ether bonding inductive nelement.\nUsed as material for certain weapons\nor exchange for prizes."
+	},
+	{
+		"assign": "330744",
+		"jp_text": "オメガ結晶",
+		"tr_text": "Omega Crystal",
+		"jp_explain": "異世界・オメガで生成された\n時限能力インストール素材。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "330745",
+		"jp_text": "クリシスブースター",
+		"tr_text": "Cleasis Booster",
+		"jp_explain": "冥夜と魂を結ぶとされる素材。\n特定武器に使用することによって\n限界を超えた性能を引き出すという。",
+		"tr_explain": "Material which was said to connect\nthe night and soul. Used as material\nfor certain weapons."
+	},
+	{
+		"assign": "330748",
+		"jp_text": "メセタ結晶（中）",
+		"tr_text": "Meseta Crystal (Medium)",
+		"jp_explain": "結晶化したメセタの塊。\n大変珍しく、美しい輝きを持つ。\nアイテムショップで売れる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "330749",
+		"jp_text": "メセタ結晶（小）",
+		"tr_text": "Meseta Crystal (Small)",
+		"jp_explain": "結晶化したメセタ。\n大変珍しく、美しい輝きを持つ。\nアイテムショップで売れる。",
+		"tr_explain": ""
 	}
 ]

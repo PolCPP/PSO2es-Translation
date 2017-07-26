@@ -1225,6 +1225,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "3180187",
+		"jp_text": "女性共通ヒツギ覚醒ボイス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ種田 梨沙",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3180188",
 		"jp_text": "女性追加ボイス５１",
 		"tr_text": "Female Extra Voice 51",
@@ -3948,13 +3955,6 @@
 		"tr_explain": ""
 	},
 	{
-		"assign": "3180741",
-		"jp_text": "女性Ｃりらボイス",
-		"tr_text": "Female C Lila Voice",
-		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ茅野 愛衣",
-		"tr_explain": ""
-	},
-	{
 		"assign": "3180742",
 		"jp_text": "女性Ｃキリカボイス",
 		"tr_text": "Female C Kirika Voice",
@@ -4336,6 +4336,13 @@
 		"assign": "3180863",
 		"jp_text": "男性追加ボイス１０５",
 		"tr_text": "Male Extra Voice 105",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間男性のみ使用可能。\nＣＶ中村 悠一",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3180864",
+		"jp_text": "男性追加ボイス１１９",
+		"tr_text": "",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間男性のみ使用可能。\nＣＶ中村 悠一",
 		"tr_explain": ""
 	},
@@ -4914,6 +4921,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "31801042",
+		"jp_text": "男性Ｃ追加ボイス１１９",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ中村 悠一",
+		"tr_explain": ""
+	},
+	{
 		"assign": "31801044",
 		"jp_text": "男性Ｃ追加ボイス１００",
 		"tr_text": "Male C Extra Voice 100",
@@ -5058,20 +5072,6 @@
 		"jp_text": "女性Ｃ追加ボイス６６",
 		"tr_text": "Female C Extra Voice 66",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ豊口 めぐみ",
-		"tr_explain": ""
-	},
-	{
-		"assign": "31801093",
-		"jp_text": "女性Ｃエリボイス",
-		"tr_text": "Female C Ely Voice",
-		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ今井 麻美",
-		"tr_explain": ""
-	},
-	{
-		"assign": "31801094",
-		"jp_text": "女性Ｃクイナボイス",
-		"tr_text": "Female C Quina Voice",
-		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ小倉 唯",
 		"tr_explain": ""
 	},
 	{
@@ -5376,6 +5376,20 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "31801212",
+		"jp_text": "男性追加ボイス１１８",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間男性のみ使用可能。\nＣＶ花江 夏樹",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31801216",
+		"jp_text": "男性追加ボイス１２０",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間男性のみ使用可能。\nＣＶ速水 奨",
+		"tr_explain": ""
+	},
+	{
 		"assign": "31801228",
 		"jp_text": "男性共通ハギト・Ｆボイス",
 		"tr_text": "Male Hagith Phamut Voice (All Races)",
@@ -5415,6 +5429,20 @@
 		"jp_text": "男性Ｃ［ＥＸ］ボイスＡ１１",
 		"tr_text": "Male C [EX] Voice A11",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ市来 光弘",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31801312",
+		"jp_text": "男性Ｃ追加ボイス１１８",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ花江 夏樹",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31801316",
+		"jp_text": "男性Ｃ追加ボイス１２０",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ速水 奨",
 		"tr_explain": ""
 	},
 	{
@@ -5509,6 +5537,27 @@
 		"tr_explain": "When you use this ticket,\nLaia can be selected.\nCV: Youko Kaida"
 	},
 	{
+		"assign": "31801414",
+		"jp_text": "女性追加ボイス１５１",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ潘 めぐみ",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31801416",
+		"jp_text": "女性追加ボイス１５３",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ能登 麻美子",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31801424",
+		"jp_text": "女性追加ボイス１５２",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ佐倉 綾音",
+		"tr_explain": ""
+	},
+	{
 		"assign": "31801432",
 		"jp_text": "女性共通コオリ（ＭＣ）ボイス",
 		"tr_text": "Female Kohri (MC) Voice (All Races)",
@@ -5565,6 +5614,27 @@
 		"tr_explain": "When you use this ticket,\n[EX] Voice A20 can be selected.\nCV: Mitsuhiro Ichiki"
 	},
 	{
+		"assign": "31801504",
+		"jp_text": "女性Ｃ追加ボイス１５１",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ潘 めぐみ",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31801506",
+		"jp_text": "女性Ｃ追加ボイス１５３",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ能登 麻美子",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31801514",
+		"jp_text": "女性Ｃ追加ボイス１５２",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ佐倉 綾音",
+		"tr_explain": ""
+	},
+	{
 		"assign": "31801523",
 		"jp_text": "女性Ｃ［ＥＸ］ボイスＡ２２",
 		"tr_text": "Female C [EX] Voice A22",
@@ -5619,5 +5689,12 @@
 		"tr_text": "Female C Extra Voice 149",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ菊地 美香",
 		"tr_explain": "When you use this ticket,\nExtra Voice 149 can be selected.\nCV: Mika Kikuchi"
+	},
+	{
+		"assign": "31801560",
+		"jp_text": "女性共通クーナボイス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ喜多村 英梨",
+		"tr_explain": ""
 	}
 ]

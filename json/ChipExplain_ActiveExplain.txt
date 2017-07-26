@@ -1470,6 +1470,76 @@
 		"tr_explainLong": "For a long duration, reduce CP usage based on the\nchip's abillity level. Boosts the power of PA/Techs\nsignificantly, in addition to reducing CP usage."
 	},
 	{
+		"assign": "31507",
+		"jp_explainShort": "攻撃力絶大増加＋ダメージ軽減＋ダウン無効",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、攻撃力を絶大に増加し\n炎属性チップの枚数に応じて敵から受けるダメージを\n軽減する。さらに、ダウン状態にならない。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31508",
+		"jp_explainShort": "攻撃力絶大増加＋ダメージ軽減＋ダウン無効",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、攻撃力を絶大に増加し\n炎属性チップの枚数に応じて敵から受けるダメージを\n軽減する。さらに、ダウン状態にならない。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31509",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31510",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31517",
+		"jp_explainShort": "攻撃力絶大増＋必殺技・法術使用毎に小増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、攻撃力を絶大に増加する。\nさらに、必殺技・法術を使用するごとに必殺技・法術の\n威力がわずかに増加し、劇的となる。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31518",
+		"jp_explainShort": "攻撃力絶大増＋必殺技・法術使用毎に小増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、攻撃力を絶大に増加する。\nさらに、必殺技・法術を使用するごとに必殺技・法術の\n威力がわずかに増加し、劇的となる。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31519",
+		"jp_explainShort": "消費ＣＰ減少＋定期的に攻撃力を小増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、消費ＣＰを減少し\n定期的に攻撃力がわずかに増加し、絶大となる。\n消費ＣＰ減少はこのチップ発動時にも効果が適用される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31520",
+		"jp_explainShort": "消費ＣＰ減少＋定期的に攻撃力を増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、消費ＣＰを減少し\n定期的に攻撃力が増加し、絶大となる。\n消費ＣＰ減少はこのチップ発動時にも効果が適用される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31523",
+		"jp_explainShort": "ＨＰ・ＣＰ特大回復＋追加特大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "ＨＰとＣＰを特大に回復し\n長い時間、敵に追加で特大ダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31524",
+		"jp_explainShort": "ＨＰ・ＣＰ特大回復＋追加特大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "ＨＰとＣＰを特大に回復し\n長い時間、敵に追加で特大ダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
 		"assign": "2110",
 		"jp_explainShort": "防御力を大強化",
 		"tr_explainShort": "DEF Boost",
@@ -4537,16 +4607,16 @@
 	},
 	{
 		"assign": "60195",
-		"jp_explainShort": "-",
+		"jp_explainShort": "フォトンの刃を爆散させる飛翔剣用の必殺技",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "「飛翔剣用の必殺技」\n自身の周囲にフォトンの刃を展開し\n爆発と共に四散させる無慈悲な攻撃。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "60196",
-		"jp_explainShort": "-",
+		"jp_explainShort": "フォトンの刃を爆散させる飛翔剣用の必殺技",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "「飛翔剣用の必殺技」\n自身の周囲にフォトンの刃を展開し\n爆発と共に四散させる無慈悲な攻撃。",
 		"tr_explainLong": ""
 	},
 	{
@@ -6136,14 +6206,14 @@
 		"jp_explainShort": "「ポイズン」付与＋「ポイズン」ダメージ小増加",
 		"tr_explainShort": "Inflicts [Poison] + [Poison] damage boost",
 		"jp_explainLong": "敵に「ポイズン」を付与し\n長い時間、「ポイズン」状態の敵に対して\nダメージ量がわずかに増加する。",
-		"tr_explainLong": "Inflicts [Posion] to target.\nBoost ATK done to enemies afflicted\nwith [Poison] for a short duration."
+		"tr_explainLong": "Inflicts [Poison] to target.\nBoost ATK done to enemies afflicted\nwith [Poison] for a short duration."
 	},
 	{
 		"assign": "20018",
 		"jp_explainShort": "「ポイズン」付与＋「ポイズン」ダメージ小増加",
 		"tr_explainShort": "Inflicts [Poison] + [Poison] damage boost",
 		"jp_explainLong": "敵に「ポイズン」を付与し\n長い時間、「ポイズン」状態の敵に対して\nダメージ量がわずかに増加する。",
-		"tr_explainLong": "Inflicts [Posion] to target.\nBoost ATK done to enemies afflicted\nwith [Poison] for a short duration."
+		"tr_explainLong": "Inflicts [Poison] to target.\nBoost ATK done to enemies afflicted\nwith [Poison] for a short duration."
 	},
 	{
 		"assign": "5410",
