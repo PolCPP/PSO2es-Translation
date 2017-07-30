@@ -7622,7 +7622,7 @@
 	{
 		"assign": "chipequip_ability",
 		"jp_text": "アビリティ <color=\"#688ca7\">/</color> {0}",
-		"tr_text": ""
+		"tr_text": "Ability <color=\"#688ca7\">/</color> {0}"
 	},
 	{
 		"assign": "chipequip_effect",
@@ -7977,7 +7977,7 @@
 	{
 		"assign": "player_status",
 		"jp_text": "プレイヤーステータス",
-		"tr_text": ""
+		"tr_text": "Player Status"
 	},
 	{
 		"assign": "illustrator_label",
@@ -7987,7 +7987,7 @@
 	{
 		"assign": "cv_label",
 		"jp_text": "CV:",
-		"tr_text": ""
+		"tr_text": "CV:"
 	},
 	{
 		"assign": "release_gauge",
@@ -8437,7 +8437,7 @@
 	{
 		"assign": "dict_collect_num_header",
 		"jp_text": "調査チップ数",
-		"tr_text": "Researched chips"
+		"tr_text": "Researched"
 	},
 	{
 		"assign": "dict_present_info_header",
@@ -9087,17 +9087,17 @@
 	{
 		"assign": "menu_charainfo_linked_exp",
 		"jp_text": "<%exp>（<%max_exp>）",
-		"tr_text": ""
+		"tr_text": "<%exp>/<%max_exp>"
 	},
 	{
 		"assign": "menu_charainfo_label_linked_exp",
 		"jp_text": "PSO2連動経験値（上限）",
-		"tr_text": ""
+		"tr_text": "Linked Max EXP"
 	},
 	{
 		"assign": "menu_charainfo_label_linked_exp_hero",
 		"jp_text": "ヒーロー連動経験値（上限）",
-		"tr_text": ""
+		"tr_text": "Hero Linked Max EXP"
 	},
 	{
 		"assign": "menu_charainfo_label_max_exp",
@@ -9122,7 +9122,7 @@
 	{
 		"assign": "menu_charainfo_label_fun",
 		"jp_text": "FUN",
-		"tr_text": ""
+		"tr_text": "FUN"
 	},
 	{
 		"assign": "menu_charainfo_label_rappycoin",
@@ -10137,7 +10137,7 @@
 	{
 		"assign": "cohen",
 		"jp_text": "コーエン博士",
-		"tr_text": "Dr.Cohen"
+		"tr_text": "Dr. Cohen"
 	},
 	{
 		"assign": "donovan",
@@ -12837,7 +12837,7 @@
 	{
 		"assign": "es_0028_n02_b",
 		"jp_text": "<color=black>私は、アークス管理官のコフィーです。\nセラフィの代理として連絡をしています。</color>",
-		"tr_text": "<color=black>I am Koffie, ARKS Administration Officer.\nI contact you on behalf of Seraphy.</color>"
+		"tr_text": "<color=black>I am Koffie, ARKS Administration Officer.\nI'm contacting you on behalf of Seraphy.</color>"
 	},
 	{
 		"assign": "es_0028_n03_b",
@@ -12847,7 +12847,7 @@
 	{
 		"assign": "es_0028_n04_b",
 		"jp_text": "<color=black>彼女は、発信器を所持しています。\n現在、彼女の発信器からの信号を解析し\n彼女が拉致されている場所……\n博士の本拠地と想定される座標の\n特定を急いでいます。</color>",
-		"tr_text": "<color=black>She has a transmitter on her.\nWe're tracking her signal.....\nCoordinates found.\nWe believe it's the home of the Doctor.\nHurry! Quickly! Now!</color>"
+		"tr_text": "<color=black>She has a transmitter on her.\nWe're tracking her signal.....\nCoordinates found.\nWe believe it's the home of the Doctor.\nPlease, make haste.</color>"
 	},
 	{
 		"assign": "es_0028_n05_b",
@@ -14477,7 +14477,7 @@
 	{
 		"assign": "quest_final_check_equip",
 		"jp_text": "武器/防具",
-		"tr_text": ""
+		"tr_text": "Weapon/Armor"
 	},
 	{
 		"assign": "menu_invite_title",
@@ -14852,7 +14852,7 @@
 	{
 		"assign": "story_chapter10_clear_dialog_title",
 		"jp_text": "ストーリークエストクリア",
-		"tr_text": ""
+		"tr_text": "Story Quest Clear"
 	},
 	{
 		"assign": "story_chapter10_clear_dialog_body",
@@ -17482,7 +17482,7 @@
 	{
 		"assign": "collect_search_item_complete",
 		"jp_text": "COMPLETE!",
-		"tr_text": ""
+		"tr_text": "COMPLETED!"
 	},
 	{
 		"assign": "collect_search_drop_rate_info_text",
