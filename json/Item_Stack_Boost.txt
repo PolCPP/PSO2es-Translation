@@ -165,21 +165,21 @@
 		"jp_text": "レアドロップ倍率＋１５０％",
 		"tr_text": "Rare Drop Rate Boost +150%",
 		"jp_explain": "レアドロップ上昇のブーストアイテム。\n使用してから【３０分】の間だけ\nレアドロップの倍率を１５０％アップ。",
-		"tr_explain": "Boosts Rare Drop Rate by 150%.\nDuration lasts for 30 minutes\non the field"
+		"tr_explain": "Boosts Rare Drop Rate by 150%.\nDuration lasts for 30 minutes\non the field."
 	},
 	{
 		"assign": "32029",
 		"jp_text": "レアドロップ倍率＋２００％",
 		"tr_text": "Rare Drop Rate Boost +200%",
 		"jp_explain": "レアドロップ上昇のブーストアイテム。\n使用してから【３０分】の間だけ\nレアドロップの倍率を２００％アップ。",
-		"tr_explain": "Boosts Rare Drop Rate by 200%.\nDuration lasts for 30 minutes\non the field"
+		"tr_explain": "Boosts Rare Drop Rate by 200%.\nDuration lasts for 30 minutes\non the field."
 	},
 	{
 		"assign": "32030",
 		"jp_text": "レアドロップ倍率＋２５０％",
 		"tr_text": "Rare Drop Rate Boost +250%",
 		"jp_explain": "レアドロップ上昇のブーストアイテム。\n使用してから【３０分】の間だけ\nレアドロップの倍率を２５０％アップ。",
-		"tr_explain": "Boosts Rare Drop Rate by 250%.\nDuration lasts for 30 minutes\non the field"
+		"tr_explain": "Boosts Rare Drop Rate by 250%.\nDuration lasts for 30 minutes\non the field."
 	},
 	{
 		"assign": "32032",
@@ -200,14 +200,14 @@
 		"jp_text": "獲得経験値＋１５０％",
 		"tr_text": "Experience Gained +150%",
 		"jp_explain": "獲得経験値上昇のブーストアイテム。\n使用してから【６０分】の間だけ\n獲得経験値を１５０％アップさせる。",
-		"tr_explain": ""
+		"tr_explain": "Boosts Meseta dropped by 150%.\nDuration lasts for 60 minutes\non the field."
 	},
 	{
 		"assign": "32050",
 		"jp_text": "レアドロップ倍率＋３００％",
 		"tr_text": "Rare Drop Rate Boost +300%",
 		"jp_explain": "レアドロップ上昇のブーストアイテム。\n使用してから【６０分】の間だけ\nレアドロップの倍率を３００％アップ。",
-		"tr_explain": "Boosts Rare Drop Rate by 300%.\nDuration lasts for 60 minutes\non the field"
+		"tr_explain": "Boosts Rare Drop Rate by 300%.\nDuration lasts for 60 minutes\non the field."
 	},
 	{
 		"assign": "32051",
@@ -527,7 +527,7 @@
 	{
 		"assign": "32096",
 		"jp_text": "リリーパ族オムライス",
-		"tr_text": "Lilipan Omelette",
+		"tr_text": "Lillipan Omelette",
 		"jp_explain": "ＰＳＯ２アークスカフェのコラボフード。\n【３０分間】打・射・法・ＨＰ＋１００\nＰＰ＋１０　レアドロップ＋５０％",
 		"tr_explain": "PSO2 ARKS Cafe collab food.\nBoosts ATK and HP by 100\nPP+10 and RDR+50%. [30 min]"
 	},
@@ -571,7 +571,7 @@
 		"jp_text": "レアドロップ倍率＋５００％",
 		"tr_text": "Rare Drop Rate Boost +500%",
 		"jp_explain": "レアドロップ上昇のブーストアイテム。\n使用してから【３０分】の間だけ\nレアドロップの倍率を５００％アップ。",
-		"tr_explain": "Boosts Rare Drop Rate by 500%.\nDuration lasts for 30 minutes\non the field"
+		"tr_explain": "Boosts Rare Drop Rate by 500%.\nDuration lasts for 30 minutes\non the field.."
 	},
 	{
 		"assign": "320103",
@@ -618,22 +618,22 @@
 	{
 		"assign": "320109",
 		"jp_text": "ＥＸトライブースト＋１５０％",
-		"tr_text": "",
+		"tr_text": "EX Tri-Boost +150%",
 		"jp_explain": "三種複合のブーストアイテム。\n獲得メセタ、経験値、レアドロップが\n１５０％アップ。",
-		"tr_explain": ""
+		"tr_explain": "Boosts Three Items.\nMeseta Gained +150%\nEXP and Rare Drop Rate +150%."
 	},
 	{
 		"assign": "320110",
 		"jp_text": "レアドロップ倍率＋４００％",
-		"tr_text": "",
+		"tr_text": "Rare Drop Rate Boost +400%",
 		"jp_explain": "レアドロップ上昇のブーストアイテム。\n使用してから【３０分】の間だけ\nレアドロップの倍率を４００％アップ。",
-		"tr_explain": ""
+		"tr_explain": "Boosts Rare Drop Rate by 400%.\nDuration lasts for 30 minutes\non the field."
 	},
 	{
 		"assign": "320111",
 		"jp_text": "プレーンマカロン’１７",
-		"tr_text": "",
+		"tr_text": "Plain Macaron '17",
 		"jp_explain": "キャンペーンの開催に合わせ\n作成された特製マカロン。\n【５分間】トライブースト＋５０％",
-		"tr_explain": ""
+		"tr_explain": "A special macaron created for a\ncampaign. [5 min] Tri-Boost 50%"
 	}
 ]
