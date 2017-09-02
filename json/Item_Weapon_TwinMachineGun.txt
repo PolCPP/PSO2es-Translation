@@ -200,14 +200,14 @@
 		"jp_text": "Ｈ＆Ｓ２５ジャスティス",
 		"tr_text": "H&S25 Justice",
 		"jp_explain": "珠玉の一品として名高い双機銃。\n凍り付くほどに洗練された\nフォトンの弾が、敵を射貫く。",
-		"tr_explain": ""
+		"tr_explain": "An iconic pair of machineguns. Its\nphoton bullets are refined into a\nconfiguration that freezes enemies."
 	},
 	{
 		"assign": "110030",
 		"jp_text": "Ｌ＆Ｋ１４コンバット",
 		"tr_text": "L&K14 Combat",
 		"jp_explain": "使用者の評により名声を集めた双機銃。\n高い性能と誰にでも扱える使用感は\n人気がフロックではないことの証明。",
-		"tr_explain": ""
+		"tr_explain": "Machineguns that gained prestige from a\ncertain user. Boasting high performance\nand handling, proving its worth."
 	},
 	{
 		"assign": "110031",
@@ -221,28 +221,28 @@
 		"jp_text": "ガルド・ミラ",
 		"tr_text": "Guld Milla",
 		"jp_explain": "全てが謎に包まれた双機銃。\nその効果、性能は一切不明で\n詳細な解析が待たれている。",
-		"tr_explain": "A pair of guns shrouded in mystery.\nTheir performance and effects are\nunknown. Still awaiting analysis."
+		"tr_explain": "Machineguns shrouded in mystery. Their\nperformance and effects are unknown.\nStill awaiting analysis."
 	},
 	{
 		"assign": "110033",
 		"jp_text": "ヤスミノコフ９０００Ｍ",
 		"tr_text": "Yasminkov 9000M",
 		"jp_explain": "絶大な支持を得たシリーズのリメイク。\n双機銃としての性能を重視した改良が\n施され、全体的に能力が向上している。",
-		"tr_explain": ""
+		"tr_explain": "A remake of a popular series that had a\ncult following. Improvements were made\ntowards performance and overall power."
 	},
 	{
 		"assign": "110034",
 		"jp_text": "Ｈ１０ミズーリＴ",
 		"tr_text": "H10 Missouri T",
 		"jp_explain": "ポケットサイズの双機銃。\n見た目の小ささに反し、攻撃力は絶大。",
-		"tr_explain": ""
+		"tr_explain": "Pocket sized machineguns. Contrary to\ntheir small size, they pack tremendous\nattack power."
 	},
 	{
 		"assign": "110035",
 		"jp_text": "パンドラエクストリーム",
 		"tr_text": "Pandora Extreme",
 		"jp_explain": "ただ一つの希望を守るという双機銃。\n死角のない攻撃を可能とし、一切の\n災厄を寄せ付けない。",
-		"tr_explain": ""
+		"tr_explain": "Ordinary machineguns that keep hope\nalive. Attacks from these guns are\nflawless and accident free."
 	},
 	{
 		"assign": "110036",
@@ -270,21 +270,21 @@
 		"jp_text": "カルックスガン",
 		"tr_text": "Calux Gun",
 		"jp_explain": "携帯性を重視した双機銃。\n内部構造を簡略化することで\n軽量化を実現した。",
-		"tr_explain": ""
+		"tr_explain": "Machineguns that emphasizes portability.\nIts simplified internals help keep it\nlightweight."
 	},
 	{
 		"assign": "110040",
 		"jp_text": "ベーリロスガン",
 		"tr_text": "Berilos Gun",
 		"jp_explain": "携帯性を重視した双機銃。\n外装に用いる素材の組成を調整し\n強度を保ちつつの軽量化を達成した。",
-		"tr_explain": ""
+		"tr_explain": "Machineguns that emphasizes portability.\nBy changing the exterior composition,\nits stronger than before, but still light."
 	},
 	{
 		"assign": "110041",
 		"jp_text": "グラファイガン",
 		"tr_text": "Graphie Gun",
 		"jp_explain": "携帯性を重視した双機銃。\n銃身全体にコーティングを施し\n安定性を増した良モデル。",
-		"tr_explain": ""
+		"tr_explain": "Machineguns that emphasizes portability.\nImproving the coating of the barrel, it\nhas gained better stability than before."
 	},
 	{
 		"assign": "110042",
@@ -494,7 +494,7 @@
 		"jp_text": "煌舞アウロラ",
 		"tr_text": "Shining Dance Aurora",
 		"jp_explain": "マシンガン_81",
-		"tr_explain": ""
+		"tr_explain": "Machinegun_81"
 	},
 	{
 		"assign": "110083",
@@ -508,14 +508,14 @@
 		"jp_text": "ブリッツフェンダー",
 		"tr_text": "Blitz Fender",
 		"jp_explain": "伝説の銃工が設計した双機銃。\nとてつもない威力を発揮することが\n設計図の段階で判明した。",
-		"tr_explain": ""
+		"tr_explain": "Machineguns designed by a legendary\nengineer. Its tremendous power was\nconfirmed via its blueprints."
 	},
 	{
 		"assign": "110090",
 		"jp_text": "ファイナルフェンダー",
 		"tr_text": "Final Fender",
 		"jp_explain": "伝説の銃工が遺した設計図をもとに\n開発された双機銃。別名「最後の銃」と\nいわれ、所持している者は数少ない。 ",
-		"tr_explain": ""
+		"tr_explain": "Machineguns created from blueprints of\na legendary engineer. It has another\nname, \"The Final Gun\", but few were made."
 	},
 	{
 		"assign": "110095",
@@ -1001,6 +1001,20 @@
 		"tr_explain": "￥Enga's VR TMG"
 	},
 	{
+		"assign": "1100289",
+		"jp_text": "イヴリダディナレス",
+		"tr_text": "Evleda Dinares",
+		"jp_explain": "古に封印されし冥夜の双機銃。\n禁じられし闇の撃鉄は汝の血肉で以って\n引かれ、全てに弾雨を注ぎ込まん。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100290",
+		"jp_text": "クリシスディナレス",
+		"tr_text": "Cleasis Dinares",
+		"jp_explain": "古に封印されし冥夜の双機銃。\n射手を制する悪しき弾は魂と交わりし時\n全てを撃ち砕き、世の終局を告げん。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1100292",
 		"jp_text": "ステルクシュタヤー",
 		"tr_text": "Stelk Shootyr",
@@ -1183,10 +1197,38 @@
 		"tr_explain": "A set of machineguns imbued with\nMother's power. With each shot, the\nscream of Mother's regret echoes."
 	},
 	{
+		"assign": "1100327",
+		"jp_text": "デモニアブラスター",
+		"tr_text": "Demonia Blaster",
+		"jp_explain": "悪魔によりもたらされたと言われる\n双機銃。他の武器は付属しているが\n機能が制限されているため使用不可。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1100335",
 		"jp_text": "クヴェレウィンディア",
 		"tr_text": "Quelle Windea",
 		"jp_explain": "自然現象が形になったという双機銃。\nまといつくように吹き荒れる烈風は\n弾丸と化して、標的を撃ち抜く。",
 		"tr_explain": "A set of machineguns formed by a\nnatural phenomenon. Its bullets are\nmade from a violent gale of wind."
+	},
+	{
+		"assign": "1100344",
+		"jp_text": "[NPC]ストラトス：ＴＭＧ",
+		"tr_text": "",
+		"jp_explain": "数多の戦技を会得したアークスにのみ\n所持が許される双機銃。ヒーローに\n特化した性能に調整れている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100352",
+		"jp_text": "Ｈ＆Ｓ２５ジャスティス-NT",
+		"tr_text": "H&S25 Justice-NT",
+		"jp_explain": "珠玉の一品として名高い双機銃。\n凍り付くほどに洗練された\nフォトンの弾が、敵を射貫く。",
+		"tr_explain": "An iconic pair of machineguns. Its\nphoton bullets are refined into a\nconfiguration that freezes enemies."
+	},
+	{
+		"assign": "1100353",
+		"jp_text": "ヤスミノコフ９０００Ｍ-NT",
+		"tr_text": "Yasminkov 9000M-NT",
+		"jp_explain": "絶大な支持を得たシリーズのリメイク。\n双機銃としての性能を重視した改良が\n施され、全体的に能力が向上している。",
+		"tr_explain": "A remake of a popular series that had a\ncult following. Improvements were made\ntowards performance and overall power."
 	}
 ]

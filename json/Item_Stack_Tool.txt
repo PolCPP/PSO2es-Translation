@@ -109,14 +109,14 @@
 		"jp_text": "エクスキューブ",
 		"tr_text": "Excube",
 		"jp_explain": "さらなる力を求める者に与えられる\n特殊な結晶体。\n物々交換の対象となる素材。",
-		"tr_explain": ""
+		"tr_explain": "A special crystal given to those\nwho seek strength.\nMaterial subject to barter."
 	},
 	{
 		"assign": "37016",
 		"jp_text": "ハーフドール",
 		"tr_text": "Halfdoll",
 		"jp_explain": "自律起動の自己復活用アイテム。\n所持者が戦闘不能になった際に\n一度だけ身代わりになってくれる。",
-		"tr_explain": ""
+		"tr_explain": "A self-revival item. When you become\nincapacitated, you can use this\nsubstitute instead of yourself."
 	},
 	{
 		"assign": "37017",
@@ -172,63 +172,70 @@
 		"jp_text": "Ｈｕエクスキューブ",
 		"tr_text": "Hu Excubes",
 		"jp_explain": "ハンターを極めし者に与えられる\n特殊な結晶体。提示することで\nさらなる力を得ることができる。",
-		"tr_explain": ""
+		"tr_explain": "A special crystal given to extreme\nHunters. By trading this item, more\npower can be obtained."
 	},
 	{
 		"assign": "37028",
 		"jp_text": "Ｒａエクスキューブ",
 		"tr_text": "Ra Excube",
 		"jp_explain": "レンジャーを極めし者に与えられる\n特殊な結晶体。提示することで\nさらなる力を得ることができる。",
-		"tr_explain": ""
+		"tr_explain": "A special crystal given to extreme\nRangers. By trading this item, more\npower can be obtained."
 	},
 	{
 		"assign": "37029",
 		"jp_text": "Ｆｏエクスキューブ",
-		"tr_text": "Fo Excubes",
+		"tr_text": "Fo Excube",
 		"jp_explain": "フォースを極めし者に与えられる\n特殊な結晶体。提示することで\nさらなる力を得ることができる。",
-		"tr_explain": ""
+		"tr_explain": "A special crystal given to extreme\nForces. By trading this item, more\npower can be obtained."
 	},
 	{
 		"assign": "37030",
 		"jp_text": "Ｆｉエクスキューブ",
-		"tr_text": "Fi Excubes",
+		"tr_text": "Fi Excube",
 		"jp_explain": "ファイターを極めし者に与えられる\n特殊な結晶体。提示することで\nさらなる力を得ることができる。",
-		"tr_explain": ""
+		"tr_explain": "A special crystal given to extreme\nFighters. By trading this item, more\npower can be obtained."
 	},
 	{
 		"assign": "37031",
 		"jp_text": "Ｇｕエクスキューブ",
-		"tr_text": "Gu Excubes",
+		"tr_text": "Gu Excube",
 		"jp_explain": "ガンナーを極めし者に与えられる\n特殊な結晶体。提示することで\nさらなる力を得ることができる。",
-		"tr_explain": ""
+		"tr_explain": "A special crystal given to extreme\nGunners. By trading this item, more\npower can be obtained."
 	},
 	{
 		"assign": "37032",
 		"jp_text": "Ｔｅエクスキューブ",
-		"tr_text": "Te Excubes",
+		"tr_text": "Te Excube",
 		"jp_explain": "テクターを極めし者に与えられる\n特殊な結晶体。提示することで\nさらなる力を得ることができる。",
-		"tr_explain": ""
+		"tr_explain": "A special crystal given to extreme\nTechers. By trading this item, more\npower can be obtained."
 	},
 	{
 		"assign": "37033",
 		"jp_text": "Ｂｒエクスキューブ",
 		"tr_text": "Br Excube",
 		"jp_explain": "ブレイバーを極めし者に与えられる\n特殊な結晶体。提示することで\nさらなる力を得ることができる。",
-		"tr_explain": ""
+		"tr_explain": "A special crystal given to extreme\nBravers. By trading this item, more\npower can be obtained."
 	},
 	{
 		"assign": "37034",
 		"jp_text": "Ｂｏエクスキューブ",
 		"tr_text": "Bo Excube",
 		"jp_explain": "バウンサーを極めし者に与えられる\n特殊な結晶体。提示することで\nさらなる力を得ることができる。",
-		"tr_explain": ""
+		"tr_explain": "A special crystal given to extreme\nBouncers. By trading this item, more\npower can be obtained."
 	},
 	{
 		"assign": "37036",
 		"jp_text": "Ｓｕエクスキューブ",
 		"tr_text": "Su Excube",
 		"jp_explain": "サモナーを極めし者に与えられる\n特殊な結晶体。提示することで\nさらなる力を得ることができる。",
-		"tr_explain": ""
+		"tr_explain": "A special crystal given to extreme\nSummoners. By trading this item, more\npower can be obtained."
+	},
+	{
+		"assign": "37037",
+		"jp_text": "Ｈｒエクスキューブ",
+		"tr_text": "Hr Excube",
+		"jp_explain": "ヒーローを極めし者に与えられる\n特殊な結晶体。提示することで\nさらなる力を得ることができる。",
+		"tr_explain": "A special crystal given to valiant\nHeroes. By trading this item, more\npower can be obtained."
 	},
 	{
 		"assign": "37043",
@@ -275,7 +282,7 @@
 	{
 		"assign": "37049",
 		"jp_text": "創者の証",
-		"tr_text": "Creator’s Emblem",
+		"tr_text": "Creator's Emblem",
 		"jp_explain": "創世器を抱くに相応しき者に与えられる\n名誉の証。ジグに創世器武器迷彩の\n製作を依頼できるようになる。",
 		"tr_explain": "Proof of honor given to a person\nthat is suitable for Genesis\nWeapon reproduction from Zieg."
 	},
@@ -319,14 +326,14 @@
 		"jp_text": "アリーナブースター",
 		"tr_text": "Arena Booster",
 		"jp_explain": "励起状態のフォトン結晶。\n対象のフォトンに働きかけ\n特殊な能力発現を促進させる素材。",
-		"tr_explain": ""
+		"tr_explain": "Photon Crystals in an excited state.\nA material that improves photon activity,\nthus enhancing a weapon's potential."
 	},
 	{
 		"assign": "37056",
 		"jp_text": "幻創の証",
 		"tr_text": "Phantom Emblem",
 		"jp_explain": "具現武装を持つに足る意志強き者が持つ\n神秘の証。ジグに具現武装系武器迷彩の\n製作を依頼できるようになる。",
-		"tr_explain": ""
+		"tr_explain": "An emblem of mystery that shows proof\nof skill to wield a replica the\nembodied weapons. Can be traded to Zieg."
 	},
 	{
 		"assign": "37057",
@@ -334,5 +341,26 @@
 		"tr_text": "5th Anniversary Badge",
 		"jp_explain": "５周年記念に作られた、特徴的な紋章が\n刻印されたバッヂ。提示することで\n様々なアイテムと交換可能。",
 		"tr_explain": "An emblem created for the 5th Anniv.\nEngravings cover its surface.\nCan be traded for prizes."
+	},
+	{
+		"assign": "37058",
+		"jp_text": "EPISODE0メモリ",
+		"tr_text": "EPISODE 0 Memory",
+		"jp_explain": "表面に六芒の五のマークが刻印された\n何らかの記録媒体。内部データが\n復元できれば有用なものなのだが……",
+		"tr_explain": "A hexagonal design is engraved on its\nsurface. The internal data could be\nuseful if restored..."
+	},
+	{
+		"assign": "37059",
+		"jp_text": "バスターメダルＡ",
+		"tr_text": "Buster Medal A",
+		"jp_explain": "バスタークエストで協力した証。\n提示することによって\n様々なアイテムと交換可能。",
+		"tr_explain": "Proof that one participated in a\nBuster Quest. By presenting this medal,\nyou can trade it for various prizes."
+	},
+	{
+		"assign": "37063",
+		"jp_text": "うえぽのメモリ",
+		"tr_text": "Weapono Memory",
+		"jp_explain": "表面に特徴的な絵が描かれている\n何らかの記憶媒体。内部データから\n楽しいものが作れそう。",
+		"tr_explain": "Some kind of storage medium in which\npictures are drawn on the surface.\nCan be traded for prizes."
 	}
 ]

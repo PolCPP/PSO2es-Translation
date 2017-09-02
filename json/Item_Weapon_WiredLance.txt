@@ -387,7 +387,7 @@
 	{
 		"assign": "12060",
 		"jp_text": "ヴァイスビュート",
-		"tr_text": "Weisee Butte",
+		"tr_text": "Weisse Butte",
 		"jp_explain": "伸縮自在の金属で作られた自在槍。\n飾り付けられたような外装からは\n想像し得ないほどの攻撃力を持つ。",
 		"tr_explain": ""
 	},
@@ -742,6 +742,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "120176",
+		"jp_text": "ジラークアリオン",
+		"tr_text": "Jiraku Arion",
+		"jp_explain": "数多の儀式を施し、錬成の果てに\n生み出された紫の自在槍。\n装者の感情を力にし、敵を薙ぎ払う。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "120179",
 		"jp_text": "ギクスギルミナド",
 		"tr_text": "Gix Gilminadu",
@@ -751,7 +758,7 @@
 	{
 		"assign": "120182",
 		"jp_text": "ラッピーフウセン",
-		"tr_text": "Rappy Balloon",
+		"tr_text": "Rappy Balloons",
 		"jp_explain": "ラッピー好きのアークスにより作られた\n自在槍。ラッピーへの並々ならぬ愛情が\n伝わってくる力作。",
 		"tr_explain": ""
 	},
@@ -824,6 +831,20 @@
 		"tr_text": "Flow Razor",
 		"jp_explain": "次世代のアークス用に設計されている\n自在槍のプロトタイプモデル。\n素材を共有する汎用化試験作の一つ。",
 		"tr_explain": "A prototype Wired Lance designed\nfor the Next Generation ARKS. The\nmaterials used were highly tested."
+	},
+	{
+		"assign": "120213",
+		"jp_text": "イヴリダハダート",
+		"tr_text": "Evleda Haddat",
+		"jp_explain": "古に封印されし冥夜の自在槍。\n忌むべき闇の刃は汝の血肉で以って\n戒め突き壊し、沈黙の世を作る。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "120214",
+		"jp_text": "クリシスハダート",
+		"tr_text": "Cleasis Haddat",
+		"jp_explain": "古に封印されし冥夜の自在槍。\n勇ましき戦士を喰らいし邪なる刃は\n魂と係合せし時、瞬時に無へとせん。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "120222",
@@ -1013,5 +1034,19 @@
 		"tr_text": "Astra Adom",
 		"jp_explain": "マザーの残滓たる、幻創の自在槍。\n立ち上がり前進する人々の意志を挫き\n歩みを徒労に帰さんとする妄執の戒め。",
 		"tr_explain": "A Phantom pair Wired Lances imbued\nwith Mother's Power. Its said that it\nconquers and enslaves its user's will."
+	},
+	{
+		"assign": "120271",
+		"jp_text": "デイライトスカー-NT",
+		"tr_text": "Daylight Scar-NT",
+		"jp_explain": "六爪の刃で全てを切り裂く自在槍。\n交差するフォトンの銀光こそ\n犠牲者が最後に見る光景となる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "120272",
+		"jp_text": "アサシンクロー-NT",
+		"tr_text": "Assassin Claw-NT",
+		"jp_explain": "ある暗殺者が愛用していた自在槍。\n無拍子で繰り出される攻撃は\n瞬時に相手の命を絶つ。",
+		"tr_explain": ""
 	}
 ]

@@ -361,7 +361,7 @@
 		"jp_text": "グッバイファイア",
 		"tr_text": "Goodbye Fire",
 		"jp_explain": "元は火災時消火用の機材がなぜか\n大砲になってしまった。\n全クラス装備可能な、特殊な武器。",
-		"tr_explain": "A piece of equipment used\nfor fighting fire,\nconverted into a Launcher."
+		"tr_explain": "A piece of equipment used for fighting\nfire, converted into a launcher. Can\nbe used by all classes."
 	},
 	{
 		"assign": "19057",
@@ -403,7 +403,7 @@
 		"jp_text": "アーレスランチャー",
 		"tr_text": "Ares Launcher",
 		"jp_explain": "要塞の幻獣の力を宿した大砲。装者に\nフォトンブラストの効果で譲らぬ力を\n与え、あらゆるものを撃ち砕く。",
-		"tr_explain": "Launcher harboring the power of\na Photon Blast. It shoots\neverything with a crushing force."
+		"tr_explain": "A launcher harboring the power of a\nPhoton Blast. It shoots everything\nwith a crushing force."
 	},
 	{
 		"assign": "19063",
@@ -480,7 +480,7 @@
 		"jp_text": "クロラッピーキャノン",
 		"tr_text": "Black Rappy Cannon",
 		"jp_explain": "ラッピーの姿を模した弾を撃つ大砲。\n愛らしいその姿で女性を中心に人気だが\nラッピーが可哀想という声もちらほら。",
-		"tr_explain": "A Launcher that mimics a Rappy.\nAlthough it's popular with women,\nthe Rappy voice bit is pitiful."
+		"tr_explain": "A launcher that mimics a Rappy.\nAlthough it's popular with women,\nthe Rappy voice bit is pitiful."
 	},
 	{
 		"assign": "19085",
@@ -844,7 +844,7 @@
 		"jp_text": "ヴィトルオービット",
 		"tr_text": "Vitol Orbit",
 		"jp_explain": "新開発のフォトンリング機構を搭載した\n大砲。展開された部品が合体し\n闇を葬る破壊の光を打ち出す。",
-		"tr_explain": "A Launcher with a Photon Ring\nDevice. Its expanded parts can form\na burst of light that destroys darkness."
+		"tr_explain": "A launcher with a Photon Ring\nDevice. Its expanded parts can form\na burst of light that destroys darkness."
 	},
 	{
 		"assign": "190223",
@@ -865,21 +865,21 @@
 		"jp_text": "Ｄ－Ａ．Ｉ．Ｓブラスター",
 		"tr_text": "D-A.I.S Blaster",
 		"jp_explain": "Ａ．Ｉ．Ｓの「フォトンブラスター」を\nアークス向けに小型化した大砲。\n襲来する外敵全てを捕捉し爆破する。",
-		"tr_explain": "A.I.S.'Photon Blaster'\nfor ARKS use. Blast\nthe enemy invasion away."
+		"tr_explain": "A.I.S \"Photon Blaster\" converted into\na portable launcher for ARKS use.\nIt blasts the enemy invasion away."
 	},
 	{
 		"assign": "190231",
 		"jp_text": "セイガーランチャー",
 		"tr_text": "Seiga Launcher",
 		"jp_explain": "世界征服を企む悪の組織と戦うために\n作られた大砲。心の力をエネルギーに\n換えるセイガードライブを搭載！",
-		"tr_explain": "Launcher made fight evil that is bent\non world domination. Its power of\nheart is energized by its Seiga Drive!"
+		"tr_explain": "A launcher made fight evil that is bent\non world domination. Its power of heart\nis energized by its Seiga Drive!"
 	},
 	{
 		"assign": "190232",
 		"jp_text": "セイカイザーランチャー",
 		"tr_text": "Seikaiser Launcher",
 		"jp_explain": "戦力を増強した悪の組織に対抗するため\n新たに開発された大砲。強化型の\nセイガードライブは熱い魂に呼応する！",
-		"tr_explain": "Launcher made fight evil that is bent\non world domination. It's Seiga\nDrive has been enhanced!"
+		"tr_explain": "A launcher made fight evil that is bent\non world domination. Its Seiga Drive\nhas been enhanced!"
 	},
 	{
 		"assign": "190238",
@@ -893,21 +893,35 @@
 		"jp_text": "ステルクヤート",
 		"tr_text": "Stelk Yato",
 		"jp_explain": "専用エネルギータンクがついた大砲。\n射撃時に、専用エネルギーによる\n補助システムで反動が抑えられる。",
-		"tr_explain": "A Launcher with a dedicated energy\ntank. Auxiliary system allows to\ndrastically diminish the recoil."
+		"tr_explain": "A launcher with a dedicated energy\ntank. Auxiliary system allows to\ndrastically diminish the recoil."
+	},
+	{
+		"assign": "190245",
+		"jp_text": "イヴリダカルバン",
+		"tr_text": "Evleda Calvin",
+		"jp_explain": "古に封印されし冥夜の大砲。\n禁じられし闇の爆砲は汝の血肉で以って\n解き放たれ、全てを壊し静寂つくらん。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "190246",
+		"jp_text": "クリシスカルバン",
+		"tr_text": "Cleasis Calvin",
+		"jp_explain": "古に封印されし冥夜の大砲。\n射手を制する悪しき爆砲が魂と連なる時\n全てを撃ち壊し、鮮血の世とせん。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "190254",
 		"jp_text": "レイランチャー",
 		"tr_text": "Ray Launcher",
 		"jp_explain": "次世代の主力として開発された大砲。\n基礎モデルの直系の後継機であり\n出力、安定性共に高いスペックを誇る。",
-		"tr_explain": "A Launcher developed as the latest\nmodel, boasting high photon stability\nwith next-gen specifications."
+		"tr_explain": "A launcher developed as the latest\nmodel, boasting high photon stability\nwith next-gen specifications."
 	},
 	{
 		"assign": "190255",
 		"jp_text": "ユニオンランチャー",
 		"tr_text": "Union Launcher",
 		"jp_explain": "次世代の主力として開発された大砲。\n専用ブーストパーツが装着されたことで\n限界を超えた性能を発揮する。",
-		"tr_explain": "A Launcher developed as the latest\nmodel. Augmented with boost parts,\nits performance exceed its limits."
+		"tr_explain": "A launcher developed as the latest\nmodel. Augmented with boost parts,\nits performance exceed its limits."
 	},
 	{
 		"assign": "190257",
@@ -1026,7 +1040,7 @@
 		"jp_text": "グッバイファイアVer2",
 		"tr_text": "Goodbye Fire Ver2",
 		"jp_explain": "元は火災時消火用の機材がなぜか\n大砲になってしまった。\n全クラス装備可能な、特殊な武器。",
-		"tr_explain": "A piece of equipment used\nfor fighting fire, converted\ninto a Launcher."
+		"tr_explain": "A piece of equipment used for fighting\nfire, converted into a launcher. Can\nbe used by all classes."
 	},
 	{
 		"assign": "190276",
@@ -1054,7 +1068,7 @@
 		"jp_text": "咲雪崩",
 		"tr_text": "Saki Nadare",
 		"jp_explain": "吹雪をもたらすと言われている大砲。\n放たれた弾丸は雪の華を散らしながら\n雪崩のように激しい一撃を与える。",
-		"tr_explain": "A Launcher blessed by a blizzard.\nFires a trail of snow flowers,\nwith impact as severe as an avalanche."
+		"tr_explain": "A launcher blessed by a blizzard. Fires\na trail of snow flowers, with impact as\nsevere as an avalanche."
 	},
 	{
 		"assign": "190284",
@@ -1075,6 +1089,20 @@
 		"jp_text": "アストラベロウ",
 		"tr_text": "Astra Bellow",
 		"jp_explain": "マザーの残滓たる、幻創の大砲。\n心の弱い者が使えば、轟音に宿った\n激しい怨みに、精神をへし折られる。",
-		"tr_explain": "Launcher imbued with Mother's power.\nWhen wielded by the weak, it emits a\nbellow which breaks their very soul."
+		"tr_explain": "A launcher imbued with Mother's power.\nWhen wielded by the weak, it emits a\nbellow which breaks their very soul."
+	},
+	{
+		"assign": "190307",
+		"jp_text": "ショットレガシー-NT",
+		"tr_text": "Shot Legacy-NT",
+		"jp_explain": "フォトンの弾を発射する大砲。\n全てにおいて基本的な性能を持つが故に\n扱う者の技量が問われる武器。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "190308",
+		"jp_text": "ＳＳＰＮランチャー-NT",
+		"tr_text": "SSPN Launcher-NT",
+		"jp_explain": "超巨大な実弾を発射する大砲。\n大砲と言うよりは、ミサイル発射用の\n機構であり、桁違いの破壊力を誇る。",
+		"tr_explain": ""
 	}
 ]

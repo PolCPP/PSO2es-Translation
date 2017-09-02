@@ -212,7 +212,7 @@
 	{
 		"assign": "24078",
 		"jp_text": "カブキカミトキ夜[Ou]",
-		"tr_text": "",
+		"tr_text": "Kabuki Kamitoki Night [Ou]",
 		"jp_explain": "とある地域の伝統的な衣装を大胆に\nアレンジした服装。異様な風体だが\n派手で力強いシルエットが印象的。",
 		"tr_explain": ""
 	},
@@ -394,7 +394,7 @@
 	{
 		"assign": "240166",
 		"jp_text": "アベントレイス鋼[Ou]",
-		"tr_text": "",
+		"tr_text": "Avent Lace Steel [Ou]",
 		"jp_explain": "ベルトや金属パーツが所々についた\nファンタジックなデザインのコート。\nその出で立ちは、さながら冒険者。",
 		"tr_explain": ""
 	},
@@ -441,6 +441,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "240185",
+		"jp_text": "ヴァルザレシオ影[Ou]",
+		"tr_text": "Varza Ratio Shadow [Ou]",
+		"jp_explain": "数多の戦闘データを元に開発された\n戦闘服。攻撃的な意匠は勇ましく\n見た者を怯ませるほどの威圧感がある。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "240188",
 		"jp_text": "リングチャンプＦ[Ou]",
 		"tr_text": "Ring Champ F [Ou]",
@@ -465,6 +472,13 @@
 		"assign": "240200",
 		"jp_text": "ハートエフェクタ[Ou]",
 		"tr_text": "Heart Effector [Ou]",
+		"jp_explain": "サモナーのフォトン傾向に合わせた\n新機軸の戦闘服。フォトンの増幅機構に\n音響機器の技術が用いられている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240201",
+		"jp_text": "ハートエフェクタ鋼[Ou]",
+		"tr_text": "Heart Effector Steel [Ou]",
 		"jp_explain": "サモナーのフォトン傾向に合わせた\n新機軸の戦闘服。フォトンの増幅機構に\n音響機器の技術が用いられている。",
 		"tr_explain": ""
 	},
@@ -576,7 +590,7 @@
 	{
 		"assign": "240258",
 		"jp_text": "カテドラルスーツＦ[Ou]",
-		"tr_text": "",
+		"tr_text": "Cathedral Suit F [Ou]",
 		"jp_explain": "敬虔な信心を絶やさなかった者にのみ\n着用が許される由緒正しき正装。\n服装それ自体が肩書きとなり得る服。",
 		"tr_explain": ""
 	},
@@ -662,6 +676,69 @@
 		"jp_text": "幻創使徒礼装・月v2[Ou]",
 		"tr_text": "Phantom Apostle Moon v2 [Ou]",
 		"jp_explain": "マザー・クラスタ、月の使徒\nフルが纏う使徒礼装。どこか物語の\n登場人物を思わせる装飾が多め。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240285",
+		"jp_text": "ヘリオスディルア[Ou]",
+		"tr_text": "Helios Dirah [Ou]",
+		"jp_explain": "あらゆるクラスの基礎を体得した\nアークス向けに開発された戦闘服。\n汎用性が高く、愛用者の評価は高い。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240289",
+		"jp_text": "クエンディナマント[Ou]",
+		"tr_text": "Cuendina Mantle [Ou]",
+		"jp_explain": "クエント地方に伝わる魔術士用戦闘衣。\n装者を守護する加護が施されており\n愛用者は多くいる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240293",
+		"jp_text": "ネイバークォーツ[Ou]",
+		"tr_text": "Neighbor Quartz [Ou]",
+		"jp_explain": "アークス用戦闘服。ハンター向けの服で\n大気中のフォトンと感応できるよう\n露出が多くなっており、刺激的な服装。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240306",
+		"jp_text": "ディアルマ・ワン[Ou]",
+		"tr_text": "DeAlma One [Ou]",
+		"jp_explain": "初代クラリスクレイスことアルマの服。\n服というよりも、フォトンによる物質。\nサイズなどはアルマの意志で自由自在。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240310",
+		"jp_text": "シエラの妖精衣[Ou]",
+		"tr_text": "Xiera Fairy Wear [Ou]",
+		"jp_explain": "オメガ内でのシエラが纏う妖精衣。\n伝承の存在に成り代わっているため\n姿を秘匿する魔術加護がかかっている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240314",
+		"jp_text": "クエンチカアーマー[Ou]",
+		"tr_text": "Cuentica Armor [Ou]",
+		"jp_explain": "クエント地方に伝わる軽装鎧。\n装飾が施された胸当てが付いた鎧。\n軽量ながらも堅牢で、動きやすい。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240318",
+		"jp_text": "ハリエットの戦装束Ｆ[Ou]",
+		"tr_text": "",
+		"jp_explain": "ハリエットの有事用戦装束。\n儀礼的な意味合いを持つ正礼装と異なり\n戦闘用の強い魔術加護が施されている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240322",
+		"jp_text": "アリサの戦装束[Ou]",
+		"tr_text": "",
+		"jp_explain": "クエント王国伝承の存在たる\n剣の巫女、アリサの戦装束。\n剣と共に授与される神代からの鎧。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240326",
+		"jp_text": "アルディナラータ[Ou]",
+		"tr_text": "",
+		"jp_explain": "クエント地方の伝統的な外套。\n柔らかく厚手の生地を使用しており\n昔ながらの手法で作られる。",
 		"tr_explain": ""
 	}
 ]

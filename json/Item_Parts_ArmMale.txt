@@ -709,7 +709,7 @@
 	{
 		"assign": "630104",
 		"jp_text": "グロード・アームＣＶ",
-		"tr_text": "",
+		"tr_text": "Glode Arms CV",
 		"jp_explain": "男性キャスト向けの腕部パーツ。\n古い文献に記された兵隊のデータを\n基に設計された、屈強なパーツ。",
 		"tr_explain": ""
 	},
@@ -730,7 +730,7 @@
 	{
 		"assign": "630107",
 		"jp_text": "ディグゥ・アームＣＶ",
-		"tr_text": "",
+		"tr_text": "Dig Arms CV",
 		"jp_explain": "男性キャスト向けの腕部パーツ。\n各部のフォトンシリンダーによって\n安定して高い出力を発揮できる。",
 		"tr_explain": ""
 	},
@@ -749,6 +749,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "630110",
+		"jp_text": "ドラクレス・アームＣＶ",
+		"tr_text": "Dracless Arms CV",
+		"jp_explain": "男性キャスト向けの腕部パーツ。\n他種族の生体を参考にすることによって\n高い運動性能を発揮することに成功した。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "630111",
 		"jp_text": "バンテスタ・アームＧＶ",
 		"tr_text": "Vantesta Arms GV",
@@ -763,6 +770,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "630113",
+		"jp_text": "ローロック・アームＣＶ",
+		"tr_text": "Lowrock Arms CV",
+		"jp_explain": "男性キャスト向けの腕部パーツ。\n音声に反応するセンサーを採用しており\n内部にはマイクが搭載されている。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "630114",
 		"jp_text": "ヴァリエス・アームＧＶ",
 		"tr_text": "Valiesse Arms GV",
@@ -772,29 +786,36 @@
 	{
 		"assign": "630115",
 		"jp_text": "ゴルンレオ・アーム",
-		"tr_text": "",
+		"tr_text": "Gol'n Leo Arms",
 		"jp_explain": "男性キャスト向けの腕部パーツ。\n強靭なフォルムは皆を圧倒する。\n戦場を駆け抜ける姿はまさに百獣の王。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "630117",
 		"jp_text": "スティレット・アーム",
-		"tr_text": "",
+		"tr_text": "Stylet Arms",
 		"jp_explain": "男性キャスト向けの腕部パーツ。\n高機動戦闘機としての機能を持つ\n「フレームアームズ」を模している。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "630118",
 		"jp_text": "ネメジスト・アームＧＶ",
-		"tr_text": "",
+		"tr_text": "Nemethyst Arms GV",
 		"jp_explain": "男性キャスト向けの腕部パーツ。\n設計を共有したパーツのデータを元に\nより攻撃的な形へと再構成された。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "630119",
 		"jp_text": "ドレーク・アームＧＶ",
-		"tr_text": "",
+		"tr_text": "Drake Arms GV",
 		"jp_explain": "男性キャスト向けの腕部パーツ。\n威圧感のあるシルエットが特徴的で\n言いしれぬ迫力を秘めている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "630120",
+		"jp_text": "ヴォーダム・アーム",
+		"tr_text": "Vodham Arms",
+		"jp_explain": "男性キャスト向けの腕部パーツ。\n逞しい肢体とシックな装飾が特徴で\n高官のキャストからの支持が厚い。",
 		"tr_explain": ""
 	}
 ]

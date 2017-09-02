@@ -599,21 +599,35 @@
 		"jp_text": "オフスティアセイヴァー",
 		"tr_text": "Austere Savior",
 		"jp_explain": "負の力を識り、制することで転化した\n浄化の飛翔剣。その比類なき武勇は\n悪しきを砕き、至高の力となる。",
-		"tr_explain": "A Purified Dual Blade.\nIts unparalled prowess crushes evil\nwith its supreme power."
+		"tr_explain": "A purified Dual Blade. Its unparalled\nprowess crushes evil with its supreme\npower."
 	},
 	{
 		"assign": "1170197",
 		"jp_text": "Ｓ．ＣＮマンティス",
 		"tr_text": "S.CN Mantis",
 		"jp_explain": "白兵戦に特化して作られた飛翔剣。\n長時間の使用による肉体疲労を\n軽減するため、刃は薄く設計された。",
-		"tr_explain": "Dual Blades specialized for hand-\nto-hand combat. Designed thin to\nreduce long-use fatigue."
+		"tr_explain": "Dual Blades specialized for hand-to\n-hand combat. Designed thin to reduce\nthe fatigue from long durations of use."
 	},
 	{
 		"assign": "1170198",
 		"jp_text": "Ｓ．ＣＮアーバマンティス",
 		"tr_text": "S.CN Arbor Mantis",
 		"jp_explain": "白兵戦に特化して作られた飛翔剣。\n隠密活動用に迷彩模様が施されており\n景色に紛れるとき邪魔にならない。",
-		"tr_explain": "Dual Blades specialized for hand-to\n-hand combat. Its was designed\nto not blow your cover during stealth."
+		"tr_explain": "Dual Blades specialized for hand-to\n-hand combat. Its was designed for\ncovert ops, where stealth is needed."
+	},
+	{
+		"assign": "1170200",
+		"jp_text": "イヴリダバタディア",
+		"tr_text": "Evleda Battavia",
+		"jp_explain": "古に封印されし冥夜の飛翔剣。\n忌むべき闇の流技は汝の血肉で以って\n戒め斬り裂き、静かなる世を導く。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1170201",
+		"jp_text": "クリシスバタディア",
+		"tr_text": "Cleasis Battavia",
+		"jp_explain": "古に封印されし冥夜の飛翔剣。\n純潔なる解放者を喰らいし邪なる流技は\n魂と触れし時、終末の道を解放せん。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "1170208",
@@ -816,6 +830,20 @@
 		"jp_text": "ユピテルトゥルス",
 		"tr_text": "Jupiter Tullus",
 		"jp_explain": "鋭い雷霆をイメージした飛翔剣。\n閉じ込めている雷が尖鋭的な形状から\n激しく放電している。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1170301",
+		"jp_text": "セラヴァーン-NT",
+		"tr_text": "Seravahn-NT",
+		"jp_explain": "無駄を省くという設計思想の飛翔剣。\n刀身全体にある尖った切れ込みが特徴で\n扱いには慣れが必要だが、強力。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1170302",
+		"jp_text": "ディオセラヴァーン-NT",
+		"tr_text": "Dio Seravahn-NT",
+		"jp_explain": "無駄を省くという設計思想の飛翔剣。\n振り回した際に確実に傷を抉れる様に\n角度が再調整された。",
 		"tr_explain": ""
 	}
 ]

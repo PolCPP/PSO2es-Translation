@@ -6581,8 +6581,8 @@
 	},
 	{
 		"assign": "questresult_weaponoid_present",
-		"jp_text": "<%name>から\n<%item>をもらいました！",
-		"tr_text": "Recieved <%item>\nfrom <%name>!"
+		"jp_text": "<%name>からのプレゼントが\n受け取りボックスに届きました！",
+		"tr_text": ""
 	},
 	{
 		"assign": "questresult_weaponoid_window",
@@ -7516,8 +7516,8 @@
 	},
 	{
 		"assign": "ability_name",
-		"jp_text": "アビリティ名 <color=\"#688ca7\">/</color> {0}",
-		"tr_text": "Ability <color=\"#688ca7\">/</color> {0}"
+		"jp_text": "アビリティ <color=\"#688ca7\">/</color> {0}",
+		"tr_text": ""
 	},
 	{
 		"assign": "effect",
@@ -7621,7 +7621,7 @@
 	},
 	{
 		"assign": "chipequip_ability",
-		"jp_text": "アビリティ名 <color=\"#688ca7\">/</color> {0}",
+		"jp_text": "アビリティ <color=\"#688ca7\">/</color> {0}",
 		"tr_text": "Ability <color=\"#688ca7\">/</color> {0}"
 	},
 	{
@@ -7977,7 +7977,7 @@
 	{
 		"assign": "player_status",
 		"jp_text": "プレイヤーステータス",
-		"tr_text": ""
+		"tr_text": "Player Status"
 	},
 	{
 		"assign": "illustrator_label",
@@ -7987,7 +7987,7 @@
 	{
 		"assign": "cv_label",
 		"jp_text": "CV:",
-		"tr_text": ""
+		"tr_text": "CV:"
 	},
 	{
 		"assign": "release_gauge",
@@ -8437,7 +8437,7 @@
 	{
 		"assign": "dict_collect_num_header",
 		"jp_text": "調査チップ数",
-		"tr_text": "Researched chips"
+		"tr_text": "Researched"
 	},
 	{
 		"assign": "dict_present_info_header",
@@ -9085,9 +9085,19 @@
 		"tr_text": "To next Lv."
 	},
 	{
+		"assign": "menu_charainfo_linked_exp",
+		"jp_text": "<%exp>（<%max_exp>）",
+		"tr_text": "<%exp>/<%max_exp>"
+	},
+	{
 		"assign": "menu_charainfo_label_linked_exp",
-		"jp_text": "PSO2連動経験値",
-		"tr_text": "Linked EXP"
+		"jp_text": "PSO2連動経験値（上限）",
+		"tr_text": "Linked Max EXP"
+	},
+	{
+		"assign": "menu_charainfo_label_linked_exp_hero",
+		"jp_text": "ヒーロー連動経験値（上限）",
+		"tr_text": "Hero Linked Max EXP"
 	},
 	{
 		"assign": "menu_charainfo_label_max_exp",
@@ -9112,7 +9122,7 @@
 	{
 		"assign": "menu_charainfo_label_fun",
 		"jp_text": "FUN",
-		"tr_text": ""
+		"tr_text": "FUN"
 	},
 	{
 		"assign": "menu_charainfo_label_rappycoin",
@@ -9557,7 +9567,7 @@
 	{
 		"assign": "community_guide_06",
 		"jp_text": "<color=#f0df60>フレンドにタッチすると、フレンドのアークスカードを確認できます。</color>",
-		"tr_text": "<color=#f0df60>If you touch a friend's name, you can view their Arks card.</color>"
+		"tr_text": "<color=#f0df60>If you touch a friend's name, you can view their ARKS card.</color>"
 	},
 	{
 		"assign": "community_guide_07",
@@ -10127,7 +10137,7 @@
 	{
 		"assign": "cohen",
 		"jp_text": "コーエン博士",
-		"tr_text": "Dr.Cohen"
+		"tr_text": "Dr. Cohen"
 	},
 	{
 		"assign": "donovan",
@@ -10367,7 +10377,7 @@
 	{
 		"assign": "tu_0000_w00_b",
 		"jp_text": "通常攻撃の後にタイミング良く画面をタッチすると\n「ジャストアタック」が発動し、攻撃の威力が増します。\n発動に成功すると、ダメージの数値に円状の光がつきます。",
-		"tr_text": "Time your attacks according to the\ncircle that appears around you\nafter an attack.\nWhen it’s red, you attack!"
+		"tr_text": "Time your attacks according to the\ncircle that appears around you\nafter an attack.\nWhen it's red, you attack!"
 	},
 	{
 		"assign": "tu_0001_n00_b",
@@ -11517,7 +11527,7 @@
 	{
 		"assign": "ef_0004_n02_b",
 		"jp_text": "<color=black>パックが発見されたのは\n「惑星リリーパ」の「砂漠」エリア。\nリリーパは、地表全体が砂漠におおわれた惑星です。</color>",
-		"tr_text": "<color=black>The message pack seems to have\nlogged info about the desert of\nthe desert planet \"Lilipa.\"</color>"
+		"tr_text": "<color=black>The message pack seems to have\nlogged info about the desert of\nthe desert planet \"Lillipa.\"</color>"
 	},
 	{
 		"assign": "ef_0004_n03_b",
@@ -11532,7 +11542,7 @@
 	{
 		"assign": "ef_0004_n05_b",
 		"jp_text": "<color=black>それはともかく、リリーパの砂漠エリアの\n探索許可がおりました。\n砂漠エリアには「機甲種」と呼ばれる\nこの惑星でかつて栄えた古い文明の\n防衛兵器が出現します。</color>",
-		"tr_text": "<color=black>Anyways, permission granted to\ngo to Lilipa.\nAn ancient civiliation once dwelled there.\nNow their creations, the\n\"Armored Machines\" act as defense systems.</color>"
+		"tr_text": "<color=black>Anyways, permission granted to\ngo to Lillipa.\nAn ancient civiliation once dwelled there.\nNow their creations, the\n\"Armored Machines\" act as defense systems.</color>"
 	},
 	{
 		"assign": "ef_0004_n06_b",
@@ -12827,7 +12837,7 @@
 	{
 		"assign": "es_0028_n02_b",
 		"jp_text": "<color=black>私は、アークス管理官のコフィーです。\nセラフィの代理として連絡をしています。</color>",
-		"tr_text": "<color=black>I am Koffie, ARKS Administration Officer.\nI contact you on behalf of Seraphy.</color>"
+		"tr_text": "<color=black>I am Koffie, ARKS Administration Officer.\nI'm contacting you on behalf of Seraphy.</color>"
 	},
 	{
 		"assign": "es_0028_n03_b",
@@ -12837,7 +12847,7 @@
 	{
 		"assign": "es_0028_n04_b",
 		"jp_text": "<color=black>彼女は、発信器を所持しています。\n現在、彼女の発信器からの信号を解析し\n彼女が拉致されている場所……\n博士の本拠地と想定される座標の\n特定を急いでいます。</color>",
-		"tr_text": "<color=black>She has a transmitter on her.\nWe're tracking her signal.....\nCoordinates found.\nWe believe it's the home of the Doctor.\nHurry! Quickly! Now!</color>"
+		"tr_text": "<color=black>She has a transmitter on her.\nWe're tracking her signal.....\nCoordinates found.\nWe believe it's the home of the Doctor.\nPlease, make haste.</color>"
 	},
 	{
 		"assign": "es_0028_n05_b",
@@ -14467,7 +14477,7 @@
 	{
 		"assign": "quest_final_check_equip",
 		"jp_text": "武器/防具",
-		"tr_text": ""
+		"tr_text": "Weapon/Armor"
 	},
 	{
 		"assign": "menu_invite_title",
@@ -14842,7 +14852,7 @@
 	{
 		"assign": "story_chapter10_clear_dialog_title",
 		"jp_text": "ストーリークエストクリア",
-		"tr_text": ""
+		"tr_text": "Story Quest Clear"
 	},
 	{
 		"assign": "story_chapter10_clear_dialog_body",
@@ -15427,7 +15437,7 @@
 	{
 		"assign": "pet_exp_value",
 		"jp_text": "PSO2連動経験値",
-		"tr_text": "PSO2 Linked EXP"
+		"tr_text": "Linked EXP"
 	},
 	{
 		"assign": "pet_exp_rimit_value",
@@ -17472,7 +17482,7 @@
 	{
 		"assign": "collect_search_item_complete",
 		"jp_text": "COMPLETE!",
-		"tr_text": ""
+		"tr_text": "COMPLETED!"
 	},
 	{
 		"assign": "collect_search_drop_rate_info_text",

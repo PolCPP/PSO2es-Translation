@@ -744,7 +744,7 @@
 	{
 		"assign": "620109",
 		"jp_text": "ハローゼ・ボディＣＶ",
-		"tr_text": "",
+		"tr_text": "Hallows Body CV",
 		"jp_explain": "女性キャスト向けの基礎的なパーツ。\n古い文献に記された女王のデータを\n基に設計された、華やかなパーツ。",
 		"tr_explain": ""
 	},
@@ -765,7 +765,7 @@
 	{
 		"assign": "620112",
 		"jp_text": "コルトゥ・ボディＣＶ",
-		"tr_text": "",
+		"tr_text": "Coltu Body CV",
 		"jp_explain": "女性キャスト向けの基礎的なパーツ。\nドレスのようにふんわりと緩やかな\n曲線を描いたフレームが特徴的。",
 		"tr_explain": ""
 	},
@@ -784,6 +784,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "620115",
+		"jp_text": "ドラウリア・ボディＣＶ",
+		"tr_text": "Draulia Body CV",
+		"jp_explain": "女性キャスト向けの基礎的なパーツ。\n他種族の生体を参考に設計された為\n攻撃的なフォルムになっている。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "620116",
 		"jp_text": "アムアイラ・ボディＧＶ",
 		"tr_text": "Amaira Body GV",
@@ -798,6 +805,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "620118",
+		"jp_text": "クレスロ・ボディＣＶ",
+		"tr_text": "Clesro Body CV",
+		"jp_explain": "女性キャスト向けの基礎的なパーツ。\n音波が与えるフォトンへの影響を\n検証する為に開発された。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "620119",
 		"jp_text": "サフィーア・ボディＧＶ",
 		"tr_text": "Saphir Body GV",
@@ -807,29 +821,36 @@
 	{
 		"assign": "620120",
 		"jp_text": "シルフォス・ボディ",
-		"tr_text": "",
+		"tr_text": "Silvos Body",
 		"jp_explain": "女性キャスト向けの基礎的なパーツ。\n見る者を魅了する、妖しくも\n美しい雰囲気を漂わせている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "620122",
 		"jp_text": "スティレットＧ・ボディ",
-		"tr_text": "",
+		"tr_text": "Stylet G Body",
 		"jp_explain": "女性キャスト向けの基礎的なパーツ。\n「SA-16 スティレット」を\n美少女化した姿を模して開発された。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "620123",
 		"jp_text": "レヴァイア・ボディＧＶ",
-		"tr_text": "",
+		"tr_text": "Levaia Body GV",
 		"jp_explain": "女性キャスト向けの基礎的なパーツ。\n爪や角をイメージさせるデザインは\nどことなく伝説の生物を彷彿とさせる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "620124",
 		"jp_text": "アルビダ・ボディＧＶ",
-		"tr_text": "",
+		"tr_text": "Alvida Body GV",
 		"jp_explain": "女性キャスト向けの基礎的なパーツ。\n装甲と生体部分のバランスが絶妙で\n妖艶な雰囲気をまとっている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "620125",
+		"jp_text": "クロワール・ボディ",
+		"tr_text": "Croire Body",
+		"jp_explain": "女性キャスト向けの基礎的なパーツ。\n騎士を思わせるパーツで構成され\n演劇の関係者からも人気がある。",
 		"tr_explain": ""
 	}
 ]

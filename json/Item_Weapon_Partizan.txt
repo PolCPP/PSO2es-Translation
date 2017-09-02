@@ -226,7 +226,7 @@
 	{
 		"assign": "13032",
 		"jp_text": "バルディッシュ",
-		"tr_text": "Berdysh",
+		"tr_text": "Bardiche",
 		"jp_explain": "槍の柄に斧の刃を取り付けた長槍。\n高い破壊力を誇るが重量がネックで\n軽量化を待つ声も多い。",
 		"tr_explain": ""
 	},
@@ -472,7 +472,7 @@
 		"assign": "13084",
 		"jp_text": "閻斧ラビュリス",
 		"tr_text": "Maria's Genesis Weapon",
-		"jp_explain": "■",
+		"jp_explain": "パルチザン型の創世記。『くだくもの』\n装者のフォトンを際限なく引き出して\n過剰な重力を生み、万物をすり潰す。",
 		"tr_explain": ""
 	},
 	{
@@ -488,6 +488,13 @@
 		"tr_text": "Bloodspear Vlad Bram",
 		"jp_explain": "禍々しい気配を放つ長槍。かつて夜闇と\n共に現れヒトを襲った魔物が討伐された\n際に変化したものだと言われている。",
 		"tr_explain": "A Partizan with an ominous aura.\nIts said that it was formaly a demon\nthat attacked humans in the night."
+	},
+	{
+		"assign": "13089",
+		"jp_text": "グランディア",
+		"tr_text": "Grandia",
+		"jp_explain": "槍の柄に斧の刃を取り付け、槍の\n攻撃範囲の広さと斧の破壊力を併せ持つ\n長槍。扱うためには相応の熟練が必要。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "13092",
@@ -784,6 +791,20 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "130217",
+		"jp_text": "イヴリダランジア",
+		"tr_text": "Evleda Rangia",
+		"jp_explain": "古に封印されし冥夜の長槍。\n忌むべき闇の矛は汝の血肉で以って\n戒め突き破り、赤き道を作らん。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130218",
+		"jp_text": "クリシスランジア",
+		"tr_text": "Cleasis Rangia",
+		"jp_explain": "古に封印されし冥夜の長槍。\n勇猛なる戦士を喰らいし邪なる矛は\n魂と係合せし時、全てを薙ぎ払う。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "130220",
 		"jp_text": "サグーズオービット",
 		"tr_text": "Saguz Orbit",
@@ -991,6 +1012,20 @@
 		"jp_text": "[NPC]ライアアックス",
 		"tr_text": "[NPC]Laia Axe",
 		"jp_explain": "説明文未定",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130300",
+		"jp_text": "ナイトランサー-NT",
+		"tr_text": "Knight Lancer-NT",
+		"jp_explain": "爆撃弾の追撃が可能な長槍。\n装者を祝福するその白銀の輝きは\n聖なる騎士すら彷彿させる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130301",
+		"jp_text": "ヴィジャヤ-NT",
+		"tr_text": "Vjaya-NT",
+		"jp_explain": "華美な装飾の施された豪奢な長槍。\n富豪にしか持てないと揶揄されている。",
 		"tr_explain": ""
 	}
 ]

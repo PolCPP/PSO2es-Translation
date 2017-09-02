@@ -366,7 +366,7 @@
 	{
 		"assign": "18059",
 		"jp_text": "ヴァイスフェニクス",
-		"tr_text": "Weisee Fenix",
+		"tr_text": "Weisse Fenix",
 		"jp_explain": "純白の羽を広げたような、流線形の\n特徴的なフォルムをもつ長銃。\n放つ弾丸もまた流麗。",
 		"tr_explain": ""
 	},
@@ -815,7 +815,7 @@
 		"assign": "180214",
 		"jp_text": "ヴィランツアクター",
 		"tr_text": "Vilantz Actor",
-		"jp_explain": "￥新アフィンライフル",
+		"jp_explain": "取り回しの良さに特化した新型長銃。\n極限環境下でも性能を損なうことなく\n常にフルスペックで稼働可能。",
 		"tr_explain": ""
 	},
 	{
@@ -889,6 +889,20 @@
 		"tr_explain": "Enga's Rifle"
 	},
 	{
+		"assign": "180236",
+		"jp_text": "イヴリダトラディル",
+		"tr_text": "Evleda Tradir",
+		"jp_explain": "古に封印されし冥夜の長銃。\n禁じられし闇の弾丸は汝の血肉で以って\n目覚めて、世に鮮血と静寂をもたらす。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "180237",
+		"jp_text": "クリシストラディル",
+		"tr_text": "Cleasis Tradir",
+		"jp_explain": "古に封印されし冥夜の長銃。\n射手を制する悪しき力は魂と連なりし時\n全てを撃ち抜き、世に絶望を与えん。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "180242",
 		"jp_text": "レイライフル",
 		"tr_text": "Ray Rifle",
@@ -908,6 +922,13 @@
 		"tr_text": "Skvarl Orbit",
 		"jp_explain": "新開発のフォトンリング機構を搭載した\n長銃。展開された部品が合体し\n天駆ける流星が如き弾丸の射手と化す。",
 		"tr_explain": "A Rifle with a Photon Ring Device.\nThe expanded parts can rain\nbullets down like meteors."
+	},
+	{
+		"assign": "180250",
+		"jp_text": "フォルニスロンベル",
+		"tr_text": "Fornis Ronbell",
+		"jp_explain": "異なる力を宿した恐るべき長銃。\n精度だけでなく連射性能にも優れ\n風と氷の力で標的を即座に撃ち抜く。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "180252",
@@ -1096,6 +1117,20 @@
 		"jp_text": "バトルライフルＬｖ３",
 		"tr_text": "Battle Rifle Lv.3",
 		"jp_explain": "バトルアリーナ専用に作られた長銃。\n戦技比較用に特化しており、力量が\nより発揮される調整となっている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "180315",
+		"jp_text": "ヤスミノコフ３０００Ｒ-NT",
+		"tr_text": "Yasminkov 3000R-NT",
+		"jp_explain": "名銃と名高いヤスミノコフ型の長銃。\n古典的なフォルムからは想像のできない\n火力を誇る、レンジャー憧れの武器。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "180316",
+		"jp_text": "ヴァイスフェニクス-NT",
+		"tr_text": "Weisse Fenix-NT",
+		"jp_explain": "純白の羽を広げたような、流線形の\n特徴的なフォルムをもつ長銃。\n放つ弾丸もまた流麗。",
 		"tr_explain": ""
 	}
 ]

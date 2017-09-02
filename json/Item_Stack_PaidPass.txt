@@ -303,30 +303,30 @@
 	{
 		"assign": "321060",
 		"jp_text": "リリパリウムフルチャージ",
-		"tr_text": "Liliparium Full Charge",
+		"tr_text": "Lilliparium Full Charge",
 		"jp_explain": "現在所持している全ての\nクラフトエネルギーを\n全回復させる。",
-		"tr_explain": "Reduces the cooldown of\nall craft lines completely."
+		"tr_explain": "Reduces the cooldown of all craft\nlines completely."
 	},
 	{
 		"assign": "321061",
 		"jp_text": "リリパリウム（極小）",
-		"tr_text": "Liliparium (Mini)",
+		"tr_text": "Lilliparium (Mini)",
 		"jp_explain": "選択したクラフトエネルギーを\n１５分回復させる。",
-		"tr_explain": "Reduces the cooldown of a\ncraft line by 15 minutes."
+		"tr_explain": "Reduces the cooldown of a craft\nline by 15 minutes."
 	},
 	{
 		"assign": "321062",
 		"jp_text": "リリパリウム（小）",
-		"tr_text": "Liliparium (Small)",
+		"tr_text": "Lilliparium (Small)",
 		"jp_explain": "選択したクラフトエネルギーを\n３０分回復させる。",
-		"tr_explain": "Reduces the cooldown of a\ncraft line by 30 minutes."
+		"tr_explain": "Reduces the cooldown of a craft\nline by 30 minutes."
 	},
 	{
 		"assign": "321066",
 		"jp_text": "リリパリウム（極大）",
-		"tr_text": "Liliparium (Max)",
+		"tr_text": "Lilliparium (Max)",
 		"jp_explain": "選択したクラフトエネルギーを\n１２時間回復させる。",
-		"tr_explain": "Reduces the cooldown of a\ncraft line by 12 hours."
+		"tr_explain": "Reduces the cooldown of a single craft\nline by 12 hours."
 	},
 	{
 		"assign": "321067",
@@ -494,7 +494,7 @@
 		"jp_text": "エステ無料パス",
 		"tr_text": "Free Makeover Pass",
 		"jp_explain": "エステカウンターの機能利用パス。\nサポートパートナーにも使用可能。\n利用するたびにパスは消費される。",
-		"tr_explain": "Allows you to use AC restricted\noptions in the Beauty Salon. Ticket is\nused after saving changes."
+		"tr_explain": "Allows you to use AC restricted\noptions in the Makeover Shop. Ticket is\nused after saving changes."
 	},
 	{
 		"assign": "321097",
@@ -541,28 +541,28 @@
 	{
 		"assign": "3210115",
 		"jp_text": "特殊能力追加（打撃＆ＰＰ）",
-		"tr_text": "Add Special Ability (Striking&PP)",
+		"tr_text": "Add Ability (Strike&PP)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃＆ＰＰ】の特殊能力を追加する。",
 		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Noble Power\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210116",
 		"jp_text": "特殊能力追加（射撃＆ＰＰ）",
-		"tr_text": "Add Special Ability (Shooting&PP)",
+		"tr_text": "Add Ability (Shot&PP)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃＆ＰＰ】の特殊能力を追加する。",
 		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Noble Shoot\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210117",
 		"jp_text": "特殊能力追加（法撃＆ＰＰ）",
-		"tr_text": "Add Special Ability (Technique&PP)",
+		"tr_text": "Add Ability (Tech&PP)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃＆ＰＰ】の特殊能力を追加する。",
 		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Noble Technique\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210118",
 		"jp_text": "特殊能力追加（ＨＰ＆ＰＰ）",
-		"tr_text": "Add Special Ability (Stamina&PP)",
+		"tr_text": "Add Ability (Stamina&PP)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ＆ＰＰ】の特殊能力を追加する。",
 		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Noble Stamina\"\nwhen used in Special Ability Synthesis."
 	},
@@ -618,9 +618,9 @@
 	{
 		"assign": "3210135",
 		"jp_text": "リリパリウムオール（極大）",
-		"tr_text": "Liliparium (MAX)",
+		"tr_text": "Lilliparium All (Max)",
 		"jp_explain": "現在所持している全ての\nクラフトエネルギーを\n１２時間回復させる。",
-		"tr_explain": "Reduces the cooldown of all\ncraft lines by 12 hours."
+		"tr_explain": "Reduces the cooldown of all craft lines\nby 12 hours."
 	},
 	{
 		"assign": "3210136",
@@ -746,21 +746,21 @@
 		"jp_text": "よいピッケル",
 		"tr_text": "Good Pickaxe",
 		"jp_explain": "ギャザリングで採取を行える。\nレア採取発生率＋５％",
-		"tr_explain": "A tool for Collecting.\nRare Collect Rate +5%"
+		"tr_explain": "A tool for Harvesting.\nRare Collect Rate +5%"
 	},
 	{
 		"assign": "3210157",
 		"jp_text": "ファミ通ピッケル",
 		"tr_text": "Famitsu Pickaxe",
 		"jp_explain": "ギャザリングで\nボーナス付き採取を行える。\nレア採取発生率＋８０％\n<yellow>有効期限／２０１６年１２月７日１１時００分<c>",
-		"tr_explain": "A tool for Collecting.\nRare Collect Rate +80%\n<yellow>Expires Dec 7, 2016 11:00 JST<c>"
+		"tr_explain": "A tool for Harvesting.\nRare Collect Rate +80%\n<yellow>Expires Dec 7, 2016 11:00 JST<c>"
 	},
 	{
 		"assign": "3210158",
 		"jp_text": "【極み】ピッケル",
 		"tr_text": "[Master] Pickaxe",
 		"jp_explain": "ギャザリングで採取を行える。\nレア採取発生率＋１００％",
-		"tr_explain": "A tool for Collecting.\nRare Collect Rate +100%"
+		"tr_explain": "A tool for Harvesting.\nRare Collect Rate +100%"
 	},
 	{
 		"assign": "3210159",
@@ -786,7 +786,7 @@
 	{
 		"assign": "3210163",
 		"jp_text": "採取スタミナドリンク",
-		"tr_text": "Collecting Stam. Drink",
+		"tr_text": "Harvesting Stam. Drink",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
 		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
 	},
@@ -1045,35 +1045,35 @@
 	{
 		"assign": "3210205",
 		"jp_text": "特殊能力追加（攻撃総合）",
-		"tr_text": "Add Special Ability (Attack Fusion)",
+		"tr_text": "Add Ability (Attack Fusion)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【攻撃総合】の特殊能力を追加する。",
 		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Offensive Boost\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210206",
 		"jp_text": "特殊能力追加（防御総合）",
-		"tr_text": "Add Special Ability (Defense Fusion)",
+		"tr_text": "Add Ability (Def. Fusion)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【防御総合】の特殊能力を追加する。",
 		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Defense Boost\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210207",
 		"jp_text": "特殊能力追加（攻撃継承）",
-		"tr_text": "Add Special Ability (Attack Transfer)",
+		"tr_text": "Add Ability (Attack Transfer)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【攻撃継承】の特殊能力を追加する。",
 		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Attack Receptor\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210208",
 		"jp_text": "特殊能力追加（防御継承）",
-		"tr_text": "Add Special Ability (Defense Transfer)",
+		"tr_text": "Add Ability (Def. Transfer)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【防御継承】の特殊能力を追加する。",
 		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Defense Receptor\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210209",
 		"jp_text": "特殊能力追加（心身継承）",
-		"tr_text": "Add Special Ability (Mind & Body)",
+		"tr_text": "Add Ability (Mind&Body)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【心身継承】の特殊能力を追加する。",
 		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Photon Receptor\"\nwhen used in Special Ability Synthesis."
 	},
@@ -1150,49 +1150,49 @@
 	{
 		"assign": "3210220",
 		"jp_text": "特殊能力追加（ＧＲＭ）",
-		"tr_text": "Add Special Ability (GRM)",
+		"tr_text": "Add Ability (GRM)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＧＲＭ】の特殊能力を追加する。",
 		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"GRM Boost\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210221",
 		"jp_text": "特殊能力追加（テノラ）",
-		"tr_text": "Add Special Ability (Tenora)",
+		"tr_text": "Add Ability (Tenora)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【テノラ】の特殊能力を追加する。",
 		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Tenora Boost\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210222",
 		"jp_text": "特殊能力追加（ヨウメイ）",
-		"tr_text": "Add Special Ability (Yohmei)",
+		"tr_text": "Add Ability (Yohmei)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ヨウメイ】の特殊能力を追加する。",
 		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Yohmei Boost\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210223",
 		"jp_text": "特殊能力（打撃＆ＰＰ/２）",
-		"tr_text": "Add Special Ability (Striking＆PP/2)",
+		"tr_text": "Add Ability (Strike＆PP/2)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃＆ＰＰ/２】の特殊能力を追加する。",
 		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Elegant Power\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210224",
 		"jp_text": "特殊能力（射撃＆ＰＰ/２）",
-		"tr_text": "Add Special Ability (Shooting＆PP/2)",
+		"tr_text": "Add Ability (Shot＆PP/2)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃＆ＰＰ/２】の特殊能力を追加する。",
 		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Elegant Shoot\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210225",
 		"jp_text": "特殊能力（法撃＆ＰＰ/２）",
-		"tr_text": "Add Special Ability (Technique＆PP/2)",
+		"tr_text": "Add Ability (Tech＆PP/2)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃＆ＰＰ/２】の特殊能力を追加する。",
 		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Elegant Technique\"\nwhen used in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210226",
 		"jp_text": "特殊能力（ＨＰ＆ＰＰ/２）",
-		"tr_text": "Add Special Ability (Stamina＆PP/2)",
+		"tr_text": "Add Ability (Stamina＆PP/2)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ＆ＰＰ/２】の特殊能力を追加する。",
 		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Elegant Stamina\"\nwhen used in Special Ability Synthesis."
 	},
@@ -1213,14 +1213,14 @@
 	{
 		"assign": "3210229",
 		"jp_text": "クエスト報酬獲得１",
-		"tr_text": "",
+		"tr_text": "Quest Reward 1",
 		"jp_explain": "追加のクエスト報酬を得られる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3210230",
 		"jp_text": "クエスト報酬獲得２",
-		"tr_text": "",
+		"tr_text": "Quest Reward 2",
 		"jp_explain": "追加のクエスト報酬を得られる。",
 		"tr_explain": ""
 	},
@@ -1236,132 +1236,160 @@
 		"jp_text": "強化値上限＋１",
 		"tr_text": "Grind Cap +1",
 		"jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, the\ngrind cap is boosted by +1"
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, the grind cap\nis boosted by +1."
 	},
 	{
 		"assign": "3210233",
 		"jp_text": "強化値上限＋１／大剣",
-		"tr_text": "Grind Cap +1 /  Sword",
+		"tr_text": "Grind Cap +1/Sword",
 		"jp_explain": "新世武器用の強化補助素材。\n『大剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Sword\ngrind cap is boosted by +1"
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Sword grind cap\nis boosted by +1."
 	},
 	{
 		"assign": "3210234",
 		"jp_text": "強化値上限＋１／自在槍",
-		"tr_text": "Grind Cap +1 / Wired Lance",
+		"tr_text": "Grind Cap +1/Wired Lance",
 		"jp_explain": "新世武器用の強化補助素材。\n『自在槍』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Wired Lance\ngrind cap is boosted by +1"
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Wired Lance\ngrind cap is boosted by +1."
 	},
 	{
 		"assign": "3210235",
 		"jp_text": "強化値上限＋１／長槍",
-		"tr_text": "Grind Cap +1 / Partizan",
+		"tr_text": "Grind Cap +1/Partizan",
 		"jp_explain": "新世武器用の強化補助素材。\n『長槍』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Partizan\ngrind cap is boosted by +1"
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Partizan grind\ncap is boosted by +1."
 	},
 	{
 		"assign": "3210236",
 		"jp_text": "強化値上限＋１／双小剣",
-		"tr_text": "Grind Cap +1 / Twin Dagger",
+		"tr_text": "Grind Cap +1/Twin Dagger",
 		"jp_explain": "新世武器用の強化補助素材。\n『双小剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, T. Dagger\ngrind cap is boosted by +1"
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Twin Dagger\ngrind cap is boosted by +1."
 	},
 	{
 		"assign": "3210237",
 		"jp_text": "強化値上限＋１／両剣",
-		"tr_text": "Grind Cap +1 / Double Saber",
+		"tr_text": "Grind Cap +1/Double Saber",
 		"jp_explain": "新世武器用の強化補助素材。\n『両剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, D. Saber\ngrind cap is boosted by +1"
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Double Saber\ngrind cap is boosted by +1."
 	},
 	{
 		"assign": "3210238",
 		"jp_text": "強化値上限＋１／鋼拳",
-		"tr_text": "Grind Cap +1 / Knuckles",
+		"tr_text": "Grind Cap +1/Knuckles",
 		"jp_explain": "新世武器用の強化補助素材。\n『鋼拳』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Knuckles\ngrind cap is boosted by +1"
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Knuckles grind\ncap is boosted by +1."
 	},
 	{
 		"assign": "3210239",
 		"jp_text": "強化値上限＋１／銃剣",
-		"tr_text": "Grind Cap +1 / Gunslash",
+		"tr_text": "Grind Cap +1/Gunslash",
 		"jp_explain": "新世武器用の強化補助素材。\n『銃剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Gunslash\ngrind cap is boosted by +1"
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Gunslash grind\ncap is boosted by +1."
 	},
 	{
 		"assign": "3210240",
 		"jp_text": "強化値上限＋１／長銃",
-		"tr_text": "Grind Cap +1 / Assault Rifle",
+		"tr_text": "Grind Cap +1/Assault Rifle",
 		"jp_explain": "新世武器用の強化補助素材。\n『長銃』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Rifle\ngrind cap is boosted by +1"
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Assault Rifle\ngrind cap is boosted by +1."
 	},
 	{
 		"assign": "3210241",
 		"jp_text": "強化値上限＋１／大砲",
-		"tr_text": "Grind Cap +1 / Launcher",
+		"tr_text": "Grind Cap +1/Launcher",
 		"jp_explain": "新世武器用の強化補助素材。\n『大砲』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Launcher\ngrind cap is boosted by +1"
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Launcher grind\ncap is boosted by +1."
 	},
 	{
 		"assign": "3210242",
 		"jp_text": "強化値上限＋１／双機銃",
-		"tr_text": "Grind Cap +1 / Twin Machinegun",
+		"tr_text": "Grind Cap +1/Twin Machinegun",
 		"jp_explain": "新世武器用の強化補助素材。\n『双機銃』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, TMG\ngrind cap is boosted by +1"
+		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Twin Machinegun\ngrind cap is boosted by +1."
 	},
 	{
 		"assign": "3210243",
 		"jp_text": "強化値上限＋１／長杖",
-		"tr_text": "Grind Cap +1 / Rod",
+		"tr_text": "Grind Cap +1/Rod",
 		"jp_explain": "新世武器用の強化補助素材。\n『長杖』の強化時に使用することで\n強化値の上限を１上昇させる。",
 		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Rod\ngrind cap is boosted by +1"
 	},
 	{
 		"assign": "3210244",
 		"jp_text": "強化値上限＋１／導具",
-		"tr_text": "Grind Cap +1 / Talis",
+		"tr_text": "Grind Cap +1/Talis",
 		"jp_explain": "新世武器用の強化補助素材。\n『導具』の強化時に使用することで\n強化値の上限を１上昇させる。",
 		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Talis\ngrind cap is boosted by +1"
 	},
 	{
 		"assign": "3210245",
 		"jp_text": "強化値上限＋１／短杖",
-		"tr_text": "Grind Cap +1 / Wand",
+		"tr_text": "Grind Cap +1/Wand",
 		"jp_explain": "新世武器用の強化補助素材。\n『短杖』の強化時に使用することで\n強化値の上限を１上昇させる。",
 		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Wand\ngrind cap is boosted by +1"
 	},
 	{
 		"assign": "3210246",
 		"jp_text": "強化値上限＋１／抜剣",
-		"tr_text": "Grind Cap +1 / Katana",
+		"tr_text": "Grind Cap +1/Katana",
 		"jp_explain": "新世武器用の強化補助素材。\n『抜剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
 		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Katana\ngrind cap is boosted by +1"
 	},
 	{
 		"assign": "3210247",
 		"jp_text": "強化値上限＋１／強弓",
-		"tr_text": "Grind Cap +1 / Bullet Bow",
+		"tr_text": "Grind Cap +1/Bullet Bow",
 		"jp_explain": "新世武器用の強化補助素材。\n『強弓』の強化時に使用することで\n強化値の上限を１上昇させる。",
 		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Bow\ngrind cap is boosted by +1"
 	},
 	{
 		"assign": "3210248",
 		"jp_text": "強化値上限＋１／魔装脚",
-		"tr_text": "Grind Cap +1 / Jet Boots",
+		"tr_text": "Grind Cap +1/Jet Boots",
 		"jp_explain": "新世武器用の強化補助素材。\n『魔装脚』の強化時に使用することで\n強化値の上限を１上昇させる。",
 		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Jet Boots\ngrind cap is boosted by +1"
 	},
 	{
 		"assign": "3210249",
 		"jp_text": "強化値上限＋１／飛翔剣",
-		"tr_text": "Grind Cap +1 / Dual Blade",
+		"tr_text": "Grind Cap +1/Dual Blade",
 		"jp_explain": "新世武器用の強化補助素材。\n『飛翔剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
 		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, D. Blades\ngrind cap is boosted by +1"
 	},
 	{
 		"assign": "3210250",
 		"jp_text": "強化値上限＋１／奏具",
-		"tr_text": "Grind Cap +1 / Takt",
+		"tr_text": "Grind Cap +1/Takt",
 		"jp_explain": "新世武器用の強化補助素材。\n『奏具』の強化時に使用することで\n強化値の上限を１上昇させる。",
 		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Takt\ngrind cap is boosted by +1"
+	},
+	{
+		"assign": "3210274",
+		"jp_text": "カスタムタイプ１＋７０％",
+		"tr_text": "Custom Type 1 +70%",
+		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ１の効果値を\n７０％向上させる。",
+		"tr_explain": "Used during customization crafts.\nCustom Type 1 effect boosted\nby 70%."
+	},
+	{
+		"assign": "3210275",
+		"jp_text": "カスタムタイプ２＋７０％",
+		"tr_text": "Custom Type 2 +70%",
+		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ２の効果値を\n７０％向上させる。",
+		"tr_explain": "Used during customization crafts.\nCustom Type 2 effect boosted\nby 70%."
+	},
+	{
+		"assign": "3210276",
+		"jp_text": "メリット値＋７０％",
+		"tr_text": "Merit value +70%",
+		"jp_explain": "テクニックカスタマイズ実行時に\nメリットの下限値を\n７０％上昇させる。",
+		"tr_explain": "Increases the merit value by 70%\nwhen customizing techniques."
+	},
+	{
+		"assign": "3210277",
+		"jp_text": "デメリット値－７０％",
+		"tr_text": "Demerit value -70%",
+		"jp_explain": "テクニックカスタマイズ実行時に\nデメリットの上限値を\n７０％軽減させる。",
+		"tr_explain": "Decreases the demerit value by -70%\nwhen customizing techniques."
 	}
 ]

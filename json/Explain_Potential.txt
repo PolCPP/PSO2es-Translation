@@ -9452,35 +9452,35 @@
 	{
 		"assign": "3473316307",
 		"jp_text": "空貫狙踏 Lv.1",
-		"tr_text": "Airborne Aim Lv.1",
+		"tr_text": "Celestial Aim Lv.1",
 		"jp_explain": "サテライトエイムの\n威力を上昇させる。",
 		"tr_explain": "Boosts the power of\nSatellite Aim by 14%"
 	},
 	{
 		"assign": "3473316306",
 		"jp_text": "空貫狙踏 Lv.2",
-		"tr_text": "Airborne Aim Lv.2",
+		"tr_text": "Celestial Aim Lv.2",
 		"jp_explain": "サテライトエイムの\n威力を上昇させる。",
 		"tr_explain": "Boosts the power of\nSatellite Aim by 17%"
 	},
 	{
 		"assign": "3473316309",
 		"jp_text": "空貫狙踏 Lv.3",
-		"tr_text": "Airborne Aim Lv.3",
+		"tr_text": "Celestial Aim Lv.3",
 		"jp_explain": "サテライトエイムの\n威力を上昇させる。",
 		"tr_explain": "Boosts the power of\nSatellite Aim by 20%"
 	},
 	{
 		"assign": "3473316308",
 		"jp_text": "空貫狙踏 Lv.4",
-		"tr_text": "Airborne Aim Lv.4",
+		"tr_text": "Celestial Aim Lv.4",
 		"jp_explain": "サテライトエイムの\n威力を上昇させる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3473316311",
 		"jp_text": "空貫狙踏 Lv.5",
-		"tr_text": "Airborne Aim Lv.5",
+		"tr_text": "Celestial Aim Lv.5",
 		"jp_explain": "サテライトエイムの\n威力を上昇させる。",
 		"tr_explain": ""
 	},
@@ -9907,70 +9907,70 @@
 	{
 		"assign": "1764456330",
 		"jp_text": "巧連弓 Lv.1",
-		"tr_text": "",
+		"tr_text": "Clever Arrow Lv.1",
 		"jp_explain": "マスターシュートの\r\n威力を上昇させる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1764456329",
 		"jp_text": "巧連弓 Lv.2",
-		"tr_text": "",
+		"tr_text": "Clever Arrow Lv.2",
 		"jp_explain": "マスターシュートの\r\n威力を上昇させる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1764456328",
 		"jp_text": "巧連弓 Lv.3",
-		"tr_text": "",
+		"tr_text": "Clever Arrow Lv.3",
 		"jp_explain": "マスターシュートの\r\n威力を上昇させる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1764456327",
 		"jp_text": "巧連弓 Lv.4",
-		"tr_text": "",
+		"tr_text": "Clever Arrow Lv.4",
 		"jp_explain": "マスターシュートの\r\n威力を上昇させる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1764456326",
 		"jp_text": "巧連弓 Lv.5",
-		"tr_text": "",
+		"tr_text": "Clever Arrow Lv.5",
 		"jp_explain": "マスターシュートの\r\n威力を上昇させる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1764452283",
 		"jp_text": "烈貫弓 Lv.1",
-		"tr_text": "",
+		"tr_text": "Raging Arrow Lv.1",
 		"jp_explain": "ペネトレイトアロウの\r\n威力を上昇させる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1764452280",
 		"jp_text": "烈貫弓 Lv.2",
-		"tr_text": "",
+		"tr_text": "Raging Arrow Lv.2",
 		"jp_explain": "ペネトレイトアロウの\r\n威力を上昇させる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1764452281",
 		"jp_text": "烈貫弓 Lv.3",
-		"tr_text": "",
+		"tr_text": "Raging Arrow Lv.3",
 		"jp_explain": "ペネトレイトアロウの\r\n威力を上昇させる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1764452278",
 		"jp_text": "烈貫弓 Lv.4",
-		"tr_text": "",
+		"tr_text": "Raging Arrow Lv.4",
 		"jp_explain": "ペネトレイトアロウの\r\n威力を上昇させる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1764452279",
 		"jp_text": "烈貫弓 Lv.5",
-		"tr_text": "",
+		"tr_text": "Raging Arrow Lv.5",
 		"jp_explain": "ペネトレイトアロウの\r\n威力を上昇させる。",
 		"tr_explain": ""
 	},
@@ -12253,70 +12253,105 @@
 		"assign": "1763555050",
 		"jp_text": "守勢練陣 Lv.1",
 		"tr_text": "Defensive Stance Lv.1",
-		"jp_explain": "ガードスタンスの効果\nおよび、打撃射撃の\n威力が上昇する。",
+		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1763555051",
 		"jp_text": "守勢練陣 Lv.2",
 		"tr_text": "Defensive Stance Lv.2",
-		"jp_explain": "ガードスタンスの効果\nおよび、打撃射撃の\n威力が上昇する。",
+		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1763555048",
 		"jp_text": "守勢練陣 Lv.3",
 		"tr_text": "Defensive Stance Lv.3",
-		"jp_explain": "ガードスタンスの効果\nおよび、打撃射撃の\n威力が上昇する。",
+		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1763555049",
 		"jp_text": "守勢練陣 Lv.4",
 		"tr_text": "Defensive Stance Lv.4",
-		"jp_explain": "ガードスタンスの効果\nおよび、打撃射撃の\n威力が上昇する。",
+		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1763555054",
 		"jp_text": "守勢練陣 Lv.5",
 		"tr_text": "Defensive Stance Lv.5",
-		"jp_explain": "ガードスタンスの効果\nおよび、打撃射撃の\n威力が上昇する。",
+		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2532821992",
 		"jp_text": "堅甲錬陣 Lv.1",
 		"tr_text": "",
-		"jp_explain": "ガードスタンスの効果\nおよび、打撃射撃の\n威力が上昇する。",
+		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2532821993",
 		"jp_text": "堅甲錬陣 Lv.2",
 		"tr_text": "",
-		"jp_explain": "ガードスタンスの効果\nおよび、打撃射撃の\n威力が上昇する。",
+		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2532821998",
 		"jp_text": "堅甲錬陣 Lv.3",
 		"tr_text": "",
-		"jp_explain": "ガードスタンスの効果\nおよび、打撃射撃の\n威力が上昇する。",
+		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2532821999",
 		"jp_text": "堅甲錬陣 Lv.4",
 		"tr_text": "",
-		"jp_explain": "ガードスタンスの効果\nおよび、打撃射撃の\n威力が上昇する。",
+		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2532821996",
 		"jp_text": "堅甲錬陣 Lv.5",
 		"tr_text": "",
-		"jp_explain": "ガードスタンスの効果\nおよび、打撃射撃の\n威力が上昇する。",
+		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2532825209",
+		"jp_text": "堅鎧練陣 Lv.1",
+		"tr_text": "",
+		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2532825208",
+		"jp_text": "堅鎧練陣 Lv.2",
+		"tr_text": "",
+		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2532825215",
+		"jp_text": "堅鎧練陣 Lv.3",
+		"tr_text": "",
+		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2532825214",
+		"jp_text": "堅鎧練陣 Lv.4",
+		"tr_text": "",
+		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2532825213",
+		"jp_text": "堅鎧練陣 Lv.5",
+		"tr_text": "",
+		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
 		"tr_explain": ""
 	},
 	{
@@ -13190,6 +13225,41 @@
 	{
 		"assign": "182226023",
 		"jp_text": "連刃蛇咬 Lv.5",
+		"tr_text": "",
+		"jp_explain": "連続でジャストアタックに\n成功した時の\nダメージが上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "182230588",
+		"jp_text": "流星演舞 Lv.1",
+		"tr_text": "",
+		"jp_explain": "連続でジャストアタックに\n成功した時の\nダメージが上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "182230589",
+		"jp_text": "流星演舞 Lv.2",
+		"tr_text": "",
+		"jp_explain": "連続でジャストアタックに\n成功した時の\nダメージが上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "182230590",
+		"jp_text": "流星演舞 Lv.3",
+		"tr_text": "",
+		"jp_explain": "連続でジャストアタックに\n成功した時の\nダメージが上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "182230591",
+		"jp_text": "流星演舞 Lv.4",
+		"tr_text": "",
+		"jp_explain": "連続でジャストアタックに\n成功した時の\nダメージが上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "182230576",
+		"jp_text": "流星演舞 Lv.5",
 		"tr_text": "",
 		"jp_explain": "連続でジャストアタックに\n成功した時の\nダメージが上昇する。",
 		"tr_explain": ""
@@ -18375,6 +18445,111 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "2839588870",
+		"jp_text": "属性追従・風光 Lv.1",
+		"tr_text": "",
+		"jp_explain": "弱点属性が風、光、武器\n属性のいずれかと一致時\n威力上昇し、ＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2839588871",
+		"jp_text": "属性追従・風光 Lv.2",
+		"tr_text": "",
+		"jp_explain": "弱点属性が風、光、武器\n属性のいずれかと一致時\n威力上昇し、ＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2839588868",
+		"jp_text": "属性追従・風光 Lv.3",
+		"tr_text": "",
+		"jp_explain": "弱点属性が風、光、武器\n属性のいずれかと一致時\n威力上昇し、ＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2839588869",
+		"jp_text": "属性追従・風光 Lv.4",
+		"tr_text": "",
+		"jp_explain": "弱点属性が風、光、武器\n属性のいずれかと一致時\n威力上昇し、ＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2839588890",
+		"jp_text": "属性追従・風光 Lv.5",
+		"tr_text": "",
+		"jp_explain": "弱点属性が風、光、武器\n属性のいずれかと一致時\n威力上昇し、ＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2978609917",
+		"jp_text": "属性追従・氷風 Lv.1",
+		"tr_text": "",
+		"jp_explain": "弱点属性が氷、風、武器\n属性のいずれかと一致時\n威力上昇し、ＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2978609916",
+		"jp_text": "属性追従・氷風 Lv.2",
+		"tr_text": "",
+		"jp_explain": "弱点属性が氷、風、武器\n属性のいずれかと一致時\n威力上昇し、ＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2978609891",
+		"jp_text": "属性追従・氷風 Lv.3",
+		"tr_text": "",
+		"jp_explain": "弱点属性が氷、風、武器\n属性のいずれかと一致時\n威力上昇し、ＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2978609890",
+		"jp_text": "属性追従・氷風 Lv.4",
+		"tr_text": "",
+		"jp_explain": "弱点属性が氷、風、武器\n属性のいずれかと一致時\n威力上昇し、ＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2978609889",
+		"jp_text": "属性追従・氷風 Lv.5",
+		"tr_text": "",
+		"jp_explain": "弱点属性が氷、風、武器\n属性のいずれかと一致時\n威力上昇し、ＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2978482924",
+		"jp_text": "属性追従・雷闇 Lv.1",
+		"tr_text": "",
+		"jp_explain": "弱点属性が雷、闇、武器\n属性のいずれかと一致時\n威力上昇し、ＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2978482925",
+		"jp_text": "属性追従・雷闇 Lv.2",
+		"tr_text": "",
+		"jp_explain": "弱点属性が雷、闇、武器\n属性のいずれかと一致時\n威力上昇し、ＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2978482834",
+		"jp_text": "属性追従・雷闇 Lv.3",
+		"tr_text": "",
+		"jp_explain": "弱点属性が雷、闇、武器\n属性のいずれかと一致時\n威力上昇し、ＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2978482835",
+		"jp_text": "属性追従・雷闇 Lv.4",
+		"tr_text": "",
+		"jp_explain": "弱点属性が雷、闇、武器\n属性のいずれかと一致時\n威力上昇し、ＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2978482832",
+		"jp_text": "属性追従・雷闇 Lv.5",
+		"tr_text": "",
+		"jp_explain": "弱点属性が雷、闇、武器\n属性のいずれかと一致時\n威力上昇し、ＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3708540589",
 		"jp_text": "星光の残滓 Lv.1",
 		"tr_text": "Starlight Remnants Lv.1",
@@ -19114,21 +19289,21 @@
 		"jp_text": "疾風の双機銃 Lv.1",
 		"tr_text": "Monsoon Machinegun Lv.1",
 		"jp_explain": "チェイントリガー開始時\nＰＰが回復し、一定時間\n無敵となり威力が上昇。",
-		"tr_explain": "When you activate Chain Trigger,\nPP recovery is increased, &\ninvuln. plus a power boost\nis granted over time."
+		"tr_explain": "On Chain Trigger activation,\nrecover 100 PP, become invuln.\nfor 5 seconds, and increase\nPower by 10% for 60 seconds."
 	},
 	{
 		"assign": "717915736",
 		"jp_text": "疾風の双機銃 Lv.2",
 		"tr_text": "Monsoon Machinegun Lv.2",
 		"jp_explain": "チェイントリガー開始時\nＰＰが回復し、一定時間\n無敵となり威力が上昇。",
-		"tr_explain": "When you activate Chain Trigger,\nPP recovery is increased, &\ninvuln. plus a power boost\nis granted over time."
+		"tr_explain": "On Chain Trigger activation,\nrecover 100 PP, become invuln.\nfor 5 seconds, and increase\nPower by 11% for 60 seconds."
 	},
 	{
 		"assign": "717915739",
 		"jp_text": "疾風の双機銃 Lv.3",
 		"tr_text": "Monsoon Machinegun Lv.3",
 		"jp_explain": "チェイントリガー開始時\nＰＰが回復し、一定時間\n無敵となり威力が上昇。",
-		"tr_explain": "When you activate Chain Trigger,\nPP recovery is increased, &\ninvuln. plus a power boost\nis granted over time."
+		"tr_explain": "On Chain Trigger activation,\nrecover 100 PP, become invuln.\nfor 5 seconds, and increase\nPower by 12% for 60 seconds."
 	},
 	{
 		"assign": "717915738",
@@ -19353,6 +19528,321 @@
 		"tr_text": "Tempering Trainer Lv.5",
 		"jp_explain": "特殊能力数に応じて\n威力が上昇し\nＰＰ消費量が減少する。",
 		"tr_explain": "Number of abilities\nboosts power and\nreduces PP consumption."
+	},
+	{
+		"assign": "279024015",
+		"jp_text": "死闘奮迅 Lv.1",
+		"tr_text": "Deathblow Fury Lv.1",
+		"jp_explain": "威力が6％上昇。\n周囲のエネミー死亡時に\nＰＰが回復する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "279024012",
+		"jp_text": "死闘奮迅 Lv.2",
+		"tr_text": "Deathblow Fury Lv.2",
+		"jp_explain": "威力が7％上昇。\n周囲のエネミー死亡時に\nＰＰが回復する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "279024013",
+		"jp_text": "死闘奮迅 Lv.3",
+		"tr_text": "Deathblow Fury Lv.3",
+		"jp_explain": "威力が8％上昇。\n周囲のエネミー死亡時に\nＰＰが回復する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "279024010",
+		"jp_text": "死闘奮迅 Lv.4",
+		"tr_text": "Deathblow Fury Lv.4",
+		"jp_explain": "威力が14％上昇。\n周囲のエネミー死亡時に\nＰＰが回復する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "279024011",
+		"jp_text": "死闘奮迅 Lv.5",
+		"tr_text": "Deathblow Fury Lv.5",
+		"jp_explain": "威力が16％上昇。\n周囲のエネミー死亡時に\nＰＰが回復する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "279077150",
+		"jp_text": "死闘奮迅・堅守 Lv.1",
+		"tr_text": "Deathblow Fury - Defense Lv.1",
+		"jp_explain": "死闘奮迅に加え\nディフェンスフェイズ時\n威力上昇効果が発生。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "279077149",
+		"jp_text": "死闘奮迅・堅守 Lv.2",
+		"tr_text": "Deathblow Fury - Defense Lv.2",
+		"jp_explain": "死闘奮迅に加え\nディフェンスフェイズ時\n威力上昇効果が発生。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "279077148",
+		"jp_text": "死闘奮迅・堅守 Lv.3",
+		"tr_text": "Deathblow Fury - Defense Lv.3",
+		"jp_explain": "死闘奮迅に加え\nディフェンスフェイズ時\n威力上昇効果が発生。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "279077147",
+		"jp_text": "死闘奮迅・堅守 Lv.4",
+		"tr_text": "Deathblow Fury - Defense Lv.4",
+		"jp_explain": "死闘奮迅に加え\nディフェンスフェイズ時\n威力上昇効果が発生。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "279077146",
+		"jp_text": "死闘奮迅・堅守 Lv.5",
+		"tr_text": "Deathblow Fury - Defense Lv.5",
+		"jp_explain": "死闘奮迅に加え\nディフェンスフェイズ時\n威力上昇効果が発生。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "279066365",
+		"jp_text": "未設定潜在能力 Lv.1",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "279066364",
+		"jp_text": "未設定潜在能力 Lv.2",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "279066339",
+		"jp_text": "未設定潜在能力 Lv.3",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "279066338",
+		"jp_text": "未設定潜在能力 Lv.4",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "279066337",
+		"jp_text": "未設定潜在能力 Lv.5",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "159204726",
+		"jp_text": "死闘操演 Lv.1",
+		"tr_text": "Deathblow Honor Lv.1",
+		"jp_explain": "周囲のエネミー死亡時に\nＰＰが回復する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "159204727",
+		"jp_text": "死闘操演 Lv.2",
+		"tr_text": "Deathblow Honor Lv.2",
+		"jp_explain": "周囲のエネミー死亡時に\nＰＰが回復する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "159204728",
+		"jp_text": "死闘操演 Lv.3",
+		"tr_text": "Deathblow Honor Lv.3",
+		"jp_explain": "周囲のエネミー死亡時に\nＰＰが回復する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "159204729",
+		"jp_text": "死闘操演 Lv.4",
+		"tr_text": "Deathblow Honor Lv.4",
+		"jp_explain": "周囲のエネミー死亡時に\nＰＰが回復する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "159204730",
+		"jp_text": "死闘操演 Lv.5",
+		"tr_text": "Deathblow Honor Lv.5",
+		"jp_explain": "周囲のエネミー死亡時に\nＰＰが回復する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "155480886",
+		"jp_text": "死闘操演・堅守 Lv.1",
+		"tr_text": "Deathblow Honor - Defense Lv.1",
+		"jp_explain": "死闘操演に加え\nディフェンスフェイズ時\n威力上昇効果が発生。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "155480887",
+		"jp_text": "死闘操演・堅守 Lv.2",
+		"tr_text": "Deathblow Honor - Defense Lv.2",
+		"jp_explain": "死闘操演に加え\nディフェンスフェイズ時\n威力上昇効果が発生。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "155480888",
+		"jp_text": "死闘操演・堅守 Lv.3",
+		"tr_text": "Deathblow Honor - Defense Lv.3",
+		"jp_explain": "死闘操演に加え\nディフェンスフェイズ時\n威力上昇効果が発生。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "155480889",
+		"jp_text": "死闘操演・堅守 Lv.4",
+		"tr_text": "Deathblow Honor - Defense Lv.4",
+		"jp_explain": "死闘操演に加え\nディフェンスフェイズ時\n威力上昇効果が発生。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "155480890",
+		"jp_text": "死闘操演・堅守 Lv.5",
+		"tr_text": "Deathblow Honor - Defense Lv.5",
+		"jp_explain": "死闘操演に加え\nディフェンスフェイズ時\n威力上昇効果が発生。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "155452231",
+		"jp_text": "未設定潜在能力 Lv.1",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "155452230",
+		"jp_text": "未設定潜在能力 Lv.2",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "155452233",
+		"jp_text": "未設定潜在能力 Lv.3",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "155452232",
+		"jp_text": "未設定潜在能力 Lv.4",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "155452235",
+		"jp_text": "未設定潜在能力 Lv.5",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1370293964",
+		"jp_text": "英雄の凱歌 Lv.1",
+		"tr_text": "Heroic Victory Lv.1",
+		"jp_explain": "威力が8％上昇。\nヒーローブーストを強化し\n威力増加速度が上昇。",
+		"tr_explain": "Boosts power by 8%. Increases the\nspeed of Hero Boost's power bonus\ncharge."
+	},
+	{
+		"assign": "1370293965",
+		"jp_text": "英雄の凱歌 Lv.2",
+		"tr_text": "Heroic Victory Lv.2",
+		"jp_explain": "威力が10％上昇。\nヒーローブーストを強化し\n威力増加速度が上昇。",
+		"tr_explain": "Boosts power by 10%. Increases the\nspeed of Hero Boost's power bonus\ncharge."
+	},
+	{
+		"assign": "1370294002",
+		"jp_text": "英雄の凱歌 Lv.3",
+		"tr_text": "Heroic Victory Lv.3",
+		"jp_explain": "威力が12％上昇。\nヒーローブーストを強化し\n威力増加速度が上昇。",
+		"tr_explain": "Boosts power by 12%. Increases the\nspeed of Hero Boost's power bonus\ncharge."
+	},
+	{
+		"assign": "1370294003",
+		"jp_text": "英雄の凱歌 Lv.4",
+		"tr_text": "Heroic Victory Lv.4",
+		"jp_explain": "威力が14％上昇。\nヒーローブーストを強化し\n威力増加速度が上昇。",
+		"tr_explain": "Boosts power by 14%. Increases the\nspeed of Hero Boost's power bonus\ncharge."
+	},
+	{
+		"assign": "1370294000",
+		"jp_text": "英雄の凱歌 Lv.5",
+		"tr_text": "Heroic Victory Lv.5",
+		"jp_explain": "威力が16％上昇。\nヒーローブーストを強化し\n威力増加速度が上昇。",
+		"tr_explain": "Boosts power by 16%. Increases the\nspeed of Hero Boost's power bonus\ncharge."
+	},
+	{
+		"assign": "3526466899",
+		"jp_text": "未設定潜在能力 Lv.1",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3526466896",
+		"jp_text": "未設定潜在能力 Lv.2",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3526466897",
+		"jp_text": "未設定潜在能力 Lv.3",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3526466926",
+		"jp_text": "未設定潜在能力 Lv.4",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3526466927",
+		"jp_text": "未設定潜在能力 Lv.5",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2752621884",
+		"jp_text": "避跳攻勢 Lv.1",
+		"tr_text": "Elusive Offensive Lv.1",
+		"jp_explain": "威力が5％上昇。\nヒーローで攻撃回避後\n10秒間威力が上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2752621885",
+		"jp_text": "避跳攻勢 Lv.2",
+		"tr_text": "Elusive Offensive Lv.2",
+		"jp_explain": "威力が7％上昇。\nヒーローで攻撃回避後\n10秒間威力が上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2752621858",
+		"jp_text": "避跳攻勢 Lv.3",
+		"tr_text": "Elusive Offensive Lv.3",
+		"jp_explain": "威力が10％上昇。\nヒーローで攻撃回避後\n10秒間威力が上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2752621859",
+		"jp_text": "避跳攻勢 Lv.4",
+		"tr_text": "Elusive Offensive Lv.4",
+		"jp_explain": "威力が10％上昇。\nヒーローで攻撃回避後\n10秒間威力が上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2752621856",
+		"jp_text": "避跳攻勢 Lv.5",
+		"tr_text": "Elusive Offensive Lv.5",
+		"jp_explain": "威力が12％上昇。\nヒーローで攻撃回避後\n10秒間威力が上昇。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "2472775797",
