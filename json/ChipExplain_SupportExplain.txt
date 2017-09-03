@@ -2202,14 +2202,14 @@
 		"jp_explainShort": "ダーカー以外にダメージ劇的増加",
 		"tr_explainShort": "Dramatic ATK Boosts Against All Except Darkers",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n原生種、龍族、機甲種、海王種に\n与えるダメージが劇的に増加される。",
-		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK against Natives, Dragonkinds, Mechs and Oceanids."
+		"tr_explainLong": "JAs activates an effect that dramatically boosts\nATK against Natives, Dragonkin, Mechs and\nOceanids."
 	},
 	{
 		"assign": "31334",
 		"jp_explainShort": "ダーカー以外にダメージ絶大増加",
 		"tr_explainShort": "Dramatic ATK Boosts Against All Except Darkers",
 		"jp_explainLong": "ジャストアタック成功時、長い時間\n原生種、龍族、機甲種、海王種に\n与えるダメージが絶大に増加される。",
-		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK against Natives, Dragonkinds, Mechs and Oceanids."
+		"tr_explainLong": "JAs activates an effect that dramatically boosts\nATK against Natives, Dragonkin, Mechs and\nOceanids."
 	},
 	{
 		"assign": "31337",
@@ -3182,42 +3182,42 @@
 		"jp_explainShort": "追加ダメージ＋氷弱点時ダメージ劇的増加",
 		"tr_explainShort": "Additonal DMG on Hit + Boost ATK on Ice Weak",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n追加でダメージを与え、攻撃対象の敵が氷属性弱点の\n場合に、与えるダメージが劇的に増加される。",
-		"tr_explainLong": "JAs activates an effect that applies additional\ndmg on hit. Further dramatically boosts ATK against\nenemies weak to Ice."
+		"tr_explainLong": "JAs activates an effect that applies additional\ndmg on hit. Further dramatically boosts ATK\nagainst enemies weak to Ice."
 	},
 	{
 		"assign": "31522",
 		"jp_explainShort": "追加ダメージ＋氷弱点時ダメージ劇的増加",
 		"tr_explainShort": "Additonal DMG on Hit + Boost ATK on Ice Weak",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n追加でダメージを与え、攻撃対象の敵が氷属性弱点の\n場合に、与えるダメージが劇的に増加される。",
-		"tr_explainLong": "JAs activates an effect that applies additional\ndmg on hit. Further dramatically boosts ATK against\nenemies weak to Ice."
+		"tr_explainLong": "JAs activates an effect that applies additional\ndmg on hit. Further dramatically boosts ATK\nagainst enemies weak to Ice."
 	},
 	{
 		"assign": "31525",
 		"jp_explainShort": "攻撃力劇的増加＋消費ＣＰ減少＋発動率上昇",
 		"tr_explainShort": "Boost ATK + Reduce CP Usage + Increase Chip Activation Rate",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n攻撃力が劇的に増加され、消費ＣＰが減少し\nサポートチップの発動率が上昇する。",
-		"tr_explainLong": "JAs activates an effect that dramatically boosts\nATK, reduce CP usage and boosts rate of activation\nfor support chips."
+		"tr_explainLong": "JAs activates an effect that dramatically boosts\nATK, reduce CP usage and boosts rate of\nactivation for support chips."
 	},
 	{
 		"assign": "31526",
 		"jp_explainShort": "攻撃力劇的増加＋消費ＣＰ減少＋発動率上昇",
 		"tr_explainShort": "Boost ATK + Reduce CP Usage + Increase Chip Activation Rate",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n攻撃力が劇的に増加され、消費ＣＰが減少し\nサポートチップの発動率が上昇する。",
-		"tr_explainLong": "JAs activates an effect that dramatically boosts\nATK, reduce CP usage and boosts rate of activation\nfor support chips."
+		"tr_explainLong": "JAs activates an effect that dramatically boosts\nATK, reduce CP usage and boosts rate of\nactivation for support chips."
 	},
 	{
 		"assign": "31527",
 		"jp_explainShort": "ダメージ軽減＋有効弱点時ダメージ劇的増加",
 		"tr_explainShort": "Reduce DMG Taken + Boost ATK against Weak Elements",
 		"jp_explainLong": "ジャストアタック成功時、一定時間、敵からの\nダメージが軽減され、攻撃対象の敵の弱点に有効な\n属性の場合に与えるダメージが劇的に増加される。",
-		"tr_explainLong": "JAs activates an effect that reduces DMG taken\nfrom enemies and boosts ATK against enemies weak of\neffective element."
+		"tr_explainLong": "JAs activates an effect that reduces DMG taken\nfrom enemies and boosts ATK against enemies\nweak of the effective element."
 	},
 	{
 		"assign": "31528",
 		"jp_explainShort": "ダメージ軽減＋有効弱点時ダメージ劇的増加",
 		"tr_explainShort": "Reduce DMG Taken + Boost ATK against Weak Elements",
 		"jp_explainLong": "ジャストアタック成功時、一定時間、敵からの\nダメージが軽減され、攻撃対象の敵の弱点に有効な\n属性の場合に与えるダメージが劇的に増加される。",
-		"tr_explainLong": "JAs activates an effect that reduces DMG taken\nfrom enemies and boosts ATK against enemies weak of\neffective element."
+		"tr_explainLong": "JAs activates an effect that reduces DMG taken\nfrom enemies and boosts ATK against enemies\nweak of the effective element."
 	},
 	{
 		"assign": "11030",
@@ -3245,7 +3245,7 @@
 		"jp_explainShort": "攻撃力が劇的強化",
 		"tr_explainShort": "Dramatic ATK Boost",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n攻撃力が劇的に強化される。",
-		"tr_explainLong": "JAs activates an effect that dramatically boosts ATK."
+		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK."
 	},
 	{
 		"assign": "2310",
@@ -3287,21 +3287,21 @@
 		"jp_explainShort": "攻撃力が劇的強化",
 		"tr_explainShort": "Dramatic ATK Boost",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n攻撃力が劇的に強化される。",
-		"tr_explainLong": "JAs activates an effect that dramatically boosts ATK."
+		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK."
 	},
 	{
 		"assign": "80610",
 		"jp_explainShort": "龍族に対してダメージが大増加",
 		"tr_explainShort": "ATK Boost Against Dragonkin",
 		"jp_explainLong": "龍族に攻撃がヒットした時、短い時間\n龍族に与えるダメージが大きく増加される。",
-		"tr_explainLong": "When attacking Dragonkin, activates an effect that\nlargely boosts ATK against Dragonkin."
+		"tr_explainLong": "Attacking Dragonkin activates an effect that\nlargely boosts ATK against Dragonkin."
 	},
 	{
 		"assign": "80620",
 		"jp_explainShort": "龍族に対してダメージが劇的増加",
 		"tr_explainShort": "Dramatic ATK Boost Against Dragonkin",
 		"jp_explainLong": "龍族に攻撃がヒットした時、一定時間\n龍族に与えるダメージが劇的に増加される。",
-		"tr_explainLong": "When attacking Dragonkin, activates an effect that\ndramatically boosts ATK against Dragonkin."
+		"tr_explainLong": "Attacking Dragonkin activates an effect that\ndramatically boosts ATK against Dragonkin."
 	},
 	{
 		"assign": "81310",
