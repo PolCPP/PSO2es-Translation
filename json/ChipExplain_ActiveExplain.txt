@@ -1404,14 +1404,14 @@
 		"jp_explainShort": "属性種類数攻撃力劇的増加＋追加大ダメージ",
 		"tr_explainShort": "ATK Boost proportional to Chips equipped + ATK Boost",
 		"jp_explainLong": "長い時間、攻撃力が劇的に増加し、敵に追加で\n特大ダメージを与える。さらに、装備中のチップの\n属性の種類が多いほど、攻撃力が増加する。",
-		"tr_explainLong": "For a long duration, dramatically boosts Attack.\nFurther boosts ATK with proportional to amount\nof different Element Chips equipped."
+		"tr_explainLong": "For a long duration, dramatically boost Attack.\nFurther boost ATK proportional to amount of\ndifferent Element Chips equipped."
 	},
 	{
 		"assign": "31458",
 		"jp_explainShort": "属性種類数攻撃力絶大増加＋追加大ダメージ",
 		"tr_explainShort": "ATK Boost proportional to Chips equipped + ATK Boost",
 		"jp_explainLong": "長い時間、攻撃力が絶大に増加し、敵に追加で\n特大ダメージを与える。さらに、装備中のチップの\n属性の種類が多いほど、攻撃力が増加する。",
-		"tr_explainLong": "For a long duration, dramatically boosts Attack.\nFurther boosts ATK with proportional to amount\nof different Element Chips equipped."
+		"tr_explainLong": "For a long duration, dramatically boost Attack.\nFurther boost ATK proportional to amount of\ndifferent Element Chips equipped."
 	},
 	{
 		"assign": "31475",
@@ -1474,14 +1474,14 @@
 		"jp_explainShort": "攻撃力絶大増加＋ダメージ軽減＋ダウン無効",
 		"tr_explainShort": "Boost ATK + Reduce DMG Taken + Knockdown Immunity",
 		"jp_explainLong": "長い時間、攻撃力を絶大に増加し\n炎属性チップの枚数に応じて敵から受けるダメージを\n軽減する。さらに、ダウン状態にならない。",
-		"tr_explainLong": "For a long duration, enormously boosts ATK.\nReduce amt of damage taken proportional to Fire Chips\nequipped. Grants knockdown immunity."
+		"tr_explainLong": "For a long duration, enormously boosts ATK.\nReduces the amount of damage taken proportional\nto Fire Chips equipped. Grants knockdown immunity."
 	},
 	{
 		"assign": "31508",
 		"jp_explainShort": "攻撃力絶大増加＋ダメージ軽減＋ダウン無効",
 		"tr_explainShort": "Boost ATK + Reduce DMG Taken + Knockdown Immunity",
 		"jp_explainLong": "長い時間、攻撃力を絶大に増加し\n炎属性チップの枚数に応じて敵から受けるダメージを\n軽減する。さらに、ダウン状態にならない。",
-		"tr_explainLong": "For a long duration, enormously boosts ATK.\nReduce amt of damage taken proportional to Fire Chips\nequipped. Grants knockdown immunity."
+		"tr_explainLong": "For a long duration, enormously boosts ATK.\nReduces the amount of damage taken proportional\nto Fire Chips equipped. Grants knockdown immunity."
 	},
 	{
 		"assign": "31509",
@@ -1516,28 +1516,28 @@
 		"jp_explainShort": "消費ＣＰ減少＋定期的に攻撃力を小増加",
 		"tr_explainShort": "Reduce CP Usage + Periodically Boost ATK",
 		"jp_explainLong": "長い時間、消費ＣＰを減少し\n定期的に攻撃力がわずかに増加し、絶大となる。\n消費ＣＰ減少はこのチップ発動時にも効果が適用される。",
-		"tr_explainLong": "For a long duration, reduce CP usage.\nPeriodically boosts ATK up to an enormous boost.\nCP usage reduction is further applied on chip activation."
+		"tr_explainLong": "For a long duration, reduce CP usage. Periodically\nboosts ATK up to an enormously. CP usage reduction\nis further applied on chip activation."
 	},
 	{
 		"assign": "31520",
 		"jp_explainShort": "消費ＣＰ減少＋定期的に攻撃力を増加",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、消費ＣＰを減少し\n定期的に攻撃力が増加し、絶大となる。\n消費ＣＰ減少はこのチップ発動時にも効果が適用される。",
-		"tr_explainLong": "For a long duration, reduce CP usage.\nPeriodically boosts ATK up to an enormous boost.\nCP usage reduction is further applied on chip activation."
+		"tr_explainLong": "For a long duration, reduce CP usage. Periodically\nboosts ATK up to an enormously. CP usage reduction\nis further applied on chip activation."
 	},
 	{
 		"assign": "31523",
 		"jp_explainShort": "ＨＰ・ＣＰ特大回復＋追加特大ダメージ",
 		"tr_explainShort": "HP & CP Recovery + Additional Large DMG on Hit",
 		"jp_explainLong": "ＨＰとＣＰを特大に回復し\n長い時間、敵に追加で特大ダメージを与える。",
-		"tr_explainLong": "Greatly recovers HP & CP.\nFor a long duration does adds an additional\nlarge DMG on hit to enemies."
+		"tr_explainLong": "Greatly recovers HP & CP. An additional large\ndamage is applied on hit to enemies fpr a long\nduration."
 	},
 	{
 		"assign": "31524",
 		"jp_explainShort": "ＨＰ・ＣＰ特大回復＋追加特大ダメージ",
 		"tr_explainShort": "HP & CP Recovery + Additional Large DMG on Hit",
 		"jp_explainLong": "ＨＰとＣＰを特大に回復し\n長い時間、敵に追加で特大ダメージを与える。",
-		"tr_explainLong": "Greatly recovers HP & CP.\nFor a long duration does adds an additional\nlarge DMG on hit to enemies."
+		"tr_explainLong": "Greatly recovers HP & CP. An additional large\ndamage is applied on hit to enemies fpr a long\nduration."
 	},
 	{
 		"assign": "2110",
