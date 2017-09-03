@@ -422,16 +422,16 @@
 	{
 		"assign": "30053",
 		"jp_explainShort": "攻撃力を大強化＋ダウン無効",
-		"tr_explainShort": "",
+		"tr_explainShort": "Boost ATK & Knockdown Immunity",
 		"jp_explainLong": "長い時間、攻撃力を大きく強化し\nダウンしなくなる。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, boosts ATK\nand grants knockdown immunity."
 	},
 	{
 		"assign": "30054",
 		"jp_explainShort": "攻撃力を大強化＋ダウン無効",
-		"tr_explainShort": "",
+		"tr_explainShort": "Boost ATK & Knockdown Immunity",
 		"jp_explainLong": "長い時間、攻撃力を大きく強化し\nダウンしなくなる。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, boosts ATK\nand grants knockdown immunity."
 	},
 	{
 		"assign": "30067",
@@ -1472,16 +1472,16 @@
 	{
 		"assign": "31507",
 		"jp_explainShort": "攻撃力絶大増加＋ダメージ軽減＋ダウン無効",
-		"tr_explainShort": "",
+		"tr_explainShort": "Boost ATK + Reduce DMG Taken + Knockdown Immunity",
 		"jp_explainLong": "長い時間、攻撃力を絶大に増加し\n炎属性チップの枚数に応じて敵から受けるダメージを\n軽減する。さらに、ダウン状態にならない。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, enormously boosts ATK.\nReduce amt of damage taken proportional to Fire Chips\nequipped. Grants knockdown immunity."
 	},
 	{
 		"assign": "31508",
 		"jp_explainShort": "攻撃力絶大増加＋ダメージ軽減＋ダウン無効",
-		"tr_explainShort": "",
+		"tr_explainShort": "Boost ATK + Reduce DMG Taken + Knockdown Immunity",
 		"jp_explainLong": "長い時間、攻撃力を絶大に増加し\n炎属性チップの枚数に応じて敵から受けるダメージを\n軽減する。さらに、ダウン状態にならない。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, enormously boosts ATK.\nReduce amt of damage taken proportional to Fire Chips\nequipped. Grants knockdown immunity."
 	},
 	{
 		"assign": "31509",
@@ -1500,44 +1500,44 @@
 	{
 		"assign": "31517",
 		"jp_explainShort": "攻撃力絶大増＋必殺技・法術使用毎に小増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost + Boost ATK per PA/Tech Use",
 		"jp_explainLong": "長い時間、攻撃力を絶大に増加する。\nさらに、必殺技・法術を使用するごとに必殺技・法術の\n威力がわずかに増加し、劇的となる。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, enormously boost ATK.\nFurther boosts ATK for each PA\nand Tech use up to a dramatic boost."
 	},
 	{
 		"assign": "31518",
 		"jp_explainShort": "攻撃力絶大増＋必殺技・法術使用毎に小増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK Boost + Boost ATK per PA/Tech Use",
 		"jp_explainLong": "長い時間、攻撃力を絶大に増加する。\nさらに、必殺技・法術を使用するごとに必殺技・法術の\n威力がわずかに増加し、劇的となる。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, enormously boost ATK.\nFurther boosts ATK for each PA\nand Tech use up to a dramatic boost."
 	},
 	{
 		"assign": "31519",
 		"jp_explainShort": "消費ＣＰ減少＋定期的に攻撃力を小増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Reduce CP Usage + Periodically Boost ATK",
 		"jp_explainLong": "長い時間、消費ＣＰを減少し\n定期的に攻撃力がわずかに増加し、絶大となる。\n消費ＣＰ減少はこのチップ発動時にも効果が適用される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, reduce CP usage.\nPeriodically boosts ATK up to an enormous boost.\nCP usage reduction is further applied on chip activation."
 	},
 	{
 		"assign": "31520",
 		"jp_explainShort": "消費ＣＰ減少＋定期的に攻撃力を増加",
 		"tr_explainShort": "",
 		"jp_explainLong": "長い時間、消費ＣＰを減少し\n定期的に攻撃力が増加し、絶大となる。\n消費ＣＰ減少はこのチップ発動時にも効果が適用される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a long duration, reduce CP usage.\nPeriodically boosts ATK up to an enormous boost.\nCP usage reduction is further applied on chip activation."
 	},
 	{
 		"assign": "31523",
 		"jp_explainShort": "ＨＰ・ＣＰ特大回復＋追加特大ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "HP & CP Recovery + Additional Large DMG on Hit",
 		"jp_explainLong": "ＨＰとＣＰを特大に回復し\n長い時間、敵に追加で特大ダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Greatly recovers HP & CP.\nFor a long duration does adds an additional\nlarge DMG on hit to enemies."
 	},
 	{
 		"assign": "31524",
 		"jp_explainShort": "ＨＰ・ＣＰ特大回復＋追加特大ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "HP & CP Recovery + Additional Large DMG on Hit",
 		"jp_explainLong": "ＨＰとＣＰを特大に回復し\n長い時間、敵に追加で特大ダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Greatly recovers HP & CP.\nFor a long duration does adds an additional\nlarge DMG on hit to enemies."
 	},
 	{
 		"assign": "2110",
