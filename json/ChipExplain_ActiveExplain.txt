@@ -1485,16 +1485,16 @@
 	},
 	{
 		"assign": "31509",
-		"jp_explainShort": "-",
+		"jp_explainShort": "状態異常付与＋状態異常ダメージ大増加",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "長い時間\n通常攻撃にランダムで特定の状態異常を付与し\n状態異常の敵に対してダメージ量を大きく増加する。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31510",
-		"jp_explainShort": "-",
+		"jp_explainShort": "状態異常付与＋状態異常ダメージ劇的増加",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "長い時間\n通常攻撃にランダムで特定の状態異常を付与し\n状態異常の敵に対してダメージ量を劇的に増加する。",
 		"tr_explainLong": ""
 	},
 	{
@@ -1540,6 +1540,48 @@
 		"tr_explainLong": "Greatly recovers HP & CP. An additional large\ndamage is applied on hit to enemies fpr a long\nduration."
 	},
 	{
+		"assign": "31533",
+		"jp_explainShort": "ミラージュ付与＋状態異常ダメージ劇的増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間\n通常攻撃に「ミラージュ」を付与し\n状態異常の敵に対してダメージ量を劇的に増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31534",
+		"jp_explainShort": "ミラージュ付与＋状態異常ダメージ劇的増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間\n通常攻撃に「ミラージュ」を付与し\n状態異常の敵に対してダメージ量を劇的に増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31539",
+		"jp_explainShort": "消費ＣＰ減＋機甲・ダーカーにダメージ劇的増",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、消費ＣＰを減少し機甲種もしくは\nダーカーに対して与えるダメージを劇的に増加する。\n消費ＣＰ減少はこのチップ発動時にも効果が適用される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31540",
+		"jp_explainShort": "消費ＣＰ減＋機甲・ダーカーにダメージ劇的増",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、消費ＣＰを減少し機甲種もしくは\nダーカーに対して与えるダメージを劇的に増加する。\n消費ＣＰ減少はこのチップ発動時にも効果が適用される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31543",
+		"jp_explainShort": "攻撃力超絶増＋ダメージ減＋指定技威力強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、攻撃力を超絶に増加し、受けるダメージを\n大きく軽減する。さらに、使用する必殺技が\n「オーバーエンド」の場合、その威力を絶大に強化する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31544",
+		"jp_explainShort": "攻撃力超絶増＋ダメージ減＋指定技威力強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間、攻撃力を超絶に増加し、受けるダメージを\n大きく軽減する。さらに、使用する必殺技が\n「オーバーエンド」の場合、その威力を絶大に強化する。",
+		"tr_explainLong": ""
+	},
+	{
 		"assign": "2110",
 		"jp_explainShort": "防御力を大強化",
 		"tr_explainShort": "DEF Boost",
@@ -1569,45 +1611,45 @@
 	},
 	{
 		"assign": "80210",
-		"jp_explainShort": "敵から受けるダメージを大軽減",
-		"tr_explainShort": "Reduce Damage Taken",
-		"jp_explainLong": "一定時間、敵からのダメージを大きく軽減する。",
-		"tr_explainLong": "For a period of time, greatly\nreduces damage taken from enemies."
+		"jp_explainShort": "攻撃力大増加＋ダメージ大軽減",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間\n攻撃力を大きく増加し\n敵からのダメージを大きく軽減する。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "80220",
-		"jp_explainShort": "敵から受けるダメージを大軽減",
-		"tr_explainShort": "Reduce Damage Taken",
-		"jp_explainLong": "長い時間、敵からのダメージを大きく軽減する。",
-		"tr_explainLong": "For a period of time, greatly\nreduces damage taken from enemies."
+		"jp_explainShort": "攻撃力大増加＋ダメージ大軽減",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間\n攻撃力を大きく増加し\n敵からのダメージを大きく軽減する。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "80410",
-		"jp_explainShort": "与えたダメージの一部をＨＰとして回復",
-		"tr_explainShort": "Converts Damage into HP",
-		"jp_explainLong": "短い時間、与えたダメージ量の一部を\n自身のＨＰとして回復する。",
-		"tr_explainLong": "For a short duration, converts\npart of damage done into recovery of HP."
+		"jp_explainShort": "攻撃力大増加＋ダメージの一部ＨＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "短い時間\n攻撃力を大きく増加し\n与えたダメージ量の一部を自身のＨＰとして回復する。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "80420",
-		"jp_explainShort": "与えたダメージの一部をＨＰとして回復",
-		"tr_explainShort": "Converts Damage into HP",
-		"jp_explainLong": "一定時間、与えたダメージ量の一部を\n自身のＨＰとして回復する。",
-		"tr_explainLong": "For a short duration, converts\npart of damage done into recovery of HP."
+		"jp_explainShort": "攻撃力大増加＋ダメージの一部ＨＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "一定時間\n攻撃力を大きく増加し\n与えたダメージ量の一部を自身のＨＰとして回復する。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "80510",
-		"jp_explainShort": "状態異常を取り払いＨＰを回復",
-		"tr_explainShort": "Recovers HP & Status Effects",
-		"jp_explainLong": "自身にかかった状態異常を取り払い\nＨＰを中回復する。",
-		"tr_explainLong": "Removes status effects and\nrecovers an average amount of HP."
+		"jp_explainShort": "攻撃力増加＋状態異常無効",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間\n攻撃力を増加し\n自身を状態異常にならなくする。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "80520",
-		"jp_explainShort": "状態異常を取り払いＨＰを回復",
-		"tr_explainShort": "Recovers HP & Status Effects",
-		"jp_explainLong": "自身にかかった状態異常を取り払い\nＨＰを中回復する。",
-		"tr_explainLong": "Removes status effects and\nrecovers an average amount of HP."
+		"jp_explainShort": "攻撃力大増加＋状態異常無効",
+		"tr_explainShort": "",
+		"jp_explainLong": "長い時間\n攻撃力を大きく増加し\n自身を状態異常にならなくする。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "80710",
@@ -4662,6 +4704,62 @@
 		"tr_explainLong": ""
 	},
 	{
+		"assign": "60203",
+		"jp_explainShort": "目標に拳の雨を降らせる鋼拳用の必殺技",
+		"tr_explainShort": "",
+		"jp_explainLong": "「鋼拳用の必殺技」\n目標に向けて拳の雨を降らせる。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60204",
+		"jp_explainShort": "目標に拳の雨を降らせる鋼拳用の必殺技",
+		"tr_explainShort": "",
+		"jp_explainLong": "「鋼拳用の必殺技」\n目標に向けて拳の雨を降らせる。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60205",
+		"jp_explainShort": "目標に拳の雨を降らせる鋼拳用の必殺技",
+		"tr_explainShort": "",
+		"jp_explainLong": "「鋼拳用の必殺技」\n目標に向けて拳の雨を降らせる。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60206",
+		"jp_explainShort": "目標に拳の雨を降らせる鋼拳用の必殺技",
+		"tr_explainShort": "",
+		"jp_explainLong": "「鋼拳用の必殺技」\n目標に向けて拳の雨を降らせる。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60207",
+		"jp_explainShort": "目標に拳の雨を降らせる鋼拳用の必殺技",
+		"tr_explainShort": "",
+		"jp_explainLong": "「鋼拳用の必殺技」\n目標に向けて拳の雨を降らせる。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60208",
+		"jp_explainShort": "目標に拳の雨を降らせる鋼拳用の必殺技",
+		"tr_explainShort": "",
+		"jp_explainLong": "「鋼拳用の必殺技」\n目標に向けて拳の雨を降らせる。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60209",
+		"jp_explainShort": "目標に拳の雨を降らせる鋼拳用の必殺技",
+		"tr_explainShort": "",
+		"jp_explainLong": "「鋼拳用の必殺技」\n目標に向けて拳の雨を降らせる。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60210",
+		"jp_explainShort": "目標に拳の雨を降らせる鋼拳用の必殺技",
+		"tr_explainShort": "",
+		"jp_explainLong": "「鋼拳用の必殺技」\n目標に向けて拳の雨を降らせる。",
+		"tr_explainLong": ""
+	},
+	{
 		"assign": "70110",
 		"jp_explainShort": "火の玉を放出する炎属性初級の法術",
 		"tr_explainShort": "[Fire Technique] - Foie",
@@ -6113,9 +6211,9 @@
 	{
 		"assign": "4520",
 		"jp_explainShort": "敵から受けるダメージを大軽減",
-		"tr_explainShort": "Damage Reduction",
+		"tr_explainShort": "Reduce Damage Taken",
 		"jp_explainLong": "短い時間、敵からのダメージを大きく軽減する。",
-		"tr_explainLong": "For a short duration, reduces damage taken from enemies."
+		"tr_explainLong": "For a period of time, greatly\nreduces damage taken from enemies."
 	},
 	{
 		"assign": "4810",
@@ -6148,16 +6246,16 @@
 	{
 		"assign": "5110",
 		"jp_explainShort": "与えたダメージの一部をＨＰとして回復",
-		"tr_explainShort": "Converts Damage to HP",
+		"tr_explainShort": "Converts Damage into HP",
 		"jp_explainLong": "短い時間、与えたダメージ量の一部を\n自身のＨＰとして回復する。",
-		"tr_explainLong": "For a short duration, converts\nparts of damage into recovery of HP."
+		"tr_explainLong": "For a short duration, converts\npart of damage done into recovery of HP."
 	},
 	{
 		"assign": "5120",
 		"jp_explainShort": "与えたダメージの一部をＨＰとして回復",
-		"tr_explainShort": "Converts Damage to HP",
+		"tr_explainShort": "Converts Damage into HP",
 		"jp_explainLong": "短い時間、与えたダメージ量の一部を\n自身のＨＰとして回復する。",
-		"tr_explainLong": "For a short duration, converts\nparts of damage into recovery of HP."
+		"tr_explainLong": "For a short duration, converts\npart of damage done into recovery of HP."
 	},
 	{
 		"assign": "5310",

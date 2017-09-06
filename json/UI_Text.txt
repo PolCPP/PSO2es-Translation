@@ -885,6 +885,21 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "rshop_dialog_t_07",
+		"jp_text": "交換ショップ",
+		"tr_text": "Exchange Shop"
+	},
+	{
+		"assign": "rshop_dialog_b_07_1",
+		"jp_text": "レジャーコインが足りません。\n\n所持レジャーコイン　⇒　{0:N0}枚\n必要レジャーコイン　⇒　{1:N0}枚\n不足レジャーコイン　⇒　<color=#ff0000>{2:N0}枚</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "rshop_dialog_b_07",
+		"jp_text": "「{0}」\nと、レジャーコインを交換します。よろしいですか？\n\n所持レジャーコイン　⇒　{1:N0}枚\n必要レジャーコイン　⇒　{2:N0}枚\n残りレジャーコイン　⇒　{3:N0}枚",
+		"tr_text": ""
+	},
+	{
 		"assign": "arcscard_guide_00",
 		"jp_text": "<color=#f0df60>編集したいメッセージをタッチしてください。</color>",
 		"tr_text": "<color=#f0df60>Please touch the area you would like to edit.</color>"
@@ -3656,8 +3671,8 @@
 	},
 	{
 		"assign": "myshop_dialog_b_30",
-		"jp_text": "★12以上の武器の購入後\nオーナー登録が発生します。\nよろしいですか？",
-		"tr_text": "When purchasing ★12,\nit will be bound to your account.\nDo you wish to continue?"
+		"jp_text": "★13以上の武器の購入後\nオーナー登録が発生します。\nよろしいですか？",
+		"tr_text": ""
 	},
 	{
 		"assign": "myshop_dialog_t_31",
@@ -6581,7 +6596,7 @@
 	},
 	{
 		"assign": "questresult_weaponoid_present",
-		"jp_text": "<%name>からのプレゼントが\n受け取りボックスに届きました！",
+		"jp_text": "<%name>から\n<%item>をもらいました！",
 		"tr_text": ""
 	},
 	{
@@ -8167,7 +8182,7 @@
 	{
 		"assign": "recycle_shop_header",
 		"jp_text": "交換ショップ",
-		"tr_text": "Exchange Shop"
+		"tr_text": ""
 	},
 	{
 		"assign": "recycle_product_list",
@@ -8268,6 +8283,11 @@
 		"assign": "recycle_item_trade_info",
 		"jp_text": "交換に必要：{0} {1}個",
 		"tr_text": "Needs x{1} {0}."
+	},
+	{
+		"assign": "recycle_item_trade_info_sheet",
+		"jp_text": "交換に必要：{0} {1}枚",
+		"tr_text": ""
 	},
 	{
 		"assign": "recycle_item_trade_limit_info",
@@ -14175,6 +14195,16 @@
 		"tr_text": "Reduces chip cost of matching chips\nsharing the same element as the weapon.\nThe cost is adjusted based on the\nweapon's elemental value."
 	},
 	{
+		"assign": "ItemDetail_dialog_t_05",
+		"jp_text": "「状態異常耐性上昇」とは",
+		"tr_text": ""
+	},
+	{
+		"assign": "ItemDetail_dialog_b_05",
+		"jp_text": "装備に設定されている状態異常を\n設定された値の確率で無効化します。\n複数の装備で耐性の値を高くすると\nより大きな効果を期待できます。",
+		"tr_text": ""
+	},
+	{
 		"assign": "RaidEvent_tab_00",
 		"jp_text": "進行状況",
 		"tr_text": "Progress"
@@ -15477,7 +15507,7 @@
 	{
 		"assign": "pet_egg_give_window_body",
 		"jp_text": "以下のエッグを合成します。\r\n{0}{1}よろしいですか？\r\n\r\n・{2}\r\n",
-		"tr_text": "This will synthesize this egg.\n{0}{1} Are you sure?\n\n・{2}\n"
+		"tr_text": "This will synthesize this egg.\n{0}{1}Are you sure?\n\n・{2}\n"
 	},
 	{
 		"assign": "pet_egg_give_window_rare_body",
@@ -16322,6 +16352,21 @@
 	{
 		"assign": "lookback_season2_chapter_5",
 		"jp_text": "５章　　生きる場所　　",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_maintitle_2",
+		"jp_text": "スペシャルストーリー",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_maintext_2",
+		"jp_text": "期間限定クエストなどの特別な物語を\n振り返ります。",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_special_chapter_1",
+		"jp_text": "太陽と海のバケーション",
 		"tr_text": ""
 	},
 	{
@@ -17700,6 +17745,16 @@
 		"tr_text": "Season 2 Ch.1 Cleared!\nYou shall receive a clear reward.\nPlease accept from the Reception Box."
 	},
 	{
+		"assign": "quest_clear_reward_dialog_title_6114004",
+		"jp_text": "ストーリークエスト Season2　2章クリア",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_clear_reward_dialog_body_6114004",
+		"jp_text": "Season2　2章クリアおめでとうございます！\n以下のクリア報酬をプレゼントいたします。\n受け取りボックスをご確認ください。",
+		"tr_text": ""
+	},
+	{
 		"assign": "recommended_equipment",
 		"jp_text": "おすすめ装備",
 		"tr_text": "Recommended Equipment"
@@ -17738,5 +17793,450 @@
 		"assign": "recommended_select_decide",
 		"jp_text": "パレットに反映する",
 		"tr_text": "Recommend Palette"
+	},
+	{
+		"assign": "acceptbox_sale_window_title",
+		"jp_text": "受け取りボックス 売却一覧",
+		"tr_text": "Reception Box Sales "
+	},
+	{
+		"assign": "acceptbox_sale_button_title",
+		"jp_text": "選択対象を売却",
+		"tr_text": "Sell Selected"
+	},
+	{
+		"assign": "acceptbox_sale_selected_count",
+		"jp_text": "選択数  <%num><color=#68a0a7>/</color><%max>",
+		"tr_text": "No. <%num><color=#68a0a7>/</color><%max>"
+	},
+	{
+		"assign": "acceptbox_sale_confirm_dialog_title",
+		"jp_text": "受け取りボックスの売却確認",
+		"tr_text": "Confirm"
+	},
+	{
+		"assign": "acceptbox_sale_confirm_dialog_text",
+		"jp_text": "アイテムを<%meseta>メセタで売却します。\nよろしいですか？",
+		"tr_text": "This will sell the\nselected for <%meseta>. Continue?"
+	},
+	{
+		"assign": "acceptbox_sale_now_meseta_title",
+		"jp_text": "所持メセタ",
+		"tr_text": "Owned"
+	},
+	{
+		"assign": "acceptbox_sale_a_meseta_to_b_meseta",
+		"jp_text": "<%now_meseta>　⇒　<%result_meseta>",
+		"tr_text": ""
+	},
+	{
+		"assign": "acceptbox_rare_asc_sort_title",
+		"jp_text": "レア度昇順",
+		"tr_text": "Sort Rare+"
+	},
+	{
+		"assign": "acceptbox_rare_dsc_sort_title",
+		"jp_text": "レア度降順",
+		"tr_text": "Sort Rare-"
+	},
+	{
+		"assign": "acceptbox_sale_meseta_over_dialog_title",
+		"jp_text": "メセタ所持数オーバー",
+		"tr_text": "Meseta Over Sale"
+	},
+	{
+		"assign": "acceptbox_sale_meseta_over_dialog_text",
+		"jp_text": "メセタの所持数をオーバーしているので\n売却することができません。",
+		"tr_text": ""
+	},
+	{
+		"assign": "acceptbox_sale_failed_dialog_title",
+		"jp_text": "受け取りボックスの売却　期限切れ",
+		"tr_text": ""
+	},
+	{
+		"assign": "acceptbox_sale_failed_dialog_text",
+		"jp_text": "期限切れのアイテムは売却することが\nできませんでした。",
+		"tr_text": ""
+	},
+	{
+		"assign": "acceptbox_sale_failed_dialog_item_price",
+		"jp_text": "<color=red><%meseta></color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "acceptbox_window_receive_tab_title",
+		"jp_text": "受取",
+		"tr_text": "Receipt"
+	},
+	{
+		"assign": "acceptbox_window_sale_tab_title",
+		"jp_text": "売却",
+		"tr_text": "Sale"
+	},
+	{
+		"assign": "acceptbox_no_sale_item",
+		"jp_text": "売却出来るアイテムはありません。",
+		"tr_text": ""
+	},
+	{
+		"assign": "acceptbox_sale_successed_dialog_title",
+		"jp_text": "アイテムを売却",
+		"tr_text": "Sell Items"
+	},
+	{
+		"assign": "acceptbox_sale_successed_dialog_text",
+		"jp_text": "アイテムを売却しました。",
+		"tr_text": ""
+	},
+	{
+		"assign": "acceptbox_sale_rare_warning_dialog_title",
+		"jp_text": "アイテムを売却",
+		"tr_text": "Sell Items"
+	},
+	{
+		"assign": "acceptbox_sale_rare_warning_dialog_text",
+		"jp_text": "選択したアイテムの中に<color=#ff0000>★７以上</color>のものが\n含まれています。本当に売却しますか？",
+		"tr_text": ""
+	},
+	{
+		"assign": "acceptbox_sale_stargem_warning_dialog_title",
+		"jp_text": "アイテムを売却",
+		"tr_text": "Sell Items"
+	},
+	{
+		"assign": "acceptbox_sale_stargem_warning_dialog_text",
+		"jp_text": "<color=#ff0000>選択したアイテムの中に\nスタージェムを入手していないものが\n含まれています。</color>\n本当に売却しますか？",
+		"tr_text": ""
+	},
+	{
+		"assign": "leisure_title",
+		"jp_text": "レジャールーム",
+		"tr_text": "Leisure Room"
+	},
+	{
+		"assign": "leisure_navi_name",
+		"jp_text": "<color=#FFFFFF>モア</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "leisure_navi_talk",
+		"jp_text": "<color=#000000>フォトンダイスでオレたちと勝負だ！\nサイコロを交互に振って\n合計数の多いほうが勝ちだってば！</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "leisure_remaining_playcount",
+		"jp_text": "<color=#FFFFFF>残りプレイ回数  </color><color=#68a0a7>/</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "leisure_remaining_playcount_recovery",
+		"jp_text": "<color=#FFFFFF>(毎日<%value>に最大３回まで回復)</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "leisure_special_count",
+		"jp_text": "<color=#FFFFFF>所持スペシャルプレイチケット</color><color=#68a0a7>/</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "leisure_has_coin",
+		"jp_text": "<color=#FFFFFF>所持LC</color><color=#68a0a7>/</color>",
+		"tr_text": "<color=#FFFFFF>Owned LC</color><color=#68a0a7>/</color>"
+	},
+	{
+		"assign": "leisure_times",
+		"jp_text": "回",
+		"tr_text": "x"
+	},
+	{
+		"assign": "photondice_title",
+		"jp_text": "フォトンダイス",
+		"tr_text": "Photon Dice"
+	},
+	{
+		"assign": "photondice_buttle_1",
+		"jp_text": "第１回戦",
+		"tr_text": "1st Round"
+	},
+	{
+		"assign": "photondice_buttle_2",
+		"jp_text": "第２回戦",
+		"tr_text": "2nd Round"
+	},
+	{
+		"assign": "photondice_buttle_3",
+		"jp_text": "第３回戦",
+		"tr_text": "3rd Round"
+	},
+	{
+		"assign": "photondice_buttle_4",
+		"jp_text": "第４回戦",
+		"tr_text": "4th Round"
+	},
+	{
+		"assign": "photondice_buttle_5",
+		"jp_text": "最終戦",
+		"tr_text": "Final Round"
+	},
+	{
+		"assign": "photondice_challenger",
+		"jp_text": "挑戦者",
+		"tr_text": "Challenger"
+	},
+	{
+		"assign": "photondice_lc",
+		"jp_text": "LC",
+		"tr_text": "LC"
+	},
+	{
+		"assign": "photondice_sheet",
+		"jp_text": "枚",
+		"tr_text": "Sheet"
+	},
+	{
+		"assign": "photondice_acquisition",
+		"jp_text": "獲得可能",
+		"tr_text": "Accept"
+	},
+	{
+		"assign": "photondice_dialog_t_01",
+		"jp_text": "対戦開始確認",
+		"tr_text": "Start Battle"
+	},
+	{
+		"assign": "photondice_dialog_b_01",
+		"jp_text": "プレイ回数を消費し、対戦を開始します。\nよろしいですか？",
+		"tr_text": ""
+	},
+	{
+		"assign": "photondice_dialog_b_02",
+		"jp_text": "残りプレイ回数：",
+		"tr_text": "Plays Remaining:"
+	},
+	{
+		"assign": "photondice_special_dialog_t_01",
+		"jp_text": "スペシャルプレイチケット消費確認",
+		"tr_text": ""
+	},
+	{
+		"assign": "photondice_special_dialog_b_01",
+		"jp_text": "プレイ回数が足りません。\nスペシャルプレイチケットを消費して\n対戦を開始します。よろしいですか？",
+		"tr_text": ""
+	},
+	{
+		"assign": "photondice_special_dialog_b_02",
+		"jp_text": "所持スペシャルプレイチケット：",
+		"tr_text": ""
+	},
+	{
+		"assign": "photondice_has_not_dialog_t_01",
+		"jp_text": "プレイ回数不足",
+		"tr_text": ""
+	},
+	{
+		"assign": "photondice_has_not_dialog_b_01",
+		"jp_text": "プレイ回数が足りません。\nプレイ回数は毎日<%value>にリセットされます。",
+		"tr_text": ""
+	},
+	{
+		"assign": "photondice_has_not_dialog_b_02",
+		"jp_text": "プレイ回数は毎日<%value>にリセットされます。",
+		"tr_text": ""
+	},
+	{
+		"assign": "photondice_doubleup_dialog_t_01",
+		"jp_text": "ダブルアップ対戦開始確認",
+		"tr_text": "Double Up Start"
+	},
+	{
+		"assign": "photondice_doubleup_dialog_b_01",
+		"jp_text": "獲得LCを賭けてダブルアップに挑戦しますか？",
+		"tr_text": ""
+	},
+	{
+		"assign": "photondice_doubleup_dialog_b_02",
+		"jp_text": "ダブルアップ時はプレイ回数を消費しません。\nダブルアップ対戦で敗北すると、獲得LCを失います。",
+		"tr_text": ""
+	},
+	{
+		"assign": "photondice_doubleup_dialog_b_03",
+		"jp_text": "現在の獲得LC：　<%value>枚",
+		"tr_text": "Current LC: <%value>"
+	},
+	{
+		"assign": "photondice_payback_dialog_t_01",
+		"jp_text": "払い戻し確認画面",
+		"tr_text": "Confirm"
+	},
+	{
+		"assign": "photondice_payback_dialog_b_01",
+		"jp_text": "獲得LCを取得しフォトンダイスを終了します。\n次回の対戦ではプレイ回数を消費し、\n最初からスタートとなります。",
+		"tr_text": ""
+	},
+	{
+		"assign": "photondice_payback_dialog_b_02",
+		"jp_text": "獲得LC：　<%value>枚",
+		"tr_text": "LC Gained: <%value>"
+	},
+	{
+		"assign": "photondice_result_win_dialog_t_01",
+		"jp_text": "<%value>戦目　対戦結果",
+		"tr_text": "<%value> Round Result"
+	},
+	{
+		"assign": "photondice_result_win_dialog_b_01",
+		"jp_text": "対戦に勝利しました！",
+		"tr_text": "You Win!"
+	},
+	{
+		"assign": "photondice_result_win_dialog_b_02",
+		"jp_text": "<size=35><color=yellow>基本獲得LC：　<%value>枚</color></size> ",
+		"tr_text": "<size=35><color=yellow>Standard LC：　<%value></color></size> "
+	},
+	{
+		"assign": "photondice_result_win_dialog_b_03",
+		"jp_text": "　ダブルアップボーナス　＋<%value>％",
+		"tr_text": " Double Up Bonus ＋<%value>％"
+	},
+	{
+		"assign": "photondice_result_win_dialog_b_04",
+		"jp_text": "　キャラクターボーナス　＋<%value>％",
+		"tr_text": " Character Bonus ＋<%value>％"
+	},
+	{
+		"assign": "photondice_result_win_dialog_b_05",
+		"jp_text": "　勝利ボーナス【<%value>】　＋<%value2>％",
+		"tr_text": " Win Bonus[<%value>] +<%value2>%"
+	},
+	{
+		"assign": "photondice_result_win_dialog_b_06",
+		"jp_text": "合計追加ボーナス　＋<%value>％",
+		"tr_text": "Total Bonus ＋<%value>％"
+	},
+	{
+		"assign": "photondice_result_win_dialog_b_07",
+		"jp_text": "<size=50><color=yellow>合計獲得LC：　<%value>枚</color></size> ",
+		"tr_text": "<size=50><color=yellow>Total LC:<%value></color></size>"
+	},
+	{
+		"assign": "photondice_result_win_dialog_b_08",
+		"jp_text": "　「払い戻し」ボタンからLCを獲得できます。\n",
+		"tr_text": "By pressing [Refund], you can earn LC.\n"
+	},
+	{
+		"assign": "photondice_result_lose_dialog_t_01",
+		"jp_text": "<%value>戦目　対戦結果",
+		"tr_text": "<%value> Match Result"
+	},
+	{
+		"assign": "photondice_result_lose_dialog_b_01",
+		"jp_text": "対戦に敗北したため、獲得LCを失いました。",
+		"tr_text": "LC wasn't gained because you lost."
+	},
+	{
+		"assign": "photondice_result_lose_dialog_b_02",
+		"jp_text": "合計獲得LC：　<%value>枚",
+		"tr_text": "Total LC: <%value>"
+	},
+	{
+		"assign": "photondice_error_payback_dialog_t_01",
+		"jp_text": "払い戻し",
+		"tr_text": "Refund"
+	},
+	{
+		"assign": "photondice_error_payback_dialog_b_01",
+		"jp_text": "データ更新がありましたので\nLCを払い戻し、対戦を終了します。",
+		"tr_text": "Since there was a data update\nyour LC was refunded."
+	},
+	{
+		"assign": "photondice_error_payback_dialog_b_02",
+		"jp_text": "合計獲得LC：　<%value>枚",
+		"tr_text": "Total LC: <%value>"
+	},
+	{
+		"assign": "photondice_error_payback_dialog_button",
+		"jp_text": "払い戻し",
+		"tr_text": "Refund"
+	},
+	{
+		"assign": "photondice_comp_dialog_t_01",
+		"jp_text": "Congratulations!",
+		"tr_text": ""
+	},
+	{
+		"assign": "photondice_comp_dialog_b_01",
+		"jp_text": "５連勝おめでとうございます！",
+		"tr_text": "Congrats on 5 wins!"
+	},
+	{
+		"assign": "photondice_comp_dialog_b_02",
+		"jp_text": "合計獲得LC：　<%value>枚",
+		"tr_text": "Total LC: <%value>"
+	},
+	{
+		"assign": "photondice_comp_dialog_button",
+		"jp_text": "払い戻し",
+		"tr_text": "Refund"
+	},
+	{
+		"assign": "photondice_show_rule_button",
+		"jp_text": "ルール説明",
+		"tr_text": "Rules"
+	},
+	{
+		"assign": "photondice_challenger_name",
+		"jp_text": "<color=#fffffff>対戦相手</color>",
+		"tr_text": "<color=#fffffff>Opponent</color>"
+	},
+	{
+		"assign": "photondice_player_name",
+		"jp_text": "<color=#fffffff>あなた</color>",
+		"tr_text": "<color=#fffffff>You</color>"
+	},
+	{
+		"assign": "leisure_guid_msg",
+		"jp_text": "<color=#f0df60>レジャールームでは、フォトンダイスをプレイしてLC（レジャーコイン）を獲得することができます。集めたLCは、交換ショップで景品に交換できます。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "photondice_guid_msg",
+		"jp_text": "<color=#f0df60>フォトンダイスは、対戦相手と互いにサイコロを振って、合計数が高い方が勝利します。２つの目が揃うダブル、３つの目が順番に並ぶストレートは報酬アップ！　３つ目が揃うフィーバーは合計数関係無しに勝利できます。(相手もフィーバーの場合は、サイコロの目が大きい方が勝利します)</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "leisure_has_lc",
+		"jp_text": "<color=#FFFFFF>所持LC：</color><color=#68a0a7>/</color>",
+		"tr_text": "<color=#FFFFFF>Owned LC：</color><color=#68a0a7>/</color>"
+	},
+	{
+		"assign": "photondice_result_win_dialog_b_Straight",
+		"jp_text": "ストレート",
+		"tr_text": "Straight"
+	},
+	{
+		"assign": "photondice_result_win_dialog_b_Double",
+		"jp_text": "ダブル",
+		"tr_text": "Double"
+	},
+	{
+		"assign": "photondice_result_win_dialog_b_Fever",
+		"jp_text": "フィーバー",
+		"tr_text": "Fever"
+	},
+	{
+		"assign": "photondice_battle_odds_Straight",
+		"jp_text": "Straight",
+		"tr_text": "Straight"
+	},
+	{
+		"assign": "photondice_battle_odds_Double",
+		"jp_text": "Double",
+		"tr_text": "Double"
+	},
+	{
+		"assign": "photondice_battle_odds_Normal",
+		"jp_text": "Normal",
+		"tr_text": "Normal"
 	}
 ]

@@ -205,7 +205,7 @@
 	{
 		"assign": "11030",
 		"jp_text": "[NPC]ヤスダクイナソード",
-		"tr_text": "",
+		"tr_text": "[NPC]ヤスダクイナソード",
 		"jp_explain": "[NPC]ヤスダクイナソード",
 		"tr_explain": ""
 	},
@@ -903,6 +903,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "110274",
+		"jp_text": "シュベルハンダー",
+		"tr_text": "Schvelle Hander",
+		"jp_explain": "古に封印されし冥夜の大剣。\n現世に蘇りし闇は圧倒の大刃となり\n生者を滅して、永久の平穏を築く。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "110276",
 		"jp_text": "レイソード",
 		"tr_text": "Ray Sword",
@@ -1038,7 +1045,7 @@
 	{
 		"assign": "110301",
 		"jp_text": "[NPC]トール・ハンマーＳ",
-		"tr_text": "",
+		"tr_text": "[NPC]Thor's Hammer S",
 		"jp_explain": "[NPC]トール・ハンマーＳ",
 		"tr_explain": ""
 	},
@@ -1136,21 +1143,21 @@
 	{
 		"assign": "110358",
 		"jp_text": "[NPC]ストラトスのソード",
-		"tr_text": "",
+		"tr_text": "[NPC]Stratos' Sword",
 		"jp_explain": "[NPC]ストラトス：ソード",
 		"tr_explain": ""
 	},
 	{
 		"assign": "110359",
 		"jp_text": "[NPC]ラコニアンソードＳ",
-		"tr_text": "",
+		"tr_text": "[NPC]Laconian Sword S",
 		"jp_explain": "[NPC]ラコニアンソードＳ",
 		"tr_explain": ""
 	},
 	{
 		"assign": "110360",
 		"jp_text": "[NPC]ハリエット軽短杖Ｓ",
-		"tr_text": "",
+		"tr_text": "[NPC]ハリエット軽短杖Ｓ",
 		"jp_explain": "[NPC]ハリエット軽短杖Ｓ",
 		"tr_explain": ""
 	},
@@ -1166,6 +1173,13 @@
 		"jp_text": "フラメブランド-NT",
 		"tr_text": "Flamme Brand-NT",
 		"jp_explain": "燃え盛る炎を体現した大剣。\n炎のように強く揺らめくフォトンは\n灼熱の具現のような雄々しさを持つ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "110363",
+		"jp_text": "[NPC]ヴェルン兵ソード",
+		"tr_text": "[NPC]ヴェルン兵ソード",
+		"jp_explain": "[NPC]ヴェルン兵ソード",
 		"tr_explain": ""
 	}
 ]

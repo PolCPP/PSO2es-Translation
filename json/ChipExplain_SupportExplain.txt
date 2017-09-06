@@ -995,17 +995,17 @@
 	},
 	{
 		"assign": "31095",
-		"jp_explainShort": "ＨＰとＣＰが小回復",
-		"tr_explainShort": "Small HP & CP Recovery",
-		"jp_explainLong": "ジャストアタック成功時\nＨＰとＣＰがわずかに回復する。",
-		"tr_explainLong": "JAs activates an effect that\nrecover small amount of HP and CP."
+		"jp_explainShort": "ＨＰ小回復＋ＣＰ小回復＋追加特大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時\nＨＰとＣＰがわずかに回復する。\nさらに、敵に追加で特大ダメージを与える。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31096",
-		"jp_explainShort": "ＨＰとＣＰが回復",
-		"tr_explainShort": "Small Recovery of HP & CP",
-		"jp_explainLong": "ジャストアタック成功時\nＨＰとＣＰが回復する。",
-		"tr_explainLong": "JAs activates an effect that\nrecovers a small amount of HP and CP."
+		"jp_explainShort": "ＨＰ回復＋ＣＰ回復＋追加特大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時\nＨＰとＣＰが回復する。\nさらに、敵に追加で特大ダメージを与える。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31101",
@@ -1093,10 +1093,10 @@
 	},
 	{
 		"assign": "31113",
-		"jp_explainShort": "海王種・ダーカーにダメージ大増加＋軽減",
-		"tr_explainShort": "Damage Boost against Oceanids, Darkers+Damage Reduction",
-		"jp_explainLong": "ジャストアタック成功時、一定時間\n海王種もしくはダーカーに対して、与えるダメージが\n大きく増加され、受けるダメージが軽減される。",
-		"tr_explainLong": "JAs will activate an effect that\nincreases damage towards Oceanids and Darkers\nwhile also reducing damage received."
+		"jp_explainShort": "海王種・ダーカーにダメージ劇的増加＋軽減",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n海王種もしくはダーカーに対して、与えるダメージが\n劇的に増加され、受けるダメージが軽減される。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31114",
@@ -2619,10 +2619,10 @@
 	},
 	{
 		"assign": "31407",
-		"jp_explainShort": "海王種・原生種にダメージ大増加＋軽減",
-		"tr_explainShort": "ATK Boost + Damage Migitation Against Oceanids and Natives",
-		"jp_explainLong": "ジャストアタック成功時、一定時間\n海王種もしくは原生種に対して、与えるダメージが\n大きく増加され、受けるダメージが軽減される。",
-		"tr_explainLong": "JAs activates an effect that largely boosts\nATK and grants damage migitation against Oceanids\nand Natives."
+		"jp_explainShort": "海王種・原生種にダメージ劇的増加＋軽減",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n海王種もしくは原生種に対して、与えるダメージが\n劇的に増加され、受けるダメージが軽減される。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31408",
@@ -3151,17 +3151,17 @@
 	},
 	{
 		"assign": "31513",
-		"jp_explainShort": "海王種・原生種にダメージ増加＋軽減",
-		"tr_explainShort": "Boost ATK & Reduce DMG against Oceanids and Natives.",
-		"jp_explainLong": "攻撃ヒット時、一定時間\n海王種もしくは原生種に対して、与えるダメージが\n増加され、受けるダメージが軽減される。",
-		"tr_explainLong": "When attacking, for a period of time, boost\nATK and reduce damage against Oceanids & Natives."
+		"jp_explainShort": "海王種・原生種に軽減＋ダメージ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、海王種もしくは原生種に対し\n受けるダメージが軽減され、アビリティレベルに応じて\n与えるダメージが増加される。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31514",
-		"jp_explainShort": "海王種・原生種にダメージ大増加＋軽減",
-		"tr_explainShort": "Boost ATK & Reduce DMG against Oceanids and Natives.",
-		"jp_explainLong": "攻撃ヒット時、一定時間\n海王種もしくは原生種に対して、与えるダメージが\n大きく増加され、受けるダメージが軽減される。",
-		"tr_explainLong": "When attacking, for a period of time, boost\nATK and reduce damage against Oceanids & Natives."
+		"jp_explainShort": "海王種・原生種に軽減＋ダメージ大増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、海王種もしくは原生種に対し\n受けるダメージが軽減され、アビリティレベルに応じて\n与えるダメージが大きく増加される。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31515",
@@ -3220,6 +3220,132 @@
 		"tr_explainLong": "JAs activates an effect that reduces DMG taken\nfrom enemies and boosts ATK against enemies\nweak of the effective element."
 	},
 	{
+		"assign": "31529",
+		"jp_explainShort": "追加ダメージ＋雷弱点時ダメージ劇的増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n追加でダメージを与え、攻撃対象の敵が雷属性弱点の\n場合に、与えるダメージが劇的に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31530",
+		"jp_explainShort": "追加ダメージ＋雷弱点時ダメージ劇的増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n追加でダメージを与え、攻撃対象の敵が雷属性弱点の\n場合に、与えるダメージが劇的に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31531",
+		"jp_explainShort": "攻撃力劇的増＋炎氷風の技・法攻撃力絶大増",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、攻撃力が\n劇的に増加され、必殺技・法術チップが炎・氷・風属性の\n場合はその必殺技・法術の攻撃力が絶大に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31532",
+		"jp_explainShort": "攻撃力劇的増＋炎氷風の技・法攻撃力絶大増",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、攻撃力が\n劇的に増加され、必殺技・法術チップが炎・氷・風属性の\n場合はその必殺技・法術の攻撃力が絶大に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31535",
+		"jp_explainShort": "弱点属性小強化＋追加ダメージ効果増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、ターゲット中の敵の弱点属性が\nわずかに強化され、装備中チップの属性種類が多いほど\n追加ダメージの威力がそれぞれ増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31536",
+		"jp_explainShort": "弱点属性強化＋追加ダメージ効果増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、ターゲット中の敵の弱点属性が\n強化され、装備中チップの属性種類が多いほど\n追加ダメージの威力がそれぞれ増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31537",
+		"jp_explainShort": "氷雷闇の技・法の攻撃力絶大増",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n必殺技・法術チップが氷・雷・闇属性の場合は\nその必殺技・法術の攻撃力が絶大に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31538",
+		"jp_explainShort": "氷雷闇の技・法の攻撃力絶大増",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n必殺技・法術チップが氷・雷・闇属性の場合は\nその必殺技・法術の攻撃力が絶大に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31541",
+		"jp_explainShort": "消費ＣＰ減少＋攻撃力絶大増＋状態異常無効",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、消費ＣＰが\n減少され、攻撃力が絶大に増加される。さらに、大剣を\n装備している場合、自身を状態異常にならなくする。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31542",
+		"jp_explainShort": "消費ＣＰ減少＋攻撃力絶大増＋状態異常無効",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、消費ＣＰが\n減少され、攻撃力が絶大に増加される。さらに、大剣を\n装備している場合、自身を状態異常にならなくする。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31545",
+		"jp_explainShort": "定期的に攻撃力を小増加＋ダメージ減少",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、長い時間\n定期的に攻撃力がわずかに増加され絶大となる。\nさらに、受けるダメージが軽減される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31546",
+		"jp_explainShort": "定期的に攻撃力を増加＋ダメージ減少",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、長い時間\n定期的に攻撃力がわずかに増加され絶大となる。\nさらに、受けるダメージが軽減される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31547",
+		"jp_explainShort": "追加大ダメージ＋通常攻撃と移動が加速",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n敵に追加で大ダメージを与え\n自身の通常攻撃と移動のスピードを加速する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31548",
+		"jp_explainShort": "追加特大ダメージ＋通常攻撃と移動が加速",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n敵に追加で特大ダメージを与え\n自身の通常攻撃と移動のスピードを加速する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31549",
+		"jp_explainShort": "基本威力絶大増加＋ＨＰ小回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "アクティブチップ発動時、一定時間\n定期的にＨＰがわずかに回復され、\n基本威力が絶大に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31550",
+		"jp_explainShort": "基本威力絶大増加＋ＨＰ小回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "アクティブチップ発動時、一定時間\n定期的にＨＰがわずかに回復され、\n基本威力が絶大に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31551",
+		"jp_explainShort": "属性数攻撃力絶大増＋覇滅種にダメージ大増",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n装備中チップの属性の種類が多いほど攻撃力が絶大に\n増加され、覇滅種に与えるダメージが大きく増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31552",
+		"jp_explainShort": "属性数攻撃力絶大増＋覇滅種にダメージ大増",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n装備中チップの属性の種類が多いほど攻撃力が絶大に\n増加され、覇滅種に与えるダメージが大きく増加される。",
+		"tr_explainLong": ""
+	},
+	{
 		"assign": "11030",
 		"jp_explainShort": "攻撃力が小強化",
 		"tr_explainShort": "Slight ATK Boost",
@@ -3263,17 +3389,17 @@
 	},
 	{
 		"assign": "80110",
-		"jp_explainShort": "一定以下になったＨＰが大回復",
-		"tr_explainShort": "Greatly Recover HP When Below Threshold",
-		"jp_explainLong": "敵からのダメージを受けて\nＨＰが一定以下になったとき\nＨＰが大きく回復する。",
-		"tr_explainLong": "When taking damage, if HP drops below a\ncertain threshold, HP will greatly recover."
+		"jp_explainShort": "一定以下になった際、ＨＰ・ＣＰが大回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "敵からのダメージを受けて\nＨＰが一定以下になったとき\nＨＰとＣＰが大きく回復する。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "80120",
-		"jp_explainShort": "一定以下になったＨＰが劇的回復",
-		"tr_explainShort": "Greatly Recover HP When Below Threshold",
-		"jp_explainLong": "敵からのダメージを受けて\nＨＰが一定以下になったとき\nＨＰが劇的に回復する。",
-		"tr_explainLong": "When taking damage, if HP drops below a\ncertain threshold, HP will greatly recover."
+		"jp_explainShort": "一定以下になった際、ＨＰ・ＣＰが劇的回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "敵からのダメージを受けて\nＨＰが一定以下になったとき\nＨＰとＣＰが劇的に回復する。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "80310",
@@ -4761,16 +4887,16 @@
 	},
 	{
 		"assign": "40203",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋長槍の技が強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n長槍の必殺技の威力が強化される。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40204",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋長槍の技が大強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n長槍の必殺技の威力が大きく強化される。",
 		"tr_explainLong": ""
 	},
 	{
@@ -4789,16 +4915,16 @@
 	},
 	{
 		"assign": "40207",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋両剣の技が強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n両剣の必殺技の威力が強化される。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40208",
-		"jp_explainShort": "-",
+		"jp_explainShort": "定期的にＨＰが小回復＋両剣の技が大強化",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n両剣の必殺技の威力が大きく強化される。",
 		"tr_explainLong": ""
 	},
 	{

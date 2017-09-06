@@ -1208,7 +1208,7 @@
 		"jp_text": "素材倉庫利用９０日",
 		"tr_text": "Material Storage 90 Days",
 		"jp_explain": "素材倉庫の利用許可チケット。\nオーダーアイテム／素材を格納する\n素材倉庫が９０日間利用可能になる。",
-		"tr_explain": "Ticket permission for Material Storage.\nStores Materials and Order Items for\n60 days."
+		"tr_explain": "Ticket permission for Material Storage.\nStores Materials and Order Items for\n90 days."
 	},
 	{
 		"assign": "3200185",
@@ -1223,5 +1223,12 @@
 		"tr_text": "Buster Quest Stamina Recovery 1",
 		"jp_explain": "使用するとバスタークエストの\n受注可能数が１回復する。\n<yellow>※受注回数の上限値は超過しません。<c>",
 		"tr_explain": "Allows for the instant recovery of\nBuster Quest Stamina. <yellow>※Will not\nexceed the maximum stamina limit.<c>"
+	},
+	{
+		"assign": "3200187",
+		"jp_text": "素材倉庫利用５日",
+		"tr_text": "Material Storage 5 Days",
+		"jp_explain": "素材倉庫の利用許可チケット。\nオーダーアイテム／素材を格納する\n素材倉庫が５日間利用可能になる。",
+		"tr_explain": "Ticket permission for Material Storage.\nStores Materials and Order Items for\n5 days."
 	}
 ]
