@@ -939,9 +939,9 @@
 	},
 	{
 		"assign": "134",
-		"jp_text": "ENT_フィーバー07",
+		"jp_text": "アクス・フィーバー",
 		"tr_text": "",
-		"jp_explain": "---",
+		"jp_explain": "打撃+5 射撃+5\n法撃+5 技量+5\nPP+5",
 		"tr_explain": ""
 	},
 	{
@@ -1758,65 +1758,65 @@
 	},
 	{
 		"assign": "251",
-		"jp_text": "poka10",
+		"jp_text": "バトルパルチザンⅠ",
 		"tr_text": "",
-		"jp_explain": "---",
+		"jp_explain": "HP+100",
 		"tr_explain": ""
 	},
 	{
 		"assign": "252",
-		"jp_text": "poka11",
+		"jp_text": "バトルパルチザンⅡ",
 		"tr_text": "",
-		"jp_explain": "---",
+		"jp_explain": "HP+175",
 		"tr_explain": ""
 	},
 	{
 		"assign": "253",
-		"jp_text": "poka12",
+		"jp_text": "バトルパルチザンⅢ",
 		"tr_text": "",
-		"jp_explain": "---",
+		"jp_explain": "HP+250",
 		"tr_explain": ""
 	},
 	{
 		"assign": "254",
-		"jp_text": "poka13",
+		"jp_text": "バトルＴマシンガンⅠ",
 		"tr_text": "",
 		"jp_explain": "---",
 		"tr_explain": ""
 	},
 	{
 		"assign": "255",
-		"jp_text": "poka14",
+		"jp_text": "バトルＴマシンガンⅡ",
 		"tr_text": "",
-		"jp_explain": "---",
+		"jp_explain": "HP+50",
 		"tr_explain": ""
 	},
 	{
 		"assign": "256",
-		"jp_text": "poka15",
+		"jp_text": "バトルＴマシンガンⅢ",
 		"tr_text": "",
-		"jp_explain": "---",
+		"jp_explain": "HP+100",
 		"tr_explain": ""
 	},
 	{
 		"assign": "257",
-		"jp_text": "poka16",
+		"jp_text": "バトルボウⅠ",
 		"tr_text": "",
 		"jp_explain": "---",
 		"tr_explain": ""
 	},
 	{
 		"assign": "258",
-		"jp_text": "poka17",
+		"jp_text": "バトルボウⅡ",
 		"tr_text": "",
-		"jp_explain": "---",
+		"jp_explain": "HP+50",
 		"tr_explain": ""
 	},
 	{
 		"assign": "259",
-		"jp_text": "poka18",
+		"jp_text": "バトルボウⅢ",
 		"tr_text": "",
-		"jp_explain": "---",
+		"jp_explain": "HP+100",
 		"tr_explain": ""
 	},
 	{
@@ -1950,6 +1950,13 @@
 		"jp_text": "センテンス・マギア",
 		"tr_text": "",
 		"jp_explain": "法撃+20 HP+20 PP+3",
+		"tr_explain": ""
+	},
+	{
+		"assign": "279",
+		"jp_text": "アクス・ＭＡＸ",
+		"tr_text": "",
+		"jp_explain": "打撃+25 射撃+25\n法撃+25",
 		"tr_explain": ""
 	}
 ]
