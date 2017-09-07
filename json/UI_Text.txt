@@ -17917,27 +17917,27 @@
 	{
 		"assign": "leisure_navi_name",
 		"jp_text": "<color=#FFFFFF>モア</color>",
-		"tr_text": ""
+		"tr_text": "<color=#FFFFFF>More</color>"
 	},
 	{
 		"assign": "leisure_navi_talk",
 		"jp_text": "<color=#000000>フォトンダイスでオレたちと勝負だ！\nサイコロを交互に振って\n合計数の多いほうが勝ちだってば！</color>",
-		"tr_text": ""
+		"tr_text": "<color=#000000>A game vs us using Photon Dice!\nRoll the dice and the one\nwith the larger total number wins!</color>"
 	},
 	{
 		"assign": "leisure_remaining_playcount",
 		"jp_text": "<color=#FFFFFF>残りプレイ回数  </color><color=#68a0a7>/</color>",
-		"tr_text": ""
+		"tr_text": "<color=#FFFFFF>Plays  </color><color=#68a0a7>/</color>"
 	},
 	{
 		"assign": "leisure_remaining_playcount_recovery",
 		"jp_text": "<color=#FFFFFF>(毎日<%value>に最大３回まで回復)</color>",
-		"tr_text": ""
+		"tr_text": "<color=#FFFFFF>(3 plays per <%value> JST)</color>"
 	},
 	{
 		"assign": "leisure_special_count",
 		"jp_text": "<color=#FFFFFF>所持スペシャルプレイチケット</color><color=#68a0a7>/</color>",
-		"tr_text": ""
+		"tr_text": "<color=#FFFFFF>Special Tickets</color><color=#68a0a7>/</color>"
 	},
 	{
 		"assign": "leisure_has_coin",
@@ -17987,12 +17987,12 @@
 	{
 		"assign": "photondice_lc",
 		"jp_text": "LC",
-		"tr_text": "LC"
+		"tr_text": "LC "
 	},
 	{
 		"assign": "photondice_sheet",
 		"jp_text": "枚",
-		"tr_text": "Sheet"
+		"tr_text": " Sheet"
 	},
 	{
 		"assign": "photondice_acquisition",
@@ -18012,7 +18012,7 @@
 	{
 		"assign": "photondice_dialog_b_02",
 		"jp_text": "残りプレイ回数：",
-		"tr_text": "Plays Remaining:"
+		"tr_text": "Plays Remaining: "
 	},
 	{
 		"assign": "photondice_special_dialog_t_01",
@@ -18027,22 +18027,22 @@
 	{
 		"assign": "photondice_special_dialog_b_02",
 		"jp_text": "所持スペシャルプレイチケット：",
-		"tr_text": ""
+		"tr_text": "Sp. Tickets Owned: "
 	},
 	{
 		"assign": "photondice_has_not_dialog_t_01",
 		"jp_text": "プレイ回数不足",
-		"tr_text": ""
+		"tr_text": "Lack of Plays"
 	},
 	{
 		"assign": "photondice_has_not_dialog_b_01",
 		"jp_text": "プレイ回数が足りません。\nプレイ回数は毎日<%value>にリセットされます。",
-		"tr_text": ""
+		"tr_text": "You don't have enough plays.\nThe number of Plays reset every <%value> JST."
 	},
 	{
 		"assign": "photondice_has_not_dialog_b_02",
 		"jp_text": "プレイ回数は毎日<%value>にリセットされます。",
-		"tr_text": ""
+		"tr_text": "The number of Plays reset every <%value> JST."
 	},
 	{
 		"assign": "photondice_doubleup_dialog_t_01",
@@ -18107,7 +18107,7 @@
 	{
 		"assign": "photondice_result_win_dialog_b_05",
 		"jp_text": "　勝利ボーナス【<%value>】　＋<%value2>％",
-		"tr_text": " Win Bonus[<%value>] +<%value2>%"
+		"tr_text": "Win Bonus [<%value>] +<%value2>%"
 	},
 	{
 		"assign": "photondice_result_win_dialog_b_06",
@@ -18117,7 +18117,7 @@
 	{
 		"assign": "photondice_result_win_dialog_b_07",
 		"jp_text": "<size=50><color=yellow>合計獲得LC：　<%value>枚</color></size> ",
-		"tr_text": "<size=50><color=yellow>Total LC:<%value></color></size>"
+		"tr_text": "<size=50><color=yellow>Total LC: <%value></color></size>"
 	},
 	{
 		"assign": "photondice_result_win_dialog_b_08",
