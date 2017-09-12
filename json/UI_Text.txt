@@ -8182,7 +8182,7 @@
 	{
 		"assign": "recycle_shop_header",
 		"jp_text": "交換ショップ",
-		"tr_text": ""
+		"tr_text": "Exchange Shop"
 	},
 	{
 		"assign": "recycle_product_list",
@@ -8287,7 +8287,7 @@
 	{
 		"assign": "recycle_item_trade_info_sheet",
 		"jp_text": "交換に必要：{0} {1}枚",
-		"tr_text": ""
+		"tr_text": "Needs {1} to exchange for {0}."
 	},
 	{
 		"assign": "recycle_item_trade_limit_info",
@@ -13637,12 +13637,12 @@
 	{
 		"assign": "sns_post_message",
 		"jp_text": "【今日のお題：<%question>】\n<%inputText>\nhttp://pso2.jp/es/",
-		"tr_text": ""
+		"tr_text": "I am trash, give me free FUN."
 	},
 	{
 		"assign": "sns_post_hashtag",
 		"jp_text": "#PSO2esお題",
-		"tr_text": "#PSO2esお題"
+		"tr_text": "#PSO2"
 	},
 	{
 		"assign": "sns_post_b",
@@ -13652,7 +13652,7 @@
 	{
 		"assign": "sns_post_replace",
 		"jp_text": "セラフィがあなたのツイートをお待ちしています！",
-		"tr_text": ""
+		"tr_text": "Seraphy is waiting for your tweet!"
 	},
 	{
 		"assign": "botton_yes",
@@ -17817,17 +17817,17 @@
 	{
 		"assign": "acceptbox_sale_confirm_dialog_text",
 		"jp_text": "アイテムを<%meseta>メセタで売却します。\nよろしいですか？",
-		"tr_text": "This will sell the\nselected for <%meseta>. Continue?"
+		"tr_text": "This will sell the selected item(s)\nfor <color=#e5e500><%meseta></color> Meseta. Continue?"
 	},
 	{
 		"assign": "acceptbox_sale_now_meseta_title",
 		"jp_text": "所持メセタ",
-		"tr_text": "Owned"
+		"tr_text": "Meseta"
 	},
 	{
 		"assign": "acceptbox_sale_a_meseta_to_b_meseta",
 		"jp_text": "<%now_meseta>　⇒　<%result_meseta>",
-		"tr_text": ""
+		"tr_text": "<color=#ff8000><%now_meseta></color>　⇒　<color=#e5e500><%result_meseta></color>"
 	},
 	{
 		"assign": "acceptbox_rare_asc_sort_title",
@@ -17867,17 +17867,17 @@
 	{
 		"assign": "acceptbox_window_receive_tab_title",
 		"jp_text": "受取",
-		"tr_text": "Receipt"
+		"tr_text": "Receive"
 	},
 	{
 		"assign": "acceptbox_window_sale_tab_title",
 		"jp_text": "売却",
-		"tr_text": "Sale"
+		"tr_text": "Sell"
 	},
 	{
 		"assign": "acceptbox_no_sale_item",
 		"jp_text": "売却出来るアイテムはありません。",
-		"tr_text": ""
+		"tr_text": "There are no items that can be sold."
 	},
 	{
 		"assign": "acceptbox_sale_successed_dialog_title",
@@ -17887,7 +17887,7 @@
 	{
 		"assign": "acceptbox_sale_successed_dialog_text",
 		"jp_text": "アイテムを売却しました。",
-		"tr_text": ""
+		"tr_text": "Items sold."
 	},
 	{
 		"assign": "acceptbox_sale_rare_warning_dialog_title",
@@ -17932,7 +17932,7 @@
 	{
 		"assign": "leisure_remaining_playcount_recovery",
 		"jp_text": "<color=#FFFFFF>(毎日<%value>に最大３回まで回復)</color>",
-		"tr_text": "<color=#FFFFFF>(3 plays per <%value> JST)</color>"
+		"tr_text": "<color=#FFFFFF>(3 plays every <%value> JST)</color>"
 	},
 	{
 		"assign": "leisure_special_count",
@@ -17992,12 +17992,12 @@
 	{
 		"assign": "photondice_sheet",
 		"jp_text": "枚",
-		"tr_text": " Sheet"
+		"tr_text": "\n\t"
 	},
 	{
 		"assign": "photondice_acquisition",
 		"jp_text": "獲得可能",
-		"tr_text": "Accept"
+		"tr_text": "Accept Payout"
 	},
 	{
 		"assign": "photondice_dialog_t_01",
@@ -18097,12 +18097,12 @@
 	{
 		"assign": "photondice_result_win_dialog_b_03",
 		"jp_text": "　ダブルアップボーナス　＋<%value>％",
-		"tr_text": " Double Up Bonus ＋<%value>％"
+		"tr_text": "Double Up Bonus ＋<%value>％"
 	},
 	{
 		"assign": "photondice_result_win_dialog_b_04",
 		"jp_text": "　キャラクターボーナス　＋<%value>％",
-		"tr_text": " Character Bonus ＋<%value>％"
+		"tr_text": "Character Bonus ＋<%value>％"
 	},
 	{
 		"assign": "photondice_result_win_dialog_b_05",
@@ -18122,17 +18122,17 @@
 	{
 		"assign": "photondice_result_win_dialog_b_08",
 		"jp_text": "　「払い戻し」ボタンからLCを獲得できます。\n",
-		"tr_text": "By pressing [Refund], you can earn LC.\n"
+		"tr_text": "By pressing [払い戻し], you can earn LC.\n"
 	},
 	{
 		"assign": "photondice_result_lose_dialog_t_01",
 		"jp_text": "<%value>戦目　対戦結果",
-		"tr_text": "<%value> Match Result"
+		"tr_text": "Round <%value> Result"
 	},
 	{
 		"assign": "photondice_result_lose_dialog_b_01",
 		"jp_text": "対戦に敗北したため、獲得LCを失いました。",
-		"tr_text": "LC wasn't gained because you lost."
+		"tr_text": "Because you lost, you don't get any LC."
 	},
 	{
 		"assign": "photondice_result_lose_dialog_b_02",
@@ -18162,7 +18162,7 @@
 	{
 		"assign": "photondice_comp_dialog_t_01",
 		"jp_text": "Congratulations!",
-		"tr_text": ""
+		"tr_text": "Fuuuuuck you!"
 	},
 	{
 		"assign": "photondice_comp_dialog_b_01",

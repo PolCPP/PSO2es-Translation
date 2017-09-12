@@ -935,14 +935,14 @@
 		"jp_text": "サンサン・フィーバー",
 		"tr_text": "Sun Sun Fever",
 		"jp_explain": "打撃+5 射撃+5\n法撃+5 HP+5 PP+1",
-		"tr_explain": "S-ATK+5 R-ATK+5\nT-ATK+5 HP+5 PP+1"
+		"tr_explain": "ATK+5 HP+5 PP+1"
 	},
 	{
 		"assign": "134",
 		"jp_text": "アクス・フィーバー",
-		"tr_text": "",
+		"tr_text": "ARKS Fever",
 		"jp_explain": "打撃+5 射撃+5\n法撃+5 技量+5\nPP+5",
-		"tr_explain": ""
+		"tr_explain": "ATK+5 DEX+5 PP+5"
 	},
 	{
 		"assign": "135",
@@ -1906,57 +1906,57 @@
 	{
 		"assign": "272",
 		"jp_text": "オメガ・レヴリー",
-		"tr_text": "",
+		"tr_text": "Omega Reverie",
 		"jp_explain": "打撃+15 射撃+15\n法撃+15 HP+20 PP+1",
-		"tr_explain": ""
+		"tr_explain": "ATK+15 HP+20 PP+1"
 	},
 	{
 		"assign": "273",
 		"jp_text": "ファーブラ・ソール",
-		"tr_text": "",
+		"tr_text": "Fabula Soul",
 		"jp_explain": "打撃+10 射撃+10\n法撃+10 HP+20",
-		"tr_explain": ""
+		"tr_explain": "ATK+10 HP+20"
 	},
 	{
 		"assign": "274",
 		"jp_text": "アレス・ジ・ソール",
-		"tr_text": "",
+		"tr_text": "Ares The Soul",
 		"jp_explain": "打撃+25 射撃+25\n法撃+25 HP+35 PP+3",
-		"tr_explain": ""
+		"tr_explain": "ATK+25 HP+35 PP+3"
 	},
 	{
 		"assign": "275",
 		"jp_text": "スピリタⅥ",
-		"tr_text": "",
+		"tr_text": "Spirita VI",
 		"jp_explain": "PP+7",
-		"tr_explain": ""
+		"tr_explain": "PP+7"
 	},
 	{
 		"assign": "276",
 		"jp_text": "センテンス・アルマ",
-		"tr_text": "",
+		"tr_text": "Sentence Arma",
 		"jp_explain": "打撃+20 HP+20 PP+3",
-		"tr_explain": ""
+		"tr_explain": "S-ATK+20 HP+20 PP+3"
 	},
 	{
 		"assign": "277",
 		"jp_text": "センテンス・ティロ",
-		"tr_text": "",
+		"tr_text": "Sentence Tiro",
 		"jp_explain": "射撃+20 HP+20 PP+3",
-		"tr_explain": ""
+		"tr_explain": "R-ATK+20 HP+20 PP+3"
 	},
 	{
 		"assign": "278",
 		"jp_text": "センテンス・マギア",
-		"tr_text": "",
+		"tr_text": "Sentence Magia",
 		"jp_explain": "法撃+20 HP+20 PP+3",
-		"tr_explain": ""
+		"tr_explain": "T-ATK+20 HP+20 PP+3"
 	},
 	{
 		"assign": "279",
 		"jp_text": "アクス・ＭＡＸ",
-		"tr_text": "",
+		"tr_text": "ARKS MAX",
 		"jp_explain": "打撃+25 射撃+25\n法撃+25",
-		"tr_explain": ""
+		"tr_explain": "ATK+25"
 	}
 ]
