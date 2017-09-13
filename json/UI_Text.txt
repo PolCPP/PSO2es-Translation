@@ -8287,7 +8287,7 @@
 	{
 		"assign": "recycle_item_trade_info_sheet",
 		"jp_text": "交換に必要：{0} {1}枚",
-		"tr_text": "Needs {1} to exchange for {0}."
+		"tr_text": "Needs {1} {0} to exchange."
 	},
 	{
 		"assign": "recycle_item_trade_limit_info",
@@ -17827,7 +17827,7 @@
 	{
 		"assign": "acceptbox_sale_a_meseta_to_b_meseta",
 		"jp_text": "<%now_meseta>　⇒　<%result_meseta>",
-		"tr_text": "<color=#ff8000><%now_meseta></color>　⇒　<color=#e5e500><%result_meseta></color>"
+		"tr_text": "<%now_meseta>　⇒　<%result_meseta>"
 	},
 	{
 		"assign": "acceptbox_rare_asc_sort_title",
