@@ -1499,17 +1499,17 @@
 	},
 	{
 		"assign": "31193",
-		"jp_explainShort": "ダメージ大増加＋ＨＰ小回復",
-		"tr_explainShort": "ATK Boost + Small HP Recovery",
-		"jp_explainLong": "法術チップ発動時、長い時間\n定期的にＨＰがわずかに回復され\n敵に与えるダメージが大きく増加される。",
-		"tr_explainLong": "Tech Chips activations activates an\neffect that greatly boosts ATK and\nrecovers small amount of HP."
+		"jp_explainShort": "ＨＰ小回復＋威力大増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "法術チップ発動時、長い時間\n定期的にＨＰがわずかに回復され\n威力が大きく増加される。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31194",
-		"jp_explainShort": "ダメージ劇的増加＋ＨＰ小回復",
-		"tr_explainShort": "ATK Boost + Small HP Recovery",
-		"jp_explainLong": "法術チップ発動時、長い時間\n定期的にＨＰがわずかに回復され\n敵に与えるダメージが劇的に増加される。",
-		"tr_explainLong": "Tech Chips activations activates an\neffect that greatly boosts ATK and\nrecovers small amount of HP."
+		"jp_explainShort": "ＨＰ小回復＋威力劇的増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "法術チップ発動時、長い時間\n定期的にＨＰがわずかに回復され\n威力が劇的に増加される。",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31195",
@@ -3300,14 +3300,14 @@
 		"assign": "31546",
 		"jp_explainShort": "定期的に攻撃力を増加＋ダメージ減少",
 		"tr_explainShort": "",
-		"jp_explainLong": "攻撃ヒット時、長い時間\n定期的に攻撃力がわずかに増加され絶大となる。\nさらに、受けるダメージが軽減される。",
+		"jp_explainLong": "攻撃ヒット時、長い時間\n定期的に攻撃力が増加され絶大となる。\nさらに、受けるダメージが軽減される。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31547",
-		"jp_explainShort": "追加大ダメージ＋通常攻撃と移動が加速",
+		"jp_explainShort": "追加特大ダメージ＋通常攻撃と移動が加速",
 		"tr_explainShort": "",
-		"jp_explainLong": "ジャストアタック成功時、一定時間\n敵に追加で大ダメージを与え\n自身の通常攻撃と移動のスピードを加速する。",
+		"jp_explainLong": "ジャストアタック成功時、一定時間\n敵に追加で特大ダメージを与え\n自身の通常攻撃と移動のスピードを加速する。",
 		"tr_explainLong": ""
 	},
 	{
@@ -3319,16 +3319,16 @@
 	},
 	{
 		"assign": "31549",
-		"jp_explainShort": "基本威力絶大増加＋ＨＰ小回復",
+		"jp_explainShort": "ＨＰ小回復＋威力絶大増加",
 		"tr_explainShort": "",
-		"jp_explainLong": "アクティブチップ発動時、一定時間\n定期的にＨＰがわずかに回復され、\n基本威力が絶大に増加される。",
+		"jp_explainLong": "アクティブチップ発動時、一定時間\n定期的にＨＰがわずかに回復され\n威力が絶大に増加される。",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31550",
-		"jp_explainShort": "基本威力絶大増加＋ＨＰ小回復",
+		"jp_explainShort": "ＨＰ小回復＋威力絶大増加",
 		"tr_explainShort": "",
-		"jp_explainLong": "アクティブチップ発動時、一定時間\n定期的にＨＰがわずかに回復され、\n基本威力が絶大に増加される。",
+		"jp_explainLong": "アクティブチップ発動時、一定時間\n定期的にＨＰがわずかに回復され\n威力が絶大に増加される。",
 		"tr_explainLong": ""
 	},
 	{
