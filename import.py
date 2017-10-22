@@ -43,7 +43,7 @@ for files in json_files:
                 if entry["jp_text"] in TR_name:
                     k = entry["jp_text"]
                     t = entry["tr_text"]
-                    d = entry["tr_explain"]
+                    d = entry["tr_explain"].replace("<br>","\n")
                     if TR_name[k] != t and t != "":
                         TR_name[k] = t
                         change = True
