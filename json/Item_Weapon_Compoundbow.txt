@@ -228,7 +228,7 @@
 		"jp_text": "ボウゲンシー-NT",
 		"tr_text": "Bowgency-NT",
 		"jp_explain": "フォトン加速機を備えた強弓。\n独自に設計されたリアクターが強度と\n命中精度を飛躍的に高めた人気の品。",
-		"tr_explain": "A Bullet Bow with a\nphoton reactor, providing\ngreater durability and accuracy."
+		"tr_explain": "A Bullet Bow with a photon reactor,\nproviding greater durability and\naccuracy."
 	},
 	{
 		"assign": "115044",
@@ -431,21 +431,21 @@
 		"jp_text": "バイオベルド",
 		"tr_text": "Bio Beld",
 		"jp_explain": "最先端の生体工学を応用し開発された\n強弓。弓、矢、矢筒すべてに充填された\nフォトンの介在により機能連携する。",
-		"tr_explain": "A Bullet Bow made from a State of\nthe Art Bio-engineering process,\nit's composed entirely of photons."
+		"tr_explain": "A weapon that was designed from a\nstate-of-the-art bio-engineering\nprocess, made up entirely of photons."
 	},
 	{
 		"assign": "115092",
 		"jp_text": "ライブベルド",
 		"tr_text": "Live Beld",
 		"jp_explain": "最先端の生体工学を応用し開発された\n強弓。高純度培養液が矢の射出直前まで\n機能向上を促し破壊力を高める。",
-		"tr_explain": "A Bullet Bow made from a State of\nthe Art Bio-engineering application process, it's\nphotons were enhanced by a pure source in material."
+		"tr_explain": "A weapon that was designed from a\nstate-of-the-art bio-engineering\nprocess, enhancing its photon source."
 	},
 	{
 		"assign": "115094",
 		"jp_text": "クスフサ",
 		"tr_text": "Kusouffsa",
 		"jp_explain": "パティシエが宣伝用に製作した強弓。\n可愛らしく装飾されたデザインが\n人気の品。やや脆い部分がある。",
-		"tr_explain": "A Bullet Bow in the form of a\npastry. Popular and Pretty, it's somewhat fragile."
+		"tr_explain": "A bullet bow in the form of a pastry.\nPopular and pretty, it's somewhat\nfragile."
 	},
 	{
 		"assign": "115096",
@@ -501,7 +501,7 @@
 		"jp_text": "ビブラスボウ",
 		"tr_text": "Vibras Bow",
 		"jp_explain": "ダーク・ビブラスの外骨格を加工して\n作られた強弓。素材の外骨格を細かく\n複雑に組み合わせたデザインが特徴的。",
-		"tr_explain": "A Bullet Bow made by processing the\nexoskeleton of Dark Vibrace. The distinctive\nmaterial in the exoskeleton\nmade for a complex design."
+		"tr_explain": "A Bow made from the exoskeleton of\nDark Vibrace. The distinctive material\nallows for a complex design."
 	},
 	{
 		"assign": "1150113",
@@ -564,7 +564,7 @@
 		"jp_text": "エーデルイーオー",
 		"tr_text": "Edel Io",
 		"jp_explain": "イオが設計改良に携わった強弓。\n基礎設計から大胆にカスタマイズされ\n非常に高い実用性を誇る。",
-		"tr_explain": "Io's customized Bullet Bow.\nBoldly modified from it's basic design,\nit's very high in practical use."
+		"tr_explain": "Io's customized Bullet Bow. Boldly\nmodified from its basic design, it's\na very practical weapon to use."
 	},
 	{
 		"assign": "1150133",
@@ -599,14 +599,14 @@
 		"jp_text": "ネメシスフェザー",
 		"tr_text": "Nemesis Feather",
 		"jp_explain": "古の時代に封印された聖なる強弓。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-		"tr_explain": "A sealed Holy Bullet Bow from ancient \npast. It releases it's hidden power of \npurification in tandem with the user's \nwill."
+		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npowers in tandem to the user's will."
 	},
 	{
 		"assign": "1150144",
 		"jp_text": "スレイヴフェザー",
 		"tr_text": "Slave Feather",
 		"jp_explain": "古の時代に封印された邪なる強弓。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-		"tr_explain": "A sealed Evil Bullet Bow from ancient \npast. The user's struggles will call out \nthe power of destruction sealed within."
+		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call\nthe power of destruction sealed within."
 	},
 	{
 		"assign": "1150145",
@@ -641,7 +641,7 @@
 		"jp_text": "イデアルシューター",
 		"tr_text": "Ideal Shooter",
 		"jp_explain": "新開発のフォトンジェネレーターを\n搭載した強弓。発せられる\nフォトンの輝きは次代の証とされる。",
-		"tr_explain": "A Bullet Bow with a new\nPhoton Generator. Witness its next\ngeneration shine."
+		"tr_explain": "A weapon powered by a photon\ngenerator. Its shining photons are\nsaid to be the sign of the next era."
 	},
 	{
 		"assign": "1150161",
@@ -746,14 +746,14 @@
 		"jp_text": "アステユニコン",
 		"tr_text": "Aste Unicorn",
 		"jp_explain": "伝説の生物をモチーフにした強弓。\n幻想的で美しい外観と鋭く激しい\n一撃は、まさに一角獣そのもの。",
-		"tr_explain": "Bullet Bow with the motif\nof the mythical creature.\nStrike with the fantastic\nand beautiful unicorn itself."
+		"tr_explain": "A bullet bow with the motif of the\nmythical creature. Strike with the\nfantastic and beautiful unicorn itself."
 	},
 	{
 		"assign": "1150208",
 		"jp_text": "ステルクイセーラ",
 		"tr_text": "Stelk Isera",
 		"jp_explain": "専用エネルギータンクがついた強弓。\n射撃時に、専用エネルギーによる\n補助システムで照準のブレを軽減する。",
-		"tr_explain": "A Bullet Bow with a dedicated energy\ntank. Auxiliary system allows to\nminimize the aim deviation."
+		"tr_explain": "A bullet bow with a separate energy\ntank. Its auxiliary system allows it to\nminimize the aim deviation recoil."
 	},
 	{
 		"assign": "1150211",
