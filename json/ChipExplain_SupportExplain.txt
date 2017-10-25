@@ -3346,6 +3346,125 @@
 		"tr_explainLong": ""
 	},
 	{
+		"assign": "31553",
+		"jp_explainShort": "攻撃力劇的増＋必殺技・法術使用毎に小増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、長い時間、攻撃力が劇的に\n増加される。さらに、必殺技・法術を使用するごとに\n必殺技・法術の威力がわずかに増加され、大きくなる。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31554",
+		"jp_explainShort": "攻撃力劇的増＋必殺技・法術使用毎に小増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、長い時間、攻撃力が劇的に\n増加される。さらに、必殺技・法術を使用するごとに\n必殺技・法術の威力がわずかに増加され、絶大となる。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31557",
+		"jp_explainShort": "定期的に攻撃力を小増加＋ダメージ減少",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、長い時間\n定期的に攻撃力がわずかに増加され絶大となる。\nさらに、受けるダメージが軽減される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31558",
+		"jp_explainShort": "定期的に攻撃力を小増加＋ダメージ減少",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、長い時間\n定期的に攻撃力がわずかに増加され絶大となる。\nさらに、受けるダメージが軽減される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31559",
+		"jp_explainShort": "攻撃力が極度に増加＋光属性上限上昇",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、攻撃力が極度に\n増加される。さらに、リンクスロットに装備したチップが\n光属性の場合、光属性の上限値が上昇する。\nこのチップを装備中、光属性の必殺技・法術の\nチップコストが減少する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31560",
+		"jp_explainShort": "攻撃力が極度に増加＋光属性上限上昇",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、攻撃力が極度に\n増加される。さらに、リンクスロットに装備したチップが\n光属性の場合、光属性の上限値が上昇する。\nこのチップを装備中、光属性の必殺技・法術の\nチップコストが減少する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31561",
+		"jp_explainShort": "攻撃力が極度に増加＋光属性上限上昇",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、攻撃力が極度に\n増加される。さらに、リンクスロットに装備したチップが\n光属性の場合、光属性の上限値が上昇する。\nこのチップを装備中、全属性の必殺技・法術の\nチップコストが減少する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31562",
+		"jp_explainShort": "攻撃力超絶増＋定期ＨＰ小回復＋ダウン無効",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、攻撃力が超絶に増加され\n定期的にわずかにＨＰが回復する。\nさらに、ダウンしなくなる。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31563",
+		"jp_explainShort": "攻撃力超絶増＋定期ＨＰ小回復＋ダウン無効",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、攻撃力が超絶に増加され\n定期的にわずかにＨＰが回復する。\nさらに、ダウンしなくなる。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31564",
+		"jp_explainShort": "攻撃力大増加＋ダメージ防御＋加速",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時もしくはスライド操作時\n一定時間、攻撃力が大きく増加され\n装備中チップの属性種類に応じ一定ダメージを\n防ぐ効果がＨＰに上乗せされる。\nさらに、自身の通常攻撃と移動のスピードを加速する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31565",
+		"jp_explainShort": "攻撃力大増加＋ダメージ防御＋加速",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時もしくはスライド操作時\n一定時間、攻撃力が大きく増加され\n装備中チップの属性種類に応じ一定ダメージを\n防ぐ効果がＨＰに上乗せされる。\nさらに、自身の通常攻撃と移動のスピードを加速する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31568",
+		"jp_explainShort": "必・法威力大強化＋光弱点時ダメージ大増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、必殺技・法術の\n威力が大きく強化され、攻撃対象の敵が光属性弱点の\n場合に与えるダメージが劇的に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31569",
+		"jp_explainShort": "必・法威力大強化＋光弱点時ダメージ大増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時、一定時間、必殺技・法術の\n威力が大きく強化され、攻撃対象の敵が光属性弱点の\n場合に与えるダメージが劇的に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31570",
+		"jp_explainShort": "全アクティブチップ発動＋攻撃力絶大増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時\n必殺技・法術以外の全てのアクティブチップが発動され\n一定時間、攻撃力が絶大に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31571",
+		"jp_explainShort": "全アクティブチップ発動＋攻撃力絶大増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時\n必殺技・法術以外の全てのアクティブチップが発動され\n一定時間、攻撃力が絶大に増加される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31572",
+		"jp_explainShort": "攻撃力絶大増＋消費ＣＰ減少＋ダメージ軽減",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時\n攻撃力が絶大に増加され、消費ＣＰを減少する。\nさらに、敵から受けるダメージが軽減される。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31573",
+		"jp_explainShort": "攻撃力超絶増＋消費ＣＰ減少＋ダメージ軽減",
+		"tr_explainShort": "",
+		"jp_explainLong": "ジャストアタック成功時\n攻撃力が超絶に増加され、消費ＣＰを減少する。\nさらに、敵から受けるダメージが軽減される。",
+		"tr_explainLong": ""
+	},
+	{
 		"assign": "11030",
 		"jp_explainShort": "攻撃力が小強化",
 		"tr_explainShort": "Slight ATK Boost",
@@ -5052,6 +5171,1434 @@
 		"tr_explainShort": "Periodic HP Recovery + Boost Dual Blades PAs",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n定期的にＨＰがわずかに回復し\n飛翔剣の必殺技の威力が大きく強化される。",
 		"tr_explainLong": "Attacks will activate an effect that periodically\nrecovers HP and greatly boosts the damage of\nDual Blades PAs."
+	},
+	{
+		"assign": "40227",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40228",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40229",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40230",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40231",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40232",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40233",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40234",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40235",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40236",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40237",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40238",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40239",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40240",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40241",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40242",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40243",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40244",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40245",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40246",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40247",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40248",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40249",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40250",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40251",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40252",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40253",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40254",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40255",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40256",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40257",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40258",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40259",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40260",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40261",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40262",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40263",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40264",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40265",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40266",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40267",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40268",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40269",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40270",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40271",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40272",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40273",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40274",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40275",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40276",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40277",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40278",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40279",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40280",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40281",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40282",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40283",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40284",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40285",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40286",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40287",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40288",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40289",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40290",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40291",
+		"jp_explainShort": "雷属性時小増＋鋼拳時小増＋定期ＨＰ小回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、装備中の\n武器が雷属性の場合に威力がわずかに増加され\n鋼拳の場合に攻撃力がわずかに増加される。\nさらに、定期的にＨＰがわずかに回復する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40292",
+		"jp_explainShort": "雷属性時増＋鋼拳時増＋定期ＨＰ小回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、装備中の\n武器が雷属性の場合に威力が増加され\n鋼拳の場合に攻撃力が増加される。\nさらに、定期的にＨＰがわずかに回復する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40293",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40294",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40295",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40296",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40297",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40298",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40299",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40300",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40301",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40302",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40303",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40304",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40305",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40306",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40307",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40308",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40309",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40310",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40311",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40312",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40313",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40314",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40315",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40316",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40317",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40318",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40319",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40320",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40321",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40322",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40323",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40324",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40325",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40326",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40327",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40328",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40329",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40330",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40331",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40332",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40333",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40334",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40335",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40336",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40337",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40338",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40339",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40340",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40341",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40342",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40343",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40344",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40345",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40346",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40347",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40348",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40349",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40350",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40351",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40352",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40353",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40354",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40355",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40356",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40357",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40358",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40359",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40360",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40361",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40362",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40363",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40364",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40365",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40366",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40367",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40368",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40369",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40370",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40371",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40372",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40373",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40374",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40375",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40376",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40377",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40378",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40379",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40380",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40381",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40382",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40383",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40384",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40385",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40386",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40387",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40388",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40389",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40390",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40391",
+		"jp_explainShort": "光属性時小増＋魔装脚時小増＋定期ＨＰ小回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、装備中の\n武器が光属性の場合にわずかに威力が増加され\n魔装脚の場合に攻撃力がわずかに増加される。\nさらに、定期的にＨＰがわずかに回復する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40392",
+		"jp_explainShort": "光属性時増＋魔装脚時増＋定期ＨＰ小回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "攻撃ヒット時、一定時間、装備中の\n武器が光属性の場合に威力が増加され\n魔装脚の場合に攻撃力が増加される。\nさらに、定期的にＨＰがわずかに回復する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40393",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40394",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40395",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40396",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40397",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40398",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40399",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40400",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40401",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40402",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40403",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40404",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40405",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40406",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40407",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40408",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40409",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40410",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40411",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40412",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40413",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40414",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40415",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40416",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40417",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40418",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40419",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40420",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40421",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40422",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40423",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40424",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40425",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40426",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40427",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40428",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40429",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "40430",
+		"jp_explainShort": "-",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "3410",

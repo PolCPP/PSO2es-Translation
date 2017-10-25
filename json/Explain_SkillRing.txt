@@ -353,7 +353,7 @@
 		"assign": "54",
 		"jp_text": "ステップジャンプ",
 		"tr_text": "Step Jump",
-		"jp_explain": "ステップジャンプ\nステップまたはダイブロール後に\nジャンプを行うことでダッシュ状態へ移行する。",
+		"jp_explain": "ステップジャンプ\nステップまたはダイブロール後にジャンプを行うことで\nダッシュ状態へ移行する。",
 		"tr_explain": "Step Jump\nYou can begin dashing by jumping\nafter a Step or Dive Roll."
 	},
 	{
@@ -605,7 +605,21 @@
 		"assign": "91",
 		"jp_text": "スプリント",
 		"tr_text": "",
-		"jp_explain": "スプリント",
+		"jp_explain": "スプリント\n使用すると一定時間、移動速度が上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "92",
+		"jp_text": "パーティーオブタフネス",
+		"tr_text": "",
+		"jp_explain": "パーティーオブタフネス\nパーティー人数が２人以上の場合、人数に応じて\nエネミーからの被ダメージ量を軽減する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "93",
+		"jp_text": "ウィークヒットＰＰゲイン",
+		"tr_text": "",
+		"jp_explain": "ウィークヒットＰＰゲイン\n弱点部位に通常攻撃を当てた時に\nＰＰ回復量が上昇する。",
 		"tr_explain": ""
 	}
 ]

@@ -1551,7 +1551,7 @@
 	},
 	{
 		"assign": "equip_guide_01",
-		"jp_text": "<color=#f0df60>武器・チップ・ユニットをタッチすると、装備の変更を行うことができます。アイテムアイコンを長押しすると、詳細情報を確認できます。迷ったらおすすめ装備をタッチしましょう。</color>",
+		"jp_text": "<color=#f0df60>武器・チップ・ユニット・リンクスロット装備をタッチすると、装備の変更を行うことができます。アイテムアイコンを長押しすると、詳細情報を確認できます。迷ったらおすすめ装備をタッチしましょう。</color>",
 		"tr_text": ""
 	},
 	{
@@ -7651,13 +7651,13 @@
 	},
 	{
 		"assign": "chipequip_consume_cp",
-		"jp_text": "消費CP : {0}",
-		"tr_text": "CP Usage : {0}"
+		"jp_text": "消費CP：{0}",
+		"tr_text": ""
 	},
 	{
 		"assign": "chipequip_rate",
-		"jp_text": "発動確率 : {0}",
-		"tr_text": "Active Rate : {0}"
+		"jp_text": "発動率：{0}",
+		"tr_text": ""
 	},
 	{
 		"assign": "chipequip_max_lv",
@@ -7900,6 +7900,11 @@
 		"tr_text": "Price"
 	},
 	{
+		"assign": "window_sort_slotcost",
+		"jp_text": "リンクコスト",
+		"tr_text": ""
+	},
+	{
 		"assign": "ui_meseta_cost",
 		"jp_text": "必要メセタ",
 		"tr_text": "Required Meseta"
@@ -8001,8 +8006,8 @@
 	},
 	{
 		"assign": "cv_label",
-		"jp_text": "CV:",
-		"tr_text": "CV:"
+		"jp_text": "character voice",
+		"tr_text": ""
 	},
 	{
 		"assign": "release_gauge",
@@ -9148,6 +9153,21 @@
 		"assign": "menu_charainfo_label_rappycoin",
 		"jp_text": "ラッピーメダル",
 		"tr_text": "Rappy Coins"
+	},
+	{
+		"assign": "menu_charainfo_label_oprecovery",
+		"jp_text": "OP回復薬",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_charainfo_label_oprecoverymini",
+		"jp_text": "OP回復薬ミニ",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_charainfo_label_revivaldrug",
+		"jp_text": "復活薬",
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_shop_title",
@@ -13906,93 +13926,93 @@
 	},
 	{
 		"assign": "ItemDetail_Correction_Attack",
-		"jp_text": "<color=white>打撃力 (+<%parameter>)</color>",
-		"tr_text": "<color=white>S-ATK (+<%parameter>)</color>"
+		"jp_text": "<color=white>打撃力 (<%parameter>)</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "ItemDetail_Correction_Shooting",
-		"jp_text": "<color=white>射撃力 (+<%parameter>)</color>",
-		"tr_text": "<color=white>R-ATK (+<%parameter>)</color>"
+		"jp_text": "<color=white>射撃力 (<%parameter>)</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "ItemDetail_Correction_Sorcery",
-		"jp_text": "<color=white>法撃力 (+<%parameter>)</color>",
-		"tr_text": "<color=white>T-ATK (+<%parameter>)</color>"
+		"jp_text": "<color=white>法撃力 (<%parameter>)</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "ItemDetail_Correction_Skill",
-		"jp_text": "<color=white>技量 (+<%parameter>)</color>",
-		"tr_text": "<color=white>DEX (+<%parameter>)</color>"
+		"jp_text": "<color=white>技量 (<%parameter>)</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "ItemDetail_Correction_AttackDefence",
-		"jp_text": "<color=white>打撃防御 (+<%parameter>)</color>",
-		"tr_text": "<color=white>S-DEF (+<%parameter>)</color>"
+		"jp_text": "<color=white>打撃防御 (<%parameter>)</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "ItemDetail_Correction_ShootingDefence",
-		"jp_text": "<color=white>射撃防御 (+<%parameter>)</color>",
-		"tr_text": "<color=white>R-DEF (+<%parameter>)</color>"
+		"jp_text": "<color=white>射撃防御 (<%parameter>)</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "ItemDetail_Correction_SorceryDefence",
-		"jp_text": "<color=white>法撃防御 (+<%parameter>)</color>",
-		"tr_text": "<color=white>T-DEF (+<%parameter>)</color>"
+		"jp_text": "<color=white>法撃防御 (<%parameter>)</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "ItemDetail_Correction_HP",
-		"jp_text": "<color=white>HP (+<%parameter>)</color>",
+		"jp_text": "<color=white>HP (<%parameter>)</color>",
 		"tr_text": ""
 	},
 	{
 		"assign": "ItemDetail_Correction_PP",
-		"jp_text": "<color=white>PP (+<%parameter>)</color>",
+		"jp_text": "<color=white>PP (<%parameter>)</color>",
 		"tr_text": ""
 	},
 	{
 		"assign": "ItemDetail_Correction_AttackReduction",
-		"jp_text": "<color=white>打撃軽減 (+<%parameter>)</color>",
-		"tr_text": "<color=white>Strike Res. (+<%parameter>)</color>"
+		"jp_text": "<color=white>打撃軽減 (<%parameter>)</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "ItemDetail_Correction_ShootingReduction",
-		"jp_text": "<color=white>射撃軽減 (+<%parameter>)</color>",
-		"tr_text": "<color=white>Range Res. (+<%parameter>)</color>"
+		"jp_text": "<color=white>射撃軽減 (<%parameter>)</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "ItemDetail_Correction_SorceryReduction",
-		"jp_text": "<color=white>法撃軽減 (+<%parameter>)</color>",
-		"tr_text": "<color=white>Tech Res. (+<%parameter>)</color>"
+		"jp_text": "<color=white>法撃軽減 (<%parameter>)</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "ItemDetail_Correction_Fire",
-		"jp_text": "<color=white>炎耐性 (+<%parameter>)</color>",
-		"tr_text": "<color=white>Fire (+<%parameter>)</color>"
+		"jp_text": "<color=white>炎耐性 (<%parameter>)</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "ItemDetail_Correction_Ice",
-		"jp_text": "<color=white>氷耐性 (+<%parameter>)</color>",
-		"tr_text": "<color=white>Ice (+<%parameter>)</color>"
+		"jp_text": "<color=white>氷耐性 (<%parameter>)</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "ItemDetail_Correction_Thunder",
-		"jp_text": "<color=white>雷耐性 (+<%parameter>)</color>",
-		"tr_text": "<color=white>Lightning (+<%parameter>)</color>"
+		"jp_text": "<color=white>雷耐性 (<%parameter>)</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "ItemDetail_Correction_Wind",
-		"jp_text": "<color=white>風耐性 (+<%parameter>)</color>",
-		"tr_text": "<color=white>Wind (+<%parameter>)</color>"
+		"jp_text": "<color=white>風耐性 (<%parameter>)</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "ItemDetail_Correction_Light",
-		"jp_text": "<color=white>光耐性 (+<%parameter>)</color>",
-		"tr_text": "<color=white>Light (+<%parameter>)</color>"
+		"jp_text": "<color=white>光耐性 (<%parameter>)</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "ItemDetail_Correction_Dark",
-		"jp_text": "<color=white>闇耐性 (+<%parameter>)</color>",
-		"tr_text": "<color=white>Dark (+<%parameter>)</color>"
+		"jp_text": "<color=white>闇耐性 (<%parameter>)</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "ItemDetail_Ability_Name",
@@ -16545,6 +16565,11 @@
 		"tr_text": "Cost"
 	},
 	{
+		"assign": "sort_slotcost",
+		"jp_text": "リンクコスト順",
+		"tr_text": ""
+	},
+	{
 		"assign": "sort_level",
 		"jp_text": "レベル順",
 		"tr_text": "Level"
@@ -16578,6 +16603,16 @@
 		"assign": "sort_cp",
 		"jp_text": "CP順",
 		"tr_text": "CP"
+	},
+	{
+		"assign": "sort_favorite",
+		"jp_text": "お気に入り順",
+		"tr_text": ""
+	},
+	{
+		"assign": "sort_actiontype",
+		"jp_text": "発動タイプ順",
+		"tr_text": ""
 	},
 	{
 		"assign": "sort_new",
@@ -16633,6 +16668,11 @@
 		"assign": "filter_state",
 		"jp_text": "チップの状態",
 		"tr_text": "Chip State"
+	},
+	{
+		"assign": "filter_linkskill",
+		"jp_text": "リンクスキル",
+		"tr_text": ""
 	},
 	{
 		"assign": "filter_kind",
@@ -16726,8 +16766,8 @@
 	},
 	{
 		"assign": "filter_boost",
-		"jp_text": "激化・特化",
-		"tr_text": "Booster"
+		"jp_text": "激化系",
+		"tr_text": ""
 	},
 	{
 		"assign": "filter_item",
@@ -16763,6 +16803,16 @@
 		"assign": "filter_unfavorite",
 		"jp_text": "お気に入り以外",
 		"tr_text": "Unfavorite"
+	},
+	{
+		"assign": "filter_existlinkskill",
+		"jp_text": "あり",
+		"tr_text": ""
+	},
+	{
+		"assign": "filter_nonelinkskill",
+		"jp_text": "なし",
+		"tr_text": ""
 	},
 	{
 		"assign": "story_event_end_text_1",
@@ -17755,6 +17805,16 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "quest_clear_reward_dialog_title_6124004",
+		"jp_text": "ストーリークエスト Season2　3章クリア",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_clear_reward_dialog_body_6124004",
+		"jp_text": "Season2　3章クリアおめでとうございます！\n以下のクリア報酬をプレゼントいたします。\n受け取りボックスをご確認ください。",
+		"tr_text": ""
+	},
+	{
 		"assign": "recommended_equipment",
 		"jp_text": "おすすめ装備",
 		"tr_text": "Recommended Equipment"
@@ -18238,5 +18298,240 @@
 		"assign": "photondice_battle_odds_Normal",
 		"jp_text": "Normal",
 		"tr_text": "Normal"
+	},
+	{
+		"assign": "equip_children_chip",
+		"jp_text": "リンクスロット\n装備",
+		"tr_text": "Link Slot\nEquip"
+	},
+	{
+		"assign": "equip_pallet_children_chip_total_cost",
+		"jp_text": "パレット{0}/総リンクコスト",
+		"tr_text": "Palette {0}/Total Link Cost"
+	},
+	{
+		"assign": "equip_pallet_window_title",
+		"jp_text": "リンクスロット装備",
+		"tr_text": "Link Slot Equip"
+	},
+	{
+		"assign": "equip_child_chip_totalcost",
+		"jp_text": "総リンクコスト",
+		"tr_text": "Total Link Cost"
+	},
+	{
+		"assign": "equip_child_chip_window_title",
+		"jp_text": "リンクチップ選択",
+		"tr_text": "Select Chip Link"
+	},
+	{
+		"assign": "equip_guide_16",
+		"jp_text": "<color=#f0df60>リンクスロットをタッチすると、リンクチップの装備・変更を行うことができます。チップアイコンを長押しすると、詳細情報を確認できます。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_guide_17",
+		"jp_text": "<color=#f0df60>装備したいリンクチップを選んでください。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_linkskill_window_title",
+		"jp_text": "出発確認",
+		"tr_text": "Confirm Depart"
+	},
+	{
+		"assign": "quest_linkskill_linkslot",
+		"jp_text": "リンクスロット",
+		"tr_text": "Link Slot"
+	},
+	{
+		"assign": "quest_linkslot_button",
+		"jp_text": "リンクスロット",
+		"tr_text": "Link Slot"
+	},
+	{
+		"assign": "quest_linkskill_week_element",
+		"jp_text": "有効属性予想",
+		"tr_text": "Weak Attr. Predict"
+	},
+	{
+		"assign": "quest_lobby_guide_01",
+		"jp_text": "<color=#f0df60>現在選択しているパレットのリンクスロットの確認画面となります。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_details_max_level",
+		"jp_text": "最大チップLv",
+		"tr_text": "Max Chip Lv."
+	},
+	{
+		"assign": "chip_details_max_hp",
+		"jp_text": "最大HP",
+		"tr_text": "Max HP"
+	},
+	{
+		"assign": "chip_details_max_cp",
+		"jp_text": "最大CP",
+		"tr_text": "Max CP"
+	},
+	{
+		"assign": "chip_details_hyphen",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_details_secret",
+		"jp_text": "???",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_details_chip_level",
+		"jp_text": "チップLv",
+		"tr_text": "Chip Lv."
+	},
+	{
+		"assign": "chip_details_cost",
+		"jp_text": "コスト",
+		"tr_text": "Cost"
+	},
+	{
+		"assign": "chip_details_attribute",
+		"jp_text": "属性",
+		"tr_text": "Attr."
+	},
+	{
+		"assign": "chip_details_hp",
+		"jp_text": "HP",
+		"tr_text": "HP"
+	},
+	{
+		"assign": "chip_details_cp",
+		"jp_text": "CP",
+		"tr_text": "CP"
+	},
+	{
+		"assign": "chip_details_ext_max_level",
+		"jp_text": "<color=#688ca7>/</color><%lv> (MAX)",
+		"tr_text": "<color=#688ca7>/</color><%lv> (MAX)"
+	},
+	{
+		"assign": "chip_details_down_cost",
+		"jp_text": "(－<%val>)",
+		"tr_text": "(－<%val>)"
+	},
+	{
+		"assign": "chip_details_ability",
+		"jp_text": "アビリティ",
+		"tr_text": "Ability"
+	},
+	{
+		"assign": "chip_details_max",
+		"jp_text": "MAX",
+		"tr_text": "MAX"
+	},
+	{
+		"assign": "chip_details_none",
+		"jp_text": "なし",
+		"tr_text": "None"
+	},
+	{
+		"assign": "chip_details_chip_no",
+		"jp_text": "No.<%no>",
+		"tr_text": "#<%no>"
+	},
+	{
+		"assign": "chip_details_class_bonus",
+		"jp_text": "クラスボーナス",
+		"tr_text": "Class Bonus"
+	},
+	{
+		"assign": "chip_details_limit_affect",
+		"jp_text": "期間限定効果",
+		"tr_text": "Limited Effect"
+	},
+	{
+		"assign": "chip_details_link_skill",
+		"jp_text": "リンクスキル",
+		"tr_text": "Link Skill"
+	},
+	{
+		"assign": "chip_details_slot_cost",
+		"jp_text": "リンクコスト",
+		"tr_text": "Link Cost"
+	},
+	{
+		"assign": "chip_details_link_skill_affect",
+		"jp_text": "リンクスキル詳細",
+		"tr_text": "Link Details"
+	},
+	{
+		"assign": "chip_details_next_exp",
+		"jp_text": "次のチップレベルまで",
+		"tr_text": "Next Level"
+	},
+	{
+		"assign": "chip_details_release_ability",
+		"jp_text": "解放能力",
+		"tr_text": "Ability Release"
+	},
+	{
+		"assign": "chip_details_chipequip_next_lv",
+		"jp_text": "次のレベルまで",
+		"tr_text": "Next Level"
+	},
+	{
+		"assign": "chip_details_base_item_plus",
+		"jp_text": "+",
+		"tr_text": "+"
+	},
+	{
+		"assign": "chip_details_chipequip_next_lv_suffix",
+		"jp_text": " pt",
+		"tr_text": " pt"
+	},
+	{
+		"assign": "chip_details_bonus_value",
+		"jp_text": "(+<%value>)",
+		"tr_text": "(+<%value>)"
+	},
+	{
+		"assign": "chip_details_bonus_value_minus",
+		"jp_text": "(-<%value>)",
+		"tr_text": "(-<%value>)"
+	},
+	{
+		"assign": "chip_details_page",
+		"jp_text": "切替 <%val1>/<%val2>",
+		"tr_text": "Switching <%val1>/<%val2>"
+	},
+	{
+		"assign": "chip_details_common_linkskill",
+		"jp_text": "属性一致時発動",
+		"tr_text": "Attr. Activate"
+	},
+	{
+		"assign": "chip_details_link_bonus_title",
+		"jp_text": "リンクボーナス",
+		"tr_text": "Link Bonus"
+	},
+	{
+		"assign": "chip_details_link_bonus_text",
+		"jp_text": "パラメータアップ",
+		"tr_text": "Param. Up"
+	},
+	{
+		"assign": "wh_38_01",
+		"jp_text": "ウェポノイドやキャラクターなど、特定のチップを対象に\nリンクスロットが追加されました。リンクスロットに\n別のチップを装備させると、装備したチップのパラメータを強化できます。",
+		"tr_text": ""
+	},
+	{
+		"assign": "wh_38_02",
+		"jp_text": "リンクスロットに装備できるチップは\n「リンクスキル」と呼ばれる専用のスキルをもつチップのみとなります。\nリンクスロットに装備できるチップを「リンクチップ」と呼びます。",
+		"tr_text": ""
+	},
+	{
+		"assign": "wh_38_03",
+		"jp_text": "リンクチップと、リンクチップを装備する側のチップの属性が\n一致していると「リンクスキル」が発動します。\nリンクチップを装備する際には、属性を一致させるとより有利になります。",
+		"tr_text": ""
 	}
 ]
