@@ -48,6 +48,12 @@ json_files = [
 	for f in fnmatch.filter(files, 'Item_*.txt')
 ]
 
+json_files += [
+        os.path.join(dirpath, f)
+        for dirpath, dirnames, files in os.walk(dir)
+        for f in fnmatch.filter(files, 'Explain_Actor_StackDeviceSAA.txt')
+]
+
 mag_file = [
 	os.path.join(dirpath, f)
 	for dirpath, dirnames, files in os.walk(dir)
