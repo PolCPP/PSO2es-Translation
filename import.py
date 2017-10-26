@@ -48,6 +48,13 @@ json_files = [
 	for f in fnmatch.filter(files, 'Item_*.txt')
 ]
 
+mag_file = [
+	os.path.join(dirpath, f)
+	for dirpath, dirnames, files in os.walk(dir)
+	for f in fnmatch.filter(files, 'Name_Actor_MagName.txt')
+]
+
+
 for files in json_files:
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
         change = False
@@ -86,6 +93,38 @@ for files in json_files:
                     json_file.write("\n")
         except ValueError as e:
             print("%s: %s" % (files, e))
+
+for files in mag_file:
+    with codecs.open(files, mode='r', encoding='utf-8') as json_file:
+        change = False
+        try:
+            djson = json.load(json_file, object_pairs_hook=OrderedDict)
+            for entry in djson:
+                if entry["jp_text"] in TR_name:
+                    k = entry["jp_text"]
+                    t = entry["tr_text"]
+                    if TR_name[k] != t and t != "":
+                        print("TR name of \'{}\' from \'{}\' to \'{}\'".format(k, t, TR_name[k]))
+                        TR_name[k] = t
+                        change = True
+                    TR_src[k] = "JSON"
+                else:
+                    k = entry["jp_text"]
+                    t = entry["tr_text"]
+                    TR_name[k] = t
+                    TR_src[k] = "NEW"
+            if change:
+                print("Updating {}.txt".format(os.path.splitext(os.path.basename(files))[0]))
+                djson = [
+                    OrderedDict([('assign', e["assign"]), ('jp_text', e["jp_text"]), ('tr_text', TR_name[e["jp_text"]])])
+                    for e in djson
+                ]
+                with codecs.open(files, mode='w+', encoding='utf-8') as json_file:
+                    json.dump(djson, json_file, ensure_ascii=False, indent="\t", sort_keys=False)
+                    json_file.write("\n")
+        except ValueError as e:
+            print("%s: %s" % (files, e))
+
 
 print("CSV:")
 for e in TR_src:
