@@ -3,7 +3,7 @@
 import codecs
 import re
 import os
-import simplejson
+import json
 import sys
 
 counterr = 0
@@ -14,7 +14,7 @@ for files in json_files:
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
         try:
             countin = 0
-            djson = simplejson.load(json_file)
+            djson = json.load(json_file)
             for rmid in djson:
                 countin += 1
             if (countin == 0):
