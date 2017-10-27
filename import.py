@@ -80,7 +80,7 @@ for files in explain_files:
         try:
             djson = json.load(json_file, object_pairs_hook=OrderedDict)
             for entry in djson:
-                if entry["jp_text"] in TR_name and entry["jp_text"] not in badlist:
+                if entry["jp_text"] in TR_name and entry["jp_text"] not in badlist and TR_src[entry["jp_text"]] == "CSV":
                     k = entry["jp_text"]
                     t = entry["tr_text"]
                     d = entry["tr_explain"]
@@ -109,7 +109,7 @@ for files in explain_files:
                         ('jp_text', e["jp_text"]),
                         ('tr_text', TR_name[e["jp_text"]]),
                         ('jp_explain', e['jp_explain']),
-                        ('tr_explain', TR_explain[e["jp_text"]].replace("<br>", "\n"))
+                        ('tr_explain', TR_explain[e["jp_text"]].replace("<br>", "\n").rstrip())
                     ])
                     for e in djson
                 ]
@@ -125,7 +125,7 @@ for files in names_file:
         try:
             djson = json.load(json_file, object_pairs_hook=OrderedDict)
             for entry in djson:
-                if entry["jp_text"] in TR_name and entry["jp_text"] not in badlist:
+                if entry["jp_text"] in TR_name and entry["jp_text"] not in badlist and TR_src[entry["jp_text"]] == "CSV":
                     k = entry["jp_text"]
                     t = entry["tr_text"]
                     if TR_name[k] != t and t != "":
@@ -145,7 +145,7 @@ for files in names_file:
                             [
                                 ('assign', e["assign"]),
                                 ('jp_text', e["jp_text"]),
-                                ('tr_text', e["tr_text"].replace("<br>", "\n"))
+                                ('tr_text', e["tr_text"].replace("<br>", "\n").rscript())
                             ]
                         )
                         for e in djson
