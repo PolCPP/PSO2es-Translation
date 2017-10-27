@@ -87,7 +87,7 @@ for files in explain_files:
                     c = d.replace("\n", "<br>")
                     if TR_name[k] != t and t != "":
                         print("TR name of \'{}\' from \'{}\' to \'{}\'".format(k, t, TR_name[k]))
-                        TR_name[k] = t
+                        #TR_name[k] = t
                         change = True
                     if TR_explain[k] != c and d != "":
                         print("TR desc of \'{}\' from \'{}\' to \'{}\'".format(k, c, TR_explain[k]))
