@@ -90,7 +90,7 @@ for files in explain_files:
                         TR_name[k] = t
                         change = True
                     if TR_explain[k] != c and d != "":
-                        print("TR disc of \'{}\' from \'{}\' to \'{}\'".format(k, c, TR_explain[k]))
+                        print("TR desc of \'{}\' from \'{}\' to \'{}\'".format(k, c, TR_explain[k]))
                         TR_explain[k] = d
                         change = True
                     TR_src[k] = "JSON"
