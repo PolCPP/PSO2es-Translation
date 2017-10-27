@@ -55,6 +55,12 @@ explain_files += [
     for f in fnmatch.filter(files, 'Explain_Actor_StackDeviceSAA.txt')
 ]
 
+explain_files += [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'Explain_SkillRing.txt')
+]
+
 names_file = [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
