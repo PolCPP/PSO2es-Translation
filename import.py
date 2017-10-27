@@ -4,7 +4,6 @@ import codecs
 import csv
 import fnmatch
 import json
-import re
 import os
 import sys
 from collections import OrderedDict
@@ -16,50 +15,49 @@ TR_src = dict()
 csv.register_dialect('pipes', delimiter='|', quoting=csv.QUOTE_NONE)
 
 if len(sys.argv) < 3:
-	sys.exit(os.EX_NOINPUT)
+    sys.exit(os.EX_NOINPUT)
 
 dir = sys.argv[1]
 with open(sys.argv[2]) as f:
-	CSV = list(csv.reader(f, dialect='pipes', strict=True))
+    CSV = list(csv.reader(f, dialect='pipes', strict=True))
 
 for line in CSV:
     k = line[0]
     t = line[1]
     d = line[2]
     if k in TR_name:
-       print("Item JP name {} already in".format(k))
+        print("Item JP name {} already in".format(k))
     if t != "":
-       for e in TR_name:
-           if TR_name[e] == t:
-               print("Item JP name {} already taken {}".format(e,t))
+        for e in TR_name:
+            if TR_name[e] == t:
+                print("Item JP name {} already taken {}".format(e, t))
     TR_name[k] = t
     if d != "" and k in TR_explain:
         if d != TR_explain[k]:
-            print("Item Disc {}/{}".format(k,t))
-        elif  d !=  TR_explain[k]:
+            print("Item Desc {}/{}".format(k, t))
+        elif d != TR_explain[k]:
             TR_explain[k] = d
     else:
         TR_explain[k] = d
     TR_src[k] = "CSV"
 
 json_files = [
-	os.path.join(dirpath, f)
-	for dirpath, dirnames, files in os.walk(dir)
-	for f in fnmatch.filter(files, 'Item_*.txt')
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'Item_*.txt')
 ]
 
 json_files += [
-        os.path.join(dirpath, f)
-        for dirpath, dirnames, files in os.walk(dir)
-        for f in fnmatch.filter(files, 'Explain_Actor_StackDeviceSAA.txt')
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'Explain_Actor_StackDeviceSAA.txt')
 ]
 
 mag_file = [
-	os.path.join(dirpath, f)
-	for dirpath, dirnames, files in os.walk(dir)
-	for f in fnmatch.filter(files, 'Name_Actor_MagName.txt')
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'Name_Actor_MagName.txt')
 ]
-
 
 for files in json_files:
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
@@ -71,7 +69,7 @@ for files in json_files:
                     k = entry["jp_text"]
                     t = entry["tr_text"]
                     d = entry["tr_explain"]
-                    c = d.replace("\n","<br>")
+                    c = d.replace("\n", "<br>")
                     if TR_name[k] != t and t != "":
                         print("TR name of \'{}\' from \'{}\' to \'{}\'".format(k, t, TR_name[k]))
                         TR_name[k] = t
@@ -91,7 +89,13 @@ for files in json_files:
             if change:
                 print("Updating {}.txt".format(os.path.splitext(os.path.basename(files))[0]))
                 djson = [
-                    OrderedDict([('assign', e["assign"]), ('jp_text', e["jp_text"]), ('tr_text', TR_name[e["jp_text"]]), ('jp_explain', e['jp_explain']), ('tr_explain', TR_explain[e["jp_text"]].replace("<br>","\n"))])
+                    OrderedDict([
+                        ('assign', e["assign"]),
+                        ('jp_text', e["jp_text"]),
+                        ('tr_text', TR_name[e["jp_text"]]),
+                        ('jp_explain', e['jp_explain']),
+                        ('tr_explain', TR_explain[e["jp_text"]].replace("<br>", "\n"))
+                    ])
                     for e in djson
                 ]
                 with codecs.open(files, mode='w+', encoding='utf-8') as json_file:
@@ -122,7 +126,13 @@ for files in mag_file:
             if change:
                 print("Updating {}.txt".format(os.path.splitext(os.path.basename(files))[0]))
                 djson = [
-                    OrderedDict([('assign', e["assign"]), ('jp_text', e["jp_text"]), ('tr_text', TR_name[e["jp_text"]])])
+                    OrderedDict(
+                        [
+                            ('assign', e["assign"]),
+                            ('jp_text', e["jp_text"]),
+                            ('tr_text', TR_name[e["jp_text"]].replace("<br>", "\n"))
+                        ]
+                    )
                     for e in djson
                 ]
                 with codecs.open(files, mode='w+', encoding='utf-8') as json_file:
@@ -131,8 +141,26 @@ for files in mag_file:
         except ValueError as e:
             print("%s: %s" % (files, e))
 
+others = list()
 
-print("CSV:")
 for e in TR_src:
-    if TR_src[e] is "CSV":
-        print(e)
+    others.append(e)
+
+others = sorted(others)
+
+ojson = list()
+
+for e in others:
+    ojson += [
+        OrderedDict(
+            [
+                ('jp_text', e),
+                ('tr_text', TR_name[e]),
+                ('tr_explain', TR_explain[e].replace("<br>", "\n"))
+            ]
+        )
+    ]
+
+with codecs.open(os.path.join(dir, "Items_Leftovers.txt"), mode='w+', encoding='utf-8') as json_file:
+    json.dump(ojson, json_file, ensure_ascii=False, indent="\t", sort_keys=False)
+    json_file.write("\n")
