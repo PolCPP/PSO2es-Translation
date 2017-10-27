@@ -148,7 +148,7 @@ for files in names_file:
                             [
                                 ('assign', e["assign"]),
                                 ('jp_text', e["jp_text"]),
-                                ('tr_text', e["tr_text"].replace("<br>", "\n").rscript())
+                                ('tr_text', e["tr_text"].replace("<br>", "\n").rstrip())
                             ]
                         )
                         for e in djson
