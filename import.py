@@ -70,12 +70,6 @@ explain_files += [
 names_file = [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'Name_UICharMake_*.txt')
-]
-
-names_file += [
-    os.path.join(dirpath, f)
-    for dirpath, dirnames, files in os.walk(dir)
     for f in fnmatch.filter(files, 'Name_Actor_MagName.txt')
 ]
 
