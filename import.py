@@ -40,6 +40,9 @@ for line in CSV:
             TR_explain[k] = d.replace("<br>", "\n").rstrip().replace("\n", "<br>")
     else:
         TR_explain[k] = d.replace("<br>", "\n").rstrip().replace("\n", "<br>")
+    if TR_explain[k].count("<br>") >= 3:
+        #print("item Desc {} is too long".format(k))
+        TR_explain[k] = ""
     TR_src[k] = "CSV"
 
 badlist = ("-")
@@ -89,9 +92,9 @@ for files in explain_files:
                         print("TR name of \'{}\' from \'{}\' to \'{}\'".format(k, t, TR_name[k]))
                         #TR_name[k] = t
                         change = True
-                    if TR_explain[k] != c and d != "":
+                    if TR_explain[k] != c and TR_explain[k] != "":
                         print("TR desc of \'{}\' from \'{}\' to \'{}\'".format(k, c, TR_explain[k]))
-                        TR_explain[k] = d
+                        #TR_explain[k] = d
                         change = True
                     TR_src[k] = "JSON"
                 elif entry["jp_text"] not in badlist:
