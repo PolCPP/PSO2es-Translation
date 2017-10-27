@@ -9,6 +9,7 @@ import sys
 from collections import OrderedDict
 
 TR_name = dict()
+TR_dup = dict()
 TR_explain = dict()
 TR_src = dict()
 
@@ -28,9 +29,9 @@ for line in CSV:
     if k in TR_name:
         print("Item JP name {} already in".format(k))
     if t != "":
-        for e in TR_name:
-            if TR_name[e] == t:
-                print("Item JP name {} already taken {}".format(e, t))
+        if t in TR_dup:
+            print("Item JP name {} already taken {}".format(TR_dup[t], t))
+    TR_dup[t] = k
     TR_name[k] = t
     if d != "" and k in TR_explain:
         if d != TR_explain[k]:
