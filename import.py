@@ -144,7 +144,8 @@ for files in mag_file:
 others = list()
 
 for e in TR_src:
-    others.append(e)
+    if TR_src[e] == "CSV":
+        others.append(e)
 
 others = sorted(others)
 
