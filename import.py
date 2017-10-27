@@ -89,9 +89,9 @@ for files in explain_files:
                         print("TR name of \'{}\' from \'{}\' to \'{}\'".format(k, t, TR_name[k]))
                         #TR_name[k] = t
                         change = True
-                    if TR_explain[k] != c and TR_explain[k] != "":
+                    if TR_explain[k] != c and d != "":
                         print("TR desc of \'{}\' from \'{}\' to \'{}\'".format(k, c, TR_explain[k]))
-                        #TR_explain[k] = d
+                        TR_explain[k] = d
                         change = True
                     TR_src[k] = "JSON"
                 elif entry["jp_text"] not in badlist:
