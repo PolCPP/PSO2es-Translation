@@ -53,10 +53,10 @@ json_files += [
     for f in fnmatch.filter(files, 'Explain_Actor_StackDeviceSAA.txt')
 ]
 
-mag_file = [
+names_file = [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'Name_Actor_MagName.txt')
+    for f in fnmatch.filter(files, 'Name_*.txt')
 ]
 
 for files in json_files:
@@ -104,7 +104,7 @@ for files in json_files:
         except ValueError as e:
             print("%s: %s" % (files, e))
 
-for files in mag_file:
+for files in names_file:
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
         change = False
         try:
