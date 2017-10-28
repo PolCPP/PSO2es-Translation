@@ -90,12 +90,14 @@ for files in explain_files:
                     c = d.rstrip().replace("\n", "<br>")
                     if TR_name[k] != t and TR_name[k] != "":
                         print("TR name of \'{}\' from \'{}\' to \'{}\'".format(k, t, TR_name[k]))
-                        #TR_name[k] = t
                         change = True
+                    else:
+                        TR_name[k] = t
                     if TR_explain[k] != c and TR_explain[k] != "":
                         print("TR desc of \'{}\' from \'{}\' to \'{}\'".format(k, c, TR_explain[k]))
-                        #TR_explain[k] = d
                         change = True
+                    else:
+                        TR_explain[k] = d
                     TR_src[k] = "JSON"
                 elif entry["jp_text"] not in badlist:
                     k = entry["jp_text"]
@@ -133,8 +135,9 @@ for files in names_file:
                     t = entry["tr_text"]
                     if TR_name[k] != t and TR_name[k] != "":
                         print("TR name of \'{}\' from \'{}\' to \'{}\'".format(k, t, TR_name[k]))
-                        #TR_name[k] = t
                         change = True
+                    else:
+                        TR_name[k] = t
                     TR_src[k] = "JSON"
                 elif entry["jp_text"] not in badlist:
                     k = entry["jp_text"]
