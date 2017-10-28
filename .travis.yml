@@ -4,13 +4,9 @@ dist: trusty
 sudo: false
 group: beta
 
-addons:
-  apt:
-    packages:
-    - python-simplejson
-    - python3-simplejson
-
 script:
   - /usr/bin/python3 checkjson.py && ./coverage.sh
   - ./tidy-json.sh && git diff --exit-code
   - /usr/bin/python3 dupcheck.py
+
+install:

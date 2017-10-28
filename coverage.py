@@ -4,7 +4,7 @@ import codecs
 import re
 import os
 # import pprint
-import simplejson
+import json
 import sys
 
 counterr = 0
@@ -17,7 +17,7 @@ for files in json_files:
         try:
             countin = 0
             countout = 0
-            djson = simplejson.load(json_file)
+            djson = json.load(json_file)
             for rmid in djson:
                 countin += 1
                 if (("tr_text" in rmid) and (rmid["tr_text"] != "")):
