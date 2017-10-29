@@ -45,7 +45,7 @@ explain_files += [
     for f in fnmatch.filter(files, 'Items_Leftovers.txt')
 ]
 
-if len(sys.argv) == 3:
+if len(sys.argv) == 3 and sys.argv[2] != "0":
     _fonts.init(int(sys.argv[2]))
 else:
     _fonts.init()
@@ -68,4 +68,4 @@ if len(sys.argv) == 3:
 else:
     for e in FSs:
         if FS[e] > 29:
-            print("Item Name {} is too big: {}".format(e, FS[e]))
+            print("Item Name '{}' is too big: {}".format(e, FS[e]))
