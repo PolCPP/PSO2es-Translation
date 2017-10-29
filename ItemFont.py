@@ -38,6 +38,12 @@ explain_files += [
     for f in fnmatch.filter(files, 'Explain_System.txt')
 ]
 
+explain_files += [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'Items_Leftovers.txt')
+]
+
 _fonts.init()
 
 for files in explain_files:
