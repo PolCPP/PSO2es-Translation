@@ -6,6 +6,7 @@ import fnmatch
 import json
 import os
 import sys
+from collections import OrderedDict
 
 if len(sys.argv) < 2:
     sys.exit(os.EX_NOINPUT)
@@ -44,7 +45,10 @@ explain_files += [
     for f in fnmatch.filter(files, 'Items_Leftovers.txt')
 ]
 
-_fonts.init()
+if len(sys.argv) == 3 and sys.argv[2] != "0":
+    _fonts.init(int(sys.argv[2]))
+else:
+    _fonts.init()
 
 for files in explain_files:
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
@@ -56,8 +60,12 @@ for files in explain_files:
                 t = entry["jp_text"]
             FS[t] = _fonts.itemlength(t)
 
-for e in FS:
-    if FS[e] > 27.4:
-        print("Item Name {} is too big: {}".format(e, FS[e]))
+FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
+FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
 
-# print(json.dumps(FS, ensure_ascii=False, indent="\t", sort_keys=False))
+if len(sys.argv) == 3:
+    print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
+else:
+    for e in FSs:
+        if FS[e] > 29:
+            print("Item Name '{}' is too big: {}".format(e, FS[e]))
