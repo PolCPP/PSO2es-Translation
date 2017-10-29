@@ -57,7 +57,7 @@ for files in explain_files:
             FS[t] = _fonts.itemlength(t)
 
 for e in FS:
-    if FS[e] > 27.4:
+    if FS[e] > 29:
         print("Item Name {} is too big: {}".format(e, FS[e]))
 
 # print(json.dumps(FS, ensure_ascii=False, indent="\t", sort_keys=False))
