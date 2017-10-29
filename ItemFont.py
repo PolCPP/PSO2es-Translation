@@ -57,7 +57,7 @@ for files in explain_files:
                 t = entry["jp_text"]
             FS[t] = _fonts.itemlength(t)
 
-if len(sys.argv) < 3:
+if len(sys.argv) == 3:
     FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
     FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
