@@ -4,7 +4,7 @@ import os
 from PIL import ImageFont
 
 
-def init():
+def init(size=1):
     global fontr
     font = os.path.join(
         os.path.dirname(
@@ -16,7 +16,7 @@ def init():
 # "DF-HeiSeiGothic-W7003.ttf"
     fontr = ImageFont.truetype(
         font=font,
-        size=1
+        size=size
     )
 
 

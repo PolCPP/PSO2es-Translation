@@ -45,7 +45,10 @@ explain_files += [
     for f in fnmatch.filter(files, 'Items_Leftovers.txt')
 ]
 
-_fonts.init()
+if len(sys.argv) == 3:
+    _fonts.init(int(sys.argv[2]))
+else:
+    _fonts.init()
 
 for files in explain_files:
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
