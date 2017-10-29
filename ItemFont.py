@@ -60,4 +60,4 @@ for e in FS:
     if FS[e] > 27.4:
         print("Item Name {} is too big: {}".format(e, FS[e]))
 
-#print(json.dumps(FS, ensure_ascii=False, indent="\t", sort_keys=False))
+# print(json.dumps(FS, ensure_ascii=False, indent="\t", sort_keys=False))
