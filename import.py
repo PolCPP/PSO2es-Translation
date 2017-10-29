@@ -26,6 +26,8 @@ for line in CSV:
     k = line[0]
     t = line[1]
     d = line[2]
+    if (k == t):
+        t = ""
     if k in TR_name:
         print("Item JP name {} already in".format(k))
     if t != "":
