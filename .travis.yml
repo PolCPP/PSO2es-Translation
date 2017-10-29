@@ -1,12 +1,11 @@
 language: python
-
+python: 3.6
 dist: trusty
 sudo: false
 group: beta
 
 script:
-  - /usr/bin/python3 checkjson.py && ./coverage.sh
+  - ./checkjson.py && ./coverage.sh
   - ./tidy-json.sh && git diff --exit-code
-  - /usr/bin/python3 dupcheck.py
-
-install:
+  - ./dupcheck.py
+  - ./ItemFont.py json

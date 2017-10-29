@@ -31,3 +31,14 @@ ExportedObj/
 Icon?
 ehthumbs.db
 Thumbs.db
+
+# ====== #
+# Python #
+# ====== #
+__pycache__
+
+# ===== #
+# Other #
+# ===== #
+*.csv
+*.json

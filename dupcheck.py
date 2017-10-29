@@ -52,7 +52,9 @@ for files in json_files:
                     if rmid["tr_text"] not in ENMap:
                         ENMap[rmid["tr_text"]] = rmid["jp_text"]
                     elif ENMap[rmid["tr_text"]] != rmid["jp_text"]:
-                        bufout += ("{}:{} {} wants the mapping of {}\n".format(os.path.splitext(os.path.basename(files))[0], rmid["assign"], rmid["jp_text"], rmid["tr_text"]))
+                        bufout += ("{}:{} {} wants the mapping of {}\n".format(
+                            os.path.splitext(os.path.basename(files))[0],
+                            rmid["assign"], rmid["jp_text"], rmid["tr_text"]))
                         countdup += 1
         except ValueError as e:
             print("%s: %s") % (files, e)
