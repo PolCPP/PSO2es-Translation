@@ -4,6 +4,11 @@ dist: trusty
 sudo: false
 group: beta
 
+addons:
+  apt:
+    packages:
+    - python-imaging
+
 script:
   - /usr/bin/python3 checkjson.py && ./coverage.sh
   - ./tidy-json.sh && git diff --exit-code
