@@ -5957,12 +5957,12 @@
 	{
 		"assign": "scratch_dialog_b_11",
 		"jp_text": "ラッピーメダル{0}枚で\n{1}を{2}回引きます。\nよろしいですか？\n現在の所持ラッピーメダル：{3}枚\n",
-		"tr_text": "Rappy Coins: {0}\n{1} {2} will be used.\nIs that ok?\nOwned: {3}\n"
+		"tr_text": "Rappy Coins required: {0}\nPerforming {2}x {1}, is that OK?\nRappy Coins owned: {3}"
 	},
 	{
 		"assign": "scratch_message_02",
 		"jp_text": "「{0}」が当たりました！",
-		"tr_text": "「{0}」 scratched!"
+		"tr_text": "[{0}] scratched!"
 	},
 	{
 		"assign": "scratch_message_03",
@@ -7502,7 +7502,7 @@
 	{
 		"assign": "total_chip_cost",
 		"jp_text": "総チップコスト",
-		"tr_text": "Total chip cost"
+		"tr_text": "Chip Cost"
 	},
 	{
 		"assign": "strike_power",
@@ -9092,7 +9092,7 @@
 	{
 		"assign": "menu_charainfo_label_drive_ex",
 		"jp_text": "OP",
-		"tr_text": ""
+		"tr_text": "OP"
 	},
 	{
 		"assign": "menu_charainfo_label_class",
@@ -9157,17 +9157,17 @@
 	{
 		"assign": "menu_charainfo_label_oprecovery",
 		"jp_text": "OP回復薬",
-		"tr_text": ""
+		"tr_text": "OP Recovery Meds"
 	},
 	{
 		"assign": "menu_charainfo_label_oprecoverymini",
 		"jp_text": "OP回復薬ミニ",
-		"tr_text": ""
+		"tr_text": "OP Mini Recovery Meds"
 	},
 	{
 		"assign": "menu_charainfo_label_revivaldrug",
 		"jp_text": "復活薬",
-		"tr_text": ""
+		"tr_text": "Scape Dolls"
 	},
 	{
 		"assign": "menu_shop_title",
@@ -16672,7 +16672,7 @@
 	{
 		"assign": "filter_linkskill",
 		"jp_text": "リンクスキル",
-		"tr_text": ""
+		"tr_text": "Link Skill"
 	},
 	{
 		"assign": "filter_kind",
@@ -16767,7 +16767,7 @@
 	{
 		"assign": "filter_boost",
 		"jp_text": "激化系",
-		"tr_text": ""
+		"tr_text": "Booster"
 	},
 	{
 		"assign": "filter_item",
@@ -16807,12 +16807,12 @@
 	{
 		"assign": "filter_existlinkskill",
 		"jp_text": "あり",
-		"tr_text": ""
+		"tr_text": "Has Skill"
 	},
 	{
 		"assign": "filter_nonelinkskill",
 		"jp_text": "なし",
-		"tr_text": ""
+		"tr_text": "None"
 	},
 	{
 		"assign": "story_event_end_text_1",
@@ -18302,7 +18302,7 @@
 	{
 		"assign": "equip_children_chip",
 		"jp_text": "リンクスロット\n装備",
-		"tr_text": "Link Slot\nEquip"
+		"tr_text": "Equip\nLink Slot"
 	},
 	{
 		"assign": "equip_pallet_children_chip_total_cost",
@@ -18312,12 +18312,12 @@
 	{
 		"assign": "equip_pallet_window_title",
 		"jp_text": "リンクスロット装備",
-		"tr_text": "Link Slot Equip"
+		"tr_text": "Link Slot Equipment"
 	},
 	{
 		"assign": "equip_child_chip_totalcost",
 		"jp_text": "総リンクコスト",
-		"tr_text": "Total Link Cost"
+		"tr_text": "Link Cost"
 	},
 	{
 		"assign": "equip_child_chip_window_title",
@@ -18502,7 +18502,7 @@
 	{
 		"assign": "chip_details_page",
 		"jp_text": "切替 <%val1>/<%val2>",
-		"tr_text": "Switching <%val1>/<%val2>"
+		"tr_text": "Details"
 	},
 	{
 		"assign": "chip_details_common_linkskill",
