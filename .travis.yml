@@ -9,3 +9,4 @@ script:
   - ./tidy-json.sh && git diff --exit-code
   - ./dupcheck.py
   - ./ItemFont.py json
+  - ./ChipDescShort.py json
