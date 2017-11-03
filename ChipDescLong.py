@@ -47,4 +47,4 @@ if len(sys.argv) == 3:
 else:
     for e in FSs:
         if FS[e] > 47:
-            print("Chip Long explain '{}' is too big: {}".format(e.replace("\n","<br>"), FS[e]))
+            print("Chip Long explain '{}' is too big: {}".format(e.replace("\n", "<br>"), FS[e]))
