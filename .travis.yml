@@ -10,3 +10,4 @@ script:
   - ./dupcheck.py
   - ./ItemFont.py json
   - ./ChipDescShort.py json
+  - ./ChipDescLong.py json
