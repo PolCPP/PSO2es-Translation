@@ -118,9 +118,6 @@ for files in explain_files:
                     TR_name[k] = t
                     TR_explain[k] = d
                     TR_src[k] = "NEW"
-                if t == k:
-                    TR_name[k] = ""
-                    change = True
             if change:
                 print("Updating {}.txt".format(
                     os.path.splitext(os.path.basename(files))[0]))
@@ -169,9 +166,6 @@ for files in names_file:
                     t = entry["tr_text"]
                     TR_name[k] = t
                     TR_src[k] = "NEW"
-                if k == t:
-                    TR_name[k] = ""
-                    change = True
             if change:
                 print("Updating {}.txt".format(
                     os.path.splitext(os.path.basename(files))[0]))
