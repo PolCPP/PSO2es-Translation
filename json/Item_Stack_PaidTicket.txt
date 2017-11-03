@@ -135,21 +135,21 @@
 	{
 		"assign": "320020",
 		"jp_text": "ＦＵＮ１００獲得チケット",
-		"tr_text": "100 FUN Ticket",
+		"tr_text": "FUN 100 Ticket",
 		"jp_explain": "ＦＵＮの授与申請チケット。\nチケットを使用すると\nＦＵＮを【１００】獲得可能。",
 		"tr_explain": "Use this ticket to receive\n100 FUN points."
 	},
 	{
 		"assign": "320021",
 		"jp_text": "ＦＵＮ５００獲得チケット",
-		"tr_text": "500 FUN Ticket",
+		"tr_text": "FUN 500 Ticket",
 		"jp_explain": "ＦＵＮの授与申請チケット。\nチケットを使用すると\nＦＵＮを【５００】獲得可能。",
 		"tr_explain": "Use this ticket to receive\n500 FUN points."
 	},
 	{
 		"assign": "320022",
 		"jp_text": "ＦＵＮ１０００獲得チケット",
-		"tr_text": "1000 FUN Ticket",
+		"tr_text": "FUN 1000 Ticket",
 		"jp_explain": "ＦＵＮの授与申請チケット。\nチケットを使用すると\nＦＵＮを【１０００】獲得可能。",
 		"tr_explain": "Use this ticket to receive\n1,000 FUN points."
 	},
@@ -296,7 +296,7 @@
 	{
 		"assign": "320045",
 		"jp_text": "ＦＵＮ５５５獲得チケット",
-		"tr_text": "555 FUN Ticket",
+		"tr_text": "FUN 555 Ticket",
 		"jp_explain": "ＦＵＮの授与申請チケット。\nチケットを使用すると\nＦＵＮを【５５５】獲得可能。",
 		"tr_explain": "Use this ticket to receive\n555 FUN points."
 	},
@@ -569,14 +569,14 @@
 	{
 		"assign": "320085",
 		"jp_text": "ＦＵＮ２０１４獲得チケット",
-		"tr_text": "2014 FUN Ticket",
+		"tr_text": "FUN 2014 Ticket",
 		"jp_explain": "ＦＵＮの授与申請チケット。\nチケットを使用すると\nＦＵＮを【２０１４】獲得可能。",
 		"tr_explain": "Use this ticket to receive\n2,014 FUN points. Happy new year!"
 	},
 	{
 		"assign": "320086",
 		"jp_text": "ＦＵＮ７１１獲得チケット",
-		"tr_text": "711 FUN Ticket",
+		"tr_text": "FUN 711 Ticket",
 		"jp_explain": "ＦＵＮの授与申請チケット。\nチケットを使用すると\nＦＵＮを【７１１】獲得可能。",
 		"tr_explain": "Use this ticket to receive\n711 FUN points."
 	},
@@ -765,63 +765,63 @@
 	{
 		"assign": "3200116",
 		"jp_text": "経験値獲得１０００００",
-		"tr_text": "EXP 100000 Ticket",
+		"tr_text": "100000 EXP Ticket",
 		"jp_explain": "経験値の授与申請チケット。\n使用したクラスの経験値を\n【１０００００】獲得可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3200117",
 		"jp_text": "ＣＣ７１１獲得チケット",
-		"tr_text": "CC711 Ticket",
+		"tr_text": "CC 711 Ticket",
 		"jp_explain": "ＣＣ（カジノコイン）の授与申請チケット。\nチケットを使用すると\nＣＣを【７１１】獲得可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3200119",
 		"jp_text": "ツイスターフォール／Ｒ",
-		"tr_text": "Twister Fall / R",
+		"tr_text": "Twister Fall/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
 		"tr_explain": "Reset PA crafts back\nto defaults when used."
 	},
 	{
 		"assign": "3200120",
 		"jp_text": "サーベラスダンス／Ｒ",
-		"tr_text": "Cerberus Dance / R",
+		"tr_text": "Cerberus Dance/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
 		"tr_explain": "Reset PA crafts back\nto defaults when used."
 	},
 	{
 		"assign": "3200121",
 		"jp_text": "ライジングフラッグ／Ｒ",
-		"tr_text": "Rising Flag / R",
+		"tr_text": "Rising Flag/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
 		"tr_explain": "Reset PA crafts back\nto defaults when used."
 	},
 	{
 		"assign": "3200122",
 		"jp_text": "ワイルドラプソディ／Ｒ",
-		"tr_text": "Wild Rhapsody / R",
+		"tr_text": "Wild Rhapsody/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
 		"tr_explain": "Reset PA crafts back\nto defaults when used."
 	},
 	{
 		"assign": "3200123",
 		"jp_text": "トルネードダンス／Ｒ",
-		"tr_text": "Tornado Dance / R",
+		"tr_text": "Tornado Dance/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
 		"tr_explain": "Reset PA crafts back\nto defaults when used."
 	},
 	{
 		"assign": "3200124",
 		"jp_text": "スライドアッパー／Ｒ",
-		"tr_text": "Slide Upper / R",
+		"tr_text": "Slide Upper/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
 		"tr_explain": "Reset PA crafts back\nto defaults when used."
 	},
 	{
 		"assign": "3200125",
 		"jp_text": "トライインパクト／Ｒ",
-		"tr_text": "Tri-impact / R",
+		"tr_text": "Tri-impact/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
 		"tr_explain": "Reset PA crafts back\nto defaults when used."
 	},
