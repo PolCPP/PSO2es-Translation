@@ -43,5 +43,5 @@ if len(sys.argv) == 3:
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
 else:
     for e in FSs:
-        if FS[e] > 45: # JP MAX: 34.09
+        if FS[e] > 45:  # JP MAX: 34.09
             print("Chip Name '{}' is too long: {}".format(e, FS[e]))

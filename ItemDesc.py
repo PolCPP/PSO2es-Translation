@@ -66,25 +66,13 @@ explain4_files += [
 explain4_files += [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'Item_Stack_RingL.txt')
+    for f in fnmatch.filter(files, 'Item_Stack_Ring?.txt')
 ]
 
 explain4_files += [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
     for f in fnmatch.filter(files, 'Item_Stack_Music.txt')
-]
-
-explain4_files += [
-    os.path.join(dirpath, f)
-    for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'Item_Stack_RingR.txt')
-]
-
-explain4_files += [
-    os.path.join(dirpath, f)
-    for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'Item_AvatarWPN_*.txt')
 ]
 
 explain4_files += [
@@ -128,4 +116,3 @@ FS4s = OrderedDict(sorted(FS4k.items(), key=lambda t: t[1]))
 for e in FS4s:
     if FS4[e] > 4:
         print("Item Desc '{}' is too big: {}".format(e, FS4[e]))
-

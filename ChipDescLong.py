@@ -43,5 +43,6 @@ if len(sys.argv) == 3:
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
 else:
     for e in FSs:
-        if FS[e] > 47: # JP MAX: 46.86
-            print("Chip Long explain '{}' is too big: {}".format(e.replace("\n", "<br>"), FS[e]))
+        if FS[e] > 47:  # JP MAX: 46.86
+            t = e.replace("\n", "<br>")
+            print("Chip Long explain '{}' is too big: {}".format(t, FS[e]))

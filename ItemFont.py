@@ -67,5 +67,5 @@ if len(sys.argv) == 3:
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
 else:
     for e in FSs:
-        if FS[e] > 29: # JP MAX: 23.61
+        if FS[e] > 29:  # JP MAX: 23.61
             print("Item Name '{}' is too long: {}".format(e, FS[e]))
