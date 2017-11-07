@@ -68,4 +68,4 @@ if len(sys.argv) == 3:
 else:
     for e in FSs:
         if FS[e] > 29:
-            print("Item Name '{}' is too big: {}".format(e, FS[e]))
+            print("Item Name '{}' is too long: {}".format(e, FS[e]))
