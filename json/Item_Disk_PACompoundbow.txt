@@ -4,35 +4,35 @@
 		"jp_text": "マスターシュート",
 		"tr_text": "Master Shot",
 		"jp_explain": "『強弓』用のフォトンアーツ。\n複数の矢を同時に発射する。\nチャージすることで追尾性能が付与。",
-		"tr_explain": "Bullet Bow photon art.\nFire several arrows at once. Charge\nto add homing properties to the\narrows."
+		"tr_explain": "Bullet Bow photon art.\nFire several arrows at once. Charge\nto add homing properties."
 	},
 	{
 		"assign": "91151",
 		"jp_text": "ペネトレイトアロウ",
 		"tr_text": "Penetrating Arrow",
 		"jp_explain": "『強弓』用のフォトンアーツ。\n貫通性能のある矢を発射する。\nチャージすることで威力上昇。",
-		"tr_explain": "Bullet Bow photon art.\nFire an arrow with penetrating\nproperties. Charge to increase\npower."
+		"tr_explain": "Bullet Bow photon art.\nFire an arrow with penetrating\nproperties. Charge to boost\npower."
 	},
 	{
 		"assign": "91152",
 		"jp_text": "トレンシャルアロウ",
 		"tr_text": "Torrential Arrow",
 		"jp_explain": "『強弓』用のフォトンアーツ。\n対象地点に矢の雨を降らせる。\nチャージすることで矢の数が増加。",
-		"tr_explain": "Bullet Bow photon art.\nTarget an area for a rain of arrows.\nCharge to increase the number of\narrows."
+		"tr_explain": "Bullet Bow photon art.\nTarget an area for a rain of arrows.\nCharge for more arrows."
 	},
 	{
 		"assign": "91153",
 		"jp_text": "グラヴィティポイント",
 		"tr_text": "Gravity Point",
 		"jp_explain": "『強弓』用のフォトンアーツ。\n特殊な矢により力場を発生させる。\nチャージすることで引力を強化。",
-		"tr_explain": "Bullet Bow photon art.\nUse a special arrow to create a\ngravitational field. Charge to make\nthe gravity stronger."
+		"tr_explain": "Bullet Bow photon art.\nUse an arrow to create a gravity\nfield. Charge to boost the gravity."
 	},
 	{
 		"assign": "91154",
 		"jp_text": "カミカゼアロウ",
 		"tr_text": "Kamikaze Arrow",
 		"jp_explain": "『強弓』用のフォトンアーツ。\n自らを矢として射る、捨て身の攻撃。\nチャージすることで威力上昇。",
-		"tr_explain": "Bullet Bow photon art.\nUse yourself as the arrow in a truly\ndesperate attack. Charge to\nincrease damage."
+		"tr_explain": "Bullet Bow photon art.\nUse yourself as an arrow. Charge to\nincrease damage."
 	},
 	{
 		"assign": "91155",
@@ -46,34 +46,34 @@
 		"jp_text": "ラストネメシス",
 		"tr_text": "Final Nemesis",
 		"jp_explain": "『強弓』用のフォトンアーツ。\n精神を集中し、全てを貫く力を\n矢に託して放つ、究極の一射。",
-		"tr_explain": "Bullet Bow photon art.\nFocus your mind and fire the ultimate\nshot, an arrow that pierces anything."
+		"tr_explain": "Bullet Bow photon art.\nFocus your mind and fire an arrow\nthat pierces anything."
 	},
 	{
 		"assign": "91157",
 		"jp_text": "トリットシューター",
 		"tr_text": "Tritt Shooter",
 		"jp_explain": "『強弓』用のフォトンアーツ。\n連続蹴撃の後に矢を放つ多段攻撃。\nチャージすることで攻撃回数が増加。",
-		"tr_explain": "Bullet Bow photon art.\nDeliver a series of kicks, then fire an\narrow. Charge to increase the\nnumber of attacks."
+		"tr_explain": "Bullet Bow photon art.\nDeliver a series of kicks, then fire an\narrow. Charge for more attacks."
 	},
 	{
 		"assign": "91158",
 		"jp_text": "バニッシュアロウ",
 		"tr_text": "Banishing Arrow",
 		"jp_explain": "『強弓』用のフォトンアーツ。\n追加衝撃により炸裂する矢を放つ。\nチャージすることで攻撃範囲拡大。",
-		"tr_explain": "Bullet Bow photon art.\nFire an arrow which can be\ndetonated by further attacks.\nCharge to increase blast size."
+		"tr_explain": "Bullet Bow photon art.\nFire an arrow which further attacks\ndetonate. Charge for bigger blast."
 	},
 	{
 		"assign": "91159",
 		"jp_text": "ミリオンストーム",
 		"tr_text": "Million Storm",
 		"jp_explain": "『強弓』用のフォトンアーツ。\n敵を貫く無数の矢を同時に発射する。\nボタンホールド中、自動で連射。",
-		"tr_explain": "Bullet Bow photon art.\nFire countless arrows that pierce the\nenemy. Continues as long as the\nbutton is held."
+		"tr_explain": "Bullet Bow photon art.\nFire countless arrows that pierce the\nenemy as long as the button is held."
 	},
 	{
 		"assign": "911510",
 		"jp_text": "チェイスアロウ",
 		"tr_text": "Chase Arrow",
 		"jp_explain": "『強弓』用のフォトンアーツ。\n3本までキープされる追撃矢を放つ。\n矢は他のＰＡとチャージテクニックに反応。",
-		"tr_explain": "Bullet Bow photon art.\nStock up to 3 backup arrows. The\narrows react to other PAs and\ncharged Techniques."
+		"tr_explain": "Bullet Bow photon art.\nStock up to 3 backup arrows which\nreact to PAs and charged Techs."
 	}
 ]
