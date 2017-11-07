@@ -5,9 +5,9 @@ sudo: false
 group: beta
 
 script:
-  - ./checkjson.py && ./coverage.sh
-  - ./tidy-json.sh && git diff --exit-code
-  - ./dupcheck.py
+  - ./checkjson.py json && ./coverage.sh json
+  - ./tidy-json.sh json && git diff --exit-code
+  - ./dupcheck.py json
   - ./ItemFont.py json
   - ./ChipDescShort.py json
   - ./ChipDescLong.py json
