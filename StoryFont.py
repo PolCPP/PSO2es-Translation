@@ -37,10 +37,10 @@ for files in story_files:
         djson = json.load(json_file)
         for entry in djson:
             t = entry["tr_text"]
-            s = -1
-            for sl in t.replace("<%br>","\n").splitlines():
-                s = max(_fonts.itemlength(sl), s)
-            FS[t] = s
+            j = entry["jp_text"]
+            if j.replace("\r\n", "\n") == t:
+                t = ""
+            FS[t] = _fonts.textlength(t)
 
 FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
 FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
@@ -49,5 +49,5 @@ if len(sys.argv) == 3:
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
 else:
     for e in FSs:
-        if FS[e] > 45:
+        if FS[e] > 45: # JP MAX: 37.53
             print("Story Text '{}' is too long: {}".format(e, FS[e]))

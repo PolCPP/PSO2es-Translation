@@ -30,11 +30,11 @@ for files in chip_files:
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
         djson = json.load(json_file)
         for entry in djson:
-            if (entry["tr_explainShort"] != ""):
-                t = entry["tr_explainShort"]
-            else:
-                t = entry["jp_explainShort"]
-            FS[t] = _fonts.itemlength(t)
+            t = entry["tr_explainShort"]
+            j = entry["jp_explainShort"]
+            if j.replace("\r\n", "\n") == t:
+                t = ""
+            FS[t] = _fonts.textlength(t)
 
 FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
 FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
@@ -43,5 +43,5 @@ if len(sys.argv) == 3:
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
 else:
     for e in FSs:
-        if FS[e] > 61:
+        if FS[e] > 61: # JP MAX 36.78
             print("Chip Short explain '{}' is too big: {}".format(e, FS[e]))

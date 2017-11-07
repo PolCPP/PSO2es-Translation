@@ -54,11 +54,11 @@ for files in explain_files:
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
         djson = json.load(json_file)
         for entry in djson:
-            if (entry["tr_text"] != ""):
-                t = entry["tr_text"]
-            else:
-                t = entry["jp_text"]
-            FS[t] = _fonts.itemlength(t)
+            t = entry["tr_text"]
+            j = entry["jp_text"]
+            if j.replace("\r\n", "\n") == t:
+                t = ""
+            FS[t] = _fonts.textlength(t)
 
 FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
 FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
@@ -67,5 +67,5 @@ if len(sys.argv) == 3:
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
 else:
     for e in FSs:
-        if FS[e] > 29:
+        if FS[e] > 29: # JP MAX: 23.61
             print("Item Name '{}' is too long: {}".format(e, FS[e]))
