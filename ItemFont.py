@@ -56,8 +56,8 @@ for files in explain_files:
         for entry in djson:
             t = entry["tr_text"]
             j = entry["jp_text"]
-            if j.replace("\r\n", "\n") == t:
-                t = ""
+            if t == "" or j == t:
+                continue
             FS[t] = _fonts.textlength(t)
 
 FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))

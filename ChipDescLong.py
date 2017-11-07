@@ -32,8 +32,8 @@ for files in chip_files:
         for entry in djson:
             t = entry["tr_explainLong"]
             j = entry["jp_explainLong"]
-            if j.replace("\r\n", "\n") == t:
-                t = ""
+            if t == "" or j.replace("\r\n", "\n") == t:
+                continue
             FS[t] = _fonts.textlength(t)
 
 FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
