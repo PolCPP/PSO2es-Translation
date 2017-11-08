@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # coding=utf8
 import codecs
-import re
+import fnmatch
 import os
 # import pprint
 import json
@@ -10,8 +10,18 @@ import sys
 counterr = 0
 bufout = "000.0%\t0FILE"
 invalid_json_files = []
-os.chdir(os.getcwd() + "/json")
-json_files = [f for f in os.listdir('./') if re.match(r'.*\.txt', f)]
+
+if len(sys.argv) < 2:
+    sys.exit(os.EX_NOINPUT)
+
+dir = sys.argv[1]
+
+json_files = [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, '*.txt')
+]
+
 for files in json_files:
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
         try:
