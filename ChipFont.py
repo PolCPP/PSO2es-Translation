@@ -18,7 +18,7 @@ FS = dict()
 chip_files = [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'ChipExplain_*.txt')
+    for f in fnmatch.filter(files, 'Name_Chip_*.txt')
 ]
 
 if len(sys.argv) == 3 and sys.argv[2] != "0":
@@ -30,9 +30,9 @@ for files in chip_files:
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
         djson = json.load(json_file)
         for entry in djson:
-            t = entry["tr_explainShort"]
-            j = entry["jp_explainShort"]
-            if t == "" or j == t:
+            t = entry["tr_text"]
+            j = entry["jp_text"]
+            if j.replace("\r\n", "\n") == t:
                 continue
             FS[t] = _fonts.textlength(t)
 
@@ -43,5 +43,5 @@ if len(sys.argv) == 3:
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
 else:
     for e in FSs:
-        if FS[e] > 61:  # JP MAX: 37.42
-            print("Chip Short explain '{}' is too big: {}".format(e, FS[e]))
+        if FS[e] > 45:  # JP MAX: 34.09
+            print("Chip Name '{}' is too long: {}".format(e, FS[e]))

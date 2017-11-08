@@ -130,7 +130,7 @@
 		"jp_text": "パンプキンパイ",
 		"tr_text": "Pumpkin Pie",
 		"jp_explain": "ナウラ三姉妹お手製の季節限定商品。\nホクホク甘い特製パンプキンパイ。\n食べると体の底から元気が湧いてくる。",
-		"tr_explain": "Limited handmade goods from the Naura\nSisters. A deluxe sweet delicious pumpkin\npie. [30 min] DEF+30 HP+20"
+		"tr_explain": "Limited handmade goods from the Naura\nSisters. A deluxe sweet delcious pumpkin\npie. [30 min] DEF+30 HP+20"
 	},
 	{
 		"assign": "32024",
@@ -635,5 +635,12 @@
 		"tr_text": "Plain Macaron '17",
 		"jp_explain": "キャンペーンの開催に合わせ\n作成された特製マカロン。\n【５分間】トライブースト＋５０％",
 		"tr_explain": "A special macaron created for a\ncampaign. [5 min] Tri-Boost 50%"
+	},
+	{
+		"assign": "320123",
+		"jp_text": "電撃ドーナッツ",
+		"tr_text": "Dengeki Donut",
+		"jp_explain": "電撃PlayStationのドーナッツ。\n【５分間】トライブースト＋５０％",
+		"tr_explain": "Dengeki Playstation Donut.\n[5 min] Tri-Boost 50%"
 	}
 ]

@@ -20,7 +20,11 @@ def init(size=190):
     )
 
 
-def itemlength(name=""):
+def textlength(name=""):
     global fontr
-    w, h = fontr.getsize(name)
+    w = -1
+    h = -1
+    t = name.replace("<%br>", "\n").replace("<br>", "\n").rstrip()
+    for sl in t.splitlines():
+                w, h = max(fontr.getsize(sl), (w, h))
     return w/100

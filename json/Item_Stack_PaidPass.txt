@@ -2,16 +2,16 @@
 	{
 		"assign": "32101",
 		"jp_text": "エステ利用パス",
-		"tr_text": "Makeover Pass",
+		"tr_text": "Salon Ticket",
 		"jp_explain": "エステカウンターの機能利用パス。\nサポートパートナーにも使用可能。\n利用するたびにパスは消費される。 ",
-		"tr_explain": "Allows you to use AC restricted\noptions in the Makeover Shop. Ticket is\nused after saving changes."
+		"tr_explain": "Allows you to use AC restricted\noptions in the Beauty Salon. Ticket is\nused after saving changes."
 	},
 	{
 		"assign": "32103",
 		"jp_text": "カラーチェンジパス",
 		"tr_text": "Color Change Pass",
 		"jp_explain": "コスチュームのカラー変更パス\nエステにてカラーリングの変更が可能。\n利用するたびにパスは消費される。",
-		"tr_explain": "Allows you to recolor your\ncharacter from the Makeover Shop."
+		"tr_explain": "Allows you to recolor your\ncharacter from the Beauty Salon."
 	},
 	{
 		"assign": "32104",
@@ -492,9 +492,9 @@
 	{
 		"assign": "321096",
 		"jp_text": "エステ無料パス",
-		"tr_text": "Free Makeover Pass",
+		"tr_text": "Free Salon Ticket",
 		"jp_explain": "エステカウンターの機能利用パス。\nサポートパートナーにも使用可能。\n利用するたびにパスは消費される。",
-		"tr_explain": "Allows you to use AC restricted\noptions in the Makeover Shop. Ticket is\nused after saving changes."
+		"tr_explain": "Allows you to use AC restricted\noptions in the Beauty Salon. Ticket is\nused after saving changes."
 	},
 	{
 		"assign": "321097",
@@ -749,6 +749,13 @@
 		"tr_explain": "A tool for Harvesting.\nRare Collect Rate +5%"
 	},
 	{
+		"assign": "3210156",
+		"jp_text": "電撃ピッケル",
+		"tr_text": "Dengeki Pickaxe",
+		"jp_explain": "ギャザリングで\nボーナス付き採取を行える。\nレア採取発生率＋８０％\n<yellow>有効期限／２０１７年１２月６日１１時００分<c>",
+		"tr_explain": "A tool for Harvesting.\nRare Collect Rate +80%\n<yellow>Expires Dec 6, 11:00 JST<c>"
+	},
+	{
 		"assign": "3210157",
 		"jp_text": "ファミ通ピッケル",
 		"tr_text": "Famitsu Pickaxe",
@@ -768,6 +775,13 @@
 		"tr_text": "Good Fishing Rod",
 		"jp_explain": "ギャザリングで釣りを行える。\nレア釣り発生率＋５％",
 		"tr_explain": "A tool for Fishing.\nRare Fishing Rate +5%"
+	},
+	{
+		"assign": "3210160",
+		"jp_text": "電撃釣り竿",
+		"tr_text": "Dengeki Fishing Rod",
+		"jp_explain": "ギャザリングで\nボーナス付き釣りを行える。\nレア釣り発生率＋８０％\n<yellow>有効期限／２０１７年１２月６日１１時００分<c>",
+		"tr_explain": "A tool for Fishing.\nRare Fishing Rate +80%\n<yellow>Expires Dec 6, 11:00 JST<c>"
 	},
 	{
 		"assign": "3210161",
@@ -1367,14 +1381,14 @@
 	{
 		"assign": "3210270",
 		"jp_text": "カスタムタイプ１＋６０％",
-		"tr_text": "Custom Type 1+60%",
+		"tr_text": "Custom Type 1 +60%",
 		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ１の効果値を\n６０％向上させる。",
 		"tr_explain": "Used during customization crafts.\nCustom Type 1 effect boosted by\n60%."
 	},
 	{
 		"assign": "3210271",
 		"jp_text": "カスタムタイプ２＋６０％",
-		"tr_text": "Custom Type 2+60%",
+		"tr_text": "Custom Type 2 +60%",
 		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ２の効果値を\n６０％向上させる。",
 		"tr_explain": "Used during customization crafts.\nCustom Type 2 effect boosted\nby 60%."
 	},
@@ -1388,21 +1402,21 @@
 	{
 		"assign": "3210273",
 		"jp_text": "デメリット値－６０％",
-		"tr_text": "Demerit value -60%",
+		"tr_text": "Demerit value ‒60%",
 		"jp_explain": "テクニックカスタマイズ実行時に\nデメリットの上限値を\n６０％軽減させる。",
 		"tr_explain": "Decreases the demerit value by\n‒60% when customizing techniques."
 	},
 	{
 		"assign": "3210274",
 		"jp_text": "カスタムタイプ１＋７０％",
-		"tr_text": "Custom Type 1+70%",
+		"tr_text": "Custom Type 1 +70%",
 		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ１の効果値を\n７０％向上させる。",
 		"tr_explain": "Used during customization crafts.\nCustom Type 1 effect boosted\nby 70%."
 	},
 	{
 		"assign": "3210275",
 		"jp_text": "カスタムタイプ２＋７０％",
-		"tr_text": "Custom Type 2+70%",
+		"tr_text": "Custom Type 2 +70%",
 		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ２の効果値を\n７０％向上させる。",
 		"tr_explain": "Used during customization crafts.\nCustom Type 2 effect boosted\nby 70%."
 	},

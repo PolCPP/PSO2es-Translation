@@ -11,7 +11,10 @@ countdup = 0
 bufout = "FILE: ID\n"
 ENMap = dict()
 
-dir = os.getcwd() + "/json"
+if len(sys.argv) < 2:
+    sys.exit(os.EX_NOINPUT)
+
+dir = sys.argv[1]
 
 json_files = [
     os.path.join(dirpath, f)
