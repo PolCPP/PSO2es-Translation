@@ -828,7 +828,7 @@
 	{
 		"assign": "1120202",
 		"jp_text": "レーテクリーグ",
-		"tr_text": "",
+		"tr_text": "Raid Krieg",
 		"jp_explain": "正当な手順を経た儀式により\n生み出された白き導具。装者を守り\nサポートする絶大な法撃力を宿す。",
 		"tr_explain": ""
 	},
@@ -877,7 +877,7 @@
 	{
 		"assign": "1120217",
 		"jp_text": "バジリスアグス",
-		"tr_text": "",
+		"tr_text": "Basilis Agus",
 		"jp_explain": "鋭利な突起と蛇腹状の表面が特徴的な\n導具。テクニック行使の効率化のため\n専用機関が付いており、重量がある。",
 		"tr_explain": ""
 	},
@@ -1136,7 +1136,7 @@
 	{
 		"assign": "1120293",
 		"jp_text": "[NPC]ストラトス：タリス",
-		"tr_text": "[NPC]Stratos' Talis",
+		"tr_text": "[NPC] Stratos Talis",
 		"jp_explain": "[NPC]ストラトス：タリス",
 		"tr_explain": ""
 	},
@@ -1167,5 +1167,12 @@
 		"tr_text": "",
 		"jp_explain": "古の時代に封印された聖なる導具。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
 		"tr_explain": ""
+	},
+	{
+		"assign": "1120327",
+		"jp_text": "ネメシスシンボル-NT",
+		"tr_text": "Nemesis Symbol-NT",
+		"jp_explain": "古の時代に封印された聖なる導具。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
+		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npowers in tandem to the user's will."
 	}
 ]
