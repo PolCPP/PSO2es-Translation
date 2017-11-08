@@ -208,5 +208,26 @@
 		"tr_text": "Conversion Roll+2",
 		"jp_explain": "ペット用のキャンディー。\nペットの各防御力の一部を\n対応する攻撃力に変換する。",
 		"tr_explain": "A Candy for your pet.\nAdds a fraction of Pet's each DEF\ntype to its corresponding ATK."
+	},
+	{
+		"assign": "339042",
+		"jp_text": "バリアロール",
+		"tr_text": "Barrier Roll",
+		"jp_explain": "ペット用のキャンディー。\nクラススキル「ペットフォトンバリア」\n発動の確率が上昇する。",
+		"tr_explain": "A Candy for your pet.\nClass Skill \"Pet Photon Barrier\"\nactivation chance increases."
+	},
+	{
+		"assign": "339043",
+		"jp_text": "バリアロール＋１",
+		"tr_text": "Barrier Roll+1",
+		"jp_explain": "ペット用のキャンディー。\nクラススキル「ペットフォトンバリア」\n発動の確率が上昇する。",
+		"tr_explain": "A Candy for your pet.\nClass Skill \"Pet Photon Barrier\"\nactivation chance increases."
+	},
+	{
+		"assign": "339044",
+		"jp_text": "バリアロール＋２",
+		"tr_text": "Barrier Roll+2",
+		"jp_explain": "ペット用のキャンディー。\nクラススキル「ペットフォトンバリア」\n発動の確率が上昇する。",
+		"tr_explain": "A Candy for your pet.\nClass Skill \"Pet Photon Barrier\"\nactivation chance increases."
 	}
 ]

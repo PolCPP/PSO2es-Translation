@@ -506,7 +506,7 @@
 	{
 		"assign": "12099",
 		"jp_text": "リリカ用イデアルシザーズ",
-		"tr_text": "Lilika Ideal Lance",
+		"tr_text": "リリカ用イデアルシザーズ",
 		"jp_explain": "リリカ用イデアルシザーズ",
 		"tr_explain": ""
 	},
@@ -522,7 +522,7 @@
 		"jp_text": "シェルオプス",
 		"tr_text": "Shell Opus",
 		"jp_explain": "惑星ウォパルで調達可能な物資のみで\n製造された自在槍。天然の硬質素材の\n特性と優位性を最大限に引き出した。",
-		"tr_explain": "Wired lances manufactured using only\nmaterials procured from planet Wopal.\nThey take full advantage of the\nmaterial's toughness and quality."
+		"tr_explain": "Wired lances manufactured using only\nmaterials procured from planet Vopal.\nThey take full advantage of the\nmaterial's toughness and quality."
 	},
 	{
 		"assign": "120104",
@@ -760,6 +760,13 @@
 		"jp_text": "ラッピーフウセン",
 		"tr_text": "Rappy Balloons",
 		"jp_explain": "ラッピー好きのアークスにより作られた\n自在槍。ラッピーへの並々ならぬ愛情が\n伝わってくる力作。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "120184",
+		"jp_text": "バジリスリディスト",
+		"tr_text": "Basilis Ridist",
+		"jp_explain": "鋭利な突起と蛇腹状の表面が特徴的な\n自在槍。鍛えぬかれた鋭刃は、素早く\n敵へとその刃を到達させるという。",
 		"tr_explain": ""
 	},
 	{
@@ -1062,5 +1069,12 @@
 		"tr_text": "Assassin Claw-NT",
 		"jp_explain": "ある暗殺者が愛用していた自在槍。\n無拍子で繰り出される攻撃は\n瞬時に相手の命を絶つ。",
 		"tr_explain": ""
+	},
+	{
+		"assign": "120284",
+		"jp_text": "ネメシスチェイン-NT",
+		"tr_text": "Nemesis Chain-NT",
+		"jp_explain": "古の時代に封印された聖なる自在槍。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
+		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npowers in tandem to the user's will."
 	}
 ]
