@@ -42,6 +42,6 @@ FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
 if len(sys.argv) == 3:
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
 else:
-    for e in FSs:
-        if FS[e] > 45:  # JP MAX: 34.09
+    for e in FSs:  # JP MAX: 34.09
+        if FS[e] > 34.5:  # MAX with st.#: 34.5
             print("Chip Name '{}' is too long: {}".format(e, FS[e]))

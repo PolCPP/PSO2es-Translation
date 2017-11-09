@@ -207,6 +207,7 @@ for e in others:
             [
                 ('jp_text', e),
                 ('tr_text', TR_name[e]),
+                ('jp_explain', ""),
                 ('tr_explain', TR_explain[e].replace("<br>", "\n"))
             ]
         )
