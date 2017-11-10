@@ -8,8 +8,7 @@ import sys
 import unicodedata
 from collections import OrderedDict
 
-slow = {"ō": "ou", "ボ": "ボ", "プ": "プ"}
-quick = {"*": "＊", "『": "\"", "』": "\"", "ō": "ou", "–": "-", "‒": "-", "​":"", "—": "-", "ー": "-"}
+quick = {"*": "＊", "『": "\"", "』": "\"", "ō": "ou", "–": "-", "‒": "-", "​":"", "—": "-", "ー": "-", "ū": "uo"}
 
 # error counter
 countdup = 0
@@ -58,9 +57,7 @@ for files in json_files:
                         continue
                     if s in bl[f]:
                         continue
-                    t = unicodedata.normalize('NFKD', s)
-                    for n, o in slow:
-                        t = t.replace(o, n)
+                    t = unicodedata.normalize('NFKC', s)
                     trans = t.maketrans(quick)
                     g = t.translate(trans)
                     if g != s:
