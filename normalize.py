@@ -42,10 +42,6 @@ for files in json_files:
     f = os.path.splitext(os.path.basename(files))[0]
     bl[f] = list()
 
-#  Item_Stack_DeviceHT, Kyubey is EVIL
-bl["Item_Stack_DeviceHT"] += ["Requires a Lv.100+ mag to use.\nEvolves your mag into a\nKyubey.\nContract? ／人●ω●人＼"]
-
-
 for files in json_files:
     update = False
     f = os.path.splitext(os.path.basename(files))[0]
