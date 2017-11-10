@@ -42,7 +42,7 @@ FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
 if len(sys.argv) == 3:
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
 else:
-    for e in FSs:
-        if FS[e] > 47:  # JP MAX: 46.86
+    for e in FSs:  # JP MAX: 46.86
+        if FS[e] > 46.86:  # MAX: 42.5
             t = e.replace("\n", "<br>")
             print("Chip Long explain '{}' is too big: {}".format(t, FS[e]))

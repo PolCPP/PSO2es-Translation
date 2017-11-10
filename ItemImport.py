@@ -43,8 +43,8 @@ for line in CSV:
                 "<br>", "\n").rstrip().replace("\n", "<br>")
     else:
         TR_explain[k] = d.replace("<br>", "\n").rstrip().replace("\n", "<br>")
-    if TR_explain[k].count("<br>") >= 3:
-        # print("item Desc {} is too long".format(k))
+    if TR_explain[k].count("<br>") >= 4:
+        print("item Desc {} is too long".format(k))
         TR_explain[k] = ""
     TR_src[k] = "CSV"
 
@@ -207,6 +207,7 @@ for e in others:
             [
                 ('jp_text', e),
                 ('tr_text', TR_name[e]),
+                ('jp_explain', ""),
                 ('tr_explain', TR_explain[e].replace("<br>", "\n"))
             ]
         )
