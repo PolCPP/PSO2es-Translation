@@ -8,7 +8,7 @@ import sys
 import unicodedata
 from collections import OrderedDict
 
-strmap = {"*": "＊", "『": "\"", "』": "\""}
+quick = {"*": "＊", "『": "\"", "』": "\"", "ō": "ou", "–": "-", "‒": "-", "​":"", "ū": "uu"}
 
 # error counter
 countdup = 0
@@ -57,8 +57,8 @@ for files in json_files:
                         continue
                     if s in bl[f]:
                         continue
-                    t = unicodedata.normalize('NFKD', s)
-                    trans = t.maketrans(strmap)
+                    t = unicodedata.normalize('NFKC', s)
+                    trans = t.maketrans(quick)
                     g = t.translate(trans)
                     if g != s:
                         update = True
