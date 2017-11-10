@@ -8,7 +8,7 @@ import sys
 import unicodedata
 from collections import OrderedDict
 
-quick = {"*": "＊", "『": "\"", "』": "\"", "ō": "ou", "–": "-", "‒": "-", "​":"", "—": "-", "ー": "-", "ū": "uo"}
+quick = {"*": "＊", "『": "\"", "』": "\"", "ō": "ou", "–": "-", "‒": "-", "​":"", "ū": "uo"}
 
 # error counter
 countdup = 0
