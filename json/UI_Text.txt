@@ -152,7 +152,7 @@
 	{
 		"assign": "acshop_dialog_b_00",
 		"jp_text": "ラッピーメダルか<%AC>を消費して\nチップパックを拡張しますか？\n\nパックサイズ（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※チップパックは<%max_pack_size>まで拡張できます。\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "This will extend\nyour Chip Storage.\n\nChip Storage(<%current_pack_size>)→<color=red>(<%after_pack_size>)</color>\n※Can extend to a Maximum of <%max_pack_size>.\n\nRappy Coins needed:<%consume_rappy_coin>枚\nRappy Coins owned:<%current_rappy_coin>枚\n\nAC needed:<%consume_AC>\nAC owned:<%current_AC>"
+		"tr_text": "This will extend\nyour Chip Storage.\n\nChip Storage（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※Can extend to a Maximum of <%max_pack_size>.\n\nRappy Coins needed：<%consume_rappy_coin>枚\nRappy Coins owned：<%current_rappy_coin>枚\n\nAC needed：<%consume_AC>\nAC owned：<%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_01",
@@ -192,7 +192,7 @@
 	{
 		"assign": "acshop_dialog_b_04",
 		"jp_text": "ラッピーメダルか<%AC>を消費して\n行動力を回復しますか？\n\n行動力（<%current_drive>）→<color=red>（<%after_drive>）</color>\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "This will restore\nyour Drive points.\n\nDrive(<%current_drive>)→<color=red>(<%after_drive>)</color>\n\nRappy Coins needed:<%consume_rappy_coin>枚\nRappy Coins owned:<%current_rappy_coin>枚\n\nAC needed:<%consume_AC>\nAC owned:<%current_AC>"
+		"tr_text": "This will restore\nyour Drive points.\n\nDrive（<%current_drive>）→<color=red>（<%after_drive>）</color>\n\nRappy Coins needed：<%consume_rappy_coin>枚\nRappy Coins owned：<%current_rappy_coin>枚\n\nAC needed：<%consume_AC>\nAC owned：<%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_05",
@@ -232,7 +232,7 @@
 	{
 		"assign": "acshop_dialog_b_08",
 		"jp_text": "所持<%AC>が不足しています。\n<%AC>をチャージしますか？\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "Not enough <%AC>.\nDo you want to buy more AC?\n\n<%AC> needed:<%consume_AC>\n<%AC> owned:<%current_AC>"
+		"tr_text": "Not enough <%AC>.\nDo you want to buy more AC？\n\n<%AC> needed：<%consume_AC>\n<%AC> owned：<%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_09",
@@ -242,7 +242,7 @@
 	{
 		"assign": "acshop_dialog_b_09",
 		"jp_text": "「プレミアムセット<%days>日」を使用します。\nよろしいですか？\n\n所持数：<%item_name>×<%current_num>\nプレミアム有効期限：<%expiration_date>\n\n※プレミアム有効期限は最大<%max_days>日まで追加できます。",
-		"tr_text": "Premium Set <%days> Days\nConfirm purchase?\n\nCurrently own:<%item_name>×<%current_num>\nExpires:<%expiration_date>\n\n※Premium Set can be purchased up to <%max_days> Days."
+		"tr_text": "Premium Set <%days> Days\nConfirm purchase？\n\nCurrently own：<%item_name>×<%current_num>\nExpires：<%expiration_date>\n\n※Premium Set can be purchased up to <%max_days> Days."
 	},
 	{
 		"assign": "acshop_dialog_t_10",
@@ -252,7 +252,7 @@
 	{
 		"assign": "acshop_dialog_b_10",
 		"jp_text": "これ以上、有効期限を追加することはできません。\n\nプレミアム有効期限：<%expiration_date>\n※プレミアム有効期限は最大<%max_days>日まで追加できます。",
-		"tr_text": "Cannot purchase. Maximum Exceeded.\n\nExpiration:<%expiration_date>\n※Premium Set can be purchased up to <%max_days> Days."
+		"tr_text": "Cannot purchase. Maximum Exceeded.\n\nExpiration：<%expiration_date>\n※Premium Set can be purchased up to <%max_days> Days."
 	},
 	{
 		"assign": "acshop_dialog_t_11",
@@ -262,7 +262,7 @@
 	{
 		"assign": "acshop_dialog_b_11",
 		"jp_text": "プレミアムの利用期限を<%days>日延長しました。\n\nプレミアム有効期限：<%expiration_date>\n※プレミアム有効期限は最大<%max_days>日まで追加できます。",
-		"tr_text": "This will extend Premium by <%days> Days.\n\nExpiration:<%expiration_date>\n※Premium Set can be purchased up to <%max_days> Days."
+		"tr_text": "This will extend Premium by <%days> Days.\n\nExpiration：<%expiration_date>\n※Premium Set can be purchased up to <%max_days> Days."
 	},
 	{
 		"assign": "acshop_dialog_t_12",
@@ -272,7 +272,7 @@
 	{
 		"assign": "acshop_dialog_b_12",
 		"jp_text": "<%item_name>を1枚購入します。\nよろしいですか？\n\n所持数：<%item_name>×<%current_num>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "Purchasing <%item_name>\nConfirm?\n\nCurrently hold:<%item_name>×<%current_num>\n\nAC needed:<%consume_AC>\nAC owned:<%current_AC>"
+		"tr_text": "Purchasing <%item_name>\nConfirm？\n\nCurrently hold：<%item_name>×<%current_num>\n\nAC needed：<%consume_AC>\nAC owned：<%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_13",
@@ -302,7 +302,7 @@
 	{
 		"assign": "acshop_dialog_b_15",
 		"jp_text": "購入前に年齢確認を実施いたします。\n\n【年齢確認】\nあなたは20歳以上ですか？",
-		"tr_text": "Age verification required before purchase.\n\n【Age Verification】\nAre you 20 or older?"
+		"tr_text": "Age verification required before purchase.\n\n【Age Verification】\nAre you 20 or older？"
 	},
 	{
 		"assign": "acshop_dialog_t_16",
@@ -312,7 +312,7 @@
 	{
 		"assign": "acshop_dialog_b_16",
 		"jp_text": "20歳未満の方は、必ず保護者の許可を得てから\n購入手続きを行ってください。\n\n【許可の確認】\n保護者の許可は得ていますか？",
-		"tr_text": "If you are under 20 years of age, please\nacquire permission before purchase.\n\n【Proof of Permission】\nDo you have permission to purchase?"
+		"tr_text": "If you are under 20 years of age, please\nacquire permission before purchase.\n\n【Proof of Permission】\nDo you have permission to purchase？"
 	},
 	{
 		"assign": "acshop_dialog_t_17",
@@ -372,7 +372,7 @@
 	{
 		"assign": "acshop_dialog_b_22",
 		"jp_text": "購入するには年齢認証が必要となります。\n年齢別の1ヶ月当たりの限度額は以下の通りです。\n\n・13歳未満　5,000円\n・20歳未満　20,000円\n\n<color=#ff0000>※この登録は一度のみで次回以降は不要です。\n※登録情報は年齢認証以外には使用しません。</color>",
-		"tr_text": "Age must be verified before purchase.\nThe limits of transactions per month are:\n\n・13 Years 5,000円\n・20 Years 20,000円\n\n<color=#ff0000>※This is a one-time verification.\n※Age info is not used for anything else.</color>"
+		"tr_text": "Age must be verified before purchase.\nThe limits of transactions per month are:\n\n・13 Years　5,000円\n・20 Years　20,000円\n\n<color=#ff0000>※This is a one-time verification.\n※Age info is not used for anything else.</color>"
 	},
 	{
 		"assign": "acshop_dialog_t_23",
@@ -392,7 +392,7 @@
 	{
 		"assign": "acshop_dialog_b_24",
 		"jp_text": "以下の内容で登録を行います。\nよろしいでしょうか？\n\n生年月：{0}年/{1}月",
-		"tr_text": "You are about to confirm.\nIs this information accurate?\n\nBirthdate:{0}/{1}"
+		"tr_text": "You are about to confirm.\nIs this information accurate?\n\nBirthdate：{0}/{1}"
 	},
 	{
 		"assign": "acshop_dialog_t_25",
@@ -412,7 +412,7 @@
 	{
 		"assign": "acshop_dialog_b_26",
 		"jp_text": "1ヶ月に購入可能な上限額に達してしまうため\n追加購入をすることができません。\n・選択メニュー：{0:N0}円\n・今月の購入額：{1:N0}円\n・今月の上限額：{2:N0}円\n\n※上限額は毎月1日にリセットされます。",
-		"tr_text": "The Maximum charge for 1 month has\nbeen reached. Cannot continue.\n・Selected:{0:N0}円\n・Bought this Month:{1:N0}円\n・Maximum Amount:{2:N0}円\n\n※Limit is reset on the 1st day of a month."
+		"tr_text": "The Maximum charge for 1 month has\nbeen reached. Cannot continue.\n・Selected：{0:N0}円\n・Bought this Month：{1:N0}円\n・Maximum Amount：{2:N0}円\n\n※Limit is reset on the 1st day of a month."
 	},
 	{
 		"assign": "acshop_dialog_t_27",
@@ -492,7 +492,7 @@
 	{
 		"assign": "acshop_dialog_b_34",
 		"jp_text": "<%item_name>を消費してOPを回復しますか？\n(<%item_name>を所持していない場合は、\n<%AC>を消費してOPを回復できます)\n\n必要<%item_name>：<%consume_oprecovery_pass>個\n所持<%item_name>：<%current_oprecovery_pass>",
-		"tr_text": "Are you sure you want to recover OP using <%item_name>?\nIf you're not in possesion of <%item_name>, you may buy\n using AC to recovery OP\n\nNeeded <%item_name>: x<%consume_oprecovery_pass>\nOwned <%item_name>:<%current_oprecovery_pass>"
+		"tr_text": "Are you sure you want to recover OP using <%item_name>?\nIf you're not in possesion of <%item_name>, you may buy\n using AC to recovery OP\n\nNeeded <%item_name>: x<%consume_oprecovery_pass>\nOwned <%item_name>：<%current_oprecovery_pass>"
 	},
 	{
 		"assign": "acshop_dialog_t_35",
@@ -562,12 +562,12 @@
 	{
 		"assign": "acshop_oprecovery_use_btn",
 		"jp_text": "OP回復薬使用",
-		"tr_text": "OP Recovery"
+		"tr_text": "ＯＰ Ｒｅｃｏｖｅｒｙ"
 	},
 	{
 		"assign": "acshop_oprecovery_mini_use_btn",
 		"jp_text": "OP回復薬ミニ使用",
-		"tr_text": "OP Mini Recovery"
+		"tr_text": "ＯＰ Ｍｉｎｉ Ｒｅｃｏｖｅｒｙ"
 	},
 	{
 		"assign": "acshop_oprecovery_back_btn",
@@ -602,12 +602,12 @@
 	{
 		"assign": "acshop_item_oprecovery_pass",
 		"jp_text": "OP回復薬",
-		"tr_text": "OP Recovery Meds"
+		"tr_text": "ＯＰ Ｒｅｃｏｖｅｒｙ Ｍｅｄｓ"
 	},
 	{
 		"assign": "acshop_item_oprecovery_pass_mini",
 		"jp_text": "OP回復薬ミニ",
-		"tr_text": "OP Mini Recovery Meds"
+		"tr_text": "ＯＰ Ｍｉｎｉ Ｒｅｃｏｖｅｒｙ Ｍｅｄｓ"
 	},
 	{
 		"assign": "acshop_item_unit",
@@ -912,7 +912,7 @@
 	{
 		"assign": "arcscard_default_01",
 		"jp_text": "援護します！",
-		"tr_text": "援護します! (I'll cover you!)"
+		"tr_text": "援護します！ (I'll cover you!)"
 	},
 	{
 		"assign": "charamake_guide_00",
@@ -1997,7 +1997,7 @@
 	{
 		"assign": "labo_dialog_b_01",
 		"jp_text": "選択した素材チップに\n★７以上のものが含まれています。\n強化の素材にしたチップは失われますが\nよろしいですか？",
-		"tr_text": "One or more of the materials\nhas a rarity of ★7+ stars。\nThese will be lost upon use.\nAre you sure?"
+		"tr_text": "One or more of the materials\nhas a rarity of ★７+ stars。\nThese will be lost upon use.\nAre you sure?"
 	},
 	{
 		"assign": "labo_dialog_t_02",
@@ -2052,7 +2052,7 @@
 	{
 		"assign": "labo_dialog_b_05",
 		"jp_text": "使用する素材チップに\n★７以上のものが含まれています。\n解放の素材にしたチップは失われますが、\nよろしいですか？",
-		"tr_text": "One or more of the materials\nhas a rarity of ★7+ stars。\nThese will be lost upon use.\nAre you sure?"
+		"tr_text": "One or more of the materials\nhas a rarity of ★７+ stars。\nThese will be lost upon use.\nAre you sure?"
 	},
 	{
 		"assign": "labo_dialog_t_06",
@@ -2567,7 +2567,7 @@
 	{
 		"assign": "menu_dialog_es_id",
 		"jp_text": "PSO2es専用プレイヤーID  <color=#688ca7>/</coloｒ>",
-		"tr_text": "PSO2es PlayerID  <color=#688ca7>/</color>"
+		"tr_text": "PSO2es PlayerID  <color=#688ca7>/</coloｒ>"
 	},
 	{
 		"assign": "menu_dialog_secret_password",
@@ -2912,12 +2912,12 @@
 	{
 		"assign": "mag_dialog_b_08",
 		"jp_text": "進化デバイス／＜xxx＞\nを使用しました。",
-		"tr_text": "Evo Device/<xxx>\nhas been used."
+		"tr_text": "Evo Device／＜xxx＞\nhas been used."
 	},
 	{
 		"assign": "mag_dialog_b_09",
 		"jp_text": "進化デバイス／＜xxx＞\nを使用しました。",
-		"tr_text": "Evo Device/<xxx>\nhas been used."
+		"tr_text": "Evo Device／＜xxx＞\nhas been used."
 	},
 	{
 		"assign": "mag_dialog_b_10",
@@ -3347,7 +3347,7 @@
 	{
 		"assign": "myshop_dialog_b_00",
 		"jp_text": "購入しようとしているアイテムの一部に\n★10以上のアイテムが含まれています。\n\n購入するには以下のアイテムが必要となります。\n消費して購入します。\n\nよろしいですか？\n\n<%NEEDITEM>　<%NEED>（所持：<%HAVE>）",
-		"tr_text": "The Item you're trying to buy is a ★10 or higher.\nUnits&Weapons will need an exchange pass.\n\n<%NEEDITEM> <color=red><%NEED>(Owned: <%HAVE>)</color>"
+		"tr_text": "The Item you're trying to buy is a ★10 or higher.\nUnits&Weapons will need an exchange pass.\n\n<%NEEDITEM>　<color=red><%NEED>（Owned： <%HAVE>）</color>"
 	},
 	{
 		"assign": "myshop_dialog_t_01",
@@ -3357,7 +3357,7 @@
 	{
 		"assign": "myshop_dialog_b_01",
 		"jp_text": "購入しようとしているアイテムの一部に\n★10以上のアイテムが含まれていますが、\n以下のアイテムが不足しているため\n購入することができません。\n\n<%NEEDITEM>　<color=red><%NEED>（所持：<%HAVE>）</color>",
-		"tr_text": "The Item you're trying to buy is a ★10 or higher.\nUnits&Weapons will need an exchange pass.\n\n<%NEEDITEM> <color=red><%NEED>(Owned: <%HAVE>)</color>"
+		"tr_text": "The Item you're trying to buy is a ★10 or higher.\nUnits&Weapons will need an exchange pass.\n\n<%NEEDITEM>　<color=red><%NEED>（Owned： <%HAVE>）</color>"
 	},
 	{
 		"assign": "myshop_dialog_t_02",
@@ -3427,7 +3427,7 @@
 	{
 		"assign": "myshop_dialog_b_08",
 		"jp_text": "購入には「ＰＳＯ２ｅｓマイショップ利用券」またはラッピーメダルが必要です。\n利用券がない場合、<%AC>で利用券を購入できます。\n\n必要ＰＳＯ２ｅｓマイショップ利用券：<%NEEDTICKET>\n所持ＰＳＯ２ｅｓマイショップ利用券：<%HAVETICKET>\n\n必要ラッピーメダル：<%NEEDMEDAL>\n所持ラッピーメダル：<%HAVEMEDAL>",
-		"tr_text": "「PSO2es MyShop Voucher」 or Rappy Coins required to buy.\nIf you don't have a voucher, you can buy one with <%AC>.\n\nNeeded Vouchers: <%NEEDTICKET>\nOwned: <%HAVETICKET>\n\nRappy Coins Needed: <%NEEDMEDAL>\nOwned: <%HAVEMEDAL>"
+		"tr_text": "「PSO2es MyShop Voucher」 or Rappy Coins required to buy.\nIf you don't have a voucher, you can buy one with <%AC>.\n\nNeeded Vouchers： <%NEEDTICKET>\nOwned: <%HAVETICKET>\n\nRappy Coins Needed: <%NEEDMEDAL>\nOwned: <%HAVEMEDAL>"
 	},
 	{
 		"assign": "myshop_dialog_b_08_1",
@@ -4682,7 +4682,7 @@
 	{
 		"assign": "myshop_category_result2",
 		"jp_text": "属性選択（詳細検索）",
-		"tr_text": "Attr. Search Result (Adv. Search)"
+		"tr_text": "Ａｔｔｒ. Search Result (Adv. Search)"
 	},
 	{
 		"assign": "myshop_category_result3",
@@ -4732,7 +4732,7 @@
 	{
 		"assign": "myshop_button_attribute",
 		"jp_text": "変更",
-		"tr_text": "Attr."
+		"tr_text": "Ａｔｔｒ."
 	},
 	{
 		"assign": "myshop_button_potential",
@@ -4747,7 +4747,7 @@
 	{
 		"assign": "myshop_ability_condition_set",
 		"jp_text": "検索設定",
-		"tr_text": "Ability Search"
+		"tr_text": "Ａｂｉｌｉｔｙ Ｓｅａｒｃｈ"
 	},
 	{
 		"assign": "myshop_ability_condition_set_title",
@@ -4932,7 +4932,7 @@
 	{
 		"assign": "myshop_to_easy",
 		"jp_text": "簡易検索へ",
-		"tr_text": "Simple Search"
+		"tr_text": "Ｓｉｍｐｌｅ Ｓｅａｒｃｈ"
 	},
 	{
 		"assign": "myshop_to_detail",
@@ -5102,12 +5102,12 @@
 	{
 		"assign": "quest_counter_quest_drive",
 		"jp_text": "<color=orange>行動力　　</color><color=red><%drive></color>",
-		"tr_text": "<color=orange>Drive Req. </color><color=red><%drive></color>"
+		"tr_text": "<color=orange>Drive Req.　</color><color=red><%drive></color>"
 	},
 	{
 		"assign": "quest_counter_quest_drive_ex",
 		"jp_text": "<color=orange>OP：　　</color><color=red><%drive></color>",
-		"tr_text": "<color=orange>OP:  </color><color=red><%drive></color>"
+		"tr_text": "<color=orange>OP：　　</color><color=red><%drive></color>"
 	},
 	{
 		"assign": "quest_counter_enemy_hidden",
@@ -5117,12 +5117,12 @@
 	{
 		"assign": "quest_counter_get_medal",
 		"jp_text": "<%high_score>　<color=#68a0a7>/</color>　<%max>",
-		"tr_text": "<%high_score> <color=#68a0a7>/</color> <%max>"
+		"tr_text": "<%high_score>　<color=#68a0a7>/</color>　<%max>"
 	},
 	{
 		"assign": "quest_counter_area_medal",
 		"jp_text": "<%high_score>　<color=#68a0a7>/</color>　<%max>",
-		"tr_text": "<%high_score> <color=#68a0a7>/</color> <%max>"
+		"tr_text": "<%high_score>　<color=#68a0a7>/</color>　<%max>"
 	},
 	{
 		"assign": "quest_counter_medalbonus",
@@ -5272,7 +5272,7 @@
 	{
 		"assign": "quest_counter_class_error_b",
 		"jp_text": "現在のクラスでは受注できません。\n受注可能クラス：<%arksclass>",
-		"tr_text": "Cannot take this Quest.\nClass Required: <%arksclass>"
+		"tr_text": "Cannot take this Quest.\nClass Required： <%arksclass>"
 	},
 	{
 		"assign": "quest_counter_label_medama",
@@ -5312,7 +5312,7 @@
 	{
 		"assign": "quest_counter_stage_other",
 		"jp_text": "<%stage>＋他",
-		"tr_text": "<%stage>+"
+		"tr_text": "<%stage>＋"
 	},
 	{
 		"assign": "quest_counter_raid_term",
@@ -5342,7 +5342,7 @@
 	{
 		"assign": "quest_counter_raid_label_encount",
 		"jp_text": "遭遇者　<color=#68a0a7>/\n</color>　",
-		"tr_text": "Owner <color=#68a0a7>/\n</color> "
+		"tr_text": "Owner　<color=#68a0a7>/\n</color>　"
 	},
 	{
 		"assign": "quest_counter_raid_not_accept",
@@ -5387,7 +5387,7 @@
 	{
 		"assign": "quest_counter_raid_point",
 		"jp_text": "獲得中のポイント　<color=#68a0a7>/</color>　<%point>　ポイント",
-		"tr_text": "Scored Points <color=#68a0a7>/</color> <%point>"
+		"tr_text": "Scored Points <color=#68a0a7>/</color>　<%point>"
 	},
 	{
 		"assign": "quest_counter_raid_point_unit",
@@ -5407,7 +5407,7 @@
 	{
 		"assign": "quest_counter_raid_rank_grade2",
 		"jp_text": "： 発生期間内に討伐\n",
-		"tr_text": ": clear time\n"
+		"tr_text": "： clear time\n"
 	},
 	{
 		"assign": "quest_counter_raid_point_grade",
@@ -5422,12 +5422,12 @@
 	{
 		"assign": "quest_counter_raid_rare",
 		"jp_text": "レア報酬　<color=#68a0a7>/</color>",
-		"tr_text": "Rares   <color=#68a0a7>/</color>"
+		"tr_text": "Rares  　<color=#68a0a7>/</color>"
 	},
 	{
 		"assign": "quest_counter_raid_other",
 		"jp_text": "その他の報酬　<color=#68a0a7>/</color>",
-		"tr_text": "Other      <color=#68a0a7>/</color>"
+		"tr_text": "Other     　<color=#68a0a7>/</color>"
 	},
 	{
 		"assign": "questcounter_questlist_error_t",
@@ -5477,7 +5477,7 @@
 	{
 		"assign": "quest_counter_raid_sp_dialog_01_b",
 		"jp_text": "「超級トリガー」を1個消費して、超級を解除します。\nよろしいですか？\n\n<color=#ffff00>所持数：{0}個</color>\n\n※超級トリガーはクエスト出発時に消費されます。",
-		"tr_text": "This will use a \"Super Hard Trigger.\"\nIs that OK?\n\n<color=#ffff00>Owned Triggers:{0}</color>\n\n※Triggers will be used when starting the quest"
+		"tr_text": "This will use a \"Super Hard Trigger.\"\nIs that OK?\n\n<color=#ffff00>Owned Triggers：{0}</color>\n\n※Triggers will be used when starting the quest"
 	},
 	{
 		"assign": "quest_counter_raid_sp_z_dialog_00_t",
@@ -5497,7 +5497,7 @@
 	{
 		"assign": "quest_counter_raid_sp_z_dialog_01_b",
 		"jp_text": "「覇級トリガー」を1個消費して、覇級を解除します。\nよろしいですか？\n\n<color=#ffff00>所持数：{0}個</color>\n\n※クエストに出発せずに開催クエストが終了した場合、\nロック状態と覇級トリガーの所持数は元に戻ります。",
-		"tr_text": "This will use an \"Extra Hard Trigger.\"\nIs that OK?\n\n<color=#ffff00>Owned Triggers:{0}</color>\n\n※Triggers will be used when starting the quest"
+		"tr_text": "This will use an \"Extra Hard Trigger.\"\nIs that OK?\n\n<color=#ffff00>Owned Triggers：{0}</color>\n\n※Triggers will be used when starting the quest"
 	},
 	{
 		"assign": "reward_dialog_title",
@@ -5917,7 +5917,7 @@
 	{
 		"assign": "scratch_dialog_b_07",
 		"jp_text": "{0}<%AC>で\n{1}を{2}回引きます。\nよろしいですか？\n現在の所持<%AC>：{3}\n",
-		"tr_text": "{0}<%AC>\n{1} {2} will be used.\nIs that ok?\nOwned <%AC>:{3}\n"
+		"tr_text": "{0}<%AC>\n{1} {2} will be used.\nIs that ok?\nOwned <%AC>：{3}\n"
 	},
 	{
 		"assign": "scratch_dialog_t_08",
@@ -5927,7 +5927,7 @@
 	{
 		"assign": "scratch_dialog_b_08",
 		"jp_text": "{0}FUNで\n{1}を{2}回引きます。\nよろしいですか？\n現在の所持FUN：{3}\n",
-		"tr_text": "By using {0} FUN,\nyou will scratch {2} {1}.\nContinue?\nCurrent FUN: {3}\n"
+		"tr_text": "By using {0} FUN,\nyou will scratch {2} {1}.\nContinue?\nCurrent FUN： {3}\n"
 	},
 	{
 		"assign": "scratch_dialog_t_09",
@@ -5987,7 +5987,7 @@
 	{
 		"assign": "scratch_dialog_b_12",
 		"jp_text": "{0}<%AC>で\n{1}を{2}回引きます。\nよろしいですか？\n現在の所持<%AC>：{3}\n",
-		"tr_text": "{0}<%AC>\n{1} {2} will be used.\nIs that ok?\nOwned <%AC>:{3}\n"
+		"tr_text": "{0}<%AC>\n{1} {2} will be used.\nIs that ok?\nOwned <%AC>：{3}\n"
 	},
 	{
 		"assign": "scratch_button_rappy11",
@@ -6002,7 +6002,7 @@
 	{
 		"assign": "scratch_bonus_menu_multi_bonus",
 		"jp_text": "{0}\nなど{1}点セット！",
-		"tr_text": "{0}\n{1} etc!"
+		"tr_text": "{0}\n{1} etc！"
 	},
 	{
 		"assign": "scratch_bonus_menu_complete",
@@ -6087,7 +6087,7 @@
 	{
 		"assign": "quest_dialog_b_00",
 		"jp_text": "ラッピーメダルを<%consume_rappy_coin>枚使用して\n復活しますか？\n\n（現在の所持数：<%current_rappy_coin>枚）",
-		"tr_text": "Use <%consume_rappy_coin> Rappy Coins\nto revive yourself?\n\n( Rappy Coins owned: <%current_rappy_coin> )"
+		"tr_text": "Use <%consume_rappy_coin> Rappy Coins\nto revive yourself？\n\n（ Rappy Coins owned： <%current_rappy_coin> ）"
 	},
 	{
 		"assign": "quest_dialog_t_01",
@@ -6157,7 +6157,7 @@
 	{
 		"assign": "quest_line_04",
 		"jp_text": "最大行動力がアップしました　<%before_drive>　→　<%after_drive>",
-		"tr_text": "Max Drive increased <%before_drive> → <%after_drive>"
+		"tr_text": "Max Drive increased　<%before_drive>　→　<%after_drive>"
 	},
 	{
 		"assign": "quest_npc_t_00",
@@ -6577,7 +6577,7 @@
 	{
 		"assign": "questresult_social_character_name",
 		"jp_text": "キャラクター名  <color=#68a0a7>/</color>　  ",
-		"tr_text": "Character name  <color=#68a0a7>/</color> "
+		"tr_text": "Character name  <color=#68a0a7>/</color>　"
 	},
 	{
 		"assign": "questresult_social_player_name",
@@ -6682,7 +6682,7 @@
 	{
 		"assign": "title_guide_08",
 		"jp_text": "<color=#f0df60>「ゲームをはじめる」を選択すると、ゲームを開始します。</color>",
-		"tr_text": "<color=#f0df60>Please select 「ゲームをはじめる」 to start the game.</color>"
+		"tr_text": "<color=#f0df60>Please select 「ゲームをはじめる」 to start the game.</color>"
 	},
 	{
 		"assign": "title_guide_09",
@@ -7342,7 +7342,7 @@
 	{
 		"assign": "date",
 		"jp_text": "$（year）年$（month）月$（day）日",
-		"tr_text": "$(year)/$(month)/$(day)"
+		"tr_text": "$（year）/$（month）/$（day）"
 	},
 	{
 		"assign": "date_v",
@@ -7412,7 +7412,7 @@
 	{
 		"assign": "time_count_sec",
 		"jp_text": "$（second）秒",
-		"tr_text": "$(second)"
+		"tr_text": "$（second）"
 	},
 	{
 		"assign": "time_count",
@@ -7422,17 +7422,17 @@
 	{
 		"assign": "time",
 		"jp_text": "$（hour）時$（minute）分",
-		"tr_text": "$(hour):$(minute)"
+		"tr_text": "$（hour）:$（minute）"
 	},
 	{
 		"assign": "time_sec",
 		"jp_text": "$（hour）時$（minute）分$（second）秒",
-		"tr_text": "$(hour):$(minute):$(second)"
+		"tr_text": "$（hour）:$（minute）:$（second）"
 	},
 	{
 		"assign": "datetime",
 		"jp_text": "$（year）年$（month）月$（day）日$（hour）時$（minute）分",
-		"tr_text": "$(year)/$(month)/$(day) $(hour):$(minute)"
+		"tr_text": "$（year）/$（month）/$（day） $（hour）:$（minute）"
 	},
 	{
 		"assign": "datetime_v",
@@ -7442,7 +7442,7 @@
 	{
 		"assign": "datetime_sec",
 		"jp_text": "$（year）年$（month）月$（day）日$（hour）時$（minute）分$（second）秒",
-		"tr_text": "$(year)/$(month)/$(day) $(hour):$(minute):$(second)"
+		"tr_text": "$（year）/$（month）/$（day） $（hour）:$（minute）:$（second）"
 	},
 	{
 		"assign": "datetime_sec_v",
@@ -7457,22 +7457,22 @@
 	{
 		"assign": "period",
 		"jp_text": "$（hour）時間$（minute）分",
-		"tr_text": "$(hour):$(minute)"
+		"tr_text": "$（hour）:$（minute）"
 	},
 	{
 		"assign": "period_min",
 		"jp_text": "$（minute）分間",
-		"tr_text": "$(minute)"
+		"tr_text": "$（minute）"
 	},
 	{
 		"assign": "leave_hour",
 		"jp_text": "$（hour）時間$（minute）分",
-		"tr_text": "$(hour):$(minute)"
+		"tr_text": "$（hour）:$（minute）"
 	},
 	{
 		"assign": "leave_min",
 		"jp_text": "$（minute）分",
-		"tr_text": "$(minute)"
+		"tr_text": "$（minute）"
 	},
 	{
 		"assign": "tips_now_loading",
@@ -7522,7 +7522,7 @@
 	{
 		"assign": "attribute",
 		"jp_text": "属性",
-		"tr_text": "Attr."
+		"tr_text": "Ａｔｔｒ."
 	},
 	{
 		"assign": "chip_name",
@@ -7862,7 +7862,7 @@
 	{
 		"assign": "window_sort_attr_value",
 		"jp_text": "属性値",
-		"tr_text": "Attribute"
+		"tr_text": "Ａｔｔｒｉｂｕｔｅ"
 	},
 	{
 		"assign": "window_sort_category",
@@ -9437,7 +9437,7 @@
 	{
 		"assign": "menu_fulldownload_b_06",
 		"jp_text": "データの通信に失敗しました。\nリトライしますか？\n\n（リトライしない場合はタイトルに戻ります）",
-		"tr_text": "Connection Failed.\nDo you want to Retry?\n\n(Will return to Title if No)"
+		"tr_text": "Connection Failed.\nDo you want to Retry？\n\n（Will return to Title if No）"
 	},
 	{
 		"assign": "menu_fulldownload_t_07",
@@ -9537,7 +9537,7 @@
 	{
 		"assign": "quest_counter_rappy_coin",
 		"jp_text": "行動力が不足しているためクエストに出発できません。\nラッピーメダルか<%AC>を消費して行動力を回復しますか？\n\n出発に必要な行動力：(<%consume_drive>)\n行動力（<%current_drive>）→<color=red>（<%after_drive>）</color>\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "You don't have enough Drive for this stage.\nYou can refil with <%AC> or Rappy Coins. Is that OK?\n\nNeeded Drive:(<%consume_drive>)→<color=red>(<%after_drive>)</color>\n\nCoins Needed: <%consume_rappy_coin>\nHave: <%current_rappy_coin>\n\nHave <%AC>: <%consume_AC>\nCurrent: <%current_AC>"
+		"tr_text": "You don't have enough Drive for this stage.\nYou can refil with <%AC> or Rappy Coins. Is that OK?\n\nNeeded Drive:(<%consume_drive>)→<color=red>（<%after_drive>）</color>\n\nCoins Needed: <%consume_rappy_coin>\nHave: <%current_rappy_coin>\n\nHave <%AC>: <%consume_AC>\nCurrent: <%current_AC>"
 	},
 	{
 		"assign": "quest_counter_drive_lack",
@@ -9547,7 +9547,7 @@
 	{
 		"assign": "quest_emeny_level",
 		"jp_text": "目標Lv.{0}～",
-		"tr_text": "Enemy Lv.{0}~"
+		"tr_text": "Enemy Lv.{0}～"
 	},
 	{
 		"assign": "quest_counter_no_area_t",
@@ -10162,7 +10162,7 @@
 	{
 		"assign": "dialog_body_ac_shortage",
 		"jp_text": "所持<%AC>が不足しています。\n<%AC>をチャージしますか？\n\n必要<%AC>：{0}\n所持<%AC>：{1}",
-		"tr_text": "You do not have enough <%AC>.\nWould you like to purchase more?\n\nRequired <%AC>:{0}\nCurrent <%AC>:{1}"
+		"tr_text": "You do not have enough <%AC>.\nWould you like to purchase more?\n\nRequired <%AC>：{0}\nCurrent <%AC>：{1}"
 	},
 	{
 		"assign": "b_enemy",
@@ -10267,7 +10267,7 @@
 	{
 		"assign": "tu_0000_n00_b",
 		"jp_text": "<color=black>お待たせいたしました。\nこのキャラクターで『ＰＳＯ２ｅｓ』を\nプレイする準備が整いました。</color>",
-		"tr_text": "<color=black>Sorry to keep you\nwaiting. Your character is\nnow ready to play 『PSO2es』.</color>"
+		"tr_text": "<color=black>Sorry to keep you\nwaiting. Your character is\nnow ready to play 『ＰＳＯ２ｅｓ』.</color>"
 	},
 	{
 		"assign": "tu_0000_n01_b",
@@ -10332,7 +10332,7 @@
 	{
 		"assign": "tu_0000_n08_b",
 		"jp_text": "<color=black>ほかにも、フィールドのマスには\nアイテムが手に入ったり、ＨＰが回復したりと\nいろいろな効果がありますよ。</color>",
-		"tr_text": "<color=black>ほかにも、フィールドのマスには\nアイテムが手に入ったり、HPが回復したりと\nいろいろな効果がありますよ。</color>"
+		"tr_text": "<color=black>ほかにも、フィールドのマスには\nアイテムが手に入ったり、ＨＰが回復したりと\nいろいろな効果がありますよ。</color>"
 	},
 	{
 		"assign": "tu_0000_n09_b",
@@ -10387,7 +10387,7 @@
 	{
 		"assign": "tu_0000_s00_b",
 		"jp_text": "＜フィールドの移動＞\n画面右側のマスの中から、どれか１つをタッチして進みます。",
-		"tr_text": "<Movement>\nFrom the sides of the screen, touch any arrow."
+		"tr_text": "＜Movement＞\nFrom the sides of the screen, touch any arrow."
 	},
 	{
 		"assign": "tu_0000_s01_b",
@@ -10507,7 +10507,7 @@
 	{
 		"assign": "tu_0002_n05_b",
 		"jp_text": "<color=black>次に、クエストの中から\n「チップ使用訓練」を選びましょう。</color>",
-		"tr_text": "<color=black>次に、クエストの中から\n「チップ使用訓練」を選びましょう。</color>"
+		"tr_text": "<color=black>次に、クエストの中から\n「チップ使用訓練」を選びましょう。</color>"
 	},
 	{
 		"assign": "tu_0002_n06_b",
@@ -10612,7 +10612,7 @@
 	{
 		"assign": "tu_0002_n17_b",
 		"jp_text": "<color=black>ふう……何とか生還できましたね。\nファングバンサーの出現は想定外でしたが\nこれでクエストエリア「アークス戦闘研修」を\n全てクリアしました！</color>",
-		"tr_text": "<color=black>ふう......何とか生還できましたね。\nファングバンサーの出現は想定外でしたが\nこれでクエストエリア「アークス戦闘訓練」を\n全てクリアしました!</color>"
+		"tr_text": "<color=black>ふう……何とか生還できましたね。\nファングバンサーの出現は想定外でしたが\nこれでクエストエリア「アークス戦闘訓練」を\n全てクリアしました！</color>"
 	},
 	{
 		"assign": "tu_0002_n18_b",
@@ -10727,7 +10727,7 @@
 	{
 		"assign": "tu_0003_n00_b",
 		"jp_text": "<color=black>チップの使い方は\nおわかりいただけましたか？</color>",
-		"tr_text": "<color=black>お帰りなさい!\nチップの使い方は\nおわかりいただけましたか?</color>"
+		"tr_text": "<color=black>お帰りなさい！\nチップの使い方は\nおわかりいただけましたか？</color>"
 	},
 	{
 		"assign": "tu_0003_n01_b",
@@ -10747,12 +10747,12 @@
 	{
 		"assign": "tu_0003_n04_b",
 		"jp_text": "<color=black>それでは、画面の\n「編成」ボタンをタッチしてください。</color>",
-		"tr_text": "<color=black>それでは、画面の\n「ショップ」ボタンをタッチしてください。</color>"
+		"tr_text": "<color=black>それでは、画面の\n「ショップ」ボタンをタッチしてください。</color>"
 	},
 	{
 		"assign": "tu_0003_n05_b",
 		"jp_text": "<color=black>続けて、「チップ強化」を\nタッチしてください。</color>",
-		"tr_text": "<color=black>続けて、「アイテムラボ」を\nタッチしてください。</color>"
+		"tr_text": "<color=black>続けて、「アイテムラボ」を\nタッチしてください。</color>"
 	},
 	{
 		"assign": "tu_0003_n08_b",
@@ -10822,12 +10822,12 @@
 	{
 		"assign": "tu_0004_n00_b",
 		"jp_text": "<color=black>これからチップの入手について\nお教えしますので\n今後の冒険にご活用ください！</color>",
-		"tr_text": "<color=black>それでは最後に\nチップの入手方法について\nお教えします。</color>"
+		"tr_text": "<color=black>それでは最後に\nチップの入手方法について\nお教えします。</color>"
 	},
 	{
 		"assign": "tu_0004_n01_b",
 		"jp_text": "<color=black>さっそくですが\nチップは冒険中に入手できるほか\n「スクラッチ」でも手に入ります。</color>",
-		"tr_text": "<color=black>チップは、クエストだけでなく\n「スクラッチ」においても\n手に入れることができます。</color>"
+		"tr_text": "<color=black>チップは、クエストだけでなく\n「スクラッチ」においても\n手に入れることができます。</color>"
 	},
 	{
 		"assign": "tu_0004_n02_b",
@@ -10977,7 +10977,7 @@
 	{
 		"assign": "tu_0006_s01_b",
 		"jp_text": "<color=black>おめでとうございます！\n強化ラボで「武器／ユニット強化」を\n利用できるようになりました。</color>",
-		"tr_text": "<color=black>おめでとうございます!\nアイテムラボで「アイテム強化」を\n利用できるようになりました。</color>"
+		"tr_text": "<color=black>おめでとうございます！\nアイテムラボで「アイテム強化」を\n利用できるようになりました。</color>"
 	},
 	{
 		"assign": "tu_0006_w00_b",
@@ -10997,7 +10997,7 @@
 	{
 		"assign": "tu_0006_w06_b",
 		"jp_text": "ゲーム開始時に選んだクラスは、クラス変更画面で\n自由に変更することができます。",
-		"tr_text": "ゲーム開始時に選んだクラスは、クラス変更画面で\n自由に変更することができます。なお、クラス変更の際に\n装備できないアイテムは自動で解除されます。"
+		"tr_text": "ゲーム開始時に選んだクラスは、クラス変更画面で\n自由に変更することができます。なお、クラス変更の際に\n装備できないアイテムは自動で解除されます。"
 	},
 	{
 		"assign": "tu_0006_w07_b",
@@ -11007,12 +11007,12 @@
 	{
 		"assign": "tu_0006_w08_b",
 		"jp_text": "「チップ解放」では、必要な素材チップを使って\nチップの上限レベルを引き上げるとともに、\nチップの能力を解放してより強力なチップにすることができます。",
-		"tr_text": "『チップ解放』では、必要な素材チップを使って\nチップに秘められた能力を解放し\nより強力なチップに進化させることができます。"
+		"tr_text": "『チップ解放』では、必要な素材チップを使って\nチップに秘められた能力を解放し\nより強力なチップに進化させることができます。"
 	},
 	{
 		"assign": "tu_0006_w25_b",
 		"jp_text": "＜チップを解放するには＞\nまずは、「チップ強化」を使って\n解放したいチップのレベルを上限まで成長させましょう。",
-		"tr_text": "<チップを解放するには>\nまずは、「チップ強化」を使って\n解放したいチップのチップレベルを上限まで成長させましょう。"
+		"tr_text": "＜チップを解放するには＞\nまずは、「チップ強化」を使って\n解放したいチップのチップレベルを上限まで成長させましょう。"
 	},
 	{
 		"assign": "tu_0006_w26_b",
@@ -11027,7 +11027,7 @@
 	{
 		"assign": "tu_0006_w10_b",
 		"jp_text": "境界を超えるRPG『PSO2』と連動して\nさらなる冒険に出発しましょう！",
-		"tr_text": "境界を超えるRPG『PSO2』と連動して\nさらなる冒険に出発しましょう!"
+		"tr_text": "境界を超えるRPG『PSO2』と連動して\nさらなる冒険に出発しましょう！"
 	},
 	{
 		"assign": "tu_0006_n44_b",
@@ -11237,7 +11237,7 @@
 	{
 		"assign": "wh_23_01",
 		"jp_text": "プッシュ通知機能を使用するには、\nログイン画面の「オプション」から「プッシュ通知設定」をタッチし、\nプッシュ通知を有効にしたい項目を選択してください。",
-		"tr_text": "To use this feature,\nselect 「オプション」 from the main menu and select\nNotification Settings.\nThen turn on what notices you wish to use."
+		"tr_text": "To use this feature,\nselect 「オプション」 from the main menu and select\nNotification Settings.\nThen turn on what notices you wish to use."
 	},
 	{
 		"assign": "wh_23_02",
@@ -11327,7 +11327,7 @@
 	{
 		"assign": "wh_26_00",
 		"jp_text": "<color=black>あの……\n<%CHARANAME>さんに\n折り入ってご相談があります……\n私の部屋へお越しいただいても\nよろしいでしょうか？</color>",
-		"tr_text": "<color=black>あの......\n<%CHARANAME>さんに\n折り入ってご相談があります......\n私の部屋へお越しいただいても\nよろしいでしょうか?</color>"
+		"tr_text": "<color=black>あの……\n<%CHARANAME>さんに\n折り入ってご相談があります……\n私の部屋へお越しいただいても\nよろしいでしょうか？</color>"
 	},
 	{
 		"assign": "wh_27_00",
@@ -11402,7 +11402,7 @@
 	{
 		"assign": "wh_29_05",
 		"jp_text": "プッシュ通知機能を使用するには、\nログイン画面の「オプション」から「プッシュ通知設定」をタッチし、\nプッシュ通知を有効にしたい項目を選択してください。",
-		"tr_text": "To use this feature,\nselect 「オプション」 from the main menu and select\nNotification Settings.\nThen turn on what notices you wish to use."
+		"tr_text": "To use this feature,\nselect 「オプション」 from the main menu and select\nNotification Settings.\nThen turn on what notices you wish to use."
 	},
 	{
 		"assign": "wh_29_06",
@@ -11737,7 +11737,7 @@
 	{
 		"assign": "es_0005_n06_b",
 		"jp_text": "<color=black>……</color>",
-		"tr_text": "<color=black>......</color>"
+		"tr_text": "<color=black>……</color>"
 	},
 	{
 		"assign": "es_0005_n07_b",
@@ -13882,12 +13882,12 @@
 	{
 		"assign": "ItemDetail_EquipSkill_Insufficiency",
 		"jp_text": "<color=white><%parameter1>%　　(クラスレベル<%parameter2>で最大効果発揮)</color>",
-		"tr_text": "<color=white><%parameter1>%  (Fully Proficient @ Lv. <%parameter2>)</color>"
+		"tr_text": "<color=white><%parameter1>%　　(Fully Proficient @ Lv. <%parameter2>)</color>"
 	},
 	{
 		"assign": "ItemDetail_EquipSkill_Sufficiently",
 		"jp_text": "<color=yellow>100%</color>　　<color=white>(最大効果発揮)</color>",
-		"tr_text": "<color=yellow>100%</color>  <color=white>(Fully Proficient)</color>"
+		"tr_text": "<color=yellow>100%</color>　　<color=white>(Fully Proficient)</color>"
 	},
 	{
 		"assign": "ItemDetail_AttrTolerant_TitleCaption",
@@ -14597,7 +14597,7 @@
 	{
 		"assign": "menu_invite_tab_reward_explain",
 		"jp_text": "<color=#ffff00>招待成立した人数に応じて報酬をゲット！</color>",
-		"tr_text": "<color=#ffff00>招待成立した人数に応じて報酬をゲット!</color>"
+		"tr_text": "<color=#ffff00>招待成立した人数に応じて報酬をゲット！</color>"
 	},
 	{
 		"assign": "menu_invite_tab_reward_check",
@@ -14852,7 +14852,7 @@
 	{
 		"assign": "tutorial_battle_ntu_04_00",
 		"jp_text": "<color=black>これが大型エネミー「ファングバンサー」です！</color>",
-		"tr_text": "<color=black>Enemy 「Fang Banther」 has appeared!</color>"
+		"tr_text": "<color=black>Enemy 「Fang Banther」 has appeared！</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_04_01",
@@ -14962,7 +14962,7 @@
 	{
 		"assign": "dialog_body_arksexpedition_use_ac",
 		"jp_text": "{0}<%AC>で{1}回クイック探索を行います。\nよろしいですか？\n所持<%AC>：<%current_AC>",
-		"tr_text": "<color=#ff0000>{0} <%AC></color> We'll perform a Quick Search.\nIs that ok?\nOwned <%AC>:<%current_AC>"
+		"tr_text": "<color=#ff0000>{0} <%AC></color> We'll perform a Quick Search.\nIs that ok?\nOwned <%AC>：<%current_AC>"
 	},
 	{
 		"assign": "dialog_title_arksexpedition_use_free",
@@ -15512,7 +15512,7 @@
 	{
 		"assign": "pet_chip_give_window_rare_body",
 		"jp_text": "選択したチップは<color=#ff0000>★７以上</color>です。\r\n本当に合成しますか？\r\n\r\n・{0}\r\n\r\n",
-		"tr_text": "The selected chip is <color=#ff0000>★7</color> or higher.\nAre you sure?\n\n・{0}\n\n"
+		"tr_text": "The selected chip is <color=#ff0000>★７</color> or higher.\nAre you sure?\n\n・{0}\n\n"
 	},
 	{
 		"assign": "pet_egg_window_title",
@@ -15532,7 +15532,7 @@
 	{
 		"assign": "pet_egg_give_window_rare_body",
 		"jp_text": "選択したエッグは<color=#ff0000>★７以上</color>です。\r\n本当に合成しますか？\r\n\r\n・{0}\r\n\r\n",
-		"tr_text": "The selected egg is <color=#ff0000>★7</color> or higher.\nAre you sure?\n\n・{0}\n\n"
+		"tr_text": "The selected egg is <color=#ff0000>★７</color> or higher.\nAre you sure?\n\n・{0}\n\n"
 	},
 	{
 		"assign": "pet_egg_give_noitem_window_title",
@@ -15617,7 +15617,7 @@
 	{
 		"assign": "pet_chargeac_window_body",
 		"jp_text": "所持<%AC>が不足しています。\n<%AC>をチャージしますか？\n\n必要<%AC>：{0}\n所持<%AC>：{1}",
-		"tr_text": "You're missing <%AC>.\nCharge <%AC> now?\n\nNeeded <%AC>: {0}\nOwned <%AC>: {1}"
+		"tr_text": "You're missing <%AC>.\nCharge <%AC> now?\n\nNeeded <%AC>: {0}\nOwned <%AC>： {1}"
 	},
 	{
 		"assign": "pet_recovery_dialog_yes",
@@ -15642,7 +15642,7 @@
 	{
 		"assign": "ItemDetail_EquipSkill_ForceSufficiently",
 		"jp_text": "<color=yellow>100％</color>　　<color=white>(セット効果発動中)</color>",
-		"tr_text": "<color=yellow>100%</color>  <color=white>(Set Effect)</color>"
+		"tr_text": "<color=yellow>100%</color>　　<color=white>(Set Effect)</color>"
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_Caption",
@@ -15927,12 +15927,12 @@
 	{
 		"assign": "SideSt_Dialog_b_02_1",
 		"jp_text": "・『{0}』の\n　　外伝解放ゲージst.{1} を最大にする",
-		"tr_text": "・「{0}」\n  Side Story Stage {1}"
+		"tr_text": "・「{0}」\n　　Side Story Stage {1}"
 	},
 	{
 		"assign": "SideSt_Dialog_b_02_2",
 		"jp_text": "・『{0}』の\n　　第{1}話クリア（絆Lv.{2}）",
-		"tr_text": "・「{0}」\n  Story Ch.{1} Clear (Bond Lv.{2})"
+		"tr_text": "・「{0}」\n　　Story Ch.{1} Clear （Bond Lv.{2}）"
 	},
 	{
 		"assign": "pet_rehatch_body",
@@ -17437,17 +17437,17 @@
 	{
 		"assign": "collect_search_exp_text",
 		"jp_text": "経験値　/",
-		"tr_text": "EXP    /"
+		"tr_text": "EXP　　　　/"
 	},
 	{
 		"assign": "collect_search_meseta_text",
 		"jp_text": "メセタ　 /",
-		"tr_text": "Meseta /"
+		"tr_text": "Meseta　/"
 	},
 	{
 		"assign": "collect_search_range",
 		"jp_text": "～",
-		"tr_text": "~"
+		"tr_text": "～"
 	},
 	{
 		"assign": "collect_search_window_aheetselect",
@@ -17632,7 +17632,7 @@
 	{
 		"assign": "chip_depot_dialog_b_00",
 		"jp_text": "<%AC>を消費して\nチップ倉庫を拡張しますか？\n\nチップ倉庫上限（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※チップ倉庫は<%max_pack_size>まで拡張できます。\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "This will increase your chip\nstorage using <%AC>. Is this OK?\n\nCurrent Limit (<%current_pack_size>)→<color=red>(<%after_pack_size>)</color>\n※Chip Storage can be expanded to <%max_pack_size> slots.\n\nNeeded <%AC>: <%consume_AC>\nOwned <%AC>: <%current_AC>"
+		"tr_text": "This will increase your chip\nstorage using <%AC>. Is this OK?\n\nCurrent Limit (<%current_pack_size>)→<color=red>（<%after_pack_size>）</color>\n※Chip Storage can be expanded to <%max_pack_size> slots.\n\nNeeded <%AC>： <%consume_AC>\nOwned <%AC>： <%current_AC>"
 	},
 	{
 		"assign": "chip_depot_dialog_t_01",
@@ -17887,7 +17887,7 @@
 	{
 		"assign": "acceptbox_sale_a_meseta_to_b_meseta",
 		"jp_text": "<%now_meseta>　⇒　<%result_meseta>",
-		"tr_text": "<%now_meseta> ⇒ <%result_meseta>"
+		"tr_text": "<%now_meseta>　⇒　<%result_meseta>"
 	},
 	{
 		"assign": "acceptbox_rare_asc_sort_title",
@@ -18152,17 +18152,17 @@
 	{
 		"assign": "photondice_result_win_dialog_b_02",
 		"jp_text": "<size=35><color=yellow>基本獲得LC：　<%value>枚</color></size> ",
-		"tr_text": "<size=35><color=yellow>Standard LC: <%value></color></size> "
+		"tr_text": "<size=35><color=yellow>Standard LC：　<%value></color></size> "
 	},
 	{
 		"assign": "photondice_result_win_dialog_b_03",
 		"jp_text": "　ダブルアップボーナス　＋<%value>％",
-		"tr_text": "Double Up Bonus +<%value>%"
+		"tr_text": "Double Up Bonus ＋<%value>％"
 	},
 	{
 		"assign": "photondice_result_win_dialog_b_04",
 		"jp_text": "　キャラクターボーナス　＋<%value>％",
-		"tr_text": "Character Bonus +<%value>%"
+		"tr_text": "Character Bonus ＋<%value>％"
 	},
 	{
 		"assign": "photondice_result_win_dialog_b_05",
@@ -18172,7 +18172,7 @@
 	{
 		"assign": "photondice_result_win_dialog_b_06",
 		"jp_text": "合計追加ボーナス　＋<%value>％",
-		"tr_text": "Total Bonus +<%value>%"
+		"tr_text": "Total Bonus ＋<%value>％"
 	},
 	{
 		"assign": "photondice_result_win_dialog_b_07",
@@ -18267,7 +18267,7 @@
 	{
 		"assign": "leisure_has_lc",
 		"jp_text": "<color=#FFFFFF>所持LC：</color><color=#68a0a7>/</color>",
-		"tr_text": "<color=#FFFFFF>Owned LC:</color><color=#68a0a7>/</color>"
+		"tr_text": "<color=#FFFFFF>Owned LC：</color><color=#68a0a7>/</color>"
 	},
 	{
 		"assign": "photondice_result_win_dialog_b_Straight",
@@ -18417,7 +18417,7 @@
 	{
 		"assign": "chip_details_down_cost",
 		"jp_text": "(－<%val>)",
-		"tr_text": "(-<%val>)"
+		"tr_text": "(－<%val>)"
 	},
 	{
 		"assign": "chip_details_ability",

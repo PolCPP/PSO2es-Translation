@@ -26,6 +26,13 @@ json_files = [
     for f in fnmatch.filter(files, '*.txt')
 ]
 
+blacklist_files = [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'UI_Text.txt')
+]
+
+json_files = [x for x in json_files if x not in blacklist_files]
 
 for files in json_files:
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
@@ -33,7 +40,11 @@ for files in json_files:
         for entry in djson:
             for data in entry:
                 if data.startswith('tr_'):
-                    s = entry[data]
+                    d = data
+                    j = d.replace("tr_", "jp_")
+                    if entry[d] == entry[j]:
+                        continue
+                    s = entry[d]
                     t = unicodedata.normalize('NFKD', s)
                     g = t.replace("*", "＊")
                     entry[data] = g
