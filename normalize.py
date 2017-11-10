@@ -36,7 +36,19 @@ blacklist_files = [
 
 json_files = [x for x in json_files if x not in blacklist_files]
 
+# build up blacklist
+bl = dict()
 for files in json_files:
+    f = os.path.splitext(os.path.basename(files))[0]
+    bl[f] = list()
+
+#  Item_Stack_DeviceHT, Kyubey is EVIL
+bl["Item_Stack_DeviceHT"] += ["Requires a Lv.100+ mag to use.\nEvolves your mag into a\nKyubey.\nContract? ／人●ω●人＼"]
+
+
+for files in json_files:
+    update = False
+    f = os.path.splitext(os.path.basename(files))[0]
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
         djson = json.load(json_file, object_pairs_hook=OrderedDict)
         for entry in djson:
@@ -44,17 +56,24 @@ for files in json_files:
                 if data.startswith('tr_'):
                     d = data
                     j = d.replace("tr_", "jp_")
-                    if entry[d] == entry[j]:
-                        continue
                     s = entry[d]
+                    if s == entry[j]:
+                        continue
+                    if s in bl[f]:
+                        continue
                     t = unicodedata.normalize('NFKD', s)
                     trans = t.maketrans(strmap)
                     g = t.translate(trans)
-                    entry[data] = g
-    with codecs.open(files, mode='w+', encoding='utf-8') as json_file:
-        json.dump(
-            djson, json_file, ensure_ascii=False, indent="\t", sort_keys=False)
-        json_file.write("\n")
+                    if g != s:
+                        update = True
+                    entry[d] = g
+    if (update):
+        print("Updating {}".format(files))
+        with codecs.open(files, mode='w+', encoding='utf-8') as json_file:
+            json.dump(
+                djson, json_file, ensure_ascii=False,
+                indent="\t", sort_keys=False)
+            json_file.write("\n")
 
 if countdup != 0:
     sys.exit("Issues found")
