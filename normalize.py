@@ -8,6 +8,8 @@ import sys
 import unicodedata
 from collections import OrderedDict
 
+strmap = {"*": "＊", "『": "\"", "』": "\""}
+
 # error counter
 countdup = 0
 
@@ -46,7 +48,8 @@ for files in json_files:
                         continue
                     s = entry[d]
                     t = unicodedata.normalize('NFKD', s)
-                    g = t.replace("*", "＊")
+                    trans = t.maketrans(strmap)
+                    g = t.translate(trans)
                     entry[data] = g
     with codecs.open(files, mode='w+', encoding='utf-8') as json_file:
         json.dump(
