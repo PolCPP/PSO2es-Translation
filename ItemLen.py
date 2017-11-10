@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # coding=utf8
-import _fonts
 import codecs
 import fnmatch
 import json
@@ -15,42 +14,37 @@ dir = sys.argv[1]
 
 FS = dict()
 
-explain_files = [
+items_files = [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
     for f in fnmatch.filter(files, 'Item_*.txt')
 ]
 
-explain_files += [
+items_files += [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
     for f in fnmatch.filter(files, 'Explain_Actor_*.txt')
 ]
 
-explain_files += [
+items_files += [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
     for f in fnmatch.filter(files, 'Explain_SkillRing.txt')
 ]
 
-explain_files += [
+items_files += [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
     for f in fnmatch.filter(files, 'Explain_System.txt')
 ]
 
-explain_files += [
+items_files += [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
     for f in fnmatch.filter(files, 'Items_Leftovers.txt')
 ]
 
-if len(sys.argv) == 3 and sys.argv[2] != "0":
-    _fonts.init(int(sys.argv[2]))
-else:
-    _fonts.init()
-
-for files in explain_files:
+for files in items_files:
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
         djson = json.load(json_file)
         for entry in djson:
@@ -58,7 +52,7 @@ for files in explain_files:
             j = entry["jp_text"]
             if t == "" or j == t:
                 continue
-            FS[t] = _fonts.textlength(t)
+            FS[t] = len(t)
 
 FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
 FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
@@ -66,6 +60,6 @@ FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
 if len(sys.argv) == 3:
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
 else:
-    for e in FSs:
-        if FS[e] > 29:  # JP MAX: 23.61
+    for e in FSs:  # JP MAX: 22
+        if FS[e] > 26:  # MAX: ???
             print("Item Name '{}' is too long: {}".format(e, FS[e]))

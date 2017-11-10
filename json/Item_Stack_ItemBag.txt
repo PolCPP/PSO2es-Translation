@@ -205,21 +205,21 @@
 	{
 		"assign": "330029",
 		"jp_text": "カプセルａ　１０個セット",
-		"tr_text": "AQ Capsule ａ 10pcs Set",
+		"tr_text": "AQ Capsule a 10pcs Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「アドバンスカプセルａ」１０個",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330030",
 		"jp_text": "カプセルｂ　１０個セット",
-		"tr_text": "AQ Capsule ｂ 10pcs Set",
+		"tr_text": "AQ Capsule b 10pcs Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「アドバンスカプセルｂ」１０個",
 		"tr_explain": ""
 	},
 	{
 		"assign": "330031",
 		"jp_text": "カプセルｃ　１０個セット",
-		"tr_text": "AQ Capsule ｃ 10pcs Set",
+		"tr_text": "AQ Capsule c 10pcs Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「アドバンスカプセルｃ」１０個",
 		"tr_explain": ""
 	},
@@ -5212,14 +5212,14 @@
 		"jp_text": "ブレイズＭセット",
 		"tr_text": "Blaze Set M",
 		"jp_explain": "以下のアイテムを獲得する。\n「ブレイズメイク赤」\n「ブレイズペイントＭ赤」",
-		"tr_explain": "By using this ticket, the accesory \"Blaze Set M\" can be used in the makeover shop."
+		"tr_explain": "By using this ticket, the accesory \"Blaze Set M\" can be used in the Beauty Salon."
 	},
 	{
 		"assign": "3300942",
 		"jp_text": "ブレイズＦセット",
 		"tr_text": "Blaze Set F",
 		"jp_explain": "以下のアイテムを獲得する。\n「ブレイズメイク赤」\n「ブレイズペイントＦ赤」",
-		"tr_explain": "By using this ticket, the accesory \"Blaze Set F\" can be used in the makeover shop."
+		"tr_explain": "By using this ticket, the accesory \"Blaze Set F\" can be used in the Beauty Salon."
 	},
 	{
 		"assign": "3300943",
@@ -8852,7 +8852,7 @@
 		"jp_text": "ハートアイセット",
 		"tr_text": "Heart Eye Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「ハートアイ　大」\n「ハートアイ　小」",
-		"tr_explain": "By using this ticket, the accesory \"Heart Eye Set\" can be used in the makeover shop."
+		"tr_explain": "By using this ticket, the accesory \"Heart Eye Set\" can be used in the Beauty Salon."
 	},
 	{
 		"assign": "33001463",
@@ -9223,7 +9223,7 @@
 		"jp_text": "タクリディアステッカーＳ",
 		"tr_text": "Tacridia Sticker Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「タクリディアステッカーＡ」\n「タクリディアステッカーＢ」\n「タクリディアステッカーＣ」",
-		"tr_explain": "By using this ticket, the accesory \"Tacridia Sticker Set\" can be used in the makeover shop."
+		"tr_explain": "By using this ticket, the accesory \"Tacridia Sticker Set\" can be used in the Beauty Salon."
 	},
 	{
 		"assign": "33001516",
@@ -11897,7 +11897,7 @@
 		"jp_text": "ヘビ目セット",
 		"tr_text": "Snake Eyes Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「ヘビ目　大」\n「ヘビ目　小」",
-		"tr_explain": "By using this ticket, the accessory \"Snake Eyes Set\" can be used in the makeover shop."
+		"tr_explain": "By using this ticket, the accessory \"Snake Eyes Set\" can be used in the Beauty Salon."
 	},
 	{
 		"assign": "33001898",
@@ -30853,6 +30853,545 @@
 		"jp_text": "上フサフサまつげセット",
 		"tr_text": "",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「上フサフサまつげ　黒／紺／茶／白」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004621",
+		"jp_text": "☆バルクスタータセット１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「バルクスタータ[Ou]」\n「バルクスタータ[Ba]」\n「バルクスタータ[In]」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004622",
+		"jp_text": "☆バルクスタータセット２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「バルクスタータ[Ou]」\n「バルクスタータ影[Ba]」\n「バルクスタータ影[In]」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004623",
+		"jp_text": "☆バルクスタータセット３",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「バルクスタータ[Ou]」\n「バルクスタータ紅[Ba]」\n「バルクスタータ紅[In]」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004624",
+		"jp_text": "☆バルクスタータセット４",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「バルクスタータ[Ou]」\n「バルクスタータ夜[Ba]」\n「バルクスタータ雪[In]」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004625",
+		"jp_text": "☆バルクスタータセット５",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「バルクスタータ[Ou]」\n「バルクスタータ陽[Ba]」\n「バルクスタータ陽[In]」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004626",
+		"jp_text": "☆バルクスタータセット６",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「バルクスタータ[Ou]」\n「バルクスタータ銀[Ba]」\n「バルクスタータ鋼[In]」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004627",
+		"jp_text": "☆トレイオンセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「トレイオン」シリーズ\n「トレイオン・ヘッド」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004628",
+		"jp_text": "☆チェックジャケット影箱１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「チェックジャケット影[Ou]」\n「チェックスラックス玄[Ba]」\n「プレートピアスＢ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004629",
+		"jp_text": "☆チェックジャケット影箱２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「チェックジャケット影[Ou]」\n「チェックスラックス茜[Ba]」\n「プレートピアスＢ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004630",
+		"jp_text": "☆ディーラースーツ静箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ディーラースーツ静」\n「３連ピアスＢ」\n「ディーラーインカム」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004631",
+		"jp_text": "☆グランコレット海セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「グランコレット海」\n「ゴールドパンジャ」\n「ゴールドスターピアス」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004632",
+		"jp_text": "☆レクトアギルＧＶセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「レクトアギルＧＶ」シリーズ\n「レクトアギル・ヘッドＧＶ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004633",
+		"jp_text": "☆アイレアエトスセット１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アイレアエトス[Ou]」\n「アイレアエトス[Ba]」\n「アイレアエトス[In]」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004634",
+		"jp_text": "☆アイレアエトスセット２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アイレアエトス[Ou]」\n「アイレアエトス雪[Ba]」\n「アイレアエトス雪[In]」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004635",
+		"jp_text": "☆アイレアエトスセット３",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アイレアエトス[Ou]」\n「アイレアエトス陽[Ba]」\n「アイレアエトス陽[In]」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004636",
+		"jp_text": "☆アイレアエトスセット４",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アイレアエトス[Ou]」\n「アイレアエトス影[Ba]」\n「アイレアエトス桜[In]」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004637",
+		"jp_text": "☆アイレアエトスセット５",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アイレアエトス[Ou]」\n「アイレアエトス紅[Ba]」\n「アイレアエトス紅[In]」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004638",
+		"jp_text": "☆アイレアエトスセット６",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アイレアエトス[Ou]」\n「アイレアエトス雅[Ba]」\n「アイレアエトス雅[In]」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004639",
+		"jp_text": "☆フリンジニットカーデ箱１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フリンジニットカーデ[Ou]」\n「編みこみヘアバンド」\n「ツートンマフラーＢ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004640",
+		"jp_text": "☆フリンジニットカーデ箱２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フリンジニットカーデ[Ou]」\n「編みこみヘアバンド」\n「ツートンマフラーＢ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004641",
+		"jp_text": "☆フリンジニットカーデ箱３",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フリンジニットカーデ[Ou]」\n「編みこみヘアバンド」\n「ツートンマフラーＢ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004642",
+		"jp_text": "☆フリンジニットカーデ箱４",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フリンジニットカーデ[Ou]」\n「編みこみヘアバンド」\n「ツートンマフラーＢ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004643",
+		"jp_text": "☆フリンジニットカーデ箱５",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フリンジニットカーデ[Ou]」\n「編みこみヘアバンド」\n「ツートンマフラーＢ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004644",
+		"jp_text": "☆フリンジニットカーデ箱６",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フリンジニットカーデ[Ou]」\n「編みこみヘアバンド」\n「ツートンマフラーＢ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004645",
+		"jp_text": "☆ラビットジャンパー箱１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ラビットジャンパー[Ou]」\n「重ね着風タンクトップ[Ba]」\n「ラビットサンバイザー」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004646",
+		"jp_text": "☆ラビットジャンパー箱２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ラビットジャンパー[Ou]」\n「重ね着風タンクトップ影[Ba]」\n「ラビットサンバイザー」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004647",
+		"jp_text": "☆ラビットジャンパー箱３",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ラビットジャンパー[Ou]」\n「重ね着風タンクトップ空[Ba]」\n「ラビットサンバイザー」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004648",
+		"jp_text": "☆ラビットジャンパー箱４",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ラビットジャンパー[Ou]」\n「重ね着風タンクトップ雪[Ba]」\n「ラビットサンバイザー」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004649",
+		"jp_text": "☆ラビットジャンパー箱５",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ラビットジャンパー[Ou]」\n「重ね着風タンクトップ紅[Ba]」\n「ラビットサンバイザー」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004650",
+		"jp_text": "☆ラビットジャンパー箱６",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ラビットジャンパー[Ou]」\n「重ね着風タンクトップ桜[Ba]」\n「ラビットサンバイザー」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004651",
+		"jp_text": "☆エアロスセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「エアロス」シリーズ\n「エアロス・ヘッド」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004652",
+		"jp_text": "☆宵咲華乙女　雪セット１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「宵咲華乙女　雪[Ou]」\n「宵咲華乙女　玄[Ba]」\n「華乙女リボンＢ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004653",
+		"jp_text": "☆宵咲華乙女　雪セット２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「宵咲華乙女　雪[Ou]」\n「宵咲華乙女　冬[Ba]」\n「華乙女リボンＢ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004654",
+		"jp_text": "☆ディーラードレス夜箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ディーラードレス夜」\n「シンプルリボン　黒」\n「ディーラータイツ　黒」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004655",
+		"jp_text": "☆ストアコレット海セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ストアコレット海」\n「コレットキャップ海」\n「ゴールドスターピアス」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004656",
+		"jp_text": "☆エクレピストＧＶセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「エクレピストＧＶ」シリーズ\n「エクレピスト・ヘッドＧＶ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004657",
+		"jp_text": "華乙女スタイルセットＢ",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ウェーブツインテール」\n「華乙女ソックスＢ」\n「華乙女チョーカー」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004658",
+		"jp_text": "秋のおしゃれ小物セットＢ",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アニメ風瞳Ｇ　大」\n「ポンポン付きファー帽　茶」\n「ツートンマフラーＡ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004659",
+		"jp_text": "☆リュウ・レプカセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「リュウ・レプカ」\n「リュウ・ハヤブサマスク」\n「リュウ・ハヤブサマフラー」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004660",
+		"jp_text": "☆リュウ・レプカ紅セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「リュウ・レプカ紅」\n「リュウ・ハヤブサマスク」\n「リュウ・ハヤブサマフラー」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004661",
+		"jp_text": "☆リュウ・レプカ夜セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「リュウ・レプカ夜」\n「リュウ・ハヤブサマスク」\n「リュウ・ハヤブサマフラー」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004662",
+		"jp_text": "☆リュウ・レプカ雪セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「リュウ・レプカ雪」\n「リュウ・ハヤブサマスク」\n「リュウ・ハヤブサマフラー」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004663",
+		"jp_text": "☆リュウ・レプカ雅セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「リュウ・レプカ雅」\n「リュウ・ハヤブサマスク」\n「リュウ・ハヤブサマフラー」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004664",
+		"jp_text": "☆リュウ・レプカ陽セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「リュウ・レプカ陽」\n「リュウ・ハヤブサマスク」\n「リュウ・ハヤブサマフラー」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004665",
+		"jp_text": "☆アグリセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アグリ」シリーズ\n「アグリ・ヘッド」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004666",
+		"jp_text": "☆ＰジャケットＭ影箱１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「パーカージャケットＭ影[Ou]」\n「ジャンボベルトＢ」\n「クールサングラス」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004667",
+		"jp_text": "☆ＰジャケットＭ影箱２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「パーカージャケットＭ影[Ou]」\n「ジャンボベルトＢ」\n「クールサングラス」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004668",
+		"jp_text": "☆フロンティアガイド影箱１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フロンティアガイド影[Ou]」\n「フロンティアガイド星[Ba]」\n「フロンティアハット」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004669",
+		"jp_text": "☆フロンティアガイド影箱２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フロンティアガイド影[Ou]」\n「フロンティアガイド茜[Ba]」\n「フロンティアハット」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004670",
+		"jp_text": "☆かすみ・レプカセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「かすみ・レプカ」\n「かすみヘアー」\n「かすみの小太刀」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004671",
+		"jp_text": "☆かすみ・レプカ影セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「かすみ・レプカ影」\n「かすみヘアー」\n「かすみの小太刀」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004672",
+		"jp_text": "☆かすみ・レプカ紅セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「かすみ・レプカ紅」\n「かすみヘアー」\n「かすみの小太刀」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004673",
+		"jp_text": "☆かすみ・レプカ雪セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「かすみ・レプカ雪」\n「かすみヘアー」\n「かすみの小太刀」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004674",
+		"jp_text": "☆かすみ・レプカ桜セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「かすみ・レプカ桜」\n「かすみヘアー」\n「かすみの小太刀」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004675",
+		"jp_text": "☆かすみ・レプカ月セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「かすみ・レプカ月」\n「かすみヘアー」\n「かすみの小太刀」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004676",
+		"jp_text": "☆あやね・レプカセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「あやね・レプカ」\n「あやねヘアー」\n「あやねのソックス」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004677",
+		"jp_text": "☆あやね・レプカ雪セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「あやね・レプカ雪」\n「あやねヘアー」\n「あやねのソックス」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004678",
+		"jp_text": "☆あやね・レプカ影セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「あやね・レプカ影」\n「あやねヘアー」\n「あやねのソックス」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004679",
+		"jp_text": "☆あやね・レプカ海セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「あやね・レプカ海」\n「あやねヘアー」\n「あやねのソックス」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004680",
+		"jp_text": "☆あやね・レプカ紅セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「あやね・レプカ紅」\n「あやねヘアー」\n「あやねのソックス」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004681",
+		"jp_text": "☆あやね・レプカ桜セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「あやね・レプカ桜」\n「あやねヘアー」\n「あやねのソックス」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004682",
+		"jp_text": "☆マリー・レプカセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「マリー・レプカ」\n「マリーヘアー」\n「Bloody Nocturne」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004683",
+		"jp_text": "☆マリー・レプカ夜セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「マリー・レプカ夜」\n「マリーヘアー」\n「Bloody Nocturne」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004684",
+		"jp_text": "☆マリー・レプカ雪セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「マリー・レプカ雪」\n「マリーヘアー」\n「Bloody Nocturne」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004685",
+		"jp_text": "☆マリー・レプカ空セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「マリー・レプカ空」\n「マリーヘアー」\n「Bloody Nocturne」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004686",
+		"jp_text": "☆マリー・レプカ紅セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「マリー・レプカ紅」\n「マリーヘアー」\n「Bloody Nocturne」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004687",
+		"jp_text": "☆マリー・レプカ桜セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「マリー・レプカ桜」\n「マリーヘアー」\n「Bloody Nocturne」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004688",
+		"jp_text": "☆アルキセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アルキ」シリーズ\n「アルキ・ヘッド」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004689",
+		"jp_text": "☆ＰジャケットＦ影箱１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「パーカージャケットＦ影[Ou]」\n「ボアブーツ　茶」\n「ドクロニーソックス」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004690",
+		"jp_text": "☆ＰジャケットＦ影箱２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「パーカージャケットＦ影[Ou]」\n「ボアブーツ　茶」\n「ドクロニーソックス」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004691",
+		"jp_text": "☆バイカラートレンチ影箱１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「バイカラートレンチ影[Ou]」\n「ストライプワンピース玄[Ba]」\n「ショートソックス」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004692",
+		"jp_text": "☆バイカラートレンチ影箱２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「バイカラートレンチ影[Ou]」\n「ストライプワンピース冬[Ba]」\n「ショートソックス」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004693",
+		"jp_text": "☆フロンティアリード影箱１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フロンティアリード影[Ou]」\n「フロンティアリード夜[Ba]」\n「フロンティアリボンＣ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004694",
+		"jp_text": "☆フロンティアリード影箱２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フロンティアリード影[Ou]」\n「フロンティアリード鋼[Ba]」\n「フロンティアリボンＣ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004695",
+		"jp_text": "☆グランヴィナドレス鋼箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「グランヴィナドレス鋼」\n「グランヴィナヘッドギアＣ」\n「アウロラロングヘア」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004696",
+		"jp_text": "☆天原日姫衣　静セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「天原日姫衣　静」\n「天原日姫冠Ｂ」\n「天女の羽衣」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33004697",
+		"jp_text": "エネミーアクセセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ファンダージピアス」\n「ミノタウルショルダー」\n「ミノタウルガントレット」",
 		"tr_explain": ""
 	}
 ]

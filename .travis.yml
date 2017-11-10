@@ -8,9 +8,11 @@ script:
   - ./checkjson.py json && ./coverage.sh json
   - ./tidy-json.sh json && git diff --exit-code
   - ./dupcheck.py json
+  - ./dupassign.py json
   - ./StoryFont.py json
-  - ./ItemDesc.py json
-  - ./ItemFont.py json
+  - ./ItemLen.py json
+  - ./ItemDescLen.py json
+  - ./ItemDescFont.py json
   - ./ChipDescShort.py json
   - ./ChipDescLong.py json
   - ./ChipFont.py json
