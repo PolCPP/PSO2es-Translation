@@ -52,6 +52,8 @@ for files in json_files:
         for entry in djson:
             if "assign" not in entry:
                 continue
+            if "text" not in entry:
+                continue
             a = entry["assign"]
             if a in bl[f]:
                 continue
