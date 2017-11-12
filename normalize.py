@@ -1,0 +1,72 @@
+#!/usr/bin/env python3
+# coding=utf8
+import codecs
+import fnmatch
+import os
+import json
+import sys
+import unicodedata
+from collections import OrderedDict
+
+quick = {
+    "*": "＊",  # Undo normalize
+    "『": "\"", "』": "\"",  # Use English Quotes
+    "–": "-", "‒": "-",  # Replaces DASHs with HYPHEN-MINUS
+    "​": "", # ZERO WIDTH SPACE need to gone from this world
+    "ō": "ou", "ū": "uu"} # MACRONs are not supported
+
+# error counter
+countdup = 0
+
+# Need the json path
+if len(sys.argv) < 2:
+    print("Where the json folder?")
+    sys.exit(os.EX_NOINPUT)
+
+# Keep folder string
+dir = sys.argv[1]
+
+# collect all the JSON files
+json_files = [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, '*.txt')
+]
+
+blacklist_files = [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'UI_Text.txt')
+]
+
+json_files = [x for x in json_files if x not in blacklist_files]
+
+for files in json_files:
+    update = False
+    f = os.path.splitext(os.path.basename(files))[0]
+    with codecs.open(files, mode='r', encoding='utf-8') as json_file:
+        djson = json.load(json_file, object_pairs_hook=OrderedDict)
+        for entry in djson:
+            for data in entry:
+                if data.startswith('tr_'):
+                    d = data
+                    j = d.replace("tr_", "jp_")
+                    s = entry[d]
+                    if s == entry[j]:
+                        continue
+                    t = unicodedata.normalize('NFKC', s)
+                    trans = t.maketrans(quick)
+                    g = t.translate(trans)
+                    if g != s:
+                        update = True
+                    entry[d] = g
+    if (update):
+        print("Updating {}".format(files))
+        with codecs.open(files, mode='w+', encoding='utf-8') as json_file:
+            json.dump(
+                djson, json_file, ensure_ascii=False,
+                indent="\t", sort_keys=False)
+            json_file.write("\n")
+
+if countdup != 0:
+    sys.exit("Issues found")

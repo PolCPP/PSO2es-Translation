@@ -48,6 +48,6 @@ FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
 if len(sys.argv) == 3:
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
 else:
-    for e in FSs:
-        if FS[e] > 45:  # JP MAX: 37.53
+    for e in FSs:  # JP MAX: 37.53
+        if FS[e] > 45:  # TXT MAX: 45
             print("Story Text '{}' is too long: {}".format(e, FS[e]))

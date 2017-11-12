@@ -38,14 +38,14 @@ explain_files += [
     for dirpath, dirnames, files in os.walk(dir)
     for f in fnmatch.filter(files, 'Explain_System.txt')
 ]
-
-explain_files += [
+# -------------------------------------------------
+explain4_files = [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
     for f in fnmatch.filter(files, 'Items_Leftovers.txt')
 ]
 
-explain4_files = [
+explain4_files += [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
     for f in fnmatch.filter(files, 'Item_Stack_Gat*.txt')
@@ -54,7 +54,19 @@ explain4_files = [
 explain4_files += [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'Item_Stack_Orderitem.txt')
+    for f in fnmatch.filter(files, 'Item_Stack_ItemBag.txt')
+]
+
+explain4_files += [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'Item_Stack_Roomgoods.txt')
+]
+
+explain4_files += [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'Item_BaseWear_*.txt')
 ]
 
 explain4_files += [
@@ -66,7 +78,25 @@ explain4_files += [
 explain4_files += [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'Item_Stack_Ring?.txt')
+    for f in fnmatch.filter(files, 'Item_Stack_BodyPaint.txt')
+]
+
+explain4_files += [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'Item_Stack_PaidTicket.txt')
+]
+
+explain4_files += [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'Item_Stack_Sticker.txt')
+]
+
+explain4_files += [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'Item_Stack_PaidPass.txt')
 ]
 
 explain4_files += [
@@ -74,12 +104,25 @@ explain4_files += [
     for dirpath, dirnames, files in os.walk(dir)
     for f in fnmatch.filter(files, 'Item_Stack_Music.txt')
 ]
-
+# -------------------------------------------------
 explain4_files += [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
     for f in fnmatch.filter(files, 'Item_AvatarWPN_*.txt')
 ]
+
+explain4_files += [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'Item_Stack_Orderitem.txt')
+]
+
+explain4_files += [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'Item_Stack_Ring?.txt')
+]
+# -------------------------------------------------
 
 explain3_files = [x for x in explain_files if x not in explain4_files]
 
