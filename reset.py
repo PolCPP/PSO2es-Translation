@@ -5,15 +5,7 @@ import fnmatch
 import os
 import json
 import sys
-import unicodedata
 from collections import OrderedDict
-
-quick = {
-    "*": "＊",  # Undo normalize
-    "『": "\"", "』": "\"",  # Use English Quotes
-    "–": "-", "‒": "-",  # Replaces DASHs with HYPHEN-MINUS
-    "​": "", # ZERO WIDTH SPACE need to gone from this world
-    "ō": "ou", "ū": "uu"} # MACRONs are not supported
 
 # error counter
 countdup = 0
@@ -33,14 +25,6 @@ json_files = [
     for f in fnmatch.filter(files, '*.txt')
 ]
 
-blacklist_files = [
-    os.path.join(dirpath, f)
-    for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'UI_Text.txt')
-]
-
-json_files = [x for x in json_files if x not in blacklist_files]
-
 for files in json_files:
     update = False
     f = os.path.splitext(os.path.basename(files))[0]
@@ -49,17 +33,18 @@ for files in json_files:
         for entry in djson:
             for data in entry:
                 if data.startswith('tr_'):
-                    d = data
-                    j = d.replace("tr_", "jp_")
-                    s = entry[d]
-                    if s == entry[j]:
-                        continue
-                    t = unicodedata.normalize('NFKC', s)
-                    trans = t.maketrans(quick)
-                    g = t.translate(trans)
-                    if g != s:
-                        update = True
-                    entry[d] = g
+                    continue
+                elif data.startswith('jp_'):
+                    continue
+                elif data == 'title_id':
+                    continue
+                elif data.endswith('_id'):
+                    entry[data] = 0
+                    update = True
+                elif entry[data] != "":
+                    entry[data] = None
+                    update = True
+
     if (update):
         print("Updating {}".format(files))
         with codecs.open(files, mode='w+', encoding='utf-8') as json_file:
