@@ -2512,7 +2512,7 @@
 	{
 		"assign": "menu_dialog_b_07",
 		"jp_text": "『PSO2』へのキャラクター連動処理が完了しました。\nタイトル画面に戻ります。\n\nご利用中のSEGA IDで\n『PSO2』にログインしていただくことで\n『PSO2es』と同じキャラクターを使用して\nプレイすることができます。\n\n※『PSO2es』へのログイン時に\nシップ選択を求められた場合は\nキャラクターを連動したシップを選択して\nご利用中のSEGA IDによる認証を行ってください。",
-		"tr_text": "『PSO2』 PSO2 Character Link process completed.\nWill return to the title screen.\n\n<color=yellow>When you login with your SEGAID,\nyou will be able to play with\nyour PSO2 character in PSO2es.\n\n※『PSO2es』 When you log into PSO2es, select\nthe ship your character is from.</color>"
+		"tr_text": "\"PSO2\" PSO2 Character Link process completed.\nWill return to the title screen.\n\n<color=yellow>When you login with your SEGAID,\nyou will be able to play with\nyour PSO2 character in PSO2es.\n\n※\"PSO2es\" When you log into PSO2es, select\nthe ship your character is from.</color>"
 	},
 	{
 		"assign": "menu_dialog_t_22",
@@ -3047,7 +3047,7 @@
 	{
 		"assign": "receive_dialog_b_00",
 		"jp_text": "『PSO2』で{0}を\n受け取れる条件を満たしていません。",
-		"tr_text": "『PSO2』 {0}\nYou don't meet the required conditions."
+		"tr_text": "\"PSO2\" {0}\nYou don't meet the required conditions."
 	},
 	{
 		"assign": "receive_dialog_t_01",
@@ -3067,7 +3067,7 @@
 	{
 		"assign": "receive_dialog_b_02",
 		"jp_text": "『PSO2』の倉庫の空き容量が不足しているため\nアイテムを受け取れません。\n『PSO2』の倉庫を整理してください。",
-		"tr_text": "『PSO2』 You cannot receive anymore as\nyou are full on inventory space.\nPlease sort via PSO2 and try\nagain later."
+		"tr_text": "\"PSO2\" You cannot receive anymore as\nyou are full on inventory space.\nPlease sort via PSO2 and try\nagain later."
 	},
 	{
 		"assign": "receive_dialog_t_03",
@@ -7082,7 +7082,7 @@
 	{
 		"assign": "title_connect_b",
 		"jp_text": "『PSO2』へのキャラクター連動処理を再開します。\n\n処理完了までは数十秒程度の時間がかかります。\n通信を行いますので、\n電波状況の良い場所で開始して下さい。\n連動が完了すると、タイトル画面に戻ります。",
-		"tr_text": "『PSO2』 Resume Device transfer.\n\nThis may take a moment.\nPlease ensure you are in a\ngood reception area.\nReturning to Lobby when Complete."
+		"tr_text": "\"PSO2\" Resume Device transfer.\n\nThis may take a moment.\nPlease ensure you are in a\ngood reception area.\nReturning to Lobby when Complete."
 	},
 	{
 		"assign": "system_dialog_t_stackover01",
@@ -10262,12 +10262,12 @@
 	{
 		"assign": "tu_0005_w00_b",
 		"jp_text": "『PSO2』とキャラクター連動を行うと、『PSO2』ゲーム内で\nキャラクターをさらに細かくカスタマイズできます。\nよりカッコいい・かわいいキャラクターを作りましょう！",
-		"tr_text": "When you link your waifu with 『PSO2』,\nyou can finely customize your\nwaifu in great detail.\nLet us create your waifu!"
+		"tr_text": "When you link your waifu with \"PSO2\",\nyou can finely customize your\nwaifu in great detail.\nLet us create your waifu!"
 	},
 	{
 		"assign": "tu_0000_n00_b",
 		"jp_text": "<color=black>お待たせいたしました。\nこのキャラクターで『ＰＳＯ２ｅｓ』を\nプレイする準備が整いました。</color>",
-		"tr_text": "<color=black>Sorry to keep you\nwaiting. Your character is\nnow ready to play 『ＰＳＯ２ｅｓ』.</color>"
+		"tr_text": "<color=black>Sorry to keep you\nwaiting. Your character is\nnow ready to play \"ＰＳＯ２ｅｓ\".</color>"
 	},
 	{
 		"assign": "tu_0000_n01_b",
@@ -10992,7 +10992,7 @@
 	{
 		"assign": "tu_0006_w02_b",
 		"jp_text": "＜連動時の注意事項＞\n『PSO2es』での強化結果は、『PSO2』にも反映されます。\nただし、『PSO2』で強化報酬を獲得するための回数は集計されません。",
-		"tr_text": "<Linked Guidelines>\nEquipment grind results from 『PSO2』 are reflected on 『PSO2es』\nHowever, grinding bonuses are not received in 『PSO2es』."
+		"tr_text": "<Linked Guidelines>\nEquipment grind results from \"PSO2\" are reflected on \"PSO2es\"\nHowever, grinding bonuses are not received in \"PSO2es\"."
 	},
 	{
 		"assign": "tu_0006_w06_b",
@@ -11007,7 +11007,7 @@
 	{
 		"assign": "tu_0006_w08_b",
 		"jp_text": "「チップ解放」では、必要な素材チップを使って\nチップの上限レベルを引き上げるとともに、\nチップの能力を解放してより強力なチップにすることができます。",
-		"tr_text": "『チップ解放』では、必要な素材チップを使って\nチップに秘められた能力を解放し\nより強力なチップに進化させることができます。"
+		"tr_text": "\"チップ解放\"では、必要な素材チップを使って\nチップに秘められた能力を解放し\nより強力なチップに進化させることができます。"
 	},
 	{
 		"assign": "tu_0006_w25_b",
@@ -11032,7 +11032,7 @@
 	{
 		"assign": "tu_0006_n44_b",
 		"jp_text": "iACはiOS版『PSO2es』の専用の通貨です。\nそのため、現在『PSO2es』で所持しているiACは\n『PSO2』とは連動しません。ご了承ください。",
-		"tr_text": "iAC is the dedicated currency\nof the iOS version of PSO2es.\nDo note that it is <color=red>not compatible</color> with 『PSO2』."
+		"tr_text": "iAC is the dedicated currency\nof the iOS version of PSO2es.\nDo note that it is <color=red>not compatible</color> with \"PSO2\"."
 	},
 	{
 		"assign": "tu_0006_w11_b",
@@ -11042,7 +11042,7 @@
 	{
 		"assign": "tu_0006_w12_b",
 		"jp_text": "『PSO2es』で獲得した経験値の一部を『PSO2』に、\n『PSO2』で獲得した経験値の一部を『PSO2es』に\n持ち込むことができるようになりました。",
-		"tr_text": "『PSO2es』Experience is shared in 『PSO2』,\nand shared between PSO2es."
+		"tr_text": "\"PSO2es\"Experience is shared in \"PSO2\",\nand shared between PSO2es."
 	},
 	{
 		"assign": "tu_0006_w13_b",
@@ -11172,7 +11172,7 @@
 	{
 		"assign": "wh_20_00",
 		"jp_text": "『ＰＳＯ２ｅｓ』では、さまざまなスクラッチを引くことができます。\nこちらでは、スクラッチの種類について説明します。",
-		"tr_text": "『PSO2es』 Here you can draw upon any scratch.\nWe'll explain on the different kinds."
+		"tr_text": "\"PSO2es\" Here you can draw upon any scratch.\nWe'll explain on the different kinds."
 	},
 	{
 		"assign": "wh_20_01",
@@ -11222,12 +11222,12 @@
 	{
 		"assign": "wh_22_01",
 		"jp_text": "＜受け取りの手順について＞\nメニューから、受け取りたいものの項目をタッチしてください。\n前回の受け取りから、必要時間が経過していれば受け取り可能です。",
-		"tr_text": "<Receive Menu>\n『PSO2』 From the menu, press the button of\nwhich item you wish to receive.\nYou can check the time remaining from here."
+		"tr_text": "<Receive Menu>\n\"PSO2\" From the menu, press the button of\nwhich item you wish to receive.\nYou can check the time remaining from here."
 	},
 	{
 		"assign": "wh_22_02",
 		"jp_text": "＜受け取りの際の注意点＞\n『PSO2』の基本倉庫に空きがない場合、かつ指定アイテムを\n基本倉庫に限界まで所持している場合は、受け取りを行えません。",
-		"tr_text": "<Notes on Receiving>\n『PSO2』 If there's no space available in your\ninventory or not enough time has passed since you\nlast received.\n<color=yellow>You will not receive passes.</color>"
+		"tr_text": "<Notes on Receiving>\n\"PSO2\" If there's no space available in your\ninventory or not enough time has passed since you\nlast received.\n<color=yellow>You will not receive passes.</color>"
 	},
 	{
 		"assign": "wh_23_00",
