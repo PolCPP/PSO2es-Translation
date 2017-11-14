@@ -2237,7 +2237,7 @@
 	{
 		"assign": "labo_dialog_b_09_rarity",
 		"jp_text": "『PSO2es』では、★13のアイテムは\n強化できません。",
-		"tr_text": "☆13 weapons cannot be grinded in PSO2es."
+		"tr_text": "★13 weapons cannot be grinded in PSO2es."
 	},
 	{
 		"assign": "labo_dialog_t_10",
@@ -5252,7 +5252,7 @@
 	{
 		"assign": "quest_counter_label_weakpoint",
 		"jp_text": "有効属性予想",
-		"tr_text": "Enemy Weakpoint"
+		"tr_text": "Weakness"
 	},
 	{
 		"assign": "quest_counter_window_questinfo",
@@ -7562,7 +7562,7 @@
 	{
 		"assign": "equip_hp",
 		"jp_text": "HP",
-		"tr_text": ""
+		"tr_text": "HP"
 	},
 	{
 		"assign": "equip_defaultcp",
@@ -7652,12 +7652,12 @@
 	{
 		"assign": "chipequip_consume_cp",
 		"jp_text": "消費CP：{0}",
-		"tr_text": ""
+		"tr_text": "CP Cost: {0}"
 	},
 	{
 		"assign": "chipequip_rate",
 		"jp_text": "発動率：{0}",
-		"tr_text": ""
+		"tr_text": "Rate: {0}"
 	},
 	{
 		"assign": "chipequip_max_lv",
