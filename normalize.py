@@ -41,8 +41,11 @@ blacklist_files = [
     for f in fnmatch.filter(files, 'UI_Text.txt')
 ]
 
-json_files = [x for x in json_files if x not in blacklist_files]
-
+blacklist_files += [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'Name_Quest_AreaName.txt')
+]
 
 bl = {"!", "＊", "†", "-", "士", "1", "2", "3", "4", "5"}
 
@@ -81,6 +84,9 @@ def pairr(j=None, t=None):
 
 for files in json_files:
     update = False
+    nk = 'NFKC'
+    if files in blacklist_files:
+        nk = 'NFC'
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
         djson = json.load(json_file, object_pairs_hook=OrderedDict)
         for entry in djson:
@@ -110,7 +116,7 @@ for files in json_files:
                         continue
                     if t is None:
                         continue
-                    tn = unicodedata.normalize('NFKC', t)
+                    tn = unicodedata.normalize(nk, t)
                     trans = tn.maketrans(quick)
                     g = tn.translate(trans)
                     if g == t:
