@@ -12,8 +12,10 @@ quick = {
     "*": "＊",  # Undo normalize
     "『": "\"", "』": "\"",  # Use English Quotes
     "–": "-", "‒": "-",  # Replaces DASHs with HYPHEN-MINUS
-    "​": "", # ZERO WIDTH SPACE need to gone from this world
-    "ō": "ou", "ū": "uu"} # MACRONs are not supported
+    "​": "",  # ZERO WIDTH SPACE need to gone from this world
+    "ō": "ou", "ū": "uu",  # MACRONs are not supported
+    "\0": "\0"
+}
 
 # error counter
 countdup = 0
@@ -39,27 +41,89 @@ blacklist_files = [
     for f in fnmatch.filter(files, 'UI_Text.txt')
 ]
 
-json_files = [x for x in json_files if x not in blacklist_files]
+blacklist_files += [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'Name_Quest_AreaName.txt')
+]
+
+bl = {"!", "＊", "†", "-", "士", "1", "2", "3", "4", "5"}
+
+
+def pairr(j=None, t=None):
+    if t is None:
+        t = ""
+    s = 0
+    e = -1
+    l = len(j)
+    if l > 1:
+        while s < (l-1) and j[s] in bl:
+            s = s + 1
+        yield s
+        while e <= -(l-1) and j[e] in bl:
+            e = e - 1
+        yield e
+    else:
+        yield None
+        yield None
+
+    s = 0
+    e = -1
+    l = len(t)
+    if l > 1:
+        while s <= (l-1) and t[s] in bl:
+            s = s + 1
+        yield s
+        while e <= -(l-1) and t[e] in bl:
+            e = e - 1
+        yield e
+    else:
+        yield None
+        yield None
+
 
 for files in json_files:
     update = False
-    f = os.path.splitext(os.path.basename(files))[0]
+    nk = 'NFKC'
+    if files in blacklist_files:
+        nk = 'NFC'
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
         djson = json.load(json_file, object_pairs_hook=OrderedDict)
         for entry in djson:
+            je = None
             for data in entry:
-                if data.startswith('tr_'):
-                    d = data
-                    j = d.replace("tr_", "jp_")
-                    s = entry[d]
-                    if s == entry[j]:
+                if data.startswith('jp_') and False:
+                    jl = data
+                    tl = jl.replace("jp_", "tr_")
+                    t = entry[tl]
+                    j = entry[jl]
+                    if t == "":
                         continue
-                    t = unicodedata.normalize('NFKC', s)
-                    trans = t.maketrans(quick)
-                    g = t.translate(trans)
-                    if g != s:
+                    js, je, ts, te = pairr(j, t)
+                    if t is None and j[js:je] == t[ts:te] and t != j:
                         update = True
-                    entry[d] = g
+                        je = j
+                if data.startswith('tr_'):
+                    tl = data
+                    jl = tl.replace("tr_", "jp_")
+                    t = entry[tl]
+                    j = entry[jl]
+                    if t == j:
+                        continue
+                    if je is not None:
+                        j = je
+                    if t == j:
+                        continue
+                    if t is None:
+                        continue
+                    tn = unicodedata.normalize(nk, t)
+                    trans = tn.maketrans(quick)
+                    g = tn.translate(trans)
+                    if g == t:
+                        continue
+                    update = True
+                    entry[tl] = g
+
     if (update):
         print("Updating {}".format(files))
         with codecs.open(files, mode='w+', encoding='utf-8') as json_file:
