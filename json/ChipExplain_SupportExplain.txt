@@ -1208,14 +1208,14 @@
 		"jp_explainShort": "状態異常付与＋状態異常ダメージ絶大増加",
 		"tr_explainShort": "Chance Inflict Status+Damage Boost",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n通常攻撃にランダムで特定の状態異常を付与し\n状態異常の敵に対してダメージ量が絶大に増加される。",
-		"tr_explainLong": "JAs activate an effect that allows normal attacks\nto have a random chance to inflict status effects,\nwhile massively boosting damage to statused enemies."
+		"tr_explainLong": "Just Attacks activate an effect that allows normal\nattacks to have a random chance to inflict a random\nstatus effect, while massively boosting damage to\nenemies inflicted with a status effect.\n[C-Frame]"
 	},
 	{
 		"assign": "31134",
 		"jp_explainShort": "状態異常付与＋状態異常ダメージ絶大増加",
 		"tr_explainShort": "Chance Inflict Status+Damage Boost",
 		"jp_explainLong": "ジャストアタック成功時、一定時間\n通常攻撃にランダムで特定の状態異常を付与し\n状態異常の敵に対してダメージ量が絶大に増加される。",
-		"tr_explainLong": "JAs activate an effect that allows normal attacks\nto have a random chance to inflict status effects,\nwhile massively boosting damage to statused enemies."
+		"tr_explainLong": "Just Attacks activate an effect that allows normal\nattacks to have a random chance to inflict a random\nstatus effect, while massively boosting damage to\nenemies inflicted with a status effect.\n[C-Frame]"
 	},
 	{
 		"assign": "31135",
@@ -2244,14 +2244,14 @@
 		"jp_explainShort": "攻撃力劇的増加＋ダメージの一部ＨＰ回復",
 		"tr_explainShort": "Dramatic ATK Boost + Converts Damage to HP",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n攻撃力が劇的に増加され\n与えたダメージ量の一部を自身のHPとして回復する。",
-		"tr_explainLong": "Attacks activates an effect that dramatically\nboosts ATK and converts portion of damage dealt into HP."
+		"tr_explainLong": "Normal Attacks activate an effect that\ndramatically boosts attack and converts a portion\nof your damage into HP."
 	},
 	{
 		"assign": "31344",
 		"jp_explainShort": "攻撃力劇的増加＋ダメージの一部ＨＰ回復",
 		"tr_explainShort": "Dramatic ATK Boost + Converts Damage to HP",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n攻撃力が劇的に増加され\n与えたダメージ量の一部を自身のHPとして回復する。",
-		"tr_explainLong": "Attacks activates an effect that dramatically\nboosts ATK and converts portion of damage dealt into HP."
+		"tr_explainLong": "Normal Attacks activate an effect that\ndramatically boosts attack and converts a portion\nof your damage into HP."
 	},
 	{
 		"assign": "31347",
@@ -2944,14 +2944,14 @@
 		"jp_explainShort": "発見済みウェポノイドチップ数で追加ダメージ",
 		"tr_explainShort": "Boost ATK Based on Weaponoids Discovered",
 		"jp_explainLong": "攻撃ヒット時、短い時間\nチップ研究室において発見済みのウェポノイドチップが\n多いほど追加で大ダメージを与える。",
-		"tr_explainLong": "Attacks activates an effect that boosts\nATK proportional to the amount of Weaponoids discovered\nin Chip Lab."
+		"tr_explainLong": "Attacks activate an effect that boosts Attack\nPower proportional to the amount of Weaponoids\ndiscovered in Chip Lab."
 	},
 	{
 		"assign": "31472",
 		"jp_explainShort": "発見済みウェポノイドチップ数で追加ダメージ",
 		"tr_explainShort": "Boost ATK Based on Weaponoids Discovered",
 		"jp_explainLong": "攻撃ヒット時、一定時間\nチップ研究室において発見済みのウェポノイドチップが\n多いほど追加で特大ダメージを与える。",
-		"tr_explainLong": "Attacks activates an effect that boosts\nATK proportional to the amount of Weaponoids discovered\nin Chip Lab."
+		"tr_explainLong": "Attacks activate an effect that boosts Attack\nPower proportional to the amount of Weaponoids\ndiscovered in Chip Lab."
 	},
 	{
 		"assign": "31473",
@@ -3042,14 +3042,14 @@
 		"jp_explainShort": "全属性を小強化＋属性種類数追加ダメージ",
 		"tr_explainShort": "Boost All Attr. + Boost ATK Prop. to Different Attr. Equipped.",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n全属性がわずかに強化され、装備中チップの属性の\n種類が多いほど、敵に追加でダメージを与える。",
-		"tr_explainLong": "Attacking activates an effect that boosts all Attr.\nand boosts ATK proportional to the amount of different attr.\nchips equipped."
+		"tr_explainLong": "Attacking activates an effect that boosts all\nactive elements and boosts attack power\nproportional to the variety of elemental chips\nequipped."
 	},
 	{
 		"assign": "31492",
 		"jp_explainShort": "全属性を強化＋属性種類数追加ダメージ",
 		"tr_explainShort": "Boost All Attr. + Boost ATK Prop. to Different Attr. Equipped.",
 		"jp_explainLong": "攻撃ヒット時、一定時間\n全属性が強化され、装備中チップの属性の\n種類が多いほど、敵に追加でダメージを与える。",
-		"tr_explainLong": "Attacking activates an effect that boosts all Attr.\nand boosts ATK proportional to the amount of different attr.\nchips equipped."
+		"tr_explainLong": "Attacking activates an effect that boosts all\nactive elements and boosts attack power\nproportional to the variety of elemental chips\nequipped."
 	},
 	{
 		"assign": "31493",
@@ -3378,35 +3378,35 @@
 		"jp_explainShort": "攻撃力が極度に増加＋光属性上限上昇",
 		"tr_explainShort": "",
 		"jp_explainLong": "ジャストアタック成功時、一定時間、攻撃力が極度に\n増加される。さらに、リンクスロットに装備したチップが\n光属性の場合、光属性の上限値が上昇する。\nこのチップを装備中、光属性の必殺技・法術の\nチップコストが減少する。",
-		"tr_explainLong": "JAs activate an effect that increases attack to\nextreme levels. When a Light elemental chip is\nequipped in the link slot, your Light elemental cap\nwill rise. Reduces chip costs of Light PA/Techniques\nwhen this chip is equipped.\n※ATK UP dramatically in [Heaven Piercing Wings] EQ\n※+20 seconds for [Heaven Piercing Wings] EQ"
+		"tr_explainLong": "JAs activate an effect that increases attack to\nextreme levels. When a Light elemental chip is\nequipped in the link slot, your Light elemental cap\nwill rise. Reduces chip costs of Light PA/Techniques\nwhen this chip is equipped.\n<color=yellow>[E-Frame]</color>"
 	},
 	{
 		"assign": "31560",
 		"jp_explainShort": "攻撃力が極度に増加＋光属性上限上昇",
 		"tr_explainShort": "",
 		"jp_explainLong": "ジャストアタック成功時、一定時間、攻撃力が極度に\n増加される。さらに、リンクスロットに装備したチップが\n光属性の場合、光属性の上限値が上昇する。\nこのチップを装備中、光属性の必殺技・法術の\nチップコストが減少する。",
-		"tr_explainLong": "JAs activate an effect that increases attack to\nextreme levels. When a Light elemental chip is\nequipped in the link slot, your Light elemental cap\nwill rise. Reduces chip costs of Light PA/Techniques\nwhen this chip is equipped.\n※ATK UP dramatically in [Heaven Piercing Wings] EQ\n※+20 seconds for [Heaven Piercing Wings] EQ"
+		"tr_explainLong": "JAs activate an effect that increases attack to\nextreme levels. When a Light elemental chip is\nequipped in the link slot, your Light elemental cap\nwill rise. Reduces chip costs of Light PA/Techniques\nwhen this chip is equipped.\n<color=yellow>[E-Frame]</color>"
 	},
 	{
 		"assign": "31561",
 		"jp_explainShort": "攻撃力が極度に増加＋光属性上限上昇",
 		"tr_explainShort": "",
 		"jp_explainLong": "ジャストアタック成功時、一定時間、攻撃力が極度に\n増加される。さらに、リンクスロットに装備したチップが\n光属性の場合、光属性の上限値が上昇する。\nこのチップを装備中、全属性の必殺技・法術の\nチップコストが減少する。",
-		"tr_explainLong": "JAs activate an effect that increases attack to\nextreme levels. When a Light elemental chip is\nequipped in the link slot, your Light elemental cap\nwill rise. Reduces chip costs of all PA/Techniques\nwhen this chip is equipped.\n※ATK UP dramatically in [Heaven Piercing Wings] EQ\n※+20 seconds for [Heaven Piercing Wings] EQ"
+		"tr_explainLong": "JAs activate an effect that increases attack to\nextreme levels. When a Light elemental chip is\nequipped in the link slot, your Light elemental cap\nwill rise. Reduces chip costs of all PA/Techniques\nwhen this chip is equipped.\n<color=yellow>[E-Frame]</color>"
 	},
 	{
 		"assign": "31562",
 		"jp_explainShort": "攻撃力超絶増＋定期ＨＰ小回復＋ダウン無効",
 		"tr_explainShort": "",
 		"jp_explainLong": "攻撃ヒット時、一定時間、攻撃力が超絶に増加され\n定期的にわずかにＨＰが回復する。\nさらに、ダウンしなくなる。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacking an enemy activates an effect\nthat increases Attack to superior\nlevels, periodically recovering HP,\nand preventing knockdowns."
 	},
 	{
 		"assign": "31563",
 		"jp_explainShort": "攻撃力超絶増＋定期ＨＰ小回復＋ダウン無効",
 		"tr_explainShort": "",
 		"jp_explainLong": "攻撃ヒット時、一定時間、攻撃力が超絶に増加され\n定期的にわずかにＨＰが回復する。\nさらに、ダウンしなくなる。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Attacking an enemy activates an effect\nthat increases Attack to superior\nlevels, periodically recovering HP,\nand preventing knockdowns."
 	},
 	{
 		"assign": "31564",
@@ -3427,14 +3427,14 @@
 		"jp_explainShort": "技・法威力大強化＋光弱点時ダメージ劇的増",
 		"tr_explainShort": "",
 		"jp_explainLong": "ジャストアタック成功時、一定時間、必殺技・法術の\n威力が大きく強化され、攻撃対象の敵が光属性弱点の\n場合に与えるダメージが劇的に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a period of time, Just Attacks activate\nan effect that boosts the power of Photon\nArts and Techniques. Furthermore, if the\nenemy weakness is Light, it will dramatically\nboost the damage even more."
 	},
 	{
 		"assign": "31569",
 		"jp_explainShort": "技・法威力大強化＋光弱点時ダメージ劇的増",
 		"tr_explainShort": "",
 		"jp_explainLong": "ジャストアタック成功時、一定時間、必殺技・法術の\n威力が大きく強化され、攻撃対象の敵が光属性弱点の\n場合に与えるダメージが劇的に増加される。",
-		"tr_explainLong": ""
+		"tr_explainLong": "For a period of time, Just Attacks activate\nan effect that boosts the power of Photon\nArts and Techniques. Furthermore, if the\nenemy weakness is Light, it will dramatically\nboost the damage even more."
 	},
 	{
 		"assign": "31570",
