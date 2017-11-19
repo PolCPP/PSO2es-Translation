@@ -87,5 +87,5 @@ if len(sys.argv) == 3:
 else:  # JP MAX: 42.73
     FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 42.73)
     for e, s in FSEP.items():  # MAX: 33
-            t = e.replace("\n", "<br>")
+            t = e.replace("\n", "\\n")
             print("Item Desc '{}' is too long: {}".format(t, s))
