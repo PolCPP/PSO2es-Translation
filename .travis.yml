@@ -16,3 +16,5 @@ script:
   - ./ChipDescShort.py json
   - ./ChipDescLong.py json
   - ./ChipFont.py json
+  - ./DiceFont.py json
+  - ./DiceLen.py json
