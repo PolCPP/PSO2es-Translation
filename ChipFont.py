@@ -52,8 +52,9 @@ for files in chip_files:
                 FS[j] = _fonts.textlength(j)
             if t == "" or j == t:
                 continue
-            if t not in FS:
-                FS[t] = _fonts.textlength(t)
+            if t in FS:
+                continue
+            FS[t] = _fonts.textlength(t)
 
 for files in wpn_files:
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
