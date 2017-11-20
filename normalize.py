@@ -9,7 +9,8 @@ import unicodedata
 from collections import OrderedDict
 
 quick = {
-    "*": "＊",  # Undo normalize
+    "*": "＊",  # Undo normalize of Asterisk
+    "¥": "￥",  # Undo normalize of Yen
     "『": "\"", "』": "\"",  # Use English Quotes
     "–": "-", "‒": "-",  # Replaces DASHs with HYPHEN-MINUS
     "​": "",  # ZERO WIDTH SPACE need to gone from this world

@@ -50,6 +50,24 @@ if len(sys.argv) == 3 and sys.argv[2] != "0":
 else:
     _fonts.init()
 
+
+def remove_html_markup(s):
+    tag = False
+    quote = False
+    out = ""
+
+    for c in s:
+            if c == '<' and not quote:
+                tag = True
+            elif c == '>' and not quote:
+                tag = False
+            elif (c == '"' or c == "'") and tag:
+                quote = not quote
+            elif not tag:
+                out = out + c
+    return out
+
+
 for files in items_files:
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
         djson = json.load(json_file)
@@ -58,15 +76,16 @@ for files in items_files:
             j = entry["jp_explain"]
             if t == "" or j == t:
                 continue
-            FS[t] = _fonts.textlength(t)
+            c = remove_html_markup(t)
+            FS[t] = _fonts.textlength(c)
 
 FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
 FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
 
 if len(sys.argv) == 3:
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
-else:
-    for e in FSs:  # JP MAX: 48.34
-        if FS[e] > 33:  # MAX: ???
-            t = e.replace("\n", "<br>")
-            print("Item Desc '{}' is too long: {}".format(t, FS[e]))
+else:  # JP MAX: 42.73
+    FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 42.73)
+    for e, s in FSEP.items():  # MAX: 33
+            t = e.replace("\n", "\\n")
+            print("Item Desc '{}' is too long: {}".format(t, s))
