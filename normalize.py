@@ -83,6 +83,15 @@ def pairr(j=None, t=None):
         yield None
 
 
+def normalizet(nk='nFKC', w=None):
+    g = list()
+    for t in w:
+        tn = unicodedata.normalize(nk, t)
+        trans = tn.maketrans(quick)
+        g.append(tn.translate(trans))
+    return g
+
+
 for files in json_files:
     update = False
     nk = 'NFKC'
@@ -91,19 +100,7 @@ for files in json_files:
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
         djson = json.load(json_file, object_pairs_hook=OrderedDict)
         for entry in djson:
-            je = None
             for data in entry:
-                if data.startswith('jp_') and False:
-                    jl = data
-                    tl = jl.replace("jp_", "tr_")
-                    t = entry[tl]
-                    j = entry[jl]
-                    if t == "":
-                        continue
-                    js, je, ts, te = pairr(j, t)
-                    if t is None and j[js:je] == t[ts:te] and t != j:
-                        update = True
-                        je = j
                 if data.startswith('tr_'):
                     tl = data
                     jl = tl.replace("tr_", "jp_")
@@ -111,19 +108,25 @@ for files in json_files:
                     j = entry[jl]
                     if t == j:
                         continue
-                    if je is not None:
-                        j = je
-                    if t == j:
-                        continue
                     if t is None:
                         continue
-                    tn = unicodedata.normalize(nk, t)
-                    trans = tn.maketrans(quick)
-                    g = tn.translate(trans)
-                    if g == t:
+                    if t == "":
+                        continue
+                    if type(j) is str:
+                        w = {t}
+                    else:
+                        w = t
+                    n = normalizet(nk, w)
+                    if type(j) is str:
+                        if n[0] == t:
+                            continue
+                    elif n == t:
                         continue
                     update = True
-                    entry[tl] = g
+                    if len(n) == 1:
+                        entry[tl] = n[0]
+                    else:
+                        entry[tl] = n
 
     if (update):
         print("Updating {}".format(files))
