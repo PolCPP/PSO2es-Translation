@@ -42,23 +42,23 @@ for files in story_files:
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
         djson = json.load(json_file)
         for entry in djson:
-            t = entry["tr_text"]
-            j = entry["jp_text"]
-            if j.replace("\r\n", "\n") == t:
-                t = ""
-            if (t == ""):
-                continue
-            if (t in FS):
-                continue
-            FS[t] = _fonts.textlength(t)
+            for text in entry:
+                if (text != "tr_buttons"):
+                    continue
+                for t in entry[text]:
+                    if (t == ""):
+                        continue
+                    if t in FS:
+                        continue
+                    FS[t] = _fonts.textlength(t)
 
 FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
 FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
 
 if len(sys.argv) == 3:
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
-else:  # JP MAX: 37.53
-    FSWP = OrderedDict((key, value) for key, value in FSs.items() if value > 45)
-    for e, s in FSWP.items():  # TXT MAX: 45
+else:  # JP MAX: 34.24
+    FSWP = OrderedDict((key, value) for key, value in FSs.items() if value > 34.24)
+    for e, s in FSWP.items():  # TXT MAX: Center mess
         t = e.replace("\n", "br")
-        print("Story Text '{}' is too long: {}".format(t, s))
+        print("Story Button '{}' is too long: {}".format(t, s))
