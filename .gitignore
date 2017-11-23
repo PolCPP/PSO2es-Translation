@@ -36,6 +36,20 @@ Thumbs.db
 # Python #
 # ====== #
 __pycache__
+*.pyc
+
+# ============ #
+# ESBreakerCLI #
+# ============ #
+/Assembly-CSharp-firstpass.dll
+/CommandLine.dll
+/ContentsSerializer.dll
+/Databases
+/ESBreakerCLI.exe
+/Newtonsoft.Json.dll
+/ProtoBuffSerializer.dll
+/UnityEngine.dll
+/protobuf-net.dll
 
 # ===== #
 # Other #
