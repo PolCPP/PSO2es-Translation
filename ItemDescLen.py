@@ -138,10 +138,7 @@ for files in explain3_files:
 
 FS3k = OrderedDict(sorted(FS3.items(), key=lambda t: t[0]))
 FS3s = OrderedDict(sorted(FS3k.items(), key=lambda t: t[1]))
-
-for e in FS3s:
-    if FS3[e] > 3:
-        print("Item Desc '{}' is too big: {}".format(e, FS3[e]))
+FS3WP = OrderedDict((key, value) for key, value in FS3s.items() if value > 3)
 
 for files in explain4_files:
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
@@ -155,7 +152,12 @@ for files in explain4_files:
 
 FS4k = OrderedDict(sorted(FS4.items(), key=lambda t: t[0]))
 FS4s = OrderedDict(sorted(FS4k.items(), key=lambda t: t[1]))
+FS4WP = OrderedDict((key, value) for key, value in FS4s.items() if value > 4)
 
-for e in FS4s:
-    if FS4[e] > 4:
-        print("Item Desc '{}' is too big: {}".format(e, FS4[e]))
+FSER = OrderedDict()
+
+FSER.update(FS4WP)
+FSER.update(FS3WP)
+
+for e, s in FSER.items():
+    print("Item Desc '{}' is too big: {}".format(e, s))

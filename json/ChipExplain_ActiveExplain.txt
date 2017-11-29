@@ -641,7 +641,7 @@
 		"jp_explainShort": "風属性値に応じてダメージ絶大増加",
 		"tr_explainShort": "Increase ATK proportional to Wind Attribute.",
 		"jp_explainLong": "長い時間、風属性値に応じて\n敵に与えるダメージを絶大に増加する。",
-		"tr_explainLong": "Enormously boosts ATK proportional to the amount of Wind Attribute. for a long duration."
+		"tr_explainLong": "Enormously boosts ATK proportional to the amount of\nWind Attribute. for a long duration."
 	},
 	{
 		"assign": "31063",
@@ -662,14 +662,14 @@
 		"jp_explainShort": "ダメージ増加＋状態異常無効",
 		"tr_explainShort": "Boost ATK + Status Immunity",
 		"jp_explainLong": "長い時間\n敵に与えるダメージを増加し\n自身を状態異常にならなくする。",
-		"tr_explainLong": "Boosts ATK and grants status effect immunity for a long duration."
+		"tr_explainLong": "Boosts ATK and grants status effect immunity for a\nlong duration."
 	},
 	{
 		"assign": "31068",
 		"jp_explainShort": "ダメージ大増加＋状態異常無効",
 		"tr_explainShort": "Boost ATK + Status Immunity",
 		"jp_explainLong": "長い時間\n敵に与えるダメージを大きく増加し\n自身を状態異常にならなくする。",
-		"tr_explainLong": "Greatly boosts ATK and grants status effect immunity for a long duration."
+		"tr_explainLong": "Greatly boosts ATK and grants status effect immunity\nfor a long duration."
 	},
 	{
 		"assign": "31071",
@@ -788,42 +788,42 @@
 		"jp_explainShort": "属性種類数ダメージ大増加＋定期ＣＰ回復",
 		"tr_explainShort": "Boosts ATK proportional to Chips equipped + Periodic CP recovery",
 		"jp_explainLong": "長い時間、定期的にＣＰがわずかに回復し\n装備中チップの属性の種類が多いほど\n攻撃力を大きく増加する。",
-		"tr_explainLong": "Greatly boosts ATK proportional to the\ndifferent amount of Chip elements equipped and recovers\nCP periodically for a long duration."
+		"tr_explainLong": "Greatly boosts ATK proportional to the different\namount of Chip elements equipped and recovers\nCP periodically for a long duration."
 	},
 	{
 		"assign": "31138",
 		"jp_explainShort": "属性種類数ダメージ劇的増＋定期ＣＰ回復",
 		"tr_explainShort": "Boosts ATK proportional to Chips equipped + Periodic CP recovery",
 		"jp_explainLong": "長い時間、定期的にＣＰがわずかに回復し\n装備中チップの属性の種類が多いほど\n攻撃力を劇的に増加する。",
-		"tr_explainLong": "Dramatically boosts ATK proportional to the\ndifferent amount of Chip elements equipped and recovers\nCP periodically for a long duration."
+		"tr_explainLong": "Dramatically boosts ATK proportional to the different\namount of Chip elements equipped and recovers\nCP periodically for a long duration."
 	},
 	{
 		"assign": "31141",
 		"jp_explainShort": "属性種類数ダメージ大増加＋ダメージ防御",
 		"tr_explainShort": "Boosts ATK proportional to Chips equipped + Damage Protection",
 		"jp_explainLong": "長い時間、一定ダメージを防ぐ効果がＨＰに\n上乗せされ、装備中チップの属性の種類が\n多いほど攻撃力を大きく増加する。",
-		"tr_explainLong": "Greatly boosts ATK proportional to the\ndifferent amount of Chip elements equipped and grants a\nfixed amount of damage protection for a long duration."
+		"tr_explainLong": "Greatly boosts ATK proportional to the different\namount of Chip elements equipped and grants a fixed\namount of damage protection for a long duration."
 	},
 	{
 		"assign": "31142",
 		"jp_explainShort": "属性種類数ダメージ劇的増＋ダメージ防御",
 		"tr_explainShort": "Boosts ATK proportional to Chips equipped + Damage Protection",
 		"jp_explainLong": "長い時間、一定ダメージを防ぐ効果がＨＰに\n上乗せされ、装備中チップの属性の種類が\n多いほど攻撃力を劇的に増加する。",
-		"tr_explainLong": "Dramatically boosts ATK proportional to the\ndifferent amount of Chip elements equipped and grants a\nfixed amount of damage protection for a long duration."
+		"tr_explainLong": "Dramatically boosts ATK proportional to the different\namount of Chip elements equipped and grants a\nfixed amount of damage protection for a long duration."
 	},
 	{
 		"assign": "31145",
 		"jp_explainShort": "「フリーズ」付与＋「フリーズ」ダメージ大増加",
 		"tr_explainShort": "Inflicts [Freeze] + Increased [Freeze] damage",
 		"jp_explainLong": "敵に「フリーズ」を付与し\n一定時間、「フリーズ」状態の敵に対して\nダメージ量を絶大に増加する。",
-		"tr_explainLong": "Inflicts [Freeze] on enemies and greatly boosts damage\ndone to Frozen enemies for a period of time."
+		"tr_explainLong": "Inflicts [Freeze] on enemies and greatly boosts\ndamage done to Frozen enemies for a period of time."
 	},
 	{
 		"assign": "31146",
 		"jp_explainShort": "「フリーズ」付与＋「フリーズ」ダメージ劇的増加",
 		"tr_explainShort": "Inflicts [Freeze] + Increased [Freeze] damage",
 		"jp_explainLong": "敵に「フリーズ」を付与し\n一定時間、「フリーズ」状態の敵に対して\nダメージ量を絶大に増加する。",
-		"tr_explainLong": "Inflicts [Freeze] on enemies and greatly boosts damage\ndone to Frozen enemies for a period of time."
+		"tr_explainLong": "Inflicts [Freeze] on enemies and greatly boosts\ndamage done to Frozen enemies for a period of time."
 	},
 	{
 		"assign": "31153",
@@ -872,14 +872,14 @@
 		"jp_explainShort": "全アクティブチップ発動＋攻撃力劇的増加",
 		"tr_explainShort": "All Active Chips Activation + ATK Boost",
 		"jp_explainLong": "長い時間\n必殺技・法術以外の全てのアクティブチップを発動し\n攻撃力を劇的に増加する。",
-		"tr_explainLong": "Activates all effects of active chips, excluding PA\n& Tech and dramatically boosts ATK for a long duration."
+		"tr_explainLong": "Activates all effects of active chips, excluding PA &\nTech and dramatically boosts ATK for a long duration."
 	},
 	{
 		"assign": "31176",
 		"jp_explainShort": "全アクティブチップ発動＋攻撃力劇的増加",
 		"tr_explainShort": "All Active Chips Activation + ATK Boost",
 		"jp_explainLong": "長い時間\n必殺技・法術以外の全てのアクティブチップを発動し\n攻撃力を劇的に増加する。",
-		"tr_explainLong": "Activates all effects of active chips, excluding PA\n& Tech and dramatically boosts ATK for a long duration."
+		"tr_explainLong": "Activates all effects of active chips, excluding PA &\nTech and dramatically boosts ATK for a long duration."
 	},
 	{
 		"assign": "31185",
@@ -1054,14 +1054,14 @@
 		"jp_explainShort": "属性数ダメージ劇的増＋アクティブチップ延長",
 		"tr_explainShort": "Boost ATK proportional to Chips equipped + Effect Time Extension",
 		"jp_explainLong": "長い時間、装備中チップの属性の種類が多いほど\n攻撃力を劇的に増加し、アクティブチップ発動時の\nアビリティ効果時間を延長する。",
-		"tr_explainLong": "Dramatically boost ATK proportional to the amount\nof different element chips equipped, and gives addition time\nto all other active chips on activation."
+		"tr_explainLong": "Dramatically boost ATK proportional to the amount\nof different element chips equipped, and gives addition\ntime to all other active chips on activation."
 	},
 	{
 		"assign": "31256",
 		"jp_explainShort": "属性数ダメージ劇的増＋アクティブチップ延長",
 		"tr_explainShort": "Boost ATK proportional to Chips equipped + Effect Time Extension",
 		"jp_explainLong": "長い時間、装備中チップの属性の種類が多いほど\n攻撃力を劇的に増加し、アクティブチップ発動時の\nアビリティ効果時間を延長する。",
-		"tr_explainLong": "Dramatically boost ATK proportional to the amount\nof different element chips equipped, and gives addition time\nto all other active chips on activation."
+		"tr_explainLong": "Dramatically boost ATK proportional to the amount\nof different element chips equipped, and gives addition\ntime to all other active chips on activation."
 	},
 	{
 		"assign": "31259",
@@ -1082,14 +1082,14 @@
 		"jp_explainShort": "全属性値を大強化+攻撃力を劇的増加",
 		"tr_explainShort": "All Attribute. Boost + ATK Boost",
 		"jp_explainLong": "一定時間\n全属性の属性値を大きく強化し\nさらに、攻撃力を劇的に増加する。",
-		"tr_explainLong": "Greatly boosts all Attribute. and dramatically boosts ATK for a period of time."
+		"tr_explainLong": "Greatly boosts all Attribute.\nand dramatically boosts ATK for a period of time."
 	},
 	{
 		"assign": "31270",
 		"jp_explainShort": "全属性値を大強化+攻撃力を劇的増加",
 		"tr_explainShort": "All Attribute. Boost + ATK Boost",
 		"jp_explainLong": "長い時間\n全属性の属性値を大きく強化し\nさらに、攻撃力を劇的に増加する。",
-		"tr_explainLong": "Greatly boosts all Attribute. and dramatically boosts ATK for a period of time."
+		"tr_explainLong": "Greatly boosts all Attribute.\nand dramatically boosts ATK for a period of time."
 	},
 	{
 		"assign": "31271",
@@ -1285,7 +1285,7 @@
 		"jp_explainShort": "消費ＣＰ減少＋攻撃力劇的増加",
 		"tr_explainShort": "CP Consumption Decreased + ATK Boost",
 		"jp_explainLong": "長い時間、\n消費ＣＰを減少し攻撃力を劇的に増加する。\n消費ＣＰ減少はこのチップ発動時にも効果が適用される。",
-		"tr_explainLong": "For a long duration, dramatically boosts\nATK while reducing CP consumption."
+		"tr_explainLong": "For a long duration, dramatically\nboosts ATK while reducing CP consumption."
 	},
 	{
 		"assign": "31409",
@@ -1306,7 +1306,7 @@
 		"jp_explainShort": "消費ＣＰ減少＋必殺技と法術の威力劇的強化",
 		"tr_explainShort": "CP Consumption Decreased + Boost PA & Tech",
 		"jp_explainLong": "長い時間、消費ＣＰを減少し\n必殺技・法術の威力を劇的に強化する。\n消費ＣＰ減少はこのチップ発動時にも効果が適用される。",
-		"tr_explainLong": "For a long duration, dramatically boosts\nPA & Tech while reducing CP consumption."
+		"tr_explainLong": "For a long duration, dramatically\nboosts PA & Tech while reducing CP consumption."
 	},
 	{
 		"assign": "31418",
@@ -1570,44 +1570,44 @@
 	{
 		"assign": "31543",
 		"jp_explainShort": "攻撃力超絶増＋ダメージ減＋指定技威力強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "Damage+Power+PA Effect Boost",
 		"jp_explainLong": "長い時間、攻撃力を超絶に増加し、受けるダメージを\n大きく軽減する。さらに、使用する必殺技が\n「オーバーエンド」の場合、その威力を絶大に強化する。",
 		"tr_explainLong": "Increases Attack to superior levels and decreases\ndamage received. Increases the power of [Over End]\ntremendously.\n<color=yellow>[E-Frame+A-Frame]</color>"
 	},
 	{
 		"assign": "31544",
 		"jp_explainShort": "攻撃力超絶増＋ダメージ減＋指定技威力強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "Damage+Power+PA Effect Boost",
 		"jp_explainLong": "長い時間、攻撃力を超絶に増加し、受けるダメージを\n大きく軽減する。さらに、使用する必殺技が\n「オーバーエンド」の場合、その威力を絶大に強化する。",
 		"tr_explainLong": "Increases Attack to superior levels and decreases\ndamage received. Increases the power of [Over End]\ntremendously.\n<color=yellow>[E-Frame+A-Frame]</color>"
 	},
 	{
 		"assign": "31555",
 		"jp_explainShort": "ダーカー以外にダメージ大増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Increases damage to everything sans Darkers",
 		"jp_explainLong": "長い時間、原生種、龍族、機甲種、海王種に\n与えるダメージを大きく増加する。",
 		"tr_explainLong": "Increases damage heavily to Natives, Mechs,\nOceanids, and Dragonkin.\n<color=yellow>[B-Frame]</color>"
 	},
 	{
 		"assign": "31556",
 		"jp_explainShort": "ダーカー以外にダメージ劇的増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Increases damage to everything sans Darkers",
 		"jp_explainLong": "長い時間、原生種、龍族、機甲種、海王種に\n与えるダメージを劇的に増加する。",
 		"tr_explainLong": "Increases damage heavily to Natives, Mechs,\nOceanids, and Dragonkin.\n[B-Frame]</color>"
 	},
 	{
 		"assign": "31566",
 		"jp_explainShort": "炎属性武器で攻撃力が絶大増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Fire Weapons increase Attack",
 		"jp_explainLong": "長い時間、装備中の武器の属性が\n炎属性の場合、攻撃力を絶大に増加する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Increases Attack tremendously when a\nFire weapon is equipped."
 	},
 	{
 		"assign": "31567",
 		"jp_explainShort": "炎属性武器で攻撃力が絶大増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Fire Weapons increase Attack",
 		"jp_explainLong": "長い時間、装備中の武器の属性が\n炎属性の場合、攻撃力を絶大に増加する。",
-		"tr_explainLong": ""
+		"tr_explainLong": "Increases Attack tremendously when a\nFire weapon is equipped."
 	},
 	{
 		"assign": "2110",
@@ -3098,14 +3098,14 @@
 		"jp_explainShort": "大剣でガード直後ジャストアタック発動",
 		"tr_explainShort": "[Sword-exclusive] Just-Guard Attack",
 		"jp_explainLong": "「大剣専用」\n短い時間ガード姿勢をとる。ガードに成功すると\nジャストアタックとなる一撃を放つ。",
-		"tr_explainLong": "[Sword-exclusive] For a short duration, release an attack after a successful [Just Guard]."
+		"tr_explainLong": "[Sword-exclusive] For a short duration,\nrelease an attack after a successful [Just Guard]."
 	},
 	{
 		"assign": "51520",
 		"jp_explainShort": "大剣でガード直後ジャストアタック発動",
 		"tr_explainShort": "[Sword-exclusive] Just-Guard Attack",
 		"jp_explainLong": "「大剣専用」\n短い時間ガード姿勢をとる。ガードに成功すると\nジャストアタックとなる一撃を放つ。",
-		"tr_explainLong": "[Sword-exclusive] For a short duration, release an attack after a successful [Just Guard]."
+		"tr_explainLong": "[Sword-exclusive] For a short duration,\n release an attack after a successful [Just Guard]."
 	},
 	{
 		"assign": "51610",
@@ -3476,56 +3476,56 @@
 		"jp_explainShort": "フォトン粒子砲を発射する大砲用の必殺技",
 		"tr_explainShort": "[Launcher PA] - Sphere Eraser",
 		"jp_explainLong": "「大砲用の必殺技」\n凝縮したフォトン粒子砲を発射。\nスライド操作を行うまで撃ち続ける。",
-		"tr_explainLong": "[Launcher PA]\nCondenses photons into a particle beam.\nContinuously fires, can be cancelled by movement actions."
+		"tr_explainLong": "[Launcher PA]\nCondenses photons into a particle beam.\nContinuously fires,\ncan be cancelled by movement actions."
 	},
 	{
 		"assign": "60010",
 		"jp_explainShort": "フォトン粒子砲を発射する大砲用の必殺技",
 		"tr_explainShort": "[Launcher PA] - Sphere Eraser",
 		"jp_explainLong": "「大砲用の必殺技」\n凝縮したフォトン粒子砲を発射。\nスライド操作を行うまで撃ち続ける。",
-		"tr_explainLong": "[Launcher PA]\nCondenses photons into a particle beam.\nContinuously fires, can be cancelled by movement actions."
+		"tr_explainLong": "[Launcher PA]\nCondenses photons into a particle beam.\nContinuously fires,\ncan be cancelled by movement actions."
 	},
 	{
 		"assign": "60011",
 		"jp_explainShort": "フォトン粒子砲を発射する大砲用の必殺技",
 		"tr_explainShort": "[Launcher PA] - Sphere Eraser",
 		"jp_explainLong": "「大砲用の必殺技」\n凝縮したフォトン粒子砲を発射。\nスライド操作を行うまで撃ち続ける。",
-		"tr_explainLong": "[Launcher PA]\nCondenses photons into a particle beam.\nContinuously fires, can be cancelled by movement actions."
+		"tr_explainLong": "[Launcher PA]\nCondenses photons into a particle beam.\nContinuously fires,\ncan be cancelled by movement actions."
 	},
 	{
 		"assign": "60012",
 		"jp_explainShort": "フォトン粒子砲を発射する大砲用の必殺技",
 		"tr_explainShort": "[Launcher PA] - Sphere Eraser",
 		"jp_explainLong": "「大砲用の必殺技」\n凝縮したフォトン粒子砲を発射。\nスライド操作を行うまで撃ち続ける。",
-		"tr_explainLong": "[Launcher PA]\nCondenses photons into a particle beam.\nContinuously fires, can be cancelled by movement actions."
+		"tr_explainLong": "[Launcher PA]\nCondenses photons into a particle beam.\nContinuously fires,\ncan be cancelled by movement actions."
 	},
 	{
 		"assign": "60013",
 		"jp_explainShort": "フォトン粒子砲を発射する大砲用の必殺技",
 		"tr_explainShort": "[Launcher PA] - Sphere Eraser",
 		"jp_explainLong": "「大砲用の必殺技」\n凝縮したフォトン粒子砲を発射。\nスライド操作を行うまで撃ち続ける。",
-		"tr_explainLong": "[Launcher PA]\nCondenses photons into a particle beam.\nContinuously fires, can be cancelled by movement actions."
+		"tr_explainLong": "[Launcher PA]\nCondenses photons into a particle beam.\nContinuously fires,\ncan be cancelled by movement actions."
 	},
 	{
 		"assign": "60014",
 		"jp_explainShort": "フォトン粒子砲を発射する大砲用の必殺技",
 		"tr_explainShort": "[Launcher PA] - Sphere Eraser",
 		"jp_explainLong": "「大砲用の必殺技」\n凝縮したフォトン粒子砲を発射。\nスライド操作を行うまで撃ち続ける。",
-		"tr_explainLong": "[Launcher PA]\nCondenses photons into a particle beam.\nContinuously fires, can be cancelled by movement actions."
+		"tr_explainLong": "[Launcher PA]\nCondenses photons into a particle beam.\nContinuously fires,\ncan be cancelled by movement actions."
 	},
 	{
 		"assign": "60015",
 		"jp_explainShort": "フォトン粒子砲を発射する大砲用の必殺技",
 		"tr_explainShort": "[Launcher PA] - Sphere Eraser",
 		"jp_explainLong": "「大砲用の必殺技」\n凝縮したフォトン粒子砲を発射。\nスライド操作を行うまで撃ち続ける。",
-		"tr_explainLong": "[Launcher PA]\nCondenses photons into a particle beam.\nContinuously fires, can be cancelled by movement actions."
+		"tr_explainLong": "[Launcher PA]\nCondenses photons into a particle beam.\nContinuously fires,\ncan be cancelled by movement actions."
 	},
 	{
 		"assign": "60016",
 		"jp_explainShort": "フォトン粒子砲を発射する大砲用の必殺技",
 		"tr_explainShort": "[Launcher PA] - Sphere Eraser",
 		"jp_explainLong": "「大砲用の必殺技」\n凝縮したフォトン粒子砲を発射。\nスライド操作を行うまで撃ち続ける。",
-		"tr_explainLong": "[Launcher PA]\nCondenses photons into a particle beam.\nContinuously fires, can be cancelled by movement actions."
+		"tr_explainLong": "[Launcher PA]\nCondenses photons into a particle beam.\nContinuously fires,\ncan be cancelled by movement actions."
 	},
 	{
 		"assign": "60017",
@@ -6164,7 +6164,7 @@
 		"jp_explainShort": "雷属性を小強化",
 		"tr_explainShort": "Boost Lightning Attribute.",
 		"jp_explainLong": "短い時間、雷属性がわずかに強化される。",
-		"tr_explainLong": "For a short duration, slightly boosts Lightning Attribute."
+		"tr_explainLong": "For a short duration,\nslightly boosts Lightning Attribute."
 	},
 	{
 		"assign": "20610",
@@ -6220,14 +6220,14 @@
 		"jp_explainShort": "闇属性の法撃による中ダメージ",
 		"tr_explainShort": "Dark Attribute. Attack",
 		"jp_explainLong": "闇属性の法撃による中ダメージを与える。",
-		"tr_explainLong": "Deals a medium damage, dark attribute attack to target."
+		"tr_explainLong": "Deals a medium damage,\ndark attribute attack to target."
 	},
 	{
 		"assign": "3820",
 		"jp_explainShort": "闇属性の法撃による中ダメージ",
 		"tr_explainShort": "Dark Attribute. Attack",
 		"jp_explainLong": "闇属性の法撃による中ダメージを与える。",
-		"tr_explainLong": "Deals a medium damage, dark attribute attack to target."
+		"tr_explainLong": "Deals a medium damage,\ndark attribute attack to target."
 	},
 	{
 		"assign": "3910",
@@ -6290,7 +6290,7 @@
 		"jp_explainShort": "敵から受けるダメージを軽減",
 		"tr_explainShort": "Damage Reduction",
 		"jp_explainLong": "短い時間、敵からのダメージを軽減する。",
-		"tr_explainLong": "For a short duration, reduces damage taken from enemies."
+		"tr_explainLong": "For a short duration,\nreduces damage taken from enemies."
 	},
 	{
 		"assign": "4520",
@@ -6346,7 +6346,7 @@
 		"jp_explainShort": "全体に闇属性の射撃による中ダメージ",
 		"tr_explainShort": "All Dark Attribute. All Attack",
 		"jp_explainLong": "敵全体に\n闇属性の射撃による中ダメージを与える。",
-		"tr_explainLong": "Deals a dark attribute attack of medium damage to all enemies."
+		"tr_explainLong": "Deals a dark attribute attack of medium damage to all\nenemies."
 	},
 	{
 		"assign": "5320",
@@ -6801,7 +6801,7 @@
 		"jp_explainShort": "原生種に対してダメージを大増加",
 		"tr_explainShort": "ATK Boost against Natives",
 		"jp_explainLong": "長い時間、原生種に\n与えるダメージを大きく増加する。",
-		"tr_explainLong": "For a long duration, greatly boost ATK against natives."
+		"tr_explainLong": "For a long duration,\ngreatly boost ATK against natives."
 	},
 	{
 		"assign": "30210",
@@ -6829,7 +6829,7 @@
 		"jp_explainShort": "龍族に対してダメージを大増加",
 		"tr_explainShort": "ATK Boost against Dragonkins",
 		"jp_explainLong": "長い時間、龍族に\n与えるダメージを大きく増加する。",
-		"tr_explainLong": "For a long duration, greatly boost ATK against dragonkins."
+		"tr_explainLong": "For a long duration,\ngreatly boost ATK against dragonkins."
 	},
 	{
 		"assign": "30410",
@@ -6843,7 +6843,7 @@
 		"jp_explainShort": "ダーカーに対してダメージを大増加",
 		"tr_explainShort": "ATK Boost against Darkers",
 		"jp_explainLong": "長い時間、ダーカーに\n与えるダメージを大きく増加する。",
-		"tr_explainLong": "For a long duration, greatly boost ATK against darkers."
+		"tr_explainLong": "For a long duration,\ngreatly boost ATK against darkers."
 	},
 	{
 		"assign": "0",
@@ -6962,7 +6962,7 @@
 		"jp_explainShort": "海王種に対してダメージを大増加",
 		"tr_explainShort": "ATK Boost against Oceanids",
 		"jp_explainLong": "長い時間、海王種に\n与えるダメージを大きく増加する。",
-		"tr_explainLong": "For a long duration, greatly boost ATK against darkers."
+		"tr_explainLong": "For a long duration,\ngreatly boost ATK against darkers."
 	},
 	{
 		"assign": "20011",
