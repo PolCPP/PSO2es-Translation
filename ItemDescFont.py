@@ -77,6 +77,8 @@ for files in items_files:
             if t == "" or j == t:
                 continue
             c = remove_html_markup(t)
+            if (t in FS):
+                continue
             FS[t] = _fonts.textlength(c)
 
 FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
@@ -87,5 +89,5 @@ if len(sys.argv) == 3:
 else:  # JP MAX: 42.73
     FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 42.73)
     for e, s in FSEP.items():  # MAX: 33
-            t = e.replace("\n", "<br>")
+            t = e.replace("\n", "\\n")
             print("Item Desc '{}' is too long: {}".format(t, s))

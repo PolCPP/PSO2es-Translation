@@ -53,6 +53,8 @@ for files in chip_files:
             if t == "" or j == t:
                 continue
             c = remove_html_markup(t)
+            if (t in FS):
+                continue
             FS[t] = _fonts.textlength(c)
 
 FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))

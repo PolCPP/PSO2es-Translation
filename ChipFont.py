@@ -33,7 +33,7 @@ wpn_files += [
     for f in fnmatch.filter(files, 'UI_Weaponoid_Name.txt')
 ]
 
-WPN = list()
+WPN = dict()
 
 if len(sys.argv) == 3 and sys.argv[2] != "0":
     _fonts.init(int(sys.argv[2]))
@@ -46,7 +46,13 @@ for files in chip_files:
         for entry in djson:
             t = entry["tr_text"]
             j = entry["jp_text"]
-            if t == "" or j.replace("\r\n", "\n") == t:
+            if j == "" or j == "-":
+                continue
+            if j not in FS and False:
+                FS[j] = _fonts.textlength(j)
+            if t == "" or j == t:
+                continue
+            if t in FS:
                 continue
             FS[t] = _fonts.textlength(t)
 
@@ -58,29 +64,32 @@ for files in wpn_files:
             j = entry["jp_text"]
             if j == "" or j == "-":
                 continue
-            WPN.append([j])
-            if t == "" or j == t:
+            if False:
+                WPN.update({j: False})
+            if (t == "" or j == t) and t not in WPN:
                 continue
-            WPN.append([t])
+            WPN.update({t: True})
 
 FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
 FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
 
-FSWP = OrderedDict((key, value) for key, value in FSs.items() if value >= 32)
+FSN = OrderedDict((key, value) for key, value in FSs.items() if key not in WPN)
+FSW = OrderedDict((key, value) for key, value in FSs.items() if key in WPN)
 
-FSTL = OrderedDict((key, value) for key, value in FSWP.items() if value >= 60)
+FSL = OrderedDict()
+FSL.update(FSN)  # Non-Weaponoid
+FSL.update(FSW)  # Weaponoid
 
-FSWPN = OrderedDict((key, value) for key, value in FSWP.items() if key not in FSTL)
-
-FSWPNTL = OrderedDict((key, value) for key, value in FSs.items() if key in WPN)
+FSNER = OrderedDict((key, value) for key, value in FSN.items() if value >= 60)
+FSWER = OrderedDict((key, value) for key, value in FSW.items() if value >= 37.25)
 
 FSER = OrderedDict()
 
-FSER.update(FSTL)  # Bigger then 60 first
-FSER.update(FSWPNTL)  # Bigger the 32 but less then 60 and in the weapon list
+FSER.update(FSNER)  # Bigger then 60 first
+FSER.update(FSWER)  # Bigger the 32 but less then 60 and in the weapon list
 
 if len(sys.argv) == 3:
-    print(json.dumps(FSER, ensure_ascii=False, indent="\t", sort_keys=False))
+    print(json.dumps(FSL, ensure_ascii=False, indent="\t", sort_keys=False))
 else:
     for e, s in FSER.items():
         print("Chip Name '{}' is too long: {}".format(e, s))

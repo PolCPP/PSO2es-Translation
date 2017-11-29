@@ -53,6 +53,8 @@ for files in chip_files:
             if t == "" or j.replace("\r\n", "\n") == t:
                 continue
             c = remove_html_markup(t)
+            if t in FS:
+                continue
             FS[t] = _fonts.textlength(c)
 
 FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
@@ -61,7 +63,7 @@ FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
 if len(sys.argv) == 3:
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
 else:  # JP MAX: 46.86
-    FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 46.86)
+    FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 46.88)
     for e, s in FSEP.items():  # MAX: 42.5
-        t = e.replace("\n", "<br>")
+        t = e.replace("\n", "\\n")
         print("Chip Long explain '{}' is too big: {}".format(t, s))
