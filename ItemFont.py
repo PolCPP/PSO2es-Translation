@@ -96,8 +96,8 @@ FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
 if len(sys.argv) == 3:
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
 else:  # JP MAX: 25.21
-    FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 25.21)
-    for e, s in FSEP.items():  # MAX: 25.21
+    FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 27.34)
+    for e, s in FSEP.items():  # MAX: 27.34
             t = e.replace("\n", "\\n")
             counterr += 1
             print("Item Desc '{}' is too long: {}".format(t, s))
