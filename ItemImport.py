@@ -8,7 +8,7 @@ import os
 import sys
 from collections import OrderedDict
 
-TR_name = dict()
+TR_name = {"": ""}
 TR_dup = dict()
 TR_explain = dict()
 TR_src = dict()
@@ -102,6 +102,7 @@ for files in explain_files:
             djson = json.load(json_file, object_pairs_hook=OrderedDict)
             for entry in djson:
                 if (
+                    entry["jp_text"] != "" and
                     entry["jp_text"] in TR_name and
                     TR_src[entry["jp_text"]] == "CSV"
                 ):
@@ -121,7 +122,7 @@ for files in explain_files:
                         change = True
                     else:
                         TR_explain[k] = d
-                    # TR_src[k] = "JSON"
+                    TR_src[k] = "JSON"
                 else:
                     k = entry["jp_text"]
                     t = entry["tr_text"]
@@ -161,8 +162,8 @@ for files in names_file:
             djson = json.load(json_file, object_pairs_hook=OrderedDict)
             for entry in djson:
                 if (
-                    entry["jp_text"] in TR_name and
-                    TR_src[entry["jp_text"]] == "CSV"
+                    entry["jp_text"] != "" and
+                    entry["jp_text"] in TR_name
                 ):
                     k = entry["jp_text"]
                     t = entry["tr_text"]
@@ -172,7 +173,7 @@ for files in names_file:
                         change = True
                     else:
                         TR_name[k] = t
-                    # TR_src[k] = "JSON"
+                    TR_src[k] = "JSON"
                 else:
                     k = entry["jp_text"]
                     t = entry["tr_text"]
@@ -186,8 +187,7 @@ for files in names_file:
                             [
                                 ('assign', e["assign"]),
                                 ('jp_text', e["jp_text"]),
-                                ('tr_text', e["tr_text"].replace(
-                                    "<br>", "\n").rstrip())
+                                ('tr_text', TR_name[e["jp_text"]])
                             ]
                         )
                         for e in djson
