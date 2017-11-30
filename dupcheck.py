@@ -7,12 +7,16 @@ import os
 import json
 import sys
 
-countdup = 0
+# count errros
+counterr = 0
 bufout = "FILE: ID\n"
 ENMap = dict()
 
+# Need the json path
 if len(sys.argv) < 2:
+    print("Where the json folder?")
     sys.exit(os.EX_NOINPUT)
+
 
 dir = sys.argv[1]
 
@@ -58,9 +62,10 @@ for files in json_files:
                         bufout += ("{}:{} {} wants the mapping of {}\n".format(
                             os.path.splitext(os.path.basename(files))[0],
                             rmid["assign"], rmid["jp_text"], rmid["tr_text"]))
-                        countdup += 1
+                        counterr += 1
         except ValueError as e:
+            counterr += 1
             print("%s: %s") % (files, e)
 
-if countdup != 0:
+if counterr != 0:
     sys.exit(bufout)

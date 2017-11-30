@@ -7,7 +7,12 @@ import os
 import sys
 from collections import OrderedDict
 
+# Error counter
+counterr = 0
+
+# Need the json path
 if len(sys.argv) < 2:
+    print("Where the json folder?")
     sys.exit(os.EX_NOINPUT)
 
 dir = sys.argv[1]
@@ -48,24 +53,6 @@ explain4_files = [
 explain4_files += [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'Item_Stack_Gat*.txt')
-]
-
-explain4_files += [
-    os.path.join(dirpath, f)
-    for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'Item_Stack_ItemBag.txt')
-]
-
-explain4_files += [
-    os.path.join(dirpath, f)
-    for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'Item_Stack_Roomgoods.txt')
-]
-
-explain4_files += [
-    os.path.join(dirpath, f)
-    for dirpath, dirnames, files in os.walk(dir)
     for f in fnmatch.filter(files, 'Item_BaseWear_*.txt')
 ]
 
@@ -84,13 +71,19 @@ explain4_files += [
 explain4_files += [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'Item_Stack_PaidTicket.txt')
+    for f in fnmatch.filter(files, 'Item_Stack_Gat*.txt')
 ]
 
 explain4_files += [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'Item_Stack_Sticker.txt')
+    for f in fnmatch.filter(files, 'Item_Stack_ItemBag.txt')
+]
+
+explain4_files += [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'Item_Stack_Music.txt')
 ]
 
 explain4_files += [
@@ -102,9 +95,21 @@ explain4_files += [
 explain4_files += [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'Item_Stack_Music.txt')
+    for f in fnmatch.filter(files, 'Item_Stack_PaidTicket.txt')
 ]
-# -------------------------------------------------
+
+explain4_files += [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'Item_Stack_Roomgoods.txt')
+]
+
+explain4_files += [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'Item_Stack_Sticker.txt')
+]
+
 explain4_files += [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
@@ -114,19 +119,22 @@ explain4_files += [
 explain4_files += [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'Item_Stack_Orderitem.txt')
+    for f in fnmatch.filter(files, 'Item_Stack_Ring?.txt')
 ]
 
 explain4_files += [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'Item_Stack_Ring?.txt')
+    for f in fnmatch.filter(files, 'Item_Stack_Orderitem.txt')
 ]
+
+# -------------------------------------------------
 # -------------------------------------------------
 
 explain3_files = [x for x in explain_files if x not in explain4_files]
 
 for files in explain3_files:
+    f = os.path.splitext(os.path.basename(files))[0]
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
         djson = json.load(json_file)
         for entry in djson:
@@ -134,13 +142,17 @@ for files in explain3_files:
                 t = entry["tr_text"]
             else:
                 t = entry["jp_text"]
-            FS3[t] = len(entry["tr_explain"].rstrip().split('\n'))
+            ft = "{}:{}".format(f, t)
+            if ft in FS3:
+                print(ft)
+            FS3[ft] = len(entry["tr_explain"].rstrip().split('\n'))
 
 FS3k = OrderedDict(sorted(FS3.items(), key=lambda t: t[0]))
 FS3s = OrderedDict(sorted(FS3k.items(), key=lambda t: t[1]))
 FS3WP = OrderedDict((key, value) for key, value in FS3s.items() if value > 3)
 
 for files in explain4_files:
+    f = os.path.splitext(os.path.basename(files))[0]
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
         djson = json.load(json_file)
         for entry in djson:
@@ -148,7 +160,10 @@ for files in explain4_files:
                 t = entry["tr_text"]
             else:
                 t = entry["jp_text"]
-            FS4[t] = len(entry["tr_explain"].rstrip().split('\n'))
+            ft = "{}:{}".format(f, t)
+            if ft in FS4:
+                print(ft)
+            FS4[ft] = len(entry["tr_explain"].rstrip().split('\n'))
 
 FS4k = OrderedDict(sorted(FS4.items(), key=lambda t: t[0]))
 FS4s = OrderedDict(sorted(FS4k.items(), key=lambda t: t[1]))
@@ -160,4 +175,11 @@ FSER.update(FS4WP)
 FSER.update(FS3WP)
 
 for e, s in FSER.items():
+    counterr += 1
     print("Item Desc '{}' is too big: {}".format(e, s))
+
+# Do not fail
+counterr = 0
+
+if counterr != 0:
+    sys.exit("Issues found")

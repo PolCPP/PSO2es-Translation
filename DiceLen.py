@@ -7,7 +7,12 @@ import os
 import sys
 from collections import OrderedDict
 
+# Error counter
+counterr = 0
+
+# Need the json path
 if len(sys.argv) < 2:
+    print("Where the json folder?")
     sys.exit(os.EX_NOINPUT)
 
 dir = sys.argv[1]
@@ -43,4 +48,8 @@ if len(sys.argv) == 3:
 else:  # JP MAX: 31.12
     for e, s in FSER.items():
         t = e.replace("\r\n", "\\r\\n")
+        counterr += 1
         print("Dice SpeakText '{}' have too many lines: {}".format(t, s))
+
+if counterr != 0:
+    sys.exit("Issues found")
