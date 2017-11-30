@@ -6722,7 +6722,7 @@
 	{
 		"assign": "title_dialog_b_02",
 		"jp_text": "秘密のパスワードを入力してから、\nキャラクターデータの引き継ぎを行ってください。\n\n※変更前の端末で発行された内容を入力してください。\n\n※連続で失敗すると一定時間入力ができなくなります\nのでご注意ください。",
-		"tr_text": "Please enter your Device ID,\nto start the device transfer.\n\n※Your device ID can be generated\nfrom the Device ID menu.\n\n"
+		"tr_text": ""
 	},
 	{
 		"assign": "title_dialog_t_03",
@@ -16357,7 +16357,7 @@
 	{
 		"assign": "lookback_season2_chapter_2",
 		"jp_text": "２章　　塞がれた世界",
-		"tr_text": ""
+		"tr_text": "Chapter 2\nThe Blocked World"
 	},
 	{
 		"assign": "lookback_season2_chapter_3",
@@ -16377,17 +16377,17 @@
 	{
 		"assign": "lookback_maintitle_2",
 		"jp_text": "スペシャルストーリー",
-		"tr_text": ""
+		"tr_text": "Special Story"
 	},
 	{
 		"assign": "lookback_maintext_2",
 		"jp_text": "期間限定クエストなどの特別な物語を\n振り返ります。",
-		"tr_text": ""
+		"tr_text": "View special stories from\ntime limited quests."
 	},
 	{
 		"assign": "lookback_special_chapter_1",
 		"jp_text": "太陽と海のバケーション",
-		"tr_text": ""
+		"tr_text": "Sea and Sunshine\nVacation"
 	},
 	{
 		"assign": "menu_menu_lookback",
