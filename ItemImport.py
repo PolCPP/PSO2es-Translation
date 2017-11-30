@@ -34,7 +34,7 @@ with open(sys.argv[2]) as f:
     CSV = list(csv.reader(f, dialect='pipes', strict=True))
 
 for line in CSV:
-    k = line[0]
+    k = line[0].rstrip()
     t = line[1]
     d = line[2]
     if (k == t):
@@ -102,11 +102,11 @@ for files in explain_files:
             djson = json.load(json_file, object_pairs_hook=OrderedDict)
             for entry in djson:
                 if (
-                    entry["jp_text"] != "" and
-                    entry["jp_text"] in TR_name and
-                    TR_src[entry["jp_text"]] == "CSV"
+                    entry["jp_text"].rstrip() != "" and
+                    entry["jp_text"].rstrip() in TR_name and
+                    TR_src[entry["jp_text"].rstrip()] == "CSV"
                 ):
-                    k = entry["jp_text"]
+                    k = entry["jp_text"].rstrip()
                     t = entry["tr_text"]
                     d = entry["tr_explain"]
                     c = d.rstrip().replace("\n", "<br>")
@@ -162,10 +162,10 @@ for files in names_file:
             djson = json.load(json_file, object_pairs_hook=OrderedDict)
             for entry in djson:
                 if (
-                    entry["jp_text"] != "" and
-                    entry["jp_text"] in TR_name
+                    entry["jp_text"].rstrip() != "" and
+                    entry["jp_text"].rstrip() in TR_name
                 ):
-                    k = entry["jp_text"]
+                    k = entry["jp_text"].rstrip()
                     t = entry["tr_text"]
                     if TR_name[k] != t and TR_name[k] != "":
                         print("TR name of \'{}\' from \'{}\' to \'{}\'".format(
