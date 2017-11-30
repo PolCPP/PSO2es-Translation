@@ -81,14 +81,12 @@ for files in items_files:
             tt = entry["tr_text"]
             jt = entry["jp_text"]
             if tt == "":
-                t = jt
-            else:
-                t = tt
-            fc = "{}:{}".format(f, t)
+                continue
+            fc = "{}:{}".format(f, tt)
             if (fc in FS):
                 continue
                 print(fc)
-            FS[fc] = _fonts.textlength(t)
+            FS[fc] = _fonts.textlength(tt)
 
 FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
 FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
