@@ -8,7 +8,12 @@ import os
 import sys
 from collections import OrderedDict
 
+# error counter
+counterr = 0
+
+# Need the json path
 if len(sys.argv) < 2:
+    print("Where the json folder?")
     sys.exit(os.EX_NOINPUT)
 
 dir = sys.argv[1]
@@ -61,4 +66,8 @@ else:  # JP MAX: 34.24
     FSWP = OrderedDict((key, value) for key, value in FSs.items() if value > 34.24)
     for e, s in FSWP.items():  # TXT MAX: Center mess
         t = e.replace("\n", "br")
+        counterr += 1
         print("Story Button '{}' is too long: {}".format(t, s))
+
+if counterr != 0:
+    sys.exit("Issues found")

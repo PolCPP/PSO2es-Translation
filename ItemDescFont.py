@@ -8,7 +8,12 @@ import os
 import sys
 from collections import OrderedDict
 
+# error counter
+counterr = 0
+
+# Need the json path
 if len(sys.argv) < 2:
+    print("Where the json folder?")
     sys.exit(os.EX_NOINPUT)
 
 dir = sys.argv[1]
@@ -90,4 +95,8 @@ else:  # JP MAX: 42.73
     FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 42.73)
     for e, s in FSEP.items():  # MAX: 33
             t = e.replace("\n", "\\n")
+            counterr += 1
             print("Item Desc '{}' is too long: {}".format(t, s))
+
+if counterr != 0:
+    sys.exit("Issues found")

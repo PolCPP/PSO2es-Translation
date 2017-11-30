@@ -83,7 +83,7 @@ def pairr(j=None, t=None):
         yield None
 
 
-def normalizet(nk='nFKC', w=None):
+def normalizet(nk='NFKC', w=None):
     g = list()
     for t in w:
         tn = unicodedata.normalize(nk, t)

@@ -15,7 +15,18 @@ TR_src = dict()
 
 csv.register_dialect('pipes', delimiter='|', quoting=csv.QUOTE_NONE)
 
+# error counter
+counterr = 0
+
+# Need the json path
+if len(sys.argv) < 2:
+    print("Where the json folder?")
+    sys.exit(os.EX_NOINPUT)
+
+
+# Need the CSV file
 if len(sys.argv) < 3:
+    print("Where the item file?")
     sys.exit(os.EX_NOINPUT)
 
 dir = sys.argv[1]
@@ -140,6 +151,7 @@ for files in explain_files:
                         indent="\t", sort_keys=False)
                     json_file.write("\n")
         except ValueError as e:
+            counterr += 1
             print("%s: %s" % (files, e))
 
 for files in names_file:
@@ -182,13 +194,14 @@ for files in names_file:
                 ]
                 with codecs.open(
                         files, mode='w+', encoding='utf-8'
-                        ) as json_file:
+                                ) as json_file:
                     json.dump(
                         djson, json_file, ensure_ascii=False,
                         indent="\t", sort_keys=False
-                        )
+                             )
                     json_file.write("\n")
         except ValueError as e:
+            counterr += 1
             print("%s: %s" % (files, e))
 
 others = list()
@@ -215,7 +228,10 @@ for e in others:
 
 with codecs.open(
         os.path.join(dir, "Items_Leftovers.txt"), mode='w+', encoding='utf-8'
-        ) as json_file:
+                ) as json_file:
     json.dump(
         ojson, json_file, ensure_ascii=False, indent="\t", sort_keys=False)
     json_file.write("\n")
+
+if counterr != 0:
+    sys.exit("Issues found")
