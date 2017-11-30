@@ -121,7 +121,7 @@ for files in explain_files:
                         change = True
                     else:
                         TR_explain[k] = d
-                    TR_src[k] = "JSON"
+                    # TR_src[k] = "JSON"
                 else:
                     k = entry["jp_text"]
                     t = entry["tr_text"]
@@ -172,7 +172,7 @@ for files in names_file:
                         change = True
                     else:
                         TR_name[k] = t
-                    TR_src[k] = "JSON"
+                    # TR_src[k] = "JSON"
                 else:
                     k = entry["jp_text"]
                     t = entry["tr_text"]
