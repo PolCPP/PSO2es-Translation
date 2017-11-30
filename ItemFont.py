@@ -80,31 +80,24 @@ for files in items_files:
         for entry in djson:
             tt = entry["tr_text"]
             jt = entry["jp_text"]
-            te = entry["tr_explain"]
-            je = entry["jp_explain"]
             if tt == "":
                 t = jt
             else:
                 t = tt
-            if te == "" or je == te:
-                continue
-            ce = remove_html_markup(te)
-            fc = "{}:{}:{}".format(f, t, ce)
-            if len(sys.argv) == 2 or sys.argv[2] != "0":
-                fc = fc.replace("\n", "\\n")
+            fc = "{}:{}".format(f, t)
             if (fc in FS):
                 continue
                 print(fc)
-            FS[fc] = _fonts.textlength(ce)
+            FS[fc] = _fonts.textlength(t)
 
 FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
 FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
 
 if len(sys.argv) == 3:
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
-else:  # JP MAX: 42.73
-    FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 42.73)
-    for e, s in FSEP.items():  # MAX: 33
+else:  # JP MAX: 25.21
+    FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 25.21)
+    for e, s in FSEP.items():  # MAX: 25.21
             t = e.replace("\n", "\\n")
             counterr += 1
             print("Item Desc '{}' is too long: {}".format(t, s))
