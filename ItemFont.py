@@ -98,7 +98,7 @@ else:  # JP MAX: 25.21
     for e, s in FSEP.items():  # MAX: 27.34
             t = e.replace("\n", "\\n")
             counterr += 1
-            print("Item Desc '{}' is too long: {}".format(t, s))
+            print("Item Name '{}' is too long: {}".format(t, s))
 
 # Disable error
 counterr = 0
