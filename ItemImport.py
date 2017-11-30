@@ -5,10 +5,12 @@ import csv
 import fnmatch
 import json
 import os
+import unicodedata
 import sys
 from collections import OrderedDict
 
 TR_name = {"": ""}
+JP_dup = dict()
 TR_dup = dict()
 TR_explain = dict()
 TR_src = dict()
@@ -39,12 +41,15 @@ for line in CSV:
     d = line[2]
     if (k == t):
         t = ""
-    if k in TR_name:
-        print("Item JP name {} already in".format(k))
+    nk = unicodedata.normalize('NFKC', k)
+    nt = unicodedata.normalize('NFKC', t)
+    if nk in JP_dup:
+        print("Item JP name '{}' already in with '{}' and '{}'".format(k, JP_dup[nk], t))
     if t != "":
-        if t in TR_dup:
-            print("Item JP name {} already taken {}".format(TR_dup[t], t))
-    TR_dup[t] = k
+        if nt in TR_dup:
+            print("Item EN name '{'} already taken '{}' and '{}'".format(t, TR_dup[t]), k)
+    TR_dup[nt] = nk
+    JP_dup[TR_dup[nt]] = nt
     TR_name[k] = t
     if d != "" and k in TR_explain:
         if d != TR_explain[k]:
