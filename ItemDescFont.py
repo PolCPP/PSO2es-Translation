@@ -98,5 +98,8 @@ else:  # JP MAX: 42.73
             counterr += 1
             print("Item Desc '{}' is too long: {}".format(t, s))
 
+# Disable error
+counterr = 0
+
 if counterr != 0:
     sys.exit("Issues found")

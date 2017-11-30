@@ -73,5 +73,8 @@ else:  # JP MAX: 36.79
         counterr += 1
         print("Chip Short explain '{}' is too big: {}".format(e, s))
 
+# Disable error
+counterr = 0
+
 if counterr != 0:
     sys.exit("Issues found")
