@@ -74,17 +74,26 @@ def remove_html_markup(s):
 
 
 for files in items_files:
+    f = os.path.splitext(os.path.basename(files))[0]
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
         djson = json.load(json_file)
         for entry in djson:
-            t = entry["tr_explain"]
-            j = entry["jp_explain"]
-            if t == "" or j == t:
+            tt = entry["tr_text"]
+            jt = entry["jp_text"]
+            te = entry["tr_explain"]
+            je = entry["jp_explain"]
+            if tt == "":
+                t = jt
+            else:
+                t = tt
+            if te == "" or je == te:
                 continue
-            c = remove_html_markup(t)
-            if (t in FS):
+            ce = remove_html_markup(te)
+            fc = "{}:{}:{}".format(f, t, ce).replace("\n", "\\n")
+            if (fc in FS):
                 continue
-            FS[t] = _fonts.textlength(c)
+                print(fc)
+            FS[fc] = _fonts.textlength(ce)
 
 FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
 FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))

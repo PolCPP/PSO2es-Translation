@@ -12,10 +12,10 @@ script:
   - ./StoryFont.py json
   - ./ItemLen.py json
   - ./ItemDescLen.py json
-  - ./ItemDescFont.py json
   - ./ChipDescShort.py json
   - ./ChipDescLong.py json
   - ./ChipFont.py json
   - ./DiceFont.py json
   - ./DiceLen.py json
   - ./StoryBTNFont.py json
+  - ./ItemDescFont.py json
