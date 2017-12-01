@@ -14,6 +14,7 @@ JP_dup = dict()
 TR_dup = dict()
 TR_explain = dict()
 TR_src = dict()
+Baddup = list()
 
 csv.register_dialect('pipes', delimiter='|', quoting=csv.QUOTE_NONE)
 
@@ -36,6 +37,7 @@ with open(sys.argv[2]) as f:
     CSV = list(csv.reader(f, dialect='pipes', strict=True))
 
 for line in CSV:
+    DUP = False
     k = line[0].rstrip()
     t = line[1]
     d = line[2]
@@ -44,13 +46,18 @@ for line in CSV:
     nk = unicodedata.normalize('NFKC', k)
     nt = unicodedata.normalize('NFKC', t)
     if nk in JP_dup:
-        print("Item JP name '{}' already in with '{}' and '{}'".format(k, JP_dup[nk], t))
+        print("Item JP name '{}'/'{}' already in with '{}'/'{}'".format(k, nk, JP_dup[nk], t))
+        DUP = True
     if t != "":
         if nt in TR_dup:
-            print("Item EN name '{'} already taken '{}' and '{}'".format(t, TR_dup[t]), k)
+            print("Item EN name '{}'/'{}' already taken '{}'/'{}'".format(t, nt,  TR_dup[nt]), k)
+            DUP = True
     TR_dup[nt] = nk
     JP_dup[TR_dup[nt]] = nt
     TR_name[k] = t
+    if DUP:
+        Baddup.append(k)
+        Baddup.append(nk)
     if d != "" and k in TR_explain:
         if d != TR_explain[k]:
             print("Item Desc {}/{}".format(k, t))
@@ -61,7 +68,6 @@ for line in CSV:
         TR_explain[k] = d.replace("<br>", "\n").rstrip().replace("\n", "<br>")
     if TR_explain[k].count("<br>") >= 4:
         print("item Desc {} is too long".format(k))
-        TR_explain[k] = ""
     TR_src[k] = "CSV"
 
 explain_files = [
@@ -219,13 +225,20 @@ others = sorted(others)
 
 ojson = list()
 
+JP_explain = dict()
+
+for e in Baddup:
+    JP_explain[e] = "DUP"
+
 for e in others:
+    if e not in JP_explain:
+        JP_explain[e] = ""
     ojson += [
         OrderedDict(
             [
                 ('jp_text', e),
                 ('tr_text', TR_name[e]),
-                ('jp_explain', ""),
+                ('jp_explain', JP_explain[e]),
                 ('tr_explain', TR_explain[e].replace("<br>", "\n"))
             ]
         )
