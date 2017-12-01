@@ -305,6 +305,7 @@ with codecs.open(
     json.dump(
         ojson, json_file, ensure_ascii=False, indent="\t", sort_keys=False)
     json_file.write("\n")
+    print("Left with {} leftover items".format(len(ojson)))
 
 if counterr != 0:
     sys.exit("Issues found")
