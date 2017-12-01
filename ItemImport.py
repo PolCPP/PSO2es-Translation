@@ -50,10 +50,10 @@ for line in CSV:
         DUP = True
     if t != "":
         if nt in TR_dup:
-            print("Item EN name '{}'/'{}' already taken '{}'/'{}'".format(t, nt,  TR_dup[nt]), k)
+            print("Item EN name '{}'/'{}' already taken '{}'/'{}'".format(t, nt,  TR_dup[nt], k))
             DUP = True
-    TR_dup[nt] = nk
-    JP_dup[TR_dup[nt]] = nt
+    JP_dup[nk] = k
+    TR_dup[nt] = t
     TR_name[k] = t
     if DUP:
         Baddup.append(k)
@@ -112,14 +112,15 @@ for files in explain_files:
         try:
             djson = json.load(json_file, object_pairs_hook=OrderedDict)
             for entry in djson:
-                if (
-                    entry["jp_text"].rstrip() != "" and
-                    entry["jp_text"].rstrip() in TR_name and
-                    TR_src[entry["jp_text"].rstrip()] == "CSV"
-                ):
-                    k = entry["jp_text"].rstrip()
-                    t = entry["tr_text"]
-                    d = entry["tr_explain"]
+                k = entry["jp_text"].rstrip()
+                nk = unicodedata.normalize('NFKC', k)
+                t = entry["tr_text"]
+                nt = unicodedata.normalize('NFKC', t)
+                d = entry["tr_explain"]
+                ok = None
+                if k == "":
+                    continue
+                elif (k in TR_name and TR_src[k] == "CSV"):
                     c = d.rstrip().replace("\n", "<br>")
                     if TR_name[k] != t and TR_name[k] != "":
                         print("TR name of \'{}\' from \'{}\' to \'{}\'".format(
@@ -134,13 +135,36 @@ for files in explain_files:
                     else:
                         TR_explain[k] = d
                     TR_src[k] = "JSON"
+                elif (k not in TR_name and nk in JP_dup):
+                    ok = k
+                    k = JP_dup[nk]
+                    if TR_name[k] != t and TR_name[k] != "":
+                        print("TR name of \'{}\' from \'{}\' to \'{}\'".format(
+                            ok, t, TR_name[k]))
+                        change = True
+                        t = TR_name[k]
+                    if TR_explain[k] != c and TR_explain[k] != "":
+                        print("TR desc of \'{}\' from \'{}\' to \'{}\'".format(
+                             k, c, TR_explain[k]))
+                        change = True
+                        TR_explain[k] = d
+                    TR_src[ok] = "JSON"
                 else:
-                    k = entry["jp_text"]
-                    t = entry["tr_text"]
-                    d = entry["tr_explain"]
                     TR_name[k] = t
                     TR_explain[k] = d
                     TR_src[k] = "NEW"
+                if nk in JP_dup and JP_dup[nk] != k:
+                    print("Item JP name '{}'/'{}' already in with '{}'/'{}'".format(k, nk, JP_dup[nk], t))
+                    TR_name[k] = t
+                    counterr += 1
+                else:
+                    JP_dup[nk] = k
+                if t != "":
+                    if nt in TR_dup and TR_dup[nt] != t and ok is None:
+                        print("Item EN name '{}'/'{}' already taken '{}'/'{}'".format(t, nt,  TR_dup[nt], k))
+                        counterr += 1
+                    else:
+                        TR_dup[nt] = t
             if change:
                 print("Updating {}.txt".format(
                     os.path.splitext(os.path.basename(files))[0]))
@@ -172,12 +196,14 @@ for files in names_file:
         try:
             djson = json.load(json_file, object_pairs_hook=OrderedDict)
             for entry in djson:
-                if (
-                    entry["jp_text"].rstrip() != "" and
-                    entry["jp_text"].rstrip() in TR_name
-                ):
-                    k = entry["jp_text"].rstrip()
-                    t = entry["tr_text"]
+                k = entry["jp_text"].rstrip()
+                nk = unicodedata.normalize('NFKC', k)
+                t = entry["tr_text"]
+                nt = unicodedata.normalize('NFKC', t)
+                ok = None
+                if k == "":
+                    continue
+                elif (k in TR_name and TR_src[k] == "CSV"):
                     if TR_name[k] != t and TR_name[k] != "":
                         print("TR name of \'{}\' from \'{}\' to \'{}\'".format(
                             k, t, TR_name[k]))
@@ -185,11 +211,31 @@ for files in names_file:
                     else:
                         TR_name[k] = t
                     TR_src[k] = "JSON"
+                elif (k not in TR_name and nk in JP_dup):
+                    ok = k
+                    k = JP_dup[nk]
+                    if TR_name[k] != t and TR_name[k] != "":
+                        print("TR name of \'{}\' from \'{}\' to \'{}\'".format(
+                            ok, t, TR_name[k]))
+                        change = True
+                        t = TR_name[k]
+                    TR_name[ok] = t
+                    TR_src[ok] = "JSON"
                 else:
-                    k = entry["jp_text"]
-                    t = entry["tr_text"]
                     TR_name[k] = t
                     TR_src[k] = "NEW"
+                if nk in JP_dup and JP_dup[nk] != k:
+                    print("Item JP name '{}'/'{}' already in with '{}'/'{}'".format(k, nk, JP_dup[nk], t))
+                    counterr += 1
+                else:
+                    JP_dup[nk] = k
+                if t != "":
+                    if nt in TR_dup and TR_dup[nt] != t and ok is None:
+                        print("Item EN name '{}'/'{}' already taken '{}'/'{}'".format(t, nt,  TR_dup[nt], k))
+                        counterr += 1
+                    else:
+                        TR_dup[nt] = t
+
             if change:
                 print("Updating {}.txt".format(
                     os.path.splitext(os.path.basename(files))[0]))
@@ -227,8 +273,10 @@ ojson = list()
 
 JP_explain = dict()
 
-for e in Baddup:
-    JP_explain[e] = "DUP"
+for k in Baddup:
+    JP_explain[k] = "DUP"
+    nk = unicodedata.normalize('NFKC', k)
+    JP_explain[JP_dup[nk]] = "DUP"
 
 for e in others:
     if e not in JP_explain:
