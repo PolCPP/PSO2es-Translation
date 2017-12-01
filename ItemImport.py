@@ -38,12 +38,12 @@ with open(sys.argv[2]) as f:
 
 for line in CSV:
     DUP = False
-    k = line[0].rstrip()
+    k = line[0]
     t = line[1]
     d = line[2]
     if (k == t):
         t = ""
-    nk = unicodedata.normalize('NFKC', k)
+    nk = unicodedata.normalize('NFKC', k).lower()
     nt = unicodedata.normalize('NFKC', t)
     if nk in JP_dup:
         print("Item JP name '{}'/'{}' already in with '{}'/'{}'".format(k, nk, JP_dup[nk], t))
@@ -112,8 +112,8 @@ for files in explain_files:
         try:
             djson = json.load(json_file, object_pairs_hook=OrderedDict)
             for entry in djson:
-                k = entry["jp_text"].rstrip()
-                nk = unicodedata.normalize('NFKC', k)
+                k = entry["jp_text"]
+                nk = unicodedata.normalize('NFKC', k).lower()
                 t = entry["tr_text"]
                 nt = unicodedata.normalize('NFKC', t)
                 d = entry["tr_explain"]
@@ -138,22 +138,24 @@ for files in explain_files:
                 elif (k not in TR_name and nk in JP_dup):
                     ok = k
                     k = JP_dup[nk]
+                    c = d.rstrip().replace("\n", "<br>")
                     if TR_name[k] != t and TR_name[k] != "":
                         print("TR name of \'{}\' from \'{}\' to \'{}\'".format(
                             ok, t, TR_name[k]))
                         change = True
-                        t = TR_name[k]
+                    TR_name[ok] = TR_name[k]
                     if TR_explain[k] != c and TR_explain[k] != "":
                         print("TR desc of \'{}\' from \'{}\' to \'{}\'".format(
                              k, c, TR_explain[k]))
                         change = True
-                        TR_explain[k] = d
+                    TR_explain[ok] = TR_explain[k]
                     TR_src[ok] = "JSON"
+                    k = ok
                 else:
                     TR_name[k] = t
                     TR_explain[k] = d
                     TR_src[k] = "NEW"
-                if nk in JP_dup and JP_dup[nk] != k:
+                if nk in JP_dup and JP_dup[nk] != k and ok is None:
                     print("Item JP name '{}'/'{}' already in with '{}'/'{}'".format(k, nk, JP_dup[nk], t))
                     TR_name[k] = t
                     counterr += 1
@@ -190,14 +192,15 @@ for files in explain_files:
             counterr += 1
             print("%s: %s" % (files, e))
 
+
 for files in names_file:
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
         change = False
         try:
             djson = json.load(json_file, object_pairs_hook=OrderedDict)
             for entry in djson:
-                k = entry["jp_text"].rstrip()
-                nk = unicodedata.normalize('NFKC', k)
+                k = entry["jp_text"]
+                nk = unicodedata.normalize('NFKC', k).lower()
                 t = entry["tr_text"]
                 nt = unicodedata.normalize('NFKC', t)
                 ok = None
@@ -218,13 +221,12 @@ for files in names_file:
                         print("TR name of \'{}\' from \'{}\' to \'{}\'".format(
                             ok, t, TR_name[k]))
                         change = True
-                        t = TR_name[k]
-                    TR_name[ok] = t
+                    TR_name[ok] = TR_name[k]
                     TR_src[ok] = "JSON"
                 else:
                     TR_name[k] = t
                     TR_src[k] = "NEW"
-                if nk in JP_dup and JP_dup[nk] != k:
+                if nk in JP_dup and JP_dup[nk] != k and ok is None:
                     print("Item JP name '{}'/'{}' already in with '{}'/'{}'".format(k, nk, JP_dup[nk], t))
                     counterr += 1
                 else:
@@ -260,6 +262,9 @@ for files in names_file:
         except ValueError as e:
             counterr += 1
             print("%s: %s" % (files, e))
+        except KeyError as e:
+            counterr += 1
+            print("%s: %s" % (files, e))
 
 others = list()
 
@@ -275,7 +280,7 @@ JP_explain = dict()
 
 for k in Baddup:
     JP_explain[k] = "DUP"
-    nk = unicodedata.normalize('NFKC', k)
+    nk = unicodedata.normalize('NFKC', k).lower()
     JP_explain[JP_dup[nk]] = "DUP"
 
 for e in others:
