@@ -5,12 +5,15 @@ import fnmatch
 import os
 # import pprint
 import json
+import unicodedata
 import sys
 
 # count errros
 counterr = 0
-bufout = "FILE: ID\n"
+Forceso = False
+bufout = "FILE: ID"
 ENMap = dict()
+JPMap = dict()
 
 # Need the json path
 if len(sys.argv) < 2:
@@ -66,16 +69,42 @@ for files in json_files:
                     tl = t.lower()
                     j = rmid["jp_text"]
                     jl = j.lower()
+                    if "assign" in rmid:
+                        a = rmid["assign"]
+                    else:
+                        a = 0
+
+                    if jl not in JPMap:
+                        JPMap[jl] = tl
+                    elif JPMap[jl] != tl:
+                        bufout += ("\nJP: {}:{} '{}' wants the mapping of '{}'".format(
+                            os.path.splitext(os.path.basename(files))[0],
+                            a, j, t))
+                        counterr += 1
+
                     if t not in ENMap:
                         ENMap[t] = jl
                     elif ENMap[t] != jl:
-                        bufout += ("{}:{} '{}'/'{}' wants the mapping of '{}'/'{}'\n".format(
+                        bufout += ("\nEN: {}:{} '{}' and '{}' both wants the mapping of '{}':".format(
                             os.path.splitext(os.path.basename(files))[0],
-                            rmid["assign"], j, jl, t, tl))
-                        counterr += 1
+                            a, j, ENMap[t], t))
+                        jsl = unicodedata.normalize('NFKC', j).rstrip().lower()
+                        osl = unicodedata.normalize('NFKC', ENMap[t]).rstrip().lower()
+                        if (jsl == osl):
+                            bufout += "\n\tBut they are the same in our eyes"
+                            Forceso = True
+                        elif JPMap[jl] == tl:
+                            bufout += "\n\tBut it is ok"
+                            Forceso = True
+                        else:
+                            counterr += 1
+
         except ValueError as e:
             counterr += 1
             print("%s: %s") % (files, e)
 
+
 if counterr != 0:
     sys.exit(bufout)
+elif Forceso:
+    print(bufout)

@@ -43,7 +43,7 @@ for line in CSV:
     d = line[2]
     if (k == t):
         t = ""
-    nk = unicodedata.normalize('NFKC', k).lower()
+    nk = unicodedata.normalize('NFKC', k).lower().rstrip()
     nt = unicodedata.normalize('NFKC', t)
     if nk in JP_dup:
         print("Item JP name '{}'/'{}' already in with '{}'/'{}'".format(k, nk, JP_dup[nk], t))
@@ -113,7 +113,7 @@ for files in explain_files:
             djson = json.load(json_file, object_pairs_hook=OrderedDict)
             for entry in djson:
                 k = entry["jp_text"]
-                nk = unicodedata.normalize('NFKC', k).lower()
+                nk = unicodedata.normalize('NFKC', k).lower().rstrip()
                 t = entry["tr_text"]
                 nt = unicodedata.normalize('NFKC', t)
                 d = entry["tr_explain"]
@@ -150,6 +150,7 @@ for files in explain_files:
                         change = True
                     TR_explain[ok] = TR_explain[k]
                     TR_src[ok] = "JSON"
+                    TR_src[k] = "JSON"
                     k = ok
                 else:
                     TR_name[k] = t
@@ -200,7 +201,7 @@ for files in names_file:
             djson = json.load(json_file, object_pairs_hook=OrderedDict)
             for entry in djson:
                 k = entry["jp_text"]
-                nk = unicodedata.normalize('NFKC', k).lower()
+                nk = unicodedata.normalize('NFKC', k).lower().rstrip()
                 t = entry["tr_text"]
                 nt = unicodedata.normalize('NFKC', t)
                 ok = None
@@ -223,6 +224,7 @@ for files in names_file:
                         change = True
                     TR_name[ok] = TR_name[k]
                     TR_src[ok] = "JSON"
+                    TR_src[k] = "JSON"
                 else:
                     TR_name[k] = t
                     TR_src[k] = "NEW"
