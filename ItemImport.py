@@ -43,7 +43,7 @@ for line in CSV:
     d = line[2]
     if (k == t):
         t = ""
-    nk = unicodedata.normalize('NFKC', k).lower().rstrip()
+    nk = unicodedata.normalize('NFKC', k).lower()
     nt = unicodedata.normalize('NFKC', t)
     if nk in JP_dup:
         print("Item JP name '{}'/'{}' already in with '{}'/'{}'".format(k, nk, JP_dup[nk], t))
@@ -116,7 +116,7 @@ for files in json_files:
                 if "tr_explain" in entry:
                     Explain = True
                 k = entry["jp_text"]
-                nk = unicodedata.normalize('NFKC', k).lower().rstrip()
+                nk = unicodedata.normalize('NFKC', k).lower()
                 t = entry["tr_text"]
                 nt = unicodedata.normalize('NFKC', t)
                 ok = None
@@ -147,6 +147,7 @@ for files in json_files:
                 elif (k not in TR_name and nk in JP_dup):
                     ok = k
                     k = JP_dup[nk]
+                    print("Could not find '{}' but found '{}'".format(ok, k))
                     if TR_name[k] != t and TR_name[k] != "":
                         print("TR name of \'{}\' from \'{}\' to \'{}\'".format(
                             ok, t, TR_name[k]))
