@@ -70,98 +70,110 @@ for line in CSV:
         print("item Desc {} is too long".format(k))
     TR_src[k] = "CSV"
 
-explain_files = [
+json_files = [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
     for f in fnmatch.filter(files, 'Item_*.txt')
 ]
 
-explain_files += [
+json_files += [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
     for f in fnmatch.filter(files, 'Explain_Actor_*.txt')
 ]
 
-explain_files += [
+json_files += [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
     for f in fnmatch.filter(files, 'Explain_SkillRing.txt')
 ]
 
-explain_files += [
+json_files += [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
     for f in fnmatch.filter(files, 'Explain_System.txt')
 ]
 
-names_file = [
+json_files += [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
     for f in fnmatch.filter(files, 'Name_Actor_MagName.txt')
 ]
 
-names_file += [
+json_files += [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
     for f in fnmatch.filter(files, 'Name_UICharMake_*.txt')
 ]
 
-for files in explain_files:
+for files in json_files:
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
         change = False
+        Explain = False
         try:
             djson = json.load(json_file, object_pairs_hook=OrderedDict)
             for entry in djson:
+                if "tr_explain" in entry:
+                    Explain = True
                 k = entry["jp_text"]
                 nk = unicodedata.normalize('NFKC', k).lower().rstrip()
                 t = entry["tr_text"]
                 nt = unicodedata.normalize('NFKC', t)
-                d = entry["tr_explain"]
                 ok = None
+                if Explain:
+                    d = entry["tr_explain"]
+                else:
+                    d = ""
+
                 if k == "":
                     continue
                 elif (k in TR_name and TR_src[k] == "CSV"):
-                    c = d.rstrip().replace("\n", "<br>")
                     if TR_name[k] != t and TR_name[k] != "":
                         print("TR name of \'{}\' from \'{}\' to \'{}\'".format(
                             k, t, TR_name[k]))
                         change = True
                     else:
                         TR_name[k] = t
-                    if TR_explain[k] != c and TR_explain[k] != "":
+
+                    TR_src[k] = "JSON"
+
+                    c = d.rstrip().replace("\n", "<br>")
+                    if Explain and TR_explain[k] != c and TR_explain[k] != "":
                         print("TR desc of \'{}\' from \'{}\' to \'{}\'".format(
                              k, c, TR_explain[k]))
                         change = True
                     else:
                         TR_explain[k] = d
-                    TR_src[k] = "JSON"
                 elif (k not in TR_name and nk in JP_dup):
                     ok = k
                     k = JP_dup[nk]
-                    c = d.rstrip().replace("\n", "<br>")
                     if TR_name[k] != t and TR_name[k] != "":
                         print("TR name of \'{}\' from \'{}\' to \'{}\'".format(
                             ok, t, TR_name[k]))
                         change = True
                     TR_name[ok] = TR_name[k]
-                    if TR_explain[k] != c and TR_explain[k] != "":
+
+                    TR_src[ok] = "JSON"
+                    TR_src[k] = "JSON"
+
+                    if Explain and TR_explain[k] != c and TR_explain[k] != "":
                         print("TR desc of \'{}\' from \'{}\' to \'{}\'".format(
                              k, c, TR_explain[k]))
                         change = True
                     TR_explain[ok] = TR_explain[k]
-                    TR_src[ok] = "JSON"
-                    TR_src[k] = "JSON"
+
                     k = ok
                 else:
                     TR_name[k] = t
-                    TR_explain[k] = d
                     TR_src[k] = "NEW"
+                    TR_explain[k] = d
+
                 if nk in JP_dup and JP_dup[nk] != k and ok is None:
                     print("Item JP name '{}'/'{}' already in with '{}'/'{}'".format(k, nk, JP_dup[nk], t))
-                    TR_name[k] = t
                     counterr += 1
                 else:
                     JP_dup[nk] = k
+
                 if t != "":
                     if nt in TR_dup and TR_dup[nt] != t and ok is None:
                         print("Item EN name '{}'/'{}' already taken '{}'/'{}'".format(t, nt,  TR_dup[nt], k))
@@ -171,17 +183,29 @@ for files in explain_files:
             if change:
                 print("Updating {}.txt".format(
                     os.path.splitext(os.path.basename(files))[0]))
-                djson = [
-                    OrderedDict([
-                        ('assign', e["assign"]),
-                        ('jp_text', e["jp_text"]),
-                        ('tr_text', TR_name[e["jp_text"]]),
-                        ('jp_explain', e['jp_explain']),
-                        ('tr_explain', TR_explain[e["jp_text"]].replace(
-                            "<br>", "\n").rstrip())
-                    ])
-                    for e in djson
-                ]
+                if Explain:
+                    djson = [
+                        OrderedDict([
+                            ('assign', e["assign"]),
+                            ('jp_text', e["jp_text"]),
+                            ('tr_text', TR_name[e["jp_text"]]),
+                            ('jp_explain', e['jp_explain']),
+                            ('tr_explain', TR_explain[e["jp_text"]].replace(
+                                "<br>", "\n").rstrip())
+                        ])
+                        for e in djson
+                    ]
+                else:
+                    djson = [
+                            OrderedDict(
+                                [
+                                    ('assign', e["assign"]),
+                                    ('jp_text', e["jp_text"]),
+                                    ('tr_text', TR_name[e["jp_text"]])
+                                ]
+                            )
+                            for e in djson
+                    ]
                 with codecs.open(
                     files, mode='w+', encoding='utf-8'
                 ) as json_file:
@@ -193,80 +217,6 @@ for files in explain_files:
             counterr += 1
             print("%s: %s" % (files, e))
 
-
-for files in names_file:
-    with codecs.open(files, mode='r', encoding='utf-8') as json_file:
-        change = False
-        try:
-            djson = json.load(json_file, object_pairs_hook=OrderedDict)
-            for entry in djson:
-                k = entry["jp_text"]
-                nk = unicodedata.normalize('NFKC', k).lower().rstrip()
-                t = entry["tr_text"]
-                nt = unicodedata.normalize('NFKC', t)
-                ok = None
-                if k == "":
-                    continue
-                elif (k in TR_name and TR_src[k] == "CSV"):
-                    if TR_name[k] != t and TR_name[k] != "":
-                        print("TR name of \'{}\' from \'{}\' to \'{}\'".format(
-                            k, t, TR_name[k]))
-                        change = True
-                    else:
-                        TR_name[k] = t
-                    TR_src[k] = "JSON"
-                elif (k not in TR_name and nk in JP_dup):
-                    ok = k
-                    k = JP_dup[nk]
-                    if TR_name[k] != t and TR_name[k] != "":
-                        print("TR name of \'{}\' from \'{}\' to \'{}\'".format(
-                            ok, t, TR_name[k]))
-                        change = True
-                    TR_name[ok] = TR_name[k]
-                    TR_src[ok] = "JSON"
-                    TR_src[k] = "JSON"
-                else:
-                    TR_name[k] = t
-                    TR_src[k] = "NEW"
-                if nk in JP_dup and JP_dup[nk] != k and ok is None:
-                    print("Item JP name '{}'/'{}' already in with '{}'/'{}'".format(k, nk, JP_dup[nk], t))
-                    counterr += 1
-                else:
-                    JP_dup[nk] = k
-                if t != "":
-                    if nt in TR_dup and TR_dup[nt] != t and ok is None:
-                        print("Item EN name '{}'/'{}' already taken '{}'/'{}'".format(t, nt,  TR_dup[nt], k))
-                        counterr += 1
-                    else:
-                        TR_dup[nt] = t
-
-            if change:
-                print("Updating {}.txt".format(
-                    os.path.splitext(os.path.basename(files))[0]))
-                djson = [
-                        OrderedDict(
-                            [
-                                ('assign', e["assign"]),
-                                ('jp_text', e["jp_text"]),
-                                ('tr_text', TR_name[e["jp_text"]])
-                            ]
-                        )
-                        for e in djson
-                ]
-                with codecs.open(
-                        files, mode='w+', encoding='utf-8'
-                                ) as json_file:
-                    json.dump(
-                        djson, json_file, ensure_ascii=False,
-                        indent="\t", sort_keys=False
-                             )
-                    json_file.write("\n")
-        except ValueError as e:
-            counterr += 1
-            print("%s: %s" % (files, e))
-        except KeyError as e:
-            counterr += 1
-            print("%s: %s" % (files, e))
 
 others = list()
 
@@ -294,7 +244,8 @@ for e in others:
                 ('jp_text', e),
                 ('tr_text', TR_name[e]),
                 ('jp_explain', JP_explain[e]),
-                ('tr_explain', TR_explain[e].replace("<br>", "\n"))
+                ('tr_explain', TR_explain[e].replace("<br>", "\n")),
+                ('assign', 0)
             ]
         )
     ]
