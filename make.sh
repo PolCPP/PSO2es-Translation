@@ -1,5 +1,4 @@
 #!/bin/sh
-cd ESBreaker.Debug
 echo Making patch
 mono ESBreakerCLI.exe > /dev/null
 echo Waiting for android device
