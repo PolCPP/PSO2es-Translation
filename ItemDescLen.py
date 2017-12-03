@@ -12,10 +12,9 @@ counterr = 0
 
 # Need the json path
 if len(sys.argv) < 2:
-    print("Where the json folder?")
-    sys.exit(os.EX_NOINPUT)
-
-dir = sys.argv[1]
+    dir = "json"
+else:
+    dir = sys.argv[1]
 
 FS3 = dict()
 FS4 = dict()
@@ -127,9 +126,6 @@ explain4_files += [
     for dirpath, dirnames, files in os.walk(dir)
     for f in fnmatch.filter(files, 'Item_Stack_Orderitem.txt')
 ]
-
-# -------------------------------------------------
-# -------------------------------------------------
 
 explain3_files = [x for x in explain_files if x not in explain4_files]
 
