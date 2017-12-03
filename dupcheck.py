@@ -17,8 +17,9 @@ JPMap = dict()
 
 # Need the json path
 if len(sys.argv) < 2:
-    print("Where the json folder?")
-    sys.exit(os.EX_NOINPUT)
+    dir = "json"
+else:
+    dir = sys.argv[1]
 
 
 dir = sys.argv[1]

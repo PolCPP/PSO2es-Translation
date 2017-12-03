@@ -13,10 +13,9 @@ counterr = 0
 
 # Need the json path
 if len(sys.argv) < 2:
-    print("Where the json folder?")
-    sys.exit(os.EX_NOINPUT)
-
-dir = sys.argv[1]
+    dir = "json"
+else:
+    dir = sys.argv[1]
 
 FS = dict()
 
@@ -90,7 +89,7 @@ for files in items_files:
                 continue
             ce = remove_html_markup(te)
             fc = "{}:{}:{}".format(f, t, ce)
-            if len(sys.argv) == 2 or sys.argv[2] != "0":
+            if len(sys.argv) > 2 or sys.argv[-1] != "0":
                 fc = fc.replace("\n", "\\n")
             if (fc in FS):
                 continue
