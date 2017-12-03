@@ -5,18 +5,18 @@ sudo: false
 group: beta
 
 script:
-  - ./checkjson.py json && ./coverage.sh json
-  - ./tidy-json.sh json && git diff --exit-code
-  - ./dupcheck.py json
-  - ./dupassign.py json
-  - ./DiceLen.py json
-  - ./ItemLen.py json
-  - ./ItemDescLen.py json
-  - ./StoryBTNFont.py json
-  - ./StoryFont.py json
-  - ./ChipFont.py json
-  - ./ChipDescShort.py json
-  - ./ChipDescLong.py json
-  - ./DiceFont.py json
-  - ./ItemFont.py json
-  - ./ItemDescFont.py json
+  - ./checkjson.py && ./coverage.sh
+  - ./tidy-json.sh && git diff --exit-code
+  - ./dupcheck.py
+  - ./dupassign.py
+  - ./DiceLen.py
+  - ./ItemLen.py
+  - ./ItemDescLen.py
+  - ./StoryBTNFont.py
+  - ./StoryFont.py
+  - ./ChipFont.py
+  - ./ChipDescShort.py
+  - ./ChipDescLong.py
+  - ./DiceFont.py
+  - ./ItemFont.py
+  - ./ItemDescFont.py

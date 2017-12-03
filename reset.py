@@ -12,11 +12,9 @@ counterr = 0
 
 # Need the json path
 if len(sys.argv) < 2:
-    print("Where the json folder?")
-    sys.exit(os.EX_NOINPUT)
-
-# Keep folder string
-dir = sys.argv[1]
+    dir = "json"
+else:
+    dir = sys.argv[1]
 
 # collect all the JSON files
 json_files = [
