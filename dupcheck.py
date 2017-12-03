@@ -21,9 +21,6 @@ if len(sys.argv) < 2:
 else:
     dir = sys.argv[1]
 
-
-dir = sys.argv[1]
-
 json_files = [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
