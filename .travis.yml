@@ -9,13 +9,14 @@ script:
   - ./tidy-json.sh json && git diff --exit-code
   - ./dupcheck.py json
   - ./dupassign.py json
-  - ./StoryFont.py json
+  - ./DiceLen.py json
   - ./ItemLen.py json
   - ./ItemDescLen.py json
-  - ./ItemDescFont.py json
+  - ./StoryBTNFont.py json
+  - ./StoryFont.py json
+  - ./ChipFont.py json
   - ./ChipDescShort.py json
   - ./ChipDescLong.py json
-  - ./ChipFont.py json
   - ./DiceFont.py json
-  - ./DiceLen.py json
-  - ./StoryBTNFont.py json
+  - ./ItemFont.py json
+  - ./ItemDescFont.py json

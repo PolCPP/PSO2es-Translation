@@ -5,14 +5,21 @@ import fnmatch
 import os
 # import pprint
 import json
+import unicodedata
 import sys
 
-countdup = 0
-bufout = "FILE: ID\n"
+# count errros
+counterr = 0
+Forceso = False
+bufout = "FILE: ID"
 ENMap = dict()
+JPMap = dict()
 
+# Need the json path
 if len(sys.argv) < 2:
+    print("Where the json folder?")
     sys.exit(os.EX_NOINPUT)
+
 
 dir = sys.argv[1]
 
@@ -46,21 +53,58 @@ json_files += [
     for f in fnmatch.filter(files, 'Name_Actor_MagName.txt')
 ]
 
+json_files += [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'Items_Leftovers.txt')
+]
+
 for files in json_files:
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
         try:
             djson = json.load(json_file)
             for rmid in djson:
                 if (("tr_text" in rmid) and (rmid["tr_text"] != "")):
-                    if rmid["tr_text"] not in ENMap:
-                        ENMap[rmid["tr_text"]] = rmid["jp_text"]
-                    elif ENMap[rmid["tr_text"]] != rmid["jp_text"]:
-                        bufout += ("{}:{} {} wants the mapping of {}\n".format(
+                    t = rmid["tr_text"]
+                    tl = t.lower()
+                    j = rmid["jp_text"]
+                    jl = j.lower()
+                    if "assign" in rmid:
+                        a = rmid["assign"]
+                    else:
+                        a = 0
+
+                    if jl not in JPMap:
+                        JPMap[jl] = tl
+                    elif JPMap[jl] != tl:
+                        bufout += ("\nJP: {}:{} '{}' wants the mapping of '{}'".format(
                             os.path.splitext(os.path.basename(files))[0],
-                            rmid["assign"], rmid["jp_text"], rmid["tr_text"]))
-                        countdup += 1
+                            a, j, t))
+                        counterr += 1
+
+                    if t not in ENMap:
+                        ENMap[t] = jl
+                    elif ENMap[t] != jl:
+                        bufout += ("\nEN: {}:{} '{}' and '{}' both wants the mapping of '{}':".format(
+                            os.path.splitext(os.path.basename(files))[0],
+                            a, j, ENMap[t], t))
+                        jsl = unicodedata.normalize('NFKC', j).rstrip().lower()
+                        osl = unicodedata.normalize('NFKC', ENMap[t]).rstrip().lower()
+                        if (jsl == osl):
+                            bufout += "\n\tBut they are the same in our eyes"
+                            Forceso = True
+                        elif JPMap[jl] == tl:
+                            bufout += "\n\tBut it is ok"
+                            Forceso = True
+                        else:
+                            counterr += 1
+
         except ValueError as e:
+            counterr += 1
             print("%s: %s") % (files, e)
 
-if countdup != 0:
+
+if counterr != 0:
     sys.exit(bufout)
+elif Forceso:
+    print(bufout)

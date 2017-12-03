@@ -9,7 +9,9 @@ import sys
 counterr = 0
 invalid_json_files = []
 
+# Need the json path
 if len(sys.argv) < 2:
+    print("Where the json folder?")
     sys.exit(os.EX_NOINPUT)
 
 dir = sys.argv[1]
@@ -34,5 +36,6 @@ for files in json_files:
             invalid_json_files.append(files)
 
 counterr += len(invalid_json_files)
+
 if counterr != 0:
     sys.exit("=============\nJSON files with issues: %d" % counterr)
