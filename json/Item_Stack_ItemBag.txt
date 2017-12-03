@@ -536,14 +536,14 @@
 		"jp_text": "クラフト素材セット",
 		"tr_text": "Crafting Material Set",
 		"jp_explain": "アイテムパックから「使う」と\n以下のアイテムを獲得する。\n「クラフト初級レシピ用素材」",
-		"tr_explain": ""
+		"tr_explain": "Use to receive the following items:\nElementary Crafting Recipe Material"
 	},
 	{
 		"assign": "330077",
 		"jp_text": "オウガタイツセット",
 		"tr_text": "Ogre Tights Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「オウガタイツ＆手袋」\n「オウガタイツ」\n",
-		"tr_explain": "By using this item, you will unpack\nmultiple items into your inventory."
+		"tr_explain": "Use to receive the following items:\n[Ogre Tights and Arm Wraps]\n[Ogre Tights]"
 	},
 	{
 		"assign": "330078",
@@ -4218,7 +4218,7 @@
 		"jp_text": "ミラクるんなりきりセット",
 		"tr_text": "",
 		"jp_explain": "以下のアイテムを獲得する。\n「魔女っ娘ミラクるん」\n「ミラクるんツインテール」\n「＊ミラクるんステッキ」他一種",
-		"tr_explain": ""
+		"tr_explain": "Use to receive the following items:\n[Majokko Mirakurun] [Mirakurun Tails]\n[*Mirakurun Wand] and one other"
 	},
 	{
 		"assign": "3300800",
@@ -5714,7 +5714,7 @@
 	{
 		"assign": "33001013",
 		"jp_text": "フウリンカＣＶセット",
-		"tr_text": "Fuurinka CV",
+		"tr_text": "Fuurinka CV Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「フウリンカＣＶ」シリーズ\n「フウリンカ・ヘッドＣＶ」",
 		"tr_explain": "Use to receive the following items:\nFuurinka CV parts\n[Fuurinka Head CV]"
 	},
@@ -5807,7 +5807,7 @@
 		"jp_text": "エニグマレベリオン葉セット",
 		"tr_text": "",
 		"jp_explain": "以下のアイテムを獲得する。\n「エニグマレベリオン葉」\n「レべリオンマスク葉」",
-		"tr_explain": "Use to receive the following items:\n[Enigma Rebellion Chestnut]\n[レべリオンマスク葉]"
+		"tr_explain": "Use to receive the following items:\n[Enigma Rebellion Chestnut]\n[Rebellion Mask Leaf]"
 	},
 	{
 		"assign": "33001027",
@@ -6645,9 +6645,9 @@
 	{
 		"assign": "33001146",
 		"jp_text": "Ｎシュヴァンツ・ルックスＳ",
-		"tr_text": "",
+		"tr_text": "N Schwanz Looks Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「Ｎシュヴァンツ・ルックス」\n「Ｎシュヴァンツセンサー」",
-		"tr_explain": "Use to receive the following items:\n[N Schwantz Looks]\n[Nono Schwantz Sensor]"
+		"tr_explain": "Use to receive the following items:\n[N Schwanz Looks]\n[Nono Schwanz Sensor]"
 	},
 	{
 		"assign": "33001147",
@@ -8577,9 +8577,9 @@
 	{
 		"assign": "33001423",
 		"jp_text": "アリスリーパーセット",
-		"tr_text": "",
+		"tr_text": "Alice Reaper Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「アリスリーパー」シリーズ\n「アリスブレイド」",
-		"tr_explain": "Use to receive the following items:\nアリスリーパー parts\n[アリスブレイド]"
+		"tr_explain": "Use to receive the following items:\nAlice Reaper parts\n[Alice Reaper Head]"
 	},
 	{
 		"assign": "33001424",
@@ -21569,37 +21569,37 @@
 	{
 		"assign": "33003288",
 		"jp_text": "六芒星瞳セット",
-		"tr_text": "",
+		"tr_text": "Hexagram Eyes Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「六芒星瞳　大」\n「六芒星瞳　小」",
-		"tr_explain": "Use to receive the following items:\n[Hexegram Eyes L]\n[Hexegram Eyes S]"
+		"tr_explain": "Use to receive the following items:\n[Hexagram Eyes L]\n[Hexagram Eyes S]"
 	},
 	{
 		"assign": "33003289",
 		"jp_text": "フォリースタイルセット",
-		"tr_text": "",
+		"tr_text": "Folly Style Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「フォリーへアー」\n「フォリーハット」",
-		"tr_explain": "Use to receive the following items:\n[フォリーへアー]\n[Folly Hat]"
+		"tr_explain": "Use to receive the following items:\n[Folly Hair]\n[Folly Hat]"
 	},
 	{
 		"assign": "33003290",
 		"jp_text": "フォリーグッズセット",
-		"tr_text": "",
+		"tr_text": "Folly Goods Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「フォリーリボン　青」\n「フォリーペイント」\n「フォリーグローブ」",
 		"tr_explain": "Use to receive the following items:\n[Blue Folly Ribbon]\n[Folly Paint]\n[Folly Gloves]"
 	},
 	{
 		"assign": "33003291",
 		"jp_text": "リブルスタイルセット",
-		"tr_text": "",
+		"tr_text": "Libre Style Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「リブルへアー」\n「リブルリボン」\n「リブルソックス」",
-		"tr_explain": "Use to receive the following items:\n[リブルへアー]\n[Libre Ribbon]\n[Libre Socks]"
+		"tr_explain": "Use to receive the following items:\n[Libre Hair]\n[Libre Ribbon]\n[Libre Socks]"
 	},
 	{
 		"assign": "33003292",
 		"jp_text": "ハローゼスタイルセット",
-		"tr_text": "",
+		"tr_text": "Hallows Style Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「ハローゼへアー」\n「ハローゼクラウン」",
-		"tr_explain": "Use to receive the following items:\n[ハローゼへアー]\n[Hallows Crown]"
+		"tr_explain": "Use to receive the following items:\n[Hallows Hair]\n[Hallows Crown]"
 	},
 	{
 		"assign": "33003293",
