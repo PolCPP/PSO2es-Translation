@@ -8,7 +8,7 @@ import os
 import sys
 from collections import OrderedDict
 
-# Error counter
+# error counter
 counterr = 0
 
 # Need the json path
@@ -19,10 +19,34 @@ else:
 
 FS = dict()
 
-chip_files = [
+items_files = [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'ChipExplain_*.txt')
+    for f in fnmatch.filter(files, 'Item_*.txt')
+]
+
+items_files += [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'Explain_Actor_*.txt')
+]
+
+items_files += [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'Explain_SkillRing.txt')
+]
+
+items_files += [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'Explain_System.txt')
+]
+
+items_files += [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'Items_Leftovers.txt')
 ]
 
 if len(sys.argv) == 3 and sys.argv[2] != "0":
@@ -48,29 +72,32 @@ def remove_html_markup(s):
     return out
 
 
-for files in chip_files:
+for files in items_files:
+    f = os.path.splitext(os.path.basename(files))[0]
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
         djson = json.load(json_file)
         for entry in djson:
-            t = entry["tr_explainShort"]
-            j = entry["jp_explainShort"]
-            if t == "" or j == t:
+            tt = entry["tr_text"]
+            jt = entry["jp_text"]
+            if tt == "":
                 continue
-            c = remove_html_markup(t)
-            if (t in FS):
+            fc = "{}:{}".format(f, tt)
+            if (fc in FS):
                 continue
-            FS[t] = _fonts.textlength(c)
+                print(fc)
+            FS[fc] = _fonts.textlength(tt)
 
 FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
 FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
 
 if len(sys.argv) == 3:
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
-else:  # JP MAX: 36.79
-    FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 36.79)
-    for e, s in FSEP.items():
-        counterr += 1
-        print("Chip Short explain '{}' is too big: {}".format(e, s))
+else:  # JP MAX: 25.21
+    FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 27.34)
+    for e, s in FSEP.items():  # MAX: 27.34
+            t = e.replace("\n", "\\n")
+            counterr += 1
+            print("Item Name '{}' is too long: {}".format(t, s))
 
 # Disable error
 counterr = 0

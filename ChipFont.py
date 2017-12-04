@@ -8,10 +8,14 @@ import os
 import sys
 from collections import OrderedDict
 
-if len(sys.argv) < 2:
-    sys.exit(os.EX_NOINPUT)
+# Error counter
+counterr = 0
 
-dir = sys.argv[1]
+# Need the json path
+if len(sys.argv) < 2:
+    dir = "json"
+else:
+    dir = sys.argv[1]
 
 FS = dict()
 
@@ -92,4 +96,8 @@ if len(sys.argv) == 3:
     print(json.dumps(FSL, ensure_ascii=False, indent="\t", sort_keys=False))
 else:
     for e, s in FSER.items():
+        counterr += 1
         print("Chip Name '{}' is too long: {}".format(e, s))
+
+if counterr != 0:
+    sys.exit("Issues found")

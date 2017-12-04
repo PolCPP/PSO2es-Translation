@@ -7,10 +7,14 @@ import os
 import sys
 from collections import OrderedDict
 
-if len(sys.argv) < 2:
-    sys.exit(os.EX_NOINPUT)
+# error counter
+counterr = 0
 
-dir = sys.argv[1]
+# Need the json path
+if len(sys.argv) < 2:
+    dir = "json"
+else:
+    dir = sys.argv[1]
 
 FS = dict()
 
@@ -62,4 +66,10 @@ if len(sys.argv) == 3:
 else:  # JP MAX: 22
     FSWP = OrderedDict((key, value) for key, value in FSs.items() if value > 26)
     for e, s in FSWP.items():  # MAX: ???
+        counterr += 1
         print("Item Name '{}' is too long: {}".format(e, s))
+
+counterr = 0
+
+if counterr != 0:
+    sys.exit("Issues found")

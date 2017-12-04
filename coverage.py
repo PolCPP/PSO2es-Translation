@@ -7,14 +7,17 @@ import os
 import json
 import sys
 
+# Error counter
 counterr = 0
+
 bufout = "000.0%\t0FILE"
 invalid_json_files = []
 
+# Need the json path
 if len(sys.argv) < 2:
-    sys.exit(os.EX_NOINPUT)
-
-dir = sys.argv[1]
+    dir = "json"
+else:
+    dir = sys.argv[1]
 
 json_files = [
     os.path.join(dirpath, f)
@@ -34,7 +37,7 @@ for files in json_files:
                     countout += 1
             # print ("%s/%s" % (countin, countout))
             if (countin):
-                countper = "{:06.1%}".format(float(countout)/float(countin))
+                countper = "{:06.1%}".format(float(countout) / float(countin))
                 bufout += '\n{0}\t{1}'.format(countper, files)
             else:
                 bufout += '\n{0}\t:{1}'.format("ERROR ", files)

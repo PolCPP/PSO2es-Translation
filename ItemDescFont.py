@@ -8,10 +8,14 @@ import os
 import sys
 from collections import OrderedDict
 
-if len(sys.argv) < 2:
-    sys.exit(os.EX_NOINPUT)
+# error counter
+counterr = 0
 
-dir = sys.argv[1]
+# Need the json path
+if len(sys.argv) < 2:
+    dir = "json"
+else:
+    dir = sys.argv[1]
 
 FS = dict()
 
@@ -69,17 +73,28 @@ def remove_html_markup(s):
 
 
 for files in items_files:
+    f = os.path.splitext(os.path.basename(files))[0]
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
         djson = json.load(json_file)
         for entry in djson:
-            t = entry["tr_explain"]
-            j = entry["jp_explain"]
-            if t == "" or j == t:
+            tt = entry["tr_text"]
+            jt = entry["jp_text"]
+            te = entry["tr_explain"]
+            je = entry["jp_explain"]
+            if tt == "":
+                t = jt
+            else:
+                t = tt
+            if te == "" or je == te:
                 continue
-            c = remove_html_markup(t)
-            if (t in FS):
+            ce = remove_html_markup(te)
+            fc = "{}:{}:{}".format(f, t, ce)
+            if len(sys.argv) > 2 or sys.argv[-1] != "0":
+                fc = fc.replace("\n", "\\n")
+            if (fc in FS):
                 continue
-            FS[t] = _fonts.textlength(c)
+                print(fc)
+            FS[fc] = _fonts.textlength(ce)
 
 FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
 FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
@@ -90,4 +105,11 @@ else:  # JP MAX: 42.73
     FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 42.73)
     for e, s in FSEP.items():  # MAX: 33
             t = e.replace("\n", "\\n")
+            counterr += 1
             print("Item Desc '{}' is too long: {}".format(t, s))
+
+# Disable error
+counterr = 0
+
+if counterr != 0:
+    sys.exit("Issues found")

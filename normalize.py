@@ -23,11 +23,9 @@ countdup = 0
 
 # Need the json path
 if len(sys.argv) < 2:
-    print("Where the json folder?")
-    sys.exit(os.EX_NOINPUT)
-
-# Keep folder string
-dir = sys.argv[1]
+    dir = "json"
+else:
+    dir = sys.argv[1]
 
 # collect all the JSON files
 json_files = [
@@ -58,10 +56,10 @@ def pairr(j=None, t=None):
     e = -1
     l = len(j)
     if l > 1:
-        while s < (l-1) and j[s] in bl:
+        while s < (l - 1) and j[s] in bl:
             s = s + 1
         yield s
-        while e <= -(l-1) and j[e] in bl:
+        while e <= -(l - 1) and j[e] in bl:
             e = e - 1
         yield e
     else:
@@ -72,10 +70,10 @@ def pairr(j=None, t=None):
     e = -1
     l = len(t)
     if l > 1:
-        while s <= (l-1) and t[s] in bl:
+        while s <= (l - 1) and t[s] in bl:
             s = s + 1
         yield s
-        while e <= -(l-1) and t[e] in bl:
+        while e <= -(l - 1) and t[e] in bl:
             e = e - 1
         yield e
     else:
@@ -83,7 +81,7 @@ def pairr(j=None, t=None):
         yield None
 
 
-def normalizet(nk='nFKC', w=None):
+def normalizet(nk='NFKC', w=None):
     g = list()
     for t in w:
         tn = unicodedata.normalize(nk, t)

@@ -8,10 +8,14 @@ import os
 import sys
 from collections import OrderedDict
 
-if len(sys.argv) < 2:
-    sys.exit(os.EX_NOINPUT)
+# Error counter
+counterr = 0
 
-dir = sys.argv[1]
+# Need the json path
+if len(sys.argv) < 2:
+    dir = "json"
+else:
+    dir = sys.argv[1]
 
 FS = dict()
 
@@ -49,4 +53,8 @@ if len(sys.argv) == 3:
 else:  # JP MAX: 31.12
     for e, s in FSER.items():  # MAX: 41.7?
         t = e.replace("\r\n", "\\r\\n")
+        counterr += 1
         print("Dice SpeakText '{}' is too long: {}".format(t, s))
+
+if counterr != 0:
+    sys.exit("Issues found")
