@@ -9,6 +9,12 @@ jobs:
       - run:
           name: Making report folder
           command: mkdir -p /tmp/PSO2es
+      - run:
+          name: Update APT listing
+          command: apt-get -qq update
+      - run:
+          name: Install git, ssh, PIL and jq
+          command: apt-get --no-install-recommends -qq -y install git ssh python3-pil jq
       - checkout
       - run:
           name: Check for vaild JSONs
