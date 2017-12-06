@@ -13,8 +13,11 @@ jobs:
           name: Update APT listing
           command: apt-get -qq update
       - run:
-          name: Install git, ssh, PIL and jq
-          command: apt-get --no-install-recommends -qq -y install git ssh python3-pil jq
+          name: Install git, ssh and jq
+          command: apt-get --no-install-recommends -qq -y install git ssh jq
+      - run:
+          name: install Python PIL
+          command: pip install Pillow
       - checkout
       - run:
           name: Check for vaild JSONs
