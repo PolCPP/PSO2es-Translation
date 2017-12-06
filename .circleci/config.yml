@@ -1,0 +1,63 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: python:3-stretch
+    working_directory: ~/repo
+
+    steps:
+      - run:
+          name: Making report folder
+          command: mkdir -p /tmp/PSO2es
+      - checkout
+      - run:
+          name: Check for vaild JSONs
+          command: ./_py/checkjson.py | tee /tmp/PSO2es/checkjson.txt
+      - run:
+          name: Report Coverage
+          command: ./_sh/coverage.sh | tee /tmp/PSO2es/coverage.txt
+      - run:
+          name: Is JSON files Tidy?
+          command: ./_sh/tidy-json.sh json && git diff --exit-code
+      - run:
+          name: Checking for item mapping
+          command: ./_py/dupcheck.py | tee /tmp/PSO2es/dupcheck.txt
+      - run:
+          name: Do we give the same name to 2+ entries?
+          command: ./_py/dupassign.py | tee /tmp/PSO2es/dupassign.txt
+      - run:
+          name: Checking if Dice Chat have too many lines
+          command: ./_py/DiceLen.py | tee /tmp/PSO2es/DiceLen.txt
+      - run:
+          name: Items' name too long for search box?
+          command: ./_py/ItemLen.py | tee /tmp/PSO2es/ItemLen.txt
+      - run:
+          name: Checking if Item Desc have too many lines
+          command: ./_py/ItemDescLen.py | tee /tmp/PSO2es/ItemDescLen.txt
+      - run:
+          name: Is Story Buttons too big?
+          command: ./_py/StoryBTNFont.py | tee /tmp/PSO2es/StoryBTNFont.txt
+      - run:
+          name: Is Story text too big?
+          command: ./_py/StoryFont.py | tee /tmp/PSO2es/StoryFont.txt
+      - run:
+          name: Are Chips name too big?
+          command: ./_py/ChipFont.py | tee /tmp/PSO2es/ChipFont.txt
+      - run:
+          name: Are Chips' short Desc too long?
+          command: ./_py/ChipDescShort.py | tee /tmp/PSO2es/ChipDescShort.txt
+      - run:
+          name: Are Chips' long Desc too long?
+          command: ./_py/ChipDescLong.py | tee /tmp/PSO2es/ChipDescLong.txt
+      - run:
+          name: Are the Dice Chat too big?
+          command: ./_py/DiceFont.py | tee /tmp/PSO2es/DictFont.txt
+      - run:
+          name: Are the Items' name too big?
+          command: ./_py/ItemFont.py | tee /tmp/PSO2es/ItemFont.txt
+      - run:
+          name: Are the Items' Desc too big?
+          command: ./_py/ItemDescFont.py | tee /tmp/PSO2es/ItemDescFont.txt
+      - store_artifacts:
+          path: /tmp/PSO2es/
+          destination: Reports
