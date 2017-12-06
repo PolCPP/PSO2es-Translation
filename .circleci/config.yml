@@ -4,7 +4,6 @@ jobs:
     docker:
       - image: python:3-stretch
     working_directory: ~/repo
-
     steps:
       - run:
           name: Making report folder
@@ -15,9 +14,15 @@ jobs:
       - run:
           name: Install git, ssh and jq
           command: apt-get --no-install-recommends -qq -y install git ssh jq
+      - restore_cache:
+          key: deps1-{{ .Branch }}-{{ checksum "requirements.txt" }}
       - run:
-          name: install Python PIL
-          command: pip install Pillow
+          name: install Python packages
+          command: pip install -r requirements.txt
+      - save_cache:
+          key: deps1-{{ .Branch }}-{{ checksum "requirements.txt" }}
+          paths:
+            - ".cache/pip"
       - checkout
       - run:
           name: Check for vaild JSONs
