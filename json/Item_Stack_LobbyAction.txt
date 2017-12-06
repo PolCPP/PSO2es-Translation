@@ -1669,7 +1669,7 @@
 		"assign": "3230241",
 		"jp_text": "228「エア居合」",
 		"tr_text": "228 \"Air Iai\"",
-		"jp_explain": "ロビアク『エア居合』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"jp_explain": "ロビアク『エア居合』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
 		"tr_explain": "Unlocks the new lobby action\n\"Air Iai\".\nHas another animation as a Reaction."
 	},
 	{
@@ -1683,7 +1683,7 @@
 		"assign": "3230243",
 		"jp_text": "230「カンチョー」",
 		"tr_text": "230 \"Kancho\"",
-		"jp_explain": "ロビアク『カンチョー』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"jp_explain": "ロビアク『カンチョー』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
 		"tr_explain": "Unlocks the new lobby action\n\"Kancho\".\nHas another animation as a Reaction."
 	},
 	{
@@ -1830,7 +1830,7 @@
 		"assign": "3230264",
 		"jp_text": "251「一丁締め」",
 		"tr_text": "251 \"Itchou-jime\"",
-		"jp_explain": "ロビアク『一丁締め』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"jp_explain": "ロビアク『一丁締め』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
 		"tr_explain": "Unlocks the new lobby action\n\"Itchou-jime\".\nHas another animation as a Reaction."
 	},
 	{
@@ -2047,7 +2047,7 @@
 		"assign": "3230295",
 		"jp_text": "282「円陣」",
 		"tr_text": "282 \"Circle Formation\"",
-		"jp_explain": "ロビアク『円陣』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"jp_explain": "ロビアク『円陣』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
 		"tr_explain": "Unlocks the new lobby action\n\"Circle Formation\".\nHas another animation as a Reaction."
 	},
 	{
@@ -2201,7 +2201,7 @@
 		"assign": "3230317",
 		"jp_text": "304「テイスティ」",
 		"tr_text": "304 \"Tasty\"",
-		"jp_explain": "ロビアク『テイスティ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"jp_explain": "ロビアク『テイスティ』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
 		"tr_explain": "Unlocks the new lobby action\n\"Tasty\".\nHas another animation as a Reaction."
 	},
 	{
@@ -2348,7 +2348,7 @@
 		"assign": "3230339",
 		"jp_text": "325「吹き飛ばす」",
 		"tr_text": "325 \"Blow Off\"",
-		"jp_explain": "ロビアク『吹き飛ばす』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"jp_explain": "ロビアク『吹き飛ばす』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
 		"tr_explain": "Unlocks the new lobby action\n\"Blow Off\".\nHas another animation as a Reaction."
 	},
 	{
@@ -2562,6 +2562,41 @@
 		"tr_explain": "Unlocks the new lobby action\n\"Victory Pose 2\"."
 	},
 	{
+		"assign": "3230371",
+		"jp_text": "357「クレイジー」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『クレイジー』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230372",
+		"jp_text": "358「ボディビル」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『ボディビル』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230373",
+		"jp_text": "359「待機中６」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『待機中６』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230374",
+		"jp_text": "360「マザー・クラスタ４」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『マザー・クラスタ４』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230375",
+		"jp_text": "361「マザー・クラスタ５」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『マザー・クラスタ５』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3230376",
 		"jp_text": "362「ＤＯＡ勝利ポーズ」",
 		"tr_text": "362 \"DOA Victory Pose\"",
@@ -2574,5 +2609,19 @@
 		"tr_text": "363 \"DOA Combo\"",
 		"jp_explain": "ロビアク『ＤＯＡコンボ』\nを全キャラクターで使用可能になる。",
 		"tr_explain": "Unlocks the new lobby action\n\"DOA Combo\"."
+	},
+	{
+		"assign": "3230381",
+		"jp_text": "367「たこあげ」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『たこあげ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230384",
+		"jp_text": "370「シエラポーズ」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『シエラポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
 	}
 ]

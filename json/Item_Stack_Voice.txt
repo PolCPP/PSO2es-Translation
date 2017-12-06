@@ -2947,6 +2947,13 @@
 		"tr_explain": "Allows a new voice to be selected.\nNon-Cast male characters only.\nCV: Miyuki Sawashiro"
 	},
 	{
+		"assign": "3180514",
+		"jp_text": "男性追加ボイス１２６",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間男性のみ使用可能。\nＣＶ伊瀬 茉莉也",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3180522",
 		"jp_text": "男性アヴェンジャーボイス",
 		"tr_text": "Male Avenger Voice",
@@ -3099,6 +3106,13 @@
 		"tr_text": "Male C Extra Voice 84",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ沢城 みゆき",
 		"tr_explain": "Allows a new voice to be selected.\nMale Casts only.\nCV: Miyuki Sawashiro"
+	},
+	{
+		"assign": "3180550",
+		"jp_text": "男性Ｃ追加ボイス１２６",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ伊瀬 茉莉也",
+		"tr_explain": ""
 	},
 	{
 		"assign": "3180558",
@@ -4704,6 +4718,13 @@
 		"tr_explain": "Allows a new voice to be selected.\nNon-Cast female characters only.\nCV: Rina Sato"
 	},
 	{
+		"assign": "3180961",
+		"jp_text": "女性追加ボイス１５９",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ佐藤 利奈",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3180963",
 		"jp_text": "女性追加ボイス１４０",
 		"tr_text": "Female Extra Voice 140",
@@ -5264,6 +5285,13 @@
 		"tr_explain": "Allows a new voice to be selected.\nFemale Casts only.\nCV: Rina Sato"
 	},
 	{
+		"assign": "31801139",
+		"jp_text": "女性Ｃ追加ボイス１５９",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ佐藤 利奈",
+		"tr_explain": ""
+	},
+	{
 		"assign": "31801141",
 		"jp_text": "女性Ｃ追加ボイス１４０",
 		"tr_text": "Female C Extra Voice 140",
@@ -5411,6 +5439,20 @@
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Ryusei Nakao"
 	},
 	{
+		"assign": "31801182",
+		"jp_text": "男性共通アラトロンボイス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶチョー",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31801183",
+		"jp_text": "男性共通オフィエルボイス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ子安 武人",
+		"tr_explain": ""
+	},
+	{
 		"assign": "31801185",
 		"jp_text": "男性共通【仮面】ボイス",
 		"tr_text": "Male Persona Voice",
@@ -5537,6 +5579,20 @@
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Aki Toyosaki"
 	},
 	{
+		"assign": "31801246",
+		"jp_text": "男性共通エンガボイス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ細谷 佳正",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31801247",
+		"jp_text": "男性共通ピエトロボイス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ江口 拓也",
+		"tr_explain": ""
+	},
+	{
 		"assign": "31801299",
 		"jp_text": "男性Ｃ追加ボイス１１３",
 		"tr_text": "Male C Extra Voice 113",
@@ -5619,6 +5675,13 @@
 		"tr_text": "Female Phul Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ小倉 唯",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Yui Ogura"
+	},
+	{
+		"assign": "31801377",
+		"jp_text": "女性共通マザーボイス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ佐藤 利奈",
+		"tr_explain": ""
 	},
 	{
 		"assign": "31801378",
@@ -5787,6 +5850,13 @@
 		"tr_text": "Female Aru Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ豊崎 愛生",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Aki Toyosaki"
+	},
+	{
+		"assign": "31801450",
+		"jp_text": "女性共通コオリボイス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ洲崎 綾",
+		"tr_explain": ""
 	},
 	{
 		"assign": "31801470",
