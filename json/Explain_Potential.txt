@@ -17780,6 +17780,41 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "339877935",
+		"jp_text": "撃技昇攻 Lv.1",
+		"tr_text": "",
+		"jp_explain": "通常攻撃の威力が30％\n通常攻撃以外の\n威力が6％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "339877932",
+		"jp_text": "撃技昇攻 Lv.2",
+		"tr_text": "",
+		"jp_explain": "通常攻撃の威力が40％\n通常攻撃以外の\n威力が6％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "339877933",
+		"jp_text": "撃技昇攻 Lv.3",
+		"tr_text": "",
+		"jp_explain": "通常攻撃の威力が50％\n通常攻撃以外の\n威力が6％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "339877930",
+		"jp_text": "撃技昇攻 Lv.4",
+		"tr_text": "",
+		"jp_explain": "通常攻撃の威力が300％\n通常攻撃以外の\n威力が10％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "339877931",
+		"jp_text": "撃技昇攻 Lv.5",
+		"tr_text": "",
+		"jp_explain": "通常攻撃の威力が300％\n通常攻撃以外の\n威力が10％上昇。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "2407601788",
 		"jp_text": "叡智への導き Lv.1",
 		"tr_text": "",
@@ -18617,6 +18652,41 @@
 		"jp_text": "属性追従・炎氷 Lv.5",
 		"tr_text": "",
 		"jp_explain": "弱点属性が炎、氷、武器\n属性のいずれかと一致時\n威力上昇し、ＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2978722532",
+		"jp_text": "煌炎貫撃 Lv.1",
+		"tr_text": "",
+		"jp_explain": "弱点属性が炎、武器\n属性のいずれかと一致時\n威力上昇し、ＨＰが回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2978722533",
+		"jp_text": "煌炎貫撃 Lv.2",
+		"tr_text": "",
+		"jp_explain": "弱点属性が炎、武器\n属性のいずれかと一致時\n威力上昇し、ＨＰが回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2978722534",
+		"jp_text": "煌炎貫撃 Lv.3",
+		"tr_text": "",
+		"jp_explain": "弱点属性が炎、武器\n属性のいずれかと一致時\n威力上昇し、ＨＰが回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2978722535",
+		"jp_text": "煌炎貫撃 Lv.4",
+		"tr_text": "",
+		"jp_explain": "弱点属性が炎、武器\n属性のいずれかと一致時\n威力上昇し、ＨＰが回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2978722552",
+		"jp_text": "煌炎貫撃 Lv.5",
+		"tr_text": "",
+		"jp_explain": "弱点属性が炎、武器\n属性のいずれかと一致時\n威力上昇し、ＨＰが回復。",
 		"tr_explain": ""
 	},
 	{
@@ -20367,6 +20437,146 @@
 		"jp_text": "聖浄の旋律 Lv.5",
 		"tr_text": "",
 		"jp_explain": "一定間隔で被ダメージを\n軽減するバリアを展開。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "431531094",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "【説明】未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "431531089",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "【説明】未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "431531088",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "【説明】未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "431531091",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "【説明】未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "431531090",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "【説明】未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2318370515",
+		"jp_text": "刹那の星弾 Lv.1",
+		"tr_text": "",
+		"jp_explain": "与ダメージ時ＨＰ回復。\nジャストアタック時\n威力が15％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2318370512",
+		"jp_text": "刹那の星弾 Lv.2",
+		"tr_text": "",
+		"jp_explain": "与ダメージ時ＨＰ回復。\nジャストアタック時\n威力が17％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2318370513",
+		"jp_text": "刹那の星弾 Lv.3",
+		"tr_text": "",
+		"jp_explain": "与ダメージ時ＨＰ回復。\nジャストアタック時\n威力が20％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2318370542",
+		"jp_text": "刹那の星弾 Lv.4",
+		"tr_text": "",
+		"jp_explain": "与ダメージ時ＨＰ回復。\nジャストアタック時\n威力が12％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2318370543",
+		"jp_text": "刹那の星弾 Lv.5",
+		"tr_text": "",
+		"jp_explain": "与ダメージ時ＨＰ回復。\nジャストアタック時\n威力が15％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3909720723",
+		"jp_text": "誘惑の魔盾 Lv.1",
+		"tr_text": "",
+		"jp_explain": "与ダメージが12％上昇。\n一定間隔で吹き飛ばしを\n無効化するバリアを展開。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3909720732",
+		"jp_text": "誘惑の魔盾 Lv.2",
+		"tr_text": "",
+		"jp_explain": "与ダメージが15％上昇。\n一定間隔で吹き飛ばしを\n無効化するバリアを展開。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3909720733",
+		"jp_text": "誘惑の魔盾 Lv.3",
+		"tr_text": "",
+		"jp_explain": "与ダメージが17％上昇。\n一定間隔で吹き飛ばしを\n無効化するバリアを展開。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3909720734",
+		"jp_text": "誘惑の魔盾 Lv.4",
+		"tr_text": "",
+		"jp_explain": "与ダメージが20％上昇。\n一定間隔で吹き飛ばしを\n無効化するバリアを展開。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3909720735",
+		"jp_text": "誘惑の魔盾 Lv.5",
+		"tr_text": "",
+		"jp_explain": "与ダメージが22％上昇。\n一定間隔で吹き飛ばしを\n無効化するバリアを展開。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4093477893",
+		"jp_text": "誘惑の調べ Lv.1",
+		"tr_text": "",
+		"jp_explain": "一定間隔で吹き飛ばしを\n無効化するバリアを展開。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4093477890",
+		"jp_text": "誘惑の調べ Lv.2",
+		"tr_text": "",
+		"jp_explain": "一定間隔で吹き飛ばしを\n無効化するバリアを展開。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4093477891",
+		"jp_text": "誘惑の調べ Lv.3",
+		"tr_text": "",
+		"jp_explain": "一定間隔で吹き飛ばしを\n無効化するバリアを展開。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4093477888",
+		"jp_text": "誘惑の調べ Lv.4",
+		"tr_text": "",
+		"jp_explain": "一定間隔で吹き飛ばしを\n無効化するバリアを展開。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4093477889",
+		"jp_text": "誘惑の調べ Lv.5",
+		"tr_text": "",
+		"jp_explain": "一定間隔で吹き飛ばしを\n無効化するバリアを展開。",
 		"tr_explain": ""
 	},
 	{
