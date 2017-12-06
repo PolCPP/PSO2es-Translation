@@ -101,8 +101,9 @@ for files in json_files:
             counterr += 1
             print("%s: %s") % (files, e)
 
+counterr = -counterr
 
-if counterr != 0:
+if counterr > 0:
     sys.exit(bufout)
-elif Forceso:
+elif Forceso or counterr < 0:
     print(bufout)
