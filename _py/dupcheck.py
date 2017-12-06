@@ -102,7 +102,7 @@ for files in json_files:
             print("%s: %s") % (files, e)
 
 
-if counterr != 0:
+if counterr > 0:
     sys.exit(bufout)
 elif Forceso:
     print(bufout)

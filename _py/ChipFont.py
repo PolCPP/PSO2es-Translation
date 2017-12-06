@@ -99,5 +99,5 @@ else:
         counterr += 1
         print("Chip Name '{}' is too long: {}".format(e, s))
 
-if counterr != 0:
+if counterr > 0:
     sys.exit("Issues found")
