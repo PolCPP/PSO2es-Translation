@@ -76,5 +76,5 @@ for files in json_files:
             else:
                 assigns[a] = t
 
-if counterr != 0:
+if counterr > 0:
     sys.exit("Issues found")

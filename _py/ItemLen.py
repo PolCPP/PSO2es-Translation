@@ -69,7 +69,8 @@ else:  # JP MAX: 22
         counterr += 1
         print("Item Name '{}' is too long: {}".format(e, s))
 
-counterr = 0
+# Do not fail
+counterr = -counterr
 
-if counterr != 0:
+if counterr > 0:
     sys.exit("Issues found")

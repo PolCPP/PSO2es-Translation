@@ -51,5 +51,5 @@ for files in json_files:
                 indent="\t", sort_keys=False)
             json_file.write("\n")
 
-if counterr != 0:
+if counterr > 0:
     sys.exit("Issues found")
