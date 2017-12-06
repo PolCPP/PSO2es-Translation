@@ -18,6 +18,7 @@ else:
     dir = sys.argv[1]
 
 FS = dict()
+FSl = dict()
 
 story_files = [
     os.path.join(dirpath, f)
@@ -55,6 +56,7 @@ for files in story_files:
                     if t in FS:
                         continue
                     FS[t] = _fonts.textlength(t)
+                    FSl[t] = os.path.basename(files)
 
 FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
 FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
@@ -66,7 +68,7 @@ else:  # JP MAX: 34.24
     for e, s in FSWP.items():  # TXT MAX: Center mess
         t = e.replace("\n", "br")
         counterr += 1
-        print("Story Button '{}' is too long: {}".format(t, s))
+        print("{}'s Story Button '{}' is too long: {}".format(FSl[t], t, s))
 
 counterr = -counterr
 
