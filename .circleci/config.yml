@@ -16,14 +16,14 @@ jobs:
           command: apt-get --no-install-recommends -qq -y install git ssh jq
       - checkout
       - restore_cache:
-          key: deps1-{{ .Branch }}-{{ checksum "requirements.txt" }}
+          key: pip1-{{ .Branch }}-{{ checksum "requirements.txt" }}
       - run:
           name: install Python packages
           command: pip install -r requirements.txt
       - save_cache:
-          key: deps1-{{ .Branch }}-{{ checksum "requirements.txt" }}
+          key: pip1-{{ .Branch }}-{{ checksum "requirements.txt" }}
           paths:
-            - ".cache/pip"
+            - ~/.cache/pip
       - run:
           name: Check for vaild JSONs
           command: ./_py/checkjson.py | tee /tmp/PSO2es/checkjson.txt
