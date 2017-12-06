@@ -41,15 +41,9 @@ __pycache__
 # ============ #
 # ESBreakerCLI #
 # ============ #
-/Assembly-CSharp-firstpass.dll
-/CommandLine.dll
-/ContentsSerializer.dll
+*.dll
 /Databases
 /ESBreakerCLI.exe
-/Newtonsoft.Json.dll
-/ProtoBuffSerializer.dll
-/UnityEngine.dll
-/protobuf-net.dll
 /output
 
 # ===== #
