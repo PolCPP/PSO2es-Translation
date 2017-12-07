@@ -11,7 +11,7 @@ adb shell cp %apkpath% /sdcard/PSO2es.zip
 adb pull /sdcard/PSO2es.zip apk\PSO2es.zip
 adb shell rm /sdcard/PSO2es.zip
 echo Extracting DLLs
-rem Powershell.exe -NoLogo -NoProfile -NonInteractive -WindowStyle Hidden -ExecutionPolicy Bypass -Command "Expand-Archive -DestinationPath apk -Path apk\PSO2es.zip -Force -Confirm:$false"
+Powershell.exe -NoLogo -NoProfile -NonInteractive -ExecutionPolicy Bypass -File unzip.ps1
 echo linking needed DLLs
 del /F /Q Assembly-CSharp-firstpass.dll && copy /B /V /Y /Z apk\Assembly-CSharp-firstpass.dll . 1> nul
 del /F /Q ContentsSerializer.dll && copy /B /V /Y /Z apk\ContentsSerializer.dll ContentsSerializer.dll 1> nul
