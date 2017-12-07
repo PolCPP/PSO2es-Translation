@@ -64,13 +64,12 @@ FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
 if len(sys.argv) == 3:
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
 else:  # JP MAX: 34.24
-    FSWP = OrderedDict((key, value) for key, value in FSs.items() if value > 34.24)
+    FSWP = OrderedDict((key, value) for key, value in FSs.items() if value > 48)
     for e, s in FSWP.items():  # TXT MAX: Center mess
         t = e.replace("\n", "br")
-        counterr += 1
+        if s > 64:
+            counterr += 1
         print("{}'s Story Button '{}' is too long: {}".format(FSl[t], t, s))
-
-counterr = -counterr
 
 if counterr > 0:
     sys.exit("Issues found")
