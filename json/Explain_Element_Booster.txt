@@ -366,21 +366,21 @@
 	{
 		"assign": "52",
 		"jp_text": "テクニック・ブースト",
-		"tr_text": "Technique Boost",
+		"tr_text": "Ｔｅｃｈｎｉｑｕｅ Ｂｏｏｓｔ",
 		"jp_explain": "法撃+25",
 		"tr_explain": "T-ATK+25"
 	},
 	{
 		"assign": "53",
 		"jp_text": "スタミナ・ブースト",
-		"tr_text": "Stamina Boost",
+		"tr_text": "Ｓｔａｍｉｎａ Ｂｏｏｓｔ",
 		"jp_explain": "HP+45",
 		"tr_explain": ""
 	},
 	{
 		"assign": "54",
 		"jp_text": "スピリタ・ブースト",
-		"tr_text": "Spirita Boost",
+		"tr_text": "Ｓｐｉｒｉｔａ Ｂｏｏｓｔ",
 		"jp_explain": "PP+5",
 		"tr_explain": ""
 	},
@@ -457,7 +457,7 @@
 	{
 		"assign": "65",
 		"jp_text": "ロックベア・ソール",
-		"tr_text": "Rockbear Soul",
+		"tr_text": "Ｒｏｃｋｂｅａｒ Ｓｏｕｌ",
 		"jp_explain": "打防+30 HP+10 PP+3",
 		"tr_explain": "S-DEF+30 HP+10 PP+3"
 	},
@@ -527,7 +527,7 @@
 	{
 		"assign": "75",
 		"jp_text": "フォトンコレクト",
-		"tr_text": "Photon Collect",
+		"tr_text": "Ｐｈｏｔｏｎ Ｃｏｌｌｅｃｔ",
 		"jp_explain": "状態異常と属性耐性の\n合成確率を上昇させる\nステータス上昇なし",
 		"tr_explain": "Boost synthesis transfer\nrate of status effect\nabilities."
 	},
@@ -646,7 +646,7 @@
 	{
 		"assign": "92",
 		"jp_text": "タガミカヅチ・ソール",
-		"tr_text": "Tagamikazuchi Soul",
+		"tr_text": "Ｔａｇａｍｉｋａｚｕｃｈｉ Ｓｏｕｌ",
 		"jp_explain": "射撃+20 法撃+20\nPP+2",
 		"tr_explain": "R-ATK+20 T-ATK+20\nPP+2"
 	},
@@ -667,7 +667,7 @@
 	{
 		"assign": "95",
 		"jp_text": "ビブラス・ソール",
-		"tr_text": "Vibrace Soul",
+		"tr_text": "Ｖｉｂｒａｃｅ Ｓｏｕｌ",
 		"jp_explain": "射撃+20 法撃+20\nHP+5 PP+1",
 		"tr_explain": "R-ATK+20 T-ATK+20\nHP+5 PP+1"
 	},
@@ -786,7 +786,7 @@
 	{
 		"assign": "112",
 		"jp_text": "ソールレセプター",
-		"tr_text": "Soul Receptor",
+		"tr_text": "Ｓｏｕｌ Ｒｅｃｅｐｔｏｒ",
 		"jp_explain": "ソール系特殊能力の\n合成成功率を大幅に上昇\n全+10",
 		"tr_explain": "Boosts transfer\nrate of Soul Abilities.\nALL+10"
 	},
@@ -800,7 +800,7 @@
 	{
 		"assign": "114",
 		"jp_text": "マーク・カレジナ",
-		"tr_text": "Mark Couragena",
+		"tr_text": "Ｍａｒｋ Ｃｏｕｒａｇｅｎａ",
 		"jp_explain": "打撃+40 射撃+40\n法撃+40 PP+5",
 		"tr_explain": "S-ATK+40 R-ATK+40\nT-ATK+40 PP+5"
 	},
@@ -821,7 +821,7 @@
 	{
 		"assign": "117",
 		"jp_text": "ナイトギア・ソール",
-		"tr_text": "Knight Gear Soul",
+		"tr_text": "Ｋｎｉｇｈｔ Ｇｅａｒ Ｓｏｕｌ",
 		"jp_explain": "打撃+15 射撃+15\n法撃+15 技量+15 PP+4",
 		"tr_explain": "S-ATK+15 R-ATK+15\nT-ATK+15 PP+4"
 	},
@@ -884,7 +884,7 @@
 	{
 		"assign": "126",
 		"jp_text": "ギフトレセプター",
-		"tr_text": "Gift Receptor",
+		"tr_text": "Ｇｉｆｔ Ｒｅｃｅｐｔｏｒ",
 		"jp_explain": "ギフト系特殊能力の\n引き継ぎが可能になる\n全+10",
 		"tr_explain": "Boosts transfer\nrate of gift abilities.\nALL+10"
 	},
@@ -1962,7 +1962,7 @@
 	{
 		"assign": "280",
 		"jp_text": "エルダー・レヴリー",
-		"tr_text": "Elder Reverie",
+		"tr_text": "",
 		"jp_explain": "打撃+40 射撃+20\n法撃+20 PP-2",
 		"tr_explain": ""
 	},
