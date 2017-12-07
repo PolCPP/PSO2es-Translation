@@ -25,4 +25,4 @@ adb pull -a /sdcard/Android/data/com.sega.PhantasyStarOnline2es/files/3hwQzp8KE9
 echo Updating JSONs
 mono ESBreakerCLI.exe > /dev/null
 git commit --file /tmp/PSO2ver.txt -- json
-rem ./make.sh
+# ./make.sh
