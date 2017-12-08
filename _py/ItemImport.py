@@ -259,5 +259,5 @@ with codecs.open(
     json_file.write("\n")
     print("Left with {} leftover items".format(len(ojson)))
 
-if counterr != 0:
+if counterr > 0:
     sys.exit("Issues found")

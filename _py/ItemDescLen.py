@@ -175,7 +175,7 @@ for e, s in FSER.items():
     print("Item Desc '{}' is too big: {}".format(e, s))
 
 # Do not fail
-counterr = 0
+counterr = -counterr
 
-if counterr != 0:
+if counterr > 0:
     sys.exit("Issues found")

@@ -68,5 +68,5 @@ else:  # JP MAX: 37.53
         counterr += 1
         print("Story Text '{}' is too long: {}".format(t, s))
 
-if counterr != 0:
+if counterr > 0:
     sys.exit("Issues found")
