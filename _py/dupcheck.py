@@ -75,9 +75,9 @@ for files in json_files:
                     if jl not in JPMap:
                         JPMap[jl] = tl
                     elif JPMap[jl] != tl:
-                        bufout += ("\nJP: {}:{} '{}' wants the mapping of '{}'".format(
+                        bufout += ("\nJP: {}:{} '{}' wants the mapping of i'{}' but already got i'{}'".format(
                             os.path.splitext(os.path.basename(files))[0],
-                            a, j, t))
+                            a, j, tl, JPMap[jl]))
                         counterr += 1
 
                     if t not in ENMap:
@@ -101,8 +101,7 @@ for files in json_files:
             counterr += 1
             print("%s: %s") % (files, e)
 
-
-if counterr != 0:
+if counterr > 0:
     sys.exit(bufout)
-elif Forceso:
+elif Forceso or counterr < 0:
     print(bufout)

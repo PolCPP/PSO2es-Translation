@@ -6,7 +6,7 @@ group: beta
 
 script:
   - ./_py/checkjson.py && ./_sh/coverage.sh
-  - ./_sh/tidy-json.sh json && git diff --exit-code
+  - ./_py/tidy-json.py && git diff --exit-code
   - ./_py/dupcheck.py
   - ./_py/dupassign.py
   - ./_py/DiceLen.py

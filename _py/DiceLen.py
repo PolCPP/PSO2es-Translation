@@ -50,5 +50,5 @@ else:  # JP MAX: 31.12
         counterr += 1
         print("Dice SpeakText '{}' have too many lines: {}".format(t, s))
 
-if counterr != 0:
+if counterr > 0:
     sys.exit("Issues found")
