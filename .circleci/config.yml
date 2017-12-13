@@ -66,6 +66,9 @@ jobs:
       - run:
           name: Are the Items' Desc too big?
           command: ./_py/ItemDescFont.py | tee /tmp/PSO2es/ItemDescFont.txt
+      - run:
+          name: Any text needs to by normalize?
+          command: ./_tools/normalize.py; git diff | tee /tmp/PSO2es/normalize.dif
       - store_artifacts:
           path: /tmp/PSO2es/
           destination: Reports
