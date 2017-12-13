@@ -64,7 +64,7 @@ FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
 if len(sys.argv) == 3:
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
 else:  # JP MAX: 22
-    FSWP = OrderedDict((key, value) for key, value in FSs.items() if value > 26)
+    FSWP = OrderedDict((key, value) for key, value in FSs.items() if value >= 32)
     for e, s in FSWP.items():  # MAX: ???
         counterr += 1
         print("Item Name '{}' is too long: {}".format(e, s))
