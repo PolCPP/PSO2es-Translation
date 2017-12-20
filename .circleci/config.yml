@@ -73,6 +73,9 @@ jobs:
           keys:
             # Find the most recent cache used from any branch
             - v1-APK-
+      - run:
+          name: update APT listing
+          comamnd: apt-get -qq update
       -run:
           name: Download APKs files
           command: /bin/bash ./.circleci/prebuild.sh .
@@ -99,6 +102,9 @@ jobs:
           key: v1-Databases-{{ checksum "lib/*.apk" }}
           paths:
             - patchJP.zip
+      - run:
+          name: Install Mono runtime
+          command apt-get -qq -y --no-install-recommends install mono-runtime
       - store_artifacts:
           path: /tmp/PSO2es/
           destination: Reports
