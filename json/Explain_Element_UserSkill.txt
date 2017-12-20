@@ -753,7 +753,7 @@
 		"jp_text": "フレイズ・ディケイ",
 		"tr_text": "Phrase Decay",
 		"jp_explain": "ジェルン状態の\nエネミーへの\n与ダメージが5％上昇。",
-		"tr_explain": ""
+		"tr_explain": "Boosts damage inflicted\nto enemies affected\nby Jellen by 5%."
 	},
 	{
 		"assign": "108",
@@ -921,7 +921,7 @@
 		"jp_text": "Ｓ２：剛乱活与",
 		"tr_text": "",
 		"jp_explain": "一定確率で与ダメージの\n１％をＨＰとして吸収。\n（上限300）",
-		"tr_explain": ""
+		"tr_explain": "Restores HP equal to\n1% of damage dealt.\n(Max: 300)"
 	},
 	{
 		"assign": "132",
@@ -933,9 +933,9 @@
 	{
 		"assign": "133",
 		"jp_text": "Ｓ１：剛撃の志",
-		"tr_text": "",
+		"tr_text": "S1: Willful Steel Strike",
 		"jp_explain": "与ダメージが2％上昇。",
-		"tr_explain": ""
+		"tr_explain": "Boosts damage by 2%."
 	},
 	{
 		"assign": "134",
@@ -947,23 +947,23 @@
 	{
 		"assign": "135",
 		"jp_text": "Ｓ３：剛撃の志",
-		"tr_text": "",
+		"tr_text": "S3: Willful Steel Strike",
 		"jp_explain": "与ダメージが2％上昇。",
-		"tr_explain": ""
+		"tr_explain": "Boosts damage by 2%."
 	},
 	{
 		"assign": "136",
 		"jp_text": "Ｓ１：光子縮減",
-		"tr_text": "",
+		"tr_text": "S1: Photon Reduction",
 		"jp_explain": "ＰＰ消費量を7％軽減。",
-		"tr_explain": ""
+		"tr_explain": "PP consumption is\nreduced by 7%."
 	},
 	{
 		"assign": "137",
 		"jp_text": "Ｓ２：光子縮減",
-		"tr_text": "",
+		"tr_text": "S2: Photon Reduction",
 		"jp_explain": "ＰＰ消費量を10％軽減。",
-		"tr_explain": ""
+		"tr_explain": "PP consumption is\nreduced by 10%."
 	},
 	{
 		"assign": "138",
@@ -989,9 +989,9 @@
 	{
 		"assign": "141",
 		"jp_text": "Ｓ３：活実の志",
-		"tr_text": "",
+		"tr_text": "S3: Vital Will",
 		"jp_explain": "ＨＰが80％以上の時\n与ダメージが3％上昇。",
-		"tr_explain": ""
+		"tr_explain": "Boosts damage by 3%\nwhile HP is 80% or more."
 	},
 	{
 		"assign": "142",
@@ -1003,9 +1003,9 @@
 	{
 		"assign": "143",
 		"jp_text": "Ｓ２：災転輝与",
-		"tr_text": "",
+		"tr_text": "S2: Cursed Radiance",
 		"jp_explain": "ダメージを受けた際に\nＰＰを15％回復する。",
-		"tr_explain": ""
+		"tr_explain": "Recovers PP by 15%\nwhen taking damage."
 	},
 	{
 		"assign": "144",
@@ -1017,16 +1017,16 @@
 	{
 		"assign": "145",
 		"jp_text": "Ｓ１：妙技の巧",
-		"tr_text": "",
+		"tr_text": "S1: Wise Skill",
 		"jp_explain": "クリティカル率が\n15％上昇する。",
-		"tr_explain": ""
+		"tr_explain": "Increases critical\nrate by 15%."
 	},
 	{
 		"assign": "146",
 		"jp_text": "Ｓ２：妙技の巧",
-		"tr_text": "",
+		"tr_text": "S2: Wise Skill",
 		"jp_explain": "クリティカル率が\n12％上昇する。",
-		"tr_explain": ""
+		"tr_explain": "Increases critical\nrate by 12%."
 	},
 	{
 		"assign": "147",
@@ -1066,9 +1066,9 @@
 	{
 		"assign": "152",
 		"jp_text": "Ｓ２：守護の備",
-		"tr_text": "",
+		"tr_text": "S2: Guardian Armor",
 		"jp_explain": "被ダメージを7％軽減。",
-		"tr_explain": ""
+		"tr_explain": "Reduces damage\ntaken by 7%."
 	},
 	{
 		"assign": "153",
@@ -1122,9 +1122,9 @@
 	{
 		"assign": "160",
 		"jp_text": "Ｓ１：諸刃の撃",
-		"tr_text": "",
+		"tr_text": "S1: Double-Edged Sword",
 		"jp_explain": "与ダメージが4％上昇し\n被ダメージも8％上昇。",
-		"tr_explain": ""
+		"tr_explain": "Deal 4% more damage\nbut take 8% more damage."
 	},
 	{
 		"assign": "161",
@@ -1143,9 +1143,9 @@
 	{
 		"assign": "163",
 		"jp_text": "Ｓ１：輝勢の恵",
-		"tr_text": "",
+		"tr_text": "S1: Radiating Grace",
 		"jp_explain": "ＰＰの自然回復速度が\n20％上昇する。",
-		"tr_explain": ""
+		"tr_explain": "PP regeneration\nincreases by 20%."
 	},
 	{
 		"assign": "164",
@@ -1157,9 +1157,9 @@
 	{
 		"assign": "165",
 		"jp_text": "Ｓ３：輝勢の恵",
-		"tr_text": "",
+		"tr_text": "S3: Radiating Grace",
 		"jp_explain": "ＰＰの自然回復速度が\n17％上昇する。",
-		"tr_explain": ""
+		"tr_explain": "PP regeneration\nincreases by 17%."
 	},
 	{
 		"assign": "166",
@@ -1192,9 +1192,9 @@
 	{
 		"assign": "170",
 		"jp_text": "Ｓ４：鋼の決意",
-		"tr_text": "",
+		"tr_text": "S4: Steel Resolve",
 		"jp_explain": "致命傷を受けても\n一度限りだが必ず\nＨＰが１残る。",
-		"tr_explain": ""
+		"tr_explain": "Survive one fatal hit\nwith 1 HP remaining."
 	},
 	{
 		"assign": "171",
@@ -1206,9 +1206,9 @@
 	{
 		"assign": "172",
 		"jp_text": "Ｓ４：正対の巧",
-		"tr_text": "",
+		"tr_text": "S4: Braving Skil",
 		"jp_explain": "ブレイブスタンス中\n正面へのクリティカル率が\n30％上昇。",
-		"tr_explain": ""
+		"tr_explain": "During Brave Stance,\nfrontal critical rate\nis raised by 30%."
 	},
 	{
 		"assign": "173",
@@ -1227,16 +1227,16 @@
 	{
 		"assign": "175",
 		"jp_text": "Ｓ４：奪命の撃",
-		"tr_text": "",
+		"tr_text": "S4: Killing Shot",
 		"jp_explain": "攻撃時に与ダメージの\n1％をＨＰとして吸収。\n（上限30）",
-		"tr_explain": ""
+		"tr_explain": "Restores HP equal to\n1% of damage dealt.\n(Max: 30)"
 	},
 	{
 		"assign": "176",
 		"jp_text": "Ｓ４：静の胆力",
-		"tr_text": "",
+		"tr_text": "S4: Motionless Courage",
 		"jp_explain": "一定時間、静止状態が\n続いた時、打ち上げや\n吹き飛ばしを防ぐ。",
-		"tr_explain": ""
+		"tr_explain": "Become immune to\nknockback by standing\nstill for a certain time."
 	},
 	{
 		"assign": "177",
@@ -1311,9 +1311,9 @@
 	{
 		"assign": "187",
 		"jp_text": "Ｓ２：瞬撃繚乱",
-		"tr_text": "",
+		"tr_text": "S2: Immediate Profusion",
 		"jp_explain": "別のＰＡやテクニックを\nジャストアタックすると\n与ダメージが3％上昇。",
-		"tr_explain": ""
+		"tr_explain": "Raises damage by 3%\nwhen Just Attacking\ndifferent PAs or Techniques."
 	},
 	{
 		"assign": "188",
