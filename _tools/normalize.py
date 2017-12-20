@@ -46,6 +46,12 @@ blacklist_files += [
     for f in fnmatch.filter(files, 'Name_Quest_AreaName.txt')
 ]
 
+blacklist_files += [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'ChipExplain_ActiveExplain.txt')
+]
+
 bl = {"!", "＊", "†", "-", "士", "1", "2", "3", "4", "5"}
 
 
