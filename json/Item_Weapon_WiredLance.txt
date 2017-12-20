@@ -375,7 +375,7 @@
 		"jp_text": "嵐魔",
 		"tr_text": "Ranma",
 		"jp_explain": "舞い散る枯葉の如く、音もなく\nその刃を敵へと到達させる自在槍。\n触れる者を嵐のように斬り刻む。",
-		"tr_explain": "Like dead leaves tumbling from their\nbranches, the wired lances' blades\nsoundlessly reach out to the enemy.\nTheir victims are shred to pieces."
+		"tr_explain": "Like dead leaves falling from trees,\nits blades silently reach the enemy.\nTheir blades shreds its victims."
 	},
 	{
 		"assign": "12059",
@@ -1071,6 +1071,20 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "120275",
+		"jp_text": "バルヴェイス",
+		"tr_text": "Val Weiss",
+		"jp_explain": "過去に戦場となった地域から発掘された\n自在槍。刀身や装飾の多くが損傷し\n性能としてはあまり期待できない。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "120276",
+		"jp_text": "アトラヴェイス",
+		"tr_text": "Atra Weiss",
+		"jp_explain": "過去に戦場となった地域から発掘された\n自在槍。破損が著しい箇所が修復され\n本来の美しい姿を取り戻した。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "120284",
 		"jp_text": "ネメシスチェイン-NT",
 		"tr_text": "Nemesis Chain-NT",
@@ -1083,5 +1097,12 @@
 		"tr_text": "Slave Chain-NT",
 		"jp_explain": "古の時代に封印された邪なる自在槍。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
 		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
+	},
+	{
+		"assign": "120286",
+		"jp_text": "嵐魔-NT",
+		"tr_text": "Ranma-NT",
+		"jp_explain": "舞い散る枯葉の如く、音もなく\nその刃を敵へと到達させる自在槍。\n触れる者を嵐のように斬り刻む。",
+		"tr_explain": "Like dead leaves falling from trees,\nits blades silently reach the enemy.\nTheir blades shreds its victims."
 	}
 ]

@@ -161,6 +161,13 @@
 		"tr_explain": "[Trick or Treat 2017!] can\nbe selected from Quest Counter.\n<yellow>※This item will not be returned\nafter consumption.<c>"
 	},
 	{
+		"assign": "373026",
+		"jp_text": "不断の闘志トリガー",
+		"tr_text": "Endless Belligerence Trigger",
+		"jp_explain": "魔神城戦：不断の闘志を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[Endless Belligerence] can\nbe selected from Quest Counter.\n<yellow>※This item will not be returned\nafter consumption.<c>"
+	},
+	{
 		"assign": "373027",
 		"jp_text": "電撃！ポリタントリガー",
 		"tr_text": "Polytanland Trigger",
@@ -182,10 +189,38 @@
 		"tr_explain": "[Cradle of Darkness] can\nbe selected from Quest Counter.\n<yellow>※This item will not be returned\nafter consumption.<c>"
 	},
 	{
+		"assign": "373030",
+		"jp_text": "紅き邪竜トリガー",
+		"tr_text": "Crimson Evil Dragon Trigger",
+		"jp_explain": "壊城に舞う紅き邪竜を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[Crimson Castle Crusher] can be\nselected from Quest Counter.\n<yellow>※This item will not be returned\nafter consumption.<c>"
+	},
+	{
+		"assign": "373031",
+		"jp_text": "チョコレート２０１８トリガー",
+		"tr_text": "Chocolate 2018 Trigger",
+		"jp_explain": "チョコレートの行方２０１８を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[Where's the Chocolate 2018] can be\nselected from Quest Counter.\n<yellow>※This item will not be returned\nafter consumption.<c>"
+	},
+	{
+		"assign": "373032",
+		"jp_text": "幻惑の森トリガー",
+		"tr_text": "Enchanted Forest Trigger",
+		"jp_explain": "逢魔に誘う幻惑の森を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[The Enchanted Forest] can be\nselected from Quest Counter.\n<yellow>※This item will not be returned\nafter consumption.<c>"
+	},
+	{
 		"assign": "373033",
 		"jp_text": "メリクリ２０１７トリガー",
 		"tr_text": "Xmas 2017 Trigger",
 		"jp_explain": "氷上のメリークリスマス２０１７を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
 		"tr_explain": "[Merry Christmas On Ice 2017] can be\nselected from Quest Counter.\n<yellow>※This item will not be returned\nafter consumption.<c>"
+	},
+	{
+		"assign": "373034",
+		"jp_text": "黒衣の邪竜トリガー",
+		"tr_text": "",
+		"jp_explain": "崩城に甦る黒衣の邪竜を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": ""
 	}
 ]

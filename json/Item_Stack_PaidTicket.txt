@@ -1110,7 +1110,7 @@
 		"jp_text": "ストライクガスト／Ｒ",
 		"tr_text": "Strike Gust/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Reset PA crafts back\nto defaults when used."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3200170",
@@ -1230,5 +1230,12 @@
 		"tr_text": "Material Storage 5 Days",
 		"jp_explain": "素材倉庫の利用許可チケット。\nオーダーアイテム／素材を格納する\n素材倉庫が５日間利用可能になる。",
 		"tr_explain": "Ticket permission for Material Storage.\nStores Materials and Order Items for\n5 days."
+	},
+	{
+		"assign": "3200192",
+		"jp_text": "ＦＵＮ２０１８獲得チケット",
+		"tr_text": "FUN 2018 Ticket",
+		"jp_explain": "ＦＵＮの授与申請チケット。\nチケットを使用すると\nＦＵＮを【２０１８】獲得可能。",
+		"tr_explain": ""
 	}
 ]

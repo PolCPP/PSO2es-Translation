@@ -863,7 +863,7 @@
 	{
 		"assign": "3190127",
 		"jp_text": "PSO-中央管理区",
-		"tr_text": "PSO - Central Control Area",
+		"tr_text": "",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃１８（曲調変更可）\n『Jungle』",
 		"tr_explain": ""
 	},
@@ -2720,7 +2720,7 @@
 		"jp_text": "ＶＤ「一位の責務」",
 		"tr_text": "VD \"1st Place Obligations\"",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＶＤ ＃０７\n『ＶＤ「一位の責務」』",
-		"tr_explain": "A Music Disk for your Jukebox.\nPSO2VD #07\n\"1st Place Obligations\""
+		"tr_explain": "A Music Disk for your Jukebox.\nPSO2VD #07 \"1st Place Obligations\""
 	},
 	{
 		"assign": "3190434",
@@ -2914,36 +2914,64 @@
 	{
 		"assign": "3190506",
 		"jp_text": "PSO2 イベント「マザー１」",
-		"tr_text": "PSO2 Event [Mother 1]",
+		"tr_text": "",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１４５\n『The Replica - Mother -』",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3190507",
 		"jp_text": "PSO2 イベント「マザー２」",
-		"tr_text": "PSO2 Event [Mother 2]",
+		"tr_text": "",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１４６\n『- Mother - of the Earth』",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3190508",
 		"jp_text": "マザー「後半戦」",
-		"tr_text": "Mother [Second Half Battle]",
+		"tr_text": "",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１４７（曲調変更可）\n『The Place Of Death - PSO2 -』",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3190509",
 		"jp_text": "コオリ戦",
-		"tr_text": "Kohri Battle",
+		"tr_text": "",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１４８（曲調変更可）\n『Ice-covered Love - Kohri -』",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3190510",
 		"jp_text": "オフィエル戦",
-		"tr_text": "Ophiel Battle",
+		"tr_text": "",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１４９（曲調変更可）\n『False Credo - Earthguide -』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190511",
+		"jp_text": "PSO2 イベント「お風呂」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１５１\n『No・Zo・Ki・Mi』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190512",
+		"jp_text": "PSO2 イベント「哀しい」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１５２\n『Lonely Flame』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190513",
+		"jp_text": "PSO2 イベント「不穏」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１５３\n『Creepy Siren』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190514",
+		"jp_text": "PSO2 イベント「穏やか」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１５４\n『Restored Bonds』",
 		"tr_explain": ""
 	},
 	{
@@ -3987,6 +4015,20 @@
 		"jp_text": "鮮烈のリュウ -DW SW MIX-",
 		"tr_text": "",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＤＯＡ ＃０４\n『鮮烈のリュウ -DW SW MIX-』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190808",
+		"jp_text": "チュルリラチュルリラダッ",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＹＫＲ ＃０１\n『チュルリラ・チュルリラ・ダッダッダ！』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190809",
+		"jp_text": "サヨナラチェーンソー",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＹＫＲ ＃０２\n『サヨナラチェーンソー』",
 		"tr_explain": ""
 	}
 ]
