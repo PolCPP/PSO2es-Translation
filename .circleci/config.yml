@@ -86,6 +86,19 @@ jobs:
           key: v1-APK-{{ epoch }}
           paths:
             - lib/
+      - restore_cache:
+          keys:
+            - v1-Databases-{{ checksum "lib/*.apk" }}
+      - run:
+          name: Download JP Context
+          command: /usr/bin/wget "http://pso2es.10nub.es/patchJP.zip" --no-http-keep-alive --dns-timeout=15 --read-timeout=30 --continue
+      - run:
+          name: unpack JP Context
+          command: /usr/bin/unzip -xuoq patchJP.zip -d Databases
+      - save_cache:
+          key: v1-Databases-{{ checksum "lib/*.apk" }}
+          paths:
+            - patchJP.zip
       - store_artifacts:
           path: /tmp/PSO2es/
           destination: Reports

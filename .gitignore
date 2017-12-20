@@ -42,7 +42,6 @@ __pycache__
 # ESBreakerCLI #
 # ============ #
 *.dll
-/Databases
 /ESBreakerCLI.exe
 /output
 /apk
@@ -53,3 +52,9 @@ __pycache__
 *.csv
 *.json
 json/Items_Leftovers.txt
+
+
+# ======== #
+# CircleCI #
+# ======== #
+/patchJP.zip
