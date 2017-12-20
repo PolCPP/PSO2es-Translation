@@ -69,6 +69,23 @@ jobs:
       - run:
           name: Any text needs to by normalize?
           command: ./_tools/normalize.py; git diff | tee /tmp/PSO2es/normalize.dif
+      - restore_cache:
+          keys:
+            # Find the most recent cache used from any branch
+            - v1-APK-
+      -run:
+          name: Download APKs files
+          command: /bin/bash ./.circleci/prebuild.sh .
+      - run:
+          name: Move needed DLLs
+          command: /bin/mv -v lib/ContentsSerializer.dll lib/Assembly-CSharp-firstpass.dll lib/UnityEngine.dll lib/protobuf-net.dll lib/ProtoBuffSerializer.dll .
+      - run:
+          name: Remove extra DLLs
+          command: /bin/rm -v lib/*.dll
+      - save_cache:
+          key: v1-APK-{{ epoch }}
+          paths:
+            - lib/
       - store_artifacts:
           path: /tmp/PSO2es/
           destination: Reports
