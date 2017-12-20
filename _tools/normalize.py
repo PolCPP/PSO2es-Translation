@@ -105,7 +105,7 @@ for filename in json_files:
                     t = entry[tl]
                     if jl not in entry:
                         print("Missing {} in {}".format(jl, filename))
-                        print(entry)
+                        print(json.dumps(entry, ensure_ascii=False, indent="\t"))
                         continue
                     j = entry[jl]
                     if t == j:
