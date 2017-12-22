@@ -20,55 +20,55 @@ jobs:
             - ~/.cache/pip
       - run:
           name: Check for vaild JSONs
-          command: ./_py/checkjson.py | tee /tmp/PSO2es/checkjson.txt
+          command: ./_py/checkjson.py | /usr/bin/tee /tmp/PSO2es/checkjson.txt
       - run:
           name: Report Coverage
-          command: ./_sh/coverage.sh | tee /tmp/PSO2es/coverage.txt
+          command: ./_sh/coverage.sh | /usr/bin/tee /tmp/PSO2es/coverage.txt
       - run:
           name: Is JSON files Tidy?
           command: ./_py/tidy-json.py && git diff --exit-code
       - run:
           name: Checking for item mapping
-          command: ./_py/dupcheck.py | tee /tmp/PSO2es/dupcheck.txt
+          command: ./_py/dupcheck.py | /usr/bin/tee /tmp/PSO2es/dupcheck.txt
       - run:
           name: Do we give the same name to 2+ entries?
-          command: ./_py/dupassign.py | tee /tmp/PSO2es/dupassign.txt
+          command: ./_py/dupassign.py | /usr/bin/tee /tmp/PSO2es/dupassign.txt
       - run:
           name: Checking if Dice Chat have too many lines
-          command: ./_py/DiceLen.py | tee /tmp/PSO2es/DiceLen.txt
+          command: ./_py/DiceLen.py | /usr/bin/tee /tmp/PSO2es/DiceLen.txt
       - run:
           name: Items' name too long for search box?
-          command: ./_py/ItemLen.py | tee /tmp/PSO2es/ItemLen.txt
+          command: ./_py/ItemLen.py | /usr/bin/tee /tmp/PSO2es/ItemLen.txt
       - run:
           name: Checking if Item Desc have too many lines
-          command: ./_py/ItemDescLen.py | tee /tmp/PSO2es/ItemDescLen.txt
+          command: ./_py/ItemDescLen.py | /usr/bin/tee /tmp/PSO2es/ItemDescLen.txt
       - run:
           name: Is Story Buttons too big?
-          command: ./_py/StoryBTNFont.py | tee /tmp/PSO2es/StoryBTNFont.txt
+          command: ./_py/StoryBTNFont.py | /usr/bin/tee /tmp/PSO2es/StoryBTNFont.txt
       - run:
           name: Is Story text too big?
-          command: ./_py/StoryFont.py | tee /tmp/PSO2es/StoryFont.txt
+          command: ./_py/StoryFont.py | /usr/bin/tee /tmp/PSO2es/StoryFont.txt
       - run:
           name: Are Chips name too big?
-          command: ./_py/ChipFont.py | tee /tmp/PSO2es/ChipFont.txt
+          command: ./_py/ChipFont.py | /usr/bin/tee /tmp/PSO2es/ChipFont.txt
       - run:
           name: Are Chips' short Desc too long?
-          command: ./_py/ChipDescShort.py | tee /tmp/PSO2es/ChipDescShort.txt
+          command: ./_py/ChipDescShort.py | /usr/bin/tee /tmp/PSO2es/ChipDescShort.txt
       - run:
           name: Are Chips' long Desc too long?
-          command: ./_py/ChipDescLong.py | tee /tmp/PSO2es/ChipDescLong.txt
+          command: ./_py/ChipDescLong.py | /usr/bin/tee /tmp/PSO2es/ChipDescLong.txt
       - run:
           name: Are the Dice Chat too big?
-          command: ./_py/DiceFont.py | tee /tmp/PSO2es/DictFont.txt
+          command: ./_py/DiceFont.py | /usr/bin/tee /tmp/PSO2es/DictFont.txt
       - run:
           name: Are the Items' name too big?
-          command: ./_py/ItemFont.py | tee /tmp/PSO2es/ItemFont.txt
+          command: ./_py/ItemFont.py | /usr/bin/tee /tmp/PSO2es/ItemFont.txt
       - run:
           name: Are the Items' Desc too big?
-          command: ./_py/ItemDescFont.py | tee /tmp/PSO2es/ItemDescFont.txt
+          command: ./_py/ItemDescFont.py | /usr/bin/tee /tmp/PSO2es/ItemDescFont.txt
       - run:
           name: Any text needs to by normalize?
-          command: ./_tools/normalize.py; git diff | tee /tmp/PSO2es/normalize.dif
+          command: ./_tools/normalize.py; git diff | /usr/bin/tee /tmp/PSO2es/normalize.dif
       - restore_cache:
           keys:
             # Find the most recent cache used from any branch
@@ -102,7 +102,7 @@ jobs:
           name: Download JP Context
           command: /usr/bin/wget "https://alam.srb2.org/PSO2es/patchJP.zip" --no-http-keep-alive --dns-timeout=15 --read-timeout=30 --continue
       - run:
-          name: unpack JP Context
+          name: Unpack JP Context
           command: /usr/bin/unzip -xuoq patchJP.zip
       - save_cache:
           key: v1-Databases-{{ checksum "patchJP.zip" }}
@@ -111,6 +111,30 @@ jobs:
       - run:
           name: Install Mono runtime
           command: apt-get -qq -y --no-install-recommends install mono-runtime
+      - restore_cache:
+          keys:
+            - v1-ESBreaker-
+      - run:
+          name: Download ESBreaker
+          command: /usr/bin/wget "https://alam.srb2.org/PSO2es/ESBreaker.zip" --no-http-keep-alive --dns-timeout=15 --read-timeout=30 --continue
+      - run:
+          name: Unpack ESBreaker
+          command: /usr/bin/unzip -xuoq ESBreaker.zip
+      - save_cache:
+          key: v1-ESBreaker-{{ epoch }}
+          paths:
+            - ESBreaker.zip
+      - run:
+          name: Run ESBreaker
+          command: mono ESBreakerCLI.exe | /usr/bin/tee /tmp/PSO2es/ESBreaker.txt
+      - run:
+          name: Leftover changes
+          command: /usr/bin/git diff | /usr/bin/tee /tmp/PSO2es/ESBreaker.diff
+      - run:
+          name: Packing Patch
+          command: cd output/ && /usr/bin/zip -r ../patchBeta.zip .
+      - store_artifacts:
+          path: patchBeta.zip
       - store_artifacts:
           path: /tmp/PSO2es/
           destination: Reports
