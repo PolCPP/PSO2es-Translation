@@ -77,6 +77,9 @@ jobs:
           name: update APT listing
           command: apt-get -qq update
       - run:
+          name: install (un)zip
+          command: apt-get -qq install unzip zip
+      - run:
           name: Download APKs files
           command: /bin/bash ./.circleci/prebuild.sh .
       - run:
