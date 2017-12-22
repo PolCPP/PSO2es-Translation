@@ -75,7 +75,7 @@ jobs:
             - v1-APK-
       - run:
           name: update APT listing
-          comamnd: apt-get -qq update
+          command: apt-get -qq update
       -run:
           name: Download APKs files
           command: /bin/bash ./.circleci/prebuild.sh .
