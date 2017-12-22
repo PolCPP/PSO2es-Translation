@@ -46,6 +46,12 @@ blacklist_files += [
     for f in fnmatch.filter(files, 'Name_Quest_AreaName.txt')
 ]
 
+blacklist_files += [
+    os.path.join(dirpath, f)
+    for dirpath, dirnames, files in os.walk(dir)
+    for f in fnmatch.filter(files, 'ChipExplain_ActiveExplain.txt')
+]
+
 bl = {"!", "＊", "†", "-", "士", "1", "2", "3", "4", "5"}
 
 
@@ -90,12 +96,12 @@ def normalizet(nk='NFKC', w=None):
     return g
 
 
-for files in json_files:
+for filename in json_files:
     update = False
     nk = 'NFKC'
-    if files in blacklist_files:
+    if filename in blacklist_files:
         nk = 'NFC'
-    with codecs.open(files, mode='r', encoding='utf-8') as json_file:
+    with codecs.open(filename, mode='r', encoding='utf-8') as json_file:
         djson = json.load(json_file, object_pairs_hook=OrderedDict)
         for entry in djson:
             for data in entry:
@@ -103,6 +109,10 @@ for files in json_files:
                     tl = data
                     jl = tl.replace("tr_", "jp_")
                     t = entry[tl]
+                    if jl not in entry:
+                        print("Missing {} in {}".format(jl, filename))
+                        print(json.dumps(entry, ensure_ascii=False, indent="\t"))
+                        continue
                     j = entry[jl]
                     if t == j:
                         continue
@@ -127,8 +137,8 @@ for files in json_files:
                         entry[tl] = n
 
     if (update):
-        print("Updating {}".format(files))
-        with codecs.open(files, mode='w+', encoding='utf-8') as json_file:
+        print("Updating {}".format(filename))
+        with codecs.open(filename, mode='w+', encoding='utf-8') as json_file:
             json.dump(
                 djson, json_file, ensure_ascii=False,
                 indent="\t", sort_keys=False)
