@@ -110,7 +110,7 @@ jobs:
             - patchJP.zip
       - run:
           name: Install Mono runtime
-          command: apt-get -qq -y --no-install-recommends install mono-runtime
+          command: apt-get -qq -y --no-install-recommends install mono-runtime libmono-system-servicemodel4.0a-cil
       - restore_cache:
           keys:
             - v1-ESBreaker-
