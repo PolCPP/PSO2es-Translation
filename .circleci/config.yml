@@ -135,7 +135,7 @@ jobs:
           command: cd output/ && /usr/bin/zip -r ../patchBeta.zip .
       - store_artifacts:
           path: patchBeta.zip
-          destination: output
+          destination: patchBeta.zip
       - store_artifacts:
           path: /tmp/PSO2es/
           destination: Reports
