@@ -26,7 +26,7 @@ jobs:
           command: ./_sh/coverage.sh | tee /tmp/PSO2es/coverage.txt
       - run:
           name: Is JSON files Tidy?
-          command: ./_py/tidy-json.py && git diff --exit-code
+          command: ./_py/tidy-json.py && git diff HEAD --exit-code | tee /tmp/PSO2es/tidy.diff
       - run:
           name: Checking for item mapping
           command: ./_py/dupcheck.py | tee /tmp/PSO2es/dupcheck.txt
