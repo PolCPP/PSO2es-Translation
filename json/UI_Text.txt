@@ -18572,52 +18572,52 @@
 	{
 		"assign": "EternalTower_block_info",
 		"jp_text": "<color=#f0df60>【ブロック情報】</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>[Block Info]</color>"
 	},
 	{
 		"assign": "EternalTower_block_enemyinfo",
 		"jp_text": "<color=#ffff00>■エネミー情報</color>",
-		"tr_text": ""
+		"tr_text": "<color=#ffff00>■Enemy Info</color>"
 	},
 	{
 		"assign": "EternalTower_block_weakpoint",
 		"jp_text": "<color=#00ffff>▲</color>弱点属性",
-		"tr_text": ""
+		"tr_text": "<color=#00ffff>▲</color>Weakness"
 	},
 	{
 		"assign": "EternalTower_block_tolerance1",
 		"jp_text": "<color=red>▼</color>属性耐性",
-		"tr_text": ""
+		"tr_text": "<color=red>▼</color>Ele. Resist"
 	},
 	{
 		"assign": "EternalTower_block_tolerance2",
 		"jp_text": "<color=red>▼</color>攻撃耐性",
-		"tr_text": ""
+		"tr_text": "<color=red>▼</color>ATK Resist"
 	},
 	{
 		"assign": "EternalTower_block_tolerance3",
 		"jp_text": "<color=red>▼</color>状態異常耐性",
-		"tr_text": ""
+		"tr_text": "<color=red>▼</color>Status Resist"
 	},
 	{
 		"assign": "EternalTower_block_playerinfo",
 		"jp_text": "<color=#ffff00>■プレイヤー条件</color>",
-		"tr_text": ""
+		"tr_text": "<color=#ffff00>■Player Conditions</color>"
 	},
 	{
 		"assign": "EternalTower_block_condition1",
 		"jp_text": "<color=#ffbf00>▶</color>特殊条件１",
-		"tr_text": ""
+		"tr_text": "<color=#ffbf00>▶</color>1st Condition"
 	},
 	{
 		"assign": "EternalTower_block_condition2",
 		"jp_text": "<color=#ffbf00>▶</color>特殊条件２",
-		"tr_text": ""
+		"tr_text": "<color=#ffbf00>▶</color>2nd Condition"
 	},
 	{
 		"assign": "EternalTower_block_condition3",
 		"jp_text": "<color=#ffbf00>▶</color>特殊条件３",
-		"tr_text": ""
+		"tr_text": "<color=#ffbf00>▶</color>3rd Condition"
 	},
 	{
 		"assign": "EternalTower_bonus_timeinfo",
