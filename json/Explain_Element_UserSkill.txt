@@ -919,7 +919,7 @@
 	{
 		"assign": "131",
 		"jp_text": "Ｓ２：剛乱活与",
-		"tr_text": "",
+		"tr_text": "S2: Sturdy Recovery",
 		"jp_explain": "一定確率で与ダメージの\n１％をＨＰとして吸収。\n（上限300）",
 		"tr_explain": "Restores HP equal to\n1% of damage dealt.\n(Max: 300)"
 	},
@@ -1045,16 +1045,16 @@
 	{
 		"assign": "149",
 		"jp_text": "Ｓ２：輝剰の撃",
-		"tr_text": "",
+		"tr_text": "S2: Luminating Shot",
 		"jp_explain": "攻撃時のＰＰ回復量が\n17％上昇する。",
-		"tr_explain": ""
+		"tr_explain": "Increases attack PP<br>recovery by 17%."
 	},
 	{
 		"assign": "150",
 		"jp_text": "Ｓ３：輝剰の撃",
-		"tr_text": "",
+		"tr_text": "S3: Luminating Shot",
 		"jp_explain": "攻撃時のＰＰ回復量が\n20％上昇する。",
-		"tr_explain": ""
+		"tr_explain": "Increases attack PP<br>recovery by 20%."
 	},
 	{
 		"assign": "151",
@@ -1094,16 +1094,16 @@
 	{
 		"assign": "156",
 		"jp_text": "Ｓ３：妙撃の志",
-		"tr_text": "",
+		"tr_text": "S3: Skilled Strike",
 		"jp_explain": "クリティカル時の\n与ダメージが4％上昇。",
-		"tr_explain": ""
+		"tr_explain": "Raises critical hit\ndamage by 4%."
 	},
 	{
 		"assign": "157",
 		"jp_text": "Ｓ１：輝充の志",
-		"tr_text": "",
+		"tr_text": "S1: Skilled Brilliance",
 		"jp_explain": "ＰＰが40％以上の時\n与ダメージが3％上昇。",
-		"tr_explain": ""
+		"tr_explain": "Boosts damage by 3% while\nPP at is 40% or above."
 	},
 	{
 		"assign": "158",
@@ -1171,16 +1171,16 @@
 	{
 		"assign": "167",
 		"jp_text": "Ｓ２：時流活与",
-		"tr_text": "",
+		"tr_text": "S2: Flowing Exhilaration",
 		"jp_explain": "一定時間ごとに\nＨＰを60％回復する。",
-		"tr_explain": ""
+		"tr_explain": "Recover HP by 60% at\nregular intervals."
 	},
 	{
 		"assign": "168",
 		"jp_text": "Ｓ３：時流活与",
-		"tr_text": "",
+		"tr_text": "S3: Flowing Exhilaration",
 		"jp_explain": "一定時間ごとに\nＨＰを40％回復する。",
-		"tr_explain": ""
+		"tr_explain": "Recover HP by 40% at\nregular intervals."
 	},
 	{
 		"assign": "169",
@@ -1241,9 +1241,9 @@
 	{
 		"assign": "177",
 		"jp_text": "Ｓ４：輝剰の罠",
-		"tr_text": "",
+		"tr_text": "S4: Lustrous Trap",
 		"jp_explain": "タクティクストラップの\nＰＰ回復量が20％上昇。",
-		"tr_explain": ""
+		"tr_explain": "Increases PP recovery from\nTactics Trap by 20%."
 	},
 	{
 		"assign": "178",
@@ -1255,9 +1255,9 @@
 	{
 		"assign": "179",
 		"jp_text": "Ｓ４：摂理洗練",
-		"tr_text": "",
+		"tr_text": "S4: Refined Providence",
 		"jp_explain": "エレメント\nコンバージョンが\n強化される。",
-		"tr_explain": ""
+		"tr_explain": "Enhances Element Conversion."
 	},
 	{
 		"assign": "180",
@@ -1283,9 +1283,9 @@
 	{
 		"assign": "183",
 		"jp_text": "Ｓ４：迅弓の撃",
-		"tr_text": "",
+		"tr_text": "S4: Rapid-fire Arrow",
 		"jp_explain": "ラピッドシュート中\nバレットボウ装備時に\n与ダメージが3％上昇。",
-		"tr_explain": ""
+		"tr_explain": "Bullet Bow damage is boosted\nby 3% during Rapid Shot."
 	},
 	{
 		"assign": "184",
