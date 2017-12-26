@@ -68,7 +68,10 @@ jobs:
           command: ./_py/ItemDescFont.py | /usr/bin/tee /tmp/PSO2es/ItemDescFont.txt
       - run:
           name: Any text needs to by normalize?
-          command: ./_tools/normalize.py; git diff | /usr/bin/tee /tmp/PSO2es/normalize.dif
+          command: ./_tools/normalize.py; git diff | /usr/bin/tee /tmp/PSO2es/normalize.diff
+      - run:
+          name: Reset working copy
+          command: git reset --hard HEAD
       - restore_cache:
           keys:
             # Find the most recent cache used from any branch
@@ -124,9 +127,6 @@ jobs:
           key: v1-ESBreaker-{{ epoch }}
           paths:
             - ESBreaker.zip
-      - run:
-          name: Reset working copy
-          command: git reset --hard HEAD
       - run:
           name: Get GIT version
           command: git describe --always --tags | tee /tmp/patchBeta.txt
