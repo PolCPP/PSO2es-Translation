@@ -4,7 +4,7 @@
 		"jp_text": "ウーダンの肉",
 		"tr_text": "Oodan Meat",
 		"jp_explain": "ウーダンから採れた肉。\nあまり美味しくはない。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": ""
+		"tr_explain": "Meat taken from an Oodan.\nNot especially tasty.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "3301",
@@ -25,14 +25,14 @@
 		"jp_text": "ロックベアの肉",
 		"tr_text": "Rockbear Meat",
 		"jp_explain": "ロックベアから採れた肉。\n臭みがあり癖はあるが美味。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": ""
+		"tr_explain": "Meat taken from a Rockbear.\nSmells terrible, but tastes delicious.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "3304",
 		"jp_text": "ディッグの肉",
 		"tr_text": "Digg Meat",
 		"jp_explain": "ディッグから採れた肉。\n肉質がかたく味も悪い。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": ""
+		"tr_explain": "Meat taken from a Digg.\nVery tough, with an awful flavor.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "3305",
@@ -46,63 +46,63 @@
 		"jp_text": "ノーディランの肉",
 		"tr_text": "Nordiran Meat",
 		"jp_explain": "ノーディランから採れた肉。\n肉質はかたいが味はそこそこ。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": ""
+		"tr_explain": "Meat taken from a Nordiran.\nVery tough, but tastes fine.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "3307",
 		"jp_text": "ヴォル・ドラゴンの肉",
 		"tr_text": "Vol Dragon Meat",
 		"jp_explain": "ヴォル・ドラゴンから採れた肉。\n肉質はかためだが、味は良い。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": ""
+		"tr_explain": "Meat taken from a Vol Dragon.\nVery tough, but tastes great.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "3308",
 		"jp_text": "ロックベアの腕肉",
 		"tr_text": "Rockbear Arm Meat",
 		"jp_explain": "ロックベアから採れた腕肉。\n他の部位よりも柔らかく美味。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": ""
+		"tr_explain": "Arm meat taken from a Rockbear.\nSofter and tastier than other parts.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "3309",
 		"jp_text": "クラーダの脚",
 		"tr_text": "Krahda Legs",
 		"jp_explain": "撃退後、拡散せずに形となって残った\nクラーダの脚部。\n依頼者：<c a1ff6d>ローラ<c>　再受注不可",
-		"tr_explain": ""
+		"tr_explain": "A Krahda leg that remained intact\nwhen its owner was defeated.\nClient: <c a1ff6d>Lola<c> (one-time order)"
 	},
 	{
 		"assign": "33010",
 		"jp_text": "ブリアーダの尻尾",
 		"tr_text": "Breeahda Tail",
 		"jp_explain": "撃退後、拡散せずに形となって残った\nブリアーダの尻尾。\n依頼者：<c a1ff6d>ローラ<c>　再受注不可",
-		"tr_explain": ""
+		"tr_explain": "A Breeahda tail that remained intact\nafter the defeat of its owner.\nClient: <c a1ff6d>Lola<c> (one-time order)"
 	},
 	{
 		"assign": "33011",
 		"jp_text": "グワナーダのあご",
 		"tr_text": "Gwanahda Jaws",
 		"jp_explain": "撃退後、拡散せずに形となって残った\nグワナーダのあごの部分。\n依頼者：<c a1ff6d>ローラ<c>　再受注不可",
-		"tr_explain": ""
+		"tr_explain": "A Gwanahda jaw that remained intact\nafter the defeat of its owner.\nClient: <c a1ff6d>Lola<c> (one-time order)"
 	},
 	{
 		"assign": "33012",
 		"jp_text": "グワナーダの大ばさみ",
 		"tr_text": "Gwanahda Pincers",
 		"jp_explain": "撃退後、拡散せずに形となって残った\n状態の良いグワナーダの大ばさみ。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": ""
+		"tr_explain": "Gwanahda mandibles that remained\nintact after the defeat of their owner.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "33013",
 		"jp_text": "ガルフの爪",
 		"tr_text": "Gulf Claws",
 		"jp_explain": "ガルフから採れた爪。\n\n依頼者：<c a1ff6d>ローラ<c>　再受注不可",
-		"tr_explain": ""
+		"tr_explain": "Claws from a Gulf.\n\nClient: <c a1ff6d>Lola<c> (one-time order)"
 	},
 	{
 		"assign": "33014",
 		"jp_text": "フォンガルフの牙",
 		"tr_text": "Fangulf Fangs",
 		"jp_explain": "フォンガルフから採れた牙。\n\n依頼者：<c a1ff6d>ローラ<c>　再受注不可",
-		"tr_explain": ""
+		"tr_explain": "Fangs from a Fangulf.\n\nClient: <c a1ff6d>Lola<c> (one-time order)"
 	},
 	{
 		"assign": "33015",
@@ -116,14 +116,14 @@
 		"jp_text": "ロックベアの牙",
 		"tr_text": "Rockbear Fang",
 		"jp_explain": "ロックベアから採れた牙。\n\n依頼者：<c a1ff6d>ローラ<c>　再受注不可",
-		"tr_explain": "Fangs from a Rockbear.\n\nRequestor: <c a1ff6d>Lola<c>"
+		"tr_explain": "Fangs from a Rockbear.\n\nClient: <c a1ff6d>Lola<c> (one-time order)"
 	},
 	{
 		"assign": "33017",
 		"jp_text": "スノウバンサーの牙",
 		"tr_text": "Snow Banther Fangs",
 		"jp_explain": "スノウバンサーから採れた牙。\n\n依頼者：<c a1ff6d>ローラ<c>　再受注不可",
-		"tr_explain": "Fangs from a Snow Banther.\n\nRequestor: <c a1ff6d>Lola<c>"
+		"tr_explain": "Fangs from a Snow Banther.\n\nClient: <c a1ff6d>Lola<c> (one-time order)"
 	},
 	{
 		"assign": "33018",
@@ -137,28 +137,28 @@
 		"jp_text": "ディッグの角",
 		"tr_text": "Digg Piercing Horn",
 		"jp_explain": "ディッグの頭部から迫り出した角。\n\n依頼者：<c a1ff6d>ローラ<c>　再受注不可",
-		"tr_explain": ""
+		"tr_explain": "A horn from the head of a Digg.\n\nClient: <c a1ff6d>Lola<c> (one-time order)"
 	},
 	{
 		"assign": "33020",
 		"jp_text": "フォードランの角",
 		"tr_text": "Fordoran Horns",
 		"jp_explain": "フォードランから採れた角。\n非常に硬く加工しづらい。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": ""
+		"tr_explain": "The horns of a Fordoran.\nSolid and difficult to process.\nClient: <c a1ff6d>Lola<c> (one-time order)"
 	},
 	{
 		"assign": "33021",
 		"jp_text": "フォードランの上質角",
-		"tr_text": "Fordoran Beak",
+		"tr_text": "High-Quality Fordoran Horns",
 		"jp_explain": "フォードランから採れた上質な角。\n\n依頼者：<c a1ff6d>ローラ<c>　再受注不可",
-		"tr_explain": ""
+		"tr_explain": "High-quality horns from a Fordoran.\n\nClient: <c a1ff6d>Lola<c> (one-time order)"
 	},
 	{
 		"assign": "33022",
 		"jp_text": "ノーディランの角",
-		"tr_text": "Nordiran Horns",
+		"tr_text": "Nordiran Horn",
 		"jp_explain": "ノーディランから採れた角。\n\n依頼者：<c a1ff6d>ローラ<c>　再受注不可",
-		"tr_explain": ""
+		"tr_explain": "A horn from a Nordiran.\n\nClient: <c a1ff6d>Lola<c> (one-time order)"
 	},
 	{
 		"assign": "33023",
@@ -340,21 +340,21 @@
 		"jp_text": "橙色の小さな花",
 		"tr_text": "Small Orange Flower",
 		"jp_explain": "ナベリウスで採取された花。\nマトイが気にしていたらしい……\n依頼者：<c a1ff6d>フィリア<c>　再受注不可",
-		"tr_explain": "A small flower from Naberius. Seems that\nMatoi was interested in these...\nRequestor: <c a1ff6d>Philia<c>"
+		"tr_explain": "A small flower from Naberius. Seems that\nMatoi was interested in these...\nClient: <c a1ff6d>Philia<c> (one-time order)"
 	},
 	{
 		"assign": "33049",
 		"jp_text": "桃色の小さな花",
 		"tr_text": "Small Pink Flower",
 		"jp_explain": "ナベリウスで採取された花。\nマトイが興味深く見ていたらしい……\n依頼者：<c a1ff6d>フィリア<c>　再受注不可",
-		"tr_explain": "A small flower from Naberius. Seems that\nMatoi was interested in these...\nRequestor: <c a1ff6d>Philia<c>"
+		"tr_explain": "A small flower from Naberius. Seems that\nMatoi was interested in these...\nClient: <c a1ff6d>Philia<c> (one-time order)"
 	},
 	{
 		"assign": "33050",
 		"jp_text": "黄色の小さな花",
 		"tr_text": "Small Yellow Flower",
 		"jp_explain": "ラッピーが愛すると言われる\n希少種な花。\n依頼者：<c a1ff6d>フィリア<c>　再受注不可",
-		"tr_explain": ""
+		"tr_explain": "A rare flower beloved by Rappies.\nClient: <c a1ff6d>Philia<c> (one-time order)"
 	},
 	{
 		"assign": "33051",
@@ -424,7 +424,7 @@
 		"jp_text": "ヴォル・ドラゴンの翼膜",
 		"tr_text": "Vol Dragon Wings",
 		"jp_explain": "ヴォル・ドラゴンの翼膜。\n伸縮性が高いものは非常に稀少。\n依頼者：<c a1ff6d>コフィー<c>　再受注不可",
-		"tr_explain": "The wings of a Vol Dragon. Those that\nhave a very high elasticity are rare.\nRequestor: <c a1ff6d>Koffie<c>"
+		"tr_explain": "The wings of a Vol Dragon. Those that\nhave a very high elasticity are rare.\nClient: <c a1ff6d>Koffie<c> (one-time order)"
 	},
 	{
 		"assign": "33061",
@@ -697,7 +697,7 @@
 		"jp_text": "水晶の欠片",
 		"tr_text": "Crystal Fragment",
 		"jp_explain": "純度の高い水晶の欠片。\n\n依頼者：<c a1ff6d>クレシダ<c>　再受注可能",
-		"tr_explain": "A high purity Crystal Fragment.\n\nRequestor: Cressida (Repeatable)"
+		"tr_explain": "A high purity Crystal Fragment.\n\nClient: <c a1ff6d>Cressida<c> (repeatable)"
 	},
 	{
 		"assign": "330100",
@@ -4302,7 +4302,7 @@
 		"jp_text": "ふんわりケープ",
 		"tr_text": "Fluffy Cape",
 		"jp_explain": "セント・ラッピーの着ているケープ。\n赤くて、ふわふわで、ふかふか。\n依頼者：<c a1ff6d>シー<c>　クリスマス",
-		"tr_explain": "Cape worn by a Saint Rappy.\nRed, soft, and fluffy.\nRequested by: <c a1ff6d>Xie<c> Christmas"
+		"tr_explain": "Cape worn by a Saint Rappy.\nRed, soft, and fluffy.\nClient: <c a1ff6d>Xie<c> (Christmas)"
 	},
 	{
 		"assign": "330674",
