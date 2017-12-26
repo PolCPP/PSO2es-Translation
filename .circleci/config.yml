@@ -125,6 +125,12 @@ jobs:
           paths:
             - ESBreaker.zip
       - run:
+          name: Reset working copy
+          command: git reset --hard HEAD
+      - run:
+          name: Get GIT version
+          command: git describe --always --tags | tee /tmp/patchBeta.txt
+      - run:
           name: Run ESBreaker
           command: mono ESBreakerCLI.exe | /usr/bin/tee /tmp/PSO2es/ESBreaker.txt
       - run:
@@ -132,10 +138,13 @@ jobs:
           command: /usr/bin/git diff | /usr/bin/tee /tmp/PSO2es/ESBreaker.diff
       - run:
           name: Packing Patch
-          command: cd output/ && /usr/bin/zip -r ../patchBeta.zip .
+          command: cd output/ && /usr/bin/zip -r /tmp/patchBeta.zip .
       - store_artifacts:
-          path: patchBeta.zip
+          path: /tmp/patchBeta.zip
           destination: patchBeta.zip
+      - store_artifacts:
+          path: tee /tmp/patchBeta.txt
+          destination: patchBeta.txt
       - store_artifacts:
           path: /tmp/PSO2es/
           destination: Reports
