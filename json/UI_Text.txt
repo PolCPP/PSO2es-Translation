@@ -5547,12 +5547,12 @@
 	{
 		"assign": "reward_caption_get_point",
 		"jp_text": "獲得ポイント・スコア",
-		"tr_text": ""
+		"tr_text": "Points Earned Score"
 	},
 	{
 		"assign": "reward_caption_get_point_title",
 		"jp_text": "ポイント",
-		"tr_text": ""
+		"tr_text": "Points"
 	},
 	{
 		"assign": "reward_caption_get_score_title",
@@ -5667,12 +5667,12 @@
 	{
 		"assign": "reward_term_rare_up",
 		"jp_text": "【<color=#ffff00>レアドロップ確率アップ</color>】",
-		"tr_text": ""
+		"tr_text": "[<color=#ffff00>Rare Drop Chance</color>]"
 	},
 	{
 		"assign": "reward_term_item_up",
 		"jp_text": "【<color=#ffff00>討伐報酬数アップ</color>】",
-		"tr_text": ""
+		"tr_text": "[<color=#ffff00>Reward Chance</color>]"
 	},
 	{
 		"assign": "reward_enemy_type_1",
@@ -6272,7 +6272,7 @@
 	{
 		"assign": "quest_line_12",
 		"jp_text": "ＨＰが全回復しました",
-		"tr_text": "HP is now fully restored.  "
+		"tr_text": "HP is now fully restored."
 	},
 	{
 		"assign": "quest_line_12_1",
@@ -6282,12 +6282,12 @@
 	{
 		"assign": "quest_line_15",
 		"jp_text": "コンテナ発見！ ",
-		"tr_text": "Discovered a Container!  "
+		"tr_text": "Discovered a Container!"
 	},
 	{
 		"assign": "quest_line_16",
 		"jp_text": "回復ポッド発見！ ",
-		"tr_text": "Discovered a Recovery Pod!  "
+		"tr_text": "Discovered a Recovery Pod!"
 	},
 	{
 		"assign": "field_exp",
@@ -6307,7 +6307,7 @@
 	{
 		"assign": "field_score",
 		"jp_text": "スコア",
-		"tr_text": ""
+		"tr_text": "Score"
 	},
 	{
 		"assign": "fieldoption_category_windowtitle",
@@ -6622,7 +6622,7 @@
 	{
 		"assign": "questresult_weaponoid_present",
 		"jp_text": "<%name>から\n<%item>をもらいました！",
-		"tr_text": ""
+		"tr_text": "Obtained <%item> from\n<%name>!"
 	},
 	{
 		"assign": "questresult_weaponoid_window",
@@ -6632,7 +6632,7 @@
 	{
 		"assign": "questresult_weaponoid_story_open",
 		"jp_text": "<%name>\n第<%story>話の外伝が解放されました！",
-		"tr_text": ""
+		"tr_text": "<%story>'s Side Story\nCh.<%story> has been unlocked!"
 	},
 	{
 		"assign": "questresult_weaponoid_limit",
@@ -7547,7 +7547,7 @@
 	{
 		"assign": "attribute",
 		"jp_text": "属性",
-		"tr_text": "Ａｔｔｒ."
+		"tr_text": "Ele."
 	},
 	{
 		"assign": "chip_name",
@@ -7557,7 +7557,7 @@
 	{
 		"assign": "ability_name",
 		"jp_text": "アビリティ <color=\"#688ca7\">/</color> {0}",
-		"tr_text": ""
+		"tr_text": "Ability <color=\"#688ca7\">/</color> {0}"
 	},
 	{
 		"assign": "effect",
@@ -8027,12 +8027,12 @@
 	{
 		"assign": "illustrator_label",
 		"jp_text": "illustrated by",
-		"tr_text": "Illustrated by "
+		"tr_text": "Illustrated by"
 	},
 	{
 		"assign": "cv_label",
 		"jp_text": "character voice",
-		"tr_text": ""
+		"tr_text": "Voiced by"
 	},
 	{
 		"assign": "release_gauge",
@@ -8212,7 +8212,7 @@
 	{
 		"assign": "recycle_shop_header",
 		"jp_text": "交換ショップ",
-		"tr_text": ""
+		"tr_text": "Exchange Shop"
 	},
 	{
 		"assign": "recycle_product_list",
@@ -8322,7 +8322,7 @@
 	{
 		"assign": "recycle_item_trade_info_pt",
 		"jp_text": "交換に必要：{0} {1}pt",
-		"tr_text": ""
+		"tr_text": "Needs {1} {0}pts"
 	},
 	{
 		"assign": "recycle_item_trade_limit_info",
@@ -18607,192 +18607,192 @@
 	{
 		"assign": "EternalTower_block_condition1",
 		"jp_text": "<color=#ffbf00>▶</color>特殊条件１",
-		"tr_text": "<color=#ffbf00>▶</color>1st Condition"
+		"tr_text": "<color=#ffbf00>▶</color>Cond. 1"
 	},
 	{
 		"assign": "EternalTower_block_condition2",
 		"jp_text": "<color=#ffbf00>▶</color>特殊条件２",
-		"tr_text": "<color=#ffbf00>▶</color>2nd Condition"
+		"tr_text": "<color=#ffbf00>▶</color>Cond. 2"
 	},
 	{
 		"assign": "EternalTower_block_condition3",
 		"jp_text": "<color=#ffbf00>▶</color>特殊条件３",
-		"tr_text": "<color=#ffbf00>▶</color>3rd Condition"
+		"tr_text": "<color=#ffbf00>▶</color>Cond. 3"
 	},
 	{
 		"assign": "EternalTower_bonus_timeinfo",
 		"jp_text": "<color=#ffff00>■クリアタイム（ゴールド・シルバー）</color>",
-		"tr_text": ""
+		"tr_text": "<color=#ffff00>■Clear Time (Gold/Silver)</color>"
 	},
 	{
 		"assign": "PanelBonus_AttackUp",
 		"jp_text": "ボーナス　攻撃力10％UP!",
-		"tr_text": ""
+		"tr_text": "Bonus: ATK 10% Up!"
 	},
 	{
 		"assign": "PanelBonus_DefenseUp",
 		"jp_text": "ボーナス　防御力10％UP!",
-		"tr_text": ""
+		"tr_text": "Bonus: DEF 10% Up!"
 	},
 	{
 		"assign": "PanelBonus_HPMaxUp",
 		"jp_text": "ボーナス　HP上限10％UP!",
-		"tr_text": ""
+		"tr_text": "Bonus: 10% Max HP Up!"
 	},
 	{
 		"assign": "PanelBonus_CPMaxUp",
 		"jp_text": "ボーナス　CP上限10％UP!",
-		"tr_text": ""
+		"tr_text": "Bonus: 10% Max CP Up!"
 	},
 	{
 		"assign": "PanelBonus_AllPanelOpen",
 		"jp_text": "ボーナス　フロアパネルオープン!",
-		"tr_text": ""
+		"tr_text": "Bonus: All Panels Open!"
 	},
 	{
 		"assign": "PanelBonus_HPHalfRecover",
 		"jp_text": "ボーナス　HP50%回復!",
-		"tr_text": ""
+		"tr_text": "Bonus: Recover 50% HP!"
 	},
 	{
 		"assign": "PanelBonus_HPFullRecover",
 		"jp_text": "ボーナス　HP全回復!",
-		"tr_text": ""
+		"tr_text": "Bonus: Recover All HP!"
 	},
 	{
 		"assign": "PanelBonus_CPRecoveryUP",
 		"jp_text": "ボーナス　CP回復速度10％UP!",
-		"tr_text": ""
+		"tr_text": "Bonus: 10% CP Recovery Up!"
 	},
 	{
 		"assign": "PanelBonus_AllAttributeUp",
 		"jp_text": "ボーナス　全属性10％UP!",
-		"tr_text": ""
+		"tr_text": "Bonus: 10% All Ele. Up!"
 	},
 	{
 		"assign": "PanelTeleport_Lock",
 		"jp_text": "テレポーター！",
-		"tr_text": ""
+		"tr_text": "Teleporter!"
 	},
 	{
 		"assign": "PanelTeleport_Open",
 		"jp_text": "テレポーター　オープン！",
-		"tr_text": ""
+		"tr_text": "Teleporter Open!"
 	},
 	{
 		"assign": "KeyGet",
 		"jp_text": "key Get!",
-		"tr_text": ""
+		"tr_text": "Key Get!"
 	},
 	{
 		"assign": "blockresult_block_reward",
 		"jp_text": "ブロック報酬",
-		"tr_text": ""
+		"tr_text": "Block Results"
 	},
 	{
 		"assign": "blockresult_clear_time",
 		"jp_text": "<color=yellow>クリア　タイム</color>",
-		"tr_text": ""
+		"tr_text": "<color=yellow>Clear Time</color>"
 	},
 	{
 		"assign": "blockresult_block_record",
 		"jp_text": "<color=yellow>これまでの記録</color>",
-		"tr_text": ""
+		"tr_text": "<color=yellow>Current Record</color>"
 	},
 	{
 		"assign": "blockresult_get_eternal_jewel",
 		"jp_text": "<color=yellow>獲得エターナルジュエル：</color>",
-		"tr_text": ""
+		"tr_text": "<color=yellow>Eternal Jewels Earned: </color>"
 	},
 	{
 		"assign": "blockresult_get_eternal_jewel_caption",
 		"jp_text": "獲得エターナルジュエル",
-		"tr_text": ""
+		"tr_text": "Eternal Jewels Earned"
 	},
 	{
 		"assign": "blockresult_area_clear_reward",
 		"jp_text": "階層達成報酬",
-		"tr_text": ""
+		"tr_text": "Achievement Reward Hiearchy"
 	},
 	{
 		"assign": "blockresult_area_g1_clear",
 		"jp_text": "<color=#81F7BE><%grade_name>クリア！</color>",
-		"tr_text": ""
+		"tr_text": "<color=#81F7BE><%grade_name> Clear!</color>"
 	},
 	{
 		"assign": "blockresult_area_g1_reward",
 		"jp_text": "<%grade_name>達成報酬",
-		"tr_text": ""
+		"tr_text": "<%grade_name> Achievement Reward"
 	},
 	{
 		"assign": "blockresult_all_normal_clear_time_reward",
 		"jp_text": "クリアタイム報酬！",
-		"tr_text": ""
+		"tr_text": "Clear Time Reward!"
 	},
 	{
 		"assign": "blockresult_all_eternal_tower_clear",
 		"jp_text": "エターナルタワークリア！",
-		"tr_text": ""
+		"tr_text": "Eternal Tower Cleared!"
 	},
 	{
 		"assign": "blockresult_all_eternal_clear",
 		"jp_text": "エターナル クリア！",
-		"tr_text": ""
+		"tr_text": "Eternal Clear!"
 	},
 	{
 		"assign": "blockresult_all_eternal_silver",
 		"jp_text": "<color=#CEECF5>シルバークリア！</color>",
-		"tr_text": ""
+		"tr_text": "<color=#CEECF5>Silver Clear!</color>"
 	},
 	{
 		"assign": "blockresult_all_eternal_gold",
 		"jp_text": "<color=#FFBF00>ゴールドクリア！</color>",
-		"tr_text": ""
+		"tr_text": "<color=#FFBF00>Gold Clear!</color>"
 	},
 	{
 		"assign": "blockresult_all_clear_time_reward",
 		"jp_text": "クリアタイム報酬",
-		"tr_text": ""
+		"tr_text": "Clear Time Reward"
 	},
 	{
 		"assign": "blockresult_all_clear_time_reward_finished",
 		"jp_text": "獲得済み",
-		"tr_text": ""
+		"tr_text": "Obtained"
 	},
 	{
 		"assign": "blockresult_all_clear_time_reward_title",
 		"jp_text": "合計時間報酬",
-		"tr_text": ""
+		"tr_text": "Total Time Reward"
 	},
 	{
 		"assign": "blockresult_all_clear_time_reward_1",
 		"jp_text": "クリア報酬",
-		"tr_text": ""
+		"tr_text": "Clear Reward"
 	},
 	{
 		"assign": "blockresult_all_gold_clear_time_limit",
 		"jp_text": "■ゴールドクリアタイム／<%time>内クリア",
-		"tr_text": ""
+		"tr_text": "■Gold Clear / Clear within <%time>"
 	},
 	{
 		"assign": "blockresult_all_silver_clear_time_limit",
 		"jp_text": "■シルバークリアタイム／<%time>内クリア",
-		"tr_text": ""
+		"tr_text": "■Silver Clear / Clear within <%time>"
 	},
 	{
 		"assign": "blockresult_clear_time_retire",
 		"jp_text": "－－：－－．－－",
-		"tr_text": ""
+		"tr_text": "－－：－－．－－"
 	},
 	{
 		"assign": "blockresult_clear_failure",
 		"jp_text": "<color=red>クエスト失敗…</color>",
-		"tr_text": ""
+		"tr_text": "<color=red>Failed...</color>"
 	},
 	{
 		"assign": "blockresult_reward_items",
 		"jp_text": "<%item_name> × <%item_num>",
-		"tr_text": ""
+		"tr_text": "<%item_name> × <%item_num>"
 	},
 	{
 		"assign": "towerquest_top_guide_00",
@@ -18807,27 +18807,27 @@
 	{
 		"assign": "towerquest_top_scene_title",
 		"jp_text": "エターナルタワー",
-		"tr_text": ""
+		"tr_text": "Eternal Tower"
 	},
 	{
 		"assign": "towerquest_fp_weakpoint_title",
 		"jp_text": "弱点属性",
-		"tr_text": ""
+		"tr_text": "Weakness"
 	},
 	{
 		"assign": "towerquest_top_floor_unit",
 		"jp_text": "F",
-		"tr_text": ""
+		"tr_text": "F"
 	},
 	{
 		"assign": "towerquest_top_block_info_floor",
 		"jp_text": "<%lower>F～<%upper>F",
-		"tr_text": ""
+		"tr_text": "<%lower>F～<%upper>F"
 	},
 	{
 		"assign": "towerquest_top_block_info_op",
 		"jp_text": "<color=orange>OP：</color>",
-		"tr_text": ""
+		"tr_text": "<color=orange>OP：</color>"
 	},
 	{
 		"assign": "towerquest_top_out_of_event_warning",
@@ -18837,27 +18837,27 @@
 	{
 		"assign": "towerquest_top_floor_title",
 		"jp_text": "あなたの到達フロア",
-		"tr_text": ""
+		"tr_text": "Floor Reached"
 	},
 	{
 		"assign": "towerquest_top_totaltime_title",
 		"jp_text": "合計時間",
-		"tr_text": ""
+		"tr_text": "Total Time"
 	},
 	{
 		"assign": "towerquest_top_eternal_jewel",
 		"jp_text": "エターナルジュエル：",
-		"tr_text": ""
+		"tr_text": "Eternal Jewels:"
 	},
 	{
 		"assign": "towerquest_top_record_comment",
 		"jp_text": "<color=yellow>あと<%time></color>",
-		"tr_text": ""
+		"tr_text": "<color=yellow><%time> Remaining</color>"
 	},
 	{
 		"assign": "towerquest_top_record_goal_comment",
 		"jp_text": "<color=yellow>達成済み！</color>",
-		"tr_text": ""
+		"tr_text": "<color=yellow>GET!</color>"
 	},
 	{
 		"assign": "towerquest_block_grande_title1",
@@ -18882,112 +18882,112 @@
 	{
 		"assign": "towerquest_top_target_time",
 		"jp_text": "あと<%mm>分",
-		"tr_text": ""
+		"tr_text": "<%mm> Remaining"
 	},
 	{
 		"assign": "towerquest_top_target_time_prefix",
 		"jp_text": "あと",
-		"tr_text": ""
+		"tr_text": "Remaining"
 	},
 	{
 		"assign": "towerquest_time_format",
 		"jp_text": "{0:0}：{1:00}．{2:00}",
-		"tr_text": ""
+		"tr_text": "{0:0}：{1:00}．{2:00}"
 	},
 	{
 		"assign": "towerquest_fp_linetext_player_condition",
 		"jp_text": "プレイヤー条件 <color=yellow><%cond></color>",
-		"tr_text": ""
+		"tr_text": "Player Conditions: <color=yellow><%cond></color>"
 	},
 	{
 		"assign": "towerquest_fp_linetext_atktype_strike",
 		"jp_text": "打撃",
-		"tr_text": ""
+		"tr_text": "Striking"
 	},
 	{
 		"assign": "towerquest_fp_linetext_atktype_firearm",
 		"jp_text": "射撃",
-		"tr_text": ""
+		"tr_text": "Ranged"
 	},
 	{
 		"assign": "towerquest_fp_linetext_atktype_technic",
 		"jp_text": "法撃",
-		"tr_text": ""
+		"tr_text": "Technique"
 	},
 	{
 		"assign": "towerquest_fp_linetext_atktype_chipphotonarts",
 		"jp_text": "必殺",
-		"tr_text": ""
+		"tr_text": "PAs"
 	},
 	{
 		"assign": "towerquest_fp_linetext_atktype_chiptechnic",
 		"jp_text": "法術",
-		"tr_text": ""
+		"tr_text": "Techs"
 	},
 	{
 		"assign": "towerquest_fp_linetext_mattr_fire",
 		"jp_text": "炎",
-		"tr_text": ""
+		"tr_text": "Fire"
 	},
 	{
 		"assign": "towerquest_fp_linetext_mattr_ice",
 		"jp_text": "氷",
-		"tr_text": ""
+		"tr_text": "Ice"
 	},
 	{
 		"assign": "towerquest_fp_linetext_mattr_thunder",
 		"jp_text": "雷",
-		"tr_text": ""
+		"tr_text": "Ltn"
 	},
 	{
 		"assign": "towerquest_fp_linetext_mattr_wind",
 		"jp_text": "風",
-		"tr_text": ""
+		"tr_text": "Wind"
 	},
 	{
 		"assign": "towerquest_fp_linetext_mattr_light",
 		"jp_text": "光",
-		"tr_text": ""
+		"tr_text": "Light"
 	},
 	{
 		"assign": "towerquest_fp_linetext_mattr_dark",
 		"jp_text": "闇",
-		"tr_text": ""
+		"tr_text": "Dark"
 	},
 	{
 		"assign": "towerquest_fp_linetext_atk_resist",
 		"jp_text": "エネミー攻撃耐性 <color=yellow><%type></color> (ダメージ<%val>％に)",
-		"tr_text": ""
+		"tr_text": "Enemy ATK Resist: <color=yellow><%type></color> (Up to <%val>% Damage)"
 	},
 	{
 		"assign": "towerquest_fp_linetext_attr_resist",
 		"jp_text": "エネミー属性耐性 <color=yellow><%attr></color> (ダメージ<%val>％に)",
-		"tr_text": ""
+		"tr_text": "Enemy Ele. Resist: <color=yellow><%attr></color> (Up to <%val>% Damage)"
 	},
 	{
 		"assign": "towerquest_touch_start",
 		"jp_text": "パネルをタッチしてスタート！",
-		"tr_text": ""
+		"tr_text": "Touch a Panel to Start!"
 	},
 	{
 		"assign": "towerquest_key_number",
 		"jp_text": "所持数",
-		"tr_text": ""
+		"tr_text": "Keys:"
 	},
 	{
 		"assign": "towerquest_dialog_day_to_day_title",
 		"jp_text": "通知",
-		"tr_text": ""
+		"tr_text": "Notice"
 	},
 	{
 		"assign": "towerquest_dialog_day_to_day_message",
 		"jp_text": "日付が変わりましたので、\nロビートップへ戻ります。",
-		"tr_text": ""
+		"tr_text": "Date has changed.\nReturning to lobby."
 	},
 	{
 		"assign": "towerquest_dialog_event_out_of_period_title",
 		"jp_text": "通知",
-		"tr_text": ""
+		"tr_text": "Notice"
 	},
 	{
 		"assign": "towerquest_dialog_event_out_of_period_message",
@@ -19042,7 +19042,7 @@
 	{
 		"assign": "wh_39_08",
 		"jp_text": "「パネルをタッチしてスタート！」表示でパネルをタッチすると\nタイマーが動き出します。\nパネル選択中もタイムに含まれるので、運が左右します。",
-		"tr_text": ""
+		"tr_text": "When you see \"Touch a Panel to Start\"onthescree"
 	},
 	{
 		"assign": "wh_39_09",
