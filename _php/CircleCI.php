@@ -1,22 +1,5 @@
-<?php 
+<?php
 header("Content-Type: application/json; charset=UTF-8");
-
-$DefaultSettings = Array
-(
-	":vcs-type" => "github",
-	":username" => "PolCPP",
-	":project"=> "PSO2es-Translation",
-	":branch" => "master",
-	":filter" => "successful",
-);
-
-$DefaultFeed = Array
-(
-	"patch_version" => "000",
-	"patch_url" => "https://XX-XXXXXXXX-gh.circle-artifacts.com/0/patchBeta.zip",
-	"patch_compatible" => 1,
-	"patch_message" => "CircleCI: :username/:project/:branch build",
-);
 
 $Cached = null;
 
@@ -34,6 +17,18 @@ function BuildRESTURL($Settings = null) : string
 	return $url;
 }
 
+function GetAgent($fallback = "PSO2es Tweaker 1.1") : string
+{
+	if ($_SERVER)
+	{
+		if (array_key_exists("HTTP_USER_AGENT", $_SERVER))
+		{
+			return $_SERVER['HTTP_USER_AGENT'];
+		}
+	}
+	return $fallback;
+}
+
 function GetRESTData($url, $retry = 3) : string
 {
 	if ($retry == -1)
@@ -45,6 +40,8 @@ function GetRESTData($url, $retry = 3) : string
 	$httpopts = array(
 	  'http'=>array(
 		'method'=>"GET",
+		'user_agent'=>GetAgent(),
+//------------------------------------------------------------------------------
 		'header'=>"Accept: application/json\r\n"
 	  )
 	);
@@ -58,7 +55,7 @@ function GetRESTData($url, $retry = 3) : string
 
 		if ($contents === false)
 		{ // Handle exception and retry
-			return GetRESETData($url, ($retry - 1));
+			return GetRESTData($url, ($retry - 1));
 		}
 	}
 	catch (Exception $e)
@@ -86,7 +83,7 @@ function GetRESTArray($Settings = null) : array
 		return [];
 	}
 
-	$Data = json_decode($content, TRUE); 
+	$Data = json_decode($content, TRUE);
 
 	if (is_null($Data))
 	{
@@ -96,7 +93,7 @@ function GetRESTArray($Settings = null) : array
 
 	}
 
-	return $Data; 
+	return $Data;
 }
 
 function GetPatchArray($Settings = null, $path = "patchBeta.zip"): array
@@ -258,11 +255,28 @@ function CheckPOSTSettings($CGI = null) : array
 	return $Settings;
 }
 
+$DefaultSettings = Array
+(
+	":vcs-type" => "github",
+	":username" => "PolCPP",
+	":project"=> "PSO2es-Translation",
+	":branch" => "master",
+	":filter" => "successful",
+);
+
+$DefaultFeed = Array
+(
+	"patch_version" => "000",
+	"patch_url" => "https://XX-XXXXXXXX-gh.circle-artifacts.com/0/patchBeta.zip",
+	"patch_compatible" => 1,
+	"patch_message" => "CircleCI: :username/:project/:branch build",
+);
+
 function main()
 {
 	$Settings = CheckPOSTSettings($_GET);
 	print(MakePatchFeed($Settings));
 }
 
-main()
-?> 
+main();
+?>
