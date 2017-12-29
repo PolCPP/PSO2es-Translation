@@ -19,14 +19,15 @@ function BuildRESTURL($Settings = null) : string
 
 function GetAgent($fallback = "PSO2es Tweaker 1.1") : string
 {
+	$tag = " (GitHub; alama)";
 	if ($_SERVER)
 	{
 		if (array_key_exists("HTTP_USER_AGENT", $_SERVER))
 		{
-			return $_SERVER['HTTP_USER_AGENT'];
+			return $_SERVER['HTTP_USER_AGENT'] + $tag;
 		}
 	}
-	return $fallback;
+	return $fallback + $tag;
 }
 
 function GetRESTData($url, $retry = 3) : string
