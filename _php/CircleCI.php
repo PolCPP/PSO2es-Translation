@@ -47,7 +47,7 @@ function GetRESTData($url, $retry = 3) : string
 	);
 
 	$httpheader = stream_context_create($httpopts);
-	$contents = false;
+	$contents = null;
 
 	try
 	{
@@ -61,6 +61,12 @@ function GetRESTData($url, $retry = 3) : string
 	catch (Exception $e)
 	{ // Handle exception
 		error_log($e);
+		return "";
+	}
+
+	if (is_null($contents))
+	{
+		error_log("file_get_contents() is disabled");
 		return "";
 	}
 
@@ -195,6 +201,12 @@ function GetPatchVersion($Settings = null, $path = "patchBeta.txt", $retry = 3) 
 	{ // Handle exception
 		error_log($e);
 		error_log("Can not download version file");
+		return "";
+	}
+
+	if (is_null($contents))
+	{
+		error_log("file_get_contents() is disabled");
 		return "";
 	}
 
