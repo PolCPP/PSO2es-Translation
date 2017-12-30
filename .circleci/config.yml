@@ -93,9 +93,9 @@ jobs:
           command: /bin/rm -v lib/*.dll
       - run:
           name: Link PSO2 APK for caching
-          command: ln -s -v lib/*.apk PSO2.apk
+          command: ln -s -v lib/*.apk PSO2es.apk
       - save_cache:
-          key: v1-APK-{{ epoch }}
+          key: v1-APK-{{ checksum "PSO2es.apk" }}
           paths:
             - lib/
       - restore_cache:
@@ -124,7 +124,7 @@ jobs:
           name: Unpack ESBreaker
           command: /usr/bin/unzip -xuoq ESBreaker.zip
       - save_cache:
-          key: v1-ESBreaker-{{ epoch }}
+          key: v1-ESBreaker-{{ checksum "ESBreaker.zip" }}
           paths:
             - ESBreaker.zip
       - run:
