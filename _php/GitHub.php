@@ -3,6 +3,19 @@ header("Content-Type: application/json; charset=UTF-8");
 
 $Cached = null;
 
+function GetAgent($fallback = "PSO2es Tweaker 1.1") : string
+{
+	$tag = " (GitHub; alama)";
+	if ($_SERVER)
+	{
+		if (array_key_exists("HTTP_USER_AGENT", $_SERVER))
+		{
+			return $_SERVER['HTTP_USER_AGENT'] + $tag;
+		}
+	}
+	return $fallback + $tag;
+}
+
 function BuildRESTURL($Settings = null) : string
 {
 	if (is_null($Settings))
@@ -17,22 +30,9 @@ function BuildRESTURL($Settings = null) : string
 	return $url;
 }
 
-function GetAgent($fallback = "PSO2es Tweaker 1.1") : string
-{
-	$tag = " (GitHub; alama)";
-	if ($_SERVER)
-	{
-		if (array_key_exists("HTTP_USER_AGENT", $_SERVER))
-		{
-			return $_SERVER['HTTP_USER_AGENT'] + $tag;
-		}
-	}
-	return $fallback + $tag;
-}
-
 function GetRESTData($url, $retry = 3) : string
 {
-	if ($retry == -1)
+	if ($retry == 0)
 	{
 		error_log("Could not download REST data");
 		return "";
@@ -42,7 +42,6 @@ function GetRESTData($url, $retry = 3) : string
 	  'http'=>array(
 		'method'=>"GET",
 		'user_agent'=>GetAgent(),
-//------------------------------------------------------------------------------
 		'header'=>"Accept: application/vnd.github.v3+json\r\n"
 	  )
 	);
@@ -170,7 +169,7 @@ function GetPatchVersion($Settings = null, $retry = 3) : string
 		$Settings = $GLOBALS['DefaultSettings'];
 	}
 
-	if ($retry == -1)
+	if ($retry == 0)
 	{
 		error_log("Could not download version file");
 		return "";
@@ -207,6 +206,8 @@ function MakePatchFeed($Settings = null) : string
 	$Feed["patch_message"] = $message;
 
 	$Data = json_encode($Feed, JSON_PRETTY_PRINT|JSON_UNESCAPED_SLASHES);
+
+	$Data .= "\n";
 
 	return $Data;
 }
