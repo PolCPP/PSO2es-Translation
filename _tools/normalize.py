@@ -137,6 +137,7 @@ for filename in json_files:
                         entry[tl] = n
 
     if (update):
+        counterr += 1
         print("Updating {}".format(filename))
         with codecs.open(filename, mode='w+', encoding='utf-8') as json_file:
             json.dump(

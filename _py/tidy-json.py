@@ -34,6 +34,7 @@ for files in json_files:
             update = True
 
     if (update):
+        counterr += 1
         print("Tidy up {}".format(files))
         with codecs.open(files, mode='w+', encoding='utf-8') as json_file:
             json_file.write(djson)
