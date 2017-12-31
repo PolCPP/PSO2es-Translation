@@ -10,25 +10,60 @@ import os
 import sys
 
 
+def word_wrap(string, width=32.50):
+    words = string.replace("\n", " ").split()
+    newstrings = []
+    current = ""
+    wordi = 0
+
+    for x in range(0, 3):
+        current = ""
+        lastgood = ""
+
+        while len(words) > wordi:
+            current = current
+
+            if (current == ""):
+                current += words[wordi]
+            else:
+                current += " " + words[wordi]
+
+            if (_fonts.textlength(current) > width):
+                break
+
+            lastgood = current
+            wordi += 1
+
+        if (lastgood == "" and len(words) > wordi):
+            lastgood = words[wordi]
+            wordi += 1
+
+        if (lastgood != ""):
+            newstrings.append(lastgood)
+
+    return "\n".join(newstrings)
+
+
 def remove_html_markup(s):
     tag = False
     quote = False
     out = ""
 
     for c in s:
-            if c == '<' and not quote:
-                tag = True
-            elif c == '>' and not quote:
-                tag = False
-            elif (c == '"' or c == "'") and tag:
-                quote = not quote
-            elif not tag:
-                out = out + c
+        if c == '<' and not quote:
+            tag = True
+        elif c == '>' and not quote:
+            tag = False
+        elif (c == '"' or c == "'") and tag:
+            quote = not quote
+        elif not tag:
+            out = out + c
     return out
 
 
 def check(filename):
     f = os.path.splitext(os.path.basename(filename))[0]
+    update = False
     with codecs.open(filename, mode='r', encoding='utf-8') as json_file:
         djson = json.load(json_file)
         for entry in djson:
@@ -45,6 +80,21 @@ def check(filename):
             ce = remove_html_markup(te)
             fc = "{}:{}:{}".format(f, t, ce)
             FS[fc] = _fonts.textlength(ce)
+            if (te == ce and FS[fc] >= 32.51):
+                ce = word_wrap(ce)
+                FS[fc] = _fonts.textlength(ce)
+                entry["tr_explain"] = ce
+                update = True
+
+        if (update):
+            print("Updating {}".format(filename))
+            with codecs.open(filename, mode='w+', encoding='utf-8') as json_file:
+                json.dump(
+                    djson, json_file, ensure_ascii=False,
+                    indent="\t", sort_keys=False)
+                json_file.write("\n")
+            return filename
+    return ""
 
 
 if __name__ == '__main__':

@@ -129,6 +129,10 @@ jobs:
       - run:
           name: Are the Items' Desc too big?
           command: ./_py/ItemDescFont.py | /usr/bin/tee /tmp/PSO2es/ItemDescFont.txt
+      - run:
+          name: Word wrap changes for Items' Descs
+          command: /usr/bin/git diff --exit-code | /usr/bin/tee /tmp/PSO2es/ItemDescFont.diff
+          when: always
       - store_artifacts:
           path: /tmp/PSO2es/
           destination: Reports
