@@ -94,9 +94,6 @@ jobs:
       - run:
           name: Are the Items' name too big?
           command: ./_py/ItemFont.py | /usr/bin/tee /tmp/PSO2es/ItemFont.txt
-      - run:
-          name: Are the Items' Desc too big?
-          command: ./_py/ItemDescFont.py | /usr/bin/tee /tmp/PSO2es/ItemDescFont.txt
       - store_artifacts:
           path: /tmp/PSO2es/
           destination: Reports
