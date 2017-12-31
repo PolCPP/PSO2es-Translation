@@ -106,8 +106,8 @@ if __name__ == '__main__':
     if len(sys.argv) == 3:
         print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
     else:  # JP MAX: 42.73
-        FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 42.73)
-        for e, s in FSEP.items():  # MAX: 33
+        FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 32)
+        for e, s in FSEP.items():  # MAX: 32
             t = e.replace("\n", "\\n")
             counterr += 1
             print("Item Desc '{}' is too long: {}".format(t, s))
