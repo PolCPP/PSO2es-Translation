@@ -2,12 +2,12 @@
 # coding=utf8
 import _fonts
 import codecs
+from collections import OrderedDict
 import fnmatch
 import json
+import multiprocessing as mp
 import os
 import sys
-from collections import OrderedDict
-import multiprocessing as mp
 
 
 def remove_html_markup(s):
@@ -106,10 +106,16 @@ if __name__ == '__main__':
     if len(sys.argv) == 3:
         print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
     else:  # JP MAX: 42.73
-        FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 42.73)
-        for e, s in FSEP.items():  # MAX: 33
+        FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 28.4)
+        errormsg = False
+        for e, s in FSEP.items():  # MAX: 32
             t = e.replace("\n", "\\n")
-            counterr += 1
+            if s >= 32.51:
+                counterr += 1
+                if not errormsg:
+                    print("--------------------------------------------------------------------------------")
+                    print("Items following are over the limit:")
+                    errormsg = True
             print("Item Desc '{}' is too long: {}".format(t, s))
 
     # Disable error

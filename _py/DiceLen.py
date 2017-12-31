@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 # coding=utf8
 import codecs
+from collections import OrderedDict
 import fnmatch
 import json
 import os
 import sys
-from collections import OrderedDict
 
 # Error counter
 counterr = 0

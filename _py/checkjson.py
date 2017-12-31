@@ -2,8 +2,8 @@
 # coding=utf8
 import codecs
 import fnmatch
-import os
 import json
+import os
 import sys
 
 counterr = 0
