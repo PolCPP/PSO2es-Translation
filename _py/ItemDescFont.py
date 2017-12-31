@@ -27,9 +27,9 @@ def remove_html_markup(s):
     return out
 
 
-def check(files):
-    f = os.path.splitext(os.path.basename(files))[0]
-    with codecs.open(files, mode='r', encoding='utf-8') as json_file:
+def check(filename):
+    f = os.path.splitext(os.path.basename(filename))[0]
+    with codecs.open(filename, mode='r', encoding='utf-8') as json_file:
         djson = json.load(json_file)
         for entry in djson:
             tt = entry["tr_text"]
@@ -119,7 +119,7 @@ if __name__ == '__main__':
             print("Item Desc '{}' is too long: {}".format(t, s))
 
     # Disable error
-    #counterr = -counterr
+    # counterr = -counterr
 
     if counterr > 0:
         sys.exit("Issues found")
