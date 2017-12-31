@@ -19,4 +19,4 @@ script:
   - ./_py/ChipDescLong.py
   - ./_py/DiceFont.py
   - ./_py/ItemFont.py
-  - ./_py/ItemDescFont.py
+  - ./_py/ItemDescFont.py || exit 0
