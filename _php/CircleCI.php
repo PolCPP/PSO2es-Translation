@@ -3,20 +3,6 @@ header("Content-Type: application/json; charset=UTF-8");
 
 $Cached = null;
 
-function BuildRESTURL($Settings = null) : string
-{
-	if (is_null($Settings))
-	{
-		$Settings = $GLOBALS['DefaultSettings'];
-	}
-
-	$url_base = "https://circleci.com/api/v1.1/project/:vcs-type/:username/:project/latest/artifacts?branch=:branch&filter=:filter";
-
-	$url = str_replace(array_keys($Settings), $Settings, $url_base);
-
-	return $url;
-}
-
 function GetAgent($fallback = "PSO2es Tweaker 1.1") : string
 {
 	$tag = " (GitHub; alama)";
@@ -30,9 +16,29 @@ function GetAgent($fallback = "PSO2es Tweaker 1.1") : string
 	return $fallback + $tag;
 }
 
+function BuildRESTURL($Settings = null, $url_rel = "/project/:vcs-type/:username/:project/:build_num/artifacts") : string
+{
+	if (is_null($Settings))
+	{
+		$Settings = $GLOBALS['DefaultSettings'];
+	}
+
+	$url_base = "https://circleci.com/api/v1.1";
+	$url_base .= $url_rel;
+
+	if($Setting[":build_num"] = "latest")
+	{
+		$url_base .= "?branch=:branch&filter=:filter";
+	}
+
+	$url = str_replace(array_keys($Settings), $Settings, $url_base);
+
+	return $url;
+}
+
 function GetRESTData($url, $retry = 3) : string
 {
-	if ($retry == -1)
+	if ($retry == 0)
 	{
 		error_log("Could not download REST data");
 		return "";
@@ -42,7 +48,6 @@ function GetRESTData($url, $retry = 3) : string
 	  'http'=>array(
 		'method'=>"GET",
 		'user_agent'=>GetAgent(),
-//------------------------------------------------------------------------------
 		'header'=>"Accept: application/json\r\n"
 	  )
 	);
@@ -74,14 +79,14 @@ function GetRESTData($url, $retry = 3) : string
 	return $contents;
 }
 
-function GetRESTArray($Settings = null) : array
+function GetRESTArray($Settings = null, $url_rel = "/project/:vcs-type/:username/:project/:build_num/artifacts") : array
 {
 	if (is_null($Settings))
 	{
 		$Settings = $GLOBALS['DefaultSettings'];
 	}
 
-	$url = BuildRESTURL($Settings);
+	$url = BuildRESTURL($Settings, $url_rel);
 
 	$content = GetRESTData($url);
 
@@ -178,7 +183,7 @@ function GetPatchVersion($Settings = null, $path = "patchBeta.txt", $retry = 3) 
 
 	$url = GetPatchURL($Settings, $path);
 
-	if ($retry == -1)
+	if ($retry == 0)
 	{
 		error_log("Could not download version file");
 		return "";
@@ -240,6 +245,8 @@ function MakePatchFeed($Settings = null) : string
 
 	$Data = json_encode($Feed, JSON_PRETTY_PRINT|JSON_UNESCAPED_SLASHES);
 
+	$Data .= "\n";
+
 	return $Data;
 }
 
@@ -268,6 +275,49 @@ function CheckPOSTSettings($CGI = null) : array
 	return $Settings;
 }
 
+function GetLatestBuildJob($Settings = null) : string
+{
+	if (is_null($Settings))
+	{
+		$Settings = $GLOBALS['DefaultSettings'];
+	}
+
+	global $Cached;
+
+	$builds = GetRESTArray($Settings, "/project/:vcs-type/:username/:project/tree/:branch");
+
+	$Cached = null;
+
+	foreach ($builds as $build)
+	{
+		if (array_key_exists("build_num", $build) == false)
+		{
+			continue;
+		}
+
+		if (array_key_exists("build_parameters", $build))
+		{
+			if (is_null($build["build_parameters"]))
+			{
+				return $build["build_num"]; // no workflow
+			}
+			else
+			{
+				$bp = $build["build_parameters"];
+				if (array_key_exists("CIRCLE_JOB", $bp))
+				{
+					if ($bp["CIRCLE_JOB"] == "build")
+					{
+						return $build["build_num"];
+					}
+				}
+			}
+		}
+	}
+
+	return "latest";
+}
+
 $DefaultSettings = Array
 (
 	":vcs-type" => "github",
@@ -275,6 +325,7 @@ $DefaultSettings = Array
 	":project"=> "PSO2es-Translation",
 	":branch" => "master",
 	":filter" => "successful",
+	":build_num"=>"latest",
 );
 
 $DefaultFeed = Array
@@ -288,6 +339,7 @@ $DefaultFeed = Array
 function main()
 {
 	$Settings = CheckPOSTSettings($_GET);
+	$Settings[":build_num"] = GetLatestBuildJob($Settings);
 	print(MakePatchFeed($Settings));
 }
 
