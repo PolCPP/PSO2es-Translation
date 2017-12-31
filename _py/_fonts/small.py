@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # coding=utf8
 import __init__ as _fonts
+from collections import OrderedDict
 import json
 import unicodedata
-from collections import OrderedDict
 
 FS = dict()
 

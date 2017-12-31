@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 # coding=utf8
 import codecs
+from collections import OrderedDict
 import fnmatch
-import os
 import json
+import os
 import sys
 import unicodedata
-from collections import OrderedDict
 
 quick = {
     "*": "＊",  # Undo normalize of Asterisk
@@ -60,12 +60,12 @@ def pairr(j=None, t=None):
         t = ""
     s = 0
     e = -1
-    l = len(j)
-    if l > 1:
-        while s < (l - 1) and j[s] in bl:
+    lj = len(j)
+    if lj > 1:
+        while s < (lj - 1) and j[s] in bl:
             s = s + 1
         yield s
-        while e <= -(l - 1) and j[e] in bl:
+        while e <= -(lj - 1) and j[e] in bl:
             e = e - 1
         yield e
     else:
@@ -74,12 +74,12 @@ def pairr(j=None, t=None):
 
     s = 0
     e = -1
-    l = len(t)
-    if l > 1:
-        while s <= (l - 1) and t[s] in bl:
+    lt = len(t)
+    if lt > 1:
+        while s <= (lt - 1) and t[s] in bl:
             s = s + 1
         yield s
-        while e <= -(l - 1) and t[e] in bl:
+        while e <= -(lt - 1) and t[e] in bl:
             e = e - 1
         yield e
     else:

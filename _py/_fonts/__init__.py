@@ -32,4 +32,4 @@ def textlength(name=""):
     t = name.replace("<%br>", "\n").replace("<br>", "\n").rstrip()
     for sl in t.splitlines():
                 w, h = max(fontR.getsize(sl), (w, h))
-    return w/(10*fontS)
+    return w / (10 * fontS)

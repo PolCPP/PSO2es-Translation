@@ -2,11 +2,11 @@
 # coding=utf8
 import _fonts
 import codecs
+from collections import OrderedDict
 import fnmatch
 import json
 import os
 import sys
-from collections import OrderedDict
 
 # Error counter
 counterr = 0

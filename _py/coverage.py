@@ -2,9 +2,8 @@
 # coding=utf8
 import codecs
 import fnmatch
-import os
-# import pprint
 import json
+import os
 import sys
 
 # Error counter

@@ -2,12 +2,12 @@
 # coding=utf8
 import _fonts
 import codecs
+from collections import OrderedDict
 import fnmatch
 import json
+import multiprocessing as mp
 import os
 import sys
-from collections import OrderedDict
-import multiprocessing as mp
 
 
 def remove_html_markup(s):
@@ -112,7 +112,7 @@ if __name__ == '__main__':
             t = e.replace("\n", "\\n")
             if s >= 32.51:
                 counterr += 1
-                if errormsg == False:
+                if not errormsg:
                     print("--------------------------------------------------------------------------------")
                     print("Items following are over the limit:")
                     errormsg = True

@@ -2,11 +2,10 @@
 # coding=utf8
 import codecs
 import fnmatch
-import os
-# import pprint
 import json
-import unicodedata
+import os
 import sys
+import unicodedata
 
 # count errros
 counterr = 0

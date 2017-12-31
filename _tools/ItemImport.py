@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 # coding=utf8
 import codecs
+from collections import OrderedDict
 import csv
 import fnmatch
 import json
 import os
-import unicodedata
 import sys
-from collections import OrderedDict
+import unicodedata
 
 TR_name = {"": ""}
 JP_dup = dict()
@@ -33,8 +33,8 @@ if len(sys.argv) < 3:
     sys.exit(os.EX_NOINPUT)
 
 dir = sys.argv[1]
-with open(sys.argv[2]) as f:
-    CSV = list(csv.reader(f, dialect='pipes', strict=True))
+with open(sys.argv[2]) as c:
+    CSV = list(csv.reader(c, dialect='pipes', strict=True))
 
 for line in CSV:
     DUP = False
@@ -50,7 +50,7 @@ for line in CSV:
         DUP = True
     if t != "":
         if nt in TR_dup:
-            print("Item EN name '{}'/'{}' already taken '{}'/'{}'".format(t, nt,  TR_dup[nt], k))
+            print("Item EN name '{}'/'{}' already taken '{}'/'{}'".format(t, nt, TR_dup[nt], k))
             DUP = True
     JP_dup[nk] = k
     TR_dup[nt] = t
@@ -130,7 +130,8 @@ for files in json_files:
                 elif (k in TR_name and TR_src[k] == "CSV"):
                     if TR_name[k] != t and TR_name[k] != "":
                         print("TR name of \'{}\' from \'{}\' to \'{}\'".format(
-                            k, t, TR_name[k]))
+                            k, t, TR_name[k])
+                        )
                         change = True
                     else:
                         TR_name[k] = t
@@ -140,7 +141,8 @@ for files in json_files:
                     c = d.rstrip().replace("\n", "<br>")
                     if Explain and TR_explain[k] != c and TR_explain[k] != "":
                         print("TR desc of \'{}\' from \'{}\' to \'{}\'".format(
-                             k, c, TR_explain[k]))
+                            k, c, TR_explain[k])
+                        )
                         change = True
                     else:
                         TR_explain[k] = d
@@ -159,7 +161,8 @@ for files in json_files:
 
                     if Explain and TR_explain[k] != c and TR_explain[k] != "":
                         print("TR desc of \'{}\' from \'{}\' to \'{}\'".format(
-                             k, c, TR_explain[k]))
+                            k, c, TR_explain[k])
+                        )
                         change = True
                     TR_explain[ok] = TR_explain[k]
 
@@ -177,7 +180,7 @@ for files in json_files:
 
                 if t != "":
                     if nt in TR_dup and TR_dup[nt] != t and ok is None:
-                        print("Item EN name '{}'/'{}' already taken '{}'/'{}'".format(t, nt,  TR_dup[nt], k))
+                        print("Item EN name '{}'/'{}' already taken '{}'/'{}'".format(t, nt, TR_dup[nt], k))
                         counterr += 1
                     else:
                         TR_dup[nt] = t
@@ -198,14 +201,14 @@ for files in json_files:
                     ]
                 else:
                     djson = [
-                            OrderedDict(
-                                [
-                                    ('assign', e["assign"]),
-                                    ('jp_text', e["jp_text"]),
-                                    ('tr_text', TR_name[e["jp_text"]])
-                                ]
-                            )
-                            for e in djson
+                        OrderedDict(
+                            [
+                                ('assign', e["assign"]),
+                                ('jp_text', e["jp_text"]),
+                                ('tr_text', TR_name[e["jp_text"]])
+                            ]
+                        )
+                        for e in djson
                     ]
                 with codecs.open(
                     files, mode='w+', encoding='utf-8'
@@ -251,9 +254,7 @@ for e in others:
         )
     ]
 
-with codecs.open(
-        os.path.join(dir, "Items_Leftovers.txt"), mode='w+', encoding='utf-8'
-                ) as json_file:
+with codecs.open(os.path.join(dir, "Items_Leftovers.txt"), mode='w+', encoding='utf-8') as json_file:
     json.dump(
         ojson, json_file, ensure_ascii=False, indent="\t", sort_keys=False)
     json_file.write("\n")
