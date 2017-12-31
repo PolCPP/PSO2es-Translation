@@ -101,7 +101,7 @@ jobs:
           path: /tmp/PSO2es/
           destination: Reports
 
-  tests_font_big:
+  font_big:
     <<: *defaults
     steps:
       - run:
@@ -215,7 +215,7 @@ workflows:
       - build:
           requires:
             - verify
-      - tests_font_big:
+      - font_big:
           requires:
             - verify
       - tests_font:
