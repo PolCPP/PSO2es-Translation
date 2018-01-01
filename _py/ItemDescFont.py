@@ -13,7 +13,7 @@ linelimit = 32.00
 
 
 def word_wrap(string, width=00.00):
-    words = string.replace(" \n"," ").replace("\n", " ").split(" ")
+    words = string.replace(" \n", " ").replace("\n", " ").split(" ")
     newstrings = []
     current = ""
     wordi = 0
