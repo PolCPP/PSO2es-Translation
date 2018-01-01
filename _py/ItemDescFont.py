@@ -9,7 +9,7 @@ import multiprocessing as mp
 import os
 import sys
 
-linelimit = 32.00
+linelimit = 32.50
 
 
 def word_wrap(string, width=00.00):
@@ -29,14 +29,14 @@ def word_wrap(string, width=00.00):
             current = current
 
             if (current == ""):
-                current += words[wordi]
+                current += words[wordi].strip()
             else:
-                current += " " + words[wordi]
+                current += " " + words[wordi].strip()
 
             if (_fonts.textlength(current) >= width):
                 break
 
-            lastgood = current
+            lastgood = current.strip()
             wordi += 1
 
         if (lastgood == "" and len(words) > wordi):
@@ -44,19 +44,11 @@ def word_wrap(string, width=00.00):
             wordi += 1
 
         if (lastgood != ""):
-            newstrings.append(lastgood)
+            newstrings.append(lastgood.strip())
 
     warped = "\n".join(newstrings)
 
-    warpeds = warped.replace("\n", " ").split(" ")
-
-    if words == warpeds:
-        return warped
-    else:
-        print(words)
-        print(warpeds)
-
-    return ""
+    return warped
 
 
 def remove_html_markup(s):
@@ -98,7 +90,7 @@ def check(filename):
             if (FS[fc] >= linelimit):
                 ww = word_wrap(ce, linelimit)
                 if (ww == ""):
-                    FS[fc] = 1000
+                    FS[fc] = -FS[fc]
                 elif te == ce:
                     FS[fc] = 0
                     fc = "{}:{}:{}".format(f, t, ww)
@@ -108,7 +100,8 @@ def check(filename):
                 else:
                     FS[fc] = 0
                     fc = "{}:{}:{}".format(f, t, ww)
-                    FS[fc] = 1000 + _fonts.textlength(ce)
+                    FS[fc] = _fonts.textlength(ww)
+                    FS[fc] += 1000
 
         if (update):
             print("Updating {}".format(filename))
@@ -185,12 +178,14 @@ if __name__ == '__main__':
         for e, s in FSEP.items():  # MAX: 32
             s = abs(s)
             t = e.replace("\n", "\\n")
-            if (s > linelimit):
+            if (s > 1000):
                 counterr += 1
-            if not errormsg:
+            if not errormsg and (s > 1000):
                 print("--------------------------------------------------------------------------------")
-                print("Items following are over the limit:")
+                print("Items following are need manually editing:")
                 errormsg = True
+            if (s > 1000):
+                s -= 1000
             print("Item Desc '{}' is too long: {}".format(t, s))
 
     # Disable error
