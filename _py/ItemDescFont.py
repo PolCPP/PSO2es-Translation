@@ -9,7 +9,7 @@ import multiprocessing as mp
 import os
 import sys
 
-linelimit = 32.50
+linelimit = 32.00
 
 
 def word_wrap(string, width=00.00):
