@@ -9,16 +9,21 @@ import multiprocessing as mp
 import os
 import sys
 
+linelimit = 32.00
 
-def word_wrap(string, width=32.50):
-    words = string.replace("\n", " ").split()
+
+def word_wrap(string, width=00.00):
+    words = string.replace("\n", "  ").split(" ")
     newstrings = []
     current = ""
     wordi = 0
 
-    for x in range(0, 3):
+    while True:
         current = ""
         lastgood = ""
+
+        if len(words) == wordi:
+            break
 
         while len(words) > wordi:
             current = current
@@ -28,7 +33,7 @@ def word_wrap(string, width=32.50):
             else:
                 current += " " + words[wordi]
 
-            if (_fonts.textlength(current) > width):
+            if (_fonts.textlength(current) >= width):
                 break
 
             lastgood = current
@@ -41,7 +46,17 @@ def word_wrap(string, width=32.50):
         if (lastgood != ""):
             newstrings.append(lastgood)
 
-    return "\n".join(newstrings)
+    warped = "\n".join(newstrings)
+
+    warpeds = warped.replace("\n", " ").split(" ")
+
+    if words == warpeds:
+        return warped
+    else:
+        print(words)
+        print(warpeds)
+
+    return ""
 
 
 def remove_html_markup(s):
@@ -63,9 +78,9 @@ def remove_html_markup(s):
 
 def check(filename):
     f = os.path.splitext(os.path.basename(filename))[0]
-    update = False
     with codecs.open(filename, mode='r', encoding='utf-8') as json_file:
         djson = json.load(json_file)
+        update = False
         for entry in djson:
             tt = entry["tr_text"]
             jt = entry["jp_text"]
@@ -80,11 +95,20 @@ def check(filename):
             ce = remove_html_markup(te)
             fc = "{}:{}:{}".format(f, t, ce)
             FS[fc] = _fonts.textlength(ce)
-            if (te == ce and FS[fc] >= 32.51):
-                ce = word_wrap(ce)
-                FS[fc] = _fonts.textlength(ce)
-                entry["tr_explain"] = ce
-                update = True
+            if (FS[fc] >= linelimit):
+                ww = word_wrap(ce, linelimit)
+                if (ww == ""):
+                    FS[fc] = 1000
+                elif te == ce:
+                    FS[fc] = 0
+                    fc = "{}:{}:{}".format(f, t, ww)
+                    FS[fc] = _fonts.textlength(ww)
+                    entry["tr_explain"] = ww
+                    update = True
+                else:
+                    FS[fc] = 0
+                    fc = "{}:{}:{}".format(f, t, ww)
+                    FS[fc] = 1000 + _fonts.textlength(ce)
 
         if (update):
             print("Updating {}".format(filename))
@@ -156,16 +180,17 @@ if __name__ == '__main__':
     if len(sys.argv) == 3:
         print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
     else:  # JP MAX: 42.73
-        FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 28.4)
+        FSEP = OrderedDict((key, value) for key, value in FSs.items() if (abs(value) > linelimit))
         errormsg = False
         for e, s in FSEP.items():  # MAX: 32
+            s = abs(s)
             t = e.replace("\n", "\\n")
-            if s >= 32.51:
+            if (s > linelimit):
                 counterr += 1
-                if not errormsg:
-                    print("--------------------------------------------------------------------------------")
-                    print("Items following are over the limit:")
-                    errormsg = True
+            if not errormsg:
+                print("--------------------------------------------------------------------------------")
+                print("Items following are over the limit:")
+                errormsg = True
             print("Item Desc '{}' is too long: {}".format(t, s))
 
     # Disable error
