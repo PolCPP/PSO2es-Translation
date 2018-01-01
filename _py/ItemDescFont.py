@@ -13,7 +13,7 @@ linelimit = 32.00
 
 
 def word_wrap(string, width=00.00):
-    words = string.replace("\n", "  ").split(" ")
+    words = string.replace(" \n"," ").replace("\n", " ").split(" ")
     newstrings = []
     current = ""
     wordi = 0
@@ -29,14 +29,14 @@ def word_wrap(string, width=00.00):
             current = current
 
             if (current == ""):
-                current += words[wordi].strip()
+                current += words[wordi]
             else:
-                current += " " + words[wordi].strip()
+                current += " " + words[wordi]
 
             if (_fonts.textlength(current) >= width):
                 break
 
-            lastgood = current.strip()
+            lastgood = current
             wordi += 1
 
         if (lastgood == "" and len(words) > wordi):
@@ -44,7 +44,7 @@ def word_wrap(string, width=00.00):
             wordi += 1
 
         if (lastgood != ""):
-            newstrings.append(lastgood.strip())
+            newstrings.append(lastgood)
 
     warped = "\n".join(newstrings)
 
@@ -110,8 +110,8 @@ def check(filename):
                     djson, json_file, ensure_ascii=False,
                     indent="\t", sort_keys=False)
                 json_file.write("\n")
-            return filename
-    return ""
+            return 1
+    return 0
 
 
 if __name__ == '__main__':
@@ -166,6 +166,8 @@ if __name__ == '__main__':
     erra = p.map(check, items_files)
     p.close()
     p.join()
+
+    counterr = max(erra)
 
     FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
     FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
