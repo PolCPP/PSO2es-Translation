@@ -90,9 +90,6 @@ for files in json_files:
                         if (jsl == osl):
                             bufout += "\n\tBut they are the same in our eyes"
                             Forceso = True
-                        elif JPMap[jl] == tl:
-                            bufout += "\n\tBut it is ok"
-                            Forceso = True
                         else:
                             counterr += 1
 

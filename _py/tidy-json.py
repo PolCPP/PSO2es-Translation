@@ -5,10 +5,19 @@ from collections import OrderedDict
 import fnmatch
 import json
 import os
+import re
 import sys
 
 # error counter
 counterr = 0
+
+if (sys.version_info >= (3, 2)):
+    indent = "\t"
+else:
+    indent = 4
+
+separators = (',', ': ')
+
 
 # Need the json path
 if len(sys.argv) < 2:
@@ -28,12 +37,15 @@ for files in json_files:
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
         sfile = json_file.read()
         sjson = json.loads(sfile, object_pairs_hook=OrderedDict)
-        djson = json.dumps(sjson, ensure_ascii=False, indent="\t")
+        djson = json.dumps(sjson, ensure_ascii=False, indent=indent, separators=separators)
+        if (indent == 4):
+            djson = re.sub('\n +', lambda match: '\n' + '\t' * (len(match.group().strip('\n')) / 4), djson)
         djson += "\n"
         if (sfile != djson):
             update = True
 
     if (update):
+        counterr += 1
         print("Tidy up {}".format(files))
         with codecs.open(files, mode='w+', encoding='utf-8') as json_file:
             json_file.write(djson)

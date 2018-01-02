@@ -1,8 +1,6 @@
 language: python
-python: 3.6
+python: pypy3
 dist: trusty
-sudo: false
-group: beta
 
 script:
   - ./_py/checkjson.py && ./_sh/coverage.sh
@@ -19,4 +17,3 @@ script:
   - ./_py/ChipDescLong.py
   - ./_py/DiceFont.py
   - ./_py/ItemFont.py
-  - ./_py/ItemDescFont.py

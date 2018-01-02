@@ -81,14 +81,14 @@
 		"jp_text": "グワナーダのあご",
 		"tr_text": "Gwanahda Jaws",
 		"jp_explain": "撃退後、拡散せずに形となって残った\nグワナーダのあごの部分。\n依頼者：<c a1ff6d>ローラ<c>　再受注不可",
-		"tr_explain": "A Gwanahda jaw that remained intact\nafter the defeat of its owner.\nClient: <c a1ff6d>Lola<c> (one-time order)"
+		"tr_explain": "A Gwanahda jaw that remained\nintact after the defeat of its owner.\nClient: <c a1ff6d>Lola<c> (one-time order)"
 	},
 	{
 		"assign": "33012",
 		"jp_text": "グワナーダの大ばさみ",
 		"tr_text": "Gwanahda Pincers",
 		"jp_explain": "撃退後、拡散せずに形となって残った\n状態の良いグワナーダの大ばさみ。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "Gwanahda mandibles that remained\nintact after the defeat of their owner.\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Gwanahda mandibles that remained\nintact after the defeat of their\nowner. Client: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "33013",
@@ -340,14 +340,14 @@
 		"jp_text": "橙色の小さな花",
 		"tr_text": "Small Orange Flower",
 		"jp_explain": "ナベリウスで採取された花。\nマトイが気にしていたらしい……\n依頼者：<c a1ff6d>フィリア<c>　再受注不可",
-		"tr_explain": "A small flower from Naberius. Seems that\nMatoi was interested in these...\nClient: <c a1ff6d>Philia<c> (one-time order)"
+		"tr_explain": "A small flower from Naberius. Seems\nthat Matoi was interested in these...\nClient: <c a1ff6d>Philia<c> (one-time order)"
 	},
 	{
 		"assign": "33049",
 		"jp_text": "桃色の小さな花",
 		"tr_text": "Small Pink Flower",
 		"jp_explain": "ナベリウスで採取された花。\nマトイが興味深く見ていたらしい……\n依頼者：<c a1ff6d>フィリア<c>　再受注不可",
-		"tr_explain": "A small flower from Naberius. Seems that\nMatoi was interested in these...\nClient: <c a1ff6d>Philia<c> (one-time order)"
+		"tr_explain": "A small flower from Naberius. Seems\nthat Matoi was interested in these...\nClient: <c a1ff6d>Philia<c> (one-time order)"
 	},
 	{
 		"assign": "33050",
@@ -424,7 +424,7 @@
 		"jp_text": "ヴォル・ドラゴンの翼膜",
 		"tr_text": "Vol Dragon Wings",
 		"jp_explain": "ヴォル・ドラゴンの翼膜。\n伸縮性が高いものは非常に稀少。\n依頼者：<c a1ff6d>コフィー<c>　再受注不可",
-		"tr_explain": "The wings of a Vol Dragon. Those that\nhave a very high elasticity are rare.\nClient: <c a1ff6d>Koffie<c> (one-time order)"
+		"tr_explain": "The wings of a Vol Dragon. Those\nthat have a very high elasticity are\nrare. Client: <c a1ff6d>Koffie<c> (one-time order)"
 	},
 	{
 		"assign": "33061",
@@ -613,14 +613,14 @@
 		"jp_text": "ガロンゴの背棘",
 		"tr_text": "Garongo Spine",
 		"jp_explain": "ガロンゴの背中から採れた棘。",
-		"tr_explain": "A thorny spine taken from a Garongo."
+		"tr_explain": "A thorny spine taken from a\nGarongo."
 	},
 	{
 		"assign": "33088",
 		"jp_text": "キャタドランの牙",
 		"tr_text": "Caterdra'n Fang",
 		"jp_explain": "キャタドランから採れた牙。",
-		"tr_explain": "A fang from the jaws of a Caterdra'n."
+		"tr_explain": "A fang from the jaws of a\nCaterdra'n."
 	},
 	{
 		"assign": "33089",
@@ -2524,7 +2524,7 @@
 		"jp_text": "虹輝石イリティスタ",
 		"tr_text": "Iritista Rainbow Pyroxene",
 		"jp_explain": "虹光の力を蓄えた謎の輝石。\n武器との交換が可能。",
-		"tr_explain": "Mysterious stones imbued with the power\nof rainbows. Used as currency at the\nRare Stone Shop."
+		"tr_explain": "Mysterious stones imbued with the\npower of rainbows. Used as currency\nat the Rare Stone Shop."
 	},
 	{
 		"assign": "330372",
@@ -3413,14 +3413,14 @@
 		"jp_text": "ＰＡフラグメント（打撃）",
 		"tr_text": "PA Fragment (S-ATK)",
 		"jp_explain": "クラフトレシピで必要とされる\n打撃系データディスクの欠片。",
-		"tr_explain": "Required for Crafting Recipes.\nA fragment of a Striking PA data disk."
+		"tr_explain": "Required for Crafting Recipes. A\nfragment of a Striking PA data disk."
 	},
 	{
 		"assign": "330535",
 		"jp_text": "ＰＡフラグメント（射撃）",
 		"tr_text": "PA Fragment (R-ATK)",
 		"jp_explain": "クラフトレシピで必要とされる\n射撃系データディスクの欠片。",
-		"tr_explain": "Required for Crafting Recipes.\nA fragment of a Ranged PA data disk."
+		"tr_explain": "Required for Crafting Recipes. A\nfragment of a Ranged PA data disk."
 	},
 	{
 		"assign": "330536",
@@ -3798,7 +3798,7 @@
 		"jp_text": "幻輝石シンセスタ",
 		"tr_text": "Synsesta Phantom Pyroxene",
 		"jp_explain": "幻想の力を蓄えた謎の輝石。\n武器との交換が可能。",
-		"tr_explain": "Mysterious stones imbued with the power\nof illusions. Used as currency at the\nRare Stone Shop."
+		"tr_explain": "Mysterious stones imbued with the\npower of illusions. Used as currency\nat the Rare Stone Shop."
 	},
 	{
 		"assign": "330602",
@@ -4211,14 +4211,14 @@
 		"jp_text": "金の御守り羽子",
 		"tr_text": "Gold Feather Charm",
 		"jp_explain": "無病息災の祈りを込めた不思議な球。\n『ＰＳＯ２ｅｓ』交換ショップで\n景品と交換できる。",
-		"tr_explain": "A mysterious charm for warding sickness.\nPSO2es only item.\nCan be exchanged for prizes."
+		"tr_explain": "A mysterious charm for warding\nsickness. PSO2es only item. Can be\nexchanged for prizes."
 	},
 	{
 		"assign": "330661",
 		"jp_text": "銀の御守り羽子",
 		"tr_text": "Silver Feather Charm",
 		"jp_explain": "無病息災の祈りを込めた不思議な球。\n『ＰＳＯ２ｅｓ』交換ショップで\n景品と交換できる。",
-		"tr_explain": "A mysterious charm for warding sickness.\nPSO2es only item.\nCan be exchanged for prizes."
+		"tr_explain": "A mysterious charm for warding\nsickness. PSO2es only item. Can be\nexchanged for prizes."
 	},
 	{
 		"assign": "330662",
@@ -4267,7 +4267,7 @@
 		"jp_text": "細波の貝殻",
 		"tr_text": "Rippled Shell",
 		"jp_explain": "夏の思い出が詰まった貝殻。\n『ＰＳＯ２ｅｓ』交換ショップで\n景品と交換できる。",
-		"tr_explain": "A shell filled with memories of Summer.\nPSO2es only item.\nCan be exchanged for prizes."
+		"tr_explain": "A shell filled with memories of\nSummer. PSO2es only item. Can be\nexchanged for prizes."
 	},
 	{
 		"assign": "330669",
@@ -4316,7 +4316,7 @@
 		"jp_text": "灰輝石シヴァ",
 		"tr_text": "Shiva Ash Pyroxene",
 		"jp_explain": "灰塵の力を蓄えた謎の輝石。\n武器との交換が可能。",
-		"tr_explain": "A mysterious pyroxene that harbors the\npower of ash and dust. Can be exchanged\nfor prizes."
+		"tr_explain": "A mysterious pyroxene that harbors\nthe power of ash and dust. Can be\nexchanged for prizes."
 	},
 	{
 		"assign": "330676",
@@ -4337,7 +4337,7 @@
 		"jp_text": "壊輝石ドゥルガー",
 		"tr_text": "Durga Destruction Pyroxene",
 		"jp_explain": "破壊の力を蓄えた謎の輝石。\n武器との交換が可能。",
-		"tr_explain": "A mysterious pyroxene that harbors the\npower of annihilation. Can be exchanged\nfor prizes."
+		"tr_explain": "A mysterious pyroxene that harbors\nthe power of annihilation. Can be\nexchanged for prizes."
 	},
 	{
 		"assign": "330679",
@@ -4351,7 +4351,7 @@
 		"jp_text": "極原晶ガレル",
 		"tr_text": "Galeru Crystal",
 		"jp_explain": "惑星ナベリウスの壊世区域でのみ\n確認されている特異なフォトン結晶。\n武器との交換が可能。",
-		"tr_explain": "Unique photon crystals found only in\ncorrupted regions of Naberius. Can be\nexchanged for prizes."
+		"tr_explain": "Unique photon crystals found only in\ncorrupted regions of Naberius. Can\nbe exchanged for prizes."
 	},
 	{
 		"assign": "330682",
@@ -4505,7 +4505,7 @@
 		"jp_text": "黒曜片ネロウ",
 		"tr_text": "Dark Nero Fragment",
 		"jp_explain": "ダークファルスの残骸から発見された\n負の力を放つフォトン結晶片。\n武器との交換が可能。",
-		"tr_explain": "A negative photon crystal fragment\nfound from remnants of the Dark Falz."
+		"tr_explain": "A negative photon crystal fragment\nfound from remnants of the Dark\nFalz."
 	},
 	{
 		"assign": "330709",
@@ -4519,7 +4519,7 @@
 		"jp_text": "幻精石アーレス",
 		"tr_text": "Phantasmal Ares Stone",
 		"jp_explain": "幻獣と同種の力を蓄えた結晶体。\n武器との交換が可能。",
-		"tr_explain": "The power of Photon Beasts stored in the\nform of a crystal. Used for trading at\nthe stone shop."
+		"tr_explain": "The power of Photon Beasts stored\nin the form of a crystal. Used for\ntrading at the stone shop."
 	},
 	{
 		"assign": "330711",
@@ -4554,7 +4554,7 @@
 		"jp_text": "幻創石カガセオ",
 		"tr_text": "Phantasmal Kagaseo Stone",
 		"jp_explain": "幻が形作ったかのような未知の鉱石。\n地球の科学力での解析は不可能。\n武器との交換が可能。",
-		"tr_explain": "Unidentified ore that scientists on\nEarth cannot analyze. Can be exchanged\nfor weapons at the stone shop."
+		"tr_explain": "Unidentified ore that scientists on\nEarth cannot analyze. Can be\nexchanged for weapons at the stone\nshop."
 	},
 	{
 		"assign": "330719",
@@ -4694,7 +4694,7 @@
 		"jp_text": "ユニオンブースター",
 		"tr_text": "Union Booster",
 		"jp_explain": "レイシリーズ用に開発されたパーツ。\n装着することによって\n限界を超えた性能を引き出すという。",
-		"tr_explain": "Augmented parts developed for the Ray\nseries. It's said that they push their\nperformance beyond its limits."
+		"tr_explain": "Augmented parts developed for the\nRay series. It's said that they push\ntheir performance beyond its limits."
 	},
 	{
 		"assign": "330739",
@@ -4750,7 +4750,7 @@
 		"jp_text": "シュベルブースター",
 		"tr_text": "Schvelle Booster",
 		"jp_explain": "生者を滅する闇を目覚めさせる素材。\n特定武器に使用することによって\n限界を超えた性能を引き出すという。",
-		"tr_explain": "Material which is said to energize\nthe darkness that destroys the living.\nUsed as material for certain weapons."
+		"tr_explain": "Material which is said to energize the\ndarkness that destroys the living.\nUsed as material for certain\nweapons."
 	},
 	{
 		"assign": "330748",

@@ -7,13 +7,13 @@ import unicodedata
 
 FS = dict()
 
-_fonts.init()
+_fonts.init(8*8)
 
 for char in range(0x0, 0xFFFF):
     chard = unicodedata.name("{}".format(chr(char)), "UNKNOWN")
     if chard == "UNKNOWN":
         chard = "{}".format(hex(char))
-    FS[chard] = _fonts.textlength(chr(char))
+    FS[chard] = _fonts.textlength("ｏ" + chr(char) + "ｏ")-2
 
 FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
 FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
