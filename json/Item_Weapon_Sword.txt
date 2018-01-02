@@ -109,7 +109,7 @@
 		"jp_text": "コートエッジ",
 		"tr_text": "Coat Edge",
 		"jp_explain": "実体剣に寄せたフォルムを持つ大剣。\n薄いフォトンコートで刃を包みこみ\n無駄を抑えつつ、高い攻撃力を保つ。",
-		"tr_explain": "A Sword featuring a large form factor.\nThe blades are thinly coated with\nphotons, giving it high attack power."
+		"tr_explain": "A Sword featuring a large form\nfactor. The blades are thinly coated\nwith photons, giving it high attack\npower."
 	},
 	{
 		"assign": "11016",
@@ -123,7 +123,7 @@
 		"jp_text": "ラムダアーディロウ",
 		"tr_text": "Lambda Ardillo",
 		"jp_explain": "アーディロウの量産用試作品の大剣。\nより手軽に扱えるようフォトン出力が\n調整され、量産が待たれている。",
-		"tr_explain": "The experimental model of the Ardillo.\nBecause its easily controllable photon\noutput was optimized, mass\nproduction is expected to begin soon."
+		"tr_explain": "The experimental model of the\nArdillo. Because its easily controllable\nphoton output was optimized, mass\nproduction is expected to begin soon."
 	},
 	{
 		"assign": "11018",
@@ -137,7 +137,7 @@
 		"jp_text": "アーディロウ",
 		"tr_text": "Ardillo",
 		"jp_explain": "製造が困難で現存数の少ない巨大大剣。\nまれにしか採掘されない稀少金属が\nベースで、ほとんど流通していない。",
-		"tr_explain": "Because of difficulties in producing\nthis gigantic greatsword, there are\nvery few of them. Its base is a rare\nmetal which is practically nonexistent."
+		"tr_explain": "Because of issues in producing this\ngigantic greatsword, there are very\nfew of them. Its base is a rare metal\nwhich is practically nonexistent."
 	},
 	{
 		"assign": "11020",
@@ -172,7 +172,7 @@
 		"jp_text": "ブリザックス",
 		"tr_text": "Blizaxe",
 		"jp_explain": "基本モデルの氷冷出力を上げた大剣。\n極低温による金属収縮でサイズが\nコンパクトになり、扱いやすくなった。",
-		"tr_explain": "A greatsword with increased cold\nemission compared to the base model.\nThe metal has contracted due to its\nlow temperature, making it compact."
+		"tr_explain": "A WPN with increased cold emission\ncompared to the base model. The\nmetal has contracted due to its low\ntemperature, making it compact."
 	},
 	{
 		"assign": "11025",
@@ -319,7 +319,7 @@
 		"jp_text": "コートエッジＤ",
 		"tr_text": "Coat Edge D",
 		"jp_explain": "実体剣に寄せたフォルムを持つ大剣。\n黒く禍々しいフォトンコートが\n装者に比類なき力を与える。",
-		"tr_explain": "A Sword featuring a large form factor.\nThe blade is coated with negaphotons,\ngiving it unrivaled attack power."
+		"tr_explain": "A Sword featuring a large form\nfactor. The blade is coated with\nnegaphotons, giving it unrivaled\nattack power."
 	},
 	{
 		"assign": "11048",
@@ -515,7 +515,7 @@
 		"jp_text": "ホーリーツリー",
 		"tr_text": "Holy Tree",
 		"jp_explain": "一部地域で聖者の生誕を祝う日に\n使用されていた大木を模した大剣。\n揺れる赤い玉と木の実が心を和ませる。",
-		"tr_explain": "A large sword that mimics the trees\nused in certain holidays. Its big\nswaying red ornaments calm the soul."
+		"tr_explain": "A large sword that mimics the trees\nused in certain holidays. Its big\nswaying red ornaments calm the\nsoul."
 	},
 	{
 		"assign": "11086",
@@ -557,7 +557,7 @@
 		"jp_text": "ギアフレイド",
 		"tr_text": "Gearfreid",
 		"jp_explain": "蒸気エネルギーで効能を増幅した大剣。\n出力を最大化すべく配置された機能的な\n強化機構は、簡素にして最高と評判。",
-		"tr_explain": "A greatsword whose power has been\namplified with steam power. Its\nmechanisms have been arranged to\nmaximize output and simplicity."
+		"tr_explain": "A greatsword whose power has\nbeen amplified with steam power. Its\nmechanisms have been arranged to\nmaximize output and simplicity."
 	},
 	{
 		"assign": "110117",
@@ -746,14 +746,14 @@
 		"jp_text": "ネメシスキャリバー",
 		"tr_text": "Nemesis Calibur",
 		"jp_explain": "古の時代に封印された聖なる大剣。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-		"tr_explain": "A sealed Holy Sword from ancient\npast. It releases it's hidden power of \npurification in tandem with the user's \nwill."
+		"tr_explain": "A sealed Holy Sword from ancient\npast. It releases it's hidden power of\npurification in tandem with the user's\nwill."
 	},
 	{
 		"assign": "110192",
 		"jp_text": "スレイヴキャリバー",
 		"tr_text": "Slave Calibur",
 		"jp_explain": "古の時代に封印された邪なる大剣。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-		"tr_explain": "A sealed Evil Sword from ancient past.\nThe user's struggles will call out the \npower of destruction sealed within."
+		"tr_explain": "A sealed Evil Sword from ancient\npast. The user's struggles will call\nout the power of destruction sealed\nwithin."
 	},
 	{
 		"assign": "110193",
@@ -774,7 +774,7 @@
 		"jp_text": "朔桜",
 		"tr_text": "Saku Sakura",
 		"jp_explain": "舞い散る桜の花びらを見事に描いた鞘が\n美しい大剣。刃には細かな裝飾が丁寧に\n刻まれており、もはや芸術品と呼べる。",
-		"tr_explain": "A beautiful Sword with depictions of\nfluttering Cherry Blossom petals on\nit's sheath. It can be called a work of \nart."
+		"tr_explain": "A beautiful Sword with depictions of\nfluttering Cherry Blossom petals on\nit's sheath. It can be called a work of\nart."
 	},
 	{
 		"assign": "110208",
@@ -844,7 +844,7 @@
 		"jp_text": "ディンスルフオービット",
 		"tr_text": "Dainsleif Orbit",
 		"jp_explain": "新開発のフォトンリング機構を搭載した\n大剣。展開された部品が合体し\n闇を切り裂く閃光の刃へと姿を変える。",
-		"tr_explain": "A Sword with a Photon Ring Device.\nIts expanded parts can form a shining\nblade that slashes through darkness."
+		"tr_explain": "A Sword with a Photon Ring Device.\nIts expanded parts can form a\nshining blade that slashes through\ndarkness."
 	},
 	{
 		"assign": "110244",
@@ -1082,7 +1082,7 @@
 		"jp_text": "コートエッジVer2",
 		"tr_text": "Coat Edge Ver2",
 		"jp_explain": "実体剣に寄せたフォルムを持つ大剣。\n薄いフォトンコートで刃を包みこみ\n無駄を抑えつつ、高い攻撃力を保つ。",
-		"tr_explain": "A Sword featuring a large form factor.\nThe blades are thinly coated with\nphotons, giving it high attack power."
+		"tr_explain": "A Sword featuring a large form\nfactor. The blades are thinly coated\nwith photons, giving it high attack\npower."
 	},
 	{
 		"assign": "110305",
