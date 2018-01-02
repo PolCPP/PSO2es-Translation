@@ -10,6 +10,13 @@ import sys
 # error counter
 counterr = 0
 
+if (sys.version_info >= (3, 0)):
+    ensure_ascii = False
+    indent = "\t"
+else:
+    ensure_ascii = True
+    indent = 4
+
 # Need the json path
 if len(sys.argv) < 2:
     dir = "json"
@@ -62,12 +69,13 @@ FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
 FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
 
 if len(sys.argv) == 3:
-    print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
+    print(json.dumps(FSs, ensure_ascii=ensure_ascii, indent=indent, sort_keys=False))
 else:  # JP MAX: 22
     FSWP = OrderedDict((key, value) for key, value in FSs.items() if value >= 32)
     for e, s in FSWP.items():  # MAX: ???
         counterr += 1
-        print("Item Name '{}' is too long: {}".format(e, s))
+        print(u"Item Name '{}' is too long: {}".format(e, s))
+
 
 # Do not fail
 counterr = -counterr

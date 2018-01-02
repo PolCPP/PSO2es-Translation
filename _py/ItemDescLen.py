@@ -148,7 +148,7 @@ for files in explain3_files:
                 t = entry["tr_text"]
             else:
                 t = entry["jp_text"]
-            ft = "{}:{}".format(f, t)
+            ft = u"{}:{}".format(f, t)
             if ft in FS3:
                 print(ft)
             FS3[ft] = len(entry["tr_explain"].rstrip().split('\n'))
@@ -166,7 +166,7 @@ for files in explain4_files:
                 t = entry["tr_text"]
             else:
                 t = entry["jp_text"]
-            ft = "{}:{}".format(f, t)
+            ft = u"{}:{}".format(f, t)
             if ft in FS4:
                 print(ft)
             FS4[ft] = len(entry["tr_explain"].rstrip().split('\n'))
@@ -200,7 +200,11 @@ FSER.update(FS3WP)
 
 for e, s in FSER.items():
     counterr += 1
-    print("Item Desc '{}' is too big: {}".format(e, s))
+    try:
+        print("Item Desc '{}' is too big: {}".format(e, s))
+    except UnicodeEncodeError:
+        print(u"Item Desc '{}' is too big: {}".format(e, s))
+
 
 # Do not fail
 # counterr = -counterr
