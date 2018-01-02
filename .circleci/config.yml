@@ -27,11 +27,8 @@ jobs:
           command: /bin/mkdir -p /tmp/PSO2es
       - checkout
       - run:
-          name: Making report folder
-          command: /bin/mkdir -p /tmp/PSO2es
-      - run:
           name: Report Coverage
-          command: ./_sh/coverage.sh | /usr/bin/tee /tmp/PSO2es/coverage.txt
+          command: /bin/sh ./_sh/coverage.sh | /usr/bin/tee /tmp/PSO2es/coverage.txt
       - run:
           name: Checking for item mapping
           command: ./_py/dupcheck.py | /usr/bin/tee /tmp/PSO2es/dupcheck.txt
@@ -52,7 +49,7 @@ jobs:
           command: ./_py/tidy-json.py
       - run:
           name: Tidy changes
-          command: /usr/bin/git diff --exit-code | tee /tmp/PSO2es/tidy.diff
+          command: /usr/bin/git diff --exit-code | /usr/bin/tee /tmp/PSO2es/tidy.diff
           when: on_fail
       - run:
           name: Apply Tidy changes
@@ -132,7 +129,7 @@ jobs:
       - run:
           name: Word wrap changes for Items' Descs
           command: /usr/bin/git diff --exit-code | /usr/bin/tee /tmp/PSO2es/ItemDescFont.diff
-          when: always
+          when: on_fail
       - store_artifacts:
           path: /tmp/PSO2es/
           destination: Reports
@@ -164,7 +161,7 @@ jobs:
           command: /bin/rm -v lib/*.dll
       - run:
           name: Link PSO2 APK for caching
-          command: ln -s -v lib/*.apk PSO2es.apk
+          command: /bin/ln -s -v lib/*.apk PSO2es.apk
       - save_cache:
           key: v1-APK-{{ checksum "PSO2es.apk" }}
           paths:
@@ -197,13 +194,13 @@ jobs:
             - ESBreaker.zip
       - run:
           name: Get GIT version
-          command: git describe --always --tags | tee /tmp/patchBeta.txt
+          command: /usr/bin/git describe --always --tags | /usr/bin/tee /tmp/patchBeta.txt
       - run:
           name: Making report folder
           command: mkdir -p /tmp/PSO2es
       - run:
           name: Run ESBreaker
-          command: mono ESBreakerCLI.exe | /usr/bin/tee /tmp/PSO2es/ESBreaker.txt
+          command: /usr/bin/mono ESBreakerCLI.exe | /usr/bin/tee /tmp/PSO2es/ESBreaker.txt
       - run:
           name: Leftover changes
           command: /usr/bin/git diff | /usr/bin/tee /tmp/PSO2es/ESBreaker.diff
