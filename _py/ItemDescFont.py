@@ -89,15 +89,12 @@ def check(filename):
             FS[fc] = _fonts.textlength(ce)
             if (FS[fc] >= linelimit):
                 ww = word_wrap(te, linelimit)
-                if (ww == ""):
-                    FS[fc] = -FS[fc]
-                else:
-                    FS[fc] = 0
-                    ce = remove_html_markup(ww)
-                    fc = "{}:{}:{}".format(f, t, ce)
-                    FS[fc] = _fonts.textlength(ce)
-                    entry["tr_explain"] = ww
-                    update = True
+                FS[fc] = 0
+                ce = remove_html_markup(ww)
+                fc = "{}:{}:{}".format(f, t, ce)
+                FS[fc] = _fonts.textlength(ce)
+                entry["tr_explain"] = ww
+                update = True
 
         if (update):
             print("Updating {}".format(filename))
@@ -171,19 +168,9 @@ if __name__ == '__main__':
     if len(sys.argv) == 3:
         print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
     else:  # JP MAX: 42.73
-        FSEP = OrderedDict((key, value) for key, value in FSs.items() if (abs(value) > linelimit))
-        errormsg = False
+        FSEP = OrderedDict((key, value) for key, value in FSs.items() if (value > linelimit))
         for e, s in FSEP.items():  # MAX: 32
-            s = abs(s)
             t = e.replace("\n", "\\n")
-            if (s > 1000):
-                counterr += 1
-            if not errormsg and (s > 1000):
-                print("--------------------------------------------------------------------------------")
-                print("Items following are need manually editing:")
-                errormsg = True
-            if (s > 1000):
-                s -= 1000
             print("Item Desc '{}' is too long: {}".format(t, s))
 
     # Disable error
