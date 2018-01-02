@@ -33,7 +33,7 @@ def word_wrap(string, width=00.00):
             else:
                 current += " " + words[wordi]
 
-            if (_fonts.textlength(current) >= width):
+            if (_fonts.textlength(remove_html_markup(current)) >= width):
                 break
 
             lastgood = current
@@ -88,20 +88,16 @@ def check(filename):
             fc = "{}:{}:{}".format(f, t, ce)
             FS[fc] = _fonts.textlength(ce)
             if (FS[fc] >= linelimit):
-                ww = word_wrap(ce, linelimit)
+                ww = word_wrap(te, linelimit)
                 if (ww == ""):
                     FS[fc] = -FS[fc]
-                elif te == ce:
-                    FS[fc] = 0
-                    fc = "{}:{}:{}".format(f, t, ww)
-                    FS[fc] = _fonts.textlength(ww)
-                    entry["tr_explain"] = ww
-                    update = True
                 else:
                     FS[fc] = 0
-                    fc = "{}:{}:{}".format(f, t, ww)
-                    FS[fc] = _fonts.textlength(ww)
-                    FS[fc] += 1000
+                    ce = remove_html_markup(ww)
+                    fc = "{}:{}:{}".format(f, t, ce)
+                    FS[fc] = _fonts.textlength(ce)
+                    entry["tr_explain"] = ww
+                    update = True
 
         if (update):
             print("Updating {}".format(filename))
@@ -167,7 +163,7 @@ if __name__ == '__main__':
     p.close()
     p.join()
 
-    # counterr = max(erra)
+    counterr = max(erra)
 
     FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
     FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))

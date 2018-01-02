@@ -7,7 +7,7 @@ import unicodedata
 
 FS = dict()
 
-_fonts.init(64)
+_fonts.init(8*8)
 
 for char in range(0x0, 0xFFFF):
     chard = unicodedata.name("{}".format(chr(char)), "UNKNOWN")
