@@ -1,8 +1,6 @@
 language: python
-python: 3.6
+python: pypy3
 dist: trusty
-sudo: false
-group: beta
 
 script:
   - ./_py/checkjson.py && ./_sh/coverage.sh
