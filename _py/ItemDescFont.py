@@ -167,7 +167,7 @@ if __name__ == '__main__':
     p.close()
     p.join()
 
-    #counterr = max(erra)
+    # counterr = max(erra)
 
     FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
     FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
