@@ -84,8 +84,8 @@ FSL = OrderedDict()
 FSL.update(FSN)  # Non-Weaponoid
 FSL.update(FSW)  # Weaponoid
 
-FSNER = OrderedDict((key, value) for key, value in FSN.items() if value >= 63)
-FSWER = OrderedDict((key, value) for key, value in FSW.items() if value >= 39)
+FSNER = OrderedDict((key, value) for key, value in FSN.items() if value >= 57)
+FSWER = OrderedDict((key, value) for key, value in FSW.items() if value >= 35.4)
 
 FSER = OrderedDict()
 
