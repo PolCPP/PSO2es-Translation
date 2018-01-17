@@ -114,7 +114,7 @@ if __name__ == '__main__':
                 print("Item Name '{}' is too long: {}".format(t, s))
 
     # Disable error
-    counterr = -counterr
+    # counterr = -counterr
 
     if counterr > 0:
         sys.exit("Issues found")
