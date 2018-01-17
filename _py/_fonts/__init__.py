@@ -4,7 +4,7 @@ import os
 from PIL import ImageFont
 
 
-def init(scale=300):
+def init(scale=400):
     global fontR
     global fontS
     size = 1
