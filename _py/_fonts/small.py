@@ -7,7 +7,7 @@ import unicodedata
 
 FS = dict()
 
-_fonts.init(8*8)
+_fonts.init(100)
 
 for char in range(0x0, 0xFFFF):
     ucd = unicodedata.name("{}".format(chr(char)), "UNKNOWN")
@@ -15,7 +15,7 @@ for char in range(0x0, 0xFFFF):
         chard = "{} | {} | {}".format(0, ucd, char)
     else:
         chard = "{} | {} | {}".format(chr(char), ucd, hex(char))
-    FS[chard] = _fonts.textlength("ｏ" + chr(char) + "ｏ")-2
+    FS[chard] = _fonts.textlength("★" + chr(char) + "★")-2
 
 FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
 FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
