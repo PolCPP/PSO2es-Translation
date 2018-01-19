@@ -98,6 +98,10 @@ jobs:
           name: Are Chips' long Desc too long?
           command: ./_py/ChipDescLong.py | /usr/bin/tee /tmp/PSO2es/ChipDescLong.txt
       - run:
+          name: Word wrap changes for Chips' Descs
+          command: /usr/bin/git diff --exit-code | /usr/bin/tee /tmp/PSO2es/ChipDescLong.diff
+          when: on_fail
+      - run:
           name: Are the Dice Chat too big?
           command: ./_py/DiceFont.py | /usr/bin/tee /tmp/PSO2es/DictFont.txt
       - run:
