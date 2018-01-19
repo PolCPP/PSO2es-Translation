@@ -62,6 +62,10 @@ jobs:
           name: Normalize changes
           command: /usr/bin/git diff --exit-code | /usr/bin/tee /tmp/PSO2es/normalize.diff
           when: on_fail
+      - run:
+          name: Apply normalize changes
+          command: /usr/bin/git add -u
+          when: on_fail
       - store_artifacts:
           path: /tmp/PSO2es/
           destination: Reports
@@ -102,6 +106,10 @@ jobs:
           command: /usr/bin/git diff --exit-code | /usr/bin/tee /tmp/PSO2es/ChipDescLong.diff
           when: on_fail
       - run:
+          name: Apply word wrap changes
+          command: /usr/bin/git add -u
+          when: on_fail
+      - run:
           name: Are the Dice Chat too big?
           command: ./_py/DiceFont.py | /usr/bin/tee /tmp/PSO2es/DictFont.txt
       - run:
@@ -133,6 +141,10 @@ jobs:
       - run:
           name: Word wrap changes for Items' Descs
           command: /usr/bin/git diff --exit-code | /usr/bin/tee /tmp/PSO2es/ItemDescFont.diff
+          when: on_fail
+      - run:
+          name: Apply changes
+          command: /usr/bin/git add -u
           when: on_fail
       - store_artifacts:
           path: /tmp/PSO2es/
