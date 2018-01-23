@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# coding=utf8
+# -*- coding: utf-8 -*-
 import _fonts
 import codecs
 from collections import OrderedDict
@@ -7,6 +7,7 @@ import fnmatch
 import json
 import multiprocessing as mp
 import os
+import platform
 import sys
 
 
@@ -40,6 +41,7 @@ def check(files):
 
 
 if __name__ == '__main__':
+    mp.freeze_support()
     # error counter
     counterr = 0
 
@@ -87,10 +89,17 @@ if __name__ == '__main__':
     else:
         _fonts.init()
 
-    p = mp.Pool(mp.cpu_count())
-    erra = p.map(check, items_files)
-    p.close()
-    p.join()
+    if platform.system() == 'Windows':
+        for f in items_files:
+            try:
+                check(f)
+            except Exception as ex:
+                print("Error in {}: {}".format(f, ex))
+    else:
+        p = mp.Pool(mp.cpu_count())
+        erra = p.map(check, items_files)
+        p.close()
+        p.join()
 
     FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
     FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))

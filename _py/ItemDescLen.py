@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# coding=utf8
+# -*- coding: utf-8 -*-
 import codecs
 from collections import OrderedDict
 import fnmatch
@@ -155,7 +155,7 @@ for files in explain3_files:
 
 FS3k = OrderedDict(sorted(FS3.items(), key=lambda t: t[0]))
 FS3s = OrderedDict(sorted(FS3k.items(), key=lambda t: t[1]))
-FS3WP = OrderedDict((key, value) for key, value in FS3s.items() if value > 4)
+FS3WP = OrderedDict((key, value) for key, value in FS3s.items() if value > 3)
 
 for files in explain4_files:
     f = os.path.splitext(os.path.basename(files))[0]
@@ -207,7 +207,7 @@ for e, s in FSER.items():
 
 
 # Do not fail
-# counterr = -counterr
+counterr = -counterr
 
 if counterr > 0:
     sys.exit("Issues found")
