@@ -18157,7 +18157,7 @@
 	{
 		"assign": "photondice_doubleup_dialog_b_03",
 		"jp_text": "現在の獲得LC：<%value>枚",
-		"tr_text": ""
+		"tr_text": "Current LC: <%value>"
 	},
 	{
 		"assign": "photondice_payback_dialog_t_01",
@@ -18172,7 +18172,7 @@
 	{
 		"assign": "photondice_payback_dialog_b_02",
 		"jp_text": "獲得LC：<%value>枚",
-		"tr_text": ""
+		"tr_text": "LC Gained: <%value>"
 	},
 	{
 		"assign": "photondice_result_win_dialog_t_01",
@@ -18232,7 +18232,7 @@
 	{
 		"assign": "photondice_result_lose_dialog_b_02",
 		"jp_text": "合計獲得LC：<%value>枚",
-		"tr_text": ""
+		"tr_text": "Total LC: <%value>"
 	},
 	{
 		"assign": "photondice_error_payback_dialog_t_01",
@@ -18247,7 +18247,7 @@
 	{
 		"assign": "photondice_error_payback_dialog_b_02",
 		"jp_text": "合計獲得LC：<%value>枚",
-		"tr_text": ""
+		"tr_text": "Total LC: <%value>"
 	},
 	{
 		"assign": "photondice_error_payback_dialog_button",
@@ -18267,7 +18267,7 @@
 	{
 		"assign": "photondice_comp_dialog_b_02",
 		"jp_text": "合計獲得LC：<%value>枚",
-		"tr_text": ""
+		"tr_text": "Total LC: <%value>"
 	},
 	{
 		"assign": "photondice_comp_dialog_button",
