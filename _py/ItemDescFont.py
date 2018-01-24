@@ -10,7 +10,7 @@ import os
 import platform
 import sys
 
-linelimit = 28.5
+linelimit = 28.54
 
 
 def word_wrap(string, width=00.00):
