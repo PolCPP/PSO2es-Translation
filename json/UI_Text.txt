@@ -18187,7 +18187,7 @@
 	{
 		"assign": "photondice_result_win_dialog_b_02",
 		"jp_text": "<size=35><color=yellow>基本獲得LC：<%value>枚</color></size> ",
-		"tr_text": ""
+		"tr_text": "<size=35><color=yellow>Standard LC：　<%value></color></size>"
 	},
 	{
 		"assign": "photondice_result_win_dialog_b_03",
@@ -18212,7 +18212,7 @@
 	{
 		"assign": "photondice_result_win_dialog_b_07",
 		"jp_text": "<color=yellow><size=50>合計獲得LC：</size><size=48><%value>枚</size></color>",
-		"tr_text": ""
+		"tr_text": "<color=yellow><size=50>合計獲得LC：</size><size=48><%value>枚</size></color>"
 	},
 	{
 		"assign": "photondice_result_win_dialog_b_08",
@@ -18812,12 +18812,12 @@
 	{
 		"assign": "towerquest_fp_weakpoint_title",
 		"jp_text": "　　　　弱点属性",
-		"tr_text": ""
+		"tr_text": "　　　　Weak Attr."
 	},
 	{
 		"assign": "towerquest_fp_ls_weakpoint_title",
 		"jp_text": "　　　弱点属性",
-		"tr_text": ""
+		"tr_text": "　　　Weak Attr."
 	},
 	{
 		"assign": "towerquest_top_floor_unit",
@@ -18867,22 +18867,22 @@
 	{
 		"assign": "towerquest_block_grande_title1",
 		"jp_text": "第１層【双征門】",
-		"tr_text": ""
+		"tr_text": "B1 [Twin Gates]"
 	},
 	{
 		"assign": "towerquest_block_grande_title2",
 		"jp_text": "第２層【無界殿】",
-		"tr_text": ""
+		"tr_text": "B2 [∞ Lord]"
 	},
 	{
 		"assign": "towerquest_block_grande_title3",
 		"jp_text": "第３層【？？？】",
-		"tr_text": ""
+		"tr_text": "B3 [???]"
 	},
 	{
 		"assign": "towerquest_block_grande_title4",
 		"jp_text": "第４層【？？？】",
-		"tr_text": ""
+		"tr_text": "B4 [???]"
 	},
 	{
 		"assign": "towerquest_top_target_time",
