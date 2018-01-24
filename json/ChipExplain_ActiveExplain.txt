@@ -641,7 +641,7 @@
 		"jp_explainShort": "風属性値に応じてダメージ絶大増加",
 		"tr_explainShort": "Increase ATK proportional to Wind Attribute.",
 		"jp_explainLong": "① 風属性値に応じて攻撃力を絶大に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "Enormously boosts ATK proportional to the amount of Wind Attribute. for a long duration."
+		"tr_explainLong": "Enormously boosts ATK proportional to the\namount of Wind Attribute. for a long duration."
 	},
 	{
 		"assign": "31063",
@@ -662,14 +662,14 @@
 		"jp_explainShort": "ダメージ増加＋状態異常無効",
 		"tr_explainShort": "Boost ATK + Status Immunity",
 		"jp_explainLong": "① 攻撃力を増加する。\n② 自身を状態異常にならなくする。\n[効果時間]長い時間",
-		"tr_explainLong": "Boosts ATK and grants status effect immunity for a long duration."
+		"tr_explainLong": "Boosts ATK and grants status effect\nimmunity for a long duration."
 	},
 	{
 		"assign": "31068",
 		"jp_explainShort": "ダメージ大増加＋状態異常無効",
 		"tr_explainShort": "Boost ATK + Status Immunity",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 自身を状態異常にならなくする。\n[効果時間]長い時間",
-		"tr_explainLong": "Greatly boosts ATK and grants status effect immunity for a long duration."
+		"tr_explainLong": "Greatly boosts ATK and grants status\neffect immunity for a long duration."
 	},
 	{
 		"assign": "31071",
@@ -788,42 +788,42 @@
 		"jp_explainShort": "属性種類数ダメージ大増加＋定期ＣＰ回復",
 		"tr_explainShort": "Boosts ATK proportional to Chips equipped + Periodic CP recovery",
 		"jp_explainLong": "① 装備中チップの属性種類数に応じて\n　　 攻撃力を大きく増加する。\n② 装備中チップの属性種類数に応じて\n　　 定期的にＣＰをわずかに回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "Greatly boosts ATK proportional to the\ndifferent amount of Chip elements equipped and recovers\nCP periodically for a long duration."
+		"tr_explainLong": "Greatly boosts ATK proportional to the different\namount of Chip elements equipped and recovers CP\nperiodically for a long duration."
 	},
 	{
 		"assign": "31138",
 		"jp_explainShort": "属性種類数ダメージ劇的増＋定期ＣＰ回復",
 		"tr_explainShort": "Boosts ATK proportional to Chips equipped + Periodic CP recovery",
 		"jp_explainLong": "① 装備中チップの属性種類数に応じて\n　　 攻撃力を劇的に増加する。\n② 装備中チップの属性種類数に応じて\n　　 定期的にＣＰをわずかに回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "Dramatically boosts ATK proportional to the\ndifferent amount of Chip elements equipped and recovers\nCP periodically for a long duration."
+		"tr_explainLong": "Dramatically boosts ATK proportional to the different\namount of Chip elements equipped and recovers CP\nperiodically for a long duration."
 	},
 	{
 		"assign": "31141",
 		"jp_explainShort": "属性種類数ダメージ大増加＋ダメージ防御",
 		"tr_explainShort": "Boosts ATK proportional to Chips equipped + Damage Protection",
 		"jp_explainLong": "① 装備中チップの属性種類数に応じて\n　　 攻撃力を大きく増加する。\n② 装備中チップの属性種類数に応じて\n　　 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[効果時間]長い時間",
-		"tr_explainLong": "Greatly boosts ATK proportional to the\ndifferent amount of Chip elements equipped and grants a\nfixed amount of damage protection for a long duration."
+		"tr_explainLong": "Greatly boosts ATK proportional to the different\namount of Chip elements equipped and grants a fixed\namount of damage protection for a long duration."
 	},
 	{
 		"assign": "31142",
 		"jp_explainShort": "属性種類数ダメージ劇的増＋ダメージ防御",
 		"tr_explainShort": "Boosts ATK proportional to Chips equipped + Damage Protection",
 		"jp_explainLong": "① 装備中チップの属性種類数に応じて\n　　 攻撃力を劇的に増加する。\n② 装備中チップの属性種類数に応じて\n　　 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[効果時間]長い時間",
-		"tr_explainLong": "Dramatically boosts ATK proportional to the\ndifferent amount of Chip elements equipped and grants a\nfixed amount of damage protection for a long duration."
+		"tr_explainLong": "Dramatically boosts ATK proportional to the different\namount of Chip elements equipped and grants a fixed\namount of damage protection for a long duration."
 	},
 	{
 		"assign": "31145",
 		"jp_explainShort": "「フリーズ」付与＋「フリーズ」ダメージ大増加",
 		"tr_explainShort": "Inflicts [Freeze] + Increased [Freeze] damage",
 		"jp_explainLong": "① 敵に「フリーズ」を付与する。\n② 「フリーズ」状態の敵に対して\n　　 ダメージを絶大に増加する。\n[効果時間]一定時間",
-		"tr_explainLong": "Inflicts [Freeze] on enemies and greatly boosts damage\ndone to Frozen enemies for a period of time."
+		"tr_explainLong": "Inflicts [Freeze] on enemies and greatly boosts\ndamage done to Frozen enemies for a period of time."
 	},
 	{
 		"assign": "31146",
 		"jp_explainShort": "「フリーズ」付与＋「フリーズ」ダメージ劇的増加",
 		"tr_explainShort": "Inflicts [Freeze] + Increased [Freeze] damage",
 		"jp_explainLong": "① 敵に「フリーズ」を付与する。\n② 「フリーズ」状態の敵に対して\n　　 ダメージを絶大に増加する。\n[効果時間]一定時間",
-		"tr_explainLong": "Inflicts [Freeze] on enemies and greatly boosts damage\ndone to Frozen enemies for a period of time."
+		"tr_explainLong": "Inflicts [Freeze] on enemies and greatly boosts\ndamage done to Frozen enemies for a period of time."
 	},
 	{
 		"assign": "31153",
@@ -872,14 +872,14 @@
 		"jp_explainShort": "全アクティブチップ発動＋攻撃力劇的増加",
 		"tr_explainShort": "All Active Chips Activation + ATK Boost",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 必殺技・法術以外の全てのアクティブチップを発動する。\n[効果時間]長い時間",
-		"tr_explainLong": "Activates all effects of active chips, excluding PA\n& Tech and dramatically boosts ATK for a long duration."
+		"tr_explainLong": "Activates all effects of active chips, excluding PA &\nTech and dramatically boosts ATK for a long duration."
 	},
 	{
 		"assign": "31176",
 		"jp_explainShort": "全アクティブチップ発動＋攻撃力劇的増加",
 		"tr_explainShort": "All Active Chips Activation + ATK Boost",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 必殺技・法術以外の全てのアクティブチップを発動する。\n[効果時間]長い時間",
-		"tr_explainLong": "Activates all effects of active chips, excluding PA\n& Tech and dramatically boosts ATK for a long duration."
+		"tr_explainLong": "Activates all effects of active chips, excluding PA &\nTech and dramatically boosts ATK for a long duration."
 	},
 	{
 		"assign": "31185",
@@ -1054,14 +1054,14 @@
 		"jp_explainShort": "属性数ダメージ劇的増＋アクティブチップ延長",
 		"tr_explainShort": "Boost ATK proportional to Chips equipped + Effect Time Extension",
 		"jp_explainLong": "① 装備中チップ属性種類数に応じて\n　　 攻撃力を劇的に増加する。\n② アクティブチップ発動時の効果時間を延長する。\n[効果時間]長い時間",
-		"tr_explainLong": "Dramatically boost ATK proportional to the amount\nof different element chips equipped, and gives addition time\nto all other active chips on activation."
+		"tr_explainLong": "Dramatically boost ATK proportional to the amount of\ndifferent element chips equipped, and gives addition\ntime to all other active chips on activation."
 	},
 	{
 		"assign": "31256",
 		"jp_explainShort": "属性数ダメージ劇的増＋アクティブチップ延長",
 		"tr_explainShort": "Boost ATK proportional to Chips equipped + Effect Time Extension",
 		"jp_explainLong": "① 装備中チップ属性種類数に応じて\n　　 攻撃力を劇的に増加する。\n② アクティブチップ発動時の効果時間を延長する。\n[効果時間]長い時間",
-		"tr_explainLong": "Dramatically boost ATK proportional to the amount\nof different element chips equipped, and gives addition time\nto all other active chips on activation."
+		"tr_explainLong": "Dramatically boost ATK proportional to the amount of\ndifferent element chips equipped, and gives addition\ntime to all other active chips on activation."
 	},
 	{
 		"assign": "31259",
@@ -1082,14 +1082,14 @@
 		"jp_explainShort": "全属性値を大強化+攻撃力を劇的増加",
 		"tr_explainShort": "All Attribute. Boost + ATK Boost",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 全属性の属性値を大きく強化する。\n[効果時間]一定時間",
-		"tr_explainLong": "Greatly boosts all Attribute. and dramatically boosts ATK for a period of time."
+		"tr_explainLong": "Greatly boosts all Attribute. and dramatically boosts\nATK for a period of time."
 	},
 	{
 		"assign": "31270",
 		"jp_explainShort": "全属性値を大強化+攻撃力を劇的増加",
 		"tr_explainShort": "All Attribute. Boost + ATK Boost",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 全属性の属性値を大きく強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "Greatly boosts all Attribute. and dramatically boosts ATK for a period of time."
+		"tr_explainLong": "Greatly boosts all Attribute. and dramatically boosts\nATK for a period of time."
 	},
 	{
 		"assign": "31271",
@@ -3203,14 +3203,14 @@
 		"jp_explainShort": "大剣でガード直後ジャストアタック発動",
 		"tr_explainShort": "[Sword-exclusive] Just-Guard Attack",
 		"jp_explainLong": "「大剣専用」\n短い時間ガード姿勢をとる。ガードに成功すると\nジャストアタックとなる一撃を放つ。",
-		"tr_explainLong": "[Sword-exclusive] For a short duration, release an attack after a successful [Just Guard]."
+		"tr_explainLong": "[Sword-exclusive] For a short duration, release an\nattack after a successful [Just Guard]."
 	},
 	{
 		"assign": "51520",
 		"jp_explainShort": "大剣でガード直後ジャストアタック発動",
 		"tr_explainShort": "[Sword-exclusive] Just-Guard Attack",
 		"jp_explainLong": "「大剣専用」\n短い時間ガード姿勢をとる。ガードに成功すると\nジャストアタックとなる一撃を放つ。",
-		"tr_explainLong": "[Sword-exclusive] For a short duration, release an attack after a successful [Just Guard]."
+		"tr_explainLong": "[Sword-exclusive] For a short duration, release an\nattack after a successful [Just Guard]."
 	},
 	{
 		"assign": "51610",
@@ -6325,7 +6325,7 @@
 		"jp_explainShort": "雷属性を小強化",
 		"tr_explainShort": "Boost Lightning Attribute.",
 		"jp_explainLong": "① 雷属性をわずかに強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "For a short duration, slightly boosts Lightning Attribute."
+		"tr_explainLong": "For a short duration, slightly\nboosts Lightning Attribute."
 	},
 	{
 		"assign": "20610",
@@ -6381,14 +6381,14 @@
 		"jp_explainShort": "闇属性の法撃による中ダメージ",
 		"tr_explainShort": "Dark Attribute. Attack",
 		"jp_explainLong": "【ダメージボム】\n① 闇属性の法撃による中ダメージを与える。",
-		"tr_explainLong": "Deals a medium damage, dark attribute attack to target."
+		"tr_explainLong": "Deals a medium damage, dark attribute attack to\ntarget."
 	},
 	{
 		"assign": "3820",
 		"jp_explainShort": "闇属性の法撃による中ダメージ",
 		"tr_explainShort": "Dark Attribute. Attack",
 		"jp_explainLong": "【ダメージボム】\n① 闇属性の法撃による中ダメージを与える。",
-		"tr_explainLong": "Deals a medium damage, dark attribute attack to target."
+		"tr_explainLong": "Deals a medium damage, dark attribute attack to\ntarget."
 	},
 	{
 		"assign": "3910",
@@ -6451,7 +6451,7 @@
 		"jp_explainShort": "敵から受けるダメージを軽減",
 		"tr_explainShort": "Damage Reduction",
 		"jp_explainLong": "① 敵から受けるダメージを軽減する。\n[効果時間]短い時間",
-		"tr_explainLong": "For a short duration, reduces damage taken from enemies."
+		"tr_explainLong": "For a short duration, reduces damage taken from\nenemies."
 	},
 	{
 		"assign": "4520",
@@ -6507,7 +6507,7 @@
 		"jp_explainShort": "全体に闇属性の射撃による中ダメージ",
 		"tr_explainShort": "All Dark Attribute. All Attack",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に闇属性の射撃による中ダメージを与える。",
-		"tr_explainLong": "Deals a dark attribute attack of medium damage to all enemies."
+		"tr_explainLong": "Deals a dark attribute attack of medium damage to all\nenemies."
 	},
 	{
 		"assign": "5320",
@@ -6976,7 +6976,7 @@
 		"jp_explainShort": "原生種に対してダメージを大増加",
 		"tr_explainShort": "ATK Boost against Natives",
 		"jp_explainLong": "① 原生種に与えるダメージを大きく増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "For a long duration, greatly boost ATK against natives."
+		"tr_explainLong": "For a long duration, greatly\nboost ATK against natives."
 	},
 	{
 		"assign": "30210",
@@ -7004,7 +7004,7 @@
 		"jp_explainShort": "龍族に対してダメージを大増加",
 		"tr_explainShort": "ATK Boost against Dragonkins",
 		"jp_explainLong": "① 龍族に与えるダメージを大きく増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "For a long duration, greatly boost ATK against dragonkins."
+		"tr_explainLong": "For a long duration, greatly\nboost ATK against dragonkins."
 	},
 	{
 		"assign": "30410",
@@ -7018,7 +7018,7 @@
 		"jp_explainShort": "ダーカーに対してダメージを大増加",
 		"tr_explainShort": "ATK Boost against Darkers",
 		"jp_explainLong": "① ダーカーに与えるダメージを大きく増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "For a long duration, greatly boost ATK against darkers."
+		"tr_explainLong": "For a long duration, greatlyf\nboost ATK against darkers."
 	},
 	{
 		"assign": "0",
@@ -7137,7 +7137,7 @@
 		"jp_explainShort": "海王種に対してダメージを大増加",
 		"tr_explainShort": "ATK Boost against Oceanids",
 		"jp_explainLong": "① 海王種に与えるダメージを大きく増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "For a long duration, greatly boost ATK against darkers."
+		"tr_explainLong": "For a long duration, greatly\nboost ATK against darkers."
 	},
 	{
 		"assign": "20011",

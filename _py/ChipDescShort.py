@@ -67,7 +67,7 @@ FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
 if len(sys.argv) == 3:
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
 else:  # JP MAX: 36.79
-    FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 36.79)
+    FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 19.36)
     for e, s in FSEP.items():
         counterr += 1
         print("Chip Short explain '{}' is too big: {}".format(e, s))

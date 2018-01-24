@@ -86,6 +86,8 @@ if __name__ == '__main__':
 
     if len(sys.argv) == 3 and sys.argv[2] != "0":
         _fonts.init(int(sys.argv[2]))
+    elif platform.system() == 'Windows':
+        _fonts.init(1)
     else:
         _fonts.init()
 
@@ -107,14 +109,14 @@ if __name__ == '__main__':
     if len(sys.argv) == 3:
         print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
     else:  # JP MAX: 25.21
-        FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 27.34)
+        FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 21.72)
         for e, s in FSEP.items():  # MAX: 27.34
                 t = e.replace("\n", "\\n")
                 counterr += 1
                 print("Item Name '{}' is too long: {}".format(t, s))
 
     # Disable error
-    counterr = -counterr
+    # counterr = -counterr
 
     if counterr > 0:
         sys.exit("Issues found")

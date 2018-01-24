@@ -64,7 +64,7 @@ FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
 if len(sys.argv) == 3:
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
 else:  # JP MAX: 34.24
-    FSWP = OrderedDict((key, value) for key, value in FSs.items() if value > 48)
+    FSWP = OrderedDict((key, value) for key, value in FSs.items() if value > 25.26)
     for e, s in FSWP.items():  # TXT MAX: Center mess
         t = e.replace("\n", "br")
         if s > 64:

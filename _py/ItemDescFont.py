@@ -10,7 +10,7 @@ import os
 import platform
 import sys
 
-linelimit = 32.00
+linelimit = 28.54
 
 
 def word_wrap(string, width=00.00):
@@ -154,6 +154,8 @@ if __name__ == '__main__':
 
     if len(sys.argv) == 3 and sys.argv[2] != "0":
         _fonts.init(int(sys.argv[2]))
+    elif platform.system() == 'Windows':
+        _fonts.init(1)
     else:
         _fonts.init()
 

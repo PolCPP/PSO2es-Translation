@@ -4,10 +4,10 @@ import os
 from PIL import ImageFont
 
 
-def init(scale=8*9):
+def init(scale=4):
     global fontR
     global fontS
-    size = 19
+    size = 72
     size *= scale
     fontS = scale
     font = os.path.join(
@@ -32,4 +32,4 @@ def textlength(name=""):
     t = name.replace("<%br>", "\n").replace("<br>", "\n").rstrip()
     for sl in t.splitlines():
         w, h = max(fontR.getsize(sl), (w, h))
-    return w / (10 * fontS)
+    return w / (72 * fontS)
