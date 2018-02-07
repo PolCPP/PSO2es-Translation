@@ -3,6 +3,9 @@
 import os
 from PIL import ImageFont
 
+fontS = None
+fontR = None
+
 
 def init(scale=4):
     global fontR
