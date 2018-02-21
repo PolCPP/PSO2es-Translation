@@ -1435,10 +1435,52 @@
 		"tr_explain": "Decreases the demerit value by -70%\nwhen customizing techniques."
 	},
 	{
+		"assign": "3210278",
+		"jp_text": "エステ利用パスＳ",
+		"tr_text": "",
+		"jp_explain": "エステカウンターの機能利用パス。\nサポートパートナーにも使用可能。\n利用するたびにパスは消費される。 ",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3210279",
 		"jp_text": "能力追加成功率＋４５％",
 		"tr_text": "Ability Success Rate +45%",
 		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を４５％上昇させる。",
 		"tr_explain": "Used when adding Special Abilities\non your equipment.\nBoosts success rate by 45%"
+	},
+	{
+		"assign": "3210284",
+		"jp_text": "特殊能力保護（５枠以下）",
+		"tr_text": "",
+		"jp_explain": "特殊能力追加に失敗時、素材アイテムと\n特殊能力追加アイテムが返却される。\n<yellow>対象：追加予定リストが５スロット以下<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3210288",
+		"jp_text": "特殊能力（打撃＆ＰＰ/３）",
+		"tr_text": "",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃＆ＰＰ/３】の特殊能力を追加する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3210289",
+		"jp_text": "特殊能力（射撃＆ＰＰ/３）",
+		"tr_text": "",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃＆ＰＰ/３】の特殊能力を追加する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3210290",
+		"jp_text": "特殊能力（法撃＆ＰＰ/３）",
+		"tr_text": "",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃＆ＰＰ/３】の特殊能力を追加する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3210291",
+		"jp_text": "特殊能力（ＨＰ＆ＰＰ/３）",
+		"tr_text": "",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ＆ＰＰ/３】の特殊能力を追加する。",
+		"tr_explain": ""
 	}
 ]

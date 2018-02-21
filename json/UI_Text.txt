@@ -9410,6 +9410,11 @@
 		"tr_text": "This will download the additional\ndata.\n\n※The estimated download sizes follow:\n\"Item Icons\", around 550MB\n\"Full Data\", around 3.8GB\n\n※Depending on your device and connection\ntype, your download time and speed may vary.\n※Please ensure you're in a place with good\nsignal strength or reception.\n※Because extra data is being downloaded,\nensure that you have enough room on your\ndevice's storage."
 	},
 	{
+		"assign": "menu_fulldownload_b_02_2",
+		"jp_text": "追加のゲームデータを下記のボタンから\nダウンロードすることができます。\n\n※ダウンロード目安容量\n「アイテムアイコン」… 約<%iconsize>MB\n「全てをダウンロード」… 約<%totalsize>GB\n\n※ダウンロード目安時間\n「アイテムアイコン」… 約1時間30分\n「全てをダウンロード」… 約5時間\n\n※お使いの端末や通信環境、選択する\n内容によって、ダウンロードにかかる\n時間が異なりますのでご注意ください。\n※ゲームデータのダウンロードは\n通信環境のいい場所で行ってください。\n※ゲームの配信データが追加された場合には\n必要となるデータ容量が増えていきますので\n端末、SDカード等の容量にはご注意ください。\n",
+		"tr_text": ""
+	},
+	{
 		"assign": "menu_fulldownload_btn_02_1",
 		"jp_text": "アイテムアイコンをダウンロード",
 		"tr_text": "Download Item Icons"
@@ -17850,6 +17855,16 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "quest_clear_reward_dialog_title_6134005",
+		"jp_text": "ストーリークエスト Season2　4章クリア",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_clear_reward_dialog_body_6134005",
+		"jp_text": "Season2　4章クリアおめでとうございます！\n以下のクリア報酬をプレゼントいたします。\n受け取りボックスをご確認ください。",
+		"tr_text": ""
+	},
+	{
 		"assign": "recommended_equipment",
 		"jp_text": "おすすめ装備",
 		"tr_text": "Recommended Equipment"
@@ -18626,23 +18641,23 @@
 	},
 	{
 		"assign": "PanelBonus_AttackUp",
-		"jp_text": "ボーナス　攻撃力10％UP!",
-		"tr_text": "Bonus: ATK 10% Up!"
+		"jp_text": "ボーナス　攻撃力25％UP!",
+		"tr_text": ""
 	},
 	{
 		"assign": "PanelBonus_DefenseUp",
-		"jp_text": "ボーナス　防御力10％UP!",
-		"tr_text": "Bonus: DEF 10% Up!"
+		"jp_text": "ボーナス　防御力25％UP!",
+		"tr_text": ""
 	},
 	{
 		"assign": "PanelBonus_HPMaxUp",
-		"jp_text": "ボーナス　HP上限10％UP!",
-		"tr_text": "Bonus: 10% Max HP Up!"
+		"jp_text": "ボーナス　HP上限15％UP!",
+		"tr_text": ""
 	},
 	{
 		"assign": "PanelBonus_CPMaxUp",
-		"jp_text": "ボーナス　CP上限10％UP!",
-		"tr_text": "Bonus: 10% Max CP Up!"
+		"jp_text": "ボーナス　CP上限15％UP!",
+		"tr_text": ""
 	},
 	{
 		"assign": "PanelBonus_AllPanelOpen",
@@ -18661,13 +18676,13 @@
 	},
 	{
 		"assign": "PanelBonus_CPRecoveryUP",
-		"jp_text": "ボーナス　CP回復速度10％UP!",
-		"tr_text": "Bonus: 10% CP Recovery Up!"
+		"jp_text": "ボーナス　CP回復速度15％UP!",
+		"tr_text": ""
 	},
 	{
 		"assign": "PanelBonus_AllAttributeUp",
-		"jp_text": "ボーナス　全属性10％UP!",
-		"tr_text": "Bonus: 10% All Ele. Up!"
+		"jp_text": "ボーナス　全属性15％UP!",
+		"tr_text": ""
 	},
 	{
 		"assign": "PanelTeleport_Lock",
@@ -18866,13 +18881,13 @@
 	},
 	{
 		"assign": "towerquest_block_grande_title1",
-		"jp_text": "第１層【双征門】",
-		"tr_text": "B1 [Twin Gates]"
+		"jp_text": "第１層【惨骸門】",
+		"tr_text": ""
 	},
 	{
 		"assign": "towerquest_block_grande_title2",
-		"jp_text": "第２層【無界殿】",
-		"tr_text": "B2 [∞ Lord]"
+		"jp_text": "第２層【狼霊殿】",
+		"tr_text": ""
 	},
 	{
 		"assign": "towerquest_block_grande_title3",
@@ -19031,8 +19046,8 @@
 	},
 	{
 		"assign": "wh_39_05",
-		"jp_text": "各フロアにパネルが用意されています。\nパネルをタッチして、次のフロアへのテレポーターパネルを探します。\nテレポーターには錠が付けてあるので、鍵を獲得しないとテレポートできません。",
-		"tr_text": "Each floor contains special panels that you can interact\nwith. You'll need to find the teleport panel to advance\nthe tower. However it is locked, as a key will be needed."
+		"jp_text": "各フロアには、様々な機能を持った「パネル」が用意されています。\n次のフロアに移動するには、「テレポーター」パネルを使用します。\nテレポーターはロックされているので、鍵を獲得してから使用してください。",
+		"tr_text": ""
 	},
 	{
 		"assign": "wh_39_06",
@@ -19041,8 +19056,8 @@
 	},
 	{
 		"assign": "wh_39_07",
-		"jp_text": "１ブロック（３フロア）継続する効果は、アイコンで表示します。\nボーナスを溜めて、フロアを進むのも攻略のひとつです。",
-		"tr_text": "An icon will be displayed when an effect can last through\nan entire block. It can be strategic to stack up bonuses\nprior to advancing through each block."
+		"jp_text": "１ブロック（３フロア）継続するボーナス効果は、アイコンで表示します。\nボーナスを溜めて、フロアを進むのも攻略のひとつです。",
+		"tr_text": ""
 	},
 	{
 		"assign": "wh_39_08",
@@ -19077,6 +19092,211 @@
 	{
 		"assign": "wh_40_02",
 		"jp_text": "エターナルタワートップの合計時間に「あと○分」と次の報酬までの時間が\n表示されます。（既に報酬を獲得している場合は、「達成済み！」と表示されます）\n各ブロックのクリアタイムの記録を更新して、ゴールドクリア報酬を獲得しましょう。",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_scene_title",
+		"jp_text": "ダークブラスト訓練",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_guid_0",
+		"jp_text": "<color=#f0df60>ダークブラストを選択してください。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_list_window_title",
+		"jp_text": "ダークブラスト一覧",
+		"tr_text": ""
+	},
+	{
+		"assign": "dakerblast_time",
+		"jp_text": "残り時間",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_point",
+		"jp_text": "ダークブラストＥＸＰ：",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_guid_1",
+		"jp_text": "<color=#f0df60>合成するチップを選んでください。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_info_window_title",
+		"jp_text": "ダークブラスト情報",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_chip_window_title",
+		"jp_text": "チップ",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_grind",
+		"jp_text": "合成する",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_type_0",
+		"jp_text": "成功",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_type_1",
+		"jp_text": "<color=yellow>大成功！</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_type_2",
+		"jp_text": "<color=red>超成功！！</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_get_point",
+		"jp_text": "獲得ダークブラストＥＸＰ / ",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_total_point",
+		"jp_text": "合計ダークブラストＥＸＰ / ",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_ac_recovery",
+		"jp_text": "回復する<{0}<%AC>>",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_grind_count",
+		"jp_text": "合成可能回数",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_grind_point",
+		"jp_text": "ＥＸＰ予想：",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_pso2_menu_button",
+		"jp_text": "ダークブラスト訓練",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_no_info_title",
+		"jp_text": "ダークブラスト未習得",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_no_info_body",
+		"jp_text": "『PSO2』でダークブラストを習得していないため\n利用できません。",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_no_select_chip_title",
+		"jp_text": "チップ",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_no_select_chip_body",
+		"jp_text": "素材チップが選択されていません。\n素材チップを選んでください。",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_grind_title",
+		"jp_text": "確認",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_grind_body",
+		"jp_text": "ダークブラスト訓練の合成を行います。\n素材にしたチップは失われますが\nよろしいですか？",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_recovery_window_title",
+		"jp_text": "<%AC>消費確認",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_recovery_window_body",
+		"jp_text": "合成可能数が不足しています。\n\n{0}<%AC>を消費して\n合成可能数を全回復させます。\nよろしいですか？\n\n必要<%AC>：{1}<%AC>\n所持<%AC>：{2}",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_explimit_title",
+		"jp_text": "確認",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_explimit_body",
+		"jp_text": "ダークブラストＥＸＰが\n全てのスキル習得に必要な値を超えています。\n\nこのまま合成してもよろしいですか？",
+		"tr_text": ""
+	},
+	{
+		"assign": "wh_41_01",
+		"jp_text": "＜ダークブラスト訓練について＞ \nこのメニューでは、『ＰＳＯ２』で習得しているダークブラストに\nチップを合成し、ダークブラストＥＸＰを獲得することができます。",
+		"tr_text": ""
+	},
+	{
+		"assign": "wh_41_02",
+		"jp_text": "チップを合成すると、チップのレアリティやカテゴリに応じた\nダークブラストＥＸＰが付与されます。",
+		"tr_text": ""
+	},
+	{
+		"assign": "wh_41_03",
+		"jp_text": "＜合成可能回数について＞ \n チップ合成の残り合成可能回数は\n 4：00、12：00、20：00のタイミングごとに、３回まで利用できます。",
+		"tr_text": ""
+	},
+	{
+		"assign": "wh_41_04",
+		"jp_text": "また、合成可能回数は、<%AC>で回復することもできます。",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_exp_over_title",
+		"jp_text": "確認",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_exp_over_body",
+		"jp_text": "ダークブラストＥＸＰが\n与えられる上限の999,999,999です。\nこれ以上チップを与えることができません。",
+		"tr_text": ""
+	},
+	{
+		"assign": "window_help_LM28",
+		"jp_text": "wh_42_01,\n必殺技・法術チップにリンクスロットが追加されました。<%br>\nこのリンクスロットは、装備先のチップと同じ攻撃タイプの必殺技・法術チップのみ<%br>\n装備することができ、装備することでリンクスキルが発動します。,\nwh_42_02,\n特定のリンクチップを装備すると、プレイヤーの分身が出現し<%br>\n装備したチップの必殺技・法術が追加発動する「ラッシュアーツ」を使用できます。<%br>\n使用可能なチップを装備する際には、「ラッシュアーツ」のアイコンが表示されます。,\nwh_42_03,\nラッシュアーツは、バトルの行動に応じて溜まる専用のゲージを消費し、発動します。<%br>\nゲージ最大時、必殺技・法術チップ使用後のジャストアタックを成功させると<%br>\n分身「ラッシュ」が出現、装備したリンクチップの必殺技・法術を追加発動させます。,",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_details_ghost_top_title",
+		"jp_text": "ラッシュアーツ詳細",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_details_ghost_explains",
+		"jp_text": "【条件】必殺技は武器の種類、法術は属性が一致\nラッシュゲージ最大時\n装備先の<%type>発動後のジャストアタックに成功すると\n分身となる「ラッシュ」が出現して\n「<%name>」が\n追加で発動する。",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_details_ghost_explains_pa",
+		"jp_text": "必殺技",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_details_ghost_explains_te",
+		"jp_text": "法術",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_details_ghost_conditions",
+		"jp_text": "　",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_details_pate_linkskill_conditions",
+		"jp_text": "攻撃タイプ一致時",
 		"tr_text": ""
 	}
 ]
