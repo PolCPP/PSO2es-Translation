@@ -920,7 +920,7 @@
 		"assign": "131",
 		"jp_text": "Ｓ２：剛乱活与",
 		"tr_text": "S2:Sturdy Recovery",
-		"jp_explain": "一定確率で与ダメージの\n１％をＨＰとして吸収。\n（上限300）",
+		"jp_explain": "一定確率で与ダメージの\n1％をＨＰとして吸収。\n（上限300）",
 		"tr_explain": "Restores HP equal to\n1% of damage dealt.\n(Max: 300)"
 	},
 	{
@@ -1123,7 +1123,7 @@
 		"assign": "160",
 		"jp_text": "Ｓ１：諸刃の撃",
 		"tr_text": "S1:Double-Edged Sword",
-		"jp_explain": "与ダメージが4％上昇し\n被ダメージも8％上昇。",
+		"jp_explain": "与ダメージが4％上昇し\n抜刀時のみ被ダメージが\n8％増える。",
 		"tr_explain": "Deal 4% more damage\nbut take 8% more damage."
 	},
 	{
@@ -1193,7 +1193,7 @@
 		"assign": "170",
 		"jp_text": "Ｓ４：鋼の決意",
 		"tr_text": "S4:Steel Resolve",
-		"jp_explain": "致命傷を受けても\n一度限りだが必ず\nＨＰが１残る。",
+		"jp_explain": "致命傷を受けても\n一度限りだが必ず\nＨＰが1残る。",
 		"tr_explain": "Survive one fatal hit\nwith 1 HP remaining."
 	},
 	{
@@ -1324,9 +1324,9 @@
 	},
 	{
 		"assign": "189",
-		"jp_text": "-",
+		"jp_text": "Ｓ１：瞬連の志",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "連続でジャストアタックに\n成功すると、最大３％まで\n与ダメージが上昇。",
 		"tr_explain": ""
 	},
 	{
@@ -1366,9 +1366,9 @@
 	},
 	{
 		"assign": "195",
-		"jp_text": "-",
+		"jp_text": "Ｓ１：滅域輝与",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "一定の範囲内で\nエネミーが死亡した時\nＰＰが回復する。",
 		"tr_explain": ""
 	},
 	{
@@ -1751,7 +1751,7 @@
 	},
 	{
 		"assign": "250",
-		"jp_text": "-",
+		"jp_text": "心血万全の剛力２",
 		"tr_text": "",
 		"jp_explain": "-",
 		"tr_explain": ""
@@ -2465,9 +2465,9 @@
 	},
 	{
 		"assign": "352",
-		"jp_text": "-",
+		"jp_text": "Ｓ２：時流の恵",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "4秒ごとに\nＰＰを10回復する。",
 		"tr_explain": ""
 	},
 	{
