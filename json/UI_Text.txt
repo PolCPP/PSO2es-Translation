@@ -19097,107 +19097,107 @@
 	{
 		"assign": "darkerblast_scene_title",
 		"jp_text": "ダークブラスト訓練",
-		"tr_text": ""
+		"tr_text": "Train Dark Blast"
 	},
 	{
 		"assign": "darkerblast_guid_0",
 		"jp_text": "<color=#f0df60>ダークブラストを選択してください。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Select a Dark Blast</color>"
 	},
 	{
 		"assign": "darkerblast_list_window_title",
 		"jp_text": "ダークブラスト一覧",
-		"tr_text": ""
+		"tr_text": "Dark Blast List"
 	},
 	{
 		"assign": "dakerblast_time",
 		"jp_text": "残り時間",
-		"tr_text": ""
+		"tr_text": "Cooldown"
 	},
 	{
 		"assign": "darkerblast_point",
 		"jp_text": "ダークブラストＥＸＰ：",
-		"tr_text": ""
+		"tr_text": "Dark Blast EXP:"
 	},
 	{
 		"assign": "darkerblast_guid_1",
 		"jp_text": "<color=#f0df60>合成するチップを選んでください。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Select a chip</color>"
 	},
 	{
 		"assign": "darkerblast_info_window_title",
 		"jp_text": "ダークブラスト情報",
-		"tr_text": ""
+		"tr_text": "Dark Blast Info"
 	},
 	{
 		"assign": "darkerblast_chip_window_title",
 		"jp_text": "チップ",
-		"tr_text": ""
+		"tr_text": "Chip"
 	},
 	{
 		"assign": "darkerblast_grind",
 		"jp_text": "合成する",
-		"tr_text": ""
+		"tr_text": "Grind"
 	},
 	{
 		"assign": "darkerblast_type_0",
 		"jp_text": "成功",
-		"tr_text": ""
+		"tr_text": "Success"
 	},
 	{
 		"assign": "darkerblast_type_1",
 		"jp_text": "<color=yellow>大成功！</color>",
-		"tr_text": ""
+		"tr_text": "<color=yellow>Great Success!</color>"
 	},
 	{
 		"assign": "darkerblast_type_2",
 		"jp_text": "<color=red>超成功！！</color>",
-		"tr_text": ""
+		"tr_text": "<color=red>Super Success!!</color>"
 	},
 	{
 		"assign": "darkerblast_get_point",
 		"jp_text": "獲得ダークブラストＥＸＰ / ",
-		"tr_text": ""
+		"tr_text": "Earned EXP /"
 	},
 	{
 		"assign": "darkerblast_total_point",
 		"jp_text": "合計ダークブラストＥＸＰ / ",
-		"tr_text": ""
+		"tr_text": "Total EXP /"
 	},
 	{
 		"assign": "darkerblast_ac_recovery",
 		"jp_text": "回復する<{0}<%AC>>",
-		"tr_text": ""
+		"tr_text": "Recover<{0}<%AC>>"
 	},
 	{
 		"assign": "darkerblast_grind_count",
 		"jp_text": "合成可能回数",
-		"tr_text": ""
+		"tr_text": "Can grind"
 	},
 	{
 		"assign": "darkerblast_grind_point",
 		"jp_text": "ＥＸＰ予想：",
-		"tr_text": ""
+		"tr_text": "Chance EXP:"
 	},
 	{
 		"assign": "darkerblast_pso2_menu_button",
 		"jp_text": "ダークブラスト訓練",
-		"tr_text": ""
+		"tr_text": "Train Dark Blast"
 	},
 	{
 		"assign": "darkerblast_no_info_title",
 		"jp_text": "ダークブラスト未習得",
-		"tr_text": ""
+		"tr_text": "Don't have a Dark Blast"
 	},
 	{
 		"assign": "darkerblast_no_info_body",
 		"jp_text": "『PSO2』でダークブラストを習得していないため\n利用できません。",
-		"tr_text": ""
+		"tr_text": "Cannot use this feature unless\nyou gain a Dark Blast in \"PSO2\""
 	},
 	{
 		"assign": "darkerblast_no_select_chip_title",
 		"jp_text": "チップ",
-		"tr_text": ""
+		"tr_text": "Chip"
 	},
 	{
 		"assign": "darkerblast_no_select_chip_body",
@@ -19207,7 +19207,7 @@
 	{
 		"assign": "darkerblast_grind_title",
 		"jp_text": "確認",
-		"tr_text": ""
+		"tr_text": "OK"
 	},
 	{
 		"assign": "darkerblast_grind_body",
@@ -19227,7 +19227,7 @@
 	{
 		"assign": "darkerblast_explimit_title",
 		"jp_text": "確認",
-		"tr_text": ""
+		"tr_text": "OK"
 	},
 	{
 		"assign": "darkerblast_explimit_body",
@@ -19257,7 +19257,7 @@
 	{
 		"assign": "darkerblast_exp_over_title",
 		"jp_text": "確認",
-		"tr_text": ""
+		"tr_text": "OK"
 	},
 	{
 		"assign": "darkerblast_exp_over_body",
@@ -19272,7 +19272,7 @@
 	{
 		"assign": "chip_details_ghost_top_title",
 		"jp_text": "ラッシュアーツ詳細",
-		"tr_text": ""
+		"tr_text": "Rush Arts Details"
 	},
 	{
 		"assign": "chip_details_ghost_explains",
@@ -19282,12 +19282,12 @@
 	{
 		"assign": "chip_details_ghost_explains_pa",
 		"jp_text": "必殺技",
-		"tr_text": ""
+		"tr_text": "Striking"
 	},
 	{
 		"assign": "chip_details_ghost_explains_te",
 		"jp_text": "法術",
-		"tr_text": ""
+		"tr_text": "Tech"
 	},
 	{
 		"assign": "chip_details_ghost_conditions",
