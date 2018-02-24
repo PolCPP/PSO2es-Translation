@@ -1426,5 +1426,803 @@
 		"tr_explainShort": "",
 		"jp_explainLong": "光属性 の上限値が 15 上昇する。",
 		"tr_explainLong": ""
+	},
+	{
+		"assign": "31013",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 5％\\nCP を 5％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31014",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 5％\\nCP を 5％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "30039",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 5％\\nCP を 5％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "30040",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 5％\\nCP を 5％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31033",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 5％\\nCP を 5％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31034",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 5％\\nCP を 5％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "30089",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 5％\\nCP を 5％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "30090",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 5％\\nCP を 5％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "30017",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 5％\\nCP を 5％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "30018",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 5％\\nCP を 5％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "30061",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 5％\\nCP を 5％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "30062",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 5％\\nCP を 5％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31157",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 炎属性 を 15％\\nCP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31158",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 炎属性 を 15％\\nCP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31177",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 氷属性 を 15％\\nCP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31178",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 氷属性 を 15％\\nCP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31227",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 雷属性 を 15％\\nCP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31228",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 雷属性 を 15％\\nCP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31213",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 風属性 を 15％\\nCP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31214",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 風属性 を 15％\\nCP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31125",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 光属性 を 15％\\nCP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31126",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 光属性 を 15％\\nCP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31211",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 闇属性 を 15％\\nCP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31212",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 闇属性 を 15％\\nCP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31355",
+		"jp_explainShort": "属性ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "光属性 が弱点の敵に対し\\nその属性によるダメージを 4％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31356",
+		"jp_explainShort": "属性ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "光属性 が弱点の敵に対し\\nその属性によるダメージを 4％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31133",
+		"jp_explainShort": "属性ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "闇属性 が弱点の敵に対し\\nその属性によるダメージを 4％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31134",
+		"jp_explainShort": "属性ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "闇属性 が弱点の敵に対し\\nその属性によるダメージを 4％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31361",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 15％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31362",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 15％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31215",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 15％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31216",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 15％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31081",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 15％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31082",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 15％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31161",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 15％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31162",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 15％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31155",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 15％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31156",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 15％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31123",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 炎属性 を 5％\\nHP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31124",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 炎属性 を 5％\\nHP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31367",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 氷属性 を 5％\\nHP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31368",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 氷属性 を 5％\\nHP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31221",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 雷属性 を 5％\\nHP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31222",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 雷属性 を 5％\\nHP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31131",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 風属性 を 5％\\nHP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31132",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 風属性 を 5％\\nHP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31181",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 光属性 を 5％\\nHP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31182",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 光属性 を 5％\\nHP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31261",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 闇属性 を 5％\\nHP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31262",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 闇属性 を 5％\\nHP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31626",
+		"jp_explainShort": "属性ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "風属性 が弱点の敵に対し\\nその属性によるダメージを 2％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31627",
+		"jp_explainShort": "属性ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "風属性 が弱点の敵に対し\\nその属性によるダメージを 2％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31628",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 雷属性 を 20％\\nHP を 5％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31629",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 雷属性 を 20％\\nHP を 5％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31636",
+		"jp_explainShort": "属性ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "雷属性 が弱点の敵に対し\\nその属性によるダメージを 2％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31637",
+		"jp_explainShort": "属性ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "雷属性 が弱点の敵に対し\\nその属性によるダメージを 2％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31638",
+		"jp_explainShort": "特定操作時ＣＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "スライド操作時 に\\nＣＰが 5 回復する。(発動確率： 小 )",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31639",
+		"jp_explainShort": "特定操作時ＣＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "スライド操作時 に\\nＣＰが 5 回復する。(発動確率： 小 )",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31640",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 5％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31641",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 5％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31642",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 10％\\nCP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31643",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 10％\\nCP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31644",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 10％\\nCP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31645",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 10％\\nCP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31646",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 10％\\nCP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31647",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 10％\\nCP を 10％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31417",
+		"jp_explainShort": "属性値上限アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "光属性 の上限値が 10 上昇する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31418",
+		"jp_explainShort": "属性値上限アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "光属性 の上限値が 10 上昇する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31648",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの CP を 20％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31649",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの CP を 20％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "50110",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "50120",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "50310",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "50320",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "50410",
+		"jp_explainShort": "追加ダメージ付与",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術がヒットした時に\\n追加で 1％ のダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "50420",
+		"jp_explainShort": "追加ダメージ付与",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術がヒットした時に\\n追加で 1％ のダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "50510",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "50520",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "50610",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "50620",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "50710",
+		"jp_explainShort": "追加ダメージ付与",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術がヒットした時に\\n追加で 1％ のダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "50720",
+		"jp_explainShort": "追加ダメージ付与",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術がヒットした時に\\n追加で 1％ のダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "50810",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "50820",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "50910",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "50920",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "51110",
+		"jp_explainShort": "追加ダメージ付与",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術がヒットした時に\\n追加で 1％ のダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "51120",
+		"jp_explainShort": "追加ダメージ付与",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術がヒットした時に\\n追加で 1％ のダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "51210",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "51220",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "51310",
+		"jp_explainShort": "追加ダメージ付与",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術がヒットした時に\\n追加で 1％ のダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "51320",
+		"jp_explainShort": "追加ダメージ付与",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術がヒットした時に\\n追加で 1％ のダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "51410",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "51420",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "52310",
+		"jp_explainShort": "追加ダメージ付与",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術がヒットした時に\\n追加で 1％ のダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "52320",
+		"jp_explainShort": "追加ダメージ付与",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術がヒットした時に\\n追加で 1％ のダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "52410",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "52420",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "70110",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "70120",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "70510",
+		"jp_explainShort": "追加ダメージ付与",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術がヒットした時に\\n追加で 1％ のダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "70520",
+		"jp_explainShort": "追加ダメージ付与",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術がヒットした時に\\n追加で 1％ のダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "70610",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "70620",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "71010",
+		"jp_explainShort": "追加ダメージ付与",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術がヒットした時に\\n追加で 1％ のダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "71020",
+		"jp_explainShort": "追加ダメージ付与",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術がヒットした時に\\n追加で 1％ のダメージを与える。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "71110",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "71120",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "71610",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "71620",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "72110",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "72120",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "72610",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "72620",
+		"jp_explainShort": "ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備した必殺技・法術のダメージ量を 1％ 増加する。",
+		"tr_explainLong": ""
 	}
 ]
