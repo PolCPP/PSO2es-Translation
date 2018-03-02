@@ -13697,12 +13697,12 @@
 	{
 		"assign": "sns_post_message",
 		"jp_text": "【今日のお題：<%question>】\n<%inputText>\nhttps://pso2.jp/es/",
-		"tr_text": "I am trash, give me free FUN."
+		"tr_text": "\"Today's Topic: <%question>\"\n<%inputText>\nhttps://pso2.jp/es/"
 	},
 	{
 		"assign": "sns_post_hashtag",
 		"jp_text": "#PSO2esお題",
-		"tr_text": "#PSO2"
+		"tr_text": "#PSO2es"
 	},
 	{
 		"assign": "sns_post_b",
