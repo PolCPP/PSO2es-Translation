@@ -13696,8 +13696,8 @@
 	},
 	{
 		"assign": "sns_post_message",
-		"jp_text": "【今日のお題：<%question>】\n<%inputText>\nhttps://pso2.jp/es/",
-		"tr_text": "\"Today's Topic: <%question>\"\n<%inputText>\nhttps://pso2.jp/es/"
+		"jp_text": "【今日のお題：<%question>】\n<%inputText>\nhttp://pso2.jp/es/",
+		"tr_text": "\"Today's Topic: <%question>\"\n<%inputText>\nhttp://pso2.jp/es/"
 	},
 	{
 		"assign": "sns_post_hashtag",
