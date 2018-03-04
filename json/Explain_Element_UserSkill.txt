@@ -921,7 +921,7 @@
 		"jp_text": "Ｓ２：剛乱活与",
 		"tr_text": "S2:Sturdy Recovery",
 		"jp_explain": "一定確率で与ダメージの\n1％をＨＰとして吸収。\n（上限300）",
-		"tr_explain": "Restores HP equal to\n1% of damage dealt.\n(Max: 300)"
+		"tr_explain": "Gives a fixed chance of\nrestoring HP equal to 1%\nof damage dealt. (Max: 300)"
 	},
 	{
 		"assign": "132",
@@ -1187,7 +1187,7 @@
 		"jp_text": "Ｓ４：瞬護輝与",
 		"tr_text": "S4:Marvelous Aegis",
 		"jp_explain": "ジャストガード成功時\nＰＰを回復する。",
-		"tr_explain": ""
+		"tr_explain": "Restores PP on a\nsuccessful Just Guard."
 	},
 	{
 		"assign": "170",
@@ -1201,7 +1201,7 @@
 		"jp_text": "Ｓ４：輝器応変",
 		"tr_text": "S4:Radiant Response",
 		"jp_explain": "最大ＰＰに応じて\nＰＰ効率が向上する。",
-		"tr_explain": ""
+		"tr_explain": "Raises PP efficiency\nbased on maximum PP."
 	},
 	{
 		"assign": "172",
@@ -1215,14 +1215,14 @@
 		"jp_text": "Ｓ４：鎌風重吹",
 		"tr_text": "S4:Scything Wind",
 		"jp_explain": "カマイタチの持続時間が\n4秒延長される。",
-		"tr_explain": ""
+		"tr_explain": "Extends Kamaitachi\nduration by 4 seconds."
 	},
 	{
 		"assign": "174",
 		"jp_text": "Ｓ４：賢勇両撃",
 		"tr_text": "S4:Cunning Strike",
 		"jp_explain": "ワイズスタンス中\n正面からの与ダメージが\n15％上昇。",
-		"tr_explain": ""
+		"tr_explain": "During Wise Stance, boosts\nfrontal damage by 15%."
 	},
 	{
 		"assign": "175",
@@ -1250,7 +1250,7 @@
 		"jp_text": "Ｓ４：鎖動強身",
 		"tr_text": "S4:Dynamic Chain",
 		"jp_explain": "チェイントリガー発動時\n5秒間、無敵になる。",
-		"tr_explain": ""
+		"tr_explain": "Become invincible for 5\nseconds when activating\nChain Trigger."
 	},
 	{
 		"assign": "179",
@@ -1264,21 +1264,21 @@
 		"jp_text": "Ｓ４：回路輪転",
 		"tr_text": "S4:Circuit Rotation",
 		"jp_explain": "フォトンフレアの\nリキャスト時間を\n20％軽減する。",
-		"tr_explain": ""
+		"tr_explain": "Reduces recast time of\nPhoton Flare by 20%."
 	},
 	{
 		"assign": "181",
 		"jp_text": "Ｓ４：短杖強打",
 		"tr_text": "S4:Swift Strike",
 		"jp_explain": "ウォンドの通常攻撃\n性能が強化される。",
-		"tr_explain": ""
+		"tr_explain": "Enhances Wand's\nnormal attacks."
 	},
 	{
 		"assign": "182",
 		"jp_text": "Ｓ４：刃機放縮",
 		"tr_text": "S4:Gear Reduction",
 		"jp_explain": "カタナギア解放中\nギアゲージの減少速度が\n低下する。",
-		"tr_explain": ""
+		"tr_explain": "Decreases rate that Gear\ngauge empties while Katana\nGear is active."
 	},
 	{
 		"assign": "183",
@@ -1292,14 +1292,14 @@
 		"jp_text": "Ｓ４：支援限長",
 		"tr_text": "S4:Support Extension",
 		"jp_explain": "シフタ、デバンドの\n効果時間上限を\n120秒に延長する。",
-		"tr_explain": ""
+		"tr_explain": "Extends the effect of\nShifta and Deband to\nlast 120 seconds."
 	},
 	{
 		"assign": "185",
 		"jp_text": "Ｓ４：変素応輪",
 		"tr_text": "S4:Genesis Ring",
 		"jp_explain": "装備している\nガード系リングに応じて\n武器属性が変化する。",
-		"tr_explain": ""
+		"tr_explain": "Changes the weapon's element\nto match an equipped\nGuard ring."
 	},
 	{
 		"assign": "186",
@@ -1325,9 +1325,9 @@
 	{
 		"assign": "189",
 		"jp_text": "Ｓ１：瞬連の志",
-		"tr_text": "",
+		"tr_text": "S1:Immediate Intent",
 		"jp_explain": "連続でジャストアタックに\n成功すると、最大３％まで\n与ダメージが上昇。",
-		"tr_explain": ""
+		"tr_explain": "Continuous Just Attacks give\na damage bonus up to\n3%."
 	},
 	{
 		"assign": "190",
@@ -1367,9 +1367,9 @@
 	{
 		"assign": "195",
 		"jp_text": "Ｓ１：滅域輝与",
-		"tr_text": "",
+		"tr_text": "S1:Brilliant Ruin",
 		"jp_explain": "一定の範囲内で\nエネミーが死亡した時\nＰＰが回復する。",
-		"tr_explain": ""
+		"tr_explain": "When an enemy is defeated within\na certain range, recover PP."
 	},
 	{
 		"assign": "196",
@@ -2466,9 +2466,9 @@
 	{
 		"assign": "352",
 		"jp_text": "Ｓ２：時流の恵",
-		"tr_text": "",
+		"tr_text": "S2:Flowing Grace",
 		"jp_explain": "4秒ごとに\nＰＰを10回復する。",
-		"tr_explain": ""
+		"tr_explain": "Every 4 seconds\nrecover 10 PP."
 	},
 	{
 		"assign": "353",
