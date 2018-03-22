@@ -2732,9 +2732,9 @@
 	{
 		"assign": "3230396",
 		"jp_text": "382「杖を構える」",
-		"tr_text": "382 \"Hold Cane\"",
+		"tr_text": "",
 		"jp_explain": "ロビアク『杖を構える』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Unlocks the new lobby action\n\"Hold Cane\"."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3230397",
@@ -2746,16 +2746,16 @@
 	{
 		"assign": "3230398",
 		"jp_text": "384「武器強化魔法」",
-		"tr_text": "384 \"Magical Weapon\"",
+		"tr_text": "384 \"Weapon Enchantment\"",
 		"jp_explain": "ロビアク『武器強化魔法』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
-		"tr_explain": "Unlocks the new lobby action\n\"Magical Weapon\".\nReaction has extra actions."
+		"tr_explain": "Unlocks the new lobby action\n\"Weapon Enchantment\"."
 	},
 	{
 		"assign": "3230399",
 		"jp_text": "385「バクダン」",
-		"tr_text": "385 \"Bakudan\"",
+		"tr_text": "385 \"Bomb\"",
 		"jp_explain": "ロビアク『バクダン』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Unlocks the new lobby action\n\"Bakudan\"."
+		"tr_explain": "Unlocks the new lobby action\n\"Bomb\"."
 	},
 	{
 		"assign": "3230400",
@@ -2784,5 +2784,40 @@
 		"tr_text": "389 \"NOVA Pose 2\"",
 		"jp_explain": "ロビアク『ＮＯＶＡポーズ２』\nを全キャラクターで使用可能になる。",
 		"tr_explain": "Unlocks the new lobby action\n\"NOVA Pose 1\"."
+	},
+	{
+		"assign": "3230404",
+		"jp_text": "390「ダンス５１」",
+		"tr_text": "390 \"Dance 51\"",
+		"jp_explain": "ロビアク『ダンス５１』\nを全キャラクターで使用可能になる。",
+		"tr_explain": "Unlocks the new lobby action\n\"Dance 51\"."
+	},
+	{
+		"assign": "3230405",
+		"jp_text": "391「ラッパー」",
+		"tr_text": "391 \"Rapper\"",
+		"jp_explain": "ロビアク『ラッパー』\nを全キャラクターで使用可能になる。",
+		"tr_explain": "Unlocks the new lobby action\n\"Rapper\"."
+	},
+	{
+		"assign": "3230406",
+		"jp_text": "392「ＰＲポーズ２」",
+		"tr_text": "392 \"PR Pose 2\"",
+		"jp_explain": "ロビアク『ＰＲポーズ２』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": "Unlocks the new lobby action\n\"PR Pose 2\"."
+	},
+	{
+		"assign": "3230407",
+		"jp_text": "393「Ｖｏパフォーマンス５」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『Ｖｏパフォーマンス５』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230408",
+		"jp_text": "394「ＶＲカードゲーム」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『ＶＲカードゲーム』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
 	}
 ]
