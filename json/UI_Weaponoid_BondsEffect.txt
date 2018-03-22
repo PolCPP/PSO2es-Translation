@@ -72,7 +72,7 @@
 	{
 		"assign": "25",
 		"jp_text": "消費ＣＰダウン",
-		"tr_text": ""
+		"tr_text": "CP Usage Down"
 	},
 	{
 		"assign": "31",
@@ -197,7 +197,7 @@
 	{
 		"assign": "43",
 		"jp_text": "消費ＣＰダウン",
-		"tr_text": ""
+		"tr_text": "CP Usage Down"
 	},
 	{
 		"assign": "55",
@@ -527,7 +527,7 @@
 	{
 		"assign": "80009",
 		"jp_text": "消費ＣＰダウン",
-		"tr_text": ""
+		"tr_text": "CP Usage Down"
 	},
 	{
 		"assign": "95",
@@ -578,5 +578,60 @@
 		"assign": "90005",
 		"jp_text": "効果時間延長",
 		"tr_text": "Effect Extended"
+	},
+    {
+		"assign": "79",
+		"jp_text": "効果時間延長",
+		"tr_text": "Effect Extended"
+	},
+	{
+		"assign": "106",
+		"jp_text": "ボーナス属性",
+		"tr_text": "Bonus Attr."
+	},
+	{
+		"assign": "116",
+		"jp_text": "発動率アップ",
+		"tr_text": ""
+	},
+	{
+		"assign": "94",
+		"jp_text": "効果発動変更",
+		"tr_text": ""
+	},
+	{
+		"assign": "110",
+		"jp_text": "パラメータアップ",
+		"tr_text": "Parameters Up"
+	},
+	{
+		"assign": "111",
+		"jp_text": "ボーナス属性",
+		"tr_text": "Bonus Attr."
+	},
+	{
+		"assign": "118",
+		"jp_text": "効果時間延長",
+		"tr_text": "Effect Extended"
+	},
+	{
+		"assign": "90004",
+		"jp_text": "効果時間延長",
+		"tr_text": "Effect Extended"
+	},
+	{
+		"assign": "80002",
+		"jp_text": "パラメータアップ",
+		"tr_text": "Parameters Up"
+	},
+	{
+		"assign": "80003",
+		"jp_text": "消費ＣＰダウン",
+		"tr_text": "CP Usage Down"
+	},
+	{
+		"assign": "134",
+		"jp_text": "効果発動変更",
+		"tr_text": ""
 	}
 ]
