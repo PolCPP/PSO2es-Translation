@@ -31842,8 +31842,8 @@
 	{
 		"eventNo": "14",
 		"jp_name": "華散王",
-		"tr_name": "Kazanou",
-		"jp_text": "アークスシップ市民とオラクルは否応なく一蓮托生……<%br>その在り様に息苦しさを感じる者もおろう。",
+		"tr_name": "",
+		"jp_text": "アークスシップの市民とオラクルは一蓮托生……<%br>その在り様に息苦しさを感じる者もおろう。",
 		"tr_text": "",
 		"fileID": 31
 	},
@@ -59402,8 +59402,8 @@
 	{
 		"eventNo": "0",
 		"jp_name": "アネット",
-		"tr_name": "Annette",
-		"jp_text": "……モア、貴方ずいぶんフラフラしているじゃない。",
+		"tr_name": "",
+		"jp_text": "……モア。<%br>貴方ずいぶんフラフラしているじゃない。",
 		"tr_text": "",
 		"fileID": 55
 	},
@@ -81546,8 +81546,8 @@
 	{
 		"eventNo": "2",
 		"jp_name": "ルーライラ",
-		"tr_name": "Rulyra",
-		"jp_text": "……モアくん。「キラッ！」って言ってみてください。<%br>ポーズ付きで。",
+		"tr_name": "",
+		"jp_text": "……モアくん。ポーズ付きで<%br>「キラッ！」って言ってみてください。",
 		"tr_text": "",
 		"fileID": 73
 	},
@@ -86882,8 +86882,8 @@
 	{
 		"eventNo": "6",
 		"jp_name": "モア",
-		"tr_name": "More",
-		"jp_text": "おい、お前！<%br>デュナになんの用だ？",
+		"tr_name": "",
+		"jp_text": "おい、お前！<%br>デュナになんの用だ！！",
 		"tr_text": "",
 		"fileID": 77
 	},
@@ -87594,8 +87594,8 @@
 	{
 		"eventNo": "8",
 		"jp_name": "リンドブルム",
-		"tr_name": "Lindwurm",
-		"jp_text": "で、デュナ……",
+		"tr_name": "",
+		"jp_text": "でゅ、デュナ……",
 		"tr_text": "",
 		"fileID": 77
 	},
@@ -121801,6 +121801,1878 @@
 	},
 	{
 		"eventNo": "0",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "へへへ……<%br>今回の任務は、楽勝だったなっ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "……ん？<%br>あれ、なんだ……？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "わああっ！<%br>あ、あそこっ！　人の足だってば！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "誰か倒れているわ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "だ、大丈夫ですか！？<%br>ケガ、してるんですかっ！？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "う、うぅ……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "ひ……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "……「ひ」です？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "ひも……じい……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "お、お腹、すいてるんです？<%br>……えっと、お菓子でよければ食べます？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "むぐむぐ……いやはや、かたじけない。<%br>こんな別嬪さんたちに命を救ってもらえて……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "べ……べっぴんさんです！？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "い、いえ……わ、わたし達はアークスですし<%br>当たり前のことです。ですよね、リーダー！？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "い、いえ……わ、わたし達はアークスですし<%br>当たり前のことです。ですよね、リーダー！？",
+		"tr_text": "",
+		"jp_buttons": [
+			"どうして倒れていたの？",
+			"人助けは当然だよ。気にしないで。"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 106
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "い、いや……このあたり<%br>食えるものが、なにも無くてな……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "かっはっはっ！　人助けは当然……か。<%br>とんだお人好しに助けられちまったようだな！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "それで……貴方は誰？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "フッ……名乗るほどのモンじゃねぇよ……<%br>ただの渡り鳥でさあ。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "星から星へと渡り歩いてるうちに<%br>食べ物が尽きちまったのが運の尽き……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "そこを助けてくれたあんたらにゃ<%br>一飯の恩義が出来ちまったなぁ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "ここはひとつ恩返しに、ついてってやるよ。<%br>なぁに、きっと役に立つぜ？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "えぇーと……要するに、旅人さんだよねぇ？<%br>恩返しなんて大げさなのはいいけどさぁー。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "名乗れないようなヒトとは<%br>あんまり一緒にいたくないんだけどねぇー？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "あー、えーっと……<%br>それはだなぁ……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "みなさん！<%br>ファングバンサーがそちらに突進しています！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ファングバンサーが！？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "おおっと、話は後だな！<%br>あんたら、油断すんなよ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "か、顔つきが変わったってば！<%br>もしかして、めちゃくちゃ強いのか！？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "さぁ、どこからでもかかってきなぁ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "かっはっはっ！<%br>危機一髪ってとこだったな！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "はぁ……はぁ……か、カッコつけてたくせに……<%br>おっさん、すこしも戦ってなかったってばっ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "いやぁ、あんたら強いなぁー。<%br>俺なんざ、いざとなったらブルッちまってよ。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……はぁ。<%br>威勢が良いのは、口だけってことね。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "その声は……「ウィンドミル」さんですね！？<%br>また勝手に出かけてたんですか！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "おっと……バレちまったか……<%br>セラフィさん！　後生だから見逃してくれ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "もうっ……<%br>そこで一体、何をしてるんですかっ！！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ウィンドミルって……おっさん……<%br>ウェポノイドだったのかよっ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "かっはっはっ！　まぁ、そういうことだな！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "笑ってる場合じゃありません！<%br>いつも、好き勝手に行動して……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "毎回、ごまかすのも大変なんですよ？<%br>わかってるんですか、ウィンドミルさん！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "まぁまぁ、ダーカーの生態に関する<%br>耳寄りの情報を持って帰るからさ。それと……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "この前欲しがってた、遺跡アメジストのピアス<%br>作っといてやったぜ？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "え！？　ほ……本当ですか！<%br>って……コホン、情報に免じて今回は大目に……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ぷっ……なるほど。いっつもこうやって<%br>大目に見てもらってるってわけねぇー。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "それで……セラフィさん。<%br>何か私たちに指令があるんじゃ……？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "あっ……そ、そうでした！<%br>実は……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "惑星ウォパルのダーカー反応に乱れがあるので<%br>引き続き調査をお願いしたいんです。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "ウォパル……ウォパルと言ったら、海かぁ……<%br>海も風情があるよなぁ……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "お、おっさんも、来る気だってば！？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "まだ、一飯の恩を返してねぇし……<%br>リーダー、俺も連れてっちゃもらえねぇか？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "まだ、一飯の恩を返してねぇし……<%br>リーダー、俺も連れてっちゃもらえねぇか？",
+		"tr_text": "",
+		"jp_buttons": [
+			"構わないけど……",
+			"自分では許可は出せない。"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 106
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "そうでなくっちゃ！<%br>な、セラフィさん……いいだろ？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "そんな殺生な……セラフィさんからも<%br>お願いしちゃあくれねぇか？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "はぁ……どうせ止めても無駄ですし<%br>みなさんが構わなければ、彼をお願いします。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "よーし、よしよし！　旅は道連れ。<%br>次はぶらっと、ウォパルまで足を伸ばすかー。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "……こ、こんなダメなおっさんを<%br>連れてっても、だいじょーぶなんだってば？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "かーっ！<%br>この吹き渡る海風……たまらねえなぁ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "お、おい……ばしゃばしゃやるなってば！<%br>水がかかるだろっ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "かっはっはっ！<%br>冷たくて、気持ちいいじゃねぇか！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "これが塩水じゃなかったら、ひと泳ぎして<%br>旅の垢を落としてぇとこだよなあ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ふ、風呂代わりかっ！？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "おうよ！<%br>ついでにフンドシもキレイになるしな！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "お風呂……入ってないんです？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "入ってるぜ？<%br>１０日くらい前にも、ちゃーんと入ったしな！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "それは……<%br>さすがに問題があると思うわ……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "なぁに、１ヶ月くらい風呂に入らなくたって<%br>死なねぇって！　なぁ、リーダー！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "なぁに、１ヶ月くらい風呂に入らなくたって<%br>死なねぇって！　なぁ、リーダー！",
+		"tr_text": "",
+		"jp_buttons": [
+			"男のひとり旅って感じでかっこいい。",
+			"さすがに風呂に入れ！！"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 106
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "さっすがリーダー！<%br>わかってるじゃねぇか！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "それは……少し考え直した方が<%br>いいと思うわ、リーダー。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "そ、そうか！？<%br>あんたならわかってくれると思ったんだが……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "い、いや……<%br>リーダーの言うとおりだってば……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "なんていうか……ウィンドミルさんは<%br>とっても自由な方……なんですね……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "ああ！　どんなモンにも縛られねぇ。<%br>それが旅の醍醐味ってヤツさ！　かっはっはっ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "任務より旅が大事って<%br>ウィンドミルって変わってるってば……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "まぁ、特殊任務に就いてるわけでも<%br>正式な許可を取ってるわけでもないのに……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "これだけ好きに動き回ってるウェポノイドって<%br>そうそういないよねぇー。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "もしかして……このおっさん<%br>すっごく弱くて任務もできないとかじゃないか？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……あり得るわね。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "けどまぁ、道連れのいる旅も<%br>たまにゃあ、オツなモンだなぁ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "……！<%br>ウィンドミルさん！　後ろっ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "お？　おおおおっ！？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "オルグブラン！？<%br>リーダー、行くわよ！！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ふぅ……まぁ、誰もケガしてないみたいで<%br>よかったよかった。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "……ったく、ダーカーのヤツは<%br>旅の情緒っつーモンを、わかってねぇよなぁ。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "言っておくけど……<%br>これは遊びじゃなくて、任務なのよ。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "そうだぞ！　お前、逃げ回ってばっかで<%br>ぜんぜん、戦ってなかったじゃんか！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "かっはっはっ！　<%br>俺は、売られたケンカは買わねぇ主義でな。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……買わないんじゃなくて<%br>戦いたくないだけじゃないの？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "まぁ、おっさんがいなくても<%br>オレたちだけでも、たおせたけどな！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "確かにまぁ、そうなんだけど……<%br>あんた、もしかしてさぁ……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "かっはっはっ！<%br>リーダーは強いし、チームの息も合ってる！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "本当に、いいチームと巡り会えたモンだなぁ。<%br>行き倒れて、よかったよかった！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "ま、無粋なヤツらも、これでしばらくは<%br>近づいてこねぇだろうさ。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "確かに、ダーカー反応は落ち着いたようね。<%br>貴方……わかっていたの？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "かっはっはっ！　エネミーもいなくなったし<%br>フンドシ一丁で、ひと泳ぎしてくるかぁ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "う、ウィンドミルさんっ！<%br>ダメです、脱がないでくださいっ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "み、みなさん、すみませんっ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "あれ、セラフィさん。<%br>そんなに慌てて、どーかしたの？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "惑星アムドゥスキアで、ダーカー反応が<%br>急激に活発になっているんです！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "すみませんが<%br>そのまま直行してもらえますか？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "えぇー、またかぁー。<%br>まー、仕方ないけどねぇー。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "おお、次の旅はアムドゥスキアか！！<%br>くーっ、いいねぇ！　",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "おっさん……<%br>まだ、ついてくる気だってば……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "かーっ！　やっぱり、龍祭壇はいいねぇ！<%br>この神聖な雰囲気が、なんともいえねぇや。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "どうやら、ダーカー反応が活発なのは<%br>このエリアが中心のようね。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "この星のあちこちで<%br>侵食された龍族が暴走してたけど……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "この辺りは、一段と嫌な感じがするねぇ……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "なぁ、ここらでちょいと、ひと休みと行こうぜ。<%br>疲れてちゃ、出せる本気も出せねぇってな！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "本気って……<%br>お前……一回もちゃんと戦ってないじゃんか！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "まーまー。このヒトはオマケってことで<%br>いーんじゃないの？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "け、けどさぁっ……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "……なあ坊主。オマケ相手にカッカしてちゃ<%br>せっかくの男前が台無しってヤツだぜ？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "もっと気楽にいこうや。<%br>ほら、笑え、笑え！　かっはっはっ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "……う、ウィンドミルは、なんでそんなに<%br>テキトーなんだってば！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "お前は、遊び気分だから<%br>楽しいかもしれないけどさ……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "オレたち、必死でがんばってるんだぞっ！<%br>おっさんも、もっと真面目にやれってば！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "…………",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "きゅ、急に怖い顔してどうしたんだってば……<%br>怒ったのか？　だ、だけどっ……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "坊主……静かにしろ。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "え……ま、まさか、その杖で……オレを！？<%br>う、うわぁぁぁぁっ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "―ドスッ！―",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ウォルガーダが隠れていたの！？<%br>ウィンドミルが気づいていなかったら……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "お、おっさん……<%br>オレを助けてくれたのか……？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "ヤツが怯んでる……今のうちだ！<%br>みんな、後ろに下がれっ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "す……すごい反応です！<%br>みんな！　気を付けて！！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "……風向きが変わったようだな。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "どうやら、こいつが異常の元凶のようね！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "こりゃあ、一筋縄じゃいかねぇな。<%br>……来るぞ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "せいっ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "―ズゥゥ……ン―",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "や、やっつけた……！<%br>おっさん、めちゃくちゃ強いってば！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ずーっと気になってたんだけどさぁ。<%br>やーっぱり、タダ者じゃなかったんだねぇー。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "……な、リーダーも気付いてたんじゃない？<%br>このヒトの実力。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "……な、リーダーも気付いてたんじゃない？<%br>このヒトの実力。",
+		"tr_text": "",
+		"jp_buttons": [
+			"これまでも助けてくれてた？",
+			"ここまで強いとは思わなかった。"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 106
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "……さぁな。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "……大したモンじゃねぇよ。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "貴方……実力を、隠していたのね。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "その……ウィンドミル……<%br>助けてくれて、ありがとうなっ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "あー！　もう、やめだやめだ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "わわっ！<%br>ど、どうしたんだっ？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "助けたの、助けられたの……んな無粋なモン<%br>旅を楽しむにゃ、邪魔なだけだぜ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "え……どういうことです？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "俺はな、風の向くまま、気の向くまま……<%br>旅をするのが好きなんだよ。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "そこに、余計な感情も詮索もいらねぇ。<%br>……俺が欲しいのは旅の思い出だけだ。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "旅の、思い出……？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "珍しいモンも沢山見つけられるし……<%br>旅の思い出を肴に酒を飲む。それがいいんだ。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "あー、まぁ……<%br>それは、わからなくもないよねぇ……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "例えば……これを見な。<%br>どこにでも転がってそうな鉱石だけどよ……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "これは、とあるアークスとのふたり旅の最中<%br>俺たちのピンチを救ってくれた鉱石なんだ。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "-88",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "あと……こっちの木の実は、旅先で知り合った<%br>ウェポノイドにもらったヤツなんだが……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "かっはっはっ！<%br>あの時の事、思い出すと今でも笑っちまうぜ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ううっ、その鉱石と木の実に何があったのか<%br>めちゃくちゃ気になるってば！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "ものだけじゃねぇよ。<%br>旅の記憶すべてが、俺の宝モンなんだ。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "うまく説明できねぇけど<%br>それが、旅のロマンっつーか……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "俺にとっては<%br>三度の飯より大事なことなのさ。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "思い出が宝物って……<%br>オレも、ちょっと分かる気がするってば。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "リーダーたちとの思い出がふえるのって<%br>なんか、すっごくうれしいしなっ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ふふっ、そうですね！<%br>今まで、いろんなことがありましたから……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "旅のロマン……わたし、リリーパ族さんに会いに<%br>惑星リリーパに行きたくなりました……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "いいじゃねぇか、惑星リリーパ！<%br>旅は気まぐれ！　いっちょ行ってみっか！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "えへへっ。<%br>任務以外で来ると、なんだか新鮮ですねっ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "この寄り道……<%br>ジェネの希望が許可されて、よかったわね。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "今回は、さすがに任務続きだったもんねぇー。<%br>セラフィさん、埋め合わせのつもりじゃない？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "任務じゃないって思うと<%br>なんかのんびりした気分になるってば！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "かっはっはっ！<%br>これが旅の醍醐味ってヤツさね！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "しっかし嬢ちゃん……なんでまた<%br>リリーパの砂漠に寄りたかったんだ？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "わたし、リリーパ族さんと<%br>もっと仲良しになりたいんです。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "なるほどねぇ……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "あっ、あそこ！　リリーパ族がいるぞ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "リリーパ族",
+		"tr_name": "",
+		"jp_text": "りー、りりー……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "か、かわいいです！　……でも、どうすれば<%br>もっと仲良くなれるんでしょうか？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "ちょいと、そこで待ってな。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "えっ？　ウィンドミルさん！？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "……りー、りりー。<%br>りりりー！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "リリーパ族",
+		"tr_name": "",
+		"jp_text": "りりりー！　りりりー！！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "リリーパ族の言葉……？<%br>すごいわね……ちゃんと通じてるみたい。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "……嬢ちゃん。ちょいと話をつけてやったぜ。<%br>あんたらは友達だってな。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "リリーパ族",
+		"tr_name": "",
+		"jp_text": "り……りりー！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "り、リリーパ族さん達が……<%br>こっちに集まってきましたっ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "リリーパ族",
+		"tr_name": "",
+		"jp_text": "りりー！　りー！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "えっ……さ、触ってもいいんですか？<%br>ふわぁぁっ……もふもふです！　すごいです！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "へへっ！<%br>ジェネのヤツ、幸せそうだなっ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "だねぇ……これは、一生忘れられない<%br>思い出になったんじゃない？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "かっはっはっ！<%br>やっぱり、旅はこうでないとな！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "……ウィンドミルはさぁー<%br>なんでアークスのチームで働かないわけ？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "あんたの腕なら、引く手あまただろうにさー。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "自由でいたいからに、決まってんだろ。<%br>……向いてねぇんだよ。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "組織とか褒賞とか……<%br>そういう堅苦しいヤツは、どうもなぁ……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……それで今まで<%br>積極的に実力を見せなかったのね。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "貴方ほどの腕前なら<%br>多くの人を救えるのに……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "そーいうのは、あんたらみてぇな<%br>がっちりしたチームが、やってるだろ。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "俺は……行く先々で、助けが必要な人に<%br>ちょいと手を貸せりゃ、それで十分さね。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ま、それで自分が行き倒れてちゃ<%br>世話ないけどねぇー。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "33",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "かっはっはっ！<%br>それもまた、醍醐味ってヤツだぁね！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "34",
+		"jp_name": "リリーパ族",
+		"tr_name": "",
+		"jp_text": "りー！　りりー！！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "35",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "み、みなさんっ！<%br>ブリュー・リンガーダですっ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "36",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "ようし、いっちょ行くとするか！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "かっはっはっ、さすがリーダーだな。<%br>俺の出る幕はなかったか。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "そんなことないってば！<%br>ウィンドミルがいたから、戦いやすかったぞ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "はいっ、わたしも安心して戦えました。<%br>ウィンドミルさんがいてくれて良かったです！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "……そうか？<%br>だったら、これで、一飯の恩は返せたかな。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "……そんじゃあ<%br>俺ぁ、そろそろひとり旅に戻らせてもらうかな。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "えっ！<%br>もう、行っちゃうんですか……！？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "かっはっはっ！　このまま一緒に戻ったら<%br>セラフィさんに、とっ捕まっちまうからな！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "あれぇー？　たしか土産話と引き換えに<%br>見逃してもらったんだよねぇー？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "まあ、そう言うなって！<%br>適当な頃合いで、ちゃんと戻るからよ。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "……けど、リーダー。<%br>あんたらと離れるのは名残惜しい気もするぜ。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "……けど、リーダー。<%br>あんたらと離れるのは名残惜しい気もするぜ。",
+		"tr_text": "",
+		"jp_buttons": [
+			"これからも一緒に戦わないか？ ",
+			"もっと恩返しをしてほしい。"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 106
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "あんがとよ！<%br>その言葉、ありがたく受け取らせてもらうぜ。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ウィンドミル……ホントにいっちゃうのか？",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "いろいろ言って、悪かったよ……<%br>オレ、これからもいっしょに冒険したいぞっ！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "かはー！<%br>それを言われちゃ、返す言葉もねぇな！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "リーダーの言葉は冗談だとして……<%br>貴方と一緒に戦いたいのは、本当のことよ。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "こんな渡り鳥にゃ、もったいねぇ言葉だぜ。<%br>けどよ……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "俺は、チームってヤツにゃ<%br>やっぱり、向いてねぇんだよな……かはは……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "そんなことないですっ……！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "わたし、ウィンドミルさんと思い出作りができて<%br>とっても楽しかったです！　だからっ……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ジェネちゃん。あまり引き止めちゃダメだよ。<%br>彼は、自分に合った生き方をしてるんだ。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "で、でも……せっかく、知り合えたのに<%br>もう、お別れだなんて……",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "かっはっはっ！　そんな顔しなさんなって！<%br>何もこれで、最後ってわけじゃねぇんだ。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "あんたらと旅をするのは、楽しかったよ。<%br>俺にとっちゃ、もう仲間みてぇなモンだ。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "だから……あんたらがピンチの時にゃ<%br>駆けつけてやるよ。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "……たとえ、どこにいたってな！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ウィンドミルさん……<%br>はい……また、会いましょうね！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ウィンドミルさん……<%br>はい……また、会いましょうね！",
+		"tr_text": "",
+		"jp_buttons": [
+			"その言葉、信じるからな。",
+			"いい旅を！"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 106
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "ああ、男に二言はねぇ！<%br>俺を信じな！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "粋な言葉を、ありがとよ！<%br>俺にとって……最高の別れの言葉だ。",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "ウィンドミル",
+		"tr_name": "",
+		"jp_text": "それじゃあ……またな！",
+		"tr_text": "",
+		"fileID": 106
+	},
+	{
+		"eventNo": "0",
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "ふぅ……やれやれ。<%br>今回の任務も無事に終わってよかったねぇ。",
@@ -128822,6 +130694,3742 @@
 		"jp_text": "ブルーノと同じのーっ！",
 		"tr_text": "",
 		"fileID": 114
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "みなさん、お疲れ様です！<%br>急にお呼び立てして、すみません。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "今回、みなさんにお願いしたいのは<%br>重要な荷物の回収となります。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……回収任務？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "惑星ナベリウスに調査に行ったチームが<%br>ファングバンサーに襲われて……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "調査したデータを含めた荷物を<%br>その場に置いてきてしまったんです。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "荷物とデータを見つけてくればいいんですね。<%br>分かりました、任せてくださいっ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "うぅ、ファングバンサーか……<%br>あいつ、つよいんだよなぁ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "大丈夫ですよ、モアくん。<%br>今回は、もうひとり同行者がいますから。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "もしかして、新しいウェポノイド？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "ええ。<%br>……あっ、来たようです。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "みなさん、初めまして。みなさんのことは<%br>セラフィさんからお聞きしています。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "私は「リカウテリ」です。<%br>みなさんのお世話をいたしますね。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "リカウテリって、最高級フォトンリアクターでしか<%br>作れないって言われてる弓だよね？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "私の弓は百発百中……決して的を外しません。<%br>援護射撃はお任せください。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "おお！　なんかすっげー<%br>たのもしいなっ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "リカウテリがいれば、ファングバンサーも<%br>楽に倒せそうだなっ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "楽な任務になりそうだね。<%br>んじゃあ、ぼちぼち出発しようかー。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "あっ、みなさん！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "ハンカチは持ってますか？　お手洗いは？<%br>飲み物と治療薬は大丈夫ですか？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "ハンカチは持ってますか？　お手洗いは？<%br>飲み物と治療薬は大丈夫ですか？",
+		"tr_text": "",
+		"jp_buttons": [
+			"なんのこと？",
+			"遠足に行くみたいだね。"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 116
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "どんな任務になるのか分かりませんからね。<%br>入念に準備をしていかないと……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "ふふっ、そうですね。用意は万全ですから<%br>必要があれば言ってくださいね。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "いざという時に、使えるものがないと<%br>困りますから。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "へぇ……リカウテリって<%br>マジメなんだなぁ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "でも、言っていることは正しいわ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "森林は迷いやすいし<%br>不測の事態に備えるのは当然のことよ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "ええ、その通りです。迷子になったら<%br>大変ですから、手をつないで行きましょうね。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "えっ……<%br>な、なんでオレの手を、にぎるんだってば！？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "さぁ、みなさん参りましょう！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "オレは、迷子になったりしないってば！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "見えました……そこです！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "―ドシュッ……―",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "おお、すっげー！　あんな高いとこにいる<%br>ウーダンも、やっつけちゃったぞ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "達人級というか<%br>もはや神がかった腕前だねぇ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "リカウテリ、やったな！<%br>お前って、めちゃくちゃつよいなー！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "あぁっ！　も、モアさん！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "へ……な、なんだってば？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "大変です！<%br>ケガをしてるじゃありませんか！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "あ、これのことか？<%br>これは、さっき木の枝に引っかけて……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "すぐに手当しますね！<%br>ささっ、こちらにどうぞっ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "こ、これぐらい、大丈夫だってば！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "ダメですよ。<%br>小さな傷でも、ちゃんと治療しないと。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "じゃあ、お願いするけど……<%br>こんなの、ナメときゃ治るってば……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "でも、この辺りは危険ですから<%br>エネミーは私に任せてくださいね？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "リカウテリがいれば<%br>あっという間に任務がおわりそうだなー。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "ふふっ、私の弓が、みなさんやモアさんの<%br>役に立っているのなら、うれしいです。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "おうっ、頼りにしてるぞ、リカウテリ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "……なんなんだろうねぇ、あそこは。<%br>完全に別空間になっちゃってるけど。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ふふっ。リカウテリさん<%br>モアのお姉さんみたいですね。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "世話を焼きすぎじゃない？<%br>モア……あのままでいいのかしら？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "まぁ、いいんじゃないのー？<%br>おチビも嬉しそうだしさぁ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "みなさん、ここから更に道が険しくなります。<%br>足元には、十分注意してくださいね。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "はいっ、分かりました。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "さぁ、モアさん手をつなぎましょうね。<%br>こうしていれば、安心ですよ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "へへへ、リカウテリはやさしいな。<%br>よーし、じゃんじゃん先に進もうぜー！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "はぁ……はぁ……<%br>どんどん、道が険しくなっていきますね。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ええ、どんなエネミーが出てくるか<%br>わからないわ。気を引き締めて行きましょう。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "あの、アネットさん……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "先ほどの戦いの後、モノメイトを使って<%br>いましたよね。これ、よかったらどうぞ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……えっ？<%br>これは、貴方のでしょう？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "みなさんの分も、持ってきているので<%br>気にしないでください。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "そ、そう……ありがとう。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "俺たちの分もって……面倒見が良いのは<%br>モアにだけじゃないみたいだねー。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "みなさん、この辺りで休憩しませんか？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "さんせー！<%br>はぁ……けっこう、つかれたってば……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "はい、モアさん。温かいお茶です。<%br>ふーふーして飲んでくださいね。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ふー……ふー……はぁ～。<%br>これで、甘いものとかあると、最高だなっ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "ふふっ、お菓子もありますよ。<%br>さぁ、みなさんもどうぞ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "わあっ、ありがとうございます！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "はぁー、お茶もお菓子も、うまいな！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "そんなに喜んでもらえるなんて……<%br>ふふっ。お役に立てて、よかったです。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "……あら、モアさん口元についてますよ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ん？　どこだってば？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "ふふっ、ここです。<%br>ほら、とれましたよ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "へへっ！<%br>ありがとな、リカウテリ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "モアったら……<%br>リカウテリに甘えきってるわね。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "うふふっ。<%br>リカウテリさんも、すごくうれしそうですね。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ま、これくらいで済んでれば<%br>可愛いもんなんだけどねぇー。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "そうだ、みなさん<%br>お茶のおかわりはいかがで……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "……っ！？<%br>エネミーの気配がします！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "え？　<%br>何も聞こえませんけど……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "木々のざわめきに紛れ<%br>微かですが、足音が……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "……来ます、上です！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "う、うわぁぁぁ！<%br>出たっ、ファングバンサーだ！！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "リーダーさん、今です！<%br>トドメを！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "……や、やった！<%br>ファングバンサーをやっつけたぞ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "リカウテリさんがサポートしてくれたから<%br>戦いやすかったです！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ええ、だけど……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "はぁ、はぁ……みなさんのお役に立てたのなら<%br>よ、よかったです……はぁ、はぁ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "はぁ、はぁ……みなさんのお役に立てたのなら<%br>よ、よかったです……はぁ、はぁ。",
+		"tr_text": "",
+		"jp_buttons": [
+			"無理してない？",
+			"ケガしてるよ。"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 116
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "は、はい、大丈夫です。<%br>少し、息が切れただけですから。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "それより、リーダーさんや<%br>みなさんにおケガはありませんか？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "このようなかすり傷<%br>ケガのうちには入りません。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "私よりも、みなさんのおケガの方が心配です。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "私たちなら、大丈夫よ。<%br>貴方の方が、少しは休むべきじゃない？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "ふぅ……<%br>もう落ち着きましたから、平気です。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "それより、荷物の回収を急ぎましょう。<%br>この辺りに落ちているはずです。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "……あっ、もしかしてあれです？<%br>色々なものが散らばってますが……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "そうみたいだねぇ。<%br>めんどくさいけど、手分けして集めようか。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ぐぬぬ……<%br>これ、結構重たいぞ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "ああ、モアさん。<%br>それは私が運びますね。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "モアさんは、上から荷物のある場所を<%br>教えてくれませんか？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "おお、なるほど！<%br>へへっ、任せとけって！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "おーい、ブルーノー！<%br>その木の根元に、なんかあるぞーっ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "はいはい。<%br>まったく、人使いが荒いよねぇー。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "……ふぅっ。<%br>これで、全部でしょうか？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "よーしっ、任務完了だな！<%br>アークスシップに戻ろうってば！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "みなさん、お疲れ様でした。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "今回の任務はこれで終わりですが<%br>また、いつでも呼んでくださいね。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "リカウテリがいると任務が楽だもんな！<%br>また、一緒に行こうぜ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "はい、是非！<%br>お役に立てるよう頑張りますっ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "確かに任務は楽だったけれど……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "その分、彼女に負担がかかっていること<%br>モアはわかっているのかしら……？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "うーん。今のおチビには、無理かもねぇー。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "……はぁ。<%br>荷物回収が終わったと思ったら……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "今度は、ケガで動けないアークスの代わりに<%br>俺たちが森林調査することになるとはねぇ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "指定されている地域は、森のさらに奥……<%br>みなさん、気を付けましょうね。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "大丈夫だってば！<%br>今回の任務も、リカウテリがいるからなっ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "ふふっ、頼りにしてくれてうれしいです。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "……あっ、そうでした。<%br>実は、みなさんに渡したいものがあるんです。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "ハンカチに、飲み物に……救急箱もあります。<%br>ささっ、みなさんどうぞ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……こ、こんなに持ってきたの？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "はい、治療薬も各種とりそろえていますので<%br>必要な時は言ってくださいねっ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "なぁなぁ、この前のお菓子も<%br>あったりするのか？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "はい。モアさんに喜んでほしくて<%br>たくさん用意してきました。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "へへっ、さすがリカウテリだな！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "さすがじゃないわよ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "えっ？　だ、誰の声です？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ナスヨテリ",
+		"tr_name": "",
+		"jp_text": "お姉ちゃん、また他人の<%br>世話ばっかり焼いてるの！？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "あっ、ナスヨテリ……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "あれ、彼女の恰好……それにお姉ちゃんって。<%br>ふーん、なるほどねぇー。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "あれ、彼女の恰好……それにお姉ちゃんって。<%br>ふーん、なるほどねぇー。",
+		"tr_text": "",
+		"jp_buttons": [
+			"姉妹だったんだね。",
+			"この子は誰？"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 116
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "ええ、まぁ……そうです。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "いやぁ、姉妹そろって良い恰好してるねぇ。<%br>目の保養になるよー。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "こ、これは、ナスヨテリに言われて……<%br>恥ずかしいのであまり見ないでください。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ナスヨテリ",
+		"tr_name": "",
+		"jp_text": "わたしは、ナスヨテリ。<%br>強弓ナスヨテリのウェポノイドよ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ナスヨテリ",
+		"tr_name": "",
+		"jp_text": "お姉ちゃんと、名前を間違えたら<%br>承知しないんだからねっ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "ナスヨテリ、あなたも任務中よね？<%br>モノメイトは足りてる？　無いのなら……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ナスヨテリ",
+		"tr_name": "",
+		"jp_text": "もー！！<%br>いつまでも子供扱いしないでよ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "ナスヨテリ",
+		"tr_name": "",
+		"jp_text": "それぐらい自分でできなきゃ<%br>任務なんてやってられないわ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "わぁっ、頼もしい妹さんですねっ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "ナスヨテリ",
+		"tr_name": "",
+		"jp_text": "あんたたち……お姉ちゃんの<%br>仲間みたいだから、忠告しておくけど……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "ナスヨテリ",
+		"tr_name": "",
+		"jp_text": "くれぐれも……<%br>お姉ちゃんに、頼りすぎないでよね。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "ナスヨテリ",
+		"tr_name": "",
+		"jp_text": "あんたたちが楽する分<%br>お姉ちゃんが大変なんだから！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "え……！　オレたちが楽すると……<%br>リカウテリが……大変？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "ナスヨテリ",
+		"tr_name": "",
+		"jp_text": "シッ！　黙って！<%br>……お姉ちゃん、聞こえる？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "ええ、これは……アギニスの羽の音。<%br>……来るわ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ナスヨテリ",
+		"tr_name": "",
+		"jp_text": "いっけぇーっ！！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "わぁっ！<%br>ナスヨテリさん、すごいです！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ナスヨテリ",
+		"tr_name": "",
+		"jp_text": "……ダメだわ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "へっ？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ナスヨテリ",
+		"tr_name": "",
+		"jp_text": "風の動きを読み切れなかった。<%br>お姉ちゃんなら、一撃で仕留めてたはずよ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "いやぁ、ふたりとも<%br>十分強かったんじゃない？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ナスヨテリ",
+		"tr_name": "",
+		"jp_text": "強くなんかないわよ！<%br>わたしが求めてる強さは、こんなものじゃない。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "……ナスヨテリ。そんなに<%br>必死にならなくても、あなたの腕は確かよ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ナスヨテリ",
+		"tr_name": "",
+		"jp_text": "お姉ちゃんみたいな天才には<%br>わたしの努力なんて、わかんないのよ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ナスヨテリ",
+		"tr_name": "",
+		"jp_text": "それに……必死になってるのは<%br>お姉ちゃんのほうでしょ！？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ナスヨテリ",
+		"tr_name": "",
+		"jp_text": "……こいつらを守ろうとして<%br>あんな無茶な戦い方するなんて。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "無茶はしていないわ。<%br>私はただ、みんなの役に立ちたくて……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ナスヨテリ",
+		"tr_name": "",
+		"jp_text": "役に立てば、自分はどうでもいいの？<%br>いくら天才だって、負担は変わんないでしょ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ナスヨテリ",
+		"tr_name": "",
+		"jp_text": "……もう、見てらんない！<%br>わたし、自分の任務に戻るっ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "あっ、ナスヨテリ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ナスヨテリ",
+		"tr_name": "",
+		"jp_text": "あんたたち……<%br>お姉ちゃんに頼りすぎるんじゃないわよ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ナスヨテリ",
+		"tr_name": "",
+		"jp_text": "お姉ちゃんに何かあったら<%br>許さないんだからねー！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "な、ナスヨテリさん<%br>叫びながら、行ってしまいました……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "あははー。<%br>姉思いの、いい妹だよねぇー。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "…………<%br>オレ、ぜんぜんきづかなかった。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "リカウテリが、オレたちを守るために<%br>むちゃしてたなんて……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "モア、どうしたんです？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "な、なんでもない！<%br>オレたちも、先に進もうぜ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "ええ、そうですね。<%br>さぁ、モアさん手をつなぎましょう。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "あ、えっと……<%br>そういうのは、もういいってば！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "えっ……な、なぜですか？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "なんででもだってば！<%br>オレだって、ひとりでできるからなっ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "で、でも……<%br>モアさんは、まだ小さいですし心配です。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ち……小さくても、ちゃんと戦えるってば。<%br>もう、オレの世話はやかなくていいぞっ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "も、モアさん………",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "そう……ですか。<%br>わかり……ました……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "…………",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "リカウテリさん？　どうかしたんです？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "あっ、すみません。<%br>妹が言ったことを、思い出してまして……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "私は、みなさんのお役に立てることが<%br>本当にうれしいんです。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "けれど……もしかしたら、みなさんに<%br>ご迷惑をかけていたかもしれません……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "あー……<%br>おチビの態度が変わったことが気になる？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "…………",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "……まぁ、本人に聞くのが早いかな。<%br>おチビー、ちょっとちょっと。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ん？　なんだってば？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "リカウテリちゃんがさぁ<%br>お前に嫌われたのかもって気にしてるよー？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "えぇっ？<%br>なんで、そうなるんだ！？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "そりゃ、あれだけ甘えていたのに<%br>突然、そっけなくなったからでしょ？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "そっけなくって……それはちがうってば！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "え……で、でも……<%br>私のしたことが迷惑だったからでは……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "迷惑なわけないじゃんか！<%br>オレ……ナスヨテリに言われて、きづいたんだ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "オレが甘えていた分……<%br>リカウテリが、がんばってくれてたんだって。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "仲間なのに、ひとりだけが<%br>がんばるって……なんかちがうよな？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "だから、リカウテリばっかに頼らないで<%br>オレもしっかりしなくちゃって思ったんだ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "うんうん。えらい、えらい。<%br>おチビも、ちょっとは成長したよねぇ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ね。俺たちみんな、リカウテリちゃんのこと<%br>迷惑だなんて思ってないんだよ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "そう……だったんですね……<%br>モアさんも……私がいなくても大丈夫なんですね。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "…………",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "……あれ？<%br>リカウテリさん、なんだか寂しそうです？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "モアの成長が嬉しい反面、自分が必要とされて<%br>いないような気がして寂しいのだと思うわ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "気持ちは、わからなくもないけれど<%br>モアが言いたかったのは……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "……っ、みなさん！<%br>エネミーの反応が近くにっ……来ます！！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "おっと、俺たちもおチビのこと言えないねー。<%br>気を引き締め直すとしますか！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "はぁ……はぁっ……突然、ロックベアが<%br>出てくるとは思いませんでしたね。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "みなさん、大丈夫ですか？<%br>あ！　モアさん、ケガを……すぐに手当てを！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "これぐらい、なんともないってば！<%br>それより、リカウテリは大丈夫か？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "え？　あ、はい……平気です。<%br>そうですね……モアさんも……平気ですよね。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "リカウテリ？　なんで<%br>そんな悲しそうな顔してるんだ……？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "……私、みなさんのお役に立てて<%br>本当にうれしかったんです。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "だから、お世話が必要ないと言われると……<%br>落ち着かなくて……寂しくって……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "……なんて、すみません。こんなことだから<%br>妹にも怒られてしまうんですよね。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "……なんて、すみません。こんなことだから<%br>妹にも怒られてしまうんですよね。",
+		"tr_text": "",
+		"jp_buttons": [
+			"モア、手当てしてもらったら？",
+			"じゃあ甘えていい？"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 116
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "あ！　そ、そうだな！<%br>手当てしてもらったほうが、はやく治るしな！！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "えっ……？<%br>で、でも……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "も、もちろん、リーダーさんに甘えてもらえたら<%br>うれしいですけど……でも……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "世話を焼かれることは、迷惑じゃないって<%br>モアも言っていたでしょう？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ただ、貴方がひとりでがんばって<%br>何かするのはダメってこと。そうよね、モア？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "そう！　そういうことだってば！<%br>リカウテリひとりに頼るのはよくないんだ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "リカウテリがしてくれた分<%br>オレもリカウテリに、お返しがしたいんだってば！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "仲間なんだからさ、世話を焼くのも<%br>助けるのも……お互い様ってことだよ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "仲間……お互い様……<%br>そんな風に考えたこと、ありませんでした……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "だからさ、リカウテリもオレたちを頼ってくれるなら<%br>いつもみたいに、手当てしていいんだぞ。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "誰かの世話してるリカウテリが<%br>すっごくうれしそうなのは、知ってるからな！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "とか言って、ホントはおチビが<%br>甘えたくなっただけなんじゃないのー？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ち、ちがうって！<%br>リカウテリのためだってば！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "はいはい。じゃあ、俺もリカウテリちゃんに<%br>手当て、頼んじゃおうかな。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "貴方、ほぼ無傷じゃない。<%br>……私を先に頼める？",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "わたしも、お願いしますっ！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "みなさん……",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "……ふふ、そうですよね。<%br>頼られるのって、とってもうれしいんですよね。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "ありがとうございます。<%br>では、たくさんお世話させていただきます！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "するだけじゃダメだぞ！<%br>オレたちも、リカウテリの世話をするんだからな！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "わかってますよ、モアさん。<%br>たくさん、お世話してくださいね。",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "リカウテリ",
+		"tr_name": "",
+		"jp_text": "これからはみなさんのお世話をした分……<%br>いっぱい甘えさせてもらいますね！",
+		"tr_text": "",
+		"fileID": 116
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "今回の任務は、森林の調査だな！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "はいっ、がんばりましょうね。<%br>リーダー、みなさんっ！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "実は、今回の任務に同行させてほしい<%br>ウェポノイドがいるんです。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "へぇ……<%br>どんなウェポノイドなの？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "アークスの惑星調査を支援すべく作られた<%br>調査補助ウェポノイド……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "「ルチルス」です。<%br>みなさん、初めまして！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "わわっ！<%br>オレと同じぐらい小さいってば！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "調査補助ウェポノイド……<%br>噂には聞いていたけど、彼女がそうなのね。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "ええ。<%br>まだ、実験的な段階ですが……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "彼女の訓練のひとつとして<%br>本格的な調査に同行させることになったんです。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "うふふっ……！<%br>小さくて可愛らしい方ですね！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "小さいからこそ、どんな隙間からも<%br>もぐり込んで、調査ができるんです！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "しかも、この羽根で空も飛べますから<%br>みなさんのお役に立ちまくっちゃいますっ！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "ふつつかものですが……<%br>よろしくお願いしますっ！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "ふつつかものですが……<%br>よろしくお願いしますっ！",
+		"tr_text": "",
+		"jp_buttons": [
+			"羽根ならすでにモアが……",
+			"なんだか、嫁入りみたいだね。"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 118
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "わ、私の羽根は調査のための羽根です！<%br>高く、素早く！　飛べちゃうんです！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "偵察はオレも得意だってば！　でも、調査補助って<%br>どんなことするのか気になるな……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "あはは。ここまで言ってるんだから<%br>お手並み拝見といこうよ、リーダー、モア。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "え……え！？　そ、そんなつもりは……<%br>で、でも！　それぐらいの気持ちでがんばります！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "調査補助ウェポノイドの力……<%br>思いっきり、お見せしちゃいますですっ！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "ルチルスさん、今までの訓練の<%br>成果が出せるようがんばってくださいね！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "はい！<%br>全力でがんばってきます！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "……ふぅ。これで、この周辺の<%br>エネミーは倒したかな？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "エネミーの数が、いつもより<%br>多い気がするわね……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "このまま、先に進んでも<%br>大丈夫でしょうか？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "ここは、私の出番ですね！<%br>まかせてください！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "びゅーんっと、偵察に行ってきます。<%br>みなさんは、そこで待っててください！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "あっ、ルチルスちゃん！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "わわっ、もうあんなところまで<%br>飛んでっちゃったってば！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "あの子、やたらと張り切っているようだけど……<%br>大丈夫かしら？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "いいんじゃない？<%br>若いうちは、ちょっとくらい無茶しても。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "アネット",
+		"tr_name": "Annette",
+		"jp_text": "…………",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "……あの、ルチルスちゃん<%br>帰りが遅くないですか？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ずっと待ってるのに<%br>戻って来ないってば……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……彼女、本格的な任務は<%br>初めてなのよね？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "探しに行った方が<%br>いいんじゃないかしら？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "わたしも、それがいいと思います。<%br>行きましょう、リーダー！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "うぅぅぅ……どうしよう、動けないよぉ……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "あっ、ルチルス！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "り、リーダー！　みなさん！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……貴方<%br>木の枝の間に挟まって何をしているの？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "近道だと思って通り抜けようとしたら<%br>隙間が狭すぎて、はまっちゃいました……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "た、大変です！<%br>すぐに、助けてあげましょう！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "じゃあ、ちょっと引っ張るけど<%br>痛かったら言ってねー。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "うぅ……すみません……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "……なんか<%br>こっちが支援してる気がするってば。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "……ありがとうございます。<%br>おかげで、助かりました。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "うぅ……訓練の時は、ちゃんとできたのに……<%br>……次こそは、必ずお役に立ってみせます！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "なぁなぁ、訓練ってどんなことするんだ？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "えっと……戦闘訓練はもちろんですけど<%br>資材配達、上空偵察、応急手当……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "本当に支援のためだけの訓練を<%br>受けてきたのね……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "なるほど。サポートの<%br>プロフェッショナルってわけねー。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "プロフェッショナル……！<%br>なんだか、カッコいいですねっ！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "…………",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ルチルス？<%br>急にだまって、どうしたんだってば？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "実は私……<%br>訓練の成績があまり良くないんです。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "配達している荷物を落としちゃったり<%br>ワナにひっかかっちゃったり……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "木に挟まっちゃったり？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "うぅっ……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "で、でも！<%br>偵察だけは、本当に得意なんです！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "この体型と羽根を活かせるのは<%br>偵察だって周りの人も……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "リーダー、今度こそがんばります！<%br>もう、失敗はしません！　だから……！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "リーダー、今度こそがんばります！<%br>もう、失敗はしません！　だから……！",
+		"tr_text": "",
+		"jp_buttons": [
+			"もう一度偵察してきて。",
+			"本当に大丈夫？"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 118
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "は、はいっ！<%br>ありがとうございます！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "大丈夫です！<%br>まかせてくださいっ。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "では、行ってきます！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "あの元気さを見てると<%br>昔のおチビを思い出すねぇ……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "お、オレって<%br>あんな風に見えてたのか……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "みなさーん、リーダー！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "……あれ？<%br>ずいぶん早く、戻って来たね？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "はわわわっ！　ご、ごめんなさいっ！<%br>見つかっちゃいましたっ！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "へっ……？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "あっ、ルチルスちゃんの後ろを<%br>エネミーが追いかけてきてます！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "来るわ……！<%br>みんな、構えて！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……ふぅ。<%br>ルチルス、ケガはない？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "はい……大丈夫です。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "偵察に行って<%br>見つかっちゃうなんて……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "私、みなさんのお役に立ててないです。<%br>もっともっと、がんばりたいのに……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ルチルスちゃん……<%br>どうしてそんなに、がんばりたいんです？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "……私、自分の小さな身体が<%br>あまり好きではないんです。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "他のウェポノイドは<%br>おっきくてカッコよくて、力も強くて……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "ずっとずっと<%br>うらやましいって思ってました。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "だけど、この羽根と小さな体を活かせば<%br>私にもできることがあるって……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "誰かの役に立てるって言われて……<%br>私……すっごくうれしかったんです。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "その気持ち、オレもわかるってば……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "やっと、自分にできることを見つけられたのに<%br>こんな失敗ばかりじゃ、ダメなんです。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "それなのに<%br>ルチルスは仕方ないなぁって……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "いつもみんな、優しく許してくれるんです。<%br>……今の、みなさんみたいに。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "アネット",
+		"tr_name": "Annette",
+		"jp_text": "…………",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "でも、仕方なくなんてないです。<%br>がんばっても失敗したらダメなんです！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "……だけどさー<%br>失敗を恐れてたら、何もできないんじゃない？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "で、でも……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "んー。だからさぁ<%br>失敗を想定して動いてみたらどう？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "し、失敗を想定して動く……？<%br>どういうことですか？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "自分が失敗しそうな場所を覚えておいて<%br>そういう時は注意深く行動するとか……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "自分の短所が分かっていれば<%br>やり方は、色々あると思うよ。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "そうね……アークスにもウェポノイドにも<%br>完璧な存在なんていないわ。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "大事なのは、失敗から何を学ぶかよ。<%br>……わかる？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "……はい。<%br>そんな考え方もあるんですね。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "みなさん、ありがとうございます。<%br>私、やってみます！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "リーダー、みなさん、お疲れ様です。<%br>今回の任務は、惑星ナベリウスの調査です。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "凍土エリアの奥地で<%br>凶暴化した原生種の反応を観測しました。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "そいつを探して<%br>やっつけてくればいいんだな。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "はい、よろしくお願いします。<%br>それから……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "リーダー、みなさん！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "あっ、ルチルスちゃん！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "ルチルスさん、たってのお願いで<%br>今回も同行してもらうことになりました。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "この前、ブルーノさんに教えてもらったこと<%br>私なりに、いろいろと考えてきました。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "今回こそ、お役に立っちゃいます！<%br>よろしくお願いします！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "今回こそ、お役に立っちゃいます！<%br>よろしくお願いします！",
+		"tr_text": "",
+		"jp_buttons": [
+			"気合い十分だね。",
+			"何を考えてきたの？"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 118
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "はい！<%br>今回の任務のための準備もバッチリです！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "えへへ……<%br>それは、実践で見せちゃいます！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "さぁ、みなさん！<%br>任務に、出発しましょうっ！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "……ふ、ふぇっくしょん！<%br>うー、いつ来ても凍土は寒いなー。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "そうだねぇ……見渡す限りの銀世界だし<%br>方向感覚も狂いやすいよね。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "そういう時こそ、私にまかせてください。<%br>空から見てきちゃいますね！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "あっ、ルチルスちゃん！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "相変わらず、素早いわね。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ルチルスのやつ、気合いが入りすぎてて<%br>なんだか心配だってば……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "うーん……<%br>それなら、彼女の後を追いかけてみる？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "そ、そうですね……また、隙間に<%br>挟まってないとも限らないですしっ！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "おーい、ルチルスー！<%br>どこだってばーっ！　返事しろーっ！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……こっちにもいなかったわ。<%br>どうやら、見失ったようね……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ルチルスちゃん<%br>どこに行っちゃったんでしょうか？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "なーんか、嫌な予感がするよねぇ……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "その予感は、あれのことかしら？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "わわっ！<%br>エネミーがこっちに来るってば！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "リーダー、<%br>先に、こいつらを片付けるぞ！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……ふう。<%br>邪魔者はいなくなったわね。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ルチルスちゃんは、大丈夫でしょうか？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "おチビ、上から何か見えない？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "うーん……全部、真っ白で何も……<%br>……あっ！　むこう！　なんか埋まってるぞ！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "あ、あれは……<%br>ルチルスちゃんです！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "…………",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……かなり消耗しているようね。<%br>今の応急処置で、意識を取り戻すと思うけど…",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ルチルス！<%br>しっかりしろってば！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "……う、うう。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "あっ、目を開きました！<%br>ルチルスちゃん……大丈夫ですか？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "……う、うぅ……<%br>は、はい……ごめんなさい。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "私、またみなさんのお役に<%br>立てませんでした……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "一体、何があったの？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "失敗しないようにと思って……<%br>気になる場所を調べて回ってたんです……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "気になる場所……です？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "はい。落ちそうな穴とか崩れそうな岩場とか。<%br>私が失敗しそうな場所を全部です。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "でも、そうしているうちに<%br>なんだか、クラクラしてきて……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "……気を失ったのか。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ルチルスちゃん……<%br>がんばりすぎちゃったんですね。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "うぅ……ひとりで偵察もできないなんて……<%br>こんなんじゃ……ぐすっ！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……ねぇ、ルチルス。<%br>そもそも単独で行動する必要があるのかしら？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "え……？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "できないことは、互いに補えばいい。<%br>それが、チームというものよ。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "そうですよ！<%br>もっとわたし達を頼ってください！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "だなっ！<%br>いっしょにがんばろうぜ、ルチルス！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "みなさん……<%br>ありがとうございます……ぐすっ！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "おーい、ルチルスー。<%br>この先の地形はどんな感じー？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "高い崖があって<%br>登るのは難しいですが……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "事前に調べた情報によれば、この先に<%br>小さな作業用トンネルがあるはずです！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ルチルスちゃん、すごいですね。<%br>そんなことまで知ってるなんて。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "どうやら彼女は、事前に凍土エリアの<%br>地形情報を調べていたようね。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "あっ……みなさん<%br>その先にイエーデの巣があるはずですっ！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "無駄な戦闘は避けたいしねー。<%br>ルチルス、別のルートはあるの？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "はい、案内します！　少し遠回りですが<%br>そこを右に曲がってください。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "なぁなぁ、ルチルスに指示を出すように<%br>なってから、すっごい順調だってば！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ええ、私も驚いたわ。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……彼女の特性は、小柄さと<%br>羽根だけではないのかもしれないわね。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "みなさん！<%br>その先に強力なエネミーの反応があります！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "この反応は……デ・マルモスです！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ルチルス<%br>そこからデ・マルモスは見える？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "……はい、確認できました！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "ですが、あの場所で戦うのは<%br>危険だと思います。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "岩場に囲まれているので<%br>デ・マルモスの攻撃を避けきれません！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "だとすれば……<%br>どこか広い場所に誘い込めないかしら？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "この先に、見晴らしの良い場所があります！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "モア、ルチルスと一緒に<%br>ヤツをそこまで誘導してくれ。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "わかったってば！<%br>行くぞ、ルチルス！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "はい！<%br>おまかせください！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "リーダー<%br>わたし達も、行きましょう！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "おっ！　おチビたちがエネミーを引き連れて<%br>戻ってきたみたいだな。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "―ズズーン―",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "リーダー、みんな！<%br>デ・マルモスを引きつけてきたぞ！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "リーダー、指示をください！<%br>私、なんだってやっちゃいますから！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "リーダー、さすがです！<%br>デ・マルモスをやっつけちゃいました！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ふぅ……ルチルスの言う通り<%br>狭い場所で戦わなくて正解だったねー。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ええ。<%br>良い判断だったと思うわ。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "あ、あの……もしかして、私<%br>みなさんのお役に立ちましたか？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "はい！　とっても助かりました！<%br>ありがとうございます、ルチルスちゃん。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "……！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "わ、私……こんなにほめてもらったの……<%br>初めてです……ぐすっ！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "あのさ。ルチルスは、自分の特性を<%br>活かしたいって言ってたけどさー。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "君の特性ってのは、小柄な体型や<%br>羽根じゃないと思うんだよねぇ。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……同感ね。ルチルス、貴方の特性は<%br>豊富な知識と、情報収集に対する姿勢よ。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "で、でも……任務について<%br>事前に調べるなんて、当たり前ですよね？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "そうね。でも、誰かのために本気で努力して<%br>学ぶことは、誰にでもできることじゃないわ。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "何があっても諦めず、チームのために<%br>サポートしたいと思う気持ち……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "それこそが、調査補助ウェポノイドにとって<%br>もっとも必要な資質だと、私は思うわ。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "あ、アネットさん……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "そんなふうに言ってもらえて<%br>とってもとってもうれしいです……ぐすっ！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ほら、泣かないの。<%br>経験を積めば、貴方はもっと強くなるはずよ。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "私、もっともっと努力して勉強して<%br>立派な調査補助ウェポノイドになりますっ！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ルチルスなら、ぜったいなれるってば！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "わたし達も、応援しますね！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "はいっ！<%br>私の成長を、楽しみにしててください！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "それから少しして……わたし達の元に<%br>ルチルスちゃんがやってきました。",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "リーダー、みなさん！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ルチルス！　ひさしぶりだなっ！<%br>今日は、どうしたんだってば？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "しっかりサポートするためには<%br>みなさんのことを、よく知るべきだと思って……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "みなさんの情報を<%br>いろいろと集めちゃいました！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "へぇー。<%br>どんな情報を集めたの？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "体格的特徴を知るため<%br>ジェネさんとアネットさんのスリーサイズとか……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "ジェネ＆アネット",
+		"tr_name": "",
+		"jp_text": "えっ！？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "ブルーノさんが戸棚の奥に隠している<%br>写真がいっぱいのデータチップとか……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "えぇっ！？　ちょ……ちょっと！<%br>いつの間に調べたのよ！！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "それから、それからっ……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ち、ちょっと<%br>リーダーもなんとか言ってよ！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "33",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ち、ちょっと<%br>リーダーもなんとか言ってよ！",
+		"tr_text": "",
+		"jp_buttons": [
+			"スリーサイズを教えて欲しい。",
+			"隠しているデータチップが気になる。"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 118
+	},
+	{
+		"eventNo": "34",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "り、リーダー<%br>なにを言ってるんです！？",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "35",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "そんな情報……<%br>貴方には必要ないでしょう！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "36",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "いやいや、そこ深く聞かなくて<%br>いいところだから！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "37",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "そんな情報まで手に入れるなんて<%br>ルチルスすごいってば！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "38",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "がんばり屋なのが彼女の良いところだけれど<%br>がんばりすぎるのも困るわね……",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "39",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "えへへ……！",
+		"tr_text": "",
+		"fileID": 118
+	},
+	{
+		"eventNo": "40",
+		"jp_name": "ルチルス",
+		"tr_name": "",
+		"jp_text": "私、これからもみなさんのお役に立てるよう<%br>もっともっとがんばっちゃいますね！",
+		"tr_text": "",
+		"fileID": 118
 	},
 	{
 		"eventNo": "0",
@@ -138026,16 +143634,16 @@
 	{
 		"eventNo": "13",
 		"jp_name": "インペリアルピック",
-		"tr_name": "Imperial Pick",
-		"jp_text": "これからみんなで<%br>新年レアもの堀り大会をするのだ！",
+		"tr_name": "",
+		"jp_text": "これからみんなで<%br>新年レアもの掘り大会をするのだ！",
 		"tr_text": "",
 		"fileID": 80009
 	},
 	{
 		"eventNo": "14",
 		"jp_name": "シュトラ",
-		"tr_name": "Stra",
-		"jp_text": "し、新年レアもの堀り大会……？<%br>なんだよ、それ。",
+		"tr_name": "",
+		"jp_text": "し、新年レアもの掘り大会……？<%br>なんだよ、それ。",
 		"tr_text": "",
 		"fileID": 80009
 	},
@@ -138066,16 +143674,16 @@
 	{
 		"eventNo": "18",
 		"jp_name": "モア",
-		"tr_name": "More",
-		"jp_text": "レアもの堀りなんて、面白そうだな！<%br>リーダー、オレたちもやってみようってば！",
+		"tr_name": "",
+		"jp_text": "レアもの掘りなんて、面白そうだな！<%br>リーダー、オレたちもやってみようってば！",
 		"tr_text": "",
 		"fileID": 80009
 	},
 	{
 		"eventNo": "19",
 		"jp_name": "モア",
-		"tr_name": "More",
-		"jp_text": "レアもの堀りなんて、面白そうだな！<%br>リーダー、オレたちもやってみようってば！",
+		"tr_name": "",
+		"jp_text": "レアもの掘りなんて、面白そうだな！<%br>リーダー、オレたちもやってみようってば！",
 		"tr_text": "",
 		"jp_buttons": [
 			"掘って、掘って、掘りまくろう！",
@@ -138186,8 +143794,8 @@
 	{
 		"eventNo": "32",
 		"jp_name": "アネット",
-		"tr_name": "Annette",
-		"jp_text": "もしかして、貴方たちもレア堀りに……",
+		"tr_name": "",
+		"jp_text": "もしかして、貴方たちもレア掘りに……",
 		"tr_text": "",
 		"fileID": 80009
 	},
@@ -138258,8 +143866,8 @@
 	{
 		"eventNo": "4",
 		"jp_name": "ジェネ",
-		"tr_name": "Gene",
-		"jp_text": "もしかして<%br>ふたりもレアもの堀りに来たんですか？",
+		"tr_name": "",
+		"jp_text": "もしかして<%br>ふたりもレアもの掘りに来たんですか？",
 		"tr_text": "",
 		"fileID": 80009
 	},
@@ -138442,8 +144050,8 @@
 	{
 		"eventNo": "2",
 		"jp_name": "インペリアルピック",
-		"tr_name": "Imperial Pick",
-		"jp_text": "うむ、レアもの堀りあるあるなのだ。<%br>だけど、諦めたらそこでレア堀り終了なのだ！",
+		"tr_name": "",
+		"jp_text": "うむ、レアもの掘りあるあるなのだ。<%br>だけど、諦めたらそこでレア掘り終了なのだ！",
 		"tr_text": "",
 		"fileID": 80009
 	},
@@ -138530,8 +144138,8 @@
 	{
 		"eventNo": "13",
 		"jp_name": "ジェネ",
-		"tr_name": "Gene",
-		"jp_text": "もしかして……<%br>アヴェンジャーさんもレアもの堀りですか？",
+		"tr_name": "",
+		"jp_text": "もしかして……<%br>アヴェンジャーさんもレアもの掘りですか？",
 		"tr_text": "",
 		"fileID": 80009
 	},
@@ -138594,8 +144202,8 @@
 	{
 		"eventNo": "21",
 		"jp_name": "ブルーノ",
-		"tr_name": "Bruno",
-		"jp_text": "ブラスハウルが、レアもの堀りねぇ……",
+		"tr_name": "",
+		"jp_text": "ブラスハウルが、レアもの掘りねぇ……",
 		"tr_text": "",
 		"fileID": 80009
 	},
@@ -138778,8 +144386,8 @@
 	{
 		"eventNo": "9",
 		"jp_name": "ジェネ",
-		"tr_name": "Gene",
-		"jp_text": "……あの、もしかしてパラティさんも<%br>レアもの堀りに来たんですか？",
+		"tr_name": "",
+		"jp_text": "……あの、もしかしてパラティさんも<%br>レアもの掘りに来たんですか？",
 		"tr_text": "",
 		"fileID": 80009
 	},
@@ -138946,8 +144554,8 @@
 	{
 		"eventNo": "7",
 		"jp_name": "インペリアルピック",
-		"tr_name": "Imperial Pick",
-		"jp_text": "新年レアもの堀り大会は地下坑道のレアものを<%br>掘り尽くすまで終わらないのだ！",
+		"tr_name": "",
+		"jp_text": "新年レアもの掘り大会は地下坑道のレアものを<%br>掘り尽くすまで終わらないのだ！",
 		"tr_text": "",
 		"fileID": 80009
 	},
@@ -139290,8 +144898,8 @@
 	{
 		"eventNo": "11",
 		"jp_name": "ニレンカムイ",
-		"tr_name": "Niren Kamui",
-		"jp_text": "……レアもの堀りは良い訓練になる。<%br>モア、また一緒に訓練する？",
+		"tr_name": "",
+		"jp_text": "……レアもの掘りは良い訓練になる。<%br>モア、また一緒に訓練する？",
 		"tr_text": "",
 		"fileID": 80009
 	},
@@ -139690,8 +145298,8 @@
 	{
 		"eventNo": "25",
 		"jp_name": "リカウテリ",
-		"tr_name": "Rikauteri",
-		"jp_text": "レアもの堀りの途中で<%br>ウォルガーダに遭遇したのですが……",
+		"tr_name": "",
+		"jp_text": "レアもの掘りの途中で<%br>ウォルガーダに遭遇したのですが……",
 		"tr_text": "",
 		"fileID": 80009
 	},
@@ -139922,8 +145530,8 @@
 	{
 		"eventNo": "3",
 		"jp_name": "リカウテリ",
-		"tr_name": "Rikauteri",
-		"jp_text": "私もメセタ……<%br>やっぱり、レアもの堀りは難しいわね。",
+		"tr_name": "",
+		"jp_text": "私もメセタ……<%br>やっぱり、レアもの掘りは難しいわね。",
 		"tr_text": "",
 		"fileID": 80009
 	},
@@ -141786,8 +147394,8 @@
 	{
 		"eventNo": "8",
 		"jp_name": "ナスヨテリ",
-		"tr_name": "Nasuyoteri",
-		"jp_text": "時間を作ってくれるって、約束！<%br>忘れているとか言わせないんだから！！",
+		"tr_name": "",
+		"jp_text": "時間を作ってくれるって約束！<%br>忘れたとは言わせないんだから！！",
 		"tr_text": "",
 		"fileID": 80010
 	},
@@ -157194,7 +162802,7 @@
 	{
 		"eventNo": "14",
 		"jp_name": "アネット",
-		"tr_name": "Annette",
+		"tr_name": "",
 		"jp_text": "…………",
 		"tr_text": "",
 		"jp_buttons": [
@@ -157226,7 +162834,7 @@
 	{
 		"eventNo": "17",
 		"jp_name": "アネット",
-		"tr_name": "Annette",
+		"tr_name": "",
 		"jp_text": "…………",
 		"tr_text": "",
 		"fileID": 90007
