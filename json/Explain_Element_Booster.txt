@@ -2041,7 +2041,7 @@
 		"jp_text": "イストリア・ソール",
 		"tr_text": "Historia Soul",
 		"jp_explain": "打防+25 射防+25\n法防+25 HP+30 PP+2",
-		"tr_explain": "S-ATK+25 R-ATK+25\nT-ATK+25 HP+30 PP+2"
+		"tr_explain": "S-DEF+25 R-DEF+25\nT-DEF+25 HP+30 PP+2"
 	},
 	{
 		"assign": "292",
@@ -2070,5 +2070,12 @@
 		"tr_text": "Grace Stamina",
 		"jp_explain": "HP+80 PP+5",
 		"tr_explain": "HP+80 PP+5"
+	},
+	{
+		"assign": "296",
+		"jp_text": "-",
+		"tr_text": "",
+		"jp_explain": "---",
+		"tr_explain": ""
 	}
 ]
