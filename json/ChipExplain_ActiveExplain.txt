@@ -86,44 +86,44 @@
 	{
 		"assign": "910",
 		"jp_explainShort": "全体に大ダメージ＋確率で「バーン」",
-		"tr_explainShort": "Damages all enemies + chance of inflicting [Burn]",
+		"tr_explainShort": "Damage all enemies + chance to [Burn]",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に大ダメージを与える。\n② 一定確率で「バーン」効果を与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Gives enormous damage to all enemies.\n② Increases the chance of inflicting [Burn]."
+		"tr_explainLong": "[Damage Bomb]\n① Deals enormous damage to all enemies.\n② Has a fixed chance to inflict [Burn]."
 	},
 	{
 		"assign": "920",
 		"jp_explainShort": "全体に特大ダメージ＋確率で「バーン」",
-		"tr_explainShort": "Damages all enemies + chance of inflicting [Burn]",
+		"tr_explainShort": "Damage all enemies + chance to [Burn]",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に特大ダメージを与える。\n② 一定確率で「バーン」効果を与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Gives immense damage to all enemies.\n② Increases the chance of inflicting [Burn]."
+		"tr_explainLong": "[Damage Bomb]\n① Deals immense damage to all enemies.\n② Has a fixed chance to inflict [Burn]."
 	},
 	{
 		"assign": "1110",
 		"jp_explainShort": "防御力を減少させ攻撃力を大強化",
-		"tr_explainShort": "ATK Boost + DEF lowered",
+		"tr_explainShort": "ATK boost + DEF lowered",
 		"jp_explainLong": "① 防御力を減少する。\n② 攻撃力を大きく強化する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Reduces Defense.\n② Greatly increases Attack.\n[Effect Duration] Fixed Interval"
+		"tr_explainLong": "① Reduces Defense.\n② Greatly increases attack power.\n[Effect Duration] Fixed Time"
 	},
 	{
 		"assign": "1120",
 		"jp_explainShort": "防御力を減少させ攻撃力を劇的強化",
-		"tr_explainShort": "ATK Boost + DEF lowered",
+		"tr_explainShort": "ATK boost + DEF lowered",
 		"jp_explainLong": "① 防御力を減少する。\n② 攻撃力を劇的に強化する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Reduces Defense.\n② Dramatically increases Attack.\n[Effect Duration] Fixed Interval"
+		"tr_explainLong": "① Reduces Defense.\n② Dramatically increases attack power.\n[Effect Duration] Fixed Time"
 	},
 	{
 		"assign": "1310",
 		"jp_explainShort": "弱点属性で攻撃時にダメージ量を増加",
-		"tr_explainShort": "Damage against weak element is boosted",
+		"tr_explainShort": "Damage against element weaknesses up",
 		"jp_explainLong": "① 敵の弱点に有効な属性でのダメージを増加する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Increases damage against the enemy's weak\nattributes.\n[Effect Duration] Fixed Interval"
+		"tr_explainLong": "① Increases damage against\n    enemy element weaknesses.\n[Effect Duration] Fixed Time"
 	},
 	{
 		"assign": "1320",
 		"jp_explainShort": "弱点属性で攻撃時にダメージ量を増加",
-		"tr_explainShort": "Damage against weak attributes boosted",
+		"tr_explainShort": "Damage against element weaknesses up",
 		"jp_explainLong": "① 敵の弱点に有効な属性でのダメージを増加する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Increases damage against the enemy's weak\nattributes.\n[Effect Duration] Fixed Interval"
+		"tr_explainLong": "① Increases damage against\n    enemy element weaknesses.\n[Effect Duration] Fixed Time"
 	},
 	{
 		"assign": "1510",
@@ -172,14 +172,14 @@
 		"jp_explainShort": "ＨＰを削り敵全体に特大ダメージ",
 		"tr_explainShort": "Damages self and enemies",
 		"jp_explainLong": "【ダメージボム】\n① 自分自身をも巻き込んで\n　　 敵全体に炎属性の法撃による特大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Damages yourself and enemies with\na Fire-attribute Attack."
+		"tr_explainLong": "[Damage Bomb]\n① Damages yourself and all enemies with\n    a massive Fire Element Tech attack."
 	},
 	{
 		"assign": "1580",
 		"jp_explainShort": "ＨＰを削り敵全体に特大ダメージ",
 		"tr_explainShort": "Damages self and enemies",
 		"jp_explainLong": "【ダメージボム】\n① 自分自身をも巻き込んで\n　　 敵全体に炎属性の法撃による特大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Damages yourself and enemies with\na Fire-attribute Attack."
+		"tr_explainLong": "[Damage Bomb]\n① Damages yourself and all enemies with\n    a massive Fire Element Tech attack."
 	},
 	{
 		"assign": "1590",
