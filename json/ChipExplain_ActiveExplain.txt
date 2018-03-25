@@ -198,128 +198,128 @@
 	{
 		"assign": "11050",
 		"jp_explainShort": "攻撃力増加＋ダメージの一部ＨＰ回復",
-		"tr_explainShort": "Damage Boost + HP recovery",
+		"tr_explainShort": "Damage boost + HP recovery",
 		"jp_explainLong": "① 攻撃力を増加する。\n② 与えたダメージの一部を自身のＨＰとして回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Increases Attack Power.\n② Recover HP based on damage done.\n[Effect Duration] Long"
+		"tr_explainLong": "① Increases attack power.\n② Recovers HP based on damage done.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "11060",
 		"jp_explainShort": "攻撃力大増加＋ダメージの一部ＨＰ回復",
-		"tr_explainShort": "Damage Boost + Greater HP Recovery",
+		"tr_explainShort": "Large damage boost + HP recovery",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 与えたダメージの一部を自身のＨＰとして回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Increases Attack Power.\n② Greatly recover HP based on damage done.\n[Effect Duration] Long"
+		"tr_explainLong": "① Greatly increases attack power.\n② Recovers HP based on damage done.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "1610",
 		"jp_explainShort": "定期的にＨＰを小回復",
-		"tr_explainShort": "Fixed HP Recovery",
+		"tr_explainShort": "HP recovery over time",
 		"jp_explainLong": "① 定期的にＨＰをわずかに回復する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Slightly recover HP over time.\n[Effect Duration] Fixed Interval"
+		"tr_explainLong": "① Slightly recover HP at regular intervals.\n[Effect Duration] Fixed Time"
 	},
 	{
 		"assign": "1620",
 		"jp_explainShort": "定期的にＨＰを小回復",
-		"tr_explainShort": "Fixed HP Recovery",
+		"tr_explainShort": "HP recovery over time",
 		"jp_explainLong": "① 定期的にＨＰをわずかに回復する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Slightly recover HP over time.\n[Effect Duration] Fixed Interval"
+		"tr_explainLong": "① Slightly recover HP at regular intervals.\n[Effect Duration] Fixed Time"
 	},
 	{
 		"assign": "30001",
 		"jp_explainShort": "通常攻撃と移動を加速＋攻撃力を大強化",
-		"tr_explainShort": "Quickens Actions + ATK Boost",
+		"tr_explainShort": "Actions quickened + ATK boost",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Increases Attack Power greatly.\n② Increases Movement and Attack Speed.\n[Effect Duration] Fixed Interval"
+		"tr_explainLong": "① Greatly increases attack power.\n② Increases speed of movement\n    and normal attacks.\n[Effect Duration] Fixed Time"
 	},
 	{
 		"assign": "30002",
 		"jp_explainShort": "通常攻撃と移動を加速＋攻撃力を大強化",
-		"tr_explainShort": "Quickens Actions + ATK Boost",
+		"tr_explainShort": "Actions quickened + ATK boost",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Increases Attack Power greatly.\n② Increases Movement and Attack Speed.\n[Effect Duration] Fixed Interval"
+		"tr_explainLong": "① Greatly increases attack power.\n② Increases speed of movement\n    and normal attacks.\n[Effect Duration] Fixed Time"
 	},
 	{
 		"assign": "30003",
 		"jp_explainShort": "機甲種攻撃時に追加で特大ダメージ",
-		"tr_explainShort": "Deal Add. Damage to Mechs",
+		"tr_explainShort": "Deal additional damage to Mechs",
 		"jp_explainLong": "① 機甲種に追加で特大ダメージを与える。\n[効果時間]長い時間",
 		"tr_explainLong": "① Deal additional damage to Mechs.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "30004",
 		"jp_explainShort": "機甲種攻撃時に追加で特大ダメージ",
-		"tr_explainShort": "Deal Add. Damage to Mechs",
+		"tr_explainShort": "Deal additional damage to Mechs",
 		"jp_explainLong": "① 機甲種に追加で特大ダメージを与える。\n[効果時間]長い時間",
 		"tr_explainLong": "① Deal additional damage to Mechs.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "30005",
 		"jp_explainShort": "ダーカー攻撃時に追加で特大ダメージ",
-		"tr_explainShort": "Deal Add. Damage to Darkers",
+		"tr_explainShort": "Deal additional damage to Darkers",
 		"jp_explainLong": "① ダーカーに追加で特大ダメージを与える。\n[効果時間]長い時間",
 		"tr_explainLong": "① Deal additional damage to Darkers.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "30006",
 		"jp_explainShort": "ダーカー攻撃時に追加で特大ダメージ",
-		"tr_explainShort": "Deal Add. Damage to Darkers",
+		"tr_explainShort": "Deal additional damage to Darkers",
 		"jp_explainLong": "① ダーカーに追加で特大ダメージを与える。\n[効果時間]長い時間",
 		"tr_explainLong": "① Deal additional damage to Darkers.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "30007",
 		"jp_explainShort": "通常攻撃と移動を加速＋弱点属性を劇的強化",
-		"tr_explainShort": "Quickens Actions + Damage against Weak Attribute.",
+		"tr_explainShort": "Actions quickened + weakness elem. up",
 		"jp_explainLong": "① 攻撃対象の敵の弱点属性を劇的に強化する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[効果時間]長い時間",
-		"tr_explainLong": "Greatly increase weak point damage and increased\nmovement and attacking speed for a long duration."
+		"tr_explainLong": "① Dramatically increases elements\n    that targetted enemy is weak to.\n② Increases speed of movement\n    and normal attacks.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "30008",
 		"jp_explainShort": "通常攻撃と移動を加速＋弱点属性を劇的強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "Actions quickened + weakness elem. up",
 		"jp_explainLong": "① 攻撃対象の敵の弱点属性を劇的に強化する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[効果時間]長い時間",
-		"tr_explainLong": "Increase normal attack speed and\nmovement speed. Dramatically strengthen\nthe element the target enemy is weak to."
+		"tr_explainLong": "① Dramatically increases elements\n    that targetted enemy is weak to.\n② Increases speed of movement\n    and normal attacks.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "30013",
 		"jp_explainShort": "龍族攻撃時に追加で特大ダメージ",
-		"tr_explainShort": "Deal Add. Damage to Dragons",
+		"tr_explainShort": "Deal additional damage to Dragons",
 		"jp_explainLong": "① 龍族に追加で特大ダメージを与える。\n[効果時間]長い時間",
 		"tr_explainLong": "① Deal additional damage to Dragons.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "30014",
 		"jp_explainShort": "龍族攻撃時に追加で特大ダメージ",
-		"tr_explainShort": "Deal Add. Damage to Dragons",
+		"tr_explainShort": "Deal additional damage to Dragons",
 		"jp_explainLong": "① 龍族に追加で特大ダメージを与える。\n[効果時間]長い時間",
 		"tr_explainLong": "① Deal additional damage to Dragons.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "30015",
 		"jp_explainShort": "ダーカー攻撃時に追加で特大ダメージ",
-		"tr_explainShort": "Deal Add. Damage to Darkers",
+		"tr_explainShort": "Deal additional damage to Darkers",
 		"jp_explainLong": "① ダーカーに追加で特大ダメージを与える。\n[効果時間]長い時間",
 		"tr_explainLong": "① Deal additional damage to Darkers.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "30016",
 		"jp_explainShort": "ダーカー攻撃時に追加で特大ダメージ",
-		"tr_explainShort": "Deal Add. Damage to Darkers",
+		"tr_explainShort": "Deal additional damage to Darkers",
 		"jp_explainLong": "① ダーカーに追加で特大ダメージを与える。\n[効果時間]長い時間",
 		"tr_explainLong": "① Deal additional damage to Darkers.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "30017",
 		"jp_explainShort": "ＣＰ残量に応じて攻撃力を劇的強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "Power boost based on remaining CP",
 		"jp_explainLong": "① ＣＰ残量が多いほど攻撃力を劇的に強化する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Dramatically boosts attack power,\n    increasing as remaining CP increases.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "30018",
 		"jp_explainShort": "ＣＰ残量に応じて攻撃力を劇的強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "Power boost based on remaining CP",
 		"jp_explainLong": "① ＣＰ残量が多いほど攻撃力を劇的に強化する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Dramatically boosts attack power,\n    increasing as remaining CP increases.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "30027",
