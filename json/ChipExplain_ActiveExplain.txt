@@ -366,30 +366,30 @@
 	{
 		"assign": "30033",
 		"jp_explainShort": "通常攻撃に「パニック」＋攻撃力を大強化",
-		"tr_explainShort": "Imbues [Panic] + ATK Boost",
+		"tr_explainShort": "Normal attacks can [Panic] + ATK boost",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n② 通常攻撃に「パニック」効果を付与する。\n[効果時間]一定時間",
-		"tr_explainLong": "Greatly boosts ATK and gives chance of [Panic]\non normal attacks for a long duration."
+		"tr_explainLong": "① Greatly boosts ATK.\n② Gives normal attacks a chance to inflict [Panic].\n[Effect Duration] Long"
 	},
 	{
 		"assign": "30034",
 		"jp_explainShort": "通常攻撃に「パニック」＋攻撃力を大強化",
-		"tr_explainShort": "Imbues [Panic] + ATK Boost",
+		"tr_explainShort": "Normal attacks can [Panic] + ATK boost",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n② 通常攻撃に「パニック」効果を付与する。\n[効果時間]長い時間",
-		"tr_explainLong": "Greatly boosts ATK and gives chance of [Panic]\non normal attacks for a long duration."
+		"tr_explainLong": "① Greatly boosts ATK.\n② Gives normal attacks a chance to inflict [Panic].\n[Effect Duration] Long"
 	},
 	{
 		"assign": "1690",
 		"jp_explainShort": "炎の特大ダメージ＋ＨＰ反比例で攻撃強化",
-		"tr_explainShort": "Fire Attribute. Boosted + ATK Boost inversely of HP",
+		"tr_explainShort": "Fire damage + ATK boost inverse to HP",
 		"jp_explainLong": "【ダメージボム】\n① 発動時のＨＰが少ないほど攻撃力を強化する。\n② 炎属性の特大ダメージを与える。\n[効果時間]長い時間",
-		"tr_explainLong": "Greatly boosts Fire Attribute. and increases\nATK inversely to HP remaining for a long duration."
+		"tr_explainLong": "[Damage Bomb]\n① Boosts ATK inversely proportional\n    to your HP on activation.② Deals immense Fire Element damage.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "1700",
 		"jp_explainShort": "炎の特大ダメージ＋ＨＰ反比例で攻撃強化",
-		"tr_explainShort": "Fire Attri. Boosted + ATk Boost inversely of HP",
+		"tr_explainShort": "Fire damage + ATK boost inverse to HP",
 		"jp_explainLong": "【ダメージボム】\n① 発動時のＨＰが少ないほど攻撃力を強化する。\n② 炎属性の特大ダメージを与える。\n[効果時間]長い時間",
-		"tr_explainLong": "Greatly boosts Fire Attribute. and increases\nATK inversely to HP remaining for a long duration."
+		"tr_explainLong": "[Damage Bomb]\n① Boosts ATK inversely proportional\n    to your HP on activation.② Deals immense Fire Element damage.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "30043",
@@ -422,16 +422,16 @@
 	{
 		"assign": "30053",
 		"jp_explainShort": "攻撃力を大強化＋ダウン無効",
-		"tr_explainShort": "Boost ATK & Knockdown Immunity",
+		"tr_explainShort": "ATK boost + knockdown immunity",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n② ダウンしなくなる。\n[効果時間]長い時間",
-		"tr_explainLong": "For a long duration, boosts ATK\nand grants knockdown immunity."
+		"tr_explainLong": "① Greatly boosts ATK.\n② Grants knockdown immunity.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "30054",
 		"jp_explainShort": "攻撃力を大強化＋ダウン無効",
-		"tr_explainShort": "Boost ATK & Knockdown Immunity",
+		"tr_explainShort": "ATK boost + knockdown immunity",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n② ダウンしなくなる。\n[効果時間]長い時間",
-		"tr_explainLong": "For a long duration, boosts ATK\nand grants knockdown immunity."
+		"tr_explainLong": "① Greatly boosts ATK.\n② Grants knockdown immunity.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "30067",
@@ -450,16 +450,16 @@
 	{
 		"assign": "30071",
 		"jp_explainShort": "定期的に攻撃力を上昇",
-		"tr_explainShort": "",
+		"tr_explainShort": "Regular ATK boosts",
 		"jp_explainLong": "① 定期的に攻撃力を大きく強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "Greatly increases ATK for a long duration.\n※ATK is slowly increased over time."
+		"tr_explainLong": "① Greatly boosts ATK at regular intervals.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "30072",
 		"jp_explainShort": "定期的に攻撃力を上昇",
-		"tr_explainShort": "Increases ATK over time",
+		"tr_explainShort": "Regular ATK boosts",
 		"jp_explainLong": "① 定期的に攻撃力を劇的に強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "Greatly increases ATK for a long duration.\n※ATK is slowly increased over time."
+		"tr_explainLong": "① Dramatically boosts ATK at regular intervals.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "30081",
@@ -506,44 +506,44 @@
 	{
 		"assign": "30089",
 		"jp_explainShort": "攻撃力を劇的強化＋定期的にＨＰを小回復",
-		"tr_explainShort": "ATK Boost + HP Recovery over time",
+		"tr_explainShort": "ATK boost + HP recovery over time",
 		"jp_explainLong": "① 現在のＨＰを９割減少させる。\n② 攻撃力を劇的に強化する。\n③ 定期的にＨＰをわずかに回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "Reduces current HP by 90%.\nDrastically increases ATK and gives a\nHP Recovery over time effect for a long duration."
+		"tr_explainLong": "① Reduces current HP by 90%.\n② Dramatically boosts ATK.\n③ Recovers HP slightly at regular intervals.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "30090",
 		"jp_explainShort": "攻撃力を劇的強化＋定期的にＨＰを小回復",
-		"tr_explainShort": "ATK Boost + HP Recovery over time",
+		"tr_explainShort": "ATK boost + HP recovery over time",
 		"jp_explainLong": "① 現在のＨＰを９割減少させる。\n② 攻撃力を劇的に強化する。\n③ 定期的にＨＰをわずかに回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "Reduces current HP by 90%.\nDrastically increases ATK and gives a\nHP Recovery over time effect for a long duration."
+		"tr_explainLong": "① Reduces current HP by 90%.\n② Dramatically boosts ATK.\n③ Recovers HP slightly at regular intervals.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31009",
 		"jp_explainShort": "ＣＰ最大値増加＋ＣＰ回復速度を劇的強化",
-		"tr_explainShort": "Increased CP recovery + Increased maximum CP",
+		"tr_explainShort": "Increased max CP + boosted CP regen",
 		"jp_explainLong": "① ＣＰの最大値を増加する。\n② ＣＰの回復速度を劇的に強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "Drastically increase recovery of CP and increase\nmaximum CP for a long duration."
+		"tr_explainLong": "① Increases maximum CP.\n② Dramatically increases CP recovery.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31010",
 		"jp_explainShort": "ＣＰ最大値増加＋ＣＰ回復速度を劇的強化",
-		"tr_explainShort": "Increased CP recovery + Increased maximum CP",
+		"tr_explainShort": "Increased max CP + boosted CP regen",
 		"jp_explainLong": "① ＣＰの最大値を増加する。\n② ＣＰの回復速度を劇的に強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "Drastically increase recovery of CP and increase\nmaximum CP for a long duration."
+		"tr_explainLong": "① Increases maximum CP.\n② Dramatically increases CP recovery.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31011",
 		"jp_explainShort": "ダーカー以外にダメージ増加",
-		"tr_explainShort": "Damage Boost against all except Darkers",
+		"tr_explainShort": "Damage boost against non-Darkers",
 		"jp_explainLong": "① 原生種、龍族、機甲種、海王種に\n　　 与えるダメージを増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "Increase damage done to natives, dragonkin,\nmechs, oceanids for a long duration."
+		"tr_explainLong": "① Boosts damage against Natives,\n    Dragonkin, Mechs and Oceanids.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31012",
 		"jp_explainShort": "ダーカー以外にダメージ大増加",
-		"tr_explainShort": "Damage Boost against all except Darkers",
+		"tr_explainShort": "Damage boost against non-Darkers",
 		"jp_explainLong": "① 原生種、龍族、機甲種、海王種に\n　　 与えるダメージを大きく増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "Greatly increase damage done to natives,\ndragonkin, mechs, oceanids for a long duration."
+		"tr_explainLong": "① Greatly boosts damage against Natives,\n    Dragonkin, Mechs and Oceanids.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31025",
