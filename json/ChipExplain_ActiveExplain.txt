@@ -746,14 +746,14 @@
 		"jp_explainShort": "チップのＣＰ消費量が減少",
 		"tr_explainShort": "CP consumption decreased",
 		"jp_explainLong": "① 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]一定時間",
-		"tr_explainLong": "① Decreases CP consumption.\n    (Even applies to this chip's activation cost)\n[Effect Duration] Fixed Time"
+		"tr_explainLong": "① Reduces CP consumption.\n    (Even applies to this chip's activation cost)\n[Effect Duration] Fixed Time"
 	},
 	{
 		"assign": "31100",
 		"jp_explainShort": "チップのＣＰ消費量が大減少",
 		"tr_explainShort": "CP consumption decreased",
 		"jp_explainLong": "① 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]一定時間",
-		"tr_explainLong": "① Decreases CP consumption.\n    (Even applies to this chip's activation cost)\n[Effect Duration] Fixed Time"
+		"tr_explainLong": "① Reduces CP consumption.\n    (Even applies to this chip's activation cost)\n[Effect Duration] Fixed Time"
 	},
 	{
 		"assign": "31119",
@@ -816,14 +816,14 @@
 		"jp_explainShort": "「フリーズ」付与＋「フリーズ」ダメージ大増加",
 		"tr_explainShort": "Inflicts [Freeze] + damage up vs [Freeze]",
 		"jp_explainLong": "① 敵に「フリーズ」を付与する。\n② 「フリーズ」状態の敵に対して\n　　 ダメージを絶大に増加する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Inflicts [Freeze] on targeted enemy.\n② Greatly boosts damage against\n    enemies affected by [Freeze].\n[Effect Duration] Long"
+		"tr_explainLong": "① Inflicts [Freeze] on targeted enemy.\n② Greatly boosts damage against\n    enemies affected by [Freeze].\n[Effect Duration] Fixed Time"
 	},
 	{
 		"assign": "31146",
 		"jp_explainShort": "「フリーズ」付与＋「フリーズ」ダメージ劇的増加",
 		"tr_explainShort": "Inflicts [Freeze] + damage up vs [Freeze]",
 		"jp_explainLong": "① 敵に「フリーズ」を付与する。\n② 「フリーズ」状態の敵に対して\n　　 ダメージを絶大に増加する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Inflicts [Freeze] on targeted enemy.\n② Greatly boosts damage against\n    enemies affected by [Freeze].\n[Effect Duration] Long"
+		"tr_explainLong": "① Inflicts [Freeze] on targeted enemy.\n② Greatly boosts damage against\n    enemies affected by [Freeze].\n[Effect Duration] Fixed Time"
 	},
 	{
 		"assign": "31153",
@@ -842,16 +842,16 @@
 	{
 		"assign": "31163",
 		"jp_explainShort": "定期的に劇的ダメージ",
-		"tr_explainShort": "Boost ATK over time",
+		"tr_explainShort": "Regular dramatic damage",
 		"jp_explainLong": "① 攻撃対象の敵に対して\n　　 定期的に攻撃力に応じた劇的ダメージを与える。\n[効果時間]長い時間",
-		"tr_explainLong": "Dramatically boosts ATK against targeted\nenemy over time for a long duration."
+		"tr_explainLong": "① Deals regular dramatic damage to the\n    targeted enemy based on your ATK.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31164",
 		"jp_explainShort": "定期的に絶大ダメージ",
-		"tr_explainShort": "Boost ATK over time",
+		"tr_explainShort": "Regular immense damage",
 		"jp_explainLong": "① 攻撃対象の敵に対して\n　　 定期的に攻撃力に応じた絶大ダメージを与える。\n[効果時間]長い時間",
-		"tr_explainLong": "Enormously boosts ATK against targeted\nenemy over time for a long duration."
+		"tr_explainLong": "① Deals regular immense damage to the\n    targeted enemy based on your ATK.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31171",
@@ -870,156 +870,156 @@
 	{
 		"assign": "31175",
 		"jp_explainShort": "全アクティブチップ発動＋攻撃力劇的増加",
-		"tr_explainShort": "All Active Chips Activation + ATK Boost",
+		"tr_explainShort": "All active chips activate + ATK boosted",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 必殺技・法術以外の全てのアクティブチップを発動する。\n[効果時間]長い時間",
-		"tr_explainLong": "Activates all effects of active chips, excluding PA &\nTech and dramatically boosts ATK for a long duration."
+		"tr_explainLong": "① Dramatically boosts ATK.\n② Activates all active chips, excluding PAs &Techs.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31176",
 		"jp_explainShort": "全アクティブチップ発動＋攻撃力劇的増加",
-		"tr_explainShort": "All Active Chips Activation + ATK Boost",
+		"tr_explainShort": "All active chips activate + ATK boosted",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 必殺技・法術以外の全てのアクティブチップを発動する。\n[効果時間]長い時間",
-		"tr_explainLong": "Activates all effects of active chips, excluding PA &\nTech and dramatically boosts ATK for a long duration."
+		"tr_explainLong": "① Dramatically boosts ATK.\n② Activates all active chips, excluding PAs &Techs.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31185",
 		"jp_explainShort": "攻撃力が劇的増加＋定期的にＣＰが回復",
-		"tr_explainShort": "ATK Boost + Periodic CP Recovery",
+		"tr_explainShort": "ATK boosted + regular CP recovery",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 定期的にＣＰをわずかに回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "Dramatically boosts ATK and periodic\nCP recovery for a long duration."
+		"tr_explainLong": "① Dramatically boosts ATK.\n② Slightly recovers CP at regular intervals.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31186",
 		"jp_explainShort": "攻撃力が劇的増加＋定期的にＣＰが回復",
-		"tr_explainShort": "ATK Boost + Periodic CP Recovery",
+		"tr_explainShort": "ATK boosted + regular CP recovery",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 定期的にＣＰをわずかに回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "Dramatically boosts ATK and periodic\nCP recovery for a long duration."
+		"tr_explainLong": "① Dramatically boosts ATK.\n② Slightly recovers CP at regular intervals.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31189",
 		"jp_explainShort": "必殺技の威力大強化＋ダメージ軽減",
-		"tr_explainShort": "PA Damage Boost + Damage Mitigation",
+		"tr_explainShort": "PA damage boosted + damage reduced",
 		"jp_explainLong": "① 必殺技の威力を大きく強化する。\n② 敵から受けるダメージを軽減する。\n[効果時間]長い時間",
-		"tr_explainLong": "Boosts PA Damage and reduces damage\ntaken for a long duration."
+		"tr_explainLong": "① Greatly boosts PA damage.\n② Reduces damage from enemies.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31190",
 		"jp_explainShort": "必殺技の威力劇的強化＋ダメージ軽減",
-		"tr_explainShort": "PA Damage Boost + Damage Mitigation",
+		"tr_explainShort": "PA damage boosted + damage reduced",
 		"jp_explainLong": "① 必殺技の威力を劇的に強化する。\n② 敵から受けるダメージを大きく軽減する。\n[効果時間]長い時間",
-		"tr_explainLong": "Dramatically boosts PA damage and reduces damage\ntaken for a long duration."
+		"tr_explainLong": "① Dramatically boosts PA damage.\n② Reduces damage from enemies.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31197",
 		"jp_explainShort": "定期的に攻撃力が増加",
-		"tr_explainShort": "Boost ATK over time",
+		"tr_explainShort": "ATK boosted over time",
 		"jp_explainLong": "① 定期的に攻撃力をわずかに増加する。（最大時：絶大）\n[効果時間]長い時間",
-		"tr_explainLong": "Periodically boosts ATK (up to a\ndramatic boost) for a long duration."
+		"tr_explainLong": "① Boosts ATK slightly at regular intervals.\n    (Maximum boost: Immense)\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31198",
 		"jp_explainShort": "定期的に攻撃力が大増加",
-		"tr_explainShort": "Boost ATK over time",
+		"tr_explainShort": "ATK boosted over time",
 		"jp_explainLong": "① 定期的に攻撃力をわずかに増加する。（最大時：絶大）\n[効果時間]長い時間",
-		"tr_explainLong": "Periodically boosts ATK (up to an\nenormous boost) for a long duration."
+		"tr_explainLong": "① Boosts ATK slightly at regular intervals.\n    (Maximum boost: Immense)\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31201",
 		"jp_explainShort": "攻撃力増加＋チップ発動時に効果時間延長",
-		"tr_explainShort": "ATK Boost + Effect Time Extension",
+		"tr_explainShort": "Active chips boost ATK & this effect",
 		"jp_explainLong": "① 攻撃力を増加する。\n② アクティブチップが発動するたびに\n　　 さらに攻撃力をわずかに増加する。\n③ アクティブチップが発動するたびに\n　　 効果時間を延長する。\n[効果時間]一定時間",
-		"tr_explainLong": "Boost ATK. In addition, each activation of\nan active chip gives a slight ATK boost and\nextension of effect."
+		"tr_explainLong": "① Boosts ATK.\n② Each time you activate an active chip,\n    ATK is slightly further boosted.\n③ Each time you activate an active chip,\n    this effect's duration is extended.\n[Effect Duration] Fixed Time"
 	},
 	{
 		"assign": "31202",
 		"jp_explainShort": "攻撃力大増加＋チップ発動時に効果時間延長",
-		"tr_explainShort": "ATK Boost + Effect Time Extension",
+		"tr_explainShort": "Active chips boost ATK & this effect",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② アクティブチップが発動するたびに\n　　 さらに攻撃力をわずかに増加する。\n③ アクティブチップが発動するたびに\n　　 効果時間を延長する。\n[効果時間]長い時間",
-		"tr_explainLong": "Greatly boosts ATK. In addition, each activation\nof an active chip gives a slight ATK boost and\nextension of effect."
+		"tr_explainLong": "① Greatly boosts ATK.\n② Each time you activate an active chip,\n    ATK is slightly further boosted.\n③ Each time you activate an active chip,\n    this effect's duration is extended.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31203",
 		"jp_explainShort": "攻撃力微増加＋チップ発動時に効果時間延長",
-		"tr_explainShort": "ATK Boost + Effect Time Extension",
+		"tr_explainShort": "Active chips boost ATK & this effect",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② アクティブチップが発動するたびに\n　　 さらに攻撃力を増加する。\n③ アクティブチップが発動するたびに\n　　 効果時間をわずかに延長する。\n[効果時間]長い時間",
-		"tr_explainLong": "Dramatically boosts ATK. In addition, each activation\nof an active chip gives a slight ATK boost and\nextension of effect."
+		"tr_explainLong": "① Slightly boosts ATK.\n② Each time you activate an active chip,\n    ATK is further boosted.\n③ Each time you activate an active chip,\n    this effect's duration is slightly extended.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31204",
 		"jp_explainShort": "攻撃力増加＋チップ発動時に効果時間延長",
-		"tr_explainShort": "ATK Boost + Effect Time Extension",
+		"tr_explainShort": "Active chips boost ATK & this effect",
 		"jp_explainLong": "① 攻撃力を増加する。\n②  アクティブチップが発動するたびに\n　　 さらに攻撃力を増加する。\n③ アクティブチップが発動するたびに\n　　 効果時間をわずかに延長する。\n[効果時間]長い時間",
-		"tr_explainLong": "Boosts ATK. In addition, each activation of\nan active chip gives a slight ATK boost and\nextension of effect."
+		"tr_explainLong": "① Boosts ATK.\n② Each time you activate an active chip,\n    ATK is further boosted.\n③ Each time you activate an active chip,\n    this effect's duration is slightly extended.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31211",
 		"jp_explainShort": "攻撃力劇的増加＋ダメージの一部をＨＰ回復",
-		"tr_explainShort": "ATK Boost + Converts Damage into HP",
+		"tr_explainShort": "ATK boosted + damage = HP recovery",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 与えたダメージの一部を自身のＨＰとして回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "Dramatically boosts ATK and converts part\nof damage done into recovery of HP for a\nlong duration."
+		"tr_explainLong": "① Dramatically boosts ATK.\n② Recovers a fraction of damage dealt as HP.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31212",
 		"jp_explainShort": "攻撃力劇的増加＋ダメージの一部をＨＰ回復",
-		"tr_explainShort": "ATK Boost + Converts Damage into HP",
+		"tr_explainShort": "ATK boosted + damage = HP recovery",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 与えたダメージの一部を自身のＨＰとして回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "Dramatically boosts ATK and converts part\nof damage done into recovery of HP for a\nlong duration."
+		"tr_explainLong": "① Dramatically boosts ATK.\n② Recovers a fraction of damage dealt as HP.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31215",
 		"jp_explainShort": "攻撃力劇的増加＋特定条件で戦闘不能回避",
-		"tr_explainShort": "Increases ATK power + iron will under conditions",
+		"tr_explainShort": "ATK boosted + conditional Iron Will",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 装備中の雷属性チップが２枚以下の時\n　　 効果中一度だけ戦闘不能にならない。\n[効果時間]長い時間",
-		"tr_explainLong": "Dramatically increases attack power\nfor a long while. Prevents a single\ninstance of incapacitation if the #\nof lightning chips equipped is 2 or less."
+		"tr_explainLong": "① Dramatically boosts ATK.\n② Prevents a single incapacitation if the #\n    of equipped lightning chips is 2 or less.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31216",
 		"jp_explainShort": "攻撃力劇的増加＋特定条件で戦闘不能回避",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK boosted + conditional Iron Will",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 装備中の雷属性チップが２枚以下の時\n　　 効果中一度だけ戦闘不能にならない。\n[効果時間]長い時間",
-		"tr_explainLong": "Dramatically increases attack power\nfor a long while. Prevents a single\ninstance of incapacitation if the #\nof lightning chips equipped is 2 or less."
+		"tr_explainLong": "① Dramatically boosts ATK.\n② Prevents a single incapacitation if the #\n    of equipped lightning chips is 2 or less.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31227",
 		"jp_explainShort": "雷属性大強化＋追加で特大ダメージ",
-		"tr_explainShort": "Lightning Attribute. Boosted + ATK Boost",
+		"tr_explainShort": "Lightning boosted + additional damage",
 		"jp_explainLong": "① 雷属性を大きく強化する。\n② 敵に追加で特大ダメージを与える。\n[効果時間]長い時間",
-		"tr_explainLong": "Greatly boost ATK and increases\nLightning Attribute. for a long duration."
+		"tr_explainLong": "① Greatly raises the Lightning Element.\n② Deals very large additional damage to enemies.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31228",
 		"jp_explainShort": "雷属性劇的強化＋追加で特大ダメージ",
-		"tr_explainShort": "Lightning Attribute. Boosted + ATK Boost",
+		"tr_explainShort": "Lightning boosted + additional damage",
 		"jp_explainLong": "① 雷属性を劇的に強化する。\n② 敵に追加で特大ダメージを与える。\n[効果時間]長い時間",
-		"tr_explainLong": "Greatly boosts ATK and dramatically\nincreases Lightning Attr for a long duration."
+		"tr_explainLong": "① Dramatically raises the Lightning Element.\n② Deals very large additional damage to enemies.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31241",
 		"jp_explainShort": "チップのＣＰ消費量が減少＋攻撃力劇的増加",
-		"tr_explainShort": "CP Consumption Decreased + ATK Boost",
+		"tr_explainShort": "CP consumption reduced + ATK boosted",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": "Dramatically boosts ATK while reducing\nconsumption of CP for a long duration."
+		"tr_explainLong": "① Dramatically boosts ATK.\n② Reduces CP consumption.\n    (Even applies to this chip's activation cost)\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31242",
 		"jp_explainShort": "チップのＣＰ消費量が減少＋攻撃力劇的増加",
-		"tr_explainShort": "CP Consumption Decreased + ATK Boost",
+		"tr_explainShort": "CP consumption reduced + ATK boosted",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": "Dramatically boosts ATK while reducing\nconsumption of CP for a long duration."
+		"tr_explainLong": "① Dramatically boosts ATK.\n② Reduces CP consumption.\n    (Even applies to this chip's activation cost)\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31243",
 		"jp_explainShort": "攻撃力絶大増加＋法術が小強化",
-		"tr_explainShort": "ATK Boost + Boost Tech",
+		"tr_explainShort": "ATK boosted + Techs boosted",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 法術の威力をわずかに強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "Enormously boost ATK and slightly\nboost Techs for a long duration."
+		"tr_explainLong": "① Immensely boosts ATK.\n② Slightly boosts the power of Techs.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31244",
 		"jp_explainShort": "攻撃力絶大増加＋法術が大強化",
-		"tr_explainShort": "ATK Boost + Boost Tech",
+		"tr_explainShort": "ATK boosted + Techs boosted",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 法術の威力を大きく強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "Enormously boosts ATK and greatly\nboost Techs for a long duration."
+		"tr_explainLong": "① Immensely boosts ATK.\n② Greatly boosts the power of Techs.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31245",
@@ -1556,16 +1556,16 @@
 	{
 		"assign": "31539",
 		"jp_explainShort": "消費ＣＰ減＋機甲・ダーカーにダメージ劇的増",
-		"tr_explainShort": "",
+		"tr_explainShort": "CP use down + Mech/Darker damage up",
 		"jp_explainLong": "① 機甲種かダーカーに対して\n　　 与えるダメージを劇的に増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": "Decreases CP consumption and dramatically increases\ndamage towards Mechs. The decreased CP\nconsumption effect also applies to this Chip upon\nactivation.\n<color=yellow>[B-Frame]</color>"
+		"tr_explainLong": "① Dramatically increases damage\n    dealt to Mechs and Darkers.\n<color=yellow>[B-Frame]</color>\n② Reduces CP consumption.\n    (Even applies to this chip's activation cost)\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31540",
 		"jp_explainShort": "消費ＣＰ減＋機甲・ダーカーにダメージ劇的増",
-		"tr_explainShort": "",
+		"tr_explainShort": "CP use down + Mech/Darker damage up",
 		"jp_explainLong": "① 機甲種かダーカーに対して\n　　 与えるダメージを劇的に増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": "Decreases CP consumption and dramatically increases\ndamage towards Mechs. The decreased CP\nconsumption effect also applies to this Chip upon\nactivation.\n<color=yellow>[B-Frame]</color>"
+		"tr_explainLong": "① Dramatically increases damage\n    dealt to Mechs and Darkers.\n<color=yellow>[B-Frame]</color>\n② Reduces CP consumption.\n    (Even applies to this chip's activation cost)\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31543",
