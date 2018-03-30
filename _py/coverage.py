@@ -30,10 +30,18 @@ for files in json_files:
             countin = 0
             countout = 0
             djson = json.load(json_file)
+            
+            linenames = ["text", "name", "title", "explain", "explainShort", "explainLong"]
             for rmid in djson:
-                countin += 1
-                if (("tr_text" in rmid) and (rmid["tr_text"] != "")):
-                    countout += 1
+                for checkname in linenames:
+                    checkjp = "jp_" + checkname
+                    if ((checkjp in rmid) and (rmid[checkjp] != "") and (rmid[checkjp] != "-")):
+                        countin += 1
+                        checktr = "tr_" + checkname
+                        
+                        if((checktr in rmid) and (rmid[checktr] != "") and (rmid[checktr] != rmid[checkjp])):
+                            countout += 1
+                        
             # print ("%s/%s" % (countin, countout))
             if (countin):
                 countper = "{:06.1%}".format(float(countout) / float(countin))
