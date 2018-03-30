@@ -31,7 +31,7 @@ for files in json_files:
             countout = 0
             djson = json.load(json_file)
             
-            linenames = ["text", "name", "title", "explain", "explainShort", "explainLong"]
+            linenames = ["text", "name", "title", "explain", "explainShort", "explainLong", "patterns"]
             for rmid in djson:
                 for checkname in linenames:
                     checkjp = "jp_" + checkname
@@ -47,7 +47,7 @@ for files in json_files:
                 countper = "{:06.1%}".format(float(countout) / float(countin))
                 bufout += '\n{0}\t{1}'.format(countper, files)
             else:
-                bufout += '\n{0}\t:{1}'.format("ERROR ", files)
+                bufout += '\n{0}\t:{1}'.format("No translatable lines found ", files)
         except ValueError as e:
             print("%s: %s") % (files, e)
             invalid_json_files.append(files)
