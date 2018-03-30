@@ -35,7 +35,7 @@ for files in json_files:
             for rmid in djson:
                 for checkname in linenames:
                     checkjp = "jp_" + checkname
-                    if ((checkjp in rmid) and (rmid[checkjp] != "") and (rmid[checkjp] != "-")):
+                    if ((checkjp in rmid) and (rmid[checkjp] != "") and (rmid[checkjp] != "-") and (rmid[checkjp] != "---")):
                         countin += 1
                         checktr = "tr_" + checkname
                         
