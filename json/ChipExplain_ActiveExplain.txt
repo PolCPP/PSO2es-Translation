@@ -200,14 +200,14 @@
 		"jp_explainShort": "攻撃力増加＋ダメージの一部ＨＰ回復",
 		"tr_explainShort": "Damage boosted + damage HP recovery",
 		"jp_explainLong": "① 攻撃力を増加する。\n② 与えたダメージの一部を自身のＨＰとして回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage.\n② Recovers HP based on damage done.\n    <color=yellow>[E-Frame]</color>\n[Effect Duration] Long"
+		"tr_explainLong": "① Boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Recovers HP based on damage done.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "11060",
 		"jp_explainShort": "攻撃力大増加＋ダメージの一部ＨＰ回復",
 		"tr_explainShort": "Damage boosted + damage HP recovery",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 与えたダメージの一部を自身のＨＰとして回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Greatly boosts damage.\n② Recovers HP based on damage done.\n    <color=yellow>[E-Frame]</color>\n[Effect Duration] Long"
+		"tr_explainLong": "① Greatly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Recovers HP based on damage done.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "1610",
@@ -662,14 +662,14 @@
 		"jp_explainShort": "ダメージ増加＋状態異常無効",
 		"tr_explainShort": "Damage boosted + status immunity",
 		"jp_explainLong": "① 攻撃力を増加する。\n② 自身を状態異常にならなくする。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage.\n② Grants immunity to status effects.\n    <color=yellow>[E-Frame]</color>\n[Effect Duration] Long"
+		"tr_explainLong": "① Boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Grants immunity to status effects.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31068",
 		"jp_explainShort": "ダメージ大増加＋状態異常無効",
 		"tr_explainShort": "Damage boosted + status immunity",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 自身を状態異常にならなくする。\n[効果時間]長い時間",
-		"tr_explainLong": "① Greatly boosts damage.\n② Grants immunity to status effects.\n    <color=yellow>[E-Frame]</color>\n[Effect Duration] Long"
+		"tr_explainLong": "① Greatly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Grants immunity to status effects.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31071",
@@ -984,14 +984,14 @@
 		"jp_explainShort": "雷属性大強化＋追加で特大ダメージ",
 		"tr_explainShort": "Lightning boosted + additional damage",
 		"jp_explainLong": "① 雷属性を大きく強化する。\n② 敵に追加で特大ダメージを与える。\n[効果時間]長い時間",
-		"tr_explainLong": "① Greatly raises the Lightning Element.\n② Deals very large additional damage to enemies.\n[Effect Duration] Long"
+		"tr_explainLong": "① Greatly increases the Lightning Element.\n② Deals very large additional damage to enemies.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31228",
 		"jp_explainShort": "雷属性劇的強化＋追加で特大ダメージ",
 		"tr_explainShort": "Lightning boosted + additional damage",
 		"jp_explainLong": "① 雷属性を劇的に強化する。\n② 敵に追加で特大ダメージを与える。\n[効果時間]長い時間",
-		"tr_explainLong": "① Dramatically raises the Lightning Element.\n② Deals very large additional damage to enemies.\n[Effect Duration] Long"
+		"tr_explainLong": "① Dramatically increases the Lightning Element.\n② Deals very large additional damage to enemies.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31241",
