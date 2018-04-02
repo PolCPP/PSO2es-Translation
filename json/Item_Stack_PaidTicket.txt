@@ -186,14 +186,14 @@
 		"jp_text": "マイルーム利用１日",
 		"tr_text": "My Room 1 Day",
 		"jp_explain": "マイルーム利用許可チケット。\n使用することで、１日間\nマイルームの利用が可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Allows you to open your own room\nfor a single day."
 	},
 	{
 		"assign": "320028",
 		"jp_text": "マイショップ出店１日",
 		"tr_text": "My Shop 1 Day",
 		"jp_explain": "マイショップ出店許可チケット。\n使用することで、１日間\nマイショップの出品が可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Allows you to sell items at the player\nshops for a single day."
 	},
 	{
 		"assign": "320029",
@@ -333,7 +333,7 @@
 		"jp_text": "シフタ／リセット",
 		"tr_text": "Shifta/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": ""
+		"tr_explain": "Resets any customizations to default."
 	},
 	{
 		"assign": "320052",
@@ -375,7 +375,7 @@
 		"jp_text": "デバンド／リセット",
 		"tr_text": "Deband/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": ""
+		"tr_explain": "Resets any customizations to default."
 	},
 	{
 		"assign": "320058",
@@ -417,7 +417,7 @@
 		"jp_text": "ゾンディール／リセット",
 		"tr_text": "Zondeel/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": ""
+		"tr_explain": "Resets any customizations to default."
 	},
 	{
 		"assign": "320064",
@@ -466,7 +466,7 @@
 		"jp_text": "ザンバース／リセット",
 		"tr_text": "Zanverse/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": ""
+		"tr_explain": "Resets any customizations to default."
 	},
 	{
 		"assign": "320071",
@@ -494,14 +494,14 @@
 		"jp_text": "レスタ／リセット",
 		"tr_text": "Resta/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": ""
+		"tr_explain": "Resets any customizations to default."
 	},
 	{
 		"assign": "320075",
 		"jp_text": "アンティ／リセット",
 		"tr_text": "Anti/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": ""
+		"tr_explain": "Resets any customizations to default."
 	},
 	{
 		"assign": "320076",
@@ -543,7 +543,7 @@
 		"jp_text": "メギバース／リセット",
 		"tr_text": "Megiverse/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": ""
+		"tr_explain": "Resets any customizations to default."
 	},
 	{
 		"assign": "320082",
@@ -655,21 +655,21 @@
 		"jp_text": "リア／効果時間延長７日",
 		"tr_text": "Rear/Timed Ability Reset 7d",
 		"jp_explain": "装備中のリアユニットの\n時限能力を延長する。",
-		"tr_explain": ""
+		"tr_explain": "Resets any customizations to default."
 	},
 	{
 		"assign": "3200101",
 		"jp_text": "アーム／効果時間延長７日",
 		"tr_text": "Arm/Timed Ability Reset 7d",
 		"jp_explain": "装備中のアームユニットの\n時限能力を延長する。",
-		"tr_explain": ""
+		"tr_explain": "Resets any customizations to default."
 	},
 	{
 		"assign": "3200102",
 		"jp_text": "レッグ／効果時間延長７日",
 		"tr_text": "Leg/Timed Ability Reset 7d",
 		"jp_explain": "装備中のレッグユニットの\n時限能力を延長する。",
-		"tr_explain": ""
+		"tr_explain": "Resets any customizations to default."
 	},
 	{
 		"assign": "3200103",
@@ -1220,9 +1220,9 @@
 	{
 		"assign": "3200186",
 		"jp_text": "メインマッチブースト回復１",
-		"tr_text": "",
+		"tr_text": "Main Match Boost Recovery 1",
 		"jp_explain": "使用するとバスタークエストの\nメインマッチブーストの回数が１回復する。\n<yellow>※回数の上限値は超過しません。<c>",
-		"tr_explain": ""
+		"tr_explain": "Immediately recovers 1 Buster Quest\nMain Match Boost.\n<yellow>※Cannot exceed the maximum limit.<c>"
 	},
 	{
 		"assign": "3200187",

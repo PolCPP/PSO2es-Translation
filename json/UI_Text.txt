@@ -19367,7 +19367,7 @@
 	{
 		"assign": "chip_details_ghost_explains",
 		"jp_text": "【条件】必殺技は武器の種類、法術は属性が一致\nラッシュゲージ最大時\n装備先の<%type>発動後のジャストアタックに成功すると\n分身となる「ラッシュ」が出現して\n「<%name>」が\n追加で発動する。",
-		"tr_text": ""
+		"tr_text": "[Condition] Same-weapon PA, same-Element Tech\nWhen the Rush Arts gauge is full, by performing a\nJust Attack after using the linked <%type>, a \"Rush\"\nghost of yourself will appear and follow up with\n\"<%name>\"."
 	},
 	{
 		"assign": "chip_details_ghost_explains_pa",
