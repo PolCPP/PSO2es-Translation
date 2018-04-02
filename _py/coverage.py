@@ -40,6 +40,8 @@ for files in json_files:
                         and (rmid[checkjp] != "")
                         and (rmid[checkjp] != "-")
                         and (rmid[checkjp] != "---")
+                        and (rmid[checkjp] != "－")
+                        and (re.fullmatch('d+', str(rmid[checkjp])) == None) # Filter out names that are just numbers - even if these aren't dummy strings, the numbers alone are fine
                         and (re.fullmatch('ENT_(ABN|SP)ダミー\d+', str(rmid[checkjp])) == None)): # Filter out dummy strings from Explain_Element_Abnormal and Explain_Element_Special
                         
                         countin += 1
