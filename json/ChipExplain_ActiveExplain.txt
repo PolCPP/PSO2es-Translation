@@ -1663,14 +1663,14 @@
 		"jp_explainShort": "攻撃力増加＋特定条件で戦闘不能回避",
 		"tr_explainShort": "Damage boosted + conditional Iron Will",
 		"jp_explainLong": "① 攻撃力を増加する。\n② 装備中の雷属性チップが２枚以下の時\n　　 効果中一度だけ戦闘不能にならない。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage.\n    <color=yellow>[E-Frame]\n② Prevents a single incapacitation if the number\n    of equipped Lightning chips is 2 or less.\n[Effect Duration] Long
+		"tr_explainLong": "① Boosts damage.\n    <color=yellow>[E-Frame]\n② Prevents a single incapacitation if the number\n    of equipped Lightning chips is 2 or less.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31600",
 		"jp_explainShort": "攻撃力大増加＋特定条件で戦闘不能回避",
 		"tr_explainShort": "Damage boosted + conditional Iron Will",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 装備中の雷属性チップが２枚以下の時\n　　 効果中一度だけ戦闘不能にならない。\n[効果時間]長い時間",
-		"tr_explainLong": "① Greatly boosts damage.\n    <color=yellow>[E-Frame]\n② Prevents a single incapacitation if the number\n    of equipped Lightning chips is 2 or less.\n[Effect Duration] Long
+		"tr_explainLong": "① Greatly boosts damage.\n    <color=yellow>[E-Frame]\n② Prevents a single incapacitation if the number\n    of equipped Lightning chips is 2 or less.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31605",
@@ -1927,16 +1927,16 @@
 	{
 		"assign": "80710",
 		"jp_explainShort": "攻撃力と防御力を強化",
-		"tr_explainShort": "ATK & DEF Boost",
+		"tr_explainShort": "ATK & DEF up",
 		"jp_explainLong": "① 攻撃力を強化する。\n② 防御力を強化する。\n[効果時間]一定時間",
-		"tr_explainLong": "For a period of time, boosts ATK and DEF."
+		"tr_explainLong": "① Increases ATK.\n② Increases DEF.\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "80720",
 		"jp_explainShort": "攻撃力と防御力を強化",
-		"tr_explainShort": "ATK & DEF Boost",
+		"tr_explainShort": "ATK & DEF up",
 		"jp_explainLong": "① 攻撃力を強化する。\n② 防御力を強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "For long duration, boosts ATK and DEF."
+		"tr_explainLong": "① Increases ATK.\n② Increases DEF.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "80810",
@@ -2025,30 +2025,30 @@
 	{
 		"assign": "81710",
 		"jp_explainShort": "雷属性を強化",
-		"tr_explainShort": "Lightning Element Up",
+		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性を強化する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Increases Lightning Element.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "81720",
 		"jp_explainShort": "雷属性を大強化",
-		"tr_explainShort": "Boost Lightning Attribute.",
+		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性を大きく強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "For a period of time,\ngreatly boosts Lightning Attribute."
+		"tr_explainLong": "① Greatly increases Lightning Element.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "81810",
 		"jp_explainShort": "炎属性を強化",
-		"tr_explainShort": "Fire Element Up",
+		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性を強化する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Increases Fire Element.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "81820",
 		"jp_explainShort": "炎属性を大強化",
-		"tr_explainShort": "Boost Fire Attribute.",
+		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性を大きく強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "For a period of time\n,greatly boosts Fire Attribute."
+		"tr_explainLong": "① Greatly increases Fire Element.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "50110",
@@ -6491,86 +6491,86 @@
 	{
 		"assign": "20110",
 		"jp_explainShort": "炎属性を小強化",
-		"tr_explainShort": "Boost Fire Attribute.",
+		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性をわずかに強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "For a short duration, slightly boosts Fire Attribute."
+		"tr_explainLong": "① Slightly increases Fire Element.\n[Effect Duration] Short"
 	},
 	{
 		"assign": "20210",
 		"jp_explainShort": "炎属性を強化",
-		"tr_explainShort": "Boost Fire Attribute.",
+		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性を強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "For a short duration, boosts Fire Attribute."
+		"tr_explainLong": "① Increases Fire Element.\n[Effect Duration] Short"
 	},
 	{
 		"assign": "20310",
 		"jp_explainShort": "氷属性を小強化",
-		"tr_explainShort": "Boost Ice Attribute.",
+		"tr_explainShort": "Ice Element up",
 		"jp_explainLong": "① 氷属性をわずかに強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "For a short duration, slightly boosts Ice Attribute."
+		"tr_explainLong": "① Slightly increases Ice Element.\n[Effect Duration] Short"
 	},
 	{
 		"assign": "20410",
 		"jp_explainShort": "氷属性を強化",
-		"tr_explainShort": "Boost Ice Attribute.",
+		"tr_explainShort": "Ice Element up",
 		"jp_explainLong": "① 氷属性を強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "For a short duration, boosts Ice Attribute."
+		"tr_explainLong": "① Increases Ice Element.\n[Effect Duration] Short"
 	},
 	{
 		"assign": "20510",
 		"jp_explainShort": "雷属性を小強化",
-		"tr_explainShort": "Boost Lightning Attribute.",
+		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性をわずかに強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "For a short duration, slightly\nboosts Lightning Attribute."
+		"tr_explainLong": "① Slightly increases Lightning Element.\n[Effect Duration] Short"
 	},
 	{
 		"assign": "20610",
 		"jp_explainShort": "雷属性を強化",
-		"tr_explainShort": "Boost Lightning Attribute.",
+		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性を強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "For a short duration, boosts Lightning Attribute."
+		"tr_explainLong": "① Increases Lightning Element.\n[Effect Duration] Short"
 	},
 	{
 		"assign": "20710",
 		"jp_explainShort": "風属性を小強化",
-		"tr_explainShort": "Boost Wind Attribute.",
+		"tr_explainShort": "Wind Element up",
 		"jp_explainLong": "① 風属性をわずかに強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "For a short duration, slightly boosts Wind Attribute."
+		"tr_explainLong": "① Slightly increases Wind Element.\n[Effect Duration] Short"
 	},
 	{
 		"assign": "20810",
 		"jp_explainShort": "風属性を強化",
-		"tr_explainShort": "Boost Wind Attribute.",
+		"tr_explainShort": "Wind Element up",
 		"jp_explainLong": "① 風属性を強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "For a short duration, boosts Wind Attribute."
+		"tr_explainLong": "① Increases Wind Element.\n[Effect Duration] Short"
 	},
 	{
 		"assign": "20910",
 		"jp_explainShort": "光属性を小強化",
-		"tr_explainShort": "Boost Light Attribute.",
+		"tr_explainShort": "Light Element up",
 		"jp_explainLong": "① 光属性をわずかに強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "For a short duration, slightly boosts Light Attribute."
+		"tr_explainLong": "① Slightly increases Light Element.\n[Effect Duration] Short"
 	},
 	{
 		"assign": "21010",
 		"jp_explainShort": "光属性を強化",
-		"tr_explainShort": "Boost Light Attribute.",
+		"tr_explainShort": "Light Element up",
 		"jp_explainLong": "① 光属性を強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "For a short duration, boosts Light Attribute."
+		"tr_explainLong": "① Increases Light Element.\n[Effect Duration] Short"
 	},
 	{
 		"assign": "21110",
 		"jp_explainShort": "闇属性を小強化",
-		"tr_explainShort": "Boost Dark Attribute.",
+		"tr_explainShort": "Dark Element up",
 		"jp_explainLong": "① 闇属性をわずかに強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "For a short duration, slightly boost Dark Attribute."
+		"tr_explainLong": "① Slightly increases Dark Element.\n[Effect Duration] Short"
 	},
 	{
 		"assign": "21210",
 		"jp_explainShort": "闇属性を強化",
-		"tr_explainShort": "Boost Dark Attribute.",
+		"tr_explainShort": "Dark Element up",
 		"jp_explainLong": "① 闇属性を強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "For a short duration, boost Dark Attribute."
+		"tr_explainLong": "① Increases Dark Element.\n[Effect Duration] Short"
 	},
 	{
 		"assign": "3810",
@@ -6995,16 +6995,16 @@
 	{
 		"assign": "9110",
 		"jp_explainShort": "全体に炎属性の打撃による中ダメージ",
-		"tr_explainShort": "Fire Attribute. All Attack",
+		"tr_explainShort": "Fire striking damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に炎属性の打撃による中ダメージを与える。",
-		"tr_explainLong": "Deals a Fire attribute\nattack of medium damage to all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals medium Fire striking\n    damage to all enemies."
 	},
 	{
 		"assign": "9120",
 		"jp_explainShort": "全体に炎属性の打撃による大ダメージ",
-		"tr_explainShort": "Fire Attribute. All Attack",
+		"tr_explainShort": "Fire striking damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に炎属性の打撃による大ダメージを与える。",
-		"tr_explainLong": "Deals a Fire attribute\nattack of large damage to all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals large Fire striking\n    damage to all enemies."
 	},
 	{
 		"assign": "9210",
@@ -7051,16 +7051,16 @@
 	{
 		"assign": "9423",
 		"jp_explainShort": "ダメージ小増加＋ダメージの一部ＨＰ回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Damage boost + damage HP recovery",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 与えたダメージの一部を自身のＨＰとして回復する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Slightly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Recovers HP based on damage done.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "9424",
 		"jp_explainShort": "ダメージ小増加＋ダメージの一部ＨＰ回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Damage boost + damage HP recovery",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 与えたダメージの一部を自身のＨＰとして回復する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Slightly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Recovers HP based on damage done.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "9421",
