@@ -606,14 +606,14 @@
 		"jp_explainShort": "ダーカーに対してダメージが大増加",
 		"tr_explainShort": "Damage boosted against Darkers",
 		"jp_explainLong": "① ダーカーに与えるダメージを大きく増加する。\n[発動条件]ダーカーに攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Greatly boosts damage against Darkers.\n[Activation Trigger] Landing attacks on Darkers\n[Effect Duration] Short"
+		"tr_explainLong": "① Greatly boosts damage against Darkers.\n    <color=yellow>[B-Frame]</color>\n[Activation Trigger] Landing attacks on Darkers\n[Effect Duration] Short"
 	},
 	{
 		"assign": "31014",
 		"jp_explainShort": "ダーカーに対してダメージが劇的増加",
 		"tr_explainShort": "Damage boosted against Darkers",
 		"jp_explainLong": "① ダーカーに与えるダメージを劇的に増加する。\n[発動条件]ダーカーに攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Dramatically boosts damage against Darkers.\n[Activation Trigger] Landing attacks on Darkers\n[Effect Duration] Medium"
+		"tr_explainLong": "① Dramatically boosts damage against Darkers.\n    <color=yellow>[B-Frame]</color>\n[Activation Trigger] Landing attacks on Darkers\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31015",
@@ -744,30 +744,30 @@
 	{
 		"assign": "31037",
 		"jp_explainShort": "状態異常ダメージ大増＋定期的にＨＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Damage boost vs status + HP over time",
 		"jp_explainLong": "① 状態異常の敵に対して大きくダメージを増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Greatly boosts damage against enemies\n    affected by status effects.\n    <color=yellow>[C-Frame]</color>\n② Slightly recovers HP at regular intervals.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31038",
 		"jp_explainShort": "状態異常ダメージ劇的増＋定期的にＨＰ小回復",
-		"tr_explainShort": "Dramatic ATK Boost on Statused Enemies + Periodic HP Recovery",
+		"tr_explainShort": "Damage boost vs status + HP over time",
 		"jp_explainLong": "① 状態異常の敵に対して劇的にダメージを増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacks activates an effect that dramatically boosts\nATK against enemies afflicted with status effects and\nperiodically recovers small amount of HP."
+		"tr_explainLong": "① Dramatically boosts damage against enemies\n    affected by status effects.\n    <color=yellow>[C-Frame]</color>\n② Slightly recovers HP at regular intervals.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31039",
 		"jp_explainShort": "龍族にダメージ大増加＋被ダメージ軽減",
-		"tr_explainShort": "Dragonkin DMG Boost, DMG Reduction",
+		"tr_explainShort": "Dam. boost & dam. reduced vs Dragonkin",
 		"jp_explainLong": "① 龍族に与えるダメージを大きく増加する。\n② 龍族から受けるダメージを軽減する。\n[発動条件]龍族に攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "Damage against Dragonkin activates an\neffect that increases damage done towards\nthem, while reducing damage taken from them."
+		"tr_explainLong": "① Greatly boosts damage against Dragonkin.\n    <color=yellow>[B-Frame]</color>\n② Reduces damage taken from Dragonkin.\n[Activation Trigger] Landing attacks on Dragonkin\n[Effect Duration] Short"
 	},
 	{
 		"assign": "31040",
 		"jp_explainShort": "龍族にダメージ劇的増加＋被ダメージ大軽減",
-		"tr_explainShort": "Dragonkin DMG Boost, DMG Reduction",
+		"tr_explainShort": "Dam. boost & dam. reduced vs Dragonkin",
 		"jp_explainLong": "① 龍族に与えるダメージを劇的に増加する。\n② 龍族から受けるダメージを大きく軽減する。\n[発動条件]龍族に攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Damage against Dragonkin activates an\neffect that increases damage done towards\nthem, while greatly reducing damage from them."
+		"tr_explainLong": "① Dramatically boosts damage against Dragonkin.\n    <color=yellow>[B-Frame]</color>\n② Greatly reduces damage taken from Dragonkin.\n[Activation Trigger] Landing attacks on Dragonkin\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31041",
@@ -7387,268 +7387,268 @@
 	{
 		"assign": "6910",
 		"jp_explainShort": "原生種から受けるダメージが軽減",
-		"tr_explainShort": "Reduce Damage from Natives",
+		"tr_explainShort": "Reduces damage from Natives",
 		"jp_explainLong": "① 敵から受けるダメージを軽減する。\n[発動条件]原生種からダメージを受けた時",
-		"tr_explainLong": "When taking damage from Natives, grants an\neffect that reduces damage taken from Natives."
+		"tr_explainLong": "① Reduces damage taken from enemies.\n[Activation Trigger] Taking damage from Natives"
 	},
 	{
 		"assign": "6920",
 		"jp_explainShort": "原生種から受けるダメージが大軽減",
-		"tr_explainShort": "Reduce Damage from Natives",
+		"tr_explainShort": "Reduces damage from Natives",
 		"jp_explainLong": "① 敵から受けるダメージを大きく軽減する。\n[発動条件]原生種からダメージを受けた時",
-		"tr_explainLong": "When taking damage from Natives, grants an\neffect that reduces damage taken from Natives."
+		"tr_explainLong": "① Greatly reduces damage taken from enemies.\n[Activation Trigger] Taking damage from Natives"
 	},
 	{
 		"assign": "7610",
 		"jp_explainShort": "一定確率で「フリーズ」状態にする",
-		"tr_explainShort": "Imbues [Freeze] to Hits",
+		"tr_explainShort": "[Freeze] imbued",
 		"jp_explainLong": "-",
-		"tr_explainLong": "When attacking, grants an effect that\nimbues [Freeze] to attacks."
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "7620",
 		"jp_explainShort": "一定確率で「フリーズ」状態にする",
-		"tr_explainShort": "Imbues [Freeze] to Hits",
+		"tr_explainShort": "[Freeze] imbued",
 		"jp_explainLong": "-",
-		"tr_explainLong": "When attacking, grants an effect that\nimbues [Freeze] to attacks."
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "7710",
 		"jp_explainShort": "防御力が小強化",
-		"tr_explainShort": "Small DEF Boost",
+		"tr_explainShort": "DEF up",
 		"jp_explainLong": "① 防御力をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that slightly boosts DEF."
+		"tr_explainLong": "① Slightly increases DEF.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "7720",
 		"jp_explainShort": "防御力が小強化",
-		"tr_explainShort": "Small DEF Boost",
+		"tr_explainShort": "DEF up",
 		"jp_explainLong": "① 防御力をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that slightly boosts DEF."
+		"tr_explainLong": "① Slightly increases DEF.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "7810",
 		"jp_explainShort": "攻撃力が小強化",
-		"tr_explainShort": "Small ATK Boost",
+		"tr_explainShort": "ATK up",
 		"jp_explainLong": "① 攻撃力をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that slightly boosts ATK."
+		"tr_explainLong": "① Slightly increases ATK.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "7820",
 		"jp_explainShort": "攻撃力が小強化",
-		"tr_explainShort": "Small ATK Boost",
+		"tr_explainShort": "ATK up",
 		"jp_explainLong": "① 攻撃力をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that slightly boosts ATK."
+		"tr_explainLong": "① Slightly increases ATK.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "7910",
 		"jp_explainShort": "ＣＰが小回復",
-		"tr_explainShort": "Small CP Recovery",
+		"tr_explainShort": "CP recovery",
 		"jp_explainLong": "① ＣＰをわずかに回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "JAs activates an effect that slightly recovers CP."
+		"tr_explainLong": "① Slightly recovers CP.\n[Activation Trigger] Successful Just Attack"
 	},
 	{
 		"assign": "7920",
 		"jp_explainShort": "ＣＰが回復",
-		"tr_explainShort": "Small CP Recovery",
+		"tr_explainShort": "CP recovery",
 		"jp_explainLong": "① ＣＰを回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "JAs activates an effect that slightly recovers CP."
+		"tr_explainLong": "① Recovers CP.\n[Activation Trigger] Successful Just Attack"
 	},
 	{
 		"assign": "8010",
 		"jp_explainShort": "炎属性が小強化",
-		"tr_explainShort": "Small Fire Attr. Boost",
+		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "When attacking, grants an effect\nthat slightly boosts Fire Attr."
+		"tr_explainLong": "① Slightly increases Fire Element.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "8020",
 		"jp_explainShort": "炎属性が小強化",
-		"tr_explainShort": "Small Fire Attr. Boost",
+		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "When attacking, grants an effect\nthat slightly boosts Fire Attr."
+		"tr_explainLong": "① Slightly increases Fire Element.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "8110",
 		"jp_explainShort": "炎属性が小強化",
-		"tr_explainShort": "Small Fire Attr. Boost",
+		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "When taking damage, grants an effect\nthat slightly boosts Fire Attr."
+		"tr_explainLong": "① Slightly increases Fire Element.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] Short"
 	},
 	{
 		"assign": "8120",
 		"jp_explainShort": "炎属性が小強化",
-		"tr_explainShort": "Small Fire Attr. Boost",
+		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "When taking damage, grants an effect\nthat slightly boosts Fire Attr."
+		"tr_explainLong": "① Slightly increases Fire Element.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] Short"
 	},
 	{
 		"assign": "8210",
 		"jp_explainShort": "防御力が小強化",
-		"tr_explainShort": "Small DEF Boost",
+		"tr_explainShort": "DEF up",
 		"jp_explainLong": "① 防御力をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that slightly boosts DEF."
+		"tr_explainLong": "① Slightly increases DEF.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "8220",
 		"jp_explainShort": "防御力が小強化",
-		"tr_explainShort": "Small DEF Boost",
+		"tr_explainShort": "DEF up",
 		"jp_explainLong": "① 防御力をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that slightly boosts DEF."
+		"tr_explainLong": "① Slightly increases DEF.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "8310",
 		"jp_explainShort": "攻撃力が小強化",
-		"tr_explainShort": "Small ATK Boost",
+		"tr_explainShort": "ATK up",
 		"jp_explainLong": "① 攻撃力をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that slightly boosts ATK."
+		"tr_explainLong": "① Slightly increases ATK.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "8320",
 		"jp_explainShort": "攻撃力が小強化",
-		"tr_explainShort": "Small ATK Boost",
+		"tr_explainShort": "ATK up",
 		"jp_explainLong": "① 攻撃力をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that slightly boosts ATK."
+		"tr_explainLong": "① Slightly increases ATK.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "8410",
 		"jp_explainShort": "ＣＰが小回復",
-		"tr_explainShort": "Small CP Recovery",
+		"tr_explainShort": "CP recovery",
 		"jp_explainLong": "① ＣＰをわずかに回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "JAs activates an effect that slightly recovers CP."
+		"tr_explainLong": "① Slightly recovers CP.\n[Activation Trigger] Successful Just Attack"
 	},
 	{
 		"assign": "8420",
 		"jp_explainShort": "ＣＰが回復",
-		"tr_explainShort": "Small CP Recovery",
+		"tr_explainShort": "CP recovery",
 		"jp_explainLong": "① ＣＰを回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "JAs activates an effect that slightly recovers CP."
+		"tr_explainLong": "① Recovers CP.\n[Activation Trigger] Successful Just Attack"
 	},
 	{
 		"assign": "8510",
 		"jp_explainShort": "光属性が小強化",
-		"tr_explainShort": "Small Light Attr. Boost",
+		"tr_explainShort": "Light Element up",
 		"jp_explainLong": "① 光属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "When attacking, grants an effect\nthat slightly boosts Light Attr."
+		"tr_explainLong": "① Slightly increases Light Element.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "8520",
 		"jp_explainShort": "光属性が小強化",
-		"tr_explainShort": "Small Light Attr. Boost",
+		"tr_explainShort": "Light Element up",
 		"jp_explainLong": "① 光属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "When attacking, grants an effect\nthat slightly boosts Light Attr."
+		"tr_explainLong": "① Slightly increases Light Element.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "8610",
 		"jp_explainShort": "光属性が小強化",
-		"tr_explainShort": "Small Light Attr. Boost",
+		"tr_explainShort": "Light Element up",
 		"jp_explainLong": "① 光属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "When taking damage, grants an effect\nthat slightly boosts Light Attr."
+		"tr_explainLong": "① Slightly increases Light Element.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] Short"
 	},
 	{
 		"assign": "8620",
 		"jp_explainShort": "光属性が小強化",
-		"tr_explainShort": "Small Light Attr. Boost",
+		"tr_explainShort": "Light Element up",
 		"jp_explainLong": "① 光属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "When taking damage, grants an effect\nthat slightly boosts Light Attr."
+		"tr_explainLong": "① Slightly increases Light Element.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] Short"
 	},
 	{
 		"assign": "8810",
 		"jp_explainShort": "龍族から受けるダメージが軽減",
-		"tr_explainShort": "Reduce Damage from Dragonkin",
+		"tr_explainShort": "Reduces damage from Dragonkin",
 		"jp_explainLong": "① 敵から受けるダメージを軽減する。\n[発動条件]龍族からダメージを受けた時",
-		"tr_explainLong": "When taking damage from Dragonkin, grants an\neffect that reduces damage taken from Dragonkin."
+		"tr_explainLong": "① Reduces damage taken from enemies.\n[Activation Trigger] Taking damage from Dragonkin"
 	},
 	{
 		"assign": "8820",
 		"jp_explainShort": "龍族から受けるダメージが大軽減",
-		"tr_explainShort": "Reduce Damage from Dragonkin",
+		"tr_explainShort": "Reduces damage from Dragonkin",
 		"jp_explainLong": "① 敵から受けるダメージを大きく軽減する。\n[発動条件]龍族からダメージを受けた時",
-		"tr_explainLong": "When taking damage from Dragonkin, grants an\neffect that reduces damage taken from Dragonkin."
+		"tr_explainLong": "① Greatly reduces damage taken from enemies.\n[Activation Trigger] Taking damage from Dragonkin"
 	},
 	{
 		"assign": "9010",
 		"jp_explainShort": "一定確率で「パニック」状態にする",
-		"tr_explainShort": "Imbues [Panic] to Hits",
+		"tr_explainShort": "[Panic] imbued",
 		"jp_explainLong": "① 通常攻撃に「パニック」効果を付与する。\n[発動条件]攻撃がヒットした時",
-		"tr_explainLong": "When attacking, grants an effect that\nimbues [Panic] to attacks."
+		"tr_explainLong": "① Gives normal attacks a chance to inflict [Panic].\n[Activation Trigger] Landing an attack"
 	},
 	{
 		"assign": "9020",
 		"jp_explainShort": "一定確率で「パニック」状態にする",
-		"tr_explainShort": "Imbues [Panic] to Hits",
+		"tr_explainShort": "[Panic] imbued",
 		"jp_explainLong": "① 通常攻撃に「パニック」効果を付与する。\n[発動条件]攻撃がヒットした時",
-		"tr_explainLong": "When attacking, grants an effect that\nimbues [Panic] to attacks."
+		"tr_explainLong": "① Gives normal attacks a chance to inflict [Panic].\n[Activation Trigger] Landing an attack"
 	},
 	{
 		"assign": "20023",
 		"jp_explainShort": "攻撃力小増加＋ダメージ防御",
-		"tr_explainShort": "Small ATK Boost + Damage Migitation",
+		"tr_explainShort": "Damage boost + barrier",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JA activates an effect that slightly boosts\nATK and grants a damage migitating shield to HP."
+		"tr_explainLong": "① Slightly boosts damage\n② Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "20024",
 		"jp_explainShort": "攻撃力小増加＋ダメージ防御",
-		"tr_explainShort": "Small ATK Boost + Damage Migitation",
+		"tr_explainShort": "Damage boost + barrier",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "JA activates an effect that slightly boosts\nATK and grants a damage migitating shield to HP."
+		"tr_explainLong": "① Slightly boosts damage\n② Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "20029",
 		"jp_explainShort": "攻撃力が小強化＋ダウン無効",
-		"tr_explainShort": "Small ATK Boost + Knockdown Immunity",
+		"tr_explainShort": "ATK up + knockdown immunity",
 		"jp_explainLong": "① 攻撃力をわずかに強化する。\n② ダウンしなくなる。\n[発動条件]スライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "Slide Actions activates an effect that slightly\nboost ATK and grants knockdown immunity."
+		"tr_explainLong": "① Slightly increases ATK.\n② Grants knockdown immunity.\n[Activation Trigger] Slide Action\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "20030",
 		"jp_explainShort": "攻撃力が強化＋ダウン無効",
-		"tr_explainShort": "ATK Boost + Knockdown Immunity",
+		"tr_explainShort": "ATK up + knockdown immunity",
 		"jp_explainLong": "① 攻撃力を強化する。\n② ダウンしなくなる。\n[発動条件]スライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "Slide Actions activates an effect that \nboost ATK and grants knockdown immunity."
+		"tr_explainLong": "① Increases ATK.\n② Grants knockdown immunity.\n[Activation Trigger] Slide Action\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "20031",
 		"jp_explainShort": "光属性が大強化＋通常攻撃と移動が加速",
-		"tr_explainShort": "Boost Light Attr. + Quickens Actions",
+		"tr_explainShort": "Light Element up + actions quickened",
 		"jp_explainLong": "① 光属性を大きく強化する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]スライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "Slide Actions activates an effect that boosts\nLight Attr. and increases movement\n& attacking speed."
+		"tr_explainLong": "① Greatly increases Light Element.\n② Increases speed of movement\n    and normal attacks.\n[Activation Trigger] Slide Action\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "20032",
 		"jp_explainShort": "光属性が大強化＋通常攻撃と移動が加速",
-		"tr_explainShort": "Boost Light Attr. + Quickens Actions",
+		"tr_explainShort": "Light Element up + actions quickened",
 		"jp_explainLong": "① 光属性を大きく強化する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]スライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "Slide Actions activates an effect that largely\nboosts Light Attr. and increases movement\n& attacking speed."
+		"tr_explainLong": "① Greatly increases Light Element.\n② Increases speed of movement\n    and normal attacks.\n[Activation Trigger] Slide Action\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "9510",
 		"jp_explainShort": "雷属性が小強化",
-		"tr_explainShort": "Small Lightning Attr. Boost",
+		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "When taking damage, slightly boosts Lightning Attr."
+		"tr_explainLong": "① Slightly increases Lightning Element.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] Short"
 	},
 	{
 		"assign": "9520",
 		"jp_explainShort": "雷属性が小強化",
-		"tr_explainShort": "Small Lightning Attr. Boost",
+		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "When taking damage, slightly boosts Lightning Attr."
+		"tr_explainLong": "① Slightly increases Lightning Element.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] Short"
 	},
 	{
 		"assign": "9610",
 		"jp_explainShort": "雷属性が小強化",
-		"tr_explainShort": "Small Lightning Attr. Boost",
+		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "When attacking, slightly boosts Lightning Attr."
+		"tr_explainLong": "① Slightly increases Lightning Element.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "9620",
 		"jp_explainShort": "雷属性が小強化",
-		"tr_explainShort": "Small Lightning Attr. Boost",
+		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "When attacking, slightly boosts Lightning Attr."
+		"tr_explainLong": "① Slightly increases Lightning Element.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "9710",
@@ -7667,16 +7667,16 @@
 	{
 		"assign": "20033",
 		"jp_explainShort": "攻撃３回毎に攻撃力小強化＋追加小ダメージ",
-		"tr_explainShort": "Boost ATK Every 3 Attacks + Additional Damage on Hit",
+		"tr_explainShort": "3 actions = ATK up + additional damage",
 		"jp_explainLong": "① アクティブチップ使用か通常攻撃を３回行うごとに\n　　 攻撃力をわずかに強化する。（最大時：大）\n② 敵に追加で小ダメージを与える。\n[発動条件]スライド操作時\n[効果時間]短い時間",
-		"tr_explainLong": "Slide Action activates an effect that slightly boosts\nATK every 3 normal attack or chip activation and\nadds small additional damage on hit."
+		"tr_explainLong": "① Every 3 times you use an active chip or\n    a normal attack, slightly increases ATK.\n    (Maximum increase: Great)\n② Deals small additional damage to enemies.\n[Activation Trigger] Slide Action\n[Effect Duration] Short"
 	},
 	{
 		"assign": "20034",
 		"jp_explainShort": "攻撃３回毎に攻撃力小強化＋追加小ダメージ",
-		"tr_explainShort": "Boost ATK Every 3 Attacks + Additional Damage on Hit",
+		"tr_explainShort": "3 actions = ATK up + additional damage",
 		"jp_explainLong": "① アクティブチップ使用か通常攻撃を３回行うごとに\n　　 攻撃力をわずかに強化する。（最大時：大）\n② 敵に追加で小ダメージを与える。\n[発動条件]スライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "Slide Action activates an effect that slightly boosts\nATK every 3 normal attack or chip activation and\nadds small additional damage on hit."
+		"tr_explainLong": "① Every 3 times you use an active chip or\n    a normal attack, slightly increases ATK.\n    (Maximum increase: Great)\n② Deals small additional damage to enemies.\n[Activation Trigger] Slide Action\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "20039",
