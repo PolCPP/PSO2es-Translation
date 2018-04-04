@@ -492,16 +492,16 @@
 	{
 		"assign": "30093",
 		"jp_explainShort": "攻撃力が大強化",
-		"tr_explainShort": "ATK Boost",
+		"tr_explainShort": "ATK up",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect\nthat greatly boosts ATK."
+		"tr_explainLong": "① Greatly increases ATK.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "30094",
 		"jp_explainShort": "攻撃力が劇的強化",
-		"tr_explainShort": "Dramatic ATK Boost",
+		"tr_explainShort": "ATK up",
 		"jp_explainLong": "① 攻撃力を劇的に強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect\nthat dramatically boosts ATK."
+		"tr_explainLong": "① Dramatically increases ATK.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "30095",
@@ -7653,16 +7653,16 @@
 	{
 		"assign": "9710",
 		"jp_explainShort": "機甲種から受けるダメージが軽減",
-		"tr_explainShort": "Reduce Damage from Mech",
+		"tr_explainShort": "Damage from Mechs reduced",
 		"jp_explainLong": "① 敵から受けるダメージを軽減する。\n[発動条件]機甲種からダメージを受けた時",
-		"tr_explainLong": "When taking damage from Mech, grants an\neffect that reduces damage taken from Mech."
+		"tr_explainLong": "① Reduces damage taken from enemies.\n[Activation Trigger] Taking damage from Mechs"
 	},
 	{
 		"assign": "9720",
 		"jp_explainShort": "機甲種から受けるダメージが大軽減",
-		"tr_explainShort": "Reduce Damage from Mech",
+		"tr_explainShort": "Damage from Mechs reduced",
 		"jp_explainLong": "① 敵から受けるダメージを大きく軽減する。\n[発動条件]機甲種からダメージを受けた時",
-		"tr_explainLong": "When taking damage from Mech, grants an\neffect that reduces damage taken from Mech."
+		"tr_explainLong": "① Greatly reduces damage taken from enemies.\n[Activation Trigger] Taking damage from Mechs"
 	},
 	{
 		"assign": "20033",
@@ -7681,30 +7681,30 @@
 	{
 		"assign": "20039",
 		"jp_explainShort": "攻撃力小増加＋ダメージ大軽減＋ダウン無効",
-		"tr_explainShort": "ATK Boost + Reduce Damage Taken + Knockdown Immunity",
+		"tr_explainShort": "Dam. boost + down + knockback immune",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 敵から受けるダメージを大きく軽減する。\n③ ダウンしなくなる。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacks activates an effect that slightly boosts\nATK, reduces damage taken from enemies and grants\nknockdown immunity."
+		"tr_explainLong": "① Slightly boosts damage.\n② Greatly reduces damage taken from enemies.\n③ Grants knockdown immunity.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "20040",
 		"jp_explainShort": "攻撃力小増加＋ダメージ大軽減＋ダウン無効",
-		"tr_explainShort": "ATK Boost + Reduce Damage Taken + Knockdown Immunity",
+		"tr_explainShort": "Dam. boost + down + knockback immune",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 敵から受けるダメージを大きく軽減する。\n③ ダウンしなくなる。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacks activates an effect that slightly boosts\nATK, reduces damage taken from enemies and grants\nknockdown immunity."
+		"tr_explainLong": "① Slightly boosts damage.\n② Greatly reduces damage taken from enemies.\n③ Grants knockdown immunity.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "20001",
 		"jp_explainShort": "攻撃力と防御力が小強化",
-		"tr_explainShort": "Small ATK & DEF Boost",
+		"tr_explainShort": "ATK & DEF up",
 		"jp_explainLong": "① 攻撃力をわずかに強化する。\n② 防御力をわずかに強化する。\n[発動条件]スライド操作時\n[効果時間]短い時間",
-		"tr_explainLong": "Slide Action activates an effect\nthat slightly boosts ATK & DEF."
+		"tr_explainLong": "① Slightly increases ATK.\n② Slightly increases DEF.\n[Activation Trigger] Slide Action\n[Effect Duration] Short"
 	},
 	{
 		"assign": "20002",
 		"jp_explainShort": "攻撃力と防御力が小強化",
-		"tr_explainShort": "Small ATK & DEF Boost",
+		"tr_explainShort": "ATK & DEF up",
 		"jp_explainLong": "① 攻撃力をわずかに強化する。\n② 防御力をわずかに強化する。\n[発動条件]スライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "Slide Action activates an effect\nthat slightly boosts ATK & DEF."
+		"tr_explainLong": "① Slightly increases ATK.\n② Slightly increases DEF.\n[Activation Trigger] Slide Action\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "21310",
