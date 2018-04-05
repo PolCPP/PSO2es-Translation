@@ -7275,126 +7275,126 @@
 	{
 		"assign": "20041",
 		"jp_explainShort": "攻撃力小増加＋消費ＣＰ減少",
-		"tr_explainShort": "",
+		"tr_explainShort": "Damage boosted + CP consumption down",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 消費ＣＰを減少する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Slightly boosts damage.\n② Reduces CP consumption.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "20042",
 		"jp_explainShort": "攻撃力小増加＋消費ＣＰ減少",
-		"tr_explainShort": "",
+		"tr_explainShort": "Damage boosted + CP consumption down",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 消費ＣＰを減少する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Slightly boosts damage.\n② Reduces CP consumption.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "5610",
 		"jp_explainShort": "風属性が小強化",
-		"tr_explainShort": "Boost Wind Attr.",
+		"tr_explainShort": "Wind Element up",
 		"jp_explainLong": "① 風属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "Slightly boosts Wind Attr. when taking damage from\nenemies."
+		"tr_explainLong": "① Slightly increases Wind Element.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] Short"
 	},
 	{
 		"assign": "5620",
 		"jp_explainShort": "風属性が小強化",
-		"tr_explainShort": "Boost Wind Attr.",
+		"tr_explainShort": "Wind Element up",
 		"jp_explainLong": "① 風属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "Slightly boosts Wind Attr. when taking damage from\nenemies."
+		"tr_explainLong": "① Slightly increases Wind Element.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] Short"
 	},
 	{
 		"assign": "5710",
 		"jp_explainShort": "風属性が小強化",
-		"tr_explainShort": "Boost Wind Attr.",
+		"tr_explainShort": "Wind Element up",
 		"jp_explainLong": "① 風属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "When attacking, grants an effect that slightly boosts\nWind Attr."
+		"tr_explainLong": "① Slightly increases Wind Element.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "5720",
 		"jp_explainShort": "風属性が小強化",
-		"tr_explainShort": "Boost Wind Attr.",
+		"tr_explainShort": "Wind Element up",
 		"jp_explainLong": "① 風属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "When attacking, grants an effect that slightly boosts\nWind Attr."
+		"tr_explainLong": "① Slightly increases Wind Element.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "5810",
 		"jp_explainShort": "攻撃力が小強化",
-		"tr_explainShort": "ATK Boost",
+		"tr_explainShort": "ATK up",
 		"jp_explainLong": "① 攻撃力をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "When attacking, grants an effect that slightly boosts\nATK."
+		"tr_explainLong": "① Slightly increases ATK.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "5820",
 		"jp_explainShort": "攻撃力が小強化",
-		"tr_explainShort": "ATK Boost",
+		"tr_explainShort": "ATK up",
 		"jp_explainLong": "① 攻撃力をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "When attacking, grants an effect that slightly boosts\nATK."
+		"tr_explainLong": "① Slightly increases ATK.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "5910",
 		"jp_explainShort": "敵からのダメージが軽減",
-		"tr_explainShort": "Reduce Damage Taken",
+		"tr_explainShort": "Damage taken reduced",
 		"jp_explainLong": "① 敵から受けるダメージを軽減する。\n[発動条件]敵からダメージを受けた時",
-		"tr_explainLong": "Taking damage from enemies activates an effect\nthat reduces damage taken from enemies slightly."
+		"tr_explainLong": "① Reduces damage taken from enemies.\n[Activation Trigger] Taking damage from enemies"
 	},
 	{
 		"assign": "5920",
 		"jp_explainShort": "敵からのダメージが軽減",
-		"tr_explainShort": "",
+		"tr_explainShort": "Damage taken reduced",
 		"jp_explainLong": "① 敵から受けるダメージを軽減する。\n[発動条件]敵からダメージを受けた時",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Reduces damage taken from enemies.\n[Activation Trigger] Taking damage from enemies"
 	},
 	{
 		"assign": "6210",
 		"jp_explainShort": "氷属性が小強化",
-		"tr_explainShort": "Boost Ice Attr.",
+		"tr_explainShort": "Ice Element up",
 		"jp_explainLong": "① 氷属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "Slightly boosts Ice Attr. when taking damage from\nenemies."
+		"tr_explainLong": "① Slightly increases Ice Element.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] Short"
 	},
 	{
 		"assign": "6220",
 		"jp_explainShort": "氷属性が小強化",
-		"tr_explainShort": "Boost Ice Attr.",
+		"tr_explainShort": "Ice Element up",
 		"jp_explainLong": "① 氷属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "Slightly boosts Ice Attr. when taking damage from\nenemies."
+		"tr_explainLong": "① Slightly increases Ice Element.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] Short"
 	},
 	{
 		"assign": "6310",
 		"jp_explainShort": "氷属性が小強化",
-		"tr_explainShort": "Boost Ice Attr.",
+		"tr_explainShort": "Ice Element up",
 		"jp_explainLong": "① 氷属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "When attacking, grants an effect that slightly boost\nIce Attr."
+		"tr_explainLong": "① Slightly increases Ice Element.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "6320",
 		"jp_explainShort": "氷属性が小強化",
-		"tr_explainShort": "Boost Ice Attr.",
+		"tr_explainShort": "Ice Element up",
 		"jp_explainLong": "① 氷属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "When attacking, grants an effect that slightly boost\nIce Attr."
+		"tr_explainLong": "① Slightly increases Ice Element.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "6510",
 		"jp_explainShort": "追加で中ダメージ",
-		"tr_explainShort": "Additional Damage on Hit",
+		"tr_explainShort": "Additional damage to enemies",
 		"jp_explainLong": "① 敵に追加で中ダメージを与える。\n[発動条件]攻撃がヒットした時",
-		"tr_explainLong": "When attacking, grants an effect that adds a\nmedium amount of damage on hit to enemy."
+		"tr_explainLong": "① Deals additional damage to enemies.\n[Activation Trigger] Landing an attack"
 	},
 	{
 		"assign": "6520",
 		"jp_explainShort": "追加で大ダメージ",
-		"tr_explainShort": "Additional Damage on Hit",
+		"tr_explainShort": "Additional damage to enemies",
 		"jp_explainLong": "① 敵に追加で大ダメージを与える。\n[発動条件]攻撃がヒットした時",
-		"tr_explainLong": "When attacking, grants an effect that adds a\nlarge amount of damage on hit to enemy."
+		"tr_explainLong": "① Deals heavy additional damage to enemies.\n[Activation Trigger] Landing an attack"
 	},
 	{
 		"assign": "6910",
 		"jp_explainShort": "原生種から受けるダメージが軽減",
-		"tr_explainShort": "Reduces damage from Natives",
+		"tr_explainShort": "Damage from Natives reduced",
 		"jp_explainLong": "① 敵から受けるダメージを軽減する。\n[発動条件]原生種からダメージを受けた時",
 		"tr_explainLong": "① Reduces damage taken from enemies.\n[Activation Trigger] Taking damage from Natives"
 	},
 	{
 		"assign": "6920",
 		"jp_explainShort": "原生種から受けるダメージが大軽減",
-		"tr_explainShort": "Reduces damage from Natives",
+		"tr_explainShort": "Damage from Natives reduced",
 		"jp_explainLong": "① 敵から受けるダメージを大きく軽減する。\n[発動条件]原生種からダメージを受けた時",
 		"tr_explainLong": "① Greatly reduces damage taken from enemies.\n[Activation Trigger] Taking damage from Natives"
 	},
@@ -7585,14 +7585,14 @@
 		"jp_explainShort": "攻撃力小増加＋ダメージ防御",
 		"tr_explainShort": "Damage boost + barrier",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Slightly boosts damage\n② Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Slightly boosts damage.\n② Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "20024",
 		"jp_explainShort": "攻撃力小増加＋ダメージ防御",
 		"tr_explainShort": "Damage boost + barrier",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "① Slightly boosts damage\n② Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
+		"tr_explainLong": "① Slightly boosts damage.\n② Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "20029",
