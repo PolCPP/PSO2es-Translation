@@ -6927,14 +6927,14 @@
 		"jp_explainShort": "全体に中ダメージ＋確率で「フリーズ」",
 		"tr_explainShort": "All Attack + Chance of [Freeze]",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に射撃による中ダメージを与える。\n② 一定確率で「フリーズ」効果を与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium shooting damage\n    to all enemies.\n② 一定確率で「フリーズ」効果を与える。"
+		"tr_explainLong": "[Damage Bomb]\n① Deals medium shooting damage\n    to all enemies.\n② Has a chance to inflict [Freeze]."
 	},
 	{
 		"assign": "7320",
 		"jp_explainShort": "全体に中ダメージ＋確率で「フリーズ」",
 		"tr_explainShort": "All Attack + Chance of [Freeze]",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に射撃による中ダメージを与える。\n② 一定確率で「フリーズ」効果を与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium shooting damage\n    to all enemies.\n② 一定確率で「フリーズ」効果を与える。"
+		"tr_explainLong": "[Damage Bomb]\n① Deals medium shooting damage\n    to all enemies.\n② Has a chance to inflict [Freeze]."
 	},
 	{
 		"assign": "7410",
@@ -6953,44 +6953,44 @@
 	{
 		"assign": "7510",
 		"jp_explainShort": "全体に氷属性の法撃による中ダメージ",
-		"tr_explainShort": "Ice Attribute. Tech All Attack",
+		"tr_explainShort": "Ice Tech damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に氷属性の法撃による中ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① 敵全体にIce属性の法撃による中ダメージを与える。"
+		"tr_explainLong": "[Damage Bomb]\n① Deals medium Ice Tech damage\n    to all enemies."
 	},
 	{
 		"assign": "7520",
 		"jp_explainShort": "全体に氷属性の法撃による大ダメージ",
-		"tr_explainShort": "Ice Attribute. Tech All Attack",
+		"tr_explainShort": "Ice Tech damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に氷属性の法撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① 敵全体にIce属性の法撃による大ダメージを与える。"
+		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Ice Tech damage\n    to all enemies."
 	},
 	{
 		"assign": "8710",
 		"jp_explainShort": "光属性の法撃による中ダメージ",
-		"tr_explainShort": "Light Attribute. Tech All Attack",
+		"tr_explainShort": "Light Tech damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 光属性の法撃による中ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Light属性の法撃による中ダメージを与える。"
+		"tr_explainLong": "[Damage Bomb]\n① Deals medium Light Tech damage\n    to all enemies."
 	},
 	{
 		"assign": "8720",
 		"jp_explainShort": "光属性の法撃による中ダメージ",
-		"tr_explainShort": "Light Attribute. Tech All Attack",
+		"tr_explainShort": "Light Tech damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 光属性の法撃による中ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Light属性の法撃による中ダメージを与える。"
+		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Light Tech damage\n    to all enemies."
 	},
 	{
 		"assign": "8910",
 		"jp_explainShort": "光属性の法撃による中ダメージ",
-		"tr_explainShort": "Light Attribute. Tech Attack",
+		"tr_explainShort": "Light Tech damage",
 		"jp_explainLong": "【ダメージボム】\n① 光属性の法撃による中ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Light属性の法撃による中ダメージを与える。"
+		"tr_explainLong": "[Damage Bomb]\n① Deals medium Light Tech damage\n    to the target."
 	},
 	{
 		"assign": "8920",
 		"jp_explainShort": "光属性の法撃による大ダメージ",
-		"tr_explainShort": "Light Attribute. Tech Attack",
+		"tr_explainShort": "Light Tech damage",
 		"jp_explainLong": "【ダメージボム】\n① 光属性の法撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Light属性の法撃による大ダメージを与える。"
+		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Light Tech damage\n    to the target."
 	},
 	{
 		"assign": "9110",
