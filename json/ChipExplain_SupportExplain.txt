@@ -1236,14 +1236,14 @@
 		"jp_explainShort": "属性種類数ダメージ大増加＋定期ＨＰ回復",
 		"tr_explainShort": "Damage boost & HP over time x # Elems",
 		"jp_explainLong": "① 装備中チップの属性種類数に応じて\n　　 攻撃力を大きく増加する。\n② 装備中チップの属性種類数に応じて\n　　 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Greatly boosts damage in proportion to the\n    number of different chip elements equipped.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers HP at regular intervals in\n    proportion to the number of different chip elements equipped..\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Greatly boosts damage in proportion to the\n    number of different chip elements equipped.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers HP at regular intervals in\n    proportion to the number of different chip elements equipped.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31140",
 		"jp_explainShort": "属性種類数ダメージ劇的増＋定期ＨＰ回復",
 		"tr_explainShort": "Damage boost & HP over time x # Elems",
 		"jp_explainLong": "① 装備中チップの属性種類数に応じて\n　　 攻撃力を劇的に増加する。\n② 装備中チップの属性種類数に応じて\n　　 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Dramatically boosts damage in proportion to the\n    number of different chip elements equipped.\n    <color=yellow>[E-Frame]</color>② Slightly recovers HP at regular intervals in\n    proportion to the number of different chip elements equipped..\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Dramatically boosts damage in proportion to the\n    number of different chip elements equipped.\n    <color=yellow>[E-Frame]</color>② Slightly recovers HP at regular intervals in\n    proportion to the number of different chip elements equipped.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31143",
@@ -1362,14 +1362,14 @@
 		"jp_explainShort": "炎チップ数ダメージ劇的増加＋定期ＨＰ回復",
 		"tr_explainShort": "Damage boost & HP over time x # Fire",
 		"jp_explainLong": "① 装備中の炎属性チップの枚数に応じて\n　　 攻撃力を劇的に増加する。\n② 装備中の炎属性チップの枚数に応じて\n　　 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Dramatically boosts damage in proportion to the\n    number of Fire chips equipped.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers HP at regular intervals in\n    proportion to the number of Fire chips equipped..\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Dramatically boosts damage in proportion to the\n    number of Fire chips equipped.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers HP at regular intervals in\n    proportion to the number of Fire chips equipped.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31166",
 		"jp_explainShort": "炎チップ数ダメージ劇的増加＋定期ＨＰ回復",
 		"tr_explainShort": "Damage boost & HP over time x # Fire",
 		"jp_explainLong": "① 装備中の炎属性チップの枚数に応じて\n　　 攻撃力を劇的に増加する。\n② 装備中の炎属性チップの枚数に応じて\n　　 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Dramatically boosts damage in proportion to the\n    number of Fire chips equipped.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers HP at regular intervals in\n    proportion to the number of Fire chips equipped..\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Dramatically boosts damage in proportion to the\n    number of Fire chips equipped.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers HP at regular intervals in\n    proportion to the number of Fire chips equipped.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31167",
@@ -1472,30 +1472,30 @@
 	{
 		"assign": "31187",
 		"jp_explainShort": "ミラージュ付与＋ミラージュ時ダメージ大増加",
-		"tr_explainShort": "Imbues [Mirage] + ATK Boost",
+		"tr_explainShort": "[Mirage] imbued + dam. boost vs [Mirage]",
 		"jp_explainLong": "① 通常攻撃に「ミラージュ」効果を付与する。\n② 「ミラージュ」状態の敵に対して\n　　 ダメージを大きく増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacking activates an effect that imbues the\n[Mirage] status effect to attacks and greatly\nboosts attack damage."
+		"tr_explainLong": "① Gives normal attacks a chance to inflict [Mirage].\n② Greatly boosts damage against\n    enemies affected by [Mirage].\n    <color=yellow>[C-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31188",
 		"jp_explainShort": "ミラージュ付与＋ミラージュ時ダメージ劇的増加",
-		"tr_explainShort": "Imbues [Mirage] + ATK Boost",
+		"tr_explainShort": "[Mirage] imbued + dam. boost vs [Mirage]",
 		"jp_explainLong": "① 通常攻撃に「ミラージュ」効果を付与する。\n② 「ミラージュ」状態の敵に対して\n　　 ダメージを劇的に増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "Attacking activates an effect that imbues the\n[Mirage] status effect to attacks and greatly\nboosts attack damage."
+		"tr_explainLong": "① Gives normal attacks a chance to inflict [Mirage].\n② Dramatically boosts damage against\n    enemies affected by [Mirage].\n    <color=yellow>[C-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31191",
 		"jp_explainShort": "攻撃力大増加＋ＨＰ小回復",
-		"tr_explainShort": "ATK Boost + Small HP Recovery",
+		"tr_explainShort": "Damage boost + HP recovery over time",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacks activates an effect that greatly\nboosts ATK and recovers small amount of HP."
+		"tr_explainLong": "① Greatly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31192",
 		"jp_explainShort": "攻撃力劇的増加＋ＨＰ小回復",
-		"tr_explainShort": "ATK Boost + Small HP Recovery",
+		"tr_explainShort": "Damage boost + HP recovery over time",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "Attacks activates an effect that greatly\nboosts ATK and recovers small amount of HP."
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31193",
@@ -1514,128 +1514,128 @@
 	{
 		"assign": "31195",
 		"jp_explainShort": "攻撃力大増加＋大剣・銃剣でさらに増加",
-		"tr_explainShort": "ATK Boost + Further Boost for Sword or Gunslash",
+		"tr_explainShort": "Dam,age boost + Sword/Gunslash boost",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 大剣か銃剣を装備している場合は\n　　 さらに攻撃力を増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacking activates an effect that greatly\nincreases attack power. The effect is further\nboosted if a Sword or Gunslash is equipped."
+		"tr_explainLong": "① Greatly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Further boosts damage if equipped with\n　　 a Sword or a Gunslash.\n    <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31196",
 		"jp_explainShort": "攻撃力劇的増加＋大剣・銃剣でさらに増加",
-		"tr_explainShort": "ATK Boost + Further Boost for Sword or Gunslash",
+		"tr_explainShort": "Dam,age boost + Sword/Gunslash boost",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 大剣か銃剣を装備している場合は\n　　 さらに攻撃力を増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "Attacking activates an effect that greatly\nincreases attack power. The effect is further\nboosted if a Sword or Gunslash is equipped."
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Further boosts damage if equipped with\n　　 a Sword or a Gunslash.\n    <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31199",
 		"jp_explainShort": "攻撃力大増加＋定期的にＣＰが微回復",
-		"tr_explainShort": "Dramatic ATK Boost + Periodic CP Recovery",
+		"tr_explainShort": "Damage boost + CP recovery over time",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 定期的にＣＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacks activates an effect that\nlargely boosts ATK and periodically recovers CP."
+		"tr_explainLong": "① Greatly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers CP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31200",
 		"jp_explainShort": "攻撃力劇的増加＋定期的にＣＰが回復",
-		"tr_explainShort": "Dramatic ATK Boost + Periodic CP Recovery",
+		"tr_explainShort": "Damage boost + CP recovery over time",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 定期的にＣＰを回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "Attacks activates an effect that\nlargely boosts ATK and periodically recovers CP."
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Recovers CP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31205",
 		"jp_explainShort": "攻撃力劇的増加＋ダメージ無で攻撃力大増加",
-		"tr_explainShort": "Dramatic ATK Boost + Further Boosts with No Damage Taken",
+		"tr_explainShort": "Dam. boost + further boost if undamaged",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 一定時間ダメージを受けなければ\n　　 さらに攻撃力を大きく増加する。（最大時：絶大）\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK and further boosts ATK if no damage\nis taken during a certain period of time."
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Boosts damage further at regular intervals. This\n    boost stops increasing when you take damage.\n    (Maximum Boost: Overwhelming)\n    <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31206",
 		"jp_explainShort": "攻撃力絶大増加＋ダメージ無で攻撃力大増加",
-		"tr_explainShort": "Dramatic ATK Boost + Further Boosts with No Damage Taken",
+		"tr_explainShort": "Dam. boost + further boost if undamaged",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 一定時間ダメージを受けなければ\n　　 さらに攻撃力を大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK and further boosts ATK if no damage\nis taken during a certain period of time."
+		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Boosts damage further at regular intervals. This\n    boost stops increasing when you take damage.\n    (Maximum Boost: Overwhelming)\n    <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31207",
 		"jp_explainShort": "氷チップ数で攻撃力劇的増加＋定期ＨＰ回復",
-		"tr_explainShort": "ATK PWR up+HP Recovery from # of ice chips",
+		"tr_explainShort": "Dam. boost + HP over time x # Ice chips",
 		"jp_explainLong": "① 装備中の氷属性チップの枚数に応じて\n　　 攻撃力を劇的に増加する。\n② 装備中の氷属性チップの枚数に応じて\n　　 定期的にＨＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs will activate an effect that increases\nATK PWR dramatically based on the # of ice chips\nequipped&recovers slight amount of HP periodically."
+		"tr_explainLong": "① Dramatically boosts damage in proportion to the\n    number of Ice chips equipped.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers HP at regular intervals in\n    proportion to the number of Ice chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31208",
 		"jp_explainShort": "氷チップ数で攻撃力劇的増加＋定期ＨＰ回復",
-		"tr_explainShort": "ATK PWR up+HP Recovery from # of ice chips",
+		"tr_explainShort": "Dam. boost + HP over time x # Ice chips",
 		"jp_explainLong": "① 装備中の氷属性チップの枚数に応じて\n　　 攻撃力を劇的に増加する。\n② 装備中の氷属性チップの枚数に応じて\n　　 定期的にＨＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "JAs will activate an effect that increases\nATK PWR dramatically based on the # of ice chips\nequipped&recovers slight amount of HP periodically."
+		"tr_explainLong": "① Dramatically boosts damage in proportion to the\n    number of Ice chips equipped.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers HP at regular intervals in\n    proportion to the number of Ice chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31209",
 		"jp_explainShort": "機甲種にダメージ大増加＋被ダメージ軽減",
-		"tr_explainShort": "Mech dmg up+dmg taken from mechs down",
+		"tr_explainShort": "Dam. boost, damage reduced vs Mechs",
 		"jp_explainLong": "① 機甲種に与えるダメージを大きく増加する。\n② 機甲種から受けるダメージを軽減する。\n[発動条件]機甲種に攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacking a Mech, activates an effect\nthat heavily increases damage to Mechs,\ndamage received from Mechs is reduced."
+		"tr_explainLong": "① Greatly boosts damage against Mechs.\n    <color=yellow>[B-Frame]</color>\n② Reduces damage taken from Mechs.\n[Activation Trigger] Landing attacks on Mechs\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31210",
 		"jp_explainShort": "機甲種ダメージ劇的増加＋被ダメージ大軽減",
-		"tr_explainShort": "Mech dmg up+dmg taken from mechs down",
+		"tr_explainShort": "Dam. boost, damage reduced vs Mechs",
 		"jp_explainLong": "① 機甲種に与えるダメージを劇的に増加する。\n② 機甲種から受けるダメージを大きく軽減する。\n[発動条件]機甲種に攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacking a Mech, activates an effect\nthat dramatically increases damage to Mechs,\ndamage received from Mechs is reduced."
+		"tr_explainLong": "① Dramatically boosts damage against Mechs.\n    <color=yellow>[B-Frame]</color>\n② Greatly reduces damage taken from Mechs.\n[Activation Trigger] Landing attacks on Mechs\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31213",
 		"jp_explainShort": "原生種にダメージ大増加＋被ダメージ軽減",
-		"tr_explainShort": "Native dmg up+dmg taken down",
+		"tr_explainShort": "Dam. boost & damage reduced vs Natives",
 		"jp_explainLong": "① 原生種に与えるダメージを大きく増加する。\n② 原生種から受けるダメージを軽減する。\n[発動条件]原生種に攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacking Natives activates an effect\nthat dramatically increases damage to Natives,\ndamage received from Natives is reduced."
+		"tr_explainLong": "① Greatly boosts damage against Natives.\n    <color=yellow>[B-Frame]</color>\n② Reduces damage taken from Natives.\n[Activation Trigger] Landing attacks on Natives\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31214",
 		"jp_explainShort": "原生種ダメージ劇的増加＋被ダメージ大軽減",
-		"tr_explainShort": "Native dmg up+dmg taken down",
+		"tr_explainShort": "Dam. boost & damage reduced vs Natives",
 		"jp_explainLong": "① 原生種に与えるダメージを劇的に増加する。\n② 原生種から受けるダメージを大きく軽減する。\n[発動条件]原生種に攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacking Natives activates an effect\nthat greatly increases damage to Natives,\ndamage received from Natives is reduced."
+		"tr_explainLong": "① Dramatically boosts damage against Natives.\n    <color=yellow>[B-Frame]</color>\n② Greatly reduces damage taken from Natives.\n[Activation Trigger] Landing attacks on Natives\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31217",
 		"jp_explainShort": "通常攻撃と移動が加速＋攻撃力絶大増加",
-		"tr_explainShort": "ATK Power Boost+Normal, ATK Speed Up",
+		"jp_explainShort": "Actions quickened + damage boosted",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "This chip, when activated by a JA,\ntremendously increases attack power & speeds\nup normal attack and movement, for a limited time."
+		"tr_explainLong": "① Immensely boosts damage.\n② Increases speed of movement\n    and normal attacks.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31218",
 		"jp_explainShort": "通常攻撃と移動が加速＋攻撃力絶大増加",
-		"tr_explainShort": "ATK Power Boost+Normal, ATK Speed Up",
+		"jp_explainShort": "Actions quickened + damage boosted",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n②  自身の通常攻撃と移動のスピードを加速する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "This chip, when activated by a JA,\ntremendously increases attack power & speeds\nup normal attack and movement, for a long time."
+		"tr_explainLong": "① Immensely boosts damage.\n②  Increases speed of movement\n    and normal attacks.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31219",
 		"jp_explainShort": "氷チップ数でダメージ軽減＋攻撃力劇的増加",
-		"tr_explainShort": "ATK Pwr boost by # of Ice chips+dmg taken reduced",
+		"tr_explainShort": "Dam. res. + dam. boost x # Ice chips",
 		"jp_explainLong": "① 装備中の氷属性チップの枚数に応じて\n　　 攻撃力を劇的に増加する。\n② 敵から受けるダメージを大きく軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs can activate an effect that greatly reduces\nthe damage received from enemies & greatly boosts\nATK PWR based on the # of Ice chips equipped."
+		"tr_explainLong": "① Dramatically boosts damage in proportion to the\n    number of Ice chips equipped.\n    <color=yellow>[E-Frame]</color>\n② Greatly reduces damage taken from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31220",
 		"jp_explainShort": "氷チップ数でダメージ軽減＋攻撃力劇的増加",
-		"tr_explainShort": "ATK Pwr boost by # of Ice chips+dmg taken reduced",
+		"tr_explainShort": "Dam. res. + dam. boost x # Ice chips",
 		"jp_explainLong": "① 装備中の氷属性チップの枚数に応じて\n　　 攻撃力を劇的に増加する。\n② 敵から受けるダメージを大きく軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "JAs can activate an effect that greatly reduces the\ndamage received from enemies & dramatically boosts\nATK PWR based on the # of Ice chips equipped."
+		"tr_explainLong": "① Dramatically boosts damage in proportion to the\n    number of Ice chips equipped.\n    <color=yellow>[E-Frame]</color>\n② Greatly reduces damage taken from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31221",
 		"jp_explainShort": "雷チップ数でダメージ防御＋攻撃力劇的増加",
-		"tr_explainShort": "JAs boost HP+based on # lightning chips",
+		"tr_explainShort": "Dam. boost & barrier x # Lightning chips",
 		"jp_explainLong": "① 装備中の雷属性チップの枚数に応じて\n　　 攻撃力を劇的に増加する。\n② 装備中の雷属性チップの枚数に応じて\n　　 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activate an effect that adds\na temporary HP bar whose value is\nbased on the # of lightning chips equipped."
+		"tr_explainLong": "① Dramatically boosts damage in proportion to the\n    number of Lightning chips equipped.\n    <color=yellow>[E-Frame]</color>\n② Grants you a barrier that prevents damage\n    in proportion to the number of Lightning chips\n    equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31222",
 		"jp_explainShort": "雷チップ数でダメージ防御＋攻撃力劇的増加",
-		"tr_explainShort": "JAs boost HP+based on # lightning chips",
+		"tr_explainShort": "Dam. boost & barrier x # Lightning chips",
 		"jp_explainLong": "① 装備中の雷属性チップの枚数に応じて\n　　 攻撃力を劇的に増加する。\n② 装備中の雷属性チップの枚数に応じて\n　　 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "JAs activate an effect that adds\na temporary HP bar whose value is\nbased on the # of lightning chips equipped."
+		"tr_explainLong": "① Dramatically boosts damage in proportion to the\n    number of Lightning chips equipped.\n    <color=yellow>[E-Frame]</color>\n② Grants you a barrier that prevents damage\n    in proportion to the number of Lightning chips\n    equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31223",
@@ -3859,58 +3859,58 @@
 	{
 		"assign": "31654",
 		"jp_explainShort": "炎氷風の技・法の攻撃力劇的増＋大追撃",
-		"tr_explainShort": "",
+		"tr_explainShort": "Fire/Ice/Wind moves boosted + add. dam.",
 		"jp_explainLong": "① 必殺技・法術チップが炎・氷・風属性の場合は\n　　 威力を劇的に増加する。\n② 敵に追加で大ダメージを与える。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Boosts Fire, Ice and Wind PAs and Techs.\n    <color=yellow>[K-Frame]</color>\n② Deals additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31655",
 		"jp_explainShort": "炎氷風の技・法の攻撃力劇的増＋大追撃",
-		"tr_explainShort": "",
+		"tr_explainShort": "Fire/Ice/Wind moves boosted + add. dam.",
 		"jp_explainLong": "① 必殺技・法術チップが炎・氷・風属性の場合は\n　　 威力を劇的に増加する。\n② 敵に追加で大ダメージを与える。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Boosts Fire, Ice and Wind PAs and Techs.\n    <color=yellow>[K-Frame]</color>\n② Deals additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31656",
 		"jp_explainShort": "絶大追撃＋海王種大ダメージ＋ダメージ防御",
-		"tr_explainShort": "",
+		"tr_explainShort": "Add. dam. + boost vs Oceanids + barrier",
 		"jp_explainLong": "① 敵に追加で絶大ダメージを与える。\n② 海王種に与えるダメージを大きく増加する。\n③ 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Deals tremendous additional damage to enemies.\n    <color=yellow>[Chase]</color>\n② Greatly boosts damage against Oceanids.\n    <color=yellow>[B-Frame]</color>\n③ Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31657",
 		"jp_explainShort": "絶大追撃＋海王種大ダメージ＋ダメージ防御",
-		"tr_explainShort": "",
+		"tr_explainShort": "Add. dam. + boost vs Oceanids + barrier",
 		"jp_explainLong": "① 敵に追加で絶大ダメージを与える。\n② 海王種に与えるダメージを大きく増加する。\n③ 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Deals tremendous additional damage to enemies.\n    <color=yellow>[Chase]</color>\n② Greatly boosts damage against Oceanids.\n    <color=yellow>[B-Frame]</color>\n③ Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31658",
 		"jp_explainShort": "技法威力絶大強化＋有効弱点ダメージ劇的増",
-		"tr_explainShort": "",
+		"tr_explainShort": "Weakness boosted + PAs/Techs boosted",
 		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを劇的に増加する。\n② 必殺技・法術の威力を絶大に強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Dramatically boosts damage against enemy\n    elemental weaknesses.\n    <color=yellow>[D-Frame]</color>\n② Immensely boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31659",
 		"jp_explainShort": "技法威力絶大強化＋有効弱点ダメージ劇的増",
-		"tr_explainShort": "",
+		"tr_explainShort": "Weakness boosted + PAs/Techs boosted",
 		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを劇的に増加する。\n② 必殺技・法術の威力を絶大に強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Dramatically boosts damage against enemy\n    elemental weaknesses.\n    <color=yellow>[D-Frame]</color>\n② Immensely boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31660",
 		"jp_explainShort": "アビリティレベル大追撃＋消費ＣＰ減少",
-		"tr_explainShort": "",
+		"tr_explainShort": "Add. damage x ability + CP usage down",
 		"jp_explainLong": "① アビリティレベルに応じて追加で大ダメージを与える。\n② 消費ＣＰを減少する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Deals heavy additional damage to enemies in\n    proportion to this chip's ability level.\n    <color=yellow>[Chase]</color>\n② Reduces CP consumption.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31661",
 		"jp_explainShort": "アビリティレベル大追撃＋消費ＣＰ減少",
-		"tr_explainShort": "",
+		"tr_explainShort": "Add. damage x ability + CP usage down",
 		"jp_explainLong": "① アビリティレベルに応じて追加で大ダメージを与える。\n② 消費ＣＰを減少する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Deals heavy additional damage to enemies in\n    proportion to this chip's ability level.\n    <color=yellow>[Chase]</color>\n② Reduces CP consumption.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31669",
@@ -3971,128 +3971,128 @@
 	{
 		"assign": "31681",
 		"jp_explainShort": "攻撃力劇的増加＋覇滅種にダメージ劇的増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost + dam. boost against Superior",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 覇滅種に与えるダメージを劇的に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Boosts damage against Superior-type enemies.\n    <color=yellow>[J-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "31682",
 		"jp_explainShort": "攻撃力劇的増加＋覇滅種にダメージ絶大増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost + dam. boost against Superior",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 覇滅種に与えるダメージを絶大に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Boosts damage against Superior-type enemies.\n    <color=yellow>[J-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "11030",
 		"jp_explainShort": "攻撃力が小強化",
-		"tr_explainShort": "Slight ATK Boost",
+		"tr_explainShort": "ATK increased",
 		"jp_explainLong": "① 攻撃力をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that slightly boosts ATK."
+		"tr_explainLong": "① Slightly increases ATK.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "11040",
 		"jp_explainShort": "攻撃力が強化",
-		"tr_explainShort": "ATK Boost",
+		"tr_explainShort": "ATK increased",
 		"jp_explainLong": "① 攻撃力を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that boosts ATK."
+		"tr_explainLong": "① Increases ATK.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "2210",
 		"jp_explainShort": "攻撃力が大強化",
-		"tr_explainShort": "Large ATK Boost",
+		"tr_explainShort": "ATK increased",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "JAs activates an effect that largely boosts ATK."
+		"tr_explainLong": "① Greatly increases ATK.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "2220",
 		"jp_explainShort": "攻撃力が劇的強化",
-		"tr_explainShort": "Dramatic ATK Boost",
+		"tr_explainShort": "ATK increased",
 		"jp_explainLong": "① 攻撃力を劇的に強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK."
+		"tr_explainLong": "① Dramatically increases ATK.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "2310",
 		"jp_explainShort": "ＨＰが回復する",
-		"tr_explainShort": "HP Recovery",
+		"tr_explainShort": "HP recovery",
 		"jp_explainLong": "① ＨＰを回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "JAs activates an effect that recovers HP."
+		"tr_explainLong": "① Recovers HP.\n[Activation Trigger] Successful Just Attack"
 	},
 	{
 		"assign": "2320",
 		"jp_explainShort": "ＨＰが回復する",
-		"tr_explainShort": "HP Recovery",
+		"tr_explainShort": "HP recovery",
 		"jp_explainLong": "① ＨＰを回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "JAs activates an effect that recovers HP."
+		"tr_explainLong": "① Recovers HP.\n[Activation Trigger] Successful Just Attack"
 	},
 	{
 		"assign": "80110",
 		"jp_explainShort": "一定以下になった際、ＨＰ・ＣＰが大回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "HP and CP recovery at low HP",
 		"jp_explainLong": "① ＨＰを大きく回復する。\n② ＣＰを大きく回復する。\n[発動条件]敵からの攻撃でＨＰが一定以下になった時",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Greatly recovers HP.\n② Greatly recovers CP.\n[Activation Trigger] Damaged to low HP"
 	},
 	{
 		"assign": "80120",
 		"jp_explainShort": "一定以下になった際、ＨＰ・ＣＰが劇的回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "HP and CP recovery at low HP",
 		"jp_explainLong": "① ＨＰを劇的に回復する。\n② ＣＰを劇的に回復する。\n[発動条件]敵からの攻撃でＨＰが一定以下になった時",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Dramatically recovers HP.\n② Dramatically recovers CP.\n[Activation Trigger] Damaged to low HP"
 	},
 	{
 		"assign": "80310",
 		"jp_explainShort": "攻撃力が大強化",
-		"tr_explainShort": "Large ATK Boost",
+		"tr_explainShort": "ATK increased",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "JAs activates an effect that largely boosts ATK."
+		"tr_explainLong": "① Greatly increases ATK.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "80320",
 		"jp_explainShort": "攻撃力が劇的強化",
-		"tr_explainShort": "Dramatic ATK Boost",
+		"tr_explainShort": "ATK increased",
 		"jp_explainLong": "① 攻撃力を劇的に強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK."
+		"tr_explainLong": "① Dramatically increases ATK.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "80610",
 		"jp_explainShort": "龍族に対してダメージが大増加",
-		"tr_explainShort": "ATK Boost Against Dragonkin",
+		"tr_explainShort": "Damage boosted against Dragonkin",
 		"jp_explainLong": "① 龍族に与えるダメージを大きく増加する。\n[発動条件]龍族に攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "Attacking Dragonkin activates an effect that\nlargely boosts ATK against Dragonkin."
+		"tr_explainLong": "① Greatly boosts damage against Dragonkin.\n    <color=yellow>[B-Frame]</color>\n[Activation Trigger] Landing attacks on Dragonkin\n[Effect Duration] Short"
 	},
 	{
 		"assign": "80620",
 		"jp_explainShort": "龍族に対してダメージが劇的増加",
-		"tr_explainShort": "Dramatic ATK Boost Against Dragonkin",
+		"tr_explainShort": "Damage boosted against Dragonkin",
 		"jp_explainLong": "① 龍族に与えるダメージを劇的に増加する。\n[発動条件]龍族に攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacking Dragonkin activates an effect that\ndramatically boosts ATK against Dragonkin."
+		"tr_explainLong": "① Dramatically boosts damage against Dragonkin.\n    <color=yellow>[B-Frame]</color>\n[Activation Trigger] Landing attacks on Dragonkin\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "81310",
 		"jp_explainShort": "ＣＰが回復",
-		"tr_explainShort": "CP Recovery",
+		"tr_explainShort": "CP recovery",
 		"jp_explainLong": "① ＣＰを回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "JAs activates an effect that recovers CP."
+		"tr_explainLong": "① Recovers CP.\n[Activation Trigger] Successful Just Attack"
 	},
 	{
 		"assign": "81320",
 		"jp_explainShort": "ＣＰが回復",
-		"tr_explainShort": "CP Recovery",
+		"tr_explainShort": "CP recovery",
 		"jp_explainLong": "① ＣＰを回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "JAs activates an effect that recovers CP."
+		"tr_explainLong": "① Recovers CP.\n[Activation Trigger] Successful Just Attack"
 	},
 	{
 		"assign": "81410",
 		"jp_explainShort": "敵から受けるダメージが大軽減",
-		"tr_explainShort": "Greatly Reduce Damage Taken",
+		"tr_explainShort": "Damage taken reduced",
 		"jp_explainLong": "① 敵から受けるダメージを大きく軽減する。\n[発動条件]必殺技チップ発動時\n[効果時間]短い時間",
-		"tr_explainLong": "When using PA Chips, greatly reduce damage\ntaken from enemies for a short duration."
+		"tr_explainLong": "① Greatly reduces damage taken from enemies.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] Short"
 	},
 	{
 		"assign": "81420",
 		"jp_explainShort": "敵から受けるダメージが大軽減",
-		"tr_explainShort": "Greatly Reduce Damage Taken",
+		"tr_explainShort": "Damage taken reduced",
 		"jp_explainLong": "① 敵から受けるダメージを大きく軽減する。\n[発動条件]必殺技チップ発動時\n[効果時間]短い時間",
-		"tr_explainLong": "When using PA Chips, greatly reduce damage\ntaken from enemies for a short duration."
+		"tr_explainLong": "① Greatly reduces damage taken from enemies.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] Short"
 	},
 	{
 		"assign": "81510",
