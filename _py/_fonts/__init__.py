@@ -32,7 +32,7 @@ def textlength(name=""):
     global fontS
     w = -1
     h = -1
-    t = name.replace("<%br>", "\n").replace("<br>", "\n").rstrip()
+    t = name.replace("<%br>", "\n").replace("<br>", "\n").replace("\\n","\n").rstrip()
     for sl in t.splitlines():
         w, h = max(fontR.getsize(sl), (w, h))
     return w / (72 * fontS)
