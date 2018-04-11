@@ -18,14 +18,14 @@
 		"jp_text": "スキルツリー追加パス",
 		"tr_text": "Add. Skill Tree Pass",
 		"jp_explain": "クラスカウンターで使われるパス。\n新規のスキルツリーを１枚追加できる。\n１キャラクター２０枚まで拡張可能。",
-		"tr_explain": "Adds an additional Skill Tree\nto a selected class, up to\n20 trees from a single class."
+		"tr_explain": "Adds an additional Skill Tree\nto a selected class, up to\n20 trees on a single class."
 	},
 	{
 		"assign": "32105",
 		"jp_text": "追加ツリー振り替えパス",
 		"tr_text": "Skill Tree Transfer Pass",
 		"jp_explain": "クラスカウンターで使われるパス。\n「スキルツリー追加パス」で追加した\nツリーを初期化しSPを振り直せる。",
-		"tr_explain": ""
+		"tr_explain": "Allows you to reassign one Skill Tree\nadded with an \"Add. Skill Tree\nPass\". resetting its distributed SP."
 	},
 	{
 		"assign": "32106",
@@ -282,14 +282,14 @@
 	{
 		"assign": "321057",
 		"jp_text": "パートナー追加パス",
-		"tr_text": "Add. Support Partners Ticket",
+		"tr_text": "Add. Support Partner Ticket",
 		"jp_explain": "サポートパートナーの追加使用パス。\n新規のサポートパートナーを１体追加。\n１キャラクター２枚まで拡張可能。",
 		"tr_explain": "Adds an additional Support Partner.\nUp to a maximum of 2\nadditional support partners."
 	},
 	{
 		"assign": "321058",
 		"jp_text": "パートナーリセットパス",
-		"tr_text": "Reset Partners Pass",
+		"tr_text": "Reset Partner Pass",
 		"jp_explain": "サポートパートナーのリメイクパス。\nサポートパートナーの状態をリセットし\nキャラクタークリエイトからやり直す。",
 		"tr_explain": "Allows you to reset and\nremake your Support Partner."
 	},
@@ -1229,14 +1229,14 @@
 		"jp_text": "クエスト報酬獲得１",
 		"tr_text": "Quest Reward 1",
 		"jp_explain": "追加のクエスト報酬を得られる。",
-		"tr_explain": ""
+		"tr_explain": "Additional quest rewards can be obtained."
 	},
 	{
 		"assign": "3210230",
 		"jp_text": "クエスト報酬獲得２",
 		"tr_text": "Quest Reward 2",
 		"jp_explain": "追加のクエスト報酬を得られる。",
-		"tr_explain": ""
+		"tr_explain": "Additional quest rewards can be obtained."
 	},
 	{
 		"assign": "3210231",
