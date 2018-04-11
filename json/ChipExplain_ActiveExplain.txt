@@ -849,9 +849,9 @@
 	{
 		"assign": "31164",
 		"jp_explainShort": "定期的に絶大ダメージ",
-		"tr_explainShort": "Regular immense damage",
+		"tr_explainShort": "Regular massive damage",
 		"jp_explainLong": "① 攻撃対象の敵に対して\n　　 定期的に攻撃力に応じた絶大ダメージを与える。\n[効果時間]長い時間",
-		"tr_explainLong": "① Deals regular immense damage to the\n    targeted enemy in proportion to your ATK.\n[Effect Duration] Long"
+		"tr_explainLong": "① Deals regular massive damage to the\n    targeted enemy in proportion to your ATK.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31171",
@@ -1040,14 +1040,14 @@
 		"jp_explainShort": "攻撃３回ごと攻撃力大強化＋追加小ダメージ",
 		"tr_explainShort": "3 actions = ATK up + additional damage",
 		"jp_explainLong": "① アクティブチップ使用か通常攻撃を３回行うごとに\n　　 攻撃力を大きく強化する。（最大時：絶大）\n② 敵に追加で小ダメージを与える。\n[効果時間]長い時間",
-		"tr_explainLong": "① Every 3 times you use an active chip or\n    a normal attack, greatly increases ATK.\n    (Maximum Increase: Immense)\n② Deals small additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Effect Duration] Long"
+		"tr_explainLong": "① Every 3 times you use an active chip or\n    a normal attack, greatly increases ATK.\n    (Maximum Increase: Immense)\n② Deals minor additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31250",
 		"jp_explainShort": "攻撃３回ごと攻撃力大強化＋追加小ダメージ",
 		"tr_explainShort": "3 actions = ATK up + additional damage",
 		"jp_explainLong": "① アクティブチップ使用か通常攻撃を３回行うごとに\n　　 攻撃力を大きく強化する。（最大時：絶大）\n② 敵に追加で小ダメージを与える。\n[効果時間]長い時間",
-		"tr_explainLong": "① Every 3 times you use an active chip or\n    a normal attack, greatly increases ATK.\n    (Maximum Increase: Immense)\n② Deals small additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Effect Duration] Long"
+		"tr_explainLong": "① Every 3 times you use an active chip or\n    a normal attack, greatly increases ATK.\n    (Maximum Increase: Immense)\n② Deals minor additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31255",
@@ -1124,14 +1124,14 @@
 		"jp_explainShort": "弱点属性を劇的強化＋追加大ダメージ",
 		"tr_explainShort": "Weak Element up + additional damage",
 		"jp_explainLong": "① 攻撃対象の敵の弱点属性を劇的に強化する。\n② 敵に追加で大ダメージを与える。\n[効果時間]長い時間",
-		"tr_explainLong": "① Dramatically increases the target's\n    weakness Element value.\n② Deals additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Effect Duration] Long"
+		"tr_explainLong": "① Dramatically increases the target's\n    weakness Element value.\n② Deals heavy additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31292",
 		"jp_explainShort": "弱点属性を劇的強化＋追加大ダメージ",
 		"tr_explainShort": "Weak Element up + additional damage",
 		"jp_explainLong": "① 攻撃対象の敵の弱点属性を劇的に強化する。\n② 敵に追加で大ダメージを与える。\n[効果時間]長い時間",
-		"tr_explainLong": "① Dramatically increases the target's\n    weakness Element value.\n② Deals additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Effect Duration] Long"
+		"tr_explainLong": "① Dramatically increases the target's\n    weakness Element value.\n② Deals heavy additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31311",
@@ -6631,16 +6631,16 @@
 	{
 		"assign": "4310",
 		"jp_explainShort": "攻撃時に追加で小ダメージ",
-		"tr_explainShort": "Small additional damage to enemies",
+		"tr_explainShort": "Additional damage to enemies",
 		"jp_explainLong": "① 敵に追加で小ダメージを与える。\n[効果時間]短い時間",
-		"tr_explainLong": "① Deals small additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Effect Duration] Short"
+		"tr_explainLong": "① Deals minor additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Effect Duration] Short"
 	},
 	{
 		"assign": "4320",
 		"jp_explainShort": "攻撃時に追加で小ダメージ",
-		"tr_explainShort": "Small additional damage to enemies",
+		"tr_explainShort": "Additional  damage to enemies",
 		"jp_explainLong": "① 敵に追加で小ダメージを与える。\n[効果時間]短い時間",
-		"tr_explainLong": "① Deals small additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Effect Duration] Short"
+		"tr_explainLong": "① Deals minor additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Effect Duration] Short"
 	},
 	{
 		"assign": "4510",

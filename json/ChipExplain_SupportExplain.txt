@@ -128,21 +128,21 @@
 	{
 		"assign": "30009",
 		"jp_explainShort": "追加で小ダメージ",
-		"tr_explainShort": "Small additional damage",
+		"tr_explainShort": "Additional damage to enemies",
 		"jp_explainLong": "① 敵に追加で小ダメージを与える。\n[発動条件]攻撃がヒットした時",
-		"tr_explainLong": "① Deals small additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack"
+		"tr_explainLong": "① Deals minor additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack"
 	},
 	{
 		"assign": "30010",
 		"jp_explainShort": "追加で中ダメージ",
 		"tr_explainShort": "Small additional damage",
 		"jp_explainLong": "① 敵に追加で中ダメージを与える。\n[発動条件]攻撃がヒットした時",
-		"tr_explainLong": "① Deals small additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack"
+		"tr_explainLong": "① Deals minor additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack"
 	},
 	{
 		"assign": "30011",
 		"jp_explainShort": "チップの効果時間がわずかに延長",
-		"tr_explainShort": "Chip Effect Duration slightly extended",
+		"tr_explainShort": "Chip Effect Duration extended",
 		"jp_explainLong": "① アクティブチップのアビリティ効果時間を\n　　 わずかに延長する。\n[発動条件]アクティブチップ発動時",
 		"tr_explainLong": "① Extends the Effect Duration of\n    Active Chips' abilities.\n[Activation Trigger] Activating an Active Chip"
 	},
@@ -1544,14 +1544,14 @@
 		"jp_explainShort": "攻撃力劇的増加＋ダメージ無で攻撃力大増加",
 		"tr_explainShort": "Dam. boost + further boost if undamaged",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 一定時間ダメージを受けなければ\n　　 さらに攻撃力を大きく増加する。（最大時：絶大）\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Boosts damage further at regular intervals. This\n    boost stops increasing when you take damage.\n    (Maximum Boost: Overwhelming)\n    <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Boosts damage further at regular intervals. This\n    boost stops increasing when you take damage.\n    (Maximum Boost: Immense)\n    <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31206",
 		"jp_explainShort": "攻撃力絶大増加＋ダメージ無で攻撃力大増加",
 		"tr_explainShort": "Dam. boost + further boost if undamaged",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 一定時間ダメージを受けなければ\n　　 さらに攻撃力を大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Boosts damage further at regular intervals. This\n    boost stops increasing when you take damage.\n    (Maximum Boost: Overwhelming)\n    <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
+		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Boosts damage further at regular intervals. This\n    boost stops increasing when you take damage.\n    (Maximum Boost: Immense)\n    <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31207",
@@ -7191,16 +7191,16 @@
 	{
 		"assign": "4410",
 		"jp_explainShort": "追加で小ダメージ",
-		"tr_explainShort": "Small additional damage",
+		"tr_explainShort": "Additional damage to enemies",
 		"jp_explainLong": "① 敵に追加で小ダメージを与える。\n[発動条件]攻撃がヒットした時",
-		"tr_explainLong": "① Deals small additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack"
+		"tr_explainLong": "① Deals minor additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack"
 	},
 	{
 		"assign": "4420",
 		"jp_explainShort": "追加で小ダメージ",
-		"tr_explainShort": "Small additional damage",
+		"tr_explainShort": "Additional damage to enemies",
 		"jp_explainLong": "① 敵に追加で小ダメージを与える。\n[発動条件]攻撃がヒットした時",
-		"tr_explainLong": "① Deals small additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack"
+		"tr_explainLong": "① Deals minor additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack"
 	},
 	{
 		"assign": "4610",
@@ -7669,14 +7669,14 @@
 		"jp_explainShort": "攻撃３回毎に攻撃力小強化＋追加小ダメージ",
 		"tr_explainShort": "3 actions = ATK up + additional damage",
 		"jp_explainLong": "① アクティブチップ使用か通常攻撃を３回行うごとに\n　　 攻撃力をわずかに強化する。（最大時：大）\n② 敵に追加で小ダメージを与える。\n[発動条件]スライド操作時\n[効果時間]短い時間",
-		"tr_explainLong": "① Every 3 times you use an active chip or\n    a normal attack, slightly increases ATK.\n    (Maximum increase: Great)\n② Deals small additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Slide Action\n[Effect Duration] Short"
+		"tr_explainLong": "① Every 3 times you use an active chip or\n    a normal attack, slightly increases ATK.\n    (Maximum increase: Great)\n② Deals minor additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Slide Action\n[Effect Duration] Short"
 	},
 	{
 		"assign": "20034",
 		"jp_explainShort": "攻撃３回毎に攻撃力小強化＋追加小ダメージ",
 		"tr_explainShort": "3 actions = ATK up + additional damage",
 		"jp_explainLong": "① アクティブチップ使用か通常攻撃を３回行うごとに\n　　 攻撃力をわずかに強化する。（最大時：大）\n② 敵に追加で小ダメージを与える。\n[発動条件]スライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "① Every 3 times you use an active chip or\n    a normal attack, slightly increases ATK.\n    (Maximum increase: Great)\n② Deals small additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Slide Action\n[Effect Duration] Medium"
+		"tr_explainLong": "① Every 3 times you use an active chip or\n    a normal attack, slightly increases ATK.\n    (Maximum increase: Great)\n② Deals minor additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Slide Action\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "20039",
