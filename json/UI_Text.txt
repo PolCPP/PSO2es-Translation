@@ -17880,6 +17880,26 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "quest_clear_reward_dialog_title_6144005",
+		"jp_text": "ストーリークエスト Season2　5章クリア",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_clear_reward_dialog_body_6144005",
+		"jp_text": "Season2　5章クリアおめでとうございます！\n以下のクリア報酬をプレゼントいたします。\n受け取りボックスをご確認ください。",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_clear_reward_dialog_title_6142005",
+		"jp_text": "ストーリークエスト Season2　5章2-4",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_clear_reward_dialog_body_6142005",
+		"jp_text": "Season2　「糸が切られた」クリアおめでとうございます！\n以下のクリア報酬をプレゼントいたします。\n受け取りボックスをご確認ください。",
+		"tr_text": ""
+	},
+	{
 		"assign": "recommended_equipment",
 		"jp_text": "おすすめ装備",
 		"tr_text": "Recommended Equipment"
@@ -19166,7 +19186,7 @@
 	},
 	{
 		"assign": "wh_40_01",
-		"jp_text": "エターナルタワー６０Ｆ踏破！　おめでとうございます!!\n１F～６０Fまでクリアした合計時間によって\nシルバークリア報酬とゴールドクリア報酬がもらえます。",
+		"jp_text": "エターナルタワー１００Ｆ踏破！　おめでとうございます!!\n１F～１００Fまでクリアした合計時間によって\nシルバークリア報酬とゴールドクリア報酬がもらえます。",
 		"tr_text": ""
 	},
 	{
@@ -19388,6 +19408,11 @@
 		"assign": "chip_details_pate_linkskill_conditions",
 		"jp_text": "攻撃タイプ一致時",
 		"tr_text": "When type matches"
+	},
+	{
+		"assign": "chip_details_pate_rashskill_conditions",
+		"jp_text": "ラッシュアーツ発動時",
+		"tr_text": ""
 	},
 	{
 		"assign": "bonus_expedition_dialog_title",
