@@ -718,14 +718,14 @@
 		"jp_explainShort": "「バーン」付与＋「バーン」ダメージ大増加",
 		"tr_explainShort": "[Burn] + damage boosted vs [Burn]",
 		"jp_explainLong": "① 敵に「バーン」を付与する。\n② 「バーン」状態の敵に対して\n　　 ダメージを大きく増加する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Inflicts [Burn] on targeted enemy.\n② Greatly boosts damage against\n    enemies affected by [Burn].\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] Medium"
+		"tr_explainLong": "① Inflicts [Burn] on targeted enemy.\n② Greatly boosts damage against enemies\n    affected by [Burn].\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31094",
 		"jp_explainShort": "「バーン」付与＋「バーン」ダメージ劇的増加",
 		"tr_explainShort": "[Burn] + damage boosted vs [Burn]",
 		"jp_explainLong": "① 敵に「バーン」を付与する。\n② 「バーン」状態の敵に対して\n　　 ダメージを劇的に増加する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Inflicts [Burn] on targeted enemy.\n② Dramatically boosts damage against\n    enemies affected by [Burn].\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] Medium"
+		"tr_explainLong": "① Inflicts [Burn] on targeted enemy.\n② Dramatically boosts damage against enemies\n    affected by [Burn].\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31097",
@@ -816,14 +816,14 @@
 		"jp_explainShort": "「フリーズ」付与＋「フリーズ」ダメージ大増加",
 		"tr_explainShort": "[Freeze] + damage boost vs [Freeze]",
 		"jp_explainLong": "① 敵に「フリーズ」を付与する。\n② 「フリーズ」状態の敵に対して\n　　 ダメージを絶大に増加する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Inflicts [Freeze] on targeted enemy.\n② Greatly boosts damage against\n    enemies affected by [Freeze].\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] Medium"
+		"tr_explainLong": "① Inflicts [Freeze] on targeted enemy.\n② Greatly boosts damage against enemies\n    affected by [Freeze].\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31146",
 		"jp_explainShort": "「フリーズ」付与＋「フリーズ」ダメージ劇的増加",
 		"tr_explainShort": "[Freeze] + damage up vs [Freeze]",
 		"jp_explainLong": "① 敵に「フリーズ」を付与する。\n② 「フリーズ」状態の敵に対して\n　　 ダメージを絶大に増加する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Inflicts [Freeze] on targeted enemy.\n② Greatly boosts damage against\n    enemies affected by [Freeze].\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] Medium"
+		"tr_explainLong": "① Inflicts [Freeze] on targeted enemy.\n② Greatly boosts damage against enemies\n    affected by [Freeze].\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31153",
@@ -1334,14 +1334,14 @@
 		"jp_explainShort": "「バーン」付与＋「バーン」時ダメージ劇的増加",
 		"tr_explainShort": "[Burn] imbued + damage boost vs [Burn]",
 		"jp_explainLong": "① 通常攻撃に「バーン」効果を与える。\n② 「バーン」状態の敵に対して\n　　 ダメージを劇的に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Gives normal attacks a chance to inflict [Burn].\n② Dramatically boosts damage against\n    enemies affected by [Burn].\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] Long"
+		"tr_explainLong": "① Gives normal attacks a chance to inflict [Burn].\n② Dramatically boosts damage against enemies\n    affected by [Burn].\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31426",
 		"jp_explainShort": "「バーン」付与＋「バーン」時ダメージ劇的増加",
 		"tr_explainShort": "[Burn] imbued + damage boost vs [Burn]",
 		"jp_explainLong": "① 通常攻撃に「バーン」効果を与える。\n② 「バーン」状態の敵に対して\n　　 ダメージを劇的に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Gives normal attacks a chance to inflict [Burn].\n② Dramatically boosts damage against\n    enemies affected by [Burn].\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] Long"
+		"tr_explainLong": "① Gives normal attacks a chance to inflict [Burn].\n② Dramatically boosts damage against enemies\n    affected by [Burn].\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31427",
@@ -1488,7 +1488,7 @@
 		"jp_explainShort": "状態異常付与＋状態異常ダメージ大増加",
 		"tr_explainShort": "Status imbued + damage boost vs status",
 		"jp_explainLong": "① 通常攻撃にランダムで特定の状態異常効果を付与する。\n② 状態異常の敵に対してダメージを大きく増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Gives normal attacks a chance to inflict\n    random status effects.\n② Greatly boosts damage against enemies\n    affected by status effects.\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] Long"
+		"tr_explainLong": "① Gives normal attacks a chance to inflict\n    random status effects.\n② Greatly boosts damage against enemies affected\n    by status effects.\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31510",
@@ -1831,14 +1831,14 @@
 		"jp_explainShort": "ポイズン付与＋ポイズン時ダメージ増加",
 		"tr_explainShort": "[Poison] imbued + dam. boost vs [Poison]",
 		"jp_explainLong": "① 通常攻撃に「ポイズン」効果を与える。\n② 「ポイズン」状態の敵に対してダメージを増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Gives normal attacks a chance to inflict [Poison].\n② Boosts damage against\n    enemies affected by [Poison].\n[Effect Duration] Long"
+		"tr_explainLong": "① Gives normal attacks a chance to inflict [Poison].\n② Boosts damage against enemies affected\n    by [Poison].\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31674",
 		"jp_explainShort": "ポイズン付与＋ポイズン時ダメージ大増加",
 		"tr_explainShort": "[Poison] imbued + dam. boost vs [Poison]",
 		"jp_explainLong": "① 通常攻撃に「ポイズン」効果を与える。\n② 「ポイズン」状態の敵に対してダメージを大きく増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Gives normal attacks a chance to inflict [Poison].\n② Greatly boosts damage against\n    enemies affected by [Poison].\n[Effect Duration] Long"
+		"tr_explainLong": "① Gives normal attacks a chance to inflict [Poison].\n② Greatly boosts damage against enemies affected\n    by [Poison].\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31677",
@@ -6745,14 +6745,14 @@
 		"jp_explainShort": "「ポイズン」付与＋「ポイズン」ダメージ小増加",
 		"tr_explainShort": "[Poison] + damage boosted vs [Poison]",
 		"jp_explainLong": "① 敵に「ポイズン」を付与する。\n② 「ポイズン」状態の敵に対して\n　　 ダメージをわずかに増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Inflicts [Poison] on targeted enemy.\n② Slightly boosts damage against\n    enemies affected by [Poison].\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] Long"
+		"tr_explainLong": "① Inflicts [Poison] on targeted enemy.\n② Slightly boosts damage against enemies affected\n    by [Poison].\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] Long"
 	},
 	{
 		"assign": "20018",
 		"jp_explainShort": "「ポイズン」付与＋「ポイズン」ダメージ小増加",
 		"tr_explainShort": "[Poison] + damage boosted vs [Poison]",
 		"jp_explainLong": "① 敵に「ポイズン」を付与する。\n② 「ポイズン」状態の敵に対して\n　　 ダメージをわずかに増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Inflicts [Poison] on targeted enemy.\n② Slightly boosts damage against\n    enemies affected by [Poison].\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] Long"
+        "tr_explainLong": "① Inflicts [Poison] on targeted enemy.\n② Slightly boosts damage against enemies affected\n    by [Poison].\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] Long"
 	},
 	{
 		"assign": "20043",
