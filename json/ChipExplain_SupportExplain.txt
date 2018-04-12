@@ -135,7 +135,7 @@
 	{
 		"assign": "30010",
 		"jp_explainShort": "追加で中ダメージ",
-		"tr_explainShort": "Small additional damage",
+		"tr_explainShort": "Additional damage to enemies",
 		"jp_explainLong": "① 敵に追加で中ダメージを与える。\n[発動条件]攻撃がヒットした時",
 		"tr_explainLong": "① Deals minor additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack"
 	},
@@ -1640,86 +1640,86 @@
 	{
 		"assign": "31223",
 		"jp_explainShort": "光チップ数攻撃力劇的増加＋追加小ダメージ",
-		"tr_explainShort": "ATK PWR boost+Supplimental DMG boost",
+		"tr_explainShort": "Damage boost & add. damage x # Light",
 		"jp_explainLong": "① 装備中の光属性チップの枚数に応じて\n　　 攻撃力を大きく増加する。\n② 装備中の光属性チップの枚数に応じて\n　　 敵に追加で小ダメージを与える。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activate an effect that dramatically boosts\nATK PWR based on the # of Light chips equipped.\nAttacks will deal heavy suppl. damage."
+		"tr_explainLong": "① Greatly boosts damage in proportion to the\n    number of Light chips equipped.\n    <color=yellow>[E-Frame]</color>\n② Deals minor additional damage in proportion to\n    the number of Light chips equipped.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31224",
 		"jp_explainShort": "光チップ数攻撃力劇的増加＋追加大ダメージ",
-		"tr_explainShort": "ATK PWR boost+Supplimental DMG boost",
+		"tr_explainShort": "Damage boost & add. damage x # Light",
 		"jp_explainLong": "① 装備中の光属性チップの枚数に応じて\n　　 攻撃力を劇的に増加する。\n② 装備中の光属性チップの枚数に応じて\n　　 敵に追加で大ダメージを与える。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "JAs activate an effect that dramatically boosts\nATK PWR based on the # of Light chips equipped.\nAttacks will dramatically deal suppl. damage."
+		"tr_explainLong": "① Dramatically boosts damage in proportion to the\n    number of Light chips equipped.\n    <color=yellow>[E-Frame]</color>\n② Deals heavy additional damage in proportion to\n    the number of Light chips equipped.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31225",
 		"jp_explainShort": "ターゲットとの距離によって攻撃力が劇的増加",
-		"tr_explainShort": "JAs boost ATK PWR closer you are",
+		"tr_explainShort": "Damage boost x proximity to target",
 		"jp_explainLong": "① ターゲットしている敵との距離が近いほど\n　　 攻撃力を劇的に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs dramatically increases attack power\nbased on how close you are to the\ntargeted enemy."
+		"tr_explainLong": "① Dramatically boosts damage in proportion to\n    how close you are to the target.\n    <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31226",
 		"jp_explainShort": "ターゲットとの距離によって攻撃力が劇的増加",
-		"tr_explainShort": "JAs boost ATK PWR closer you are",
+		"tr_explainShort": "Damage boost x proximity to target",
 		"jp_explainLong": "① ターゲットしている敵との距離が近いほど\n　　 攻撃力を劇的に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs dramatically increases attack power\nbased on how close you are to the\ntargeted enemy."
+		"tr_explainLong": "① Dramatically boosts damage in proportion to\n    how close you are to the target.\n    <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31229",
 		"jp_explainShort": "攻撃力絶大増加＋ダメージ軽減＋ダウン無効",
-		"tr_explainShort": "ATK PWR Boost+Dmg reduce+knockback resist",
+		"tr_explainShort": "Dam. boost + dam. res. + no knockback",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 敵から受けるダメージを軽減する。\n③ ダウンしなくなる。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs increases ATK PWR tremendously,\nand reduces damage from enemies +\nprevents the character from being knocked down."
+		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Reduces damage taken from enemies.\n③ Grants knockdown immunity.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31230",
 		"jp_explainShort": "攻撃力絶大増加＋ダメージ軽減＋ダウン無効",
-		"tr_explainShort": "ATK PWR Boost+Dmg reduce+knockback resist",
+		"tr_explainShort": "Dam. boost + dam. res. + no knockback",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 敵から受けるダメージを軽減する。\n③ ダウンしなくなる。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs increases ATK PWR tremendously,\nand reduces damage from enemies +\nprevents the character from being knocked down."
+		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Reduces damage taken from enemies.\n③ Grants knockdown immunity.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31231",
 		"jp_explainShort": "闇チップ数で攻撃力劇的増加＋定期ＣＰ回復",
-		"tr_explainShort": "CP recovery on JA+ATK PWR boost",
+		"tr_explainShort": "Damage boost & CP recovery x # Dark",
 		"jp_explainLong": "① 装備中の闇属性チップの枚数に応じて\n　　 攻撃力を劇的に増加する。\n② 装備中の闇属性チップの枚数に応じて\n　　 定期的にＣＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs recover slight amounts of CP periodically,\nand dramatically increase Attack Power\nbased on the # of Dark Chips equipped."
+		"tr_explainLong": "① Dramatically boosts damage in proportion to the\n    number of Dark chips equipped.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers CP at regular intervals in\n    proportion to the number of Dark chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31232",
 		"jp_explainShort": "闇チップ数で攻撃力劇的増加＋定期ＣＰ回復",
-		"tr_explainShort": "CP recovery on JA+ATK PWR boost",
+		"tr_explainShort": "Damage boost & CP recovery x # Dark",
 		"jp_explainLong": "① 装備中の闇属性チップの枚数に応じて\n　　 攻撃力を劇的に増加する。\n② 装備中の闇属性チップの枚数に応じて\n　　 定期的にＣＰを回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "JAs recover slight amounts of CP regularly,\nand dramatically increase Attack Power\nbased on the # of Dark Chips equipped."
+		"tr_explainLong": "① Dramatically boosts damage in proportion to the\n    number of Dark chips equipped.\n    <color=yellow>[E-Frame]</color>\n② Recovers CP at regular intervals in proportion\n    to the number of Dark chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31233",
 		"jp_explainShort": "通常攻撃にバーン付与＋攻撃力劇的増加",
-		"tr_explainShort": "ATK PWR boost+Normals give Burn",
+		"tr_explainShort": "[Burn] imbued + damage boosted",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 通常攻撃時に「バーン」効果を付与する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activate an effect that dramatically\nincreases attack power, and applies\n[Burn] to normal attacks."
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Gives normal attacks a chance to inflict [Burn].\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31234",
 		"jp_explainShort": "通常攻撃にバーン付与＋攻撃力劇的増加",
-		"tr_explainShort": "ATK PWR boost+Normals give Burn",
+		"tr_explainShort": "[Burn] imbued + damage boosted",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 通常攻撃時に「バーン」効果を付与する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activate an effect that dramatically\nincreases attack power, and applies\n[Burn] to normal attacks."
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Gives normal attacks a chance to inflict [Burn].\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31235",
 		"jp_explainShort": "パニック付与＋パニック時ダメージ劇的増加",
-		"tr_explainShort": "Inflict Panic+Boosted dmg to panic status",
+		"tr_explainShort": "[Panic] imbued + dam. boost vs [Panic]",
 		"jp_explainLong": "① 通常攻撃に「パニック」効果を付与する。\n② 「パニック」状態の敵に対して\n　　 ダメージを劇的に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that causes normal\nattacks to inflict [Panic]. Damage increases\ndramatically when hitting Panicked enemies."
+		"tr_explainLong": "① Gives normal attacks a chance to inflict [Panic].\n② Boosts damage against enemies affected\n    by [Panic].\n    <color=yellow>[C-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31236",
 		"jp_explainShort": "パニック付与＋パニック時ダメージ劇的増加",
-		"tr_explainShort": "Inflict Panic+Boosted dmg to panic status",
+		"tr_explainShort": "[Panic] imbued + dam. boost vs [Panic]",
 		"jp_explainLong": "① 通常攻撃に「パニック」効果を付与する。\n② 「パニック」状態の敵に対して\n　　 ダメージを劇的に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that causes normal\nattacks to inflict [Panic]. Damage increases\ndramatically when hitting Panicked enemies."
+		"tr_explainLong": "① Gives normal attacks a chance to inflict [Panic].\n② Boosts damage against enemies affected\n    by [Panic].\n    <color=yellow>[C-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31237",
@@ -1738,30 +1738,30 @@
 	{
 		"assign": "31239",
 		"jp_explainShort": "攻撃力絶大増加＋定期的にＨＰが微回復",
-		"tr_explainShort": "Enormous ATK Boost + Periodic HP Recovery",
+		"tr_explainShort": "Damage boost + HP recovery over time",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacks activates an effect that enormously\nboosts ATK and periodically recovers HP."
+		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31240",
 		"jp_explainShort": "攻撃力絶大増加＋定期的にＨＰが微回復",
-		"tr_explainShort": "Enormous ATK Boost + Periodic HP Recovery",
+		"tr_explainShort": "Damage boost + HP recovery over time",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "Attacks activates an effect that enormously\nboosts ATK and periodically recovers HP."
+		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31247",
 		"jp_explainShort": "攻撃力絶大増加＋ダメージ防御",
-		"tr_explainShort": "ATK PWR Tremendously boosted+HP Boost",
+		"tr_explainShort": "Damage boosted + barrier",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activate an effect that temporarily\nadds an extra HP bar and tremendously\nincreases attack power."
+		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31248",
 		"jp_explainShort": "攻撃力絶大増加＋ダメージ防御",
-		"tr_explainShort": "ATK PWR Tremendously boosted+HP Boost",
+		"tr_explainShort": "Damage boosted + barrier",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "JAs activate an effect that temporarily\nadds an extra HP bar and tremendously\nincreases attack power."
+		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31251",
@@ -1892,44 +1892,44 @@
 	{
 		"assign": "31279",
 		"jp_explainShort": "ダメージ軽減＋攻撃力劇的増加",
-		"tr_explainShort": "Damage Reduction+ATK Power increase",
+		"tr_explainShort": "Damage resist + damage boosted",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 敵から受けるダメージを軽減する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacking an enemy activates an effect\nthat increases Attack Power dramatically while\nreducing the damage you receive from attacks."
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Reduces damage taken from enemies.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31280",
 		"jp_explainShort": "ダメージ軽減＋攻撃力劇的増加",
-		"tr_explainShort": "Damage Reduction+ATK Power increase",
+		"tr_explainShort": "Damage resist + damage boosted",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 敵から受けるダメージを軽減する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacking an enemy activates an effect\nthat increases Attack Power dramatically while\nreducing the damage you receive from attacks."
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Reduces damage taken from enemies.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31281",
 		"jp_explainShort": "通常攻撃にポイズン付与＋弱点属性大強化",
-		"tr_explainShort": "JA effect normals do Poison+Weak Attr. Up",
+		"tr_explainShort": "[Poison] imbued + Weak Element up",
 		"jp_explainLong": "① 攻撃対象の敵の弱点属性を大きく強化する。\n② 通常攻撃に「ポイズン」効果を付与する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activate an effect that causes normal attacks\nto inflict Poison. Addtionally, it greatly\nincreases the element weak to the targeted enemy."
+		"tr_explainLong": "① Greatly increases the target's\n    weakness Element value.\n② Gives normal attacks a chance to inflict [Poison].\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31282",
 		"jp_explainShort": "通常攻撃にポイズン付与＋弱点属性劇的強化",
-		"tr_explainShort": "JA effect normals do Poison+Weak Attr. Up",
+		"tr_explainShort": "[Poison] imbued + Weak Element up",
 		"jp_explainLong": "① 攻撃対象の敵の弱点属性を劇的に強化する。\n② 通常攻撃に「ポイズン」効果を付与する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activate an effect that causes normal attacks\nto inflict Poison. Addtionally, it dramatically\nincreases the element weak to the targeted enemy."
+		"tr_explainLong": "① Dramatically increases the target's\n    weakness Element value.\n\n② Gives normal attacks a chance to inflict [Poison].\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31283",
 		"jp_explainShort": "炎属性強化＋追加で特大ダメージ",
-		"tr_explainShort": "Fire Attr. % increase+extra dmg",
+		"tr_explainShort": "Fire Element up + additional damage",
 		"jp_explainLong": "① 炎属性を強化する。\n② 追加で特大ダメージを与える。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs chance activate an effect that largely\nboosts Fire Attribute while boosting damage."
+		"tr_explainLong": "① Increases Fire Element.\n② Deals massive additional damage to enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31284",
 		"jp_explainShort": "炎属性大強化＋追加で特大ダメージ",
-		"tr_explainShort": "Fire Attr. % increase+extra dmg",
+		"tr_explainShort": "Fire Element up + additional damage",
 		"jp_explainLong": "① 炎属性を大きく強化する。\n② 追加で特大ダメージを与える。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs chance activate an effect that greatly\nboosts Fire Attribute while boosting damage."
+		"tr_explainLong": "① Greatly increases Fire Element.\n② Deals massive additional damage to enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31285",
@@ -1990,58 +1990,58 @@
 	{
 		"assign": "31295",
 		"jp_explainShort": "攻撃力劇的増加＋状態異常無効",
-		"tr_explainShort": "Dramatic ATK Boost + Status Immunity",
+		"tr_explainShort": "Damage boosted + status immunity",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 自身を状態異常にならなくする。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "JAs activates an effect that\ndramatically boosts ATK and grants status\nimmunity for a period of time."
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Grants immunity to status effects.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31296",
 		"jp_explainShort": "攻撃力劇的増加＋状態異常無効",
-		"tr_explainShort": "Dramatic ATK Boost + Status Immunity",
+		"tr_explainShort": "Damage boosted + status immunity",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 自身を状態異常にならなくする。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "JAs activates an effect that\ndramatically boosts ATK and grants status\nimmunity for a period of time."
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Grants immunity to status effects.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31297",
 		"jp_explainShort": "強弓の技が劇的強化＋通常攻撃と移動加速",
-		"tr_explainShort": "Boost Bullet Bow + Quicks Actions",
+		"tr_explainShort": "",
 		"jp_explainLong": "-",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31298",
 		"jp_explainShort": "強弓の技が劇的強化＋通常攻撃と移動加速",
-		"tr_explainShort": "Boost Bullet Bow + Quicks Actions",
+		"tr_explainShort": "",
 		"jp_explainLong": "-",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31299",
 		"jp_explainShort": "攻撃力劇的増加＋弱点属性大強化",
-		"tr_explainShort": "Dramatic ATK Boost + ATK Boost on Weak Attr.",
+		"tr_explainShort": "Damage boosted + weak Element up",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 攻撃対象の敵の弱点属性を大きく強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "Performing a Just Attack activates an effect\nthat dramatically boosts Attack and increases the\ndamage done to Elemental Weaknesses."
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly increases the target's\n    weakness Element value.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31300",
 		"jp_explainShort": "攻撃力劇的増加＋弱点属性大強化",
-		"tr_explainShort": "Dramatic ATK Boost + ATK Boost on Weak Attr.",
+		"tr_explainShort": "Damage boosted + weak Element up",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 攻撃対象の敵の弱点属性を大きく強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "Performing a Just Attack activates an effect\nthat dramatically boosts Attack and increases the\ndamage done to Elemental Weaknesses."
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly increases the target's\n    weakness Element value.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31301",
 		"jp_explainShort": "ＨＰとＣＰが小回復＋追加大ダメージ",
-		"tr_explainShort": "Small HP & CP Recovery + Additional Large Damage",
+		"tr_explainShort": "HP & CP recovery + additional damage",
 		"jp_explainLong": "① 敵に追加で大ダメージを与える。\n② ＨＰをわずかに回復する。\n③ ＣＰをわずかに回復する。\n[発動条件]攻撃がヒットした時",
-		"tr_explainLong": "Attacks activates an effect that recovers a small\namount of HP and CP and additional large damage on\nhit."
+		"tr_explainLong": "① Deals heavy additional damage to enemies.\n    <color=yellow>[Chase]</color>\n② Slightly recovers HP.\n③ Slightly recovers CP.\n[Activation Trigger] Landing an attack"
 	},
 	{
 		"assign": "31302",
 		"jp_explainShort": "ＨＰとＣＰが小回復＋追加特大ダメージ",
-		"tr_explainShort": "Small HP & CP Recovery + Additional Dramatic Damage",
+		"tr_explainShort": "HP & CP recovery + additional damage",
 		"jp_explainLong": "① 敵に追加で特大ダメージを与える。\n② ＨＰをわずかに回復する。\n③ ＣＰをわずかに回復する。\n[発動条件]攻撃がヒットした時",
-		"tr_explainLong": "Attacks activates an effect that recovers a small\namount of HP and CP and additional dramatic damage\non hit."
+		"tr_explainLong": "① Deals massive additional damage to enemies.\n    <color=yellow>[Chase]</color>\n② Slightly recovers HP.\n③ Slightly recovers CP.\n[Activation Trigger] Landing an attack"
 	},
 	{
 		"assign": "31303",
@@ -2088,16 +2088,16 @@
 	{
 		"assign": "31309",
 		"jp_explainShort": "攻撃力劇的増加＋ＣＰ最大値増加",
-		"tr_explainShort": "Dramatic ATK Boost + Boost Maximum CP",
+		"tr_explainShort": "Damage boosted + max CP boosted",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② ＣＰの最大値を増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK and boosts maximum CP."
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Boosts maximum CP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31310",
 		"jp_explainShort": "攻撃力劇的増加＋ＣＰ最大値増加",
-		"tr_explainShort": "Dramatic ATK Boost + Boost Maximum CP",
+		"tr_explainShort": "Damage boosted + max CP boosted",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② ＣＰの最大値を増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK and boosts maximum CP."
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Boosts maximum CP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31313",
@@ -2172,30 +2172,30 @@
 	{
 		"assign": "31329",
 		"jp_explainShort": "定期的に攻撃力が小増加",
-		"tr_explainShort": "Periodic small ATK Boost",
+		"tr_explainShort": "Damage boosted over time",
 		"jp_explainLong": "① 定期的に攻撃力をわずかに増加する。（最大時：劇的）\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "Attacks activates an effect that\nperiodically boosts ATK by a small amount."
+		"tr_explainLong": "① Slightly boosts damage at regular intervals.\n    (Maximum Boost: Dramatic)\n    <color=yellow>[G-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31330",
 		"jp_explainShort": "定期的に攻撃力が小増加",
-		"tr_explainShort": "Periodic small ATK Boost",
+		"tr_explainShort": "Damage boosted over time",
 		"jp_explainLong": "① 定期的に攻撃力をわずかに増加する。（最大時：劇的）\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "Attacks activates an effect that\nperiodically boosts ATK by a small amount."
+		"tr_explainLong": "① Slightly boosts damage at regular intervals.\n    (Maximum Boost: Dramatic)\n    <color=yellow>[G-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31331",
 		"jp_explainShort": "ダメージ軽減＋法術が大強化",
-		"tr_explainShort": "Reduce Damage Taken + Boost Tech Power",
+		"tr_explainShort": "Damage taken reduced + Techs boosted",
 		"jp_explainLong": "① 法術の威力を大きく強化する。\n② 敵から受けるダメージを軽減する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacks activates an effect that\nreduces damage taken and boosts Tech power."
+		"tr_explainLong": "① Greatly boosts Techs.\n    <color>[A-Frame]</color>\n② Reduces damage taken from enemies.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31332",
 		"jp_explainShort": "ダメージ大軽減＋法術が劇的強化",
-		"tr_explainShort": "Reduce Damage Taken + Boost Tech Power",
+		"tr_explainShort": "Damage taken reduced + Techs boosted",
 		"jp_explainLong": "① 法術の威力を劇的に強化する。\n② 敵から受けるダメージを大きく軽減する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "Attacks activates an effect that\ngreatly reduces damage taken and\nboosts Tech power."
+		"tr_explainLong": "① Dramatically boosts Techs.\n    <color>[A-Frame]</color>\n② Greatly reduces damage taken from enemies.\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31333",
@@ -2228,16 +2228,16 @@
 	{
 		"assign": "31341",
 		"jp_explainShort": "攻撃力劇的増加＋一定確率で回避",
-		"tr_explainShort": "Dramatic ATK Boost + Chance of Avoiding Damage",
+		"tr_explainShort": "Damage boost + chance to avoid damage",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]スライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "Slide Action activates an effect that dramatically\nboosts ATK and gives a certain amount of probability\nto avoid damage from enemies."
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Grants a chance to avoid damage from enemies.\n[Activation Trigger] Slide Action\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31342",
 		"jp_explainShort": "攻撃力劇的増加＋一定確率で回避",
-		"tr_explainShort": "Dramatic ATK Boost + Chance of Avoiding Damage",
+		"tr_explainShort": "Damage boost + chance to avoid damage",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]スライド操作時\n[効果時間]長い時間",
-		"tr_explainLong": "Slide Action activates an effect that dramatically\nboosts ATK and gives a certain amount of probability\nto avoid damage from enemies."
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Grants a chance to avoid damage from enemies.\n[Activation Trigger] Slide Action\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31343",
@@ -2256,30 +2256,30 @@
 	{
 		"assign": "31347",
 		"jp_explainShort": "必殺技大強化＋通常攻撃と移動加速",
-		"tr_explainShort": "Boost PAs + Quickens Actions",
+		"tr_explainShort": "PAs boosted + actions quickened",
 		"jp_explainLong": "① 必殺技の威力を大きく強化する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacks activates an effect that boosts PA damage in\naddition to increasing movement and attacking speed."
+		"tr_explainLong": "① Greatly boosts PAs.\n    <color>[A-Frame]</color>\n② Increases speed of movement\n    and normal attacks.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31348",
 		"jp_explainShort": "必殺技劇的強化＋通常攻撃と移動加速",
-		"tr_explainShort": "Boost PAs + Quickens Actions",
+		"tr_explainShort": "PAs boosted + actions quickened",
 		"jp_explainLong": "① 必殺技の威力を劇的に強化する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "Attacks activates an effect that boosts PA damage in\naddition to increasing movement and attacking speed."
+		"tr_explainLong": "① Greatly boosts PAs.\n    <color>[A-Frame]</color>\n② Increases speed of movement\n    and normal attacks.\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31349",
 		"jp_explainShort": "状態異常ダメージ劇的増＋定期的にＨＰ小回復",
-		"tr_explainShort": "Dramatic ATK Boost on Statused Enemies + Periodic HP Recovery",
+		"tr_explainShort": "Dam. boost vs status + HP up over time",
 		"jp_explainLong": "① 状態異常の敵に対してダメージを劇的に増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacks activates an effect that dramatically boosts\nATK against enemies afflicted with status effects and\nperiodically recovers small amount of HP."
+		"tr_explainLong": "① Dramatically boosts damage against enemies\n    affected by status effects.\n    <color=yellow>[C-Frame]</color>\n② Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31350",
 		"jp_explainShort": "状態異常ダメージ劇的増＋定期的にＨＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost vs status + HP up over time",
 		"jp_explainLong": "① 状態異常の敵に対してダメージを劇的に増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Dramatically boosts damage against enemies\n    affected by status effects.\n    <color=yellow>[C-Frame]</color>\n② Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31351",
@@ -2312,44 +2312,44 @@
 	{
 		"assign": "31357",
 		"jp_explainShort": "攻撃力超絶増加＋状態異常無効",
-		"tr_explainShort": "Tremendous ATK Boost + Status Immunity",
+		"tr_explainShort": "Damage boosted + status immunity",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 自身を状態異常にならなくする。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that tremendously\nboosts ATK and grants status effects immunity."
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n② Grants immunity to status effects.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31358",
 		"jp_explainShort": "攻撃力超絶増加＋状態異常無効",
-		"tr_explainShort": "Tremendous ATK Boost + Status Immunity",
+		"tr_explainShort": "Damage boosted + status immunity",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 自身を状態異常にならなくする。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "JAs activates an effect that tremendously\nboosts ATK and grants status effects immunity."
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n② Grants immunity to status effects.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31359",
 		"jp_explainShort": "攻撃力増加＋追加絶大ダメージ",
-		"tr_explainShort": "ATK Boost + Additional Damage on Hit",
+		"tr_explainShort": "Damage boosted + additional damage",
 		"jp_explainLong": "① 攻撃力を増加する。\n② 敵に追加で絶大ダメージを与える。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that boosts ATK\nand deals additional dramatic damage on hit."
+		"tr_explainLong": "① Boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Deals tremendous additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31360",
 		"jp_explainShort": "攻撃力大増加＋追加絶大ダメージ",
-		"tr_explainShort": "ATK Boost + Additional Damage on Hit",
+		"tr_explainShort": "Damage boosted + additional damage",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 敵に追加で絶大ダメージを与える。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "JAs activates an effect that boosts ATK\nand deals additional dramatic damage on hit."
+		"tr_explainLong": "① Greatly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Deals tremendous additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31361",
 		"jp_explainShort": "攻撃力劇的増＋ＨＰ一定以下時ダメージ大増",
-		"tr_explainShort": "Dramatic HP Boost + Further Boost if HP is Below Threshold",
+		"tr_explainShort": "Damage boosted + boost at low HP",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② ＨＰが一定以下の場合はさらに攻撃力を大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK and further boosts ATK if HP\nis below a certain threshold."
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Further greatly boosts damage when HP is\n    below a certain level.\n    <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31362",
 		"jp_explainShort": "攻撃力劇的増＋ＨＰ一定以下時ダメージ大増",
-		"tr_explainShort": "Dramatic HP Boost + Further Boost if HP is Below Threshold",
+		"tr_explainShort": "Damage boosted + boost at low HP",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② ＨＰが一定以下の場合はさらに攻撃力を大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "JAs activates an effect that dramatically\nboosts ATK and further boosts ATK if HP\nis below a certain threshold."
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Further greatly boosts damage when HP is\n    below a certain level.\n    <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31363",
@@ -2704,16 +2704,16 @@
 	{
 		"assign": "31429",
 		"jp_explainShort": "攻撃力大増加＋ダメージ防御",
-		"tr_explainShort": "Large ATK Boost + Damage Migitation",
+		"tr_explainShort": "Damage boosted + barrier",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacks activates an effect that largely\nboosts ATK and grants a damage migitating shield\nonto HP."
+		"tr_explainLong": "① Greatly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31430",
 		"jp_explainShort": "攻撃力劇的増加＋ダメージ防御",
-		"tr_explainShort": "Large ATK Boost + Damage Migitation",
+		"tr_explainShort": "Damage boosted + barrier",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacks activates an effect that largely\nboosts ATK and grants a damage migitating shield\nonto HP."
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31431",
@@ -3348,16 +3348,16 @@
 	{
 		"assign": "31553",
 		"jp_explainShort": "攻撃力劇的増＋必殺技・法術使用毎に小増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Damage boost + boost per PA/Tech use",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 必殺技・法術を使用するごとに\n　　 威力をわずかに増加する。（最大時：劇的）\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "Performing a Just Attack activates an effect that\nincreases Attack dramatically and slightly increases\nthe power of PAs/Technics each time you use them\nuntil they reach heavy levels.\n<color=yellow>[E-Frame]</color>"
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Slightly boosts damage each time you use\n    a PA or Tech.\n    (Maximum boost: Dramatic)\n    <color=yellow>[L-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31554",
 		"jp_explainShort": "攻撃力劇的増＋必殺技・法術使用毎に小増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Damage boost + boost per PA/Tech use",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 必殺技・法術を使用するごとに\n　　 威力をわずかに増加する。（最大時：絶大）\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "Performing a Just Attack activates an effect that\nincreases Attack enormously and slightly increases\nthe power of PAs/Technics each time you use them\nuntil they reach heavy levels.\n<color=yellow>[E-Frame]</color>"
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Slightly boosts damage each time you use\n    a PA or Tech.\n    (Maximum boost: Immense)\n    <color=yellow>[L-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31557",
@@ -3397,100 +3397,100 @@
 	{
 		"assign": "31562",
 		"jp_explainShort": "攻撃力超絶増＋定期ＨＰ小回復＋ダウン無効",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost + HP recov. + no knockdown",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 定期的にＨＰをわずかに回復する。\n③ ダウンしなくなる。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacking an enemy activates an effect\nthat increases Attack to superior\nlevels, periodically recovering HP,\nand preventing knockdowns."
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n② Slightly recovers HP at regular intervals.\n③ Grants knockdown immunity.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31563",
 		"jp_explainShort": "攻撃力超絶増＋定期ＨＰ小回復＋ダウン無効",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost + HP recov. + no knockdown",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 定期的にＨＰをわずかに回復する。\n③ ダウンしなくなる。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacking an enemy activates an effect\nthat increases Attack to superior\nlevels, periodically recovering HP,\nand preventing knockdowns."
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n② Slightly recovers HP at regular intervals.\n③ Grants knockdown immunity.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31564",
 		"jp_explainShort": "攻撃力大増加＋ダメージ防御＋加速",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost + barrier + actions quickened",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 装備中の属性種類数に応じて\n　　 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]ジャストアタック成功もしくはスライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Greatly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Grants you a barrier that prevents damage\n    up to a percentage of your HP proportional\n    to the number of different Elements equipped.\n③ Increases speed of movement\n    and normal attacks.\n[Activation Trigger] Successful JA or Slide Action\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31565",
 		"jp_explainShort": "攻撃力大増加＋ダメージ防御＋加速",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost + barrier + actions quickened",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 装備中の属性種類数に応じて\n　　 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]ジャストアタック成功もしくはスライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Greatly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Grants you a barrier that prevents damage\n    up to a percentage of your HP proportional\n    to the number of different Elements equipped.\n③ Increases speed of movement\n    and normal attacks.\n[Activation Trigger] Successful JA or Slide Action\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31568",
 		"jp_explainShort": "技・法威力大強化＋光弱点時ダメージ劇的増",
-		"tr_explainShort": "",
+		"tr_explainShort": "PA/Tech boost + Light weakness boost",
 		"jp_explainLong": "① 攻撃対象の敵が光属性弱点の場合に\r\n　　 与えるダメージを劇的に増加する。\r\n② 必殺技・法術の威力を大きく強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "For a period of time, Just Attacks activate\nan effect that boosts the power of Photon\nArts and Techniques. Furthermore, if the\nenemy weakness is Light, it will dramatically\nboost the damage even more."
+		"tr_explainLong": "① Dramatically boosts damage against\n    enemies that are weak to Light.\n    <color=yellow>[D-Frame]</color>\r\n② Greatly boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31569",
 		"jp_explainShort": "技・法威力大強化＋光弱点時ダメージ劇的増",
-		"tr_explainShort": "",
+		"tr_explainShort": "PA/Tech boost + Light weakness boost",
 		"jp_explainLong": "① 攻撃対象の敵が光属性弱点の場合に\r\n　　 与えるダメージを劇的に増加する。\r\n② 必殺技・法術の威力を大きく強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "For a period of time, Just Attacks activate\nan effect that boosts the power of Photon\nArts and Techniques. Furthermore, if the\nenemy weakness is Light, it will dramatically\nboost the damage even more."
+		"tr_explainLong": "① Dramatically boosts damage against\n    enemies that are weak to Light.\n    <color=yellow>[D-Frame]</color>\n② Greatly boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31570",
 		"jp_explainShort": "全アクティブチップ発動＋攻撃力絶大増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "All chips activate + damage boosted",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 必殺技・法術以外の全てのアクティブチップを発動する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Activates all active chips, excluding PAs & Techs.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31571",
 		"jp_explainShort": "全アクティブチップ発動＋攻撃力絶大増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "All chips activate + damage boosted",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 必殺技・法術以外の全てのアクティブチップを発動する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Activates all active chips, excluding PAs & Techs.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31572",
 		"jp_explainShort": "攻撃力絶大増＋消費ＣＰ減少＋ダメージ軽減",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost + CP use down + dam. res.",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 消費ＣＰを減少する。\n③ 敵から受けるダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Reduces CP consumption.\n③ Reduces damage taken from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31573",
 		"jp_explainShort": "攻撃力超絶増＋消費ＣＰ減少＋ダメージ軽減",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost + CP use down + dam. res.",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 消費ＣＰを減少する。\n③ 敵から受けるダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n② Reduces CP consumption.\n③ Reduces damage taken from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31574",
 		"jp_explainShort": "ターゲットとの距離によって攻撃力が劇的強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK up x proximity to target",
 		"jp_explainLong": "① ターゲットしている敵との距離が近いほど\n　　 攻撃力を劇的に強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Dramatically increases ATK in proportion to\n    how close you are to the target.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31575",
 		"jp_explainShort": "ターゲットとの距離によって攻撃力が絶大強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "ATK up x proximity to target",
 		"jp_explainLong": "① ターゲットしている敵との距離が近いほど\n　　 攻撃力を絶大に強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Immensely increases ATK in proportion to\n    how close you are to the target.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31579",
 		"jp_explainShort": "ＨＰ小回復＋アビリティレベル必殺技大強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "HP recovery + PA boost x ability level",
 		"jp_explainLong": "① アビリティレベルに応じて\n　　 必殺技の威力を大きく強化する。\n② ＨＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Greatly boosts PAs in proportion to this\n    chip's ability level.\n    <color=yellow>[A-Frame]</color>\n② Slightly recovers HP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "31580",
 		"jp_explainShort": "ＨＰ小回復＋アビリティレベル必殺技劇的強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "HP recovery + PA boost x ability level",
 		"jp_explainLong": "① アビリティレベルに応じて\n　　 必殺技の威力を劇的に強化する。\n② ＨＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Dramatically boosts PAs in proportion to this\n    chip's ability level.\n    <color=yellow>[A-Frame]</color>\n② Slightly recovers HP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31583",
@@ -3917,14 +3917,14 @@
 		"jp_explainShort": "種族必殺技・法術威力強化＋ダメージ防御",
 		"tr_explainShort": "PA & Tech boost vs Darkers + barrier",
 		"jp_explainLong": "① 必殺技・法術の威力を劇的に強化する。\n② 攻撃対象の敵がダーカーの場合\n　　 さらに必殺技・法術の威力を大きく強化する。\n③ 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Dramatically boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n② Further boosts PAs and Techs against Darkers.\n    <color=yellow>[A-Frame]</color>\n③ Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Dramatically boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n② Further greatly boosts PAs and Techs\n    against Darkers.\n    <color=yellow>[A-Frame]</color>\n③ Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31670",
 		"jp_explainShort": "種族必殺技・法術威力強化＋ダメージ防御",
 		"tr_explainShort": "PA & Tech boost vs Darkers + barrier",
 		"jp_explainLong": "① 必殺技・法術の威力を劇的に強化する。\n② 攻撃対象の敵がダーカーの場合\n　　 さらに必殺技・法術の威力を大きく強化する。\n③ 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Dramatically boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n② Further boosts PAs and Techs against Darkers.\n    <color=yellow>[A-Frame]</color>\n③ Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Dramatically boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n② Further greatly boosts PAs and Techs\n    against Darkers.\n    <color=yellow>[A-Frame]</color>\n③ Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31671",
