@@ -2111,7 +2111,7 @@
 		"jp_explainShort": "アビリティレベルに応じて攻撃力絶大増加",
 		"tr_explainShort": "Damage boost x chip ability level",
 		"jp_explainLong": "① アビリティレベルに応じて攻撃力を絶大に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "① Immensely boosts damage in proportion\n    to this chip's ability level.\n    <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
+		"tr_explainLong": "① Immensely boosts damage in proportion to this\n    chip's ability level.\n    <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31317",
@@ -2314,14 +2314,14 @@
 		"jp_explainShort": "攻撃力超絶増加＋状態異常無効",
 		"tr_explainShort": "Damage boosted + status immunity",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 自身を状態異常にならなくする。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n② Grants immunity to status effects.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Grants immunity to status effects.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31358",
 		"jp_explainShort": "攻撃力超絶増加＋状態異常無効",
 		"tr_explainShort": "Damage boosted + status immunity",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 自身を状態異常にならなくする。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n② Grants immunity to status effects.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Grants immunity to status effects.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31359",
@@ -2412,28 +2412,28 @@
 		"jp_explainShort": "アビリティレベル攻撃増＋ＣＰ回復速度強化",
 		"tr_explainShort": "Dam. boost x ability level + CP regen up",
 		"jp_explainLong": "① アビリティレベルに応じて攻撃力を絶大に増加する。\n② ＣＰの回復速度を劇的に強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Immensely boosts damage in proportion\n    to this chip's ability level.\n    <color=yellow>[E-Frame]</color>\n② Dramatically increases CP regeneration.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Immensely boosts damage in proportion to this\n    chip's ability level.\n    <color=yellow>[E-Frame]</color>\n② Dramatically increases CP regeneration.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31372",
 		"jp_explainShort": "アビリティレベル攻撃増＋ＣＰ回復速度強化",
 		"tr_explainShort": "Dam. boost x ability level + CP regen up",
 		"jp_explainLong": "① アビリティレベルに応じて攻撃力を絶大に増加する。\n② ＣＰの回復速度を劇的に強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Immensely boosts damage in proportion\n    to this chip's ability level.\n    <color=yellow>[E-Frame]</color>\n② Dramatically increases CP regeneration.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Immensely boosts damage in proportion to this\n    chip's ability level.\n    <color=yellow>[E-Frame]</color>\n② Dramatically increases CP regeneration.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31373",
 		"jp_explainShort": "法術劇的強化＋一定確率で回避",
 		"tr_explainShort": "Tech boost + chance to avoid damage",
 		"jp_explainLong": "① 法術の威力を劇的に強化する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Dramatically boosts Techs.\n    <color>[A-Frame]</color>\n② Grants a chance to avoid damage from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Dramatically boosts Techs.\n    <color=yellow>[A-Frame]</color>\n② Grants a chance to avoid damage from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31374",
 		"jp_explainShort": "法術劇的強化＋一定確率で回避",
 		"tr_explainShort": "Tech boost + chance to avoid damage",
 		"jp_explainLong": "① 法術の威力を劇的に強化する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Dramatically boosts Techs.\n    <color>[A-Frame]</color>\n② Grants a chance to avoid damage from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Dramatically boosts Techs.\n    <color=yellow>[A-Frame]</color>\n② Grants a chance to avoid damage from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31375",
@@ -2524,14 +2524,14 @@
 		"jp_explainShort": "攻撃小増＋必殺技のＣＰ消費増加と劇的強化",
 		"tr_explainShort": "Dam. boost + PA&Tech boost, CP use up",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 必殺技・法術の威力を劇的に強化する。\n③ 必殺技・法術のＣＰ消費量を増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Slightly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Dramatically boosts PAs and Techs.\n③ Increases CP consumption of PAs and Techs.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Slightly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Dramatically boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n③ Increases CP consumption of PAs and Techs.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31392",
 		"jp_explainShort": "攻撃小増＋必殺技のＣＰ消費増加と劇的強化",
 		"tr_explainShort": "Dam. boost + PA&Tech boost, CP use up",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 必殺技・法術の威力を劇的に強化する。\n③ 必殺技・法術のＣＰ消費量を増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "① Slightly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Dramatically boosts PAs and Techs.\n③ Increases CP consumption of PAs and Techs.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
+		"tr_explainLong": "① Slightly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Dramatically boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n③ Increases CP consumption of PAs and Techs.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31393",
@@ -2622,14 +2622,14 @@
 		"jp_explainShort": "海王種・原生種にダメージ劇的増加＋軽減",
 		"tr_explainShort": "Dam. boost, resist vs Oceanids & Natives",
 		"jp_explainLong": "① 海王種と原生種に与えるダメージを劇的に増加する。\n② 海王種と原生種から受けるダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Dramatically boosts damage against\n    Oceanids and Natives.\n    <color=yellow>[B-Frame]</color>\n② Reduces damage taken from Oceanids\n   and Natives.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Dramatically boosts damage against Oceanids\n    and Natives.\n    <color=yellow>[B-Frame]</color>\n② Reduces damage taken from Oceanids and\n   Natives.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31408",
 		"jp_explainShort": "海王種・原生種にダメージ劇的増加＋大軽減",
 		"tr_explainShort": "Dam. boost, resist vs Oceanids & Natives",
 		"jp_explainLong": "① 海王種と原生種に与えるダメージを劇的に増加する。\n② 海王種と原生種から受けるダメージを大きく軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Dramatically boosts damage against\n    Oceanids and Natives.\n    <color=yellow>[B-Frame]</color>\n② Greatly reduces damage taken from Oceanids\n   and Natives.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Dramatically boosts damage against Oceanids\n    and Natives.\n    <color=yellow>[B-Frame]</color>\n② Greatly reduces damage taken from Oceanids\n   and Natives.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31411",
@@ -3238,14 +3238,14 @@
 		"jp_explainShort": "攻撃力劇的増＋炎氷風の技・法攻撃力絶大増",
 		"tr_explainShort": "Damage + Fire/Ice/Wind PA&Tech boost",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 必殺技・法術チップが炎・氷・風属性の場合は\n　　 威力を絶大に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Immensely boosts Fire, Ice and Wind\n    PAs and Techs.\n    <color=yellow>[K-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Immensely boosts Fire, Ice and Wind PAs and\n    Techs.\n    <color=yellow>[K-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31532",
 		"jp_explainShort": "攻撃力劇的増＋炎氷風の技・法攻撃力絶大増",
 		"tr_explainShort": "Damage + Fire/Ice/Wind PA&Tech boost",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 必殺技・法術チップが炎・氷・風属性の場合は\n　　 威力を絶大に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Immensely boosts Fire, Ice and Wind\n    PAs and Techs.\n    <color=yellow>[K-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Immensely boosts Fire, Ice and Wind PAs and\n    Techs.\n    <color=yellow>[K-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31535",
@@ -3266,14 +3266,14 @@
 		"jp_explainShort": "氷雷闇の技・法の攻撃力絶大増",
 		"tr_explainShort": "Ice/Lightning/Dark PA & Tech boost",
 		"jp_explainLong": "① 必殺技・法術チップが氷・雷・闇属性の場合は\n　　 威力を絶大に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Immensely boosts Ice, Lightning and Dark\n    PAs and Techs.\n    <color=yellow>[K-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Immensely boosts Ice, Lightning and Dark PAs\n    and Techs.\n    <color=yellow>[K-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31538",
 		"jp_explainShort": "氷雷闇の技・法の攻撃力絶大増",
 		"tr_explainShort": "Ice/Lightning/Dark PA & Tech boost",
 		"jp_explainLong": "① 必殺技・法術チップが氷・雷・闇属性の場合は\n　　 威力を絶大に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Immensely boosts Ice, Lightning and Dark\n    PAs and Techs.\n    <color=yellow>[K-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Immensely boosts Ice, Lightning and Dark PAs\n    and Techs.\n    <color=yellow>[K-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31541",
@@ -3350,14 +3350,14 @@
 		"jp_explainShort": "攻撃力劇的増＋必殺技・法術使用毎に小増加",
 		"tr_explainShort": "Damage boost + boost per PA/Tech use",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 必殺技・法術を使用するごとに\n　　 威力をわずかに増加する。（最大時：劇的）\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Slightly boosts damage each time you use\n    a PA or Tech.\n    (Maximum boost: Dramatic)\n    <color=yellow>[L-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Slightly boosts damage each time you use a PA\n    or Tech.\n    (Maximum boost: Dramatic)\n    <color=yellow>[L-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31554",
 		"jp_explainShort": "攻撃力劇的増＋必殺技・法術使用毎に小増加",
 		"tr_explainShort": "Damage boost + boost per PA/Tech use",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 必殺技・法術を使用するごとに\n　　 威力をわずかに増加する。（最大時：絶大）\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Slightly boosts damage each time you use\n    a PA or Tech.\n    (Maximum boost: Immense)\n    <color=yellow>[L-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Slightly boosts damage each time you use a PA\n    or Tech.\n    (Maximum boost: Immense)\n    <color=yellow>[L-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31557",
@@ -3378,35 +3378,35 @@
 		"jp_explainShort": "攻撃力が極度に増加＋光属性上限上昇",
 		"tr_explainShort": "Damage boosted + maximum Light up",
 		"jp_explainLong": "① 攻撃力を極度に増加する。\n② リンクスロットに装備したチップの属性が\n　　 光属性の場合、光属性の上限値が上昇する。\n③ このチップを装備中は光属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Maximally boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Raises your maximum Light value if there is a\n    Light chip in this chip's link slot.\n③ While this chip is equipped, the equip costs\n    of Light PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Maximally boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Raises your maximum Light value if there is a\n    Light chip in this chip's link slot.\n③ While this chip is equipped, the equip costs of\n    Light PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31560",
 		"jp_explainShort": "攻撃力が極度に増加＋光属性上限上昇",
 		"tr_explainShort": "Damage boosted + maximum Light up",
 		"jp_explainLong": "① 攻撃力を極度に増加する。\n② リンクスロットに装備したチップの属性が\n　　 光属性の場合、光属性の上限値が上昇する。\n③ このチップを装備中は光属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Maximally boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Raises your maximum Light value if there is a\n    Light chip in this chip's link slot.\n③ While this chip is equipped, the equip costs\n    of Light PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Maximally boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Raises your maximum Light value if there is a\n    Light chip in this chip's link slot.\n③ While this chip is equipped, the equip costs of\n    Light PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31561",
 		"jp_explainShort": "攻撃力が極度に増加＋光属性上限上昇",
 		"tr_explainShort": "Damage boosted + maximum Light up",
 		"jp_explainLong": "① 攻撃力を極度に増加する。\n② リンクスロットに装備したチップの属性が\n　　 光属性の場合、光属性の上限値が上昇する。\n③ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Maximally boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Raises your maximum Light value if there is a\n    Light chip in this chip's link slot.\n③ While this chip is equipped, the equip costs\n    of all PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Maximally boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Raises your maximum Light value if there is a\n    Light chip in this chip's link slot.\n③ While this chip is equipped, the equip costs of\n    all PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31562",
 		"jp_explainShort": "攻撃力超絶増＋定期ＨＰ小回復＋ダウン無効",
 		"tr_explainShort": "Dam. boost + HP recov. + no knockdown",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 定期的にＨＰをわずかに回復する。\n③ ダウンしなくなる。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n② Slightly recovers HP at regular intervals.\n③ Grants knockdown immunity.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers HP at regular intervals.\n③ Grants knockdown immunity.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31563",
 		"jp_explainShort": "攻撃力超絶増＋定期ＨＰ小回復＋ダウン無効",
 		"tr_explainShort": "Dam. boost + HP recov. + no knockdown",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 定期的にＨＰをわずかに回復する。\n③ ダウンしなくなる。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n② Slightly recovers HP at regular intervals.\n③ Grants knockdown immunity.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers HP at regular intervals.\n③ Grants knockdown immunity.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31564",
@@ -3462,7 +3462,7 @@
 		"jp_explainShort": "攻撃力超絶増＋消費ＣＰ減少＋ダメージ軽減",
 		"tr_explainShort": "Dam. boost + CP use down + dam. res.",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 消費ＣＰを減少する。\n③ 敵から受けるダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n② Reduces CP consumption.\n③ Reduces damage taken from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Reduces CP consumption.\n③ Reduces damage taken from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31574",
@@ -3483,7 +3483,7 @@
 		"jp_explainShort": "ＨＰ小回復＋アビリティレベル必殺技大強化",
 		"tr_explainShort": "HP recovery + PA boost x ability level",
 		"jp_explainLong": "① アビリティレベルに応じて\n　　 必殺技の威力を大きく強化する。\n② ＨＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Greatly boosts PAs in proportion to this\n    chip's ability level.\n    <color=yellow>[A-Frame]</color>\n② Slightly recovers HP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
+		"tr_explainLong": "① Greatly boosts PAs in proportion to this chip's\n    ability level.\n    <color=yellow>[A-Frame]</color>\n② Slightly recovers HP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "31580",
@@ -3581,28 +3581,28 @@
 		"jp_explainShort": "闇属性上限上昇＋闇弱点時ダメージ絶大増加",
 		"tr_explainShort": "Max Dark up + Dark weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が闇属性弱点の場合に\n　　 与えるダメージを絶大に増加する。\n② 闇属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Greatly boosts damage against enemies\n    that are weak to Dark.\n    <color=yellow>[D-Frame]</color>\n② Raises your maximum Dark value.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① greatly boosts damage against enemies that\n    are weak to Dark.\n    <color=yellow>[D-Frame]</color>\n② Raises your maximum Dark value.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31598",
 		"jp_explainShort": "闇属性上限上昇＋闇弱点時ダメージ絶大増加",
 		"tr_explainShort": "Max Dark up + Dark weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が闇属性弱点の場合に\n　　 与えるダメージを絶大に増加する。\n② 闇属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Greatly boosts damage against enemies\n    that are weak to Dark.\n    <color=yellow>[D-Frame]</color>\n② Raises your maximum Dark value.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① greatly boosts damage against enemies that\n    are weak to Dark.\n    <color=yellow>[D-Frame]</color>\n② Raises your maximum Dark value.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31601",
 		"jp_explainShort": "アビリティレベル攻撃絶大増＋定期ＣＰ回復",
 		"tr_explainShort": "Dam. boost x ability level + CP over time",
 		"jp_explainLong": "① アビリティレベルに応じて攻撃力を絶大に増加する。\n② 定期的にＣＰを回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Immensely boosts damage in proportion\n    to this chip's ability level.\n    <color=yellow>[E-Frame]</color>\n② Recovers CP at regular intervals.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Immensely boosts damage in proportion to this\n    chip's ability level.\n    <color=yellow>[E-Frame]</color>\n② Recovers CP at regular intervals.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31602",
 		"jp_explainShort": "アビリティレベル攻撃絶大増＋定期ＣＰ回復",
 		"tr_explainShort": "Dam. boost x ability level + CP over time",
 		"jp_explainLong": "① アビリティレベルに応じて攻撃力を絶大に増加する。\n② 定期的にＣＰを回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Immensely boosts damage in proportion\n    to this chip's ability level.\n    <color=yellow>[E-Frame]</color>\n② Recovers CP at regular intervals.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Immensely boosts damage in proportion to this\n    chip's ability level.\n    <color=yellow>[E-Frame]</color>\n② Recovers CP at regular intervals.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31603",
@@ -3665,14 +3665,14 @@
 		"jp_explainShort": "消費ＣＰ減少＋攻撃力絶大増＋状態異常無効",
 		"tr_explainShort": "CP usage + dam. boost + status. immune",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 消費ＣＰを減少する。\n③ 抜剣を装備している場合\n　　 自身を状態異常にならなくする。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Reduces CP consumption.\n③ Grants immunity to status effects\n    when equipped with a Sword.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Reduces CP consumption.\n③ Grants immunity to status effects when\n    equipped with a Sword.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31616",
 		"jp_explainShort": "消費ＣＰ減少＋攻撃力絶大増＋状態異常無効",
 		"tr_explainShort": "CP usage + dam. boost + status. immune",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 消費ＣＰを減少する。\n③ 抜剣を装備している場合\n　　 自身を状態異常にならなくする。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Reduces CP consumption.\n③ Grants immunity to status effects\n    when equipped with a Sword.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Reduces CP consumption.\n③ Grants immunity to status effects when\n    equipped with a Sword.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31617",
@@ -3693,49 +3693,49 @@
 		"jp_explainShort": "攻撃力絶大増＋チップ発動時効果時間延長",
 		"tr_explainShort": "Dam. boost, longer & higher x chip activs",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② チップが発動するたびに、攻撃力をわずかに増加する。\n③ チップが発動するたびに、効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Slightly boosts damage each time a chip activates.\n    <color=yellow>[E-Frame]</color>\n③ Extends this effect's Effect Duration each time\n    a chip activates.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
+		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Slightly boosts damage each time a chip\n    effect activates.\n    <color=yellow>[E-Frame]</color>\n③ Extends this effect's Effect Duration each\n    time a chip effect activates.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "31620",
 		"jp_explainShort": "攻撃力超絶増＋チップ発動時効果時間延長",
 		"tr_explainShort": "Dam. boost, longer & higher x chip activs",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② チップが発動するたびに、攻撃力をわずかに増加する。\n③ チップが発動するたびに、効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Slightly boosts damage each time a chip activates.\n    <color=yellow>[E-Frame]</color>\n③ Extends this effect's Effect Duration each time\n    a chip activates.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Slightly boosts damage each time a chip\n    effect activates.\n    <color=yellow>[E-Frame]</color>\n③ Extends this effect's Effect Duration each\n    time a chip effect activates.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "31621",
 		"jp_explainShort": "攻撃力超絶増＋技法威力大増＋ＣＰ消費増",
 		"tr_explainShort": "Dam. boost + PA/Tech boost, CP use up",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 必殺技・法術の威力を大きく増加する。\n③ 必殺技・法術のＣＰ消費量を増加する。\n④ リンクスロットに装備したチップの属性が\n　　 雷属性の場合に③の効果を無効にする。\n⑤ このチップを装備中は雷属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n③ Increases CP consumption of PAs and Techs.\n④ If there is a Lightning chip in this chip's link slot,\n    the effect of ③ is not applied.\n⑤ While this chip is equipped, the equip costs\n    of Lightning PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n③ Increases CP consumption of PAs and Techs.\n④ If there is a Lightning chip in this chip's link slot,\n    the effect of ③ is not applied.\n⑤ While this chip is equipped, the equip costs of\n    Lightning PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31622",
 		"jp_explainShort": "攻撃力超絶増＋技法威力大増＋ＣＰ消費増",
 		"tr_explainShort": "Dam. boost + PA/Tech boost, CP use up",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 必殺技・法術の威力を大きく増加する。\n③ 必殺技・法術のＣＰ消費量を増加する。\n④ リンクスロットに装備したチップの属性が\n　　 雷属性の場合に③の効果を無効にする。\n⑤ このチップを装備中は雷属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n③ Increases CP consumption of PAs and Techs.\n④ If there is a Lightning chip in this chip's link slot,\n    the effect of ③ is not applied.\n⑤ While this chip is equipped, the equip costs\n    of Lightning PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n③ Increases CP consumption of PAs and Techs.\n④ If there is a Lightning chip in this chip's link slot,\n    the effect of ③ is not applied.\n⑤ While this chip is equipped, the equip costs of\n    Lightning PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31623",
 		"jp_explainShort": "攻撃力超絶増＋技法威力大増＋ＣＰ消費増",
 		"tr_explainShort": "Dam. boost + PA/Tech boost, CP use up",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 必殺技・法術の威力を大きく増加する。\n③ 必殺技・法術のＣＰ消費量を増加する。\n④ リンクスロットに装備したチップの属性が\n　　 雷属性の場合に③の効果を無効にする。\n⑤ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n② Greatly boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n③ Increases CP consumption of PAs and Techs.\n④ If there is a Lightning chip in this chip's link slot,\n    the effect of ③ is not applied.\n⑤ While this chip is equipped, the equip costs\n    of all PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n② Greatly boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n③ Increases CP consumption of PAs and Techs.\n④ If there is a Lightning chip in this chip's link slot,\n    the effect of ③ is not applied.\n⑤ While this chip is equipped, the equip costs of\n    all PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31626",
 		"jp_explainShort": "風光闇の技・法の攻撃力絶大増",
 		"tr_explainShort": "Wind/Light/Dark PAs & Techs boosted",
 		"jp_explainLong": "① 必殺技・法術チップが風・光・闇属性の場合は\n　　 威力を絶大に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Immensely boosts Wind, Light and Dark\n    PAs and Techs.\n    <color=yellow>[K-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Immensely boosts Wind, Light and Dark PAs and\n    Techs.\n    <color=yellow>[K-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31627",
 		"jp_explainShort": "風光闇の技・法の攻撃力絶大増",
 		"tr_explainShort": "Wind/Light/Dark PAs & Techs boosted",
 		"jp_explainLong": "① 必殺技・法術チップが風・光・闇属性の場合は\n　　 威力を絶大に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Immensely boosts Wind, Light and Dark\n    PAs and Techs.\n    <color=yellow>[K-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Immensely boosts Wind, Light and Dark PAs and\n    Techs.\n    <color=yellow>[K-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31628",
@@ -3756,21 +3756,21 @@
 		"jp_explainShort": "攻撃力極度増＋定期ＨＰ小回復＋効果時間延長",
 		"tr_explainShort": "Dam. boost + HP over time + ext. effects",
 		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 定期的にＨＰをわずかに回復する。\n③ リンクスロットに装備したチップの属性が炎属性の場合\n　　 チップ発動時のアビリティ効果時間を延長する。\n④ このチップを装備中は炎属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Maximally boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers HP at regular intervals.\n③ Extends the Effect Duration of chips' abilities if\n    there is a Fire chip in this chip's link slot.\n④ While this chip is equipped, the equip costs\n    of Fire PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Maximally boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers HP at regular intervals.\n③ Extends the Effect Duration of chips' abilities if\n    there is a Fire chip in this chip's link slot.\n④ While this chip is equipped, the equip costs of\n    Fire PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31631",
 		"jp_explainShort": "攻撃力極度増＋定期ＨＰ小回復＋効果時間延長",
 		"tr_explainShort": "Dam. boost + HP over time + ext. effects",
 		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 定期的にＨＰをわずかに回復する。\n③ リンクスロットに装備したチップの属性が炎属性の場合\n　　 チップ発動時のアビリティ効果時間を延長する。\n④ このチップを装備中は炎属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Maximally boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers HP at regular intervals.\n③ Extends the Effect Duration of chips' abilities if\n    there is a Fire chip in this chip's link slot.\n④ While this chip is equipped, the equip costs\n    of Fire PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Maximally boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers HP at regular intervals.\n③ Extends the Effect Duration of chips' abilities if\n    there is a Fire chip in this chip's link slot.\n④ While this chip is equipped, the equip costs of\n    Fire PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31632",
 		"jp_explainShort": "攻撃力極度増＋定期ＨＰ小回復＋効果時間延長",
 		"tr_explainShort": "Dam. boost + HP over time + ext. effects",
 		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 定期的にＨＰをわずかに回復する。\n③ リンクスロットに装備したチップの属性が炎属性の場合\n　　 チップ発動時のアビリティ効果時間を延長する。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Maximally boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers HP at regular intervals.\n③ Extends the Effect Duration of chips' abilities if\n    there is a Fire chip in this chip's link slot.\n④ While this chip is equipped, the equip costs\n    of all PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Maximally boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers HP at regular intervals.\n③ Extends the Effect Duration of chips' abilities if\n    there is a Fire chip in this chip's link slot.\n④ While this chip is equipped, the equip costs of\n    all PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31636",
@@ -3819,14 +3819,14 @@
 		"jp_explainShort": "ＨＰ回復＋アビリティレベル必殺技大強化",
 		"tr_explainShort": "HP recovery + PA boost x ability level",
 		"jp_explainLong": "① アビリティレベルに応じて\n　　 必殺技の威力を大きく強化する。\n② ＨＰを回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Greatly boosts PAs in proportion to\n    this chip's ability level.\n    <color=yellow>[A-Frame]</color>\n② Recovers HP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Greatly boosts PAs in proportion to this chip's\n    ability level.\n    <color=yellow>[A-Frame]</color>\n② Recovers HP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31643",
 		"jp_explainShort": "ＨＰ回復＋アビリティレベル必殺技劇的強化",
 		"tr_explainShort": "HP recovery + PA boost x ability level",
 		"jp_explainLong": "① アビリティレベルに応じて\n　　 必殺技の威力を劇的に強化する。\n② ＨＰを回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Dramatically boosts PAs in proportion to\n    this chip's ability level.\n    <color=yellow>[A-Frame]</color>\n② Recovers HP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Dramatically boosts PAs in proportion to this\n    chip's ability level.\n    <color=yellow>[A-Frame]</color>\n② Recovers HP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31648",
@@ -3847,14 +3847,14 @@
 		"jp_explainShort": "必殺技・法術使用毎に攻撃力小増加",
 		"tr_explainShort": "Damage boost per PA/Tech use",
 		"jp_explainLong": "① 必殺技・法術を使用するごとに\n　　 威力をわずかに増加する。（最大時：絶大）\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "① Slightly boosts damage each time you use\n    a PA or Tech.\n    (Maximum Boost: Immense)\n    <color=yellow>[L-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
+		"tr_explainLong": "① Slightly boosts damage each time you use a PA\n    or Tech.\n    (Maximum Boost: Immense)\n    <color=yellow>[L-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31651",
 		"jp_explainShort": "必殺技・法術使用毎に攻撃力増加",
 		"tr_explainShort": "Damage boost per PA/Tech use",
 		"jp_explainLong": "① 必殺技・法術を使用するごとに\n　　 威力を増加する。（最大時：絶大）\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage each time you use\n    a PA or Tech.\n    (Maximum Boost: Immense)\n    <color=yellow>[L-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
+		"tr_explainLong": "① Boosts damage each time you use a PA or Tech.\n    (Maximum Boost: Immense)\n    <color=yellow>[L-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31654",
