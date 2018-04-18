@@ -37,10 +37,7 @@ for files in json_files:
                     checkjp = "jp_" + checkname
                     if (
                         (checkjp in rmid)
-                        and (rmid[checkjp] != "")
-                        and (rmid[checkjp] != "-")
-                        and (rmid[checkjp] != "---")
-                        and (rmid[checkjp] != "－")
+                        and (rmid[checkjp] not in ["", "-", "－", "---", "仮設定", "仮テキスト"])
                         and (re.fullmatch('d+', str(rmid[checkjp])) is None)
                         # Filter out names that are just numbers - even if these aren't dummy strings, the numbers alone are fine
                         and (re.fullmatch('ENT_(ABN|SP)ダミー\d+', str(rmid[checkjp])) is None)
