@@ -13,6 +13,7 @@ Forceso = False
 bufout = "FILE: ID"
 TRMap = dict()
 JPMap = dict()
+SPMap = dict()
 
 # Need the json path
 if len(sys.argv) < 2:
@@ -70,6 +71,7 @@ for files in json_files:
                         a = rmid["assign"]
                     else:
                         a = 0
+                    sl = tl.replace(" ", "")
 
                     if jl not in JPMap:
                         JPMap[jl] = tl
@@ -92,6 +94,14 @@ for files in json_files:
                             Forceso = True
                         else:
                             counterr += 1
+
+                    if sl not in SPMap:
+                        SPMap[sl] = jl
+                    elif SPMap[sl] != jl:
+                        bufout += ("\nSP: {}:{} '{}' wants the mapping of i'{}' but already got i'{}'".format(
+                            os.path.splitext(os.path.basename(files))[0],
+                            a, j, tl, SPMap[sl]))
+                        counterr += 1
 
         except ValueError as e:
             counterr += 1
