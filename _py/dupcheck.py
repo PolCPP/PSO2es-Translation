@@ -11,7 +11,7 @@ import unicodedata
 counterr = 0
 Forceso = False
 bufout = "FILE: ID"
-ENMap = dict()
+TRMap = dict()
 JPMap = dict()
 
 # Need the json path
@@ -79,14 +79,14 @@ for files in json_files:
                             a, j, tl, JPMap[jl]))
                         counterr += 1
 
-                    if t not in ENMap:
-                        ENMap[t] = jl
-                    elif ENMap[t] != jl:
+                    if t not in TRMap:
+                        TRMap[t] = jl
+                    elif TRMap[t] != jl:
                         bufout += ("\nEN: {}:{} '{}' and '{}' both wants the mapping of '{}':".format(
                             os.path.splitext(os.path.basename(files))[0],
-                            a, j, ENMap[t], t))
+                            a, j, TRMap[t], t))
                         jsl = unicodedata.normalize('NFKC', j).rstrip().lower()
-                        osl = unicodedata.normalize('NFKC', ENMap[t]).rstrip().lower()
+                        osl = unicodedata.normalize('NFKC', TRMap[t]).rstrip().lower()
                         if (jsl == osl):
                             bufout += "\n\tBut they are the same in our eyes"
                             Forceso = True
