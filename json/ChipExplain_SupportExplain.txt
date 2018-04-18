@@ -2144,16 +2144,16 @@
 	{
 		"assign": "31323",
 		"jp_explainShort": "消費ＣＰ減少＋炎弱点時ダメージ劇的増加",
-		"tr_explainShort": "Reduce CP Usage + Dramatic ATK Boost on Attr. Weak to Fire",
+		"tr_explainShort": "CP use down + Fire weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が炎属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that reduces CP usage\nand dramatically boosts Attack against\nenemies weak to Fire."
+		"tr_explainLong": "① Dramatically boosts damage against enemies\n    that are weak to Fire.\n    <color=yellow>[D-Frame]</color>\n② Reduces CP consumption.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31324",
 		"jp_explainShort": "消費ＣＰ減少＋炎弱点時ダメージ劇的増加",
-		"tr_explainShort": "Reduce CP Usage + Dramatic ATK Boost on Attr. Weak to Fire",
+		"tr_explainShort": "CP use down + Fire weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が炎属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "JAs activates an effect that reduces CP usage\nand dramatically boosts Attack against\nenemies weak to Fire."
+		"tr_explainLong": "① Dramatically boosts damage against enemies\n    that are weak to Fire.\n    <color=yellow>[D-Frame]</color>\n② Reduces CP consumption.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31325",
@@ -2200,16 +2200,16 @@
 	{
 		"assign": "31333",
 		"jp_explainShort": "ダーカー以外にダメージ劇的増加",
-		"tr_explainShort": "Dramatic ATK Boosts Against All Except Darkers",
+		"tr_explainShort": "Damage boosted vs non-Darkers",
 		"jp_explainLong": "① 原生種、龍族、機甲種、海王種に\n　　 与えるダメージを劇的に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that dramatically boosts\nATK against Natives, Dragonkin, Mechs and\nOceanids."
+		"tr_explainLong": "① Dramatically boosts damage against Natives,\n    Dragonkin, Mechs and Oceanids.\n    <color=yellow>[B-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31334",
 		"jp_explainShort": "ダーカー以外にダメージ絶大増加",
-		"tr_explainShort": "Dramatic ATK Boosts Against All Except Darkers",
+		"tr_explainShort": "Damage boosted vs non-Darkers",
 		"jp_explainLong": "① 原生種、龍族、機甲種、海王種に\n　　 与えるダメージを絶大に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "JAs activates an effect that dramatically boosts\nATK against Natives, Dragonkin, Mechs and\nOceanids."
+		"tr_explainLong": "① Immensely boosts damage against Natives,\n    Dragonkin, Mechs and Oceanids.\n    <color=yellow>[B-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31337",
@@ -2438,16 +2438,16 @@
 	{
 		"assign": "31375",
 		"jp_explainShort": "消費ＣＰ減少＋氷弱点時ダメージ劇的増加",
-		"tr_explainShort": "Reduce CP Usage + ATK Boost on Attr. Weak to Ice",
+		"tr_explainShort": "CP usage down + Ice weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が氷属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that reduces\nCP usage and boosts ATK against\nenemies weak to Ice."
+		"tr_explainLong": "① Dramatically boosts damage against enemies\n    that are weak to Ice.\n    <color=yellow>[D-Frame]</color>\n② Reduces CP consumption.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31376",
 		"jp_explainShort": "消費ＣＰ減少＋氷弱点時ダメージ劇的増加",
-		"tr_explainShort": "Reduce CP Usage + ATK Boost on Attr. Weak to Ice",
+		"tr_explainShort": "CP usage down + Ice weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が氷属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "JAs activates an effect that reduces\nCP usage and dramatically boosts ATK against\nenemies weak to Ice."
+		"tr_explainLong": "① Dramatically boosts damage against enemies\n    that are weak to Ice.\n    <color=yellow>[D-Frame]</color>\n② Reduces CP consumption.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31377",
@@ -2466,30 +2466,30 @@
 	{
 		"assign": "31381",
 		"jp_explainShort": "闇属性大強化＋追加で大ダメージ",
-		"tr_explainShort": "Boost Dark Attr. + Additional Damage on Hit",
+		"tr_explainShort": "Dark Element up + additional damage",
 		"jp_explainLong": "① 闇属性を大きく強化する。\n② 追加で大ダメージを与える。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacks activates an effect that largely\nboosts Dark Attr. and deals additional\ndamage on hit."
+		"tr_explainLong": "① Greatly increases Dark Element.\n② Deals heavy additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31382",
 		"jp_explainShort": "闇属性劇的強化＋追加で特大ダメージ",
-		"tr_explainShort": "Boost Dark Attr. + Additional Damage on Hit",
+		"tr_explainShort": "Dark Element up + additional damage",
 		"jp_explainLong": "① 闇属性を劇的に強化する。\n② 追加で特大ダメージを与える。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "Attacks activates an effect that largely\nboosts Dark Attr. and deals additional great\ndamage on hit."
+		"tr_explainLong": "① Dramatically increases Dark Element.\n② Deals massive additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31383",
 		"jp_explainShort": "バーン付与＋バーン時ダメージ絶大増加",
-		"tr_explainShort": "Imbues [Burn] + ATK Boost on [Burn] Afflicted Targets",
+		"tr_explainShort": "[Burn] imbued + damage boost vs [Burn]",
 		"jp_explainLong": "① 通常攻撃に「バーン」効果を付与する。\n② 「バーン」状態の敵に対して\n　　 ダメージを絶大に増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacks activates an effect that imbues\n[Burn] to attacks and increases damage dealt to\ntargets afflicted with [Burn]."
+		"tr_explainLong": "① Gives normal attacks a chance to inflict [Burn].\n② Greatly boosts damage against enemies\n    affected by [Mirage].\n    <color=yellow>[C-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31384",
 		"jp_explainShort": "バーン付与＋バーン時ダメージ絶大増加",
-		"tr_explainShort": "Imbues [Burn] + ATK Boost on [Burn] Afflicted Targets",
+		"tr_explainShort": "[Burn] imbued + damage boost vs [Burn]",
 		"jp_explainLong": "① 通常攻撃に「バーン」効果を付与する。\n② 「バーン」状態の敵に対して\n　　 ダメージを絶大に増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacks activates an effect that imbues\n[Burn] to attacks and increases damage dealt to\ntargets afflicted with [Burn]."
+		"tr_explainLong": "① Gives normal attacks a chance to inflict [Burn].\n② Greatly boosts damage against enemies\n    affected by [Mirage].\n    <color=yellow>[C-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31385",
@@ -2690,16 +2690,16 @@
 	{
 		"assign": "31423",
 		"jp_explainShort": "ミラージュ付与＋ミラージュ時ダメージ大増",
-		"tr_explainShort": "Imbues [Mirage] + ATK Boost on [Mirage] Afflicted Targets",
+		"tr_explainShort": "[Mirage] imbued + dam. boost vs [Mirage]",
 		"jp_explainLong": "① 通常攻撃に「ミラージュ」効果を付与する。\n② 「ミラージュ」状態の敵に対して\n　　 ダメージを大きく増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacks activates an effect that imbues\n[Mirage] to attacks and increases damage dealt to\ntargets afflicted with [Mirage]."
+		"tr_explainLong": "① Gives normal attacks a chance to inflict [Mirage].\n② Greatly boosts damage against enemies\n    affected by [Mirage].\n    <color=yellow>[C-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31424",
 		"jp_explainShort": "ミラージュ付与＋ミラージュ時ダメージ劇的増",
-		"tr_explainShort": "Imbues [Mirage] + ATK Boost on [Mirage] Afflicted Targets",
+		"tr_explainShort": "[Mirage] imbued + dam. boost vs [Mirage]",
 		"jp_explainLong": "① 通常攻撃に「ミラージュ」効果を付与する。\n② 「ミラージュ」状態の敵に対して\n　　 ダメージを劇的に増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacks activates an effect that imbues\n[Mirage] to attacks and increases damage dealt to\ntargets afflicted with [Mirage]."
+		"tr_explainLong": "① Gives normal attacks a chance to inflict [Mirage].\n② Dramatically boosts damage against enemies\n    affected by [Mirage].\n    <color=yellow>[C-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31429",
@@ -2718,16 +2718,16 @@
 	{
 		"assign": "31431",
 		"jp_explainShort": "消費ＣＰ減少＋風弱点時ダメージ劇的増加",
-		"tr_explainShort": "Reduce CP Usage + ATK Boost on Attr. Weak to Wind",
+		"tr_explainShort": "CP use down + Wind weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が風属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that reduces\nCP usage and dramatically boosts ATK against\nenemies weak to Wind."
+		"tr_explainLong": "① Dramatically boosts damage against enemies\n    that are weak to Wind.\n    <color=yellow>[D-Frame]</color>\n② Reduces CP consumption.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31432",
 		"jp_explainShort": "消費ＣＰ減少＋風弱点時ダメージ劇的増加",
-		"tr_explainShort": "Reduce CP Usage + ATK Boost on Attr. Weak to Wind",
+		"tr_explainShort": "CP use down + Wind weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が風属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "JAs activates an effect that reduces\nCP usage and dramatically boosts ATK against\nenemies weak to Wind."
+		"tr_explainLong": "① Dramatically boosts damage against enemies\n    that are weak to Wind.\n    <color=yellow>[D-Frame]</color>\n② Reduces CP consumption.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31433",
@@ -2746,16 +2746,16 @@
 	{
 		"assign": "31435",
 		"jp_explainShort": "全種族に対してダメージが増加",
-		"tr_explainShort": "Boost ATK Against All Race",
+		"tr_explainShort": "Damage boosted vs all races",
 		"jp_explainLong": "① アビリティレベルに応じて\n　　 すべての種族に与えるダメージを増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacks activates an effect that increases\ndamage dealt to all races based on Chip's\nability level."
+		"tr_explainLong": "① Boosts damage against all races in proportion to\n    this chip's ability level.\n    <color=yellow>[B-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31436",
 		"jp_explainShort": "全種族に対してダメージが大増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Damage boosted vs all races",
 		"jp_explainLong": "① アビリティレベルに応じて\n　　 すべての種族に与えるダメージを大きく増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacks activates an effect that largely\nincreases damage dealt to all races based on\nChip's ability level."
+		"tr_explainLong": "① Greatly boosts damage against all races in\n    proportion to this chip's ability level.\n    <color=yellow>[B-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31439",
@@ -2774,16 +2774,16 @@
 	{
 		"assign": "31441",
 		"jp_explainShort": "ダメージ軽減＋光弱点時ダメージ劇的増加",
-		"tr_explainShort": "Reduce Damage Taken + Dramatic ATK Boost on Light Weak",
+		"tr_explainShort": "Damage resist + Light weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が光属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 敵から受けるダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that reduces damage\ntaken from enemies and dramatically boosts\nAttack against enemies weak against Light."
+		"tr_explainLong": "① Dramatically boosts damage against enemies\n    that are weak to Light.\n    <color=yellow>[D-Frame]</color>\n② Reduces damage taken from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31442",
 		"jp_explainShort": "ダメージ軽減＋光弱点時ダメージ絶大増加",
-		"tr_explainShort": "Reduce Damage Taken + Dramatic ATK Boost on Light Weak",
+		"tr_explainShort": "Damage resist + Light weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が光属性弱点の場合に\n　　 与えるダメージを絶大に増加する。\n② 敵から受けるダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that reduces damage\ntaken from enemies and dramatically boosts\nAttack against enemies weak against Light."
+		"tr_explainLong": "① Immensely boosts damage against enemies\n    that are weak to Light.\n    <color=yellow>[D-Frame]</color>\n② Reduces damage taken from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31445",
@@ -2802,16 +2802,16 @@
 	{
 		"assign": "31447",
 		"jp_explainShort": "炎属性上限上昇＋炎弱点時ダメージ絶大増加",
-		"tr_explainShort": "Fire Attr. Max Up + ATK Boost on Fire Weak",
+		"tr_explainShort": "Fire weakness boosted, max value up",
 		"jp_explainLong": "① 攻撃対象の敵が炎属性弱点の場合に\n　　 与えるダメージを絶大に増加する。\n② 炎属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that boosts maximum\nFire attr. and dramatically boost damage done to\nenemies weak to Fire attr."
+		"tr_explainLong": "① Immensely boosts damage against enemies\n    that are weak to 炎.\n    <color=yellow>[D-Frame]</color>\n② Raises your maximum Fire value.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31448",
 		"jp_explainShort": "炎属性上限上昇＋炎弱点時ダメージ絶大増加",
-		"tr_explainShort": "Fire Attr. Max Up + ATK Boost on Fire Weak",
+		"tr_explainShort": "Fire weakness boosted, max value up",
 		"jp_explainLong": "① 攻撃対象の敵が炎属性弱点の場合に\n　　 与えるダメージを絶大に増加する。\n② 炎属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that boosts maximum\nFire attr. and dramatically boost damage done to\nenemies weak to Fire attr."
+		"tr_explainLong": "① Immensely boosts damage against enemies\n    that are weak to 炎.\n    <color=yellow>[D-Frame]</color>\n② Raises your maximum Fire value.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31449",
@@ -2858,58 +2858,58 @@
 	{
 		"assign": "31459",
 		"jp_explainShort": "ダメージ軽減＋氷弱点時ダメージ劇的増加",
-		"tr_explainShort": "Reduce Damage Taken + Large ATK Boost on Ice Weak",
+		"tr_explainShort": "Damage resist + Ice weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が氷属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 敵から受けるダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that reduces damage\ntaken from enemies and largely boosts Attack\nagainst enemies weak against Ice."
+		"tr_explainLong": "① Dramatically boosts damage against enemies\n    that are weak to Ice.\n    <color=yellow>[D-Frame]</color>\n② Reduces damage taken from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31460",
 		"jp_explainShort": "ダメージ軽減＋氷弱点時ダメージ絶大増加",
-		"tr_explainShort": "Reduce Damage Taken + Dramatic ATK Boost on Ice Weak",
+		"tr_explainShort": "Damage resist + Ice weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が氷属性弱点の場合に\n　　 与えるダメージを絶大に増加する。\n② 敵から受けるダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that reduces damage\ntaken from enemies and dramatically boosts Attack\nagainst enemies weak against Ice."
+		"tr_explainLong": "① Immensely boosts damage against enemies\n    that are weak to Ice.\n    <color=yellow>[D-Frame]</color>\n② Reduces damage taken from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31461",
 		"jp_explainShort": "氷属性上限上昇＋氷弱点時ダメージ絶大増加",
-		"tr_explainShort": "Ice Attr. Max Up + ATK Boost on Ice Weak",
+		"tr_explainShort": "Ice weakness boosted, maximum value up",
 		"jp_explainLong": "① 攻撃対象の敵が氷属性弱点の場合に\n　　 与えるダメージを絶大に増加する。\n② 氷属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "Performing a Just Attack activates an effect that\nboosts the maximum Ice Elemental Value and\ndramatically boost damage done to enemies that are\nweak to Ice Element."
+		"tr_explainLong": "① Immensely boosts damage against enemies\n    that are weak to Ice.\n    <color=yellow>[D-Frame]</color>\n② Raises your maximum Ice value.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31462",
 		"jp_explainShort": "氷属性上限上昇＋氷弱点時ダメージ絶大増加",
-		"tr_explainShort": "Ice Attr. Max Up + ATK Boost on Ice Weak",
+		"tr_explainShort": "Ice weakness boosted, maximum value up",
 		"jp_explainLong": "① 攻撃対象の敵が氷属性弱点の場合に\n　　 与えるダメージを絶大に増加する。\n② 氷属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "Performing a Just Attack activates an effect that\nboosts the maximum Ice Elemental Value and\ndramatically boost damage done to enemies that are\nweak to Ice Element."
+		"tr_explainLong": "① Immensely boosts damage against enemies\n    that are weak to Ice.\n    <color=yellow>[D-Frame]</color>\n② Raises your maximum Ice value.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31463",
 		"jp_explainShort": "ポイズン付与＋ポイズン時ダメージ劇的増加",
-		"tr_explainShort": "Imbues [Poison] + ATK Boost on [Poison] Afflicted Targets",
+		"tr_explainShort": "[Poison] imbued + dam. boost vs [Poison]",
 		"jp_explainLong": "① 通常攻撃に「ポイズン」効果を付与する。\n② 「ポイズン」状態の敵に対して\n　　 ダメージを劇的に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that imbues\n[Poison] to attacks and increases damage dealt to\ntargets afflicted with [Poison]."
+		"tr_explainLong": "① Gives normal attacks a chance to inflict [Poison].\n② Dramatically boosts damage against enemies\n    affected by [Poison].\n    <color=yellow>[C-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31464",
 		"jp_explainShort": "ポイズン付与＋ポイズン時ダメージ劇的増加",
-		"tr_explainShort": "Imbues [Poison] + ATK Boost on [Poison] Afflicted Targets",
+		"tr_explainShort": "[Poison] imbued + dam. boost vs [Poison]",
 		"jp_explainLong": "① 通常攻撃に「ポイズン」効果を付与する。\n② 「ポイズン」状態の敵に対して\n　　 ダメージを劇的に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that imbues\n[Poison] to attacks and increases damage dealt to\ntargets afflicted with [Poison]."
+		"tr_explainLong": "① Gives normal attacks a chance to inflict [Poison].\n② Dramatically boosts damage against enemies\n    affected by [Poison].\n    <color=yellow>[C-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31465",
 		"jp_explainShort": "ダメージ軽減＋風弱点時ダメージ劇的増加",
-		"tr_explainShort": "Reduce Damage Taken + Large ATK Boost on Wind Weak",
+		"tr_explainShort": "Dam. resist + Wind weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が風属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 敵から受けるダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "Performing a Just Attack activates an effect that\nreduces damage taken from enemies and largely\nboosts Attack against enemies weak against Wind.\n<color=yellow>[D-Frame]</color>"
+		"tr_explainLong": "① Dramatically boosts damage against enemies\n    that are weak to Wind.\n    <color=yellow>[D-Frame]</color>\n② Reduces damage taken from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31466",
 		"jp_explainShort": "ダメージ軽減＋風弱点時ダメージ絶大増加",
-		"tr_explainShort": "Reduce Damage Taken + Dramatic ATK Boost on Wind Weak",
+		"tr_explainShort": "Dam. resist + Wind weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が風属性弱点の場合に\n　　 与えるダメージを絶大に増加する。\n② 敵から受けるダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "Performing a Just Attack activates an effect that\nreduces damage taken from enemies and largely\nboosts Attack against enemies weak against Wind.\n<color=yellow>[D-Frame]</color>"
+		"tr_explainLong": "① Immensely boosts damage against enemies\n    that are weak to Wind.\n    <color=yellow>[D-Frame]</color>\n② Reduces damage taken from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31467",
@@ -2998,44 +2998,44 @@
 	{
 		"assign": "31481",
 		"jp_explainShort": "雷属性上限上昇＋雷弱点時ダメージ絶大増加",
-		"tr_explainShort": "Lightning Cap Increase + Boost ATK on Lightning Weak",
+		"tr_explainShort": "Lightning weakness boosted, max up",
 		"jp_explainLong": "① 攻撃対象の敵が雷属性弱点の場合に\n　　 与えるダメージを絶大に増加する。\n② 雷属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that increases the cap\nof Lightning Attr. and dramatically boost ATK done\nto Lightning Attr. Weak enemies."
+		"tr_explainLong": "① Immensely boosts damage against enemies\n    that are weak to Lightning.\n    <color=yellow>[D-Frame]</color>\n② Raises your maximum Lightning value.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31482",
 		"jp_explainShort": "雷属性上限上昇＋雷弱点時ダメージ絶大増加",
-		"tr_explainShort": "Lightning Cap Increase + Boost ATK on Lightning Weak",
+		"tr_explainShort": "Lightning weakness boosted, max up",
 		"jp_explainLong": "① 攻撃対象の敵が雷属性弱点の場合に\n　　 与えるダメージを絶大に増加する。\n② 雷属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that increases the cap\nof Lightning Attr. and dramatically boost ATK done\nto Lightning Attr. Weak enemies."
+		"tr_explainLong": "① Immensely boosts damage against enemies\n    that are weak to Lightning.\n    <color=yellow>[D-Frame]</color>\n② Raises your maximum Lightning value.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31487",
 		"jp_explainShort": "機甲種にダメージ劇的増＋弱点属性大強化",
-		"tr_explainShort": "Boost ATK against Mechs + Boost ATK on Weak Point",
+		"tr_explainShort": "Dam. boost vs Mechs + weak Elem. up",
 		"jp_explainLong": "① 機甲種に与えるダメージを劇的に増加する。\n② 攻撃対象の敵の弱点属性を大きく強化する。\n[発動条件]機甲種に攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacking Mechs activates an effect that\ndramatically boosts ATK against Mechs and boosts\nthe weak Attr. of the enemy."
+		"tr_explainLong": "① Dramatically boosts damage against Mechs.\n    <color=yellow>[B-Frame]</color>\n② Greatly increases the target's weakness\n    Element value.\n[Activation Trigger] Landing attacks on Mechs\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31488",
 		"jp_explainShort": "機甲種にダメージ劇的増＋弱点属性大強化",
-		"tr_explainShort": "Boost ATK against Mechs + Boost ATK on Weak Point",
+		"tr_explainShort": "Dam. boost vs Mechs + weak Elem. up",
 		"jp_explainLong": "① 機甲種に与えるダメージを劇的に増加する。\n② 攻撃対象の敵の弱点属性を大きく強化する。\n[発動条件]機甲種に攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacking Mechs activates an effect that\ndramatically boosts ATK against Mechs and boosts\nthe weak Attr. of the enemy."
+		"tr_explainLong": "① Dramatically boosts damage against Mechs.\n    <color=yellow>[B-Frame]</color>\n② Greatly increases the target's weakness\n    Element value.\n[Activation Trigger] Landing attacks on Mechs\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31489",
 		"jp_explainShort": "追加ダメージ＋光弱点時ダメージ劇的増加",
-		"tr_explainShort": "Additional Damage on Hit + Boost ATK to Light Weak",
+		"tr_explainShort": "Add. damage + Light weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が光属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 敵に追加でダメージを与える。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that adds damage on hit\nand dramatically boost ATK to enemies weak to Light."
+		"tr_explainLong": "① Dramatically boosts damage against enemies\n    that are weak to Light.\n    <color=yellow>[D-Frame]</color>\n② Deals additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31490",
 		"jp_explainShort": "追加ダメージ＋光弱点時ダメージ劇的増加",
-		"tr_explainShort": "Additional Damage on Hit + Boost ATK to Light Weak",
+		"tr_explainShort": "Add. damage + Light weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が光属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 敵に追加でダメージを与える。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that adds damage on hit\nand dramatically boost ATK to enemies weak to Light."
+		"tr_explainLong": "① Dramatically boosts damage against enemies\n    that are weak to Light.\n    <color=yellow>[D-Frame]</color>\n② Deals additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31491",
@@ -3054,16 +3054,16 @@
 	{
 		"assign": "31493",
 		"jp_explainShort": "ダーカーにダメージ劇的増加＋炎属性大強化",
-		"tr_explainShort": "Boost ATK against Darkers + Boost Fire Attr.",
+		"tr_explainShort": "Damage boost vs Darkers + Fire Elem. up",
 		"jp_explainLong": "① ダーカーに与えるダメージを劇的に増加する。\n② 炎属性を大きく強化する。\n[発動条件]ダーカーに攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacking Darkers activates an effect that\ndramatically boosts damage to Darkers and\ngreatly boosts Fire Attr."
+		"tr_explainLong": "① Dramatically boosts damage against Darkers.\n    <color=yellow>[B-Frame]</color>\n② Greatly increases Fire Element.\n[Activation Trigger] Landing attacks on Darkers\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31494",
 		"jp_explainShort": "ダーカーにダメージ劇的増加＋炎属性大強化",
-		"tr_explainShort": "Boost ATK against Darkers + Boost Fire Attr.",
+		"tr_explainShort": "Damage boost vs Darkers + Fire Elem. up",
 		"jp_explainLong": "① ダーカーに与えるダメージを劇的に増加する。\n② 炎属性を大きく強化する。\n[発動条件]ダーカーに攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "Attacking Darkers activates an effect that\ndramatically boosts damage to Darkers and\ngreatly boosts Fire Attr."
+		"tr_explainLong": "① Dramatically boosts damage against Darkers.\n    <color=yellow>[B-Frame]</color>\n② Greatly increases Fire Element.\n[Activation Trigger] Landing attacks on Darkers\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31495",
@@ -3110,30 +3110,30 @@
 	{
 		"assign": "31503",
 		"jp_explainShort": "ダメージ軽減＋闇弱点時ダメージ劇的増加",
-		"tr_explainShort": "Additional Damage on Hit + Boost ATK on Dark Weak",
+		"tr_explainShort": "Add. damage + Dark weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が闇属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 敵からのダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that does additional\ndamage on hit and dramatically boost ATK against\nenemies weak to Dark."
+		"tr_explainLong": "① Dramatically boosts damage against enemies\n    that are weak to Dark.\n    <color=yellow>[D-Frame]</color>\n② Reduces damage taken from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31504",
 		"jp_explainShort": "ダメージ軽減＋闇弱点時ダメージ絶大増加",
-		"tr_explainShort": "Additional Damage on Hit + Boost ATK on Dark Weak",
+		"tr_explainShort": "Add. damage + Dark weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が闇属性弱点の場合に\n　　 与えるダメージを絶大に増加する。\n② 敵からのダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that does additional\ndamage on hit and dramatically boost ATK against\nenemies weak to Dark."
+		"tr_explainLong": "① Immensely boosts damage against enemies\n    that are weak to Dark.\n    <color=yellow>[D-Frame]</color>\n② Reduces damage taken from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31505",
 		"jp_explainShort": "追加ダメージ＋風弱点時ダメージ劇的増加",
-		"tr_explainShort": "Additional Damage on Hit + Boost ATK on Wind Weak",
+		"tr_explainShort": "Add. damage + Wind weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が風属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 敵に追加でダメージを与える。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that does additional\ndamage on hit and dramatically boost ATK against\nenemies weak to Wind."
+		"tr_explainLong": "① Dramatically boosts damage against enemies\n    that are weak to Wind.\n    <color=yellow>[D-Frame]</color>\n② Deals additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31506",
 		"jp_explainShort": "追加ダメージ＋風弱点時ダメージ劇的増加",
-		"tr_explainShort": "Additional Damage on Hit + Boost ATK on Wind Weak",
+		"tr_explainShort": "Add. damage + Wind weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が風属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 敵に追加でダメージを与える。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that does additional\ndamage on hit and dramatically boost ATK against\nenemies weak to Wind."
+		"tr_explainLong": "① Dramatically boosts damage against enemies\n    that are weak to Wind.\n    <color=yellow>[D-Frame]</color>\n② Deals additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31511",
@@ -3166,72 +3166,72 @@
 	{
 		"assign": "31515",
 		"jp_explainShort": "消費ＣＰ減少＋必殺技と法術の威力絶大強化",
-		"tr_explainShort": "Reduce CP Usage + PA/Tech Boost",
+		"tr_explainShort": "CP usage down + PAs & Techs boosted",
 		"jp_explainLong": "① 必殺技・法術の威力を絶大に強化する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that\nreduces CP usage and greatly boosts PA/Tech."
+		"tr_explainLong": "① Immensely boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n② Reduces CP consumption.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31516",
 		"jp_explainShort": "消費ＣＰ減少＋必殺技と法術の威力絶大強化",
-		"tr_explainShort": "Reduce CP Usage + PA/Tech Boost",
+		"tr_explainShort": "CP usage down + PAs & Techs boosted",
 		"jp_explainLong": "① 必殺技・法術の威力を絶大に強化する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that\nreduces CP usage and greatly boosts PA/Tech."
+		"tr_explainLong": "① Immensely boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n② Reduces CP consumption.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31521",
 		"jp_explainShort": "追加ダメージ＋氷弱点時ダメージ劇的増加",
-		"tr_explainShort": "Additonal DMG on Hit + Boost ATK on Ice Weak",
+		"tr_explainShort": "Add. damage + Ice weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が氷属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 敵に追加でダメージを与える。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that applies additional\ndmg on hit. Further dramatically boosts ATK\nagainst enemies weak to Ice."
+		"tr_explainLong": "① Dramatically boosts damage against enemies\n    that are weak to Ice.\n    <color=yellow>[D-Frame]</color>\n② Deals additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31522",
 		"jp_explainShort": "追加ダメージ＋氷弱点時ダメージ劇的増加",
-		"tr_explainShort": "Additonal DMG on Hit + Boost ATK on Ice Weak",
+		"tr_explainShort": "Add. damage + Ice weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が氷属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 敵に追加でダメージを与える。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that applies additional\ndmg on hit. Further dramatically boosts ATK\nagainst enemies weak to Ice."
+		"tr_explainLong": "① Dramatically boosts damage against enemies\n    that are weak to Ice.\n    <color=yellow>[D-Frame]</color>\n② Deals additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31525",
 		"jp_explainShort": "攻撃力劇的増加＋消費ＣＰ減少＋発動率上昇",
-		"tr_explainShort": "Boost ATK + Reduce CP Usage + Increase Chip Activation Rate",
+		"tr_explainShort": "Dam. boost + act rate up + CP use down",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 発動率を上昇する。\n③ 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that dramatically boosts\nATK, reduce CP usage and boosts rate of\nactivation for support chips."
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Increases activation rate of all Support Chips.\n③ Reduces CP consumption.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31526",
 		"jp_explainShort": "攻撃力劇的増加＋消費ＣＰ減少＋発動率上昇",
-		"tr_explainShort": "Boost ATK + Reduce CP Usage + Increase Chip Activation Rate",
+		"tr_explainShort": "Dam. boost + act rate up + CP use down",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 発動率を上昇する。\n③ 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that dramatically boosts\nATK, reduce CP usage and boosts rate of\nactivation for support chips."
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Increases activation rate of all Support Chips.\n③ Reduces CP consumption.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31527",
 		"jp_explainShort": "ダメージ軽減＋有効弱点時ダメージ劇的増加",
-		"tr_explainShort": "Reduce DMG Taken + Boost ATK against Weak Elements",
+		"tr_explainShort": "Dam. res. + elemental weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを劇的に増加する。\n② 敵から受けるダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that reduces DMG taken\nfrom enemies and boosts ATK against enemies\nweak of the effective element."
+		"tr_explainLong": "① Dramatically boosts damage against enemy\n    elemental weaknesses.\n    <color=yellow>[D-Frame]</color>\n② Reduces damage taken from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31528",
 		"jp_explainShort": "ダメージ軽減＋有効弱点時ダメージ劇的増加",
-		"tr_explainShort": "Reduce DMG Taken + Boost ATK against Weak Elements",
+		"tr_explainShort": "Dam. res. + elemental weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを劇的に増加する。\n② 敵から受けるダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activates an effect that reduces DMG taken\nfrom enemies and boosts ATK against enemies\nweak of the effective element."
+		"tr_explainLong": "① Dramatically boosts damage against enemy\n    elemental weaknesses.\n    <color=yellow>[D-Frame]</color>\n② Reduces damage taken from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31529",
 		"jp_explainShort": "追加ダメージ＋雷弱点時ダメージ劇的増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Add. dam. + Lightning weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が雷属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 敵に追加でダメージを与える。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "Performing a Just Attack activates an effect where\nattacks deal supplemental damage and increases\ndamage dramatically towards enemies weak to\nLightning.\n<color=yellow>[Chase+D-Frame]</color>"
+		"tr_explainLong": "① Dramatically boosts damage against enemies\n    that are weak to Lightning.\n    <color=yellow>[D-Frame]</color>\n② Deals additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31530",
 		"jp_explainShort": "追加ダメージ＋雷弱点時ダメージ劇的増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Add. dam. + Lightning weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が雷属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 敵に追加でダメージを与える。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "Performing a Just Attack activates an effect where\nattacks deal supplemental damage and increases\ndamage dramatically towards enemies weak to\nLightning.\n<color=yellow>[Chase+D-Frame]</color>"
+		"tr_explainLong": "① Dramatically boosts damage against enemies\n    that are weak to Lightning.\n    <color=yellow>[D-Frame]</col\n② Deals additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31531",
