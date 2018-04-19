@@ -11,8 +11,9 @@ import unicodedata
 counterr = 0
 Forceso = False
 bufout = "FILE: ID"
-ENMap = dict()
+TRMap = dict()
 JPMap = dict()
+SPMap = dict()
 
 # Need the json path
 if len(sys.argv) < 2:
@@ -70,6 +71,7 @@ for files in json_files:
                         a = rmid["assign"]
                     else:
                         a = 0
+                    sl = tl.replace(" ", "")
 
                     if jl not in JPMap:
                         JPMap[jl] = tl
@@ -79,18 +81,30 @@ for files in json_files:
                             a, j, tl, JPMap[jl]))
                         counterr += 1
 
-                    if t not in ENMap:
-                        ENMap[t] = jl
-                    elif ENMap[t] != jl:
+                    if t not in TRMap:
+                        TRMap[t] = jl
+                    elif TRMap[t] != jl:
                         bufout += ("\nEN: {}:{} '{}' and '{}' both wants the mapping of '{}':".format(
                             os.path.splitext(os.path.basename(files))[0],
-                            a, j, ENMap[t], t))
+                            a, j, TRMap[t], t))
                         jsl = unicodedata.normalize('NFKC', j).rstrip().lower()
-                        osl = unicodedata.normalize('NFKC', ENMap[t]).rstrip().lower()
+                        osl = unicodedata.normalize('NFKC', TRMap[t]).rstrip().lower()
                         if (jsl == osl):
                             bufout += "\n\tBut they are the same in our eyes"
                             Forceso = True
                         else:
+                            counterr += 1
+
+                    if "Explain_Actor_MagAuto.txt" in files:
+                        continue
+
+                    if sl not in SPMap:
+                        SPMap[sl] = jl
+                    elif SPMap[sl] != jl:
+                        bufout += ("\nSP: {}:{} '{}' wants the mapping of i'{}' but already got i'{}'".format(
+                            os.path.splitext(os.path.basename(files))[0],
+                            a, j, tl, SPMap[sl]))
+                        if jl != "ショウタイム":
                             counterr += 1
 
         except ValueError as e:
