@@ -942,14 +942,14 @@
 		"jp_explainShort": "攻撃力微増加＋チップ発動時に効果時間延長",
 		"tr_explainShort": "Active chips boost damage & this effect",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② アクティブチップが発動するたびに\n　　 さらに攻撃力を増加する。\n③ アクティブチップが発動するたびに\n　　 効果時間をわずかに延長する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Slightly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Boosts damage further each time you activate\n    an active chip.\n    <color=yellow>[E-Frame]</color>\n③ Each time you activate an active chip,\n    this effect's duration is slightly extended.\n[Effect Duration] Long"
+		"tr_explainLong": "① Slightly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Further boosts damage each time you activate\n    an active chip.\n    <color=yellow>[E-Frame]</color>\n③ Each time you activate an active chip,\n    this effect's duration is slightly extended.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31204",
 		"jp_explainShort": "攻撃力増加＋チップ発動時に効果時間延長",
 		"tr_explainShort": "Active chips boost damage & this effect",
 		"jp_explainLong": "① 攻撃力を増加する。\n②  アクティブチップが発動するたびに\n　　 さらに攻撃力を増加する。\n③ アクティブチップが発動するたびに\n　　 効果時間をわずかに延長する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Boosts damage further each time you activate\n    an active chip.\n    <color=yellow>[E-Frame]</color>\n③ Each time you activate an active chip,\n    this effect's duration is slightly extended.\n[Effect Duration] Long"
+		"tr_explainLong": "① Boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Further boosts damage each time you activate\n    an active chip.\n    <color=yellow>[E-Frame]</color>\n③ Each time you activate an active chip,\n    this effect's duration is slightly extended.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31211",
@@ -1082,14 +1082,14 @@
 		"jp_explainShort": "全属性値を大強化+攻撃力を劇的増加",
 		"tr_explainShort": "All Elements up + damage boosted",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 全属性の属性値を大きく強化する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly increases all Element values.\n[Effect Duration] Medium"
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly increases all Elements.\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31270",
 		"jp_explainShort": "全属性値を大強化+攻撃力を劇的増加",
 		"tr_explainShort": "All Elements up + damage boosted",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 全属性の属性値を大きく強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly increases all Element values.\n[Effect Duration] Medium"
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly increases all Elements.\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31271",
@@ -1206,16 +1206,16 @@
 	{
 		"assign": "31339",
 		"jp_explainShort": "攻撃力絶大増加＋風属性武器で攻撃力増加",
-		"tr_explainShort": "Damage boosted + Wind weapon boosted",
+		"tr_explainShort": "Dam. boosted + Wind weapons boosted",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中の武器の属性が風属性の場合\n　　 さらに攻撃力を増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Boosts damage further if using a Wind weapon.\n    <color=yellow>[H-Frame]</color>\n[Effect Duration] Long"
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Further boosts damage if using a Wind weapon.\n    <color=yellow>[H-Frame]</color>\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31340",
 		"jp_explainShort": "攻撃力絶大増加＋風属性武器で攻撃力増加",
-		"tr_explainShort": "Damage boosted + Wind weapon boosted",
+		"tr_explainShort": "Dam. boosted + Wind weapons boosted",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中の武器の属性が風属性の場合\n　　 さらに攻撃力を増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Boosts damage further if using a Wind weapon.\n    <color=yellow>[H-Frame]</color>\n[Effect Duration] Long"
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Further boosts damage if using a Wind weapon.\n    <color=yellow>[H-Frame]</color>\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31345",
@@ -1248,16 +1248,16 @@
 	{
 		"assign": "31379",
 		"jp_explainShort": "攻撃力絶大増加＋氷属性武器で攻撃力増加",
-		"tr_explainShort": "Damage boosted + Ice weapon boosted",
+		"tr_explainShort": "Damage boosted + Ice weapons boosted",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中の武器の属性が氷属性の場合\n　　 さらに攻撃力を増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Boosts damage further if using an Ice weapon.\n    <color=yellow>[H-Frame]</color>\n[Effect Duration] Long"
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Further boosts damage if using an Ice weapon.\n    <color=yellow>[H-Frame]</color>\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31380",
 		"jp_explainShort": "攻撃力絶大増加＋氷属性武器で攻撃力増加",
-		"tr_explainShort": "Damage boosted + Ice weapon boosted",
+		"tr_explainShort": "Damage boosted + Ice weapons boosted",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中の武器の属性が氷属性の場合\n　　 さらに攻撃力を増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Boosts damage further if using an Ice weapon.\n    <color=yellow>[H-Frame]</color>\n[Effect Duration] Long"
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Further boosts damage if using an Ice weapon.\n    <color=yellow>[H-Frame]</color>\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31389",
