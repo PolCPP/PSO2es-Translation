@@ -95,13 +95,17 @@ for files in json_files:
                         else:
                             counterr += 1
 
+                    if "Explain_Actor_MagAuto.txt" in files:
+                        continue
+
                     if sl not in SPMap:
                         SPMap[sl] = jl
                     elif SPMap[sl] != jl:
                         bufout += ("\nSP: {}:{} '{}' wants the mapping of i'{}' but already got i'{}'".format(
                             os.path.splitext(os.path.basename(files))[0],
                             a, j, tl, SPMap[sl]))
-                        counterr += 1
+                        if jl != "ショウタイム":
+                            counterr += 1
 
         except ValueError as e:
             counterr += 1
