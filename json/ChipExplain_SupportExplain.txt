@@ -1873,7 +1873,7 @@
 		"jp_explainShort": "攻撃力超絶増加＋追加ダメージ効果増加",
 		"tr_explainShort": "Damage boosted + add. damage boosted",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 装備中チップの追加ダメージ威力を\n　　 それぞれ増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n② Boosts all additional damage.\n    <color=yellow>[Chase Boost]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Boosts all additional damage.\n    <color=yellow>[Chase Boost]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31275",
@@ -2216,14 +2216,14 @@
 		"jp_explainShort": "攻撃力超絶増加＋チップ効果時間延長",
 		"tr_explainShort": "Damage boosted + chip effects extended",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② チップ発動時のアビリティ効果時間を延長する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n② Extends the Effect Duration of chips' abilities.\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Extends the Effect Duration of chips' abilities.\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31338",
 		"jp_explainShort": "攻撃力超絶増加＋チップ効果時間延長",
 		"tr_explainShort": "Damage boosted + chip effects extended",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② チップ発動時のアビリティ効果時間を延長する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n② Extends the Effect Duration of chips' abilities.\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Extends the Effect Duration of chips' abilities.\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31341",
@@ -2650,14 +2650,14 @@
 		"jp_explainShort": "攻撃力超絶増加＋ＣＰ最大値増加",
 		"tr_explainShort": "Damage boosted + maximum CP boosted",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② ＣＰの最大値を増加する。\n[発動条件]ジャストアタック成功もしくはスライド操作時\n[効果時間]短い時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n② Boosts maximum CP.\n[Activation Trigger] Successful JA or Slide Action\n[Effect Duration] Short"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Boosts maximum CP.\n[Activation Trigger] Successful JA or Slide Action\n[Effect Duration] Short"
 	},
 	{
 		"assign": "31414",
 		"jp_explainShort": "攻撃力超絶増加＋ＣＰ最大値増加",
 		"tr_explainShort": "Damage boosted + maximum CP boosted",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② ＣＰの最大値を増加する。\n[発動条件]ジャストアタック成功もしくはスライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n② Boosts maximum CP.\n[Activation Trigger] Successful JA or Slide Action\n[Effect Duration] Medium"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Boosts maximum CP.\n[Activation Trigger] Successful JA or Slide Action\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31415",
@@ -2678,14 +2678,14 @@
 		"jp_explainShort": "攻撃力超絶増＋ダメージの一部ＨＰ回復",
 		"tr_explainShort": "Damage boosted + damage HP recovery",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② ジャストアタックで与えたダメージの一部を\n　　 自身のＨＰとして回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n② Recovers a fraction of damage dealt by Just\n    Attacks as HP.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Recovers a fraction of damage dealt by Just\n    Attacks as HP.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31422",
 		"jp_explainShort": "攻撃力超絶増＋ダメージの一部ＨＰ回復",
 		"tr_explainShort": "Damage boosted + damage HP recovery",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② ジャストアタックで与えたダメージの一部を\n　　 自身のＨＰとして回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n② Recovers a fraction of damage dealt by Just\n    Attacks as HP.\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Recovers a fraction of damage dealt by Just\n    Attacks as HP.\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31423",
@@ -3721,7 +3721,7 @@
 		"jp_explainShort": "攻撃力超絶増＋技法威力大増＋ＣＰ消費増",
 		"tr_explainShort": "Dam. boost + PA/Tech boost, CP use up",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 必殺技・法術の威力を大きく増加する。\n③ 必殺技・法術のＣＰ消費量を増加する。\n④ リンクスロットに装備したチップの属性が\n　　 雷属性の場合に③の効果を無効にする。\n⑤ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n② Greatly boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n③ Increases CP consumption of PAs and Techs.\n④ If there is a Lightning chip in this chip's link slot,\n    the effect of ③ is not applied.\n⑤ While this chip is equipped, the equip costs of\n    all PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n③ Increases CP consumption of PAs and Techs.\n④ If there is a Lightning chip in this chip's link slot,\n    the effect of ③ is not applied.\n⑤ While this chip is equipped, the equip costs of\n    all PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31626",
