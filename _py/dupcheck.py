@@ -72,8 +72,8 @@ for files in json_files:
                     else:
                         a = 0
 
-                    nt = unicodedata.normalize('NFKC', tl).replace(" ", "")
-                    nj = unicodedata.normalize('NFKC', jl).replace(" ", "")
+                    nt = unicodedata.normalize('NFKC', tl).replace(" ", "").replace("＊","").replace("★","")
+                    nj = unicodedata.normalize('NFKC', jl).replace(" ", "").replace("＊","").replace("★","")
 
                     if jl not in JPMap:
                         JPMap[jl] = tl
