@@ -812,7 +812,7 @@
 	{
 		"assign": "mshop_dialog_b_06",
 		"jp_text": "<color=#ff0000>選択したアイテムの中に\nスタージェムを入手していないものが\n含まれています。</color>\n本当に売却しますか？",
-		"tr_text": ""
+		"tr_text": "<color=#ff0000>Among the items you've selected are\nitems with unreceived Star Gems.</color>\nAre you sure you want to continue?"
 	},
 	{
 		"assign": "rshop_dialog_t_00",
@@ -842,7 +842,7 @@
 	{
 		"assign": "rshop_dialog_b_02",
 		"jp_text": "{0}\nと、以下のアイテムを交換します。よろしいですか？",
-		"tr_text": "Items will be exchanged for {0}\nAre you sure?"
+		"tr_text": "Items will be exchanged for {0}.\nAre you sure?"
 	},
 	{
 		"assign": "rshop_dialog_t_03",
@@ -882,7 +882,7 @@
 	{
 		"assign": "rshop_dialog_b_06",
 		"jp_text": "<color=#ff0000>スタージェムを入手していないアイテムを\n交換しようとしています。</color>\nよろしいですか？",
-		"tr_text": ""
+		"tr_text": "<color=#ff0000>You are about to exchange items\nwith unreceived Star Gems.</color>\nDo you wish to continue?"
 	},
 	{
 		"assign": "rshop_dialog_t_07",
@@ -892,12 +892,12 @@
 	{
 		"assign": "rshop_dialog_b_07_1",
 		"jp_text": "レジャーコインが足りません。\n\n所持レジャーコイン　⇒　{0:N0}枚\n必要レジャーコイン　⇒　{1:N0}枚\n不足レジャーコイン　⇒　<color=#ff0000>{2:N0}枚</color>",
-		"tr_text": ""
+		"tr_text": "Insufficient Leisure Coins.\n\nOwned Leisure Coins ⇒ {0:N0}\nRequired Leisure Coins ⇒ {1:N0}\nMissing Leisure Coins ⇒ <color=#ff0000>{2:N0}</color>"
 	},
 	{
 		"assign": "rshop_dialog_b_07",
 		"jp_text": "「{0}」\nと、レジャーコインを交換します。よろしいですか？\n\n所持レジャーコイン　⇒　{1:N0}枚\n必要レジャーコイン　⇒　{2:N0}枚\n残りレジャーコイン　⇒　{3:N0}枚",
-		"tr_text": ""
+		"tr_text": "Now exchanging Leisure Coins for\n{0}.\nDo you wish to continue?\n\nOwned Leisure Coins ⇒ {1:N0}\nRequired Leisure Coins ⇒ {2:N0}\nRemaining Leisure Coins ⇒ {3:N0}"
 	},
 	{
 		"assign": "rshop_dialog_t_08",
@@ -907,12 +907,12 @@
 	{
 		"assign": "rshop_dialog_b_08_1",
 		"jp_text": "エターナルジュエルが足りません。\n\n所持エターナルジュエル　⇒　{0:N0}pt\n必要エターナルジュエル　⇒　{1:N0}pt\n不足エターナルジュエル　⇒　<color=#ff0000>{2:N0}pt</color>",
-		"tr_text": ""
+		"tr_text": "Insufficient Eternal Jewels.\n\nOwned Eternal Jewels ⇒ {0:N0}\nRequired Eternal Jewels ⇒ {1:N0}\nMissing Eternal Jewels ⇒ <color=#ff0000>{2:N0}</color>"
 	},
 	{
 		"assign": "rshop_dialog_b_08",
 		"jp_text": "「{0}」\nと、エターナルジュエルを交換します。よろしいですか？\n\n所持エターナルジュエル　⇒　{1:N0}pt\n必要エターナルジュエル　⇒　{2:N0}pt\n残りエターナルジュエル　⇒　{3:N0}pt",
-		"tr_text": ""
+		"tr_text": "Now exchanging Eternal Jewels for\n{0}.\nDo you wish to continue?\n\nOwned Eternal Jewels ⇒ {1:N0}\nRequired Eternal Jewels ⇒ {2:N0}\nRemaining Eternal Jewels ⇒ {3:N0}"
 	},
 	{
 		"assign": "arcscard_guide_00",
@@ -922,7 +922,7 @@
 	{
 		"assign": "arcscard_default_00",
 		"jp_text": "よろしくお願いします。",
-		"tr_text": "よろしくお願いします。 (Thanks in Advanced)"
+		"tr_text": "よろしくお願いします。 (Thanks in advance)"
 	},
 	{
 		"assign": "arcscard_default_01",
@@ -1552,7 +1552,7 @@
 	{
 		"assign": "classcounter_dialog_b_04",
 		"jp_text": "以前装備していた武器が\nアイテムパックに無かったため、\n武器を解除しました。",
-		"tr_text": "Weapons that weren't\nin the character inventory\nwere removed."
+		"tr_text": "Weapons that weren't\nin the character's inventory\nwere removed."
 	},
 	{
 		"assign": "option_guide_00",
@@ -1567,7 +1567,7 @@
 	{
 		"assign": "equip_guide_01",
 		"jp_text": "<color=#f0df60>武器・チップ・ユニット・リンクスロット装備をタッチすると、装備の変更を行うことができます。アイテムアイコンを長押しすると、詳細情報を確認できます。迷ったらおすすめ装備をタッチしましょう。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Touch weapons, chips, units and \"Equip Link Slot\" to change equipment. Hold on an item to view details. Touch \"Recommended Equipment\" if you are unsure what to equip.</color>"
 	},
 	{
 		"assign": "equip_guide_14",
@@ -2207,12 +2207,12 @@
 	{
 		"assign": "item_grind_up",
 		"jp_text": "<color=#ff9c70><%grind_value></color>",
-		"tr_text": ""
+		"tr_text": "<color=#ff9c70><%grind_value></color>"
 	},
 	{
 		"assign": "item_grind_down",
 		"jp_text": "<color=#32cdff><%grind_value></color>",
-		"tr_text": ""
+		"tr_text": "<color=#32cdff><%grind_value></color>"
 	},
 	{
 		"assign": "labo_dialog_t_09",
@@ -3277,7 +3277,7 @@
 	{
 		"assign": "mail_dialog_b_13",
 		"jp_text": "メールに添付されているアイテムの中で\nこのキャラクターが受け取り対象のものを\n全て受け取りました。",
-		"tr_text": "I received all attached items."
+		"tr_text": "All attached items received."
 	},
 	{
 		"assign": "mail_dialog_t_14",
