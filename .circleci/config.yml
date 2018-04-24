@@ -98,7 +98,7 @@ jobs:
       - run:
           name: Are Chips' short Desc too long?
           command: ./_py/ChipDescShort.py | /usr/bin/tee /tmp/PSO2es/ChipDescShort.txt
-      -run:
+      - run:
           name: Word wrap changes for Chips' Short Desc
           command: /usr/bin/git diff --exit-code | /usr/bin/tee /tmp/PSO2es/ChipDescShort.diff
           when: on_fail
