@@ -72,8 +72,8 @@ for files in json_files:
                     else:
                         a = 0
 
-                    nt = unicodedata.normalize('NFKC', tl.replace(" ", "").replace("★",""))
-                    nj = unicodedata.normalize('NFKC', jl.replace(" ", "").replace("★",""))
+                    nt = unicodedata.normalize('NFKC', tl.replace(" ", "").replace("★", ""))
+                    nj = unicodedata.normalize('NFKC', jl.replace(" ", "").replace("★", ""))
 
                     if jl not in JPMap:
                         JPMap[jl] = tl
@@ -106,14 +106,6 @@ for files in json_files:
                     if nt not in SPMap:
                         SPMap[nt] = nj
                     elif SPMap[nt] != nj:
-                        bufout += ("\nSP: {}:{} '{}' wants the mapping of i'{}' but already got i'{}'".format(
-                            os.path.splitext(os.path.basename(files))[0],
-                            a, j, tl, SPMap[nt]))
-                        counterr += 1
-
-                    if nj not in SPMap:
-                        SPMap[nj] = nt
-                    elif SPMap[nj] != nt:
                         bufout += ("\nSP: {}:{} '{}' wants the mapping of i'{}' but already got i'{}'".format(
                             os.path.splitext(os.path.basename(files))[0],
                             a, j, tl, SPMap[nt]))
