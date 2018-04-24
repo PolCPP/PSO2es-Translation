@@ -9062,7 +9062,7 @@
 	{
 		"assign": "lobby_support_body",
 		"jp_text": "「{0}」さんなどの\nクエストに同行した報酬が届いています。\n\n同行回数　<color=#f0df60>{1}回</color>\n<color=#f0df60>{2}FUN</color>を獲得しました！\n\n<size=19>※前回のログインから現時点までの獲得合計を表示しています。</size>",
-		"tr_text": "「{0}」 used your\nFriend Partner for a quest.\n\nTimes used: <color=#f0df60>{1}</color>\n<color=#f0df60>{2} FUN</color> was awarded!\n\n<size=19>※Displaying the previous total from the last login session.</size>"
+		"tr_text": "[{0}] last used your Friend Partner\nfor a quest.\n\nTotal times your Friend Partner was used: <color=#f0df60>{1}</color>\nYou are awarded <color=#f0df60>{2} FUN</color>!\n\n<size=19>※Displaying the previous total from the last login session.</size>"
 	},
 	{
 		"assign": "lobby_charainfo_lv",
