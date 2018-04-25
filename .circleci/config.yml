@@ -99,10 +99,14 @@ jobs:
           name: Are Chips' short Desc too long?
           command: ./_py/ChipDescShort.py | /usr/bin/tee /tmp/PSO2es/ChipDescShort.txt
       - run:
+          name: Word wrap changes for Chips' Short Desc
+          command: /usr/bin/git diff --exit-code | /usr/bin/tee /tmp/PSO2es/ChipDescShort.diff
+          when: on_fail
+      - run:
           name: Are Chips' long Desc too long?
           command: ./_py/ChipDescLong.py | /usr/bin/tee /tmp/PSO2es/ChipDescLong.txt
       - run:
-          name: Word wrap changes for Chips' Descs
+          name: Word wrap changes for Chips' Long Descs
           command: /usr/bin/git diff --exit-code | /usr/bin/tee /tmp/PSO2es/ChipDescLong.diff
           when: on_fail
       - run:
