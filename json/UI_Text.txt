@@ -1517,7 +1517,7 @@
 	{
 		"assign": "classcounter_guide_00",
 		"jp_text": "<color=#f0df60>クラスリストにタッチすることで、キャラクターの現在のクラスを変更することができます。</color>",
-		"tr_text": "<color=#f0df60>By touching the Class List, you can change current class of your character.</color>"
+		"tr_text": "<color=#f0df60>By touching the Class List, you can change the current class of your character.</color>"
 	},
 	{
 		"assign": "classcounter_dialog_t_00",
@@ -4972,7 +4972,7 @@
 	{
 		"assign": "questcounter_guide_00",
 		"jp_text": "<color=#f0df60>ジェネやモアと共に冒険するストーリーです。Normalのエリアで獲得スコアを最大にすると、高難度なExのエリアが解放されます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>The story of your adventures with Gene and More. Clear an area with full marks on Normal to unlock its Ex difficulty version.</color>"
 	},
 	{
 		"assign": "questcounter_guide_01",
@@ -4987,7 +4987,7 @@
 	{
 		"assign": "questcounter_guide_03",
 		"jp_text": "<color=#f0df60>Exのエリアは、強力なExエネミーたちが登場する高難度のクエストです。Normalのエリアで獲得スコアを最大にすると解放されます。</color>",
-		"tr_text": "<color=#f0df60>Normal Quests are quests that begin the story. Ex quests are higher difficulty versions of Normal Quests.</color>"
+		"tr_text": "<color=#f0df60>Ex areas are difficult versions of quests, where powerful Ex enemies appear. Clear an area with full scores on Normal to unlock its Ex version.</color>"
 	},
 	{
 		"assign": "questcounter_guide_04",
@@ -5007,12 +5007,12 @@
 	{
 		"assign": "questcounter_guide_07",
 		"jp_text": "<color=#f0df60>Exのエリアは、強力なExエネミーたちが登場する高難度のクエストです。Normalのエリアで獲得スコアを最大にすると解放されます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Ex areas are difficult versions of quests, where powerful Ex enemies appear. Clear an area with full scores on Normal to unlock its Ex version.</color>"
 	},
 	{
 		"assign": "questcounter_guide_08",
 		"jp_text": "<color=#f0df60>謎の少女デュナとトランスエネミーを巡る新たなストーリーです。Normalのエリアで獲得スコアを最大にすると、高難度なExのエリアが解放されます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>The story of the mysterious girl, Duna, and the Trans Enemies. Clear an area with full marks on Normal to unlock its Ex difficulty version.</color>"
 	},
 	{
 		"assign": "quest_counter_header_Season2",
