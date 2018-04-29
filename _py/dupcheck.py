@@ -109,7 +109,15 @@ for files in json_files:
                         bufout += ("\nSP: {}:{} '{}' wants the mapping of i'{}' but already got i'{}'".format(
                             os.path.splitext(os.path.basename(files))[0],
                             a, j, tl, SPMap[nt]))
-                        counterr += 1
+                        Forceso += 1
+
+                    if nj not in SPMap:
+                        SPMap[nj] = nt
+                    elif SPMap[nj] != nt:
+                        bufout += ("\nPS: {}:{} '{}' wants the mapping of i'{}' but already got i'{}'".format(
+                            os.path.splitext(os.path.basename(files))[0],
+                            a, j, tl, SPMap[nt]))
+                        Forceso += 1
 
         except ValueError as e:
             counterr += 1
