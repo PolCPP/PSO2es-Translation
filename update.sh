@@ -11,7 +11,7 @@ adb shell cp $apkpath /sdcard/PSO2es.zip
 adb pull /sdcard/PSO2es.zip apk/PSO2es.zip
 adb shell rm /sdcard/PSO2es.zip
 echo Extracting DLLs
-unzip -xfjo apk/PSO2es.zip "assets/bin/Data/Managed/*.dll" -d apk
+unzip -jo apk/PSO2es.zip -d apk
 echo linking needed DLLs
 ln -sf apk/Assembly-CSharp-firstpass.dll .
 ln -sf apk/ContentsSerializer.dll .
