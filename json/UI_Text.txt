@@ -695,6 +695,16 @@
 		"tr_text": "You have over the limit of items in your inventory."
 	},
 	{
+		"assign": "current_dp_per_max_view",
+		"jp_text": "<color=#ff0000{0}>{1}</color>/{2}",
+		"tr_text": ""
+	},
+	{
+		"assign": "current_dp_per_max_view_ex",
+		"jp_text": "<color=#ff0000{0}>{1}</color>/{2}",
+		"tr_text": ""
+	},
+	{
 		"assign": "mshop_npc_t_00",
 		"jp_text": "フェリシア",
 		"tr_text": "Felicia"
@@ -1777,6 +1787,26 @@
 	{
 		"assign": "equip_dialog_b_13",
 		"jp_text": "現在装備している武器を変更すると\n総チップコストをオーバーするチップがあります。\n\n右側に装備しているチップから解除されますが\nよろしいですか？",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_dialog_t_14",
+		"jp_text": "マイセット確認",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_dialog_b_14",
+		"jp_text": "{0}に{1}の内容を保存します。\nよろしいですか？",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_dialog_t_15",
+		"jp_text": "マイセット確認",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_dialog_b_15",
+		"jp_text": "{0}を削除します。\nよろしいですか？",
 		"tr_text": ""
 	},
 	{
@@ -9125,6 +9155,11 @@
 		"tr_text": "Drive"
 	},
 	{
+		"assign": "menu_charainfo_drive_over",
+		"jp_text": "<color=#ff0000{0}><%drive></color> / <%max_drive> あと <%time>",
+		"tr_text": ""
+	},
+	{
 		"assign": "menu_charainfo_label_drive_ex",
 		"jp_text": "OP",
 		"tr_text": "OP"
@@ -16310,6 +16345,11 @@
 		"tr_text": "Select Category"
 	},
 	{
+		"assign": "lookback_episode_title",
+		"jp_text": "章選択",
+		"tr_text": "Chapter Selection"
+	},
+	{
 		"assign": "lookback_maintitle_0",
 		"jp_text": "ストーリークエスト　Ｓｅａｓｏｎ１",
 		"tr_text": "Story Quest Season 1"
@@ -16318,21 +16358,6 @@
 		"assign": "lookback_maintext_0",
 		"jp_text": "ジェネやモアたちとウェポノイドを巡る\n物語を振り返ります。",
 		"tr_text": "View the story of the\nWeaponoids with Gene and More."
-	},
-	{
-		"assign": "lookback_episode_title",
-		"jp_text": "章選択",
-		"tr_text": "Chapter Selection"
-	},
-	{
-		"assign": "lookback_maintitle_1",
-		"jp_text": "ストーリークエスト　Ｓｅａｓｏｎ２",
-		"tr_text": "Story Quest Season 2"
-	},
-	{
-		"assign": "lookback_maintext_1",
-		"jp_text": "謎の少女デュナとトランスエネミーを巡る\n物語を振り返ります。",
-		"tr_text": "View the story of Duna,\nthe Trans Enemy."
 	},
 	{
 		"assign": "lookback_season1_chapter_0",
@@ -16395,6 +16420,16 @@
 		"tr_text": "Epilogue"
 	},
 	{
+		"assign": "lookback_maintitle_1",
+		"jp_text": "ストーリークエスト　Ｓｅａｓｏｎ２",
+		"tr_text": "Story Quest Season 2"
+	},
+	{
+		"assign": "lookback_maintext_1",
+		"jp_text": "謎の少女デュナとトランスエネミーを巡る\n物語を振り返ります。",
+		"tr_text": "View the story of Duna,\nthe Trans Enemy."
+	},
+	{
 		"assign": "lookback_season2_chapter_1",
 		"jp_text": "１章　　想像する悪意",
 		"tr_text": "Chapter 1\nImagining Malice"
@@ -16433,6 +16468,21 @@
 		"assign": "lookback_special_chapter_1",
 		"jp_text": "太陽と海のバケーション",
 		"tr_text": "Sea and Sunshine\nVacation"
+	},
+	{
+		"assign": "lookback_maintitle_4",
+		"jp_text": "アーレスストーリー",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_maintext_4",
+		"jp_text": "アーレスシリーズのウェポノイド達の\n物語を振り返ります。",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_arles_chapter_1",
+		"jp_text": "1章　　アーレスカイゼル",
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_menu_lookback",
@@ -18420,6 +18470,46 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "equip_ｆavorite_menu",
+		"jp_text": "マイセットメニュー",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_ｆavorite_pallet",
+		"jp_text": "パレット{0}",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_ｆavorite_myset",
+		"jp_text": "マイセット{0}",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_ｆavorite_save",
+		"jp_text": "保存",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_ｆavorite_call",
+		"jp_text": "呼出",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_ｆavorite_delete",
+		"jp_text": "削除",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_ｆavorite_weapon_unit",
+		"jp_text": "武器・ユニット",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_ｆavorite_guide_01",
+		"jp_text": "<color=#f0df60>マイセットメニューのガイド文</color>",
+		"tr_text": ""
+	},
+	{
 		"assign": "quest_linkskill_window_title",
 		"jp_text": "出発確認",
 		"tr_text": "Confirm Depart"
@@ -18966,7 +19056,7 @@
 	},
 	{
 		"assign": "towerquest_top_ranking_title",
-		"jp_text": "ランキング TOP50 　※30分ごとに更新",
+		"jp_text": "ランキング TOP50　　※30分ごとに更新",
 		"tr_text": ""
 	},
 	{
@@ -19421,7 +19511,7 @@
 	},
 	{
 		"assign": "bonus_expedition_dialog_message",
-		"jp_text": "ボーナス探索が実行可能になりました。\r\nボーナス探索では、１日の探索回数にかかわらず\r\n無料で全探索（５回探索）が実行可能です。",
+		"jp_text": "ボーナス探索が実行可能になりました。\nボーナス探索では、１日の探索回数にかかわらず\n無料で全探索（５回探索）が実行可能です。",
 		"tr_text": ""
 	},
 	{
@@ -19522,6 +19612,106 @@
 	{
 		"assign": "material_chip_over_num",
 		"jp_text": "素材チップが\n<color=red>{0}</color> 枚 オーバーしてしまいます。\n\nチップパックを拡張するか\n強化／売却をしてチップを整理してください。",
+		"tr_text": ""
+	},
+	{
+		"assign": "field_optioncommon_title",
+		"jp_text": "オプション",
+		"tr_text": ""
+	},
+	{
+		"assign": "btl_optioncommon_title",
+		"jp_text": "オプション",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_monitorset_btn",
+		"jp_text": "画面設定",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_soundset_btn",
+		"jp_text": "サウンド設定",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_btl_cameraworkset_title",
+		"jp_text": "バトルカメラ設定",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_chip_productionset_title",
+		"jp_text": "チップ発動演出",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_view_damageset_title",
+		"jp_text": "ダメージ表示",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_zoom_inset_title",
+		"jp_text": "近",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_zoom_outset_title",
+		"jp_text": "遠",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_productionset_on_btn",
+		"jp_text": "ON",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_productionset_off_btn",
+		"jp_text": "OFF",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_view_damage_normal_btn",
+		"jp_text": "通常",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_view_damage_log_btn",
+		"jp_text": "ログ",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_initialset_btn",
+		"jp_text": "初期設定に戻す",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_button_closebtn",
+		"jp_text": "閉じる",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_monitorset_title",
+		"jp_text": "画面設定",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_soundset_title",
+		"jp_text": "サウンド設定",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_bgmset_title",
+		"jp_text": "BGM",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_seset_title",
+		"jp_text": "SE",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_voiceset_title",
+		"jp_text": "VOICE",
 		"tr_text": ""
 	}
 ]

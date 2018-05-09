@@ -927,7 +927,7 @@
 		"assign": "132",
 		"jp_text": "-",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "与ダメージが2％上昇。",
 		"tr_explain": ""
 	},
 	{
@@ -939,9 +939,9 @@
 	},
 	{
 		"assign": "134",
-		"jp_text": "-",
+		"jp_text": "Ｓ２：剛撃の志",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "与ダメージが2％上昇。",
 		"tr_explain": ""
 	},
 	{
@@ -967,9 +967,9 @@
 	},
 	{
 		"assign": "138",
-		"jp_text": "-",
+		"jp_text": "Ｓ３：光子縮減",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ＰＰ消費量を7％軽減。",
 		"tr_explain": ""
 	},
 	{
@@ -1030,16 +1030,16 @@
 	},
 	{
 		"assign": "147",
-		"jp_text": "-",
+		"jp_text": "Ｓ３：妙技の巧",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "クリティカル率が\n12％上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "148",
-		"jp_text": "-",
+		"jp_text": "Ｓ１：輝剰の撃",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "攻撃時のＰＰ回復量が\n17％上昇する。",
 		"tr_explain": ""
 	},
 	{
@@ -1058,9 +1058,9 @@
 	},
 	{
 		"assign": "151",
-		"jp_text": "-",
+		"jp_text": "Ｓ１：守護の備",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "被ダメージを7％軽減。",
 		"tr_explain": ""
 	},
 	{
@@ -1079,9 +1079,9 @@
 	},
 	{
 		"assign": "154",
-		"jp_text": "-",
+		"jp_text": "Ｓ１：妙撃の志",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "クリティカル時の\n与ダメージが3％上昇。",
 		"tr_explain": ""
 	},
 	{
@@ -1149,9 +1149,9 @@
 	},
 	{
 		"assign": "164",
-		"jp_text": "-",
+		"jp_text": "Ｓ２：輝勢の恵",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ＰＰの自然回復速度が\n17％上昇する。",
 		"tr_explain": ""
 	},
 	{
@@ -1163,9 +1163,9 @@
 	},
 	{
 		"assign": "166",
-		"jp_text": "-",
+		"jp_text": "Ｓ１：時流活与",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "一定時間ごとに\nＨＰを40％回復する。",
 		"tr_explain": ""
 	},
 	{
@@ -1345,9 +1345,9 @@
 	},
 	{
 		"assign": "192",
-		"jp_text": "-",
+		"jp_text": "Ｓ１：気輝応変",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "納刀、抜刀を行う事で\nＰＰ回復速度が変化。",
 		"tr_explain": ""
 	},
 	{
@@ -1373,9 +1373,9 @@
 	},
 	{
 		"assign": "196",
-		"jp_text": "-",
+		"jp_text": "Ｓ２：滅域輝与",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "一定の範囲内で\nエネミーが死亡した時\nＰＰが回復する。",
 		"tr_explain": ""
 	},
 	{
@@ -2556,9 +2556,9 @@
 	},
 	{
 		"assign": "365",
-		"jp_text": "-",
+		"jp_text": "Ｓ３：花海雪の備",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "花ノ赤閃、海ノ青閃または\n雪ノ白閃が発動中\n被ダメージを10％軽減。",
 		"tr_explain": ""
 	},
 	{
@@ -2619,9 +2619,9 @@
 	},
 	{
 		"assign": "374",
-		"jp_text": "-",
+		"jp_text": "Ｓ３：月葉影の巧",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "月ノ黄閃、葉ノ緑閃または\n影ノ黒閃が発動中\nクリティカル率20％上昇。",
 		"tr_explain": ""
 	},
 	{
@@ -2633,9 +2633,9 @@
 	},
 	{
 		"assign": "376",
-		"jp_text": "-",
+		"jp_text": "Ｓ２：月葉影の輝剰",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "月ノ黄閃、葉ノ緑閃または\n影ノ黒閃が発動中、攻撃時\nＰＰ回復量が25％上昇。",
 		"tr_explain": ""
 	},
 	{
@@ -2675,30 +2675,30 @@
 	},
 	{
 		"assign": "382",
-		"jp_text": "-",
+		"jp_text": "Ｓ２：死中の志",
 		"tr_text": "",
 		"jp_explain": "-",
 		"tr_explain": ""
 	},
 	{
 		"assign": "383",
-		"jp_text": "-",
+		"jp_text": "Ｓ３：死中の志",
 		"tr_text": "",
 		"jp_explain": "-",
 		"tr_explain": ""
 	},
 	{
 		"assign": "384",
-		"jp_text": "-",
+		"jp_text": "Ｓ１：猛威の奮激",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "威力とＰＰ回復性能が\n上昇。ＰＰ消費量軽減。\n被ダメージで消失。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "385",
-		"jp_text": "-",
+		"jp_text": "Ｓ２：猛威の奮激",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "威力とＰＰ回復性能が\n上昇。ＰＰ消費量軽減。\n被ダメージで消失。",
 		"tr_explain": ""
 	},
 	{
@@ -2731,44 +2731,44 @@
 	},
 	{
 		"assign": "390",
-		"jp_text": "-",
+		"jp_text": "Ｓ１：裂砕の志",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "破壊可能な部位を\n攻撃した際、威力が4％\n上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "391",
-		"jp_text": "-",
+		"jp_text": "Ｓ２：裂砕の志",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "破壊可能な部位を\n攻撃した際、威力が3％\n上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "392",
-		"jp_text": "-",
+		"jp_text": "Ｓ３：裂砕の志",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "破壊可能な部位を\n攻撃した際、威力が4％\n上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "393",
-		"jp_text": "-",
+		"jp_text": "Ｓ１：裂砕の剰",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "破壊可能な部位を\n攻撃した際、攻撃時\nＰＰ回復量が40％上昇。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "394",
-		"jp_text": "-",
+		"jp_text": "Ｓ２：裂砕の剰",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "破壊可能な部位を\n攻撃した際、攻撃時\nＰＰ回復量が35％上昇。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "395",
-		"jp_text": "-",
+		"jp_text": "Ｓ３：裂砕の剰",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "破壊可能な部位を\n攻撃した際、攻撃時\nＰＰ回復量が35％上昇。",
 		"tr_explain": ""
 	},
 	{
@@ -2787,30 +2787,30 @@
 	},
 	{
 		"assign": "398",
-		"jp_text": "-",
+		"jp_text": "Ｓ３：強闘の志",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "強敵への与ダメージが\n3％上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "399",
-		"jp_text": "-",
+		"jp_text": "Ｓ１：狂幻の利",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "「狂想と幻創」にて\n威力が5％上昇し\n被ダメージが12％減少。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "400",
-		"jp_text": "-",
+		"jp_text": "Ｓ２：狂幻の利",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "「狂想と幻創」にて\n威力が5％上昇し\n被ダメージが12％減少。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "401",
-		"jp_text": "-",
+		"jp_text": "Ｓ３：狂幻の利",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "「狂想と幻創」にて\n威力が5％上昇し\n被ダメージが12％減少。",
 		"tr_explain": ""
 	},
 	{
