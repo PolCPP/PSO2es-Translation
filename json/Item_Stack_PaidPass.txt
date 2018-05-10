@@ -1402,7 +1402,7 @@
 	{
 		"assign": "3210273",
 		"jp_text": "デメリット値－６０％",
-		"tr_text": "Demerit value -60%",
+		"tr_text": "Demerit Value -60%",
 		"jp_explain": "テクニックカスタマイズ実行時に\nデメリットの上限値を\n６０％軽減させる。",
 		"tr_explain": "Decreases the demerit value by\n-60% when customizing techniques."
 	},
@@ -1447,6 +1447,13 @@
 		"tr_text": "Ability Success Rate +45%",
 		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を４５％上昇させる。",
 		"tr_explain": "Used when adding Special Abilities\non your equipment.\nBoosts success rate by 45%"
+	},
+	{
+		"assign": "3210283",
+		"jp_text": "特殊能力保護（４枠以下）",
+		"tr_text": "Ability Protection (4s or lower)",
+		"jp_explain": "特殊能力追加に失敗時、素材アイテムと\n特殊能力追加アイテムが返却される。\n<yellow>対象：追加予定リストが４スロット以下<c>",
+		"tr_explain": ""
 	},
 	{
 		"assign": "3210284",

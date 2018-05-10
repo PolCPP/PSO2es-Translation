@@ -695,6 +695,16 @@
 		"tr_text": "You have over the limit of items in your inventory."
 	},
 	{
+		"assign": "current_dp_per_max_view",
+		"jp_text": "<color=#ff0000{0}>{1}</color>/{2}",
+		"tr_text": ""
+	},
+	{
+		"assign": "current_dp_per_max_view_ex",
+		"jp_text": "<color=#ff0000{0}>{1}</color>/{2}",
+		"tr_text": ""
+	},
+	{
 		"assign": "mshop_npc_t_00",
 		"jp_text": "フェリシア",
 		"tr_text": "Felicia"
@@ -1567,7 +1577,7 @@
 	{
 		"assign": "equip_guide_01",
 		"jp_text": "<color=#f0df60>武器・チップ・ユニット・リンクスロット装備をタッチすると、装備の変更を行うことができます。アイテムアイコンを長押しすると、詳細情報を確認できます。迷ったらおすすめ装備をタッチしましょう。</color>",
-		"tr_text": "<color=#f0df60>Touch weapons, chips, units and \"Equip Link Slot\" to change equipment. Long press an item's icon to view detailed information on it. if you are unsure what to equip, touch the round green button to be recommended a loadout.</color>"
+		"tr_text": "<color=#f0df60>Touch weapons, chips, units and \"Equip Link Slot\" to change equipment. Long press an item's icon to view detailed information on it. If you are unsure what to equip, touch the round green button to be recommended a palette.</color>"
 	},
 	{
 		"assign": "equip_guide_14",
@@ -1577,12 +1587,12 @@
 	{
 		"assign": "equip_guide_15",
 		"jp_text": "<color=#f0df60>詳細設定を押すと、「おすすめ装備」で選択する条件を細かく指定することができます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Press the \"詳細 設定\" button to specify more detailed conditions for the recommended equipment.</color>"
 	},
 	{
 		"assign": "equip_guide_02",
 		"jp_text": "<color=#f0df60>装備したいチップを選んでください。コスト内に収まる装備可能なチップは、明るく表示されます。チップを長押しすると、詳細情報を確認できます。</color>",
-		"tr_text": "<color=#f0df60>Please select the chip you'd like to equip. Chips that are within your cost will be brighter than others. If you press and hold on it, you can see more information about it.</color>"
+		"tr_text": "<color=#f0df60>Please select the chip you'd like to equip. Chips that are within your cost will be lit up. If you press and hold on a chip, you can see more information about it.</color>"
 	},
 	{
 		"assign": "equip_guide_03",
@@ -1777,6 +1787,26 @@
 	{
 		"assign": "equip_dialog_b_13",
 		"jp_text": "現在装備している武器を変更すると\n総チップコストをオーバーするチップがあります。\n\n右側に装備しているチップから解除されますが\nよろしいですか？",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_dialog_t_14",
+		"jp_text": "マイセット確認",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_dialog_b_14",
+		"jp_text": "{0}に{1}の内容を保存します。\nよろしいですか？",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_dialog_t_15",
+		"jp_text": "マイセット確認",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_dialog_b_15",
+		"jp_text": "{0}を削除します。\nよろしいですか？",
 		"tr_text": ""
 	},
 	{
@@ -1992,7 +2022,7 @@
 	{
 		"assign": "labo_guide_03",
 		"jp_text": "<color=#f0df60>強化したいチップと素材となるチップを選択して強化ボタンをタッチしてください。強化を実行すると、素材チップは消滅します。また、チップ強化内容の表示にはクラスボーナス適用前のパラメータが表示されています。</color>",
-		"tr_text": "<color=#f0df60>Touch the Material slots to select chips to be used for grind material. If you confirm the grind, the materials will disappear. In addition, the stats of the target Chip and the bonuses it will gain, are displayed below.</color>"
+		"tr_text": "<color=#f0df60>Touch the Material slots to select chips to be used for grind material. If you confirm the grind, the materials will disappear. In addition, the stats of the target Chip, and the bonuses it will gain, are displayed below.</color>"
 	},
 	{
 		"assign": "labo_dialog_t_00",
@@ -2047,7 +2077,7 @@
 	{
 		"assign": "labo_guide_04",
 		"jp_text": "<color=#f0df60>解放に必要な素材チップを表示しています。表示しているチップが全てそろい、解放したいチップのレベルが上限に達すると、解放が可能になります。素材チップはチップ倉庫からも使うことができます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Material chips required to release this chip are displayed. When you have all of the displayed chips, and the chip has been grinded to its maximum level, you can release it. Material chips can be used even if they are in storage.</color>"
 	},
 	{
 		"assign": "labo_dialog_t_04",
@@ -2577,12 +2607,12 @@
 	{
 		"assign": "menu_dialog_sega_id",
 		"jp_text": "SEGA ID  <color=#688ca7>/</coloｒ>",
-		"tr_text": ""
+		"tr_text": "SEGA ID  <color=#688ca7>/</color>"
 	},
 	{
 		"assign": "menu_dialog_es_id",
 		"jp_text": "PSO2es専用プレイヤーID  <color=#688ca7>/</coloｒ>",
-		"tr_text": "PSO2es PlayerID  <color=#688ca7>/</coloｒ>"
+		"tr_text": "PSO2es PlayerID  <color=#688ca7>/</color>"
 	},
 	{
 		"assign": "menu_dialog_secret_password",
@@ -2812,7 +2842,7 @@
 	{
 		"assign": "mag_guide_03",
 		"jp_text": "<color=#f0df60>マグの詳細です。「アイテムを与える」「デバイスを使う」を選択すると、マグを育成することができます。</color>",
-		"tr_text": "<color=#f0df60>This is the Mag you selected. You can Feed it items, or Devices to change its behaviour.</color>"
+		"tr_text": "<color=#f0df60>Now viewing detailed information on the Mag. You can Feed it items or Devices to facilitate its growth.</color>"
 	},
 	{
 		"assign": "mag_guide_04",
@@ -5047,7 +5077,7 @@
 	{
 		"assign": "quest_counter_bonus_meseta",
 		"jp_text": "メセタ×",
-		"tr_text": "Meseta×"
+		"tr_text": "Meseta ×"
 	},
 	{
 		"assign": "quest_counter_bonus_chip_drop",
@@ -8322,7 +8352,7 @@
 	{
 		"assign": "recycle_item_trade_info_pt",
 		"jp_text": "交換に必要：{0} {1}pt",
-		"tr_text": "Needs {1} {0}pts"
+		"tr_text": "Needs {1} {0} pts"
 	},
 	{
 		"assign": "recycle_item_trade_limit_info",
@@ -8897,7 +8927,7 @@
 	{
 		"assign": "wa_partisan",
 		"jp_text": "長槍",
-		"tr_text": "Partisan"
+		"tr_text": "Partizan"
 	},
 	{
 		"assign": "wa_double_saber",
@@ -8962,7 +8992,7 @@
 	{
 		"assign": "wa_jetboots",
 		"jp_text": "魔装脚",
-		"tr_text": "Jetboots"
+		"tr_text": "Jet Boots"
 	},
 	{
 		"assign": "wa_dualblade",
@@ -9123,6 +9153,11 @@
 		"assign": "menu_charainfo_label_drive",
 		"jp_text": "行動力",
 		"tr_text": "Drive"
+	},
+	{
+		"assign": "menu_charainfo_drive_over",
+		"jp_text": "<color=#ff0000{0}><%drive></color> / <%max_drive> あと <%time>",
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_charainfo_label_drive_ex",
@@ -10477,12 +10512,12 @@
 	{
 		"assign": "tu_0001_n02_b",
 		"jp_text": "<color=black>それでは、チップを装備してみましょう。\n「編成」ボタンをタッチしてください。</color>",
-		"tr_text": "<color=black>Let's equip a chip.\nPress the \"編成\" button.</color>"
+		"tr_text": "<color=black>Let's equip a chip.\nPress the \"Equipment\" button.</color>"
 	},
 	{
 		"assign": "tu_0001_n03_b",
 		"jp_text": "<color=black>続けて、「装備」をタッチしてください。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>Press the \"Equipment\" button to continue.</color>"
 	},
 	{
 		"assign": "tu_0001_n04_b",
@@ -14727,7 +14762,7 @@
 	{
 		"assign": "quest_lobby_guide_00",
 		"jp_text": "<color=#f0df60>現在の装備を表示します。「装備」ボタンから、装備の変更を行えます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Now displaying your current equipment. Press the \"Equipment\" button to change your equipment.</color>"
 	},
 	{
 		"assign": "tutorial_skip_dialog_t_00",
@@ -16310,6 +16345,11 @@
 		"tr_text": "Select Category"
 	},
 	{
+		"assign": "lookback_episode_title",
+		"jp_text": "章選択",
+		"tr_text": "Chapter Selection"
+	},
+	{
 		"assign": "lookback_maintitle_0",
 		"jp_text": "ストーリークエスト　Ｓｅａｓｏｎ１",
 		"tr_text": "Story Quest Season 1"
@@ -16318,21 +16358,6 @@
 		"assign": "lookback_maintext_0",
 		"jp_text": "ジェネやモアたちとウェポノイドを巡る\n物語を振り返ります。",
 		"tr_text": "View the story of the\nWeaponoids with Gene and More."
-	},
-	{
-		"assign": "lookback_episode_title",
-		"jp_text": "章選択",
-		"tr_text": "Chapter Selection"
-	},
-	{
-		"assign": "lookback_maintitle_1",
-		"jp_text": "ストーリークエスト　Ｓｅａｓｏｎ２",
-		"tr_text": "Story Quest Season 2"
-	},
-	{
-		"assign": "lookback_maintext_1",
-		"jp_text": "謎の少女デュナとトランスエネミーを巡る\n物語を振り返ります。",
-		"tr_text": "View the story of Duna,\nthe Trans Enemy."
 	},
 	{
 		"assign": "lookback_season1_chapter_0",
@@ -16395,6 +16420,16 @@
 		"tr_text": "Epilogue"
 	},
 	{
+		"assign": "lookback_maintitle_1",
+		"jp_text": "ストーリークエスト　Ｓｅａｓｏｎ２",
+		"tr_text": "Story Quest Season 2"
+	},
+	{
+		"assign": "lookback_maintext_1",
+		"jp_text": "謎の少女デュナとトランスエネミーを巡る\n物語を振り返ります。",
+		"tr_text": "View the story of Duna,\nthe Trans Enemy."
+	},
+	{
 		"assign": "lookback_season2_chapter_1",
 		"jp_text": "１章　　想像する悪意",
 		"tr_text": "Chapter 1\nImagining Malice"
@@ -16433,6 +16468,21 @@
 		"assign": "lookback_special_chapter_1",
 		"jp_text": "太陽と海のバケーション",
 		"tr_text": "Sea and Sunshine\nVacation"
+	},
+	{
+		"assign": "lookback_maintitle_4",
+		"jp_text": "アーレスストーリー",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_maintext_4",
+		"jp_text": "アーレスシリーズのウェポノイド達の\n物語を振り返ります。",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_arles_chapter_1",
+		"jp_text": "1章　　アーレスカイゼル",
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_menu_lookback",
@@ -18420,6 +18470,46 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "equip_ｆavorite_menu",
+		"jp_text": "マイセットメニュー",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_ｆavorite_pallet",
+		"jp_text": "パレット{0}",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_ｆavorite_myset",
+		"jp_text": "マイセット{0}",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_ｆavorite_save",
+		"jp_text": "保存",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_ｆavorite_call",
+		"jp_text": "呼出",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_ｆavorite_delete",
+		"jp_text": "削除",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_ｆavorite_weapon_unit",
+		"jp_text": "武器・ユニット",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_ｆavorite_guide_01",
+		"jp_text": "<color=#f0df60>マイセットメニューのガイド文</color>",
+		"tr_text": ""
+	},
+	{
 		"assign": "quest_linkskill_window_title",
 		"jp_text": "出発確認",
 		"tr_text": "Confirm Depart"
@@ -18966,7 +19056,7 @@
 	},
 	{
 		"assign": "towerquest_top_ranking_title",
-		"jp_text": "ランキング TOP50 　※30分ごとに更新",
+		"jp_text": "ランキング TOP50　　※30分ごとに更新",
 		"tr_text": ""
 	},
 	{
@@ -19421,7 +19511,7 @@
 	},
 	{
 		"assign": "bonus_expedition_dialog_message",
-		"jp_text": "ボーナス探索が実行可能になりました。\r\nボーナス探索では、１日の探索回数にかかわらず\r\n無料で全探索（５回探索）が実行可能です。",
+		"jp_text": "ボーナス探索が実行可能になりました。\nボーナス探索では、１日の探索回数にかかわらず\n無料で全探索（５回探索）が実行可能です。",
 		"tr_text": ""
 	},
 	{
@@ -19522,6 +19612,106 @@
 	{
 		"assign": "material_chip_over_num",
 		"jp_text": "素材チップが\n<color=red>{0}</color> 枚 オーバーしてしまいます。\n\nチップパックを拡張するか\n強化／売却をしてチップを整理してください。",
+		"tr_text": ""
+	},
+	{
+		"assign": "field_optioncommon_title",
+		"jp_text": "オプション",
+		"tr_text": ""
+	},
+	{
+		"assign": "btl_optioncommon_title",
+		"jp_text": "オプション",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_monitorset_btn",
+		"jp_text": "画面設定",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_soundset_btn",
+		"jp_text": "サウンド設定",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_btl_cameraworkset_title",
+		"jp_text": "バトルカメラ設定",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_chip_productionset_title",
+		"jp_text": "チップ発動演出",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_view_damageset_title",
+		"jp_text": "ダメージ表示",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_zoom_inset_title",
+		"jp_text": "近",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_zoom_outset_title",
+		"jp_text": "遠",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_productionset_on_btn",
+		"jp_text": "ON",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_productionset_off_btn",
+		"jp_text": "OFF",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_view_damage_normal_btn",
+		"jp_text": "通常",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_view_damage_log_btn",
+		"jp_text": "ログ",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_initialset_btn",
+		"jp_text": "初期設定に戻す",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_button_closebtn",
+		"jp_text": "閉じる",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_monitorset_title",
+		"jp_text": "画面設定",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_soundset_title",
+		"jp_text": "サウンド設定",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_bgmset_title",
+		"jp_text": "BGM",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_seset_title",
+		"jp_text": "SE",
+		"tr_text": ""
+	},
+	{
+		"assign": "optioncommon_voiceset_title",
+		"jp_text": "VOICE",
 		"tr_text": ""
 	}
 ]

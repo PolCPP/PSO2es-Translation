@@ -191,10 +191,10 @@ jobs:
             - v1-Databases-
       - run:
           name: Download JP Context
-          command: /usr/bin/wget "https://alam.srb2.org/PSO2es/patchJP.zip" --no-http-keep-alive --dns-timeout=15 --read-timeout=30 --timestamping
+          command: /usr/bin/wget "http://pso2es.10nub.es/patchJP.zip" --no-http-keep-alive --dns-timeout=15 --read-timeout=30 --timestamping
       - run:
           name: Unpack JP Context
-          command: /usr/bin/unzip -xuoq patchJP.zip
+          command: /usr/bin/unzip -xuoq patchJP.zip -d Databases
       - save_cache:
           key: v1-Databases-{{ checksum "patchJP.zip" }}
           paths:

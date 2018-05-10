@@ -1,6 +1,9 @@
 language: python
 python: pypy3
 dist: trusty
+addons:
+    apt:
+      update: true
 
 script:
   - ./_py/checkjson.py && ./_sh/coverage.sh

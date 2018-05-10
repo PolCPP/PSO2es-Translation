@@ -20268,21 +20268,21 @@
 		"assign": "1253916849",
 		"jp_text": "絶魔物奏印 Lv.1",
 		"tr_text": "Demonic Ward Lv.1",
-		"jp_explain": "魔物種から受ける\nダメージが、プレイヤー\nペット共に5％減少。",
+		"jp_explain": "魔物種から受ける\nダメージが、プレイヤー\nペット共に15％減少。",
 		"tr_explain": "Damage done to you and your\npets by Demons is reduced by 5%."
 	},
 	{
 		"assign": "1253916862",
 		"jp_text": "絶魔物奏印 Lv.2",
 		"tr_text": "Demonic Ward Lv.2",
-		"jp_explain": "魔物種から受ける\nダメージが、プレイヤー\nペット共に7％減少。",
+		"jp_explain": "魔物種から受ける\nダメージが、プレイヤー\nペット共に17％減少。",
 		"tr_explain": "Damage done to you and your\npets by Demons is reduced by 7%."
 	},
 	{
 		"assign": "1253916863",
 		"jp_text": "絶魔物奏印 Lv.3",
 		"tr_text": "Demonic Ward Lv.3",
-		"jp_explain": "魔物種から受ける\nダメージが、プレイヤー\nペット共に10％減少。",
+		"jp_explain": "魔物種から受ける\nダメージが、プレイヤー\nペット共に20％減少。",
 		"tr_explain": "Damage done to you and your\npets by Demons is reduced by 10%."
 	},
 	{
@@ -21347,6 +21347,356 @@
 		"jp_text": "閃光の自在槍 Lv.5",
 		"tr_text": "",
 		"jp_explain": "威力が4％上昇し\nジャストガード成功時\n一定時間ギア消費なし。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2636860667",
+		"jp_text": "崩城討邪・攻戦 Lv.1",
+		"tr_text": "",
+		"jp_explain": "「崩城に甦る黒衣の邪竜」\nにて、威力が15％上昇し\n被ダメージを半減する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2636860666",
+		"jp_text": "崩城討邪・攻戦 Lv.2",
+		"tr_text": "",
+		"jp_explain": "「崩城に甦る黒衣の邪竜」\nにて、威力が17％上昇し\n被ダメージを半減する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2636860665",
+		"jp_text": "崩城討邪・攻戦 Lv.3",
+		"tr_text": "",
+		"jp_explain": "「崩城に甦る黒衣の邪竜」\nにて、威力が20％上昇し\n被ダメージを半減する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2636860664",
+		"jp_text": "崩城討邪・攻戦 Lv.4",
+		"tr_text": "",
+		"jp_explain": "「崩城に甦る黒衣の邪竜」\nにて、威力が22％上昇し\n被ダメージを半減する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2636860671",
+		"jp_text": "崩城討邪・攻戦 Lv.5",
+		"tr_text": "",
+		"jp_explain": "「崩城に甦る黒衣の邪竜」\nにて、威力が25％上昇し\n被ダメージを半減する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2636817768",
+		"jp_text": "崩城討邪・戦律 Lv.1",
+		"tr_text": "",
+		"jp_explain": "「崩城に甦る黒衣の邪竜」\nにて、威力が3％上昇し\n被ダメージを半減する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2636817769",
+		"jp_text": "崩城討邪・戦律 Lv.2",
+		"tr_text": "",
+		"jp_explain": "「崩城に甦る黒衣の邪竜」\nにて、威力が4％上昇し\n被ダメージを半減する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2636817770",
+		"jp_text": "崩城討邪・戦律 Lv.3",
+		"tr_text": "",
+		"jp_explain": "「崩城に甦る黒衣の邪竜」\nにて、威力が5％上昇し\n被ダメージを半減する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2636817771",
+		"jp_text": "崩城討邪・戦律 Lv.4",
+		"tr_text": "",
+		"jp_explain": "「崩城に甦る黒衣の邪竜」\nにて、威力が6％上昇し\n被ダメージを半減する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2636817772",
+		"jp_text": "崩城討邪・戦律 Lv.5",
+		"tr_text": "",
+		"jp_explain": "「崩城に甦る黒衣の邪竜」\nにて、威力が７％上昇し\n被ダメージを半減する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2634047234",
+		"jp_text": "聖騎士の心 Lv.1",
+		"tr_text": "",
+		"jp_explain": "威力10％上昇。一度だけ\n致命傷を受けても耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2634047245",
+		"jp_text": "聖騎士の心 Lv.2",
+		"tr_text": "",
+		"jp_explain": "威力11％上昇。一度だけ\n致命傷を受けても耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2634047244",
+		"jp_text": "聖騎士の心 Lv.3",
+		"tr_text": "",
+		"jp_explain": "威力12％上昇。一度だけ\n致命傷を受けても耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2634047247",
+		"jp_text": "聖騎士の心 Lv.4",
+		"tr_text": "",
+		"jp_explain": "威力12％上昇。一度だけ\n致命傷を受けても耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2634047246",
+		"jp_text": "聖騎士の心 Lv.5",
+		"tr_text": "",
+		"jp_explain": "威力12％上昇。一度だけ\n致命傷を受けても耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1119103139",
+		"jp_text": "騎士の心 Lv.1",
+		"tr_text": "",
+		"jp_explain": "威力8％上昇。一度だけ\n致命傷を受けても耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1119103136",
+		"jp_text": "騎士の心 Lv.2",
+		"tr_text": "",
+		"jp_explain": "威力9％上昇。一度だけ\n致命傷を受けても耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1119103137",
+		"jp_text": "騎士の心 Lv.3",
+		"tr_text": "",
+		"jp_explain": "威力10％上昇。一度だけ\n致命傷を受けても耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1119103166",
+		"jp_text": "騎士の心 Lv.4",
+		"tr_text": "",
+		"jp_explain": "威力10％上昇。一度だけ\n致命傷を受けても耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1119103167",
+		"jp_text": "騎士の心 Lv.5",
+		"tr_text": "",
+		"jp_explain": "威力10％上昇。一度だけ\n致命傷を受けても耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2559329896",
+		"jp_text": "聖騎士の旋律 Lv.1",
+		"tr_text": "",
+		"jp_explain": "威力1％上昇。一度だけ\n致命傷を受けても耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2559329897",
+		"jp_text": "聖騎士の旋律 Lv.2",
+		"tr_text": "",
+		"jp_explain": "威力1％上昇。一度だけ\n致命傷を受けても耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2559329898",
+		"jp_text": "聖騎士の旋律 Lv.3",
+		"tr_text": "",
+		"jp_explain": "威力2％上昇。一度だけ\n致命傷を受けても耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2559329899",
+		"jp_text": "聖騎士の旋律 Lv.4",
+		"tr_text": "",
+		"jp_explain": "威力2％上昇。一度だけ\n致命傷を受けても耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2559329900",
+		"jp_text": "聖騎士の旋律 Lv.5",
+		"tr_text": "",
+		"jp_explain": "威力2％上昇。一度だけ\n致命傷を受けても耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "448109494",
+		"jp_text": "騎士の旋律 Lv.1",
+		"tr_text": "",
+		"jp_explain": "致命傷を受けても\n一度だけ耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "448109495",
+		"jp_text": "騎士の旋律 Lv.2",
+		"tr_text": "",
+		"jp_explain": "致命傷を受けても\n一度だけ耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "448109496",
+		"jp_text": "騎士の旋律 Lv.3",
+		"tr_text": "",
+		"jp_explain": "致命傷を受けても\n一度だけ耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "448109497",
+		"jp_text": "騎士の旋律 Lv.4",
+		"tr_text": "",
+		"jp_explain": "致命傷を受けても\n一度だけ耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "448109498",
+		"jp_text": "騎士の旋律 Lv.5",
+		"tr_text": "",
+		"jp_explain": "致命傷を受けても\n一度だけ耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3909593314",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "仮テキスト",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3909593315",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "仮テキスト",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3909593316",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "仮テキスト",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3909593317",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "仮テキスト",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3909593318",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "仮テキスト",
+		"tr_explain": ""
+	},
+	{
+		"assign": "592106740",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "仮テキスト",
+		"tr_explain": ""
+	},
+	{
+		"assign": "592106741",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "仮テキスト",
+		"tr_explain": ""
+	},
+	{
+		"assign": "592106746",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "仮テキスト",
+		"tr_explain": ""
+	},
+	{
+		"assign": "592106747",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "仮テキスト",
+		"tr_explain": ""
+	},
+	{
+		"assign": "592106744",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "仮テキスト",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1225357242",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "仮テキスト",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1225357241",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "仮テキスト",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1225357240",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "仮テキスト",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1225357239",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "仮テキスト",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1225357238",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "仮テキスト",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3666740783",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "仮テキスト",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3666740782",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "仮テキスト",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3666740945",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "仮テキスト",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3666740944",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "仮テキスト",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3666740947",
+		"jp_text": "名称未設定潜在能力",
+		"tr_text": "",
+		"jp_explain": "仮テキスト",
 		"tr_explain": ""
 	},
 	{
