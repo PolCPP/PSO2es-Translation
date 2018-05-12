@@ -928,7 +928,7 @@
 		"jp_text": "-",
 		"tr_text": "",
 		"jp_explain": "与ダメージが2％上昇。",
-		"tr_explain": ""
+		"tr_explain": "Boosts damage by 2%."
 	},
 	{
 		"assign": "133",
@@ -940,9 +940,9 @@
 	{
 		"assign": "134",
 		"jp_text": "Ｓ２：剛撃の志",
-		"tr_text": "",
+		"tr_text": "S2:Offensive Intent",
 		"jp_explain": "与ダメージが2％上昇。",
-		"tr_explain": ""
+		"tr_explain": "Boosts damage by 2%."
 	},
 	{
 		"assign": "135",
@@ -968,9 +968,9 @@
 	{
 		"assign": "138",
 		"jp_text": "Ｓ３：光子縮減",
-		"tr_text": "",
+		"tr_text": "S3:Photon Reduction",
 		"jp_explain": "ＰＰ消費量を7％軽減。",
-		"tr_explain": ""
+		"tr_explain": "PP consumption is\nreduced by 7%."
 	},
 	{
 		"assign": "139",
@@ -1031,16 +1031,16 @@
 	{
 		"assign": "147",
 		"jp_text": "Ｓ３：妙技の巧",
-		"tr_text": "",
+		"tr_text": "S3:Wise Skill",
 		"jp_explain": "クリティカル率が\n12％上昇する。",
-		"tr_explain": ""
+		"tr_explain": "Increases critical\nrate by 12%."
 	},
 	{
 		"assign": "148",
 		"jp_text": "Ｓ１：輝剰の撃",
-		"tr_text": "",
+		"tr_text": "S1:Radiant Strike",
 		"jp_explain": "攻撃時のＰＰ回復量が\n17％上昇する。",
-		"tr_explain": ""
+		"tr_explain": "Increases attack PP<br>recovery by 17%."
 	},
 	{
 		"assign": "149",
@@ -1059,9 +1059,9 @@
 	{
 		"assign": "151",
 		"jp_text": "Ｓ１：守護の備",
-		"tr_text": "",
+		"tr_text": "S1:Guardian Armor",
 		"jp_explain": "被ダメージを7％軽減。",
-		"tr_explain": ""
+		"tr_explain": "Reduces damage\ntaken by 7%."
 	},
 	{
 		"assign": "152",
@@ -1073,23 +1073,23 @@
 	{
 		"assign": "153",
 		"jp_text": "Ｓ３：守護の備",
-		"tr_text": "",
+		"tr_text": "S2:Guardian Armor",
 		"jp_explain": "被ダメージを7％軽減。",
-		"tr_explain": ""
+		"tr_explain": "Reduces damage\ntaken by 7%."
 	},
 	{
 		"assign": "154",
 		"jp_text": "Ｓ１：妙撃の志",
-		"tr_text": "",
+		"tr_text": "S1:Skilled Strike",
 		"jp_explain": "クリティカル時の\n与ダメージが3％上昇。",
-		"tr_explain": ""
+		"tr_explain": "Raises critical hit\ndamage by 3%."
 	},
 	{
 		"assign": "155",
 		"jp_text": "Ｓ２：妙撃の志",
-		"tr_text": "",
+		"tr_text": "S2:Skilled Strike",
 		"jp_explain": "クリティカル時の\n与ダメージが3％上昇。",
-		"tr_explain": ""
+		"tr_explain": "Raises critical hit\ndamage by 3%."
 	},
 	{
 		"assign": "156",
@@ -1150,9 +1150,9 @@
 	{
 		"assign": "164",
 		"jp_text": "Ｓ２：輝勢の恵",
-		"tr_text": "",
+		"tr_text": "S2:Radiating Grace",
 		"jp_explain": "ＰＰの自然回復速度が\n17％上昇する。",
-		"tr_explain": ""
+		"tr_explain": "PP regeneration\nincreases by 17%."
 	},
 	{
 		"assign": "165",
@@ -1164,9 +1164,9 @@
 	{
 		"assign": "166",
 		"jp_text": "Ｓ１：時流活与",
-		"tr_text": "",
+		"tr_text": "S1:Flowing Exhilaration",
 		"jp_explain": "一定時間ごとに\nＨＰを40％回復する。",
-		"tr_explain": ""
+		"tr_explain": "Recover HP by 40% at\nregular intervals."
 	},
 	{
 		"assign": "167",
@@ -1346,9 +1346,9 @@
 	{
 		"assign": "192",
 		"jp_text": "Ｓ１：気輝応変",
-		"tr_text": "",
+		"tr_text": "Spirited Response",
 		"jp_explain": "納刀、抜刀を行う事で\nＰＰ回復速度が変化。",
-		"tr_explain": ""
+		"tr_explain": "Increases PP regeneration\nrate while sheathed."
 	},
 	{
 		"assign": "193",
@@ -1374,9 +1374,9 @@
 	{
 		"assign": "196",
 		"jp_text": "Ｓ２：滅域輝与",
-		"tr_text": "",
+		"tr_text": "S2:Brilliant Ruin",
 		"jp_explain": "一定の範囲内で\nエネミーが死亡した時\nＰＰが回復する。",
-		"tr_explain": ""
+		"tr_explain": "When an enemy is defeated within\na certain range, recover PP."
 	},
 	{
 		"assign": "197",
