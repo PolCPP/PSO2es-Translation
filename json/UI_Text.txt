@@ -18467,22 +18467,22 @@
 	{
 		"assign": "equip_guide_17",
 		"jp_text": "<color=#f0df60>装備したいリンクチップを選んでください。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Please select a Link Chip to equip.</color>"
 	},
 	{
 		"assign": "equip_ｆavorite_menu",
 		"jp_text": "マイセットメニュー",
-		"tr_text": ""
+		"tr_text": "My Set Menu"
 	},
 	{
 		"assign": "equip_ｆavorite_pallet",
 		"jp_text": "パレット{0}",
-		"tr_text": ""
+		"tr_text": "Palette {0}"
 	},
 	{
 		"assign": "equip_ｆavorite_myset",
 		"jp_text": "マイセット{0}",
-		"tr_text": ""
+		"tr_text": "My Set {0}"
 	},
 	{
 		"assign": "equip_ｆavorite_save",
@@ -18767,22 +18767,22 @@
 	{
 		"assign": "PanelBonus_AttackUp",
 		"jp_text": "ボーナス　攻撃力25％UP!",
-		"tr_text": ""
+		"tr_text": "Bonus: All ATK +25%!"
 	},
 	{
 		"assign": "PanelBonus_DefenseUp",
 		"jp_text": "ボーナス　防御力25％UP!",
-		"tr_text": ""
+		"tr_text": "Bonus: All DEF +25%!"
 	},
 	{
 		"assign": "PanelBonus_HPMaxUp",
 		"jp_text": "ボーナス　HP上限15％UP!",
-		"tr_text": ""
+		"tr_text": "Bonus: Max HP +15%!"
 	},
 	{
 		"assign": "PanelBonus_CPMaxUp",
 		"jp_text": "ボーナス　CP上限15％UP!",
-		"tr_text": ""
+		"tr_text": "Bonus: Max CP +15%!"
 	},
 	{
 		"assign": "PanelBonus_AllPanelOpen",
@@ -18802,12 +18802,12 @@
 	{
 		"assign": "PanelBonus_CPRecoveryUP",
 		"jp_text": "ボーナス　CP回復速度15％UP!",
-		"tr_text": ""
+		"tr_text": "Bonus: CP recovery rate +15%!"
 	},
 	{
 		"assign": "PanelBonus_AllAttributeUp",
 		"jp_text": "ボーナス　全属性15％UP!",
-		"tr_text": ""
+		"tr_text": "Bonus: All Elements +15%!"
 	},
 	{
 		"assign": "PanelTeleport_Lock",
@@ -19582,7 +19582,7 @@
 	{
 		"assign": "stack_chip_grind_window_title",
 		"jp_text": "素材数確認",
-		"tr_text": ""
+		"tr_text": "Confirm Materials"
 	},
 	{
 		"assign": "stack_chip_grind_window_body",
