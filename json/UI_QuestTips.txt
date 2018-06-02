@@ -32,7 +32,7 @@
 	{
 		"assign": "0006",
 		"jp_text": "<color=#f0df60>＜属性値について＞</color>\nバトル時はターゲット中のエネミーに対して\n最も有効な属性が自動で選択されます。\n属性値が高いほど、大ダメージを与えられますよ。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><About Element Values></color>\nWhen you attack, you automatically select\nthe most effective element to use against\nthe enemy you're targeting. The higher its\nvalue, the more damage you can deal."
 	},
 	{
 		"assign": "0007",
@@ -577,7 +577,7 @@
 	{
 		"assign": "0115",
 		"jp_text": "<color=#f0df60>＜緊急クエストへの再出撃＞</color>\n緊急クエストは、一度で目標のエネミーを倒せなくても\n前回のバトルで与えたダメージはそのままで\nクエストに再挑戦できます。\n何度もチャレンジして、目標の撃破をめざしましょう！",
-		"tr_text": "<color=#f0df60><Emergency Quests></color>\nDuring an Emergency Quest, you can rechallenge\nthe same quest until the enemy in\nquestion is defeated or you have ran out of OP.\nLet's do our best!"
+		"tr_text": "<color=#f0df60><Emergency Quests></color>\nDuring an Emergency Quest, you can rechallenge\nthe same quest until the enemy in\nquestion is defeated or you have run out of OP.\nLet's do our best!"
 	},
 	{
 		"assign": "0116",
