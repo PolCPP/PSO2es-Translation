@@ -222,11 +222,11 @@ jobs:
           name: Run ESBreaker
           command: /usr/bin/mono ESBreakerCLI.exe | /usr/bin/tee /tmp/PSO2es/ESBreaker.txt
       - run:
-          name: Leftover changes
-          command: /usr/bin/git diff | /usr/bin/tee /tmp/PSO2es/ESBreaker.diff
-      - run:
           name: Packing Patch
           command: cd output/ && /usr/bin/zip -r /tmp/patchBeta.zip .
+      - run:
+          name: Leftover changes
+          command: /usr/bin/git diff --exit-code | /usr/bin/tee /tmp/PSO2es/ESBreaker.diff
       - store_artifacts:
           path: /tmp/patchBeta.zip
           destination: patchBeta.zip
