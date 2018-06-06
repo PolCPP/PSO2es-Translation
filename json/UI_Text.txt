@@ -471,8 +471,13 @@
 	},
 	{
 		"assign": "acshop_dialog_b_32",
-		"jp_text": "OPが不足しているためクエストに出発できません。\n<%item_name>を消費してOPを回復しますか？\n(<%item_name>を所持していない場合は、\n<%AC>を消費してOPを回復できます)\n\n出発に必要なOP：<%consume_exdrive>\n現在のOP：<%current_exdrive>\n\n必要<%item_name>：<%consume_oprecovery_pass>個\n所持<%item_name>：<%current_oprecovery_pass>",
-		"tr_text": "You lack the required OP to start the quest.\nWould you like to recover OP using <%item_name>?\n(If you don't own <%item_name>, you can recover with <%AC>)\n\nRequired OP: <%consume_exdrive>\nCurrent: <%current_exdrive>\n\nNeeded <%item_name>: <%consume_oprecovery_pass>\nOwned <%item_name>: <%current_oprecovery_pass>"
+		"jp_text": "OPが不足しているためクエストに出発できません。\n<%item_name>を消費してOPを回復しますか？\n\n\n\n出発に必要なOP：<%consume_exdrive>\n現在のOP：<%current_exdrive>\n\n必要<%item_name>：<%consume_oprecovery_pass>個\n所持<%item_name>：<%current_oprecovery_pass>",
+		"tr_text": ""
+	},
+	{
+		"assign": "acshop_dialog_b_32_2",
+		"jp_text": "OPが不足しているためクエストに出発できません。\n<%AC>を消費してOP回復薬を使用しますか？\n（OP回復薬を所持していない場合は、\n　<%AC>を消費して、OPを全回復させることができます）\n\n出発に必要なOP：<%consume_exdrive>\n現在のOP：<%current_exdrive>\n\n必要<%item_name>：<%consume_oprecovery_pass>個\n所持<%item_name>：<%current_oprecovery_pass>",
+		"tr_text": ""
 	},
 	{
 		"assign": "acshop_dialog_t_33",
@@ -481,8 +486,8 @@
 	},
 	{
 		"assign": "acshop_dialog_b_33",
-		"jp_text": "<%item_name>を所持していないため\n<%AC>で回復します。よろしいですか？\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "Because you don't own <%item_name>,\nwe'll recover with <%AC>, is that ok?\n\nNeeded <%AC>: <%consume_AC>\nOwned <%AC>: <%current_AC>"
+		"jp_text": "<%item_name>を所持していません。\n<%AC>を消費して、OPを回復しますか？\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
+		"tr_text": ""
 	},
 	{
 		"assign": "acshop_dialog_t_34",
@@ -491,8 +496,8 @@
 	},
 	{
 		"assign": "acshop_dialog_b_34",
-		"jp_text": "<%item_name>を消費してOPを回復しますか？\n(<%item_name>を所持していない場合は、\n<%AC>を消費してOPを回復できます)\n\n必要<%item_name>：<%consume_oprecovery_pass>個\n所持<%item_name>：<%current_oprecovery_pass>",
-		"tr_text": "Are you sure you want to recover OP using <%item_name>?\nIf you're not in possesion of <%item_name>, you may buy\n using AC to recovery OP\n\nNeeded <%item_name>: x<%consume_oprecovery_pass>\nOwned <%item_name>：<%current_oprecovery_pass>"
+		"jp_text": "<%item_name>を消費してOPを回復しますか？\n(<%item_name>を所持していない場合は、\n　<%AC>を消費して、OPを全回復させることができます)\n\n必要<%item_name>：<%consume_oprecovery_pass>個\n所持<%item_name>：<%current_oprecovery_pass>",
+		"tr_text": ""
 	},
 	{
 		"assign": "acshop_dialog_t_35",
@@ -696,12 +701,12 @@
 	},
 	{
 		"assign": "current_dp_per_max_view",
-		"jp_text": "<color=#ff0000{0}>{1}</color>/{2}",
+		"jp_text": "<color=#ffa500{0}>{1}</color>/{2}",
 		"tr_text": ""
 	},
 	{
 		"assign": "current_dp_per_max_view_ex",
-		"jp_text": "<color=#ff0000{0}>{1}</color>/{2}",
+		"jp_text": "<color=#ffa500{0}>{1}</color>/{2}",
 		"tr_text": ""
 	},
 	{
@@ -1796,7 +1801,7 @@
 	},
 	{
 		"assign": "equip_dialog_b_14",
-		"jp_text": "{0}に{1}の内容を保存します。\nよろしいですか？",
+		"jp_text": "{0}に\n{1}の\n内容を保存します。よろしいですか？",
 		"tr_text": ""
 	},
 	{
@@ -9156,7 +9161,7 @@
 	},
 	{
 		"assign": "menu_charainfo_drive_over",
-		"jp_text": "<color=#ff0000{0}><%drive></color> / <%max_drive> あと <%time>",
+		"jp_text": "<color=#ffa500{0}><%drive></color> / <%max_drive> あと <%time>",
 		"tr_text": ""
 	},
 	{
@@ -16270,6 +16275,16 @@
 		"tr_text": "Failed to grab game data.\nReturning to main menu."
 	},
 	{
+		"assign": "sidestory_newstory_skip_title",
+		"jp_text": "NEW STORY演出スキップ",
+		"tr_text": ""
+	},
+	{
+		"assign": "sidestory_newstory_skip_body",
+		"jp_text": "新規外伝のNEW STORY演出を\nすべてスキップしますか?\n\n<color=red>※スキップすると二度と見られなくなります。</color>",
+		"tr_text": ""
+	},
+	{
 		"assign": "sidestory_voice_play_locked_info0",
 		"jp_text": "対象のキャラクターのチップを入手して\n絆レベルをLv.<%parameter>にすると再生できます。\n\n",
 		"tr_text": ""
@@ -16455,12 +16470,12 @@
 		"tr_text": ""
 	},
 	{
-		"assign": "lookback_maintitle_2",
+		"assign": "lookback_maintitle_3",
 		"jp_text": "スペシャルストーリー",
 		"tr_text": "Special Story"
 	},
 	{
-		"assign": "lookback_maintext_2",
+		"assign": "lookback_maintext_3",
 		"jp_text": "期間限定クエストなどの特別な物語を\n振り返ります。",
 		"tr_text": "View special stories from\ntime limited quests."
 	},
@@ -16471,7 +16486,7 @@
 	},
 	{
 		"assign": "lookback_maintitle_4",
-		"jp_text": "アーレスストーリー",
+		"jp_text": "ストーリー　オブ　アーレス",
 		"tr_text": ""
 	},
 	{
@@ -16481,7 +16496,7 @@
 	},
 	{
 		"assign": "lookback_arles_chapter_1",
-		"jp_text": "1章　　アーレスカイゼル",
+		"jp_text": "第１章　女神降臨",
 		"tr_text": ""
 	},
 	{
@@ -18470,43 +18485,48 @@
 		"tr_text": "<color=#f0df60>Please select a Link Chip to equip.</color>"
 	},
 	{
-		"assign": "equip_ｆavorite_menu",
+		"assign": "equip_favorite_menu",
 		"jp_text": "マイセットメニュー",
 		"tr_text": "My Set Menu"
 	},
 	{
-		"assign": "equip_ｆavorite_pallet",
+		"assign": "equip_favorite_pallet",
 		"jp_text": "パレット{0}",
 		"tr_text": "Palette {0}"
 	},
 	{
-		"assign": "equip_ｆavorite_myset",
+		"assign": "equip_favorite_myset",
 		"jp_text": "マイセット{0}",
 		"tr_text": "My Set {0}"
 	},
 	{
-		"assign": "equip_ｆavorite_save",
+		"assign": "equip_favorite_save",
 		"jp_text": "保存",
 		"tr_text": ""
 	},
 	{
-		"assign": "equip_ｆavorite_call",
+		"assign": "equip_favorite_call",
 		"jp_text": "呼出",
 		"tr_text": ""
 	},
 	{
-		"assign": "equip_ｆavorite_delete",
+		"assign": "equip_favorite_delete",
 		"jp_text": "削除",
 		"tr_text": ""
 	},
 	{
-		"assign": "equip_ｆavorite_weapon_unit",
+		"assign": "equip_favorite_weapon_unit",
 		"jp_text": "武器・ユニット",
 		"tr_text": ""
 	},
 	{
-		"assign": "equip_ｆavorite_guide_01",
-		"jp_text": "<color=#f0df60>マイセットメニューのガイド文</color>",
+		"assign": "equip_favorite_guide_01",
+		"jp_text": "<color=#f0df60>パレットのセットを、「マイセット」として保存し、呼び出すことができます。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_favorite_guide_02",
+		"jp_text": "<color=#f0df60>チップ・武器・ユニットがアイテムパック・チップパックから移動されました。</color>",
 		"tr_text": ""
 	},
 	{
@@ -18736,8 +18756,8 @@
 	},
 	{
 		"assign": "EternalTower_block_tolerance3",
-		"jp_text": "<color=red>▼</color>状態異常耐性",
-		"tr_text": "<color=red>▼</color>Status Resist"
+		"jp_text": "<color=#00ffff>▲</color>弱点武器",
+		"tr_text": ""
 	},
 	{
 		"assign": "EternalTower_block_playerinfo",
@@ -18763,6 +18783,41 @@
 		"assign": "EternalTower_bonus_timeinfo",
 		"jp_text": "<color=#ffff00>■クリアタイム（ゴールド・シルバー）</color>",
 		"tr_text": "<color=#ffff00>■Clear Time (Gold/Silver)</color>"
+	},
+	{
+		"assign": "EternalTop_Block_reward_title",
+		"jp_text": "ブロック報酬",
+		"tr_text": "Block Results"
+	},
+	{
+		"assign": "EternalTop_Clear_reward_title",
+		"jp_text": "クリア報酬",
+		"tr_text": "Clear Reward"
+	},
+	{
+		"assign": "EternalTop_Clear_name",
+		"jp_text": "クリア",
+		"tr_text": ""
+	},
+	{
+		"assign": "EternalTop_SilverTime_name",
+		"jp_text": "シルバータイム",
+		"tr_text": ""
+	},
+	{
+		"assign": "EternalTop_GoldTime_name",
+		"jp_text": "ゴールドタイム",
+		"tr_text": ""
+	},
+	{
+		"assign": "EternalTop_RareDrop_reward_title",
+		"jp_text": "目玉ドロップ報酬",
+		"tr_text": ""
+	},
+	{
+		"assign": "Eternal_result_drop_limit",
+		"jp_text": "<color=yellow>ドロップ報酬数アップ！</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "PanelBonus_AttackUp",
@@ -18827,7 +18882,7 @@
 	{
 		"assign": "blockresult_block_reward",
 		"jp_text": "ブロック報酬",
-		"tr_text": "Block Results"
+		"tr_text": ""
 	},
 	{
 		"assign": "blockresult_clear_time",
@@ -18907,7 +18962,7 @@
 	{
 		"assign": "blockresult_all_clear_time_reward_1",
 		"jp_text": "クリア報酬",
-		"tr_text": "Clear Reward"
+		"tr_text": ""
 	},
 	{
 		"assign": "blockresult_all_gold_clear_time_limit",
@@ -19215,6 +19270,11 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "towerquest_ranking_reward_fixed_rank",
+		"jp_text": "<size=35><%title></size> <size=50><%rank></size>位",
+		"tr_text": ""
+	},
+	{
 		"assign": "towerquest_ranking_reward_rank_unit",
 		"jp_text": "位",
 		"tr_text": ""
@@ -19226,7 +19286,7 @@
 	},
 	{
 		"assign": "towerquest_ranking_reward_send_to_mail",
-		"jp_text": "エターナルタワーのランキング報酬を\n送りました。\n受け取りボックスをご確認ください。",
+		"jp_text": "エターナルタワーのランキング報酬を送りました。\n受け取りボックスをご確認ください。",
 		"tr_text": ""
 	},
 	{
@@ -19557,27 +19617,27 @@
 	{
 		"assign": "stack_chip_window_label",
 		"jp_text": "個数",
-		"tr_text": ""
+		"tr_text": "Num."
 	},
 	{
 		"assign": "stack_chip_window_decision",
 		"jp_text": "決定",
-		"tr_text": ""
+		"tr_text": "Accept"
 	},
 	{
 		"assign": "stack_chip_window_return",
 		"jp_text": "戻る",
-		"tr_text": ""
+		"tr_text": "Back"
 	},
 	{
 		"assign": "stack_chip_window_addition",
 		"jp_text": "+",
-		"tr_text": ""
+		"tr_text": "＋"
 	},
 	{
 		"assign": "stack_chip_window_subtraction",
 		"jp_text": "-",
-		"tr_text": ""
+		"tr_text": "−"
 	},
 	{
 		"assign": "stack_chip_grind_window_title",
@@ -19617,101 +19677,146 @@
 	{
 		"assign": "field_optioncommon_title",
 		"jp_text": "オプション",
-		"tr_text": ""
+		"tr_text": "Option"
 	},
 	{
 		"assign": "btl_optioncommon_title",
 		"jp_text": "オプション",
-		"tr_text": ""
+		"tr_text": "Option"
 	},
 	{
 		"assign": "optioncommon_monitorset_btn",
 		"jp_text": "画面設定",
-		"tr_text": ""
+		"tr_text": "Screen"
 	},
 	{
 		"assign": "optioncommon_soundset_btn",
 		"jp_text": "サウンド設定",
-		"tr_text": ""
+		"tr_text": "Sound"
 	},
 	{
 		"assign": "optioncommon_btl_cameraworkset_title",
 		"jp_text": "バトルカメラ設定",
-		"tr_text": ""
+		"tr_text": "Battle Camera"
 	},
 	{
 		"assign": "optioncommon_chip_productionset_title",
 		"jp_text": "チップ発動演出",
-		"tr_text": ""
+		"tr_text": "Chip Activation"
 	},
 	{
 		"assign": "optioncommon_view_damageset_title",
 		"jp_text": "ダメージ表示",
-		"tr_text": ""
+		"tr_text": "Damage Display"
 	},
 	{
 		"assign": "optioncommon_zoom_inset_title",
 		"jp_text": "近",
-		"tr_text": ""
+		"tr_text": "＋"
 	},
 	{
 		"assign": "optioncommon_zoom_outset_title",
 		"jp_text": "遠",
-		"tr_text": ""
+		"tr_text": "−"
 	},
 	{
 		"assign": "optioncommon_productionset_on_btn",
 		"jp_text": "ON",
-		"tr_text": ""
+		"tr_text": "ON"
 	},
 	{
 		"assign": "optioncommon_productionset_off_btn",
 		"jp_text": "OFF",
-		"tr_text": ""
+		"tr_text": "OFF"
 	},
 	{
 		"assign": "optioncommon_view_damage_normal_btn",
 		"jp_text": "通常",
-		"tr_text": ""
+		"tr_text": "Normal"
 	},
 	{
 		"assign": "optioncommon_view_damage_log_btn",
 		"jp_text": "ログ",
-		"tr_text": ""
+		"tr_text": "Log"
 	},
 	{
 		"assign": "optioncommon_initialset_btn",
 		"jp_text": "初期設定に戻す",
-		"tr_text": ""
+		"tr_text": "Defaults"
 	},
 	{
 		"assign": "optioncommon_button_closebtn",
 		"jp_text": "閉じる",
-		"tr_text": ""
+		"tr_text": "Close"
 	},
 	{
 		"assign": "optioncommon_monitorset_title",
 		"jp_text": "画面設定",
-		"tr_text": ""
+		"tr_text": "Screen"
 	},
 	{
 		"assign": "optioncommon_soundset_title",
 		"jp_text": "サウンド設定",
-		"tr_text": ""
+		"tr_text": "Sound"
 	},
 	{
 		"assign": "optioncommon_bgmset_title",
 		"jp_text": "BGM",
-		"tr_text": ""
+		"tr_text": "BGM"
 	},
 	{
 		"assign": "optioncommon_seset_title",
 		"jp_text": "SE",
-		"tr_text": ""
+		"tr_text": "SE"
 	},
 	{
 		"assign": "optioncommon_voiceset_title",
 		"jp_text": "VOICE",
+		"tr_text": "VOICE"
+	},
+	{
+		"assign": "quest_counter_header_series",
+		"jp_text": "シリーズクエスト",
+		"tr_text": "Series Quest"
+	},
+	{
+		"assign": "questcounter_guide_series",
+		"jp_text": "<color=#f0df60>ウェポノイドたちのさまざまなドラマを描くシリーズクエストです。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_counter_window_seriesselect",
+		"jp_text": "シリーズクエスト選択",
+		"tr_text": "Quest Selection"
+	},
+	{
+		"assign": "quest_counter_quest_item_detail",
+		"jp_text": "詳細",
+		"tr_text": "Details"
+	},
+	{
+		"assign": "quest_counter_quest_out_of_time_dialog_title",
+		"jp_text": "クエスト　次回配信",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_counter_quest_out_of_time_dialog_message",
+		"jp_text": "このクエストは\n次回の配信までお待ちください。",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_counter_quest_norelease_dialog_title",
+		"jp_text": "クエスト　解放条件",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_counter_quest_norelease_dialog_message",
+		"jp_text": "<%areaname>\n をクリアすると解放されます。",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_counter_quest_name_unopened",
+		"jp_text": "？？？",
 		"tr_text": ""
 	}
 ]
