@@ -487,7 +487,7 @@
 	{
 		"assign": "acshop_dialog_b_33",
 		"jp_text": "<%item_name>を所持していません。\n<%AC>を消費して、OPを回復しますか？\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "You do not possess any <%item_name>.\nWould you like to spend <%AC> to recover OP?\n\n<%AC> required: <%consume_AC>\Current <%AC>: <%current_AC>"
+		"tr_text": "You do not possess any <%item_name>.\nWould you like to spend <%AC> to recover OP?\n\n<%AC> required: <%consume_AC>\nCurrent <%AC>: <%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_34",
