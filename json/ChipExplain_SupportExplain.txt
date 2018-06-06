@@ -757,10 +757,10 @@
 	},
 	{
 		"assign": "31039",
-		"jp_explainShort": "龍族にダメージ大増加＋被ダメージ軽減",
-		"tr_explainShort": "Dam. boost & dam. reduced vs Dragonkin",
-		"jp_explainLong": "① 龍族に与えるダメージを大きく増加する。\n② 龍族から受けるダメージを軽減する。\n[発動条件]龍族に攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Greatly boosts damage against Dragonkin.\n    <color=yellow>[B-Frame]</color>\n② Reduces damage taken from Dragonkin.\n[Activation Trigger] Landing attacks on Dragonkin\n[Effect Duration] Short"
+		"jp_explainShort": "龍族にダメージ劇的増加＋被ダメージ軽減",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 龍族に与えるダメージを劇的に増加する。\n② 龍族から受けるダメージを軽減する。\n[発動条件]龍族に攻撃がヒットした時\n[効果時間]短い時間",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31040",
@@ -1569,10 +1569,10 @@
 	},
 	{
 		"assign": "31209",
-		"jp_explainShort": "機甲種にダメージ大増加＋被ダメージ軽減",
-		"tr_explainShort": "Dam. boost, damage reduced vs Mechs",
-		"jp_explainLong": "① 機甲種に与えるダメージを大きく増加する。\n② 機甲種から受けるダメージを軽減する。\n[発動条件]機甲種に攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Greatly boosts damage against Mechs.\n    <color=yellow>[B-Frame]</color>\n② Reduces damage taken from Mechs.\n[Activation Trigger] Landing attacks on Mechs\n[Effect Duration] Medium"
+		"jp_explainShort": "機甲種にダメージ劇的増加＋被ダメージ軽減",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 機甲種に与えるダメージを劇的に増加する。\n② 機甲種から受けるダメージを軽減する。\n[発動条件]機甲種に攻撃がヒットした時\n[効果時間]一定時間",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31210",
@@ -1583,10 +1583,10 @@
 	},
 	{
 		"assign": "31213",
-		"jp_explainShort": "原生種にダメージ大増加＋被ダメージ軽減",
-		"tr_explainShort": "Dam. boost & damage reduced vs Natives",
-		"jp_explainLong": "① 原生種に与えるダメージを大きく増加する。\n② 原生種から受けるダメージを軽減する。\n[発動条件]原生種に攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Greatly boosts damage against Natives.\n    <color=yellow>[B-Frame]</color>\n② Reduces damage taken from Natives.\n[Activation Trigger] Landing attacks on Natives\n[Effect Duration] Medium"
+		"jp_explainShort": "原生種にダメージ劇的増加＋被ダメージ軽減",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 原生種に与えるダメージを劇的に増加する。\n② 原生種から受けるダメージを軽減する。\n[発動条件]原生種に攻撃がヒットした時\n[効果時間]一定時間",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31214",
@@ -3020,7 +3020,7 @@
 		"assign": "31488",
 		"jp_explainShort": "機甲種にダメージ劇的増＋弱点属性大強化",
 		"tr_explainShort": "Dam. boost vs Mechs + weak Elem. up",
-		"jp_explainLong": "① 機甲種に与えるダメージを劇的に増加する。\n② 攻撃対象の敵の弱点属性を大きく強化する。\n[発動条件]機甲種に攻撃がヒットした時\n[効果時間]一定時間",
+		"jp_explainLong": "① 機甲種に与えるダメージを劇的に増加する。\n② 攻撃対象の敵の弱点属性を大きく強化する。\n[発動条件]機甲種に攻撃がヒットした時\n[効果時間]長い時間",
 		"tr_explainLong": "① Dramatically boosts damage against Mechs.\n    <color=yellow>[B-Frame]</color>\n② Greatly increases the target's weakness\n    Element value.\n[Activation Trigger] Landing attacks on Mechs\n[Effect Duration] Medium"
 	},
 	{
@@ -3062,7 +3062,7 @@
 		"assign": "31494",
 		"jp_explainShort": "ダーカーにダメージ劇的増加＋炎属性大強化",
 		"tr_explainShort": "Damage boost vs Darkers + Fire Elem. up",
-		"jp_explainLong": "① ダーカーに与えるダメージを劇的に増加する。\n② 炎属性を大きく強化する。\n[発動条件]ダーカーに攻撃がヒットした時\n[効果時間]一定時間",
+		"jp_explainLong": "① ダーカーに与えるダメージを劇的に増加する。\n② 炎属性を大きく強化する。\n[発動条件]ダーカーに攻撃がヒットした時\n[効果時間]長い時間",
 		"tr_explainLong": "① Dramatically boosts damage against Darkers.\n    <color=yellow>[B-Frame]</color>\n② Greatly increases Fire Element.\n[Activation Trigger] Landing attacks on Darkers\n[Effect Duration] Medium"
 	},
 	{
@@ -4091,29 +4091,29 @@
 		"assign": "31698",
 		"jp_explainShort": "パニック付与＋パニック時ダメージ劇的増加",
 		"tr_explainShort": "[Panic] imbued + dam. boost vs [Panic]",
-		"jp_explainLong": "① 必殺技に「パニック」効果を与える。\n② 「パニック」状態の敵に対して\n　　 ダメージを劇的に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"jp_explainLong": "① 必殺技に「パニック」効果を付与する。\n② 「パニック」状態の敵に対して\n　　 ダメージを劇的に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
 		"tr_explainLong": "① Gives PAs a chance to inflict [Panic].\n② Dramatically boosts damage against enemies\n    affected by [Panic].\n    <color=yellow>[C-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31699",
 		"jp_explainShort": "パニック付与＋パニック時ダメージ劇的増加",
 		"tr_explainShort": "[Panic] imbued + dam. boost vs [Panic]",
-		"jp_explainLong": "① 必殺技に「パニック」効果を与える。\n② 「パニック」状態の敵に対して\n　　 ダメージを劇的に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"jp_explainLong": "① 必殺技に「パニック」効果を付与する。\n② 「パニック」状態の敵に対して\n　　 ダメージを劇的に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
 		"tr_explainLong": "① Gives PAs a chance to inflict [Panic].\n② Dramatically boosts damage against enemies\n    affected by [Panic].\n    <color=yellow>[C-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31705",
-		"jp_explainShort": "アビリティＬｖ光武器攻撃力増＋最大ＣＰ増",
-		"tr_explainShort": "Light wpn. boost x ability + max CP up",
-		"jp_explainLong": "① 装備中の武器の属性が光属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② 最大ＣＰを上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage based on this chip's ability level if\n    equipped with a Light weapon.\n    <color=yellow>[H-Frame]</color>\n② Increases maximum CP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"jp_explainShort": "アビリティＬｖ光武器攻撃力増＋ＣＰ最大増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 装備中の武器の属性が光属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値を増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31706",
-		"jp_explainShort": "アビリティＬｖ光武器攻撃力増＋最大ＣＰ増",
-		"tr_explainShort": "Light wpn. boost x ability + max CP up",
-		"jp_explainLong": "① 装備中の武器の属性が光属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② 最大ＣＰを上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage based on this chip's ability level if\n    equipped with a Light weapon.\n    <color=yellow>[H-Frame]</color>\n② Increases maximum CP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"jp_explainShort": "アビリティＬｖ光武器攻撃力増＋ＣＰ最大増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 装備中の武器の属性が光属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値を増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31707",
@@ -5867,16 +5867,16 @@
 	},
 	{
 		"assign": "40229",
-		"jp_explainShort": "-",
+		"jp_explainShort": "氷属性時小増＋大剣時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 氷属性の武器の場合に威力をわずかに増加する。\n② 大剣の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40230",
-		"jp_explainShort": "-",
+		"jp_explainShort": "氷属性時増＋大剣時増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 氷属性の武器の場合に威力を増加する。\n② 大剣の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
@@ -7225,16 +7225,16 @@
 	},
 	{
 		"assign": "40423",
-		"jp_explainShort": "-",
+		"jp_explainShort": "雷属性時小増＋短杖時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 雷属性の武器の場合に威力をわずかに増加する。\n② 短杖の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40424",
-		"jp_explainShort": "-",
+		"jp_explainShort": "雷属性時増＋短杖時増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 雷属性の武器の場合に威力を増加する。\n② 短杖の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
