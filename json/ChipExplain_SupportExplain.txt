@@ -382,14 +382,14 @@
 		"jp_explainShort": "発見済みチップ数に応じて追加特大ダメージ",
 		"tr_explainShort": "Add. damage x # chips found",
 		"jp_explainLong": "① チップ研究室において発見済みチップが\n　　 多いほど追加で特大ダメージを与える。\n[発動条件]攻撃がヒットした時",
-		"tr_explainLong": "① Deals massive additional damage to enemies\n    based on the number of chips discovered in the\n   Chip Lab.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack"
+		"tr_explainLong": "① Deals massive additional damage to enemies\n    based on the number of chips discovered in the\n    Chip Lab.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack"
 	},
 	{
 		"assign": "30066",
 		"jp_explainShort": "発見済みチップ数に応じて追加特大ダメージ",
 		"tr_explainShort": "Add. damage x # chips found",
 		"jp_explainLong": "① チップ研究室において発見済みチップが\n　　 多いほど追加で特大ダメージを与える。\n[発動条件]攻撃がヒットした時",
-		"tr_explainLong": "① Deals massive additional damage to enemies\n    based on the number of chips discovered in the\n   Chip Lab.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack"
+		"tr_explainLong": "① Deals massive additional damage to enemies\n    based on the number of chips discovered in the\n    Chip Lab.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack"
 	},
 	{
 		"assign": "30069",
@@ -758,9 +758,9 @@
 	{
 		"assign": "31039",
 		"jp_explainShort": "龍族にダメージ劇的増加＋被ダメージ軽減",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost & dam. reduced vs Dragonkin",
 		"jp_explainLong": "① 龍族に与えるダメージを劇的に増加する。\n② 龍族から受けるダメージを軽減する。\n[発動条件]龍族に攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Dramatically boosts damage against Dragonkin.\n    <color=yellow>[B-Frame]</color>\n② Reduces damage taken from Dragonkin.\n[Activation Trigger] Landing attacks on Dragonkin\n[Effect Duration] Short"
 	},
 	{
 		"assign": "31040",
@@ -1390,14 +1390,14 @@
 		"jp_explainShort": "チップ発見数攻撃力劇的増加＋ＨＰ小回復",
 		"tr_explainShort": "Damage boost x Lab + HP up over time",
 		"jp_explainLong": "① チップ研究室において発見済みチップが\n　　 多いほど攻撃力を劇的に増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Dramatically boosts damage based on the number\n   of different chips discovered in\n    the Chip Lab.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Dramatically boosts damage based on the number\n    of different chips discovered in the Chip Lab.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31170",
 		"jp_explainShort": "チップ発見数攻撃力絶大増加＋ＨＰ小回復",
 		"tr_explainShort": "Damage boost x Lab + HP up over time",
 		"jp_explainLong": "① チップ研究室において発見済みチップが\n　　 多いほど攻撃力を絶大に増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Immensely boosts damage based on the number\n   of different chips discovered in\n    the Chip Lab.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Immensely boosts damage based on the number\n    of different chips discovered in the Chip Lab.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31173",
@@ -1570,23 +1570,23 @@
 	{
 		"assign": "31209",
 		"jp_explainShort": "機甲種にダメージ劇的増加＋被ダメージ軽減",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost & damage reduced vs Mechs",
 		"jp_explainLong": "① 機甲種に与えるダメージを劇的に増加する。\n② 機甲種から受けるダメージを軽減する。\n[発動条件]機甲種に攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Dramatically boosts damage against Mechs.\n    <color=yellow>[B-Frame]</color>\n② Reduces damage taken from Mechs.\n[Activation Trigger] Landing attacks on Mechs\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31210",
 		"jp_explainShort": "機甲種ダメージ劇的増加＋被ダメージ大軽減",
-		"tr_explainShort": "Dam. boost, damage reduced vs Mechs",
+		"tr_explainShort": "Dam. boost & damage reduced vs Mechs",
 		"jp_explainLong": "① 機甲種に与えるダメージを劇的に増加する。\n② 機甲種から受けるダメージを大きく軽減する。\n[発動条件]機甲種に攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": "① Dramatically boosts damage against Mechs.\n    <color=yellow>[B-Frame]</color>\n② Greatly reduces damage taken from Mechs.\n[Activation Trigger] Landing attacks on Mechs\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31213",
 		"jp_explainShort": "原生種にダメージ劇的増加＋被ダメージ軽減",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost & damage reduced vs Natives",
 		"jp_explainLong": "① 原生種に与えるダメージを劇的に増加する。\n② 原生種から受けるダメージを軽減する。\n[発動条件]原生種に攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Dramatically boosts damage against Natives.\n    <color=yellow>[B-Frame]</color>\n② Reduces damage taken from Natives.\n[Activation Trigger] Landing attacks on Natives\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31214",
@@ -3021,7 +3021,7 @@
 		"jp_explainShort": "機甲種にダメージ劇的増＋弱点属性大強化",
 		"tr_explainShort": "Dam. boost vs Mechs + weak Elem. up",
 		"jp_explainLong": "① 機甲種に与えるダメージを劇的に増加する。\n② 攻撃対象の敵の弱点属性を大きく強化する。\n[発動条件]機甲種に攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "① Dramatically boosts damage against Mechs.\n    <color=yellow>[B-Frame]</color>\n② Greatly increases the target's weakness\n    Element value.\n[Activation Trigger] Landing attacks on Mechs\n[Effect Duration] Medium"
+		"tr_explainLong": "① Dramatically boosts damage against Mechs.\n    <color=yellow>[B-Frame]</color>\n② Greatly increases the target's weakness\n    Element value.\n[Activation Trigger] Landing attacks on Mechs\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31489",
@@ -3063,7 +3063,7 @@
 		"jp_explainShort": "ダーカーにダメージ劇的増加＋炎属性大強化",
 		"tr_explainShort": "Damage boost vs Darkers + Fire Elem. up",
 		"jp_explainLong": "① ダーカーに与えるダメージを劇的に増加する。\n② 炎属性を大きく強化する。\n[発動条件]ダーカーに攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "① Dramatically boosts damage against Darkers.\n    <color=yellow>[B-Frame]</color>\n② Greatly increases Fire Element.\n[Activation Trigger] Landing attacks on Darkers\n[Effect Duration] Medium"
+		"tr_explainLong": "① Dramatically boosts damage against Darkers.\n    <color=yellow>[B-Frame]</color>\n② Greatly increases Fire Element.\n[Activation Trigger] Landing attacks on Darkers\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31495",
@@ -4104,16 +4104,16 @@
 	{
 		"assign": "31705",
 		"jp_explainShort": "アビリティＬｖ光武器攻撃力増＋ＣＰ最大増",
-		"tr_explainShort": "",
+		"tr_explainShort": "Light wpn. boost x ability + max CP up",
 		"jp_explainLong": "① 装備中の武器の属性が光属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値を増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Boosts damage based on this chip's ability level if\n    equipped with a Light weapon.\n    <color=yellow>[H-Frame]</color>\n② Increases maximum CP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31706",
 		"jp_explainShort": "アビリティＬｖ光武器攻撃力増＋ＣＰ最大増",
-		"tr_explainShort": "",
+		"tr_explainShort": "Light wpn. boost x ability + max CP up",
 		"jp_explainLong": "① 装備中の武器の属性が光属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値を増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Boosts damage based on this chip's ability level if\n    equipped with a Light weapon.\n    <color=yellow>[H-Frame]</color>\n② Increases maximum CP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31707",
@@ -5868,16 +5868,16 @@
 	{
 		"assign": "40229",
 		"jp_explainShort": "氷属性時小増＋大剣時小増＋定期ＨＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Ice & Sword boost + HP over time",
 		"jp_explainLong": "① 氷属性の武器の場合に威力をわずかに増加する。\n② 大剣の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Slightly boosts damage if equipped with\n    an Ice weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    a Sword.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40230",
 		"jp_explainShort": "氷属性時増＋大剣時増＋定期ＨＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Ice & Sword boost + HP over time",
 		"jp_explainLong": "① 氷属性の武器の場合に威力を増加する。\n② 大剣の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Boosts damage if equipped with\n    an Ice weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    a Sword.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40231",
@@ -5912,14 +5912,14 @@
 		"jp_explainShort": "光属性時小増＋大剣時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "Light & Sword boost + HP over time",
 		"jp_explainLong": "① 光属性の武器の場合に威力をわずかに増加する。\n② 大剣の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Slightly boosts damage if equipped with\n    a Light weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    a Sword.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium."
+		"tr_explainLong": "① Slightly boosts damage if equipped with\n    a Light weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    a Sword.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40236",
 		"jp_explainShort": "光属性時増＋大剣時増＋定期ＨＰ小回復",
 		"tr_explainShort": "Light & Sword boost + HP over time",
 		"jp_explainLong": "① 光属性の武器の場合に威力を増加する。\n② 大剣の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage if equipped with\n    a Light weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    a Sword.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium."
+		"tr_explainLong": "① Boosts damage if equipped with\n    a Light weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    a Sword.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40237",
@@ -6178,14 +6178,14 @@
 		"jp_explainShort": "闇属性時小増＋双小剣時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "Dark & T. Dagger boost + HP over time",
 		"jp_explainLong": "① 闇属性の武器の場合に威力をわずかに増加する。\n② 双小剣の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Slightly boosts damage if equipped with\n    a Dark weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    Twin Daggers.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium."
+		"tr_explainLong": "① Slightly boosts damage if equipped with\n    a Dark weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    Twin Daggers.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40274",
 		"jp_explainShort": "闇属性時増＋双小剣時増＋定期ＨＰ小回復",
 		"tr_explainShort": "Dark & T. Dagger boost + HP over time",
 		"jp_explainLong": "① 闇属性の武器の場合に威力を増加する。\n② 双小剣の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage if equipped with\n    a Dark weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    Twin Daggers.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium."
+		"tr_explainLong": "① Boosts damage if equipped with\n    a Dark weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    Twin Daggers.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40275",
@@ -6248,14 +6248,14 @@
 		"jp_explainShort": "光属性時小増＋両剣時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "Light & D. Saber boost + HP over time",
 		"jp_explainLong": "① 光属性の武器の場合に威力をわずかに増加する。\n② 両剣の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Slightly boosts damage if equipped with\n    a Light weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    a Double Saber.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium."
+		"tr_explainLong": "① Slightly boosts damage if equipped with\n    a Light weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    a Double Saber.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40284",
 		"jp_explainShort": "光属性時増＋両剣時増＋定期ＨＰ小回復",
 		"tr_explainShort": "Light & D. Saber boost + HP over time",
 		"jp_explainLong": "① 光属性の武器の場合に威力を増加する。\n② 両剣の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage if equipped with\n    a Light weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    a Double Saber.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium."
+		"tr_explainLong": "① Boosts damage if equipped with\n    a Light weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    a Double Saber.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40285",
@@ -6360,14 +6360,14 @@
 		"jp_explainShort": "炎属性時小増＋銃剣時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "Fire & Gunslash boost + HP over time",
 		"jp_explainLong": "① 炎属性の武器の場合に威力をわずかに増加する。\n② 銃剣の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Slightly boosts damage if equipped with\n    a Fire weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    a Gunslash.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium."
+		"tr_explainLong": "① Slightly boosts damage if equipped with\n    a Fire weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    a Gunslash.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40300",
 		"jp_explainShort": "炎属性時増＋銃剣時増＋定期ＨＰ小回復",
 		"tr_explainShort": "Fire & Gunslash boost + HP over time",
 		"jp_explainLong": "① 炎属性の武器の場合に威力を増加する。\n② 銃剣の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage if equipped with\n    a Fire weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    a Gunslash.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium."
+		"tr_explainLong": "① Boosts damage if equipped with\n    a Fire weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    a Gunslash.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40301",
@@ -6472,14 +6472,14 @@
 		"jp_explainShort": "雷属性時小増＋抜剣時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "Lightning & Katana boost + HP over time",
 		"jp_explainLong": "① 雷属性の武器の場合に威力をわずかに増加する。\n② 抜剣の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Slightly boosts damage if equipped with\n    a Lightning weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    a Katana.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium."
+		"tr_explainLong": "① Slightly boosts damage if equipped with\n    a Lightning weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    a Katana.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40316",
 		"jp_explainShort": "雷属性時増＋抜剣時増＋定期ＨＰ小回復",
 		"tr_explainShort": "Lightning & Katana boost + HP over time",
 		"jp_explainLong": "① 雷属性の武器の場合に威力を増加する。\n② 抜剣の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage if equipped with\n    a Lightning weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    a Katana.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium."
+		"tr_explainLong": "① Boosts damage if equipped with\n    a Lightning weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    a Katana.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40317",
@@ -6710,14 +6710,14 @@
 		"jp_explainShort": "氷属性時小増＋大砲時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "Ice & Launcher boost + HP over time",
 		"jp_explainLong": "① 氷属性の武器の場合に威力をわずかに増加する。\n② 大砲の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Slightly boosts damage if equipped with\n    an Ice weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    a Launcher.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium."
+		"tr_explainLong": "① Slightly boosts damage if equipped with\n    an Ice weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    a Launcher.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40350",
 		"jp_explainShort": "氷属性時増＋大砲時増＋定期ＨＰ小回復",
 		"tr_explainShort": "Ice & Launcher boost + HP over time",
 		"jp_explainLong": "① 氷属性の武器の場合に威力を増加する。\n② 大砲の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage if equipped with\n    an Ice weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    a Launcher.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium."
+		"tr_explainLong": "① Boosts damage if equipped with\n    an Ice weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    a Launcher.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40351",
@@ -6780,14 +6780,14 @@
 		"jp_explainShort": "炎属性時小増＋双機銃時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "Fire & TMG boost + HP over time",
 		"jp_explainLong": "① 炎属性の武器の場合に威力をわずかに増加する。\n② 双機銃の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Slightly boosts damage if equipped with\n    a Fire weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    Twin Machineguns.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium."
+		"tr_explainLong": "① Slightly boosts damage if equipped with\n    a Fire weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    Twin Machineguns.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40360",
 		"jp_explainShort": "炎属性時増＋双機銃時増＋定期ＨＰ小回復",
 		"tr_explainShort": "Fire & TMG boost + HP over time",
 		"jp_explainLong": "① 炎属性の武器の場合に威力を増加する。\n② 双機銃の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage if equipped with\n    a Fire weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    Twin Machineguns.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium."
+		"tr_explainLong": "① Boosts damage if equipped with\n    a Fire weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    Twin Machineguns.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40361",
@@ -6934,14 +6934,14 @@
 		"jp_explainShort": "闇属性時小増＋強弓時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "Dark & Bullet Bow boost + HP over time",
 		"jp_explainLong": "① 闇属性の武器の場合に威力をわずかに増加する。\n② 強弓の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Slightly boosts damage if equipped with\n    a Dark weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    a Bullet Bow.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium."
+		"tr_explainLong": "① Slightly boosts damage if equipped with\n    a Dark weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    a Bullet Bow.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40382",
 		"jp_explainShort": "闇属性時増＋強弓時増＋定期ＨＰ小回復",
 		"tr_explainShort": "Dark & Bullet Bow boost + HP over time",
 		"jp_explainLong": "① 闇属性の武器の場合に威力を増加する。\n② 強弓の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage if equipped with\n    a Dark weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    a Bullet Bow.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium."
+		"tr_explainLong": "① Boosts damage if equipped with\n    a Dark weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    a Bullet Bow.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40383",
@@ -7032,14 +7032,14 @@
 		"jp_explainShort": "炎属性時小増＋長杖時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "FIre & Rod boost + HP over time",
 		"jp_explainLong": "① 炎属性の武器の場合に威力をわずかに増加する。\n② 長杖の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Slightly boosts damage if equipped with\n    a Fire weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    a Rod.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium."
+		"tr_explainLong": "① Slightly boosts damage if equipped with\n    a Fire weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    a Rod.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40396",
 		"jp_explainShort": "炎属性時増＋長杖時増＋定期ＨＰ小回復",
 		"tr_explainShort": "FIre & Rod boost + HP over time",
 		"jp_explainLong": "① 炎属性の武器の場合に威力を増加する。\n② 長杖の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage if equipped with\n    a Fire weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    a Rod.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium."
+		"tr_explainLong": "① Boosts damage if equipped with\n    a Fire weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    a Rod.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40397",
@@ -7226,16 +7226,16 @@
 	{
 		"assign": "40423",
 		"jp_explainShort": "雷属性時小増＋短杖時小増＋定期ＨＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Lightning & Wand boost + HP over time",
 		"jp_explainLong": "① 雷属性の武器の場合に威力をわずかに増加する。\n② 短杖の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Slightly boosts damage if equipped with\n    a Lightning weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    a Wand.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40424",
 		"jp_explainShort": "雷属性時増＋短杖時増＋定期ＨＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Lightning & Wand boost + HP over time",
 		"jp_explainLong": "① 雷属性の武器の場合に威力を増加する。\n② 短杖の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Boosts damage if equipped with\n    a Lightning weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    a Wand.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40425",

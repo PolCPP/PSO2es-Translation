@@ -928,28 +928,28 @@
 		"jp_explainShort": "攻撃力増加＋チップ発動時に効果時間延長",
 		"tr_explainShort": "Active chips boost damage & this effect",
 		"jp_explainLong": "① 攻撃力を増加する。\n② アクティブチップが発動するたびに\n　　 さらに攻撃力をわずかに増加する。\n③ アクティブチップが発動するたびに\n　　 効果時間を延長する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Boosts damage slightly further each time you\n    activate an active chip.\n    <color=yellow>[E-Frame]</color>\n③ Each time you activate an active chip,\n    this effect's duration is extended.\n[Effect Duration] Medium"
+		"tr_explainLong": "① Boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Boosts damage slightly further each time you\n    activate an active chip.\n    <color=yellow>[E-Frame]</color>\n③ Each time you activate an active chip, this\n    effect's duration is extended.\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31202",
 		"jp_explainShort": "攻撃力大増加＋チップ発動時に効果時間延長",
 		"tr_explainShort": "Active chips boost damage & this effect",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② アクティブチップが発動するたびに\n　　 さらに攻撃力をわずかに増加する。\n③ アクティブチップが発動するたびに\n　　 効果時間を延長する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Greatly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Boosts damage slightly further each time you\n    activate an active chip.\n    <color=yellow>[E-Frame]</color>\n③ Each time you activate an active chip,\n    this effect's duration is extended.\n[Effect Duration] Long"
+		"tr_explainLong": "① Greatly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Boosts damage slightly further each time you\n    activate an active chip.\n    <color=yellow>[E-Frame]</color>\n③ Each time you activate an active chip, this\n    effect's duration is extended.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31203",
 		"jp_explainShort": "攻撃力微増加＋チップ発動時に効果時間延長",
 		"tr_explainShort": "Active chips boost damage & this effect",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② アクティブチップが発動するたびに\n　　 さらに攻撃力を増加する。\n③ アクティブチップが発動するたびに\n　　 効果時間をわずかに延長する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Slightly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Further boosts damage each time you activate\n    an active chip.\n    <color=yellow>[E-Frame]</color>\n③ Each time you activate an active chip,\n    this effect's duration is slightly extended.\n[Effect Duration] Long"
+		"tr_explainLong": "① Slightly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Further boosts damage each time you activate\n    an active chip.\n    <color=yellow>[E-Frame]</color>\n③ Each time you activate an active chip, this\n    effect's duration is slightly extended.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31204",
 		"jp_explainShort": "攻撃力増加＋チップ発動時に効果時間延長",
 		"tr_explainShort": "Active chips boost damage & this effect",
 		"jp_explainLong": "① 攻撃力を増加する。\n②  アクティブチップが発動するたびに\n　　 さらに攻撃力を増加する。\n③ アクティブチップが発動するたびに\n　　 効果時間をわずかに延長する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Further boosts damage each time you activate\n    an active chip.\n    <color=yellow>[E-Frame]</color>\n③ Each time you activate an active chip,\n    this effect's duration is slightly extended.\n[Effect Duration] Long"
+		"tr_explainLong": "① Boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Further boosts damage each time you activate\n    an active chip.\n    <color=yellow>[E-Frame]</color>\n③ Each time you activate an active chip, this\n    effect's duration is slightly extended.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31211",
@@ -1859,35 +1859,35 @@
 		"jp_explainShort": "ＪＡ威力増加＋ＪＡ攻撃力強化",
 		"tr_explainShort": "JAs boosted + ATK up per JA",
 		"jp_explainLong": "① 装備中チップの属性種類数に応じて\n　　 ジャストアタックの威力を劇的に増加する。\n② ジャストアタックごとに\n　　 攻撃力を強化する。(最大時：劇的)\n[効果時間]長い時間",
-		"tr_explainLong": "① Dramatically boosts Just Attacks based on the\n    number of different chip elements equipped.\n    <color=yellow>[?-Frame]</color>\n② Increases ATK each time you successfully\n    perform a Just Attack.\n    (Maximum Increase: Dramatic)\n[Effect Duration] Long"
+		"tr_explainLong": "① Dramatically boosts Just Attacks based on the\n    number of different chip elements equipped.\n    <color=yellow>[T-Frame]</color>\n② Increases ATK each time you successfully\n    perform a Just Attack.\n    (Maximum Increase: Dramatic)\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31701",
 		"jp_explainShort": "ＪＡ威力増加＋ＪＡ攻撃力強化",
 		"tr_explainShort": "JAs boosted + ATK up per JA",
 		"jp_explainLong": "① 装備中チップの属性種類数に応じて\n　　 ジャストアタックの威力を絶大に増加する。\n② ジャストアタックごとに\n　　 攻撃力を強化する。(最大時：劇的)\n[効果時間]長い時間",
-		"tr_explainLong": "① Dramatically boosts Just Attacks based on the\n    number of different chip elements equipped.\n    <color=yellow>[?-Frame]</color>\n② Increases ATK each time you successfully\n    perform a Just Attack.\n    (Maximum Increase: Dramatic)\n[Effect Duration] Long"
+		"tr_explainLong": "① Dramatically boosts Just Attacks based on the\n    number of different chip elements equipped.\n    <color=yellow>[T-Frame]</color>\n② Increases ATK each time you successfully\n    perform a Just Attack.\n    (Maximum Increase: Dramatic)\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31702",
 		"jp_explainShort": "攻撃力増＋ＣＰ回復量増＋属性一致攻撃力増",
 		"tr_explainShort": "Dam. boost + CP rec. up + elem. match",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 通常攻撃によるＣＰの回復量を大きく増加する。\n③ 装備中の武器の属性がリンクスロットに装備した\n　　 チップの属性と一致する場合、攻撃力を増加する。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts CP recovery from normal attacks.\n③ Boosts damage if the equipped weapon's element\n    matches the element of the chip in this chip's\n    link slot.\n    <color=yellow>[?-Frame]</color>\n[Effect Duration] Long"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts CP recovery from normal attacks.\n③ Boosts damage if the equipped weapon's element\n    matches the element of the chip in this chip's\n    link slot.\n    <color=yellow>[?-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Dark PAs and Techs are reduced.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31703",
 		"jp_explainShort": "攻撃力増＋ＣＰ回復量増＋属性一致攻撃力増",
 		"tr_explainShort": "Dam. boost + CP rec. up + elem. match",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 通常攻撃によるＣＰの回復量を大きく増加する。\n③ 装備中の武器の属性がリンクスロットに装備した\n　　 チップの属性と一致する場合、攻撃力を増加する。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts CP recovery from normal attacks.\n③ Boosts damage if the equipped weapon's element\n    matches the element of the chip in this chip's\n    link slot.\n    <color=yellow>[?-Frame]</color>\n[Effect Duration] Long"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts CP recovery from normal attacks.\n③ Boosts damage if the equipped weapon's element\n    matches the element of the chip in this chip's\n    link slot.\n    <color=yellow>[?-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Dark PAs and Techs are reduced.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31704",
 		"jp_explainShort": "攻撃力増＋ＣＰ回復量増＋属性一致攻撃力増",
 		"tr_explainShort": "Dam. boost + CP rec. up + elem. match",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 通常攻撃によるＣＰの回復量を大きく増加する。\n③ 装備中の武器の属性がリンクスロットに装備した\n　　 チップの属性と一致する場合、攻撃力を増加する。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts CP recovery from normal attacks.\n③ Boosts damage if the equipped weapon's element\n    matches the element of the chip in this chip's\n    link slot.\n    <color=yellow>[?-Frame]</color>\n[Effect Duration] Long"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts CP recovery from normal attacks.\n③ Boosts damage if the equipped weapon's element\n    matches the element of the chip in this chip's\n    link slot.\n    <color=yellow>[?-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    all PAs and Techs are reduced.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "2110",

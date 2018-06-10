@@ -472,7 +472,7 @@
 	{
 		"assign": "acshop_dialog_b_32",
 		"jp_text": "OPが不足しているためクエストに出発できません。\n<%item_name>を消費してOPを回復しますか？\n\n\n\n出発に必要なOP：<%consume_exdrive>\n現在のOP：<%current_exdrive>\n\n必要<%item_name>：<%consume_oprecovery_pass>個\n所持<%item_name>：<%current_oprecovery_pass>",
-		"tr_text": ""
+		"tr_text": "You lack the required OP to start the quest.\nWould you like to recover OP using <%item_name>?\n\n\n\nOP required: <%consume_exdrive>\nCurrent OP: <%current_exdrive>\n\n<%item_name> needed: <%consume_oprecovery_pass>\n<%item_name> owned: <%current_oprecovery_pass>"
 	},
 	{
 		"assign": "acshop_dialog_b_32_2",
@@ -487,7 +487,7 @@
 	{
 		"assign": "acshop_dialog_b_33",
 		"jp_text": "<%item_name>を所持していません。\n<%AC>を消費して、OPを回復しますか？\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": ""
+		"tr_text": "You do not possess any <%item_name>.\nWould you like to spend <%AC> to recover OP?\n\n<%AC> required: <%consume_AC>\nCurrent <%AC>: <%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_34",
@@ -497,7 +497,7 @@
 	{
 		"assign": "acshop_dialog_b_34",
 		"jp_text": "<%item_name>を消費してOPを回復しますか？\n(<%item_name>を所持していない場合は、\n　<%AC>を消費して、OPを全回復させることができます)\n\n必要<%item_name>：<%consume_oprecovery_pass>個\n所持<%item_name>：<%current_oprecovery_pass>",
-		"tr_text": ""
+		"tr_text": "Would you like to consume a <%item_name> to recover OP?\n(If you do not have a <%item_name>, you\ncan spend AC to fully recover your OP.)\n\n<%item_name> required: <%consume_oprecovery_pass>\n<%item_name> owned: <%current_oprecovery_pass>"
 	},
 	{
 		"assign": "acshop_dialog_t_35",
@@ -18757,7 +18757,7 @@
 	{
 		"assign": "EternalTower_block_tolerance3",
 		"jp_text": "<color=#00ffff>▲</color>弱点武器",
-		"tr_text": ""
+		"tr_text": "<color=#00ffff>▲</color> Wpn. Weakness"
 	},
 	{
 		"assign": "EternalTower_block_playerinfo",
@@ -18882,7 +18882,7 @@
 	{
 		"assign": "blockresult_block_reward",
 		"jp_text": "ブロック報酬",
-		"tr_text": ""
+		"tr_text": "Block Reward"
 	},
 	{
 		"assign": "blockresult_clear_time",
@@ -18962,7 +18962,7 @@
 	{
 		"assign": "blockresult_all_clear_time_reward_1",
 		"jp_text": "クリア報酬",
-		"tr_text": ""
+		"tr_text": "Clear Reward"
 	},
 	{
 		"assign": "blockresult_all_gold_clear_time_limit",
