@@ -5107,7 +5107,7 @@
 	{
 		"assign": "quest_counter_bonus_period",
 		"jp_text": "あと<%period>時間",
-		"tr_text": " for <%period>hrs."
+		"tr_text": " (<%period> hours left)"
 	},
 	{
 		"assign": "quest_counter_departure_t",
