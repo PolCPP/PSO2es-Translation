@@ -1890,6 +1890,118 @@
 		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts CP recovery from normal attacks.\n③ Boosts damage if the equipped weapon's element\n    matches the element of the chip in this chip's\n    link slot.\n    <color=yellow>[?-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    all PAs and Techs are reduced.\n[Effect Duration] Long"
 	},
 	{
+		"assign": "31711",
+		"jp_explainShort": "属性ダメージ＋ダメージ防御＋一定確率回避",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性による\n　　 ダメージを絶大に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 敵からの攻撃を一定確率で回避する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31712",
+		"jp_explainShort": "属性ダメージ＋ダメージ防御＋一定確率回避",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性による\n　　 ダメージを絶大に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 敵からの攻撃を一定確率で回避する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31713",
+		"jp_explainShort": "攻撃力を劇的強化＋防御力減少",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を劇的に強化する。\n② 防御力を減少する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31714",
+		"jp_explainShort": "攻撃力を絶大強化＋防御力減少",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を絶大に強化する。\n② 防御力を減少する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31733",
+		"jp_explainShort": "攻撃力極度増＋定期ＨＰ小回復＋効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 定期的にＨＰをわずかに回復する。\n③ リンクスロットに装備したチップの属性が光属性の場合\n　　 チップ発動時のアビリティ効果時間を延長する。\n④ このチップを装備中は光属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31734",
+		"jp_explainShort": "攻撃力極度増＋定期ＨＰ小回復＋効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 定期的にＨＰをわずかに回復する。\n③ リンクスロットに装備したチップの属性が光属性の場合\n　　 チップ発動時のアビリティ効果時間を延長する。\n④ このチップを装備中は光属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31735",
+		"jp_explainShort": "攻撃力極度増＋定期ＨＰ小回復＋効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 定期的にＨＰをわずかに回復する。\n③ リンクスロットに装備したチップの属性が光属性の場合\n　　 チップ発動時のアビリティ効果時間を延長する。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31742",
+		"jp_explainShort": "威力絶大強化＋定期的にＣＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 威力を絶大に増加する。\n② 定期的にＣＰをわずかに回復する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31743",
+		"jp_explainShort": "威力超絶強化＋定期的にＣＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 威力を超絶に増加する。\n② 定期的にＣＰをわずかに回復する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31748",
+		"jp_explainShort": "攻撃力絶大強化＋追加ダメージ効果増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を絶大に強化する。\n② 装備中チップの雷属性チップの枚数に応じて\n　　 追加ダメージ威力をそれぞれ増加する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31749",
+		"jp_explainShort": "攻撃力絶大強化＋追加ダメージ効果増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を絶大に強化する。\n② 装備中チップの雷属性チップの枚数に応じて\n　　 追加ダメージ威力をそれぞれ増加する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31750",
+		"jp_explainShort": "代償攻撃力絶大増加＋ダウン・のけぞり無効",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 敵から受けるダメージが増加する代わりに\n　　 攻撃力を絶大に増加する。\n② ダウン・のけぞり無効となる効果を付与する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31751",
+		"jp_explainShort": "代償攻撃力絶大増加＋ダウン・のけぞり無効",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 敵から受けるダメージが増加する代わりに\n　　 攻撃力を絶大に増加する。\n② ダウン・のけぞり無効となる効果を付与する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31752",
+		"jp_explainShort": "攻撃力超絶増＋シールド＋風弱点ダメージ大増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 攻撃対象の敵が風属性弱点の場合に\n　　 全てのリンクスロットに装備した\n　　 風属性チップの枚数に応じダメージを大きく増加する。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31753",
+		"jp_explainShort": "攻撃力超絶増＋シールド＋風弱点ダメージ大増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 攻撃対象の敵が風属性弱点の場合に\n　　 全てのリンクスロットに装備した\n　　 風属性チップの枚数に応じダメージを大きく増加する。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31754",
+		"jp_explainShort": "攻撃力超絶増＋シールド＋風弱点ダメージ大増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 攻撃対象の敵が風属性弱点の場合に\n　　 全てのリンクスロットに装備した\n　　 風属性チップの枚数に応じダメージを大きく増加する。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
 		"assign": "2110",
 		"jp_explainShort": "防御力を大強化",
 		"tr_explainShort": "DEF increased",
