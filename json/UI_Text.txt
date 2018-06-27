@@ -9140,6 +9140,11 @@
 		"tr_text": "<%drive> / <%max_drive> Regen: <%time>"
 	},
 	{
+		"assign": "menu_charainfo_drive_over",
+		"jp_text": "<color=#ffa500{0}><%drive></color> / <%max_drive> あと <%time>",
+		"tr_text": ""
+	},
+	{
 		"assign": "menu_charainfo_title",
 		"jp_text": "キャラクター情報",
 		"tr_text": "Character Info"
@@ -9158,11 +9163,6 @@
 		"assign": "menu_charainfo_label_drive",
 		"jp_text": "行動力",
 		"tr_text": "Drive"
-	},
-	{
-		"assign": "menu_charainfo_drive_over",
-		"jp_text": "<color=#ffa500{0}><%drive></color> / <%max_drive> あと <%time>",
-		"tr_text": ""
 	},
 	{
 		"assign": "menu_charainfo_label_drive_ex",
@@ -16010,6 +16010,11 @@
 		"tr_text": " Story Quest Season {0} Ch.{1}\n\"{2}\" clear"
 	},
 	{
+		"assign": "SideSt_Dialog_b_02_0_0",
+		"jp_text": "・シリーズクエスト　{0}\n {1}『{2}』クリア",
+		"tr_text": ""
+	},
+	{
 		"assign": "SideSt_Dialog_b_02_1",
 		"jp_text": "・『{0}』の\n　　外伝解放ゲージst.{1} を最大にする",
 		"tr_text": "・「{0}」\n　　Side Story Stage {1}"
@@ -18756,13 +18761,13 @@
 	},
 	{
 		"assign": "EternalTower_block_tolerance3",
-		"jp_text": "<color=#00ffff>▲</color>弱点武器",
-		"tr_text": "<color=#00ffff>▲</color> Wpn. Weakness"
+		"jp_text": "<color=#00ffff>▲</color>特効武器",
+		"tr_text": ""
 	},
 	{
 		"assign": "EternalTower_block_playerinfo",
-		"jp_text": "<color=#ffff00>■プレイヤー条件</color>",
-		"tr_text": "<color=#ffff00>■Player Conditions</color>"
+		"jp_text": "<color=#ffff00>■効果</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "EternalTower_block_condition1",
@@ -18817,6 +18822,16 @@
 	{
 		"assign": "Eternal_result_drop_limit",
 		"jp_text": "<color=yellow>ドロップ報酬数アップ！</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "EternalTower_block_detail",
+		"jp_text": "<color=#f0df60>【ブロック情報・詳細】</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "EternalTower_damage",
+		"jp_text": " <color=yellow> (ダメージ<%val>％に)</color>",
 		"tr_text": ""
 	},
 	{
