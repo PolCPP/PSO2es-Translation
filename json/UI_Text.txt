@@ -16487,17 +16487,17 @@
 	{
 		"assign": "lookback_maintitle_4",
 		"jp_text": "ストーリー　オブ　アーレス",
-		"tr_text": ""
+		"tr_text": "Story of Ares"
 	},
 	{
 		"assign": "lookback_maintext_4",
 		"jp_text": "アーレスシリーズのウェポノイド達の\n物語を振り返ります。",
-		"tr_text": ""
+		"tr_text": "View the story of the Ares\nWeaponoid series."
 	},
 	{
 		"assign": "lookback_arles_chapter_1",
 		"jp_text": "第１章　女神降臨",
-		"tr_text": ""
+		"tr_text": "Chapter 1\nThe Goddess Appears"
 	},
 	{
 		"assign": "menu_menu_lookback",
@@ -18697,7 +18697,7 @@
 	{
 		"assign": "chip_details_page",
 		"jp_text": "切替 <%val1>/<%val2>",
-		"tr_text": "Details"
+		"tr_text": "Page <%val1>/<%val2>"
 	},
 	{
 		"assign": "chip_details_common_linkskill",
@@ -19562,7 +19562,7 @@
 	{
 		"assign": "chip_details_pate_rashskill_conditions",
 		"jp_text": "ラッシュアーツ発動時",
-		"tr_text": ""
+		"tr_text": "When Rush Arts activate"
 	},
 	{
 		"assign": "bonus_expedition_dialog_title",
@@ -19782,7 +19782,7 @@
 	{
 		"assign": "questcounter_guide_series",
 		"jp_text": "<color=#f0df60>ウェポノイドたちのさまざまなドラマを描くシリーズクエストです。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Series Quests depict drama involving various Weaponoids.</color>"
 	},
 	{
 		"assign": "quest_counter_window_seriesselect",
@@ -19792,7 +19792,7 @@
 	{
 		"assign": "quest_counter_quest_item_detail",
 		"jp_text": "詳細",
-		"tr_text": "Details"
+		"tr_text": "Item"
 	},
 	{
 		"assign": "quest_counter_quest_out_of_time_dialog_title",
@@ -19807,12 +19807,12 @@
 	{
 		"assign": "quest_counter_quest_norelease_dialog_title",
 		"jp_text": "クエスト　解放条件",
-		"tr_text": ""
+		"tr_text": "Quest unlock condition"
 	},
 	{
 		"assign": "quest_counter_quest_norelease_dialog_message",
 		"jp_text": "<%areaname>\n をクリアすると解放されます。",
-		"tr_text": ""
+		"tr_text": "<%areaname>\n must be cleared first."
 	},
 	{
 		"assign": "quest_counter_quest_name_unopened",
