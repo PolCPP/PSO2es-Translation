@@ -2523,70 +2523,70 @@
 		"assign": "1049329492",
 		"jp_text": "賢闘の型 Lv.1",
 		"tr_text": "Tactician Stance Lv.1",
-		"jp_explain": "エレメンタルスタンスの\r\n効果が上昇する。",
+		"jp_explain": "エレメンタルスタンス中\n弱点属性での攻撃時に\n威力が7％上昇。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1049329493",
 		"jp_text": "賢闘の型 Lv.2",
 		"tr_text": "Tactician Stance Lv.2",
-		"jp_explain": "エレメンタルスタンスの\r\n効果が上昇する。",
+		"jp_explain": "エレメンタルスタンス中\n弱点属性での攻撃時に\n威力が8％上昇。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1049329498",
 		"jp_text": "賢闘の型 Lv.3",
 		"tr_text": "Tactician Stance Lv.3",
-		"jp_explain": "エレメンタルスタンスの\r\n効果が上昇する。",
+		"jp_explain": "エレメンタルスタンス中\n弱点属性での攻撃時に\n威力が9％上昇。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1049329499",
 		"jp_text": "賢闘の型 Lv.4",
 		"tr_text": "Tactician Stance Lv.4",
-		"jp_explain": "エレメンタルスタンスの\r\n効果が上昇する。",
+		"jp_explain": "エレメンタルスタンス中\n弱点属性での攻撃時に\n威力が10％上昇。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1049329496",
 		"jp_text": "賢闘の型 Lv.5",
 		"tr_text": "Tactician Stance Lv.5",
-		"jp_explain": "エレメンタルスタンスの\r\n効果が上昇する。",
+		"jp_explain": "エレメンタルスタンス中\n弱点属性での攻撃時に\n威力が11％上昇。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1849433521",
 		"jp_text": "鋭気賢闘の型 Lv.1",
 		"tr_text": "Brave Sage Stance Lv.1",
-		"jp_explain": "エレメンタルスタンスの\n効果が大きく上昇する。",
+		"jp_explain": "エレメンタルスタンス中\n弱点属性での攻撃時に\n威力が9％上昇。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1849433522",
 		"jp_text": "鋭気賢闘の型 Lv.2",
 		"tr_text": "Brave Sage Stance Lv.2",
-		"jp_explain": "エレメンタルスタンスの\n効果が大きく上昇する。",
+		"jp_explain": "エレメンタルスタンス中\n弱点属性での攻撃時に\n威力が12％上昇。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1849433523",
 		"jp_text": "鋭気賢闘の型 Lv.3",
 		"tr_text": "Brave Sage Stance Lv.3",
-		"jp_explain": "エレメンタルスタンスの\n効果が大きく上昇する。",
+		"jp_explain": "エレメンタルスタンス中\n弱点属性での攻撃時に\n威力が15％上昇。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1849433676",
 		"jp_text": "鋭気賢闘の型 Lv.4",
 		"tr_text": "",
-		"jp_explain": "エレメンタルスタンスの\n効果が大きく上昇する。",
+		"jp_explain": "エレメンタルスタンス中\n弱点属性での攻撃時に\n威力が18％上昇。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1849433677",
 		"jp_text": "鋭気賢闘の型 Lv.5",
 		"tr_text": "",
-		"jp_explain": "エレメンタルスタンスの\n効果が大きく上昇する。",
+		"jp_explain": "エレメンタルスタンス中\n弱点属性での攻撃時に\n威力が20％上昇。",
 		"tr_explain": ""
 	},
 	{
@@ -21668,35 +21668,560 @@
 		"assign": "3666740783",
 		"jp_text": "猛威の奮激 Lv.1",
 		"tr_text": "",
-		"jp_explain": "威力とＰＰ回復性能が\n上昇。ＰＰ消費量軽減。\n被ダメージで消失。\n一定時間で効果が復活。",
+		"jp_explain": "威力とクリティカル率が\n上昇。ＰＰ効率が向上。\n被ダメージで消失。\n一定時間で効果が復活。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3666740782",
 		"jp_text": "猛威の奮激 Lv.2",
 		"tr_text": "",
-		"jp_explain": "威力とＰＰ回復性能が\n上昇。ＰＰ消費量軽減。\n被ダメージで消失。\n一定時間で効果が復活。",
+		"jp_explain": "威力とクリティカル率が\n上昇。ＰＰ効率が向上。\n被ダメージで消失。\n一定時間で効果が復活。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3666740945",
 		"jp_text": "猛威の奮激 Lv.3",
 		"tr_text": "",
-		"jp_explain": "威力とＰＰ回復性能が\n上昇。ＰＰ消費量軽減。\n被ダメージで消失。\n一定時間で効果が復活。",
+		"jp_explain": "威力とクリティカル率が\n上昇。ＰＰ効率が向上。\n被ダメージで消失。\n一定時間で効果が復活。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3666740944",
 		"jp_text": "猛威の奮激 Lv.4",
 		"tr_text": "",
-		"jp_explain": "威力とＰＰ回復性能が\n上昇。ＰＰ消費量軽減。\n被ダメージで消失。\n一定時間で効果が復活。",
+		"jp_explain": "威力とクリティカル率が\n上昇。ＰＰ効率が向上。\n被ダメージで消失。\n一定時間で効果が復活。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3666740947",
 		"jp_text": "猛威の奮激 Lv.5",
 		"tr_text": "",
-		"jp_explain": "威力とＰＰ回復性能が\n上昇。ＰＰ消費量軽減。\n被ダメージで消失。\n一定時間で効果が復活。",
+		"jp_explain": "威力とクリティカル率が\n上昇。ＰＰ効率が向上。\n被ダメージで消失。\n一定時間で効果が復活。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3080720949",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3080720950",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3080720951",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3080720944",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3080720945",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3080716868",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3080716871",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3080716870",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3080716865",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3080716864",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2299414541",
+		"jp_text": "動静不二 Lv.1",
+		"tr_text": "",
+		"jp_explain": "威力が6％上昇。\n納刀状態の時間経過で\n威力上昇。攻撃時に\n時間経過で効果消失。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2299414540",
+		"jp_text": "動静不二 Lv.2",
+		"tr_text": "",
+		"jp_explain": "威力が6％上昇。\n納刀状態の時間経過で\n威力上昇。攻撃時に\n時間経過で効果消失。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2299414579",
+		"jp_text": "動静不二 Lv.3",
+		"tr_text": "",
+		"jp_explain": "威力が6％上昇。\n納刀状態の時間経過で\n威力上昇。攻撃時に\n時間経過で効果消失。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2299414578",
+		"jp_text": "動静不二 Lv.4",
+		"tr_text": "",
+		"jp_explain": "威力が6％上昇。\n納刀状態の時間経過で\n威力上昇。攻撃時に\n時間経過で効果消失。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2299414577",
+		"jp_text": "動静不二 Lv.5",
+		"tr_text": "",
+		"jp_explain": "威力が6％上昇。\n納刀状態の時間経過で\n威力上昇。攻撃時に\n時間経過で効果消失。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2785058142",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2785058143",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2785058140",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2785058141",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2785058130",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4274390207",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4274390200",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4274390201",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4274390202",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4274390203",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3214343746",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3214343757",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3214343756",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3214343759",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3214343758",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3119420475",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3119420472",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3119420473",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3119420470",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3119420471",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2985457392",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2985457393",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2985457398",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2985457399",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2985457396",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1054171407",
+		"jp_text": "黒衣の花嫁 Lv.1",
+		"tr_text": "",
+		"jp_explain": "時間経過で最大25％\n威力上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1054171404",
+		"jp_text": "黒衣の花嫁 Lv.2",
+		"tr_text": "",
+		"jp_explain": "時間経過で最大25％\n威力上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1054171405",
+		"jp_text": "黒衣の花嫁 Lv.3",
+		"tr_text": "",
+		"jp_explain": "時間経過で最大25％\n威力上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1054171402",
+		"jp_text": "黒衣の花嫁 Lv.4",
+		"tr_text": "",
+		"jp_explain": "時間経過で最大25％\n威力上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1054171403",
+		"jp_text": "黒衣の花嫁 Lv.5",
+		"tr_text": "",
+		"jp_explain": "時間経過で最大25％\n威力上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4055356319",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4055356318",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4055356317",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4055356316",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4055356307",
+		"jp_text": "未配信潜在能力",
+		"tr_text": "",
+		"jp_explain": "未配信潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2913187719",
+		"jp_text": "焔の誓い Lv.1",
+		"tr_text": "",
+		"jp_explain": "威力が5％上昇。\n弱点属性で攻撃した時\nさらに5%上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2913187712",
+		"jp_text": "焔の誓い Lv.2",
+		"tr_text": "",
+		"jp_explain": "威力が6％上昇。\n弱点属性で攻撃した時\nさらに6%上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2913187713",
+		"jp_text": "焔の誓い Lv.3",
+		"tr_text": "",
+		"jp_explain": "威力が7％上昇。\n弱点属性で攻撃した時\nさらに7%上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2913187714",
+		"jp_text": "焔の誓い Lv.4",
+		"tr_text": "",
+		"jp_explain": "威力が7％上昇。\n弱点属性で攻撃した時\nさらに7%上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2913187715",
+		"jp_text": "焔の誓い Lv.5",
+		"tr_text": "",
+		"jp_explain": "威力が8％上昇。\n弱点属性で攻撃した時\nさらに8%上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2671474650",
+		"jp_text": "紅焔の誓い Lv.1",
+		"tr_text": "",
+		"jp_explain": "威力が11％上昇。\n弱点属性で攻撃した時\nさらに3％上昇。\n一定間隔でシフタ発動。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2671474629",
+		"jp_text": "紅焔の誓い Lv.2",
+		"tr_text": "",
+		"jp_explain": "威力が12％上昇。\n弱点属性で攻撃した時\nさらに4％上昇。\n一定間隔でシフタ発動。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2671474628",
+		"jp_text": "紅焔の誓い Lv.3",
+		"tr_text": "",
+		"jp_explain": "威力が13％上昇。\n弱点属性で攻撃した時\nさらに5％上昇。\n一定間隔でシフタ発動。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2671474631",
+		"jp_text": "紅焔の誓い Lv.4",
+		"tr_text": "",
+		"jp_explain": "威力が14％上昇。\n弱点属性で攻撃した時\nさらに6％上昇。\n一定間隔でシフタ発動。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2671474630",
+		"jp_text": "紅焔の誓い Lv.5",
+		"tr_text": "",
+		"jp_explain": "威力が15％上昇。\n弱点属性で攻撃した時\nさらに7％上昇。\n一定間隔でシフタ発動。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2671470251",
+		"jp_text": "紫焔の誓い Lv.1",
+		"tr_text": "",
+		"jp_explain": "威力が3％上昇。\n弱点属性で攻撃した時\nさらに11％上昇。\n一定間隔でデバンド発動。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2671470420",
+		"jp_text": "紫焔の誓い Lv.2",
+		"tr_text": "",
+		"jp_explain": "威力が4％上昇。\n弱点属性で攻撃した時\nさらに12％上昇。\n一定間隔でデバンド発動。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2671470421",
+		"jp_text": "紫焔の誓い Lv.3",
+		"tr_text": "",
+		"jp_explain": "威力が5％上昇。\n弱点属性で攻撃した時\nさらに13％上昇。\n一定間隔でデバンド発動。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2671470422",
+		"jp_text": "紫焔の誓い Lv.4",
+		"tr_text": "",
+		"jp_explain": "威力が6％上昇。\n弱点属性で攻撃した時\nさらに14％上昇。\n一定間隔でデバンド発動。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2671470423",
+		"jp_text": "紫焔の誓い Lv.5",
+		"tr_text": "",
+		"jp_explain": "威力が7％上昇。\n弱点属性で攻撃した時\nさらに15％上昇。\n一定間隔でデバンド発動。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2670539151",
+		"jp_text": "焔の旋律 Lv.1",
+		"tr_text": "",
+		"jp_explain": "威力が1％上昇。\n弱点属性で攻撃した時\nさらに1％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2670539144",
+		"jp_text": "焔の旋律 Lv.2",
+		"tr_text": "",
+		"jp_explain": "威力が1％上昇。\n弱点属性で攻撃した時\nさらに2％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2670539145",
+		"jp_text": "焔の旋律 Lv.3",
+		"tr_text": "",
+		"jp_explain": "威力が1％上昇。\n弱点属性で攻撃した時\nさらに3％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2670539146",
+		"jp_text": "焔の旋律 Lv.4",
+		"tr_text": "",
+		"jp_explain": "威力が1％上昇。\n弱点属性で攻撃した時\nさらに4％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2670539147",
+		"jp_text": "焔の旋律 Lv.5",
+		"tr_text": "",
+		"jp_explain": "威力が1％上昇。\n弱点属性で攻撃した時\nさらに5％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2670535070",
+		"jp_text": "紅焔の旋律 Lv.1",
+		"tr_text": "",
+		"jp_explain": "威力が1％上昇。\n弱点属性で攻撃した時\nさらに1％上昇。\n一定間隔でシフタ発動。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2670535065",
+		"jp_text": "紅焔の旋律 Lv.2",
+		"tr_text": "",
+		"jp_explain": "威力が1％上昇。\n弱点属性で攻撃した時\nさらに2％上昇。\n一定間隔でシフタ発動。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2670535064",
+		"jp_text": "紅焔の旋律 Lv.3",
+		"tr_text": "",
+		"jp_explain": "威力が2％上昇。\n弱点属性で攻撃した時\nさらに3％上昇。\n一定間隔でシフタ発動。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2670535067",
+		"jp_text": "紅焔の旋律 Lv.4",
+		"tr_text": "",
+		"jp_explain": "威力が2％上昇。\n弱点属性で攻撃した時\nさらに4％上昇。\n一定間隔でシフタ発動。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2670535066",
+		"jp_text": "紅焔の旋律 Lv.5",
+		"tr_text": "",
+		"jp_explain": "威力が3％上昇。\n弱点属性で攻撃した時\nさらに5％上昇。\n一定間隔でシフタ発動。",
 		"tr_explain": ""
 	},
 	{
@@ -21900,6 +22425,27 @@
 		"jp_text": "超とうそうしん",
 		"tr_text": "Super Hawkish",
 		"jp_explain": "アイテムドロップ率上昇と\n一定範囲内のエネミー数に\n応じて与ダメージが上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2389963018",
+		"jp_text": "パワフル",
+		"tr_text": "",
+		"jp_explain": "アイテムドロップ率上昇と\n性格「こんじょう」と\n「晴れ好き」の効果",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2389963017",
+		"jp_text": "エリート",
+		"tr_text": "",
+		"jp_explain": "アイテムドロップ率上昇と\n性格「おりこうさん」と\n「がんばりや」の効果",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2389963016",
+		"jp_text": "ポップ",
+		"tr_text": "",
+		"jp_explain": "アイテムドロップ率上昇と\n性格「てきぱき」と\n「やさしい」の効果",
 		"tr_explain": ""
 	},
 	{
