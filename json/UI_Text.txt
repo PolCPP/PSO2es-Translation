@@ -19286,8 +19286,8 @@
 	},
 	{
 		"assign": "towerquest_ranking_reward_fixed_rank",
-		"jp_text": "<size=35><%title></size> Rank <size=50><%rank></size>",
-		"tr_text": ""
+		"jp_text": "<size=35><%title></size> <size=50><%rank></size>位",
+		"tr_text": "<size=35><%title></size> Rank <size=50><%rank></size>"
 	},
 	{
 		"assign": "towerquest_ranking_reward_rank_unit",
