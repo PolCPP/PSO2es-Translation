@@ -19107,17 +19107,17 @@
 	{
 		"assign": "towerquest_top_ranking",
 		"jp_text": "<color=#2EFEF7><%value2> 位</color>",
-		"tr_text": ""
+		"tr_text": "<color=#2EFEF7>Rank <%value2></color>"
 	},
 	{
 		"assign": "towerquest_top_ranking_fixed",
 		"jp_text": "<color=#2EFEF7><%value2> 位</color>",
-		"tr_text": ""
+		"tr_text": "<color=#2EFEF7>Rank <%value2></color>"
 	},
 	{
 		"assign": "towerquest_top_ranking_none",
 		"jp_text": "<color=#2EFEF7>－ 位</color>",
-		"tr_text": ""
+		"tr_text": "<color=#2EFEF7>Rank -</color>"
 	},
 	{
 		"assign": "towerquest_top_ranking_outside",
@@ -19127,17 +19127,17 @@
 	{
 		"assign": "towerquest_top_ranking_title",
 		"jp_text": "ランキング TOP50　　※30分ごとに更新",
-		"tr_text": ""
+		"tr_text": "Ranking Top 50   (Updates every 30 minutes)"
 	},
 	{
 		"assign": "towerquest_top_ranking_title_fixed",
 		"jp_text": "ランキング TOP50",
-		"tr_text": ""
+		"tr_text": "Ranking Top 50"
 	},
 	{
 		"assign": "towerquest_top_ranking_reward_info",
 		"jp_text": "報酬情報",
-		"tr_text": ""
+		"tr_text": "Rewards"
 	},
 	{
 		"assign": "towerquest_ranking_entry_title",
@@ -19286,13 +19286,13 @@
 	},
 	{
 		"assign": "towerquest_ranking_reward_fixed_rank",
-		"jp_text": "<size=35><%title></size> <size=50><%rank></size>位",
+		"jp_text": "<size=35><%title></size> Rank <size=50><%rank></size>",
 		"tr_text": ""
 	},
 	{
 		"assign": "towerquest_ranking_reward_rank_unit",
 		"jp_text": "位",
-		"tr_text": "rank"
+		"tr_text": " "
 	},
 	{
 		"assign": "towerquest_ranking_reward_title",
