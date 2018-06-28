@@ -3945,14 +3945,14 @@
 		"jp_explainShort": "ダメージ軽減＋有効弱点時ダメージ小増加",
 		"tr_explainShort": "Dam. resist + weakness damage boosted",
 		"jp_explainLong": "① 敵からのダメージを軽減する。\n② 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージをわずかに増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Reduces damage taken from enemies.\n② Boosts damage when attacking an enemy's\n    elemental weakness.\n    <color=yellow>[D-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Reduces damage taken from enemies.\n② Slightly boosts damage against enemy elemental\n    weaknesses.\n    <color=yellow>[D-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31676",
 		"jp_explainShort": "ダメージ軽減＋有効弱点時ダメージ増加",
 		"tr_explainShort": "Dam. resist + weakness damage boosted",
 		"jp_explainLong": "① 敵からのダメージを軽減する。\n② 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Reduces damage taken from enemies.\n② ② Boosts damage when attacking an enemy's\n    elemental weakness.\n    <color=yellow>[D-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Reduces damage taken from enemies.\n② Boosts damage against enemy elemental\n    weaknesses.\n    <color=yellow>[D-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31679",
