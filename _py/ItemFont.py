@@ -109,7 +109,7 @@ if __name__ == '__main__':
     if len(sys.argv) == 3:
         print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
     else:  # JP MAX: 25.21
-        FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 21.72)
+        FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 18)
         for e, s in FSEP.items():  # MAX: 27.34
                 t = e.replace("\n", "\\n")
                 counterr += 1
