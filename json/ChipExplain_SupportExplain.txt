@@ -4272,14 +4272,14 @@
 	{
 		"assign": "31736",
 		"jp_explainShort": "定期的に攻撃力を増加＋追加大ダメージ",
-		"tr_explainShort": "Dam. boost over time + add. dam x # Elems",
+		"tr_explainShort": "Boost over time + add. dam x # Elems",
 		"jp_explainLong": "① 定期的に攻撃力を増加する。（最大時：絶大）\n② 装備中チップの属性種類数に応じて\n　　 敵に追加で大ダメージを与える。\n[発動条件]ジャストアタック成功もしくはスライド操作時\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts damage at regular intervals.\n    (Maximum Boost: Overwhelming)\n    <color=yellow>[G-Frame]</color>\n② Deals heavy additional damage to enemies based\n    on the number of different chip elements equipped.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Successful JA or Slide Action\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31737",
 		"jp_explainShort": "定期的に攻撃力を増加＋追加大ダメージ",
-		"tr_explainShort": "Dam. boost over time + add. dam x # Elems",
+		"tr_explainShort": "Boost over time + add. dam x # Elems",
 		"jp_explainLong": "① 定期的に攻撃力を増加する。（最大時：超絶）\n② 装備中チップの属性種類数に応じて\n　　 敵に追加で大ダメージを与える。\n[発動条件]ジャストアタック成功もしくはスライド操作時\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts damage at regular intervals.\n    (Maximum Boost: Overwhelming)\n    <color=yellow>[G-Frame]</color>\n② Deals heavy additional damage to enemies based\n    on the number of different chip elements equipped.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Successful JA or Slide Action\n[Effect Duration] Long"
 	},
@@ -7184,14 +7184,14 @@
 	{
 		"assign": "40387",
 		"jp_explainShort": "雷属性時小増＋魔装脚時小増＋定期ＨＰ小回復",
-		"tr_explainShort": "Lightning & Jet Boots boost + HP over time",
+		"tr_explainShort": "Lightning & J. Boots boost + HP over time",
 		"jp_explainLong": "① 雷属性の武器の場合に威力をわずかに増加する。\n② 魔装脚の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": "① Slightly boosts damage if equipped with\n    a Lightning weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    Jet Boots.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40388",
 		"jp_explainShort": "雷属性時増＋魔装脚時増＋定期ＨＰ小回復",
-		"tr_explainShort": "Lightning & Jet Boots boost + HP over time",
+		"tr_explainShort": "Lightning & J. Boots boost + HP over time",
 		"jp_explainLong": "① 雷属性の武器の場合に威力を増加する。\n② 魔装脚の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": "① Boosts damage if equipped with\n    a Lightning weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    Jet Boots.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
