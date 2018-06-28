@@ -15977,17 +15977,17 @@
 	{
 		"assign": "SideSt_Dialog_t_00",
 		"jp_text": "外伝クエスト 解放条件",
-		"tr_text": "Gaiden Release Conditions"
+		"tr_text": "Gaiden Unlock Conditions"
 	},
 	{
 		"assign": "SideSt_Dialog_b_00",
 		"jp_text": "対象のキャラクターのチップを入手して\n解放条件をクリアすると第{0}話が解放されます。",
-		"tr_text": ""
+		"tr_text": "Chapter {0} will be unlocked when you\nacquire this character's chip and meet\nthe unlock conditions."
 	},
 	{
 		"assign": "SideSt_Dialog_b_00_1",
 		"jp_text": "対象のキャラクターのチップを入手すると\n第1話が解放されます。",
-		"tr_text": ""
+		"tr_text": "Chapter 1 will be unlocked when you\nacquire this character's chip."
 	},
 	{
 		"assign": "SideSt_Dialog_t_01",
@@ -16012,7 +16012,7 @@
 	{
 		"assign": "SideSt_Dialog_b_02_0_0",
 		"jp_text": "・シリーズクエスト　{0}\n {1}『{2}』クリア",
-		"tr_text": ""
+		"tr_text": " Series Quest {0}\n {1} \"{2}\" clear"
 	},
 	{
 		"assign": "SideSt_Dialog_b_02_1",
