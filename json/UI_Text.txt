@@ -15977,17 +15977,17 @@
 	{
 		"assign": "SideSt_Dialog_t_00",
 		"jp_text": "外伝クエスト 解放条件",
-		"tr_text": "Gaiden Release Conditions"
+		"tr_text": "Gaiden Unlock Conditions"
 	},
 	{
 		"assign": "SideSt_Dialog_b_00",
 		"jp_text": "対象のキャラクターのチップを入手して\n解放条件をクリアすると第{0}話が解放されます。",
-		"tr_text": ""
+		"tr_text": "Chapter {0} will be unlocked when you\nacquire this character's chip and meet\nthe unlock conditions."
 	},
 	{
 		"assign": "SideSt_Dialog_b_00_1",
 		"jp_text": "対象のキャラクターのチップを入手すると\n第1話が解放されます。",
-		"tr_text": ""
+		"tr_text": "Chapter 1 will be unlocked when you\nacquire this character's chip."
 	},
 	{
 		"assign": "SideSt_Dialog_t_01",
@@ -16012,7 +16012,7 @@
 	{
 		"assign": "SideSt_Dialog_b_02_0_0",
 		"jp_text": "・シリーズクエスト　{0}\n {1}『{2}』クリア",
-		"tr_text": ""
+		"tr_text": " Series Quest {0}\n {1} \"{2}\" clear"
 	},
 	{
 		"assign": "SideSt_Dialog_b_02_1",
@@ -18762,12 +18762,12 @@
 	{
 		"assign": "EternalTower_block_tolerance3",
 		"jp_text": "<color=#00ffff>▲</color>特効武器",
-		"tr_text": ""
+		"tr_text": "<color=#00ffff>▲</color>Wpn Boost"
 	},
 	{
 		"assign": "EternalTower_block_playerinfo",
 		"jp_text": "<color=#ffff00>■効果</color>",
-		"tr_text": ""
+		"tr_text": "<color=#ffff00>■Effects</color>"
 	},
 	{
 		"assign": "EternalTower_block_condition1",
@@ -18802,37 +18802,37 @@
 	{
 		"assign": "EternalTop_Clear_name",
 		"jp_text": "クリア",
-		"tr_text": ""
+		"tr_text": "Clear"
 	},
 	{
 		"assign": "EternalTop_SilverTime_name",
 		"jp_text": "シルバータイム",
-		"tr_text": ""
+		"tr_text": "Silver Time"
 	},
 	{
 		"assign": "EternalTop_GoldTime_name",
 		"jp_text": "ゴールドタイム",
-		"tr_text": ""
+		"tr_text": "Gold Time"
 	},
 	{
 		"assign": "EternalTop_RareDrop_reward_title",
 		"jp_text": "目玉ドロップ報酬",
-		"tr_text": ""
+		"tr_text": "Special Drops"
 	},
 	{
 		"assign": "Eternal_result_drop_limit",
 		"jp_text": "<color=yellow>ドロップ報酬数アップ！</color>",
-		"tr_text": ""
+		"tr_text": "<color=yellow>Drop rewards up!</color>"
 	},
 	{
 		"assign": "EternalTower_block_detail",
 		"jp_text": "<color=#f0df60>【ブロック情報・詳細】</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>[Block Info]</color>"
 	},
 	{
 		"assign": "EternalTower_damage",
 		"jp_text": " <color=yellow> (ダメージ<%val>％に)</color>",
-		"tr_text": ""
+		"tr_text": " <color=yellow> (Dam. <%val>％)</color>"
 	},
 	{
 		"assign": "PanelBonus_AttackUp",
@@ -18922,7 +18922,7 @@
 	{
 		"assign": "blockresult_area_clear_reward",
 		"jp_text": "階層達成報酬",
-		"tr_text": "Achievement Reward Hiearchy"
+		"tr_text": "Achievement Reward Hierarchy"
 	},
 	{
 		"assign": "blockresult_area_g1_clear",
@@ -18992,7 +18992,7 @@
 	{
 		"assign": "blockresult_all_gold_clear_time_reward_title",
 		"jp_text": "オールクリア報酬",
-		"tr_text": ""
+		"tr_text": "All Clear Reward"
 	},
 	{
 		"assign": "blockresult_clear_time_retire",
@@ -19012,17 +19012,17 @@
 	{
 		"assign": "towerquest_top_guide_00",
 		"jp_text": "<color=#f0df60>エターナルタワー踏破を目指す期間限定イベントです。塔の攻略を目指してください。クリアタイムによって、得られる報酬が異なります。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>This is a limited-time event in which the goal is to climb the Eternal Tower. Aim to reach the top floor and conquer the Tower. The rewards you get depend on your clear time.</color>"
 	},
 	{
 		"assign": "towerquest_top_guide_01",
 		"jp_text": "<color=#f0df60>プレイするブロックを選択してください。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Please select a block to play.</color>"
 	},
 	{
 		"assign": "towerquest_top_guide_friend",
 		"jp_text": "<color=#f0df60>フレンド通信：<%name1>さんが<%value1>Fをクリアしました。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Friend Signal: <%name1> has cleared floor <%value1>F.　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</color>"
 	},
 	{
 		"assign": "towerquest_top_guide_ranking",
@@ -19107,17 +19107,17 @@
 	{
 		"assign": "towerquest_top_ranking",
 		"jp_text": "<color=#2EFEF7><%value2> 位</color>",
-		"tr_text": ""
+		"tr_text": "<color=#2EFEF7>Rank <%value2></color>"
 	},
 	{
 		"assign": "towerquest_top_ranking_fixed",
 		"jp_text": "<color=#2EFEF7><%value2> 位</color>",
-		"tr_text": ""
+		"tr_text": "<color=#2EFEF7>Rank <%value2></color>"
 	},
 	{
 		"assign": "towerquest_top_ranking_none",
 		"jp_text": "<color=#2EFEF7>－ 位</color>",
-		"tr_text": ""
+		"tr_text": "<color=#2EFEF7>Rank -</color>"
 	},
 	{
 		"assign": "towerquest_top_ranking_outside",
@@ -19127,17 +19127,17 @@
 	{
 		"assign": "towerquest_top_ranking_title",
 		"jp_text": "ランキング TOP50　　※30分ごとに更新",
-		"tr_text": ""
+		"tr_text": "Ranking Top 50   (Updates every 30 minutes)"
 	},
 	{
 		"assign": "towerquest_top_ranking_title_fixed",
 		"jp_text": "ランキング TOP50",
-		"tr_text": ""
+		"tr_text": "Ranking Top 50"
 	},
 	{
 		"assign": "towerquest_top_ranking_reward_info",
 		"jp_text": "報酬情報",
-		"tr_text": ""
+		"tr_text": "Rewards"
 	},
 	{
 		"assign": "towerquest_ranking_entry_title",
@@ -19282,22 +19282,22 @@
 	{
 		"assign": "towerquest_ranking_reward_received",
 		"jp_text": "ランキング報酬の受け取り完了",
-		"tr_text": ""
+		"tr_text": "Ranking reward received"
 	},
 	{
 		"assign": "towerquest_ranking_reward_fixed_rank",
 		"jp_text": "<size=35><%title></size> <size=50><%rank></size>位",
-		"tr_text": ""
+		"tr_text": "<size=35><%title></size> Rank <size=50><%rank></size>"
 	},
 	{
 		"assign": "towerquest_ranking_reward_rank_unit",
 		"jp_text": "位",
-		"tr_text": ""
+		"tr_text": " "
 	},
 	{
 		"assign": "towerquest_ranking_reward_title",
 		"jp_text": "ランキング報酬",
-		"tr_text": ""
+		"tr_text": "Ranking reward"
 	},
 	{
 		"assign": "towerquest_ranking_reward_send_to_mail",
@@ -19307,27 +19307,27 @@
 	{
 		"assign": "towerquest_friendbonus_title",
 		"jp_text": "<color=white>フレンドボーナス！</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>Friend Bonus!</color>"
 	},
 	{
 		"assign": "towerquest_friendbonus_title2",
 		"jp_text": "<color=#01b6b6>フレンドボーナス！</color>",
-		"tr_text": ""
+		"tr_text": "<color=#01b6b6>Friend Bonus!</color>"
 	},
 	{
 		"assign": "towerquest_friendbonus_body_01",
 		"jp_text": "<color=white>同じブロックにいるフレンド</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>Friends in this block:</color>"
 	},
 	{
 		"assign": "towerquest_friendbonus_body_02",
 		"jp_text": "<color=yellow>「<%friend_name%>」</color>",
-		"tr_text": ""
+		"tr_text": "<color=yellow>[<%friend_name%>]</color>"
 	},
 	{
 		"assign": "towerquest_friendbonus_body_03",
 		"jp_text": "<color=white>から、ボーナスパネルを1枚プレゼントされました！</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>Received 1 bonus panel from them!</color>"
 	},
 	{
 		"assign": "towerquest_dialog_event_out_of_period_title",
@@ -19337,12 +19337,12 @@
 	{
 		"assign": "towerquest_dialog_event_out_of_period_message",
 		"jp_text": "エターナルタワー開催期間外です。\nロビートップへ戻ります。",
-		"tr_text": ""
+		"tr_text": "The Eternal Tower has expired.\nReturning to Lobby."
 	},
 	{
 		"assign": "Eternalquest_dialog_t_01",
 		"jp_text": "エターナルクエストリタイア",
-		"tr_text": ""
+		"tr_text": "Eternal Quest Retired"
 	},
 	{
 		"assign": "Eternalquest_dialog_b_01",
@@ -19812,12 +19812,12 @@
 	{
 		"assign": "quest_counter_quest_out_of_time_dialog_title",
 		"jp_text": "クエスト　次回配信",
-		"tr_text": ""
+		"tr_text": "Quest coming soon"
 	},
 	{
 		"assign": "quest_counter_quest_out_of_time_dialog_message",
 		"jp_text": "このクエストは\n次回の配信までお待ちください。",
-		"tr_text": ""
+		"tr_text": "This quest is not yet available.\nPlease wait for it to be distributed."
 	},
 	{
 		"assign": "quest_counter_quest_norelease_dialog_title",

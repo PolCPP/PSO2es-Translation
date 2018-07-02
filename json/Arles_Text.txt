@@ -60,7 +60,7 @@
 		"jp_name": "セラフィ",
 		"tr_name": "Seraphy",
 		"jp_text": "あ、あなたが……<%br>「アーレスカイゼル」……",
-		"tr_text": "Y-you're...<%br>\"Ares Kaiser\"...",
+		"tr_text": "Y-you're...<%br>Ares Kaiser...",
 		"fileID": 1
 	},
 	{
@@ -348,7 +348,7 @@
 		"jp_name": "セラフィ",
 		"tr_name": "Seraphy",
 		"jp_text": "ちなみに、その力には「絆」の存在が<%br>大きく影響していることも判明しています。",
-		"tr_text": "Incidentally, it has been noted that the presence of<%br>\"Bonds\" has a great influence on that power.",
+		"tr_text": "Incidentally, it has been noted that the presence of<%br>Bonds has a great influence on that power.",
 		"fileID": 1
 	},
 	{
@@ -428,7 +428,7 @@
 		"jp_name": "アーレスカイゼル",
 		"tr_name": "Ares Kaiser",
 		"jp_text": "……「アーレスパルチザン」、「アーレスランス」<%br>「アーレスソード」、こちらへ。",
-		"tr_text": "...\"Ares Partizan\", \"Ares Lance\",<%br>\"Ares Sword\", come here.",
+		"tr_text": "...Ares Partizan, Ares Lance,<%br>Ares Sword, come here.",
 		"fileID": 1
 	},
 	{
@@ -516,7 +516,7 @@
 		"jp_name": "女性チップ研究員",
 		"tr_name": "Female Chip Researcher",
 		"jp_text": "この分なら「次の実験」も成功するでしょう。<%br>次こそ……ご期待に添えてみせます。",
-		"tr_text": "At this rate, the \"next experiment\" should<%br>also be a success. Next time, for sure...",
+		"tr_text": "At this rate, the next experiment should<%br>also be a success. Next time, for sure...",
 		"fileID": 1
 	},
 	{
@@ -1650,7 +1650,7 @@
 	{
 		"eventNo": "0",
 		"jp_name": "セラフィ",
-		"tr_name": "",
+		"tr_name": "Seraphy",
 		"jp_text": "ダーカー反応があったのは、その付近です。<%br>みなさん、警戒してください。",
 		"tr_text": "",
 		"fileID": 1
@@ -1658,7 +1658,7 @@
 	{
 		"eventNo": "1",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "女神がいる場所からは離れてるみたいだな。<%br>……お！　パルチザンだ！",
 		"tr_text": "",
 		"fileID": 1
@@ -1666,7 +1666,7 @@
 	{
 		"eventNo": "2",
 		"jp_name": "アーレスパルチザン",
-		"tr_name": "",
+		"tr_name": "Ares Partizan",
 		"jp_text": "ソードとランスも来てたのか……<%br>オレが、先に始末しようと思ってたんだがな。",
 		"tr_text": "",
 		"fileID": 1
@@ -1674,7 +1674,7 @@
 	{
 		"eventNo": "3",
 		"jp_name": "アーレスランス",
-		"tr_name": "",
+		"tr_name": "Ares Lance",
 		"jp_text": "パルパル！　おっひさー！<%br>てか、なんかキズだらけじゃない？　痛そ～。",
 		"tr_text": "",
 		"fileID": 1
@@ -1682,7 +1682,7 @@
 	{
 		"eventNo": "4",
 		"jp_name": "アネット",
-		"tr_name": "",
+		"tr_name": "Annette",
 		"jp_text": "悪いけど、再会を喜んでいる暇はないわ。<%br>今回のダーカーは、今までより厄介よ。",
 		"tr_text": "",
 		"fileID": 1
@@ -1690,7 +1690,7 @@
 	{
 		"eventNo": "5",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "問題ねぇよ！　今までの特訓の成果<%br>お前らに見せてやる！",
 		"tr_text": "",
 		"fileID": 1
@@ -1698,7 +1698,7 @@
 	{
 		"eventNo": "6",
 		"jp_name": "アネット",
-		"tr_name": "",
+		"tr_name": "Annette",
 		"jp_text": "……リーダー。<%br>厄介っていうのは、本当のことよ。",
 		"tr_text": "",
 		"fileID": 1
@@ -1706,7 +1706,7 @@
 	{
 		"eventNo": "7",
 		"jp_name": "アネット",
-		"tr_name": "",
+		"tr_name": "Annette",
 		"jp_text": "正直、あの子たちだけじゃ心配だわ。<%br>サポート、よろしく。ブルーノもよ。",
 		"tr_text": "",
 		"fileID": 1
@@ -1714,7 +1714,7 @@
 	{
 		"eventNo": "8",
 		"jp_name": "ブルーノ",
-		"tr_name": "",
+		"tr_name": "Bruno",
 		"jp_text": "オッケー。そんじゃ<%br>出しゃばらない程度にやりますかね。",
 		"tr_text": "",
 		"fileID": 1
@@ -1722,7 +1722,7 @@
 	{
 		"eventNo": "9",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "よし！　それじゃ……って<%br>うおっ！？　なんだ！？",
 		"tr_text": "",
 		"fileID": 1
@@ -1730,7 +1730,7 @@
 	{
 		"eventNo": "10",
 		"jp_name": "モア",
-		"tr_name": "",
+		"tr_name": "More",
 		"jp_text": "ソード！　ランスの後ろっ！<%br>ダーカーだ！！",
 		"tr_text": "",
 		"fileID": 1
@@ -1738,7 +1738,7 @@
 	{
 		"eventNo": "11",
 		"jp_name": "アーレスランス",
-		"tr_name": "",
+		"tr_name": "Ares Lance",
 		"jp_text": "いきなりなんて、ヒキョーじゃね！？<%br>ダーカーの陰謀！？",
 		"tr_text": "",
 		"fileID": 1
@@ -1746,7 +1746,7 @@
 	{
 		"eventNo": "12",
 		"jp_name": "アーレスパルチザン",
-		"tr_name": "",
+		"tr_name": "Ares Partizan",
 		"jp_text": "ランスッ！！<%br>くっ、間に合わな……！",
 		"tr_text": "",
 		"fileID": 1
@@ -1778,7 +1778,7 @@
 	{
 		"eventNo": "16",
 		"jp_name": "アーレスランス",
-		"tr_name": "",
+		"tr_name": "Ares Lance",
 		"jp_text": "……あ、れ……？<%br>た、助かった……？",
 		"tr_text": "",
 		"fileID": 1
@@ -1786,7 +1786,7 @@
 	{
 		"eventNo": "17",
 		"jp_name": "？？？",
-		"tr_name": "",
+		"tr_name": "???",
 		"jp_text": "全員、ケガはないか？",
 		"tr_text": "",
 		"fileID": 1
@@ -1794,7 +1794,7 @@
 	{
 		"eventNo": "18",
 		"jp_name": "アーレスランス",
-		"tr_name": "",
+		"tr_name": "Ares Lance",
 		"jp_text": "えっ、あ、うん……<%br>アンタ……誰？　マジイケメンなんスけど。",
 		"tr_text": "",
 		"fileID": 1
@@ -1802,7 +1802,7 @@
 	{
 		"eventNo": "19",
 		"jp_name": "？？？",
-		"tr_name": "",
+		"tr_name": "???",
 		"jp_text": "話はあとだ。<%br>それより次が来るぞ。全員、準備しろ！",
 		"tr_text": "",
 		"fileID": 1
@@ -1810,7 +1810,7 @@
 	{
 		"eventNo": "0",
 		"jp_name": "モア",
-		"tr_name": "",
+		"tr_name": "More",
 		"jp_text": "やった！　全部倒したぞ！",
 		"tr_text": "",
 		"fileID": 1
@@ -1818,7 +1818,7 @@
 	{
 		"eventNo": "1",
 		"jp_name": "アネット",
-		"tr_name": "",
+		"tr_name": "Annette",
 		"jp_text": "３人とも、よくやったわ。<%br>連携も、上手くできてたんじゃない？",
 		"tr_text": "",
 		"fileID": 1
@@ -1826,7 +1826,7 @@
 	{
 		"eventNo": "2",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "いや……このピンチを切り抜けられたのは<%br>オレたちの力じゃない。",
 		"tr_text": "",
 		"fileID": 1
@@ -1834,7 +1834,7 @@
 	{
 		"eventNo": "3",
 		"jp_name": "アーレスパルチザン",
-		"tr_name": "",
+		"tr_name": "Ares Partizan",
 		"jp_text": "そうだな……<%br>あの男に、かなり助けられた。",
 		"tr_text": "",
 		"fileID": 1
@@ -1842,7 +1842,7 @@
 	{
 		"eventNo": "4",
 		"jp_name": "？？？",
-		"tr_name": "",
+		"tr_name": "???",
 		"jp_text": "……俺か？",
 		"tr_text": "",
 		"fileID": 1
@@ -1850,7 +1850,7 @@
 	{
 		"eventNo": "5",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "なぁ、あんた、名前は？<%br>やたら強かったけど、何者なんだ？",
 		"tr_text": "",
 		"fileID": 1
@@ -1858,7 +1858,7 @@
 	{
 		"eventNo": "6",
 		"jp_name": "アーレスリュウガ",
-		"tr_name": "",
+		"tr_name": "Ares Ryuuga",
 		"jp_text": "俺は「アーレスリュウガ」。<%br>アンタたちと同じ、アーレスのひとりだ。",
 		"tr_text": "",
 		"fileID": 1
@@ -1866,7 +1866,7 @@
 	{
 		"eventNo": "7",
 		"jp_name": "アーレスランス",
-		"tr_name": "",
+		"tr_name": "Ares Lance",
 		"jp_text": "えー！？　なーんだ、仲間だったんだね！<%br>助けてくれてありがと～。",
 		"tr_text": "",
 		"fileID": 1
@@ -1874,7 +1874,7 @@
 	{
 		"eventNo": "8",
 		"jp_name": "アーレスリュウガ",
-		"tr_name": "",
+		"tr_name": "Ares Ryuuga",
 		"jp_text": "俺は当然のことをしただけだ。<%br>礼なんて必要ない。",
 		"tr_text": "",
 		"fileID": 1
@@ -1882,7 +1882,7 @@
 	{
 		"eventNo": "9",
 		"jp_name": "アーレスリュウガ",
-		"tr_name": "",
+		"tr_name": "Ares Ryuuga",
 		"jp_text": "悪いが、パトロールの途中なんだ。<%br>ここからは自力でがんばってくれ。",
 		"tr_text": "",
 		"fileID": 1
@@ -1890,7 +1890,7 @@
 	{
 		"eventNo": "10",
 		"jp_name": "アーレスリュウガ",
-		"tr_name": "",
+		"tr_name": "Ares Ryuuga",
 		"jp_text": "まぁ……ピンチの時は、また手を貸してやる。<%br>せいぜい精進するんだな。",
 		"tr_text": "",
 		"fileID": 1
@@ -1898,7 +1898,7 @@
 	{
 		"eventNo": "11",
 		"jp_name": "モア",
-		"tr_name": "",
+		"tr_name": "More",
 		"jp_text": "か……カッコイイってば……！",
 		"tr_text": "",
 		"fileID": 1
@@ -1906,7 +1906,7 @@
 	{
 		"eventNo": "12",
 		"jp_name": "アーレスパルチザン",
-		"tr_name": "",
+		"tr_name": "Ares Partizan",
 		"jp_text": "同じアーレスなのに、雲泥の差だった……<%br>まだまだ修行が足りないな。",
 		"tr_text": "",
 		"fileID": 1
@@ -1914,7 +1914,7 @@
 	{
 		"eventNo": "13",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "アーレスリュウガ……<%br>あれが、アーレスの戦士か……",
 		"tr_text": "",
 		"fileID": 1
@@ -1922,7 +1922,7 @@
 	{
 		"eventNo": "14",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "…………",
 		"tr_text": "",
 		"fileID": 1
@@ -1930,7 +1930,7 @@
 	{
 		"eventNo": "15",
 		"jp_name": "ジェネ",
-		"tr_name": "",
+		"tr_name": "Gene",
 		"jp_text": "カイゼルさん？　さっきから上の空ですけど……<%br>みなさんが心配ですか？",
 		"tr_text": "",
 		"fileID": 1
@@ -1938,7 +1938,7 @@
 	{
 		"eventNo": "16",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "いえ……彼らのことは、離れていても<%br>見ているようにわかります。",
 		"tr_text": "",
 		"fileID": 1
@@ -1946,7 +1946,7 @@
 	{
 		"eventNo": "17",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "ですから、心配はしていません。<%br>……心強い味方も、呼んでありますし。",
 		"tr_text": "",
 		"fileID": 1
@@ -1954,7 +1954,7 @@
 	{
 		"eventNo": "18",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "わたくしが気になるのは……<%br>あなたのことです。",
 		"tr_text": "",
 		"fileID": 1
@@ -1962,7 +1962,7 @@
 	{
 		"eventNo": "19",
 		"jp_name": "ジェネ",
-		"tr_name": "",
+		"tr_name": "Gene",
 		"jp_text": "え……わたしですか？",
 		"tr_text": "",
 		"fileID": 1
@@ -1970,7 +1970,7 @@
 	{
 		"eventNo": "20",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "アークスのジェネ……<%br>あなたは、ウェポノイドですね？",
 		"tr_text": "",
 		"fileID": 1
@@ -1978,7 +1978,7 @@
 	{
 		"eventNo": "0",
 		"jp_name": "ジェネ",
-		"tr_name": "",
+		"tr_name": "Gene",
 		"jp_text": "わたしがウェポノイドって……<%br>どうして、そのことを……",
 		"tr_text": "",
 		"fileID": 1
@@ -1986,7 +1986,7 @@
 	{
 		"eventNo": "1",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "魂の輝きを見ればわかります……<%br>気に障りましたか？",
 		"tr_text": "",
 		"fileID": 1
@@ -1994,7 +1994,7 @@
 	{
 		"eventNo": "2",
 		"jp_name": "ジェネ",
-		"tr_name": "",
+		"tr_name": "Gene",
 		"jp_text": "あ……いえ、大丈夫です。<%br>驚きはしましたけど……",
 		"tr_text": "",
 		"fileID": 1
@@ -2002,7 +2002,7 @@
 	{
 		"eventNo": "3",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "ヒトに限りなく近いウェポノイド……ジェネ。<%br>あなたに聞きたいことがあるのです。",
 		"tr_text": "",
 		"fileID": 1
@@ -2010,7 +2010,7 @@
 	{
 		"eventNo": "4",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "あなたは「ヒト」をどう思いますか？",
 		"tr_text": "",
 		"fileID": 1
@@ -2018,7 +2018,7 @@
 	{
 		"eventNo": "5",
 		"jp_name": "ジェネ",
-		"tr_name": "",
+		"tr_name": "Gene",
 		"jp_text": "ヒト……ですか？",
 		"tr_text": "",
 		"fileID": 1
@@ -2026,7 +2026,7 @@
 	{
 		"eventNo": "6",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "あなたは、これまで多くのことを経験し<%br>様々なものを見てきた。",
 		"tr_text": "",
 		"fileID": 1
@@ -2034,7 +2034,7 @@
 	{
 		"eventNo": "7",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "だからこそ問いたいのです。<%br>その目に「ヒト」はどう映っているのですか？",
 		"tr_text": "",
 		"fileID": 1
@@ -2042,7 +2042,7 @@
 	{
 		"eventNo": "8",
 		"jp_name": "ジェネ",
-		"tr_name": "",
+		"tr_name": "Gene",
 		"jp_text": "……確かに、わたしは色々、見てきました。<%br>人のいい部分も、嫌な部分も……",
 		"tr_text": "",
 		"fileID": 1
@@ -2050,7 +2050,7 @@
 	{
 		"eventNo": "9",
 		"jp_name": "ジェネ",
-		"tr_name": "",
+		"tr_name": "Gene",
 		"jp_text": "悲しいことですけど……<%br>「ヒト」の中には、悪い人もいました。",
 		"tr_text": "",
 		"fileID": 1
@@ -2058,7 +2058,7 @@
 	{
 		"eventNo": "10",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "では……憎んでいますか？",
 		"tr_text": "",
 		"fileID": 1
@@ -2066,7 +2066,7 @@
 	{
 		"eventNo": "11",
 		"jp_name": "ジェネ",
-		"tr_name": "",
+		"tr_name": "Gene",
 		"jp_text": "い、いえ！<%br>憎むなんて……それは絶対にありません！",
 		"tr_text": "",
 		"fileID": 1
@@ -2074,7 +2074,7 @@
 	{
 		"eventNo": "12",
 		"jp_name": "ジェネ",
-		"tr_name": "",
+		"tr_name": "Gene",
 		"jp_text": "悪い人もいますけど……<%br>いい人のほうが、ずっとずっと、多いんです。",
 		"tr_text": "",
 		"fileID": 1
@@ -2082,7 +2082,7 @@
 	{
 		"eventNo": "13",
 		"jp_name": "ジェネ",
-		"tr_name": "",
+		"tr_name": "Gene",
 		"jp_text": "わたしはそのことを、リーダーや……<%br>仲間のみんなに教えてもらいました。",
 		"tr_text": "",
 		"fileID": 1
@@ -2090,7 +2090,7 @@
 	{
 		"eventNo": "14",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "……そうですか。<%br>わたくしには、理解しがたい感情です。",
 		"tr_text": "",
 		"fileID": 1
@@ -2098,7 +2098,7 @@
 	{
 		"eventNo": "15",
 		"jp_name": "ジェネ",
-		"tr_name": "",
+		"tr_name": "Gene",
 		"jp_text": "もしかして……カイゼルさんは……",
 		"tr_text": "",
 		"fileID": 1
@@ -2106,7 +2106,7 @@
 	{
 		"eventNo": "16",
 		"jp_name": "ジェネ",
-		"tr_name": "",
+		"tr_name": "Gene",
 		"jp_text": "「ヒト」を……<%br>憎んでいるん……です？",
 		"tr_text": "",
 		"fileID": 1
@@ -2114,7 +2114,7 @@
 	{
 		"eventNo": "17",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "……決めた！！",
 		"tr_text": "",
 		"fileID": 1
@@ -2122,7 +2122,7 @@
 	{
 		"eventNo": "18",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "ダーカーも片づけたことだし<%br>アーレスリュウガを追いかけよう！",
 		"tr_text": "",
 		"fileID": 1
@@ -2130,7 +2130,7 @@
 	{
 		"eventNo": "19",
 		"jp_name": "アーレスパルチザン",
-		"tr_name": "",
+		"tr_name": "Ares Partizan",
 		"jp_text": "奇遇だな。オレも同じことを考えていた。<%br>同じアーレスとして、戦い方を参考にしたい。",
 		"tr_text": "",
 		"fileID": 1
@@ -2138,7 +2138,7 @@
 	{
 		"eventNo": "20",
 		"jp_name": "アーレスランス",
-		"tr_name": "",
+		"tr_name": "Ares Lance",
 		"jp_text": "え～？　ソード、フッ軽すぎ。あたし、パス。<%br>だって、もー……メンディーだし。",
 		"tr_text": "",
 		"fileID": 1
@@ -2146,7 +2146,7 @@
 	{
 		"eventNo": "21",
 		"jp_name": "モア",
-		"tr_name": "",
+		"tr_name": "More",
 		"jp_text": "でも、ダーカー討伐の修行は<%br>どうするんだ？",
 		"tr_text": "",
 		"fileID": 1
@@ -2154,7 +2154,7 @@
 	{
 		"eventNo": "22",
 		"jp_name": "アーレスパルチザン",
-		"tr_name": "",
+		"tr_name": "Ares Partizan",
 		"jp_text": "リュウガはパトロール中と言っていた。<%br>彼のいる場所には、きっとダーカーもいる。",
 		"tr_text": "",
 		"fileID": 1
@@ -2162,7 +2162,7 @@
 	{
 		"eventNo": "23",
 		"jp_name": "アネット",
-		"tr_name": "",
+		"tr_name": "Annette",
 		"jp_text": "……リーダー。<%br>彼ら、行かせていいの？",
 		"tr_text": "",
 		"fileID": 1
@@ -2170,7 +2170,7 @@
 	{
 		"eventNo": "24",
 		"jp_name": "アネット",
-		"tr_name": "",
+		"tr_name": "Annette",
 		"jp_text": "……リーダー。<%br>彼ら、行かせていいの？",
 		"tr_text": "",
 		"jp_buttons": [
@@ -2186,7 +2186,7 @@
 	{
 		"eventNo": "25",
 		"jp_name": "ブルーノ",
-		"tr_name": "",
+		"tr_name": "Bruno",
 		"jp_text": "ま、今回の俺たちは指南役だしね。<%br>無茶しない程度に、見守ってやりますか。",
 		"tr_text": "",
 		"fileID": 1
@@ -2194,7 +2194,7 @@
 	{
 		"eventNo": "26",
 		"jp_name": "アネット",
-		"tr_name": "",
+		"tr_name": "Annette",
 		"jp_text": "リーダーが言うなら、いいけれど……<%br>危なくなったら止めるわよ。",
 		"tr_text": "",
 		"fileID": 1
@@ -2202,7 +2202,7 @@
 	{
 		"eventNo": "27",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "よーし！　それじゃ<%br>アーレスリュウガを追いかけようぜ！",
 		"tr_text": "",
 		"fileID": 1
@@ -2210,7 +2210,7 @@
 	{
 		"eventNo": "0",
 		"jp_name": "アーレスリュウガ",
-		"tr_name": "",
+		"tr_name": "Ares Ryuuga",
 		"jp_text": "……おい。",
 		"tr_text": "",
 		"fileID": 1
@@ -2218,7 +2218,7 @@
 	{
 		"eventNo": "1",
 		"jp_name": "アーレスランス",
-		"tr_name": "",
+		"tr_name": "Ares Lance",
 		"jp_text": "わっ！　リュウガ！！<%br>なに！？　やばたに？　尾行ってバレバレ！？",
 		"tr_text": "",
 		"fileID": 1
@@ -2226,7 +2226,7 @@
 	{
 		"eventNo": "2",
 		"jp_name": "アーレスリュウガ",
-		"tr_name": "",
+		"tr_name": "Ares Ryuuga",
 		"jp_text": "お前たちは騒がしすぎる。<%br>それと、ソード……すぐに足をどけろ！",
 		"tr_text": "",
 		"fileID": 1
@@ -2234,7 +2234,7 @@
 	{
 		"eventNo": "3",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "えっ！？　足！？<%br>あっ……花を踏んでたのか。",
 		"tr_text": "",
 		"fileID": 1
@@ -2242,7 +2242,7 @@
 	{
 		"eventNo": "4",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "なんだよ、花くらいで<%br>そんなに怒鳴らなくたって……",
 		"tr_text": "",
 		"fileID": 1
@@ -2250,7 +2250,7 @@
 	{
 		"eventNo": "5",
 		"jp_name": "アーレスリュウガ",
-		"tr_name": "",
+		"tr_name": "Ares Ryuuga",
 		"jp_text": "花くらい……だと？",
 		"tr_text": "",
 		"fileID": 1
@@ -2258,7 +2258,7 @@
 	{
 		"eventNo": "6",
 		"jp_name": "アーレスランス",
-		"tr_name": "",
+		"tr_name": "Ares Lance",
 		"jp_text": "えっ……<%br>もしかしてリュウガ、オコ？　オコなの？",
 		"tr_text": "",
 		"fileID": 1
@@ -2266,7 +2266,7 @@
 	{
 		"eventNo": "7",
 		"jp_name": "アーレスリュウガ",
-		"tr_name": "",
+		"tr_name": "Ares Ryuuga",
 		"jp_text": "ソードが踏んだ花は、絶滅の危機にある。<%br>花が折れれば、種を結ぶこともないんだぞ。",
 		"tr_text": "",
 		"fileID": 1
@@ -2274,7 +2274,7 @@
 	{
 		"eventNo": "8",
 		"jp_name": "アーレスリュウガ",
-		"tr_name": "",
+		"tr_name": "Ares Ryuuga",
 		"jp_text": "パルチザン、お前も先ほどの戦いで<%br>同じ花に傷をつけた。気付いていたか？",
 		"tr_text": "",
 		"fileID": 1
@@ -2282,7 +2282,7 @@
 	{
 		"eventNo": "9",
 		"jp_name": "アーレスパルチザン",
-		"tr_name": "",
+		"tr_name": "Ares Partizan",
 		"jp_text": "いや……<%br>戦うのに、夢中だった……",
 		"tr_text": "",
 		"fileID": 1
@@ -2290,7 +2290,7 @@
 	{
 		"eventNo": "10",
 		"jp_name": "アーレスリュウガ",
-		"tr_name": "",
+		"tr_name": "Ares Ryuuga",
 		"jp_text": "目の前のものに気を取られて<%br>大切なものを見失うことは誰にでもある。",
 		"tr_text": "",
 		"fileID": 1
@@ -2298,7 +2298,7 @@
 	{
 		"eventNo": "11",
 		"jp_name": "アーレスリュウガ",
-		"tr_name": "",
+		"tr_name": "Ares Ryuuga",
 		"jp_text": "確かに悪意はなかったんだろう。<%br>だが、皆が同じことをしていたらどうなる？",
 		"tr_text": "",
 		"fileID": 1
@@ -2306,7 +2306,7 @@
 	{
 		"eventNo": "12",
 		"jp_name": "アーレスリュウガ",
-		"tr_name": "",
+		"tr_name": "Ares Ryuuga",
 		"jp_text": "この星からは、瞬く間に自然が消えていく。<%br>……ソード、アーレスの使命はなんだ？",
 		"tr_text": "",
 		"fileID": 1
@@ -2314,7 +2314,7 @@
 	{
 		"eventNo": "13",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "アーレスの使命は……<%br>星を、守ること……",
 		"tr_text": "",
 		"fileID": 1
@@ -2322,7 +2322,7 @@
 	{
 		"eventNo": "14",
 		"jp_name": "アーレスリュウガ",
-		"tr_name": "",
+		"tr_name": "Ares Ryuuga",
 		"jp_text": "本当に守るべきものを忘れた者に<%br>この星で生きる資格はないぞ。",
 		"tr_text": "",
 		"fileID": 1
@@ -2330,7 +2330,7 @@
 	{
 		"eventNo": "15",
 		"jp_name": "アーレスリュウガ",
-		"tr_name": "",
+		"tr_name": "Ares Ryuuga",
 		"jp_text": "ソード、パルチザン、ランス。<%br>アーレスならば、そのことを肝に銘じておけ。",
 		"tr_text": "",
 		"fileID": 1
@@ -2346,7 +2346,7 @@
 	{
 		"eventNo": "17",
 		"jp_name": "アネット",
-		"tr_name": "",
+		"tr_name": "Annette",
 		"jp_text": "星から自然が消えていく……ね。<%br>耳が痛い話だわ。",
 		"tr_text": "",
 		"fileID": 1
@@ -2354,7 +2354,7 @@
 	{
 		"eventNo": "18",
 		"jp_name": "ブルーノ",
-		"tr_name": "",
+		"tr_name": "Bruno",
 		"jp_text": "アークスも、戦闘や研究のために<%br>自然を犠牲にしてるもんなぁ……",
 		"tr_text": "",
 		"fileID": 1
@@ -2362,7 +2362,7 @@
 	{
 		"eventNo": "19",
 		"jp_name": "ブルーノ",
-		"tr_name": "",
+		"tr_name": "Bruno",
 		"jp_text": "俺たち「ヒト」も、気付かないうちに<%br>花を踏んづけてるってことか……",
 		"tr_text": "",
 		"fileID": 1
@@ -2370,7 +2370,7 @@
 	{
 		"eventNo": "20",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "わたくしが、ヒトを憎んでいるか……<%br>今は、肯定も否定もしません。",
 		"tr_text": "",
 		"fileID": 1
@@ -2378,7 +2378,7 @@
 	{
 		"eventNo": "21",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "きっと事情もあるでしょう。彼ら……<%br>ヒトも生き延びなければなりませんから。",
 		"tr_text": "",
 		"fileID": 1
@@ -2386,7 +2386,7 @@
 	{
 		"eventNo": "22",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "ですが、彼らがこの先も<%br>いたずらに星を傷つけていくのであれば……",
 		"tr_text": "",
 		"fileID": 1
@@ -2394,7 +2394,7 @@
 	{
 		"eventNo": "23",
 		"jp_name": "ジェネ",
-		"tr_name": "",
+		"tr_name": "Gene",
 		"jp_text": "カイゼルさん……",
 		"tr_text": "",
 		"fileID": 1
@@ -2402,7 +2402,7 @@
 	{
 		"eventNo": "24",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "……見極めなければならない時が<%br>来たのかもしれませんね。",
 		"tr_text": "",
 		"fileID": 1
@@ -2410,7 +2410,7 @@
 	{
 		"eventNo": "0",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "最後の試練？<%br>女神がそう言ったのか？",
 		"tr_text": "",
 		"fileID": 1
@@ -2418,7 +2418,7 @@
 	{
 		"eventNo": "1",
 		"jp_name": "セラフィ",
-		"tr_name": "",
+		"tr_name": "Seraphy",
 		"jp_text": "はい。<%br>ジェネちゃんから、そう連絡がありました。",
 		"tr_text": "",
 		"fileID": 1
@@ -2426,7 +2426,7 @@
 	{
 		"eventNo": "2",
 		"jp_name": "アーレスランス",
-		"tr_name": "",
+		"tr_name": "Ares Lance",
 		"jp_text": "やっと修行も終わりかー！<%br>で、試練って、なにをすればいーの？",
 		"tr_text": "",
 		"fileID": 1
@@ -2434,7 +2434,7 @@
 	{
 		"eventNo": "3",
 		"jp_name": "セラフィ",
-		"tr_name": "",
+		"tr_name": "Seraphy",
 		"jp_text": "「惑星ナベリウスの遺跡奥地へ向かい<%br>　あるものを取ってくること」だそうです。",
 		"tr_text": "",
 		"fileID": 1
@@ -2442,7 +2442,7 @@
 	{
 		"eventNo": "4",
 		"jp_name": "アーレスパルチザン",
-		"tr_name": "",
+		"tr_name": "Ares Partizan",
 		"jp_text": "あるもの……？<%br>それだけでは、わからないぞ。",
 		"tr_text": "",
 		"fileID": 1
@@ -2450,7 +2450,7 @@
 	{
 		"eventNo": "5",
 		"jp_name": "セラフィ",
-		"tr_name": "",
+		"tr_name": "Seraphy",
 		"jp_text": "すみません……こちらでもわからないのです。<%br>ジェネちゃんも聞いていないみたいで……",
 		"tr_text": "",
 		"fileID": 1
@@ -2458,7 +2458,7 @@
 	{
 		"eventNo": "6",
 		"jp_name": "アネット",
-		"tr_name": "",
+		"tr_name": "Annette",
 		"jp_text": "……なんだか妙な感じね。<%br>ジェネ、大丈夫かしら。",
 		"tr_text": "",
 		"fileID": 1
@@ -2466,7 +2466,7 @@
 	{
 		"eventNo": "7",
 		"jp_name": "セラフィ",
-		"tr_name": "",
+		"tr_name": "Seraphy",
 		"jp_text": "それと……リーダー。<%br>もうひとつ、伝言があります。",
 		"tr_text": "",
 		"fileID": 1
@@ -2474,7 +2474,7 @@
 	{
 		"eventNo": "8",
 		"jp_name": "セラフィ",
-		"tr_name": "",
+		"tr_name": "Seraphy",
 		"jp_text": "この最後の試練……<%br>３人のうち、誰も合格しなかったら……",
 		"tr_text": "",
 		"fileID": 1
@@ -2482,7 +2482,7 @@
 	{
 		"eventNo": "9",
 		"jp_name": "セラフィ",
-		"tr_name": "",
+		"tr_name": "Seraphy",
 		"jp_text": "アーレスカイゼルさんは……<%br>惑星守護の任務を降りるそうです。",
 		"tr_text": "",
 		"fileID": 1
@@ -2490,7 +2490,7 @@
 	{
 		"eventNo": "10",
 		"jp_name": "モア",
-		"tr_name": "",
+		"tr_name": "More",
 		"jp_text": "ええっ！？<%br>どういうことだってば！",
 		"tr_text": "",
 		"fileID": 1
@@ -2498,7 +2498,7 @@
 	{
 		"eventNo": "11",
 		"jp_name": "セラフィ",
-		"tr_name": "",
+		"tr_name": "Seraphy",
 		"jp_text": "任務を続けるための条件を満たせなかった……<%br>ということになるので、筋は通っています。",
 		"tr_text": "",
 		"fileID": 1
@@ -2506,7 +2506,7 @@
 	{
 		"eventNo": "12",
 		"jp_name": "ブルーノ",
-		"tr_name": "",
+		"tr_name": "Bruno",
 		"jp_text": "けど、それって<%br>アークスとしては……マズくない？",
 		"tr_text": "",
 		"fileID": 1
@@ -2514,7 +2514,7 @@
 	{
 		"eventNo": "13",
 		"jp_name": "アネット",
-		"tr_name": "",
+		"tr_name": "Annette",
 		"jp_text": "そうね……「惑星守護型ウェポノイド」計画は<%br>失敗ってことになるんだもの。",
 		"tr_text": "",
 		"fileID": 1
@@ -2522,7 +2522,7 @@
 	{
 		"eventNo": "14",
 		"jp_name": "モア",
-		"tr_name": "",
+		"tr_name": "More",
 		"jp_text": "うわぁ……<%br>せきにんじゅーだいだぞ、リーダー。",
 		"tr_text": "",
 		"fileID": 1
@@ -2530,7 +2530,7 @@
 	{
 		"eventNo": "15",
 		"jp_name": "モア",
-		"tr_name": "",
+		"tr_name": "More",
 		"jp_text": "うわぁ……<%br>せきにんじゅーだいだぞ、リーダー。",
 		"tr_text": "",
 		"jp_buttons": [
@@ -2546,7 +2546,7 @@
 	{
 		"eventNo": "16",
 		"jp_name": "アネット",
-		"tr_name": "",
+		"tr_name": "Annette",
 		"jp_text": "ええ、そうね。<%br>最後まで気を抜かずにいきましょう。",
 		"tr_text": "",
 		"fileID": 1
@@ -2554,7 +2554,7 @@
 	{
 		"eventNo": "17",
 		"jp_name": "モア",
-		"tr_name": "",
+		"tr_name": "More",
 		"jp_text": "ダーカーもいっぱい倒してきたし<%br>きっと大丈夫だってば！",
 		"tr_text": "",
 		"fileID": 1
@@ -2562,7 +2562,7 @@
 	{
 		"eventNo": "18",
 		"jp_name": "セラフィ",
-		"tr_name": "",
+		"tr_name": "Seraphy",
 		"jp_text": "すみませんが、よろしくお願いします。<%br>みなさんのこと、信じてます……！",
 		"tr_text": "",
 		"fileID": 1
@@ -2570,7 +2570,7 @@
 	{
 		"eventNo": "0",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "やっと着いた……けど<%br>結局、なにを持って帰ればいいんだ？",
 		"tr_text": "",
 		"fileID": 1
@@ -2578,7 +2578,7 @@
 	{
 		"eventNo": "1",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "みなさん、そろっていますね。",
 		"tr_text": "",
 		"fileID": 1
@@ -2586,7 +2586,7 @@
 	{
 		"eventNo": "2",
 		"jp_name": "ジェネ",
-		"tr_name": "",
+		"tr_name": "Gene",
 		"jp_text": "リーダー、みなさん。<%br>お疲れさまです！",
 		"tr_text": "",
 		"fileID": 1
@@ -2594,7 +2594,7 @@
 	{
 		"eventNo": "3",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "め、女神……じゃない、カイゼル様！<%br>わ、わざわざ来たのか！？",
 		"tr_text": "",
 		"fileID": 1
@@ -2602,7 +2602,7 @@
 	{
 		"eventNo": "4",
 		"jp_name": "アネット",
-		"tr_name": "",
+		"tr_name": "Annette",
 		"jp_text": "ジェネも……何事もないみたいね。<%br>良かった……",
 		"tr_text": "",
 		"fileID": 1
@@ -2610,7 +2610,7 @@
 	{
 		"eventNo": "5",
 		"jp_name": "アーレスパルチザン",
-		"tr_name": "",
+		"tr_name": "Ares Partizan",
 		"jp_text": "カイゼル様。それで……<%br>「あるもの」とは、なんなのですか？",
 		"tr_text": "",
 		"fileID": 1
@@ -2618,7 +2618,7 @@
 	{
 		"eventNo": "6",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "わたくしが求めている「あるもの」……<%br>それは、そこに咲いている花です。",
 		"tr_text": "",
 		"fileID": 1
@@ -2626,7 +2626,7 @@
 	{
 		"eventNo": "7",
 		"jp_name": "アーレスランス",
-		"tr_name": "",
+		"tr_name": "Ares Lance",
 		"jp_text": "花？　……って、ちょっと待ってよ。<%br>そこに咲いてるのって……",
 		"tr_text": "",
 		"fileID": 1
@@ -2634,7 +2634,7 @@
 	{
 		"eventNo": "8",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "オレが前に踏んじまったのと同じ……<%br>絶滅寸前の花だ。",
 		"tr_text": "",
 		"fileID": 1
@@ -2642,7 +2642,7 @@
 	{
 		"eventNo": "9",
 		"jp_name": "アーレスパルチザン",
-		"tr_name": "",
+		"tr_name": "Ares Partizan",
 		"jp_text": "カイゼル様……<%br>なぜ、これを……？",
 		"tr_text": "",
 		"fileID": 1
@@ -2650,7 +2650,7 @@
 	{
 		"eventNo": "10",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "これは、戦士にとって伝統ある花だからです。<%br>ただし、これは絶滅の危機にある花。",
 		"tr_text": "",
 		"fileID": 1
@@ -2658,7 +2658,7 @@
 	{
 		"eventNo": "11",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "摘んで良いのは、１輪だけとします。<%br>つまり、戦士となれるのはひとりだけです。",
 		"tr_text": "",
 		"fileID": 1
@@ -2666,7 +2666,7 @@
 	{
 		"eventNo": "12",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "さあ、アーレスのユニコーンたち。<%br>誰が花を摘み、わたくしに捧げますか？",
 		"tr_text": "",
 		"fileID": 1
@@ -2674,7 +2674,7 @@
 	{
 		"eventNo": "13",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "…………",
 		"tr_text": "",
 		"fileID": 1
@@ -2682,7 +2682,7 @@
 	{
 		"eventNo": "14",
 		"jp_name": "アーレスリュウガ",
-		"tr_name": "",
+		"tr_name": "Ares Ryuuga",
 		"jp_text": "本当に守るべきものを忘れた者に<%br>この星で生きる資格はないぞ。",
 		"tr_text": "",
 		"fileID": 1
@@ -2690,7 +2690,7 @@
 	{
 		"eventNo": "15",
 		"jp_name": "アーレスパルチザン",
-		"tr_name": "",
+		"tr_name": "Ares Partizan",
 		"jp_text": "ソード……<%br>まさかお前、迷っているのか？",
 		"tr_text": "",
 		"fileID": 1
@@ -2698,7 +2698,7 @@
 	{
 		"eventNo": "16",
 		"jp_name": "アーレスランス",
-		"tr_name": "",
+		"tr_name": "Ares Lance",
 		"jp_text": "ま、ソードは人一倍<%br>戦士として認められたがってたしねー。",
 		"tr_text": "",
 		"fileID": 1
@@ -2706,7 +2706,7 @@
 	{
 		"eventNo": "17",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "……心配すんな。答えは決まってる。<%br>パルチザン、ランス。お前らも一緒だよな？",
 		"tr_text": "",
 		"fileID": 1
@@ -2714,7 +2714,7 @@
 	{
 		"eventNo": "18",
 		"jp_name": "アーレスパルチザン",
-		"tr_name": "",
+		"tr_name": "Ares Partizan",
 		"jp_text": "聞かれるまでもないさ。",
 		"tr_text": "",
 		"fileID": 1
@@ -2722,7 +2722,7 @@
 	{
 		"eventNo": "19",
 		"jp_name": "アーレスランス",
-		"tr_name": "",
+		"tr_name": "Ares Lance",
 		"jp_text": "もちろん！",
 		"tr_text": "",
 		"fileID": 1
@@ -2730,7 +2730,7 @@
 	{
 		"eventNo": "20",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "では……わたくしに<%br>その花を捧げなさい。",
 		"tr_text": "",
 		"fileID": 1
@@ -2738,7 +2738,7 @@
 	{
 		"eventNo": "21",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "…………",
 		"tr_text": "",
 		"fileID": 1
@@ -2746,7 +2746,7 @@
 	{
 		"eventNo": "22",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "どうしました？　なぜ誰も摘まないのです。<%br>戦士になりたくないのですか？",
 		"tr_text": "",
 		"fileID": 1
@@ -2754,7 +2754,7 @@
 	{
 		"eventNo": "23",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "戦士にはなりてぇよ。<%br>だからこそ……オレたちはあの花を摘まない。",
 		"tr_text": "",
 		"fileID": 1
@@ -2762,7 +2762,7 @@
 	{
 		"eventNo": "24",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "だって、アーレスは<%br>星を守るのが使命なんだろ。",
 		"tr_text": "",
 		"fileID": 1
@@ -2770,7 +2770,7 @@
 	{
 		"eventNo": "25",
 		"jp_name": "アーレスパルチザン",
-		"tr_name": "",
+		"tr_name": "Ares Partizan",
 		"jp_text": "自分の利益のために<%br>自然を壊すことなど……許されはしない。",
 		"tr_text": "",
 		"fileID": 1
@@ -2778,7 +2778,7 @@
 	{
 		"eventNo": "26",
 		"jp_name": "アーレスランス",
-		"tr_name": "",
+		"tr_name": "Ares Lance",
 		"jp_text": "それにさ、どうせなら３人いっしょがいいし。<%br>そのほうが、アガるしさー！",
 		"tr_text": "",
 		"fileID": 1
@@ -2786,7 +2786,7 @@
 	{
 		"eventNo": "27",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "……<%name>殿。<%br>あなたも、それで良いのですか？",
 		"tr_text": "",
 		"fileID": 1
@@ -2794,7 +2794,7 @@
 	{
 		"eventNo": "28",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "彼らに花を摘ませなければ<%br>交渉は決裂ということになるのですよ。",
 		"tr_text": "",
 		"fileID": 1
@@ -2802,7 +2802,7 @@
 	{
 		"eventNo": "29",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "彼らに花を摘ませなければ<%br>交渉は決裂ということになるのですよ。",
 		"tr_text": "",
 		"jp_buttons": [
@@ -2818,7 +2818,7 @@
 	{
 		"eventNo": "30",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "……どうしても断るというのですね。<%br>ならば、仕方ありません。",
 		"tr_text": "",
 		"fileID": 1
@@ -2826,7 +2826,7 @@
 	{
 		"eventNo": "31",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "……それはできません。<%br>その花を捧げることが、儀式なのです。",
 		"tr_text": "",
 		"fileID": 1
@@ -2834,7 +2834,7 @@
 	{
 		"eventNo": "32",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "だったら……オレは戦士にならなくていい。<%br>オレの信じる女神は……そんなこと言わない！",
 		"tr_text": "",
 		"fileID": 1
@@ -2842,7 +2842,7 @@
 	{
 		"eventNo": "33",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "…………",
 		"tr_text": "",
 		"fileID": 1
@@ -2850,7 +2850,7 @@
 	{
 		"eventNo": "34",
 		"jp_name": "ジェネ",
-		"tr_name": "",
+		"tr_name": "Gene",
 		"jp_text": "カイゼルさん……",
 		"tr_text": "",
 		"fileID": 1
@@ -2866,7 +2866,7 @@
 	{
 		"eventNo": "36",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "ソード、パルチザン、ランス……<%br>あなたたち３人を、戦士として認めましょう。",
 		"tr_text": "",
 		"fileID": 1
@@ -2874,7 +2874,7 @@
 	{
 		"eventNo": "37",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "……えっ！？",
 		"tr_text": "",
 		"fileID": 1
@@ -2882,7 +2882,7 @@
 	{
 		"eventNo": "0",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "戦士として認めるって……どういうことだ！？<%br>オレたち、試練をクリアできなかったのに！",
 		"tr_text": "",
 		"fileID": 1
@@ -2890,7 +2890,7 @@
 	{
 		"eventNo": "1",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "誘惑に打ち勝ち、あの花を摘まないこと。<%br>それこそが、本当の試練だったのです。",
 		"tr_text": "",
 		"fileID": 1
@@ -2898,7 +2898,7 @@
 	{
 		"eventNo": "2",
 		"jp_name": "アーレスランス",
-		"tr_name": "",
+		"tr_name": "Ares Lance",
 		"jp_text": "ええええっ！？<%br>なにそれ！？　どゆこと！？",
 		"tr_text": "",
 		"fileID": 1
@@ -2906,7 +2906,7 @@
 	{
 		"eventNo": "3",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "ふふ……わたくしが選んだユニコーンならば<%br>正しい選択をすると信じていました。",
 		"tr_text": "",
 		"fileID": 1
@@ -2914,7 +2914,7 @@
 	{
 		"eventNo": "4",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "そして、アークスのみなさん……<%br>あなた方もまた、正しい選択をしました。",
 		"tr_text": "",
 		"fileID": 1
@@ -2922,7 +2922,7 @@
 	{
 		"eventNo": "5",
 		"jp_name": "ジェネ",
-		"tr_name": "",
+		"tr_name": "Gene",
 		"jp_text": "カイゼルさんは……アークスと一緒に<%br>星を守っていけるのか、迷っていたんです。",
 		"tr_text": "",
 		"fileID": 1
@@ -2930,7 +2930,7 @@
 	{
 		"eventNo": "6",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "わたくしが見てきた「ヒト」は……<%br>己のためにのみ生きる種族でした。",
 		"tr_text": "",
 		"fileID": 1
@@ -2938,7 +2938,7 @@
 	{
 		"eventNo": "7",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "己のために、わたくしを作り……<%br>己のために、わたくしに命令を下す……",
 		"tr_text": "",
 		"fileID": 1
@@ -2946,7 +2946,7 @@
 	{
 		"eventNo": "8",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "そんな強欲で傲慢な種族と手を取り合って……<%br>本当に、大切な星は守れるのか？",
 		"tr_text": "",
 		"fileID": 1
@@ -2954,7 +2954,7 @@
 	{
 		"eventNo": "9",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "その問いの答えを出すには、ヒトという存在を<%br>改めて見極める必要がありました。",
 		"tr_text": "",
 		"fileID": 1
@@ -2962,7 +2962,7 @@
 	{
 		"eventNo": "10",
 		"jp_name": "ブルーノ",
-		"tr_name": "",
+		"tr_name": "Bruno",
 		"jp_text": "なるほどね。それで<%br>「信頼できるアークス」を呼んだわけだ。",
 		"tr_text": "",
 		"fileID": 1
@@ -2970,7 +2970,7 @@
 	{
 		"eventNo": "11",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "あなた方は、星をむやみに傷つけることもなく<%br>我欲に支配されることもありませんでした。",
 		"tr_text": "",
 		"fileID": 1
@@ -2978,7 +2978,7 @@
 	{
 		"eventNo": "12",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "今のソードたちを見てもわかります。<%br>正しく導いてくれて、ありがとうございました。",
 		"tr_text": "",
 		"fileID": 1
@@ -2986,7 +2986,7 @@
 	{
 		"eventNo": "13",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "セラフィ、聞こえていますか？",
 		"tr_text": "",
 		"fileID": 1
@@ -2994,7 +2994,7 @@
 	{
 		"eventNo": "14",
 		"jp_name": "セラフィ",
-		"tr_name": "",
+		"tr_name": "Seraphy",
 		"jp_text": "はい。<%br>聞こえています、アーレスカイゼルさん。",
 		"tr_text": "",
 		"fileID": 1
@@ -3002,7 +3002,7 @@
 	{
 		"eventNo": "15",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "すべてのヒトを信じたわけではありません。<%br>ですが……希望はあると、わかりました。",
 		"tr_text": "",
 		"fileID": 1
@@ -3010,7 +3010,7 @@
 	{
 		"eventNo": "16",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "ここに誓いましょう。<%br>アーレスは、アークスと共に星を守護すると。",
 		"tr_text": "",
 		"fileID": 1
@@ -3018,7 +3018,7 @@
 	{
 		"eventNo": "17",
 		"jp_name": "セラフィ",
-		"tr_name": "",
+		"tr_name": "Seraphy",
 		"jp_text": "アーレスカイゼルさん……！<%br>ありがとうございます！",
 		"tr_text": "",
 		"fileID": 1
@@ -3026,7 +3026,7 @@
 	{
 		"eventNo": "18",
 		"jp_name": "？？？",
-		"tr_name": "",
+		"tr_name": "???",
 		"jp_text": "ふふふ……なに言ってるの、あなた？<%br>希望……？　まだそんなものを信じてるの？",
 		"tr_text": "",
 		"fileID": 1
@@ -3034,7 +3034,7 @@
 	{
 		"eventNo": "19",
 		"jp_name": "？？？",
-		"tr_name": "",
+		"tr_name": "???",
 		"jp_text": "星を守るために……もっとも不要なのはヒト。<%br>ヒトこそが、害悪でしょうに。",
 		"tr_text": "",
 		"fileID": 1
@@ -3042,7 +3042,7 @@
 	{
 		"eventNo": "20",
 		"jp_name": "アーレスパルチザン",
-		"tr_name": "",
+		"tr_name": "Ares Partizan",
 		"jp_text": "っ！　誰だっ！？",
 		"tr_text": "",
 		"fileID": 1
@@ -3050,7 +3050,7 @@
 	{
 		"eventNo": "21",
 		"jp_name": "？？？",
-		"tr_name": "",
+		"tr_name": "???",
 		"jp_text": "「アーレスブーツ」……<%br>「アーレスバスター」……行きなさい。",
 		"tr_text": "",
 		"fileID": 1
@@ -3058,7 +3058,7 @@
 	{
 		"eventNo": "22",
 		"jp_name": "アーレスブーツ",
-		"tr_name": "",
+		"tr_name": "Ares Boots",
 		"jp_text": "はい！　「アーレスネスト」様！！<%br>まかせてください！！",
 		"tr_text": "",
 		"fileID": 1
@@ -3066,7 +3066,7 @@
 	{
 		"eventNo": "23",
 		"jp_name": "アーレスバスター",
-		"tr_name": "",
+		"tr_name": "Ares Buster",
 		"jp_text": "アーレスネスト様の命令だから……<%br>手加減は……しないわよ。",
 		"tr_text": "",
 		"fileID": 1
@@ -3074,7 +3074,7 @@
 	{
 		"eventNo": "24",
 		"jp_name": "アーレスランス",
-		"tr_name": "",
+		"tr_name": "Ares Lance",
 		"jp_text": "アーレス？　今、アーレスって言った？<%br>もしかしてあたしたちの仲間っ？",
 		"tr_text": "",
 		"fileID": 1
@@ -3082,7 +3082,7 @@
 	{
 		"eventNo": "25",
 		"jp_name": "アネット",
-		"tr_name": "",
+		"tr_name": "Annette",
 		"jp_text": "……いいえ、残念ながら、ちがうみたいよ！",
 		"tr_text": "",
 		"fileID": 1
@@ -3090,7 +3090,7 @@
 	{
 		"eventNo": "26",
 		"jp_name": "モア",
-		"tr_name": "",
+		"tr_name": "More",
 		"jp_text": "アイツら……<%br>原生種をけしかけてきたってば！！",
 		"tr_text": "",
 		"fileID": 1
@@ -3098,7 +3098,7 @@
 	{
 		"eventNo": "27",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "あなたは……<%br>アーレス……ネスト……？",
 		"tr_text": "",
 		"fileID": 1
@@ -3106,7 +3106,7 @@
 	{
 		"eventNo": "28",
 		"jp_name": "アーレスネスト",
-		"tr_name": "",
+		"tr_name": "Ares Nest",
 		"jp_text": "はじめまして……かしら？<%br>カイゼル、あなたのことはよく知っています。",
 		"tr_text": "",
 		"fileID": 1
@@ -3114,7 +3114,7 @@
 	{
 		"eventNo": "29",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "セラフィ！　約束を破ったのですか！！<%br>「アーレス」は、もう最後にすると！",
 		"tr_text": "",
 		"fileID": 1
@@ -3122,7 +3122,7 @@
 	{
 		"eventNo": "30",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "よくわかんねぇけど……パルチザン、ランス！<%br>女神を守るぞ！！",
 		"tr_text": "",
 		"fileID": 1
@@ -3130,7 +3130,7 @@
 	{
 		"eventNo": "31",
 		"jp_name": "ジェネ",
-		"tr_name": "",
+		"tr_name": "Gene",
 		"jp_text": "リーダー、わたし達も協力しましょう！<%br>カイゼルさんを守らなきゃ！",
 		"tr_text": "",
 		"fileID": 1
@@ -3138,7 +3138,7 @@
 	{
 		"eventNo": "0",
 		"jp_name": "セラフィ",
-		"tr_name": "",
+		"tr_name": "Seraphy",
 		"jp_text": "新たなアーレスのウェポノイド！？<%br>そんな……私は確かに伝えた！　なのに！？",
 		"tr_text": "",
 		"fileID": 1
@@ -3146,7 +3146,7 @@
 	{
 		"eventNo": "1",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "セラフィ……どういうことですか、これは！<%br>わたくしを裏切ったのですか！？",
 		"tr_text": "",
 		"fileID": 1
@@ -3154,7 +3154,7 @@
 	{
 		"eventNo": "2",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "セラフィ……どういうことですか、これは！<%br>わたくしを裏切ったのですか！？",
 		"tr_text": "",
 		"jp_buttons": [
@@ -3170,7 +3170,7 @@
 	{
 		"eventNo": "3",
 		"jp_name": "ジェネ",
-		"tr_name": "",
+		"tr_name": "Gene",
 		"jp_text": "カイゼルさん、待ってください！<%br>きっと誤解があったんだと思います！",
 		"tr_text": "",
 		"fileID": 1
@@ -3178,7 +3178,7 @@
 	{
 		"eventNo": "4",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "ならば、説明しなさい。<%br>このわたくしが納得できる説明を！",
 		"tr_text": "",
 		"fileID": 1
@@ -3186,7 +3186,7 @@
 	{
 		"eventNo": "5",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "わたくしが求めているのは、説明です。<%br>謝罪ではない。見くびらないでもらいたい。",
 		"tr_text": "",
 		"fileID": 1
@@ -3194,7 +3194,7 @@
 	{
 		"eventNo": "6",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "説明しなさい、セラフィ。<%br>このわたくしが納得できる説明を！",
 		"tr_text": "",
 		"fileID": 1
@@ -3202,7 +3202,7 @@
 	{
 		"eventNo": "7",
 		"jp_name": "セラフィ",
-		"tr_name": "",
+		"tr_name": "Seraphy",
 		"jp_text": "す、すみません……<%br>こうなる前に、気付くべきでした。",
 		"tr_text": "",
 		"fileID": 1
@@ -3210,7 +3210,7 @@
 	{
 		"eventNo": "8",
 		"jp_name": "セラフィ",
-		"tr_name": "",
+		"tr_name": "Seraphy",
 		"jp_text": "チップ研究所で妙な動きがあることは<%br>察していたのですが……",
 		"tr_text": "",
 		"fileID": 1
@@ -3218,7 +3218,7 @@
 	{
 		"eventNo": "9",
 		"jp_name": "ブルーノ",
-		"tr_name": "",
+		"tr_name": "Bruno",
 		"jp_text": "セラフィさんは悪くないって。<%br>どうせ上の奴らが報告を握りつぶしたんだろ。",
 		"tr_text": "",
 		"fileID": 1
@@ -3226,7 +3226,7 @@
 	{
 		"eventNo": "10",
 		"jp_name": "ブルーノ",
-		"tr_name": "",
+		"tr_name": "Bruno",
 		"jp_text": "考えてみりゃ、あんな欲深い奴らが<%br>１体作って、ハイ満足……なんてはずがない。",
 		"tr_text": "",
 		"fileID": 1
@@ -3234,7 +3234,7 @@
 	{
 		"eventNo": "11",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "彼女は……アーレスネスト。<%br>わたくしと同じ、アーレスの女神です。",
 		"tr_text": "",
 		"fileID": 1
@@ -3242,7 +3242,7 @@
 	{
 		"eventNo": "12",
 		"jp_name": "アーレスネスト",
-		"tr_name": "",
+		"tr_name": "Ares Nest",
 		"jp_text": "そう。私もアーレスの女神。<%br>カイゼルと同じ……星を守りし女神です。",
 		"tr_text": "",
 		"fileID": 1
@@ -3250,7 +3250,7 @@
 	{
 		"eventNo": "13",
 		"jp_name": "アーレスネスト",
-		"tr_name": "",
+		"tr_name": "Ares Nest",
 		"jp_text": "カイゼル……忘れてしまったのですか？<%br>アーレスとして、あなたがなすべきことを。",
 		"tr_text": "",
 		"fileID": 1
@@ -3258,7 +3258,7 @@
 	{
 		"eventNo": "14",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "なすべきことは、星を守ること。<%br>ヒトと手を取り合うと決めたのも……そのため。",
 		"tr_text": "",
 		"fileID": 1
@@ -3266,7 +3266,7 @@
 	{
 		"eventNo": "15",
 		"jp_name": "アーレスネスト",
-		"tr_name": "",
+		"tr_name": "Ares Nest",
 		"jp_text": "だから、それが間違いだと言うの。<%br>ヒトは……星から搾取するだけ。ダーカーと同じ。",
 		"tr_text": "",
 		"fileID": 1
@@ -3274,7 +3274,7 @@
 	{
 		"eventNo": "16",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "確かに、ヒトの中にはそういうのもいる。<%br>しかし、信じるに足るヒトもいます！",
 		"tr_text": "",
 		"fileID": 1
@@ -3282,7 +3282,7 @@
 	{
 		"eventNo": "17",
 		"jp_name": "アーレスネスト",
-		"tr_name": "",
+		"tr_name": "Ares Nest",
 		"jp_text": "……もういいわ。目指す場所は同じなのに<%br>私とは異なる道を……選んだのでしょう？",
 		"tr_text": "",
 		"fileID": 1
@@ -3290,7 +3290,7 @@
 	{
 		"eventNo": "18",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "おい！<%br>あんた、さっきからなんなんだよ！？",
 		"tr_text": "",
 		"fileID": 1
@@ -3298,7 +3298,7 @@
 	{
 		"eventNo": "19",
 		"jp_name": "アーレスパルチザン",
-		"tr_name": "",
+		"tr_name": "Ares Partizan",
 		"jp_text": "お下がりください、カイゼル様。<%br>この者たちからは……敵意を感じます！！",
 		"tr_text": "",
 		"fileID": 1
@@ -3306,7 +3306,7 @@
 	{
 		"eventNo": "20",
 		"jp_name": "アーレスランス",
-		"tr_name": "",
+		"tr_name": "Ares Lance",
 		"jp_text": "あたしたちにまかせて！<%br>こういうヤカラは、ワンパンくれてやんなきゃ！",
 		"tr_text": "",
 		"fileID": 1
@@ -3314,7 +3314,7 @@
 	{
 		"eventNo": "21",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "気持ちはうれしいのですが……<%br>あなたたちでは……ネストには……",
 		"tr_text": "",
 		"fileID": 1
@@ -3322,7 +3322,7 @@
 	{
 		"eventNo": "22",
 		"jp_name": "アーレスネスト",
-		"tr_name": "",
+		"tr_name": "Ares Nest",
 		"jp_text": "彼らがあなたのユニコーン？<%br>いいでしょう。それなら見せてもらいましょう。",
 		"tr_text": "",
 		"fileID": 1
@@ -3330,7 +3330,7 @@
 	{
 		"eventNo": "23",
 		"jp_name": "アーレスネスト",
-		"tr_name": "",
+		"tr_name": "Ares Nest",
 		"jp_text": "カイゼル……あなたの信じるヒトが……<%br>どれほどユニコーンたちを強くしたのか。",
 		"tr_text": "",
 		"fileID": 1
@@ -3338,7 +3338,7 @@
 	{
 		"eventNo": "24",
 		"jp_name": "ブルーノ",
-		"tr_name": "",
+		"tr_name": "Bruno",
 		"jp_text": "……なんか俺たち、また試されてる？",
 		"tr_text": "",
 		"fileID": 1
@@ -3346,7 +3346,7 @@
 	{
 		"eventNo": "25",
 		"jp_name": "アネット",
-		"tr_name": "",
+		"tr_name": "Annette",
 		"jp_text": "……仕方ないわ。<%br>バカな上層部のせいで、信用はガタ落ちだもの。",
 		"tr_text": "",
 		"fileID": 1
@@ -3354,7 +3354,7 @@
 	{
 		"eventNo": "26",
 		"jp_name": "アーレスネスト",
-		"tr_name": "",
+		"tr_name": "Ares Nest",
 		"jp_text": "そうですね。決闘……どうかしら？<%br>互いのユニコーン同士を戦わせるというのは。",
 		"tr_text": "",
 		"fileID": 1
@@ -3362,7 +3362,7 @@
 	{
 		"eventNo": "27",
 		"jp_name": "ジェネ",
-		"tr_name": "",
+		"tr_name": "Gene",
 		"jp_text": "け、決闘！？",
 		"tr_text": "",
 		"fileID": 1
@@ -3370,7 +3370,7 @@
 	{
 		"eventNo": "28",
 		"jp_name": "アーレスソード",
-		"tr_name": "",
+		"tr_name": "Ares Sword",
 		"jp_text": "望むところだ！<%br>女神のために絶対勝ってやる！！",
 		"tr_text": "",
 		"fileID": 1
@@ -3378,7 +3378,7 @@
 	{
 		"eventNo": "29",
 		"jp_name": "アーレスパルチザン",
-		"tr_name": "",
+		"tr_name": "Ares Partizan",
 		"jp_text": "ふっ……やっとカイゼル様に<%br>修行の成果を見せられるな。",
 		"tr_text": "",
 		"fileID": 1
@@ -3386,7 +3386,7 @@
 	{
 		"eventNo": "30",
 		"jp_name": "アーレスランス",
-		"tr_name": "",
+		"tr_name": "Ares Lance",
 		"jp_text": "アイツら、ちょっとヤな感じだし。<%br>ランピーちゃんだって、マジになるっての。",
 		"tr_text": "",
 		"fileID": 1
@@ -3394,7 +3394,7 @@
 	{
 		"eventNo": "31",
 		"jp_name": "アーレスバスター",
-		"tr_name": "",
+		"tr_name": "Ares Buster",
 		"jp_text": "同じアーレスのユニコーンなのに……<%br>どうしてこうも愚かなのかしら。",
 		"tr_text": "",
 		"fileID": 1
@@ -3402,7 +3402,7 @@
 	{
 		"eventNo": "32",
 		"jp_name": "アーレスバスター",
-		"tr_name": "",
+		"tr_name": "Ares Buster",
 		"jp_text": "ブーツ……万が一にもないとは思うけど<%br>負けても泣いたらダメだからね。",
 		"tr_text": "",
 		"fileID": 1
@@ -3410,7 +3410,7 @@
 	{
 		"eventNo": "33",
 		"jp_name": "アーレスブーツ",
-		"tr_name": "",
+		"tr_name": "Ares Boots",
 		"jp_text": "な、泣くもんか！　勝つのはボクだもん！<%br>ネスト様のためにも……ボクは負けないんだ！",
 		"tr_text": "",
 		"fileID": 1
@@ -3418,7 +3418,7 @@
 	{
 		"eventNo": "34",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "<%name>殿……<%br>わたくしは、あなた方を信じると決めました。",
 		"tr_text": "",
 		"fileID": 1
@@ -3426,7 +3426,7 @@
 	{
 		"eventNo": "35",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "わたくしの出した答えが正しかったこと……<%br>どうか証明してください。",
 		"tr_text": "",
 		"fileID": 1
@@ -3434,7 +3434,7 @@
 	{
 		"eventNo": "36",
 		"jp_name": "アーレスカイゼル",
-		"tr_name": "",
+		"tr_name": "Ares Kaiser",
 		"jp_text": "ソードたち……若きユニコーンの戦士たちの<%br>力となってください。",
 		"tr_text": "",
 		"fileID": 1
@@ -3442,7 +3442,7 @@
 	{
 		"eventNo": "37",
 		"jp_name": "アーレスネスト",
-		"tr_name": "",
+		"tr_name": "Ares Nest",
 		"jp_text": "ふふ……では始めましょうか？<%br>星のために……アーレスとアーレスの戦いを！",
 		"tr_text": "",
 		"fileID": 1
@@ -3460,7 +3460,7 @@
 		"jp_name": "",
 		"tr_name": "",
 		"jp_text": "―Next Time―<%br><size=80>ストーリー　オブ　アーレス<%br>The ２nd Record</size>",
-		"tr_text": "",
+		"tr_text": "- Next Time -<%br><size=80>Story of Ares<%br>The 2nd Record</size>",
 		"fileID": 1
 	}
 ]
