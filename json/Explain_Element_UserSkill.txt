@@ -2482,42 +2482,42 @@
 		"jp_text": "Ｓ１：花ノ赤閃",
 		"tr_text": "S1:Red Petal Flash",
 		"jp_explain": "与ダメージ450,000毎に\n30秒間\n3％威力上昇。",
-		"tr_explain": "Grants a 3% damage\nbonus for 30 seconds each\ntime you deal a total of\n450,000 damage."
+		"tr_explain": "Grants a 3% damage\nbonus for 30 seconds\neach time you deal a\ntotal of 450,000\ndamage."
 	},
 	{
 		"assign": "355",
 		"jp_text": "Ｓ１：海ノ青閃",
 		"tr_text": "S1:Blue Ocean Flash",
 		"jp_explain": "被ダメージ600毎に\n30秒間\n毎秒ＨＰが4％回復。",
-		"tr_explain": "Recovers 4% of your HP\nevery second for 30\nseconds each time you\ntake a total of 600\ndamage."
+		"tr_explain": "Recovers 4% of your\nHP every second for\n30 seconds each time\nyou take a total of 600\ndamage."
 	},
 	{
 		"assign": "356",
 		"jp_text": "Ｓ１：葉ノ緑閃",
 		"tr_text": "S1:Green Leaf Flash",
 		"jp_explain": "被ダメージを8％軽減し\n怯まなくなるバリアが\n20秒間隔で発生・消滅。",
-		"tr_explain": "Grants a barrier that cuts\ndamage you take by 8%\nand prevents flinching or\nbeing knocked down. The\nbarrier toggles on/off\nevery 20 seconds."
+		"tr_explain": "Grants a barrier that\ncuts damage you take\nby 8% and prevents\nflinching or being\nknocked down. The\nbarrier toggles on/off\nevery 20 seconds."
 	},
 	{
 		"assign": "357",
 		"jp_text": "Ｓ１：月ノ黄閃",
 		"tr_text": "S1:Yellow Moon Flash",
 		"jp_explain": "ジャストガード成功時に\n20秒間\nＰＰ消費量を8％軽減。",
-		"tr_explain": "Reduces PP consumption\nfor 20 seconds each time\nyou successfully perform\na Just Guard."
+		"tr_explain": "Reduces your PP\nconsumption for 20\nseconds each time you\nsuccessfully perform\na Just Guard."
 	},
 	{
 		"assign": "358",
 		"jp_text": "Ｓ１：雪ノ白閃",
 		"tr_text": "S1:White Snow Flash",
 		"jp_explain": "発動時PP消費量150毎に\n30秒間、攻撃時の\nＰＰ回復量が20％上昇。",
-		"tr_explain": "Boosts attack PP recovery\nby 20% for 30 seconds\neach time you use a total\nof 150 PP."
+		"tr_explain": "Boosts attack PP\nrecovery by 20% for\n30 seconds each time\nyou use a total of\n150 PP."
 	},
 	{
 		"assign": "359",
 		"jp_text": "Ｓ１：影ノ黒閃",
 		"tr_text": "S1:Black Shadow Flash",
 		"jp_explain": "5秒間静止する毎に\n20秒間、ＰＰの\n自然回復量が20％上昇。",
-		"tr_explain": "Boosts PP regeneration by\n20% for 20 seconds each\ntime you stand still for 5\nseconds."
+		"tr_explain": "Boosts PP regeneration\nby 20% for 20 seconds\neach time you stand\nstill for 5 seconds."
 	},
 	{
 		"assign": "360",
@@ -2531,14 +2531,14 @@
 		"jp_text": "Ｓ２：花海雪の志",
 		"tr_text": "S2:Nature's Intent",
 		"jp_explain": "花ノ赤閃、海ノ青閃または\n雪ノ白閃が発動中\n与ダメージが3％上昇。",
-		"tr_explain": "Boosts damage by 3%\nwhile Red Petal Flash,\nBlue Ocean Flash or\nWhite Snow Flash is active."
+		"tr_explain": "While Red Petal Flash,\nBlue Ocean Flash or\nWhite Snow Flash is\nactive:\nBoosts damage by 3%."
 	},
 	{
 		"assign": "362",
 		"jp_text": "Ｓ３：月葉影の志",
 		"tr_text": "S3:Umbrageous Intent",
 		"jp_explain": "月ノ黄閃、葉ノ緑閃または\n影ノ黒閃が発動中\n与ダメージが3％上昇。",
-		"tr_explain": "Boosts damage by 3%\nwhile Yellow Moon Flash,\nGreen Leaf Flash or\nBlack Shadow Flash is\nactive."
+		"tr_explain": "While Green Leaf Flash,\nYellow Moon Flash or\nBlack Shadow Flash is\nactive:\nBoosts damage by 3%."
 	},
 	{
 		"assign": "363",
@@ -2552,14 +2552,14 @@
 		"jp_text": "Ｓ２：月葉影の備",
 		"tr_text": "S2:Umbrageous Guardian",
 		"jp_explain": "月ノ黄閃、葉ノ緑閃または\n影ノ黒閃が発動中\n被ダメージを12％軽減。",
-		"tr_explain": "Reduces damage taken by\n12% while Yellow Moon\nFlash, Green Leaf Flash or\nBlack Shadow Flash is\nactive."
+		"tr_explain": "While Green Leaf Flash,\nYellow Moon Flash or\nBlack Shadow Flash is\nactive:\nReduces damage taken\nfrom enemies by 12%."
 	},
 	{
 		"assign": "365",
 		"jp_text": "Ｓ３：花海雪の備",
 		"tr_text": "S3:Nature's Guardian",
 		"jp_explain": "花ノ赤閃、海ノ青閃または\n雪ノ白閃が発動中\n被ダメージを10％軽減。",
-		"tr_explain": "Reduces damage taken by\n10% while Red Petal\nFlash, Blue Ocean Flash or\nWhite Snow Flash is active."
+		"tr_explain": "While Red Petal Flash,\nBlue Ocean Flash or\nWhite Snow Flash is\nactive:\nReduces damage taken\nfrom enemies by 10%."
 	},
 	{
 		"assign": "366",
@@ -2573,14 +2573,14 @@
 		"jp_text": "Ｓ２：花海雪の縮減",
 		"tr_text": "S2:Nature's Reduction",
 		"jp_explain": "花ノ赤閃、海ノ青閃または\n雪ノ白閃が発動中\nＰＰ消費量を12％軽減。",
-		"tr_explain": "Reduces PP consumption\nby 12% while Red Petal\nFlash, Blue Ocean Flash or\nWhite Snow Flash is active."
+		"tr_explain": "While Red Petal Flash,\nBlue Ocean Flash or\nWhite Snow Flash is\nactive:\nReduces your PP\nconsumption by 12%."
 	},
 	{
 		"assign": "368",
 		"jp_text": "Ｓ３：月葉影の縮減",
 		"tr_text": "S3:Umbrageous Reduction",
 		"jp_explain": "月ノ黄閃、葉ノ緑閃または\n影ノ黒閃が発動中\nＰＰ消費量を14％軽減。",
-		"tr_explain": "Reduces PP consumption\nby 14% Yellow Moon\nFlash, Green Leaf Flash or\nBlack Shadow Flash is\nactive."
+		"tr_explain": "While Green Leaf Flash,\nYellow Moon Flash or\nBlack Shadow Flash is\nactive:\nReduces your PP\nconsumption by 14%."
 	},
 	{
 		"assign": "369",
@@ -2594,14 +2594,14 @@
 		"jp_text": "Ｓ２：花海雪の活与",
 		"tr_text": "S2:Nature's Exhilaration",
 		"jp_explain": "花ノ赤閃、海ノ青閃または\n雪ノ白閃が発動中\n毎秒ＨＰが2％回復。",
-		"tr_explain": "Recovers 2% of your HP\nevery second while Red\nPetal Flash, Blue Ocean\nFlash or White Snow Flash\nis active."
+		"tr_explain": "While Red Petal Flash,\nBlue Ocean Flash or\nWhite Snow Flash is\nactive:\nRecovers 2% of your\nHP every second."
 	},
 	{
 		"assign": "371",
 		"jp_text": "Ｓ３：月葉影の活与",
 		"tr_text": "S3:Umbrageous Exhilaration",
 		"jp_explain": "月ノ黄閃、葉ノ緑閃または\n影ノ黒閃が発動中\n毎秒ＨＰが2％回復。",
-		"tr_explain": "Recovers 2% of your HP\nevery second while Yellow\nMoon Flash, Green Leaf\nFlash or Black Shadow\nFlash is active."
+		"tr_explain": "While Green Leaf Flash,\nYellow Moon Flash or\nBlack Shadow Flash is\nactive:\nRecovers 2% of your\nHP every second."
 	},
 	{
 		"assign": "372",
@@ -2615,14 +2615,14 @@
 		"jp_text": "Ｓ２：花海雪の巧",
 		"tr_text": "S2:Nature's Skill",
 		"jp_explain": "花ノ赤閃、海ノ青閃または\n雪ノ白閃が発動中\nクリティカル率20％上昇。",
-		"tr_explain": "Boosts your critical hit rate\nby 20% while Red Petal\nFlash, Blue Ocean Flash or\nWhite Snow Flash is active."
+		"tr_explain": "While Red Petal Flash,\nBlue Ocean Flash or\nWhite Snow Flash is\nactive:\nBoosts your critical hit\nrate by 20%."
 	},
 	{
 		"assign": "374",
 		"jp_text": "Ｓ３：月葉影の巧",
 		"tr_text": "S3:Umbrageous Skill",
 		"jp_explain": "月ノ黄閃、葉ノ緑閃または\n影ノ黒閃が発動中\nクリティカル率20％上昇。",
-		"tr_explain": "Boosts your critical hit rate\nby 20% while Yellow\nMoon Flash, Green Leaf\nFlash or Black Shadow\nFlash is active."
+		"tr_explain": "While Green Leaf Flash,\nYellow Moon Flash or\nBlack Shadow Flash is\nactive:\nBoosts your critical hit\nrate by 20%."
 	},
 	{
 		"assign": "375",
@@ -2636,14 +2636,14 @@
 		"jp_text": "Ｓ２：月葉影の輝剰",
 		"tr_text": "S2:Umbrageous Radiance",
 		"jp_explain": "月ノ黄閃、葉ノ緑閃または\n影ノ黒閃が発動中、攻撃時\nＰＰ回復量が25％上昇。",
-		"tr_explain": "Boosts attack PP recovery\nby 25% while Yellow Moon\nFlash, Green Leaf Flash or\nBlack Shadow Flash is\nactive."
+		"tr_explain": "While Green Leaf Flash,\nYellow Moon Flash or\nBlack Shadow Flash is\nactive:\nBoosts attack PP\nrecovery by 25%."
 	},
 	{
 		"assign": "377",
 		"jp_text": "Ｓ３：花海雪の輝剰",
 		"tr_text": "S3:Nature's Radiance",
 		"jp_explain": "花ノ赤閃、海ノ青閃または\n雪ノ白閃が発動中、攻撃時\nＰＰ回復量が28％上昇。",
-		"tr_explain": "Boosts attack PP recovery\nby 28% while Red Petal\nFlash, Blue Ocean Flash or\nWhite Snow Flash is active."
+		"tr_explain": "While Red Petal Flash,\nBlue Ocean Flash or\nWhite Snow Flash is\nactive:\nBoosts attack PP\nrecovery by 28%."
 	},
 	{
 		"assign": "378",
@@ -2657,7 +2657,7 @@
 		"jp_text": "Ｓ２：月葉影の輝勢",
 		"tr_text": "S2:Umbrageous Gleam",
 		"jp_explain": "月ノ黄閃、葉ノ緑閃または\n影ノ黒閃が発動中\nＰＰ自然回復量25％上昇。",
-		"tr_explain": "Boosts PP regeneration by\n25% while Yellow Moon\nFlash, Green Leaf Flash or\nBlack Shadow Flash is\nactive."
+		"tr_explain": "While Green Leaf Flash,\nYellow Moon Flash or\nBlack Shadow Flash is\nactive:\nBoosts PP regeneration\nby 25%."
 	},
 	{
 		"assign": "380",
@@ -2671,7 +2671,7 @@
 		"jp_text": "Ｓ１：死中の志",
 		"tr_text": "S1:Lethal Intent",
 		"jp_explain": "20秒毎に最大ＨＰの5％\nダメージを負う代わりに\n威力が4％上昇する。",
-		"tr_explain": "Boosts damage by 4% at\nthe cost of taking 5% of\nyour HP as damage every\n20 seconds."
+		"tr_explain": "Boosts damage by 4%\nat the cost of taking\n5% of your HP as\ndamage every 20\nseconds."
 	},
 	{
 		"assign": "382",
@@ -2692,21 +2692,21 @@
 		"jp_text": "Ｓ１：猛威の奮激",
 		"tr_text": "S1:Furious Inspiration",
 		"jp_explain": "威力とクリティカル率が\n上昇。ＰＰ効率が向上。\n被ダメージで消失。\n一定時間で効果が復活。",
-		"tr_explain": "Boosts power and critical\nhit rate. Improves PP\nefficiency. This effect\ndisappears on taking\ndamage, then is restored\nafter a set time."
+		"tr_explain": "Boosts power and\ncritical hit rate.\nImproves PP efficiency.\nThis effect disappears\non taking damage, then\nis restored after a set\ntime."
 	},
 	{
 		"assign": "385",
 		"jp_text": "Ｓ２：猛威の奮激",
 		"tr_text": "S2:Furious Inspiration",
 		"jp_explain": "威力とクリティカル率が\n上昇。ＰＰ効率が向上。\n被ダメージで消失。\n一定時間で効果が復活。",
-		"tr_explain": "Boosts power and critical\nhit rate. Improves PP\nefficiency. This effect\ndisappears on taking\ndamage, then is restored\nafter a set time."
+		"tr_explain": "Boosts power and\ncritical hit rate.\nImproves PP efficiency.\nThis effect disappears\non taking damage, then\nis restored after a set\ntime."
 	},
 	{
 		"assign": "386",
 		"jp_text": "Ｓ３：猛威の奮激",
 		"tr_text": "S3:Furious Inspiration",
 		"jp_explain": "威力とクリティカル率が\n上昇。ＰＰ効率が向上。\n被ダメージで消失。\n一定時間で効果が復活。",
-		"tr_explain": "Boosts power and critical\nhit rate. Improves PP\nefficiency. This effect\ndisappears on taking\ndamage, then is restored\nafter a set time."
+		"tr_explain": "Boosts power and\ncritical hit rate.\nImproves PP efficiency.\nThis effect disappears\non taking damage, then\nis restored after a set\ntime."
 	},
 	{
 		"assign": "387",
@@ -2720,56 +2720,56 @@
 		"jp_text": "Ｓ２：月葉影の歌",
 		"tr_text": "S2:Umbrageous Melody",
 		"jp_explain": "月ノ黄閃、葉ノ緑閃または\n影ノ黒閃が発動中、毎秒\n威力が上昇、最大で5％。",
-		"tr_explain": "Boosts damage by up to\n5% over time while Yellow\nMoon Flash, Green Leaf\nFlash or Black Shadow\nFlash is active."
+		"tr_explain": "While Green Leaf Flash,\nYellow Moon Flash or\nBlack Shadow Flash is\nactive:\nBoosts damage by up\nto 5% over time."
 	},
 	{
 		"assign": "389",
 		"jp_text": "Ｓ３：花海雪の歌",
 		"tr_text": "S3:Nature's Melody",
 		"jp_explain": "花ノ赤閃、海ノ青閃または\n雪ノ白閃が発動中、毎秒\n威力が上昇、最大で5％。",
-		"tr_explain": "Boosts damage by up to\n5% over time while Red\nPetal Flash, Blue Ocean\nFlash or White Snow Flash\nis active."
+		"tr_explain": "While Red Petal Flash,\nBlue Ocean Flash or\nWhite Snow Flash is\nactive:\nBoosts damage by up\nto 5% over time."
 	},
 	{
 		"assign": "390",
 		"jp_text": "Ｓ１：裂砕の志",
 		"tr_text": "S1:Rupturing Intent",
 		"jp_explain": "破壊可能な部位を\n攻撃した際、威力が4％\n上昇する。",
-		"tr_explain": "Boosts damage by 4%\nwhen attacking breakable\nenemy parts."
+		"tr_explain": "Boosts damage by 4%\nwhen attacking\nbreakable enemy parts."
 	},
 	{
 		"assign": "391",
 		"jp_text": "Ｓ２：裂砕の志",
 		"tr_text": "S2:Rupturing Intent",
 		"jp_explain": "破壊可能な部位を\n攻撃した際、威力が3％\n上昇する。",
-		"tr_explain": "Boosts damage by 3%\nwhen attacking breakable\nenemy parts."
+		"tr_explain": "Boosts damage by 3%\nwhen attacking\nbreakable enemy parts."
 	},
 	{
 		"assign": "392",
 		"jp_text": "Ｓ３：裂砕の志",
 		"tr_text": "S3:Rupturing Intent",
 		"jp_explain": "破壊可能な部位を\n攻撃した際、威力が4％\n上昇する。",
-		"tr_explain": "Boosts damage by 4%\nwhen attacking breakable\nenemy parts."
+		"tr_explain": "Boosts damage by 4%\nwhen attacking\nbreakable enemy parts."
 	},
 	{
 		"assign": "393",
 		"jp_text": "Ｓ１：裂砕の剰",
 		"tr_text": "S1:Rupturing Excess",
 		"jp_explain": "破壊可能な部位を\n攻撃した際、攻撃時\nＰＰ回復量が40％上昇。",
-		"tr_explain": "Boosts attack PP recovery\nby 40% when attacking\nbreakable enemy parts."
+		"tr_explain": "Boosts attack PP\nrecovery by 40% when\nattacking breakable\nenemy parts."
 	},
 	{
 		"assign": "394",
 		"jp_text": "Ｓ２：裂砕の剰",
 		"tr_text": "S2:Rupturing Excess",
 		"jp_explain": "破壊可能な部位を\n攻撃した際、攻撃時\nＰＰ回復量が35％上昇。",
-		"tr_explain": "Boosts attack PP recovery\nby 35% when attacking\nbreakable enemy parts."
+		"tr_explain": "Boosts attack PP\nrecovery by 35% when\nattacking breakable\nenemy parts."
 	},
 	{
 		"assign": "395",
 		"jp_text": "Ｓ３：裂砕の剰",
 		"tr_text": "S3:Rupturing Excess",
 		"jp_explain": "破壊可能な部位を\n攻撃した際、攻撃時\nＰＰ回復量が35％上昇。",
-		"tr_explain": "Boosts attack PP recovery\nby 35% when attacking\nbreakable enemy parts."
+		"tr_explain": "Boosts attack PP\nrecovery by 35% when\nattacking breakable\nenemy parts."
 	},
 	{
 		"assign": "396",
@@ -2797,21 +2797,21 @@
 		"jp_text": "Ｓ１：狂幻の利",
 		"tr_text": "S1:Phanatical Advantage",
 		"jp_explain": "「狂想と幻創」にて\n威力が5％上昇し\n被ダメージが12％減少。",
-		"tr_explain": "Boosts damage by 5% and\nreduces damage taken by\n12% in the quest\n\"Phanatical Phantoms\"."
+		"tr_explain": "Boosts damage by 5%\nand reduces damage\ntaken by 12% in the\nquest \"Phanatical\nPhantoms\"."
 	},
 	{
 		"assign": "400",
 		"jp_text": "Ｓ２：狂幻の利",
 		"tr_text": "S2:Phanatical Advantage",
 		"jp_explain": "「狂想と幻創」にて\n威力が5％上昇し\n被ダメージが12％減少。",
-		"tr_explain": "Boosts damage by 5% and\nreduces damage taken by\n12% in the quest\n\"Phanatical Phantoms\"."
+		"tr_explain": "Boosts damage by 5%\nand reduces damage\ntaken by 12% in the\nquest \"Phanatical\nPhantoms\"."
 	},
 	{
 		"assign": "401",
 		"jp_text": "Ｓ３：狂幻の利",
 		"tr_text": "S3:Phanatical Advantage",
 		"jp_explain": "「狂想と幻創」にて\n威力が5％上昇し\n被ダメージが12％減少。",
-		"tr_explain": "Boosts damage by 5% and\nreduces damage taken by\n12% in the quest\n\"Phanatical Phantoms\"."
+		"tr_explain": "Boosts damage by 5%\nand reduces damage\ntaken by 12% in the\nquest \"Phanatical\nPhantoms\"."
 	},
 	{
 		"assign": "402",
@@ -2832,14 +2832,14 @@
 		"jp_text": "Ｓ２：花海雪の縮減２",
 		"tr_text": "S2:Nature's Reduction 2",
 		"jp_explain": "花ノ赤閃、海ノ青閃または\n雪ノ白閃が発動中\nＰＰ消費量を14％軽減。",
-		"tr_explain": "Reduces PP consumption\nby 14% while Red Petal\nFlash, Blue Ocean Flash or\nWhite Snow Flash is active."
+		"tr_explain": "While Red Petal Flash,\nBlue Ocean Flash or\nWhite Snow Flash is\nactive:\nReduces your PP\nconsumption by 14%."
 	},
 	{
 		"assign": "405",
 		"jp_text": "Ｓ２：月葉影の輝剰２",
 		"tr_text": "S2:Umbrageous Radiance 2",
 		"jp_explain": "月ノ黄閃、葉ノ緑閃または\n影ノ黒閃が発動中、攻撃時\nＰＰ回復量が28％上昇。",
-		"tr_explain": "Boosts attack PP recovery\nby 28% while Yellow Moon\nFlash, Green Leaf Flash or\nBlack Shadow Flash is\nactive."
+		"tr_explain": "While Green Leaf Flash,\nYellow Moon Flash or\nBlack Shadow Flash is\nactive:\nBoosts attack PP\nrecovery by 28%."
 	},
 	{
 		"assign": "406",
@@ -2867,7 +2867,7 @@
 		"jp_text": "Ｓ３：花海雪の輝勢２",
 		"tr_text": "S3:Nature's Gleam 2",
 		"jp_explain": "花ノ赤閃、海ノ青閃または\n雪ノ白閃が発動中\nＰＰ自然回復量25％上昇。",
-		"tr_explain": "Boosts PP regeneration by\n25% while Red Petal Flash,\nBlue Ocean Flash or\nWhite Snow Flash is active."
+		"tr_explain": "While Red Petal Flash,\nBlue Ocean Flash or\nWhite Snow Flash is\nactive:\nBoosts PP regeneration\nby 25%."
 	},
 	{
 		"assign": "410",
@@ -2923,7 +2923,7 @@
 		"jp_text": "Ｓ１：依属の志",
 		"tr_text": "S1:Sturdy Intent",
 		"jp_explain": "ガード系リングまたは\n武器属性が弱点属性と\n一致時、4％威力上昇。",
-		"tr_explain": "Boosts damage by 4%\nwhen an equipped Guard-\ntype ring or the equipped\nweapon's attribute\nmatches the enemy's\nweakness attribute."
+		"tr_explain": "Boosts damage by 4%\nwhen an equipped\nGuard-type ring or the\nequipped weapon's\nattribute matches the\nenemy's weakness\nattribute."
 	},
 	{
 		"assign": "418",
