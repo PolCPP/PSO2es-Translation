@@ -137,7 +137,7 @@
 	{
 		"assign": "26",
 		"jp_text": "ニレンカムイ",
-		"tr_text": "Niren Kamui"
+		"tr_text": "Twin Kamui"
 	},
 	{
 		"assign": "13",
@@ -202,7 +202,7 @@
 	{
 		"assign": "25",
 		"jp_text": "紅葉姫",
-		"tr_text": "Momiji Hime"
+		"tr_text": "Momijihime"
 	},
 	{
 		"assign": "31",
@@ -222,7 +222,7 @@
 	{
 		"assign": "21",
 		"jp_text": "モタブの預言書",
-		"tr_text": "Prophets of Motav"
+		"tr_text": "Motav Prophecy"
 	},
 	{
 		"assign": "42",
@@ -297,7 +297,7 @@
 	{
 		"assign": "34",
 		"jp_text": "リンドクレイ",
-		"tr_text": "Lind Cray"
+		"tr_text": "Lindcray"
 	},
 	{
 		"assign": "37",
@@ -578,5 +578,545 @@
 		"assign": "118",
 		"jp_text": "ルチルス",
 		"tr_text": "Lutyrus"
+	},
+	{
+		"assign": "110",
+		"jp_text": "ライトニングエスパーダ",
+		"tr_text": "Lightning Espada"
+	},
+	{
+		"assign": "125",
+		"jp_text": "ファニーブーケライフル",
+		"tr_text": "Funny Bouquet Rifle"
+	},
+	{
+		"assign": "117",
+		"jp_text": "禍蹴ピリカネト",
+		"tr_text": "Evil Pirikanet"
+	},
+	{
+		"assign": "128",
+		"jp_text": "ＳＳＰＮランチャー",
+		"tr_text": "SSPN Launcher"
+	},
+	{
+		"assign": "127",
+		"jp_text": "トライデントクラッシャー",
+		"tr_text": "Trident Crusher"
+	},
+	{
+		"assign": "90004",
+		"jp_text": "優しき心のアークス ジェネ",
+		"tr_text": "Graceful ARKS Gene"
+	},
+	{
+		"assign": "121",
+		"jp_text": "クラフトプロジオン",
+		"tr_text": "Craft Plosion"
+	},
+	{
+		"assign": "126",
+		"jp_text": "グラヴィリオス",
+		"tr_text": "Gravilios"
+	},
+	{
+		"assign": "115",
+		"jp_text": "パオジェイド",
+		"tr_text": "Pao Jade"
+	},
+	{
+		"assign": "120",
+		"jp_text": "アサシンクロー",
+		"tr_text": "Assassin Claw"
+	},
+	{
+		"assign": "210",
+		"jp_text": "ファイティングビート",
+		"tr_text": "Fighting Beat"
+	},
+	{
+		"assign": "214",
+		"jp_text": "バルディッシュ",
+		"tr_text": "Bardiche"
+	},
+	{
+		"assign": "80007",
+		"jp_text": "ブルージーレクイエム[サマーバケーション]",
+		"tr_text": "Bluesy Requiem [Summer Vacation]"
+	},
+	{
+		"assign": "90006",
+		"jp_text": "陽光のジェネ[サマーバケーション]",
+		"tr_text": "Gene's Sunshine [Summer Vacation]"
+	},
+	{
+		"assign": "90007",
+		"jp_text": "夏風のアネット[サマーバケーション]",
+		"tr_text": "Annette's Summer Cold [Summer Vacation]"
+	},
+	{
+		"assign": "217",
+		"jp_text": "クオツリトス",
+		"tr_text": "Quotz Lithos"
+	},
+	{
+		"assign": "196",
+		"jp_text": "レイデュプル",
+		"tr_text": "Ray Duplex"
+	},
+	{
+		"assign": "195",
+		"jp_text": "ブレードスタビライザー-NT",
+		"tr_text": "Blade Stabilizer-NT"
+	},
+	{
+		"assign": "122",
+		"jp_text": "アークフラン",
+		"tr_text": "Ark Flan"
+	},
+	{
+		"assign": "158",
+		"jp_text": "新光兜槍",
+		"tr_text": "Pristine Helmet Partizan"
+	},
+	{
+		"assign": "215",
+		"jp_text": "ヒャッカリョウラン",
+		"tr_text": "Hyakka Ryouran"
+	},
+	{
+		"assign": "166",
+		"jp_text": "ローズセイバー",
+		"tr_text": "Rose Saber"
+	},
+	{
+		"assign": "90005",
+		"jp_text": "デュナ",
+		"tr_text": "Duna"
+	},
+	{
+		"assign": "194",
+		"jp_text": "イブリスブラッド",
+		"tr_text": "Iblis Blood"
+	},
+	{
+		"assign": "211",
+		"jp_text": "ファルコフリント",
+		"tr_text": "Falco Flint"
+	},
+	{
+		"assign": "209",
+		"jp_text": "タルナーダ",
+		"tr_text": "Tarnada"
+	},
+	{
+		"assign": "213",
+		"jp_text": "エリュシオーヌ",
+		"tr_text": "Ely-Sion"
+	},
+	{
+		"assign": "172",
+		"jp_text": "ヤスミノコフ７０００Ｖ",
+		"tr_text": "Yasminkov 7000V"
+	},
+	{
+		"assign": "219",
+		"jp_text": "剣影",
+		"tr_text": "Kenei"
+	},
+	{
+		"assign": "80008",
+		"jp_text": "ニレンカムイ[ハロウィン]",
+		"tr_text": "Twin Kamui [Halloween]"
+	},
+	{
+		"assign": "227",
+		"jp_text": "アンブラステッキ",
+		"tr_text": "Umblla Stick"
+	},
+	{
+		"assign": "143",
+		"jp_text": "アーレスカイゼル",
+		"tr_text": "Ares Kaiser"
+	},
+	{
+		"assign": "228",
+		"jp_text": "ヒュージカッター",
+		"tr_text": "Huge Cutter"
+	},
+	{
+		"assign": "80002",
+		"jp_text": "シュトラ",
+		"tr_text": "Stra"
+	},
+	{
+		"assign": "220",
+		"jp_text": "テイトウツヅミ",
+		"tr_text": "Teitou Tsuzumi"
+	},
+	{
+		"assign": "224",
+		"jp_text": "カジューシース",
+		"tr_text": "Caduceus"
+	},
+	{
+		"assign": "218",
+		"jp_text": "レイボウ",
+		"tr_text": "Ray Bow"
+	},
+	{
+		"assign": "169",
+		"jp_text": "ヤスミノコフ３０００Ｒ",
+		"tr_text": "Yasminkov 3000R"
+	},
+	{
+		"assign": "131",
+		"jp_text": "オロチアギト",
+		"tr_text": "Orochiagito"
+	},
+	{
+		"assign": "225",
+		"jp_text": "ホワイトディナー",
+		"tr_text": "White Dinner"
+	},
+	{
+		"assign": "154",
+		"jp_text": "新光鋼弓",
+		"tr_text": "Pristine Steel Bow"
+	},
+	{
+		"assign": "212",
+		"jp_text": "フレイムビジット",
+		"tr_text": "Flame Visit"
+	},
+	{
+		"assign": "130",
+		"jp_text": "アギト",
+		"tr_text": "Agito"
+	},
+	{
+		"assign": "230",
+		"jp_text": "フォルニスフィジス",
+		"tr_text": "Fornis Physis"
+	},
+	{
+		"assign": "80009",
+		"jp_text": "インペリアルピック[ゆく年くる年]",
+		"tr_text": "Imperial Pick [Coming Year Going Year]"
+	},
+	{
+		"assign": "239",
+		"jp_text": "雷咬タガミコウガ",
+		"tr_text": "Thunder Bite Tagamikouga"
+	},
+	{
+		"assign": "156",
+		"jp_text": "新光装脚",
+		"tr_text": "Pristine Footwear"
+	},
+	{
+		"assign": "235",
+		"jp_text": "スペース・ツナ",
+		"tr_text": "Space Tuna"
+	},
+	{
+		"assign": "167",
+		"jp_text": "ローズサーバー",
+		"tr_text": "Rose Server"
+	},
+	{
+		"assign": "135",
+		"jp_text": "アーレスバスター",
+		"tr_text": "Ares Buster"
+	},
+	{
+		"assign": "159",
+		"jp_text": "新光燈砲",
+		"tr_text": "Pristine Lamp Launcher"
+	},
+	{
+		"assign": "80010",
+		"jp_text": "ナスヨテリ[バレンタイン]",
+		"tr_text": "Nasuyoteri [Valentine]"
+	},
+	{
+		"assign": "226",
+		"jp_text": "スケイスズミ",
+		"tr_text": "Sukei Suzumi"
+	},
+	{
+		"assign": "134",
+		"jp_text": "アーレスソード",
+		"tr_text": "Ares Sword"
+	},
+	{
+		"assign": "170",
+		"jp_text": "ヤスミノコフ８０００Ｃ",
+		"tr_text": "Yasminkov 8000C"
+	},
+	{
+		"assign": "168",
+		"jp_text": "ローズスチュワード",
+		"tr_text": "Rose Steward"
+	},
+	{
+		"assign": "173",
+		"jp_text": "ヤスミノコフ５０００ＳＤ",
+		"tr_text": "Yasminkov 5000SD"
+	},
+	{
+		"assign": "151",
+		"jp_text": "ネメシスデュアル",
+		"tr_text": "Nemesis Dual"
+	},
+	{
+		"assign": "203",
+		"jp_text": "セイガーソード",
+		"tr_text": "Seiga Sword"
+	},
+	{
+		"assign": "108",
+		"jp_text": "アーレスリュウガ",
+		"tr_text": "Ares Ryuuga"
+	},
+	{
+		"assign": "132",
+		"jp_text": "ニレンアギト",
+		"tr_text": "Twin Agito"
+	},
+	{
+		"assign": "80011",
+		"jp_text": "アヴェンジャー[ホワイトデー]",
+		"tr_text": "Avenger [White Day]"
+	},
+	{
+		"assign": "90009",
+		"jp_text": "情報部次席クーナ[メモリアル]",
+		"tr_text": "Info Div. Quna [Memorial]"
+	},
+	{
+		"assign": "238",
+		"jp_text": "Ｈ１０ミズーリＴ",
+		"tr_text": "H10 Missouri T"
+	},
+	{
+		"assign": "236",
+		"jp_text": "オフスティアシューター",
+		"tr_text": "Austere Shooter"
+	},
+	{
+		"assign": "237",
+		"jp_text": "ユニオンＤブレード",
+		"tr_text": "Union Dual Blade"
+	},
+	{
+		"assign": "193",
+		"jp_text": "サミットムーン",
+		"tr_text": "Summit Moon"
+	},
+	{
+		"assign": "136",
+		"jp_text": "アーレスパルチザン",
+		"tr_text": "Ares Partizan"
+	},
+	{
+		"assign": "207",
+		"jp_text": "セイガージャベリン",
+		"tr_text": "Seiga Javelin"
+	},
+	{
+		"assign": "157",
+		"jp_text": "新光鎧刀",
+		"tr_text": "Pristine Armor Blades"
+	},
+	{
+		"assign": "144",
+		"jp_text": "スレイヴキャノン",
+		"tr_text": "Slave Cannon"
+	},
+	{
+		"assign": "90011",
+		"jp_text": "愛情いっぱい デュナ",
+		"tr_text": "Affectionate Duna"
+	},
+	{
+		"assign": "179",
+		"jp_text": "バイオスリドゥン",
+		"tr_text": "Bio Slidawn"
+	},
+	{
+		"assign": "165",
+		"jp_text": "ローズスキュア",
+		"tr_text": "Rose Skewer"
+	},
+	{
+		"assign": "201",
+		"jp_text": "ガイルズオービット",
+		"tr_text": "Gaels Orbit"
+	},
+	{
+		"assign": "150",
+		"jp_text": "ネメシスシューズ",
+		"tr_text": "Nemesis Shoes"
+	},
+	{
+		"assign": "216",
+		"jp_text": "エルデトロス",
+		"tr_text": "Eldetross"
+	},
+	{
+		"assign": "80003",
+		"jp_text": "カラミティ",
+		"tr_text": "Calamity"
+	},
+	{
+		"assign": "231",
+		"jp_text": "血槍ヴラド・ブラム",
+		"tr_text": "Bloodspear Vlad Bram"
+	},
+	{
+		"assign": "80017",
+		"jp_text": "小さな英雄 モア",
+		"tr_text": "Small Hero More"
+	},
+	{
+		"assign": "139",
+		"jp_text": "アーレスブレード",
+		"tr_text": "Ares Blade"
+	},
+	{
+		"assign": "138",
+		"jp_text": "アーレスランス",
+		"tr_text": "Ares Lance"
+	},
+	{
+		"assign": "206",
+		"jp_text": "セイガーアーチャー",
+		"tr_text": "Seiga Archer"
+	},
+	{
+		"assign": "103",
+		"jp_text": "ファルクロー",
+		"tr_text": "Falclaw"
+	},
+	{
+		"assign": "243",
+		"jp_text": "スチームナックル",
+		"tr_text": "Steam Knuckles"
+	},
+	{
+		"assign": "160",
+		"jp_text": "玄朧夜",
+		"tr_text": "Gen Oboroyo"
+	},
+	{
+		"assign": "164",
+		"jp_text": "アモーレローズ",
+		"tr_text": "Amore Rose"
+	},
+	{
+		"assign": "171",
+		"jp_text": "ヤスミノコフ４０００Ｆ",
+		"tr_text": "Yasminkov 4000F"
+	},
+	{
+		"assign": "183",
+		"jp_text": "バイオスパット",
+		"tr_text": "Bio Spat"
+	},
+	{
+		"assign": "133",
+		"jp_text": "ニレンオロチ",
+		"tr_text": "Twin Orochi"
+	},
+	{
+		"assign": "80012",
+		"jp_text": "ニレンカムイ[ブライダル]",
+		"tr_text": "Twin Kamui [Bridal]"
+	},
+	{
+		"assign": "197",
+		"jp_text": "レイニールオービット",
+		"tr_text": "Reinier Orbit"
+	},
+	{
+		"assign": "155",
+		"jp_text": "新光大刃",
+		"tr_text": "Pristine Greatsword"
+	},
+	{
+		"assign": "153",
+		"jp_text": "ネメシスチェイン",
+		"tr_text": ""
+	},
+	{
+		"assign": "137",
+		"jp_text": "アーレスブーツ",
+		"tr_text": ""
+	},
+	{
+		"assign": "145",
+		"jp_text": "スレイヴセイバー",
+		"tr_text": ""
+	},
+	{
+		"assign": "199",
+		"jp_text": "ヴィトルオービット",
+		"tr_text": ""
+	},
+	{
+		"assign": "204",
+		"jp_text": "セイガーシールド",
+		"tr_text": ""
+	},
+	{
+		"assign": "152",
+		"jp_text": "ネメシスキャリバー",
+		"tr_text": ""
+	},
+	{
+		"assign": "252",
+		"jp_text": "7288",
+		"tr_text": ""
+	},
+	{
+		"assign": "90008",
+		"jp_text": "7290",
+		"tr_text": ""
+	},
+	{
+		"assign": "90016",
+		"jp_text": "7294",
+		"tr_text": ""
+	},
+	{
+		"assign": "80014",
+		"jp_text": "7296",
+		"tr_text": ""
+	},
+	{
+		"assign": "90017",
+		"jp_text": "7298",
+		"tr_text": ""
+	},
+	{
+		"assign": "184",
+		"jp_text": "7300",
+		"tr_text": ""
+	},
+	{
+		"assign": "245",
+		"jp_text": "7302",
+		"tr_text": ""
+	},
+	{
+		"assign": "148",
+		"jp_text": "7304",
+		"tr_text": ""
+	},
+	{
+		"assign": "146",
+		"jp_text": "7307",
+		"tr_text": ""
 	}
 ]

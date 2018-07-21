@@ -67,7 +67,7 @@
 		"jp_text": "ガンシザー",
 		"tr_text": "Gunscissor",
 		"jp_explain": "従来の銃剣の枠を超えた新感覚の銃剣。\n槍先をイメージした特殊形状の両刃で\n鋭く標的に斬り込むことを可能にした。",
-		"tr_explain": ""
+		"tr_explain": "Oddly designed from the classic\ngunslash designs. Its special\nspearhead slices easily into targets."
 	},
 	{
 		"assign": "17010",
@@ -207,7 +207,7 @@
 		"jp_text": "アキシオン",
 		"tr_text": "Axeon",
 		"jp_explain": "バカでかい剣と銃を組み合わせた銃剣。\nムリヤリ作った改造品のため\nバランスが無茶苦茶で使い手を選ぶ。",
-		"tr_explain": "Gunslash made from combining a\ngun and a sword. Forcibly\nthrown together, it is unbalanced."
+		"tr_explain": "A weapon cobbled together from\na sword and a gun, without any\nsort of thought for balance."
 	},
 	{
 		"assign": "17030",
@@ -347,21 +347,21 @@
 		"jp_text": "ブロックベロウ",
 		"tr_text": "Block Bellow",
 		"jp_explain": "地下坑道の奥地で発見された素材を\n基に再構築されて作られた銃剣。\n質が良く、高い性能でまとまっている。",
-		"tr_explain": "Gunslash made from materials\non Lilipa. It is of good\nquality and has high performance."
+		"tr_explain": "A weapon made from materials\nfound on Lillipa. It is of good quality\nand has high performance."
 	},
 	{
 		"assign": "17051",
 		"jp_text": "ダガンスラッシュ",
 		"tr_text": "Daganslash",
 		"jp_explain": "ダガンの構成パラメータを解析し\n強固な外殻を銃剣として組み上げた。\nダガンに見間違える、精巧な一品。",
-		"tr_explain": "Gunslash made from a Dagan.\nThis sophisticated weapon is\noften mistaken for a dagan."
+		"tr_explain": "A weapon made up of parts from\na Dagan. It's sophisticated enough\nthat it's often mistaken for a Dagan."
 	},
 	{
 		"assign": "17052",
 		"jp_text": "シグノブレイバー",
 		"tr_text": "Signo Braver",
 		"jp_explain": "シグノビートの腕部機構を使った銃剣。\n鋭い刃はそのままに銃弾の発射機構まで\n付随し、それでいて高い性能を保持。",
-		"tr_explain": "Gunslash made from a Signo Beat.\nDespite being built together,\nboth parts retain high power."
+		"tr_explain": "A weapon that was made from\na Signo Beat. Despite being built\ntogether, both parts hold high power."
 	},
 	{
 		"assign": "17053",
@@ -375,7 +375,7 @@
 		"jp_text": "ロードアキシオン／ナハト",
 		"tr_text": "Lord Axeon / Nacht",
 		"jp_explain": "闇夜の色を抱く銃剣。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
-		"tr_explain": ""
+		"tr_explain": "A gunslash painted black as night. Its\norigins are unknown, but it inspires\ngreatness in its owner."
 	},
 	{
 		"assign": "17057",
@@ -424,35 +424,35 @@
 		"jp_text": "機甲剣メックカタール",
 		"tr_text": "Mech Katar",
 		"jp_explain": "武器を身体の一部のように扱う研究を\n基に作られた銃剣。手の甲に直接装着し\nフォトン感応力を最大限に引き出す。",
-		"tr_explain": ""
+		"tr_explain": "A weapon based on research that\nuses the body as a weapon. When\nused, it applies max photon response."
 	},
 	{
 		"assign": "17075",
 		"jp_text": "ステルスウェポン：ＧＳ",
 		"tr_text": "Stealth Weapon: GS",
 		"jp_explain": "認識不能な武器。\n形状はガンスラッシュ型。",
-		"tr_explain": "Unknown Weapon.\nSeems to be in the shape of\na Gunslash."
+		"tr_explain": "Unknown Weapon. Seems to\nbe in the shape of a Gunslash."
 	},
 	{
 		"assign": "17076",
 		"jp_text": "赤のガンスラッシュ",
 		"tr_text": "Red Gunslash",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした銃剣。\n目映い赤色は必然的に目を引く。",
-		"tr_explain": ""
+		"tr_explain": "A gunslash whose experimental\ncoloring has become iconic. The\ndazzling red catches the eye."
 	},
 	{
 		"assign": "17077",
 		"jp_text": "青のガンスラッシュ",
 		"tr_text": "Blue Gunslash",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした銃剣。\n目映い青色は必然的に目を引く。",
-		"tr_explain": ""
+		"tr_explain": "A gunslash whose experimental\ncoloring has become iconic. The\ndazzling blue catches the eye."
 	},
 	{
 		"assign": "17079",
 		"jp_text": "Ａライザー／ナハト",
 		"tr_text": "Astral Riser / Nacht",
 		"jp_explain": "闇夜の色を抱く銃剣。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
-		"tr_explain": ""
+		"tr_explain": "A gunslash painted black as night. Its\norigins are unknown, but it inspires\ngreatness in its owner."
 	},
 	{
 		"assign": "17080",
@@ -501,7 +501,7 @@
 		"jp_text": "セレスタレイザー／ナハト",
 		"tr_text": "Celesta Laser / Nacht",
 		"jp_explain": "闇夜の色を抱く銃剣。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
-		"tr_explain": ""
+		"tr_explain": "A gunslash painted black as night. Its\norigins are unknown, but it inspires\ngreatness in its owner."
 	},
 	{
 		"assign": "17099",
@@ -543,7 +543,7 @@
 		"jp_text": "ライブスリドゥン",
 		"tr_text": "Live Slidawn",
 		"jp_explain": "最先端の生体工学を応用し開発された\n銃剣。高純度培養液の働きで安定した\n形状を保ち、素速く攻撃態勢を整える。",
-		"tr_explain": ""
+		"tr_explain": "A gunslash made with state-of-the-\nart bioengineering. Enhanced with a\nhigh-purity culture solution."
 	},
 	{
 		"assign": "170110",
@@ -655,14 +655,14 @@
 		"jp_text": "ネメシススラッシュ",
 		"tr_text": "Nemesis Slash",
 		"jp_explain": "古の時代に封印された聖なる銃剣。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-		"tr_explain": ""
+		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
 	},
 	{
 		"assign": "170162",
 		"jp_text": "スレイヴスラッシュ",
 		"tr_text": "Slave Slash",
 		"jp_explain": "古の時代に封印された邪なる銃剣。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-		"tr_explain": ""
+		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
 	},
 	{
 		"assign": "170166",
@@ -683,21 +683,28 @@
 		"jp_text": "イデアルバネット",
 		"tr_text": "Ideal Banette",
 		"jp_explain": "新開発のフォトンジェネレーターを\n搭載した銃剣。発せられる\nフォトンの輝きは次代の証とされる。",
-		"tr_explain": "A Gunslash powered by a\nPhoton Generator. Witness its\nnext generation photon shine."
+		"tr_explain": "A weapon powered by a photon\ngenerator. Its shining photons are\nsaid to be the sign of the next era."
 	},
 	{
 		"assign": "170174",
 		"jp_text": "リンドオネット",
 		"tr_text": "Lind Onett",
 		"jp_explain": "次元を越えるほどの力を秘めた銃剣。\n眩いフォトンの輝きが持つ力は\n空間を歪めるといわれている。",
-		"tr_explain": "A gunslash with the power of\ndimensions. Its said to distort space\nwith its dazzling photons."
+		"tr_explain": "A weapon that holds the power\nof dimensions. Its said to distort\nspace with its gleaming photons."
 	},
 	{
 		"assign": "170177",
 		"jp_text": "スカルシュクター",
 		"tr_text": "Skull Schecter",
 		"jp_explain": "死者の念が乗り移ったとされる禍々しき\nオーラを放つ銃剣。仄かに輝く青い光に\n狙われたら最後、死が訪れるという。",
-		"tr_explain": "A gunslash possessing the cold\nfeeling of death. Its shining\nblue aura calls Death to visit."
+		"tr_explain": "A weapon that holds the cold feeling\nof death. Its blue aura shines the\nway towards death's door."
+	},
+	{
+		"assign": "170180",
+		"jp_text": "ディアグラナス",
+		"tr_text": "Dia Granas",
+		"jp_explain": "臨界寸前まで圧縮したフォトンを\n核に使用した銃剣。眼を模した\nパーツは、フォトンで禍々しく輝く。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "170182",
@@ -711,6 +718,13 @@
 		"jp_text": "ノクスシュディクス",
 		"tr_text": "Nox Schdyx",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き銃剣。\n装者も畏怖するほどの莫大な力を宿す。",
+		"tr_explain": "A black gunslash produced in an illicit\nritual. The vast power that it holds\nterrifies even its wielder."
+	},
+	{
+		"assign": "170185",
+		"jp_text": "レーテシュディクス",
+		"tr_text": "Raete Schdyx",
+		"jp_explain": "正当な手順を経た儀式により\n生み出された白き銃剣。\n装者を守護する、甚大な力を宿す。",
 		"tr_explain": ""
 	},
 	{
@@ -721,23 +735,30 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "170188",
+		"jp_text": "バジリスディソニア",
+		"tr_text": "Basilis Dysonia",
+		"jp_explain": "鋭利な突起と蛇腹状の表面が特徴的な\n銃剣。精度、威力ともに非常に高く\n素早く的確に敵を一掃できる。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "170190",
 		"jp_text": "インヴェイドバスター",
 		"tr_text": "Invade Buster",
 		"jp_explain": "【深遠なる闇】より生まれし負の銃剣。\n装者は非常なる辣腕を有するも\n禍災をもたらす牽引者と化す。",
-		"tr_explain": "Born from the [Profound Darkness].\nIts the manifestation of woefullness\nthat bears the fruit of shrewdness."
+		"tr_explain": "Born from the [Profound Darkness].\nIt's the manifestation of woefulness\nthat bears the fruit of shrewdness."
 	},
 	{
 		"assign": "170191",
 		"jp_text": "オフスティアバスター",
 		"tr_text": "Austere Buster",
 		"jp_explain": "負の力を識り、制することで転化した\n浄化の銃剣。装者は授けられた才覚で\n悪者を討ち取り、災禍を鎮める。",
-		"tr_explain": "A purified Gunslash.\nIts said that it has the power\nto quell disasters."
+		"tr_explain": "A purified Gunslash. It's said that it\nhas the power to quell disasters."
 	},
 	{
 		"assign": "170201",
 		"jp_text": "マーセナリスターロード",
-		"tr_text": "Mercenary Star Road",
+		"tr_text": "Mercenary Starlord",
 		"jp_explain": "拳銃に巨大なブレードを接続した銃剣。\n汎用性を高めるため、拳銃に大規模な\n近接戦向けのカスタマイズを施した。",
 		"tr_explain": ""
 	},
@@ -770,11 +791,39 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "170215",
+		"jp_text": "スラッシュドミナシオ",
+		"tr_text": "Slash Dominacio",
+		"jp_explain": "新開発の演算装置を搭載した銃剣。\n優れた最高出力を誇る反面、戦闘中は\n脳にかなりの負荷がかかる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "170217",
+		"jp_text": "イヴリダビュクゼ",
+		"tr_text": "Evleda Bucse",
+		"jp_explain": "古に封印されし冥夜の銃剣。\n忌むべき闇の刃は汝の血肉で以って\n戒めを撃ち切り、沈黙の世を作る。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "170218",
+		"jp_text": "クリシスビュクゼ",
+		"tr_text": "Cleasis Bucse",
+		"jp_explain": "古に封印されし冥夜の銃剣。\n勇ましき戦士を喰らいし邪なる閃刃は\n魂と係合せし時、全てを撃ち切らん。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "170219",
+		"jp_text": "シュベルビュクゼ",
+		"tr_text": "Schvelle Busce",
+		"jp_explain": "古に封印されし冥夜の銃剣。\n現世に蘇りし闇は万能なる閃刃となり\n生命を撃ち払い、永久の静謐を築く。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "170221",
 		"jp_text": "アトルオービット",
 		"tr_text": "Atol Orbit",
 		"jp_explain": "新開発のフォトンリング機構を搭載した\n銃剣。展開された部品が合体し\n闇を切り裂き宙を照らす星となる。",
-		"tr_explain": "A Gunslash with a Photon Ring\nDevice. The expanded parts form a\nstar that ignites the air from darkness."
+		"tr_explain": "A gunslash with a Photon Ring\nDevice. The expanded parts form a\nstar that shines through darkness."
 	},
 	{
 		"assign": "170225",
@@ -793,9 +842,9 @@
 	{
 		"assign": "170227",
 		"jp_text": "フォルニスハルーブ",
-		"tr_text": "",
+		"tr_text": "Fornis Halube",
 		"jp_explain": "異なる力を宿した恐るべき銃剣。\n無情な闇と吹きすさぶ烈風の力で\n標的を切り刻み、撃ち抜くという。",
-		"tr_explain": ""
+		"tr_explain": "A fearsome gunslash bearing twin\npowers. Howling winds and deepest\ndarkness shoot and slash the target."
 	},
 	{
 		"assign": "170229",
@@ -823,7 +872,7 @@
 		"jp_text": "ガンシザー-NT",
 		"tr_text": "Gunscissor-NT",
 		"jp_explain": "従来の銃剣の枠を超えた新感覚の銃剣。\n槍先をイメージした特殊形状の両刃で\n鋭く標的に斬り込むことを可能にした。",
-		"tr_explain": ""
+		"tr_explain": "Oddly designed from the classic\ngunslash designs. Its special\nspearhead slices easily into targets."
 	},
 	{
 		"assign": "170233",
@@ -907,7 +956,7 @@
 		"jp_text": "ノクスシュディクス-NT",
 		"tr_text": "Nox Schdyx-NT",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き銃剣。\n装者も畏怖するほどの莫大な力を宿す。",
-		"tr_explain": ""
+		"tr_explain": "A black gunslash produced in an illicit\nritual. The vast power that it holds\nterrifies even its wielder."
 	},
 	{
 		"assign": "170245",
@@ -942,7 +991,7 @@
 		"jp_text": "アストラディフィ",
 		"tr_text": "Astra Diffie",
 		"jp_explain": "マザーの残滓たる、幻創の銃剣。\n銃撃と斬撃で破壊の嵐を振りまき\nいかなる敵をも破る、憤怒の表出。",
-		"tr_explain": "A Gunslash imbued with Mother's\npower. Channel your fury to crush\nfoes with a cataclysmic bladestorm."
+		"tr_explain": "A Phantom gunslash imbued with\nMother's power. Defeat all before\nyou in a fury of blades and bullets."
 	},
 	{
 		"assign": "170254",
@@ -970,6 +1019,132 @@
 		"jp_text": "￥アーデムレイピア",
 		"tr_text": "￥Ardem's Rapier",
 		"jp_explain": "■NPC専用",
+		"tr_explain": ""
+	},
+	{
+		"assign": "170260",
+		"jp_text": "リュミエルシュティク",
+		"tr_text": "Lumiere Stich",
+		"jp_explain": "古より伝わる陽光の銃剣。\n導きの光を持つ聖なる閃刃は\n闇を消し去り、泰平の世を作る。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "170261",
+		"jp_text": "ジュティスシュティク",
+		"tr_text": "Jutus Stich",
+		"jp_explain": "古より伝わる陽光の銃剣。\n勇ましき戦士を護りし聖なる閃刃は\n悪を消し去り、光ある道を示さん。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "170265",
+		"jp_text": "スカジラーススカル",
+		"tr_text": "Skuzirath Skull",
+		"jp_explain": "魔物種の骨格を再利用して作られた\n銃剣。対峙した者が事切れる時\nこの世ならざる者の声を聞くとされる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "170266",
+		"jp_text": "レガロヤクートスカル",
+		"tr_text": "Regaloyakut Skull",
+		"jp_explain": "魔物種の骨格を再利用して作られた\n銃剣。見る者に恐怖を与え\n対峙した者には災難をもたらす。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "170279",
+		"jp_text": "レイデュプル-NT",
+		"tr_text": "Ray Duplex-NT",
+		"jp_explain": "透き通る美しいフォルムを持つ銃剣。\n使いやすさを向上させ、バランスの\n取れた性能を実現させている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "170280",
+		"jp_text": "ブラオレットゼロ-NT",
+		"tr_text": "Vraolet Zero-NT",
+		"jp_explain": "その巨大さと性能で注目を集めた銃剣。\n扱うには、相当の純粋な力を必要とし\n持ち手を選ぶ武器。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "170283",
+		"jp_text": "ディトネションヒュージ",
+		"tr_text": "Detonation Huge",
+		"jp_explain": "ダーカー因子によって変貌を遂げた\n銃剣。才なき者では刃に宿る禍々しき\n力で自我を失い、闘争心にのまれる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "170289",
+		"jp_text": "バルアルズ",
+		"tr_text": "Val Ars",
+		"jp_explain": "過去に戦場となった地域から発掘された\n銃剣。剥がれた宝石に、破損した刃など\n激しい戦闘の痕跡が伺える。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "170290",
+		"jp_text": "アトラアルズ",
+		"tr_text": "Atra Ars",
+		"jp_explain": "過去に戦場となった地域から発掘された\n銃剣。欠損した箇所が全て修復され\n本来の美しい姿を取り戻した。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "170292",
+		"jp_text": "フォボスガンシクル",
+		"tr_text": "Phobos Gunsickle",
+		"jp_explain": "禍々しいフォルムと幾重ものブレードを\n併せ持った銃剣。鎌のごとく薙ぎ払う\n高出力ブレードに標的は恐怖に震える。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "170295",
+		"jp_text": "ネメシススラッシュ-NT",
+		"tr_text": "Nemesis Slash-NT",
+		"jp_explain": "古の時代に封印された聖なる銃剣。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
+		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
+	},
+	{
+		"assign": "170296",
+		"jp_text": "スレイヴスラッシュ-NT",
+		"tr_text": "Slave Slash-NT",
+		"jp_explain": "古の時代に封印された邪なる銃剣。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
+		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
+	},
+	{
+		"assign": "170297",
+		"jp_text": "仲秋丸-NT",
+		"tr_text": "Chuushuumaru-NT",
+		"jp_explain": "葉の色変わりを表現した刃が美しい\n伝統的な装飾の施された銃剣。\n振るうのがためらわれるほどの出来。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "170300",
+		"jp_text": "クラーデムエルピーダ",
+		"tr_text": "Clawdem Elpida",
+		"jp_explain": "ダーカー因子によって変貌を遂げた\n銃剣。疑うことのない威力を備えるが\n持つ者には敗北の影がつきまとう。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "170302",
+		"jp_text": "インヴェイドバスター-NT",
+		"tr_text": "Invade Buster-NT",
+		"jp_explain": "【深遠なる闇】より生まれし負の銃剣。\n装者は非常なる辣腕を有するも\n禍災をもたらす牽引者と化す。",
+		"tr_explain": "Born from the [Profound Darkness].\nIt's the manifestation of woefulness\nthat bears the fruit of shrewdness."
+	},
+	{
+		"assign": "170304",
+		"jp_text": "ホムラノフシチョウ",
+		"tr_text": "Homura no Fushichou",
+		"jp_explain": "とある地方の伝統意匠を取り入れた\n銃剣。幾度でも甦る不死鳥に\nあやかり、不屈の闘志を表している。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "170315",
+		"jp_text": "グレンノフシチョウ",
+		"tr_text": "Guren no Fushichou",
+		"jp_explain": "とある地方の伝統意匠を取り入れた\n紅蓮の銃剣。幾度でも甦る不死鳥に\nあやかり、不屈の闘志を表している。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "170316",
+		"jp_text": "シエンノフシチョウ",
+		"tr_text": "Shien no Fushichou",
+		"jp_explain": "とある地方の伝統意匠を取り入れた\n紫炎の銃剣。幾度でも甦る不死鳥に\nあやかり、不屈の闘志を表している。",
 		"tr_explain": ""
 	}
 ]

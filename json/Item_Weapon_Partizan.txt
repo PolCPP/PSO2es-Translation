@@ -151,7 +151,7 @@
 		"jp_text": "バシレイオン",
 		"tr_text": "Basilleon",
 		"jp_explain": "巨大な刃を威圧的に見せつける長槍。\n研ぎ澄まされたフォトンの刃は\n触れるものを難なく切り裂くという。",
-		"tr_explain": ""
+		"tr_explain": "An intimidating partizan with a\ngigantic blade. The honed photons\nare said to shred anything with ease."
 	},
 	{
 		"assign": "13022",
@@ -226,7 +226,7 @@
 	{
 		"assign": "13032",
 		"jp_text": "バルディッシュ",
-		"tr_text": "Berdysh",
+		"tr_text": "Bardiche",
 		"jp_explain": "槍の柄に斧の刃を取り付けた長槍。\n高い破壊力を誇るが重量がネックで\n軽量化を待つ声も多い。",
 		"tr_explain": ""
 	},
@@ -326,7 +326,7 @@
 		"jp_text": "ガエボルグ／ナハト",
 		"tr_text": "Gae Bolg / Nacht",
 		"jp_explain": "闇夜の色を抱く長槍。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
-		"tr_explain": "A Partizan that embraces\nthe color of the night sky.\nIt bestows its user with great power."
+		"tr_explain": "A partizan painted black as night. Its\norigins are unknown, but it inspires\ngreatness in its owner."
 	},
 	{
 		"assign": "13048",
@@ -373,7 +373,7 @@
 	{
 		"assign": "13057",
 		"jp_text": "ナイトファルクス",
-		"tr_text": "Night Falx",
+		"tr_text": "Knight Falx",
 		"jp_explain": "新開発の回転機構によって変形する\n長槍。非戦闘時には刃が盾に\n格納される設計になっている。",
 		"tr_explain": ""
 	},
@@ -410,14 +410,14 @@
 		"jp_text": "赤のパルチザン",
 		"tr_text": "Red Partizan",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした長槍。\n目映い赤色は必然的に目を引く。",
-		"tr_explain": ""
+		"tr_explain": "A partizan whose experimental\ncoloring has become iconic. The\ndazzling red catches the eye."
 	},
 	{
 		"assign": "13070",
 		"jp_text": "青のパルチザン",
 		"tr_text": "Blue Partizan",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした長槍。\n目映い青色は必然的に目を引く。",
-		"tr_explain": ""
+		"tr_explain": "A partizan whose experimental\ncoloring has become iconic. The\ndazzling blue catches the eye."
 	},
 	{
 		"assign": "13071",
@@ -472,7 +472,7 @@
 		"assign": "13084",
 		"jp_text": "閻斧ラビュリス",
 		"tr_text": "Maria's Genesis Weapon",
-		"jp_explain": "■",
+		"jp_explain": "パルチザン型の創世記。『くだくもの』\n装者のフォトンを際限なく引き出して\n過剰な重力を生み、万物をすり潰す。",
 		"tr_explain": ""
 	},
 	{
@@ -487,7 +487,14 @@
 		"jp_text": "血槍ヴラド・ブラム",
 		"tr_text": "Bloodspear Vlad Bram",
 		"jp_explain": "禍々しい気配を放つ長槍。かつて夜闇と\n共に現れヒトを襲った魔物が討伐された\n際に変化したものだと言われている。",
-		"tr_explain": "A Partizan with an ominous aura.\nIts said that it was formaly a demon\nthat attacked humans in the night."
+		"tr_explain": "A partizan with an ominous aura.\nIt's said that it was once a demon\nthat attacked humans in the night."
+	},
+	{
+		"assign": "13089",
+		"jp_text": "グランディア",
+		"tr_text": "Grandia",
+		"jp_explain": "槍の柄に斧の刃を取り付け、槍の\n攻撃範囲の広さと斧の破壊力を併せ持つ\n長槍。扱うためには相応の熟練が必要。",
+		"tr_explain": "A partizan with the blade of an axe,\ngiving it an axe's power with a\nspear's range. Handling it takes skill."
 	},
 	{
 		"assign": "13092",
@@ -536,7 +543,7 @@
 		"jp_text": "ライブステイド",
 		"tr_text": "Live Staid",
 		"jp_explain": "最先端の生体工学を応用し開発された\n長槍。グリップから手首を包む高純度\n培養液が安定した装着感を与える。",
-		"tr_explain": ""
+		"tr_explain": "A partizan made with state-of-the-art\nbioengineering. Enhanced with a\nhigh-purity culture solution."
 	},
 	{
 		"assign": "130106",
@@ -641,14 +648,14 @@
 		"jp_text": "ネメシスランス",
 		"tr_text": "Nemesis Lance",
 		"jp_explain": "古の時代に封印された聖なる長槍。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-		"tr_explain": ""
+		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
 	},
 	{
 		"assign": "130151",
 		"jp_text": "スレイヴランス",
 		"tr_text": "Slave Lance",
 		"jp_explain": "古の時代に封印された邪なる長槍。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-		"tr_explain": ""
+		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
 	},
 	{
 		"assign": "130154",
@@ -683,7 +690,7 @@
 		"jp_text": "イデアルストレイダ",
 		"tr_text": "Ideal Strader",
 		"jp_explain": "新開発のフォトンジェネレーターを\n搭載した長槍。発せられる\nフォトンの輝きは次代の証とされる。",
-		"tr_explain": ""
+		"tr_explain": "A weapon powered by a photon\ngenerator. Its shining photons are\nsaid to be the sign of the next era."
 	},
 	{
 		"assign": "130167",
@@ -718,6 +725,13 @@
 		"jp_text": "ノクスロザン",
 		"tr_text": "Nox Rozan",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き長槍。装者も\n恐怖するほどの力で、敵を葬り去る。",
+		"tr_explain": "A black partizan produced in an illicit\nritual. Its power to utterly vanquish\nenemies terrifies even its wielder."
+	},
+	{
+		"assign": "130184",
+		"jp_text": "レーテロザン",
+		"tr_text": "Raete Rozan",
+		"jp_explain": "正当な手順を経た儀式により\n生み出された白き長槍。装者を困難や\n敵から守る、絶大な力を宿す。",
 		"tr_explain": ""
 	},
 	{
@@ -725,6 +739,13 @@
 		"jp_text": "ロザンアリオン",
 		"tr_text": "Rozan Arion",
 		"jp_explain": "数多の儀式を施し、錬成の果てに\n生み出された紫の長槍。装者の感情が\n力となり、敵を貫き葬る。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130187",
+		"jp_text": "ディアジンラオド",
+		"tr_text": "Dia Jinraodu",
+		"jp_explain": "臨界寸前まで圧縮したフォトンを\n核に使用した長槍。核から溢れ出す\nフォトンが刀身の硬度を高めている。",
 		"tr_explain": ""
 	},
 	{
@@ -749,11 +770,25 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "130194",
+		"jp_text": "バジリスメディスタ",
+		"tr_text": "Basilis Medister",
+		"jp_explain": "鋭利な突起と蛇腹状の表面が特徴的な\n長槍。切れ味の追求の末に生まれた。\nその刃に斬れぬものはないといわれる。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "130196",
 		"jp_text": "セイガージャベリン",
 		"tr_text": "Seiga Javelin",
 		"jp_explain": "世界征服を企む悪の組織と戦うために\n作られた長槍。悪しき心を感知すれば\nそれが宇宙の果てであろうと刺し貫く！",
 		"tr_explain": "A Partizan made to fight an evil\norganization. It can sense evil minded\nindividuals throughout the universe!"
+	},
+	{
+		"assign": "130197",
+		"jp_text": "セイカイザージャベリン",
+		"tr_text": "Seikaiser Javelin",
+		"jp_explain": "戦力を増強した悪の組織に対抗するため\n新たに開発された長槍。正義に燃える\n紅蓮の刃は悪を決して許さない！",
+		"tr_explain": "A Partizan made to fight an evil\norganization. Burning with justice, its\ncrimson blade shall never forgive evil!"
 	},
 	{
 		"assign": "130202",
@@ -767,7 +802,7 @@
 		"jp_text": "タイタンスティンガー",
 		"tr_text": "Titan Stinger",
 		"jp_explain": "古典的技術が用いられた超重量長槍。\nフォトンが解き放たれる力に耐える為\n非常に硬質なフレームを採用した。",
-		"tr_explain": "Partizan made of ultra-heavy alloys.\nIts sturdy frame was build to endure\nthe fierce activity of unbound photons."
+		"tr_explain": "An ultra-heavy partizan made from\nolder technology. Built sturdy in order\nto withstand unbound Photon power."
 	},
 	{
 		"assign": "130213",
@@ -777,11 +812,32 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "130217",
+		"jp_text": "イヴリダランジア",
+		"tr_text": "Evleda Rangia",
+		"jp_explain": "古に封印されし冥夜の長槍。\n忌むべき闇の矛は汝の血肉で以って\n戒め突き破り、赤き道を作らん。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130218",
+		"jp_text": "クリシスランジア",
+		"tr_text": "Cleasis Rangia",
+		"jp_explain": "古に封印されし冥夜の長槍。\n勇猛なる戦士を喰らいし邪なる矛は\n魂と係合せし時、全てを薙ぎ払う。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130219",
+		"jp_text": "シュベルランジア",
+		"tr_text": "Schvelle Rangia",
+		"jp_explain": "古に封印されし冥夜の長槍。\n現世に蘇りし闇は非情なる矛となり\n生者を薙ぎ払い、無音の大地を作る。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "130220",
 		"jp_text": "サグーズオービット",
 		"tr_text": "Saguz Orbit",
 		"jp_explain": "新開発のフォトンリング機構を搭載した\n長槍。展開された部品が合体し\n闇を刺し穿つ閃光の一撃を放つ。",
-		"tr_explain": "A Partizan with a Photon Ring Device.\nIts expanded parts can strike and\nrelease a jolt through darkness."
+		"tr_explain": "A Partizan with a Photon Ring\nDevice. Its expanded parts can strike\nand release a jolt through darkness."
 	},
 	{
 		"assign": "130223",
@@ -796,6 +852,13 @@
 		"tr_text": "Union Partizan",
 		"jp_explain": "次世代の主力として開発された長槍。\n専用ブーストパーツが装着されたことで\n限界を超えた性能を発揮する。",
 		"tr_explain": "A Partizan developed as the latest\nmodel. Augmented with boost parts,\nits performance exceed its limits."
+	},
+	{
+		"assign": "130228",
+		"jp_text": "フォルニスグナス",
+		"tr_text": "Fornis Gunath",
+		"jp_explain": "異なる力を宿した恐るべき長槍。\n扱いこそ難しいが、絶大ともいえる\n凄まじい斬れ味は容易く標的を断つ。",
+		"tr_explain": "A fearsome partizan bearing twin\npowers. Difficult to handle, but sharp\nenough to slay any target with ease."
 	},
 	{
 		"assign": "130231",
@@ -865,7 +928,7 @@
 		"jp_text": "バシレイオン-NT",
 		"tr_text": "Basilleon-NT",
 		"jp_explain": "巨大な刃を威圧的に見せつける長槍。\n研ぎ澄まされたフォトンの刃は\n触れるものを難なく切り裂くという。",
-		"tr_explain": ""
+		"tr_explain": "An intimidating partizan with a\ngigantic blade. The honed photons\nare said to shred anything with ease."
 	},
 	{
 		"assign": "130241",
@@ -905,9 +968,9 @@
 	{
 		"assign": "130246",
 		"jp_text": "ノクスロザン-NT",
-		"tr_text": "Nox Loshan-NT",
+		"tr_text": "Nox Rozan-NT",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き長槍。装者も\n恐怖するほどの力で、敵を葬り去る。",
-		"tr_explain": ""
+		"tr_explain": "A black partizan produced in an illicit\nritual. Its power to utterly vanquish\nenemies terrifies even its wielder."
 	},
 	{
 		"assign": "130247",
@@ -970,7 +1033,21 @@
 		"jp_text": "アストラゴージ",
 		"tr_text": "Astra Gorge",
 		"jp_explain": "マザーの残滓たる、幻創の長槍。\n対象を形作る秩序に傷を穿ち\nその存在を否定すると言われている。",
-		"tr_explain": "Partisan imbued with Mother's power.\nWith a mere scratch, it is able to\nextinguish the spark of existence."
+		"tr_explain": "A Phantom partizan imbued with\nMother's power. With a mere scratch,\nit negates everything you are."
+	},
+	{
+		"assign": "130264",
+		"jp_text": "リュミエルランサ",
+		"tr_text": "Lumiere Lancer",
+		"jp_explain": "古より伝わる陽光の長槍。\n導きの光を持つ聖なる矛は\n闇を突き破り、白き道を作らん。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130265",
+		"jp_text": "ジュティスランサ",
+		"tr_text": "Jutus Lancer",
+		"jp_explain": "古より伝わる陽光の長槍。\n勇猛なる戦士を護りし聖なる矛は\n世の悪を薙ぎ払わんと戦場に立つ。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "130276",
@@ -980,10 +1057,164 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "130277",
+		"jp_text": "オメガルフザイール",
+		"tr_text": "Omegalf Zaire",
+		"jp_explain": "オメガウルフの毛皮を使用した\n長槍。牙をむき出しにした獰猛な姿は\n恐怖を与え、見る者を萎縮させる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130278",
+		"jp_text": "ウルフォイエザイール",
+		"tr_text": "Wolfoie Zaire",
+		"jp_explain": "ウルフフォイエの毛皮を使用した\n長槍。装者以外を認めず\n触れた者は燃え上がるという。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130282",
+		"jp_text": "ストラジオスマザード",
+		"tr_text": "Strategeo Smothered",
+		"jp_explain": "戦術と戦略を駆使して戦う遊戯の駒を\n模した長槍。白銀に輝く刃でもって\n敵を追い詰め、勝利の終局へと導く。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130284",
+		"jp_text": "ジルドギローラ",
+		"tr_text": "Gilde Girola",
+		"jp_explain": "聖なる光を武器として用いる長槍。\n天に仇なす者を見つけ、処罰する為に\n生み出されたという極光の槍。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "130285",
 		"jp_text": "[NPC]ライアアックス",
 		"tr_text": "[NPC]Laia Axe",
 		"jp_explain": "説明文未定",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130292",
+		"jp_text": "[NPC]ヴェルン兵の槍",
+		"tr_text": "[NPC]Verunian Spear",
+		"jp_explain": "[NPC]ヴェルン兵の槍",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130297",
+		"jp_text": "バトルパルチザンＬｖ１",
+		"tr_text": "Battle Partizan Lv.1",
+		"jp_explain": "バトルアリーナ用に調整された長槍。\n純粋に技を競うため基本性能のみを\n強化している。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130298",
+		"jp_text": "バトルパルチザンＬｖ２",
+		"tr_text": "Battle Partizan Lv.2",
+		"jp_explain": "バトルアリーナ用に調整された長槍。\n戦技比較が目的となるため\n基本性能の強化にとどまっている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130299",
+		"jp_text": "バトルパルチザンＬｖ３",
+		"tr_text": "Battle Partizan Lv.3",
+		"jp_explain": "バトルアリーナ専用に作られた長槍。\n戦技比較用に特化しており、力量が\nより発揮される調整となっている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130300",
+		"jp_text": "ナイトランサー-NT",
+		"tr_text": "Knight Lancer-NT",
+		"jp_explain": "爆撃弾の追撃が可能な長槍。\n装者を祝福するその白銀の輝きは\n聖なる騎士すら彷彿させる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130301",
+		"jp_text": "ヴィジャヤ-NT",
+		"tr_text": "Vjaya-NT",
+		"jp_explain": "華美な装飾の施された豪奢な長槍。\n富豪にしか持てないと揶揄されている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130304",
+		"jp_text": "バルヴィクト",
+		"tr_text": "Val Vict",
+		"jp_explain": "過去に戦場となった地域から発掘された\n長槍。原型を留めているが、刃は無く\n装飾の殆どを失ってしまっている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130305",
+		"jp_text": "アトラヴィクト",
+		"tr_text": "Atra Vict",
+		"jp_explain": "過去に戦場となった地域から発掘された\n長槍。丹念な修復の末、現代に蘇った。\n光沢のある金属の装飾は美しく見事。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130310",
+		"jp_text": "クラーデムサリーサ",
+		"tr_text": "Clawdem Sarissa",
+		"jp_explain": "ダーカー因子によって変貌を遂げた\n長槍。持つ者は敗北の影におびえ\n周囲の全てを執拗に貫く。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130314",
+		"jp_text": "ブルージーレクイエム-NT",
+		"tr_text": "Bluesy Requiem-NT",
+		"jp_explain": "深い闇から生みだされたとされる長槍。\nその漆黒に染まった刀身に貫かれた者は\n紅蓮の苦痛と共に滅びゆく。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130316",
+		"jp_text": "フォボスハルベルト",
+		"tr_text": "Phobos Halberd",
+		"jp_explain": "禍々しいフォルムと幾重ものブレードを\n併せ持った長槍。触れれば突き刺さる\n鋭利さは、標的に恐怖を植え付ける。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130320",
+		"jp_text": "ネメシスランス-NT",
+		"tr_text": "Nemesis Lance-NT",
+		"jp_explain": "古の時代に封印された聖なる長槍。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
+		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
+	},
+	{
+		"assign": "130321",
+		"jp_text": "スレイヴランス-NT",
+		"tr_text": "Slave Lance-NT",
+		"jp_explain": "古の時代に封印された邪なる長槍。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
+		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
+	},
+	{
+		"assign": "130323",
+		"jp_text": "秋断-NT",
+		"tr_text": "Akidachi-NT",
+		"jp_explain": "ひとつの季、ひとつの節に別れを\n告げるために作られた儀式長槍。\n決して刃こぼれのしない刃を持つ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130324",
+		"jp_text": "ホムラノオニトオシ",
+		"tr_text": "Homura no Onitoshi",
+		"jp_explain": "とある地方の伝統意匠を取り入れた\n長槍。刃にまとう灼熱とともに\n放たれる斬撃は、硬い岩をも断つ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130325",
+		"jp_text": "インヴェイドスピアー-NT",
+		"tr_text": "Invade Spear-NT",
+		"jp_explain": "【深遠なる闇】より生まれし負の長槍。\n装者は比類なき力を手にするが\n暴虐と崩壊だけが意志となる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130333",
+		"jp_text": "グレンノオニトオシ",
+		"tr_text": "Guren no Onitoshi",
+		"jp_explain": "とある地方の伝統意匠を取り入れた\n紅蓮の長槍。刃にまとう灼熱とともに\n放たれる斬撃は、硬い岩をも断つ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130334",
+		"jp_text": "シエンノオニトオシ",
+		"tr_text": "Shien no Onitoshi",
+		"jp_explain": "とある地方の伝統意匠を取り入れた\n紫炎の長槍。刃にまとう灼熱とともに\n放たれる斬撃は、硬い岩をも断つ。",
 		"tr_explain": ""
 	}
 ]

@@ -261,15 +261,15 @@
 	{
 		"assign": "111037",
 		"jp_text": "白錫クラリッサ",
-		"tr_text": "",
-		"jp_explain": "■",
+		"tr_text": "White Tin Clarissa",
+		"jp_explain": "ロッド型の創世器。『くらうもの』\n桁違いのフォトンを貪るように喰らい\n破壊の力を振るう、白き災厄の顕現。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "111038",
 		"jp_text": "灰錫クラリッサⅡ",
-		"tr_text": "",
-		"jp_explain": "■",
+		"tr_text": "Ash Tin Clarissa II",
+		"jp_explain": "模倣創世器。純白の色を再現することは\n最後まで出来なかったが、性能は十分。\n爆砕の力を纏う、灰の災禍の具象。",
 		"tr_explain": ""
 	},
 	{
@@ -326,7 +326,7 @@
 		"jp_text": "アンブラステッキ",
 		"tr_text": "Umblla Stick",
 		"jp_explain": "異次元よりの来訪者が、気まぐれに\n置いていったステキなステッキ。\n全クラス装備可能な、特殊な長杖。",
-		"tr_explain": "A Rod from another dimension.\nNicely crafted for\na whimsical visitor."
+		"tr_explain": "A Rod from another dimension.\nNicely crafted for a whimsical visitor."
 	},
 	{
 		"assign": "111048",
@@ -368,7 +368,7 @@
 		"jp_text": "ピコピコハンマー／ナハト",
 		"tr_text": "Pico Pico Hammer / Nacht",
 		"jp_explain": "闇夜の色を抱く長杖。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
-		"tr_explain": ""
+		"tr_explain": "A rod painted black as night. Its\norigins are unknown, but it inspires\ngreatness in its owner."
 	},
 	{
 		"assign": "111054",
@@ -487,14 +487,14 @@
 		"jp_text": "赤のロッド",
 		"tr_text": "Red Rod",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした長杖。\n目映い赤色は必然的に目を引く。",
-		"tr_explain": ""
+		"tr_explain": "A rod whose experimental coloring\nhas become iconic. The dazzling red\ncatches the eye."
 	},
 	{
 		"assign": "111076",
 		"jp_text": "青のロッド",
 		"tr_text": "Blue Rod",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした長杖。\n目映い青色は必然的に目を引く。",
-		"tr_explain": ""
+		"tr_explain": "A rod whose experimental coloring\nhas become iconic. The dazzling blue\ncatches the eye."
 	},
 	{
 		"assign": "111077",
@@ -641,7 +641,7 @@
 		"jp_text": "ライブリアス",
 		"tr_text": "Live Rias",
 		"jp_explain": "最先端の生体工学を応用し開発された\n長杖。無機的形状ながら高純度培養液が\n極めて有機的に反応し法撃力を増強。",
-		"tr_explain": ""
+		"tr_explain": "A rod made with state-of-the-art\nbioengineering. Enhanced with a\nhigh-purity culture solution."
 	},
 	{
 		"assign": "1110126",
@@ -716,7 +716,7 @@
 	{
 		"assign": "1110150",
 		"jp_text": "ビブラスロッド",
-		"tr_text": "Vibras Rod",
+		"tr_text": "Vibrace Rod",
 		"jp_explain": "ダーク・ビブラスの角を加工して\n作られた長杖。先端に装着された\n二股の角が特徴的。",
 		"tr_explain": ""
 	},
@@ -802,14 +802,14 @@
 		"jp_text": "ネメシスセイジ",
 		"tr_text": "Nemesis Sage",
 		"jp_explain": "古の時代に封印された聖なる長杖。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-		"tr_explain": ""
+		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
 	},
 	{
 		"assign": "1110198",
 		"jp_text": "スレイヴセイジ",
 		"tr_text": "Slave Sage",
 		"jp_explain": "古の時代に封印された邪なる長杖。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-		"tr_explain": ""
+		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
 	},
 	{
 		"assign": "1110199",
@@ -879,6 +879,13 @@
 		"jp_text": "ノクスリフェル",
 		"tr_text": "Nox Lipher",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き長杖。装者も恐怖を\n抱くほどの強大な法撃力を宿す。",
+		"tr_explain": "A black rod produced in an illicit\nritual. The mighty power of its\nTechniques terrifies even its wielder."
+	},
+	{
+		"assign": "1110232",
+		"jp_text": "レーテリフェル",
+		"tr_text": "Raete Lipher",
+		"jp_explain": "正当な手順を経た儀式により\n生み出された白き長杖。\n装者を守護する絶大な法撃力を宿す。",
 		"tr_explain": ""
 	},
 	{
@@ -886,6 +893,13 @@
 		"jp_text": "リフェルアリオン",
 		"tr_text": "Lipher Arion",
 		"jp_explain": "数多の儀式を施し、錬成の果てに\n生み出された紫の長杖。装者の感情が\n法撃力に変わるといわれる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110235",
+		"jp_text": "ディアジェウド",
+		"tr_text": "Dia Jeudu",
+		"jp_explain": "臨界寸前まで圧縮したフォトンを\n核に使用した長杖。使い続ければ命を\n落とすほどの威力といわれている。",
 		"tr_explain": ""
 	},
 	{
@@ -901,6 +915,13 @@
 		"tr_text": "Agrissa",
 		"jp_explain": "￥黒衣マトイロッド",
 		"tr_explain": "Black Matoi Rod"
+	},
+	{
+		"assign": "1110241",
+		"jp_text": "バジリスエナド",
+		"tr_text": "Basilis Enad",
+		"jp_explain": "鋭利な突起と蛇腹状の表面が特徴的な\n長杖。フォトン含有が増強されており\n大幅な法撃力の向上へ繋がった。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "1110243",
@@ -921,7 +942,7 @@
 		"jp_text": "オフスティアソーサラー",
 		"tr_text": "Austere Sorcerer",
 		"jp_explain": "負の力を識り、制することで転化した\n浄化の長杖。与えられた大いなる智慧は\n悪者を倒し、平穏をもたらす力となる。",
-		"tr_explain": "A purified Rod.\nIts great wisdom brings\njustice through peace\nthat vanquishes evil."
+		"tr_explain": "A purified Rod. Its great wisdom\nbrings justice through peace that\nvanquishes evil."
 	},
 	{
 		"assign": "1110246",
@@ -938,6 +959,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "1110251",
+		"jp_text": "グリシナラウラ",
+		"tr_text": "Glycina Laura",
+		"jp_explain": "特定地域のみで採掘される鉱石を使い\n製作された長杖。特殊加工により\n極めて高い法撃性能を持つに至った。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1110253",
 		"jp_text": "エンジュリーミスティー",
 		"tr_text": "Angely Misty",
@@ -949,6 +977,13 @@
 		"jp_text": "シャフトレボルシオ",
 		"tr_text": "Shaft Revolucio",
 		"jp_explain": "新開発の演算装置を搭載した長杖。\n装者の思考や戦況を分析することで\n出力を最適に保ち、負荷を軽減する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110261",
+		"jp_text": "シャフトドミナシオ",
+		"tr_text": "Shaft Dominacio",
+		"jp_explain": "新開発の演算装置を搭載した長杖。\n優れた最高出力を誇る反面、戦闘中は\n脳にかなりの負荷がかかる。",
 		"tr_explain": ""
 	},
 	{
@@ -973,10 +1008,24 @@
 		"tr_explain": "Prototype Rod, crafted in the form\nof a zapper. Acceleration boosters\nshape energy into a piercing blade."
 	},
 	{
+		"assign": "1110270",
+		"jp_text": "ヴァーデスザッパー",
+		"tr_text": "Vades Zapper",
+		"jp_explain": "近接武器の設計図を基に開発された\n長杖。硬質フレーム、高出力バーニアを\n採用した上級者向けの火力集中型。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1110271",
 		"jp_text": "アウラエストゥール",
 		"tr_text": "Aura Estour",
 		"jp_explain": "異界の因子を触媒に生み出された\n漆黒の長杖。装者の気力に比例して\n長大な矛は蒼き輝きを増すという。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110273",
+		"jp_text": "マルスエストゥール",
+		"tr_text": "Mars Estour",
+		"jp_explain": "異界の因子を触媒に生み出された\n混沌の長杖。湧き上がる力は心を狂わせ\n長大な矛により破滅へ導くという。",
 		"tr_explain": ""
 	},
 	{
@@ -992,6 +1041,34 @@
 		"tr_text": "Union Rod",
 		"jp_explain": "次世代の主力として開発された長杖。\n専用ブーストパーツが装着されたことで\n限界を超えた性能を発揮する。",
 		"tr_explain": "A Rod developed as the latest\nmodel. Augmented with boost parts,\nits performance exceed its limits."
+	},
+	{
+		"assign": "1110279",
+		"jp_text": "イヴリダマディーナ",
+		"tr_text": "Evleda Medina",
+		"jp_explain": "古に封印されし冥夜の長杖。\n絶たれし闇の錫杖は汝の血肉を贄とし\n戒めより目覚めて、沈黙の世を築く。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110280",
+		"jp_text": "クリシスマディーナ",
+		"tr_text": "Cleasis Medina",
+		"jp_explain": "古に封印されし冥夜の長杖。\n廉潔なる導士を魅了せし禁忌の法は\n魂と合わさりし時、全て等しく無に還す。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110281",
+		"jp_text": "シュベルマディーナ",
+		"tr_text": "Schvelle Medina",
+		"jp_explain": "古に封印されし冥夜の長杖。\n現世に目覚めし闇は強大な理となり\n生命を滅ぼし、永久の静寂を紡ぐ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110282",
+		"jp_text": "フォルニステルナーゼ",
+		"tr_text": "Fornis Telnaze",
+		"jp_explain": "異なる力を宿した恐るべき長杖。\n雷鳴のように猛々しいフォトンと\n抜きん出た法撃力を有している。",
+		"tr_explain": "A fearsome rod bearing twin\npowers. Its photons are as fierce as\nlightning, amplifying its Techniques."
 	},
 	{
 		"assign": "1110285",
@@ -1045,21 +1122,21 @@
 	{
 		"assign": "1110295",
 		"jp_text": "フォールオンス-NT",
-		"tr_text": "Fallounce-NT",
+		"tr_text": "Folones-NT",
 		"jp_explain": "フォトン吸収に優れた長杖。\n超軽量ながら新機構により大気中の\nフォトンを取り込み出力を保つ。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1110296",
 		"jp_text": "アルバフォールオンス-NT",
-		"tr_text": "Alva Fallounce-NT",
+		"tr_text": "Alva Folones-NT",
 		"jp_explain": "フォトン吸収に優れた長杖の改良型。\n大気中のフォトン取り込み機構を\n大型化し、法撃力全般を向上させた。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1110297",
 		"jp_text": "ヴィタフォールオンス-NT",
-		"tr_text": "Vita Fallounce-NT",
+		"tr_text": "Vita Folones-NT",
 		"jp_explain": "フォトン吸収に優れた長杖の高機能型。\n物理的な攻撃を回避する防御ユニットを\n組み込み、安定した法撃を可能にした。",
 		"tr_explain": ""
 	},
@@ -1110,7 +1187,7 @@
 		"jp_text": "ノクスリフェル-NT",
 		"tr_text": "Nox Lipher-NT",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き長杖。装者も恐怖を\n抱くほどの強大な法撃力を宿す。",
-		"tr_explain": ""
+		"tr_explain": "A black rod produced in an illicit\nritual. The mighty power of its\nTechniques terrifies even its wielder."
 	},
 	{
 		"assign": "1110305",
@@ -1145,7 +1222,7 @@
 		"jp_text": "アストラリディ",
 		"tr_text": "Astra Ridi",
 		"jp_explain": "マザーの残滓たる、幻創の長杖。\n手にしていると、杖が装者の無知を\n嘲笑っているような錯覚に囚われる。",
-		"tr_explain": "A Rod imbued with Mother's power.\nIt is said to trap ignorant hosts\nwithin a grim veil of illusions."
+		"tr_explain": "A Phantom rod imbued with Mother's\npower. Said to trap ignorant users\nwithin an illusion of ridicule."
 	},
 	{
 		"assign": "1110316",
@@ -1180,6 +1257,27 @@
 		"jp_text": "パンプキンロッド-NT",
 		"tr_text": "Pumpkin Rod-NT",
 		"jp_explain": "伝説上の怪物の頭を模した長杖。\nジョークグッズだが、戦闘にも使える。\n全クラス装備可能な、特殊な武器。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110325",
+		"jp_text": "[NPC]ヤスダエリロッド",
+		"tr_text": "[NPC]ヤスダエリロッド",
+		"jp_explain": "[NPC]ヤスダエリロッド",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110326",
+		"jp_text": "リュミエルサクシオン",
+		"tr_text": "Lumiere Saxion",
+		"jp_explain": "古より伝わる陽光の長杖。\n解き放たれし聖なる錫杖は\n闇を沈黙させ、安寧を築かん。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110327",
+		"jp_text": "ジュティスサクシオン",
+		"tr_text": "Jutus Saxion",
+		"jp_explain": "古より伝わる陽光の長杖。\n廉潔なる道士に紡がれし清めの法は\n生者に寄り添い、闇を全て無に還す。",
 		"tr_explain": ""
 	},
 	{
@@ -1222,6 +1320,139 @@
 		"jp_text": "ヴィエディーマ",
 		"tr_text": "Viedima",
 		"jp_explain": "ルミアの武器を元に作られた長杖。\n精神力を補助する機能があり\n扱いやすい設計。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110349",
+		"jp_text": "[NPC]ヴェルン魔術師Ｒ",
+		"tr_text": "[NPC]ヴェルン魔術師Ｒ",
+		"jp_explain": "[NPC]ヴェルン魔術師Ｒ",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110351",
+		"jp_text": "[NPC]クエント魔術師Ｒ",
+		"tr_text": "[NPC]クエント魔術師Ｒ",
+		"jp_explain": "[NPC]クエント魔術師Ｒ",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110352",
+		"jp_text": "タクティオハスティン",
+		"tr_text": "Tactio Hastein",
+		"jp_explain": "戦術と戦略を駆使して戦う遊戯の駒を\n模した長杖。攻守に優れたその一手は\n標的を翻弄し、味方を援護する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110356",
+		"jp_text": "グランヌフォイサラー",
+		"tr_text": "Grande Foiecerer",
+		"jp_explain": "フォイソーサラーの組織の一部を\n再利用した長杖。攻撃意志に反応して\n口の中から炎が燃えあがる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110357",
+		"jp_text": "カラベルフォイサラー",
+		"tr_text": "Caravel Foiecerer",
+		"jp_explain": "フォイソーサラーの組織の一部を\n再利用した長杖。青い炎をまとっており\n不気味なオーラを持つ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110362",
+		"jp_text": "ストライクブルーム-NT",
+		"tr_text": "Strike Broom-NT",
+		"jp_explain": "古のフォースが使用していたとされる\nホウキ型長杖を模して作られたもの。\n見た目だけでなく性能も完全再現。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110363",
+		"jp_text": "デモニックフォーク-NT",
+		"tr_text": "Demonic Fork-NT",
+		"jp_explain": "不可思議な力で装者に不幸を呼ぶ長杖。\n返しのついたその刃は、捕らえた獲物を\n決して離すことはない。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110364",
+		"jp_text": "バルゼムス",
+		"tr_text": "Val Zemus",
+		"jp_explain": "過去に戦場となった地域から発掘された\n長杖。かろうじて原型を留めているが\n損傷が激しく、欠損部分が目立つ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110365",
+		"jp_text": "アトラゼムス",
+		"tr_text": "Atra Zemus",
+		"jp_explain": "過去に戦場となった地域から発掘された\n長杖。修復士の手により、本来の力と\n美しい輝きを取り戻した。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110371",
+		"jp_text": "￥ハロウィンマトイ杖",
+		"tr_text": "￥Halloween Matoi Rod",
+		"jp_explain": "￥ハロウィンマトイ杖",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110374",
+		"jp_text": "フォボスソレイユ",
+		"tr_text": "Phobos Soleil",
+		"jp_explain": "禍々しいフォルムと幾重ものブレードを\n併せ持った長杖。刃の共鳴で高出力に\n至るフォトンは目標を恐怖で怯ませる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110383",
+		"jp_text": "ネメシスセイジ-NT",
+		"tr_text": "Nemesis Sage-NT",
+		"jp_explain": "古の時代に封印された聖なる長杖。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
+		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
+	},
+	{
+		"assign": "1110384",
+		"jp_text": "スレイヴセイジ-NT",
+		"tr_text": "Slave Sage-NT",
+		"jp_explain": "古の時代に封印された邪なる長杖。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
+		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
+	},
+	{
+		"assign": "1110386",
+		"jp_text": "恋鳳凰-NT",
+		"tr_text": "Koi Houou-NT",
+		"jp_explain": "施された装飾の風に舞う姿が\n伝説上の鳥の舞う姿を想起させる\n由緒正しき長杖。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110387",
+		"jp_text": "ホムラノカシャク",
+		"tr_text": "Homura no Kashaku",
+		"jp_explain": "とある地方の伝統意匠を取り入れた\n長杖。灯る焔は世に巡る生命を\n表しており、燃えるように解き放つ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110390",
+		"jp_text": "インヴェイドソーサラー-NT",
+		"tr_text": "Invade Sorcerer-NT",
+		"jp_explain": "【深遠なる闇】より生まれし負の長杖。\n装者に万の叡知を与えるが\n強き力の崇拝者へと変貌させる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110392",
+		"jp_text": "グラヴィリオス-NT",
+		"tr_text": "Gravilios-NT",
+		"jp_explain": "蜃気楼の中に稀に現れるという古城に\n眠る究極の長杖。青く光るフォトンから\n計り知れない力が生まれ出でる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110400",
+		"jp_text": "グレンノカシャク",
+		"tr_text": "Guren no Kashaku",
+		"jp_explain": "とある地方の伝統意匠を取り入れた\n紅蓮の長杖。灯る焔は世に巡る生命を\n表しており、燃えるように解き放つ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110401",
+		"jp_text": "シエンノカシャク",
+		"tr_text": "Shien no Kashaku",
+		"jp_explain": "とある地方の伝統意匠を取り入れた\n紫炎の長杖。灯る焔は世に巡る生命を\n表しており、燃えるように解き放つ。",
 		"tr_explain": ""
 	}
 ]

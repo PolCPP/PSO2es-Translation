@@ -27,17 +27,17 @@
 	{
 		"assign": "0005",
 		"jp_text": "<color=#f0df60>＜ＣＰを回復するテクニック＞</color>\nＣＰは時間とともに少しずつ増えていきますが\nエネミーに攻撃を命中させると、さらに増えるんです。\nＣＰをためて、チップをどんどん発動させましょう。",
-		"tr_text": "<color=#f0df60>＜Player Tips＞</color>\nYou can recover your CP slightly by\nattacking using normal attacks.\nDifferent CP requirements vary per chip,\nso be sure to examine them all."
+		"tr_text": "<color=#f0df60><Player Tips></color>\nYou can recover your CP slightly by\nattacking using normal attacks.\nDifferent CP requirements vary per chip,\nso be sure to examine them all."
 	},
 	{
 		"assign": "0006",
 		"jp_text": "<color=#f0df60>＜属性値について＞</color>\nバトル時はターゲット中のエネミーに対して\n最も有効な属性が自動で選択されます。\n属性値が高いほど、大ダメージを与えられますよ。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><About Element Values></color>\nWhen you attack, you automatically select\nthe most effective element to use against\nthe enemy you're targeting. The higher its\nvalue, the more damage you can deal."
 	},
 	{
 		"assign": "0007",
 		"jp_text": "<color=#f0df60>＜フレンドアシスト＞</color>\nフレンドアシスト、活用していますか？\nバトル中、画面右下の武器のアイコンが点灯したら\n発動できますよ。",
-		"tr_text": "<color=#f0df60>＜Friend Assist＞</color>\nHave you been using Friend Assist?\nYou can use it in battle when\nthe weapon icon in the right corner\nlights up."
+		"tr_text": "<color=#f0df60><Friend Assist></color>\nHave you been using Friend Assist?\nYou can use it in battle when\nthe weapon icon in the right corner\nlights up."
 	},
 	{
 		"assign": "0008",
@@ -47,7 +47,7 @@
 	{
 		"assign": "0009",
 		"jp_text": "<color=#f0df60>＜戦闘不能になったら＞</color>\n戦闘不能になったときは、復活薬などで\nその場で復活することができますよ。\nエネミーのＨＰはそのままなので\n「あと少しで倒せそう」というときなどに、どうぞ。",
-		"tr_text": "<color=#f0df60>＜When You Are Dead＞</color>\nYou are dead when killed.\nYou may then recover from this\nstate by using Rappy Coins, AC, or Recovery Items\nsuch as Scape Dolls."
+		"tr_text": "<color=#f0df60><When You Are Dead></color>\nYou are dead when killed.\nYou may then recover from this\nstate by using Rappy Coins, AC, or Recovery Items\nsuch as Scape Dolls."
 	},
 	{
 		"assign": "0010",
@@ -57,7 +57,7 @@
 	{
 		"assign": "0011",
 		"jp_text": "<color=#f0df60>＜エリアについて＞</color>\n冒険に出発するときは\nまず、出撃するマップである「エリア」を選び\n次に、エリアの中から「クエスト」を選びます。",
-		"tr_text": "<color=#f0df60>＜Area＞</color>\nWhen starting a mission,\nfirst select the area you'd like\nto travel to, then select a quest."
+		"tr_text": "<color=#f0df60><Area></color>\nWhen starting a mission,\nfirst select the area you'd like\nto travel to, then select a quest."
 	},
 	{
 		"assign": "0012",
@@ -72,7 +72,7 @@
 	{
 		"assign": "0014",
 		"jp_text": "<color=#f0df60>＜ＰＳＥでパワーアップ＞</color>\nフィールドで移動中、色がついているマスを選ぶと\nフォトンの力で攻撃力や防御力がアップする\n「ＰＳＥ」が発生します。うまく活用しましょう。",
-		"tr_text": "<color=#f0df60>＜ＰＳＥ Power Up＞</color>\nWhen playing, matching the\ncolors can boost the photon\neffect of the type selected."
+		"tr_text": "<color=#f0df60><PSE Power Up></color>\nWhen playing, matching the\ncolors can boost the photon\neffect of the type selected."
 	},
 	{
 		"assign": "0015",
@@ -137,12 +137,12 @@
 	{
 		"assign": "0027",
 		"jp_text": "<color=#f0df60>＜スペシャルクエスト＞</color>\nチップ解放の素材となるチップは\n日替わりで配信される\nスペシャルクエストで入手可能ですよ！",
-		"tr_text": "<color=#f0df60>＜Special Quests＞</color>\nYou can find materials for\nchip releases by doing special quests!"
+		"tr_text": "<color=#f0df60><Special Quests></color>\nYou can find materials for\nchip releases by doing special quests!"
 	},
 	{
 		"assign": "0028",
 		"jp_text": "<color=#f0df60>＜グラインダーで強化＞</color>\n編成メニューの「武器／ユニット強化」では\n武器やユニットを強化することができるんです。\n強化には、グラインダーというアイテムが必要です。",
-		"tr_text": "<color=#f0df60>＜Using Grinders＞</color>\nYou can increase the stats of your gear\nby using grinders at the \"Grind Items\" button."
+		"tr_text": "<color=#f0df60><Using Grinders></color>\nYou can increase the stats of your gear\nby using grinders at the \"Grind Items\" button."
 	},
 	{
 		"assign": "0029",
@@ -167,12 +167,12 @@
 	{
 		"assign": "0033",
 		"jp_text": "<color=#f0df60>＜セラフィのひとりごと１＞</color>\nもしプライベートで遊びに行けるのなら\n惑星ナベリウスで森林浴かなぁ……\nあっ、でも惑星リリーパの砂漠に沈む夕日を\n見に行くのも悪くないかも！",
-		"tr_text": "<color=#f0df60>＜Monologue of Seraphy #1＞</color>\nOn the planet Naberius, there's a\nprivate bath in the forest, ahhh....\nThe sun set in the desert on\nLilipa isn't too bad either!"
+		"tr_text": "<color=#f0df60><Monologue of Seraphy #1></color>\nOn the planet Naberius, there's a\nprivate bath in the forest, ahhh....\nThe sun set in the desert on\nLillipa isn't too bad either!"
 	},
 	{
 		"assign": "0034",
 		"jp_text": "<color=#f0df60>＜セラフィのひとりごと２＞</color>\n『PSO2』では、エステというところがあって\n体型や髪型などを\n自由にカスタマイズできるんですって！\nいいなぁ……私も、もう少し細くなりたい……",
-		"tr_text": "<color=#f0df60>＜Monologue of Seraphy #2＞</color>\n『PSO2』 There's a place called \"Salon\" that\nallows you to customize your hair and body type!\nI uhh....I hope I could become a bit more thinner..."
+		"tr_text": "<color=#f0df60><Monologue of Seraphy #2></color>\n\"PSO2\" There's a place called \"Salon\" that\nallows you to customize your hair and body type!\nI uhh....I hope I could become a bit more thinner..."
 	},
 	{
 		"assign": "0035",
@@ -191,7 +191,7 @@
 	},
 	{
 		"assign": "0038",
-		"jp_text": "<color=#f0df60>＜装備セットを作ろう＞</color>\n武器とチップの装備のセットは\n３つまで保存しておくことができますよ。\n「武器／チップ」装備画面の、右上の矢印で\n切り替えることが可能です。",
+		"jp_text": "<color=#f0df60>＜装備セットを作ろう＞</color>\n武器とチップの装備のセットは\n６つまで保存しておくことができますよ。\n「装備パレット」画面の、右上の矢印で\n切り替えることが可能です。",
 		"tr_text": ""
 	},
 	{
@@ -207,12 +207,12 @@
 	{
 		"assign": "0041",
 		"jp_text": "<color=#f0df60>＜セラフィのひとりごと３＞</color>\n昔の父は、家族を大事にしてくれる\nやさしい人でしたが\n失踪する数年前から、ふさぎ込みがちになり\n自室で研究に没頭するようになってしまいました。",
-		"tr_text": "<color=#f0df60>＜Monologue of Seraphy #3＞</color>\nMy father, was friendly to our family & people.\nHe was so immersed in his research, prior\nto his disappearance few years ago."
+		"tr_text": "<color=#f0df60><Monologue of Seraphy #3></color>\nMy father, was friendly to our family & people.\nHe was so immersed in his research, prior\nto his disappearance few years ago."
 	},
 	{
 		"assign": "0042",
 		"jp_text": "<color=#f0df60>＜セラフィのひとりごと４＞</color>\nいろんな惑星に探索に行けて\nアークスって、楽しそうですよね……\nあー、私もアークスになりたかったなぁ……",
-		"tr_text": "<color=#f0df60>＜Monologue of Seraphy #4＞</color>\nI wanted to go on other planets\nas ARKS and have fun……\nWhy did I want to become ARKS……"
+		"tr_text": "<color=#f0df60><Monologue of Seraphy #4></color>\nI wanted to go on other planets\nas ARKS and have fun......\nWhy did I want to become ARKS......"
 	},
 	{
 		"assign": "0043",
@@ -222,12 +222,12 @@
 	{
 		"assign": "0044",
 		"jp_text": "<color=#f0df60>＜ダーカーの弱点属性＞</color>\n蟲系ダーカーは炎と光、\n魚介系ダーカーは雷と光が弱点属性です。\nいずれのダーカーも、光属性は共通した弱点ですね。",
-		"tr_text": "<color=#f0df60>＜Darker Weaknesses＞</color>\nDarkers are generally weak against\nFire and Light. Aquatic Darkers\nare weak against Lightning and Light.\nMost darkers are weak against light."
+		"tr_text": "<color=#f0df60><Darker Weaknesses></color>\nDarkers are generally weak against\nFire and Light. Aquatic Darkers\nare weak against Lightning and Light.\nMost darkers are weak against light."
 	},
 	{
 		"assign": "0045",
 		"jp_text": "<color=#f0df60>＜レアドロップ＞</color>\nクエスト選択画面の「クエスト情報」では\nボスがまれに落とす「レアドロップ」アイテムが\n表示されています。\nほしいアイテムがあったら、そのクエストに\n何度もチャレンジしてみましょう。",
-		"tr_text": "<color=#f0df60>＜Rare Drops＞</color>\n.The quest information will display\nrare drop items that the boss may drop.\nIf you want these items, you may\nhave to repeat the quest multiple times."
+		"tr_text": "<color=#f0df60><Rare Drops></color>\n.The quest information will display\nrare drop items that the boss may drop.\nIf you want these items, you may\nhave to repeat the quest multiple times."
 	},
 	{
 		"assign": "0046",
@@ -262,7 +262,7 @@
 	{
 		"assign": "0052",
 		"jp_text": "<color=#f0df60>＜コスチュームについて＞</color>\n『PSO2』および『PSO2es』のコスチュームには\nバトルに関係するパラメータはありません。\nですので、強さなどを気にすることなく\n見た目が好みのコスチュームを選ぶとよいでしょう。",
-		"tr_text": "<color=#f0df60>＜Costumes＞</color>\nCostumes in both 『PSO2』 and 『PSO2es』\ndo not affect your stats, so feel\nfree to wear what you like."
+		"tr_text": "<color=#f0df60><Costumes></color>\nCostumes in both \"PSO2\" and \"PSO2es\"\ndo not affect your stats, so feel\nfree to wear what you like."
 	},
 	{
 		"assign": "0053",
@@ -467,7 +467,7 @@
 	{
 		"assign": "0093",
 		"jp_text": "<color=#f0df60>＜ダーカーの第二波＞</color>\nダーカー侵入群の、第一波は食い止めました。\nですが引き続き、第二波が押し寄せてきています。\n撃退をお願いします！",
-		"tr_text": "<color=#f0df60>＜Second Darker Attack＞</color>\nYou stopped the first wave of\nDarkers. But now a second wave is\nattacking. Please repel them!"
+		"tr_text": "<color=#f0df60><Second Darker Attack></color>\nYou stopped the first wave of\nDarkers. But now a second wave is\nattacking. Please repel them!"
 	},
 	{
 		"assign": "0094",
@@ -487,12 +487,12 @@
 	{
 		"assign": "0097",
 		"jp_text": "<color=#f0df60>＜期間限定クエストでフレンドを作ろう＞</color>\nこのクエストでは、冒険中のほかのアークスと\n遭遇することがありますよ。\nぜひフレンド申請して\nフレンドをたくさん作っちゃいましょう。",
-		"tr_text": "<color=#f0df60>＜Translations!＞</color>\nIf you wish to see about\nhelping to translate PSO2es,\nThen visit us at github.com/PolCPP/PSO2es-Translation."
+		"tr_text": "<color=#f0df60><Translations!></color>\nIf you wish to see about\nhelping to translate PSO2es,\nThen visit us at github.com/PolCPP/PSO2es-Translation."
 	},
 	{
 		"assign": "0098",
 		"jp_text": "<color=#f0df60>＜期間限定クエストで武器入手＞</color>\nこのクエストでは\nいい武器やユニットがドロップしやすいんですよ。\n思いがけないレアアイテムが\n手に入っちゃうかも？",
-		"tr_text": "<color=#f0df60>＜Limited Quest Rewards＞</color>\nIn these quests, it's easy to\nget lots of good weapons and units.\nMaybe even an unexpected rare?"
+		"tr_text": "<color=#f0df60><Limited Quest Rewards></color>\nIn these quests, it's easy to\nget lots of good weapons and units.\nMaybe even an unexpected rare?"
 	},
 	{
 		"assign": "0099",
@@ -527,22 +527,22 @@
 	{
 		"assign": "0105",
 		"jp_text": "<color=#f0df60>＜ラッピーチップをゲットしよう＞</color>\nこのクエストにはラッピーが出現するようです。\n貴重なラッピーのチップを\nこの機会にたくさん入手しましょう。",
-		"tr_text": "<color=#f0df60>Getting Rappy Chips</color>\nRappy Quest appears with many rappies.\nLovely rappy chips,\ntry to get as many possible."
+		"tr_text": "<color=#f0df60>Getting Rappy Chips</color>\nRappy Quest appears with many rappies.\nLovely rappy chips, try to get as many possible."
 	},
 	{
 		"assign": "0106",
 		"jp_text": "<color=#f0df60>＜クラス「ファイター」を解放しよう＞</color>\nこのクエストをクリアすると、追加クラス\n「ファイター」が選択できるようになりますよ。\nがんばってくださいね！",
-		"tr_text": "<color=#f0df60>＜Unlocking Fighter＞</color>\nIf you clear this quest, you will\nunlock the \"Fighter\" class.\nDo your best!"
+		"tr_text": "<color=#f0df60><Unlocking Fighter></color>\nIf you clear this quest, you will\nunlock the \"Fighter\" class.\nDo your best!"
 	},
 	{
 		"assign": "0107",
 		"jp_text": "<color=#f0df60>＜クラス「ガンナー」を解放しよう＞</color>\nこのクエストをクリアすると、追加クラス\n「ガンナー」が選択できるようになりますよ。\nがんばってくださいね！",
-		"tr_text": "<color=#f0df60>＜Unlocking Gunner＞</color>\nIf you clear this quest, you will\nunlock the \"Gunner\" class.\nDo your best!"
+		"tr_text": "<color=#f0df60><Unlocking Gunner></color>\nIf you clear this quest, you will\nunlock the \"Gunner\" class.\nDo your best!"
 	},
 	{
 		"assign": "0108",
 		"jp_text": "<color=#f0df60>＜クラス「テクター」を解放しよう＞</color>\nこのクエストをクリアすると、追加クラス\n「テクター」が選択できるようになりますよ。\nがんばってくださいね！",
-		"tr_text": "<color=#f0df60>＜Unlocking Techer＞</color>\nIf you clear this quest, you will\nunlock the \"Techer\" class.\nDo your best!"
+		"tr_text": "<color=#f0df60><Unlocking Techer></color>\nIf you clear this quest, you will\nunlock the \"Techer\" class.\nDo your best!"
 	},
 	{
 		"assign": "0109",
@@ -572,22 +572,22 @@
 	{
 		"assign": "0114",
 		"jp_text": "<color=#f0df60>＜クラス限定クエストでアイテム入手＞</color>\nこのクエストでは、クラスに応じた\n武器やユニットがドロップしやすいですよ。\n強力なアイテムを手に入れましょう！",
-		"tr_text": "<color=#f0df60>＜Class Specific Equips＞</color>\nClass specifc equipment can be found\nduring the class specific quests.\nLet's hunt them down!"
+		"tr_text": "<color=#f0df60><Class Specific Equips></color>\nClass specifc equipment can be found\nduring the class specific quests.\nLet's hunt them down!"
 	},
 	{
 		"assign": "0115",
 		"jp_text": "<color=#f0df60>＜緊急クエストへの再出撃＞</color>\n緊急クエストは、一度で目標のエネミーを倒せなくても\n前回のバトルで与えたダメージはそのままで\nクエストに再挑戦できます。\n何度もチャレンジして、目標の撃破をめざしましょう！",
-		"tr_text": "<color=#f0df60>＜Emergency Quests＞</color>\nDuring an Emergency Quest, you can rechallenge\nthe same quest until the enemy in\nquestion is defeated or you have ran out of OP.\nLet's do our best!"
+		"tr_text": "<color=#f0df60><Emergency Quests></color>\nDuring an Emergency Quest, you can rechallenge\nthe same quest until the enemy in\nquestion is defeated or you have run out of OP.\nLet's do our best!"
 	},
 	{
 		"assign": "0116",
 		"jp_text": "<color=#f0df60>＜フレンドと協力しよう＞</color>\n緊急クエストで目標を討伐できなかった場合は、\nフレンドに救援要請を送ることができます。\nフレンドの力を結集して、強敵を撃破しましょう！",
-		"tr_text": "<color=#f0df60>＜Friend Help＞</color>\nIf you're defeated during an Emergency Quest,\nyou may call for a rescue using your friends.\nCooperating is key to defeating the powerful foe!"
+		"tr_text": "<color=#f0df60><Friend Help></color>\nIf you're defeated during an Emergency Quest,\nyou may call for a rescue using your friends.\nCooperating is key to defeating the powerful foe!"
 	},
 	{
 		"assign": "0117",
 		"jp_text": "<color=#f0df60>＜討伐スコアを手に入れよう＞</color>\n緊急クエストのクリア時には、討伐スコアに応じて\nアークス本部より特別報酬が支給されます。\n目標にダメージをたくさん与えて、討伐スコアを\n手に入れましょう！",
-		"tr_text": "<color=#f0df60>＜Scores＞</color>\nOnce you've successfully defeated the enemy,\nyou'll be awarded points and a special reward.\nYou can use these points to redeem for a special\nEQ scratch.\nLet's defeat the enemy and gain more points!"
+		"tr_text": "<color=#f0df60><Scores></color>\nOnce you've successfully defeated the enemy,\nyou'll be awarded points and a special reward.\nYou can use these points to redeem for a special\nEQ scratch.\nLet's defeat the enemy and gain more points!"
 	},
 	{
 		"assign": "0118",
@@ -667,7 +667,7 @@
 	{
 		"assign": "0133",
 		"jp_text": "<color=#f0df60>＜超強力エネミー登場！＞</color>\nこのクエストでは、上級をはるかに超える\n強力なエネミーが出現するようです。\n心してかかってください！",
-		"tr_text": "<color=#f0df60>＜A Powerful Enemy!＞</color>\nIn this quest, there's a chance\nthat a powerful enemy will appear.\nPlease destroy it!"
+		"tr_text": "<color=#f0df60><A Powerful Enemy!></color>\nIn this quest, there's a chance\nthat a powerful enemy will appear.\nPlease destroy it!"
 	},
 	{
 		"assign": "0134",
@@ -677,7 +677,7 @@
 	{
 		"assign": "0135",
 		"jp_text": "<color=#f0df60>＜条件を達成して報酬をもらおう＞</color>\n緊急クエストで一定数以上の目標を討伐するなどの\n条件を達成するとイベントページで\n報酬を獲得できます。\n報酬の入手条件はイベントページで確認しましょう！",
-		"tr_text": "<color=#f0df60>＜Reward Conditions＞</color>\nBy completing additional objectives,\nyou can earn additional rewards.\nCheck the event page for more\ndetails!"
+		"tr_text": "<color=#f0df60><Reward Conditions></color>\nBy completing additional objectives,\nyou can earn additional rewards.\nCheck the event page for more\ndetails!"
 	},
 	{
 		"assign": "0136",
@@ -807,7 +807,7 @@
 	{
 		"assign": "0161",
 		"jp_text": "<color=#f0df60>＜システムメッセージ＞</color>\nアークス管理官・セラフィへの通信は\n現在、接続不能となっています。",
-		"tr_text": "<color=#f0df60>＜System Message＞</color>\nWe have lost the connection to\nARKS Management Officer Seraphy."
+		"tr_text": "<color=#f0df60><System Message></color>\nWe have lost the connection to\nARKS Management Officer Seraphy."
 	},
 	{
 		"assign": "0162",
@@ -936,12 +936,12 @@
 	},
 	{
 		"assign": "0187",
-		"jp_text": "あああああ",
+		"jp_text": "<color=#f0df60>＜敵になったウェポノイド＞</color>\nウェポノイドが敵側に……！？\n何か起こるか予測不能です。\n注意してください！",
 		"tr_text": ""
 	},
 	{
 		"assign": "0188",
-		"jp_text": "あああああ",
+		"jp_text": "<color=#f0df60>＜バリアを破壊しよう＞</color>\n敵側のウェポノイドが発動する支援効果は\n発動後しばらくすると、破壊できるようになります。\n必殺技や法術で手早く破壊しましょう！",
 		"tr_text": ""
 	},
 	{
@@ -1006,17 +1006,17 @@
 	},
 	{
 		"assign": "0201",
-		"jp_text": "あああああ",
+		"jp_text": "<color=#f0df60>＜花嫁のブーケをつかめ！＞</color>\nこのクエストでは、花嫁にちなんだ\nウェポノイドのチップが手に入ることがありますよ。\nクエストは、１日数回どこかの時間に発生するので\n逃さないよう挑戦しましょう！",
 		"tr_text": ""
 	},
 	{
 		"assign": "0202",
-		"jp_text": "あああああ",
+		"jp_text": "<color=#f0df60>＜マジック・カードを集めよう！＞</color>\nこのクエストでは、「マジック・カード」というアイテムが\n手に入ることがあります！\n交換ショップに持って行くと\nいろいろな景品と交換できますよ！",
 		"tr_text": ""
 	},
 	{
 		"assign": "0203",
-		"jp_text": "あああああ",
+		"jp_text": "<color=#f0df60>＜細波の貝殻を集めよう！＞</color>\nこのクエストでは、「細波の貝殻」というアイテムが\n手に入ることがあります！\n交換ショップに持って行くと\nいろいろな景品と交換できますよ！",
 		"tr_text": ""
 	},
 	{
@@ -1051,72 +1051,227 @@
 	},
 	{
 		"assign": "0210",
-		"jp_text": "あああああ",
+		"jp_text": "<color=#f0df60>＜闇の鴉羽を集めよう！＞</color>\nこのクエストでは、「闇の鴉羽」というアイテムが\n手に入ることがあります！\n交換ショップに持って行くと\nいろいろな景品と交換できますよ！",
 		"tr_text": ""
 	},
 	{
 		"assign": "0211",
-		"jp_text": "あああああ",
+		"jp_text": "<color=#f0df60>＜金の銃弾を集めよう！＞</color>\nこのクエストでは、「金の銃弾」というアイテムが\n手に入ることがあります！\n交換ショップに持って行くと\nいろいろな景品と交換できますよ！",
 		"tr_text": ""
 	},
 	{
 		"assign": "0212",
-		"jp_text": "あああああ",
+		"jp_text": "<color=#f0df60>＜電撃バッヂを集めよう！＞</color>\nこのクエストでは、「電撃バッヂ」というアイテムが\n手に入ることがあります！\n交換ショップに持って行くと\nいろいろな景品と交換できますよ！",
 		"tr_text": ""
 	},
 	{
 		"assign": "0213",
-		"jp_text": "あああああ",
+		"jp_text": "<color=#f0df60>＜★１３チップの解放＞</color>\n★１３チップをパレットに装備すると同じ属性の\n必殺技、法術チップのコストが半分になるんです！\n★１３チップと一緒に必殺技や法術のチップを\n装備する時は属性も考慮してくださいね！",
 		"tr_text": ""
 	},
 	{
 		"assign": "0214",
-		"jp_text": "あああああ",
+		"jp_text": "<color=#f0df60>＜★１３チップの最大解放＞</color>\n★１３チップには二段階の解放があります。\n最大解放した★13チップをパレットに装備した時\n全属性の必殺技、法術チップのコストが半分になります。\n強いチップを装備したいけどコストが……\nなんて悩みが解決しちゃいますよ！",
 		"tr_text": ""
 	},
 	{
 		"assign": "0215",
-		"jp_text": "あああああ",
+		"jp_text": "<color=#f0df60>＜リンクスロットを活用しよう＞</color>\n装備しているチップがリンクスロットを持つ場合\n特定のチップを装備することができます。\nリンクスロットにチップを装備すると\n装備されたチップの性能が強化されますよ！",
 		"tr_text": ""
 	},
 	{
 		"assign": "0216",
-		"jp_text": "あああああ",
+		"jp_text": "<color=#f0df60>＜リンクスキルの発動！＞</color>\n装備しているチップと、リンクスロットに装備されている\nチップの属性が一致してる場合\nリンクスキルが発動します。\nリンクスロットにチップを装備する時は\n属性も考慮してみてくださいね！",
 		"tr_text": ""
 	},
 	{
 		"assign": "0217",
-		"jp_text": "あああああ",
+		"jp_text": "<color=#f0df60>＜解放素材チップを入手しよう＞</color>\nこのクエストでは「フォトン因子」など\nチップ解放に必要な光属性の素材が手に入りますよ。\n集めてチップを解放しましょう！",
 		"tr_text": ""
 	},
 	{
 		"assign": "0218",
-		"jp_text": "あああああ",
+		"jp_text": "<color=#f0df60>＜新たな解放素材チップを入手しよう＞</color>\nこのクエストでは★１３チップの解放に必要な\n「フォトン臨界因子」がドロップします。\n貴重な解放素材、ぜひゲットしてください！",
 		"tr_text": ""
 	},
 	{
 		"assign": "0219",
-		"jp_text": "あああああ",
+		"jp_text": "<color=#f0df60>＜解放素材チップを入手しよう＞</color>\nこのクエストでは「破損したダーカーコア」など\nチップ解放に必要な闇属性の素材が手に入りますよ。\n集めてチップを解放しましょう！",
 		"tr_text": ""
 	},
 	{
 		"assign": "0220",
-		"jp_text": "あああああ",
+		"jp_text": "<color=#f0df60>＜新たな解放素材チップを入手しよう＞</color>\nこのクエストでは★１３チップの解放に必要な\n「稀少ダーカーコア」がドロップします。\n貴重な解放素材、ぜひゲットしてください！",
 		"tr_text": ""
 	},
 	{
 		"assign": "0221",
-		"jp_text": "あああああ",
+		"jp_text": "<color=#f0df60>＜解放素材チップを入手しよう＞</color>\nこのクエストでは「アムドゥスキア観測素子」など\nチップ解放に必要な炎属性の素材が手に入りますよ。\n集めてチップを解放しましょう！",
 		"tr_text": ""
 	},
 	{
 		"assign": "0222",
-		"jp_text": "あああああ",
+		"jp_text": "<color=#f0df60>＜新たな解放素材チップを入手しよう＞</color>\nこのクエストでは★１３チップの解放に必要な\n「アムドゥスキア変成素子」がドロップします。\n貴重な解放素材、ぜひゲットしてください！",
 		"tr_text": ""
 	},
 	{
 		"assign": "0223",
-		"jp_text": "あああああ",
+		"jp_text": "<color=#f0df60>＜解放素材チップを入手しよう＞</color>\nこのクエストでは「ウォパル観測素子」など\nチップ解放に必要な氷属性の素材が手に入りますよ。\n集めてチップを解放しましょう！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0224",
+		"jp_text": "<color=#f0df60>＜新たな解放素材チップを入手しよう＞</color>\nこのクエストでは★１３チップの解放に必要な\n「ウォパル変成素子」がドロップします。\n貴重な解放素材、ぜひゲットしてください！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0225",
+		"jp_text": "<color=#f0df60>＜解放素材チップを入手しよう＞</color>\nこのクエストでは「ナベリウス観測素子」など\nチップ解放に必要な素材が手に入りますよ。\n集めてチップを解放しましょう！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0226",
+		"jp_text": "<color=#f0df60>＜新たな解放素材チップを入手しよう＞</color>\nこのクエストでは★１３チップの解放に必要な\n「ナベリウス変成素子」がドロップします。\n貴重な解放素材、ぜひゲットしてください！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0227",
+		"jp_text": "<color=#f0df60>＜解放素材チップを入手しよう＞</color>\nこのクエストでは「リリーパ観測素子」など\nチップ解放に必要な素材が手に入りますよ。\n集めてチップを解放しましょう！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0228",
+		"jp_text": "<color=#f0df60>＜新たな解放素材チップを入手しよう＞</color>\nこのクエストでは★１３チップの解放に必要な\n「リリーパ変成素子」がドロップします。\n貴重な解放素材、ぜひゲットしてください！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0229",
+		"jp_text": "<color=#f0df60>＜日替わりクエストで装備強化＞</color>\nこのクエストでは、グラインダーが\nドロップします。\nクリアして武器を強化しましょう！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0230",
+		"jp_text": "<color=#f0df60>＜エネミーの弱点属性を狙え！＞</color>\nこのブロックのエネミーは\n特定の属性を弱点としています。\n弱点を突くことができるよう\n十分に準備を整え挑んでください！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0231",
+		"jp_text": "<color=#f0df60>＜エネミーの属性耐性に気を付けて！＞</color>\nこのブロックのエネミーは\n特定の属性に耐性を持ちます。\n耐性の隙を突くことができるよう\n十分に準備を整え挑んでください！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0232",
+		"jp_text": "<color=#f0df60>＜エネミーの攻撃耐性に気を付けて！＞</color>\nこのブロックのエネミーは「打撃」「射撃」「法撃」\n「必殺技」「法術」のいずれかに耐性を持ちます。\n耐性の隙を突くことができるよう\n十分に準備を整え挑んでください！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0233",
+		"jp_text": "<color=#f0df60>＜エネミーの状態異常時を狙え！＞</color>\nこのブロックのエネミーは\n状態異常状態中に攻撃すると\n通常以上のダメージを与えることができます。\n状態異常を与えるチップを使ってみてください！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0234",
+		"jp_text": "<color=#f0df60>＜消費ＣＰ大幅カット！＞</color>\nこのブロックでは\nチップ発動時のＣＰの消費量が\n大幅に下がります！\nチップの連続発動が可能になりますので\nアクティブチップを使ってみてください！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0235",
+		"jp_text": "<color=#f0df60>＜ダメージボムで追加ボーナス！＞</color>\nこのブロックでは\nダメージボムチップが有効です！\nダメージボムチップは対象エネミーの\n残りＨＰに応じた割合ダメージを追加で与えます！\nダメージボムチップを使ってみてください！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0236",
+		"jp_text": "<color=#f0df60>＜プレイヤーに特殊な制限が発生＞</color>\nこのブロックでは「通常攻撃耐性」「ダメージ上限」\nなどプレイヤーに様々な制限が発動します。\n臨機応変に対応できるよう\n十分に準備を整え挑んでください！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0237",
+		"jp_text": "<color=#f0df60>＜エターナルジュエルとは？＞</color>\nブロックをクリアすると\n「エターナルジュエル」が手に入ります。\n交換ショップで、いろいろな景品と交換できますよ！\nエターナルジュエルは次回持越しが可能です！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0238",
+		"jp_text": "<color=#f0df60>＜ブロックのクリアタイム報酬を目指そう！＞</color>\nブロックをクリアすると\nクリアタイムに応じて\n各種クリアタイム報酬が手に入ります。\nブロックをできるだけ早くクリアして\nゴールド報酬を目指しましょう！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0239",
+		"jp_text": "<color=#f0df60>＜階層達成報酬を入手しよう！＞</color>\n３０階、６０階など、\n特定のブロックを達成すると\n階層達成報酬が手に入ります。\nエターナルタワーの最上階を目指しましょう！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0240",
+		"jp_text": "<color=#f0df60>＜合計時間で豪華報酬！＞</color>\n各ブロックのクリアタイムの合計に応じて\n合計時間報酬が手に入ります。\nブロック毎のクリアタイムを縮めて\n豪華報酬を手に入れましょう！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0241",
+		"jp_text": "<color=#f0df60>＜ボスのいるパネルを探せ！＞</color>\nこのブロックでは\nどこかにボスのいるパネルがあります。\nボスバトルをクリアして、確実に鍵を入手しましょう！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0242",
+		"jp_text": "<color=#f0df60>＜上層ランキングを目指せ！＞</color>\n上層ランキングの報酬は\n下層ランキングより良い報酬となります。\nですので、下層ランキング内で順位を競うより\n上層ランキングにエントリーした方がお得ですよ！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0243",
+		"jp_text": "<color=#f0df60>＜フレンドと同じブロックでプレイしよう！＞</color>\nフレンドがいるブロックをプレイするとパネル選択時に\n「フレンドボーナス」としてボーナスパネルが1つ\nプレゼントされます。\nブロックのクリア時間短縮に有利になるでしょう！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0244",
+		"jp_text": "<color=#f0df60>＜プレイヤーに特殊な制限が発生＞</color>\nこのブロックでは「ＨＰ回復無効」になります。\nチップの効果を使用しても、ＨＰは回復しません。\n唯一の回復方法は、ボーナスパネルのＨＰ回復となります！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0245",
+		"jp_text": "<color=#f0df60>＜特効武器でバトルを有利に！＞</color>\nこのブロックのエネミーは\nブロックに設定されている特効武器で攻撃すると\n通常以上のダメージを与えることができます。\n特効武器を装備して挑戦してみてください！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0246",
+		"jp_text": "<color=#f0df60>＜迎春のお飾りを集めよう！＞</color>\nこのクエストでは、「迎春のお飾り」というアイテムが\n手に入ることがあります！\n交換ショップに持って行くと\nいろいろな景品と交換できますよ！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0247",
+		"jp_text": "<color=#f0df60>＜フォトン・スノーの結晶を集めよう！＞</color>\nこのクエストでは、「フォトン・スノーの結晶」\nというアイテムが手に入ることがあります！\n交換ショップに持って行くと\nいろいろな景品と交換できますよ！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0248",
+		"jp_text": "<color=#f0df60>＜必殺技と法術のリンクスキルについて＞</color>\n装備している必殺技・法術チップのリンクスロットに\n同じ攻撃タイプの必殺技・法術チップを装備すると\nリンクスキルが発動し\n装備先の必殺技や法術が強化されるんですよ！！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0249",
+		"jp_text": "<color=#f0df60>＜ラッシュアーツを使ってバトルを優位に進めよう！＞</color>\n条件を満たしたチップをリンクスロットに装備すると\n必殺技・法術チップで追加攻撃をしてくれる\n「ラッシュアーツ」が使用できます。\nラッシュアーツを使用すると、リーダーの分身となる\n「ラッシュ」が出現し、追加攻撃をしてくれるんです！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0250",
+		"jp_text": "<color=#f0df60>＜万色の夢想石を集めよう！＞</color>\nこのクエストで手に入る「万色の夢想石」という\nアイテムを集めて交換ショップに行くと\nいろいろな景品と交換できますよ！\nそのうえ、ごくまれにウェポノイドチップの\n「Ｈ１０ミズーリＴ」が手に入るんです！！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0251",
+		"jp_text": "<color=#f0df60>＜万色の夢想石を集めよう！＞</color>\nこのクエストで手に入る「万色の夢想石」という\nアイテムを集めて交換ショップに行くと\nいろいろな景品と交換できますよ！\nそのうえ、ごくまれにウェポノイドチップの\n「ユニオンＤブレード」が手に入るんです！！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0252",
+		"jp_text": "<color=#f0df60>＜万色の夢想石を集めよう！＞</color>\nこのクエストで手に入る「万色の夢想石」という\nアイテムを集めて交換ショップに行くと\nいろいろな景品と交換できますよ！\nそのうえ、ごくまれにウェポノイドチップの\n「オフスティアシューター」が手に入るんです！！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0253",
+		"jp_text": "<color=#f0df60>＜チップのかけら2018を集めよう！＞</color>\nこのクエストでは、「チップのかけら2018」という\nアイテムが手に入ることがあります！\n交換ショップに持って行くと\nいろいろな景品と交換できますよ！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0254",
+		"jp_text": "<color=#f0df60>＜純白のリボン２０１７を集めよう！＞</color>\nこのクエストでは、「純白のリボン２０１７」という\nアイテムが手に入ることがあります！\n交換ショップに持って行くと\nいろいろな景品と交換できますよ！",
 		"tr_text": ""
 	}
 ]

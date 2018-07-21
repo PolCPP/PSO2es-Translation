@@ -1,6 +1,6 @@
 # Phantasy Star Online 2 es English translation project
 
-[![Build Status](https://travis-ci.org/PolCPP/PSO2es-Translation.svg?branch=master)](https://travis-ci.org/PolCPP/PSO2es-Translation)
+[![CircleCI](https://circleci.com/gh/PolCPP/PSO2es-Translation/tree/master.svg?style=svg)](https://circleci.com/gh/PolCPP/workflows/PSO2es-Translation/tree/master)
 
 ## Usage
 
@@ -21,6 +21,9 @@
 * Alam Arias - Adding travis support and other stuff 
 * Bumped.org - Item Names and Wonderful other translations
 * ARKS-Visiphone - Weapon names and other neat stuff
+* Nyaato - Misc. translations
+* YukaLily - Misc. translations
+* Nora - Misc. translations
 
 ## License
 

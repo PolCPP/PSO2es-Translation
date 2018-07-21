@@ -1,18 +1,22 @@
 language: python
-
+python: pypy3
 dist: trusty
-sudo: false
-group: beta
-
-cache:
-  - pip
-
-install:
-  - pip install simplejson
+addons:
+    apt:
+      update: true
 
 script:
-  - python checkjson.py && ./coverage.sh
-  - ./tidy-json.sh && git diff --exit-code
-
-before_cache:
-  - rm -f $HOME/.cache/pip/log/debug.log
+  - ./_py/checkjson.py && ./_sh/coverage.sh
+  - ./_py/tidy-json.py && git diff --exit-code
+  - ./_py/dupcheck.py
+  - ./_py/dupassign.py
+  - ./_py/DiceLen.py
+  - ./_py/ItemLen.py
+  - ./_py/ItemDescLen.py
+  - ./_py/StoryBTNFont.py
+  - ./_py/StoryFont.py
+  - ./_py/ChipFont.py
+  - ./_py/ChipDescShort.py
+  - ./_py/ChipDescLong.py
+  - ./_py/DiceFont.py
+  - ./_py/ItemFont.py

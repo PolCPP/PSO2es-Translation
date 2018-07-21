@@ -67,14 +67,14 @@
 		"jp_text": "赤のバレットボウ",
 		"tr_text": "Red Bullet Bow",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした強弓。\n目映い赤色は必然的に目を引く。",
-		"tr_explain": ""
+		"tr_explain": "A bow whose experimental coloring\nhas become iconic. The dazzling red\ncatches the eye."
 	},
 	{
 		"assign": "115016",
 		"jp_text": "青のバレットボウ",
 		"tr_text": "Blue Bullet Bow",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした強弓。\n目映い青色は必然的に目を引く。",
-		"tr_explain": ""
+		"tr_explain": "A bow whose experimental coloring\nhas become iconic. The dazzling blue\ncatches the eye."
 	},
 	{
 		"assign": "115017",
@@ -228,7 +228,7 @@
 		"jp_text": "ボウゲンシー-NT",
 		"tr_text": "Bowgency-NT",
 		"jp_explain": "フォトン加速機を備えた強弓。\n独自に設計されたリアクターが強度と\n命中精度を飛躍的に高めた人気の品。",
-		"tr_explain": "A Bullet Bow with a\nphoton reactor, providing\ngreater durability and accuracy."
+		"tr_explain": "A Bullet Bow with a photon reactor,\nproviding greater durability and\naccuracy."
 	},
 	{
 		"assign": "115044",
@@ -298,6 +298,13 @@
 		"jp_text": "サザンクロス",
 		"tr_text": "Southern Cross",
 		"jp_explain": "哀しい運命を背負った戦士が土壇場で\n使用するという強弓。その怒りの力に\nよって敵は成す術もなく散っていく。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115058",
+		"jp_text": "ラディウスアルカ",
+		"tr_text": "Radius Arca",
+		"jp_explain": "グリップ以外がすべてフォトンでできた\n特殊な強弓。グリップを強く握ることで\n十字に展開し、強力な一撃を放つ。",
 		"tr_explain": ""
 	},
 	{
@@ -382,14 +389,14 @@
 		"jp_text": "リカウテリ／リヒト",
 		"tr_text": "Rikauteri / Licht",
 		"jp_explain": "白夜の色を抱く強弓。 \n出自の仔細は不明だが、性能は高く\n全クラス装備可能な、特殊な武器。",
-		"tr_explain": ""
+		"tr_explain": "A bow bearing the color of midnight\nsun. Origins unknown, but can be\nequipped by all classes."
 	},
 	{
 		"assign": "115081",
 		"jp_text": "ヒロクテリ／リヒト",
 		"tr_text": "Hirokteri / Licht",
 		"jp_explain": "白夜の色を抱く強弓。 \n出自の仔細は不明だが、性能は高く\n全クラス装備可能な、特殊な武器。",
-		"tr_explain": ""
+		"tr_explain": "A bow bearing the color of midnight\nsun. Origins unknown, but can be\nequipped by all classes."
 	},
 	{
 		"assign": "115084",
@@ -431,21 +438,21 @@
 		"jp_text": "バイオベルド",
 		"tr_text": "Bio Beld",
 		"jp_explain": "最先端の生体工学を応用し開発された\n強弓。弓、矢、矢筒すべてに充填された\nフォトンの介在により機能連携する。",
-		"tr_explain": "A Bullet Bow made from a State of\nthe Art Bio-engineering process,\nit's composed entirely of photons."
+		"tr_explain": "A weapon that was designed from a\nstate-of-the-art bio-engineering\nprocess, made up entirely of photons."
 	},
 	{
 		"assign": "115092",
 		"jp_text": "ライブベルド",
 		"tr_text": "Live Beld",
 		"jp_explain": "最先端の生体工学を応用し開発された\n強弓。高純度培養液が矢の射出直前まで\n機能向上を促し破壊力を高める。",
-		"tr_explain": "A Bullet Bow made from a State of\nthe Art Bio-engineering application process, it's\nphotons were enhanced by a pure source in material."
+		"tr_explain": "A bullet bow made with state-of-\nthe-art bioengineering. Enhanced with\na high-purity culture solution."
 	},
 	{
 		"assign": "115094",
 		"jp_text": "クスフサ",
 		"tr_text": "Kusouffsa",
 		"jp_explain": "パティシエが宣伝用に製作した強弓。\n可愛らしく装飾されたデザインが\n人気の品。やや脆い部分がある。",
-		"tr_explain": "A Bullet Bow in the form of a\npastry. Popular and Pretty, it's somewhat fragile."
+		"tr_explain": "A bullet bow in the form of a pastry.\nPopular and pretty, it's somewhat\nfragile."
 	},
 	{
 		"assign": "115096",
@@ -476,13 +483,6 @@
 		"tr_explain": ""
 	},
 	{
-		"assign": "1150102",
-		"jp_text": "ステルスウェポン：ＢＷ",
-		"tr_text": "Stealth Weapon: BW",
-		"jp_explain": "ダミー１０２",
-		"tr_explain": "Unknown Weapon.\nSeems to be in the shape of\na Bullet Bow."
-	},
-	{
 		"assign": "1150108",
 		"jp_text": "クラテルダート",
 		"tr_text": "Crater Dart",
@@ -499,9 +499,9 @@
 	{
 		"assign": "1150112",
 		"jp_text": "ビブラスボウ",
-		"tr_text": "Vibras Bow",
+		"tr_text": "Vibrace Bow",
 		"jp_explain": "ダーク・ビブラスの外骨格を加工して\n作られた強弓。素材の外骨格を細かく\n複雑に組み合わせたデザインが特徴的。",
-		"tr_explain": "A Bullet Bow made by processing the\nexoskeleton of Dark Vibrace. The distinctive\nmaterial in the exoskeleton\nmade for a complex design."
+		"tr_explain": "A Bow made from the exoskeleton of\nDark Vibrace. The distinctive\nmaterial allows for a complex design."
 	},
 	{
 		"assign": "1150113",
@@ -564,7 +564,7 @@
 		"jp_text": "エーデルイーオー",
 		"tr_text": "Edel Io",
 		"jp_explain": "イオが設計改良に携わった強弓。\n基礎設計から大胆にカスタマイズされ\n非常に高い実用性を誇る。",
-		"tr_explain": "Io's customized Bullet Bow.\nBoldly modified from it's basic design,\nit's very high in practical use."
+		"tr_explain": "Io's customized Bullet Bow. Boldly\nmodified from its basic design, it's\na very practical weapon to use."
 	},
 	{
 		"assign": "1150133",
@@ -599,14 +599,14 @@
 		"jp_text": "ネメシスフェザー",
 		"tr_text": "Nemesis Feather",
 		"jp_explain": "古の時代に封印された聖なる強弓。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-		"tr_explain": ""
+		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
 	},
 	{
 		"assign": "1150144",
 		"jp_text": "スレイヴフェザー",
 		"tr_text": "Slave Feather",
 		"jp_explain": "古の時代に封印された邪なる強弓。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-		"tr_explain": ""
+		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
 	},
 	{
 		"assign": "1150145",
@@ -641,7 +641,7 @@
 		"jp_text": "イデアルシューター",
 		"tr_text": "Ideal Shooter",
 		"jp_explain": "新開発のフォトンジェネレーターを\n搭載した強弓。発せられる\nフォトンの輝きは次代の証とされる。",
-		"tr_explain": "A Bullet Bow with a new\nPhoton Generator. Witness its next\ngeneration shine."
+		"tr_explain": "A weapon powered by a photon\ngenerator. Its shining photons are\nsaid to be the sign of the next era."
 	},
 	{
 		"assign": "1150161",
@@ -669,6 +669,13 @@
 		"jp_text": "ノクスレクシオ",
 		"tr_text": "Nox Lexio",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き強弓。装者も恐怖を\n抱くほどの威力を宿すという。",
+		"tr_explain": "A black bow produced in an illicit\nritual. It is said that its sheer power\nterrifies even its wielder."
+	},
+	{
+		"assign": "1150171",
+		"jp_text": "レーテレクシオ",
+		"tr_text": "Raete Lexio",
+		"jp_explain": "正当な手順を経た儀式により\n生み出された白き強弓。装者を守護し\n困難を撃ち抜く力を宿す。",
 		"tr_explain": ""
 	},
 	{
@@ -700,6 +707,13 @@
 		"tr_explain": "A Bow with a Photon Ring Device.\nThe expanded parts can form a\nbow that shoots the stars."
 	},
 	{
+		"assign": "1150179",
+		"jp_text": "ディアヴィセート",
+		"tr_text": "Dia Viset",
+		"jp_explain": "臨界寸前まで圧縮したフォトンを\n核に使用した強弓。高い貫通力を持つが\n装者の身体にかかる負担も大きい。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1150181",
 		"jp_text": "ギクスヴィセート",
 		"tr_text": "Gix Viset",
@@ -707,11 +721,18 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "1150185",
+		"jp_text": "バジリスシーテス",
+		"tr_text": "Basilis Seatess",
+		"jp_explain": "鋭利な突起と蛇腹状の表面が特徴的な\n強弓。青い模様が美しい武器で高性能と\n名高く、精度に優れている。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1150187",
 		"jp_text": "インヴェイドボーゲン",
 		"tr_text": "Invade Bogen",
 		"jp_explain": "【深遠なる闇】より生まれし負の強弓。\n装者は非常なる辣腕を有するも\n災禍を導く扇動者となる。",
-		"tr_explain": ""
+		"tr_explain": "Born from the [Profound Darkness],\nthis Bullet Bow is known\nto be an instigator of doom."
 	},
 	{
 		"assign": "1150188",
@@ -728,6 +749,13 @@
 		"tr_explain": "A Bullet Bow designed to fight\nevil. It shoots energy that\nconverges onto its Seiga Arrow!"
 	},
 	{
+		"assign": "1150190",
+		"jp_text": "セイカイザーアーチャー",
+		"tr_text": "Seikaiser Archer",
+		"jp_explain": "戦力を増強した悪の組織に対抗するため\n新たに開発された強弓。友との誓いを\n胸に、放てカイザーアロー！",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1150199",
 		"jp_text": "アーチレボルシオ",
 		"tr_text": "Arch Revolucio",
@@ -735,18 +763,46 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "1150200",
+		"jp_text": "アーチドミナシオ",
+		"tr_text": "Arch Dominacio",
+		"jp_explain": "新開発の演算装置を搭載した強弓。\n優れた最高出力を誇る反面、戦闘中は\n脳にかなりの負荷がかかる。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1150202",
 		"jp_text": "アステユニコン",
 		"tr_text": "Aste Unicorn",
 		"jp_explain": "伝説の生物をモチーフにした強弓。\n幻想的で美しい外観と鋭く激しい\n一撃は、まさに一角獣そのもの。",
-		"tr_explain": ""
+		"tr_explain": "A bullet bow with the motif of the\nmythical creature. Strike with the\nfantastic and beautiful unicorn itself."
 	},
 	{
 		"assign": "1150208",
 		"jp_text": "ステルクイセーラ",
 		"tr_text": "Stelk Isera",
 		"jp_explain": "専用エネルギータンクがついた強弓。\n射撃時に、専用エネルギーによる\n補助システムで照準のブレを軽減する。",
-		"tr_explain": "A Bullet Bow with a dedicated energy\ntank. Auxiliary system allows to\nminimize the aim deviation."
+		"tr_explain": "A bullet bow with a separate energy\ntank. Its auxiliary system allows it to\nminimize the aim deviation recoil."
+	},
+	{
+		"assign": "1150211",
+		"jp_text": "イヴリダジェンダー",
+		"tr_text": "Evleda Gender",
+		"jp_explain": "古に封印されし冥夜の強弓。\n禁じられし闇の矢は汝の血肉で以って\n解かれ、鮮血もたらす弓となる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1150212",
+		"jp_text": "クリシスジェンダー",
+		"tr_text": "Cleasis Gender",
+		"jp_explain": "古に封印されし冥夜の強弓。\n忠実なる巧者を制する悪しき一矢は\n魂と重なる時、一切を貫き圧倒す。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1150213",
+		"jp_text": "シュベルジェンダー",
+		"tr_text": "Schvelle Gender",
+		"jp_explain": "古に封印されし冥夜の強弓。\n現世に蘇りし闇は強大な一矢となりて\n生命を貫き、静寂満ちる世を築く。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "1150214",
@@ -767,7 +823,7 @@
 		"jp_text": "フォルニスエスビア",
 		"tr_text": "Fornis Esvia",
 		"jp_explain": "異なる力を宿した恐るべき強弓。\n凍てつく氷と轟く雷の力を宿した矢で\n標的を射抜き、仕留める。",
-		"tr_explain": ""
+		"tr_explain": "A fearsome bow bearing twin\npowers. Fires arrows imbued with\nfreezing ice and crashing thunder."
 	},
 	{
 		"assign": "1150218",
@@ -872,7 +928,7 @@
 		"jp_text": "ノクスレクシオ-NT",
 		"tr_text": "Nox Lexio-NT",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き強弓。装者も恐怖を\n抱くほどの威力を宿すという。",
-		"tr_explain": ""
+		"tr_explain": "A black bow produced in an illicit\nritual. It is said that its sheer power\nterrifies even its wielder."
 	},
 	{
 		"assign": "1150233",
@@ -928,27 +984,153 @@
 		"jp_text": "アストラスナール",
 		"tr_text": "Astra Snarl",
 		"jp_explain": "マザーの残滓たる、幻創の強弓。\n放たれた矢の音は遙か彼方まで\n響き、生ある者全てを竦ませるという。",
-		"tr_explain": "A Phantom Bow imbued with Mother's\npower. Its snarling arrow reminds you\nof its benevolence of life."
+		"tr_explain": "A Phantom bullet bow imbued with\nMother's power. Its snarl echoes far\nand wide, terrorizing all that lives."
+	},
+	{
+		"assign": "1150246",
+		"jp_text": "リュミエルフレーシュ",
+		"tr_text": "Lumiere Fleche",
+		"jp_explain": "古より伝わる陽光の強弓。\n祓いの光を持つ聖なる矢は\n闇を封じ、光明もたらす弓となる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1150247",
+		"jp_text": "ジュティスフレーシュ",
+		"tr_text": "Jutus Fleche",
+		"jp_explain": "古より伝わる陽光の強弓。\n忠実なる巧者より放たれし光の一矢は\n悪しきを貫き、圧倒する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1150254",
+		"jp_text": "フルフカーススカル",
+		"tr_text": "Vulfekurse Skull",
+		"jp_explain": "魔物種の骨格を再利用して作られた\n強弓。矢を射る度に\n何故か鉄のような匂いと悪寒がする。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1150255",
+		"jp_text": "トリーストスカル",
+		"tr_text": "Trist Skull",
+		"jp_explain": "魔物種の骨格を再利用して作られた\n強弓。時折声が聞こえるなど\n不可思議な逸話を多く持つ。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "1150256",
 		"jp_text": "バトルボウＬｖ１",
-		"tr_text": "",
+		"tr_text": "Battle Bow Lv.1",
 		"jp_explain": "バトルアリーナ用に調整された強弓。\n純粋に技を競うため基本性能のみを\n強化している。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1150257",
 		"jp_text": "バトルボウＬｖ２",
-		"tr_text": "",
+		"tr_text": "Battle Bow Lv.2",
 		"jp_explain": "バトルアリーナ用に調整された強弓。\n戦技比較が目的となるため\n基本性能の強化にとどまっている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1150258",
 		"jp_text": "バトルボウＬｖ３",
-		"tr_text": "",
+		"tr_text": "Battle Bow Lv.3",
 		"jp_explain": "バトルアリーナ専用に作られた強弓。\n戦技比較用に特化しており、力量が\nより発揮される調整となっている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1150262",
+		"jp_text": "タクティオフラゼン",
+		"tr_text": "Tactio Frazen",
+		"jp_explain": "戦術と戦略を駆使して戦う遊戯の駒を\n模した強弓。王妃を意味し、王に次ぐ\n価値を持つ。一線を画する強さを誇る。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1150268",
+		"jp_text": "ロングボウ-NT",
+		"tr_text": "Longbow-NT",
+		"jp_explain": "フォトン加速機を備えた強弓。\n初心者が扱うにはうってつけの\n性能となっている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1150269",
+		"jp_text": "ハンマテリ-NT",
+		"tr_text": "Hanmateri-NT",
+		"jp_explain": "上級者向け高性能高級強弓。\n美しいフォルムの内に非常に\n高い性能を秘めている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1150270",
+		"jp_text": "バルアグリア",
+		"tr_text": "Val Agria",
+		"jp_explain": "過去に戦場となった地域から発掘された\n強弓。遺棄されたのか、欠損が激しく\nかつての姿は想像できそうにない。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1150271",
+		"jp_text": "アトラアグリア",
+		"tr_text": "Atra Agria",
+		"jp_explain": "過去に戦場となった地域から発掘された\n強弓。輝く宝石に、きらびやかな装飾。\n修復により、再び美しい姿が蘇った。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1150277",
+		"jp_text": "フォボスアルクス",
+		"tr_text": "Phobos Arcus",
+		"jp_explain": "禍々しいフォルムと幾重ものブレードを\n併せ持った強弓。弓自身から造られる\nフォトンの矢は恐怖と共に標的を貫く。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1150281",
+		"jp_text": "ネメシスフェザー-NT",
+		"tr_text": "Nemesis Feather-NT",
+		"jp_explain": "古の時代に封印された聖なる強弓。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
+		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
+	},
+	{
+		"assign": "1150282",
+		"jp_text": "スレイヴフェザー-NT",
+		"tr_text": "Slave Feather-NT",
+		"jp_explain": "古の時代に封印された邪なる強弓。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
+		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
+	},
+	{
+		"assign": "1150287",
+		"jp_text": "天河一位-NT",
+		"tr_text": "Tenkawa Ichii-NT",
+		"jp_explain": "引き絞られたその弓は、天に浮かぶ\n星すら射貫くといわれる強弓。\n不思議な力を持つ樹を素材として利用。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1150288",
+		"jp_text": "ホムラノセンカ",
+		"tr_text": "Homura no Senka",
+		"jp_explain": "とある地方の伝統意匠を取り入れた\n強弓。焔より生まれた逸話があり\n害ある者を射抜き、悪意を祓うという。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1150289",
+		"jp_text": "インヴェイドボーゲン-NT",
+		"tr_text": "Invade Bogen-NT",
+		"jp_explain": "【深遠なる闇】より生まれし負の強弓。\n装者は非常なる辣腕を有するも\n災禍を導く扇動者となる。",
+		"tr_explain": "Born from the [Profound Darkness],\nthis Bullet Bow is known to be an\ninstigator of doom."
+	},
+	{
+		"assign": "1150291",
+		"jp_text": "リカウテリ-NT",
+		"tr_text": "Rikauteri-NT",
+		"jp_explain": "最高級フォトンリアクターでしか\n作れないフォトンアローが人気の\n超高級限定生産型強弓。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1150295",
+		"jp_text": "グレンノセンカ",
+		"tr_text": "Guren no Senka",
+		"jp_explain": "とある地方の伝統意匠を取り入れた\n紅蓮の強弓。焔より生まれた逸話があり\n害ある者を射抜き、悪意を祓うという。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1150296",
+		"jp_text": "シエンノセンカ",
+		"tr_text": "Shien no Senka",
+		"jp_explain": "とある地方の伝統意匠を取り入れた\n紫炎の強弓。焔より生まれた逸話があり\n害ある者を射抜き、悪意を祓うという。",
 		"tr_explain": ""
 	}
 ]

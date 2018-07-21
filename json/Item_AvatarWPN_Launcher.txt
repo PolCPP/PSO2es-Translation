@@ -4,28 +4,28 @@
 		"jp_text": "＊コフ・ザ・ピスケス",
 		"tr_text": "＊Quf the Pisces",
 		"jp_explain": "双魚の加護を受けた大砲型武器迷彩。\n潜在する危険や幻惑の象徴とも言われ\n装者に困難な真実を辿る力を授ける。",
-		"tr_explain": ""
+		"tr_explain": "Launcher-type weapon camouflage\nprototype blessed by Pisces. As the\nzodiac sign of dreams, it grants a\nperson the power to face reality."
 	},
 	{
 		"assign": "10901",
 		"jp_text": "＊スライバイパー",
 		"tr_text": "＊Sly Viper",
 		"jp_explain": "玩具の形から着想を得て作られた\n大砲型武器迷彩。楽しげな外見に\nだまされると痛い目を見る。",
-		"tr_explain": ""
+		"tr_explain": "Launcher-type weapon camouflage\nbased on a toy. You'll get nothing but\npain if you let appearances fool you."
 	},
 	{
 		"assign": "10902",
 		"jp_text": "＊ザメリーキャノン",
 		"tr_text": "＊The Merry Cannon",
-		"jp_explain": "リリーパ族の姿を模した弾を撃つ大砲型\n武器迷彩。砲身はサメを模し、食うか\n食われるかの緊迫した状況を演出する。",
-		"tr_explain": ""
+		"jp_explain": "リリーパ族の姿を模した弾をくわえた\n武器迷彩。砲身はサメを模し、食うか\n食われるかの緊迫した状況を演出する。",
+		"tr_explain": "Launcher-type weapon camouflage\nthat shoots what appears to be a\nLillipan. The gun was modeled after a\nshark, imitating a deadly encounter."
 	},
 	{
 		"assign": "10903",
 		"jp_text": "＊単式炸薬砲・猛虎",
 		"tr_text": "＊Blast Cannon Mouko",
 		"jp_explain": "境界を破り、出現した大砲型武器迷彩。\n炸薬弾頭を用いる機関砲の単射タイプで\n遠距離戦での運用が可能。",
-		"tr_explain": ""
+		"tr_explain": "Launcher-type weapon camouflage\nthat broke the borders when it\nappeared. Best used at long range,\nas it fires multiple explosives."
 	},
 	{
 		"assign": "10907",
@@ -39,7 +39,7 @@
 		"jp_text": "＊ファンファンバズーカ",
 		"tr_text": "＊Fan Fan Bazooka",
 		"jp_explain": "女子アークス増強戦略の一環として試作\nされた大砲型武器迷彩。幅広く愛好家\nの支持を得て勢力増強に寄与した。",
-		"tr_explain": ""
+		"tr_explain": "Launcher-type weapon camouflage\nprototype for the women's ARKS\nenhancement strategy. Received a\nlot of support from a variety of fans."
 	},
 	{
 		"assign": "10909",
@@ -53,7 +53,7 @@
 		"jp_text": "＊サルワトゥース",
 		"tr_text": "＊Sarwatooth",
 		"jp_explain": "特殊な機構を搭載した魔導銃を模して\n作られた大砲型武器迷彩。未来より\n来たという者の知識を基に制作された。",
-		"tr_explain": ""
+		"tr_explain": "Launcher-type weapon camouflage\nmade to imitate magical guns with a\nspecial mechanism. Made from a\ntime traveler from the future."
 	},
 	{
 		"assign": "109011",
@@ -135,7 +135,7 @@
 	{
 		"assign": "109023",
 		"jp_text": "＊バナンチャー",
-		"tr_text": "＊Banancha",
+		"tr_text": "＊Banancher",
 		"jp_explain": "アークスの健康食促進キャンペーンの\n一環として試作された大砲型武器迷彩。\n熟した香りがふわっと広がる一品。",
 		"tr_explain": ""
 	},
@@ -158,6 +158,34 @@
 		"jp_text": "＊ヴィタピサスティアン",
 		"tr_text": "＊Vita Pisastian",
 		"jp_explain": "人気のあるデザインを元に作られた\n大砲型武器迷彩。完成度が高く\n元モデルと遜色ない仕上がり。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "109027",
+		"jp_text": "＊ジラドボルス",
+		"tr_text": "＊Girad Borus",
+		"jp_explain": "古い館で発見された大砲型武器迷彩。\n動物の形状を模したもののようだが\n騎乗するには無理があり用途は不明。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "109028",
+		"jp_text": "＊ヴェルンドカノン",
+		"tr_text": "＊Verund Cannon",
+		"jp_explain": "ヴェルンの兵士が標準使用する\n大砲型武器迷彩。砲撃の耐性と\n近接打撃力を重視した特化型。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "109030",
+		"jp_text": "＊デスペラ・トランケ",
+		"tr_text": "＊Desperado Case",
+		"jp_explain": "Melによりデザインされた武器迷彩。\nならず者が愛用していた鞄型をしており\n旅行者を装い、対象が油断した所を……",
+		"tr_explain": ""
+	},
+	{
+		"assign": "109031",
+		"jp_text": "＊ＢＬＯＯＤ　ＰＲＡＹＥＲＳ",
+		"tr_text": "＊BLOOD PRAYERS",
+		"jp_explain": "紅霞のデバイスを模した武器迷彩。\n超高出力のジェネレーターと\n巨大なレーザー発振器を搭載している。",
 		"tr_explain": ""
 	}
 ]

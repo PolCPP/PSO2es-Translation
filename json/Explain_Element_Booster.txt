@@ -366,21 +366,21 @@
 	{
 		"assign": "52",
 		"jp_text": "テクニック・ブースト",
-		"tr_text": "Ｔｅｃｈｎｉｑｕｅ Ｂｏｏｓｔ",
+		"tr_text": "Technique Boost",
 		"jp_explain": "法撃+25",
 		"tr_explain": "T-ATK+25"
 	},
 	{
 		"assign": "53",
 		"jp_text": "スタミナ・ブースト",
-		"tr_text": "Ｓｔａｍｉｎａ Ｂｏｏｓｔ",
+		"tr_text": "Stamina Boost",
 		"jp_explain": "HP+45",
 		"tr_explain": ""
 	},
 	{
 		"assign": "54",
 		"jp_text": "スピリタ・ブースト",
-		"tr_text": "Ｓｐｉｒｉｔａ Ｂｏｏｓｔ",
+		"tr_text": "Spirita Boost",
 		"jp_explain": "PP+5",
 		"tr_explain": ""
 	},
@@ -457,7 +457,7 @@
 	{
 		"assign": "65",
 		"jp_text": "ロックベア・ソール",
-		"tr_text": "Ｒｏｃｋｂｅａｒ Ｓｏｕｌ",
+		"tr_text": "Rockbear Soul",
 		"jp_explain": "打防+30 HP+10 PP+3",
 		"tr_explain": "S-DEF+30 HP+10 PP+3"
 	},
@@ -527,7 +527,7 @@
 	{
 		"assign": "75",
 		"jp_text": "フォトンコレクト",
-		"tr_text": "Ｐｈｏｔｏｎ Ｃｏｌｌｅｃｔ",
+		"tr_text": "Photon Collect",
 		"jp_explain": "状態異常と属性耐性の\n合成確率を上昇させる\nステータス上昇なし",
 		"tr_explain": "Boost synthesis transfer\nrate of status effect\nabilities."
 	},
@@ -646,7 +646,7 @@
 	{
 		"assign": "92",
 		"jp_text": "タガミカヅチ・ソール",
-		"tr_text": "Ｔａｇａｍｉｋａｚｕｃｈｉ Ｓｏｕｌ",
+		"tr_text": "Tagamikazuchi Soul",
 		"jp_explain": "射撃+20 法撃+20\nPP+2",
 		"tr_explain": "R-ATK+20 T-ATK+20\nPP+2"
 	},
@@ -667,7 +667,7 @@
 	{
 		"assign": "95",
 		"jp_text": "ビブラス・ソール",
-		"tr_text": "Ｖｉｂｒａｃｅ Ｓｏｕｌ",
+		"tr_text": "Vibrace Soul",
 		"jp_explain": "射撃+20 法撃+20\nHP+5 PP+1",
 		"tr_explain": "R-ATK+20 T-ATK+20\nHP+5 PP+1"
 	},
@@ -786,7 +786,7 @@
 	{
 		"assign": "112",
 		"jp_text": "ソールレセプター",
-		"tr_text": "Ｓｏｕｌ Ｒｅｃｅｐｔｏｒ",
+		"tr_text": "Soul Receptor",
 		"jp_explain": "ソール系特殊能力の\n合成成功率を大幅に上昇\n全+10",
 		"tr_explain": "Boosts transfer\nrate of Soul Abilities.\nALL+10"
 	},
@@ -800,7 +800,7 @@
 	{
 		"assign": "114",
 		"jp_text": "マーク・カレジナ",
-		"tr_text": "Ｍａｒｋ Ｃｏｕｒａｇｅｎａ",
+		"tr_text": "Mark Couragena",
 		"jp_explain": "打撃+40 射撃+40\n法撃+40 PP+5",
 		"tr_explain": "S-ATK+40 R-ATK+40\nT-ATK+40 PP+5"
 	},
@@ -821,7 +821,7 @@
 	{
 		"assign": "117",
 		"jp_text": "ナイトギア・ソール",
-		"tr_text": "Ｋｎｉｇｈｔ Ｇｅａｒ Ｓｏｕｌ",
+		"tr_text": "Knight Gear Soul",
 		"jp_explain": "打撃+15 射撃+15\n法撃+15 技量+15 PP+4",
 		"tr_explain": "S-ATK+15 R-ATK+15\nT-ATK+15 PP+4"
 	},
@@ -884,7 +884,7 @@
 	{
 		"assign": "126",
 		"jp_text": "ギフトレセプター",
-		"tr_text": "Ｇｉｆｔ Ｒｅｃｅｐｔｏｒ",
+		"tr_text": "Gift Receptor",
 		"jp_explain": "ギフト系特殊能力の\n引き継ぎが可能になる\n全+10",
 		"tr_explain": "Boosts transfer\nrate of gift abilities.\nALL+10"
 	},
@@ -935,14 +935,14 @@
 		"jp_text": "サンサン・フィーバー",
 		"tr_text": "Sun Sun Fever",
 		"jp_explain": "打撃+5 射撃+5\n法撃+5 HP+5 PP+1",
-		"tr_explain": "S-ATK+5 R-ATK+5\nT-ATK+5 HP+5 PP+1"
+		"tr_explain": "ATK+5 HP+5 PP+1"
 	},
 	{
 		"assign": "134",
-		"jp_text": "ENT_フィーバー07",
-		"tr_text": "",
-		"jp_explain": "---",
-		"tr_explain": ""
+		"jp_text": "アクス・フィーバー",
+		"tr_text": "ARKS Fever",
+		"jp_explain": "打撃+5 射撃+5\n法撃+5 技量+5\nPP+5",
+		"tr_explain": "ATK+5 DEX+5 PP+5"
 	},
 	{
 		"assign": "135",
@@ -1010,7 +1010,7 @@
 	{
 		"assign": "144",
 		"jp_text": "グリュゾラス・ソール",
-		"tr_text": "Gruezoras Soul",
+		"tr_text": "Greuzoras Soul",
 		"jp_explain": "射撃+35 技量+5\nPP+3",
 		"tr_explain": "R-ATK+35 DEX+5\nPP+3"
 	},
@@ -1607,7 +1607,7 @@
 		"jp_text": "エクストレセプター",
 		"tr_text": "Extreceptor",
 		"jp_explain": "アルター、フリクト系と\n特定の特殊能力合成率を\n大幅に上昇　全+10",
-		"tr_explain": "Significantly increases Flict,\nand Alter add rate during affixing.\nAll+10"
+		"tr_explain": "Significantly increases Flict,\nand Alter add rate during\naffixing. All+10"
 	},
 	{
 		"assign": "230",
@@ -1696,127 +1696,127 @@
 	{
 		"assign": "242",
 		"jp_text": "バトルソードⅠ",
-		"tr_text": "",
+		"tr_text": "Battle Sword I",
 		"jp_explain": "HP+100",
 		"tr_explain": ""
 	},
 	{
 		"assign": "243",
 		"jp_text": "バトルソードⅡ",
-		"tr_text": "",
+		"tr_text": "Battle Sword II",
 		"jp_explain": "HP+175",
 		"tr_explain": ""
 	},
 	{
 		"assign": "244",
 		"jp_text": "バトルソードⅢ",
-		"tr_text": "",
+		"tr_text": "Battle Sword III",
 		"jp_explain": "HP+250",
 		"tr_explain": ""
 	},
 	{
 		"assign": "245",
 		"jp_text": "バトルライフルⅠ",
-		"tr_text": "",
+		"tr_text": "Battle Rifle I",
 		"jp_explain": "---",
 		"tr_explain": ""
 	},
 	{
 		"assign": "246",
 		"jp_text": "バトルライフルⅡ",
-		"tr_text": "",
+		"tr_text": "Battle Rifle II",
 		"jp_explain": "HP+50",
 		"tr_explain": ""
 	},
 	{
 		"assign": "247",
 		"jp_text": "バトルライフルⅢ",
-		"tr_text": "",
+		"tr_text": "Battle Rifle III",
 		"jp_explain": "HP+100",
 		"tr_explain": ""
 	},
 	{
 		"assign": "248",
 		"jp_text": "バトルロッドⅠ",
-		"tr_text": "",
+		"tr_text": "Battle Rod I",
 		"jp_explain": "---",
 		"tr_explain": ""
 	},
 	{
 		"assign": "249",
 		"jp_text": "バトルロッドⅡ",
-		"tr_text": "",
+		"tr_text": "Battle Rod II",
 		"jp_explain": "HP+25",
 		"tr_explain": ""
 	},
 	{
 		"assign": "250",
 		"jp_text": "バトルロッドⅢ",
-		"tr_text": "",
+		"tr_text": "Battle Rod III",
 		"jp_explain": "HP+50",
 		"tr_explain": ""
 	},
 	{
 		"assign": "251",
-		"jp_text": "poka10",
-		"tr_text": "",
-		"jp_explain": "---",
+		"jp_text": "バトルパルチザンⅠ",
+		"tr_text": "Battle Partizan I",
+		"jp_explain": "HP+100",
 		"tr_explain": ""
 	},
 	{
 		"assign": "252",
-		"jp_text": "poka11",
-		"tr_text": "",
-		"jp_explain": "---",
+		"jp_text": "バトルパルチザンⅡ",
+		"tr_text": "Battle Partizan II",
+		"jp_explain": "HP+175",
 		"tr_explain": ""
 	},
 	{
 		"assign": "253",
-		"jp_text": "poka12",
-		"tr_text": "",
-		"jp_explain": "---",
+		"jp_text": "バトルパルチザンⅢ",
+		"tr_text": "Battle Partizan III",
+		"jp_explain": "HP+250",
 		"tr_explain": ""
 	},
 	{
 		"assign": "254",
-		"jp_text": "poka13",
-		"tr_text": "",
+		"jp_text": "バトルＴマシンガンⅠ",
+		"tr_text": "Battle T. Machinegun I",
 		"jp_explain": "---",
 		"tr_explain": ""
 	},
 	{
 		"assign": "255",
-		"jp_text": "poka14",
-		"tr_text": "",
-		"jp_explain": "---",
+		"jp_text": "バトルＴマシンガンⅡ",
+		"tr_text": "Battle T. Machinegun II",
+		"jp_explain": "HP+50",
 		"tr_explain": ""
 	},
 	{
 		"assign": "256",
-		"jp_text": "poka15",
-		"tr_text": "",
-		"jp_explain": "---",
+		"jp_text": "バトルＴマシンガンⅢ",
+		"tr_text": "Battle T. Machinegun III",
+		"jp_explain": "HP+100",
 		"tr_explain": ""
 	},
 	{
 		"assign": "257",
-		"jp_text": "poka16",
-		"tr_text": "",
+		"jp_text": "バトルボウⅠ",
+		"tr_text": "Battle Bow I",
 		"jp_explain": "---",
 		"tr_explain": ""
 	},
 	{
 		"assign": "258",
-		"jp_text": "poka17",
-		"tr_text": "",
-		"jp_explain": "---",
+		"jp_text": "バトルボウⅡ",
+		"tr_text": "Battle Bow II",
+		"jp_explain": "HP+50",
 		"tr_explain": ""
 	},
 	{
 		"assign": "259",
-		"jp_text": "poka18",
-		"tr_text": "",
-		"jp_explain": "---",
+		"jp_text": "バトルボウⅢ",
+		"tr_text": "Battle Bow III",
+		"jp_explain": "HP+100",
 		"tr_explain": ""
 	},
 	{
@@ -1881,5 +1881,425 @@
 		"tr_text": "Ether Factor",
 		"jp_explain": "全+30 HP+10 PP+6",
 		"tr_explain": "All+30 HP+10 PP+6"
+	},
+	{
+		"assign": "269",
+		"jp_text": "パワーⅥ",
+		"tr_text": "Power VI",
+		"jp_explain": "打撃+45",
+		"tr_explain": "S-ATK+45"
+	},
+	{
+		"assign": "270",
+		"jp_text": "シュートⅥ",
+		"tr_text": "Shoot VI",
+		"jp_explain": "射撃+45",
+		"tr_explain": "R-ATK+45"
+	},
+	{
+		"assign": "271",
+		"jp_text": "テクニックⅥ",
+		"tr_text": "Tech VI",
+		"jp_explain": "法撃+45",
+		"tr_explain": "T-ATK+45"
+	},
+	{
+		"assign": "272",
+		"jp_text": "オメガ・レヴリー",
+		"tr_text": "Omega Reverie",
+		"jp_explain": "打撃+15 射撃+15\n法撃+15 HP+20 PP+1",
+		"tr_explain": "ATK+15 HP+20 PP+1"
+	},
+	{
+		"assign": "273",
+		"jp_text": "ファーブラ・ソール",
+		"tr_text": "Fabula Soul",
+		"jp_explain": "打撃+10 射撃+10\n法撃+10 HP+20",
+		"tr_explain": "ATK+10 HP+20"
+	},
+	{
+		"assign": "274",
+		"jp_text": "アレス・ジ・ソール",
+		"tr_text": "Ares The Soul",
+		"jp_explain": "打撃+25 射撃+25\n法撃+25 HP+35 PP+3",
+		"tr_explain": "ATK+25 HP+35 PP+3"
+	},
+	{
+		"assign": "275",
+		"jp_text": "スピリタⅥ",
+		"tr_text": "Spirita VI",
+		"jp_explain": "PP+7",
+		"tr_explain": "PP+7"
+	},
+	{
+		"assign": "276",
+		"jp_text": "センテンス・アルマ",
+		"tr_text": "Sentence Arma",
+		"jp_explain": "打撃+20 HP+20 PP+3",
+		"tr_explain": "S-ATK+20 HP+20 PP+3"
+	},
+	{
+		"assign": "277",
+		"jp_text": "センテンス・ティロ",
+		"tr_text": "Sentence Tiro",
+		"jp_explain": "射撃+20 HP+20 PP+3",
+		"tr_explain": "R-ATK+20 HP+20 PP+3"
+	},
+	{
+		"assign": "278",
+		"jp_text": "センテンス・マギア",
+		"tr_text": "Sentence Magia",
+		"jp_explain": "法撃+20 HP+20 PP+3",
+		"tr_explain": "T-ATK+20 HP+20 PP+3"
+	},
+	{
+		"assign": "279",
+		"jp_text": "アクス・ＭＡＸ",
+		"tr_text": "ARKS MAX",
+		"jp_explain": "打撃+25 射撃+25\n法撃+25",
+		"tr_explain": "ATK+25"
+	},
+	{
+		"assign": "280",
+		"jp_text": "エルダー・レヴリー",
+		"tr_text": "Elder Reverie",
+		"jp_explain": "打撃+40 射撃+20\n法撃+20 PP-2",
+		"tr_explain": ""
+	},
+	{
+		"assign": "281",
+		"jp_text": "ファクターレセプター",
+		"tr_text": "Factor Receptor",
+		"jp_explain": "ファクター系特殊能力の\n合成成功率を大幅に上昇\n全+10",
+		"tr_explain": ""
+	},
+	{
+		"assign": "282",
+		"jp_text": "バトルＴダガーⅠ",
+		"tr_text": "Battle T. Daggers I",
+		"jp_explain": "HP+25",
+		"tr_explain": ""
+	},
+	{
+		"assign": "283",
+		"jp_text": "バトルＴダガーⅡ",
+		"tr_text": "Battle T. Daggers II",
+		"jp_explain": "HP+50",
+		"tr_explain": ""
+	},
+	{
+		"assign": "284",
+		"jp_text": "バトルＴダガーⅢ",
+		"tr_text": "Battle T. Daggers III",
+		"jp_explain": "HP+100",
+		"tr_explain": ""
+	},
+	{
+		"assign": "285",
+		"jp_text": "バトルＤブレードⅠ",
+		"tr_text": "Battle D. Blades I",
+		"jp_explain": "HP+25",
+		"tr_explain": ""
+	},
+	{
+		"assign": "286",
+		"jp_text": "バトルＤブレードⅡ",
+		"tr_text": "Battle D. Blades II",
+		"jp_explain": "HP+50",
+		"tr_explain": ""
+	},
+	{
+		"assign": "287",
+		"jp_text": "バトルＤブレードⅢ",
+		"tr_text": "Battle D. Blades III",
+		"jp_explain": "HP+100",
+		"tr_explain": ""
+	},
+	{
+		"assign": "288",
+		"jp_text": "バトルタリスⅠ",
+		"tr_text": "Battle Talis I",
+		"jp_explain": "HP+50",
+		"tr_explain": ""
+	},
+	{
+		"assign": "289",
+		"jp_text": "バトルタリスⅡ",
+		"tr_text": "Battle Talis II",
+		"jp_explain": "HP+100",
+		"tr_explain": ""
+	},
+	{
+		"assign": "290",
+		"jp_text": "バトルタリスⅢ",
+		"tr_text": "Battle Talis III",
+		"jp_explain": "HP+150",
+		"tr_explain": ""
+	},
+	{
+		"assign": "291",
+		"jp_text": "イストリア・ソール",
+		"tr_text": "Historia Soul",
+		"jp_explain": "打防+25 射防+25\n法防+25 HP+30 PP+2",
+		"tr_explain": "S-DEF+25 R-DEF+25\nT-DEF+25 HP+30 PP+2"
+	},
+	{
+		"assign": "292",
+		"jp_text": "グレース・パワー",
+		"tr_text": "Grace Power",
+		"jp_explain": "打撃+50 PP+5",
+		"tr_explain": "S-ATK+50 PP+5"
+	},
+	{
+		"assign": "293",
+		"jp_text": "グレース・シュート",
+		"tr_text": "Grace Shoot",
+		"jp_explain": "射撃+50 PP+5",
+		"tr_explain": "R-ATK+50 PP+5"
+	},
+	{
+		"assign": "294",
+		"jp_text": "グレース・テクニック",
+		"tr_text": "Grace Technique",
+		"jp_explain": "法撃+50 PP+5",
+		"tr_explain": "T-ATK+50 PP+5"
+	},
+	{
+		"assign": "295",
+		"jp_text": "グレース・スタミナ",
+		"tr_text": "Grace Stamina",
+		"jp_explain": "HP+80 PP+5",
+		"tr_explain": "HP+80 PP+5"
+	},
+	{
+		"assign": "296",
+		"jp_text": "ルーサー・レヴリー",
+		"tr_text": "Loser Reverie",
+		"jp_explain": "打撃+20 射撃+20\n法撃+40 HP-20",
+		"tr_explain": "S-ATK+20 R-ATK+20\nT-ATK+40 HP-20"
+	},
+	{
+		"assign": "297",
+		"jp_text": "アプレジナ・レヴリー",
+		"tr_text": "",
+		"jp_explain": "打撃+20 射撃+40\n法撃+20 HP-10 PP-1",
+		"tr_explain": ""
+	},
+	{
+		"assign": "298",
+		"jp_text": "レッサーパワーⅠ",
+		"tr_text": "",
+		"jp_explain": "打撃+5",
+		"tr_explain": ""
+	},
+	{
+		"assign": "299",
+		"jp_text": "レッサーパワーⅡ",
+		"tr_text": "",
+		"jp_explain": "打撃+15",
+		"tr_explain": ""
+	},
+	{
+		"assign": "300",
+		"jp_text": "レッサーパワーⅢ",
+		"tr_text": "",
+		"jp_explain": "打撃+25",
+		"tr_explain": ""
+	},
+	{
+		"assign": "301",
+		"jp_text": "レッサーパワーⅣ",
+		"tr_text": "",
+		"jp_explain": "打撃+30",
+		"tr_explain": ""
+	},
+	{
+		"assign": "302",
+		"jp_text": "レッサーパワーⅤ",
+		"tr_text": "",
+		"jp_explain": "打撃+35",
+		"tr_explain": ""
+	},
+	{
+		"assign": "303",
+		"jp_text": "レッサーシュートⅠ",
+		"tr_text": "",
+		"jp_explain": "射撃+5",
+		"tr_explain": ""
+	},
+	{
+		"assign": "304",
+		"jp_text": "レッサーシュートⅡ",
+		"tr_text": "",
+		"jp_explain": "射撃+15",
+		"tr_explain": ""
+	},
+	{
+		"assign": "305",
+		"jp_text": "レッサーシュートⅢ",
+		"tr_text": "",
+		"jp_explain": "射撃+25",
+		"tr_explain": ""
+	},
+	{
+		"assign": "306",
+		"jp_text": "レッサーシュートⅣ",
+		"tr_text": "",
+		"jp_explain": "射撃+30",
+		"tr_explain": ""
+	},
+	{
+		"assign": "307",
+		"jp_text": "レッサーシュートⅤ",
+		"tr_text": "",
+		"jp_explain": "射撃+35",
+		"tr_explain": ""
+	},
+	{
+		"assign": "308",
+		"jp_text": "レッサーテクニックⅠ",
+		"tr_text": "",
+		"jp_explain": "法撃+5",
+		"tr_explain": ""
+	},
+	{
+		"assign": "309",
+		"jp_text": "レッサーテクニックⅡ",
+		"tr_text": "",
+		"jp_explain": "法撃+15",
+		"tr_explain": ""
+	},
+	{
+		"assign": "310",
+		"jp_text": "レッサーテクニックⅢ",
+		"tr_text": "",
+		"jp_explain": "法撃+25",
+		"tr_explain": ""
+	},
+	{
+		"assign": "311",
+		"jp_text": "レッサーテクニックⅣ",
+		"tr_text": "",
+		"jp_explain": "法撃+30",
+		"tr_explain": ""
+	},
+	{
+		"assign": "312",
+		"jp_text": "レッサーテクニックⅤ",
+		"tr_text": "",
+		"jp_explain": "法撃+35",
+		"tr_explain": ""
+	},
+	{
+		"assign": "313",
+		"jp_text": "レッサースタミナⅠ",
+		"tr_text": "",
+		"jp_explain": "HP+15",
+		"tr_explain": ""
+	},
+	{
+		"assign": "314",
+		"jp_text": "レッサースタミナⅡ",
+		"tr_text": "",
+		"jp_explain": "HP+35",
+		"tr_explain": ""
+	},
+	{
+		"assign": "315",
+		"jp_text": "レッサースタミナⅢ",
+		"tr_text": "",
+		"jp_explain": "HP+45",
+		"tr_explain": ""
+	},
+	{
+		"assign": "316",
+		"jp_text": "レッサースタミナⅣ",
+		"tr_text": "",
+		"jp_explain": "HP+55",
+		"tr_explain": ""
+	},
+	{
+		"assign": "317",
+		"jp_text": "レッサースタミナⅤ",
+		"tr_text": "",
+		"jp_explain": "HP+65",
+		"tr_explain": ""
+	},
+	{
+		"assign": "318",
+		"jp_text": "レッサースピリタⅠ",
+		"tr_text": "",
+		"jp_explain": "PP+1",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319",
+		"jp_text": "レッサースピリタⅡ",
+		"tr_text": "",
+		"jp_explain": "PP+2",
+		"tr_explain": ""
+	},
+	{
+		"assign": "320",
+		"jp_text": "レッサースピリタⅢ",
+		"tr_text": "",
+		"jp_explain": "PP+3",
+		"tr_explain": ""
+	},
+	{
+		"assign": "321",
+		"jp_text": "レッサースピリタⅣ",
+		"tr_text": "",
+		"jp_explain": "PP+4",
+		"tr_explain": ""
+	},
+	{
+		"assign": "322",
+		"jp_text": "レッサースピリタⅤ",
+		"tr_text": "",
+		"jp_explain": "PP+5",
+		"tr_explain": ""
+	},
+	{
+		"assign": "323",
+		"jp_text": "ＥＶ・パワーＨＰ",
+		"tr_text": "",
+		"jp_explain": "打撃+35 HP+60",
+		"tr_explain": ""
+	},
+	{
+		"assign": "324",
+		"jp_text": "ＥＶ・パワーＰＰ",
+		"tr_text": "",
+		"jp_explain": "打撃+35 PP+4",
+		"tr_explain": ""
+	},
+	{
+		"assign": "325",
+		"jp_text": "ＥＶ・シュートＨＰ",
+		"tr_text": "",
+		"jp_explain": "射撃+35 HP+60",
+		"tr_explain": ""
+	},
+	{
+		"assign": "326",
+		"jp_text": "ＥＶ・シュートＰＰ",
+		"tr_text": "",
+		"jp_explain": "射撃+35 PP+4",
+		"tr_explain": ""
+	},
+	{
+		"assign": "327",
+		"jp_text": "ＥＶ・テクニックＨＰ",
+		"tr_text": "",
+		"jp_explain": "法撃+35 HP+60",
+		"tr_explain": ""
+	},
+	{
+		"assign": "328",
+		"jp_text": "ＥＶ・テクニックＰＰ",
+		"tr_text": "",
+		"jp_explain": "法撃+35 PP+4",
+		"tr_explain": ""
 	}
 ]
