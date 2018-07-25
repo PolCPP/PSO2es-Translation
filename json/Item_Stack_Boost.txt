@@ -626,7 +626,7 @@
 		"assign": "320110",
 		"jp_text": "レアドロップ倍率＋４００％",
 		"tr_text": "Rare Drop Rate Boost +400%",
-		"jp_explain": "レアドロップ上昇のブーストアイテム。\n使用してから【３０分】の間だけ\nレアドロップの倍率を４００％アップ。",
+		"jp_explain": "レアドロップ上昇のブーストアイテム。\n使用してから【３６０分】の間だけ\nレアドロップの倍率を４００％アップ。",
 		"tr_explain": "Boosts Rare Drop Rate by 400%.\nDuration lasts for 30 minutes\non the field."
 	},
 	{
@@ -698,5 +698,26 @@
 		"tr_text": "6th Anniv. Donut",
 		"jp_explain": "アークスに感謝し、日々の任務を\n労うべく考案された特製ドーナッツ。\n【５分間】トライブースト＋５０％",
 		"tr_explain": "Special Donut to thank ARKS\nfor their manual labor.\n[5 minutes] Tri Boost +50%."
+	},
+	{
+		"assign": "320132",
+		"jp_text": "ナスナカン特製酢豚",
+		"tr_text": "",
+		"jp_explain": "ナスナカンより贈られた特製酢豚。\n【３０分間】全ステータス＋１０\nレアドロップ倍率＋５０％",
+		"tr_explain": ""
+	},
+	{
+		"assign": "320133",
+		"jp_text": "レアドロップ倍率＋３００％Ｓ",
+		"tr_text": "",
+		"jp_explain": "レアドロップ上昇のブーストアイテム。\n使用してから【６０分】の間だけ\nレアドロップの倍率を３００％アップ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "320134",
+		"jp_text": "からあげクン",
+		"tr_text": "",
+		"jp_explain": "ローソンのからあげクン。\n【１０分間】打・射・法撃力＋２００　ＰＰ＋１０\nレアドロップ倍率＋２５％",
+		"tr_explain": ""
 	}
 ]
