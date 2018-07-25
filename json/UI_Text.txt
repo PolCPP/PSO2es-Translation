@@ -292,7 +292,7 @@
 	{
 		"assign": "acshop_dialog_b_14",
 		"jp_text": "<%item_name>を購入しました。\n\n<%item_name>は\nショップメニュー＞プレミアムセット\nから使用することができます。",
-		"tr_text": ""
+		"tr_text": "Purchased <%item_name>.\n\n\nYou can use it from\nthe Shop Premium Set menu."
 	},
 	{
 		"assign": "acshop_dialog_t_15",
@@ -1997,7 +1997,7 @@
 	{
 		"assign": "labo_menu_03",
 		"jp_text": "アイテム強化",
-		"tr_text": ""
+		"tr_text": "Grind items"
 	},
 	{
 		"assign": "labo_menu_dialog_t_00",
@@ -2252,7 +2252,7 @@
 	{
 		"assign": "labo_dialog_t_09",
 		"jp_text": "アイテム強化",
-		"tr_text": ""
+		"tr_text": "Grind items"
 	},
 	{
 		"assign": "labo_dialog_b_09",
@@ -2262,7 +2262,7 @@
 	{
 		"assign": "labo_dialog_t_09_grinder",
 		"jp_text": "アイテム強化",
-		"tr_text": ""
+		"tr_text": "Grind items"
 	},
 	{
 		"assign": "labo_dialog_b_09_grinder",
@@ -2272,7 +2272,7 @@
 	{
 		"assign": "labo_dialog_t_09_favorite",
 		"jp_text": "アイテム強化",
-		"tr_text": ""
+		"tr_text": "Grind items"
 	},
 	{
 		"assign": "labo_dialog_b_09_favorite",
@@ -2282,7 +2282,7 @@
 	{
 		"assign": "labo_dialog_t_09_rarity",
 		"jp_text": "アイテム強化",
-		"tr_text": ""
+		"tr_text": "Grind items"
 	},
 	{
 		"assign": "labo_dialog_b_09_rarity",
@@ -2292,7 +2292,7 @@
 	{
 		"assign": "labo_dialog_t_10",
 		"jp_text": "アイテム強化",
-		"tr_text": ""
+		"tr_text": "Grind items"
 	},
 	{
 		"assign": "labo_dialog_b_10",
@@ -2302,7 +2302,7 @@
 	{
 		"assign": "labo_dialog_t_11",
 		"jp_text": "アイテム強化",
-		"tr_text": ""
+		"tr_text": "Grind items"
 	},
 	{
 		"assign": "labo_dialog_b_11",
@@ -2312,7 +2312,7 @@
 	{
 		"assign": "labo_dialog_t_12",
 		"jp_text": "アイテム強化",
-		"tr_text": ""
+		"tr_text": "Grind items"
 	},
 	{
 		"assign": "labo_dialog_b_12",
@@ -3352,7 +3352,7 @@
 	{
 		"assign": "myshop_guide_01",
 		"jp_text": "<color=#f0df60>候補検索リスト作成時間：{0}　他のプレイヤーが出品中のアイテムを検索します。検索条件を入力し、いずれかの検索ボタンを押してください。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Item lists updated at {0}  You can search for items by entering search conditions and pressing one of the 'Search' buttons.</color>"
 	},
 	{
 		"assign": "myshop_guide_02",
@@ -3372,7 +3372,7 @@
 	{
 		"assign": "myshop_guide_05",
 		"jp_text": "<color=#f0df60>候補検索リスト作成時間：{0}　他のプレイヤーが出品中のアイテムを検索できます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Item lists updated at {0}  You can search from other players' shops.</color>"
 	},
 	{
 		"assign": "myshop_guide_06",
@@ -3382,7 +3382,7 @@
 	{
 		"assign": "myshop_guide_07",
 		"jp_text": "<color=#f0df60>検索を行った履歴が確認できます。履歴を選択すると、条件が詳細検索ウィンドウに自動入力されます。</color>",
-		"tr_text": "<color=#f0df60>You can also check your browse history with a detailed description of when the search was made.</color>"
+		"tr_text": "<color=#f0df60>You can check your search history. Selecting an item from this list will re-enter those search conditions into the advanced search interface.</color>"
 	},
 	{
 		"assign": "myshop_guide_08",
@@ -4982,12 +4982,12 @@
 	{
 		"assign": "myshop_to_easy",
 		"jp_text": "簡易検索へ",
-		"tr_text": "Ｓｉｍｐｌｅ Ｓｅａｒｃｈ"
+		"tr_text": "Ｓｉｍｐｌｅ"
 	},
 	{
 		"assign": "myshop_to_detail",
 		"jp_text": "詳細検索へ",
-		"tr_text": "Adv. Search"
+		"tr_text": "Advanced"
 	},
 	{
 		"assign": "myshop_easy_select_item",
@@ -5007,7 +5007,7 @@
 	{
 		"assign": "questcounter_guide_00",
 		"jp_text": "<color=#f0df60>ジェネやモアと共に冒険するストーリーです。Normalのエリアで獲得スコアを最大にすると、高難度なExのエリアが解放されます。</color>",
-		"tr_text": "<color=#f0df60>The story of your adventures with Gene and More. Clear an area with full marks on Normal to unlock its Ex difficulty version.</color>"
+		"tr_text": "<color=#f0df60>The story of your adventures with Gene and More. Clear an area with full marks on Normal to unlock its EX difficulty version.</color>"
 	},
 	{
 		"assign": "questcounter_guide_01",
@@ -5022,7 +5022,7 @@
 	{
 		"assign": "questcounter_guide_03",
 		"jp_text": "<color=#f0df60>Exのエリアは、強力なExエネミーたちが登場する高難度のクエストです。Normalのエリアで獲得スコアを最大にすると解放されます。</color>",
-		"tr_text": "<color=#f0df60>Ex areas are difficult versions of quests, where powerful Ex enemies appear. Clear an area with full scores on Normal to unlock its Ex version.</color>"
+		"tr_text": "<color=#f0df60>EX areas are difficult versions of quests, where powerful EX enemies appear. Clear an area with full scores on Normal to unlock its EX version.</color>"
 	},
 	{
 		"assign": "questcounter_guide_04",
@@ -5042,22 +5042,22 @@
 	{
 		"assign": "questcounter_guide_07",
 		"jp_text": "<color=#f0df60>Exのエリアは、強力なExエネミーたちが登場する高難度のクエストです。Normalのエリアで獲得スコアを最大にすると解放されます。</color>",
-		"tr_text": "<color=#f0df60>Ex areas are difficult versions of quests, where powerful Ex enemies appear. Clear an area with full scores on Normal to unlock its Ex version.</color>"
+		"tr_text": "<color=#f0df60>EX areas are difficult versions of quests, where powerful EX enemies appear. Clear an area with full scores on Normal to unlock its EX version.</color>"
 	},
 	{
 		"assign": "questcounter_guide_08",
 		"jp_text": "<color=#f0df60>謎の少女デュナとトランスエネミーを巡る新たなストーリーです。Normalのエリアで獲得スコアを最大にすると、高難度なExのエリアが解放されます。</color>",
-		"tr_text": "<color=#f0df60>The story of the mysterious girl, Duna, and the Trans Enemies. Clear an area with full marks on Normal to unlock its Ex difficulty version.</color>"
+		"tr_text": "<color=#f0df60>The story of the mysterious girl, Duna, and the Trans Enemies. Clear an area with full marks on Normal to unlock its EX difficulty version.</color>"
 	},
 	{
 		"assign": "questcounter_guide_09",
 		"jp_text": "<color=#f0df60>Exのエリアは、強力なExエネミーたちが登場する高難度のクエストです。Normalのエリアで獲得スコアを最大にすると解放されます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>EX areas are difficult versions of quests, where powerful EX enemies appear. Clear an area with full scores on Normal to unlock its EX version.</color>"
 	},
 	{
 		"assign": "questcounter_guide_10",
 		"jp_text": "<color=#f0df60>謎の少女アフタルと惑星リリーパの古代文明を巡る新たなストーリーです。Normalのエリアで獲得スコアを最大にすると、高難度なExのエリアが解放されます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>The story of the mysterious girl, Akhtar, and the ancient civilization of planet Lillipa. Clear an area with full marks on Normal to unlock its EX difficulty version.</color>"
 	},
 	{
 		"assign": "quest_counter_header_Season2",
@@ -9257,7 +9257,7 @@
 	{
 		"assign": "menu_charainfo_goto_lobby",
 		"jp_text": "ロビーへ",
-		"tr_text": ""
+		"tr_text": "Lobby"
 	},
 	{
 		"assign": "menu_charainfo_return",
@@ -9282,7 +9282,7 @@
 	{
 		"assign": "menu_title_linkage",
 		"jp_text": "連動",
-		"tr_text": ""
+		"tr_text": "Link"
 	},
 	{
 		"assign": "menu_title_other",
@@ -9297,7 +9297,7 @@
 	{
 		"assign": "manu_sub_title_system",
 		"jp_text": "システム",
-		"tr_text": ""
+		"tr_text": "System"
 	},
 	{
 		"assign": "manu_sub_title_other",
@@ -9307,7 +9307,7 @@
 	{
 		"assign": "menu_sbu_title_title",
 		"jp_text": "タイトル",
-		"tr_text": ""
+		"tr_text": "Title"
 	},
 	{
 		"assign": "menu_main_button_equipment",
@@ -9327,12 +9327,12 @@
 	{
 		"assign": "menu_main_button_chip_release",
 		"jp_text": "チップ解放",
-		"tr_text": ""
+		"tr_text": "Chip Releasing"
 	},
 	{
 		"assign": "menu_main_button_item_grind",
 		"jp_text": "アイテム強化",
-		"tr_text": ""
+		"tr_text": "Item Grinding"
 	},
 	{
 		"assign": "menu_main_button_change_class",
@@ -9352,32 +9352,32 @@
 	{
 		"assign": "menu_main_button_recycle",
 		"jp_text": "交換ショップ",
-		"tr_text": ""
+		"tr_text": "Recycle Shop"
 	},
 	{
 		"assign": "menu_main_button_ac_shop",
 		"jp_text": "ACショップ",
-		"tr_text": ""
+		"tr_text": "AC Shop"
 	},
 	{
 		"assign": "menu_main_button_ac_charge",
 		"jp_text": "ACチャージ",
-		"tr_text": ""
+		"tr_text": "Charge AC"
 	},
 	{
 		"assign": "menu_main_button_iac_shop",
 		"jp_text": "iACショップ",
-		"tr_text": ""
+		"tr_text": "iAC Shop"
 	},
 	{
 		"assign": "menu_main_button_iac_charge",
 		"jp_text": "iACチャージ",
-		"tr_text": ""
+		"tr_text": "Charge iAC"
 	},
 	{
 		"assign": "menu_main_button_premium",
 		"jp_text": "プレミアムセット",
-		"tr_text": ""
+		"tr_text": "Premium Set"
 	},
 	{
 		"assign": "menu_main_button_link_depot",
@@ -9412,7 +9412,7 @@
 	{
 		"assign": "menu_main_button_my_shop",
 		"jp_text": "マイショップ",
-		"tr_text": ""
+		"tr_text": "My Shop"
 	},
 	{
 		"assign": "menu_main_button_counter",
@@ -9422,7 +9422,7 @@
 	{
 		"assign": "menu_main_button_system",
 		"jp_text": "システム",
-		"tr_text": ""
+		"tr_text": "System"
 	},
 	{
 		"assign": "menu_main_button_help",
@@ -9432,7 +9432,7 @@
 	{
 		"assign": "menu_main_button_community",
 		"jp_text": "コミュニティ",
-		"tr_text": ""
+		"tr_text": "Community"
 	},
 	{
 		"assign": "menu_main_button_character",
@@ -9447,12 +9447,12 @@
 	{
 		"assign": "menu_main_button_chip_laboratory",
 		"jp_text": "チップ研究室",
-		"tr_text": ""
+		"tr_text": "Chip Lab"
 	},
 	{
 		"assign": "menu_main_button_title",
 		"jp_text": "タイトル",
-		"tr_text": ""
+		"tr_text": "Title"
 	},
 	{
 		"assign": "menu_main_button_option",
@@ -9462,22 +9462,22 @@
 	{
 		"assign": "menu_main_button_linkage",
 		"jp_text": "連動する",
-		"tr_text": ""
+		"tr_text": "LInk"
 	},
 	{
 		"assign": "manu_main_button_linkage_help",
 		"jp_text": "連動について",
-		"tr_text": ""
+		"tr_text": "About Linking"
 	},
 	{
 		"assign": "menu_sub_button_sale_chip",
 		"jp_text": "チップ売却",
-		"tr_text": ""
+		"tr_text": "Sell Chips"
 	},
 	{
 		"assign": "menu_sub_button_sale_item",
 		"jp_text": "アイテム売却",
-		"tr_text": ""
+		"tr_text": "Sell Items"
 	},
 	{
 		"assign": "menu_sub_button_system_site",
