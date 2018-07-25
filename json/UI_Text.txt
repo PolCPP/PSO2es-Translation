@@ -291,8 +291,8 @@
 	},
 	{
 		"assign": "acshop_dialog_b_14",
-		"jp_text": "<%item_name>を購入しました。\n\n<%item_name>は\n<%AC>ショップメニュー＞プレミアムセット使用\nから使用することができます。",
-		"tr_text": "Purchased <%item_name>.\n\n\nYou can use it from\n<%AC> Shop Premium Set menu."
+		"jp_text": "<%item_name>を購入しました。\n\n<%item_name>は\nショップメニュー＞プレミアムセット\nから使用することができます。",
+		"tr_text": ""
 	},
 	{
 		"assign": "acshop_dialog_t_15",
@@ -1996,8 +1996,8 @@
 	},
 	{
 		"assign": "labo_menu_03",
-		"jp_text": "武器／ユニット強化",
-		"tr_text": "Grind items"
+		"jp_text": "アイテム強化",
+		"tr_text": ""
 	},
 	{
 		"assign": "labo_menu_dialog_t_00",
@@ -2251,8 +2251,8 @@
 	},
 	{
 		"assign": "labo_dialog_t_09",
-		"jp_text": "武器／ユニット強化",
-		"tr_text": "Grind items"
+		"jp_text": "アイテム強化",
+		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_09",
@@ -2261,8 +2261,8 @@
 	},
 	{
 		"assign": "labo_dialog_t_09_grinder",
-		"jp_text": "武器／ユニット強化",
-		"tr_text": "Grind items"
+		"jp_text": "アイテム強化",
+		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_09_grinder",
@@ -2271,8 +2271,8 @@
 	},
 	{
 		"assign": "labo_dialog_t_09_favorite",
-		"jp_text": "武器／ユニット強化",
-		"tr_text": "Grind items"
+		"jp_text": "アイテム強化",
+		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_09_favorite",
@@ -2281,8 +2281,8 @@
 	},
 	{
 		"assign": "labo_dialog_t_09_rarity",
-		"jp_text": "武器／ユニット強化",
-		"tr_text": "Grind items"
+		"jp_text": "アイテム強化",
+		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_09_rarity",
@@ -2291,8 +2291,8 @@
 	},
 	{
 		"assign": "labo_dialog_t_10",
-		"jp_text": "武器／ユニット強化",
-		"tr_text": "Grind items"
+		"jp_text": "アイテム強化",
+		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_10",
@@ -2301,8 +2301,8 @@
 	},
 	{
 		"assign": "labo_dialog_t_11",
-		"jp_text": "武器／ユニット強化",
-		"tr_text": "Grind items"
+		"jp_text": "アイテム強化",
+		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_11",
@@ -2311,8 +2311,8 @@
 	},
 	{
 		"assign": "labo_dialog_t_12",
-		"jp_text": "武器／ユニット強化",
-		"tr_text": "Grind items"
+		"jp_text": "アイテム強化",
+		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_12",
@@ -3351,8 +3351,8 @@
 	},
 	{
 		"assign": "myshop_guide_01",
-		"jp_text": "<color=#f0df60>他のプレイヤーが出品中のアイテムを検索します。検索条件を入力し、いずれかの検索ボタンを押してください。</color>",
-		"tr_text": "<color=#f0df60>Players can search for items by entering the name of the item and pressing 'Search'.</color>"
+		"jp_text": "<color=#f0df60>候補検索リスト作成時間：{0}　他のプレイヤーが出品中のアイテムを検索します。検索条件を入力し、いずれかの検索ボタンを押してください。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "myshop_guide_02",
@@ -3371,8 +3371,8 @@
 	},
 	{
 		"assign": "myshop_guide_05",
-		"jp_text": "<color=#f0df60>他のプレイヤーが出品中のアイテムを検索できます。</color>",
-		"tr_text": "<color=#f0df60>You can also search from other players' shops.</color>"
+		"jp_text": "<color=#f0df60>候補検索リスト作成時間：{0}　他のプレイヤーが出品中のアイテムを検索できます。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "myshop_guide_06",
@@ -5048,6 +5048,16 @@
 		"assign": "questcounter_guide_08",
 		"jp_text": "<color=#f0df60>謎の少女デュナとトランスエネミーを巡る新たなストーリーです。Normalのエリアで獲得スコアを最大にすると、高難度なExのエリアが解放されます。</color>",
 		"tr_text": "<color=#f0df60>The story of the mysterious girl, Duna, and the Trans Enemies. Clear an area with full marks on Normal to unlock its Ex difficulty version.</color>"
+	},
+	{
+		"assign": "questcounter_guide_09",
+		"jp_text": "<color=#f0df60>Exのエリアは、強力なExエネミーたちが登場する高難度のクエストです。Normalのエリアで獲得スコアを最大にすると解放されます。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "questcounter_guide_10",
+		"jp_text": "<color=#f0df60>謎の少女アフタルと惑星リリーパの古代文明を巡る新たなストーリーです。Normalのエリアで獲得スコアを最大にすると、高難度なExのエリアが解放されます。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "quest_counter_header_Season2",
@@ -9245,6 +9255,301 @@
 		"tr_text": "Scape Dolls"
 	},
 	{
+		"assign": "menu_charainfo_goto_lobby",
+		"jp_text": "ロビーへ",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_charainfo_return",
+		"jp_text": "戻る",
+		"tr_text": "Back"
+	},
+	{
+		"assign": "menu_title_quest",
+		"jp_text": "クエスト",
+		"tr_text": "Quest"
+	},
+	{
+		"assign": "menu_title_formation",
+		"jp_text": "編成",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_title_shop",
+		"jp_text": "ショップ",
+		"tr_text": "Shop"
+	},
+	{
+		"assign": "menu_title_linkage",
+		"jp_text": "連動",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_title_other",
+		"jp_text": "その他",
+		"tr_text": "Other"
+	},
+	{
+		"assign": "manu_sub_title_sale",
+		"jp_text": "売却",
+		"tr_text": "Sell"
+	},
+	{
+		"assign": "manu_sub_title_system",
+		"jp_text": "システム",
+		"tr_text": ""
+	},
+	{
+		"assign": "manu_sub_title_other",
+		"jp_text": "コミュニティ",
+		"tr_text": "Community"
+	},
+	{
+		"assign": "menu_sbu_title_title",
+		"jp_text": "タイトル",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_main_button_equipment",
+		"jp_text": "装備",
+		"tr_text": "Equip"
+	},
+	{
+		"assign": "menu_main_button_cosutume",
+		"jp_text": "コスチューム",
+		"tr_text": "Costume"
+	},
+	{
+		"assign": "menu_main_button_chip_grind",
+		"jp_text": "チップ強化",
+		"tr_text": "Chip Grinding"
+	},
+	{
+		"assign": "menu_main_button_chip_release",
+		"jp_text": "チップ解放",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_main_button_item_grind",
+		"jp_text": "アイテム強化",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_main_button_change_class",
+		"jp_text": "クラス変更",
+		"tr_text": "Change class"
+	},
+	{
+		"assign": "menu_main_button_sale",
+		"jp_text": "売却",
+		"tr_text": "Sell"
+	},
+	{
+		"assign": "menu_main_button_chip_depot",
+		"jp_text": "チップ倉庫",
+		"tr_text": "Storage"
+	},
+	{
+		"assign": "menu_main_button_recycle",
+		"jp_text": "交換ショップ",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_main_button_ac_shop",
+		"jp_text": "ACショップ",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_main_button_ac_charge",
+		"jp_text": "ACチャージ",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_main_button_iac_shop",
+		"jp_text": "iACショップ",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_main_button_iac_charge",
+		"jp_text": "iACチャージ",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_main_button_premium",
+		"jp_text": "プレミアムセット",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_main_button_link_depot",
+		"jp_text": "PSO2es倉庫",
+		"tr_text": "PSO2es Storage"
+	},
+	{
+		"assign": "menu_main_button_quick_search",
+		"jp_text": "クイック探索",
+		"tr_text": "Quick Search"
+	},
+	{
+		"assign": "menu_main_button_collect_search",
+		"jp_text": "コレクトサーチ",
+		"tr_text": "Collect Search"
+	},
+	{
+		"assign": "menu_main_button_darker_blast",
+		"jp_text": "ダークブラスト訓練",
+		"tr_text": "Train Dark Blast"
+	},
+	{
+		"assign": "menu_main_button_pet",
+		"jp_text": "ペット育成",
+		"tr_text": "Pet Training"
+	},
+	{
+		"assign": "menu_main_button_mag",
+		"jp_text": "マグ育成",
+		"tr_text": "Feed Mag"
+	},
+	{
+		"assign": "menu_main_button_my_shop",
+		"jp_text": "マイショップ",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_main_button_counter",
+		"jp_text": "受け取りカウンター",
+		"tr_text": "Receive Counter"
+	},
+	{
+		"assign": "menu_main_button_system",
+		"jp_text": "システム",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_main_button_help",
+		"jp_text": "ヘルプ",
+		"tr_text": "Help"
+	},
+	{
+		"assign": "menu_main_button_community",
+		"jp_text": "コミュニティ",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_main_button_character",
+		"jp_text": "キャラクター情報",
+		"tr_text": "Character Info"
+	},
+	{
+		"assign": "menu_main_button_look_back",
+		"jp_text": "ストーリー閲覧室",
+		"tr_text": "Story Room"
+	},
+	{
+		"assign": "menu_main_button_chip_laboratory",
+		"jp_text": "チップ研究室",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_main_button_title",
+		"jp_text": "タイトル",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_main_button_option",
+		"jp_text": "オプション",
+		"tr_text": "Options"
+	},
+	{
+		"assign": "menu_main_button_linkage",
+		"jp_text": "連動する",
+		"tr_text": ""
+	},
+	{
+		"assign": "manu_main_button_linkage_help",
+		"jp_text": "連動について",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_sub_button_sale_chip",
+		"jp_text": "チップ売却",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_sub_button_sale_item",
+		"jp_text": "アイテム売却",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_sub_button_system_site",
+		"jp_text": "公式サイト",
+		"tr_text": "Official Site"
+	},
+	{
+		"assign": "menu_sub_button_system_item_code",
+		"jp_text": "esアイテムコード",
+		"tr_text": "es Item Code"
+	},
+	{
+		"assign": "menu_sub_button_system_download",
+		"jp_text": "データダウンロード",
+		"tr_text": "Data Download"
+	},
+	{
+		"assign": "menu_sub_button_system_take_over",
+		"jp_text": "端末引き継ぎ情報",
+		"tr_text": "Device Transfer"
+	},
+	{
+		"assign": "menu_sub_button_community_friend",
+		"jp_text": "フレンド",
+		"tr_text": "Friends List"
+	},
+	{
+		"assign": "menu_sub_button_community_mail",
+		"jp_text": "メール",
+		"tr_text": "Mail"
+	},
+	{
+		"assign": "menu_sub_button_arks_card",
+		"jp_text": "アークスカード",
+		"tr_text": "ARKS Card"
+	},
+	{
+		"assign": "menu_sub_button_twitter",
+		"jp_text": "Twitter連動",
+		"tr_text": "Link Twitter"
+	},
+	{
+		"assign": "menu_sub_button_title",
+		"jp_text": "タイトルへ戻る",
+		"tr_text": "Back to title"
+	},
+	{
+		"assign": "menu_sub_button_shitp",
+		"jp_text": "シップ選択",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_popup_emergency",
+		"jp_text": "緊急発生！",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_popup_emergency_relief",
+		"jp_text": "救援あり！",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_popup_etarnal_prize",
+		"jp_text": "報酬あり！",
+		"tr_text": ""
+	},
+	{
+		"assign": "menu_popup_etarnal_aggregate",
+		"jp_text": "集計中！",
+		"tr_text": ""
+	},
+	{
 		"assign": "menu_shop_title",
 		"jp_text": "ショップメニュー",
 		"tr_text": "Shop menu"
@@ -9277,17 +9582,17 @@
 	{
 		"assign": "menu_equip_weapon",
 		"jp_text": "装備",
-		"tr_text": "Equip"
+		"tr_text": "Equipment"
 	},
 	{
 		"assign": "menu_equip_guard",
 		"jp_text": "コスチューム",
-		"tr_text": "Costume"
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_equip_class",
 		"jp_text": "クラス変更",
-		"tr_text": "Change class"
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_sale_button",
@@ -9332,7 +9637,7 @@
 	{
 		"assign": "menu_menu_itemcode",
 		"jp_text": "esアイテムコード",
-		"tr_text": "es Item Code"
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_menu_character",
@@ -9342,22 +9647,22 @@
 	{
 		"assign": "menu_menu_option",
 		"jp_text": "オプション",
-		"tr_text": "Options"
+		"tr_text": "Option"
 	},
 	{
 		"assign": "menu_menu_help",
 		"jp_text": "ヘルプ",
-		"tr_text": "Help"
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_menu_web",
 		"jp_text": "公式サイト",
-		"tr_text": "Official Site"
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_menu_transfer",
 		"jp_text": "端末引き継ぎ情報",
-		"tr_text": "Device Transfer"
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_menu_invite",
@@ -9402,7 +9707,7 @@
 	{
 		"assign": "menu_pso2_mag",
 		"jp_text": "マグ育成",
-		"tr_text": "Feed Mag"
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_pso2_linkage",
@@ -9417,7 +9722,7 @@
 	{
 		"assign": "menu_pso2_receive",
 		"jp_text": "受け取りカウンター",
-		"tr_text": "Receive Counter"
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_pso2_dialog_mag_t",
@@ -9442,7 +9747,7 @@
 	{
 		"assign": "menu_fulldownload_t_02",
 		"jp_text": "データダウンロード",
-		"tr_text": "Data Download"
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_fulldownload_b_02",
@@ -9567,12 +9872,12 @@
 	{
 		"assign": "chip_grind",
 		"jp_text": "チップ強化",
-		"tr_text": "Chip Grinding"
+		"tr_text": ""
 	},
 	{
 		"assign": "sell",
 		"jp_text": "売却",
-		"tr_text": "Sell"
+		"tr_text": ""
 	},
 	{
 		"assign": "chip_over_num",
@@ -9652,7 +9957,12 @@
 	{
 		"assign": "lobby_top_logout",
 		"jp_text": "タイトルへ戻る",
-		"tr_text": "Back to title"
+		"tr_text": ""
+	},
+	{
+		"assign": "header_time_label",
+		"jp_text": "<color=#00ff00>あと</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "community_guide_00",
@@ -9737,12 +10047,12 @@
 	{
 		"assign": "community_mail",
 		"jp_text": "メール",
-		"tr_text": "Mail"
+		"tr_text": ""
 	},
 	{
 		"assign": "community_friend",
 		"jp_text": "フレンド",
-		"tr_text": "Friends List"
+		"tr_text": ""
 	},
 	{
 		"assign": "community_arkscard",
@@ -9752,7 +10062,7 @@
 	{
 		"assign": "community_sns",
 		"jp_text": "Twitter連動",
-		"tr_text": "Link Twitter"
+		"tr_text": "Twitter Linked"
 	},
 	{
 		"assign": "community_help",
@@ -9947,7 +10257,7 @@
 	{
 		"assign": "character_info",
 		"jp_text": "キャラクター情報",
-		"tr_text": "Character Info"
+		"tr_text": ""
 	},
 	{
 		"assign": "character_name",
@@ -10147,7 +10457,7 @@
 	{
 		"assign": "arkscard_dialog_t_01",
 		"jp_text": "アークスカード",
-		"tr_text": "ARKS Card"
+		"tr_text": ""
 	},
 	{
 		"assign": "arkscard_dialog_b_01",
@@ -10232,7 +10542,7 @@
 	{
 		"assign": "return",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "Return"
 	},
 	{
 		"assign": "dialog_title_ac_shortage",
@@ -10516,8 +10826,8 @@
 	},
 	{
 		"assign": "tu_0001_n02_b",
-		"jp_text": "<color=black>それでは、チップを装備してみましょう。\n「編成」ボタンをタッチしてください。</color>",
-		"tr_text": "<color=black>Let's equip a chip.\nPress the \"Equipment\" button.</color>"
+		"jp_text": "<color=black>それでは、チップを装備してみましょう。\nメニューの「編成」ボタンをタッチしてください。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "tu_0001_n03_b",
@@ -10536,8 +10846,8 @@
 	},
 	{
 		"assign": "tu_0001_n06_b",
-		"jp_text": "<color=black>それでは、右上の\n「ロビートップへ戻る」を選んで\nロビーに戻りましょう。</color>",
-		"tr_text": "<color=black>Let's go back to the \"Lobby\" by\npressing \"Return to Lobby.\"</color>"
+		"jp_text": "<color=black>それでは、メニューの\n「ロビー」を選んでロビーに戻りましょう。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "tu_0001_s00_b",
@@ -10571,8 +10881,8 @@
 	},
 	{
 		"assign": "tu_0002_n02_b",
-		"jp_text": "<color=black>本来、惑星に行くためには\nロビーの「クエスト」から\nクエストを受注する必要があるんです。</color>",
-		"tr_text": "<color=black>Normally,\nyou'd have to wait for the\norder from me to accept a quest.</color>"
+		"jp_text": "<color=black>本来、惑星に行くためには\nメニューの「クエスト」から\nクエストを受注する必要があるんです。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "tu_0002_n03_b",
@@ -10851,8 +11161,8 @@
 	},
 	{
 		"assign": "tu_0003_n11_b",
-		"jp_text": "<color=black>以上で、チップの強化の説明を終わります。\nそれでは、「ロビートップへ戻る」をタッチして\nロビーに戻りましょう。</color>",
-		"tr_text": "<color=black>This concludes the explaination\nof chip strengthening.\nPress 「Return to Lobby」 to go back to the lobby.</color>"
+		"jp_text": "<color=black>以上で、チップの強化の説明を終わります。\nそれでは、メニューの「ロビー」をタッチして\nロビーに戻りましょう。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "tu_0003_s00_b",
@@ -10921,7 +11231,7 @@
 	},
 	{
 		"assign": "tu_0004_n04_b",
-		"jp_text": "<color=black>画面の「スクラッチ」ボタンを\nタッチしてください。</color>",
+		"jp_text": "<color=black>メニューの「スクラッチ」ボタンを\nタッチしてください。</color>",
 		"tr_text": ""
 	},
 	{
@@ -10951,8 +11261,8 @@
 	},
 	{
 		"assign": "tu_0004_n10_b",
-		"jp_text": "<color=black>それでは、「ロビートップへ戻る」をタッチして\nロビーに戻りましょう。</color>",
-		"tr_text": "<color=black>Press 「Back to Lobby」\nto return to the lobby.</color>"
+		"jp_text": "<color=black>それでは、メニューの「ロビー」をタッチして\nロビーに戻りましょう。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "tu_0006_n00_b",
@@ -11056,13 +11366,13 @@
 	},
 	{
 		"assign": "tu_0006_s01_b",
-		"jp_text": "<color=black>おめでとうございます！\n強化ラボで「武器／ユニット強化」を\n利用できるようになりました。</color>",
-		"tr_text": "<color=black>おめでとうございます！\nアイテムラボで「アイテム強化」を\n利用できるようになりました。</color>"
+		"jp_text": "<color=black>おめでとうございます！\n強化ラボで「アイテム強化」を\n利用できるようになりました。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "tu_0006_w00_b",
-		"jp_text": "「武器／ユニット強化」では\nアイテム「グラインダー」とメセタを使って\n武器の攻撃力やユニットの防御力を強化できます。",
-		"tr_text": "「Weapon/Unit grinding」\nYou can improve your weapon\nand units by using meseta and grinders."
+		"jp_text": "「アイテム強化」では\nアイテム「グラインダー」とメセタを使って\n武器の攻撃力やユニットの防御力を強化できます。",
+		"tr_text": ""
 	},
 	{
 		"assign": "tu_0006_w01_b",
@@ -13627,7 +13937,7 @@
 	{
 		"assign": "sns_dialog_2_t",
 		"jp_text": "Twitter連動",
-		"tr_text": "Twitter Linked"
+		"tr_text": ""
 	},
 	{
 		"assign": "sns_dialog_2_b",
@@ -14976,7 +15286,7 @@
 	},
 	{
 		"assign": "story_clear_dialog_b_00",
-		"jp_text": "アークスクエストクリアおめでとうございます！\nクリア記念のチップをプレゼントいたします。\n受け取りボックスをご確認ください。",
+		"jp_text": "アークスクエストクリアおめでとうございます！\nクリア記念のチップをプレゼントいたしました。\n受け取りボックスをご確認ください。",
 		"tr_text": ""
 	},
 	{
@@ -14986,7 +15296,7 @@
 	},
 	{
 		"assign": "story_chapter10_clear_dialog_body",
-		"jp_text": "ストーリークエストクリアおめでとうございます！\nクリア記念のアイテムをプレゼントいたします。\n受け取りボックスをご確認ください。\n\n<color=yellow>「創者の証」は、『PSO2』で\n武器迷彩「*断翼ロート＝ラウト」などと\n交換できます。</color>",
+		"jp_text": "ストーリークエストクリアおめでとうございます！\nクリア記念のアイテムをプレゼントいたしました。\n受け取りボックスをご確認ください。\n\n<color=yellow>「創者の証」は、『PSO2』で\n武器迷彩「*断翼ロート＝ラウト」などと\n交換できます。</color>",
 		"tr_text": ""
 	},
 	{
@@ -15031,8 +15341,8 @@
 	},
 	{
 		"assign": "arksexpeditioncounter_comment_00",
-		"jp_text": "同じクエストに出発すると報酬が増えます。\n探索回数は毎日５時にリセットされます。",
-		"tr_text": "When using Quick Search, pay up will increase.\nResets every 5:00 JST."
+		"jp_text": "　同じクエストに出発すると報酬が増えます。\n　探索回数は毎日５時にリセットされます。",
+		"tr_text": ""
 	},
 	{
 		"assign": "dialog_title_arksexpedition_use_ac",
@@ -15047,7 +15357,7 @@
 	{
 		"assign": "dialog_title_arksexpedition_use_free",
 		"jp_text": "クイック探索",
-		"tr_text": "Quick Search"
+		"tr_text": ""
 	},
 	{
 		"assign": "dialog_body_arksexpedition_use_free",
@@ -15376,8 +15686,8 @@
 	},
 	{
 		"assign": "depot_footer_ship_no",
-		"jp_text": "Ship{0}の倉庫",
-		"tr_text": "Ship{0} Storage"
+		"jp_text": "Ship{0}",
+		"tr_text": ""
 	},
 	{
 		"assign": "depot_footer_select_num",
@@ -15407,12 +15717,12 @@
 	{
 		"assign": "depot_dialog_title",
 		"jp_text": "PSO2es倉庫",
-		"tr_text": "PSO2es Storage"
+		"tr_text": ""
 	},
 	{
 		"assign": "depot_dialog_exit",
-		"jp_text": "選択状態のアイテムがあります。戻りますか？\n\n",
-		"tr_text": "There's no items in the storage, return?\n\n"
+		"jp_text": "選択状態のアイテムがあります。移動しますか？\n\n",
+		"tr_text": ""
 	},
 	{
 		"assign": "depot_dialog_depot_full",
@@ -15442,7 +15752,7 @@
 	{
 		"assign": "pet_scene_title",
 		"jp_text": "ペット育成",
-		"tr_text": "Pet Training"
+		"tr_text": ""
 	},
 	{
 		"assign": "pet_guide_01",
@@ -16490,6 +16800,11 @@
 		"tr_text": "Sea and Sunshine\nVacation"
 	},
 	{
+		"assign": "lookback_special_chapter_2",
+		"jp_text": "うれし恥ずかし海の家",
+		"tr_text": ""
+	},
+	{
 		"assign": "lookback_maintitle_4",
 		"jp_text": "ストーリー　オブ　アーレス",
 		"tr_text": "Story of Ares"
@@ -16505,9 +16820,44 @@
 		"tr_text": "Chapter 1\nThe Goddess Appears"
 	},
 	{
+		"assign": "lookback_maintitle_5",
+		"jp_text": "ストーリークエスト　Ｓｅａｓｏｎ３",
+		"tr_text": "Story Quest Season 3"
+	},
+	{
+		"assign": "lookback_maintext_5",
+		"jp_text": "惑星リリーパに現れた謎の少女\nアフタルたちの物語を振り返ります。",
+		"tr_text": "The girl who mysteriously appeared\nin Lillipa, the story of Akhtar."
+	},
+	{
+		"assign": "lookback_season3_chapter_1",
+		"jp_text": "１章　　闇の行く先",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_season3_chapter_2",
+		"jp_text": "２章　　違えた果て",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_maintitle_6",
+		"jp_text": "クラン オブ ネメシス＆スレイヴ",
+		"tr_text": "Clan of Nemesis & Slave"
+	},
+	{
+		"assign": "lookback_maintext_6",
+		"jp_text": "ネメシスシリーズとスレイヴシリーズの\nウェポノイド達の物語を振り返ります。",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_series2_chapter_1",
+		"jp_text": "第１章　あああ",
+		"tr_text": ""
+	},
+	{
 		"assign": "menu_menu_lookback",
 		"jp_text": "ストーリー閲覧室",
-		"tr_text": "Story Room"
+		"tr_text": ""
 	},
 	{
 		"assign": "lobby_help_charastatus",
@@ -16517,7 +16867,7 @@
 	{
 		"assign": "lobby_help_equip",
 		"jp_text": "装備",
-		"tr_text": "Equipment"
+		"tr_text": ""
 	},
 	{
 		"assign": "lobby_help_chip",
@@ -16532,12 +16882,12 @@
 	{
 		"assign": "lobby_help_quest",
 		"jp_text": "クエスト",
-		"tr_text": "Quest"
+		"tr_text": ""
 	},
 	{
 		"assign": "lobby_help_community",
 		"jp_text": "コミュニティ",
-		"tr_text": "Community"
+		"tr_text": ""
 	},
 	{
 		"assign": "lobby_help_scratch",
@@ -16547,7 +16897,7 @@
 	{
 		"assign": "lobby_help_shop",
 		"jp_text": "ショップ",
-		"tr_text": "Shop"
+		"tr_text": ""
 	},
 	{
 		"assign": "lobby_help_main",
@@ -16692,7 +17042,7 @@
 	{
 		"assign": "sort_other",
 		"jp_text": "その他",
-		"tr_text": "Other"
+		"tr_text": ""
 	},
 	{
 		"assign": "sort_category",
@@ -17195,6 +17545,11 @@
 		"tr_text": "Return"
 	},
 	{
+		"assign": "acceptbox_goto_lobby",
+		"jp_text": "ロビーへ",
+		"tr_text": ""
+	},
+	{
 		"assign": "acceptbox_guide_00",
 		"jp_text": "<color=#f0df60>受け取りボックスの中には、受け取り期限のあるアイテムがあります。期限が過ぎると受け取れなくなりますので、ご注意ください。</color>",
 		"tr_text": "<color=#f0df60>There are items with a deadline. Once it's past the deadline, you cannot redeem the items.</color>"
@@ -17521,8 +17876,8 @@
 	},
 	{
 		"assign": "collect_search_comment_00",
-		"jp_text": "大成功時はゲージの上昇量が増加します。\n残り回数は毎日５時にリセットされます。",
-		"tr_text": "Each increase is a Great Success.\nCooldown resets at 5:00 JST."
+		"jp_text": "　大成功時はゲージの上昇量が増加します。\n　残り回数は毎日５時にリセットされます。",
+		"tr_text": ""
 	},
 	{
 		"assign": "collect_search_info_title",
@@ -17672,7 +18027,7 @@
 	{
 		"assign": "collect_search_dialog_t_03",
 		"jp_text": "コレクトサーチ",
-		"tr_text": "Collect Search"
+		"tr_text": ""
 	},
 	{
 		"assign": "collect_search_dialog_b_03",
@@ -17712,7 +18067,7 @@
 	{
 		"assign": "chip_depot_title",
 		"jp_text": "チップ倉庫",
-		"tr_text": "Storage"
+		"tr_text": "Chip\nStorage"
 	},
 	{
 		"assign": "chip_depot_side_button_pack",
@@ -17722,7 +18077,7 @@
 	{
 		"assign": "chip_depot_side_button_depot",
 		"jp_text": "チップ倉庫",
-		"tr_text": "Chip\nStorage"
+		"tr_text": ""
 	},
 	{
 		"assign": "chip_depot_select_num",
@@ -17892,7 +18247,7 @@
 	{
 		"assign": "scratch_pickup_select_fix_return",
 		"jp_text": "戻る",
-		"tr_text": "Return"
+		"tr_text": "Back"
 	},
 	{
 		"assign": "ItemDetail_accessory_message",
@@ -17906,7 +18261,7 @@
 	},
 	{
 		"assign": "quest_clear_reward_dialog_body",
-		"jp_text": "クエストクリアおめでとうございます！\n以下のクリア報酬をプレゼントいたします。\n受け取りボックスをご確認ください。",
+		"jp_text": "クエストクリアおめでとうございます！\n以下のクリア報酬をプレゼントいたしました。\n受け取りボックスをご確認ください。",
 		"tr_text": ""
 	},
 	{
@@ -17916,8 +18271,8 @@
 	},
 	{
 		"assign": "quest_clear_reward_dialog_body_6104004",
-		"jp_text": "Season2　1章クリアおめでとうございます！\n以下のクリア報酬をプレゼントいたします。\n受け取りボックスをご確認ください。",
-		"tr_text": "Season 2 Ch.1 Cleared!\nYou shall receive a clear reward.\nPlease accept from the Reception Box."
+		"jp_text": "Season2　1章クリアおめでとうございます！\n以下のクリア報酬をプレゼントいたしました。\n受け取りボックスをご確認ください。",
+		"tr_text": ""
 	},
 	{
 		"assign": "quest_clear_reward_dialog_title_6114004",
@@ -17926,7 +18281,7 @@
 	},
 	{
 		"assign": "quest_clear_reward_dialog_body_6114004",
-		"jp_text": "Season2　2章クリアおめでとうございます！\n以下のクリア報酬をプレゼントいたします。\n受け取りボックスをご確認ください。",
+		"jp_text": "Season2　2章クリアおめでとうございます！\n以下のクリア報酬をプレゼントいたしました。\n受け取りボックスをご確認ください。",
 		"tr_text": ""
 	},
 	{
@@ -17936,7 +18291,7 @@
 	},
 	{
 		"assign": "quest_clear_reward_dialog_body_6124004",
-		"jp_text": "Season2　3章クリアおめでとうございます！\n以下のクリア報酬をプレゼントいたします。\n受け取りボックスをご確認ください。",
+		"jp_text": "Season2　3章クリアおめでとうございます！\n以下のクリア報酬をプレゼントいたしました。\n受け取りボックスをご確認ください。",
 		"tr_text": ""
 	},
 	{
@@ -17946,7 +18301,7 @@
 	},
 	{
 		"assign": "quest_clear_reward_dialog_body_6134005",
-		"jp_text": "Season2　4章クリアおめでとうございます！\n以下のクリア報酬をプレゼントいたします。\n受け取りボックスをご確認ください。",
+		"jp_text": "Season2　4章クリアおめでとうございます！\n以下のクリア報酬をプレゼントいたしました。\n受け取りボックスをご確認ください。",
 		"tr_text": ""
 	},
 	{
@@ -17956,7 +18311,7 @@
 	},
 	{
 		"assign": "quest_clear_reward_dialog_body_6144005",
-		"jp_text": "Season2　5章クリアおめでとうございます！\n以下のクリア報酬をプレゼントいたします。\n受け取りボックスをご確認ください。",
+		"jp_text": "Season2　5章クリアおめでとうございます！\n以下のクリア報酬をプレゼントいたしました。\n受け取りボックスをご確認ください。",
 		"tr_text": ""
 	},
 	{
@@ -17966,7 +18321,17 @@
 	},
 	{
 		"assign": "quest_clear_reward_dialog_body_6142005",
-		"jp_text": "Season2　「糸が切られた」クリアおめでとうございます！\n以下のクリア報酬をプレゼントいたします。\n受け取りボックスをご確認ください。",
+		"jp_text": "Season2　「糸が切られた」クリアおめでとうございます！\n以下のクリア報酬をプレゼントいたしました。\n受け取りボックスをご確認ください。",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_clear_reward_dialog_title_6202004",
+		"jp_text": "ストーリークエスト Season3　1章2-4",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_clear_reward_dialog_body_6202004",
+		"jp_text": "Season3　1章2-4「決意」クリアおめでとうございます！\n以下のクリア報酬をプレゼントいたしました。\n受け取りボックスをご確認ください。",
 		"tr_text": ""
 	},
 	{
@@ -18087,7 +18452,7 @@
 	{
 		"assign": "acceptbox_window_sale_tab_title",
 		"jp_text": "売却",
-		"tr_text": "Sell"
+		"tr_text": ""
 	},
 	{
 		"assign": "acceptbox_no_sale_item",
@@ -18156,13 +18521,18 @@
 	},
 	{
 		"assign": "leisure_has_coin",
-		"jp_text": "<color=#FFFFFF>所持LC</color><color=#68a0a7>/</color>",
-		"tr_text": "<color=#FFFFFF>Owned LC</color><color=#68a0a7>/</color>"
+		"jp_text": "　<color=#FFFFFF>所持LC</color><color=#68a0a7>/</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "leisure_times",
 		"jp_text": "回",
 		"tr_text": "x"
+	},
+	{
+		"assign": "leisure_goto_lobby",
+		"jp_text": "ロビーへ",
+		"tr_text": ""
 	},
 	{
 		"assign": "photondice_title",
@@ -18535,6 +18905,11 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "equip_apply_lobby",
+		"jp_text": "ロビーへ",
+		"tr_text": ""
+	},
+	{
 		"assign": "quest_linkskill_window_title",
 		"jp_text": "出発確認",
 		"tr_text": "Confirm Depart"
@@ -18801,8 +19176,8 @@
 	},
 	{
 		"assign": "EternalTop_Clear_name",
-		"jp_text": "クリア",
-		"tr_text": "Clear"
+		"jp_text": "ブロッククリア",
+		"tr_text": ""
 	},
 	{
 		"assign": "EternalTop_SilverTime_name",
@@ -19457,7 +19832,7 @@
 	{
 		"assign": "darkerblast_pso2_menu_button",
 		"jp_text": "ダークブラスト訓練",
-		"tr_text": "Train Dark Blast"
+		"tr_text": ""
 	},
 	{
 		"assign": "darkerblast_no_info_title",
@@ -19537,6 +19912,11 @@
 	{
 		"assign": "darkerblast_exp_over_body",
 		"jp_text": "ダークブラストＥＸＰが\n与えられる上限の999,999,999です。\nこれ以上チップを与えることができません。",
+		"tr_text": ""
+	},
+	{
+		"assign": "darkerblast_give_num_format",
+		"jp_text": "× {0}",
 		"tr_text": ""
 	},
 	{
@@ -19642,7 +20022,7 @@
 	{
 		"assign": "stack_chip_window_return",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": ""
 	},
 	{
 		"assign": "stack_chip_window_addition",
@@ -19697,7 +20077,7 @@
 	{
 		"assign": "btl_optioncommon_title",
 		"jp_text": "オプション",
-		"tr_text": "Option"
+		"tr_text": ""
 	},
 	{
 		"assign": "optioncommon_monitorset_btn",
@@ -19833,5 +20213,25 @@
 		"assign": "quest_counter_quest_name_unopened",
 		"jp_text": "？？？",
 		"tr_text": "???"
+	},
+	{
+		"assign": "dailyorder_goto_lobby",
+		"jp_text": "ロビーへ",
+		"tr_text": "To Lobby"
+	},
+	{
+		"assign": "dailyorder_guide_00",
+		"jp_text": "<color=#f0df60>esオーダーをクリアすることで報酬を獲得できます。</color>",
+		"tr_text": "<color=#f0df60>Earn rewards by clearing PSO2es Daily Orders.</color>"
+	},
+	{
+		"assign": "dailyorder_no_item",
+		"jp_text": "現在達成できるesオーダーはありません。",
+		"tr_text": "No PSO2es Orders currently available."
+	},
+	{
+		"assign": "window_help_LM30",
+		"jp_text": "wh_44_01,\nデイリー及びウィークリーのesオーダーをクリアすることで報酬がもらえます。\n報酬はesオーダーの達成時に、自動的に「受け取りボックス」に送られます。",
+		"tr_text": ""
 	}
 ]
