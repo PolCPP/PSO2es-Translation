@@ -348,7 +348,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "……なんてこった。<%br>喋るリリーパ族なんて聞いたことがないぞ？",
-		"tr_text": "...What in the world. I've never heard of a Lillipan that can talk",
+		"tr_text": "What in the world...<%br>I've never heard of a Lillipan that can talk.",
 		"fileID": 1
 	},
 	{
@@ -356,7 +356,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "きっとわたしの願いが通じて<%br>リリーパ族さんとお話ができるように……！！",
-		"tr_text": "It must be a result of my wish being answered... to be able to speak with Lillipans!!",
+		"tr_text": "I've always wanted to be able to talk to Lillipans...<%br>My wish must have been granted!!",
 		"fileID": 1
 	},
 	{
@@ -364,7 +364,7 @@
 		"jp_name": "リーン",
 		"tr_name": "Lien",
 		"jp_text": "まぁまぁ、落ち着いて。驚くのも無理ないけど<%br>ボクの話を聞いてくれるかい？",
-		"tr_text": "Hey now, take it easy. Though I do understand your surprise. Can you hear me out?",
+		"tr_text": "Hey now, take it easy. I understand you're<%br>surprised, but can you hear me out?",
 		"fileID": 1
 	},
 	{
@@ -380,7 +380,7 @@
 		"jp_name": "リーン",
 		"tr_name": "Lien",
 		"jp_text": "うん、説明したいのはやまやまだけど<%br>今はそれどころじゃないんだ。大変なんだよ！",
-		"tr_text": "Right, I'd love to explain, but it's not the time for that right now. There's a situation!",
+		"tr_text": "Right, I'd love to explain, but not right now.<%br>I've got a situation to deal with!",
 		"fileID": 1
 	},
 	{
@@ -388,7 +388,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "大変って……<%br>何かあったんです？",
-		"tr_text": "A situation... did something happen?",
+		"tr_text": "A situation... What happened?",
 		"fileID": 1
 	},
 	{
@@ -396,7 +396,7 @@
 		"jp_name": "リーン",
 		"tr_name": "Lien",
 		"jp_text": "お！　やっと聞いてくれるんだね！<%br>実は助けてほしいことがあるんだよっ！",
-		"tr_text": "Oh! You're ready to listen! I really need your help with this!",
+		"tr_text": "Oh! You're ready to listen!<%br>I really need your help with this!",
 		"fileID": 1
 	},
 	{
@@ -404,7 +404,7 @@
 		"jp_name": "リーン",
 		"tr_name": "Lien",
 		"jp_text": "なにせ……<%br>世界の存亡がかかってるんだからっ！",
-		"tr_text": "Because... the fate of the world depends on it!",
+		"tr_text": "You see...<%br>The fate of the world depends on it!",
 		"fileID": 1
 	},
 	{
@@ -412,7 +412,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "世界の存亡とは随分と大風呂敷を広げたな。<%br>さっきのダーカーも含め、何が起きてるんだ？",
-		"tr_text": "Fate of the world, huh. You sure talk big. That Darker we encountered too... what's happening?",
+		"tr_text": "Fate of the world, huh. You make it sound so serious.<%br>Something to do with those Darkers from before?",
 		"fileID": 1
 	},
 	{
@@ -428,7 +428,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "よくわかんないけど、リーダーなら<%br>なんとかしてくれるってば！",
-		"tr_text": "I don't really get it, but I'm sure Leader can do something about it!",
+		"tr_text": "I don't really get it, but I'm sure<%br>Leader can do something about it!",
 		"fileID": 1
 	},
 	{
@@ -436,7 +436,7 @@
 		"jp_name": "リーン",
 		"tr_name": "Lien",
 		"jp_text": "だったら、その腕を見込んでお願いするよ！<%br>大切な友だちがダーカー兵器に襲われてるんだ！",
-		"tr_text": "I'll trust your strength with this request! My friend is being attacked by Darker Weapons!",
+		"tr_text": "OK, then I'll put my trust in you!<%br>My friend is being attacked by Darker Weapons!",
 		"fileID": 1
 	},
 	{
@@ -444,7 +444,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "ダーカー兵器って……さっきの！？<%br>リーダー、助けに行きましょう！",
-		"tr_text": "Darker Weapons... like the one before!? Leader, let's go help!",
+		"tr_text": "Darker Weapons... like the one from before?!<%br>Leader, let's go and help!",
 		"fileID": 1
 	},
 	{
@@ -452,14 +452,14 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "ダーカー兵器って……さっきの！？<%br>リーダー、助けに行きましょう！",
-		"tr_text": "Darker Weapons... like the one before!? Leader, let's go help!",
+		"tr_text": "Darker Weapons... like the one from before?!<%br>Leader, let's go and help!",
 		"jp_buttons": [
 			"急いで助けにいこう。",
 			"まずはセラフィさんに報告をしないと"
 		],
 		"tr_buttons": [
-			"Let's hurry",
-			"Contact Seraphy first"
+			"Let's hurry.",
+			"Let's contact Seraphy first."
 		],
 		"fileID": 1
 	},
@@ -468,7 +468,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "まぁ、いきなりは信じられないけど<%br>情報が少ない以上、動くしかないか……",
-		"tr_text": "Well, it's hard to believe this stuff off hand. But since we don't have much information, I guess we should get moving...",
+		"tr_text": "Well, it's a lot to take in. But since we don't have<%br>much information, I guess we should get moving...",
 		"fileID": 1
 	},
 	{
@@ -476,7 +476,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "……それが、さっきから呼び出してるんだけど<%br>通信障害が起きてるのか繋がらないの。",
-		"tr_text": "...I've been trying to contact Seraphy, but I haven't been able to connect",
+		"tr_text": "...I've been trying to contact Seraphy,<%br>but I haven't been able to connect.",
 		"fileID": 1
 	},
 	{
@@ -484,7 +484,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "だったら、事後報告もやむなしだな。<%br>まずは、大切な友だちとやらを助けに行くぞ。",
-		"tr_text": "In that case, there's no choice but to report after the fact. Let's go help that friend.",
+		"tr_text": "In that case, we'll just have to report in<%br>afterwards. Let's go help that friend.",
 		"fileID": 1
 	},
 	{
@@ -516,7 +516,7 @@
 		"jp_name": "リーン",
 		"tr_name": "Lien",
 		"jp_text": "……よかった、間に合った！<%br>アフタル、助けにきたよ！",
-		"tr_text": "...Thank goodness, we made it in time! Akhtar, we've come to save you!",
+		"tr_text": "...Thank goodness, we made it in time!<%br>Akhtar, we've come to save you!",
 		"fileID": 1
 	},
 	{
@@ -524,7 +524,7 @@
 		"jp_name": "アフタル",
 		"tr_name": "Akhtar",
 		"jp_text": "リーン！？　リーン、無事だったの！<%br>勝手にどっか行っちゃうから心配したんだよ！",
-		"tr_text": "Lien!? Lien, you're okay! I was so worried about you when you ran off!",
+		"tr_text": "Lien?! Lien, you're okay!<%br>I was so worried about you when you ran off!",
 		"fileID": 1
 	},
 	{
@@ -532,7 +532,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "大丈夫か！？<%br>オレたちがきたから、もう大丈夫だぞっ！！",
-		"tr_text": "Are you okay!? We're here, so it'll be okay!!",
+		"tr_text": "Are you okay?!<%br>We're here, so it'll be okay!!",
 		"fileID": 1
 	},
 	{
@@ -540,7 +540,7 @@
 		"jp_name": "アフタル",
 		"tr_name": "Akhtar",
 		"jp_text": "え！？　誰！？<%br>なんでこの星にヒトがいるの！？",
-		"tr_text": "Huh!? Who!? Why are there people on this planet!?",
+		"tr_text": "Huh?! Who's that?!<%br>Why are there people on this planet?!",
 		"fileID": 1
 	},
 	{
@@ -548,7 +548,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "なに言ってんのか、わかんないけど……<%br>オレたちにまかせろってば！",
-		"tr_text": "I don't get what you're saying... but leave this to us!",
+		"tr_text": "I dunno what that's supposed to mean, but...<%br>Just leave this to us!",
 		"fileID": 1
 	},
 	{
