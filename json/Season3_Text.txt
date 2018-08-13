@@ -2052,7 +2052,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "もう、どこまで行ったの……<%br>ひとりで先行するなんて無謀よ、モア。",
-		"tr_text": "How far did he go... you're being so reckless going ahead on your own, More.",
+		"tr_text": "How far did he go... <%br>You can't just rush off ahead like this, More.",
 		"fileID": 1
 	},
 	{
@@ -2060,7 +2060,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "みんなぁぁぁっ！　こっち！　こっち！<%br>はやくこっちに来てくれってばぁぁぁっ！",
-		"tr_text": "Heeey! Over here! Over here! Hurry up and get over here!",
+		"tr_text": "Heeey! Over here! Over here!<%br>Hurry up and get over here!",
 		"fileID": 1
 	},
 	{
@@ -2068,7 +2068,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "おチビか！？　どうした！",
-		"tr_text": "Kiddo?! What's up!",
+		"tr_text": "Kiddo?! What's up?",
 		"fileID": 1
 	},
 	{
@@ -2084,7 +2084,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "あれは……ウェポノイドの部隊？<%br>ダーカー兵器と戦闘をしているの……？",
-		"tr_text": "That's... a weaponoid unit? They're battling Darker Weapons...?",
+		"tr_text": "That's... a Weaponoid unit?<%br>Are they battling Darker Weapons...?",
 		"fileID": 1
 	},
 	{
@@ -2100,7 +2100,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "お前……シュトラか！<%br>だいぶやられてるぞ……何があった！？",
-		"tr_text": "You're... Stra! You're pretty beaten up... what happened?!",
+		"tr_text": "That's... Stra!<%br>You're pretty beaten up... what happened?!",
 		"fileID": 1
 	},
 	{
@@ -2108,7 +2108,7 @@
 		"jp_name": "シュトラ",
 		"tr_name": "Stra",
 		"jp_text": "……り、リーダー……助かった。<%br>みんなを助けてやって……くれ……",
-		"tr_text": "...L-leader... thank goodness. Please help... the others...",
+		"tr_text": "...L-leader... thank goodness.<%br>Please... help the others...",
 		"fileID": 1
 	},
 	{
@@ -2116,7 +2116,7 @@
 		"jp_name": "カラミティ",
 		"tr_name": "Calamity",
 		"jp_text": "ぼ……ボクたちも派遣されたんだが……<%br>ダメだ！　もう戦力が残っていない！！",
-		"tr_text": "W... we were dispatched as well... but it's no good! We're out of strength!!",
+		"tr_text": "W... we were dispatched as well...<%br>But it's no good! We're out of strength!!",
 		"fileID": 1
 	},
 	{
@@ -2124,14 +2124,14 @@
 		"jp_name": "カラミティ",
 		"tr_name": "Calamity",
 		"jp_text": "ぼ……ボクたちも派遣されたんだが……<%br>ダメだ！　もう戦力が残っていない！！",
-		"tr_text": "W... we were dispatched as well... but it's no good! We're out of strength!!",
+		"tr_text": "W... we were dispatched as well...<%br>But it's no good! We're out of strength!!",
 		"jp_buttons": [
 			"加勢する！",
 			"これ以上仲間を傷つけさせない！"
 		],
 		"tr_buttons": [
 			"We'll back you up!",
-			"I won't let you hurt any more of our allies!"
+			"I won't let anyone else get hurt!"
 		],
 		"fileID": 1
 	},
@@ -2140,7 +2140,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "オレたちで、みんなを守らないと！<%br>いくぞ！　リーダー！！",
-		"tr_text": "We better protect everyone! Here we go! Leader!!",
+		"tr_text": "We've gotta protect everyone!<%br>Here we go! Leader!!",
 		"fileID": 1
 	},
 	{
@@ -2148,7 +2148,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "傷ついている方は、下がってください！<%br>わたし達が前に出ます！",
-		"tr_text": "Everyone wounded, please move to the back. We'll go to the front!",
+		"tr_text": "If you're hurt, please get to safety!<%br>We'll take the front line!",
 		"fileID": 1
 	},
 	{
@@ -2156,7 +2156,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "どちらにせよ、こいつらを倒さないことには<%br>あとを追えないからな。とっとと片づけるぞ！",
-		"tr_text": "Either way, we can't chase her without going through these things, so let's get on with it!",
+		"tr_text": "We'll have to go through these things one<%br>way or another, so let's get on with it!",
 		"fileID": 1
 	},
 	{
