@@ -2316,7 +2316,7 @@
 		"jp_name": "リーン",
 		"tr_name": "Lien",
 		"jp_text": "リーン！　転送装置までの道は案内するよ！<%br>ほら、早く早く！　こっちだよ！",
-		"tr_text": "Lii~! I'll show you the way to the teleporter!<%br>Come on, hurry! This way!",
+		"tr_text": "Lii~! We'll show you the way to the teleporter!<%br>Come on, hurry! This way!",
 		"fileID": 1
 	},
 	{
@@ -2340,7 +2340,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "これはまた……すごく古い転送装置だな。<%br>地下坑道の奥にこんな部屋があったとはね……",
-		"tr_text": "This is a pretty ancient teleporter. To think there was a room like this in the Subterranean Tunnels...",
+		"tr_text": "This is a pretty old teleporter. Who'd have thought<%br>there was a room like this down in the Tunnels...",
 		"fileID": 1
 	},
 	{
@@ -2348,7 +2348,7 @@
 		"jp_name": "リーン",
 		"tr_name": "Lien",
 		"jp_text": "リーン！　リリーン！　まずいよ、まずいよ！<%br>もう転送用のエネルギーが溜まってるよ！",
-		"tr_text": "Li~n! Lilli~n! This isn't good, this is bad! The teleporter is already at full power!",
+		"tr_text": "Lii~! Lillii~! This isn't good, this is bad! The teleporter is already at full power!",
 		"fileID": 1
 	},
 	{
@@ -2356,7 +2356,7 @@
 		"jp_name": "ホルシード",
 		"tr_name": "Khorshid",
 		"jp_text": "……ここまで来られたのか。<%br>なるほど、これがアークスか。侮れぬな。",
-		"tr_text": "You made it here. I see... so this is ARKS. Formidable.",
+		"tr_text": "...You took your time getting here.<%br>Is this the best ARKS can do? Pathetic.",
 		"fileID": 1
 	},
 	{
@@ -2372,7 +2372,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "あっ！？　モア、待って！<%br>転送装置の背後から熱源反応が……",
-		"tr_text": "Ah?! More, wait! There's a heat reading coming from behind the teleporter...",
+		"tr_text": "Ah?! More, wait! I'm detecting a<%br>heat source behind the teleporter...",
 		"fileID": 1
 	},
 	{
@@ -2412,7 +2412,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "ひええええ……あ、あぶなかったぁ……！<%br>ま、待ち伏せなんて、卑怯だぞ！",
-		"tr_text": "Whooe... T-that was dangerous! Hey, it's not fair to ambush!",
+		"tr_text": "Whooe... T-that was dangerous!<%br>Hey, ambushes are cheating!!",
 		"fileID": 1
 	},
 	{
@@ -2420,7 +2420,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "落ち着いて、モア。<%br>油断できない相手だって言っていたでしょ。",
-		"tr_text": "Calm down, More. I told you we can't underestimate her.",
+		"tr_text": "Calm down, More.<%br>I told you we can't underestimate her.",
 		"fileID": 1
 	},
 	{
@@ -2428,7 +2428,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "シュトラたちの仇を取りたい気持ちはわかる。<%br>でもな、突っ込んで勝てる相手じゃないぜ？",
-		"tr_text": "I get that you want to avenge for Stra and the others. But you can't win this one by running in ahead, you know?",
+		"tr_text": "I get that you want to avenge Stra and the others.<%br>But you can't win by running in ahead, you know?",
 		"fileID": 1
 	},
 	{
@@ -2436,7 +2436,7 @@
 		"jp_name": "リーン",
 		"tr_name": "Lien",
 		"jp_text": "リリーン！　門番だよ、ゲートキーパーだ！<%br>ホルシードが星に戻る時間を稼ぐ気だ！",
-		"tr_text": "Lilli~n! It's a gate keeper! It's trying to buy time so that Khorshid can leave!",
+		"tr_text": "Lillii~! It's a gate keeper!<%br>It's trying to buy time so that Khorshid can leave!",
 		"fileID": 1
 	},
 	{
@@ -2444,7 +2444,7 @@
 		"jp_name": "リーン",
 		"tr_name": "Lien",
 		"jp_text": "転送されたら、ヴィーナーの本拠地まで<%br>追いかけなきゃならなくなっちゃうよ！",
-		"tr_text": "If she teleports, we'll have to track down the Viener headquarters!",
+		"tr_text": "If she teleports, we'll have to chase her<%br>all the way to Viener headquarters!",
 		"fileID": 1
 	},
 	{
@@ -2452,14 +2452,14 @@
 		"jp_name": "リーン",
 		"tr_name": "Lien",
 		"jp_text": "転送されたら、ヴィーナーの本拠地まで<%br>追いかけなきゃならなくなっちゃうよ！",
-		"tr_text": "If she teleports, we'll have to track down the Viener headquarters!",
+		"tr_text": "If she teleports, we'll have to chase her<%br>all the way to Viener headquarters!",
 		"jp_buttons": [
 			"転送される前に止める！",
 			"一気に倒そう！"
 		],
 		"tr_buttons": [
-			"Stop it before it teleports!",
-			"Defeat them all at once!"
+			"Stop her before she teleports!",
+			"Let's take it out now!"
 		],
 		"fileID": 1
 	},
@@ -2468,7 +2468,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "はい！　ダークファルスの復活なんて<%br>絶対にさせませんっ！",
-		"tr_text": "Yes! We absolutely won't let Dark Falz be revived!",
+		"tr_text": "Yes! We won't ever let Dark Falz be resurrected!",
 		"fileID": 1
 	},
 	{
@@ -2476,7 +2476,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "おうっ！　びっくりさせられたうらみ<%br>思いしらせてやるってば！",
-		"tr_text": "Yeah! You're going to get it for that surprise earlier!",
+		"tr_text": "Yeah! I'll get you back for surprising me!",
 		"fileID": 1
 	},
 	{
