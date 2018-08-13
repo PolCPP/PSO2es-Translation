@@ -2948,7 +2948,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "な、なんとか倒せたぁ！<%br>なんだ、さっきの機甲種……はじめて見た！",
-		"tr_text": "Whew, we managed to beat it! What was that mech... first time I've seen anything like it!",
+		"tr_text": "Whew, we managed to beat it! What was<%br>that Mech... I've never seen anything like it!",
 		"fileID": 1
 	},
 	{
@@ -2956,7 +2956,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "転送装置は……！？",
-		"tr_text": "The teleporter...?!",
+		"tr_text": "What about the teleporter...?!",
 		"fileID": 1
 	},
 	{
@@ -2964,7 +2964,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "解析中だ！<%br>本部とリンクできりゃ簡単なんだが……",
-		"tr_text": "We're analyzing it! It'll be easy if we can link it to HQ...",
+		"tr_text": "Scanning it!<%br>Should be easy to link this to HQ...",
 		"fileID": 1
 	},
 	{
@@ -2972,7 +2972,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "ま……待ってください。あの、転送装置……<%br>どうしてカウントダウンしてるんです？",
-		"tr_text": "Um... wait. That teleporter... why is it counting down?",
+		"tr_text": "Um... wait. That teleporter...<%br>Why is it counting down?",
 		"fileID": 1
 	},
 	{
@@ -2980,7 +2980,7 @@
 		"jp_name": "リーン",
 		"tr_name": "Lien",
 		"jp_text": "……まさか、ホルシード！？　リリーン！！<%br>みんな、すぐに部屋を出て！　早く！！",
-		"tr_text": "...no, Khorshid?! Lilli~n!! Everyone, leave the room immediately! Quick!",
+		"tr_text": "...No, Khorshid?! Lillii~!!<%br>Everyone, get out of the room now! Quickly!",
 		"fileID": 1
 	},
 	{
@@ -2988,14 +2988,14 @@
 		"jp_name": "リーン",
 		"tr_name": "Lien",
 		"jp_text": "……まさか、ホルシード！？　リリーン！！<%br>みんな、すぐに部屋を出て！　早く！！",
-		"tr_text": "...no, Khorshid?! Lilli~n!! Everyone, leave the room immediately! Quick!",
+		"tr_text": "...No, Khorshid?! Lillii~!!<%br>Everyone, get out of the room now! Quickly!",
 		"jp_buttons": [
 			"嫌な予感がする！",
 			"総員、脱出！"
 		],
 		"tr_buttons": [
-			"I have a bad feeling about this!",
-			"Everyone, escape!"
+			"I've got a bad feeling about this!",
+			"Everyone out!"
 		],
 		"fileID": 1
 	},
@@ -3004,7 +3004,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "ちっ……せめて情報だけでも……<%br>って、ダメか！　逃げるぞ！！",
-		"tr_text": "Crud... if we can at least get some info... shoot, no time for that! Let's run!",
+		"tr_text": "Damn... if we can at least get some info...<%br>Shoot, no time for that! Run!",
 		"fileID": 1
 	},
 	{
@@ -3036,7 +3036,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "う、うわぁぁぁぁぁっ！？<%br>転送装置のあった部屋が……ば、爆発した！？",
-		"tr_text": "WhoaahH?! The room with the teleporter... e-exploded?!",
+		"tr_text": "W-whoaahh?!<%br>The teleporter room... e-exploded?!",
 		"fileID": 1
 	},
 	{
@@ -3044,7 +3044,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "……転送装置のエネルギーを暴走させて<%br>自爆させたっていうの！？",
-		"tr_text": "...They overflowed the teleporter with power to make it self-destruct?!",
+		"tr_text": "...They overflowed the teleporter with<%br>power to make it self-destruct?!",
 		"fileID": 1
 	},
 	{
@@ -3052,7 +3052,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "追跡を阻害するって意味じゃ<%br>上手い方法だけど……無茶しやがんなぁ。",
-		"tr_text": "Great way to obstruct pursuers... but a bit over the top.",
+		"tr_text": "Great way to stop anyone following you...<%br>If a little over the top.",
 		"fileID": 1
 	},
 	{
@@ -3068,7 +3068,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "……あ、あの、リーダー。<%br>わたし達はこれから……どうすれば……",
-		"tr_text": "...Um, Leader. What should we do from this point?",
+		"tr_text": "...Um, Leader. What should we do now?",
 		"fileID": 1
 	},
 	{
@@ -3076,14 +3076,14 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "……あ、あの、リーダー。<%br>わたし達はこれから……どうすれば……",
-		"tr_text": "...Um, Leader. What should we do from this point?",
+		"tr_text": "...Um, Leader. What should we do now?",
 		"jp_buttons": [
 			"アークスシップに戻ろう。",
 			"転送装置のあった部屋を調べよう。"
 		],
 		"tr_buttons": [
-			"Return to the ARKS ship",
-			"Check that room again"
+			"Let's return to the ARKS ship.",
+			"Let's check that room again."
 		],
 		"fileID": 1
 	},
@@ -3092,7 +3092,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "ええ、それがいいわね。<%br>みんなも疲れきっているようだし……",
-		"tr_text": "Yes, I think that would be best. Everyone looks exhausted...",
+		"tr_text": "Yes, I think that would be best.<%br>Everyone looks exhausted...",
 		"fileID": 1
 	},
 	{
@@ -3100,7 +3100,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "……そりゃ無理だ。あれだけのタマだ。<%br>手掛かりを残すようなヘマをするわけない。",
-		"tr_text": "...Nah, there's nothing left. They're not the type to leave clues after performing a stunt like that.",
+		"tr_text": "...Nah, there's nothing left.<%br>A stunt like that won't leave any clues behind.",
 		"fileID": 1
 	},
 	{
@@ -3108,7 +3108,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "一度、アークスシップに戻って<%br>現状の整理をしたほうがいいかもね。",
-		"tr_text": "It might be better to return to the ship to reexamine the situation.",
+		"tr_text": "I say we go back to the ship and<%br>go over everything we know.",
 		"fileID": 1
 	},
 	{
@@ -3124,7 +3124,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "おチビもこう言ってるし……<%br>落ち着いたところで、聞きたいこともあるしさ。",
-		"tr_text": "Kiddo is saying that too... We'd also like to ask some questions in a calmer place.",
+		"tr_text": "Sounds like kiddo agrees... And I'd like to ask a few<%br>questions somewhere we won't get interrupted.",
 		"fileID": 1
 	},
 	{
@@ -3132,7 +3132,7 @@
 		"jp_name": "アフタル",
 		"tr_name": "Akhtar",
 		"jp_text": "……はい、そうですね。<%br>わたしも説明したいことがあります。",
-		"tr_text": "...Yes, I agree. I'd like to offer some explanations as well.",
+		"tr_text": "...Yes, I agree.<%br>I'd like to offer some explanations as well.",
 		"fileID": 1
 	},
 	{
@@ -3140,7 +3140,7 @@
 		"jp_name": "リーン",
 		"tr_name": "Lien",
 		"jp_text": "大丈夫、アフタル？<%br>こんな場所だと、キミの身体は……",
-		"tr_text": "Are you okay, Akhtar? When you're in these types of locations, your body...",
+		"tr_text": "Are you really okay with that, Akhtar?<%br>You know the effect places like that have on you...",
 		"fileID": 1
 	},
 	{
@@ -3148,7 +3148,7 @@
 		"jp_name": "アフタル",
 		"tr_name": "Akhtar",
 		"jp_text": "ありがとう、リーン。<%br>わたしなら大丈夫……",
-		"tr_text": "Thanks, Lien. I'm okay...",
+		"tr_text": "Don't worry, Lien. It's fine...",
 		"fileID": 1
 	},
 	{
@@ -3156,7 +3156,7 @@
 		"jp_name": "アフタル",
 		"tr_name": "Akhtar",
 		"jp_text": "ホルシードを止めるためには……<%br>きっと必要なことだから……",
-		"tr_text": "Because it needs to be done... in order to stop Khorshid...",
+		"tr_text": "It has to be done... if we want to stop Khorshid...",
 		"fileID": 1
 	},
 	{
