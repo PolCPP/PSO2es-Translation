@@ -5132,12 +5132,12 @@
 	{
 		"assign": "quest_counter_unarmed_t",
 		"jp_text": "装備確認",
-		"tr_text": "Equip"
+		"tr_text": "Equipment Check"
 	},
 	{
 		"assign": "quest_counter_unarmed_b",
 		"jp_text": "現在、武器を装備しておりません。\nこのまま出発しますか？\n\n武器を装備する場合は、「いいえ」選択後に\n画面右下の「装備」をタッチしてください。",
-		"tr_text": ""
+		"tr_text": "You do not have a weapon equipped.\nAre you sure this is correct?\nIf you want to equip a weapon, select\n\"いいえ\" and then touch \"Equipment\"\nat the bottom of the screen."
 	},
 	{
 		"assign": "questcounter_shortage_drive_b",
@@ -9352,7 +9352,7 @@
 	{
 		"assign": "menu_main_button_recycle",
 		"jp_text": "交換ショップ",
-		"tr_text": "Recycle Shop"
+		"tr_text": "Exchange Shop"
 	},
 	{
 		"assign": "menu_main_button_ac_shop",
@@ -11717,7 +11717,7 @@
 	{
 		"assign": "wh_26_00",
 		"jp_text": "<color=black>あの……\n<%CHARANAME>さんに\n折り入ってご相談があります……\n私の部屋へお越しいただいても\nよろしいでしょうか？</color>",
-		"tr_text": "<color=black>あの……\n<%CHARANAME>さんに\n折り入ってご相談があります……\n私の部屋へお越しいただいても\nよろしいでしょうか？</color>"
+		"tr_text": "<color=black>That...\n<%CHARANAME>, there's something\nI need to talk to you about...\nCould you please\ncome to my room?</color>"
 	},
 	{
 		"assign": "wh_27_00",
@@ -11962,22 +11962,22 @@
 	{
 		"assign": "ef_0004_n03_b",
 		"jp_text": "<color=black>そこで発見されたメッセージパックには\n砂漠エリアの生物の観察記録とともに\n「実験を開始する」という内容の文章が\n残されていたそうです。</color>",
-		"tr_text": "<color=black>The message pack,\nobservation data logs recorded info\nabout the planet's organisms,\nand a message, \"Let's start the experiement.\"</color>"
+		"tr_text": "<color=black>The message pack,\nobservation data logs recorded info\nabout the planet's organisms,\nand a message, \"Let's start the experiment.\"</color>"
 	},
 	{
 		"assign": "ef_0004_n04_b",
 		"jp_text": "<color=black>実験……何を意味しているのでしょうか。</color>",
-		"tr_text": "<color=black>I wonder what they meant by \"Experiement,\" hmm...</color>"
+		"tr_text": "<color=black>I wonder what they meant by \"Experiment,\" hmm...</color>"
 	},
 	{
 		"assign": "ef_0004_n05_b",
 		"jp_text": "<color=black>それはともかく、リリーパの砂漠エリアの\n探索許可がおりました。\n砂漠エリアには「機甲種」と呼ばれる\nこの惑星でかつて栄えた古い文明の\n防衛兵器が出現します。</color>",
-		"tr_text": "<color=black>Anyways, permission granted to\ngo to Lillipa.\nAn ancient civiliation once dwelled there.\nNow their creations, the\n\"Armored Machines\" act as defense systems.</color>"
+		"tr_text": "<color=black>Anyways, permission granted to\ngo to Lillipa.\nAn ancient civiliation once dwelled there.\nNow their creations, the\n\"Mechs\", act as defense systems.</color>"
 	},
 	{
 		"assign": "ef_0004_n06_b",
 		"jp_text": "<color=black>「機甲種」は「雷」属性が弱点となっています。\nただし、砂漠エリアではダーカーの出現頻度も\n高くなっていますので、その点も踏まえて\nチップ装備を整えてください。\nそれでは、健闘を祈っています！</color>",
-		"tr_text": "<color=black>These Machines are weak to Lightning.\nHowever, there's reported sightings of Darkers.\nPlease equip yourself appropriately.\nGood Luck!</color>"
+		"tr_text": "<color=black>These Mechs are weak to Lightning.\nHowever, there's reported sightings of Darkers.\nPlease equip yourself appropriately.\nGood Luck!</color>"
 	},
 	{
 		"assign": "es_0001_n00_b",
@@ -18577,7 +18577,7 @@
 	{
 		"assign": "photondice_sheet",
 		"jp_text": "枚",
-		"tr_text": "\n\t"
+		"tr_text": ""
 	},
 	{
 		"assign": "photondice_acquisition",
@@ -18592,7 +18592,7 @@
 	{
 		"assign": "photondice_dialog_b_01",
 		"jp_text": "プレイ回数を消費し、対戦を開始します。\nよろしいですか？",
-		"tr_text": ""
+		"tr_text": "Starting a battle will cost 1 available Play.\nContinue?"
 	},
 	{
 		"assign": "photondice_dialog_b_02",
@@ -18602,12 +18602,12 @@
 	{
 		"assign": "photondice_special_dialog_t_01",
 		"jp_text": "スペシャルプレイチケット消費確認",
-		"tr_text": ""
+		"tr_text": "Special Ticket Usage Confirmation"
 	},
 	{
 		"assign": "photondice_special_dialog_b_01",
 		"jp_text": "プレイ回数が足りません。\nスペシャルプレイチケットを消費して\n対戦を開始します。よろしいですか？",
-		"tr_text": ""
+		"tr_text": "You have no Plays available.\nYou can start a battle by\nconsuming one Special Ticket.\nContinue?"
 	},
 	{
 		"assign": "photondice_special_dialog_b_02",
@@ -18617,7 +18617,7 @@
 	{
 		"assign": "photondice_has_not_dialog_t_01",
 		"jp_text": "プレイ回数不足",
-		"tr_text": "Lack of Plays"
+		"tr_text": "Out of Plays"
 	},
 	{
 		"assign": "photondice_has_not_dialog_b_01",
@@ -18637,12 +18637,12 @@
 	{
 		"assign": "photondice_doubleup_dialog_b_01",
 		"jp_text": "獲得LCを賭けてダブルアップに挑戦しますか？",
-		"tr_text": ""
+		"tr_text": "Do you want to try and double your LC?"
 	},
 	{
 		"assign": "photondice_doubleup_dialog_b_02",
 		"jp_text": "ダブルアップ時はプレイ回数を消費しません。\nダブルアップ対戦で敗北すると、獲得LCを失います。",
-		"tr_text": ""
+		"tr_text": "Double Up does not consume a Play.\nIf you lose the Double Up battle, you lose all LC."
 	},
 	{
 		"assign": "photondice_doubleup_dialog_b_03",
@@ -18657,7 +18657,7 @@
 	{
 		"assign": "photondice_payback_dialog_b_01",
 		"jp_text": "獲得LCを取得しフォトンダイスを終了します。\n次回の対戦ではプレイ回数を消費し、\n最初からスタートとなります。",
-		"tr_text": ""
+		"tr_text": "Collecting LC and quitting Photon Dice.\nYour next battle will consume a Play,\nand will start from the beginning."
 	},
 	{
 		"assign": "photondice_payback_dialog_b_02",
@@ -18782,11 +18782,11 @@
 	{
 		"assign": "leisure_guid_msg",
 		"jp_text": "<color=#f0df60>レジャールームでは、フォトンダイスをプレイしてLC（レジャーコイン）を獲得することができます。集めたLCは、交換ショップで景品に交換できます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>In the Leisure Room, you can earn LC (Leisure Coins) by playing Photon Dice. The LC you earn can be exchanged for prizes at the Exchange Shop.</color>"
 	},
 	{
 		"assign": "photondice_guid_msg",
-		"jp_text": "<color=#f0df60>フォトンダイスは、対戦相手と互いにサイコロを振って、合計数が高い方が勝利します。２つの目が揃うダブル、３つの目が順番に並ぶストレートは報酬アップ！　３つ目が揃うフィーバーは合計数関係無しに勝利できます。(相手もフィーバーの場合は、サイコロの目が大きい方が勝利します)</color>",
+		"jp_text": "<color=#f0df60>In Photon Dice, you and your opponent roll the dice, and the one with the higher total wins. If you roll a double with two dice or a straight with three dice, your LC rewards will increase! If all three dice match, you get a Fever, and will automatically win even if your total is lower. (If both players get a Fever, the one with the higher number wins.)</color>",
 		"tr_text": ""
 	},
 	{
@@ -18852,7 +18852,7 @@
 	{
 		"assign": "equip_guide_16",
 		"jp_text": "<color=#f0df60>リンクスロットをタッチすると、リンクチップの装備・変更を行うことができます。チップアイコンを長押しすると、詳細情報を確認できます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Touch the link slots to equip and remove link chips. Long press the chip icons to view more details on them.</color>"
 	},
 	{
 		"assign": "equip_guide_17",
@@ -18877,32 +18877,32 @@
 	{
 		"assign": "equip_favorite_save",
 		"jp_text": "保存",
-		"tr_text": ""
+		"tr_text": "Save"
 	},
 	{
 		"assign": "equip_favorite_call",
 		"jp_text": "呼出",
-		"tr_text": ""
+		"tr_text": "Load"
 	},
 	{
 		"assign": "equip_favorite_delete",
 		"jp_text": "削除",
-		"tr_text": ""
+		"tr_text": "Delete"
 	},
 	{
 		"assign": "equip_favorite_weapon_unit",
 		"jp_text": "武器・ユニット",
-		"tr_text": ""
+		"tr_text": "Equipment"
 	},
 	{
 		"assign": "equip_favorite_guide_01",
 		"jp_text": "<color=#f0df60>パレットのセットを、「マイセット」として保存し、呼び出すことができます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>You can save and load a set of palettes as a \"My Set\".</color>"
 	},
 	{
 		"assign": "equip_favorite_guide_02",
 		"jp_text": "<color=#f0df60>チップ・武器・ユニットがアイテムパック・チップパックから移動されました。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Chips, weapons and units loaded from your Chip Pack and Item Pack.</color>"
 	},
 	{
 		"assign": "equip_apply_lobby",
@@ -19097,17 +19097,17 @@
 	{
 		"assign": "wh_38_01",
 		"jp_text": "ウェポノイドやキャラクターなど、特定のチップを対象に\nリンクスロットが追加されました。リンクスロットに\n別のチップを装備させると、装備したチップのパラメータを強化できます。",
-		"tr_text": ""
+		"tr_text": "Certain chips, such as Weaponoid and Character chips,\nhave link slots. By equipping another chip to the link slot,\nyou can enhance the equipped chip's parameters."
 	},
 	{
 		"assign": "wh_38_02",
 		"jp_text": "リンクスロットに装備できるチップは\n「リンクスキル」と呼ばれる専用のスキルをもつチップのみとなります。\nリンクスロットに装備できるチップを「リンクチップ」と呼びます。",
-		"tr_text": ""
+		"tr_text": "Only chips with special \"Link Skills\" can be\nequipped to link slots. A chip that can be\nequipped to a link slot is called a Link Chip."
 	},
 	{
 		"assign": "wh_38_03",
 		"jp_text": "リンクチップと、リンクチップを装備する側のチップの属性が\n一致していると「リンクスキル」が発動します。\nリンクチップを装備する際には、属性を一致させるとより有利になります。",
-		"tr_text": ""
+		"tr_text": "If the elements of the Link Chip and the chip it is\nequipped to match, the LInk Skill will be activated.\nTry to always equip Link Chips to matching elements."
 	},
 	{
 		"assign": "EternalTower_block_info",
@@ -19832,7 +19832,7 @@
 	{
 		"assign": "darkerblast_pso2_menu_button",
 		"jp_text": "ダークブラスト訓練",
-		"tr_text": ""
+		"tr_text": "Dark Blast Training"
 	},
 	{
 		"assign": "darkerblast_no_info_title",
@@ -19852,37 +19852,37 @@
 	{
 		"assign": "darkerblast_no_select_chip_body",
 		"jp_text": "素材チップが選択されていません。\n素材チップを選んでください。",
-		"tr_text": ""
+		"tr_text": "You have not selected any material chips.\nPlease select one or more material chips."
 	},
 	{
 		"assign": "darkerblast_grind_title",
 		"jp_text": "確認",
-		"tr_text": "OK"
+		"tr_text": "Confirmation"
 	},
 	{
 		"assign": "darkerblast_grind_body",
 		"jp_text": "ダークブラスト訓練の合成を行います。\n素材にしたチップは失われますが\nよろしいですか？",
-		"tr_text": ""
+		"tr_text": "Now synthesizing Dark Blast training.\nThe selected material chips will be lost.\nContinue?"
 	},
 	{
 		"assign": "darkerblast_recovery_window_title",
 		"jp_text": "<%AC>消費確認",
-		"tr_text": ""
+		"tr_text": "<%AC> Usage Confirmation"
 	},
 	{
 		"assign": "darkerblast_recovery_window_body",
 		"jp_text": "合成可能数が不足しています。\n\n{0}<%AC>を消費して\n合成可能数を全回復させます。\nよろしいですか？\n\n必要<%AC>：{1}<%AC>\n所持<%AC>：{2}",
-		"tr_text": ""
+		"tr_text": "Available number of synthesis is insufficient.\n\nYou can recover available synthesis\ninstantly at the cost of {0}<%AC>.\nDo you wish to continue?\n\n<%AC> required: {1}<%AC>\n<%AC> possessed: {2}<%AC>"
 	},
 	{
 		"assign": "darkerblast_explimit_title",
 		"jp_text": "確認",
-		"tr_text": "OK"
+		"tr_text": "Confirmation"
 	},
 	{
 		"assign": "darkerblast_explimit_body",
 		"jp_text": "ダークブラストＥＸＰが\n全てのスキル習得に必要な値を超えています。\n\nこのまま合成してもよろしいですか？",
-		"tr_text": ""
+		"tr_text": "Total Dark Blast EXP will exceed the\namount needed to learn all Dark Blast skills.\n\nSynthesize anyway?"
 	},
 	{
 		"assign": "wh_41_01",
@@ -19907,12 +19907,12 @@
 	{
 		"assign": "darkerblast_exp_over_title",
 		"jp_text": "確認",
-		"tr_text": "OK"
+		"tr_text": "Confirmation"
 	},
 	{
 		"assign": "darkerblast_exp_over_body",
 		"jp_text": "ダークブラストＥＸＰが\n与えられる上限の999,999,999です。\nこれ以上チップを与えることができません。",
-		"tr_text": ""
+		"tr_text": "Dark Blast EXP cannot go above\n999,999,999. You cannot use\nany more chips for synthesis."
 	},
 	{
 		"assign": "darkerblast_give_num_format",
