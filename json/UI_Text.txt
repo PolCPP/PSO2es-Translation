@@ -11717,7 +11717,7 @@
 	{
 		"assign": "wh_26_00",
 		"jp_text": "<color=black>あの……\n<%CHARANAME>さんに\n折り入ってご相談があります……\n私の部屋へお越しいただいても\nよろしいでしょうか？</color>",
-		"tr_text": "<color=black>That...\n<%CHARANAME>, there's something\nI need to talk to you about...\nCould you please\ncome to my room?</color>"
+		"tr_text": "<color=black>Um...\n<%CHARANAME>, there's something\nI need to talk to you about...\nCould you please\ncome to my room?</color>"
 	},
 	{
 		"assign": "wh_27_00",
@@ -18527,7 +18527,7 @@
 	{
 		"assign": "leisure_times",
 		"jp_text": "回",
-		"tr_text": "x"
+		"tr_text": " left"
 	},
 	{
 		"assign": "leisure_goto_lobby",
@@ -18572,12 +18572,12 @@
 	{
 		"assign": "photondice_lc",
 		"jp_text": "LC",
-		"tr_text": "LC "
+		"tr_text": " LC: "
 	},
 	{
 		"assign": "photondice_sheet",
 		"jp_text": "枚",
-		"tr_text": ""
+		"tr_text": " "
 	},
 	{
 		"assign": "photondice_acquisition",
@@ -18592,7 +18592,7 @@
 	{
 		"assign": "photondice_dialog_b_01",
 		"jp_text": "プレイ回数を消費し、対戦を開始します。\nよろしいですか？",
-		"tr_text": "Starting a battle will cost 1 available Play.\nContinue?"
+		"tr_text": "Starting a battle will cost 1 Play.\nContinue?"
 	},
 	{
 		"assign": "photondice_dialog_b_02",
@@ -18657,7 +18657,7 @@
 	{
 		"assign": "photondice_payback_dialog_b_01",
 		"jp_text": "獲得LCを取得しフォトンダイスを終了します。\n次回の対戦ではプレイ回数を消費し、\n最初からスタートとなります。",
-		"tr_text": "Collecting LC and quitting Photon Dice.\nYour next battle will consume a Play,\nand will start from the beginning."
+		"tr_text": "Now collecting LC and quitting Photon Dice.\nYour next battle will consume a Play,\nand will start from the beginning."
 	},
 	{
 		"assign": "photondice_payback_dialog_b_02",
@@ -19107,7 +19107,7 @@
 	{
 		"assign": "wh_38_03",
 		"jp_text": "リンクチップと、リンクチップを装備する側のチップの属性が\n一致していると「リンクスキル」が発動します。\nリンクチップを装備する際には、属性を一致させるとより有利になります。",
-		"tr_text": "If the elements of the Link Chip and the chip it is\nequipped to match, the LInk Skill will be activated.\nTry to always equip Link Chips to matching elements."
+		"tr_text": "If the elements of the Link Chip and the chip it is\nequipped to match, the Link Skill will be activated.\nTry to always equip Link Chips to matching elements."
 	},
 	{
 		"assign": "EternalTower_block_info",
