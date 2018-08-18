@@ -14352,57 +14352,57 @@
 	{
 		"assign": "ItemDetail_Correction_HP",
 		"jp_text": "<color=white>HP (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>HP <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_PP",
 		"jp_text": "<color=white>PP (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>PP <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_AttackReduction",
 		"jp_text": "<color=white>打撃軽減 (<%parameter>)</color>",
-		"tr_text": "<color=white>Strike Res. <%parameter></color>"
+		"tr_text": "<color=white>Strike Res. <%parameter>%</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_ShootingReduction",
 		"jp_text": "<color=white>射撃軽減 (<%parameter>)</color>",
-		"tr_text": "<color=white>Shoot Res. <%parameter></color>"
+		"tr_text": "<color=white>Shoot Res. <%parameter>%</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_SorceryReduction",
 		"jp_text": "<color=white>法撃軽減 (<%parameter>)</color>",
-		"tr_text": "<color=white>Tech Res. <%parameter></color>"
+		"tr_text": "<color=white>Tech Res. <%parameter>%</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Fire",
 		"jp_text": "<color=white>炎耐性 (<%parameter>)</color>",
-		"tr_text": "<color=white>Fire Res. <%parameter></color>"
+		"tr_text": "<color=white>Fire Res. <%parameter>%</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Ice",
 		"jp_text": "<color=white>氷耐性 (<%parameter>)</color>",
-		"tr_text": "<color=white>Ice Res. <%parameter></color>"
+		"tr_text": "<color=white>Ice Res. <%parameter>%</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Thunder",
 		"jp_text": "<color=white>雷耐性 (<%parameter>)</color>",
-		"tr_text": "<color=white>Lightning Res. <%parameter></color>"
+		"tr_text": "<color=white>Lightning Res. <%parameter>%</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Wind",
 		"jp_text": "<color=white>風耐性 (<%parameter>)</color>",
-		"tr_text": "<color=white>Wind Res. <%parameter></color>"
+		"tr_text": "<color=white>Wind Res. <%parameter>%</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Light",
 		"jp_text": "<color=white>光耐性 (<%parameter>)</color>",
-		"tr_text": "<color=white>Light Res. <%parameter></color>"
+		"tr_text": "<color=white>Light Res. <%parameter>%</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Dark",
 		"jp_text": "<color=white>闇耐性 (<%parameter>)</color>",
-		"tr_text": "<color=white>Dark Res. <%parameter></color>"
+		"tr_text": "<color=white>Dark Res. <%parameter>%</color>"
 	},
 	{
 		"assign": "ItemDetail_Ability_Name",
@@ -15581,7 +15581,7 @@
 	},
 	{
 		"assign": "ItemDetail_Egg_potential",
-		"jp_text": "<color=yellow><%parameter_potential>Lv. <%parameter_level></color>",
+		"jp_text": "<color=yellow><%parameter_potential> Lv. <%parameter_level></color>",
 		"tr_text": ""
 	},
 	{
