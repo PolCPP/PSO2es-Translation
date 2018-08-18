@@ -15581,8 +15581,8 @@
 	},
 	{
 		"assign": "ItemDetail_Egg_potential",
-		"jp_text": "<color=yellow><%parameter_potential> Lv. <%parameter_level></color>",
-		"tr_text": ""
+		"jp_text": "<color=yellow><%parameter_potential>Lv. <%parameter_level></color>",
+		"tr_text": "<color=yellow><%parameter_potential> Lv. <%parameter_level></color>"
 	},
 	{
 		"assign": "attribute_fire",
