@@ -7802,17 +7802,17 @@
 	{
 		"assign": "chip_type_name_10",
 		"jp_text": "アビリティLvアップ用素材",
-		"tr_text": "Ability Lv. Up material"
+		"tr_text": "Ability Lv. Up Material"
 	},
 	{
 		"assign": "chip_type_name_11",
 		"jp_text": "解放用素材",
-		"tr_text": "Material Release"
+		"tr_text": "Release Material"
 	},
 	{
 		"assign": "chip_type_name_12",
 		"jp_text": "特殊エネミー",
-		"tr_text": ""
+		"tr_text": "Special Enemy"
 	},
 	{
 		"assign": "chip_type_name_weaponoid",
@@ -7822,7 +7822,7 @@
 	{
 		"assign": "chip_rate_very_low",
 		"jp_text": "極小",
-		"tr_text": "Very low"
+		"tr_text": "Very Low"
 	},
 	{
 		"assign": "chip_rate_low",
@@ -8352,7 +8352,7 @@
 	{
 		"assign": "recycle_item_num_format",
 		"jp_text": "×{0}",
-		"tr_text": ""
+		"tr_text": "x{0}"
 	},
 	{
 		"assign": "recycle_item_trade_info",
@@ -9152,7 +9152,7 @@
 	{
 		"assign": "menu_charainfo_drive_over",
 		"jp_text": "<color=#ffa500{0}><%drive></color> / <%max_drive> あと <%time>",
-		"tr_text": ""
+		"tr_text": "<color=#ffa500{0}><%drive></color> / <%max_drive> Regen: <%time>"
 	},
 	{
 		"assign": "menu_charainfo_title",
@@ -9757,7 +9757,7 @@
 	{
 		"assign": "menu_fulldownload_b_02_2",
 		"jp_text": "追加のゲームデータを下記のボタンから\nダウンロードすることができます。\n\n※ダウンロード目安容量\n「アイテムアイコン」… 約<%iconsize>MB\n「全てをダウンロード」… 約<%totalsize>GB\n\n※ダウンロード目安時間\n「アイテムアイコン」… 約1時間30分\n「全てをダウンロード」… 約5時間\n\n※お使いの端末や通信環境、選択する\n内容によって、ダウンロードにかかる\n時間が異なりますのでご注意ください。\n※ゲームデータのダウンロードは\n通信環境のいい場所で行ってください。\n※ゲームの配信データが追加された場合には\n必要となるデータ容量が増えていきますので\n端末、SDカード等の容量にはご注意ください。\n",
-		"tr_text": ""
+		"tr_text": "This will download the additional\ndata.\n\n※The estimated download sizes follow:\n\"Item Icons\", around <%iconsize>MB\n\"Full Data\", around <%totalsize>GB\n\n※Depending on your device and connection\ntype, your download time and speed may vary.\n※Please ensure you're in a place with good\nsignal strength or reception.\n※Because extra data is being downloaded,\nensure that you have enough room on your\ndevice's storage."
 	},
 	{
 		"assign": "menu_fulldownload_btn_02_1",
@@ -9912,7 +9912,7 @@
 	{
 		"assign": "point_over_num_recycle",
 		"jp_text": "所持数をオーバーするため交換できません。\n消費をしてから受け取ってください。",
-		"tr_text": ""
+		"tr_text": "You cannot exchange this as it would\nexceed the maximum amount you can possess.\nPlease try again after consuming some."
 	},
 	{
 		"assign": "quest_counter_drive_lack_t",
@@ -14082,7 +14082,7 @@
 	{
 		"assign": "raid_n_great",
 		"jp_text": "大ダメージを与えたことで目標が逃走しました。\nただ、目標の体力はかなり低下しています。\n引き続き挑戦して、討伐を目指しましょう！",
-		"tr_text": ""
+		"tr_text": "You weren't able to deal enough\ndamage to the target before escaping.\nHowever, its strength has\ndeclined considerably.\nKeep trying and aim to defeat the enemy!"
 	},
 	{
 		"assign": "raid_n_good",
@@ -14282,7 +14282,7 @@
 	{
 		"assign": "ItemDetail_AttrTolerant_TitleCaption",
 		"jp_text": "<color=white>属性耐性</color>",
-		"tr_text": "<color=white>Attr. Resist</color>"
+		"tr_text": "<color=white>Elemental Resistance</color>"
 	},
 	{
 		"assign": "ItemDetail_AttrTolerant_PercentFire",
@@ -14317,37 +14317,37 @@
 	{
 		"assign": "ItemDetail_Correction_Attack",
 		"jp_text": "<color=white>打撃力 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>S-ATK <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Shooting",
 		"jp_text": "<color=white>射撃力 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>R-ATK <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Sorcery",
 		"jp_text": "<color=white>法撃力 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>T-ATK <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Skill",
 		"jp_text": "<color=white>技量 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>DEX <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_AttackDefence",
 		"jp_text": "<color=white>打撃防御 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>S-DEF <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_ShootingDefence",
 		"jp_text": "<color=white>射撃防御 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>R-DEF <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_SorceryDefence",
 		"jp_text": "<color=white>法撃防御 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>T-DEF <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_HP",
@@ -14362,47 +14362,47 @@
 	{
 		"assign": "ItemDetail_Correction_AttackReduction",
 		"jp_text": "<color=white>打撃軽減 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>Strike Res. <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_ShootingReduction",
 		"jp_text": "<color=white>射撃軽減 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>Shoot Res. <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_SorceryReduction",
 		"jp_text": "<color=white>法撃軽減 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>Tech Res. <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Fire",
 		"jp_text": "<color=white>炎耐性 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>Fire Res. <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Ice",
 		"jp_text": "<color=white>氷耐性 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>Ice Res. <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Thunder",
 		"jp_text": "<color=white>雷耐性 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>Lightning Res. <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Wind",
 		"jp_text": "<color=white>風耐性 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>Wind Res. <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Light",
 		"jp_text": "<color=white>光耐性 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>Light Res. <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Dark",
 		"jp_text": "<color=white>闇耐性 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>Dark Res. <%parameter></color>"
 	},
 	{
 		"assign": "ItemDetail_Ability_Name",
@@ -14582,7 +14582,7 @@
 	{
 		"assign": "ItemDetail_dialog_b_02",
 		"jp_text": "特定ステータスの限界値がアップします。\n例えば、属性の限界突破の場合\n装備中の武器・チップの属性値の合計が\n本来の限界以上であっても\nその値を超えることができます。",
-		"tr_text": "Allows for the natural elemental\nattribute value limit to exceed the\nvalue current limit."
+		"tr_text": "Increases your maximum element\nvalue beyond the normal limit."
 	},
 	{
 		"assign": "ItemDetail_dialog_t_03",
@@ -14607,12 +14607,12 @@
 	{
 		"assign": "ItemDetail_dialog_t_05",
 		"jp_text": "「状態異常耐性上昇」とは",
-		"tr_text": ""
+		"tr_text": "About \"Increased Status Resistance\""
 	},
 	{
 		"assign": "ItemDetail_dialog_b_05",
 		"jp_text": "装備に設定されている状態異常を\n設定された値の確率で無効化します。\n複数の装備で耐性の値を高くすると\nより大きな効果を期待できます。",
-		"tr_text": ""
+		"tr_text": "Grants a set chance to resist a\ngiven abnormal status effect.\nEquipping more than one will\nincrease the resistance chance."
 	},
 	{
 		"assign": "RaidEvent_tab_00",
@@ -14787,12 +14787,12 @@
 	{
 		"assign": "raid_event_guide_01",
 		"jp_text": "<color=#f0df60>条件を達成すると、各種報酬が手に入ります。「討伐回数」は、自身が遭遇したクエストのみ有効です。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Various rewards can be obtained by meeting certain conditions. Enemies defeated will only be counted in quests that you initiated.</color>"
 	},
 	{
 		"assign": "raid_scratch_guide_00",
 		"jp_text": "<color=#f0df60>スクラッチを選択してください。所持数の上限を超えたチップ、アイテムは、受け取りボックスに送られます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Please select a scratch. Chips and items exceeding the maximum you can hold will be sent to the Reception Box.</color>"
 	},
 	{
 		"assign": "raid_scratch_dialog_t_01",
@@ -14987,7 +14987,7 @@
 	{
 		"assign": "menu_invite_tab_reward_explain",
 		"jp_text": "<color=#ffff00>招待成立した人数に応じて報酬をゲット！</color>",
-		"tr_text": "<color=#ffff00>招待成立した人数に応じて報酬をゲット！</color>"
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_invite_tab_reward_check",
@@ -15007,12 +15007,12 @@
 	{
 		"assign": "menu_invite_reward_list_title_input",
 		"jp_text": "招待コード入力で手に入るプレゼント一覧",
-		"tr_text": ""
+		"tr_text": "List of Rewards for Entering a Referral Code"
 	},
 	{
 		"assign": "menu_invite_reward_list_title_invite",
 		"jp_text": "友達招待で手に入る報酬一覧",
-		"tr_text": ""
+		"tr_text": "List of Rewards for Referring Friends"
 	},
 	{
 		"assign": "menu_invite_reward_list_condition",
@@ -15027,12 +15027,12 @@
 	{
 		"assign": "invite_dialog_t_01",
 		"jp_text": "招待コードコピー",
-		"tr_text": "Copy Invite Code"
+		"tr_text": "Copy Referral Code"
 	},
 	{
 		"assign": "invite_dialog_b_01",
 		"jp_text": "招待コードをクリップボードにコピーしました。",
-		"tr_text": ""
+		"tr_text": "Referral Code copied to clipboard."
 	},
 	{
 		"assign": "invite_dialog_t_02",
@@ -15287,7 +15287,7 @@
 	{
 		"assign": "story_clear_dialog_b_00",
 		"jp_text": "アークスクエストクリアおめでとうございます！\nクリア記念のチップをプレゼントいたしました。\n受け取りボックスをご確認ください。",
-		"tr_text": ""
+		"tr_text": "Congratulations on clearing an ARKS Quest!\nI've sent you a chip to commemorate your success.\nPlease check your Reception Box."
 	},
 	{
 		"assign": "story_chapter10_clear_dialog_title",
@@ -15297,7 +15297,7 @@
 	{
 		"assign": "story_chapter10_clear_dialog_body",
 		"jp_text": "ストーリークエストクリアおめでとうございます！\nクリア記念のアイテムをプレゼントいたしました。\n受け取りボックスをご確認ください。\n\n<color=yellow>「創者の証」は、『PSO2』で\n武器迷彩「*断翼ロート＝ラウト」などと\n交換できます。</color>",
-		"tr_text": ""
+		"tr_text": "Congratulations on clearing a Story Quest!\nI've sent you an item to commemorate your success.\nPlease check your Reception Box.\n\n<color=yellow>\"Creator's Emblem\" is an\nitem that can be exchanged\nfor Weapon Camos, such as\n＊Roto Raut, in PSO2.</color>"
 	},
 	{
 		"assign": "scratch_dialog_name_es",
@@ -15522,17 +15522,17 @@
 	{
 		"assign": "btl_voice",
 		"jp_text": "VOICE",
-		"tr_text": ""
+		"tr_text": "Voice"
 	},
 	{
 		"assign": "btl_bgm",
 		"jp_text": "BGM",
-		"tr_text": ""
+		"tr_text": "Music"
 	},
 	{
 		"assign": "btl_se",
 		"jp_text": "SE",
-		"tr_text": ""
+		"tr_text": "SFX"
 	},
 	{
 		"assign": "btl_soundset_default",
@@ -15717,7 +15717,7 @@
 	{
 		"assign": "depot_dialog_title",
 		"jp_text": "PSO2es倉庫",
-		"tr_text": ""
+		"tr_text": "PSO2es Storage"
 	},
 	{
 		"assign": "depot_dialog_exit",
@@ -15752,7 +15752,7 @@
 	{
 		"assign": "pet_scene_title",
 		"jp_text": "ペット育成",
-		"tr_text": ""
+		"tr_text": "Pet Training"
 	},
 	{
 		"assign": "pet_guide_01",
@@ -16037,7 +16037,7 @@
 	{
 		"assign": "ItemDetail_WPCBoost_Caption",
 		"jp_text": "チップ装備時のみ有効",
-		"tr_text": "Enabled when Chip Equipment"
+		"tr_text": "Enabled when chip is equipped"
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_ChipName",
@@ -16052,52 +16052,52 @@
 	{
 		"assign": "ItemDetail_WPCBoost_AddStrike",
 		"jp_text": "打撃力(+<%parameter>)",
-		"tr_text": "S-ATK (+<%parameter>)"
+		"tr_text": "S-ATK +<%parameter>"
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_AddFireArm",
 		"jp_text": "射撃力(+<%parameter>)",
-		"tr_text": "R-ATK (+<%parameter>)"
+		"tr_text": "R-ATK +<%parameter>"
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_AddTechnic",
 		"jp_text": "法撃力(+<%parameter>)",
-		"tr_text": "T-ATK (+<%parameter>)"
+		"tr_text": "T-ATK +<%parameter>"
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_AddSkill",
 		"jp_text": "技量(+<%parameter>)",
-		"tr_text": "DEX (+<%parameter>)"
+		"tr_text": "DEX +<%parameter>"
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_AddDefense",
 		"jp_text": "打撃防御(+<%parameter>)",
-		"tr_text": "S-DEF (+<%parameter>)"
+		"tr_text": "S-DEF +<%parameter>"
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_AddReflexes",
 		"jp_text": "射撃防御(+<%parameter>)",
-		"tr_text": "R-DEF (+<%parameter>)"
+		"tr_text": "R-DEF +<%parameter>"
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_AddMental",
 		"jp_text": "法撃防御(+<%parameter>)",
-		"tr_text": "T-DEF (+<%parameter>)"
+		"tr_text": "T-DEF +<%parameter>"
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_AddHP",
 		"jp_text": "HP(+<%parameter>)",
-		"tr_text": ""
+		"tr_text": "HP +<%parameter>"
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_AddCP",
 		"jp_text": "CP(+<%parameter>)",
-		"tr_text": ""
+		"tr_text": "CP +<%parameter>"
 	},
 	{
 		"assign": "ItemDetail_WPCBoost_AddAttValue",
 		"jp_text": "武器属性値(+<%parameter>)",
-		"tr_text": "Weapon Ele. (+<%parameter>)"
+		"tr_text": "Weapon Element +<%parameter>"
 	},
 	{
 		"assign": "wh_33_01",
@@ -16112,12 +16112,12 @@
 	{
 		"assign": "myshop_pso2_spitem",
 		"jp_text": "『PSO2』専用アイテムです。",
-		"tr_text": "PSO2 Only Item."
+		"tr_text": "PSO2-only item."
 	},
 	{
 		"assign": "myshop_pso2_musicspitem",
 		"jp_text": "『PSO2』専用アイテムです。\n<color=red>『PSO2 クラウド』では再生不可</color>",
-		"tr_text": ""
+		"tr_text": "PSO2-only item.\n<color=red>Not usable in PSO2 Cloud Version</color>"
 	},
 	{
 		"assign": "autobattle_start",
@@ -16327,7 +16327,7 @@
 	{
 		"assign": "SideSt_Dialog_b_02_1",
 		"jp_text": "・『{0}』の\n　　外伝解放ゲージst.{1} を最大にする",
-		"tr_text": "・「{0}」\n　　Side Story Stage {1}"
+		"tr_text": "・「{0}」\n　　Gaiden Stage {1}"
 	},
 	{
 		"assign": "SideSt_Dialog_b_02_2",
