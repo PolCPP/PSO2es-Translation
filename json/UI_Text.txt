@@ -18702,7 +18702,7 @@
 	{
 		"assign": "photondice_result_win_dialog_b_07",
 		"jp_text": "<color=yellow><size=50>合計獲得LC：</size><size=48><%value>枚</size></color>",
-		"tr_text": "<color=yellow><size=50>合計獲得LC：</size><size=48><%value>枚</size></color>"
+		"tr_text": "<color=yellow><size=50>Total LC：</size><size=48><%value></size></color>"
 	},
 	{
 		"assign": "photondice_result_win_dialog_b_08",
