@@ -179,7 +179,7 @@
 		"tr_patterns": [
 			"It's my turn. Greetings...",
 			"I hear it's important\r\nto relax sometimes...\r\nI wonder.",
-			"...Games are illogical.\r\nThat aside, it is fun..."
+			"...Games are illogical.\r\nAnd yet, they are fun..."
 		]
 	},
 	{
@@ -347,9 +347,9 @@
 			"こんにちは！\r\n息抜きをするのも大切ですよ？"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"<%name>, you'll be playing against me!",
+			"I'll be your opponent!",
+			"Hello!\r\nIt's important to take breaks from time to time, isn't it?"
 		]
 	},
 	{
@@ -360,9 +360,9 @@
 			"準備はいいですか？\r\n行きますよ！"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"This game... I will not lose!",
+			"I won't go easy on you!\r\nI'll give this everything I have!",
+			"Are you ready?\r\nHere I go!"
 		]
 	},
 	{
@@ -373,9 +373,9 @@
 			"これなら……勝てるかも！"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"What?! I got a good roll!",
+			"Heheheh, I got lucky!",
+			"A roll like this... I might win!"
 		]
 	},
 	{
@@ -386,9 +386,9 @@
 			"どうしましょうか……\r\nこれだと、負けてしまうかも……"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"Huh? Where's my launcher...",
+			"E... emergency!",
+			"What am I going to do...\r\nI can't win with a roll like this..."
 		]
 	},
 	{
@@ -398,8 +398,8 @@
 			"うふふ……\r\nありがとうございます！"
 		],
 		"tr_patterns": [
-			"",
-			""
+			"I did it!\r\nAll in a day's work for an administrator!",
+			"Eheheh...\r\nThank you very much!"
 		]
 	},
 	{
@@ -409,8 +409,8 @@
 			"素晴らしいですね！\r\nさすがはリーダー、完敗です！"
 		],
 		"tr_patterns": [
-			"",
-			""
+			"As I thought.\r\nThere was nothing I could have done...",
+			"That was amazing!\r\nAs I expected, a total defeat by Leader!"
 		]
 	},
 	{
@@ -420,8 +420,8 @@
 			"リーダーが良ければ\r\nもう一度やりませんか？"
 		],
 		"tr_patterns": [
-			"",
-			""
+			"Oh?\r\nIt's a draw...",
+			"Would you like to try again, Leader?"
 		]
 	},
 	{
