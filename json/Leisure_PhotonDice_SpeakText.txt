@@ -228,8 +228,8 @@
 			"今回は、幸運だったわ。"
 		],
 		"tr_patterns": [
-			"...This result is\r\nto be expected.",
-			"I was fortunate\r\non this occasion."
+			"...This result is to be expected.",
+			"I was fortunate on this occasion."
 		]
 	},
 	{
@@ -264,7 +264,7 @@
 		"tr_patterns": [
 			"Hey there, Leader!\r\nDidn't expect to see you here.",
 			"Hey, you made it to me.\r\nAlright, let's go for it!",
-			"The way I see it, Leader,\r\nthere's no way you're gonna beat me!"
+			"The way I see it, Leader,\r\nthere's no way you'll beat me!"
 		]
 	},
 	{
@@ -349,7 +349,7 @@
 		"tr_patterns": [
 			"<%name>, you'll be playing against me!",
 			"I'll be your opponent!",
-			"Hello!\r\nIt's important to take breaks from time to time, isn't it?"
+			"Hello!\r\nIt's important to take breaks\r\nfrom time to time, isn't it?"
 		]
 	},
 	{
@@ -398,7 +398,7 @@
 			"うふふ……\r\nありがとうございます！"
 		],
 		"tr_patterns": [
-			"I did it!\r\nAll in a day's work for an administrator!",
+			"I did it! All in a day's\r\nwork for an administrator!",
 			"Eheheh...\r\nThank you very much!"
 		]
 	},
@@ -410,7 +410,7 @@
 		],
 		"tr_patterns": [
 			"As I thought.\r\nThere was nothing I could have done...",
-			"That was amazing!\r\nAs I expected, a total defeat by Leader!"
+			"That was amazing!As I expected, a total\r\ndefeat from Leader!"
 		]
 	},
 	{
@@ -421,7 +421,7 @@
 		],
 		"tr_patterns": [
 			"Oh?\r\nIt's a draw...",
-			"Would you like to try again, Leader?"
+			"Would you like to\r\ntry again, Leader?"
 		]
 	},
 	{
@@ -1878,7 +1878,7 @@
 		],
 		"tr_patterns": [
 			"It's Twin Kamui.\r\n...Does this dress suit me?",
-			"A pure white dress...\r\nFor some reason, my heart's pounding...",
+			"A pure white dress...\r\nFor some reason, my\r\nheart's pounding...",
 			"I came to show you this."
 		]
 	},
