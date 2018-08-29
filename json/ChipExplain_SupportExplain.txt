@@ -2369,14 +2369,14 @@
 		"assign": "31365",
 		"jp_explainShort": "アビリティレベル攻撃大増＋定期ＣＰ小回復",
 		"tr_explainShort": "Dam. boost x ability + CP up over time",
-		"jp_explainLong": "① アビリティレベルに応じて攻撃力を大きく増加する。\n② 定期的にＣＰがわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"jp_explainLong": "① アビリティレベルに応じて攻撃力を大きく増加する。\n② 定期的にＣＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
 		"tr_explainLong": "① Greatly boosts damage based on this chip's\n    ability level.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers CP at regular intervals.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31366",
 		"jp_explainShort": "アビリティレベル攻撃劇的増＋定期ＣＰ小回復",
 		"tr_explainShort": "Dam. boost x ability + CP up over time",
-		"jp_explainLong": "① アビリティレベルに応じて攻撃力を劇的に増加する。\n② 定期的にＣＰがわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"jp_explainLong": "① アビリティレベルに応じて攻撃力を劇的に増加する。\n② 定期的にＣＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
 		"tr_explainLong": "① Dramatically boosts damage based on this chip's\n    ability level.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers CP at regular intervals.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
@@ -3291,17 +3291,17 @@
 	},
 	{
 		"assign": "31545",
-		"jp_explainShort": "定期的に攻撃力を小増加＋ダメージ減少",
-		"tr_explainShort": "Damage boost over time + dam. reduced",
+		"jp_explainShort": "定期的に攻撃力を小増加＋ダメージ軽減",
+		"tr_explainShort": "",
 		"jp_explainLong": "① 定期的に攻撃力をわずかに増加する。（最大時：絶大）\n② 敵から受けるダメージを軽減する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "① Slightly boosts damage at regular intervals.\n    (Maximum Boost: Immense)\n    <color=yellow>[G-Frame]</color>\n② Reduces damage taken from enemies.\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31546",
-		"jp_explainShort": "定期的に攻撃力を増加＋ダメージ減少",
-		"tr_explainShort": "Damage boost over time + dam. reduced",
+		"jp_explainShort": "定期的に攻撃力を増加＋ダメージ軽減",
+		"tr_explainShort": "",
 		"jp_explainLong": "① 定期的に攻撃力を増加する。（最大時：絶大）\n② 敵から受けるダメージを軽減する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage at regular intervals.\n    (Maximum Boost: Immense)\n    <color=yellow>[G-Frame]</color>\n② Reduces damage taken from enemies.\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31547",
@@ -3361,17 +3361,17 @@
 	},
 	{
 		"assign": "31557",
-		"jp_explainShort": "定期的に攻撃力を小増加＋ダメージ減少",
-		"tr_explainShort": "Damage boosted over time + dam. resist",
+		"jp_explainShort": "定期的に攻撃力を小増加＋ダメージ軽減",
+		"tr_explainShort": "",
 		"jp_explainLong": "① 定期的に攻撃力をわずか増加にする。（最大時：絶大）\n② 敵から受けるダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "① Slightly boosts damage at regular intervals.\n    (Maximum boost: Immense)\n    <color=yellow>[G-Frame]</color>\n② Reduces damage taken from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31558",
-		"jp_explainShort": "定期的に攻撃力を小増加＋ダメージ減少",
-		"tr_explainShort": "Damage boosted over time + dam. resist",
+		"jp_explainShort": "定期的に攻撃力を小増加＋ダメージ軽減",
+		"tr_explainShort": "",
 		"jp_explainLong": "① 定期的に攻撃力をわずか増加にする。（最大時：絶大）\n② 敵から受けるダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "① Slightly boosts damage at regular intervals.\n    (Maximum boost: Immense)\n    <color=yellow>[G-Frame]</color>\n② Reduces damage taken from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31559",
@@ -4352,6 +4352,153 @@
 		"tr_explainShort": "ATK up x # Lightning + boost vs Mech",
 		"jp_explainLong": "① 装備中チップの雷属性チップの枚数に応じて\n　　 攻撃力を超絶に強化する。\n② 機甲種に与えるダメージを大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
 		"tr_explainLong": "① Overwhelmingly increases ATK based on the\n    number of Lightning chips equipped.\n② Greatly boosts damage against Mechs.\n    <color=yellow>[B-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+	},
+	{
+		"assign": "31761",
+		"jp_explainShort": "追加特大ダメージ＋ダメージ防御",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 敵に追加で特大ダメージを与える。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31762",
+		"jp_explainShort": "追加特大ダメージ＋ダメージ防御",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 敵に追加で特大ダメージを与える。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31763",
+		"jp_explainShort": "雷風闇技法攻撃力劇的増加＋消費ＣＰ減少",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 必殺技・法術チップが雷・風・闇属性の場合は\n　　 威力を劇的に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31764",
+		"jp_explainShort": "雷風闇技法攻撃力劇的増加＋消費ＣＰ減少",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 必殺技・法術チップが雷・風・闇属性の場合は\n　　 威力を劇的に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31765",
+		"jp_explainShort": "攻撃力超絶増＋定期ＣＰ回復＋攻撃威力強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 定期的にＣＰを回復する。\n③ 全てのリンクスロットに装備した\n　　 ウェポノイドチップの枚数に応じ攻撃の威力を強化する。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31766",
+		"jp_explainShort": "攻撃力超絶増＋定期ＣＰ回復＋攻撃威力強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 定期的にＣＰを回復する。\n③ 全てのリンクスロットに装備した\n　　 ウェポノイドチップの枚数に応じ攻撃の威力を強化する。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31767",
+		"jp_explainShort": "攻撃力超絶増＋定期ＣＰ回復＋攻撃威力強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 定期的にＣＰを回復する。\n③ 全てのリンクスロットに装備した\n　　 ウェポノイドチップの枚数に応じ攻撃の威力を強化する。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31768",
+		"jp_explainShort": "アビリティＬｖ風武器攻撃力増＋ＣＰ最大増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 装備中の武器の属性が風属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値を増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31769",
+		"jp_explainShort": "アビリティＬｖ風武器攻撃力増＋ＣＰ最大増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 装備中の武器の属性が風属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値を増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31770",
+		"jp_explainShort": "攻撃力増加＋必殺技・法術使用毎に大増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を増加する。\n② 必殺技・法術を使用するごとに\n　　 威力を大きく増加する。（最大時：超絶）\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31771",
+		"jp_explainShort": "攻撃力増加＋必殺技・法術使用毎に大増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を増加する。\n② 必殺技・法術を使用するごとに\n　　 威力を大きく増加する。（最大時：超絶）\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31774",
+		"jp_explainShort": "ポイズン付与＋ポイズン時ダメージ劇的増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 必殺技に「ポイズン」効果を与える。\n② 「ポイズン」状態の敵に対して\n　　 ダメージを劇的に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31775",
+		"jp_explainShort": "ポイズン付与＋ポイズン時ダメージ劇的増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 必殺技に「ポイズン」効果を与える。\n② 「ポイズン」状態の敵に対して\n　　 ダメージを劇的に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31776",
+		"jp_explainShort": "攻撃力を超絶強化＋定期的にＨＰを小回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 現在のＨＰを７５％減少させる。\n② 攻撃力を超絶に強化する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31777",
+		"jp_explainShort": "攻撃力を超絶強化＋定期的にＨＰを小回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 現在のＨＰを７５％減少させる。\n② 攻撃力を超絶に強化する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31782",
+		"jp_explainShort": "バーン付与＋バーン時ダメージ劇的増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 必殺技に「バーン」効果を与える。\n② 「バーン」状態の敵に対して\n　　 ダメージを劇的に増加する。\n[発動条件]攻撃ヒット時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31783",
+		"jp_explainShort": "バーン付与＋バーン時ダメージ劇的増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 必殺技に「バーン」効果を与える。\n② 「バーン」状態の敵に対して\n　　 ダメージを劇的に増加する。\n[発動条件]攻撃ヒット時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31784",
+		"jp_explainShort": "技法威力大強化＋有効弱点ダメージ微増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを大きく増加する。\n② 必殺技・法術の威力をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31785",
+		"jp_explainShort": "技法威力大強化＋有効弱点ダメージ微増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを大きく増加する。\n② 必殺技・法術の威力をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31786",
+		"jp_explainShort": "威力強化＋光武器攻撃力増加＋定期ＣＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 威力を増加する。\n② 装備中の武器の属性が光属性の場合\n　　 攻撃力をわずかに増加する。\n③ 定期的にＣＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31787",
+		"jp_explainShort": "威力強化＋光武器攻撃力増加＋定期ＣＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 威力を大きく増加する。\n② 装備中の武器の属性が光属性の場合\n　　 攻撃力をわずかに増加する。\n③ 定期的にＣＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "11030",
@@ -8244,5 +8391,33 @@
 		"tr_explainShort": "Damage boosted + countering attacks",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 攻撃対象の敵から攻撃を受けた時\n　　 そのダメージに応じたカウンターを与える。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": "① Slightly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Responds to damage from the targeted enemy\n    with a proportional counterattack.\n[Activation Trigger] Taking an attack\n[Effect Duration] Medium"
+	},
+	{
+		"assign": "20051",
+		"jp_explainShort": "カイザーバルガー",
+		"tr_explainShort": "",
+		"jp_explainLong": "カイザーバルガー",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "20052",
+		"jp_explainShort": "カイザーバルガー（解放後）",
+		"tr_explainShort": "",
+		"jp_explainLong": "カイザーバルガー（解放後）",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "20055",
+		"jp_explainShort": "シノワラピドゥス",
+		"tr_explainShort": "",
+		"jp_explainLong": "シノワラピドゥス",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "20056",
+		"jp_explainShort": "シノワラピドゥス（解放後）",
+		"tr_explainShort": "",
+		"jp_explainLong": "シノワラピドゥス（解放後）",
+		"tr_explainLong": ""
 	}
 ]

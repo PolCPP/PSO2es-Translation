@@ -2002,6 +2002,104 @@
 		"tr_explainLong": "① Maximally boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n③ Boosts Wind elemental damage against enemies\n    weak to Wind based on the number of Wind chips\n    in all link slots.\n    <color=yellow>[S-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    all PAs and Techs are reduced.\n[Effect Duration] Long"
 	},
 	{
+		"assign": "31757",
+		"jp_explainShort": "定期的に攻撃力を小増加＋ダメージ軽減",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 定期的に攻撃力をわずかに増加する。（最大時：絶大）\n② 敵から受けるダメージを軽減する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31758",
+		"jp_explainShort": "定期的に攻撃力を小増加＋ダメージ軽減",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 定期的に攻撃力をわずかに増加する。（最大時：絶大）\n② 敵から受けるダメージを軽減する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31759",
+		"jp_explainShort": "絶大追撃＋ダーカー大ダメージ＋ダメージ防御",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 敵に追加で絶大ダメージを与える。\n② ダーカーに与えるダメージを大きく増加する。\n③ 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31760",
+		"jp_explainShort": "絶大追撃＋ダーカー大ダメージ＋ダメージ防御",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 敵に追加で絶大ダメージを与える。\n② ダーカーに与えるダメージを大きく増加する。\n③ 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31772",
+		"jp_explainShort": "攻撃力絶大増加＋一定確率で自身がフリーズ",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 定期的に一定確率でフリーズになる代わりに\n　　 攻撃力を絶大に増加する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31773",
+		"jp_explainShort": "攻撃力絶大増加＋一定確率で自身がフリーズ",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 定期的に一定確率でフリーズになる代わりに\n　　 攻撃力を絶大に増加する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31778",
+		"jp_explainShort": "属性ダメージ＋ダメージ防御＋一定確率回避",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性による\n　　 ダメージを劇的に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 敵からの攻撃を一定確率で回避する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31779",
+		"jp_explainShort": "属性ダメージ＋ダメージ防御＋一定確率回避",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性による\n　　 ダメージを劇的に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 敵からの攻撃を一定確率で回避する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31780",
+		"jp_explainShort": "攻撃力劇的増加＋消費ＣＰ減少＋発動率上昇",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 発動率を上昇する。\n③ 消費ＣＰを減少する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31781",
+		"jp_explainShort": "攻撃力劇的増加＋消費ＣＰ減少＋発動率上昇",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 発動率を上昇する。\n③ 消費ＣＰを減少する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31788",
+		"jp_explainShort": "アビＬｖ技法強化＋ダメージ防御＋フリーズ付与",
+		"tr_explainShort": "",
+		"jp_explainLong": "① アビリティレベルに応じて必殺技・法術チップが\n　　 全属性の場合は威力を大きく増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 攻撃対象の敵からダメージを受けた時\n　　 一定確率で「フリーズ」効果を与える。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31789",
+		"jp_explainShort": "アビＬｖ技法強化＋ダメージ防御＋フリーズ付与",
+		"tr_explainShort": "",
+		"jp_explainLong": "① アビリティレベルに応じて必殺技・法術チップが\n　　 全属性の場合は威力を大きく増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 攻撃対象の敵からダメージを受けた時\n　　 一定確率で「フリーズ」効果を与える。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31790",
+		"jp_explainShort": "被バーン状態時に攻撃力劇的増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 自身が「バーン」状態にある場合に\n　　 攻撃力を劇的に増加する。\r\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31791",
+		"jp_explainShort": "被バーン状態時に攻撃力劇的増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 自身が「バーン」状態にある場合に\n　　 攻撃力を劇的に増加する。\r\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
 		"assign": "2110",
 		"jp_explainShort": "防御力を大強化",
 		"tr_explainShort": "DEF increased",
@@ -5348,6 +5446,48 @@
 		"tr_explainLong": ""
 	},
 	{
+		"assign": "60237",
+		"jp_explainShort": "サプライズダンク２（両剣/なし）",
+		"tr_explainShort": "",
+		"jp_explainLong": "サプライズダンク２（両剣/なし）",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60238",
+		"jp_explainShort": "サプライズダンク２＋（両剣/なし）",
+		"tr_explainShort": "",
+		"jp_explainLong": "サプライズダンク２＋（両剣/なし）",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60239",
+		"jp_explainShort": "サプライズダンク３（両剣/なし）",
+		"tr_explainShort": "",
+		"jp_explainLong": "サプライズダンク３（両剣/なし）",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60240",
+		"jp_explainShort": "サプライズダンク３＋（両剣/なし）",
+		"tr_explainShort": "",
+		"jp_explainLong": "サプライズダンク３＋（両剣/なし）",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60241",
+		"jp_explainShort": "サプライズダンクＥＸ（両剣/なし）",
+		"tr_explainShort": "",
+		"jp_explainLong": "サプライズダンクＥＸ（両剣/なし）",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "60242",
+		"jp_explainShort": "サプライズダンクＥＸ＋（両剣/なし）",
+		"tr_explainShort": "",
+		"jp_explainLong": "サプライズダンクＥＸ＋（両剣/なし）",
+		"tr_explainLong": ""
+	},
+	{
 		"assign": "70110",
 		"jp_explainShort": "火の玉を放出する炎属性初級の法術",
 		"tr_explainShort": "[Fire Technique] - Foie",
@@ -7490,6 +7630,20 @@
 		"tr_explainLong": "If used as material to grind a ★12 or less Dark\nchip, increases the ability level of that chip by 1."
 	},
 	{
+		"assign": "90015",
+		"jp_explainShort": "アビリティレベルを上げるチップ強化用素材",
+		"tr_explainShort": "",
+		"jp_explainLong": "★１０以下のチップの強化素材として使用すると\nチップのアビリティレベルを１上昇させる。",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "90016",
+		"jp_explainShort": "アビリティレベルを上げるチップ強化用素材",
+		"tr_explainShort": "",
+		"jp_explainLong": "★１１のチップの強化素材として使用すると\nチップのアビリティレベルを１上昇させる。",
+		"tr_explainLong": ""
+	},
+	{
 		"assign": "20009",
 		"jp_explainShort": "海王種に対してダメージを増加",
 		"tr_explainShort": "Damage to Oceanids boosted",
@@ -7530,5 +7684,33 @@
 		"tr_explainShort": "ATK up x distance from target",
 		"jp_explainLong": "① 攻撃対象の敵との距離が遠いほど\n　　 攻撃力を強化する。\n[効果時間]一定時間",
 		"tr_explainLong": "① Increases ATK based on how far you are from\n    the target.\n[Effect Duration] Medium"
+	},
+	{
+		"assign": "20049",
+		"jp_explainShort": "消費ＣＰ減＋機改種に対してダメージを増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 機改種に対して与えるダメージを増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "20050",
+		"jp_explainShort": "消費ＣＰ減＋機改種に対してダメージを大増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 機改種に対して与えるダメージを大きく増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "20053",
+		"jp_explainShort": "ブレードディンゲール",
+		"tr_explainShort": "",
+		"jp_explainLong": "ブレードディンゲール",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "20054",
+		"jp_explainShort": "ブレードディンゲール（解放後）",
+		"tr_explainShort": "",
+		"jp_explainLong": "ブレードディンゲール（解放後）",
+		"tr_explainLong": ""
 	}
 ]
