@@ -21,7 +21,7 @@ json_loc = os.path.join("..", "json")
 
 try:
     print("Backing up and loading ItemBags file.")
-    itembags_file = codecs.open(
+    itembags_file = open(
         shutil.copyfile(os.path.join(json_loc,
                                      'Item_Stack_ItemBag.txt'),
                         os.path.join(json_loc,
@@ -34,13 +34,13 @@ except FileNotFoundError:
 itembags = itembags_file.read()
 itembags_file.close()
 
-print("  ItemBags file loaded and backed up.\n\
+print ("  ItemBags file loaded and backed up.\n\
   If an error occurs during this script's execution,\n\
   replace Item_Stack_ItemBag.txt with Item_Stack_ItemBag.txt.old\n\
   before taking any other action.")
 
-output_file = codecs.open(os.path.join(json_loc, 'Item_Stack_ItemBag.txt'),
-                          mode='w', encoding='utf-8')
+output_file = open(os.path.join(json_loc, 'Item_Stack_ItemBag.txt'),
+                   mode='w', encoding='utf-8')
 
 print("Performing pre-translation formatting.")
 # Copy JP text into TR text
@@ -104,7 +104,7 @@ print("  Cast part sets handled")
 itembags = regex.sub('\]\[',
                      '] [',
                      itembags)
-print("  Items on same line separated")
+print ("  Items on same line separated")
 
 print("\nLoading and translating item names.")
 contents_files = ("Costume_Female", "Costume_Male",
@@ -133,8 +133,8 @@ contents_files = ("Costume_Female", "Costume_Male",
 for contents_file_name in contents_files:
     contents_file_name = "Item_" + contents_file_name + ".txt"
     try:
-        contents_file = codecs.open(os.path.join(json_loc, contents_file_name),
-                                    mode='r', encoding='utf-8')
+        contents_file = open(os.path.join(json_loc, contents_file_name),
+                             mode='r', encoding='utf-8')
     except FileNotFoundError:
         print("\t{0} not found.".format(contents_file_name))
         continue
