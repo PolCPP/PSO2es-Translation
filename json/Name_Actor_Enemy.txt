@@ -285,16 +285,6 @@
 		"tr_text": "Lovey Rappy"
 	},
 	{
-		"assign": "RappyDragon",
-		"jp_text": "ドラグ・ラッピー",
-		"tr_text": "Drago Rappy"
-	},
-	{
-		"assign": "RappyElep",
-		"jp_text": "エレフ・ラッピー",
-		"tr_text": "Eleph Rappy"
-	},
-	{
 		"assign": "DragonRaptor",
 		"jp_text": "ディッグ",
 		"tr_text": "Digg"
@@ -2380,6 +2370,11 @@
 		"tr_text": "Devil Castle - Misil Ghasud"
 	},
 	{
+		"assign": "B3CatsD",
+		"jp_text": "魔神城・バスターバレス",
+		"tr_text": ""
+	},
+	{
 		"assign": "B1CatsBU",
 		"jp_text": "魔神城・ランザーバレス",
 		"tr_text": "Devil Castle - Lanzer Valace"
@@ -2470,6 +2465,11 @@
 		"tr_text": "Omega Hunar"
 	},
 	{
+		"assign": "BD2Crw",
+		"jp_text": "ティラルーダ",
+		"tr_text": ""
+	},
+	{
 		"assign": "ID1Apple",
 		"jp_text": "OF・アプレンティス",
 		"tr_text": "Omega Falz Apprentice"
@@ -2535,6 +2535,16 @@
 		"tr_text": "Gu Wonda"
 	},
 	{
+		"assign": "BD2Bbb",
+		"jp_text": "ボンバヴァレーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "BD2Ctl",
+		"jp_text": "ブリュー・リンガーダ",
+		"tr_text": ""
+	},
+	{
 		"assign": "FD1Fbb",
 		"jp_text": "ウォルガーダ",
 		"tr_text": "Wolgahda"
@@ -2553,6 +2563,21 @@
 		"assign": "P1Dbe",
 		"jp_text": "サンダーベア",
 		"tr_text": "Thunder Bear"
+	},
+	{
+		"assign": "ID1Ant",
+		"jp_text": "ブリアーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "ID1Bleg",
+		"jp_text": "ダモス",
+		"tr_text": ""
+	},
+	{
+		"assign": "BD2Drm",
+		"jp_text": "デコル・マリューダ",
+		"tr_text": ""
 	},
 	{
 		"assign": "B3Blg",
@@ -2585,9 +2610,69 @@
 		"tr_text": "Decente Draal"
 	},
 	{
+		"assign": "ID1Coc",
+		"jp_text": "ゴルドラーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "ID1Man",
+		"jp_text": "プレディカーダ",
+		"tr_text": ""
+	},
+	{
 		"assign": "BD2Bhu",
 		"jp_text": "オメガ・アンゲル",
 		"tr_text": "Omega Angel"
+	},
+	{
+		"assign": "ID1Spa",
+		"jp_text": "ダーク・ラグネ",
+		"tr_text": ""
+	},
+	{
+		"assign": "TD1Crr",
+		"jp_text": "ボンタ・ベアッダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "TD1ThuW",
+		"jp_text": "オメガ・ダランブル",
+		"tr_text": ""
+	},
+	{
+		"assign": "TD1ThuWU",
+		"jp_text": "オメガ・ダランブル",
+		"tr_text": ""
+	},
+	{
+		"assign": "TD1ThuWC",
+		"jp_text": "ダランブル・クローネ",
+		"tr_text": ""
+	},
+	{
+		"assign": "TD1ThuFU",
+		"jp_text": "オメガ・ダリル",
+		"tr_text": ""
+	},
+	{
+		"assign": "TD1Pip",
+		"jp_text": "マーダ・トカッタ",
+		"tr_text": ""
+	},
+	{
+		"assign": "TD1Blo",
+		"jp_text": "コドッタ・イーデッタ",
+		"tr_text": ""
+	},
+	{
+		"assign": "AAADebugEnemyShotS",
+		"jp_text": "デバッグエネミーS",
+		"tr_text": ""
+	},
+	{
+		"assign": "AAADebugEnemyShotL",
+		"jp_text": "デバッグエネミーL",
+		"tr_text": ""
 	},
 	{
 		"assign": "N2Abe",
@@ -2598,6 +2683,16 @@
 		"assign": "P2Abe",
 		"jp_text": "ミントポーラベア",
 		"tr_text": "Mint Polar Bear"
+	},
+	{
+		"assign": "AAADebugEnemyMoveOnly",
+		"jp_text": "デバッグエネミーM",
+		"tr_text": ""
+	},
+	{
+		"assign": "TD1Hou",
+		"jp_text": "オロタ・ビケッタ",
+		"tr_text": ""
 	},
 	{
 		"assign": "KingRappy",

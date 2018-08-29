@@ -9420,6 +9420,16 @@
 		"tr_text": "Receive Counter"
 	},
 	{
+		"assign": "menu_main_button_linkage",
+		"jp_text": "連動する",
+		"tr_text": "Link Functions"
+	},
+	{
+		"assign": "manu_main_button_linkage_help",
+		"jp_text": "連動について",
+		"tr_text": "About Linking"
+	},
+	{
 		"assign": "menu_main_button_system",
 		"jp_text": "システム",
 		"tr_text": "System"
@@ -9458,16 +9468,6 @@
 		"assign": "menu_main_button_option",
 		"jp_text": "オプション",
 		"tr_text": "Options"
-	},
-	{
-		"assign": "menu_main_button_linkage",
-		"jp_text": "連動する",
-		"tr_text": "Link Functions"
-	},
-	{
-		"assign": "manu_main_button_linkage_help",
-		"jp_text": "連動について",
-		"tr_text": "About Linking"
 	},
 	{
 		"assign": "menu_sub_button_sale_chip",
@@ -16801,7 +16801,7 @@
 	},
 	{
 		"assign": "lookback_special_chapter_2",
-		"jp_text": "うれし恥ずかし海の家",
+		"jp_text": "夏だ！ 休みだ！ 海の家!!",
 		"tr_text": ""
 	},
 	{
@@ -16851,7 +16851,7 @@
 	},
 	{
 		"assign": "lookback_series2_chapter_1",
-		"jp_text": "第１章　あああ",
+		"jp_text": "第１章　運命は咆哮し嵐が来たる",
 		"tr_text": ""
 	},
 	{
