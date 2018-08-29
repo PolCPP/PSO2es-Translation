@@ -33,7 +33,7 @@ if len(sys.argv) < 3:
     sys.exit(os.EX_NOINPUT)
 
 dir = sys.argv[1]
-with open(sys.argv[2]) as c:
+with codecs.open(sys.argv[2], encoding="utf-8") as c:
     CSV = list(csv.reader(c, dialect='pipes', strict=True))
 
 for line in CSV:
