@@ -857,7 +857,7 @@
 	{
 		"assign": "rshop_dialog_b_02",
 		"jp_text": "{0}\nと、以下のアイテムを交換します。よろしいですか？",
-		"tr_text": "Items will be exchanged for {0}.\nAre you sure?"
+		"tr_text": "The following Items will be exchanged for\n{0}. Are you sure?"
 	},
 	{
 		"assign": "rshop_dialog_t_03",
@@ -9742,7 +9742,7 @@
 	{
 		"assign": "menu_fulldownload_b_01",
 		"jp_text": "<color=#f0df60>＜さらに楽しく！　快適に！＞</color>\n\n追加データをダウンロードすると\nフレンドのコスチュームやアイテムアイコンが\n本来の姿で表示されます！\n\nしかも！\nデータの読み込みにかかる\n待ち時間も短くなります！\n\n追加データをダウンロードして\nさらに楽しい『PSO2es』の世界を\nどうぞご堪能ください！\n\n\n※確認処理には数分かかる場合がございます。\n\n「はい」ボタンをタッチすると追加データの\n確認処理に進みます。",
-		"tr_text": "<color=#f0df60>Please confirm that you wish to perform\nthis operation.</color>\nBy downloading this data, you'll be able\nto see Item Icons for Friends and other\ncharacters.\n\n※This may take a few minutes. Actual downloading\nmay take longer.\n\nPress Yes to confirm and begin the\nData Download."
+		"tr_text": "<color=#f0df60>Please confirm that you wish to perform\nthis operation.</color>\nBy downloading this data, you'll be able\nto see Item Icons for Friends and other\ncharacters.\n\n※This may take a few minutes. Actual\ndownloading may take longer.\n\nPress Yes to confirm and begin the\nData Download."
 	},
 	{
 		"assign": "menu_fulldownload_t_02",
@@ -18702,7 +18702,7 @@
 	{
 		"assign": "photondice_result_win_dialog_b_07",
 		"jp_text": "<color=yellow><size=50>合計獲得LC：</size><size=48><%value>枚</size></color>",
-		"tr_text": "<color=yellow><size=50>合計獲得LC：</size><size=48><%value>枚</size></color>"
+		"tr_text": "<color=yellow><size=50>Total LC：</size><size=48><%value></size></color>"
 	},
 	{
 		"assign": "photondice_result_win_dialog_b_08",
@@ -20157,17 +20157,17 @@
 	{
 		"assign": "optioncommon_bgmset_title",
 		"jp_text": "BGM",
-		"tr_text": "BGM"
+		"tr_text": "Music"
 	},
 	{
 		"assign": "optioncommon_seset_title",
 		"jp_text": "SE",
-		"tr_text": "SE"
+		"tr_text": "SFX"
 	},
 	{
 		"assign": "optioncommon_voiceset_title",
 		"jp_text": "VOICE",
-		"tr_text": "VOICE"
+		"tr_text": "Voice"
 	},
 	{
 		"assign": "quest_counter_header_series",

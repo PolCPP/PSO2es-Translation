@@ -7,9 +7,9 @@
 			"リーダー、よろしくなっ！\r\nオレの強さ、見せてやるぜ！"
 		],
 		"tr_patterns": [
-			"Hey Leader!\nLet's play together!!",
-			"Leader!\nLet's battle using dice!",
-			"Ok Leader!\nI'll show you my strength!"
+			"Hey Leader!\r\nLet's play together!!",
+			"Leader!\r\nLet's battle using dice!",
+			"OK, Leader!\r\nI'll show you my strength!"
 		]
 	},
 	{
@@ -22,7 +22,7 @@
 		"tr_patterns": [
 			"Alright, let's do this!",
 			"Go! My dice!",
-			"Once more!\nYou can do it, win or lose!"
+			"Let's go!\r\nYou can do it, win or lose!"
 		]
 	},
 	{
@@ -33,9 +33,9 @@
 			"いっえーい！\r\nこのまま勝たせてもらうってば！"
 		],
 		"tr_patterns": [
-			"Hey, how's it going!",
-			"Hooray!\nThis is great!",
-			"Alright!\nHope I win!"
+			"Hehe, how was that!",
+			"Hooray!\r\nThis is great!",
+			"Alright!\r\nHope I win!"
 		]
 	},
 	{
@@ -46,9 +46,9 @@
 			"うええ……？\r\n手加減してくれよー。"
 		],
 		"tr_patterns": [
-			"Go go!\nI won't lose!!",
-			"Wow!\nCalling it now!",
-			"Whaa...?\nI still need practice."
+			"Ack!\r\nI'm gonna lose!!",
+			"Waah!\r\nCalling it now!",
+			"Whaa...?\r\nI still need practice."
 		]
 	},
 	{
@@ -119,7 +119,7 @@
 		],
 		"tr_patterns": [
 			"Wow!\r\nHow was that, Leader!",
-			"You might win this one!",
+			"I might win this time!",
 			"I won't lose!\r\nI will come out on top!"
 		]
 	},
@@ -131,9 +131,9 @@
 			"えぇっ！？　\r\nそんなぁ……"
 		],
 		"tr_patterns": [
-			"Ahh, I was defeated...!",
-			"Of course I'll lose to you, Leader...",
-			"Huuh?!\r\nI lost..."
+			"Ahh, I'm going to lose...!",
+			"Leader's sure to do better...",
+			"Huuh?!\r\nNot like this..."
 		]
 	},
 	{
@@ -179,7 +179,7 @@
 		"tr_patterns": [
 			"It's my turn. Greetings...",
 			"I hear it's important\r\nto relax sometimes...\r\nI wonder.",
-			"...Games are illogical.\r\nThat aside, it is fun..."
+			"...Games are illogical.\r\nAnd yet, they are fun..."
 		]
 	},
 	{
@@ -228,8 +228,8 @@
 			"今回は、幸運だったわ。"
 		],
 		"tr_patterns": [
-			"...This result is\r\nto be expected.",
-			"I was fortunate\r\non this occasion."
+			"...This result is to be expected.",
+			"I was fortunate on this occasion."
 		]
 	},
 	{
@@ -262,9 +262,9 @@
 			"まさか、俺に勝てるなんて\r\n思ってないよね、リーダー！"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"Hey there, Leader!\r\nDidn't expect to see you here.",
+			"Hey, you made it to me.\r\nAlright, let's go for it!",
+			"The way I see it, Leader,\r\nthere's no way you'll beat me!"
 		]
 	},
 	{
@@ -275,9 +275,9 @@
 			"さーて、どっちの運が強いかな？"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"Don't go easy on me, OK?",
+			"Hah!\r\nHow about this!",
+			"Well, shall we see whose luck is better?"
 		]
 	},
 	{
@@ -288,9 +288,9 @@
 			"いけるぜっ！\r\n悪いな、リーダー。"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"This is already over!",
+			"That's what happens\r\nwhen I go all-out.",
+			"Looking good!\r\nToo bad, Leader."
 		]
 	},
 	{
@@ -301,9 +301,9 @@
 			"しゃーないね。\r\nいいから、ダイスを振りなよ。"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"Well, maybe next time, huh...",
+			"I've still got a lot to learn about this game.",
+			"You win some, you lose some.\r\nIt's all in the luck of the dice."
 		]
 	},
 	{
@@ -313,8 +313,8 @@
 			"ごめんね、リーダー。\r\n今回は俺の勝ちみたいだね。"
 		],
 		"tr_patterns": [
-			"",
-			""
+			"How do you like that!\r\nJust goes to show the difference\r\nbetween you and me, huh?",
+			"Sorry about that, Leader.\r\nLooks like this round's mine."
 		]
 	},
 	{
@@ -324,8 +324,8 @@
 			"やったねえ！\r\nさすがリーダー！"
 		],
 		"tr_patterns": [
-			"",
-			""
+			"I knew it!\r\nI'm still no match for you, Leader!",
+			"Nice one!\r\nThat's why you're the Leader!"
 		]
 	},
 	{
@@ -335,8 +335,8 @@
 			"さて……と。\r\nもうひと勝負といくかい？"
 		],
 		"tr_patterns": [
-			"",
-			""
+			"Oh?\r\nLooks like a draw.",
+			"Well... how about that.\r\nOne more round?"
 		]
 	},
 	{
@@ -347,9 +347,9 @@
 			"こんにちは！\r\n息抜きをするのも大切ですよ？"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"<%name>, you'll be playing against me!",
+			"I'll be your opponent!",
+			"Hello!\r\nIt's important to take breaks\r\nfrom time to time, isn't it?"
 		]
 	},
 	{
@@ -360,9 +360,9 @@
 			"準備はいいですか？\r\n行きますよ！"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"This game... I will not lose!",
+			"I won't go easy on you!\r\nI'll give this everything I have!",
+			"Are you ready?\r\nHere I go!"
 		]
 	},
 	{
@@ -373,9 +373,9 @@
 			"これなら……勝てるかも！"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"What?! I got a good roll!",
+			"Heheheh, I got lucky!",
+			"A roll like this... I might win!"
 		]
 	},
 	{
@@ -386,9 +386,9 @@
 			"どうしましょうか……\r\nこれだと、負けてしまうかも……"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"Huh? Where's my launcher...",
+			"E... emergency!",
+			"What am I going to do...\r\nI can't win with a roll like this..."
 		]
 	},
 	{
@@ -398,8 +398,8 @@
 			"うふふ……\r\nありがとうございます！"
 		],
 		"tr_patterns": [
-			"",
-			""
+			"I did it! All in a day's\r\nwork for an administrator!",
+			"Eheheh...\r\nThank you very much!"
 		]
 	},
 	{
@@ -409,8 +409,8 @@
 			"素晴らしいですね！\r\nさすがはリーダー、完敗です！"
 		],
 		"tr_patterns": [
-			"",
-			""
+			"As I thought.\r\nThere was nothing I could have done...",
+			"That was amazing!As I expected, a total\r\ndefeat from Leader!"
 		]
 	},
 	{
@@ -420,8 +420,8 @@
 			"リーダーが良ければ\r\nもう一度やりませんか？"
 		],
 		"tr_patterns": [
-			"",
-			""
+			"Oh?\r\nIt's a draw...",
+			"Would you like to\r\ntry again, Leader?"
 		]
 	},
 	{
@@ -517,9 +517,9 @@
 			"リーダー！\r\nがんばりましょう！"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"Ehehe, Leader!\r\nYou'll be playing against me!",
+			"I'm doing my best to\nbecome a great ARKS!",
+			"Leader!\r\nLet's do our best!"
 		]
 	},
 	{
@@ -530,9 +530,9 @@
 			"いい目が出ますように！"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"Alright then... Here I go!",
+			"This is it!",
+			"I hope I get a good roll!"
 		]
 	},
 	{
@@ -543,9 +543,9 @@
 			"負けませんよ！\r\n勝たせていただきます！"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"Wow!\r\nHow was that, Leader!",
+			"I might win this time!",
+			"I won't lose!\r\nI will come out on top!"
 		]
 	},
 	{
@@ -556,9 +556,9 @@
 			"えぇっ！？　\r\nそんなぁ……"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"Ahh, I'm going to lose...!",
+			"Leader's sure to do better...",
+			"Huuh?!\r\nNot like this..."
 		]
 	},
 	{
@@ -568,8 +568,8 @@
 			"えへへっ！　嬉しいです！"
 		],
 		"tr_patterns": [
-			"",
-			""
+			"I did it!",
+			"Ehehe! I'm so happy!"
 		]
 	},
 	{
@@ -579,8 +579,8 @@
 			"おめでとうございます！"
 		],
 		"tr_patterns": [
-			"",
-			""
+			"Just as expected, Leader!",
+			"Congratulations!"
 		]
 	},
 	{
@@ -590,8 +590,8 @@
 			"うーん……\r\n引き分けですか……"
 		],
 		"tr_patterns": [
-			"",
-			""
+			"Whew... It's a draw.",
+			"Hmm...\r\nIs it a draw...?"
 		]
 	},
 	{
@@ -772,9 +772,9 @@
 			"ねぇねぇ、遊んでよ！\r\n退屈してたんだ！"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"It's me, Pumpkin Rod!\r\nI came to give you some treats!",
+			"I'm gonna challenge you now!",
+			"I'm bored!\r\nHey, play with me!"
 		]
 	},
 	{
@@ -942,9 +942,9 @@
 			"ダイスのゲームね……\r\nダイスとプレゼント箱って形が似てるし\r\nなんとかなると思うの！"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"A present from me to you!\r\nIt's me, Gift Sack!",
+			"If you let me win, I'll\r\ngive you a present!",
+			"A game of dice... Dice and\r\npresents are pretty much the\r\nsame shape, so I think I'll manage!"
 		]
 	},
 	{
@@ -1027,9 +1027,9 @@
 			"インペリアルピックちゃんと\r\n勝負するのだ！"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"Happy New Year! Imperial Pick's\r\nhere to bring in the new year!\r\nnGreat to see you!",
+			"Let's play with dice\r\nfor New Year's Day!",
+			"Play a round with Imperial Pick!"
 		]
 	},
 	{
@@ -1877,9 +1877,9 @@
 			"見せに来た。"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"It's Twin Kamui.\r\n...Does this dress suit me?",
+			"A pure white dress...\r\nFor some reason, my\r\nheart's pounding...",
+			"I came to show you this."
 		]
 	},
 	{
@@ -2132,9 +2132,9 @@
 			"こんな場所が他にいくつも？\r\nアークスって、すごいんですねーっ！"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"It's me, Akhtar Al-alef!\r\nI'll do my best, so please\r\ntake good care of me!!",
+			"I'm investigating ARKS culture!\r\nUm, this is... a game, right?",
+			"There are places like this here?\r\nARKS really is amazing!"
 		]
 	},
 	{
@@ -2413,9 +2413,9 @@
 			"次はリーダーの番ですよ！\r\nさぁ！　どうぞ！！"
 		],
 		"tr_patterns": [
-			"This is... better than\r\nusual! Is this the power\r\nof a swimsuit, too?",
-			"Wow! This is great!\r\nStill, is this the swimsuit's power?",
-			"It's Leader's turn next!\r\nCome on! Here you go!!"
+			"This is... better than usual!\r\nDid the swimsuit do this, too?",
+			"Wow! This is great!\r\nStill, is this just the swimsuit's power?",
+			"It's Leader's turn next!\r\nCome on! Go for it!!"
 		]
 	},
 	{
@@ -2426,7 +2426,7 @@
 			"リーダー……\r\n手加減してくださいね……"
 		],
 		"tr_patterns": [
-			"M-my swimsuit... It was defeated!",
+			"M-my swimsuit... It'll be ruined!",
 			"Ooh... No good...",
 			"Leader...\r\nPlease go easy on me..."
 		]
@@ -2438,8 +2438,8 @@
 			"リーダー！\r\n今年のバカンス、すっごく楽しいです！！"
 		],
 		"tr_patterns": [
-			"Leader!\r\nLet's have lots of fun\r\nthis summer, too!",
-			"Leader!\r\nThis year's vacation\r\nis so much fun!"
+			"Leader!\r\nLet's have lots of fun this summer, too!",
+			"Leader!\r\nThis year's vacation is so much fun!"
 		]
 	},
 	{
@@ -2460,7 +2460,7 @@
 			"引き分けですね。\r\nえへへ……"
 		],
 		"tr_patterns": [
-			"A rematch!\r\nLet's have as much\r\nfun as we can!",
+			"A rematch!\r\nLet's have as much fun as we can!",
 			"It's a draw.\r\nEhehe..."
 		]
 	},
@@ -2557,9 +2557,9 @@
 			"このゲームで\r\n度胸を鍛えることは\r\nできないかな……"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"I am Nemesis Saber.\r\nIf you are playing, I shall\r\nbe your opponent.",
+			"This game is good.\r\nUnlike a real battle,\r\nnobody has to get hurt.",
+			"I wonder if I can use this\r\ngame to train my courage..."
 		]
 	},
 	{
@@ -2570,9 +2570,9 @@
 			"いざ勝負だ！"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"Dance, my dice!!",
+			"Alright, let's go!",
+			"Now, game on!"
 		]
 	},
 	{
@@ -2583,9 +2583,9 @@
 			"ネメシスの誇りにかけて\r\n負けないよ！"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"This is the power of Nemesis!!",
+			"Whew...\r\nI was nervous.",
+			"The pride of Nemesis can\r\nnever be defeated!"
 		]
 	},
 	{
@@ -2596,8 +2596,8 @@
 			"ネメシスの誇りが！"
 		],
 		"tr_patterns": [
-			"",
-			"",
+			"Tell me...\r\nCan this outcome be true?",
+			"Damn...\r\nI was too weak. Did I bring\r\nthis result upon myself..?",
 			""
 		]
 	},
@@ -2608,8 +2608,8 @@
 			"僕と勝負をしてくれてありがとう。\r\nまたやろう！"
 		],
 		"tr_patterns": [
-			"",
-			""
+			"The light of Nemesis\r\nilluminates the universe!",
+			"Thank you for being my opponent.\r\nLet's do this again some time!"
 		]
 	},
 	{
@@ -2619,8 +2619,8 @@
 			"僕は、この敗北から\r\n学ばなければならない。"
 		],
 		"tr_patterns": [
-			"",
-			""
+			"What should I do?\r\nThis pain...",
+			"I have to learn from this defeat."
 		]
 	},
 	{
@@ -2630,8 +2630,8 @@
 			"引き分け、再ゲームだ。\r\n次こそは僕が勝つよ！"
 		],
 		"tr_patterns": [
-			"",
-			""
+			"We will have to keep fighting\r\nuntil a result is decided...",
+			"It's a draw, so we play again.\r\nI will win this time!"
 		]
 	},
 	{
@@ -2642,9 +2642,9 @@
 			"ふふふ……\r\n感じます。あなたの欲望を……"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"I am Slave Saber...\r\nMy sword feeds on desire\r\nand promises victory.",
+			"There is desire in this place...\r\nBut this desire is bright and warm.",
+			"Heheheh...\r\nI feel it. Your desire..."
 		]
 	},
 	{
@@ -2655,9 +2655,9 @@
 			"見極めましょう、あなたを。\r\nまずは私から行きます。"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"For a Slave series, defeat\r\nin battle is forbidden..",
+			"Can your desire surpass mine?",
+			"The decisive battle begins.\r\nI will make the first move."
 		]
 	},
 	{
@@ -2668,9 +2668,9 @@
 			"勝ち続けること。\r\nそれが私の役目……"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"Now... Show me your desire!",
+			"Now, try to do better than Slave.\r\nIf you can.",
+			"This is my purpose.\r\nI must keep winning."
 		]
 	},
 	{
@@ -2681,9 +2681,9 @@
 			"私自身の欲望が\r\n結果を狂わせたのでしょうか。"
 		],
 		"tr_patterns": [
-			"",
-			"",
-			""
+			"Desire is... a sinful thing.",
+			"My power abandoned me...?\r\nHow could this happen...",
+			"Did a flaw in my own desires\r\nbring about this result?"
 		]
 	},
 	{
@@ -2693,8 +2693,8 @@
 			"恥じることはありません。\r\n私が勝って当然なのですから。"
 		],
 		"tr_patterns": [
-			"",
-			""
+			"Your desire is not yet sufficient.\r\nAre you prepared to allow\r\nyourself to become lost in it?",
+			"This is nothing to be ashamed of.\r\nIt is natural that I would win."
 		]
 	},
 	{
@@ -2704,8 +2704,8 @@
 			"これは、あなたの欲望が\r\n掴み取った結果。\r\n誇ってもいいのですよ。"
 		],
 		"tr_patterns": [
-			"",
-			""
+			"Ask... and you shall receive.",
+			"Grasping for what you desire\r\nhas brought you this result.\r\nBe proud of it."
 		]
 	},
 	{
@@ -2715,8 +2715,8 @@
 			"なかなかですね。\r\nですが、これではあと一歩\r\n私に届きません。"
 		],
 		"tr_patterns": [
-			"",
-			""
+			"Are you feeling tired?\r\nThis battle is not over yet.",
+			"Quite good.\r\nHowever, we will not make\r\nany progress like this."
 		]
 	},
 	{
