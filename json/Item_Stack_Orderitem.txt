@@ -11,14 +11,14 @@
 		"jp_text": "アギニスの肉",
 		"tr_text": "Aginis Meat",
 		"jp_explain": "アギニスから採れた肉。\n脂身が少なくあっさりとしている。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "アギニスから採れた肉。\n脂身が少なくあっさりとしている。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Meat taken from an Aginis. A low\namount of fat gives it a plain flavor.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "3302",
 		"jp_text": "アギニスの胸肉",
 		"tr_text": "Aginis Breast Meat",
 		"jp_explain": "アギニスから採れた胸部の肉。\n脂身が少なく、ヘルシー。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "アギニスから採れた胸部の肉。\n脂身が少なく、ヘルシー。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Breast meat taken from an Aginis.\nLean and healthy, with little fat.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "3303",
@@ -67,7 +67,7 @@
 		"jp_text": "クラーダの脚",
 		"tr_text": "Krahda Legs",
 		"jp_explain": "撃退後、拡散せずに形となって残った\nクラーダの脚部。\n依頼者：<c a1ff6d>ローラ<c>　再受注不可",
-		"tr_explain": "A Krahda leg that remained intact\nwhen its owner was defeated.\nClient: <c a1ff6d>Lola<c> (one-time order)"
+		"tr_explain": "A Krahda leg that remained intact\nafter the defeat of its owner.\nClient: <c a1ff6d>Lola<c> (one-time order)"
 	},
 	{
 		"assign": "33010",
@@ -942,7 +942,7 @@
 		"jp_text": "スパルガンの不発弾",
 		"tr_text": "Spargun Grenades",
 		"jp_explain": "スパルガンが射出する榴弾。\n不発弾のようだが……？\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "スパルガンが射出する榴弾。\n不発弾のようだが……？\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "A grenade fired by a Spargun.\nSeems to be an unexploded bomb...?\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330135",
@@ -963,7 +963,7 @@
 		"jp_text": "バリドランの鱗",
 		"tr_text": "Baridran Scales",
 		"jp_explain": "バリドランから採れた鱗。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "バリドランから採れた鱗。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Scales taken from a Baridran.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330138",
@@ -3637,14 +3637,14 @@
 		"jp_text": "ゲームのギア",
 		"tr_text": "Game Gear",
 		"jp_explain": "アークスで流行っている\n携帯ゲーム機の部品。\n依頼者：<c a1ff6d>シー<c>　アークス共闘祭",
-		"tr_explain": "Parts of a portable gaming device,\nused by many ARKS.\nClient: <c a1ff6d>Xie<c>　(ARKS Unity Festival)"
+		"tr_explain": "Parts of a portable gaming device\nused by many ARKS.\nClient: <c a1ff6d>Xie<c> (ARKS Unity Festival)"
 	},
 	{
 		"assign": "330577",
 		"jp_text": "騎龍の角",
 		"tr_text": "Dragon Chariot Horns",
 		"jp_explain": "ソル・ディランダールや\nディランダールから採れる角。\n依頼者：<c a1ff6d>シー<c>　バレンタイン",
-		"tr_explain": "Horns from Dirandal and Sol Dirandal.\n\nClient: <c a1ff6d>Xie<c>　(Halloween)"
+		"tr_explain": "Horns from Dirandal and Sol Dirandal.\n\nClient: <c a1ff6d>Xie<c> (Halloween)"
 	},
 	{
 		"assign": "330578",
@@ -3756,7 +3756,7 @@
 		"jp_text": "ラヴィ・ラッピーの羽根",
 		"tr_text": "Lovey Rappy Feathers",
 		"jp_explain": "ラヴィ・ラッピーの\n落としていった羽根。\n依頼者：<c a1ff6d>シー<c>　ホワイトデー",
-		"tr_explain": "Feathers dropped by a Lovey Rappy.\n\nClient: <c a1ff6d>Xie<c>　(White Day)"
+		"tr_explain": "Feathers dropped by a Lovey Rappy.\n\nClient: <c a1ff6d>Xie<c> (White Day)"
 	},
 	{
 		"assign": "330596",
@@ -4330,7 +4330,7 @@
 		"jp_text": "鈍色の鱗",
 		"tr_text": "Dark Grey Scales",
 		"jp_explain": "龍族が落とした鱗。\n鈍く輝きを放っている。\n依頼者：<c a1ff6d>セラフィ<c>　期間限定再受注可能",
-		"tr_explain": "龍族が落とした鱗。\n鈍く輝きを放っている。\nClient: <c a1ff6d>Seraphy<c> (limited time)"
+		"tr_explain": "Scales dropped by Dragonkin.\nThey carry a dull shine.\nClient: <c a1ff6d>Seraphy<c> (limited time)"
 	},
 	{
 		"assign": "330678",
@@ -4407,7 +4407,7 @@
 		"jp_text": "魂狩の大鎌",
 		"tr_text": "Spirit Scythe",
 		"jp_explain": "グアル・ジグモルデが持つ大きな鎌。\n魂をも刈り取りそうな形をしている。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "グアル・ジグモルデが持つ大きな鎌。\n魂をも刈り取りそうな形をしている。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Guar Zigmorde's giant scythe.\nShaped as if it reaps one's very soul.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330695",
@@ -4575,14 +4575,14 @@
 		"jp_text": "１５式戦車の主砲",
 		"tr_text": "Type-15 Tank Cannon",
 		"jp_explain": "１５式戦車の主砲。\n様々な種類の砲弾を発射できる。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "１５式戦車の主砲。\n様々な種類の砲弾を発射できる。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Main gun from a Type-15 Tank.\nCapable of firing many kinds of shell.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330722",
 		"jp_text": "トレインモーター",
-		"tr_text": "Train Mortar",
+		"tr_text": "Train Motor",
 		"jp_explain": "トレイン・ギドランのモーター。\n小型で軽量かつ省電力な設計。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "トレイン・ギドランのモーター。\n小型で軽量かつ省電力な設計。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Motor belonging to Train Ghidoran.\nA compact, energy-saving design.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330723",
