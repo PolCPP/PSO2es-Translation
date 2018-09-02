@@ -641,7 +641,7 @@
 		"jp_text": "ファングバンサーの皮",
 		"tr_text": "Fang Banther Hide",
 		"jp_explain": "ファングバンサーから採れた皮。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "Leather harvested from a Fang\nBanther.\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Hide taken from a Fang Banther.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "33092",
@@ -669,14 +669,14 @@
 		"jp_text": "バリドランの肉",
 		"tr_text": "Baridran Meat",
 		"jp_explain": "バリドランから採れた肉。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "バリドランから採れた肉。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Meat taken from a Baridran.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "33096",
 		"jp_text": "ウィンディラの翼角",
 		"tr_text": "Windira Wing Horns",
 		"jp_explain": "ウィンディラの翼から採れた角。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ウィンディラの翼から採れた角。\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Horns taken from a Windira's wings.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "33097",
@@ -690,7 +690,7 @@
 		"jp_text": "クォーツ・ドラゴンの鱗",
 		"tr_text": "Quartz Dragon Scales",
 		"jp_explain": "クォーツ・ドラゴンから採れた鱗。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "クォーツ・ドラゴンから採れた鱗。\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Scales taken from a Quartz Dragon.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "33099",
@@ -767,7 +767,7 @@
 		"jp_text": "アギニスのかぎ爪",
 		"tr_text": "Aginis Talon",
 		"jp_explain": "アギニスから採れたかぎ爪。\n\n依頼者：<c a1ff6d>シー<c>　ハロウィン",
-		"tr_explain": "アギニスから採れたかぎ爪。\n\nClient: <c a1ff6d>Xie<c> (Halloween)"
+		"tr_explain": "Talons taken from an Aginis.\n\nClient: <c a1ff6d>Xie<c> (Halloween)"
 	},
 	{
 		"assign": "330110",
@@ -795,140 +795,140 @@
 		"jp_text": "ナヴ・ラッピーの羽毛",
 		"tr_text": "Nab Rappy Feathers",
 		"jp_explain": "ナヴ・ラッピーから採れた羽毛。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "ナヴ・ラッピーから採れた羽毛。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Feathers taken from a Nab Rappy.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330114",
 		"jp_text": "ウーダンの毛",
 		"tr_text": "Oodan Fur",
 		"jp_explain": "ウーダンから採れた毛。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "ウーダンから採れた毛。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Fur taken from an Oodan.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330115",
 		"jp_text": "ザウーダンの棘",
-		"tr_text": "Za Oodan Thorns",
+		"tr_text": "Za Oodan Spines",
 		"jp_explain": "ザウーダンから採れた上腕部の棘。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "ザウーダンから採れた上腕部の棘。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Spines taken from the upper arm of a\nZa Oodan.\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330116",
 		"jp_text": "ガルフの牙",
 		"tr_text": "Gulf Fangs",
 		"jp_explain": "ガルフから採れた牙。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "ガルフから採れた牙。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Fangs taken from a Gulf.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330117",
 		"jp_text": "フォードランのたてがみ",
-		"tr_text": "Fordoran Manes",
+		"tr_text": "Fordoran Mane",
 		"jp_explain": "フォードランから採れたたてがみ。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "フォードランから採れたたてがみ。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Mane taken from a Fordoran.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330118",
 		"jp_text": "ノーディランの尻尾",
-		"tr_text": "Nordiran Tails",
+		"tr_text": "Nordiran Tail",
 		"jp_explain": "ノーディランから採れた尻尾。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "ノーディランから採れた尻尾。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Tail taken from a Nordiran.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330119",
 		"jp_text": "シル・ディーニアンの鱗",
 		"tr_text": "Sil Dinian Scales",
 		"jp_explain": "シル・ディーニアンから採れた鱗。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "シル・ディーニアンから採れた鱗。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Scales taken from a Sil Dinian.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330120",
 		"jp_text": "ソル・ディーニアンの牙",
 		"tr_text": "Sol Dinian Fangs",
 		"jp_explain": "ソル・ディーニアンから採れた牙。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "ソル・ディーニアンから採れた牙。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Fangs taken from a Sol Dinian.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330121",
 		"jp_text": "ディーニアンの背びれ",
 		"tr_text": "Dinian Fins",
 		"jp_explain": "ディーニアンから採れた背びれの一部。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "ディーニアンから採れた背びれの一部。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Fins taken from a Dinian.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330122",
 		"jp_text": "フォンガルフの爪",
 		"tr_text": "Fangulf Claws",
 		"jp_explain": "フォンガルフから採れた爪。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "フォンガルフから採れた爪。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Claws taken from a Fangulf.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330123",
 		"jp_text": "ガロンゴの臼歯",
 		"tr_text": "Garongo Molars",
 		"jp_explain": "ガロンゴから採れた臼歯。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "ガロンゴから採れた臼歯。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Molar teeth taken from a Garongo.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330124",
 		"jp_text": "ダガンの甲殻",
-		"tr_text": "Dagan Carapaces",
+		"tr_text": "Dagan Carapace",
 		"jp_explain": "ダガンから採れた甲殻。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "ダガンから採れた甲殻。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Carapace taken from a Dagan.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330125",
 		"jp_text": "カルターゴの脚",
 		"tr_text": "Kartargot Legs",
 		"jp_explain": "カルターゴから採れた脚。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "カルターゴから採れた脚。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Legs taken from a Kartargot.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330126",
 		"jp_text": "ヴォル・ドラゴンの爪",
-		"tr_text": "Vol Dragon Claw",
+		"tr_text": "Vol Dragon Claws",
 		"jp_explain": "ヴォル・ドラゴンから採れた爪。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "ヴォル・ドラゴンから採れた爪。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Claws taken from a Vol Dragon.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330127",
 		"jp_text": "クラーダの大あご",
 		"tr_text": "Krahda Mandibles",
 		"jp_explain": "クラーダから採れた大あご。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "クラーダから採れた大あご。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Mouth parts taken from a Krahda.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330128",
 		"jp_text": "エル・アーダの羽",
 		"tr_text": "El Ahda Wings",
 		"jp_explain": "エル・アーダから採れた羽。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "エル・アーダから採れた羽。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Wings taken from an El Ahda.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330129",
 		"jp_text": "シグノガンの砲身",
-		"tr_text": "Signo Gun Barrels",
+		"tr_text": "Signo Gun Barrel",
 		"jp_explain": "シグノガンを構成する部品の一つ。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "シグノガンを構成する部品の一つ。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "One of the parts that make up a\nSigno Gun.\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330130",
 		"jp_text": "グワナーダの甲殻",
 		"tr_text": "Gwanahda Carapaces",
 		"jp_explain": "グワナーダから採れた甲殻。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "グワナーダから採れた甲殻。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Carapace taken from a Gwanahda.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330131",
 		"jp_text": "イエーデの毛",
 		"tr_text": "Yede Fur",
 		"jp_explain": "イエーデから採れた毛。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "イエーデから採れた毛。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Fur taken from a Yede.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330132",
 		"jp_text": "マルモスのひづめ",
 		"tr_text": "Malmoth Hooves",
 		"jp_explain": "マルモスから採れたひづめ。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "マルモスから採れたひづめ。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Hooves taken from a Malmoth.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330133",
@@ -977,7 +977,7 @@
 		"jp_text": "キャタドランサの牙",
 		"tr_text": "Caterdransa Fangs",
 		"jp_explain": "キャタドランサから採れた牙。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "キャタドランサから採れた牙。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Fangs taken from a Caterdransa.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330140",
@@ -2146,7 +2146,7 @@
 		"jp_text": "アギニスの尾羽根",
 		"tr_text": "Aginis Tail Feathers",
 		"jp_explain": "アギニスから採れた尾羽根。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "アギニスから採れた尾羽根。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Tail feathers taken from an Aginis.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330307",
@@ -2160,14 +2160,14 @@
 		"jp_text": "ブリアーダの羽",
 		"tr_text": "Breeahda Wings",
 		"jp_explain": "ブリアーダから採れた羽。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "ブリアーダから採れた羽。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Wings taken from a Breeahda.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330309",
 		"jp_text": "ファンガルフルの爪",
 		"tr_text": "Fangulfur Claws",
 		"jp_explain": "ファンガルフルから採れた爪。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "ファンガルフルから採れた爪。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Claws taken from a Fangulfur.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330310",
@@ -2181,7 +2181,7 @@
 		"jp_text": "クォーツ・ドラゴンの牙",
 		"tr_text": "Quartz Dragon Fangs",
 		"jp_explain": "クォーツ・ドラゴンから採れた牙。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "クォーツ・ドラゴンから採れた牙。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Fangs taken from a Quartz Dragon.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330312",
@@ -2214,9 +2214,9 @@
 	{
 		"assign": "330316",
 		"jp_text": "クラバーダの甲殻",
-		"tr_text": "Krabahda Shells",
+		"tr_text": "Krabahda Shell",
 		"jp_explain": "クラバーダから採れた甲殻。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "クラバーダから採れた甲殻。\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Shell taken from a Krabahda.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330317",
@@ -2256,9 +2256,9 @@
 	{
 		"assign": "330322",
 		"jp_text": "ファンガルフルの牙",
-		"tr_text": "Fangulfur Fang",
+		"tr_text": "Fangulfur Fangs",
 		"jp_explain": "ファンガルフルより採れた牙。\n\n依頼者：<c a1ff6d>シー<c>　クリスマス",
-		"tr_explain": "ファンガルフルより採れた牙。\n\nClient: <c a1ff6d>Xie<c> (Christmas)"
+		"tr_explain": "Fangs taken from a Fangulfur.\n\nClient: <c a1ff6d>Xie<c> (Christmas)"
 	},
 	{
 		"assign": "330323",
@@ -2277,9 +2277,9 @@
 	{
 		"assign": "330325",
 		"jp_text": "上質なロウ",
-		"tr_text": "High-Quality Raw",
+		"tr_text": "High-Quality Wax",
 		"jp_explain": "キャンドルを作るために必要なもの。\n\n依頼者：<c a1ff6d>シー<c>　クリスマス",
-		"tr_explain": "キャンドルを作るために必要なもの。\n\nClient: <c a1ff6d>Xie<c> (Christmas)"
+		"tr_explain": "Just what you need to make a candle.\n\nClient: <c a1ff6d>Xie<c> (Christmas)"
 	},
 	{
 		"assign": "330326",
@@ -2601,7 +2601,7 @@
 		"jp_text": "ディガーラの爪",
 		"tr_text": "Deegalla Nails",
 		"jp_explain": "ディガーラから採れた爪。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
-		"tr_explain": "ディガーラから採れた爪。\n\nClient: <c a1ff6d>Farma<c> (one-time order)"
+		"tr_explain": "Nails taken from a Deegalla.\n\nClient: <c a1ff6d>Farma<c> (one-time order)"
 	},
 	{
 		"assign": "330383",
@@ -2720,28 +2720,28 @@
 		"jp_text": "セグレズンのもも肉",
 		"tr_text": "Seglez'n Thigh Meat",
 		"jp_explain": "セグレズンから採れたもも肉。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "セグレズンから採れたもも肉。\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Thigh meat taken from a Seglez'n.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330403",
 		"jp_text": "アクルプスの背びれ",
 		"tr_text": "Aqulupus Dorsal Fins",
 		"jp_explain": "アクルプスから採れた背びれ。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "アクルプスから採れた背びれ。\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Dorsal fins taken from an Aqulupus.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330404",
 		"jp_text": "ブルメガーラのうろこ",
 		"tr_text": "Blumegalla Scales",
 		"jp_explain": "ブルメガーラから採れたうろこ。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ブルメガーラから採れたうろこ。\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Scales taken from a Blumegalla.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330405",
 		"jp_text": "オルグブランの胸肉",
-		"tr_text": "Org Blan Breasts",
+		"tr_text": "Org Blan Breast Meat",
 		"jp_explain": "オルグブランから採れた胸肉。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "オルグブランから採れた胸肉。\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Breast meat taken from a Org Blan.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330406",
@@ -2755,7 +2755,7 @@
 		"jp_text": "セグレズンの蓄電袋",
 		"tr_text": "Seglez'n Pouch",
 		"jp_explain": "セグレズンから採れた蓄電袋。\n\n依頼者：<c a1ff6d>シー<c>　サマー",
-		"tr_explain": "セグレズンから採れた蓄電袋。\n\nClient: <c a1ff6d>Xie<c> (Summer)"
+		"tr_explain": "Pouch taken from a Seglez'n.\n\nClient: <c a1ff6d>Xie<c> (Summer)"
 	},
 	{
 		"assign": "330408",
@@ -3210,7 +3210,7 @@
 		"jp_text": "ディガーラの皮",
 		"tr_text": "Deegalla Hide",
 		"jp_explain": "ディガーラから採れた皮。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
-		"tr_explain": "ディガーラから採れた皮。\n\nClient: <c a1ff6d>Farma<c> (one-time order)"
+		"tr_explain": "Hide taken from a Deegalla.\n\nClient: <c a1ff6d>Farma<c> (one-time order)"
 	},
 	{
 		"assign": "330473",
@@ -3292,16 +3292,16 @@
 	{
 		"assign": "330517",
 		"jp_text": "タロベッコのくちばし",
-		"tr_text": "Talobecko Beaks",
+		"tr_text": "Talobecko Beak",
 		"jp_explain": "タロベッコから採れたくちばし。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "タロベッコから採れたくちばし。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Beak taken from a Talobecko.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330518",
 		"jp_text": "ヴィド・ギロスの尾びれ",
-		"tr_text": "Vid Gilos Fins",
+		"tr_text": "Vid Gilos Tail Fin",
 		"jp_explain": "ヴィド・ギロスの尾にあるひれ。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "ヴィド・ギロスの尾にあるひれ。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Tail fin taken from a Vid Gilos.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330519",
@@ -3343,7 +3343,7 @@
 		"jp_text": "タグ・アクルプスの牙",
 		"tr_text": "Tag Aqulupus Fangs",
 		"jp_explain": "タグ・アクルプスから採れた牙。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
-		"tr_explain": "タグ・アクルプスから採れた牙。\n\nClient: <c a1ff6d>Farma<c> (one-time order)"
+		"tr_explain": "Fangs taken from a Tag Aqulupus.\n\nClient: <c a1ff6d>Farma<c> (one-time order)"
 	},
 	{
 		"assign": "330525",
