@@ -165,7 +165,7 @@
 		"jp_text": "ヴォル・ドラゴンの牙",
 		"tr_text": "Vol Dragon Fangs",
 		"jp_explain": "ヴォル・ドラゴンから採れた牙。\n非常に硬く加工しづらい。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ヴォル・ドラゴンから採れた牙。\n非常に硬く加工しづらい。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Fangs from a Vol Dragon.\nVery difficult to process.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "33024",
@@ -368,14 +368,14 @@
 		"jp_text": "黒い小さな実",
 		"tr_text": "Small Black Fruit",
 		"jp_explain": "リリーパで採取された実。\n黒い表皮は硬く、割りにくい。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "リリーパで採取された実。\n黒い表皮は硬く、割りにくい。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "A fruit collected on Lillipa. Its black\nskin is tough and difficult to split.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "33053",
 		"jp_text": "白い小さな実",
 		"tr_text": "Small White Fruit",
 		"jp_explain": "リリーパで採取された実。\n白い表皮は硬く、食べにくい。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "リリーパで採取された実。\n白い表皮は硬く、食べにくい。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "A fruit collected on Lillipa. Its white\nskin is tough and difficult to eat.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "33054",
@@ -396,7 +396,7 @@
 		"jp_text": "岩塩",
 		"tr_text": "Rock Salt",
 		"jp_explain": "リリーパで採取された石。\n塩分が結晶化したもの。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "リリーパで採取された石。\n塩分が結晶化したもの。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "A rock collected on Lillipa.\nA crystal of pure salt.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "33057",
@@ -445,42 +445,42 @@
 		"jp_text": "ガルフルの肉",
 		"tr_text": "Gulfur Meat",
 		"jp_explain": "ガルフルから採れた肉。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ガルフルから採れた肉。\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Meat taken from a Gulfur.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "33064",
 		"jp_text": "ファンガルフルの肉",
 		"tr_text": "Fangulfur Meat",
 		"jp_explain": "ファンガルフルから採れた肉。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ファンガルフルから採れた肉。\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Meat taken from a Fangulfur.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "33065",
 		"jp_text": "マルモスの肉",
 		"tr_text": "Malmoth Meat",
 		"jp_explain": "マルモスから採れた肉。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "マルモスから採れた肉。\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Meat taken from a Malmoth.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "33066",
 		"jp_text": "デ・マルモスの肉",
 		"tr_text": "De Malmoth Meat",
 		"jp_explain": "デ・マルモスから採れた肉。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "デ・マルモスから採れた肉。\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Meat taken from a De Malmoth.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "33067",
 		"jp_text": "スノウバンサーの肉",
 		"tr_text": "Snow Banther Meat",
 		"jp_explain": "スノウバンサーから採れた肉。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "スノウバンサーから採れた肉。\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Meat taken from a Snow Banther.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "33068",
 		"jp_text": "スノウバンシーの肉",
 		"tr_text": "Snow Banshee Meat",
 		"jp_explain": "スノウバンシーから採れた肉。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "スノウバンシーから採れた肉。\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Meat taken from a Snow Banshee.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "33069",
@@ -576,30 +576,30 @@
 	{
 		"assign": "33082",
 		"jp_text": "フォンガルフの頭角",
-		"tr_text": "Fangulf Horns",
+		"tr_text": "Fangulf Horn",
 		"jp_explain": "フォンガルフの頭部より採れた角。\n\n依頼者：<c a1ff6d>コフィー<c>　再受注不可",
-		"tr_explain": "フォンガルフの頭部より採れた角。\n\nClient: <c a1ff6d>Koffie<c> (one-time order)"
+		"tr_explain": "Horn taken from a Fangulf's head.\n\nClient: <c a1ff6d>Koffie<c> (one-time order)"
 	},
 	{
 		"assign": "33083",
 		"jp_text": "ガーディナンのパーツａ",
 		"tr_text": "Guardinane Parts a",
 		"jp_explain": "ガーディナンを構成する部品の一つ。\n用途は不明。\n依頼者：<c a1ff6d>エコー<c>　再受注不可",
-		"tr_explain": "ガーディナンを構成する部品の一つ。\n用途は不明。\nClient: <c a1ff6d>Echo<c> (one-time order)"
+		"tr_explain": "One of the parts that make up a\nGuardinane. Its purpose is unknown.\nClient: <c a1ff6d>Echo<c> (one-time order)"
 	},
 	{
 		"assign": "33084",
 		"jp_text": "ガーディンのフレーム",
 		"tr_text": "Guardine Frame",
 		"jp_explain": "ガーディンを構成する部品の一つ。\n強度の割に軽い素材で出来ている。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ガーディンを構成する部品の一つ。\n強度の割に軽い素材で出来ている。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "One of the parts that make up a\nGuardine. Light, yet strong.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "33085",
 		"jp_text": "ギルナスの装甲",
 		"tr_text": "Gilnas Armor",
 		"jp_explain": "ギルナスを構成する部品の一つ。\nギルナスを覆う装甲。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ギルナスを構成する部品の一つ。\nギルナスを覆う装甲。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "One of the parts that make up a\nGilnas. Part of the Gilnas's armor.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "33086",
@@ -613,7 +613,7 @@
 		"jp_text": "ガロンゴの背棘",
 		"tr_text": "Garongo Spine",
 		"jp_explain": "ガロンゴの背中から採れた棘。",
-		"tr_explain": "A thorny spine taken from a\nGarongo."
+		"tr_explain": "A thorny spine taken from a Garongo."
 	},
 	{
 		"assign": "33088",
@@ -641,7 +641,7 @@
 		"jp_text": "ファングバンサーの皮",
 		"tr_text": "Fang Banther Hide",
 		"jp_explain": "ファングバンサーから採れた皮。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ファングバンサーから採れた皮。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Leather harvested from a Fang\nBanther.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "33092",
@@ -655,14 +655,14 @@
 		"jp_text": "ノーディランサの肉",
 		"tr_text": "Nordiransa Meat",
 		"jp_explain": "ノーディランサから採れた肉。\n\n依頼者：<c a1ff6d>アフィン<c>　再受注不可",
-		"tr_explain": "ノーディランサから採れた肉。\n\nClient: <c a1ff6d>Afin<c> (one-time order)"
+		"tr_explain": "Meat taken from a Nordiransa.\n\nClient: <c a1ff6d>Afin<c> (one-time order)"
 	},
 	{
 		"assign": "33094",
 		"jp_text": "フォードランサの肉",
 		"tr_text": "Fordoransa Meat",
 		"jp_explain": "フォードランサから採れた肉。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "フォードランサから採れた肉。\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Meat taken from a Fordoransa.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "33095",
@@ -683,7 +683,7 @@
 		"jp_text": "キャタドランサの肉",
 		"tr_text": "Caterdransa Meat",
 		"jp_explain": "キャタドランサから採れた肉。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "キャタドランサから採れた肉。\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Meat taken from a Caterdransa.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "33098",
@@ -2594,7 +2594,7 @@
 		"jp_text": "ソル・ディランダールの肉",
 		"tr_text": "Sol Dirandal Meat",
 		"jp_explain": "ソル・ディランダールから採れた肉。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ソル・ディランダールから採れた肉。\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Meat taken from a Sol Dirandal.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330382",
@@ -2713,7 +2713,7 @@
 		"jp_text": "トルボンの肉",
 		"tr_text": "Torbon Meat",
 		"jp_explain": "トルボンから採れた肉。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "トルボンから採れた肉。\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Meat taken from a Torbon.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330400",
@@ -3357,49 +3357,49 @@
 		"jp_text": "タグ・アクルプスの肉",
 		"tr_text": "Tag Aqulupus Meat",
 		"jp_explain": "タグ・アクルプスから採れた肉。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "タグ・アクルプスから採れた肉。\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Meat taken from a Tag Aqulupus.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330527",
 		"jp_text": "タロベッコの肉",
 		"tr_text": "Talobecko Meat",
 		"jp_explain": "タロベッコから採れた肉。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "タロベッコから採れた肉。\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Meat taken from a Talobecko.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330528",
 		"jp_text": "タグ・セヴァニアンの肉",
 		"tr_text": "Tag Sevanian Meat",
 		"jp_explain": "タグ・セヴァニアンから採れた肉。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "タグ・セヴァニアンから採れた肉。\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Meat taken from a Tag Sevanian.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330529",
 		"jp_text": "ファルカボネの肉",
 		"tr_text": "Falcabone Meat",
 		"jp_explain": "ファルカボネから採れた肉。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ファルカボネから採れた肉。\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Meat taken from a Falcabone.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330530",
 		"jp_text": "セヴァニアンの肉",
 		"tr_text": "Sevanian Meat",
 		"jp_explain": "セヴァニアンから採れた肉。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "セヴァニアンから採れた肉。\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Meat taken from a Sevanian.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330531",
 		"jp_text": "ヴィド・ギロスの肉",
 		"tr_text": "Vid Gilos Meat",
 		"jp_explain": "ヴィド・ギロスから採れた肉。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ヴィド・ギロスから採れた肉。\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Meat taken from a Vid Gilos.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330532",
 		"jp_text": "ビオル・メデューナの肉",
 		"tr_text": "Biol Meduna Meat",
 		"jp_explain": "ビオル・メデューナから採れた肉。\n\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ビオル・メデューナから採れた肉。\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Meat taken from a Biol Meduna.\n\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330533",
