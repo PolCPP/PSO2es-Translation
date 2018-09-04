@@ -935,7 +935,7 @@
 		"jp_text": "スノウバンサーの爪",
 		"tr_text": "Snow Banther Claws",
 		"jp_explain": "スノウバンサーから採れた爪。\n刃のように長く、鋭い。\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "スノウバンサーから採れた爪。\n刃のように長く、鋭い。\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Claws taken from a Snow Banther.\nLong and sharp, almost like blades.\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330134",
@@ -954,9 +954,9 @@
 	{
 		"assign": "330136",
 		"jp_text": "サディニアンの剣の破片",
-		"tr_text": "Sadinian Dagger Pieces",
+		"tr_text": "Sadinian Sword Fragment",
 		"jp_explain": "セト・サディニアンの\n所持していた剣の破片。\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "セト・サディニアンの\n所持していた剣の破片。\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "A fragment of the sword carried by\na Set Sadinian.\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330137",
@@ -2209,7 +2209,7 @@
 		"jp_text": "遺跡機構の破片",
 		"tr_text": "Ruins Machine Fragments",
 		"jp_explain": "ナベリウスの奥地にある\n遺跡機構の破片。\n依頼者：<c a1ff6d>フィリア<c>　再受注不可",
-		"tr_explain": "ナベリウスの奥地にある\n遺跡機構の破片。\nClient: <c a1ff6d>Philia<c> (one-time order)"
+		"tr_explain": "Fragments of a machine located\nin the Ruins area of Naberius.\nClient: <c a1ff6d>Philia<c> (one-time order)"
 	},
 	{
 		"assign": "330316",
@@ -2251,7 +2251,7 @@
 		"jp_text": "ウォルガーダの腹牙",
 		"tr_text": "Wolgahda Belly Fangs",
 		"jp_explain": "ウォルガーダの腹部にある\n牙のようなもの。\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "ウォルガーダの腹部にある\n牙のようなもの。\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Fang-like objects from the abdomen\nof a Wolgahda.\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330322",
@@ -2692,14 +2692,14 @@
 		"jp_text": "縞模様の木の実",
 		"tr_text": "Striped Nuts",
 		"jp_explain": "ナベリウスで採取された木の実。\n縞模様の厚い殻が特徴。\n依頼者：<c a1ff6d>シー<c>　梅雨",
-		"tr_explain": ""
+		"tr_explain": "ナベリウスで採取された木の実。\n縞模様の厚い殻が特徴。\nClient: <c a1ff6d>Xie<c> (Rainy)"
 	},
 	{
 		"assign": "330396",
 		"jp_text": "虹色の小さな花",
 		"tr_text": "Small Rainbow Flowers",
 		"jp_explain": "フログ・ラッピーが愛する\n雨露に濡れる虹色の花。\n依頼者：<c a1ff6d>シー<c>　梅雨",
-		"tr_explain": ""
+		"tr_explain": "フログ・ラッピーが愛する\n雨露に濡れる虹色の花。\nClient: <c a1ff6d>Xie<c> (Rainy)"
 	},
 	{
 		"assign": "330398",
@@ -2872,9 +2872,9 @@
 	{
 		"assign": "330424",
 		"jp_text": "ヴァーダーソーマ内燃機関",
-		"tr_text": "Vardha Soma Engines",
+		"tr_text": "Vardha Soma Engine",
 		"jp_explain": "熱効率に優れた\nヴァーダーソーマの内燃機関。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "熱効率に優れた\nヴァーダーソーマの内燃機関。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "A highly efficient internal combustion\nengine used by Vardha Soma.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330425",
@@ -2888,7 +2888,7 @@
 		"jp_text": "高熱を帯びたディッグの肉",
 		"tr_text": "Feverish Digg Meat",
 		"jp_explain": "ディッグより採れた肉。\n採取後も熱を帯び続けている。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ディッグより採れた肉。\n採取後も熱を帯び続けている。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Meat taken from a Digg. Retains heat\neven after being collected.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330427",
@@ -2909,7 +2909,7 @@
 		"jp_text": "ギルナスの重装甲",
 		"tr_text": "Gilnas Heavy Armor",
 		"jp_explain": "ギルナスを構成する部品の一つ。\n装甲の一番厚い部分。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ギルナスを構成する部品の一つ。\n装甲の一番厚い部分。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "One of the parts that makes up a\nGilnas. The thickest part of its armor.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330430",
@@ -2944,7 +2944,7 @@
 		"jp_text": "ヤクトバルガーブースター",
 		"tr_text": "Jagd Vargr Boosters",
 		"jp_explain": "ヤクトバルガーを構成する部品の一つ。\n耐熱性が高い反面、再加工が困難。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ヤクトバルガーを構成する部品の一つ。\n耐熱性が高い反面、再加工が困難。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "One of the parts that make up a\nJagd Vargr. Highly heat-resistant.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330435",
@@ -2963,107 +2963,107 @@
 	{
 		"assign": "330437",
 		"jp_text": "アギニスの美しい冠羽",
-		"tr_text": "Beautiful Aginis Crests",
+		"tr_text": "Beautiful Aginis Crest",
 		"jp_explain": "美しいアギニスの冠羽。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "美しいアギニスの冠羽。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "A beautiful feather from the crest\nof an Aginis.\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330438",
 		"jp_text": "ガロンゴの鋭利な爪",
 		"tr_text": "Sharp Garongo Claws",
 		"jp_explain": "ガロンゴの太い足先にある\n丈夫で分厚い爪。\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "ガロンゴの太い足先にある\n丈夫で分厚い爪。\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Thick, tough claws from the large\nfoot of a Garongo.\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330439",
 		"jp_text": "ディーニアンの皮",
 		"tr_text": "Dinian Hide",
 		"jp_explain": "堅いうろこを持つディーニアンの皮。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "堅いうろこを持つディーニアンの皮。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "The tough-scaled hide of a Dinian.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330440",
 		"jp_text": "ディッグのまぶた",
 		"tr_text": "Digg Eyelids",
 		"jp_explain": "灼熱の溶岩の中でも耐えられるまぶた。\nディッグの皮膚では一番薄い部位。\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "灼熱の溶岩の中でも耐えられるまぶた。\nディッグの皮膚では一番薄い部位。\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Eyelids that can endure even lava.\nThe thinnest part of a Digg's skin.\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330441",
 		"jp_text": "シグノチップ",
 		"tr_text": "Signo Chips",
 		"jp_explain": "シグノガンの俊敏な動きを制御する\n高度な技術で作られたチップパーツ。\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "シグノガンの俊敏な動きを制御する\n高度な技術で作られたチップパーツ。\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "The advanced chips that control\nSigno Guns' agile movement.\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330442",
 		"jp_text": "スパルチップ",
 		"tr_text": "Spar Chips",
 		"jp_explain": "スパルガンの俊敏な動きを制御する\n高度な技術で作られたチップパーツ。\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "スパルガンの俊敏な動きを制御する\n高度な技術で作られたチップパーツ。\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "The advanced chips that control\nSparguns' agile movement.\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330443",
 		"jp_text": "ファンガルフルの頭角",
-		"tr_text": "Fangulfur Horns",
+		"tr_text": "Fangulfur Horn",
 		"jp_explain": "ファンガルフルの頭部より採れた角。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "ファンガルフルの頭部より採れた角。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Horn taken from a Fangulfur's head.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330444",
 		"jp_text": "イエーデの拳骨",
-		"tr_text": "Yede Fists",
+		"tr_text": "Yede Fist",
 		"jp_explain": "より硬質に進化したイエーデの拳骨。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "より硬質に進化したイエーデの拳骨。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "The fist of a Yede. Evolved over time\nto be rock-solid.\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330445",
 		"jp_text": "ギルナッチの腕",
-		"tr_text": "Gilnach Arms",
+		"tr_text": "Gilnach Arm",
 		"jp_explain": "精密な作業が可能なギルナッチの腕。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "精密な作業が可能なギルナッチの腕。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "The arm of a Gilnach. Designed to\noperate with precision.\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330446",
 		"jp_text": "フォードランサの頭角",
 		"tr_text": "Fordoransa Horns",
 		"jp_explain": "湾曲したフォードランサの頭角。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "湾曲したフォードランサの頭角。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "The curved head horn of a\nFordoransa.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330447",
 		"jp_text": "ウォルガーダの膝甲",
-		"tr_text": "Wolgahda Kneecaps",
+		"tr_text": "Wolgahda Kneecap",
 		"jp_explain": "三重に重ねられた\nウォルガーダの膝甲。\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "三重に重ねられた\nウォルガーダの膝甲。\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "The triple-ridged kneecap of a\nWolgahda.\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330448",
 		"jp_text": "ディガーラの翼",
 		"tr_text": "Deegalla Wings",
 		"jp_explain": "虹色に輝くディガーラの翼。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "虹色に輝くディガーラの翼。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "The iridescent wings of a Deegalla.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330449",
 		"jp_text": "ブルメガーラの花",
 		"tr_text": "Blumegalla Flowers",
 		"jp_explain": "美しく開花した\nブルメガーラの巨大な花。\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "美しく開花した\nブルメガーラの巨大な花。\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "The huge, beautiful flower of a\nBlumegalla.\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330450",
 		"jp_text": "ディンゲールの腕",
 		"tr_text": "Dingell Arms",
 		"jp_explain": "射撃以外にも様々な精密作業が可能な\nディンゲールの腕。\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "射撃以外にも様々な精密作業が可能な\nディンゲールの腕。\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "The arm of a Dingell. Designed for\nprecision in more than just shooting.\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330451",
 		"jp_text": "ウーダンの牙",
 		"tr_text": "Oodan Fang",
 		"jp_explain": "鋭く尖ったウーダンの牙。\n取り扱いには注意が必要。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
-		"tr_explain": "鋭く尖ったウーダンの牙。\n取り扱いには注意が必要。\nClient: <c a1ff6d>Farma<c> (one-time order)"
+		"tr_explain": "The sharp, pointed fang of an Oodan.\nHandle with care.\nClient: <c a1ff6d>Farma<c> (one-time order)"
 	},
 	{
 		"assign": "330452",
@@ -3105,7 +3105,7 @@
 		"jp_text": "スパルガンのパーツｋ",
 		"tr_text": "Spargun Parts k",
 		"jp_explain": "スパルガンを構成するパーツ。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
-		"tr_explain": "スパルガンを構成するパーツ。\n\nClient: <c a1ff6d>Farma<c> (one-time order)"
+		"tr_explain": "One of the parts that make up a\nSpargun.\nClient: <c a1ff6d>Farma<c> (one-time order)"
 	},
 	{
 		"assign": "330458",
@@ -3271,23 +3271,23 @@
 	{
 		"assign": "330514",
 		"jp_text": "ブルトルボンの青い殻",
-		"tr_text": "Blutorbon Shells",
+		"tr_text": "Blutorbon Shell",
 		"jp_explain": "ブルトルボンの殻の下部を占める\n青色の部分の殻。\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "ブルトルボンの殻の下部を占める\n青色の部分の殻。\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Blue half-shell that covered the\nunderside of a Blutorbon.\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330515",
 		"jp_text": "ファルカボネの甲羅の破片",
 		"tr_text": "Falcabone Shell Fragments",
 		"jp_explain": "ファルカボネをおおう甲羅の破片。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "ファルカボネをおおう甲羅の破片。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Fragments of the shell that covered a\nFalcabone.\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330516",
 		"jp_text": "タグ・アクルプスの爪",
 		"tr_text": "Tag Aqulupus Claws",
 		"jp_explain": "タグ・アクルプスの足の爪。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "タグ・アクルプスの足の爪。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Claws from the feet of a Tag Aqulupus.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330517",
@@ -3908,37 +3908,37 @@
 	{
 		"assign": "330617",
 		"jp_text": "アヌシザグリのお札",
-		"tr_text": "Anushi-zagri Notes",
+		"tr_text": "Anushi-zagri Note",
 		"jp_explain": "アヌシザグリに付着しているお札。\n文字のようなものが記入されている。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "アヌシザグリに付着しているお札。\n文字のようなものが記入されている。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Slip of paper stuck to an Anushi-zagri.\nSomething seems to be written on it.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330618",
 		"jp_text": "パジギッリの帯の欠片",
-		"tr_text": "Paji-ghiry Sash Fragments",
+		"tr_text": "Paji-ghiry Sash Fragment",
 		"jp_explain": "パジギッリの纏う帯の欠片。\n緩やかなカーブを描いている。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "パジギッリの纏う帯の欠片。\n緩やかなカーブを描いている。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "A piece of the sash worn by a\nPaji-ghiiry. Gently curved in shape.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330619",
 		"jp_text": "ガンナガムの大角",
 		"tr_text": "Ganna-gam Horn",
 		"jp_explain": "ガンナガムに生えている大きな角。\nずっしりとした重みがある。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ガンナガムに生えている大きな角。\nずっしりとした重みがある。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "A large horn grown by a Ganna-gam.\nImmensely heavy.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330620",
 		"jp_text": "レランガムの風袋",
-		"tr_text": "Leran-gam Weights",
+		"tr_text": "Leran-gam Wind Sack",
 		"jp_explain": "レランガムが持つ特殊な繊維で\n編まれた袋。開くと風があふれてくる。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "レランガムが持つ特殊な繊維で\n編まれた袋。開くと風があふれてくる。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "A bag carried by a Leran-gam. The\nwind picks up when you open it.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330621",
 		"jp_text": "碧氷石",
 		"tr_text": "Azure Ice Stones",
 		"jp_explain": "ギグル・グンネガムが持っている石。\n触れてみるとわずかに冷たい。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ギグル・グンネガムが持っている石。\n触れてみるとわずかに冷たい。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "A stone held by Gigur Gunne-gam.\nSlightly cold to the touch.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330622",
@@ -3952,21 +3952,21 @@
 		"jp_text": "お月見団子",
 		"tr_text": "Moon Viewing Dumpling",
 		"jp_explain": "黒の民が持っていたお団子。\n思いのほか美味しい。\n依頼者：<c a1ff6d>シー<c>　お月見",
-		"tr_explain": ""
+		"tr_explain": "黒の民が持っていたお団子。\n思いのほか美味しい。\nClient: <c a1ff6d>Xie<c> (Moon Viewing)"
 	},
 	{
 		"assign": "330624",
 		"jp_text": "イザオガルの角",
-		"tr_text": "Iza-ogar Horns",
+		"tr_text": "Iza-ogar Horn",
 		"jp_explain": "イザオガルに生えている角。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "イザオガルに生えている角。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Horn grown by an Iza-ogar.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330625",
 		"jp_text": "ピッタ・ワッダの輪",
-		"tr_text": "Pitta Wadda Rings",
+		"tr_text": "Pitta Wadda Ring",
 		"jp_explain": "ピッタ・ワッダが持つ輪っか。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "ピッタ・ワッダが持つ輪っか。\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Ring held by a Pitta Wadda.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330626",
@@ -3999,30 +3999,30 @@
 	{
 		"assign": "330630",
 		"jp_text": "タルボルプスの刃片",
-		"tr_text": "Tarvolpus Blades",
+		"tr_text": "Tarvolpus Blade",
 		"jp_explain": "タルボルプスの脚部にある刃の欠片。\n鋭利な刃物に似ている。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "タルボルプスの脚部にある刃の欠片。\n鋭利な刃物に似ている。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "A piece of the blade on the leg of a\nTarvolpus. Resembles a sharp knife.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330631",
 		"jp_text": "ファルガルボンの貝殻",
 		"tr_text": "Falgarbon Shell",
 		"jp_explain": "ファルガルボンが背負っている貝殻。\n傾けると淡い青色に輝いている。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ファルガルボンが背負っている貝殻。\n傾けると淡い青色に輝いている。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Shell from the back of a Falgarbon.\nShines a pale blue as you turn it.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330632",
 		"jp_text": "ネプト・キャサドーラの鱗",
 		"tr_text": "Nepto Cassadora Scale",
 		"jp_explain": "ネプト・キャサドーラが落とした鱗。\nぬらりとした輝きを放っている。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ネプト・キャサドーラが落とした鱗。\nぬらりとした輝きを放っている。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Scale dropped by Nepto Cassadora.\nGives off a bright sparkle.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330633",
 		"jp_text": "レオマドゥラードの鋭棘",
 		"tr_text": "Rheo Madullard Spine",
 		"jp_explain": "レオマドゥラードの背中にある棘。\nほんのりと発光している。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "レオマドゥラードの背中にある棘。\nほんのりと発光している。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Spine from the back of Rheo\nMadullard. It still glows slightly.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330634",
@@ -4034,9 +4034,9 @@
 	{
 		"assign": "330635",
 		"jp_text": "シルト・グリミアンの殻",
-		"tr_text": "Schilt Grimian Shells",
+		"tr_text": "Schilt Grimian Shell",
 		"jp_explain": "シルト・グリミアンがまとう\n鮮やかな殻。\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
-		"tr_explain": "シルト・グリミアンがまとう\n鮮やかな殻。\nClient: <c a1ff6d>Faina<c> (repeatable)"
+		"tr_explain": "Vividly colored shell worn by a\nSchilt Grimian.\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
 	{
 		"assign": "330636",
@@ -4050,21 +4050,21 @@
 		"jp_text": "チップのかけら金",
 		"tr_text": "Gold Chip Pieces",
 		"jp_explain": "破損したチップのかけら。\nまばゆい金色に輝いている。",
-		"tr_explain": ""
+		"tr_explain": "Fragments of a broken chip.\nThey have a dazzling gold shine."
 	},
 	{
 		"assign": "330638",
 		"jp_text": "チップのかけら銀",
 		"tr_text": "Silver Chip Pieces",
 		"jp_explain": "破損したチップのかけら。\nするどい銀色に輝いている。",
-		"tr_explain": ""
+		"tr_explain": "Fragments of a broken chip.\nThey have a cold silver shine."
 	},
 	{
 		"assign": "330639",
 		"jp_text": "チップのかけら銅",
 		"tr_text": "Bronze Chip Pieces",
 		"jp_explain": "破損したチップのかけら。\n鈍い銅色に輝いている。 ",
-		"tr_explain": ""
+		"tr_explain": "Fragments of a broken chip.\nThey have a dull bronze shine."
 	},
 	{
 		"assign": "330640",
@@ -4372,14 +4372,14 @@
 		"jp_text": "パジゴワンの鼓",
 		"tr_text": "Paji-gowan Drums",
 		"jp_explain": "パジゴワンの持つ鼓。\n薄く柔らかいが、かなりの強度がある。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "パジゴワンの持つ鼓。\n薄く柔らかいが、かなりの強度がある。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Drum from a Paji-gowan. Thin and\nsoft, but has considerable strength.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330690",
 		"jp_text": "コドニアガリの種火",
 		"tr_text": "Godoni-agari Ember",
 		"jp_explain": "コドニアガリに灯されていた火の種。\n一度消えても着火剤として使える。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "コドニアガリに灯されていた火の種。\n一度消えても着火剤として使える。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Ember of a Godoni-agari's fire. Can\nbe used as an ignition agent.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330691",
@@ -4393,14 +4393,14 @@
 		"jp_text": "オロオガルの大斧",
 		"tr_text": "Oro-ogar Large Axe",
 		"jp_explain": "オロオガルの持つ大斧。\n使い古され、所々刃こぼれしている。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "オロオガルの持つ大斧。\n使い古され、所々刃こぼれしている。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Axe carried by an Oro-ogar. Badly\nworn, with chips all over the blade.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330693",
 		"jp_text": "巨大な玩具の破片",
 		"tr_text": "Large Toy Part",
 		"jp_explain": "コドッタ・イーデッタの箱状の破片。\n中身は開けてみないとわからない。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "コドッタ・イーデッタの箱状の破片。\n中身は開けてみないとわからない。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Box from Codotta Idetta. You won't\nknow what's inside until you open it.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330694",
@@ -4449,42 +4449,42 @@
 		"jp_text": "プロジオーグルスの肉",
 		"tr_text": "Plosiorgles Meat",
 		"jp_explain": "プロジオーグルスから採れた肉。\nクセが強く、調理には工夫が必要。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "プロジオーグルスから採れた肉。\nクセが強く、調理には工夫が必要。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Meat taken from Plosiorgles. Its strong\nflavor is difficult for a chef to use.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330701",
 		"jp_text": "ゼータ・グランゾの主砲",
 		"tr_text": "Zeta Guranz Cannon",
 		"jp_explain": "ゼータ・グランゾの腹部にある主砲。\n出力の制御はかなり難しい模様。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ゼータ・グランゾの腹部にある主砲。\n出力の制御はかなり難しい模様。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Main gun of Zeta Guranz. Controlling\nits output is quite difficult.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330702",
 		"jp_text": "レッドストーン",
 		"tr_text": "Red Stone",
 		"jp_explain": "赤い光をたたえた輝石。\n武器防具との交換が可能。",
-		"tr_explain": ""
+		"tr_explain": "Pyroxene suffused with red light.\nCan be exchanged for weapons and\narmor."
 	},
 	{
 		"assign": "330703",
 		"jp_text": "グリーンストーン",
 		"tr_text": "Green Stone",
 		"jp_explain": "緑の光をたたえた輝石。\n武器防具との交換が可能。",
-		"tr_explain": ""
+		"tr_explain": "Pyroxene suffused with green light.\nCan be exchanged for weapons and\narmor."
 	},
 	{
 		"assign": "330704",
 		"jp_text": "ブルーストーン",
 		"tr_text": "Blue Stone",
 		"jp_explain": "青い光をたたえた輝石。\n武器防具との交換が可能。",
-		"tr_explain": ""
+		"tr_explain": "Pyroxene suffused with blue light.\nCan be exchanged for weapons and\narmor."
 	},
 	{
 		"assign": "330705",
 		"jp_text": "イエローストーン",
 		"tr_text": "Yellow Stone",
 		"jp_explain": "黄の光をたたえた輝石。\n武器防具との交換が可能。",
-		"tr_explain": ""
+		"tr_explain": "Pyroxene suffused with yellow light.\nCan be exchanged for weapons and\narmor."
 	},
 	{
 		"assign": "330706",
@@ -4561,14 +4561,14 @@
 		"jp_text": "太古の肉",
 		"tr_text": "Ancient Meat",
 		"jp_explain": "かつて地球にいた巨大生物の肉。\n骨に肉を巻きつけたような不思議な形。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "かつて地球にいた巨大生物の肉。\n骨に肉を巻きつけたような不思議な形。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Meat taken from an enormous \ncreature that once roamed the Earth.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330720",
 		"jp_text": "スネークヘリエンジン",
-		"tr_text": "Snake Heli-Engines",
+		"tr_text": "Snake Heli Engine",
 		"jp_explain": "スネークヘリのエンジン。\n取り込んだ空気で主軸を回転させる。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "スネークヘリのエンジン。\n取り込んだ空気で主軸を回転させる。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Engine from a Snake Heli. The air\nintake causes the shaft to rotate.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330721",
@@ -4624,21 +4624,21 @@
 		"jp_text": "ピエロナイフ",
 		"tr_text": "Clown Knife",
 		"jp_explain": "ジャグラーピエロのナイフ。\nするどい刃がギラギラと光っている。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ジャグラーピエロのナイフ。\nするどい刃がギラギラと光っている。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Knife carried by a Juggler Pierrot.\nThe sharp edge gleams brightly.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330729",
 		"jp_text": "ピエロチェーンソー",
 		"tr_text": "Clown Chainsaw",
 		"jp_explain": "チェーンソーピエロの武器だったもの。\n使用のさいには取り扱いに要注意。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "チェーンソーピエロの武器だったもの。\n使用のさいには取り扱いに要注意。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Weapon carried by a Chainsaw\nPierrot. Handle with care during use.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330730",
 		"jp_text": "牽引ビーム発生装置",
 		"tr_text": "Tractor Beam Generator",
 		"jp_explain": "U.F.Oに搭載されていた装置。\n謎の光線で物体を引き寄せられる。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "U.F.Oに搭載されていた装置。\n謎の光線で物体を引き寄せられる。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Equipment installed in a U.F.O. Draws\nobjects in with mysterious rays.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330731",
@@ -4671,9 +4671,9 @@
 	{
 		"assign": "330735",
 		"jp_text": "グリュゾラス・ドラゴの鱗",
-		"tr_text": "Greuzoras Drago Scales",
+		"tr_text": "Greuzoras Drago Scale",
 		"jp_explain": "グリュゾラス・ドラゴの硬質な鱗。\n光にあてると七色に輝く。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "グリュゾラス・ドラゴの硬質な鱗。\n光にあてると七色に輝く。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Scale from a Greuzoras Drago. When\nexposed to light, it shines in 7 colors.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330736",
