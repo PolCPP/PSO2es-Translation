@@ -648,7 +648,7 @@
 		"jp_text": "ファングバンシーの柔毛",
 		"tr_text": "Fang Banshee Fur",
 		"jp_explain": "ファングバンシーの尻尾から\n採れたやわらかい毛。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ファングバンシーの尻尾から\n採れたやわらかい毛。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Soft fur taken from the tail of a\nFang Banshee.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "33093",
@@ -2221,16 +2221,16 @@
 	{
 		"assign": "330317",
 		"jp_text": "キュクロナーダの右腕片",
-		"tr_text": "Kuklonahda Arms",
+		"tr_text": "Kuklonahda Arm",
 		"jp_explain": "キュクロナーダの鈍器状になっている\n右腕の欠片。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "キュクロナーダの鈍器状になっている\n右腕の欠片。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "A piece of the blunt right arm of a\nKuklonahda.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330318",
 		"jp_text": "ゼッシュレイダの腕刃片",
-		"tr_text": "Zeshrayda Blades",
+		"tr_text": "Zeshrayda Blade",
 		"jp_explain": "ゼッシュレイダの上腕部にある\n刃状の物の欠片。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ゼッシュレイダの上腕部にある\n刃状の物の欠片。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "A piece of the blade-like object on\nthe upper arm of a Zeshrayda.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330319",
@@ -2564,16 +2564,16 @@
 	{
 		"assign": "330377",
 		"jp_text": "ディガーラの鋭角",
-		"tr_text": "Deegalla Horns",
+		"tr_text": "Deegalla Horn",
 		"jp_explain": "ディガーラ頭部の鋭い角。\n岩石程度ならばやすやすと貫く。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ディガーラ頭部の鋭い角。\n岩石程度ならばやすやすと貫く。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "A horn from the head of a Deegalla.\nHard as rock, perfect for piercing.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330378",
 		"jp_text": "ソル・ディガーラの翼膜",
 		"tr_text": "Sol Deegalla Wings",
 		"jp_explain": "ソル・ディガーラの翼膜。\nとても軽く、伸縮性に優れる。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ソル・ディガーラの翼膜。\nとても軽く、伸縮性に優れる。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Wing membranes from a Sol Deegalla.\nVery light, with excellent elasticity.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330379",
@@ -2587,7 +2587,7 @@
 		"jp_text": "ディランダールの水晶片",
 		"tr_text": "Dirandal Crystal Fragments",
 		"jp_explain": "ディランダールの\n肩に埋め込まれた水晶の破片。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ディランダールの\n肩に埋め込まれた水晶の破片。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Fragments of the crystals embedded\nin the shoulder of a Dirandal.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330381",
@@ -2599,16 +2599,16 @@
 	{
 		"assign": "330382",
 		"jp_text": "ディガーラの爪",
-		"tr_text": "Deegalla Nails",
+		"tr_text": "Deegalla Claws",
 		"jp_explain": "ディガーラから採れた爪。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
-		"tr_explain": "Nails taken from a Deegalla.\n\nClient: <c a1ff6d>Farma<c> (one-time order)"
+		"tr_explain": "Claws taken from a Deegalla.\n\nClient: <c a1ff6d>Farma<c> (one-time order)"
 	},
 	{
 		"assign": "330383",
 		"jp_text": "ソル・ディガーラの爪",
-		"tr_text": "Sol Deegalla Nails",
+		"tr_text": "Sol Deegalla Claws",
 		"jp_explain": "ソル・ディガーラより採れた爪。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
-		"tr_explain": "ソル・ディガーラより採れた爪。\n\nClient: <c a1ff6d>Farma<c> (one-time order)"
+		"tr_explain": "Claws taken from a Sol Deegalla.\n\nClient: <c a1ff6d>Farma<c> (one-time order)"
 	},
 	{
 		"assign": "330384",
@@ -2823,7 +2823,7 @@
 	{
 		"assign": "330417",
 		"jp_text": "ガノンバルガーの大砲",
-		"tr_text": "Ganon Valger Cannons",
+		"tr_text": "Ganon Vargr Cannons",
 		"jp_explain": "ガノンバルガーに搭載された\nツインの大砲。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": "ガノンバルガーに搭載された\nツインの大砲。\nClient: <c a1ff6d>Farma<c> (one-time order)"
 	},
@@ -2832,7 +2832,7 @@
 		"jp_text": "カストキンディッドの刃",
 		"tr_text": "Cust. Kindidd Blades",
 		"jp_explain": "カストキンディッドの内側に搭載された\n鋭い刃の付いたパーツ。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "カストキンディッドの内側に搭載された\n鋭い刃の付いたパーツ。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Sharp-edged parts mounted on the\ninside of a Custom Kindidd.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330419",
@@ -2844,30 +2844,30 @@
 	{
 		"assign": "330420",
 		"jp_text": "ヴィントバルガーの障壁",
-		"tr_text": "Vinto Vargr Barriers",
+		"tr_text": "Vinto Vargr Barrier",
 		"jp_explain": "ヴィントバルガーを中心に\n死角無く展開する鉄壁の防御機構。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ヴィントバルガーを中心に\n死角無く展開する鉄壁の防御機構。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Barrier generator mechanism from a\nVinto Vargr.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330421",
 		"jp_text": "カストガーディナンの動力",
-		"tr_text": "Cust. Guardinane Dynamos",
+		"tr_text": "Cust. Guardinane Dynamo",
 		"jp_explain": "本体サイズに見合わぬ高出力な\nカストガーディナンの動力。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "本体サイズに見合わぬ高出力な\nカストガーディナンの動力。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Dynamo from a Custom Guardinane.\nIts small size belies its high output.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330422",
 		"jp_text": "バトラガンのブースター",
-		"tr_text": "Batra Gun Boosters",
+		"tr_text": "Batra Gun Booster",
 		"jp_explain": "バトラガンの背負っている\nロケットブースター。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "バトラガンの背負っている\nロケットブースター。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Rocket booster mounted on the back\nof a Batra Gun.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330423",
 		"jp_text": "ヤクトディンゲールの剣刃",
-		"tr_text": "Jagd Dingell Blades",
+		"tr_text": "Jagd Dingell Blade",
 		"jp_explain": "ヤクトディンゲールが装備している\n巨大な大剣の刃部。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
-		"tr_explain": "ヤクトディンゲールが装備している\n巨大な大剣の刃部。\nClient: <c a1ff6d>Franka<c> (repeatable)"
+		"tr_explain": "Blade from the huge sword carried by\na Jagd Dingell.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
 	{
 		"assign": "330424",
