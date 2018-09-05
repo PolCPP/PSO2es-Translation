@@ -12147,7 +12147,7 @@
 	{
 		"assign": "es_0005_n10_b",
 		"jp_text": "<color=black>父の行方を知りたくて\n私はアークスの管理官になりました。\nけれども、これまで手がかりは\nまったく得られませんでした。</color>",
-		"tr_text": "<color=black>I wanted to find out why he suddenly went\nmissing, so I became an ARKS Administrator\nto find out why. However, there wasn't\nany leads until now.</color>"
+		"tr_text": "<color=black>I wanted to find out why he suddenly\nwent missing, so I became an ARKS\nAdministrator to find out why. However,\nthere wasn't any leads until now.</color>"
 	},
 	{
 		"assign": "es_0005_n11_b",
@@ -12182,7 +12182,7 @@
 	{
 		"assign": "es_0006_n02_b",
 		"jp_text": "<color=black>それによると……\nこのチップは「侵食エネミー」の\nデータにデバイスとして対応した\nチップであることがわかりました。</color>",
-		"tr_text": "<color=black>According to this...\nThis chip contains the data on \"Boosted Enemies.\"</color>"
+		"tr_text": "<color=black>According to this...\nThis chip contains the data on \"Infected Enemies.\"</color>"
 	},
 	{
 		"assign": "es_0006_n03_b",
@@ -12192,12 +12192,12 @@
 	{
 		"assign": "es_0006_n04_b",
 		"jp_text": "<color=black>ちなみに「侵食エネミー」とは\nダーカーの残滓によって侵され\n凶暴化が進行したエネミーのことです。\n体が赤い色になっているのが特徴です。</color>",
-		"tr_text": "<color=black>\"Boosted enemies,\" incase you did not know,\nare enemies who were damaged by Darkers.\nThey become infected by their negative photons,\nthus empowering their rage, glowing red.</color>"
+		"tr_text": "<color=black>\"Infected enemies,\" incase you did not know,\nare enemies who were damaged by Darkers.\nThey become infected by their negative photons,\nthus empowering their rage, glowing red.</color>"
 	},
 	{
 		"assign": "es_0006_n05_b",
 		"jp_text": "<color=black>侵食エネミーは、通常のエネミーより\n強い力を発揮するようになっており\n非常に危険な存在です。\nなお、ドロップするアイテムも\nより強力なものになる傾向があります。</color>",
-		"tr_text": "<color=black>\"Boosted Enemies\" are the same as it's\nnormal counterpart, except that they are\nempowered by their rage. They're very\ndangerous; Caution must be exerted at all\ntimes if one is to be encountered.</color>"
+		"tr_text": "<color=black>\"Infected Enemies\" are the same as it's\nnormal counterpart, except that they are\nempowered by their rage. They're very\ndangerous; Caution must be exerted at all\ntimes if one is to be encountered.</color>"
 	},
 	{
 		"assign": "es_0006_n06_b",
@@ -12207,12 +12207,12 @@
 	{
 		"assign": "es_0006_n07_b",
 		"jp_text": "<color=black>★４クエストには、侵食エネミーが\n多数出現すると思われます。\nそれらを倒すことで、何か\n手がかりが得られるかもしれません。</color>",
-		"tr_text": "<color=black>It seems that these boosted enemies\nappear in ★4-quests. By defeating them,\nperhaps you could discover more clues.</color>"
+		"tr_text": "<color=black>It seems that these infected enemies\nappear in ★4-quests. By defeating them,\nperhaps you could discover more clues.</color>"
 	},
 	{
 		"assign": "es_0006_n08_b",
 		"jp_text": "<color=black>侵食エネミーは非常に強力ですから\nチップの効果を活かすことが\nとても重要になってきます。\nクエスト出撃前に、弱点属性を\nよく確認しておいてくださいね。</color>",
-		"tr_text": "<color=black>Boosted enemies are powerful.\nEnsure that you take advantage of\neach chip, as well as the weakness\nattribute, before deploying yourself.</color>"
+		"tr_text": "<color=black>Infected enemies are powerful.\nEnsure that you take advantage of\neach chip, as well as the weakness\nattribute, before deploying yourself.</color>"
 	},
 	{
 		"assign": "es_0006_n09_b",
@@ -12232,47 +12232,47 @@
 	{
 		"assign": "es_0007_n02_b",
 		"jp_text": "<color=black>通常の侵食エネミーはダーカーの影響で\n凶暴化し、強い力を得ていますが、\n今回、数体の侵食エネミーにおいて\nダーカーではなく、人工的な強化効果が\n認められたとのことです。</color>",
-		"tr_text": "Normally when an enemy is infected, it becomes stronger\nand goes berszerk due to influence of Darkers. However,\nmany of the enemies you defeated we artificially infected,\nnot from Darkers."
+		"tr_text": "Normally when an enemy is infected,\nit becomes stronger and goes berszerk due\nto influence of Darkers. However, many\nof the enemies you defeated we\nartificially infected, not from Darkers."
 	},
 	{
 		"assign": "es_0007_n03_b",
 		"jp_text": "<color=black>どうやら、フォトン情報を操作する\nチップの技術を用いて\n人工的に侵食効果を作りだした可能性が\n高いようです。</color>",
-		"tr_text": "There's a high probability that the Photons\nmanipulated via the Chip Technology and the\nartificial infections are related."
+		"tr_text": "There's a high probability that the\nPhotons manipulated via the Chip\nTechnology and the artificial infections\nare related."
 	},
 	{
 		"assign": "es_0007_n04_b",
 		"jp_text": "<color=black>今回発見された、このように\n人工的に強化されたエネミーを\nコードネームで「タイプＣ」と\n呼称することになりました。</color>",
-		"tr_text": "Based on these findings, we have decided to\nlabel these artificially infected enemies\nas \"Type-C\"."
+		"tr_text": "Based on these findings, we have\ndecided to label these artificially\ninfected enemies as \"Type-C\"."
 	},
 	{
 		"assign": "es_0007_n05_b",
 		"jp_text": "<color=black>「タイプＣ」エネミー……\nまさか……父が……\n砂漠で見つかった新型特殊チップは\nそのためのものだったのでしょうか？</color>",
-		"tr_text": "These \"Type-C\" enemies...\nCould that chip we found back in the\ndesert be... There's no way my father could..."
+		"tr_text": "These \"Type-C\" enemies...\nCould that chip we found back in the\ndesert be... There's no way my\nfather could..."
 	},
 	{
 		"assign": "es_0007_n06_b",
 		"jp_text": "<color=black>不安で胸が押しつぶされそうですが\n★４クエストもいよいよ大詰めです。\nどうか、気をつけて\n任務を達成してきてくださいね。</color>",
-		"tr_text": "These new series of revelations has me\nworried. In anycase, ★4 series quests\nare now over with. Wrap up whatever you've\ngot left and get back to base."
+		"tr_text": "These new series of revelations has me\nworried. In anycase, ★4 series quests\nare now over with. Wrap up whatever\nyou've got left and get back to base."
 	},
 	{
 		"assign": "es_0008_n00_b",
 		"jp_text": "<color=black>おめでとうございます！\nとうとう、★５クエストの任務が\n解放されました。\nあなたはもはや、押しも押されもせぬ\n一人前のアークスです。</color>",
-		"tr_text": "Congratulations! You're now a full fledged\nARKS member. Because of which, you've been\ngranted access to ★5 series quests."
+		"tr_text": "Congratulations! You're now a full fledged\nARKS member. Because of which, you've\nbeen granted access to ★5 series quests."
 	},
 	{
 		"assign": "es_0008_n01_b",
 		"jp_text": "<color=black>けれども、私にはそれほど\n大きな驚きではありません。\n最初の研修をお手伝いしたときから\nあなたならきっと、ここまで来れると\n思っていましたから。</color>",
-		"tr_text": "However, I wasn't surprised that you could\nreach this point. Especially after the results\nduring your initial training."
+		"tr_text": "However, I wasn't surprised that you\ncould reach this point. Especially\nafter the results during your initial\ntraining."
 	},
 	{
 		"assign": "es_0008_n02_b",
 		"jp_text": "<color=black>★５クエストでは、各惑星の\n強力なエネミーが出現する地域での\n任務が主となります。</color>",
-		"tr_text": "With these ★5 Quests, things are going to\nget harder. You may encounter stronger enemies\nthan the usual types you fought before."
+		"tr_text": "With these ★5 Quests, things are going\nto get harder. You may encounter stronger\nenemies than the usual types you fought\npreviously."
 	},
 	{
 		"assign": "es_0008_n03_b",
 		"jp_text": "<color=black>また、コーエン博士の手がかりとなる\nチップ技術で人工的に強化された\n「タイプＣ」エネミーについても\nさらなる調査が必要です。</color>",
-		"tr_text": "And another thing, we need you to figure out the\nlink between these \"Type-C\" enemies, the\nartificially infected enemies and if they're\nrelated to Dr. Cohen."
+		"tr_text": "One more thing, we need you to\nfigure out the link between these\n\"Type-C\" enemies, the artificially\ninfected enemies and if they're related\nto Dr. Cohen."
 	},
 	{
 		"assign": "es_0008_n04_b",
@@ -12287,17 +12287,17 @@
 	{
 		"assign": "es_0009_n00_b",
 		"jp_text": "<color=black>た、大変です！\n市街地エリアに、ダーカーの群れが多数出現！</color>",
-		"tr_text": "THIS IS AN EMERGENCY!\nDARKERS HAVE STARTED TO APPEAR OUT OF KNOWWHERE\nIN THE CITY AREA!"
+		"tr_text": "THIS IS AN EMERGENCY!\nDARKERS HAVE STARTED TO APPEAR OUT\nOF KNOWWHERE IN THE CITY AREA!"
 	},
 	{
 		"assign": "es_0009_n01_b",
 		"jp_text": "<color=black>しかも……今回のダーカーの出現を\n予告する声明がアークス司令部に事前に届きました。</color>",
-		"tr_text": "Though, we were warned in advanced by a\nnotification sent prior to the invasion to ARKS HQ..."
+		"tr_text": "Though, we were warned in advanced\nby a notification sent prior to the\ninvasion to ARKS HQ..."
 	},
 	{
 		"assign": "es_0009_n02_b",
 		"jp_text": "<color=black>声明の差出人は……コーエン博士。\n信じられませんが、もしこれが事実なら\n今回のダーカーの襲来は、父の手によるものと\nいうことになります。</color>",
-		"tr_text": "And the sender was none other than... Dr. Cohen.\nI didn't want to believe it at the time,\nhowever I am now convinced that the source of\nthis Darker invasion is because of him."
+		"tr_text": "And the sender was none other than...\nDr. Cohen. I didn't want to believe it\nat the time, however I am now convinced\nthat the source of this Darker invasion\nis because of him."
 	},
 	{
 		"assign": "es_0009_n03_b",
@@ -12312,7 +12312,7 @@
 	{
 		"assign": "es_0010_n01_b",
 		"jp_text": "<color=black>どうやってコーエン博士がダーカーを襲来させたのか\n現在調査中ですが\nどうやら、博士の手による「タイプＣ」ダーカーに\n誘発された通常のダーカーが群れとなり\n市街地に襲来したものと思われます。</color>",
-		"tr_text": "We're currently investigating on how Dr. Cohen\nused the Darkers to attack the city. But based on\nour findings, it appears that some \"Type-C\" Darkers\nwere found in the area and were used to stage an\nattack on the city."
+		"tr_text": "We're investigating on how Dr. Cohen could\nhave used Darkers to stage an attack, but\nbased on our current findings, it looks\nlike that some \"Type-C\" Darkers were near\nthe area and were used to attack the city."
 	},
 	{
 		"assign": "es_0010_n02_b",
@@ -12327,12 +12327,12 @@
 	{
 		"assign": "es_0010_n04_b",
 		"jp_text": "<color=black>……ごめんなさい。\nこんな時こそ、アークス管理官である私が\n冷静でいなければいけないのに。</color>",
-		"tr_text": "I'm sorry...\nI'm an ARKS officier, I shouldn't be bothered\nby this."
+		"tr_text": "I'm sorry...\nI'm an ARKS officier, I shouldn't\nbe bothered by this."
 	},
 	{
 		"assign": "es_0010_n05_b",
 		"jp_text": "<color=black>あなたに、あらたな特命任務が発令されました。\n任務の目的が、コーエン博士の「捜索」から\n「身柄の拘束」に……変更となりました。\n場合によっては、殺害も……許可するとのことです。</color>",
-		"tr_text": "A new quest has been assigned to you. The current\nmission objective has also been changed, from\n\"locating the whereabouts of Dr. Cohen\"\nto \"neutralizing possible threats\". As such,\nthe use of lethal force has been... authorized."
+		"tr_text": "Current mission objectives have been\nchanged... You are no longer searching\nfor Dr. Cohen. You're now to neutralize...\npossible threats... Use of lethal force has\nbeen... authorized..."
 	},
 	{
 		"assign": "es_0010_n06_b",
