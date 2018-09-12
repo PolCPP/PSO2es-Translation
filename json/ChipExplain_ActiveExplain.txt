@@ -534,14 +534,14 @@
 	{
 		"assign": "31011",
 		"jp_explainShort": "ダーカー・機改種以外にダメージ増加",
-		"tr_explainShort": "Damage boost vs non-Darker/Altered",
+		"tr_explainShort": "Damage boost vs non-Darker/Recon.",
 		"jp_explainLong": "① 原生種、龍族、機甲種、海王種に\n　　 与えるダメージを増加する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts damage against Natives, Dragonkin,\n    Mechs and Oceanids.\n    <color=yellow>[B-Frame]</color>\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31012",
 		"jp_explainShort": "ダーカー・機改種以外にダメージ大増加",
-		"tr_explainShort": "Damage boost vs non-Darker/Altered",
+		"tr_explainShort": "Damage boost vs non-Darker/Recon.",
 		"jp_explainLong": "① 原生種、龍族、機甲種、海王種に\n　　 与えるダメージを大きく増加する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Greatly boosts damage against Natives,\n    Dragonkin, Mechs and Oceanids.\n    <color=yellow>[B-Frame]</color>\n[Effect Duration] Long"
 	},
@@ -1584,14 +1584,14 @@
 	{
 		"assign": "31555",
 		"jp_explainShort": "ダーカー・機改種以外にダメージ大増加",
-		"tr_explainShort": "Damage boost vs non-Darker/Altered",
+		"tr_explainShort": "Damage boost vs non-Darker/Recon.",
 		"jp_explainLong": "① 原生種、龍族、機甲種、海王種に\n　　 与えるダメージを大きく増加する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Greatly boosts damage against Natives,\n    Dragonkin, Mechs and Oceanids.\n    <color=yellow>[B-Frame]</color>\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31556",
 		"jp_explainShort": "ダーカー・機改種以外にダメージ劇的増加",
-		"tr_explainShort": "Damage boost vs non-Darker/Altered",
+		"tr_explainShort": "Damage boost vs non-Darker/Recon.",
 		"jp_explainLong": "① 原生種、龍族、機甲種、海王種に\n　　 与えるダメージを劇的に増加する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Greatly boosts damage against Natives,\n    Dragonkin, Mechs and Oceanids.\n    <color=yellow>[B-Frame]</color>\n[Effect Duration] Long"
 	},
@@ -7688,16 +7688,16 @@
 	{
 		"assign": "20049",
 		"jp_explainShort": "消費ＣＰ減＋機改種に対してダメージを増加",
-		"tr_explainShort": "CP usage down + dam. boost vs Revised",
+		"tr_explainShort": "CP usage down + dam. boost vs Recon.",
 		"jp_explainLong": "① 機改種に対して与えるダメージを増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage against Revised Machines.\n    [B-Frame]\n② Reduces CP consumption.\n    (Even applies to this chip's activation cost)\n[Effect Duration] Long"
+		"tr_explainLong": "① Boosts damage against Reconfigured Mechs.\n    [B-Frame]\n② Reduces CP consumption.\n    (Even applies to this chip's activation cost)\n[Effect Duration] Long"
 	},
 	{
 		"assign": "20050",
 		"jp_explainShort": "消費ＣＰ減＋機改種に対してダメージを大増加",
-		"tr_explainShort": "CP usage down + dam. boost vs Revised",
+		"tr_explainShort": "CP usage down + dam. boost vs Recon.",
 		"jp_explainLong": "① 機改種に対して与えるダメージを大きく増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": "① Greatly boosts damage against Revised Machines.\n    [B-Frame]\n② Reduces CP consumption.\n    (Even applies to this chip's activation cost)\n[Effect Duration] Long"
+		"tr_explainLong": "① Greatly boosts damage against Reconfigured\n    Mechs.\n    [B-Frame]\n② Reduces CP consumption.\n    (Even applies to this chip's activation cost)\n[Effect Duration] Long"
 	},
 	{
 		"assign": "20053",
