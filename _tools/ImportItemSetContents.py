@@ -44,8 +44,8 @@ output_file = codecs.open(os.path.join(json_loc, 'Item_Stack_ItemBag.txt'),
 
 print("Performing pre-translation formatting.")
 # Copy JP text into TR text
-itembags = regex.sub('"jp_explain": "(.+)",\n\t\t"tr_explain": ""',
-                     r'"jp_explain": "\1",\n\t\t"tr_explain": "\1"',
+itembags = regex.sub('"jp_explain": "(.+)",(\r)?\n\t\t"tr_explain": ""',
+                     r'"jp_explain": "\1",\2\n\t\t"tr_explain": "\1"',
                      itembags)
 print("  JP text copied into TR text")
 # Replace stock phrase at the start of each description
