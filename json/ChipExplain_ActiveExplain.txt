@@ -534,14 +534,14 @@
 	{
 		"assign": "31011",
 		"jp_explainShort": "ダーカー・機改種以外にダメージ増加",
-		"tr_explainShort": "Damage boost vs non-Darker/Altered",
+		"tr_explainShort": "Damage boost vs non-Darker/Recon.",
 		"jp_explainLong": "① 原生種、龍族、機甲種、海王種に\n　　 与えるダメージを増加する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts damage against Natives, Dragonkin,\n    Mechs and Oceanids.\n    <color=yellow>[B-Frame]</color>\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31012",
 		"jp_explainShort": "ダーカー・機改種以外にダメージ大増加",
-		"tr_explainShort": "Damage boost vs non-Darker/Altered",
+		"tr_explainShort": "Damage boost vs non-Darker/Recon.",
 		"jp_explainLong": "① 原生種、龍族、機甲種、海王種に\n　　 与えるダメージを大きく増加する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Greatly boosts damage against Natives,\n    Dragonkin, Mechs and Oceanids.\n    <color=yellow>[B-Frame]</color>\n[Effect Duration] Long"
 	},
@@ -1584,14 +1584,14 @@
 	{
 		"assign": "31555",
 		"jp_explainShort": "ダーカー・機改種以外にダメージ大増加",
-		"tr_explainShort": "Damage boost vs non-Darker/Altered",
+		"tr_explainShort": "Damage boost vs non-Darker/Recon.",
 		"jp_explainLong": "① 原生種、龍族、機甲種、海王種に\n　　 与えるダメージを大きく増加する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Greatly boosts damage against Natives,\n    Dragonkin, Mechs and Oceanids.\n    <color=yellow>[B-Frame]</color>\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31556",
 		"jp_explainShort": "ダーカー・機改種以外にダメージ劇的増加",
-		"tr_explainShort": "Damage boost vs non-Darker/Altered",
+		"tr_explainShort": "Damage boost vs non-Darker/Recon.",
 		"jp_explainLong": "① 原生種、龍族、機甲種、海王種に\n　　 与えるダメージを劇的に増加する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Greatly boosts damage against Natives,\n    Dragonkin, Mechs and Oceanids.\n    <color=yellow>[B-Frame]</color>\n[Effect Duration] Long"
 	},
@@ -1614,21 +1614,21 @@
 		"jp_explainShort": "攻撃力超絶増＋消費ＣＰ減＋特定条件時追撃",
 		"tr_explainShort": "Dam. boost + CP use down + add. dam.",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n③ リンクスロットに装備したチップのクラスボーナスが\n　　 ファイターかブレイバーの場合、追加ダメージを与える。\n④ このチップを装備中は氷属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Reduces CP consumption.\n③ Deals additional damage to enemies if the\n    class bonus of the chip in this chip's link slot\n    is Fighter or Braver.\n    <color=yellow>[Chase]</color>\n④ While this chip is equipped, the equip costs of\n    Ice PAs and Techs are reduced.\n[Effect Duration] Long"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Reduces CP consumption.\n    (Even applies to this chip's activation cost)\n③ Deals additional damage to enemies if the\n    class bonus of the chip in this chip's link slot\n    is Fighter or Braver.\n    <color=yellow>[Chase]</color>\n④ While this chip is equipped, the equip costs of\n    Ice PAs and Techs are reduced.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31577",
 		"jp_explainShort": "攻撃力超絶増＋消費ＣＰ減＋特定条件時追撃",
 		"tr_explainShort": "Dam. boost + CP use down + add. dam.",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n③ リンクスロットに装備したチップのクラスボーナスが\n　　 ファイターかブレイバーの場合、追加ダメージを与える。\n④ このチップを装備中は氷属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Reduces CP consumption.\n③ Deals additional damage to enemies if the\n    class bonus of the chip in this chip's link slot\n    is Fighter or Braver.\n    <color=yellow>[Chase]</color>\n④ While this chip is equipped, the equip costs of\n    Ice PAs and Techs are reduced.\n[Effect Duration] Long"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Reduces CP consumption.\n    (Even applies to this chip's activation cost)\n③ Deals additional damage to enemies if the\n    class bonus of the chip in this chip's link slot\n    is Fighter or Braver.\n    <color=yellow>[Chase]</color>\n④ While this chip is equipped, the equip costs of\n    Ice PAs and Techs are reduced.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31578",
 		"jp_explainShort": "攻撃力超絶増＋消費ＣＰ減＋特定条件時追撃",
 		"tr_explainShort": "Dam. boost + CP use down + add. dam.",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n③ リンクスロットに装備したチップのクラスボーナスが\n　　 ファイターかブレイバーの場合、追加ダメージを与える。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Reduces CP consumption.\n③ Deals additional damage to enemies if the\n    class bonus of the chip in this chip's link slot\n    is Fighter or Braver.\n    <color=yellow>[Chase]</color>\n④ While this chip is equipped, the equip costs of\n    all PAs and Techs are reduced.\n[Effect Duration] Long"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Reduces CP consumption.\n    (Even applies to this chip's activation cost)\n③ Deals additional damage to enemies if the\n    class bonus of the chip in this chip's link slot\n    is Fighter or Braver.\n    <color=yellow>[Chase]</color>\n④ While this chip is equipped, the equip costs of\n    all PAs and Techs are reduced.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31581",
@@ -1985,21 +1985,21 @@
 		"jp_explainShort": "攻撃力増＋ダメージ防御＋風弱点ダメージ増",
 		"tr_explainShort": "Dam. boost + barrier + Wind weak boost",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 攻撃対象の敵が風属性弱点の場合に\n　　 全てのリンクスロットに装備した\n　　 風属性チップの枚数に応じダメージを大きく増加する。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n③ Boosts Wind elemental damage against enemies\n    weak to Wind based on the number of Wind chips\n    in all link slots.\n    <color=yellow>[S-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Wind PAs and Techs are reduced.\n[Effect Duration] Long"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n③ Greatly boosts damage against enemies weak to\n    Wind based on the number of Wind chips in all link\n    slots.\n    <color=yellow>[D-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Wind PAs and Techs are reduced.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31753",
 		"jp_explainShort": "攻撃力増＋ダメージ防御＋風弱点ダメージ増",
 		"tr_explainShort": "Dam. boost + barrier + Wind weak boost",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 攻撃対象の敵が風属性弱点の場合に\n　　 全てのリンクスロットに装備した\n　　 風属性チップの枚数に応じダメージを大きく増加する。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n③ Boosts Wind elemental damage against enemies\n    weak to Wind based on the number of Wind chips\n    in all link slots.\n    <color=yellow>[S-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Wind PAs and Techs are reduced.\n[Effect Duration] Long"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n③ Greatly boosts damage against enemies weak to\n    Wind based on the number of Wind chips in all link\n    slots.\n    <color=yellow>[D-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Wind PAs and Techs are reduced.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31754",
 		"jp_explainShort": "攻撃力増＋ダメージ防御＋風弱点ダメージ増",
 		"tr_explainShort": "Dam. boost + barrier + Wind weak boost",
 		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 攻撃対象の敵が風属性弱点の場合に\n　　 全てのリンクスロットに装備した\n　　 風属性チップの枚数に応じダメージを大きく増加する。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Maximally boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n③ Boosts Wind elemental damage against enemies\n    weak to Wind based on the number of Wind chips\n    in all link slots.\n    <color=yellow>[S-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    all PAs and Techs are reduced.\n[Effect Duration] Long"
+		"tr_explainLong": "① Maximally boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n③ Greatly boosts damage against enemies weak to\n    Wind based on the number of Wind chips in all link\n    slots.\n    <color=yellow>[D-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    all PAs and Techs are reduced.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31757",
@@ -2062,28 +2062,28 @@
 		"jp_explainShort": "攻撃力劇的増加＋消費ＣＰ減少＋発動率上昇",
 		"tr_explainShort": "Dam. boost + CP use down + act. rate up",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 発動率を上昇する。\n③ 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Increases activation rate of all Support Chips.\n③ Reduces CP consumption.\n[Effect Duration] Long"
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Increases activation rate of all Support Chips.\n③ Reduces CP consumption.\n    (Even applies to this chip's activation cost)\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31781",
 		"jp_explainShort": "攻撃力劇的増加＋消費ＣＰ減少＋発動率上昇",
 		"tr_explainShort": "Dam. boost + CP use down + act. rate up",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 発動率を上昇する。\n③ 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Increases activation rate of all Support Chips.\n③ Reduces CP consumption.\n[Effect Duration] Long"
+		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Increases activation rate of all Support Chips.\n③ Reduces CP consumption.\n    (Even applies to this chip's activation cost)\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31788",
 		"jp_explainShort": "アビＬｖ技法増加＋ダメージ防御＋フリーズ付与",
-		"tr_explainShort": "",
+		"tr_explainShort": "PA/T boost x lv. + barr. + counter-Freeze",
 		"jp_explainLong": "① アビリティレベルに応じて必殺技・法術チップの\n　　 威力を大きく増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 攻撃対象の敵からダメージを受けた時\n　　 一定確率で「フリーズ」効果を与える。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Greatly boosts PAs and Techs based on this chip's\n    ability level.\n    <color=yellow>[?-Frame]</color>\n② Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n③ Responds to damage from the targeted enemy\n    with a fixed chance to inflict [Freeze].\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31789",
 		"jp_explainShort": "アビＬｖ技法増加＋ダメージ防御＋フリーズ付与",
 		"tr_explainShort": "",
 		"jp_explainLong": "① アビリティレベルに応じて必殺技・法術チップの\n　　 威力を大きく増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 攻撃対象の敵からダメージを受けた時\n　　 一定確率で「フリーズ」効果を与える。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Greatly boosts PAs and Techs based on this chip's\n    ability level.\n    <color=yellow>[?-Frame]</color>\n② Grants you a barrier that prevents damage\n    up to 50% of your maximum HP.\n③ Responds to damage from the targeted enemy\n    with a fixed chance to inflict [Freeze].\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31790",
@@ -5448,44 +5448,44 @@
 	{
 		"assign": "60237",
 		"jp_explainShort": "目標を追って跳躍する両剣用の必殺技",
-		"tr_explainShort": "",
+		"tr_explainShort": "[Double Saber PA] Surprise Dunk",
 		"jp_explainLong": "「両剣用の必殺技」\n跳躍し、目標へ両剣を振り下ろす。\n攻撃と同時に周囲に衝撃波が発生。",
-		"tr_explainLong": ""
+		"tr_explainLong": "[Double Saber PA]\nJump and bring the Double Saber down on the target.\nWhen the attack connects, a shockwave occurs."
 	},
 	{
 		"assign": "60238",
 		"jp_explainShort": "目標を追って跳躍する両剣用の必殺技",
-		"tr_explainShort": "",
+		"tr_explainShort": "[Double Saber PA] Surprise Dunk",
 		"jp_explainLong": "「両剣用の必殺技」\n跳躍し、目標へ両剣を振り下ろす。\n攻撃と同時に周囲に衝撃波が発生。",
-		"tr_explainLong": ""
+		"tr_explainLong": "[Double Saber PA]\nJump and bring the Double Saber down on the target.\nWhen the attack connects, a shockwave occurs."
 	},
 	{
 		"assign": "60239",
 		"jp_explainShort": "目標を追って跳躍する両剣用の必殺技",
-		"tr_explainShort": "",
+		"tr_explainShort": "[Double Saber PA] Surprise Dunk",
 		"jp_explainLong": "「両剣用の必殺技」\n跳躍し、目標へ両剣を振り下ろす。\n攻撃と同時に周囲に衝撃波が発生。",
-		"tr_explainLong": ""
+		"tr_explainLong": "[Double Saber PA]\nJump and bring the Double Saber down on the target.\nWhen the attack connects, a shockwave occurs."
 	},
 	{
 		"assign": "60240",
 		"jp_explainShort": "目標を追って跳躍する両剣用の必殺技",
-		"tr_explainShort": "",
+		"tr_explainShort": "[Double Saber PA] Surprise Dunk",
 		"jp_explainLong": "「両剣用の必殺技」\n跳躍し、目標へ両剣を振り下ろす。\n攻撃と同時に周囲に衝撃波が発生。",
-		"tr_explainLong": ""
+		"tr_explainLong": "[Double Saber PA]\nJump and bring the Double Saber down on the target.\nWhen the attack connects, a shockwave occurs."
 	},
 	{
 		"assign": "60241",
 		"jp_explainShort": "目標を追って跳躍する両剣用の必殺技",
-		"tr_explainShort": "",
+		"tr_explainShort": "[Double Saber PA] Surprise Dunk",
 		"jp_explainLong": "「両剣用の必殺技」\n跳躍し、目標へ両剣を振り下ろす。\n攻撃と同時に周囲に衝撃波が発生。",
-		"tr_explainLong": ""
+		"tr_explainLong": "[Double Saber PA]\nJump and bring the Double Saber down on the target.\nWhen the attack connects, a shockwave occurs."
 	},
 	{
 		"assign": "60242",
 		"jp_explainShort": "目標を追って跳躍する両剣用の必殺技",
-		"tr_explainShort": "",
+		"tr_explainShort": "[Double Saber PA] Surprise Dunk",
 		"jp_explainLong": "「両剣用の必殺技」\n跳躍し、目標へ両剣を振り下ろす。\n攻撃と同時に周囲に衝撃波が発生。",
-		"tr_explainLong": ""
+		"tr_explainLong": "[Double Saber PA]\nJump and bring the Double Saber down on the target.\nWhen the attack connects, a shockwave occurs."
 	},
 	{
 		"assign": "70110",
@@ -7688,16 +7688,16 @@
 	{
 		"assign": "20049",
 		"jp_explainShort": "消費ＣＰ減＋機改種に対してダメージを増加",
-		"tr_explainShort": "CP usage down + dam. boost vs Revised",
+		"tr_explainShort": "CP usage down + dam. boost vs Recon.",
 		"jp_explainLong": "① 機改種に対して与えるダメージを増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage against Revised Machines.\n    [B-Frame]\n② Reduces CP consumption.\n    (Even applies to this chip's activation cost)\n[Effect Duration] Long"
+		"tr_explainLong": "① Boosts damage against Reconfigured Mechs.\n    [B-Frame]\n② Reduces CP consumption.\n    (Even applies to this chip's activation cost)\n[Effect Duration] Long"
 	},
 	{
 		"assign": "20050",
 		"jp_explainShort": "消費ＣＰ減＋機改種に対してダメージを大増加",
-		"tr_explainShort": "CP usage down + dam. boost vs Revised",
+		"tr_explainShort": "CP usage down + dam. boost vs Recon.",
 		"jp_explainLong": "① 機改種に対して与えるダメージを大きく増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": "① Greatly boosts damage against Revised Machines.\n    [B-Frame]\n② Reduces CP consumption.\n    (Even applies to this chip's activation cost)\n[Effect Duration] Long"
+		"tr_explainLong": "① Greatly boosts damage against Reconfigured\n    Mechs.\n    [B-Frame]\n② Reduces CP consumption.\n    (Even applies to this chip's activation cost)\n[Effect Duration] Long"
 	},
 	{
 		"assign": "20053",
