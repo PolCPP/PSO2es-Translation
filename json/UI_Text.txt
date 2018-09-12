@@ -856,8 +856,8 @@
 	},
 	{
 		"assign": "rshop_dialog_b_02",
-		"jp_text": "{0}\nと、以下のアイテムを交換します。よろしいですか？",
-		"tr_text": "The following Items will be exchanged for\n{0}. Are you sure?"
+		"jp_text": "{0}×{1}\nと、以下のアイテムを交換します。よろしいですか？",
+		"tr_text": ""
 	},
 	{
 		"assign": "rshop_dialog_t_03",
@@ -5556,8 +5556,8 @@
 	},
 	{
 		"assign": "quest_counter_raid_sp_z_dialog_01_b",
-		"jp_text": "「覇級トリガー」を1個消費して、覇級を解除します。\nよろしいですか？\n\n<color=#ffff00>所持数：{0}個</color>\n\n※クエストに出発せずに開催クエストが終了した場合、\nロック状態と覇級トリガーの所持数は元に戻ります。",
-		"tr_text": "This will use an \"Extra Hard Trigger.\"\nIs that OK?\n\n<color=#ffff00>Owned Triggers：{0}</color>\n\n※Triggers will be used when starting the quest"
+		"jp_text": "「覇級トリガー」を消費して、覇級を解除します。\nトリガーは複数使用することで\n強いエネミーと戦うことができます。\n\n※覇級トリガーはクエスト出発時に消費されます。\n\n<color=#ffff00>所持数：{0}個</color>\n\n何個使用しますか？",
+		"tr_text": ""
 	},
 	{
 		"assign": "reward_dialog_title",
@@ -7815,6 +7815,11 @@
 		"tr_text": "Special Enemy"
 	},
 	{
+		"assign": "chip_type_name_14",
+		"jp_text": "機改種",
+		"tr_text": ""
+	},
+	{
 		"assign": "chip_type_name_weaponoid",
 		"jp_text": "ウェポノイド",
 		"tr_text": "Weaponoid"
@@ -8442,6 +8447,11 @@
 	{
 		"assign": "recycle_shop_eternal_jewel",
 		"jp_text": "{0}pt",
+		"tr_text": ""
+	},
+	{
+		"assign": "recycle_shop_all_select",
+		"jp_text": "全て交換",
 		"tr_text": ""
 	},
 	{
@@ -11411,8 +11421,8 @@
 	},
 	{
 		"assign": "tu_0006_w09_b",
-		"jp_text": "Windows PC、PlayStation®Vita、PlayStation®4で\nサービス中の『PSO2』と連動すると、\n現在のキャラクターのまま『PSO2』をプレイすることができます。",
-		"tr_text": "Linked Windows PC and PlayStation®Vita\naccounts can play on the same character."
+		"jp_text": "Windows PC、PlayStation®Vita、PlayStation®4で\nサービス中の『PSO2』や『PSO2 クラウド』と連動すると\n現在のキャラクターのまま『PSO2』をプレイすることができます。",
+		"tr_text": ""
 	},
 	{
 		"assign": "tu_0006_w10_b",
@@ -11426,8 +11436,8 @@
 	},
 	{
 		"assign": "tu_0006_w11_b",
-		"jp_text": "『PSO2』とのキャラクター連動処理を行いました。\n以降、『PSO2es』において、『PSO2』との\nさまざまな連動機能が利用できるようになります。",
-		"tr_text": "If you link your PSO2 character with PSO2es,\nvarious functions will be unlocked."
+		"jp_text": "『PSO2』とのキャラクター連動処理を行いました。\n以降、『PSO2es』において、『PSO2』や『PSO2 クラウド』との\nさまざまな連動機能が利用できるようになります。",
+		"tr_text": ""
 	},
 	{
 		"assign": "tu_0006_w12_b",
@@ -15341,7 +15351,7 @@
 	},
 	{
 		"assign": "arksexpeditioncounter_comment_00",
-		"jp_text": "　同じクエストに出発すると報酬が増えます。\n　探索回数は毎日５時にリセットされます。",
+		"jp_text": "同じクエストに出発すると報酬が増えます。\n探索回数は毎日５時にリセットされます。",
 		"tr_text": ""
 	},
 	{
@@ -17876,7 +17886,7 @@
 	},
 	{
 		"assign": "collect_search_comment_00",
-		"jp_text": "　大成功時はゲージの上昇量が増加します。\n　残り回数は毎日５時にリセットされます。",
+		"jp_text": "大成功時はゲージの上昇量が増加します。\n残り回数は毎日５時にリセットされます。",
 		"tr_text": ""
 	},
 	{
@@ -18335,6 +18345,16 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "quest_clear_reward_dialog_title_6204004",
+		"jp_text": "ストーリークエスト Season3　1章4-4",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_clear_reward_dialog_body_6204004",
+		"jp_text": "Season3　1章4-4「真実を伝える勇気」クリア\nおめでとうございます！\n以下のクリア報酬をプレゼントいたしました。\n受け取りボックスをご確認ください。",
+		"tr_text": ""
+	},
+	{
 		"assign": "recommended_equipment",
 		"jp_text": "おすすめ装備",
 		"tr_text": "Recommended Equipment"
@@ -18521,7 +18541,7 @@
 	},
 	{
 		"assign": "leisure_has_coin",
-		"jp_text": "　<color=#FFFFFF>所持LC</color><color=#68a0a7>/</color>",
+		"jp_text": "<color=#FFFFFF>所持LC</color><color=#68a0a7>/</color>",
 		"tr_text": ""
 	},
 	{
@@ -18932,6 +18952,16 @@
 	{
 		"assign": "quest_lobby_guide_01",
 		"jp_text": "<color=#f0df60>現在選択しているパレットのリンクスロットの確認画面となります。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_event_character_title",
+		"jp_text": "イベントキャラクター",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_event_character",
+		"jp_text": "「{0}」",
 		"tr_text": ""
 	},
 	{
@@ -19920,6 +19950,11 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "pet_give_num_format",
+		"jp_text": "× {0}",
+		"tr_text": ""
+	},
+	{
 		"assign": "window_help_LM28",
 		"jp_text": "wh_42_01,\n必殺技・法術チップにリンクスロットが追加されました。\nこのリンクスロットは、装備先のチップと同じ攻撃タイプの必殺技・法術チップのみ\n装備することができ、装備することでリンクスキルが発動します。,\nwh_42_02,\n特定のリンクチップを装備すると、プレイヤーの分身が出現し\n装備したチップの必殺技・法術が追加発動する「ラッシュアーツ」を使用できます。\n使用可能なチップを装備する際には、「ラッシュアーツ」のアイコンが表示されます。,\nwh_42_03,\nラッシュアーツは、バトルの行動に応じて溜まる専用のゲージを消費し、発動します。\nゲージ最大時、必殺技・法術チップ使用後のジャストアタックを成功させると\n分身「ラッシュ」が出現、装備したリンクチップの必殺技・法術を追加発動させます。,",
 		"tr_text": ""
@@ -20232,6 +20267,16 @@
 	{
 		"assign": "window_help_LM30",
 		"jp_text": "wh_44_01,\nデイリー及びウィークリーのesオーダーをクリアすることで報酬がもらえます。\n報酬はesオーダーの達成時に、自動的に「受け取りボックス」に送られます。",
+		"tr_text": ""
+	},
+	{
+		"assign": "trigger_burst_used_num_yellow",
+		"jp_text": "<color=yellow>【x{0}】</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "trigger_burst_used_num_red",
+		"jp_text": "<color=red>【x{0}】</color>",
 		"tr_text": ""
 	}
 ]

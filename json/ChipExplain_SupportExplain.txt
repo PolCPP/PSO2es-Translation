@@ -4385,14 +4385,14 @@
 		"assign": "31765",
 		"jp_explainShort": "攻撃力超絶増＋定期ＣＰ回復＋攻撃威力強化",
 		"tr_explainShort": "Dam. boost + CP rec. + boost x Wp link",
-		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 定期的にＣＰを回復する。\n③ 全てのリンクスロットに装備した\n　　 ウェポノイドチップの枚数に応じ攻撃の威力を強化する。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 定期的にＣＰを回復する。\n③ 全てのリンクスロットに装備した\n　　 ウェポノイドチップの枚数に応じ攻撃の威力を強化する。\n④ このチップを装備中は雷属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
 		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Recovers CP at regular intervals.\n③ Boosts damage based on the number of\n    Weaponoid chips equipped in all link slots.\n    <color=yellow>[Q-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Wind PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31766",
 		"jp_explainShort": "攻撃力超絶増＋定期ＣＰ回復＋攻撃威力強化",
 		"tr_explainShort": "Dam. boost + CP rec. + boost x Wp link",
-		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 定期的にＣＰを回復する。\n③ 全てのリンクスロットに装備した\n　　 ウェポノイドチップの枚数に応じ攻撃の威力を強化する。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 定期的にＣＰを回復する。\n③ 全てのリンクスロットに装備した\n　　 ウェポノイドチップの枚数に応じ攻撃の威力を強化する。\n④ このチップを装備中は雷属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
 		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Recovers CP at regular intervals.\n③ Boosts damage based on the number of\n    Weaponoid chips equipped in all link slots.\n    <color=yellow>[Q-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Wind PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
@@ -4455,7 +4455,7 @@
 		"assign": "31777",
 		"jp_explainShort": "攻撃力を超絶強化＋定期的にＨＰを小回復",
 		"tr_explainShort": "ATK up + HP recovery over time",
-		"jp_explainLong": "① 現在のＨＰを７５％減少させる。\n② 攻撃力を超絶に強化する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"jp_explainLong": "① 現在のＨＰを７５％減少させる。\n② 攻撃力を超絶に強化する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
 		"tr_explainLong": "① Cuts your current HP by 75%.\n② Overwhelmingly increases ATK.\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
@@ -4488,17 +4488,17 @@
 	},
 	{
 		"assign": "31786",
-		"jp_explainShort": "威力強化＋光武器攻撃力増加＋定期ＣＰ回復",
-		"tr_explainShort": "Pow. boost + Light wep boost + CP regen",
+		"jp_explainShort": "威力増加＋光武器攻撃力増加＋定期ＣＰ回復",
+		"tr_explainShort": "",
 		"jp_explainLong": "① 威力を増加する。\n② 装備中の武器の属性が光属性の場合\n　　 攻撃力をわずかに増加する。\n③ 定期的にＣＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts power.\n    <color=yellow>[F-Frame]</color>\n② Slightly boosts damage if using a Light weapon.\n    <color=yellow>[H-Frame]</color>\n③ Slightly recovers CP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31787",
-		"jp_explainShort": "威力強化＋光武器攻撃力増加＋定期ＣＰ回復",
-		"tr_explainShort": "Pow. boost + Light wep boost + CP regen",
+		"jp_explainShort": "威力大増加＋光武器攻撃力増加＋定期ＣＰ回復",
+		"tr_explainShort": "",
 		"jp_explainLong": "① 威力を大きく増加する。\n② 装備中の武器の属性が光属性の場合\n　　 攻撃力をわずかに増加する。\n③ 定期的にＣＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Greatly boosts power.\n    <color=yellow>[F-Frame]</color>\n② Slightly boosts damage if using a Light weapon.\n    <color=yellow>[H-Frame]</color>\n③ Slightly recovers CP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "11030",
@@ -6700,16 +6700,16 @@
 	},
 	{
 		"assign": "40297",
-		"jp_explainShort": "-",
+		"jp_explainShort": "闇属性時小増＋鋼拳時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 闇属性の武器の場合に威力をわずかに増加する。\n② 鋼拳の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40298",
-		"jp_explainShort": "-",
+		"jp_explainShort": "闇属性時増＋鋼拳時増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 闇属性の武器の場合に威力を増加する。\n② 鋼拳の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
@@ -7148,16 +7148,16 @@
 	},
 	{
 		"assign": "40361",
-		"jp_explainShort": "-",
+		"jp_explainShort": "氷属性時小増＋双機銃時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 氷属性の武器の場合に威力をわずかに増加する。\n② 双機銃の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40362",
-		"jp_explainShort": "-",
+		"jp_explainShort": "氷属性時増＋双機銃時増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 氷属性の武器の場合に威力を増加する。\n② 双機銃の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
