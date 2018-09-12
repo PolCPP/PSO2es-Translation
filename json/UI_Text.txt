@@ -857,7 +857,7 @@
 	{
 		"assign": "rshop_dialog_b_02",
 		"jp_text": "{0}×{1}\nと、以下のアイテムを交換します。よろしいですか？",
-		"tr_text": ""
+		"tr_text": "The following items will be exchanged for\n{1} x {0}. Are you sure?"
 	},
 	{
 		"assign": "rshop_dialog_t_03",
@@ -5557,7 +5557,7 @@
 	{
 		"assign": "quest_counter_raid_sp_z_dialog_01_b",
 		"jp_text": "「覇級トリガー」を消費して、覇級を解除します。\nトリガーは複数使用することで\n強いエネミーと戦うことができます。\n\n※覇級トリガーはクエスト出発時に消費されます。\n\n<color=#ffff00>所持数：{0}個</color>\n\n何個使用しますか？",
-		"tr_text": ""
+		"tr_text": "This will use an \"Extra Hard Trigger.\nBy using multiple triggers, you\ncan fight a stronger enemy.\n\n※Triggers will be used when starting the quest.\n\n<color=#ffff00>Owned Triggers：{0}</color>\n\nHow many triggers do you want to use?"
 	},
 	{
 		"assign": "reward_dialog_title",
@@ -7817,7 +7817,7 @@
 	{
 		"assign": "chip_type_name_14",
 		"jp_text": "機改種",
-		"tr_text": ""
+		"tr_text": "Reconfigured Mechs"
 	},
 	{
 		"assign": "chip_type_name_weaponoid",
@@ -8447,7 +8447,7 @@
 	{
 		"assign": "recycle_shop_eternal_jewel",
 		"jp_text": "{0}pt",
-		"tr_text": ""
+		"tr_text": "Exchange all"
 	},
 	{
 		"assign": "recycle_shop_all_select",
@@ -11427,7 +11427,7 @@
 	{
 		"assign": "tu_0006_w10_b",
 		"jp_text": "境界を超えるRPG『PSO2』と連動して\nさらなる冒険に出発しましょう！",
-		"tr_text": "境界を超えるRPG『PSO2』と連動して\nさらなる冒険に出発しましょう！"
+		"tr_text": ""
 	},
 	{
 		"assign": "tu_0006_n44_b",
@@ -15352,7 +15352,7 @@
 	{
 		"assign": "arksexpeditioncounter_comment_00",
 		"jp_text": "同じクエストに出発すると報酬が増えます。\n探索回数は毎日５時にリセットされます。",
-		"tr_text": ""
+		"tr_text": "When you search a quest multiple times, the reward increases.\nNumber of searches resets every day at 5:00 JST."
 	},
 	{
 		"assign": "dialog_title_arksexpedition_use_ac",
@@ -15367,7 +15367,7 @@
 	{
 		"assign": "dialog_title_arksexpedition_use_free",
 		"jp_text": "クイック探索",
-		"tr_text": ""
+		"tr_text": "Quick Search"
 	},
 	{
 		"assign": "dialog_body_arksexpedition_use_free",
@@ -18542,7 +18542,7 @@
 	{
 		"assign": "leisure_has_coin",
 		"jp_text": "<color=#FFFFFF>所持LC</color><color=#68a0a7>/</color>",
-		"tr_text": ""
+		"tr_text": "<color=#FFFFFF>Owned LC</color><color=#68a0a7>/</color>"
 	},
 	{
 		"assign": "leisure_times",
@@ -18957,12 +18957,12 @@
 	{
 		"assign": "quest_event_character_title",
 		"jp_text": "イベントキャラクター",
-		"tr_text": ""
+		"tr_text": "Event Character"
 	},
 	{
 		"assign": "quest_event_character",
 		"jp_text": "「{0}」",
-		"tr_text": ""
+		"tr_text": "\"{0}\""
 	},
 	{
 		"assign": "chip_details_max_level",
