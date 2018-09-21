@@ -5407,7 +5407,7 @@
 	{
 		"assign": "quest_counter_raid_not_accept",
 		"jp_text": "未受注",
-		"tr_text": "Not Ordered"
+		"tr_text": "Not Started"
 	},
 	{
 		"assign": "quest_counter_raid_passtime2",
@@ -5417,7 +5417,7 @@
 	{
 		"assign": "quest_counter_raid_current_rank",
 		"jp_text": "あと<%hh>:<%mm>:<%ss>以内に討伐で<color=#ffff00><%rank>ランク</color>クリア！",
-		"tr_text": "<color=#ffff00><%rank>-Rank</color> cleared in <%hh>:<%mm>:<%ss>!"
+		"tr_text": "<color=#ffff00><%rank>-Rank</color> if cleared in under <%hh>:<%mm>:<%ss>!"
 	},
 	{
 		"assign": "quest_counter_raid_current_rank_b",
@@ -5677,7 +5677,7 @@
 	{
 		"assign": "reward_selafy",
 		"jp_text": "<color=black>参加していた緊急クエストがクリアされました！\nアークス本部より報酬が支給されます。</color>",
-		"tr_text": "<color=black>Emergency Quest cleared!\nYou will be rewarded at the ARKS HQ.</color>"
+		"tr_text": "<color=black>Emergency Quest cleared!\nYou will be rewarded at ARKS HQ.</color>"
 	},
 	{
 		"assign": "reward_noitem",
@@ -5842,7 +5842,7 @@
 	{
 		"assign": "relief_dialog_done_b",
 		"jp_text": "救援要請を送りました。",
-		"tr_text": "We sent a Rescue Request."
+		"tr_text": "Sent a Rescue Request."
 	},
 	{
 		"assign": "relief_select_num",
@@ -5872,7 +5872,7 @@
 	{
 		"assign": "relief_level",
 		"jp_text": "Lv.<%level>",
-		"tr_text": ""
+		"tr_text": "Lv. <%level>"
 	},
 	{
 		"assign": "relief_login",
@@ -9942,7 +9942,7 @@
 	{
 		"assign": "quest_emeny_level",
 		"jp_text": "目標Lv.{0}～",
-		"tr_text": "Enemy Lv.{0}～"
+		"tr_text": "Lv. {0}～"
 	},
 	{
 		"assign": "quest_counter_no_area_t",
@@ -9972,7 +9972,7 @@
 	{
 		"assign": "header_time_label",
 		"jp_text": "<color=#00ff00>あと</color>",
-		"tr_text": ""
+		"tr_text": " "
 	},
 	{
 		"assign": "community_guide_00",
