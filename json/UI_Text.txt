@@ -5557,7 +5557,7 @@
 	{
 		"assign": "quest_counter_raid_sp_z_dialog_01_b",
 		"jp_text": "「覇級トリガー」を消費して、覇級を解除します。\nトリガーは複数使用することで\n強いエネミーと戦うことができます。\n\n※覇級トリガーはクエスト出発時に消費されます。\n\n<color=#ffff00>所持数：{0}個</color>\n\n何個使用しますか？",
-		"tr_text": "This will use an \"Extra Hard Trigger.\nBy using multiple triggers, you\ncan fight a stronger enemy.\n\n※Triggers will be used when starting the quest.\n\n<color=#ffff00>Owned Triggers：{0}</color>\n\nHow many triggers do you want to use?"
+		"tr_text": "This will use an \"Extra Hard Trigger\".\nBy using multiple triggers, you\ncan fight a stronger enemy.\n\n※Triggers will be used when starting the quest.\n\n<color=#ffff00>Owned Triggers：{0}</color>\nHow many triggers do you want to use?"
 	},
 	{
 		"assign": "reward_dialog_title",
@@ -5702,7 +5702,7 @@
 	{
 		"assign": "reward_caption_participate",
 		"jp_text": "クエストに参加したキャラクター",
-		"tr_text": "Characters Participated"
+		"tr_text": "Participating Characters"
 	},
 	{
 		"assign": "reward_damage",
@@ -6337,22 +6337,22 @@
 	{
 		"assign": "field_exp",
 		"jp_text": "ＥＸＰ",
-		"tr_text": "EXP"
+		"tr_text": "EXP: "
 	},
 	{
 		"assign": "field_meseta",
 		"jp_text": "メセタ",
-		"tr_text": "Meseta"
+		"tr_text": "Meseta: "
 	},
 	{
 		"assign": "field_item",
 		"jp_text": "アイテム",
-		"tr_text": "Item"
+		"tr_text": "Item: "
 	},
 	{
 		"assign": "field_score",
 		"jp_text": "スコア",
-		"tr_text": "Score"
+		"tr_text": "Score: "
 	},
 	{
 		"assign": "fieldoption_category_windowtitle",
@@ -14092,12 +14092,12 @@
 	{
 		"assign": "raid_n_great",
 		"jp_text": "大ダメージを与えたことで目標が逃走しました。\nただ、目標の体力はかなり低下しています。\n引き続き挑戦して、討伐を目指しましょう！",
-		"tr_text": "You weren't able to deal enough\ndamage to the target before escaping.\nHowever, its strength has\ndeclined considerably.\nKeep trying and aim to defeat the enemy!"
+		"tr_text": "You dealt a lot of damage to the target,\nbut it escaped. However, its strength has\ndecreased considerably!"
 	},
 	{
 		"assign": "raid_n_good",
 		"jp_text": "目標が逃走しました。\n攻撃したぶんの体力は低下しているので\n引き続き挑戦して、討伐を目指しましょう！",
-		"tr_text": "We didn't reach our goal.\nLet's try this again.\nLet's defeat the enemy!"
+		"tr_text": "We didn't reach our goal.\nTry again and aim to defeat the enemy!"
 	},
 	{
 		"assign": "raid_n_hp01",
@@ -14127,7 +14127,7 @@
 	{
 		"assign": "raid_n_hp06",
 		"jp_text": "目標の討伐を目指して頑張りましょう。\nせいいっぱい応援しています！",
-		"tr_text": "Let's do our best, ok!\nYou have my utmost support!"
+		"tr_text": "Do your best to subdue the target.\nYou have my utmost support!"
 	},
 	{
 		"assign": "raid_log_00",
@@ -16952,17 +16952,17 @@
 	{
 		"assign": "arks_exp_result_quest_bonus_text",
 		"jp_text": "連続探索ボーナス",
-		"tr_text": "Continous Search Bonus"
+		"tr_text": "Continuous Search Bonus"
 	},
 	{
 		"assign": "arks_exp_result_reward_exp_text",
 		"jp_text": "経験値　/",
-		"tr_text": "EXP"
+		"tr_text": "EXP: "
 	},
 	{
 		"assign": "arks_exp_result_reward_meseta_text",
 		"jp_text": "メセタ　 /",
-		"tr_text": "Meseta"
+		"tr_text": "Meseta: "
 	},
 	{
 		"assign": "arks_exp_result_stack_num_text",
@@ -16977,22 +16977,22 @@
 	{
 		"assign": "arks_exp_quest_pickup_item_text",
 		"jp_text": "目玉アイテム 　 /",
-		"tr_text": "Featured"
+		"tr_text": "Featured Item: "
 	},
 	{
 		"assign": "arks_exp_quest_exp_text",
 		"jp_text": "経験値　/",
-		"tr_text": "EXP"
+		"tr_text": "EXP: "
 	},
 	{
 		"assign": "arks_exp_quest_meseta_text",
 		"jp_text": "メセタ　 /",
-		"tr_text": "Meseta"
+		"tr_text": "Meseta: "
 	},
 	{
 		"assign": "arks_exp_quest_bonus_info",
 		"jp_text": "連続探索ボーナス",
-		"tr_text": "Continous Search Bonus"
+		"tr_text": "Continuous Search Bonus"
 	},
 	{
 		"assign": "arks_exp_quest_drop_num_text",
