@@ -746,21 +746,21 @@
 		"jp_text": "破損したダーカーコアａ",
 		"tr_text": "Damaged Darker Core a",
 		"jp_explain": "ダーカーから採取されたコア。\n斬撃や衝撃によって破損している。\n依頼者：<c a1ff6d>オーザ<c>　再受注不可",
-		"tr_explain": "ダーカーから採取されたコア。\n斬撃や衝撃によって破損している。\nClient: <c a1ff6d>Ohza<c> (one-time order)"
+		"tr_explain": "Core taken from a Darker. Has been\ndamaged by a slashing weapon.\nClient: <c a1ff6d>Ohza<c> (one-time order)"
 	},
 	{
 		"assign": "330107",
 		"jp_text": "破損したダーカーコアｂ",
 		"tr_text": "Damaged Darker Core b",
 		"jp_explain": "ダーカーから採取されたコア。\n銃撃や砲撃によって破損している。\n依頼者：<c a1ff6d>リサ<c>　再受注不可",
-		"tr_explain": "ダーカーから採取されたコア。\n銃撃や砲撃によって破損している。\nClient: <c a1ff6d>Lisa<c> (one-time order)"
+		"tr_explain": "Core taken from a Darker. Has been\ndamaged by gunfire or shrapnel.\nClient: <c a1ff6d>Lisa<c> (one-time order)"
 	},
 	{
 		"assign": "330108",
 		"jp_text": "破損したダーカーコアｃ",
 		"tr_text": "Damaged Darker Core c",
 		"jp_explain": "ダーカーから採取されたコア。\n法撃や打撃によって破損している。\n依頼者：<c a1ff6d>マールー<c>　再受注不可",
-		"tr_explain": "ダーカーから採取されたコア。\n法撃や打撃によって破損している。\nClient: <c a1ff6d>Marlu<c> (one-time order)"
+		"tr_explain": "Core taken from a Darker. Has been\ndamaged by a Technique.\nClient: <c a1ff6d>Marlu<c> (one-time order)"
 	},
 	{
 		"assign": "330109",
@@ -984,14 +984,14 @@
 		"jp_text": "アギニスの小爪",
 		"tr_text": "Aginis Wing Claw",
 		"jp_explain": "アギニスの翼から生える爪。\nあまり役に立っていない。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
-		"tr_explain": "アギニスの翼から生える爪。\nあまり役に立っていない。\nClient: <c a1ff6d>Farma<c> (one-time order)"
+		"tr_explain": "A claw that grows on the wing of an\nAginis. Not particularly useful.\nClient: <c a1ff6d>Farma<c> (one-time order)"
 	},
 	{
 		"assign": "330141",
 		"jp_text": "アギニスの鋭いくちばし",
 		"tr_text": "Aginis Sharp Beak",
 		"jp_explain": "アギニスのくちばし。\n鋭く獲物を攻撃する。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
-		"tr_explain": "アギニスのくちばし。\n鋭く獲物を攻撃する。\nClient: <c a1ff6d>Farma<c> (one-time order)"
+		"tr_explain": "The beak of an Aginis. The sharp\npoint is used to attack prey.\nClient: <c a1ff6d>Farma<c> (one-time order)"
 	},
 	{
 		"assign": "330142",
@@ -1003,23 +1003,23 @@
 	{
 		"assign": "330143",
 		"jp_text": "ウーダンの角",
-		"tr_text": "Oodan Horns",
+		"tr_text": "Oodan Horn",
 		"jp_explain": "ウーダンの頭に生える角。\n攻撃的な曲線を描く。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
-		"tr_explain": "ウーダンの頭に生える角。\n攻撃的な曲線を描く。\nClient: <c a1ff6d>Farma<c> (one-time order)"
+		"tr_explain": "A horn from the head of an Oodan.\nIt has an aggressive-looking curve.\nClient: <c a1ff6d>Farma<c> (one-time order)"
 	},
 	{
 		"assign": "330144",
 		"jp_text": "ウーダンの爪",
-		"tr_text": "Woodan Nails",
+		"tr_text": "Oodan Claws",
 		"jp_explain": "ウーダンの爪。\nひっかいたり、地面を掴むのに使う。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
-		"tr_explain": "ウーダンの爪。\nひっかいたり、地面を掴むのに使う。\nClient: <c a1ff6d>Farma<c> (one-time order)"
+		"tr_explain": "Claws from an Oodan. Used to scratch\nand to grip the ground.\nClient: <c a1ff6d>Farma<c> (one-time order)"
 	},
 	{
 		"assign": "330145",
 		"jp_text": "ウーダンの鋭い爪",
 		"tr_text": "Oodan Sharp Claws",
 		"jp_explain": "ウーダンの爪。\nひっかかれると痛そう。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
-		"tr_explain": "ウーダンの爪。\nひっかかれると痛そう。\nClient: <c a1ff6d>Farma<c> (one-time order)"
+		"tr_explain": "Claws from an Oodan. A scratch from\none is painful.\nClient: <c a1ff6d>Farma<c> (one-time order)"
 	},
 	{
 		"assign": "330146",
@@ -1033,19 +1033,19 @@
 		"jp_text": "ガルフの鋭い牙",
 		"tr_text": "Gulf Sharp Fangs",
 		"jp_explain": "ガルフの牙。\nかみつき攻撃に注意。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
-		"tr_explain": "ガルフの牙。\nかみつき攻撃に注意。\nClient: <c a1ff6d>Farma<c> (one-time order)"
+		"tr_explain": "Fangs from a Gulf.\nBeware their biting attack.\nClient: <c a1ff6d>Farma<c> (one-time order)"
 	},
 	{
 		"assign": "330148",
 		"jp_text": "ガルフの鋭い爪",
 		"tr_text": "Gulf Sharp Claws",
 		"jp_explain": "ガルフの爪。\n飛びかかりながらのひっかきは脅威。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
-		"tr_explain": "ガルフの爪。\n飛びかかりながらのひっかきは脅威。\nClient: <c a1ff6d>Farma<c> (one-time order)"
+		"tr_explain": "Claws from a Gulf. Their jumping\nscratch attack is dangerous.\nClient: <c a1ff6d>Farma<c> (one-time order)"
 	},
 	{
 		"assign": "330149",
 		"jp_text": "ガロンゴの足",
-		"tr_text": "Garongo Legs",
+		"tr_text": "Garongo Leg",
 		"jp_explain": "ガロンゴの足。\n意外と小回りが利く。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": "ガロンゴの足。\n意外と小回りが利く。\nClient: <c a1ff6d>Farma<c> (one-time order)"
 	},
@@ -3308,35 +3308,35 @@
 		"jp_text": "セヴァニアンの鱗",
 		"tr_text": "Sevanian Scales",
 		"jp_explain": "セヴァニアンの全身をおおう鱗。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
-		"tr_explain": "セヴァニアンの全身をおおう鱗。\n\nClient: <c a1ff6d>Farma<c> (one-time order)"
+		"tr_explain": "Scales that covered the body of a\nSevanian.\n\nClient: <c a1ff6d>Farma<c> (one-time order)"
 	},
 	{
 		"assign": "330520",
 		"jp_text": "ファルカボネの角片",
-		"tr_text": "Falcabone Piece",
+		"tr_text": "Falcabone Horn Piece",
 		"jp_explain": "ファルカボネの頭部にある角の破片。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
-		"tr_explain": "ファルカボネの頭部にある角の破片。\n\nClient: <c a1ff6d>Farma<c> (one-time order)"
+		"tr_explain": "A fragment of the horn on the head\nof a Falcabone.\n\nClient: <c a1ff6d>Farma<c> (one-time order)"
 	},
 	{
 		"assign": "330521",
 		"jp_text": "タロベッコの腕角",
-		"tr_text": "Talobecko Arm",
+		"tr_text": "Talobecko Arm Horn",
 		"jp_explain": "タロベッコの腕部にある角状の突起。\n\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
-		"tr_explain": "タロベッコの腕部にある角状の突起。\n\nClient: <c a1ff6d>Farma<c> (one-time order)"
+		"tr_explain": "A horn-like protrusion taken from the\narm of a Talobecko.\n\nClient: <c a1ff6d>Farma<c> (one-time order)"
 	},
 	{
 		"assign": "330522",
 		"jp_text": "ブルトルボンの殻の欠片",
-		"tr_text": "Blutorbon Piece",
+		"tr_text": "Blutorbon Shell Fragment",
 		"jp_explain": "ブルトルボンの殻の上部を占める\n突起状の部分の欠片。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
-		"tr_explain": "ブルトルボンの殻の上部を占める\n突起状の部分の欠片。\nClient: <c a1ff6d>Farma<c> (one-time order)"
+		"tr_explain": "A fragment of one of the spikes on\ntop of a Blutorbon's shell.\nClient: <c a1ff6d>Farma<c> (one-time order)"
 	},
 	{
 		"assign": "330523",
 		"jp_text": "タグ・セヴァニアンのひれ",
 		"tr_text": "Tag Sevanian Fins",
 		"jp_explain": "タグ・セヴァニアンの頭部に\nはえているひれ。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
-		"tr_explain": "タグ・セヴァニアンの頭部に\nはえているひれ。\nClient: <c a1ff6d>Farma<c> (one-time order)"
+		"tr_explain": "Fins taken from the head of a\nTag Sevanian.\nClient: <c a1ff6d>Farma<c> (one-time order)"
 	},
 	{
 		"assign": "330524",
@@ -3649,9 +3649,9 @@
 	{
 		"assign": "330578",
 		"jp_text": "海王種の霜降り肉",
-		"tr_text": "Sea King Marbled Meat",
+		"tr_text": "Oceanid Marbled Meat",
 		"jp_explain": "海王種から採れる脂肪が細かく\n入った美味しい肉。\n依頼者：<c a1ff6d>トロ<c>　再受注不可",
-		"tr_explain": "海王種から採れる脂肪が細かく\n入った美味しい肉。\nClient: <c a1ff6d>Toro<c> (one-time order)"
+		"tr_explain": "Delicious meat marbled with fat,\ntaken from an Oceanid.\nClient: <c a1ff6d>Toro<c> (one-time order)"
 	},
 	{
 		"assign": "330579",
@@ -3973,21 +3973,21 @@
 		"jp_text": "ハルコタン観測素子ａ",
 		"tr_text": "Harkotan Observation Dev. a",
 		"jp_explain": "アークスが、惑星ハルコタンの\n観測のためにばらまいている素子。\n依頼者：<c a1ff6d>コフィー<c>　再受注不可",
-		"tr_explain": "アークスが、惑星ハルコタンの\n観測のためにばらまいている素子。\nClient: <c a1ff6d>Koffie<c> (one-time order)"
+		"tr_explain": "One of many devices distributed\nacross Harkotan to gather data.\nClient: <c a1ff6d>Koffie<c> (one-time order)"
 	},
 	{
 		"assign": "330627",
 		"jp_text": "破損したダーカーコアｅ",
 		"tr_text": "Damaged Darker Core e",
 		"jp_explain": "ダーカーから採取されたコア。\n斬撃や法撃によって破損している。\n依頼者：<c a1ff6d>カトリ<c>　再受注不可",
-		"tr_explain": "ダーカーから採取されたコア。\n斬撃や法撃によって破損している。\nClient: <c a1ff6d>Katori<c> (one-time order)"
+		"tr_explain": "Core taken from a Darker. Has been\ndamaged by slashing or a Technique.\nClient: <c a1ff6d>Katori<c> (one-time order)"
 	},
 	{
 		"assign": "330628",
 		"jp_text": "破損したダーカーコアｄ",
 		"tr_text": "Corrupted Darker Core d",
 		"jp_explain": "ダーカーから採取されたコア。\n斬撃や射撃によって破損している。\n依頼者：<c a1ff6d>アザナミ<c>　再受注不可",
-		"tr_explain": "ダーカーから採取されたコア。\n斬撃や射撃によって破損している。\nClient: <c a1ff6d>Azanami<c> (one-time order)"
+		"tr_explain": "Core taken from a Darker. Has been\ndamaged by slashing or shooting.\nClient: <c a1ff6d>Azanami<c> (one-time order)"
 	},
 	{
 		"assign": "330629",
@@ -4365,7 +4365,7 @@
 		"jp_text": "ハルコタン観測素子ｂ",
 		"tr_text": "Harkotan Observation Dev. b",
 		"jp_explain": "アークスが、惑星ハルコタンの\n観測のためにばらまいている素子。\n依頼者：<c a1ff6d>コフィー<c>　再受注不可",
-		"tr_explain": "アークスが、惑星ハルコタンの\n観測のためにばらまいている素子。\nClient: <c a1ff6d>Koffie<c> (one-time order)"
+		"tr_explain": "One of many devices distributed\nacross Harkotan to gather data.\nClient: <c a1ff6d>Koffie<c> (one-time order)"
 	},
 	{
 		"assign": "330689",
@@ -4615,9 +4615,9 @@
 	{
 		"assign": "330727",
 		"jp_text": "きれいな貝殻",
-		"tr_text": "Beautiful Shells",
+		"tr_text": "Beautiful Shell",
 		"jp_explain": "きらきら光るきれいな貝殻。\nちょっとしたプレゼントに喜ばれそう。\n依頼者：<c a1ff6d>ジェネ<c>　再受注可能",
-		"tr_explain": "きらきら光るきれいな貝殻。\nちょっとしたプレゼントに喜ばれそう。\nClient: <c a1ff6d>Gene<c> (repeatable)"
+		"tr_explain": "A beautiful, glittering seashell. Even\na small gift can be appreciated.\nClient: <c a1ff6d>Gene<c> (repeatable)"
 	},
 	{
 		"assign": "330728",
@@ -4685,9 +4685,9 @@
 	{
 		"assign": "330737",
 		"jp_text": "目覚めの花",
-		"tr_text": "Awakening Flowers",
+		"tr_text": "Awakening Flower",
 		"jp_explain": "薬効があるとされる希少な花。\nその香りには気付け作用もあるらしい。\n依頼者：<c a1ff6d>アネット<c>　再受注不可",
-		"tr_explain": "薬効があるとされる希少な花。\nその香りには気付け作用もあるらしい。\nClient: <c a1ff6d>Annette<c> (one-time order)"
+		"tr_explain": "A rare flower said to be medicinal.\nIts scent has a restorative effect.\nClient: <c a1ff6d>Annette<c> (one-time order)"
 	},
 	{
 		"assign": "330738",
@@ -4699,23 +4699,23 @@
 	{
 		"assign": "330739",
 		"jp_text": "瑠璃色の小さな花",
-		"tr_text": "Small Azure Flowers",
+		"tr_text": "Small Azure Flower",
 		"jp_explain": "瑠璃色の花弁を持つ小さな花。\n爽やかな香りがする。\n依頼者：<c a1ff6d>イツキ<c>　再受注不可",
-		"tr_explain": "瑠璃色の花弁を持つ小さな花。\n爽やかな香りがする。\nClient: <c a1ff6d>Itsuki<c> (one-time order)"
+		"tr_explain": "A small flower with lapis-colored\npetals. It has a refreshing scent.\nClient: <c a1ff6d>Itsuki<c> (one-time order)"
 	},
 	{
 		"assign": "330740",
 		"jp_text": "漆黒のサンゴ",
 		"tr_text": "Jet Black Coral",
 		"jp_explain": "浮遊大陸で成長したサンゴ。\n艶めく黒色が目をひく。\n依頼者：<c a1ff6d>†コア†<c>　再受注不可",
-		"tr_explain": "浮遊大陸で成長したサンゴ。\n艶めく黒色が目をひく。\nClient: <c a1ff6d>†Coa†<c> (one-time order)"
+		"tr_explain": "Coral that grows on the Skyscape. Its\nglossy black color catches the eye.\nClient: <c a1ff6d>†Coa†<c> (one-time order)"
 	},
 	{
 		"assign": "330741",
 		"jp_text": "浮遊大陸の白色粘土",
 		"tr_text": "Skyscape White Clay",
 		"jp_explain": "浮遊大陸でとれる粘土。焼成して磨くと\n銀細工のような光沢を帯びる。\n依頼者：<c a1ff6d>ムサシ<c>　再受注不可",
-		"tr_explain": "浮遊大陸でとれる粘土。焼成して磨くと\n銀細工のような光沢を帯びる。\nClient: <c a1ff6d>Musashi<c> (one-time order)"
+		"tr_explain": "Clay from the Skyscape. When fired\nand polished, it shines like silver.\nClient: <c a1ff6d>Musashi<c> (one-time order)"
 	},
 	{
 		"assign": "330742",
