@@ -24,6 +24,8 @@
 * Nyaato - Misc. translations
 * YukaLily - Misc. translations
 * Nora - Misc. translations
+* Dabir - Translation Work
+* Snack - Story translation work
 
 ## License
 
