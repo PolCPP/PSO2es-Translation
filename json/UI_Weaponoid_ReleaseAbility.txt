@@ -347,7 +347,7 @@
 	{
 		"assign": "90002",
 		"jp_text": "闇属性が＋120上昇する。",
-		"tr_text": "Dark element increases by 120."
+		"tr_text": "Dark element increases by 120 when equipped."
 	},
 	{
 		"assign": "90003",
@@ -377,7 +377,7 @@
 	{
 		"assign": "46",
 		"jp_text": "炎属性が＋135上昇する。",
-		"tr_text": "Fire element increases by 135."
+		"tr_text": "Fire element increases by 135 when equipped."
 	},
 	{
 		"assign": "47",
@@ -407,7 +407,7 @@
 	{
 		"assign": "90006",
 		"jp_text": "光属性が＋160上昇する。",
-		"tr_text": "Light element increases by 160."
+		"tr_text": "Light element increases by 160 when equipped."
 	},
 	{
 		"assign": "90007",
@@ -447,12 +447,12 @@
 	{
 		"assign": "102",
 		"jp_text": "風属性が＋100上昇する。",
-		"tr_text": "Wind element increases by 100."
+		"tr_text": "Wind element increases by 100 when equipped."
 	},
 	{
 		"assign": "89",
 		"jp_text": "闇属性が＋100上昇する。",
-		"tr_text": "Dark element increases by 100."
+		"tr_text": "Dark element increases by 100 when equipped."
 	},
 	{
 		"assign": "68",
@@ -472,7 +472,7 @@
 	{
 		"assign": "75",
 		"jp_text": "闇属性が＋110上昇する。",
-		"tr_text": "Dark element increases by 110."
+		"tr_text": "Dark element increases by 110 when equipped."
 	},
 	{
 		"assign": "80008",
@@ -492,7 +492,7 @@
 	{
 		"assign": "97",
 		"jp_text": "炎属性が＋120上昇する。",
-		"tr_text": "Fire element increases by 120."
+		"tr_text": "Fire element increases by 120 when equipped."
 	},
 	{
 		"assign": "61",
@@ -542,7 +542,7 @@
 	{
 		"assign": "77",
 		"jp_text": "氷属性が＋120上昇する。",
-		"tr_text": "Ice element increases by 120."
+		"tr_text": "Ice element increases by 120 when equipped."
 	},
 	{
 		"assign": "113",
@@ -552,7 +552,7 @@
 	{
 		"assign": "80010",
 		"jp_text": "炎属性が＋135上昇する。",
-		"tr_text": "Fire element increases by 135."
+		"tr_text": "Fire element increases by 135 when equipped."
 	},
 	{
 		"assign": "104",
@@ -572,7 +572,7 @@
 	{
 		"assign": "80011",
 		"jp_text": "炎属性が＋140上昇する。",
-		"tr_text": "Fire element increases by 140."
+		"tr_text": "Fire element increases by 140 when equipped."
 	},
 	{
 		"assign": "90005",
@@ -602,7 +602,7 @@
 	{
 		"assign": "110",
 		"jp_text": "雷属性が＋120上昇する。",
-		"tr_text": "Lightning element increases by 120."
+		"tr_text": "Lightning element increases by 120 when equipped."
 	},
 	{
 		"assign": "111",
@@ -622,7 +622,7 @@
 	{
 		"assign": "80002",
 		"jp_text": "炎属性が＋80上昇する。",
-		"tr_text": "Fire element increases by 80."
+		"tr_text": "Fire element increases by 80 when equipped."
 	},
 	{
 		"assign": "80003",
@@ -662,7 +662,7 @@
 	{
 		"assign": "80012",
 		"jp_text": "氷属性が＋115上昇する。",
-		"tr_text": "Ice element increases by 115."
+		"tr_text": "Ice element increases by 115 when equipped."
 	},
 	{
 		"assign": "194",
@@ -697,12 +697,12 @@
 	{
 		"assign": "80014",
 		"jp_text": "光属性が＋90上昇する。",
-		"tr_text": "Light element increases by 90."
+		"tr_text": "Light element increases by 90 when equipped."
 	},
 	{
 		"assign": "90017",
 		"jp_text": "光属性が＋135上昇する。",
-		"tr_text": "Light element increases by 135."
+		"tr_text": "Light element increases by 135 when equipped."
 	},
 	{
 		"assign": "120",
@@ -712,31 +712,31 @@
 	{
 		"assign": "222",
 		"jp_text": "このチップを装備した時の属性値上昇を\n光属性に対しても適用する。",
-		"tr_text": ""
+		"tr_text": "This chip's element value is also added\nto the Light element when equipped."
 	},
 	{
 		"assign": "145",
 		"jp_text": "このチップの効果の発動を攻撃ヒット時に変更する。",
-		"tr_text": ""
+		"tr_text": "This chip's activation condition changes to\n'when you successfully hit with an attack'."
 	},
 	{
 		"assign": "122",
 		"jp_text": "このチップのアビリティの効果時間を10秒延長する。",
-		"tr_text": ""
+		"tr_text": "Ability's Effect Duration is extended by 10 seconds."
 	},
 	{
 		"assign": "195",
 		"jp_text": "このチップのコストが6減少する。",
-		"tr_text": ""
+		"tr_text": "This chip's equip cost is reduced by 6."
 	},
 	{
 		"assign": "172",
 		"jp_text": "このチップのアビリティの発動率が30％上昇する。",
-		"tr_text": ""
+		"tr_text": "This chip's activation rate is increased by 30%."
 	},
 	{
 		"assign": "80015",
 		"jp_text": "雷属性が＋112上昇する。",
-		"tr_text": ""
+		"tr_text": "Lightning element increases by 112 when equipped."
 	}
 ]
