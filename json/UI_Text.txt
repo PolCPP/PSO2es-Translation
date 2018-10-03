@@ -15307,7 +15307,7 @@
 	{
 		"assign": "story_chapter10_clear_dialog_body",
 		"jp_text": "ストーリークエストクリアおめでとうございます！\nクリア記念のアイテムをプレゼントいたしました。\n受け取りボックスをご確認ください。\n\n<color=yellow>「創者の証」は、『PSO2』で\n武器迷彩「*断翼ロート＝ラウト」などと\n交換できます。</color>",
-		"tr_text": "Congratulations on clearing a Story Quest!\nI've sent you an item to commemorate your success.\nPlease check your Reception Box.\n\n<color=yellow>\"Creator's Emblem\" is an\nitem that can be exchanged\nfor Weapon Camos, such as\n＊Roto Raut, in PSO2.</color>"
+		"tr_text": "Congratulations on clearing a Story Quest!\nI've sent you an item to commemorate your\nsuccess. Please check your Reception Box.\n\n<color=yellow>\"Creator's Emblem\" is an item that can be\nexchanged for Weapon Camos, such as\n＊Roto Raut, in PSO2.</color>"
 	},
 	{
 		"assign": "scratch_dialog_name_es",
@@ -16277,7 +16277,7 @@
 	{
 		"assign": "SideSt_Bonds_Lv_Effect",
 		"jp_text": "効果「{0}」が解放されました！",
-		"tr_text": "Effect 「{0}」 released!"
+		"tr_text": "Effect [{0}] released!"
 	},
 	{
 		"assign": "ItemDetail_Fondness_Caption",
@@ -17562,7 +17562,7 @@
 	{
 		"assign": "acceptbox_guide_00",
 		"jp_text": "<color=#f0df60>受け取りボックスの中には、受け取り期限のあるアイテムがあります。期限が過ぎると受け取れなくなりますので、ご注意ください。</color>",
-		"tr_text": "<color=#f0df60>There are items with a deadline. Once it's past the deadline, you cannot redeem the items.</color>"
+		"tr_text": "<color=#f0df60>There are items with a deadline. Once the deadline has passed, you will be unable to redeem the items.</color>"
 	},
 	{
 		"assign": "acceptbox_title",
