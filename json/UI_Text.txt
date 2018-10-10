@@ -937,12 +937,12 @@
 	{
 		"assign": "rshop_dialog_b_09_1",
 		"jp_text": "ウェポノイドポイントが足りません。\n\n所持ウェポノイドポイント　⇒　{0:N0}pt\n必要ウェポノイドポイント　⇒　{1:N0}pt\n不足ウェポノイドポイント　⇒　<color=#ff0000>{2:N0}pt</color>",
-		"tr_text": ""
+		"tr_text": "Insufficient Weaponoid Points.\n\nOwned Weaponoid Points ⇒ {0:N0}\nRequired Weaponoid Points ⇒ {1:N0}\nMissing Weaponoid Points ⇒ <color=#ff0000>{2:N0}</color>"
 	},
 	{
 		"assign": "rshop_dialog_b_09",
 		"jp_text": "「{0}」\nと、ウェポノイドポイントを交換します。よろしいですか？\n\n所持ウェポノイドポイント　⇒　{1:N0}pt\n必要ウェポノイドポイント　⇒　{2:N0}pt\n残りウェポノイドポイント　⇒　{3:N0}pt",
-		"tr_text": ""
+		"tr_text": "Now exchanging Weaponoid Points for\n{0}.\nDo you wish to continue?\n\nOwned Weaponoid Points ⇒ {1:N0}\nRequired Weaponoid Points ⇒ {2:N0}\nRemaining Weaponoid Points ⇒ {3:N0}"
 	},
 	{
 		"assign": "arcscard_guide_00",
@@ -2192,7 +2192,7 @@
 	{
 		"assign": "item_grind_need_grinder_num",
 		"jp_text": "<color=#ffff00>必要グラインダー数：<%grind_num></color>",
-		"tr_text": "<color=#ffff00>Required grinders: <%grind_num></color>"
+		"tr_text": "<color=#ffff00>Required Grinders: <%grind_num></color>"
 	},
 	{
 		"assign": "item_grind_own_grinder_num",
@@ -2202,12 +2202,12 @@
 	{
 		"assign": "item_grind_need_lambdagrinder_num",
 		"jp_text": "<color=#ffff00>必要ラムダグラインダー数：<%grind_num></color>",
-		"tr_text": ""
+		"tr_text": "<color=#ffff00>Required Lambda Grinders: <%grind_num></color>"
 	},
 	{
 		"assign": "item_grind_own_lambdagrinder_num",
 		"jp_text": "<color=#ffffff>所持ラムダグラインダー数：<%grind_num></color>",
-		"tr_text": ""
+		"tr_text": "<color=#ffff00>(Held: <%grind_num>)</color>"
 	},
 	{
 		"assign": "item_grind_max",
@@ -2292,12 +2292,12 @@
 	{
 		"assign": "labo_dialog_b_09_grinder",
 		"jp_text": "グラインダーが不足しているため\n強化することができません。",
-		"tr_text": "Not enough grinders."
+		"tr_text": "Not enough Grinders."
 	},
 	{
 		"assign": "labo_dialog_b_09_lambgrinder",
 		"jp_text": "ラムダグラインダーが不足しているため\n強化することができません。",
-		"tr_text": ""
+		"tr_text": "Not enough Lambda Grinders."
 	},
 	{
 		"assign": "labo_dialog_t_09_favorite",
@@ -3847,7 +3847,7 @@
 	{
 		"assign": "myshop_category_customizedisc",
 		"jp_text": "カスタマイズディスク",
-		"tr_text": ""
+		"tr_text": "Custom Disks"
 	},
 	{
 		"assign": "myshop_category_room_goods",
@@ -9397,7 +9397,7 @@
 	{
 		"assign": "menu_main_button_recycle",
 		"jp_text": "交換ショップ",
-		"tr_text": ""
+		"tr_text": "Exchange Shop"
 	},
 	{
 		"assign": "menu_main_button_ac_shop",
@@ -10657,7 +10657,7 @@
 	{
 		"assign": "tu_0005_n05_b",
 		"jp_text": "<color=black>なお、『PSO2』を「かんたんログイン」で\nプレイされている方は、SEGA IDを取得してから\nでないと、『PSO2es』と連動してプレイできません。</color>",
-		"tr_text": ""
+		"tr_text": "<color=black>Please note that if you're playing PSO2 via\nQuick Login, you won't be able to link to\nPSO2es until you've registered a SEGA ID.</color>"
 	},
 	{
 		"assign": "tu_0005_n06_b",
@@ -16307,7 +16307,7 @@
 	{
 		"assign": "ItemDetail_Parameter_GammaExpCaption",
 		"jp_text": "次の強化値まで/",
-		"tr_text": ""
+		"tr_text": "Grind EXP"
 	},
 	{
 		"assign": "SideSt_Bonds_Lv_Effect",
@@ -19002,12 +19002,12 @@
 	{
 		"assign": "quest_lobby_guide_02",
 		"jp_text": "<color=#f0df60>このクエストでは装備パレットは固定となり、イベントキャラクターを操作してバトルを行います。</color> ",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>In this quest, you battle by taking control of an event character with fixed equipment.</color>"
 	},
 	{
 		"assign": "quest_final_check_equip_2",
 		"jp_text": "武器",
-		"tr_text": ""
+		"tr_text": "Weapon"
 	},
 	{
 		"assign": "chip_details_max_level",
@@ -20122,7 +20122,7 @@
 	{
 		"assign": "stack_chip_grind_window_body",
 		"jp_text": "{0}の\n素材にする数を選択してください。\n\n所持数：{1}",
-		"tr_text": ""
+		"tr_text": "Please select the number of\n{0} to use as material.\n\nOwned: {1}"
 	},
 	{
 		"assign": "stack_chip_sale_window_title",
@@ -20132,7 +20132,7 @@
 	{
 		"assign": "stack_chip_sale_window_body",
 		"jp_text": "{0}の\n売却する数を選択してください。\n\n所持数：{1}",
-		"tr_text": ""
+		"tr_text": "Please select the number of\n{0} to sell.\n\nOwned: {1}"
 	},
 	{
 		"assign": "stack_chip_trade_window_title",
@@ -20142,7 +20142,7 @@
 	{
 		"assign": "stack_chip_trade_window_body",
 		"jp_text": "{0}の\n交換する数を選択してください。\n\n所持数：{1}",
-		"tr_text": ""
+		"tr_text": "Please select the number of\n{0} to exchange.\n\nOwned: {1}"
 	},
 	{
 		"assign": "material_chip_over_num",
@@ -20152,7 +20152,7 @@
 	{
 		"assign": "dialog_premium_bonus_expired_title",
 		"jp_text": "プレミアム有効期限切れ",
-		"tr_text": ""
+		"tr_text": "Premium Expiration Date"
 	},
 	{
 		"assign": "dialog_premium_bonus_expired_message",
@@ -20337,107 +20337,107 @@
 	{
 		"assign": "weapon_potential_awake_title",
 		"jp_text": "潜在能力選択",
-		"tr_text": ""
+		"tr_text": "Potential Selection"
 	},
 	{
 		"assign": "weapon_potential_awake_message",
 		"jp_text": "選択した潜在能力を解放します。\nよろしいですか？",
-		"tr_text": ""
+		"tr_text": "You will unlock the selected potential.\nContinue?"
 	},
 	{
 		"assign": "weapon_potential_awake_confirm_dialog_title",
 		"jp_text": "潜在能力解放実行確認",
-		"tr_text": ""
+		"tr_text": "Potential Unlock Confirmation"
 	},
 	{
 		"assign": "weapon_potential_awake_confirm_dialog_message",
 		"jp_text": "潜在能力解放を開始します。\nよろしいですか？",
-		"tr_text": ""
+		"tr_text": "Now unlocking potential.\nContinue?"
 	},
 	{
 		"assign": "weapon_potential_awake_not_enough_item_dialog_title",
 		"jp_text": "潜在能力解放実行確認",
-		"tr_text": ""
+		"tr_text": "Potential Unlock Confirmation"
 	},
 	{
 		"assign": "weapon_potential_awake_not_enough_item_dialog_message",
 		"jp_text": "必要アイテムが不足しているため\n潜在能力解放できません。",
-		"tr_text": ""
+		"tr_text": "Insufficient items to unlock potential."
 	},
 	{
 		"assign": "weapon_potential_awake_successed_dialog_title",
 		"jp_text": "潜在能力解放成功",
-		"tr_text": ""
+		"tr_text": "Potential Unlock Successful"
 	},
 	{
 		"assign": "weapon_potential_awake_successed_dialog_message",
 		"jp_text": "潜在能力解放に<color=#00ff00>成功</color>しました。",
-		"tr_text": ""
+		"tr_text": "Potential unlock was <color=#00ff00>successful</color>."
 	},
 	{
 		"assign": "weapon_potential_awake_use_item_title",
 		"jp_text": "消費アイテム",
-		"tr_text": ""
+		"tr_text": "Consumed Items"
 	},
 	{
 		"assign": "weapon_potential_awake_use_item_message",
 		"jp_text": "<%name> × <%num> (現在:<%hasnum>) ",
-		"tr_text": ""
+		"tr_text": "<%name> x <%num> (Held: <%hasnum>)"
 	},
 	{
 		"assign": "gamma_weapon_grind_dialog_title",
 		"jp_text": "アイテム強化",
-		"tr_text": ""
+		"tr_text": "Item Enhancement"
 	},
 	{
 		"assign": "gamma_weapon_grind_dialog_success",
 		"jp_text": "強化に<color=Lime>成功</color>しました。",
-		"tr_text": ""
+		"tr_text": "Enhancement <color=Lime>Success</color>."
 	},
 	{
 		"assign": "gamma_weapon_grind_dialog_great_success",
 		"jp_text": "強化に<color=Lime>大成功</color>しました。",
-		"tr_text": ""
+		"tr_text": "Enhancement <color=Lime>Great Success</color>."
 	},
 	{
 		"assign": "gamma_weapon_grind_dialog_max_message",
 		"jp_text": "アイテム強化によって、強化値の+10 +20 +30の\nいずれかの上限に達しました。\n\nさらに強化するために、次回アイテム強化時は\n<color=yellow>自動的に「潜在能力解放」に進みます。</color>\n\n※潜在能力解放には、フォトンドロップや\nフォトンスフィアなどのアイテムが必要です。",
-		"tr_text": ""
+		"tr_text": "Grinding the item has raised\nit to +10, +20 or +30.\n\nIn order to strengthen it further, you must\n<color=yellow>unlock its potential</color>, which you will do next\ntime you attempt to grind the item.\n\n※To unlock potentials, you need special\nitems such as Photon Drops."
 	},
 	{
 		"assign": "gamma_weapon_grind_dialog_caution",
 		"jp_text": "下記のいずれかに該当するアイテムです。\n本当によろしいですか？\n\n・レアリティが★７以上\n・強化値が+1以上\n・強化上限値が+31以上",
-		"tr_text": ""
+		"tr_text": "One or more of the following are present.\nAre you sure?\n\n・Items of rarity ★７+\n・Items with grind value +1 or higher\n・Items whose Overgrind Limit is +31 or higher"
 	},
 	{
 		"assign": "gamma_weapon_grind_need_grinder_num",
 		"jp_text": "<color=yellow>必要グラインダー数：</color>",
-		"tr_text": ""
+		"tr_text": "<color=yellow>Grinders needed: </color>"
 	},
 	{
 		"assign": "gamma_weapon_grind_need_lambdagrinder_num",
 		"jp_text": "<color=yellow>必要ラムダグラインダー数：</color>",
-		"tr_text": ""
+		"tr_text": "<color=yellow>Lambda Grinders needed: </color>"
 	},
 	{
 		"assign": "gamma_weapon_grind_need_meseta_num",
 		"jp_text": "<color=yellow>必要メセタ：</color>",
-		"tr_text": ""
+		"tr_text": "<color=yellow>Meseta needed: </color>"
 	},
 	{
 		"assign": "gamma_weapon_grind_need_item_num",
 		"jp_text": "<color=yellow>必要<%name>数：</color>",
-		"tr_text": ""
+		"tr_text": "<color=yellow><%name> needed: </color>"
 	},
 	{
 		"assign": "gamma_weapon_grind_need_num_red",
 		"jp_text": "<color=red>{0}(現在：{1})</color>",
-		"tr_text": ""
+		"tr_text": "<color=red>{0}(Held: {1})</color>"
 	},
 	{
 		"assign": "gamma_weapon_grind_need_num_yellow",
 		"jp_text": "<color=yellow>{0}(現在：{1})</color>",
-		"tr_text": ""
+		"tr_text": "<color=yellow>{0}(Held: {1})</color>"
 	},
 	{
 		"assign": "gamma_weapon_grind_num_orange",
@@ -20447,7 +20447,7 @@
 	{
 		"assign": "gamma_weapon_grind_sort_val",
 		"jp_text": "おすすめ",
-		"tr_text": ""
+		"tr_text": "Recommended"
 	},
 	{
 		"assign": "gamma_weapon_grind_great_success_rate_lime",
@@ -20467,26 +20467,26 @@
 	{
 		"assign": "gamma_weapon_potential_unreleased",
 		"jp_text": "未解放",
-		"tr_text": ""
+		"tr_text": "Not yet unlocked"
 	},
 	{
 		"assign": "ItemDetail_Parameter_gamma_Strengthen",
 		"jp_text": "<%parameter1> (最大<%parameter2>)",
-		"tr_text": ""
+		"tr_text": "<%parameter1> (Max: <%parameter2>)"
 	},
 	{
 		"assign": "ItemDetail_Parameter_gamma_max_Strengthen",
 		"jp_text": "<%parameter1> <color=orange>(最大<%parameter2>)</color>",
-		"tr_text": ""
+		"tr_text": "<%parameter1> <color=orange>(Max: <%parameter2>)</color>"
 	},
 	{
 		"assign": "owner_registration_caution",
 		"jp_text": "※レアリティ13以上は<color=yellow>オーナー登録</color>が行われ\n　他のプレイヤーと取り引き不可になります。",
-		"tr_text": ""
+		"tr_text": "※Rarity ★13 or higher items will be\n<color=yellow>Owner Registered</color>, making them impossible\nto trade to other players."
 	},
 	{
 		"assign": "owner_registration_success",
 		"jp_text": "<color=yellow>オーナー登録が完了</color>しました。",
-		"tr_text": ""
+		"tr_text": "<color=yellow>Owner Registration<color> complete."
 	}
 ]

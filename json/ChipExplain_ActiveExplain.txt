@@ -522,14 +522,14 @@
 		"jp_explainShort": "ＣＰ最大値増加＋ＣＰ回復速度を劇的強化",
 		"tr_explainShort": "Max CP increased + CP regen up",
 		"jp_explainLong": "① ＣＰの最大値を増加する。\n② ＣＰの回復速度を劇的に強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Increases maximum CP.\n② Dramatically increases CP regeneration.\n[Effect Duration] Long"
+		"tr_explainLong": "① Increases your maximum CP.\n② Dramatically increases CP regeneration.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31010",
 		"jp_explainShort": "ＣＰ最大値増加＋ＣＰ回復速度を劇的強化",
 		"tr_explainShort": "Max CP increased + CP regen up",
 		"jp_explainLong": "① ＣＰの最大値を増加する。\n② ＣＰの回復速度を劇的に強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Increases maximum CP.\n② Dramatically increases CP regeneration.\n[Effect Duration] Long"
+		"tr_explainLong": "① Increases your maximum CP.\n② Dramatically increases CP regeneration.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31011",
@@ -1514,16 +1514,16 @@
 	{
 		"assign": "31570",
 		"jp_explainShort": "ダメージ極度増加＋効果終了時に被ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "Damage boost + take damage at the end",
 		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 効果時間終了時に最大ＨＰの９０％の\n　　 ダメージを受ける。（ＨＰは最低でも１残る）\n　　 ただし、ＨＰが９０％未満の場合\n　　 このチップを発動できない。\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Maximally boosts damage.\n    <color=yellow>[E-Frame]</color>\n② When this effect ends, you take damage equal to\n    90% of your maximum HP. (Cannot reduce your HP\n    below 1).\n    You cannot activate this chip when below 90% HP.\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31571",
 		"jp_explainShort": "ダメージ極度増加＋効果終了時に被ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "Damage boost + take damage at the end",
 		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 効果時間終了時に最大ＨＰの９０％の\n　　 ダメージを受ける。（ＨＰは最低でも１残る）\n　　 ただし、ＨＰが９０％未満の場合\n　　 このチップを発動できない。\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Maximally boosts damage.\n    <color=yellow>[E-Frame]</color>\n② When this effect ends, you take damage equal to\n    90% of your maximum HP. (Cannot reduce your HP\n    below 1).\n    You cannot activate this chip when below 90% HP.\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31576",
@@ -1607,14 +1607,14 @@
 		"jp_explainShort": "ジャストアタックごと攻撃力小強化＋ＣＰ最大増",
 		"tr_explainShort": "Just Attack = ATK up + max CP increased",
 		"jp_explainLong": "① 攻撃力を劇的に強化する。\n② アビリティレベルに応じてジャストアタックごとに\n　　 攻撃力をわずかに強化する。(最大時：超絶)\n③ ＣＰの最大値を増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Dramatically increases ATK.\n② Slightly increases ATK based on this chip's ability\n    level each time you successfully perform a Just\n    Attack.\n    (Maximum Increase: Overwhelming)\n③ Increases maximum CP.\n[Effect Duration] Long"
+		"tr_explainLong": "① Dramatically increases ATK.\n② Slightly increases ATK based on this chip's ability\n    level each time you successfully perform a Just\n    Attack.\n    (Maximum Increase: Overwhelming)\n③ Increases your maximum CP.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31610",
 		"jp_explainShort": "ジャストアタックごと攻撃力小強化＋ＣＰ最大増",
 		"tr_explainShort": "Just Attack = ATK up + max CP increased",
 		"jp_explainLong": "① 攻撃力を劇的に強化する。\n② アビリティレベルに応じてジャストアタックごとに\n　　 攻撃力をわずかに強化する。(最大時：超絶)\n③ ＣＰの最大値を増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Dramatically increases ATK.\n② Slightly increases ATK based on this chip's ability\n    level each time you successfully perform a Just\n    Attack.\n    (Maximum Increase: Overwhelming)\n③ Increases maximum CP.\n[Effect Duration] Long"
+		"tr_explainLong": "① Dramatically increases ATK.\n② Slightly increases ATK based on this chip's ability\n    level each time you successfully perform a Just\n    Attack.\n    (Maximum Increase: Overwhelming)\n③ Increases your maximum CP.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31624",
@@ -2018,16 +2018,16 @@
 	{
 		"assign": "31794",
 		"jp_explainShort": "消費ＣＰ減＋機甲・機改種にダメージ劇的増",
-		"tr_explainShort": "",
+		"tr_explainShort": "CP usage down + dam. boost vs all Mechs",
 		"jp_explainLong": "① 機甲種か機改種に対して\n　　 与えるダメージを劇的に増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Dramatically boosts damage against Mechs and\n    Reconfigured Mechs.\n    <color=yellow>[B-Frame]</color>\n② Reduces CP consumption.\n    (Even applies to this chip's activation cost)\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31795",
 		"jp_explainShort": "消費ＣＰ減＋機甲・機改種にダメージ劇的増",
-		"tr_explainShort": "",
+		"tr_explainShort": "CP usage down + dam. boost vs all Mechs",
 		"jp_explainLong": "① 機甲種か機改種に対して\n　　 与えるダメージを劇的に増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Dramatically boosts damage against Mechs and\n    Reconfigured Mechs.\n    <color=yellow>[B-Frame]</color>\n② Reduces CP consumption.\n    (Even applies to this chip's activation cost)\n[Effect Duration] Long"
 	},
 	{
 		"assign": "2110",
@@ -5420,16 +5420,16 @@
 	{
 		"assign": "60241",
 		"jp_explainShort": "目標を追って跳躍する両剣用の必殺技",
-		"tr_explainShort": "",
+		"tr_explainShort": "[Double Saber PA] Surprise Dunk",
 		"jp_explainLong": "「両剣用の必殺技」\n跳躍し、目標へ両剣を振り下ろす。\n攻撃と同時に周囲に衝撃波が発生。",
-		"tr_explainLong": ""
+		"tr_explainLong": "[Double Saber PA]\nUse the Double Saber to leap towards the target.\nThe impact generates a shockwave."
 	},
 	{
 		"assign": "60242",
 		"jp_explainShort": "目標を追って跳躍する両剣用の必殺技",
-		"tr_explainShort": "",
+		"tr_explainShort": "[Double Saber PA] Surprise Dunk",
 		"jp_explainLong": "「両剣用の必殺技」\n跳躍し、目標へ両剣を振り下ろす。\n攻撃と同時に周囲に衝撃波が発生。",
-		"tr_explainLong": ""
+		"tr_explainLong": "[Double Saber PA]\nUse the Double Saber to leap towards the target.\nThe impact generates a shockwave."
 	},
 	{
 		"assign": "70110",
