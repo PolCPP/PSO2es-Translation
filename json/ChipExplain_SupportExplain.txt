@@ -4421,14 +4421,14 @@
 		"jp_explainShort": "属性ダメージ＋一定確率回避",
 		"tr_explainShort": "Weakness boosted + evading",
 		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性による\n　　 ダメージを劇的に増加する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Dramatically boosts elemental damage against\n    enemies weak to that element.\n    <color=yellow>[S-Frame]</color>② Grants a chance to avoid damage from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Dramatically boosts elemental damage against\n    enemies weak to that element.\n    <color=yellow>[S-Frame]</color>\n② Grants a chance to avoid damage from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31799",
 		"jp_explainShort": "属性ダメージ＋一定確率回避",
 		"tr_explainShort": "Weakness boosted + evading",
 		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性による\n　　 ダメージを絶大に増加する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Immensely boosts elemental damage against\n    enemies weak to that element.\n    <color=yellow>[S-Frame]</color>② Grants a chance to avoid damage from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Immensely boosts elemental damage against\n    enemies weak to that element.\n    <color=yellow>[S-Frame]</color>\n② Grants a chance to avoid damage from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31800",
@@ -4463,21 +4463,21 @@
 		"jp_explainShort": "攻撃力増＋ＣＰ回復量増＋属性一致攻撃力増",
 		"tr_explainShort": "Dam. boost + CP rec. up + elem. match",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 通常攻撃によるＣＰの回復量を大きく増加する。\n③ 装備中の武器の属性がリンクスロットに装備した\n　　 チップの属性と一致する場合、攻撃力を増加する。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts CP recovery from normal attacks.\n③ Boosts damage if the equipped weapon's element\n    matches the element of the chip in this chip's\n    link slot.\n    <color=yellow>[H-Frame]</color>④ While this chip is equipped, the equip costs of\n    Wind PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts CP recovery from normal attacks.\n③ Boosts damage if the equipped weapon's element\n    matches the element of the chip in this chip's\n    link slot.\n    <color=yellow>[H-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Wind PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31805",
 		"jp_explainShort": "攻撃力増＋ＣＰ回復量増＋属性一致攻撃力増",
 		"tr_explainShort": "Dam. boost + CP rec. up + elem. match",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 通常攻撃によるＣＰの回復量を大きく増加する。\n③ 装備中の武器の属性がリンクスロットに装備した\n　　 チップの属性と一致する場合、攻撃力を増加する。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts CP recovery from normal attacks.\n③ Boosts damage if the equipped weapon's element\n    matches the element of the chip in this chip's\n    link slot.\n    <color=yellow>[H-Frame]</color>④ While this chip is equipped, the equip costs of\n    Wind PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts CP recovery from normal attacks.\n③ Boosts damage if the equipped weapon's element\n    matches the element of the chip in this chip's\n    link slot.\n    <color=yellow>[H-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Wind PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31806",
 		"jp_explainShort": "攻撃力増＋ＣＰ回復量増＋属性一致攻撃力増",
 		"tr_explainShort": "Dam. boost + CP rec. up + elem. match",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 通常攻撃によるＣＰの回復量を大きく増加する。\n③ 装備中の武器の属性がリンクスロットに装備した\n　　 チップの属性と一致する場合、攻撃力を増加する。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts CP recovery from normal attacks.\n③ Boosts damage if the equipped weapon's element\n    matches the element of the chip in this chip's\n    link slot.\n    <color=yellow>[H-Frame]</color>④ While this chip is equipped, the equip costs of\n    all PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts CP recovery from normal attacks.\n③ Boosts damage if the equipped weapon's element\n    matches the element of the chip in this chip's\n    link slot.\n    <color=yellow>[H-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    all PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "2210",
