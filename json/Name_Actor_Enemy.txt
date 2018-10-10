@@ -2625,6 +2625,11 @@
 		"tr_text": "Omega Angel"
 	},
 	{
+		"assign": "B5Coc",
+		"jp_text": "オメガコカトリス",
+		"tr_text": ""
+	},
+	{
 		"assign": "ID1Spa",
 		"jp_text": "ダーク・ラグネ",
 		"tr_text": ""
@@ -2660,18 +2665,33 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "AKK",
+		"jp_text": "オメガ・マスカレーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "AKKU",
+		"jp_text": "エルガ・マスカレーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "AKKSh",
+		"jp_text": "マスカクローネ",
+		"tr_text": ""
+	},
+	{
+		"assign": "AKKUSh",
+		"jp_text": "エルガクローネ",
+		"tr_text": ""
+	},
+	{
+		"assign": "C5_P",
+		"jp_text": "ペルソナ・エルミル",
+		"tr_text": ""
+	},
+	{
 		"assign": "TD1Blo",
 		"jp_text": "コドッタ・イーデッタ",
-		"tr_text": ""
-	},
-	{
-		"assign": "AAADebugEnemyShotS",
-		"jp_text": "デバッグエネミーS",
-		"tr_text": ""
-	},
-	{
-		"assign": "AAADebugEnemyShotL",
-		"jp_text": "デバッグエネミーL",
 		"tr_text": ""
 	},
 	{
@@ -2683,11 +2703,6 @@
 		"assign": "P2Abe",
 		"jp_text": "ミントポーラベア",
 		"tr_text": "Mint Polar Bear"
-	},
-	{
-		"assign": "AAADebugEnemyMoveOnly",
-		"jp_text": "デバッグエネミーM",
-		"tr_text": ""
 	},
 	{
 		"assign": "TD1Hou",
@@ -2713,6 +2728,11 @@
 		"assign": "KingRappySU",
 		"jp_text": "サマー・キングラッピー",
 		"tr_text": "Summer King Rappy"
+	},
+	{
+		"assign": "KingRappyL",
+		"jp_text": "ラタン・キングラッピー",
+		"tr_text": ""
 	},
 	{
 		"assign": "LocustSP1",
@@ -2806,7 +2826,7 @@
 	},
 	{
 		"assign": "MantisWarriorAW0",
-		"jp_text": "？？？",
+		"jp_text": "DWプレディカーダ",
 		"tr_text": ""
 	},
 	{
@@ -2845,9 +2865,29 @@
 		"tr_text": "DW Ga Wonda"
 	},
 	{
+		"assign": "FishShieldReverseW0",
+		"jp_text": "DWグウォンダ",
+		"tr_text": ""
+	},
+	{
 		"assign": "FishBigBeastASP1",
 		"jp_text": "ウォルガーダ＋",
 		"tr_text": "Wolgahda+"
+	},
+	{
+		"assign": "FishBigBeastAST0",
+		"jp_text": "ソルーシュ",
+		"tr_text": ""
+	},
+	{
+		"assign": "FishBigBeastAST1",
+		"jp_text": "ソルーシュ",
+		"tr_text": ""
+	},
+	{
+		"assign": "FishBigBeastAST2",
+		"jp_text": "ソルーシュ",
+		"tr_text": ""
 	},
 	{
 		"assign": "FishBigBeastAW0",
@@ -2861,7 +2901,7 @@
 	},
 	{
 		"assign": "MonoeyeAW0",
-		"jp_text": "？？？",
+		"jp_text": "DWキュクロナーダ",
 		"tr_text": ""
 	},
 	{
@@ -2871,7 +2911,7 @@
 	},
 	{
 		"assign": "AlligatorSnapperAW0",
-		"jp_text": "？？？",
+		"jp_text": "DWゼッシュレイダ",
 		"tr_text": ""
 	},
 	{
@@ -3896,7 +3936,7 @@
 	},
 	{
 		"assign": "MantisWarriorAExW0",
-		"jp_text": "？？？？",
+		"jp_text": "DWプレディカーダＥｘ",
 		"tr_text": ""
 	},
 	{
@@ -3950,9 +3990,29 @@
 		"tr_text": "Gu Wonda EX"
 	},
 	{
+		"assign": "FishShieldReverseExW0",
+		"jp_text": "DWグウォンダＥｘ",
+		"tr_text": ""
+	},
+	{
 		"assign": "FishBigBeastAEx",
 		"jp_text": "ウォルガーダＥｘ",
 		"tr_text": "Wolgahda EX"
+	},
+	{
+		"assign": "FishBigBeastAST0Ex",
+		"jp_text": "ソルーシュＥｘ",
+		"tr_text": ""
+	},
+	{
+		"assign": "FishBigBeastAST1Ex",
+		"jp_text": "ソルーシュＥｘ",
+		"tr_text": ""
+	},
+	{
+		"assign": "FishBigBeastAST2Ex",
+		"jp_text": "ソルーシュＥｘ",
+		"tr_text": ""
 	},
 	{
 		"assign": "FishBigBeastAExW0",
@@ -3971,7 +4031,7 @@
 	},
 	{
 		"assign": "MonoeyeAExW0",
-		"jp_text": "？？？？",
+		"jp_text": "DWキュクロナーダＥｘ",
 		"tr_text": ""
 	},
 	{
@@ -3981,7 +4041,7 @@
 	},
 	{
 		"assign": "AlligatorSnapperAExW0",
-		"jp_text": "？？？？",
+		"jp_text": "DWゼッシュレイダＥｘ",
 		"tr_text": ""
 	},
 	{
