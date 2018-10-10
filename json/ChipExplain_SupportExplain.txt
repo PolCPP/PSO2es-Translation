@@ -126,6 +126,20 @@
 		"tr_explainLong": "① Deals massive additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Landing attacks on Natives"
 	},
 	{
+		"assign": "11030",
+		"jp_explainShort": "攻撃力が小強化",
+		"tr_explainShort": "ATK increased",
+		"jp_explainLong": "① 攻撃力をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": "① Slightly increases ATK.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+	},
+	{
+		"assign": "11040",
+		"jp_explainShort": "攻撃力が強化",
+		"tr_explainShort": "ATK increased",
+		"jp_explainLong": "① 攻撃力を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": "① Increases ATK.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+	},
+	{
 		"assign": "30009",
 		"jp_explainShort": "追加で小ダメージ",
 		"tr_explainShort": "Additional damage to enemies",
@@ -1274,34 +1288,6 @@
 		"tr_explainLong": "① Greatly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Grants immunity to status effects.\n[Activation Trigger] Slide Action\n[Effect Duration] Medium"
 	},
 	{
-		"assign": "31149",
-		"jp_explainShort": "-",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
-		"assign": "31150",
-		"jp_explainShort": "-",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
-		"assign": "31151",
-		"jp_explainShort": "-",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
-		"assign": "31152",
-		"jp_explainShort": "-",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
 		"assign": "31155",
 		"jp_explainShort": "ダメージ劇的増加＋ＣＰ最大値増加",
 		"tr_explainShort": "Damage boosted + maximum CP increased",
@@ -1778,20 +1764,6 @@
 		"tr_explainLong": "① Dramatically boosts damage based on the number\n    of Lightning chips equipped.\n    <color=yellow>[E-Frame]</color>\n② Reduces damage taken from enemies.\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
 	},
 	{
-		"assign": "31253",
-		"jp_explainShort": "攻撃力が劇的増加＋一定確率で回避",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
-		"assign": "31254",
-		"jp_explainShort": "攻撃力が劇的増加＋一定確率で回避",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
 		"assign": "31257",
 		"jp_explainShort": "攻撃力絶大増＋ＣＰ一定以上時攻撃力大増",
 		"tr_explainShort": "Damage boost + boost at low CP",
@@ -1846,20 +1818,6 @@
 		"tr_explainShort": "Boost x # Wind + add. dam. x Wind Elem",
 		"jp_explainLong": "① 装備中の風属性チップの枚数に応じて\n　　 攻撃力を絶大に増加する。\n② 風属性値に応じて敵に追加で特大ダメージを与える。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
 		"tr_explainLong": "① Immensely boosts damage based on the number\n    of Wind chips equipped.\n    <color=yellow>[E-Frame]</color>\n② Deals massive additional damage to enemies\n    based on your Wind Element value.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
-	},
-	{
-		"assign": "31267",
-		"jp_explainShort": "ダメージ大軽減＋法術が大強化",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
-		"assign": "31268",
-		"jp_explainShort": "ダメージ大軽減＋法術が劇的強化",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
 	},
 	{
 		"assign": "31273",
@@ -1946,20 +1904,6 @@
 		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Responds to damage from the targeted enemy\n    with a proportional counterattack.\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
 	},
 	{
-		"assign": "31287",
-		"jp_explainShort": "定期的に攻撃力が増加",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
-		"assign": "31288",
-		"jp_explainShort": "定期的に攻撃力が増加",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
 		"assign": "31289",
 		"jp_explainShort": "攻撃力大増加＋JA毎に攻撃力小増加",
 		"tr_explainShort": "Damage boosted + damage boost per JA",
@@ -2000,20 +1944,6 @@
 		"tr_explainShort": "Damage boosted + status immunity",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 自身を状態異常にならなくする。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
 		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Grants immunity to status effects.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
-	},
-	{
-		"assign": "31297",
-		"jp_explainShort": "強弓の技が劇的強化＋通常攻撃と移動加速",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
-		"assign": "31298",
-		"jp_explainShort": "強弓の技が劇的強化＋通常攻撃と移動加速",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
 	},
 	{
 		"assign": "31299",
@@ -2070,20 +2000,6 @@
 		"tr_explainShort": "Dam. boost vs Darkers + Light Elem. up",
 		"jp_explainLong": "① ダーカーに与えるダメージを劇的に増加する。\n② 光属性を大きく強化する。\n[発動条件]ダーカーに攻撃がヒットした時\n[効果時間]長い時間",
 		"tr_explainLong": "① Dramatically boosts damage against Darkers.\n    <color=yellow>[B-Frame]</color>\n② Greatly increases Light Element.\n[Activation Trigger] Landing attacks on Darkers\n[Effect Duration] Long"
-	},
-	{
-		"assign": "31307",
-		"jp_explainShort": "抜剣の技が劇的強化＋通常攻撃と移動加速",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
-		"assign": "31308",
-		"jp_explainShort": "抜剣の技が劇的強化＋通常攻撃と移動加速",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
 	},
 	{
 		"assign": "31309",
@@ -2193,9 +2109,9 @@
 	{
 		"assign": "31332",
 		"jp_explainShort": "ダメージ大軽減＋法術が劇的強化",
-		"tr_explainShort": "Damage taken reduced + Techs boosted",
+		"tr_explainShort": "",
 		"jp_explainLong": "① 法術の威力を劇的に強化する。\n② 敵から受けるダメージを大きく軽減する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "① Dramatically boosts Techs.\n    <color=yellow>[A-Frame]</color>\n② Greatly reduces damage taken from enemies.\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31333",
@@ -2641,9 +2557,9 @@
 	{
 		"assign": "31412",
 		"jp_explainShort": "定期的に攻撃力が増加",
-		"tr_explainShort": "Damage boosted over time",
+		"tr_explainShort": "",
 		"jp_explainLong": "① 定期的に攻撃力を増加する。（最大時：絶大）\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage at regular intervals.\n    (Maximum Boost: Immense)\n    <color=yellow>[G-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Long"
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31413",
@@ -3437,20 +3353,6 @@
 		"tr_explainLong": "① Dramatically boosts damage against enemies\n    that are weak to Light.\n    <color=yellow>[D-Frame]</color>\n② Greatly boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
-		"assign": "31570",
-		"jp_explainShort": "全アクティブチップ発動＋攻撃力絶大増加",
-		"tr_explainShort": "All chips activate + damage boosted",
-		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 必殺技・法術以外の全てのアクティブチップを発動する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Activates all active chips, excluding PAs & Techs.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
-	},
-	{
-		"assign": "31571",
-		"jp_explainShort": "全アクティブチップ発動＋攻撃力絶大増加",
-		"tr_explainShort": "All chips activate + damage boosted",
-		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 必殺技・法術以外の全てのアクティブチップを発動する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Activates all active chips, excluding PAs & Techs.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
-	},
-	{
 		"assign": "31572",
 		"jp_explainShort": "攻撃力絶大増＋消費ＣＰ減少＋ダメージ軽減",
 		"tr_explainShort": "Dam. boost + CP use down + dam. res.",
@@ -4242,20 +4144,6 @@
 		"tr_explainLong": "① Deals massive additional damage to enemies.\n    <color=yellow>[Chase]</color>\n② Recovers CP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
-		"assign": "31729",
-		"jp_explainShort": "アビリティＬｖ氷武器攻撃力増＋ＣＰ最大増",
-		"tr_explainShort": "Ice weapon boost x ability + max CP up",
-		"jp_explainLong": "① 装備中の武器の属性が氷属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値を増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Greatly boosts damage based on this chip's ability\n    level if using an Ice weapon.\n    <color=yellow>[H-Frame]</color>\n② Increases maximum CP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
-	},
-	{
-		"assign": "31730",
-		"jp_explainShort": "アビリティＬｖ氷武器攻撃力増＋ＣＰ最大増",
-		"tr_explainShort": "Ice weapon boost x ability + max CP up",
-		"jp_explainLong": "① 装備中の武器の属性が氷属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値を増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Greatly boosts damage based on this chip's ability\n    level if using an Ice weapon.\n    <color=yellow>[H-Frame]</color>\n② Increases maximum CP.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
-	},
-	{
 		"assign": "31731",
 		"jp_explainShort": "必殺技・法術の威力劇的強化＋ダメージ防御",
 		"tr_explainShort": "PAs & Techs boosted + barrier",
@@ -4501,18 +4389,95 @@
 		"tr_explainLong": "① Greatly boosts power.\n    <color=yellow>[F-Frame]</color>\n② Slightly boosts damage if using a Light weapon.\n    <color=yellow>[H-Frame]</color>\n③ Slightly recovers CP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
-		"assign": "11030",
-		"jp_explainShort": "攻撃力が小強化",
-		"tr_explainShort": "ATK increased",
-		"jp_explainLong": "① 攻撃力をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Slightly increases ATK.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"assign": "31792",
+		"jp_explainShort": "光闇属性武器で攻撃力劇的増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 装備中の武器の属性が光・闇の場合\n　　 攻撃力を劇的に増加する。\n[発動条件]ジャストアタック成功もしくはスライド操作時\n[効果時間]一定時間",
+		"tr_explainLong": ""
 	},
 	{
-		"assign": "11040",
-		"jp_explainShort": "攻撃力が強化",
-		"tr_explainShort": "ATK increased",
-		"jp_explainLong": "① 攻撃力を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Increases ATK.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"assign": "31793",
+		"jp_explainShort": "光闇属性武器で攻撃力劇的増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 装備中の武器の属性が光・闇の場合\n　　 攻撃力を劇的に増加する。\n[発動条件]ジャストアタック成功もしくはスライド操作時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31796",
+		"jp_explainShort": "定期的にＨＰ小回復＋威力劇的増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 威力を劇的に増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃ヒット時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31797",
+		"jp_explainShort": "定期的にＨＰ小回復＋威力劇的増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 威力を劇的に増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃ヒット時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31798",
+		"jp_explainShort": "属性ダメージ＋一定確率回避",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性による\n　　 ダメージを劇的に増加する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31799",
+		"jp_explainShort": "属性ダメージ＋一定確率回避",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性による\n　　 ダメージを絶大に増加する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31800",
+		"jp_explainShort": "ＪＡ威力絶大強化＋ＪＡ成功３回毎にＣＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 装備中チップの属性種類数に応じて\n　　 ジャストアタックの威力を絶大に増加する。\n② ジャストアタックを３回成功させるごとに\n　　 ＣＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31801",
+		"jp_explainShort": "ＪＡ威力超絶強化＋ＪＡ成功３回毎にＣＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 装備中チップの属性種類数に応じて\n　　 ジャストアタックの威力を超絶に増加する。\n② ジャストアタックを３回成功させるごとに\n　　 ＣＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31802",
+		"jp_explainShort": "アビリティＬｖ闇武器攻撃力増＋ＣＰ最大増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 装備中の武器の属性が闇属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値を増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31803",
+		"jp_explainShort": "アビリティＬｖ闇武器攻撃力増＋ＣＰ最大増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 装備中の武器の属性が闇属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値を増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31804",
+		"jp_explainShort": "攻撃力増＋ＣＰ回復量増＋属性一致攻撃力増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 通常攻撃によるＣＰの回復量を大きく増加する。\n③ 装備中の武器の属性がリンクスロットに装備した\n　　 チップの属性と一致する場合、攻撃力を増加する。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31805",
+		"jp_explainShort": "攻撃力増＋ＣＰ回復量増＋属性一致攻撃力増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 通常攻撃によるＣＰの回復量を大きく増加する。\n③ 装備中の武器の属性がリンクスロットに装備した\n　　 チップの属性と一致する場合、攻撃力を増加する。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31806",
+		"jp_explainShort": "攻撃力増＋ＣＰ回復量増＋属性一致攻撃力増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 通常攻撃によるＣＰの回復量を大きく増加する。\n③ 装備中の武器の属性がリンクスロットに装備した\n　　 チップの属性と一致する場合、攻撃力を増加する。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "2210",
@@ -6420,16 +6385,16 @@
 	},
 	{
 		"assign": "40257",
-		"jp_explainShort": "-",
+		"jp_explainShort": "風属性時小増＋長槍時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 風属性の武器の場合に威力をわずかに増加する。\n② 長槍の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40258",
-		"jp_explainShort": "-",
+		"jp_explainShort": "風属性時増＋長槍時増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 風属性の武器の場合に威力を増加する。\n② 長槍の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
@@ -6725,20 +6690,6 @@
 		"tr_explainShort": "Fire & Gunslash boost + HP over time",
 		"jp_explainLong": "① 炎属性の武器の場合に威力を増加する。\n② 銃剣の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": "① Boosts damage if equipped with\n    a Fire weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    a Gunslash.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
-	},
-	{
-		"assign": "40301",
-		"jp_explainShort": "-",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
-		"assign": "40302",
-		"jp_explainShort": "-",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
 	},
 	{
 		"assign": "40303",
@@ -7455,20 +7406,6 @@
 		"tr_explainLong": ""
 	},
 	{
-		"assign": "40405",
-		"jp_explainShort": "-",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
-		"assign": "40406",
-		"jp_explainShort": "-",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
 		"assign": "40407",
 		"jp_explainShort": "-",
 		"tr_explainShort": "",
@@ -7526,16 +7463,16 @@
 	},
 	{
 		"assign": "40415",
-		"jp_explainShort": "-",
+		"jp_explainShort": "光属性時小増＋導具時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 光属性の武器の場合に威力をわずかに増加する。\n② 導具の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40416",
-		"jp_explainShort": "-",
+		"jp_explainShort": "光属性時増＋導具時増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 光属性の武器の場合に威力を増加する。\n② 導具の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
@@ -7637,6 +7574,90 @@
 		"tr_explainLong": ""
 	},
 	{
+		"assign": "21310",
+		"jp_explainShort": "炎属性が小強化",
+		"tr_explainShort": "Fire Element up",
+		"jp_explainLong": "① 炎属性をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
+		"tr_explainLong": "① Slightly increases Fire Element.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
+	},
+	{
+		"assign": "21410",
+		"jp_explainShort": "炎属性が強化",
+		"tr_explainShort": "Fire Element up",
+		"jp_explainLong": "① 炎属性を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
+		"tr_explainLong": "① Increases Fire Element.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
+	},
+	{
+		"assign": "21510",
+		"jp_explainShort": "氷属性が小強化",
+		"tr_explainShort": "Ice Element up",
+		"jp_explainLong": "① 氷属性をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
+		"tr_explainLong": "① Slightly increases Ice Element.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] Short"
+	},
+	{
+		"assign": "21610",
+		"jp_explainShort": "氷属性が強化",
+		"tr_explainShort": "Ice Element up",
+		"jp_explainLong": "① 氷属性を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
+		"tr_explainLong": "① Increases Ice Element.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
+	},
+	{
+		"assign": "21710",
+		"jp_explainShort": "雷属性が小強化",
+		"tr_explainShort": "Lightning Element up",
+		"jp_explainLong": "① 雷属性をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
+		"tr_explainLong": "① Slightly increases Lightning Element.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] Short"
+	},
+	{
+		"assign": "21810",
+		"jp_explainShort": "雷属性が強化",
+		"tr_explainShort": "Lightning Element up",
+		"jp_explainLong": "① 雷属性を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
+		"tr_explainLong": "① Increases Lightning Element.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
+	},
+	{
+		"assign": "21910",
+		"jp_explainShort": "風属性が小強化",
+		"tr_explainShort": "Wind Element up",
+		"jp_explainLong": "① 風属性をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
+		"tr_explainLong": "① Slightly increases Wind Element.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] Short"
+	},
+	{
+		"assign": "22010",
+		"jp_explainShort": "風属性が強化",
+		"tr_explainShort": "Wind Element up",
+		"jp_explainLong": "① 風属性を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
+		"tr_explainLong": "① Increases Wind Element.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
+	},
+	{
+		"assign": "22110",
+		"jp_explainShort": "光属性が小強化",
+		"tr_explainShort": "Light Element up",
+		"jp_explainLong": "① 光属性をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
+		"tr_explainLong": "① Slightly increases Light Element.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
+	},
+	{
+		"assign": "22210",
+		"jp_explainShort": "光属性が強化",
+		"tr_explainShort": "Light Element up",
+		"jp_explainLong": "① 光属性を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
+		"tr_explainLong": "① Increases Light Element.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
+	},
+	{
+		"assign": "22310",
+		"jp_explainShort": "闇属性が小強化",
+		"tr_explainShort": "Dark Element up",
+		"jp_explainLong": "① 闇属性をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
+		"tr_explainLong": "① Slightly increases Dark Element.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] Short"
+	},
+	{
+		"assign": "22410",
+		"jp_explainShort": "闇属性が強化",
+		"tr_explainShort": "Dark Element up",
+		"jp_explainLong": "① 闇属性を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
+		"tr_explainLong": "① Increases Dark Element.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
+	},
+	{
 		"assign": "3410",
 		"jp_explainShort": "攻撃力が小強化",
 		"tr_explainShort": "ATK increased",
@@ -7662,7 +7683,7 @@
 		"jp_explainShort": "闇属性が小強化",
 		"tr_explainShort": "Dark Element up",
 		"jp_explainLong": "① 闇属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases Dark Element.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] Short"
+		"tr_explainLong": "① Slightly increases Dark Element.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "3610",
@@ -7676,7 +7697,7 @@
 		"jp_explainShort": "闇属性が小強化",
 		"tr_explainShort": "Dark Element up",
 		"jp_explainLong": "① 闇属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases Dark Element.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
+		"tr_explainLong": "① Slightly increases Dark Element.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "3710",
@@ -7747,6 +7768,20 @@
 		"tr_explainShort": "Dark Element up + ATK up",
 		"jp_explainLong": "① 攻撃力をわずかに強化する。\n② 闇属性を強化する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
 		"tr_explainLong": "① Slightly increases ATK.\n② Increases Dark Element.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] Medium"
+	},
+	{
+		"assign": "20001",
+		"jp_explainShort": "攻撃力と防御力が小強化",
+		"tr_explainShort": "ATK & DEF up",
+		"jp_explainLong": "① 攻撃力をわずかに強化する。\n② 防御力をわずかに強化する。\n[発動条件]スライド操作時\n[効果時間]短い時間",
+		"tr_explainLong": "① Slightly increases ATK.\n② Slightly increases DEF.\n[Activation Trigger] Slide Action\n[Effect Duration] Short"
+	},
+	{
+		"assign": "20002",
+		"jp_explainShort": "攻撃力と防御力が小強化",
+		"tr_explainShort": "ATK & DEF up",
+		"jp_explainLong": "① 攻撃力をわずかに強化する。\n② 防御力をわずかに強化する。\n[発動条件]スライド操作時\n[効果時間]一定時間",
+		"tr_explainLong": "① Slightly increases ATK.\n② Slightly increases DEF.\n[Activation Trigger] Slide Action\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "5210",
@@ -7830,7 +7865,7 @@
 		"jp_explainShort": "風属性が小強化",
 		"tr_explainShort": "Wind Element up",
 		"jp_explainLong": "① 風属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases Wind Element.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] Short"
+		"tr_explainLong": "① Slightly increases Wind Element.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "5710",
@@ -7844,7 +7879,7 @@
 		"jp_explainShort": "風属性が小強化",
 		"tr_explainShort": "Wind Element up",
 		"jp_explainLong": "① 風属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases Wind Element.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
+		"tr_explainLong": "① Slightly increases Wind Element.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "5810",
@@ -7886,7 +7921,7 @@
 		"jp_explainShort": "氷属性が小強化",
 		"tr_explainShort": "Ice Element up",
 		"jp_explainLong": "① 氷属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases Ice Element.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] Short"
+		"tr_explainLong": "① Slightly increases Ice Element.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "6310",
@@ -7900,7 +7935,7 @@
 		"jp_explainShort": "氷属性が小強化",
 		"tr_explainShort": "Ice Element up",
 		"jp_explainLong": "① 氷属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases Ice Element.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
+		"tr_explainLong": "① Slightly increases Ice Element.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "6510",
@@ -7998,7 +8033,7 @@
 		"jp_explainShort": "炎属性が小強化",
 		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases Fire Element.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
+		"tr_explainLong": "① Slightly increases Fire Element.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] Short"
 	},
 	{
 		"assign": "8110",
@@ -8012,7 +8047,7 @@
 		"jp_explainShort": "炎属性が小強化",
 		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases Fire Element.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] Short"
+		"tr_explainLong": "① Slightly increases Fire Element.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "8210",
@@ -8068,7 +8103,7 @@
 		"jp_explainShort": "光属性が小強化",
 		"tr_explainShort": "Light Element up",
 		"jp_explainLong": "① 光属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases Light Element.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
+		"tr_explainLong": "① Slightly increases Light Element.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] Short"
 	},
 	{
 		"assign": "8610",
@@ -8082,7 +8117,7 @@
 		"jp_explainShort": "光属性が小強化",
 		"tr_explainShort": "Light Element up",
 		"jp_explainLong": "① 光属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases Light Element.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] Short"
+		"tr_explainLong": "① Slightly increases Light Element.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "8810",
@@ -8166,7 +8201,7 @@
 		"jp_explainShort": "雷属性が小強化",
 		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases Lightning Element.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] Short"
+		"tr_explainLong": "① Slightly increases Lightning Element.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "9610",
@@ -8180,7 +8215,7 @@
 		"jp_explainShort": "雷属性が小強化",
 		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases Lightning Element.\n[Activation Trigger] Landing an attack\n[Effect Duration] Short"
+		"tr_explainLong": "① Slightly increases Lightning Element.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
 	},
 	{
 		"assign": "9710",
@@ -8225,126 +8260,14 @@
 		"tr_explainLong": "① Slightly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly reduces damage taken from enemies.\n③ Grants knockdown immunity.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
-		"assign": "20001",
-		"jp_explainShort": "攻撃力と防御力が小強化",
-		"tr_explainShort": "ATK & DEF up",
-		"jp_explainLong": "① 攻撃力をわずかに強化する。\n② 防御力をわずかに強化する。\n[発動条件]スライド操作時\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases ATK.\n② Slightly increases DEF.\n[Activation Trigger] Slide Action\n[Effect Duration] Short"
-	},
-	{
-		"assign": "20002",
-		"jp_explainShort": "攻撃力と防御力が小強化",
-		"tr_explainShort": "ATK & DEF up",
-		"jp_explainLong": "① 攻撃力をわずかに強化する。\n② 防御力をわずかに強化する。\n[発動条件]スライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "① Slightly increases ATK.\n② Slightly increases DEF.\n[Activation Trigger] Slide Action\n[Effect Duration] Medium"
-	},
-	{
-		"assign": "21310",
-		"jp_explainShort": "炎属性が小強化",
-		"tr_explainShort": "Fire Element up",
-		"jp_explainLong": "① 炎属性をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases Fire Element.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
-	},
-	{
-		"assign": "21410",
-		"jp_explainShort": "炎属性が強化",
-		"tr_explainShort": "Fire Element up",
-		"jp_explainLong": "① 炎属性を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases Fire Element.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
-	},
-	{
-		"assign": "21510",
-		"jp_explainShort": "氷属性が小強化",
-		"tr_explainShort": "Ice Element up",
-		"jp_explainLong": "① 氷属性をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases Ice Element.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
-	},
-	{
-		"assign": "21610",
-		"jp_explainShort": "氷属性が強化",
-		"tr_explainShort": "Ice Element up",
-		"jp_explainLong": "① 氷属性を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases Ice Element.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
-	},
-	{
-		"assign": "21710",
-		"jp_explainShort": "雷属性が小強化",
-		"tr_explainShort": "Lightning Element up",
-		"jp_explainLong": "① 雷属性をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases Lightning Element.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
-	},
-	{
-		"assign": "21810",
-		"jp_explainShort": "雷属性が強化",
-		"tr_explainShort": "Lightning Element up",
-		"jp_explainLong": "① 雷属性を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases Lightning Element.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
-	},
-	{
-		"assign": "21910",
-		"jp_explainShort": "風属性が小強化",
-		"tr_explainShort": "Wind Element up",
-		"jp_explainLong": "① 風属性をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases Wind Element.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
-	},
-	{
-		"assign": "22010",
-		"jp_explainShort": "風属性が強化",
-		"tr_explainShort": "Wind Element up",
-		"jp_explainLong": "① 風属性を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases Wind Element.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
-	},
-	{
-		"assign": "22110",
-		"jp_explainShort": "光属性が小強化",
-		"tr_explainShort": "Light Element up",
-		"jp_explainLong": "① 光属性をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases Light Element.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
-	},
-	{
-		"assign": "22210",
-		"jp_explainShort": "光属性が強化",
-		"tr_explainShort": "Light Element up",
-		"jp_explainLong": "① 光属性を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases Light Element.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
-	},
-	{
-		"assign": "22310",
-		"jp_explainShort": "闇属性が小強化",
-		"tr_explainShort": "Dark Element up",
-		"jp_explainLong": "① 闇属性をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases Dark Element.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
-	},
-	{
-		"assign": "22410",
-		"jp_explainShort": "闇属性が強化",
-		"tr_explainShort": "Dark Element up",
-		"jp_explainLong": "① 闇属性を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases Dark Element.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Short"
-	},
-	{
-		"assign": "25114",
-		"jp_explainShort": "-",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
-		"assign": "25214",
-		"jp_explainShort": "-",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
-		"assign": "25410",
+		"assign": "25310",
 		"jp_explainShort": "攻撃力が小強化",
 		"tr_explainShort": "ATK increased",
 		"jp_explainLong": "① 攻撃力をわずかに強化する。\n② チップ強化の素材に使うと効果大。\n[発動条件]敵からダメージを受けた時\n[効果時間]一定時間",
 		"tr_explainLong": "① Slightly increases ATK.\n② A very effective material for Chip Grinding.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] Medium"
 	},
 	{
-		"assign": "25310",
+		"assign": "25410",
 		"jp_explainShort": "攻撃力が小強化",
 		"tr_explainShort": "ATK increased",
 		"jp_explainLong": "① 攻撃力をわずかに強化する。\n② チップ強化の素材に使うと効果大。\n[発動条件]敵からダメージを受けた時\n[効果時間]一定時間",
@@ -8393,31 +8316,17 @@
 		"tr_explainLong": "① Slightly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Responds to damage from the targeted enemy\n    with a proportional counterattack.\n[Activation Trigger] Taking an attack\n[Effect Duration] Medium"
 	},
 	{
-		"assign": "20051",
-		"jp_explainShort": "カイザーバルガー",
+		"assign": "20057",
+		"jp_explainShort": "攻撃力小増加＋特定地形で攻撃力大増加",
 		"tr_explainShort": "",
-		"jp_explainLong": "カイザーバルガー",
+		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 海岸か海底での戦闘では\n　　 さらに攻撃力を大きく増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
-		"assign": "20052",
-		"jp_explainShort": "カイザーバルガー（解放後）",
+		"assign": "20058",
+		"jp_explainShort": "攻撃力小増加＋特定地形で攻撃力大増加",
 		"tr_explainShort": "",
-		"jp_explainLong": "カイザーバルガー（解放後）",
-		"tr_explainLong": ""
-	},
-	{
-		"assign": "20055",
-		"jp_explainShort": "シノワラピドゥス",
-		"tr_explainShort": "",
-		"jp_explainLong": "シノワラピドゥス",
-		"tr_explainLong": ""
-	},
-	{
-		"assign": "20056",
-		"jp_explainShort": "シノワラピドゥス（解放後）",
-		"tr_explainShort": "",
-		"jp_explainLong": "シノワラピドゥス（解放後）",
+		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 海岸か海底での戦闘では\n　　 さらに攻撃力を大きく増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	}
 ]

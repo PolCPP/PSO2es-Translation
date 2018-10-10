@@ -13441,37 +13441,37 @@
 	},
 	{
 		"assign": "3463001454",
-		"jp_text": "迅射填矢 Lv.1",
+		"jp_text": "葬風連弾 Lv.1",
 		"tr_text": "",
-		"jp_explain": "ラピッドシュートの\nリキャストを軽減する。",
+		"jp_explain": "ラピッドシュート時の\nダメージ量が増加する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3463001455",
-		"jp_text": "迅射填矢 Lv.2",
+		"jp_text": "葬風連弾 Lv.2",
 		"tr_text": "",
-		"jp_explain": "ラピッドシュートの\nリキャストを軽減する。",
+		"jp_explain": "ラピッドシュート時の\nダメージ量が増加する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3463001452",
-		"jp_text": "迅射填矢 Lv.3",
+		"jp_text": "葬風連弾 Lv.3",
 		"tr_text": "",
-		"jp_explain": "ラピッドシュートの\nリキャストを軽減する。",
+		"jp_explain": "ラピッドシュート時の\nダメージ量が増加する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3463001453",
-		"jp_text": "迅射填矢 Lv.4",
+		"jp_text": "葬風連弾 Lv.4",
 		"tr_text": "",
-		"jp_explain": "ラピッドシュートの\nリキャストを軽減する。",
+		"jp_explain": "ラピッドシュート時の\nダメージ量が増加する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3463001442",
-		"jp_text": "迅射填矢 Lv.5",
+		"jp_text": "葬風連弾 Lv.5",
 		"tr_text": "",
-		"jp_explain": "ラピッドシュートの\nリキャストを軽減する。",
+		"jp_explain": "ラピッドシュート時の\nダメージ量が増加する。",
 		"tr_explain": ""
 	},
 	{
@@ -14668,35 +14668,35 @@
 		"assign": "1235321537",
 		"jp_text": "業風跳法 Lv.1",
 		"tr_text": "",
-		"jp_explain": "スナッチステップが100%\nスナッチＪＡコンボの\n威力が5%上昇する。",
+		"jp_explain": "スナッチステップが100%\nステップＪＡコンボの\n威力が5%上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1235321536",
 		"jp_text": "業風跳法 Lv.2",
 		"tr_text": "",
-		"jp_explain": "スナッチステップが200%\nスナッチＪＡコンボの\n威力が9%上昇する。",
+		"jp_explain": "スナッチステップが200%\nステップＪＡコンボの\n威力が9%上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1235321543",
 		"jp_text": "業風跳法 Lv.3",
 		"tr_text": "",
-		"jp_explain": "スナッチステップが300%\nスナッチＪＡコンボの\n威力が14%上昇する。",
+		"jp_explain": "スナッチステップが300%\nステップＪＡコンボの\n威力が14%上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1235321542",
 		"jp_text": "業風跳法 Lv.4",
 		"tr_text": "",
-		"jp_explain": "スナッチステップが400%\nスナッチＪＡコンボの\n威力が18%上昇する。",
+		"jp_explain": "スナッチステップが400%\nステップＪＡコンボの\n威力が18%上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1235321541",
 		"jp_text": "業風跳法 Lv.5",
 		"tr_text": "",
-		"jp_explain": "スナッチステップが500%\nスナッチＪＡコンボの\n威力が23%上昇する。",
+		"jp_explain": "スナッチステップが500%\nステップＪＡコンボの\n威力が23%上昇する。",
 		"tr_explain": ""
 	},
 	{
@@ -22540,6 +22540,391 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "3311853648",
+		"jp_text": "輝撃の加護 Lv.1",
+		"tr_text": "",
+		"jp_explain": "威力が6％上昇。\n攻撃時に\nＰＰ回復量が5％上昇し\nＰＰ消費量が5％減少。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3311853649",
+		"jp_text": "輝撃の加護 Lv.2",
+		"tr_text": "",
+		"jp_explain": "威力が8％上昇。\n攻撃時に\nＰＰ回復量が10％上昇し\nＰＰ消費量が10％減少。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3311853650",
+		"jp_text": "輝撃の加護 Lv.3",
+		"tr_text": "",
+		"jp_explain": "威力が10％上昇。\n攻撃時に\nＰＰ回復量が15％上昇し\nＰＰ消費量が15％減少。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3311853651",
+		"jp_text": "輝撃の加護 Lv.4",
+		"tr_text": "",
+		"jp_explain": "威力が12％上昇。\n攻撃時に\nＰＰ回復量が20％上昇し\nＰＰ消費量が20％減少。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3311853652",
+		"jp_text": "輝撃の加護 Lv.5",
+		"tr_text": "",
+		"jp_explain": "威力が14％上昇。\n攻撃時に\nＰＰ回復量が25％上昇し\nＰＰ消費量が25％減少。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2504573299",
+		"jp_text": "未設定潜在能力 Lv.1",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2504573308",
+		"jp_text": "未設定潜在能力 Lv.2",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2504573309",
+		"jp_text": "未設定潜在能力 Lv.3",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2504573310",
+		"jp_text": "未設定潜在能力 Lv.4",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2504573311",
+		"jp_text": "未設定潜在能力 Lv.5",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2156922653",
+		"jp_text": "未設定潜在能力 Lv.1",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2156922650",
+		"jp_text": "未設定潜在能力 Lv.2",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2156922651",
+		"jp_text": "未設定潜在能力 Lv.3",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2156922648",
+		"jp_text": "未設定潜在能力 Lv.4",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2156922649",
+		"jp_text": "未設定潜在能力 Lv.5",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3881857375",
+		"jp_text": "未設定潜在能力 Lv.1",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3881857374",
+		"jp_text": "未設定潜在能力 Lv.2",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3881857373",
+		"jp_text": "未設定潜在能力 Lv.3",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3881857372",
+		"jp_text": "未設定潜在能力 Lv.4",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3881857363",
+		"jp_text": "未設定潜在能力 Lv.5",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3723209127",
+		"jp_text": "未設定潜在能力 Lv.1",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3723209126",
+		"jp_text": "未設定潜在能力 Lv.2",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3723209125",
+		"jp_text": "未設定潜在能力 Lv.3",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3723209124",
+		"jp_text": "未設定潜在能力 Lv.4",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3723209147",
+		"jp_text": "未設定潜在能力 Lv.5",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3072438538",
+		"jp_text": "未設定潜在能力 Lv.1",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3072438581",
+		"jp_text": "未設定潜在能力 Lv.2",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3072438580",
+		"jp_text": "未設定潜在能力 Lv.3",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3072438583",
+		"jp_text": "未設定潜在能力 Lv.4",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3072438582",
+		"jp_text": "未設定潜在能力 Lv.5",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2923758727",
+		"jp_text": "未設定潜在能力 Lv.1",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2923758720",
+		"jp_text": "未設定潜在能力 Lv.2",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2923758721",
+		"jp_text": "未設定潜在能力 Lv.3",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2923758722",
+		"jp_text": "未設定潜在能力 Lv.4",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2923758723",
+		"jp_text": "未設定潜在能力 Lv.5",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3372734261",
+		"jp_text": "未設定潜在能力 Lv.1",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3372734258",
+		"jp_text": "未設定潜在能力 Lv.2",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3372734259",
+		"jp_text": "未設定潜在能力 Lv.3",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3372734256",
+		"jp_text": "未設定潜在能力 Lv.4",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3372734257",
+		"jp_text": "未設定潜在能力 Lv.5",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3586023591",
+		"jp_text": "未設定潜在能力 Lv.1",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3586023588",
+		"jp_text": "未設定潜在能力 Lv.2",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3586023589",
+		"jp_text": "未設定潜在能力 Lv.3",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3586023586",
+		"jp_text": "未設定潜在能力 Lv.4",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3586023587",
+		"jp_text": "未設定潜在能力 Lv.5",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2915768978",
+		"jp_text": "環理の解放 Lv.1",
+		"tr_text": "",
+		"jp_explain": "法撃爆発の命中数に応じ\n法撃爆発威力が上昇。\nテクニック命中時に\n効果を失うが、一定時間\nテクニック威力が上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2915768977",
+		"jp_text": "環理の解放 Lv.2",
+		"tr_text": "",
+		"jp_explain": "法撃爆発の命中数に応じ\n法撃爆発威力が上昇。\nテクニック命中時に\n効果を失うが、一定時間\nテクニック威力が上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2915768976",
+		"jp_text": "環理の解放 Lv.3",
+		"tr_text": "",
+		"jp_explain": "法撃爆発の命中数に応じ\n法撃爆発威力が上昇。\nテクニック命中時に\n効果を失うが、一定時間\nテクニック威力が上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2915769007",
+		"jp_text": "環理の解放 Lv.4",
+		"tr_text": "",
+		"jp_explain": "法撃爆発の命中数に応じ\n法撃爆発威力が上昇。\nテクニック命中時に\n効果を失うが、一定時間\nテクニック威力が上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2915769006",
+		"jp_text": "環理の解放 Lv.5",
+		"tr_text": "",
+		"jp_explain": "法撃爆発の命中数に応じ\n法撃爆発威力が上昇。\nテクニック命中時に\n効果を失うが、一定時間\nテクニック威力が上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2904499137",
+		"jp_text": "未設定潜在能力 Lv.1",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2904499136",
+		"jp_text": "未設定潜在能力 Lv.2",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2904499139",
+		"jp_text": "未設定潜在能力 Lv.3",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2904499138",
+		"jp_text": "未設定潜在能力 Lv.4",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2904499141",
+		"jp_text": "未設定潜在能力 Lv.5",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
 		"assign": "2472775797",
 		"jp_text": "晴れ好き",
 		"tr_text": "Enjoys Sun",
@@ -22768,6 +23153,20 @@
 		"jp_text": "キュート",
 		"tr_text": "",
 		"jp_explain": "アイテムドロップ率上昇と\n性格「やせ我慢」と\n「逆境」の効果",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2389963014",
+		"jp_text": "エレガント",
+		"tr_text": "",
+		"jp_explain": "アイテムドロップ率上昇と\n性格「目立ちたがり」と\n「いやし系」の効果",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2389963013",
+		"jp_text": "ジェントル",
+		"tr_text": "",
+		"jp_explain": "アイテムドロップ率上昇と\n性格「なかま思い」と\n「こうかつ」の効果",
 		"tr_explain": ""
 	},
 	{

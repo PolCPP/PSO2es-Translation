@@ -557,7 +557,7 @@
 		"jp_text": "特殊能力追加（射撃＆ＰＰ）",
 		"tr_text": "Add Ability (Shoot&PP)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃＆ＰＰ】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Noble Shoot\" when\nused in Special Ability Synthesis."
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Noble Shot\" when\nused in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210117",
@@ -1468,6 +1468,13 @@
 		"tr_text": "Ability Protection (5s or lower)",
 		"jp_explain": "特殊能力追加に失敗時、素材アイテムと\n特殊能力追加アイテムが返却される。\n<yellow>対象：追加予定リストが５スロット以下<c>",
 		"tr_explain": "Returns the Special Abilities that\nwere lost from synthesis.\n<yellow>Only works on 5 slots or lower.<c>"
+	},
+	{
+		"assign": "3210285",
+		"jp_text": "特殊能力保護（６枠以下）",
+		"tr_text": "",
+		"jp_explain": "特殊能力追加に失敗時、素材アイテムと\n特殊能力追加アイテムが返却される。\n<yellow>対象：追加予定リストが６スロット以下<c>",
+		"tr_explain": ""
 	},
 	{
 		"assign": "3210288",
