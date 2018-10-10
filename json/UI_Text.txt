@@ -5157,7 +5157,7 @@
 	{
 		"assign": "quest_counter_accompany_ng",
 		"jp_text": "同行可能まであと<%h>時間<%m>分",
-		"tr_text": "Cooldown (<%h> hour(s) and <%m> minutes left)"
+		"tr_text": "Cooldown (<%h>h <%m>m left)"
 	},
 	{
 		"assign": "quest_counter_quest_drive",
@@ -17667,7 +17667,7 @@
 	{
 		"assign": "acceptbox_page_recieve",
 		"jp_text": "一括受取（ページ内）",
-		"tr_text": "Bulk Receive (Single Page)"
+		"tr_text": "Grab Entire Page"
 	},
 	{
 		"assign": "acceptbox_no_item",
