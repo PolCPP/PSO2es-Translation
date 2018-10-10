@@ -1470,6 +1470,13 @@
 		"tr_explain": "Returns the Special Abilities that\nwere lost from synthesis.\n<yellow>Only works on 5 slots or lower.<c>"
 	},
 	{
+		"assign": "3210285",
+		"jp_text": "特殊能力保護（６枠以下）",
+		"tr_text": "",
+		"jp_explain": "特殊能力追加に失敗時、素材アイテムと\n特殊能力追加アイテムが返却される。\n<yellow>対象：追加予定リストが６スロット以下<c>",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3210288",
 		"jp_text": "特殊能力（打撃＆ＰＰ/３）",
 		"tr_text": "Add Ability (Strike&PP/3)",

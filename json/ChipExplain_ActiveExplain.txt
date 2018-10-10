@@ -574,62 +574,6 @@
 		"tr_explainLong": "① Dramatically boosts Twin Machinegun PAs.\n    <color=yellow>[A-Frame]</color>\n② Reduces damage from enemies.\n[Effect Duration] Long"
 	},
 	{
-		"assign": "31045",
-		"jp_explainShort": "-",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
-		"assign": "31046",
-		"jp_explainShort": "-",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
-		"assign": "31047",
-		"jp_explainShort": "-",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
-		"assign": "31048",
-		"jp_explainShort": "-",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
-		"assign": "31049",
-		"jp_explainShort": "-",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
-		"assign": "31050",
-		"jp_explainShort": "-",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
-		"assign": "31051",
-		"jp_explainShort": "-",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
-		"assign": "31052",
-		"jp_explainShort": "-",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
 		"assign": "31061",
 		"jp_explainShort": "風属性値に応じてダメージ絶大増加",
 		"tr_explainShort": "Damage boosted x Wind Element",
@@ -826,20 +770,6 @@
 		"tr_explainLong": "① Inflicts [Freeze] on targeted enemy.\n② Greatly boosts damage against enemies\n    affected by [Freeze].\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] Medium"
 	},
 	{
-		"assign": "31153",
-		"jp_explainShort": "-",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
-		"assign": "31154",
-		"jp_explainShort": "-",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
 		"assign": "31163",
 		"jp_explainShort": "定期的に劇的ダメージ",
 		"tr_explainShort": "Regular damage to target",
@@ -852,20 +782,6 @@
 		"tr_explainShort": "Regular damage to target",
 		"jp_explainLong": "① 攻撃対象の敵に対して\n　　 定期的に攻撃力に応じた絶大ダメージを与える。\n[効果時間]長い時間",
 		"tr_explainLong": "① Deals regular massive damage to the targeted\n    enemy based on your ATK.\n[Effect Duration] Long"
-	},
-	{
-		"assign": "31171",
-		"jp_explainShort": "-",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
-		"assign": "31172",
-		"jp_explainShort": "-",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
 	},
 	{
 		"assign": "31175",
@@ -1090,20 +1006,6 @@
 		"tr_explainShort": "All Elements up + damage boosted",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 全属性の属性値を大きく強化する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Dramatically boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly increases all Elements.\n[Effect Duration] Medium"
-	},
-	{
-		"assign": "31271",
-		"jp_explainShort": "ダメージ絶大増加＋ダメージの一部ＨＰ回復",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
-	},
-	{
-		"assign": "31272",
-		"jp_explainShort": "ダメージ絶大増加＋ダメージの一部ＨＰ回復",
-		"tr_explainShort": "",
-		"jp_explainLong": "-",
-		"tr_explainLong": ""
 	},
 	{
 		"assign": "31277",
@@ -1610,6 +1512,20 @@
 		"tr_explainLong": "① Immensely boosts damage if using a Fire weapon.\n    <color=yellow>[H-Frame]</color>\n[Effect Duration] Long"
 	},
 	{
+		"assign": "31570",
+		"jp_explainShort": "ダメージ極度増加＋効果終了時に被ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 効果時間終了時に最大ＨＰの９０％の\n　　 ダメージを受ける。（ＨＰは最低でも１残る）\n　　 ただし、ＨＰが９０％未満の場合\n　　 このチップを発動できない。\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31571",
+		"jp_explainShort": "ダメージ極度増加＋効果終了時に被ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 効果時間終了時に最大ＨＰの９０％の\n　　 ダメージを受ける。（ＨＰは最低でも１残る）\n　　 ただし、ＨＰが９０％未満の場合\n　　 このチップを発動できない。\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
 		"assign": "31576",
 		"jp_explainShort": "攻撃力超絶増＋消費ＣＰ減＋特定条件時追撃",
 		"tr_explainShort": "Dam. boost + CP use down + add. dam.",
@@ -2098,6 +2014,20 @@
 		"tr_explainShort": "Damage boosted while burned",
 		"jp_explainLong": "① 自身が「バーン」状態にある場合に\r\n　　 攻撃力を劇的に増加する。\r\n[効果時間]長い時間",
 		"tr_explainLong": "① Dramatically boosts damage while you are\n    affected by [Burn].\n    <color=yellow>[O-Frame]</color>\r\n[Effect Duration] Long"
+	},
+	{
+		"assign": "31794",
+		"jp_explainShort": "消費ＣＰ減＋機甲・機改種にダメージ劇的増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 機甲種か機改種に対して\n　　 与えるダメージを劇的に増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31795",
+		"jp_explainShort": "消費ＣＰ減＋機甲・機改種にダメージ劇的増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 機甲種か機改種に対して\n　　 与えるダメージを劇的に増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "2110",
@@ -5446,6 +5376,20 @@
 		"tr_explainLong": "[Gunslash PA]\nSlash the target, hit them with repeated attacks and\nfinish with a gunshot."
 	},
 	{
+		"assign": "60235",
+		"jp_explainShort": "目標を追って跳躍する両剣用の必殺技",
+		"tr_explainShort": "[Double Saber PA] Surprise Dunk",
+		"jp_explainLong": "「両剣用の必殺技」\n跳躍し、目標へ両剣を振り下ろす。\n攻撃と同時に周囲に衝撃波が発生。",
+		"tr_explainLong": "[Double Saber PA]\nUse the Double Saber to leap towards the target.\nThe impact generates a shockwave."
+	},
+	{
+		"assign": "60236",
+		"jp_explainShort": "目標を追って跳躍する両剣用の必殺技",
+		"tr_explainShort": "[Double Saber PA] Surprise Dunk",
+		"jp_explainLong": "「両剣用の必殺技」\n跳躍し、目標へ両剣を振り下ろす。\n攻撃と同時に周囲に衝撃波が発生。",
+		"tr_explainLong": "[Double Saber PA]\nUse the Double Saber to leap towards the target.\nThe impact generates a shockwave."
+	},
+	{
 		"assign": "60237",
 		"jp_explainShort": "目標を追って跳躍する両剣用の必殺技",
 		"tr_explainShort": "[Double Saber PA] Surprise Dunk",
@@ -5476,16 +5420,16 @@
 	{
 		"assign": "60241",
 		"jp_explainShort": "目標を追って跳躍する両剣用の必殺技",
-		"tr_explainShort": "[Double Saber PA] Surprise Dunk",
+		"tr_explainShort": "",
 		"jp_explainLong": "「両剣用の必殺技」\n跳躍し、目標へ両剣を振り下ろす。\n攻撃と同時に周囲に衝撃波が発生。",
-		"tr_explainLong": "[Double Saber PA]\nUse the Double Saber to leap towards the target.\nThe impact generates a shockwave."
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "60242",
 		"jp_explainShort": "目標を追って跳躍する両剣用の必殺技",
-		"tr_explainShort": "[Double Saber PA] Surprise Dunk",
+		"tr_explainShort": "",
 		"jp_explainLong": "「両剣用の必殺技」\n跳躍し、目標へ両剣を振り下ろす。\n攻撃と同時に周囲に衝撃波が発生。",
-		"tr_explainLong": "[Double Saber PA]\nUse the Double Saber to leap towards the target.\nThe impact generates a shockwave."
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "70110",
@@ -6713,7 +6657,7 @@
 		"tr_explainLong": "[Basic Dark Tech]\nImbues HP Absorption into attacks.\nRecovers HP whenever an enemy is damaged."
 	},
 	{
-		"assign": "72020",
+		"assign": "73020",
 		"jp_explainShort": "ＨＰ吸収効果を付与する闇属性初級の法術",
 		"tr_explainShort": "[Dark Technique] - HP Absorption",
 		"jp_explainLong": "「初級の闇属性の法術」\n自身の攻撃にＨＰ吸収効果を付与する。\n対象にダメージを与えるとＨＰが回復する。",
