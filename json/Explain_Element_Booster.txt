@@ -1250,7 +1250,7 @@
 		"jp_text": "ソール・カタリスト",
 		"tr_text": "Soul Catalyst",
 		"jp_explain": "4つ集めると\n特定のソールと合成可能\nHP+10 PP+1",
-		"tr_explain": "Can be combined with<br>a certain soul when you<br>collect four.<br>HP +10 PP +1"
+		"tr_explain": "Can be combined with\na certain soul when you\ncollect four.\HP +10 PP +1"
 	},
 	{
 		"assign": "179",
@@ -2340,16 +2340,16 @@
 	{
 		"assign": "334",
 		"jp_text": "ペルソナ・レヴリー",
-		"tr_text": "",
+		"tr_text": "Persona Reverie",
 		"jp_explain": "打撃+40 射撃+40\n法撃+40 打防-20\n射防-20 法防-20",
-		"tr_explain": ""
+		"tr_explain": "ATK +40 DEF -20"
 	},
 	{
 		"assign": "335",
 		"jp_text": "レヴリー・カタリスト",
-		"tr_text": "",
+		"tr_text": "Reverie Catalyst",
 		"jp_explain": "4つ集めると\nオメガ・メモリアと合成可能\nHP+10 PP+1",
-		"tr_explain": ""
+		"tr_explain": "Can be combined with\nOmega Memoria when you\ncollect four.\HP +10 PP +1"
 	},
 	{
 		"assign": "336",
@@ -2361,8 +2361,8 @@
 	{
 		"assign": "337",
 		"jp_text": "マナ・レヴリー",
-		"tr_text": "",
+		"tr_text": "Mana Reverie",
 		"jp_explain": "打撃+50 射撃+50\n法撃+50 HP+20 PP+4",
-		"tr_explain": ""
+		"tr_explain": "ATK +50 HP +20 PP +4"
 	}
 ]
