@@ -2351,8 +2351,8 @@
 	},
 	{
 		"assign": "item_grind_info",
-		"jp_text": "補助アイテムがセットされていません。\n補助アイテムを使うと\n強化成功率を上げたり\n強化失敗時のリスクを\n下げることができます。\n\n緊急クエストなどで入手しましょう！",
-		"tr_text": "No boosters found.\nIf you use a grind success booster,\nsuccess rate goes up."
+		"jp_text": "補助アイテムがセットされていません。\n補助アイテムを使うと効果が発生します。\n\n【旧式武器】\n成功率アップ、失敗リスクの軽減\n【新世武器】\n大成功率アップ、強化値上限アップ\n属性の変化、属性値アップ",
+		"tr_text": ""
 	},
 	{
 		"assign": "labo_guide_07",
@@ -7855,6 +7855,11 @@
 		"tr_text": "Reconfigured Mechs"
 	},
 	{
+		"assign": "chip_type_name_15",
+		"jp_text": "黒の民",
+		"tr_text": ""
+	},
+	{
 		"assign": "chip_type_name_weaponoid",
 		"jp_text": "ウェポノイド",
 		"tr_text": "Weaponoid"
@@ -9570,9 +9575,14 @@
 		"tr_text": "Back to title"
 	},
 	{
-		"assign": "menu_sub_button_shitp",
+		"assign": "menu_sub_button_ship",
 		"jp_text": "シップ選択",
 		"tr_text": "Ship Selection"
+	},
+	{
+		"assign": "menu_sub_button_character",
+		"jp_text": "キャラクター選択",
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_popup_emergency",
@@ -14290,6 +14300,16 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "ItemDetail_Parameter_WeaponTraceCaption",
+		"jp_text": "武器フォーム元 /",
+		"tr_text": ""
+	},
+	{
+		"assign": "ItemDetail_Parameter_WeaponTraceName",
+		"jp_text": "<color=yellow><%parameter></color>",
+		"tr_text": ""
+	},
+	{
 		"assign": "ItemDetail_EquipCondition_TitleCaption",
 		"jp_text": "<color=white>適性クラス</color>",
 		"tr_text": "<color=white>Equippable Classes</color>"
@@ -16900,6 +16920,11 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "lookback_series2_chapter_2",
+		"jp_text": "第２章　争いは連鎖し運命は廻る",
+		"tr_text": ""
+	},
+	{
 		"assign": "menu_menu_lookback",
 		"jp_text": "ストーリー閲覧室",
 		"tr_text": "View Stories"
@@ -18390,6 +18415,16 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "quest_clear_reward_dialog_title_6214004",
+		"jp_text": "ストーリークエスト Season3　2章4-4",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_clear_reward_dialog_body_6214004",
+		"jp_text": "Season3　2章4-4「それぞれの思い」クリア\nおめでとうございます！\n以下のクリア報酬をプレゼントいたしました。\n受け取りボックスをご確認ください。",
+		"tr_text": ""
+	},
+	{
 		"assign": "recommended_equipment",
 		"jp_text": "おすすめ装備",
 		"tr_text": "Recommended Equipment"
@@ -19273,6 +19308,11 @@
 		"assign": "Eternal_result_drop_limit",
 		"jp_text": "<color=yellow>ドロップ報酬数アップ！</color>",
 		"tr_text": "<color=yellow>Drop rewards up!</color>"
+	},
+	{
+		"assign": "Eternal_result_raredrop_limit",
+		"jp_text": "<color=yellow>レアドロップ確率アップ！</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "EternalTower_block_detail",
@@ -20406,8 +20446,13 @@
 	},
 	{
 		"assign": "gamma_weapon_grind_dialog_caution",
-		"jp_text": "下記のいずれかに該当するアイテムです。\n本当によろしいですか？\n\n・レアリティが★７以上\n・強化値が+1以上\n・強化上限値が+31以上",
-		"tr_text": "One or more of the following are present.\nAre you sure?\n\n・Items of rarity ★７+\n・Items with grind value +1 or higher\n・Items whose Overgrind Limit is +31 or higher"
+		"jp_text": "下記のいずれかに該当するアイテムです。\n本当によろしいですか？\n・レアリティが★７以上\n・強化値が+1以上\n・強化上限値が+31以上",
+		"tr_text": ""
+	},
+	{
+		"assign": "gamma_weapon_grind_dialog_failed",
+		"jp_text": "強化値・属性値がこれ以上強化できないか\n属性を変更することのできる\nアイテムが選択されていません。",
+		"tr_text": ""
 	},
 	{
 		"assign": "gamma_weapon_grind_need_grinder_num",
@@ -20488,5 +20533,15 @@
 		"assign": "owner_registration_success",
 		"jp_text": "<color=yellow>オーナー登録が完了</color>しました。",
 		"tr_text": "<color=yellow>Owner Registration<color> complete."
+	},
+	{
+		"assign": "dialog_overflow_dualblade_to_acceptbox_title",
+		"jp_text": "所持数オーバー",
+		"tr_text": ""
+	},
+	{
+		"assign": "dialog_overflow_dualblade_to_acceptbox_title_message",
+		"jp_text": "アイテムパックの所持数をオーバーするため\nアイテムを受け取りボックスに送りました。",
+		"tr_text": ""
 	}
 ]
