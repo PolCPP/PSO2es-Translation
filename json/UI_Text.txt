@@ -7857,7 +7857,7 @@
 	{
 		"assign": "chip_type_name_15",
 		"jp_text": "黒の民",
-		"tr_text": ""
+		"tr_text": "Kuronites"
 	},
 	{
 		"assign": "chip_type_name_weaponoid",
@@ -9582,7 +9582,7 @@
 	{
 		"assign": "menu_sub_button_character",
 		"jp_text": "キャラクター選択",
-		"tr_text": ""
+		"tr_text": "Character Selection"
 	},
 	{
 		"assign": "menu_popup_emergency",
@@ -14302,7 +14302,7 @@
 	{
 		"assign": "ItemDetail_Parameter_WeaponTraceCaption",
 		"jp_text": "武器フォーム元 /",
-		"tr_text": ""
+		"tr_text": "Old Weapon Form /"
 	},
 	{
 		"assign": "ItemDetail_Parameter_WeaponTraceName",
@@ -19312,7 +19312,7 @@
 	{
 		"assign": "Eternal_result_raredrop_limit",
 		"jp_text": "<color=yellow>レアドロップ確率アップ！</color>",
-		"tr_text": ""
+		"tr_text": "<color=yellow>Rare Drop Rate up!</color>"
 	},
 	{
 		"assign": "EternalTower_block_detail",
@@ -20447,7 +20447,7 @@
 	{
 		"assign": "gamma_weapon_grind_dialog_caution",
 		"jp_text": "下記のいずれかに該当するアイテムです。\n本当によろしいですか？\n・レアリティが★７以上\n・強化値が+1以上\n・強化上限値が+31以上",
-		"tr_text": ""
+		"tr_text": "One or more of the following are present.\nAre you sure?\n・Items of rarity ★７+\n・Items with grind value +1 or higher\n・Items whose Overgrind Limit is +31 or higher"
 	},
 	{
 		"assign": "gamma_weapon_grind_dialog_failed",
@@ -20537,11 +20537,11 @@
 	{
 		"assign": "dialog_overflow_dualblade_to_acceptbox_title",
 		"jp_text": "所持数オーバー",
-		"tr_text": ""
+		"tr_text": "Number in Possession Exceeded"
 	},
 	{
 		"assign": "dialog_overflow_dualblade_to_acceptbox_title_message",
 		"jp_text": "アイテムパックの所持数をオーバーするため\nアイテムを受け取りボックスに送りました。",
-		"tr_text": ""
+		"tr_text": "Items in excess of the maximum number\nyou are able to hold have been sent to\nyour Reception Box."
 	}
 ]
