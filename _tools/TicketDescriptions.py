@@ -43,6 +43,44 @@ for name in file_names:
                                    + item["tr_text"] + "\"\n"
                                    + "for use in the Beauty Salon.")
 
+            print("Translated description for {0}".format(item["tr_text"]))
+
+    items_file = codecs.open(os.path.join(json_loc, items_file_name),
+                             mode = 'w', encoding = 'utf-8')
+    json.dump(items, items_file, ensure_ascii=False, indent="\t", sort_keys=False)
+    items_file.write("\n")
+    items_file.close()
+    
+layered_file_names = [["Basewear_Female", "basewear"],
+                      ["Basewear_Male", "basewear"],
+                      ["Innerwear_Female", "innerwear"],
+                      ["Innerwear_Male", "innerwear"]]
+        
+for name in layered_file_names:
+    items_file_name = "Item_" + name[0] + ".txt"
+    item_type = name[1]
+    
+    try:
+        items_file = codecs.open(os.path.join(json_loc, items_file_name),
+                                 mode = 'r', encoding = 'utf-8')
+    except FileNotFoundError:
+        print("\t{0} not found.".format(items_file_name))
+        continue
+    
+    items = json.load(items_file)
+    print("{0} loaded.".format(items_file_name))
+    
+    items_file.close()
+    
+    for item in items:
+        if item["tr_text"] != "" and item["tr_explain"] == "":
+            item["tr_explain"] = "Unlocks the new " + item_type + "\n\"" + item["tr_text"] + "\"."
+            
+            if len(regex.findall("女性のみ使用可能。", item["jp_explain"])) > 0:
+                item["tr_explain"] += "\nOnly usable on female characters."
+            elif len(regex.findall("男性のみ使用可能。", item["jp_explain"])) > 0:
+                item["tr_explain"] += "\nOnly usable on male characters."
+
             if len(regex.findall("着用時はインナーが非表示になります。", item["jp_explain"])) > 0:
                 item["tr_explain"] += '\n<yellow>※Hides innerwear when worn.<c>'
 
