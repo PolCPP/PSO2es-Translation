@@ -200,7 +200,7 @@ for item in items:
             item["tr_explain"] += "\nCV: " + tr_cv_name
             print("Translated description for {0}".format(item["tr_text"]))
         else:
-            item["tr_explain"] += "\nCV: " + jp_cv_name
+            item["tr_explain"] += "\nCV:" + jp_cv_name
             print("Voice ticket {0} has a new voice actor: {1}"
                   .format(item["tr_text"], jp_cv_name))
 
