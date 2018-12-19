@@ -1326,7 +1326,7 @@
 		"assign": "189",
 		"jp_text": "Ｓ１：瞬連の志",
 		"tr_text": "S1:Immediate Intent",
-		"jp_explain": "連続でジャストアタックに\n成功すると、最大３％まで\n与ダメージが上昇。",
+		"jp_explain": "連続でジャストアタックに\n成功すると、最大3％まで\n与ダメージが上昇。",
 		"tr_explain": "Continuous Just Attacks give\na damage bonus up to 3%."
 	},
 	{
@@ -1891,7 +1891,7 @@
 	},
 	{
 		"assign": "270",
-		"jp_text": "-",
+		"jp_text": "ダークブラストボーナス",
 		"tr_text": "",
 		"jp_explain": "-",
 		"tr_explain": ""
@@ -2943,7 +2943,7 @@
 		"assign": "420",
 		"jp_text": "Ｓ２：瞬乱縮減",
 		"tr_text": "S2:Instant Reduction",
-		"jp_explain": "別のＰＡやテクニックを\nジャストアタックすると\nＰＰ消費量を１２％軽減。",
+		"jp_explain": "別のＰＡやテクニックを\nジャストアタックすると\nＰＰ消費量を12％軽減。",
 		"tr_explain": "Reduces PP consumption\nby 12% when Just\nAttacking different PAs\nor Techniques."
 	},
 	{
@@ -3083,7 +3083,7 @@
 		"assign": "440",
 		"jp_text": "Ｓ１：活剰増進",
 		"tr_text": "S1:Vigor Enhancement",
-		"jp_explain": "自身のHP回復量が\n４０％上昇する。",
+		"jp_explain": "自身のHP回復量が\n40％上昇する。",
 		"tr_explain": "Boosts self HP Recovery\nby 40%."
 	},
 	{
@@ -3104,14 +3104,14 @@
 		"assign": "443",
 		"jp_text": "Ｓ４：六色の輝秤",
 		"tr_text": "S4:Colored Spectrum",
-		"jp_explain": "花・海・葉・月・雪・影の\nいずれかが発動中\nＰＰ自然回復が減少するが\nＰＰ消費量は低下する。",
+		"jp_explain": "花・海・葉・月・雪・影の\nいずれかが発動中\nＰＰ消費量を軽減するが\nＰＰ自然回復量は低下。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "444",
 		"jp_text": "Ｓ２：走者高揚",
 		"tr_text": "",
-		"jp_explain": "ダッシュ状態時\nＰＰ自然回復量が\n１００％上昇し\nＨＰが５秒ごとに回復。",
+		"jp_explain": "ダッシュ状態時\nＰＰ自然回復量が\n100％上昇し\nＨＰが5秒ごとに回復。",
 		"tr_explain": ""
 	},
 	{
@@ -3125,7 +3125,7 @@
 		"assign": "446",
 		"jp_text": "Ｓ１：賭死の撃",
 		"tr_text": "",
-		"jp_explain": "被ダメージ回数に応じて\n３段階の威力上昇。\n最大段階時の被ダメージで\n自身が戦闘不能になり\n周囲に与ダメージ。",
+		"jp_explain": "被ダメージ回数に応じて\n3段階の威力上昇。\n最大段階時の被ダメージで\n自身が戦闘不能になり\n周囲に与ダメージ。",
 		"tr_explain": ""
 	},
 	{
@@ -3256,9 +3256,9 @@
 	},
 	{
 		"assign": "465",
-		"jp_text": "-",
+		"jp_text": "Ｓ１：打撃増幅",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "特殊能力の追加打撃力\n60毎に、威力1％上昇し\n200以上で更に2％上昇。",
 		"tr_explain": ""
 	},
 	{
@@ -3277,9 +3277,9 @@
 	},
 	{
 		"assign": "468",
-		"jp_text": "-",
+		"jp_text": "Ｓ１：射撃増幅",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "特殊能力の追加射撃力\n60毎に、威力1％上昇し\n200以上で更に2％上昇。",
 		"tr_explain": ""
 	},
 	{
@@ -3298,9 +3298,9 @@
 	},
 	{
 		"assign": "471",
-		"jp_text": "-",
+		"jp_text": "Ｓ１：法撃増幅",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "特殊能力の追加法撃力\n60毎に、威力1％上昇し\n200以上で更に2％上昇。",
 		"tr_explain": ""
 	},
 	{

@@ -4858,6 +4858,13 @@
 		"tr_explain": "A black and purple chest ribbon.\nPSO2es exchange item. Can be\ntraded for prizes."
 	},
 	{
+		"assign": "330776",
+		"jp_text": "迎春のお飾り２０１９",
+		"tr_text": "",
+		"jp_explain": "新年を迎えるためのおめでたいお飾り。\n『ＰＳＯ２ｅｓ』交換ショップで\n景品と交換できる。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "330798",
 		"jp_text": "時還石クロノス",
 		"tr_text": "Time Reversal Stone Chronos",
@@ -4889,7 +4896,7 @@
 		"assign": "330851",
 		"jp_text": "黄色の狩猟石",
 		"tr_text": "Yellow Hunting Stone",
-		"jp_explain": "黄色に輝く結晶石。パートニャーの持つ\nアイテムと交換が可能で、ジグに渡すと\n特定武器の強化素材にできる。",
+		"jp_explain": "黄色に輝く結晶石。交換ショップで\nアイテムとの交換が可能で、ジグに渡すと\n特定武器の強化素材にできる。",
 		"tr_explain": "A crystal that shines yellow. Can be\ntraded with Partnya for items, or Zieg\ncan use it to upgrade certain weapons."
 	},
 	{
@@ -4905,5 +4912,19 @@
 		"tr_text": "Pale Hunting Stone",
 		"jp_explain": "不思議な力を持った\n青色に輝く結晶石。\n交換ショップで景品と交換できる。",
 		"tr_explain": "A crystal that shines blue with a\nmysterious power. Can be exchanged\nfor items at the Recycle Shop."
+	},
+	{
+		"assign": "330854",
+		"jp_text": "希粒石エレボス",
+		"tr_text": "Rare-grain Erebos Stone",
+		"jp_explain": "繰り返す絶望の闇に覆われながらも\n消えない小さな光を放つ不思議な石。\n星を震わす武器へと進化させる素材。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "330855",
+		"jp_text": "創望石アンフィトリテ",
+		"tr_text": "Circular Amphitrite Stone",
+		"jp_explain": "無限の知を宿した光輝く海が\n流体のまま形作っている、不思議な石。\n光の跡を知る武器へと進化させる素材。",
+		"tr_explain": ""
 	}
 ]

@@ -1736,7 +1736,7 @@
 	},
 	{
 		"assign": "equip_dialog_b_06",
-		"jp_text": "『PSO2』でアイテムパック内の状態が変更されました。\n条件に合わなくなったチップの装備は解除されます。",
+		"jp_text": "アイテムパック内の状態が変更されました。\n条件に合わなくなったチップの装備は解除されます。",
 		"tr_text": ""
 	},
 	{
@@ -2275,6 +2275,21 @@
 		"tr_text": "<color=#32cdff><%grind_value></color>"
 	},
 	{
+		"assign": "item_grind_guide_01",
+		"jp_text": "<color=#f0df60>「素材」を選択してください。選択した「素材」は強化実行後に消滅します。選んだ「素材」により獲得強化EXPの量が変化します。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "item_grind_guide_02",
+		"jp_text": "<color=#f0df60>「補助アイテム」を持っている時は、使用するものを選択できます。補助アイテムは、緊急クエストやACスクラッチなどで入手できます。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "item_grind_guide_03",
+		"jp_text": "<color=#f0df60>これ以上強化をするためには潜在能力の解放が必要です。解放したい潜在能力を選択してください。</color>",
+		"tr_text": ""
+	},
+	{
 		"assign": "labo_dialog_t_09",
 		"jp_text": "アイテム強化",
 		"tr_text": "Grind items"
@@ -2351,7 +2366,7 @@
 	},
 	{
 		"assign": "item_grind_info",
-		"jp_text": "補助アイテムがセットされていません。\n補助アイテムを使うと効果が発生します。\n\n【旧式武器】\n成功率アップ、失敗リスクの軽減\n【新世武器】\n大成功率アップ、強化値上限アップ\n属性の変化、属性値アップ",
+		"jp_text": "補助アイテムがセットされていません。\n補助アイテムを使うと効果が発生します。\n\n【旧式武器・ユニット】\n成功率アップ、失敗リスクの軽減\n【新世武器】\n大成功率アップ、強化値上限アップ\n属性の変化、属性値アップ",
 		"tr_text": ""
 	},
 	{
@@ -5191,8 +5206,8 @@
 	},
 	{
 		"assign": "quest_counter_accompany_ng",
-		"jp_text": "同行可能まであと<%h>時間<%m>分",
-		"tr_text": "Cooldown (<%h>h <%m>m left)"
+		"jp_text": "同行可能まで\nあと<%h>時間<%m>分",
+		"tr_text": ""
 	},
 	{
 		"assign": "quest_counter_quest_drive",
@@ -6095,6 +6110,16 @@
 		"tr_text": "{0}<%AC>\n{1} {2} will be used.\nIs that ok?\nOwned <%AC>：{3}\n"
 	},
 	{
+		"assign": "scratch_dialog_t_13",
+		"jp_text": "購入確認",
+		"tr_text": "Buy Item"
+	},
+	{
+		"assign": "scratch_dialog_b_13",
+		"jp_text": "スクラッチチケット{0}枚で\n{1}を{2}回引きます。\nよろしいですか？\n現在の所持スクラッチチケット：{3}枚\n",
+		"tr_text": ""
+	},
+	{
 		"assign": "scratch_button_rappy11",
 		"jp_text": "まとめて引く\n{0}枚 11回",
 		"tr_text": "Scratch 11 times: {0}"
@@ -6163,6 +6188,11 @@
 		"assign": "scratch_bonus_list_status_complete",
 		"jp_text": "達成！",
 		"tr_text": "Accomplished!"
+	},
+	{
+		"assign": "window_help_LM31",
+		"jp_text": "wh_46_01,\n対応するスクラッチチケットを消費することで\n該当のスクラッチを引くことができます。\n\nスクラッチチケットは該当のスクラッチのみ有効となります。,",
+		"tr_text": ""
 	},
 	{
 		"assign": "quest_load",
@@ -9246,8 +9276,8 @@
 	},
 	{
 		"assign": "menu_charainfo_linked_exp",
-		"jp_text": "<%exp>（<%max_exp>）",
-		"tr_text": "<%exp>/<%max_exp>"
+		"jp_text": "<%exp><size=18>（<%max_exp>）</size>",
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_charainfo_label_linked_exp",
@@ -9256,8 +9286,8 @@
 	},
 	{
 		"assign": "menu_charainfo_label_linked_exp_hero",
-		"jp_text": "ヒーロー連動経験値（上限）",
-		"tr_text": "Hero Linked Max EXP"
+		"jp_text": "Hr連動経験値（上限）",
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_charainfo_label_max_exp",
@@ -10443,6 +10473,61 @@
 		"assign": "friend_arks_search_error_b",
 		"jp_text": "空欄では検索することができません。\n検索する内容を入力してください。",
 		"tr_text": "You cannot leave the field blank.\nPlease enter information to search for."
+	},
+	{
+		"assign": "friend_charamake_dl",
+		"jp_text": "フレンドコスチュームＤＬ",
+		"tr_text": ""
+	},
+	{
+		"assign": "friend_charamake_dl_timestamp",
+		"jp_text": "最終取得：<%year>/<%month>/<%day> <%hour>:<%minute>",
+		"tr_text": ""
+	},
+	{
+		"assign": "friend_charamake_dl_timestamp_blank",
+		"jp_text": "最終取得：未取得",
+		"tr_text": ""
+	},
+	{
+		"assign": "friend_charamake_dl_dialog_t",
+		"jp_text": "フレンドコスチュームダウンロード確認",
+		"tr_text": ""
+	},
+	{
+		"assign": "friend_charamake_dl_dialog_b",
+		"jp_text": "フレンドが設定しているコスチュームデータを\nダウンロードします。\n\n※ダウンロード容量\n最大50MB\n※ダウンロード目安時間\n約2分\n\n※通信環境によって、ダウンロードにかかる時間が\n　異なりますのでご注意ください。\n※ゲームデータのダウンロードは\n　通信環境のいい場所で行ってください。",
+		"tr_text": ""
+	},
+	{
+		"assign": "friend_charamake_dl_nofriend_dialog_t",
+		"jp_text": "フレンドコスチュームダウンロード確認",
+		"tr_text": ""
+	},
+	{
+		"assign": "friend_charamake_dl_nofriend_dialog_b",
+		"jp_text": "フレンドがいないため、ダウンロードできません。",
+		"tr_text": ""
+	},
+	{
+		"assign": "friend_charamake_dl_retry_dialog_t",
+		"jp_text": "通信エラー",
+		"tr_text": ""
+	},
+	{
+		"assign": "friend_charamake_dl_retry_dialog_b",
+		"jp_text": "データの通信に失敗しました。\nリトライしますか？",
+		"tr_text": ""
+	},
+	{
+		"assign": "friend_charamake_dl_finished_dialog_t",
+		"jp_text": "フレンドコスチュームダウンロード確認",
+		"tr_text": ""
+	},
+	{
+		"assign": "friend_charamake_dl_finished_dialog_b",
+		"jp_text": "フレンドのコスチュームデータダウンロードが\n完了しました。",
+		"tr_text": ""
 	},
 	{
 		"assign": "arkscard_edit",
@@ -14530,6 +14615,26 @@
 		"tr_text": "<color=white>Group\t   / <%parameter></color>"
 	},
 	{
+		"assign": "ItemDetail_Camouflage_Weapon",
+		"jp_text": "<%parameter>系武器",
+		"tr_text": ""
+	},
+	{
+		"assign": "ItemDetail_Camouflage_TextOther",
+		"jp_text": "以外が対象",
+		"tr_text": ""
+	},
+	{
+		"assign": "ItemDetail_Camouflage_WeaponType",
+		"jp_text": "武器種",
+		"tr_text": ""
+	},
+	{
+		"assign": "ItemDetail_Camouflage_Weapon_All",
+		"jp_text": "すべての武器",
+		"tr_text": ""
+	},
+	{
 		"assign": "ItemDetail_Booster",
 		"jp_text": "<color=white>効果時間 / <%parameter>分間</color>",
 		"tr_text": "<color=white>Effect   / <%parameter>(min)</color>"
@@ -14872,7 +14977,7 @@
 	{
 		"assign": "raid_scratch_dialog_t_02",
 		"jp_text": "購入確認",
-		"tr_text": "Buy Item"
+		"tr_text": ""
 	},
 	{
 		"assign": "raid_scratch_dialog_b_02",
@@ -15511,8 +15616,8 @@
 	},
 	{
 		"assign": "fld_productionset_obi",
-		"jp_text": "チップ発動演出",
-		"tr_text": "Activation Effect"
+		"jp_text": "カットイン演出",
+		"tr_text": ""
 	},
 	{
 		"assign": "fld_productionset_btn_ON",
@@ -15561,8 +15666,8 @@
 	},
 	{
 		"assign": "btl_wep_obi",
-		"jp_text": "チップ発動演出",
-		"tr_text": "Activation Effect"
+		"jp_text": "カットイン演出",
+		"tr_text": ""
 	},
 	{
 		"assign": "btl_wep_btn_ON",
@@ -16265,6 +16370,16 @@
 		"tr_text": "Bond Lv.{0}"
 	},
 	{
+		"assign": "SideSt_Bonds_LvMAX",
+		"jp_text": "MAX",
+		"tr_text": "MAX"
+	},
+	{
+		"assign": "SideSt_Bonds_Label",
+		"jp_text": "絆ゲージ",
+		"tr_text": ""
+	},
+	{
 		"assign": "SideSt_Browse_Story",
 		"jp_text": "ストーリーを振り返る",
 		"tr_text": "Browse Side Story"
@@ -16293,6 +16408,16 @@
 		"assign": "SideSt_Select_Quest_Title",
 		"jp_text": "外伝クエスト選択",
 		"tr_text": "Gaiden Quest Select"
+	},
+	{
+		"assign": "SideSt_Select_No_Quest",
+		"jp_text": "クエストはありません",
+		"tr_text": ""
+	},
+	{
+		"assign": "sidestory_no_story",
+		"jp_text": "ストーリーはありません",
+		"tr_text": ""
 	},
 	{
 		"assign": "SideSt_Detail_Title",
@@ -16450,6 +16575,11 @@
 		"tr_text": "Voice will\nbe unlocked at Bond Lv.<%parameter>"
 	},
 	{
+		"assign": "sidestory_voice_play_locked_info_LvMAX",
+		"jp_text": "このボイスは\n絆レベルがLv.MAXになると解放されます。",
+		"tr_text": ""
+	},
+	{
 		"assign": "sidestory_voice_playbtn_greeting",
 		"jp_text": "外伝追加時",
 		"tr_text": "Greeting"
@@ -16513,6 +16643,31 @@
 		"assign": "sidestory_voice_playbtn_evoandlvmax",
 		"jp_text": "強化＆絆レベル最大時",
 		"tr_text": "Bond and Level Up"
+	},
+	{
+		"assign": "sidestory_voice_playbtn_greeting_noquest",
+		"jp_text": "チップ入手時",
+		"tr_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_word1",
+		"jp_text": "セリフ１",
+		"tr_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_word2",
+		"jp_text": "セリフ２",
+		"tr_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_word3",
+		"jp_text": "セリフ３",
+		"tr_text": ""
+	},
+	{
+		"assign": "sidestory_voice_playbtn_word4",
+		"jp_text": "セリフ４",
+		"tr_text": ""
 	},
 	{
 		"assign": "sidestory_story_replay_unknownsotry",
@@ -16870,6 +17025,11 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "lookback_special_chapter_3",
+		"jp_text": "あああああああああああああああ",
+		"tr_text": ""
+	},
+	{
 		"assign": "lookback_maintitle_4",
 		"jp_text": "ストーリー　オブ　アーレス",
 		"tr_text": "Story of Ares"
@@ -16905,6 +17065,11 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "lookback_season3_chapter_3",
+		"jp_text": "３章　　ふたりの歌",
+		"tr_text": ""
+	},
+	{
 		"assign": "lookback_maintitle_6",
 		"jp_text": "クラン オブ ネメシス＆スレイヴ",
 		"tr_text": "Clan of Nemesis & Slave"
@@ -16922,6 +17087,21 @@
 	{
 		"assign": "lookback_series2_chapter_2",
 		"jp_text": "第２章　争いは連鎖し運命は廻る",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_maintitle_7",
+		"jp_text": "ハーモニー　オブ　オービット",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_maintext_7",
+		"jp_text": "オービットシリーズのウェポノイド達の\n物語を振り返ります。",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_series3_chapter_1",
+		"jp_text": "第１章　結成☆オービット聖歌隊",
 		"tr_text": ""
 	},
 	{
@@ -19112,7 +19292,7 @@
 	{
 		"assign": "chip_details_max",
 		"jp_text": "MAX",
-		"tr_text": "MAX"
+		"tr_text": ""
 	},
 	{
 		"assign": "chip_details_none",
@@ -20226,8 +20406,8 @@
 	},
 	{
 		"assign": "optioncommon_chip_productionset_title",
-		"jp_text": "チップ発動演出",
-		"tr_text": "Chip Activation"
+		"jp_text": "カットイン演出",
+		"tr_text": ""
 	},
 	{
 		"assign": "optioncommon_view_damageset_title",
@@ -20436,8 +20616,8 @@
 	},
 	{
 		"assign": "gamma_weapon_grind_dialog_great_success",
-		"jp_text": "強化に<color=Lime>大成功</color>しました。",
-		"tr_text": "Enhancement <color=Lime>Great Success</color>."
+		"jp_text": "強化に<color=#ff007f>大成功</color>しました。",
+		"tr_text": ""
 	},
 	{
 		"assign": "gamma_weapon_grind_dialog_max_message",
@@ -20533,6 +20713,256 @@
 		"assign": "owner_registration_success",
 		"jp_text": "<color=yellow>オーナー登録が完了</color>しました。",
 		"tr_text": "<color=yellow>Owner Registration<color> complete."
+	},
+	{
+		"assign": "fellow_list_sort_dialog_title",
+		"jp_text": "並び替え種別",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_dialog_sort_rarity",
+		"jp_text": "チップレアリティ",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_dialog_sort_level",
+		"jp_text": "チップレベル",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_dialog_sort_element",
+		"jp_text": "チップ属性",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_dialog_sort_login",
+		"jp_text": "ログイン日時",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_dialog_sort_hunter",
+		"jp_text": "ハンター",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_dialog_sort_fighter",
+		"jp_text": "ファイター",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_dialog_sort_ranger",
+		"jp_text": "レンジャー",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_dialog_sort_gunner",
+		"jp_text": "ガンナー",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_dialog_sort_force",
+		"jp_text": "フォース",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_dialog_sort_techter",
+		"jp_text": "テクター",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_dialog_sort_braver",
+		"jp_text": "ブレイバー",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_dialog_sort_bouncer",
+		"jp_text": "バウンサー",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_dialog_sort_atk",
+		"jp_text": "アシストスキル\n攻撃力上昇",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_dialog_sort_hp",
+		"jp_text": "アシストスキル\nHP回復",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_dialog_sort_cp",
+		"jp_text": "アシストスキル\nCP回復",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_order_title_rarity",
+		"jp_text": "レアリティ",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_order_title_level",
+		"jp_text": "レベル",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_order_title_element",
+		"jp_text": "属性",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_order_title_login",
+		"jp_text": "ログイン日時",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_order_title_hunter",
+		"jp_text": "ハンター",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_order_title_fighter",
+		"jp_text": "ファイター",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_order_title_ranger",
+		"jp_text": "レンジャー",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_order_title_gunner",
+		"jp_text": "ガンナー",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_order_title_force",
+		"jp_text": "フォース",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_order_title_techter",
+		"jp_text": "テクター",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_order_title_braver",
+		"jp_text": "ブレイバー",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_order_title_bouncer",
+		"jp_text": "バウンサー",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_order_title_atk",
+		"jp_text": "AS 攻撃上昇",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_order_title_hp",
+		"jp_text": "AS HP回復",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_order_title_cp",
+		"jp_text": "AS CP回復",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_filter_limit_effect_title",
+		"jp_text": "限定効果フィルター",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_sort_order_title",
+		"jp_text": "並び替え",
+		"tr_text": ""
+	},
+	{
+		"assign": "fellow_list_blank_guide_message",
+		"jp_text": "条件に一致するプレイヤーが見つかりませんでした",
+		"tr_text": ""
+	},
+	{
+		"assign": "raiddps_guid_top",
+		"jp_text": "<color=yellow>緊急イベントの進行状況画面です。「遊び方」バナーから詳しい遊び方を確認できます。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "raiddps_guid_ranking",
+		"jp_text": "<color=yellow>緊急イベントの進行状況画面です。「遊び方」バナーから詳しい遊び方を確認できます。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "raiddps_banner_how_to_play",
+		"jp_text": "遊び方",
+		"tr_text": ""
+	},
+	{
+		"assign": "raid_dps_my_ranking",
+		"jp_text": "あなたの順位",
+		"tr_text": ""
+	},
+	{
+		"assign": "raid_dps_ranking_button",
+		"jp_text": "ランキング",
+		"tr_text": ""
+	},
+	{
+		"assign": "raid_dps_my_best",
+		"jp_text": "自己ベスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "raid_dps_not_joined",
+		"jp_text": "未参加",
+		"tr_text": ""
+	},
+	{
+		"assign": "raid_dps_title_ranking_top",
+		"jp_text": "ランキングTOP100",
+		"tr_text": ""
+	},
+	{
+		"assign": "raid_dps_title_update_time",
+		"jp_text": "※30分ごとに更新",
+		"tr_text": ""
+	},
+	{
+		"assign": "raid_dps_reward_info",
+		"jp_text": "報酬情報",
+		"tr_text": ""
+	},
+	{
+		"assign": "raid_dps_ranking_unit",
+		"jp_text": "{0}位",
+		"tr_text": ""
+	},
+	{
+		"assign": "raid_dps_ranking_top_button",
+		"jp_text": "1位",
+		"tr_text": ""
+	},
+	{
+		"assign": "raid_dps_ranking_my_rank",
+		"jp_text": "自分の順位",
+		"tr_text": ""
+	},
+	{
+		"assign": "raid_dps_return_button",
+		"jp_text": "戻る",
+		"tr_text": ""
+	},
+	{
+		"assign": "raid_event_current_button",
+		"jp_text": "開催イベント",
+		"tr_text": ""
+	},
+	{
+		"assign": "raid_event_previous_button",
+		"jp_text": "過去イベント",
+		"tr_text": ""
 	},
 	{
 		"assign": "dialog_overflow_dualblade_to_acceptbox_title",

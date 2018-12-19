@@ -1360,8 +1360,15 @@
 	{
 		"assign": "1100357",
 		"jp_text": "アトララッダ",
-		"tr_text": "Atra Radda",
+		"tr_text": "Atlas Radda",
 		"jp_explain": "過去に戦場となった地域から発掘された\n双機銃。研究者の努力の末、蘇った。\n弧を描いた意匠は繊細な美しさを持つ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100358",
+		"jp_text": "アトララッダ・イクス",
+		"tr_text": "Atlas Radda Ex",
+		"jp_explain": "過去に戦場となった地域から発掘された\n双機銃。眠りより目覚めた碧き宝石は\n秘めた凄まじき力を解き放つ。",
 		"tr_explain": ""
 	},
 	{
@@ -1414,6 +1421,34 @@
 		"tr_explain": "A pair of machineguns born from the\n[Profound Darkness]. Its said that it\nbecomes a demon of destruction."
 	},
 	{
+		"assign": "1100375",
+		"jp_text": "オフスティアレイン-NT",
+		"tr_text": "Austere Rain-NT",
+		"jp_explain": "負の力を識り、制することで転化した\n浄化の双機銃。もたらされた屈しない\n精神は、難境を乗り越える力となる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100376",
+		"jp_text": "深遠弾エヘクシオン",
+		"tr_text": "Profound Execuxion",
+		"jp_explain": "終わりなき物語を辿る者の絶望により\n生み出された双機銃。深い悲しみの闇を\n宿した弾は、一切の希望を拒絶する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100377",
+		"jp_text": "星震弾エヘクシオン",
+		"tr_text": "Celestial Execuxion",
+		"jp_explain": "時を遡る者の世界を想う心によって\n覚醒した双機銃。純粋なる願いを宿した\n星の弾は、輝きをまとい闇を撃ち抜く。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100378",
+		"jp_text": "光跡弾エヘクシオン",
+		"tr_text": "Lightstream Execuxion",
+		"jp_explain": "時を遡りし者の結んだ絆が創り出した\n星を繋ぐ双機銃。星の輝きを宿した弾は\n闇も負も希望へと変え、未来を築く。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1100384",
 		"jp_text": "シャライラパシュテ",
 		"tr_text": "Chalyra Paxte",
@@ -1454,5 +1489,12 @@
 		"tr_text": "Ceres Zeostega Zara",
 		"jp_explain": "太古の時代を思わせる双機銃。\n長き歳月から目覚めた時、溢れる力は\n弾丸へと変わり相対する者を撃ち貫く。",
 		"tr_explain": ""
+	},
+	{
+		"assign": "1100401",
+		"jp_text": "ヤスミノコフ８０００Ｃ-NT",
+		"tr_text": "Yasminkov 8000C-NT",
+		"jp_explain": "一風変わったヤスミノコフ型双機銃。\nヘリカルマガジンを採用することで\nコンパクトながら屈指の装填数を誇る。",
+		"tr_explain": "An unusual shaped pair of guns. By\nadopting a helical magazine, it offers\ninstant reloading of ammo in seconds."
 	}
 ]

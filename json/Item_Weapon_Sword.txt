@@ -1092,6 +1092,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "110299",
+		"jp_text": "アレティアラーミナ",
+		"tr_text": "",
+		"jp_explain": "古より伝わる陽光の大剣。\n聖なる光に授かりし神聖な力で\n生きし者全てを救い、静謐を紡ぐ。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "110300",
 		"jp_text": "アストラセパル",
 		"tr_text": "Astra Separ",
@@ -1206,8 +1213,15 @@
 	{
 		"assign": "110342",
 		"jp_text": "アトラファーダ",
-		"tr_text": "Atra Farder",
+		"tr_text": "Atlas Farder",
 		"jp_explain": "過去に戦場となった地域から発掘された\n大剣。技術者の研究が進んだことで\n破損前の状態まで修復された。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "110343",
+		"jp_text": "アトラファーダ・イクス",
+		"tr_text": "Atlas Farder Ex",
+		"jp_explain": "過去に戦場となった地域から発掘された\n大剣。破損し失われた輝きはフォトンに\n感応し、真なる輝きを取り戻した。",
 		"tr_explain": ""
 	},
 	{
@@ -1309,6 +1323,27 @@
 		"tr_explain": "A sword based on a traditional\ndesign. The blade glows red-hot, like\na shining work of art."
 	},
 	{
+		"assign": "110388",
+		"jp_text": "深遠剣ディメシオン",
+		"tr_text": "Profound Dimenxion",
+		"jp_explain": "終わりなき物語を辿る者の絶望により\n生み出された大剣。一切の光すら届かぬ\n深く重い闇の負の力を宿す。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "110389",
+		"jp_text": "星震剣ディメシオン",
+		"tr_text": "Celestial Dimenxion",
+		"jp_explain": "時を遡る者の世界を想う心によって\n覚醒した大剣。純然たる願いの剣閃は\n負を切り裂き、世界に輝きをもたらす。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "110390",
+		"jp_text": "光跡剣ディメシオン",
+		"tr_text": "Lightstream Dimenxion",
+		"jp_explain": "時を遡りし者の結んだ絆が創り出した\n星を繋ぐ大剣。星のように輝く想いが\n力となり、未来への道を斬り開く。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "110394",
 		"jp_text": "紅葉姫-NT",
 		"tr_text": "Momijihime-NT",
@@ -1327,6 +1362,13 @@
 		"jp_text": "インヴェイドカリバー-NT",
 		"tr_text": "Invade Calibur-NT",
 		"jp_explain": "【深遠なる闇】より生まれし負の大剣。\n装者は比類なき力を手にするが\n断末魔と破壊だけが悦びとなる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "110400",
+		"jp_text": "オフスティアカリバー-NT",
+		"tr_text": "Austere Calibur-NT",
+		"jp_explain": "負の力を識り、制することで転化した\n浄化の大剣。もたらされた強大な力は\n弱きを助け、悪しき者を討つ。",
 		"tr_explain": ""
 	},
 	{
@@ -1370,5 +1412,12 @@
 		"tr_text": "Ares Sword-NT",
 		"jp_explain": "一角獣の幻獣の力を宿した大剣。装者に\nフォトンブラストの効果で貫く力を\n与え、敵を即座に切り裂く。",
 		"tr_explain": "A sword harboring the power of a\nPhoton Blast. It slices through the\nenemy with piercing strength."
+	},
+	{
+		"assign": "110429",
+		"jp_text": "スペース・ツナ-NT",
+		"tr_text": "Space Tuna-NT",
+		"jp_explain": "海洋生物の模型を作っていたはずが\nどこで間違ったのか大剣になった。",
+		"tr_explain": ""
 	}
 ]
