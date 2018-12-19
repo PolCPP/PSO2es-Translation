@@ -22893,35 +22893,560 @@
 		"assign": "2904499137",
 		"jp_text": "零距離烈射砲 Lv.1",
 		"tr_text": "",
-		"jp_explain": "威力が6％上昇。\nゼロディスタンス強化と\n同時にリキャスト発生。\nダイブロール回避成功時\nリキャスト時間を短縮。",
+		"jp_explain": "威力6％上昇。\n強化ゼロディスタンス\n使用時リキャストが発生。\nダイブロール回避成功で\nリキャスト時間短縮。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2904499136",
 		"jp_text": "零距離烈射砲 Lv.2",
 		"tr_text": "",
-		"jp_explain": "威力が8％上昇。\nゼロディスタンス強化と\n同時にリキャスト発生。\nダイブロール回避成功時\nリキャスト時間を短縮。",
+		"jp_explain": "威力8％上昇。\n強化ゼロディスタンス\n使用時リキャストが発生。\nダイブロール回避成功で\nリキャスト時間短縮。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2904499139",
 		"jp_text": "零距離烈射砲 Lv.3",
 		"tr_text": "",
-		"jp_explain": "威力が10％上昇。\nゼロディスタンス強化と\n同時にリキャスト発生。\nダイブロール回避成功時\nリキャスト時間を短縮。",
+		"jp_explain": "威力10％上昇。\n強化ゼロディスタンス\n使用時リキャストが発生。\nダイブロール回避成功で\nリキャスト時間短縮。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2904499138",
 		"jp_text": "零距離烈射砲 Lv.4",
 		"tr_text": "",
-		"jp_explain": "威力が12％上昇。\nゼロディスタンス強化と\n同時にリキャスト発生。\nダイブロール回避成功時\nリキャスト時間を短縮。",
+		"jp_explain": "威力12％上昇。\n強化ゼロディスタンス\n使用時リキャストが発生。\nダイブロール回避成功で\nリキャスト時間短縮。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2904499141",
 		"jp_text": "零距離烈射砲 Lv.5",
 		"tr_text": "",
-		"jp_explain": "威力が14％上昇。\nゼロディスタンス強化と\n同時にリキャスト発生。\nダイブロール回避成功時\nリキャスト時間を短縮。",
+		"jp_explain": "威力14％上昇。\n強化ゼロディスタンス\n使用時リキャストが発生。\nダイブロール回避成功で\nリキャスト時間短縮。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2109111292",
+		"jp_text": "闇恨の再臨 Lv.1",
+		"tr_text": "",
+		"jp_explain": "威力が8％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2109111293",
+		"jp_text": "闇恨の再臨 Lv.2",
+		"tr_text": "",
+		"jp_explain": "威力が9％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2109111294",
+		"jp_text": "闇恨の再臨 Lv.3",
+		"tr_text": "",
+		"jp_explain": "威力が10％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2109111295",
+		"jp_text": "闇恨の再臨 Lv.4",
+		"tr_text": "",
+		"jp_explain": "威力が11％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2109111280",
+		"jp_text": "闇恨の再臨 Lv.5",
+		"tr_text": "",
+		"jp_explain": "威力が12％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2108235819",
+		"jp_text": "星絆の想起 Lv.1",
+		"tr_text": "",
+		"jp_explain": "威力が8％上昇。\nＰＰが一定以下になった時\nＰＰが30％回復する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2108235816",
+		"jp_text": "星絆の想起 Lv.2",
+		"tr_text": "",
+		"jp_explain": "威力が9％上昇。\nＰＰが一定以下になった時\nＰＰが30％回復する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2108235817",
+		"jp_text": "星絆の想起 Lv.3",
+		"tr_text": "",
+		"jp_explain": "威力が10％上昇。\nＰＰが一定以下になった時\nＰＰが30％回復する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2108235814",
+		"jp_text": "星絆の想起 Lv.4",
+		"tr_text": "",
+		"jp_explain": "威力が11％上昇。\nＰＰが一定以下になった時\nＰＰが30％回復する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2108235815",
+		"jp_text": "星絆の想起 Lv.5",
+		"tr_text": "",
+		"jp_explain": "威力が12％上昇。\nＰＰが一定以下になった時\nＰＰが30％回復する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2108231770",
+		"jp_text": "流光の蘇回 Lv.1",
+		"tr_text": "",
+		"jp_explain": "威力が8％上昇。\nＰＰが一定以下になった時\nＰＰが全回復し、一定時間\n威力が更に3％上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2108231769",
+		"jp_text": "流光の蘇回 Lv.2",
+		"tr_text": "",
+		"jp_explain": "威力が9％上昇。\nＰＰが一定以下になった時\nＰＰが全回復し、一定時間\n威力が更に3％上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2108231768",
+		"jp_text": "流光の蘇回 Lv.3",
+		"tr_text": "",
+		"jp_explain": "威力が10％上昇。\nＰＰが一定以下になった時\nＰＰが全回復し、一定時間\n威力が更に3％上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2108231767",
+		"jp_text": "流光の蘇回 Lv.4",
+		"tr_text": "",
+		"jp_explain": "威力が11％上昇。\nＰＰが一定以下になった時\nＰＰが全回復し、一定時間\n威力が更に3％上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2108231766",
+		"jp_text": "流光の蘇回 Lv.5",
+		"tr_text": "",
+		"jp_explain": "威力が12％上昇。\nＰＰが一定以下になった時\nＰＰが全回復し、一定時間\n威力が更に3％上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1619020688",
+		"jp_text": "闇恨の巡歌 Lv.1",
+		"tr_text": "",
+		"jp_explain": "威力が3％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1619020691",
+		"jp_text": "闇恨の巡歌 Lv.2",
+		"tr_text": "",
+		"jp_explain": "威力が4％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1619020690",
+		"jp_text": "闇恨の巡歌 Lv.3",
+		"tr_text": "",
+		"jp_explain": "威力が5％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1619020717",
+		"jp_text": "闇恨の巡歌 Lv.4",
+		"tr_text": "",
+		"jp_explain": "威力が6％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1619020716",
+		"jp_text": "闇恨の巡歌 Lv.5",
+		"tr_text": "",
+		"jp_explain": "威力が7％上昇。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1767178210",
+		"jp_text": "星絆の巡歌 Lv.1",
+		"tr_text": "",
+		"jp_explain": "威力が3％上昇。\nＰＰが一定以下になった時\nＰＰが30％回復する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1767178209",
+		"jp_text": "星絆の巡歌 Lv.2",
+		"tr_text": "",
+		"jp_explain": "威力が4％上昇。\nＰＰが一定以下になった時\nＰＰが30％回復する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1767178208",
+		"jp_text": "星絆の巡歌 Lv.3",
+		"tr_text": "",
+		"jp_explain": "威力が5％上昇。\nＰＰが一定以下になった時\nＰＰが30％回復する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1767178239",
+		"jp_text": "星絆の巡歌 Lv.4",
+		"tr_text": "",
+		"jp_explain": "威力が6％上昇。\nＰＰが一定以下になった時\nＰＰが30％回復する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1767178238",
+		"jp_text": "星絆の巡歌 Lv.5",
+		"tr_text": "",
+		"jp_explain": "威力が7％上昇。\nＰＰが一定以下になった時\nＰＰが30％回復する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "642344034",
+		"jp_text": "流光の巡歌 Lv.1",
+		"tr_text": "",
+		"jp_explain": "威力が3％上昇。\nＰＰが一定以下になった時\nＰＰが全回復し、一定時間\n威力が更に3％上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "642344045",
+		"jp_text": "流光の巡歌 Lv.2",
+		"tr_text": "",
+		"jp_explain": "威力が4％上昇。\nＰＰが一定以下になった時\nＰＰが全回復し、一定時間\n威力が更に3％上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "642344044",
+		"jp_text": "流光の巡歌 Lv.3",
+		"tr_text": "",
+		"jp_explain": "威力が5％上昇。\nＰＰが一定以下になった時\nＰＰが全回復し、一定時間\n威力が更に3％上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "642344047",
+		"jp_text": "流光の巡歌 Lv.4",
+		"tr_text": "",
+		"jp_explain": "威力が6％上昇。\nＰＰが一定以下になった時\nＰＰが全回復し、一定時間\n威力が更に3％上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "642344046",
+		"jp_text": "流光の巡歌 Lv.5",
+		"tr_text": "",
+		"jp_explain": "威力が7％上昇。\nＰＰが一定以下になった時\nＰＰが全回復し、一定時間\n威力が更に3％上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2340714157",
+		"jp_text": "未設定潜在能力 Lv.1",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2340714156",
+		"jp_text": "未設定潜在能力 Lv.2",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2340712787",
+		"jp_text": "未設定潜在能力 Lv.3",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2340712786",
+		"jp_text": "未設定潜在能力 Lv.4",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2340712785",
+		"jp_text": "未設定潜在能力 Lv.5",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2559342233",
+		"jp_text": "不滅の戦魂 Lv.1",
+		"tr_text": "",
+		"jp_explain": "威力8％上昇。一度だけ\n致命傷を受けても耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2559342232",
+		"jp_text": "不滅の戦魂 Lv.2",
+		"tr_text": "",
+		"jp_explain": "威力9％上昇。一度だけ\n致命傷を受けても耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2559342235",
+		"jp_text": "不滅の戦魂 Lv.3",
+		"tr_text": "",
+		"jp_explain": "威力10％上昇。一度だけ\n致命傷を受けても耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2559342234",
+		"jp_text": "不滅の戦魂 Lv.4",
+		"tr_text": "",
+		"jp_explain": "威力11％上昇。一度だけ\n致命傷を受けても耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2559342237",
+		"jp_text": "不滅の戦魂 Lv.5",
+		"tr_text": "",
+		"jp_explain": "威力12％上昇。一度だけ\n致命傷を受けても耐え\n発動後徐々にＨＰ回復。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4242653600",
+		"jp_text": "未設定潜在能力 Lv.1",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4242653601",
+		"jp_text": "未設定潜在能力 Lv.2",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4242653602",
+		"jp_text": "未設定潜在能力 Lv.3",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4242653603",
+		"jp_text": "未設定潜在能力 Lv.4",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "4242653604",
+		"jp_text": "未設定潜在能力 Lv.5",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1505947022",
+		"jp_text": "未設定潜在能力 Lv.1",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1505947021",
+		"jp_text": "未設定潜在能力 Lv.2",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1505947020",
+		"jp_text": "未設定潜在能力 Lv.3",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1505947019",
+		"jp_text": "未設定潜在能力 Lv.4",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1505947018",
+		"jp_text": "未設定潜在能力 Lv.5",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3506736392",
+		"jp_text": "闇き聖盾 Lv.1",
+		"tr_text": "",
+		"jp_explain": "威力が7％上昇。\n一定間隔で被ダメージを\n軽減するバリアを展開。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3506736395",
+		"jp_text": "闇き聖盾 Lv.2",
+		"tr_text": "",
+		"jp_explain": "威力が8％上昇。\n一定間隔で被ダメージを\n軽減するバリアを展開。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3506736394",
+		"jp_text": "闇き聖盾 Lv.3",
+		"tr_text": "",
+		"jp_explain": "威力が9％上昇。\n一定間隔で被ダメージを\n軽減するバリアを展開。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3506736389",
+		"jp_text": "闇き聖盾 Lv.4",
+		"tr_text": "",
+		"jp_explain": "威力が10％上昇。\n一定間隔で被ダメージを\n軽減するバリアを展開。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3506736388",
+		"jp_text": "闇き聖盾 Lv.5",
+		"tr_text": "",
+		"jp_explain": "威力が11％上昇。\n一定間隔で被ダメージを\n軽減するバリアを展開。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3506762427",
+		"jp_text": "闇き惑盾 Lv.1",
+		"tr_text": "",
+		"jp_explain": "威力が7％上昇。\n一定間隔で吹き飛ばしを\n無効化するバリアを展開。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3506762424",
+		"jp_text": "闇き惑盾 Lv.2",
+		"tr_text": "",
+		"jp_explain": "威力が8％上昇。\n一定間隔で吹き飛ばしを\n無効化するバリアを展開。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3506762425",
+		"jp_text": "闇き惑盾 Lv.3",
+		"tr_text": "",
+		"jp_explain": "威力が9％上昇。\n一定間隔で吹き飛ばしを\n無効化するバリアを展開。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3506762422",
+		"jp_text": "闇き惑盾 Lv.4",
+		"tr_text": "",
+		"jp_explain": "威力が10％上昇。\n一定間隔で吹き飛ばしを\n無効化するバリアを展開。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3506762423",
+		"jp_text": "闇き惑盾 Lv.5",
+		"tr_text": "",
+		"jp_explain": "威力が11％上昇。\n一定間隔で吹き飛ばしを\n無効化するバリアを展開。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3513976426",
+		"jp_text": "闇き幻精 Lv.1",
+		"tr_text": "",
+		"jp_explain": "フォトンブラストゲージに\n応じて威力が上昇する。\nフォトンブラスト発動時\n幻獣毎に異なる効果発生。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3513976425",
+		"jp_text": "闇き幻精 Lv.2",
+		"tr_text": "",
+		"jp_explain": "フォトンブラストゲージに\n応じて威力が上昇する。\nフォトンブラスト発動時\n幻獣毎に異なる効果発生。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3513976424",
+		"jp_text": "闇き幻精 Lv.3",
+		"tr_text": "",
+		"jp_explain": "フォトンブラストゲージに\n応じて威力が上昇する。\nフォトンブラスト発動時\n幻獣毎に異なる効果発生。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3513976423",
+		"jp_text": "闇き幻精 Lv.4",
+		"tr_text": "",
+		"jp_explain": "フォトンブラストゲージに\n応じて威力が上昇する。\nフォトンブラスト発動時\n幻獣毎に異なる効果発生。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3513976422",
+		"jp_text": "闇き幻精 Lv.5",
+		"tr_text": "",
+		"jp_explain": "フォトンブラストゲージに\n応じて威力が上昇する。\nフォトンブラスト発動時\n幻獣毎に異なる効果発生。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "104017377",
+		"jp_text": "金煌騎士の祝福 Lv.1",
+		"tr_text": "",
+		"jp_explain": "威力が13％上昇。ＰＴの\nＨＰを一定間隔で回復し\n攻撃力を上昇させる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "104017390",
+		"jp_text": "金煌騎士の祝福 Lv.2",
+		"tr_text": "",
+		"jp_explain": "威力が15％上昇。ＰＴの\nＨＰを一定間隔で回復し\n攻撃力を上昇させる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "104017391",
+		"jp_text": "金煌騎士の祝福 Lv.3",
+		"tr_text": "",
+		"jp_explain": "威力が17％上昇。ＰＴの\nＨＰを一定間隔で回復し\n攻撃力を上昇させる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "104017388",
+		"jp_text": "金煌騎士の祝福 Lv.4",
+		"tr_text": "",
+		"jp_explain": "威力が19％上昇。ＰＴの\nＨＰを一定間隔で回復し\n攻撃力を上昇させる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "104017389",
+		"jp_text": "金煌騎士の祝福 Lv.5",
+		"tr_text": "",
+		"jp_explain": "威力が21％上昇。ＰＴの\nＨＰを一定間隔で回復し\n攻撃力を上昇させる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "104162480",
+		"jp_text": "未設定潜在能力 Lv.1",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "104162495",
+		"jp_text": "未設定潜在能力 Lv.2",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "104162494",
+		"jp_text": "未設定潜在能力 Lv.3",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "104162493",
+		"jp_text": "未設定潜在能力 Lv.4",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
+		"tr_explain": ""
+	},
+	{
+		"assign": "104162492",
+		"jp_text": "未設定潜在能力 Lv.5",
+		"tr_text": "",
+		"jp_explain": "未設定潜在能力",
 		"tr_explain": ""
 	},
 	{
@@ -23167,6 +23692,13 @@
 		"jp_text": "ジェントル",
 		"tr_text": "",
 		"jp_explain": "アイテムドロップ率上昇と\n性格「なかま思い」と\n「こうかつ」の効果",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2389963012",
+		"jp_text": "ロック",
+		"tr_text": "",
+		"jp_explain": "アイテムドロップ率上昇と\n性格「あばれんぼう」と\n「とうそうしん」の効果",
 		"tr_explain": ""
 	},
 	{

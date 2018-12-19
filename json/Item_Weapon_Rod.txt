@@ -1388,8 +1388,15 @@
 	{
 		"assign": "1110365",
 		"jp_text": "アトラゼムス",
-		"tr_text": "Atra Zemus",
+		"tr_text": "Atlas Zemus",
 		"jp_explain": "過去に戦場となった地域から発掘された\n長杖。修復士の手により、本来の力と\n美しい輝きを取り戻した。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110366",
+		"jp_text": "アトラゼムス・イクス",
+		"tr_text": "Atlas Zemus Ex",
+		"jp_explain": "過去に戦場となった地域から発掘された\n長杖。眠れる力を呼び覚ました真の姿。\n美しく輝く水晶が戦場に光をもたらす。",
 		"tr_explain": ""
 	},
 	{
@@ -1442,6 +1449,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "1110391",
+		"jp_text": "オフスティアソーサラー-NT",
+		"tr_text": "Austere Sorcerer-NT",
+		"jp_explain": "負の力を識り、制することで転化した\n浄化の長杖。与えられた大いなる智慧は\n悪者を倒し、平穏をもたらす力となる。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1110392",
 		"jp_text": "グラヴィリオス-NT",
 		"tr_text": "Gravilios-NT",
@@ -1488,6 +1502,27 @@
 		"jp_text": "セレフォノプス・ザラ",
 		"tr_text": "Ceres Phonopus Zara",
 		"jp_explain": "太古の時代を思わせる長杖。\n深き眠りから目覚めた力は、扱う者の\nフォトンに応えるように輝く。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110409",
+		"jp_text": "深遠杖サルバシオン",
+		"tr_text": "Profound Salvaxion",
+		"jp_explain": "終わりなき物語を辿る者の絶望により\n生み出された長杖。無常なる闇に心は\n巣食われ、負への妄執に取り憑かれる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110410",
+		"jp_text": "星震杖サルバシオン",
+		"tr_text": "Celestial Salvaxion",
+		"jp_explain": "時を遡る者の世界を想う心によって\n覚醒した長杖。妄執を捨てた想いは\n闇をほどき、猛る勇気を呼び覚ます。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1110411",
+		"jp_text": "光跡杖サルバシオン",
+		"tr_text": "Lightstream Salvaxion",
+		"jp_explain": "時を遡りし者の結んだ絆が創り出した\n星を繋ぐ長杖。果敢なる勇気は、加護を\nもたらし未来の曙光を確約する。",
 		"tr_explain": ""
 	},
 	{
