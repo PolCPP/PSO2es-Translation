@@ -3931,21 +3931,21 @@
 		"jp_explainShort": "状態異常付与＋状態異常特攻＋属性ダメージ",
 		"tr_explainShort": "Rand. status + dam. status + elem. dam.",
 		"jp_explainLong": "① 通常攻撃と必殺技にランダムで\n　　 特定の状態異常を付与する。\n② 状態異常の敵に対してダメージを超絶に増加する。\n③ 全てのリンクスロットに装備した雷属性チップの数に応じ\n　　 雷属性が弱点の敵に対して\n　　 その属性によるダメージを大きく増加する。\n④ このチップを装備中は雷属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Gives normal attacks and PAs a chance to inflict\n    random status effects.\n② Overwhelmingly boosts damage against enemies\n    affected by status effects.\n    <color=yellow>[C-Frame]</color>\n③ Boosts Lightning elemental damage against\n    enemies weak to Lightning based on the number\n    of Lightning chips in all link slots.\n    <color=yellow>[S-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Lightning PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Gives normal attacks and PAs a chance to inflict\n    random status effects.\n② Overwhelmingly boosts damage against enemies\n    affected by status effects.\n    <color=yellow>[C-Frame]</color>\n③ Greatly boosts Lightning elemental damage\n    against enemies weak to Lightning based on the\n   number of Lightning chips in all link slots.\n    <color=yellow>[S-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Lightning PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31690",
 		"jp_explainShort": "状態異常付与＋状態異常特攻＋属性ダメージ",
 		"tr_explainShort": "Rand. status + dam. status + elem. dam.",
 		"jp_explainLong": "① 通常攻撃と必殺技にランダムで\n　　 特定の状態異常を付与する。\n② 状態異常の敵に対してダメージを超絶に増加する。\n③ 全てのリンクスロットに装備した雷属性チップの数に応じ\n　　 雷属性が弱点の敵に対して\n　　 その属性によるダメージを大きく増加する。\n④ このチップを装備中は雷属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Gives normal attacks and PAs a chance to inflict\n    random status effects.\n② Overwhelmingly boosts damage against enemies\n    affected by status effects.\n    <color=yellow>[C-Frame]</color>\n③ Boosts Lightning elemental damage against\n    enemies weak to Lightning based on the number\n    of Lightning chips in all link slots.\n    <color=yellow>[S-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Lightning PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Gives normal attacks and PAs a chance to inflict\n    random status effects.\n② Overwhelmingly boosts damage against enemies\n    affected by status effects.\n    <color=yellow>[C-Frame]</color>\n③ Greatly boosts Lightning elemental damage\n    against enemies weak to Lightning based on the\n   number of Lightning chips in all link slots.\n    <color=yellow>[S-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Lightning PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31691",
 		"jp_explainShort": "状態異常付与＋状態異常特攻＋属性ダメージ",
 		"tr_explainShort": "Rand. status + dam. status + elem. dam.",
 		"jp_explainLong": "① 通常攻撃と必殺技にランダムで\n　　 特定の状態異常を付与する。\n② 状態異常の敵に対してダメージを超絶に増加する。\n③ 全てのリンクスロットに装備した雷属性チップの数に応じ\n　　 雷属性が弱点の敵に対して\n　　 その属性によるダメージを大きく増加する。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Gives normal attacks and PAs a chance to inflict\n    random status effects.\n② Overwhelmingly boosts damage against enemies\n    affected by status effects.\n    <color=yellow>[C-Frame]</color>\n③ Boosts Lightning elemental damage against\n    enemies weak to Lightning based on the number\n    of Lightning chips in all link slots.\n    <color=yellow>[S-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    all PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Gives normal attacks and PAs a chance to inflict\n    random status effects.\n② Overwhelmingly boosts damage against enemies\n    affected by status effects.\n    <color=yellow>[C-Frame]</color>\n③ Greatly boosts Lightning elemental damage\n    against enemies weak to Lightning based on the\n   number of Lightning chips in all link slots.\n    <color=yellow>[S-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    all PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31692",
@@ -4629,72 +4629,73 @@
 	{
 		"assign": "31832",
 		"jp_explainShort": "光枚数超絶追撃＋常時ジャストアタック＋加速",
-		"tr_explainShort": "",
+		"tr_explainShort": "Add. dam. x # Light + all JAs + quickened",
 		"jp_explainLong": "① 装備中の光属性チップの枚数に応じて\n　　 敵に追加で超絶ダメージを与える。\n② 通常攻撃・必殺技・法術が全てジャストアタックとなる。\n③ 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Deals overwhelming additional damage to enemies\n    based on the number of Light chips equipped.\n    <color=yellow>[Chase]</color>\n② All normal attacks, PAs and Techs become\n    Just Attacks.\n③ Increases speed of movement and normal attacks.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31833",
 		"jp_explainShort": "光枚数超絶追撃＋常時ジャストアタック＋加速",
-		"tr_explainShort": "",
+		"tr_explainShort": "Add. dam. x # Light + all JAs + quickened",
 		"jp_explainLong": "① 装備中の光属性チップの枚数に応じて\n　　 敵に追加で超絶ダメージを与える。\n② 通常攻撃・必殺技・法術が全てジャストアタックとなる。\n③ 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Deals overwhelming additional damage to enemies\n    based on the number of Light chips equipped.\n    <color=yellow>[Chase]</color>\n② All normal attacks, PAs and Techs become\n    Just Attacks.\n③ Increases speed of movement and normal attacks.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31836",
 		"jp_explainShort": "技法威力絶大強化＋弱属武器攻撃力大増",
-		"tr_explainShort": "",
+		"tr_explainShort": "PA&Tech boost + weak elem. wep. boost",
 		"jp_explainLong": "① 必殺技・法術の威力を絶大に強化する。\n② 装備中の武器の属性が攻撃対象の敵の弱点に\n　　 有効な属性の場合、攻撃力を大きく増加する。\n③ 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Immensely boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n② Greatly boosts damage if the equipped weapon's\n    element matches one of the targeted enemy's\n    elemental weaknesses.\n    <color=yellow>[H-Frame]</color>\n③ Increases speed of movement and normal attacks.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31837",
 		"jp_explainShort": "技法威力絶大強化＋弱属武器攻撃力大増",
-		"tr_explainShort": "",
+		"tr_explainShort": "PA&Tech boost + weak elem. wep. boost",
 		"jp_explainLong": "① 必殺技・法術の威力を絶大に強化する。\n② 装備中の武器の属性が攻撃対象の敵の弱点に\n　　 有効な属性の場合、攻撃力を大きく増加する。\n③ 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Immensely boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n② Greatly boosts damage if the equipped weapon's\n    element matches one of the targeted enemy's\n    elemental weaknesses.\n    <color=yellow>[H-Frame]</color>\n③ Increases speed of movement and normal attacks.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31838",
 		"jp_explainShort": "風光闇技法攻撃力超絶増＋消費ＣＰ減",
-		"tr_explainShort": "",
+		"tr_explainShort": "Wi/Li/Da PA&Tech boost + CP use down",
 		"jp_explainLong": "① 必殺技・法術チップが風・光・闇属性の場合は\n　　 威力を超絶に増加する。\n③ 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Overwhelmingly boosts Wind, Light and Dark PAs\n    and Techs.\n    <color=yellow>[K-Frame]</color>\n③ Reduces CP consumption.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31839",
 		"jp_explainShort": "風光闇技法攻撃力超絶増＋消費ＣＰ減",
-		"tr_explainShort": "",
+		"tr_explainShort": "Wi/Li/Da PA&Tech boost + CP use down",
 		"jp_explainLong": "① 必殺技・法術チップが風・光・闇属性の場合は\n　　 威力を超絶に増加する。\n③ 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Overwhelmingly boosts Wind, Light and Dark PAs\n    and Techs.\n    <color=yellow>[K-Frame]</color>\n③ Reduces CP consumption.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31854",
 		"jp_explainShort": "アビＬｖ風技法攻撃力大増＋効果時間延長",
-		"tr_explainShort": "",
+		"tr_explainShort": "Wind boost x ab. lv. + extension x # Wind",
 		"jp_explainLong": "① 必殺技・法術チップが風属性の場合は\n　　 アビリティレベルに応じて威力を大きく増加する。\n② 装備中の風属性チップの枚数に応じて\n　　 風属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Greatly boosts Wind PAs and Techs based on this\n    chip's ability level.\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Wind Support\n    Chips' abilities based on the number of Wind chips\n    equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31855",
 		"jp_explainShort": "アビＬｖ風技法攻撃力劇的増＋効果時間延長",
-		"tr_explainShort": "",
+		"tr_explainShort": "Wind boost x ab. lv. + extension x # Wind",
 		"jp_explainLong": "① 必殺技・法術チップが風属性の場合は\n　　 アビリティレベルに応じて威力を劇的に増加する。\n② 装備中の風属性チップの枚数に応じて\n　　 風属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Dramatically boosts Wind PAs and Techs based on this\n    chip's ability level.\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Wind Support\n    Chips' abilities based on the number of Wind chips\n    equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31856",
 		"jp_explainShort": "アビＬｖ雷技法攻撃力大増＋効果時間延長",
-		"tr_explainShort": "",
+		"tr_explainShort": "Thun. boost x ab. lv. + extension x # Thun.",
 		"jp_explainLong": "① 必殺技・法術チップが雷属性の場合は\n　　 アビリティレベルに応じて威力を大きく増加する。\n② 装備中の雷属性チップの枚数に応じて\n　　 雷属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "
+        ① Greatly boosts Lightning PAs and Techs\n    based on this chip's ability level.\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Lightning Support\n    Chips' abilities based on the number of Lightning\n    chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31857",
 		"jp_explainShort": "アビＬｖ雷技法攻撃力劇的増＋効果時間延長",
-		"tr_explainShort": "",
+		"tr_explainShort": "Thun. boost x ab. lv. + extension x # Thun.",
 		"jp_explainLong": "① 必殺技・法術チップが雷属性の場合は\n　　 アビリティレベルに応じて威力を劇的に増加する。\n② 装備中の雷属性チップの枚数に応じて\n　　 雷属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Dramatically boosts Lightning PAs and Techs\n    based on this chip's ability level.\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Lightning Support\n    Chips' abilities based on the number of Lightning\n    chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31860",
@@ -6631,16 +6632,16 @@
 	{
 		"assign": "40251",
 		"jp_explainShort": "炎属性時小増＋長槍時小増＋定期ＨＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Fire & Partizan boost + HP over time",
 		"jp_explainLong": "① 炎属性の武器の場合に威力をわずかに増加する。\n② 長槍の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Slightly boosts damage if equipped with\n    a Fire weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    a Partizan.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40252",
 		"jp_explainShort": "炎属性時増＋長槍時増＋定期ＨＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Fire & Partizan boost + HP over time",
 		"jp_explainLong": "① 炎属性の武器の場合に威力を増加する。\n② 長槍の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Boosts damage if equipped with\n    a Fire weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    a Partizan.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40253",
@@ -6757,16 +6758,16 @@
 	{
 		"assign": "40269",
 		"jp_explainShort": "風属性時小増＋双小剣時小増＋定期ＨＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Wind & T. Dagger boost + HP over time",
 		"jp_explainLong": "① 風属性の武器の場合に威力をわずかに増加する。\n② 双小剣の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Slightly boosts damage if equipped with\n    a Wind weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    Twin Daggers.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40270",
 		"jp_explainShort": "風属性時増＋双小剣時増＋定期ＨＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Wind & T. Dagger boost + HP over time",
 		"jp_explainLong": "① 風属性の武器の場合に威力を増加する。\n② 双小剣の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Boosts damage if equipped with\n    a Wind weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    Twin Daggers.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40271",
@@ -7331,16 +7332,16 @@
 	{
 		"assign": "40351",
 		"jp_explainShort": "雷属性時小増＋大砲時小増＋定期ＨＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Lightning & Launcher boost + HP over time",
 		"jp_explainLong": "① 雷属性の武器の場合に威力をわずかに増加する。\n② 大砲の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Slightly boosts damage if equipped with\n    a Lightning weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    a Launcher.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40352",
 		"jp_explainShort": "雷属性時増＋大砲時増＋定期ＨＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Lightning & Launcher boost + HP over time",
 		"jp_explainLong": "① 雷属性の武器の場合に威力を増加する。\n② 大砲の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Boosts damage if equipped with\n    a Lightning weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    a Launcher.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40353",
@@ -7527,16 +7528,16 @@
 	{
 		"assign": "40379",
 		"jp_explainShort": "光属性時小増＋強弓時小増＋定期ＨＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Light & Bullet Bow boost + HP over time",
 		"jp_explainLong": "① 光属性の武器の場合に威力をわずかに増加する。\n② 強弓の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Slightly boosts damage if equipped with\n    a Light weapon.\n    <color=yellow>[M-Frame]</color>\n② Slightly boosts damage if equipped with\n    a Bullet Bow.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40380",
 		"jp_explainShort": "光属性時増＋強弓時増＋定期ＨＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Light & Bullet Bow boost + HP over time",
 		"jp_explainLong": "① 光属性の武器の場合に威力を増加する。\n② 強弓の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Boosts damage if equipped with\n    a Light weapon.\n    <color=yellow>[M-Frame]</color>\n② Boosts damage if equipped with\n    a Bullet Bow.\n    <color=yellow>[N-Frame]</color>\n③ Slightly recovers HP at regular intervals.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "40381",
@@ -8675,29 +8676,29 @@
 	{
 		"assign": "20067",
 		"jp_explainShort": "黒の民にダメージ小増加＋闇属性強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost vs Kuronites + Dark elem. up",
 		"jp_explainLong": "① 黒の民に与えるダメージをわずかに増加する。\n② 闇属性を強化する。\n[発動条件]黒の民に攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Slightly boosts damage against Kuronites.\n    <color=yellow>[B-Frame]</color>\n② Increases Dark Element.\n[Activation Trigger] Landing attacks on Kuronites\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "20068",
 		"jp_explainShort": "黒の民にダメージ増加＋闇属性強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost vs Kuronites + Dark elem. up",
 		"jp_explainLong": "① 黒の民に与えるダメージを増加する。\n② 闇属性を強化する。\n[発動条件]黒の民に攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Boosts damage against Kuronites.\n    <color=yellow>[B-Frame]</color>\n② Increases Dark Element.\n[Activation Trigger] Landing attacks on Kuronites\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "20069",
 		"jp_explainShort": "攻撃力小増加＋特定地形で攻撃力大増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost + dam. boost in specific area",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 黒ノ領域での戦闘では\n　　 さらに攻撃力を大きく増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Slightly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Further boosts damage when fighting in\n    Kuron.\n    <color=yellow>[I-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "20070",
 		"jp_explainShort": "攻撃力小増加＋特定地形で攻撃力大増加",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost + dam. boost in specific area",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 黒ノ領域での戦闘では\n　　 さらに攻撃力を大きく増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Slightly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Further boosts damage when fighting in\n    Kuron.\n    <color=yellow>[I-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	}
 ]
