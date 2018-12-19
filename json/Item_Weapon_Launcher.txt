@@ -1220,9 +1220,16 @@
 	{
 		"assign": "190312",
 		"jp_text": "アトラボラーレ",
-		"tr_text": "Atra Volare",
+		"tr_text": "Atlas Volare",
 		"jp_explain": "過去に戦場となった地域から発掘された\n大砲。翼に似た装飾や砲身等が修復され\n失われていた姿を取り戻した。",
 		"tr_explain": "A launcher excavated from an old\nbattlefield. Its adornments have been\nrestored, and its nobility with them."
+	},
+	{
+		"assign": "190313",
+		"jp_text": "アトラボラーレ・イクス",
+		"tr_text": "Atlas Volare Ex",
+		"jp_explain": "過去に戦場となった地域から発掘された\n大砲。青き宝石が目覚めた真の姿。\n渦巻くようなフォトンの砲撃を放つ。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "190318",
@@ -1260,6 +1267,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "190335",
+		"jp_text": "オフスティアキャノン-NT",
+		"tr_text": "Austere Cannon-NT",
+		"jp_explain": "負の力を識り、制することで転化した\n浄化の大砲。もたらされた泰然たる\n精神は、苦難に打ち克つ力となる。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "190336",
 		"jp_text": "ホムラノエンリン",
 		"tr_text": "Homura no Enrin",
@@ -1279,6 +1293,27 @@
 		"tr_text": "Shien no Enrin",
 		"jp_explain": "とある地方の伝統意匠を取り入れた\n紫炎の大砲。標的に死を渡す使いの如く\n焔の車輪は回りだし、猛火が放たれる。",
 		"tr_explain": "A violet-flamed launcher based on\na traditional design. As the wheel of\nflame turns, a great fire is unleashed."
+	},
+	{
+		"assign": "190346",
+		"jp_text": "深遠砲バシラシオン",
+		"tr_text": "Profound Vacillaxion",
+		"jp_explain": "終わりなき物語を辿る者の絶望により\n生み出された大砲。凄絶な闇の呻きが\n弾丸に込められ、僅かな光も呑み込む。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "190347",
+		"jp_text": "星震砲バシラシオン",
+		"tr_text": "Celestial Vacillaxion",
+		"jp_explain": "時を遡る者の世界を想う心によって\n覚醒した大砲。無垢なる想いを授かった\nその弾丸は、闇のささやきを撃ち砕く。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "190348",
+		"jp_text": "光跡砲バシラシオン",
+		"tr_text": "Lightstream Vacillaxion",
+		"jp_explain": "時を遡りし者の結んだ絆が創り出した\n星を繋ぐ大砲。研ぎ澄まされた意思は\n弾丸に結晶し、信じる未来へと導く。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "190350",
@@ -1306,6 +1341,13 @@
 		"jp_text": "シューティングドライブ-NT",
 		"tr_text": "Shooting Drive-NT",
 		"jp_explain": "最新技術が可能にした超高性能大砲。\n撃ち出された弾が流星のように\n煌くところから名づけられた。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "190365",
+		"jp_text": "クラフトプロジオン-NT",
+		"tr_text": "Craft Plosion-NT",
+		"jp_explain": "遺跡に残されていたデータを基に\n再現された大砲。",
 		"tr_explain": ""
 	}
 ]

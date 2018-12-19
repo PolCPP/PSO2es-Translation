@@ -1115,8 +1115,15 @@
 	{
 		"assign": "150300",
 		"jp_text": "アトラヴィーレ",
-		"tr_text": "Atra Vire",
+		"tr_text": "Atlas Vire",
 		"jp_explain": "過去に戦場となった地域から発掘された\n両剣。研究が進んだことで、装飾も\n含めて破損前の状態に修復された。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "150301",
+		"jp_text": "アトラヴィーレ・イクス",
+		"tr_text": "Atlas Vire Ex",
+		"jp_explain": "過去に戦場となった地域から発掘された\n両剣。真なる力を解放した姿。緑の\n光は運命すら断ち切る可能性を秘める。",
 		"tr_explain": ""
 	},
 	{
@@ -1183,11 +1190,39 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "150341",
+		"jp_text": "オフスティアエッジ-NT",
+		"tr_text": "Austere Edge-NT",
+		"jp_explain": "負の力を識り、制することで転化した\n浄化の両剣。装者は己に打ち克ち\n強き勇士へと昇華し、悪辣者を葬る。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "150342",
 		"jp_text": "ホムラノジョウカセン",
 		"tr_text": "Homura no Joukasen",
 		"jp_explain": "とある地方の伝統意匠を取り入れた\n両剣。焔の装飾は災厄を斬り裂き\n不浄を消し去るという意味を持つ。",
 		"tr_explain": "A double saber based on a traditional\ndesign. The flames are symbolic of\nburning away the unclean."
+	},
+	{
+		"assign": "150343",
+		"jp_text": "深遠斬レスレクシオン",
+		"tr_text": "Profound Resurrecxion",
+		"jp_explain": "終わりなき物語を辿る者の絶望により\n生み出された両剣。重く深い闇の力は\n負へと成り果て、全ての光を拒絶する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "150344",
+		"jp_text": "星震斬レスレクシオン",
+		"tr_text": "Celestial Resurrecxion",
+		"jp_explain": "時を遡る者の世界を想う心によって\n覚醒した両剣。純な願いは光を取り戻し\nその刃は、負を滅する輝きへと変わる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "150345",
+		"jp_text": "光跡斬レスレクシオン",
+		"tr_text": "Lightstream Resurrecxion",
+		"jp_explain": "時を遡りし者の結んだ絆が創り出した\n星を繋ぐ両剣。強き想いを宿した刃は\n光の輝きとなり、新たな未来を創る。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "150355",

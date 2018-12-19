@@ -4233,14 +4233,6 @@
 	},
 	{
 		"eventNo": "33",
-		"jp_name": "",
-		"tr_name": "",
-		"jp_text": "",
-		"tr_text": "",
-		"fileID": 1
-	},
-	{
-		"eventNo": "34",
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "あ……アフタルが変身したぁ！？",
@@ -4248,7 +4240,7 @@
 		"fileID": 1
 	},
 	{
-		"eventNo": "35",
+		"eventNo": "34",
 		"jp_name": "アフタル",
 		"tr_name": "Akhtar",
 		"jp_text": "これが……わたしたちの身体……<%br>ダークニクスの姿……",
@@ -4256,7 +4248,7 @@
 		"fileID": 1
 	},
 	{
-		"eventNo": "36",
+		"eventNo": "35",
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "驚くのは後だ！<%br>今は、こいつを倒すのが先決だ！",
@@ -13278,5 +13270,3749 @@
 		"jp_text": "",
 		"tr_text": "",
 		"fileID": 2
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "……どうしてその一言が<%br>ずっと言えなかったんだろう。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "お姉ちゃん。<%br>強くて、優しくて、大好きだったお姉ちゃん。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "でも、わたしは唄わなくちゃならなくて……<%br>お姉ちゃんは戦わなくちゃならなくて……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "それで、いつしかわたしたちは……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "ふたりの歌",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "……お姉ちゃん！　もうやめてよ！！<%br>お姉ちゃんっ！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "お……おおお、お姉ちゃん！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ホルシードって、アフタルの姉ちゃんなのか！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……そうやって、いつまで甘えるつもりだ？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "ち、ちがうよ！　甘えるつもりなんて……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "我らの選択は……お前が言った通り、賭けだ。<%br>ダークファルスを倒せる保証などない。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "だが、差し迫る窮状を覆すためには<%br>最も可能性が高い選択なのだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "今さら、それを理解できぬお前ではないと……<%br>思っていたのだがな。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "でも、だけど……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "あー、姉妹に事情があるのはわかった。<%br>だが……気にすべきことは、ほかにあるだろ？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "そ、そうです！　星骸布を探さなきゃ！<%br>ホルシードさんも言ってましたよね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "「黒ノ領域」とダークニクスは相性が悪いから<%br>アフタルさんが心配だって。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "どういうこと、ジェネ？<%br>アフタルの身体になにかあるというの？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "アフタル……ここはダーカー因子の反応が強い。<%br>私にとっても……濃すぎるほどに。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "……あっ！　も、もしかして……！？<%br>星骸布がダーカー因子に影響を与えて……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "大将、話はそこまでだ。匂いにつられて……<%br>ヤツらが集まってきたみたいだぜ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "そのようだな。<%br>気をつけろ……来るぞ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "く、来るって、なにがだってば！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "リーダー、気をつけて！　星骸布のせいで<%br>このあたりのエネミーが凶暴化してる！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ハァ……ハァ……い、今のパジゴワン<%br>どっから出てきたんだってば！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "しかも妙に強かったしな……さっき言ってた<%br>ダーカー因子の話と関係あるのか！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "ご、ごめんなさい！　星骸布のこと<%br>わかってたはずなのに……気づけなかった……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "それはもういいわ。それより……事情を教えて。<%br>星骸布の影響でダーカー因子が活性化しているの？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "うん、きっとそう。星骸布の影響で<%br>ダーカー因子が濃くなってるんだと思う……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "星骸布はダークファルスに干渉する力があるから<%br>その分、ダーカー因子の影響も受けやすいんだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "惑星ウォパルでゼッシュレイダが変異してたのと<%br>似たようなことが起きてるってことなのか？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "だったらさ！<%br>さっさとスコアを回収しないと！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "いいや、ダメだ。<%br>今の星骸布は粒子……かけらになっているからな。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "断片という不完全な状態だった星骸布が<%br>さらに細かく、かけらとして拡散してしまっている。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "ただでさえ不安定だったものが<%br>余計に危うくなってるってこと……ですね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "でも、それならどうすりゃいいんだってば！<%br>スコアを回収できないじゃん！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "横から失礼しますよ。こっちでも黒ノ領域での<%br>ダーカー因子の異常増大を確認しました。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "危険を感じた白の民からも要請が来ています。<%br>この異常事態を解決してほしい……とね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "君たちの話は、とても信憑性が高い。<%br>星骸布が影響しているのは、間違いないでしょう。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "今から特別部隊を手配しても間に合いません。<%br>そこで……僕に考えがあります。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "そこにいるヴィーナーの戦士たちと協力して<%br>事に当たるというのは……どうでしょう？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "そうですよ。アフタルさんとホルシードさんが<%br>力を合わせればいいんです。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "……わたしと、お姉ちゃんが？<%br>一緒に……？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ふたりが協力すれば、かけらになった<%br>星骸布を復元して、回収できるんですよね！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ジェネ、余計なことを言うな。<%br>可能性があると……言ったまでだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "今はそんなこと言ってる場合じゃないはずです！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ジェネがそこまで言うのなら<%br>信じる価値はあると思うけど……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "少なくとも、特別部隊の到着を待つよりも<%br>現実的な解法だと思います。受けてくれますか？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "少なくとも、特別部隊の到着を待つよりも<%br>現実的な解法だと思います。受けてくれますか？",
+		"tr_text": "",
+		"jp_buttons": [
+			"わかった、任務として受ける。",
+			"ヴィーナー次第だが……"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 3
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "ありがとうございます。<%br>よろしく頼みます。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "星骸布のためだ。<%br>こちらに否定する理由はない。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "エルジマルトの民に誓い、信頼に応えよう。<%br>ソルーシュも理解したな。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "ああ。大将がそう言うならば休戦しよう。<%br>エルジマルトの民のためにもな。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "やれやれ。まさか命のやり取りをした相手と<%br>一緒に戦うことになるとはな。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……アフタル、構わないな。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "……うん。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "不服か？　だが……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "33",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "わかってる。わかってるよ。<%br>協力しないとダメってことは、わかってる。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "34",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ならば、そのような顔をするな。<%br>お前らしくないぞ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "35",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "……はい、お姉ちゃん。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "でもさ、一緒に戦うって言っても……<%br>一体どうすればいいんだ？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "アフタルちゃんの歌でダーカー因子を<%br>鎮める……とかかねぇ？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "「癒しの歌」か……近いことはできるが<%br>消費するエネルギーを考えれば非効率的だな。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "うん……わたしの歌は、眠らせ続けることはできても<%br>眠らせることはできないんだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "眠らせ続けられても、眠らせられない？<%br>あの……それって、なにが違うんですか？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "ダーカー因子の活動を弱らせることはできても<%br>無力化まではできない……って感じかな。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "アフタルの歌は、すでに眠りについている<%br>ダークファルスの意識を非活性化させる歌なのだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "私の「目覚めの歌」が持つ覚醒を促す力とは……<%br>真逆のものと言える。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "釈然としない話ね。目覚めさせることはできても<%br>眠らせることはできない……なんて……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "あ、あの……歌が気になるのもわかりますが<%br>今は星骸布のかけらを集める方が……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ああ、そうだった。で……ホルシードさん。<%br>俺たちはなにをすればいいんだ？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "「宿主」となるエネミーの討伐だ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "シュクシュ？　なんだそれ？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "寄生虫が寄生している対象を指す言葉だけど……<%br>星骸布が……エネミーに寄生しているってこと？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ああ、そうだ。かけらとなった星骸布は<%br>状態が不安定すぎて、その存在を保てなくなる。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ゆえに、ダーカー因子が強い生命体に入り込み<%br>星骸布としての「形」を保とうとするのだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "つまり、ダーカー因子によって変異したエネミーは<%br>星骸布にとって、恰好の宿主になるってわけか。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "そうか……それでこのあたりのエネミーたちは<%br>ダーカー因子に支配されて凶暴化してるんだね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "星骸布はダークニクスにも深く関わる技術だ。<%br>ゆえに、ダーカー因子との関係性も高い。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "かけらなんていう不安定な状態になり<%br>この領域に溶け込んでしまっている……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "放置しておけば、広範囲に拡散して<%br>ますます回収が難しくなるだろう……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "だったら……はやく星骸布を回収しな……って！<%br>お姉ちゃん！　後ろ！　エネミーが来てる！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "アフタルの星骸布に惹かれてきたか！？<%br>だが、狩られるのは……貴様らの方だ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ソルーシュ、戦闘を許可する！<%br>ヴィーナーの力……見せつけてやるぞ！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "『ああ、そのつもりだ！<%br>　リーダーとやら……俺についてきな！』",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ふぅ、なんとか倒せたわね。<%br>ヴィーナー……味方と考えると心強いわね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "みなさん、ケガはありませんか？<%br>モノメイトが必要なら言ってください！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "お！　ありがとな！！　それより<%br>スコアのかけらを……って、今のなんだ！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ちっちゃい光が……飛んで行きましたね？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "あれはきっと、星骸布のかけら。<%br>断片よりも、もっと小さな……かけらだよ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "へー、キレーだなー……じゃなくて！　<%br>見てないで、さっさと回収しないと！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "ううん、まだ回収できないと思う。<%br>あの状態だと……不安定すぎて手に取れないの。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "かけらとなった星骸布は、存在を安定させるため<%br>新たな宿主を求める……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "そこで我々は宿主を倒してかけらを解放し……<%br>すべてのかけらが集まったところで回収する。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "回収する……ねぇ。だが、解せない部分もあるな。<%br>どうして、アフタルやあんたが宿主にならないんだ？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "あ、そうじゃん！　ダークニクスのアフタルなら<%br>シュクシュにぴったりだってば！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "えっと、それは……<%br>あれ？　そういえば、なんでだろ？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "リリーン！　それなら<%br>ファルザードから聞いたことがあるよ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "研究資料によると……断片になった星骸布が<%br>かけらになっちゃうことは、よくあったんだって。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "それで安定させるために宿主と結びつけて<%br>自己修復するような実験もやったらしいんだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "そうしたら、宿主と結びついた星骸布のかけらは<%br>似た性質を持つ存在に寄っていくようになったんだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "最初に惑星ハルコタンの黒の民に寄生したかけらは<%br>より強い黒の民に寄っていく……ってことね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "そうだ。そして、最終的にかけらは１箇所に集まり<%br>星骸布の断片として安定する……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "断片になれば回収ができる。<%br>それまでは……かけらを追いかけるしかない。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ようやく理解できたよ。<%br>簡単な方法は……無いってわけね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "水蒸気を集めることは難しいけれど……<%br>冷やして水にすれば、集めるのは簡単になるわ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "かけらは黒の民に寄生していく……<%br>今はそのかけらを１箇所に集めるのが先決。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "しかも……時間は限られている。<%br>私たちが協力するしか……打てる手は無い。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "そういうことだ。<%br>私たちはいつも……選ぶことはできない。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "それでも、いいよ。今は……<%br>今はこの惑星のヒトたちのためにも戦わないと。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "よーし、それじゃあどんどん<%br>シュクシュを倒していこうぜいっ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "威勢がいいな、チビすけ。<%br>早くしねぇと、手遅れになっちまうぞ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "この惑星がダーカーで埋め尽くされ<%br>最悪、ダークファルスが現れる……か。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "それだけは絶対にダメ！<%br>ダークファルスは、ダークファルスだけは！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "大丈夫ですよ、アフタルさん。<%br>そのためにヴィーナーと手を組んでるんですから。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "つまり、星骸布を断片状態まで戻すためにも<%br>取り込んでしまった宿主を倒す必要がある。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "そのためには手が多いほうが良い。<%br>これは……互いにとって利のある道だ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "だが……このまま一緒にいては<%br>星骸布の拡散に間に合わない。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "二手にわかれて<%br>宿主を倒していくほうがいいだろうな。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "……確かに、一理ある。<%br>このままじゃ、被害が拡大する一方だ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "私はソルーシュと行動する。<%br>貴様たちは、好きに動けばいい。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "星骸布のかけらを見つけた時は<%br>互いに連絡する……それでいいな。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "そうね……わかったわ。<%br>貴方は約束を守る人のようだし……ね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ジェネ……お前はどうする？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "わたしは、ホルシードさんと一緒にいます。<%br>リーダーに連絡する役目も必要ですよね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "好きにするがいい。<%br>ソルーシュも、それでいいな？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "ああ、それでいい。<%br>大将がそう決めたんならな。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "ま、チビすけのことは……<%br>ちょっとは気に入ってたんだけどよ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "チビすけって言うなってば！<%br>まったく……お前がデカすぎなんだよ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……それでは約定の通りに。<%br>星骸布のかけらを集め、惑星の異常を収めるぞ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……それでは約定の通りに。<%br>星骸布のかけらを集め、惑星の異常を収めるぞ。",
+		"tr_text": "",
+		"jp_buttons": [
+			"ホルシード、お互いにがんばろう！",
+			"ジェネ、気をつけてね！"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……不思議なヤツだな、お前は。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "はい！<%br>わたしも、がんばってきます！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……行くぞ、ソルーシュ、ジェネ。<%br>まずは、この近くの宿主をすべて討伐する。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "あぁ、腕が鳴るってもんだ。<%br>ジェネ……ちゃんとついて来るんだぞ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "はい！　ありがとうございます！<%br>それじゃあ、リーダー！　いってきますね！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "リーン……<%br>ジェネたち、行っちゃったね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "……お姉ちゃん。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "考えるのは後だ、アフタルちゃん。<%br>今は、星骸布のためにも宿主を討伐しないとね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "う、うん！　そうだね！<%br>宿主は……アッチにいる！　行こう、みんな！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "あ……また、かけらが飛んで行った……<%br>今度はアッチみたいだね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "なんかさぁ……このあたりのエネミー……<%br>どんどん強くなってないか？ ",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "多分……星骸布のかけらが集まって<%br>大きくなってるからだと思う。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "星骸布のかけらが大きくなれば<%br>その分、ダーカー因子の影響も強くなるからね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "うへー。じゃあ<%br>もっともっと強くなってくってことかぁ？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "なんだ？　もう音を上げちまったのか？<%br>おチビはまだまだだなぁ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "そんなんじゃないってば！<%br>ちょっとずつ集められないのか……ってこと。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "うん。なんて言えばいいのかな、えっと……<%br>あ！　音符！　そう、音符なんだよ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "星骸布をひとつの楽譜としたらね<%br>断片は小節ごとのメロディみたいな感じなの。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "だからね、断片よりバラバラな今の状態は<%br>音符みたいなものなの。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "なるほど……音符だけをバラバラに回収しても<%br>元のメロディには戻せないってことね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "うん、そう。あと……問題はもうひとつあってね。<%br>ダークニクスと星骸布の相性が高すぎることなんだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "これも、ファルザードから聞いたんだけど<%br>星骸布を細かすぎる状態で回収しちゃうと……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "ダークニクスの持つダーカー因子の影響を<%br>強く受けて、変質しちゃうみたいなんだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "一度、変質しちゃうと……<%br>元の星骸布の状態には戻らなくなるんだって。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "曲が勝手にアレンジされるみたいなもんか？<%br>そいつは厄介だな……ん？　待てよ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "だとしたら、エネミーに寄生してる星骸布も<%br>変質しちまうんじゃないのか？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "うん。あまり長い時間、宿主と一体化してたら<%br>定着しちゃって情報は変質するだろうね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "だからお姉ちゃんは<%br>わたしたちに協力するって言ったんだと思う。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "できるだけ早く宿主を倒さないと<%br>変質して元に戻らなくなる……ということね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "だったら、ドンドン倒していかないと！<%br>ほらほら、はやく行こうってば！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "リーダー、こっち！　こっちだよ！<%br>強い反応があったのは……あ、あれ見て！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "見た感じ、普通だけど……<%br>明らかに違う気配がビンビンきてるね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "まだ距離があるのに、怖いくらいだわ……<%br>まるで……ダーカーになったソルーシュみたいね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "あれも、スコアのえーきょーなんだよな？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "……あの、アフタルさん。<%br>星骸布って、本当に正しい力なんですか？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "話を聞いているだけだと<%br>悪い影響のほうが多いみたいなんですけど。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "そ、それは……ダーカー因子のせいだから。<%br>使うのが、ちょっと難しくはあるけど……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "それに、星骸布がないと<%br>ダークファルスを相手にできないし……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "うん、そのために、アフタルたちのダークニクスは<%br>星骸布にマッチするよう調整されてるんだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "え！？　そうだったの？<%br>そっか……そうだったのかぁ……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "じゃあ、わたしとお姉ちゃんの身体も<%br>危険なのかなぁ……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "じゃあ、わたしとお姉ちゃんの身体も<%br>危険なのかなぁ……",
+		"tr_text": "",
+		"jp_buttons": [
+			"力は使うヒト次第だよ。",
+			"アフタルはどう思ってるんだい？"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "そうね。私もアフタルを信じているわ。<%br>貴方は間違った使い方はしない。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "……ありがとう、アネットさん。<%br>わたしも……本当は力なんて使いたくない。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "だから……お姉ちゃんが使おうとしてるなら<%br>わたしが先に集めて止めないとダメなんだ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "わたし……？　わたしは……<%br>自分の身体を危険だなんて思いたくない。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "星骸布の力だって……ちゃんと使えば<%br>わたしたちの星を復活できるって聞いたし……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "だったら、大丈夫じゃないの？<%br>俺はアフタルちゃんを信じるよ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "そうだぜ！　アフタルなら大丈夫だってば！<%br>オレが保証してやるって！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "ふふ……そうですね。<%br>まだ、ナベリウスのことが頭に残ってて……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "ごめんなさい、アフタルさん。<%br>変なこと……言っちゃって。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "ううん、いいよ。<%br>わたしもこの力は……ちょっと怖いから。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ま、ホルシードたちのやり方には問題があるし。<%br>ダークファルス関連ってのも大問題だ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "より良い解決方法を模索するためにも<%br>まずは私たちが、星骸布を手に入れましょう。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "む、ムズカシイ話は終わったか！？<%br>あ……アイツ、こっちに気づいてるってば！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "きゃっ！　そ、そうですね！！<%br>まずは、あのエネミーを倒さないと！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ふぅ……<%br>また星骸布のかけらが飛んで行ったわね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "これだけ強かったんだし、もうスコアを<%br>回収してもいいんじゃないか？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "ううん、まだダメだよ。<%br>今ので半分くらい……かな。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "うえええ！　まだ半分なのかよ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "そうゲンナリするもんでもないぞ。<%br>今のでほぼ半分ってことは……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ホルシードたちも順調に討伐できていれば<%br>半分と半分で、ゴールってことだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "ふふ、そうだね。<%br>……？　あっ！　ちょっと待って……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "今……星骸布がひとつになったのを感じた……<%br>もしかして……全部のかけらが……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "……リーダー、聞こえます？<%br>わたしです。ジェネです。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "どうしたの、ジェネ？<%br>もしかして……星骸布のかけらが集まったの？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "はい！　たった今、宿主を討伐しました。<%br>アネットさん達も……ですよね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "それで……その……<%br>ホルシードさんが、伝えたいことがあるって……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "聞こえるか、アークス、アフタル。<%br>共闘するのはここまでだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "共に宿主となったエネミーを<%br>撃破してくれたことには、感謝しよう。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……だが、私にも成さねばならぬ使命がある。<%br>曲げられぬ信念もある。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "重なり合わぬ道である以上<%br>最後は……正々堂々と戦わせてもらう。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "リーダー……ごめんなさい。<%br>このまま協力したいってお願いしたんですけど……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ま、そうなるわな。<%br>ジェネちゃんが謝ることはないさ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "わざわざ連絡してくれるだけ<%br>義理を通そうとしてくれてると思いましょう。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "……これがマイクか？<%br>おい、聞こえてるかアークス。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "こ、この声は……ソルーシュか！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "ここからは本気のレース。<%br>最後の宿主を倒した方が、星骸布の持ち主だ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "準備はいいな？　ま、良くなくても始めるけどな。<%br>さあ、スタートだ！　急げよ、チビすけ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "あっ！？　え、えっと、リーダー。<%br>そういうことなので……また後で！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "あっ、ズルいぞ！　こっちも急がないと！<%br>ホルシードたちにスコアを取られちまうってば！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "みんな、ケガはないわね？<%br>アフタル、ダーカー因子の補充もできてる？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "う、うん！　大丈夫！<%br>星骸布を持った最後の一体……先に見つけるよ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "ダーカー因子がだいぶ濃くなってきてる！<%br>もうちょっと！　この先にいるはずだよ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "くっそー、ソルーシュめー！<%br>ぬけがけしたり、してないだろうなーっ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "……どうやら、その心配はいらないようだ。<%br>ほら、見てみな！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "……チッ、もう追いついてきやがったか！<%br>さすがは、アークスのエースだけはあるな！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "リーダー、みなさん、気をつけてください！<%br>エネミーが大量に発生しています！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ははーん、それでアシドメされてたんだな！<%br>自業自得だってば！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "オレたちなら、こんなのラクショーだってば！<%br>な！　リーダー！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ほう、そうか。<%br>なら……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "……えっ！？<%br>な、なんでこっちにくるんだよ！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "あとは任せたぞ、アークス！<%br>せいぜいそいつらと遊んでな！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "なななな……なんだってば！！<%br>うわあああっ！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "しまった、エネミーを押しつけられた！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "えっ、えっと……<%br>ご、ごめんなさい、リーダー！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "やってくれたわね……完全に囲まれてるわ！<%br>こんなところで、出し抜かれるなんて！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "やってくれたわね……完全に囲まれてるわ！<%br>こんなところで、出し抜かれるなんて！",
+		"tr_text": "",
+		"jp_buttons": [
+			"一気に突破口を開く！",
+			"落ち着いて対処しよう！"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "だな！　イッテントッパで<%br>ホルシードたちを追いかけるぞっ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "そうね、今は時間が惜しいわ。<%br>包囲が薄い場所を……突破するわよ！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "お姉ちゃん……<%br>星骸布は、渡さないからね！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "制御装置遮断！　ダーカー因子……解放！<%br>戦闘形態……発動！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "わ、わたしだって<%br>お姉ちゃんくらい戦えるんだから！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "よし、ここまでくれば大丈夫そうだな。<%br>さて、ホルシードたちはどっちに行った……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "…………",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "なに？　通信機が……この反応、ジェネだわ！<%br>アフタル、方角は向こうで合ってる？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "はい！　そっちで合ってます！<%br>星骸布の強い反応が……ひとつ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "反応がひとつってことは、今度こそ最後の一体だな！<%br>リーダー、はやく行こうぜっ！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "……あ、これって戦闘の音じゃないですか！？<%br>もう戦いは始まってるみたいですよ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "くっそー！　先にホルシードたちに<%br>倒されちゃったら、マズイんじゃ……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "……ぐおあぁぁぁぁぁぁっ！？<%br>クッ……なんてパワーだ……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "うおあっ！？　びっくりした！<%br>……って、お前ソルーシュか！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "……チッ、もう追いついてきやがったか。<%br>もっと前座を楽しんでりゃ良いのによ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "見くびらないでほしいわね。<%br>それより貴方、その傷……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "おっ！　もしかして苦戦してるのか？<%br>オレたちを出し抜くからだ、ざまーみろー！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "……ああ、まったくだ。<%br>最初からお前さん達を連れてくるべきだったな。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "な、なんだってば、その言い方。<%br>も……もしかしてアイツ、そんなにヤバイのか？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "あぁ……本気を出したホルシードの大将が<%br>手こずる程度には……な。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "え……<%br>お姉ちゃんが……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "……アフタルさん？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "ど、どうしよう……<%br>あれって……もしかして……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "どうしたの？　大丈夫、顔が真っ青よ？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "アフタル、まさか……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "……おう、その、まさかだよ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "星骸布が……<%br>エネミーに侵食されてる……の？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "侵食？　アフタル、それってどういうこと！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "……ッ、お姉ちゃん！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "お姉ちゃん、待ってて！　今行くから！！<%br>助けに行くから！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "あっ、アフタル！？<%br>ひとりじゃ危険だわ！　追いかけるわよ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "お姉ちゃん、大丈夫！？　お姉ちゃん！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ぐふぅ……うぅ……<%br>くぅ……アフタル……か……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "お前では無理だ……逃げろ……！<%br>ここは……私に、まかせて……おけ……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "わたしのことより、お姉ちゃんのケガだよ！<%br>ダーカー因子を使いすぎて直せないんだよね？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "待ってて、わたしのアンプルがあるから！<%br>これを使えばすぐに修復されるよ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……！？　ま……待て、アフタル！<%br>お前のアンプルは……もう……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "いいから！<%br>そんなこと言ってる場合じゃないよ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……ッンん！<%br>ハァ……ハァ……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "はあ、はあ……追いついたぁ……って<%br>アフタル、なにしてんだってば！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "アフタル……もう、単独行動は危険よ！<%br>みんなは周辺の警戒！　回復の時間を稼ぐわよ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "……ひどい、こんな損傷を！　手当てを……でも<%br>あたしたちの回復手段ではダークニクスの修復は……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "くッ、私のことはいい……<%br>アフタルに……アンプルをもらったからな……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "……立てるか、大将。<%br>悪いな、俺が先走ったばっかりに。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "過ぎたことだ。それより……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "聞け、アークス……ジェネが……<%br>ジェネが……ひとりで戦っている……早く彼女を！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "リーダー……来てくれたんですね。<%br>わ……わたしはまだ大丈夫です！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "それよりも、ホルシードさんを……<%br>ホルシードさん……わたしをかばって……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "ジェネさん、安心してください。<%br>アンプルを補充しましたから、もう大丈夫です。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "よかった……それじゃ<%br>きゃあぁぁぁぁぁぁぁぁっ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ジェネ！　どうしたの！！<%br>リーダー、早くジェネの援護に！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ジェネ！　どうしたの！！<%br>リーダー、早くジェネの援護に！",
+		"tr_text": "",
+		"jp_buttons": [
+			"ホルシードを安全な場所に……",
+			"すぐにジェネの援護に向かう！"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "わ……私のことは、どうでもいい！<%br>早く……ジェネの援護に……向かえ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "すぐに行きましょう！<%br>あ……でも、ホルシードを……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "わ……私のことは、どうでもいい！<%br>早く……ジェネの援護に……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "彼女はエルジマルトとは無関係……<%br>貴様らにとって……大事な存在なのだろう！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ええ。私たちにとって、欠かせない仲間よ。<%br>だから……ジェネが信じた貴方も助けたいの。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "大将は俺が担いで走る。<%br>だから……お前たちは、ヤツらの相手を頼む。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "ヤツら？　リンリーン！？<%br>いつのまにか……囲まれてしまってるよ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "私の……ダークニクスから漏れる<%br>ダーカー因子の匂いに惹かれてきたのか……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ならば、降りかかる火の粉は……<%br>己が手で払わねば……ぐっ……く、うう……っ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "お姉ちゃん、まだ動いちゃダメ！<%br>大丈夫、わたしが……何とかするから！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "そうね。ホルシードはソルーシュに任せて<%br>ジェネのもとに急ぎましょう！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "と、とりあえず突破したか……<%br>ジェネちゃんは……無事か！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "り、リーダー……<%br>みなさん……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ジェネーっ！！　ぶじか？　大丈夫か？<%br>いたいとこはないのか！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ふふ……だ、大丈夫ですよ。<%br>ありがとう、モア。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ジェネ、あんなの相手に……<%br>よくひとりで戦ってたな。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "はい、絶対にみんなが助けに来てくれるって<%br>信じていましたから。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ジェネ……あまり心配させないで。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "すみません……<%br>へへ……アネットさん、ありがとうございます。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "あ……そうだ！<%br>ホルシードさんは……大丈夫ですか？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "あぁ……大丈夫だ。<%br>ジェネ……すまない、助けられたな。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "お姉ちゃん……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "ねぇ、お姉ちゃん！<%br>星骸布は……侵食されてるんだよね？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……ああ、そうだ。<%br>これまでとは逆のことが起きている。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "それって、前に話していた<%br>星骸布が変質するっていう……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "変質どころか、宿主の意思が強すぎるせいで<%br>完全に吸収されそうになっている。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "このまま放置すれば……<%br>完全に取り込まれ、回収不能になる……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "だったら、はやくしないと！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "うん、はやくしないと……変質したら最後<%br>元の星骸布には戻らなくなっちゃう……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "……どうすればいい！？<%br>俺たちにできることはないのか？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "どうしたらって……<%br>お、お姉ちゃん、なにかわかる……？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……手は、ないこともない。<%br>いや、だが……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "お願い、お姉ちゃん！<%br>星骸布がなくなったらダークファルスは……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "そう、だな。……ならば。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……唄え、アフタル。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……唄え、アフタル。<%br>それしか方法はない。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "唄うって、『癒しの歌』を？<%br>でも、わたしの歌は……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "そうだ、本来の目的とは違う。<%br>だからこれは賭けだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "歌の力でダーカー因子が鎮まれば<%br>かけらと宿主との結合が弱まるかもしれない。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "…………",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "どちらにせよ、どうしようもない状況だ。<%br>可能性があるなら……賭けるしかない。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "唄うかどうか、早く決めろ！<%br>この宿主……抑えるだけで精一杯だっ！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "もし、スコアがダメになったら……<%br>オレたちがダークファルスをぶっ飛ばすってば！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……アフタル？<%br>もしかして、唄いたくない理由が……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "―ズガァァァァァァンッ！！―",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "きゃあぁぁぁぁぁっ！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "じぇ……ジェネさん、大丈夫ですか！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ご、ごめんなさい、大丈夫です！<%br>ま、まだ、がんばれますから……きゃあっ！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……ここまでだな。アフタルが唄えない以上<%br>宿主の討伐を優先するしかない。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "星骸布が修復できなかったとしても<%br>この惑星の異変だけは……止めるぞ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "あぁ、そうだな……でないと<%br>この惑星も、俺たちの故郷のように……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "…………",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "……待って！<%br>わたし……唄う！　唄うよ！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "で、でも、わたしの唄だけじゃ<%br>星骸布に届かないかもしれないから……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "だから、リーダー……<%br>あのエネミーを、弱らせて！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "だから、リーダー……<%br>あのエネミーを、弱らせて！",
+		"tr_text": "",
+		"jp_buttons": [
+			"わかった、任せろ！",
+			"アフタル……頼んだよ。"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ええ！　アフタルが唄うというのなら……<%br>私たちは、全力でサポートしてみせるわ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "うん！　がんばる！<%br>だから……リーダーもお願い！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "決心がついたか……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ならば……ダークニクスである私たちは<%br>戦力にならない。お前たちで戦ってくれ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "おう、まかせろ！　お前たちは<%br>アフタルの歌を聴いたら、力がでないんだもんな！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "あぁ……そうだな。こればっかりは<%br>耳をふさいでもどうしようもねぇ。すまんな。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "みんな……お願い！<%br>わたし、がんばるから！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "がんばって……歌を、届かせるよ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "ねむれ……さぁ、おだやかに……<%br>ねむれ……さぁ、おだやかに……瞳、閉じたまま……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "強く捧げる祈り……眠れ、る……な……<%br>きらめく光よ……あさ……ゆめ……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "―ズガァァァァァァンッ！！―",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "きゃあぁぁっ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "大丈夫？　ナスリーン！！<%br>貴方に戦闘は無理よ！　後ろに下がってなさい！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "す、すみま……せん……<%br>足が……すくんでしまって……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "これが星骸布を侵食した宿主の力！？<%br>どんだけ強くなってるんだよ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "あ……アフタルの歌は効いてるのか？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "歌が完全に届いていないんだよ！<%br>これも、星骸布のせいかも！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "違う……単純な、力負けだ……<%br>やはり、アフタルの力では……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "はぁっ、はあ……ッ、はぁ……<%br>……ご、ごめん。やっぱり、ダメみたい……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "諦めないで！　宿主がまだ強いっていうなら<%br>私たちが、なんとしてでも弱らせるから！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "そうです！　唄ってください！！<%br>アフタルさんの歌だけが希望なんです！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "でも……<%br>わたしの歌じゃ……届かない……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……ならば、私も唄う。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "え……？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "祖母と母の境地には、私は未だ到ってはいない。<%br>……が、アフタル、お前の恐怖を私に預けろ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "で、でも……お姉ちゃんの歌は目覚めの歌……<%br>わたしの歌は唄えないよ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "私は、母とお前が唄う歌をずっと聴いていた。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "私に授けられたのは目覚めの歌だったが<%br>同じ血を、魂を受け継いでいるのだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "たとえ、癒しの歌にならなくとも……<%br>私の歌声が、お前の支えになるならば！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "でも、それじゃ、お姉ちゃんが……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "お前ひとりに辛い思いはさせない。<%br>その辛苦……私にも引き受けさせてくれ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "お姉ちゃん……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "……わかった。<%br>うん！　一緒に唄おう、お姉ちゃん！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "お姉ちゃんがそばにいてくれるなら<%br>一緒に唄ってくれるなら……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "できるかもしれない！<%br>……ううん、やってみせる！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "ねむれ……さぁ、おだやかに……<%br>ねむれ……さぁ、おだやかに……瞳、閉じたまま……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "アフタル……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "あぁー……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ッ！　すごいな！　アフタルちゃんの本気が<%br>伝わってくるみたいだ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "やる気になったみたいだな！<%br>だったら、オレたちだって！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "リーダー！　アフタルさんの歌を<%br>星骸布に届かせましょう！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "あぁー……く……ぐうぅ……ッ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "やっぱり無茶だよ、ホルシード！<%br>星骸布がない上に、アフタルの歌を支えるなんて！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "黙れ、リーン！！　私は……<%br>アフタルに恐怖を預けろと言った！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ならば私は……<%br>ならば私は……ぐ、うぅ……ッ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "……ッ、お姉ちゃん！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "なぜ、歌を止める……！<%br>私は、まだ……まだ、唄えるぞ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "でも、だって……お姉ちゃんはもう！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "星骸布を失っても良いのか！<%br>お前の覚悟は、その程度のものなのか！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "く……ッ！<%br>……ううん、ダメ。やだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "そうだ、私たちは託されたのだ。<%br>道を違えはしたが、星骸布を失えば全てが終わる。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "私とザヴァンラカーナの民……<%br>どちらが大事だ！　私を卑怯者にする気か！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "……ううん、ごめんなさい。<%br>わかった……もう、唄うのは止めない！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "もう一度……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "ねむれ……さぁ、おだやかに……<%br>ねむれ……さぁ、おだやかに……瞳、閉じたまま……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "あぁー……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "（……止める！）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "（止めたい……！）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "（……アフタルの歌を支えろ！）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "（お姉ちゃんと一緒に……！）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "……な、なんだぁ、この光は！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "リリリリーン！<%br>これって、星骸布の輝き……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "（これは……アフタルの星骸布の力……<%br>　私の中に流れ込んでくる……力が満ちる……）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "（お姉ちゃんの気持ちが……流れ込んでくる……<%br>　あったかい……お姉ちゃんと一緒なら、唄える！）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "アフタル&ホルシード",
+		"tr_name": "",
+		"jp_text": "あぁー……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "アフタル&ホルシード",
+		"tr_name": "",
+		"jp_text": "強く捧げる祈り……眠れ、る……な……<%br>きらめく光よ……あさ……ゆめ……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "見てください！　宿主が苦しんで……<%br>ダーカー因子が分散しています！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "アークス！　歌が響いている！<%br>ダーカー因子は無力化した！　今ならいけるぞ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "大将の……アフタルの覚悟を無駄にするなっ！<%br>やれ！　アークス！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "そ……ソルーシュ！？　本当に！？<%br>で、でも……アイツ、急に暴れだしたってば！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "おチビ、今さら疑うなって！　最後のあがきだ！<%br>この機を逃すな！　リーダー……ここで決めるぞ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "さすが、リーダー……<%br>これで……星骸布……は…………",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "ふぅ……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "アフタル！？　どうしたんだ、アフタル！<%br>リーン！　アフタルが倒れちゃったってば！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "大丈夫。力を使いすぎただけだよ。<%br>ダーカー因子を補充すれば、すぐに起きるよ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……アンプルね。確か、このケースに……<%br>えっ？　もう１本も残ってないわよ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "さっき……ホルシードを助けるために使ったのが<%br>最後の１本だったってことか！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ホルシードさん！　アフタルさんにアンプルを<%br>……あれ、ホルシードさん、どこに？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "あーっ！　アイツ、スコアを回収してるぞ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "もしかしなくても……アフタルちゃんを……<%br>実の妹を利用したってことか。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ハァ……ハァ……<%br>すべては……我らがヴィーナーの宿願のため。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "エルジマルトの民を……救うためだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "アフタルのダークニクスに異常は見られない。<%br>安静にしていれば生命は維持できる。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "そういうことじゃないでしょ！<%br>貴方だって、アフタルの気持ちは知ってるはずよ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "最低限のアンプルは置いていく。<%br>……アフタルに使え。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "……って、１本だけかよ！？<%br>そんなんじゃ、足りないってば！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "アフタルが戦う必要はない。我らが計画の完遂を<%br>安全な場所で待っていればいいのだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "そのためにも……<%br>この星骸布は私が回収する。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ホルシード！　貴方たちは、どこまで……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "後悔など……すでに済ませた。<%br>汚名など……もう、気にもならん……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "アフタルの理解を得られないのは<%br>先刻、承知していること……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "だがこれが……<%br>今の私が選ばねばならない道なのだ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ホルシード……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "も、もしかして……<%br>アフタルさんの星骸布も……奪うつもり！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "言ったはずだ……これが私の選んだ道だと。<%br>……私も消耗が激しい……加減はできぬぞ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "言ったはずだ……これが私の選んだ道だと。<%br>……私も消耗が激しい……加減はできぬぞ。",
+		"tr_text": "",
+		"jp_buttons": [
+			"一緒に戦ったじゃないか！",
+			"……やるしかないのか？"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 3
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "刃を交えたくないのであれば、立ち塞がるな。<%br>立ち塞がるのであれば、刃に迷いを持つな！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "共闘の時は過ぎ去り、元の関係へと戻った。<%br>ただ……それだけのことだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "リーダー、やめてください！<%br>ホルシードさんもお願いですから……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "……待ってください！<%br>その戦い……ちょっと待って！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "この声……スレイマン？　<%br>貴方、こんな大事な時に、なにを……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "通信をオープンにしてください。<%br>ホルシードさんにお話したいことがあります。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "ホルシードさん……ヴィーナーの代表者である<%br>あなたに、提案したいことがあります。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "アークスは、エルジマルトの未来のため<%br>協力する準備があります。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "33",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "ダークファルスという脅威に立ち向かうため<%br>共同戦線を張るというのはどうでしょうか？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "34",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……信じられんな。<%br>これまでの……貴様らの所業を考えれば。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "35",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "だからこそ、話がしたいのです。<%br>互いのことを知れば……新たな選択肢も生まれます。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "36",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "可能性を探りませんか？<%br>互いにとって輝ける未来のために……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "37",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
 	}
 ]

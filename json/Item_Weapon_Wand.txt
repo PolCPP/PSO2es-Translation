@@ -1227,8 +1227,15 @@
 	{
 		"assign": "1130349",
 		"jp_text": "アトラアイト",
-		"tr_text": "Atra Eyth",
+		"tr_text": "Atlas Eyth",
 		"jp_explain": "過去に戦場となった地域から発掘された\n短杖。技術者の手によって修復された。\n失われていた神聖な力も復活している。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1130350",
+		"jp_text": "アトラアイト・イクス",
+		"tr_text": "Atlas Eyth Ex",
+		"jp_explain": "過去に戦場となった地域から発掘された\n短杖。紅き宝石の眠れる力を呼び\n覚ました姿。神聖な力の奔流を放つ。",
 		"tr_explain": ""
 	},
 	{
@@ -1288,11 +1295,39 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "1130394",
+		"jp_text": "オフスティアアックス-NT",
+		"tr_text": "Austere Axe-NT",
+		"jp_explain": "負の力を識り、制することで転化した\n浄化の短杖。与えられた大いなる明智は\n災難を鎮め、平安をもたらす力となる。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1130395",
 		"jp_text": "ホムラノトモシビ",
 		"tr_text": "Homura no Tomoshibi",
 		"jp_explain": "とある地方の伝統意匠を取り入れた\n短杖。絶え間なく燃える灯火を\nあらわす意匠は、美しく厳か。",
 		"tr_explain": "A wand based on a traditional design.\nThe beautiful design represents an\neternal flame."
+	},
+	{
+		"assign": "1130397",
+		"jp_text": "深遠棍アスピラシオン",
+		"tr_text": "Profound Aspiraxion",
+		"jp_explain": "終わりなき物語を辿る者の絶望により\n生み出された短杖。一縷の望みも\n赦されぬ悲嘆にくれ、理想を失う。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1130398",
+		"jp_text": "星震棍アスピラシオン",
+		"tr_text": "Celestial Aspiraxion",
+		"jp_explain": "時を遡る者の世界を想う心によって\n覚醒した短杖。希望の灯火は虚無を\n打ち消し、確固たる力をもたらす。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1130399",
+		"jp_text": "光跡棍アスピラシオン",
+		"tr_text": "Lightstream Aspiraxion",
+		"jp_explain": "時を遡りし者の結んだ絆が創り出した\n星を繋ぐ短杖。灯火を宿した希望は\n力となり、光輝ある明日へと導く。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "1130403",

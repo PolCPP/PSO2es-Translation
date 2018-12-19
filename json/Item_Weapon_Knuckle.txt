@@ -1143,8 +1143,15 @@
 	{
 		"assign": "160275",
 		"jp_text": "アトラバディ",
-		"tr_text": "Atra Body",
+		"tr_text": "Atlas Body",
 		"jp_explain": "過去に戦場となった地域から発掘された\n鋼拳。絢爛な装飾や意匠の詳細が判明し\n欠損した箇所の修復が行われた。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "160276",
+		"jp_text": "アトラバディ・イクス",
+		"tr_text": "Atlas Body Ex",
+		"jp_explain": "過去に戦場となった地域から発掘された\n鋼拳。煌めく緋色の宝石は光となり\nその輝きは、戦場での希望となる。",
 		"tr_explain": ""
 	},
 	{
@@ -1180,6 +1187,13 @@
 		"jp_text": "インヴェイドフィスト-NT",
 		"tr_text": "Invade Fist-NT",
 		"jp_explain": "【深遠なる闇】より生まれし負の鋼拳。\n装者は武の極致に魅せられ、鮮血と\n戦場に飢えた狂戦士へと変わる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "160288",
+		"jp_text": "オフスティアフィスト-NT",
+		"tr_text": "Austere Fist-NT",
+		"jp_explain": "負の力を識り、制することで転化した\n浄化の鋼拳。装者は己に打ち克ち\n猛き覇者へと昇華し、梟雄を討つ。",
 		"tr_explain": ""
 	},
 	{
@@ -1237,5 +1251,26 @@
 		"tr_text": "Ares Nest-NT",
 		"jp_explain": "女神の幻獣の力を宿した鋼拳。装者に\nフォトンブラストの効果で揺るがぬ力を\n与え、あらゆるものを打ち砕かせる。",
 		"tr_explain": "Knuckles harboring the power of a\nPhoton Blast. They shatter everything\nwith unwavering strength."
+	},
+	{
+		"assign": "160301",
+		"jp_text": "深遠拳アサーシオン",
+		"tr_text": "Profound Asserxion",
+		"jp_explain": "終わりなき物語を辿る者の絶望により\n生み出された鋼拳。繰り返される悲劇に\n捕らわれ続けた末、深き闇へと沈む。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "160302",
+		"jp_text": "星震拳アサーシオン",
+		"tr_text": "Celestial Asserxion",
+		"jp_explain": "時を遡る者の世界を想う心によって\n覚醒した鋼拳。満ちた闇を断ち切り\nその拳はまばゆい輝きを宿す。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "160303",
+		"jp_text": "光跡拳アサーシオン",
+		"tr_text": "Lightstream Asserxion",
+		"jp_explain": "時を遡りし者の結んだ絆が創り出した\n星を繋ぐ鋼拳。ほとばしる希望の炎は\n望まれた未来を約束する拳となる。",
+		"tr_explain": ""
 	}
 ]
