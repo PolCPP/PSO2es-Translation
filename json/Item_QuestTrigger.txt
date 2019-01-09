@@ -322,10 +322,24 @@
 		"tr_explain": "[Merry Christmas On Ice 2018]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
 	},
 	{
+		"assign": "373049",
+		"jp_text": "闇の狂宴トリガー",
+		"tr_text": "Revelry Trigger",
+		"jp_explain": "星芒喰らう闇の狂宴を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[Revelry of Darkness]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
 		"assign": "373050",
 		"jp_text": "悲劇を願う破滅トリガー",
 		"tr_text": "Specter Destruction Trigger",
 		"jp_explain": "悲劇を願う破滅の虚影を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
 		"tr_explain": "[The Specter of Destruction]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373051",
+		"jp_text": "輝光：母なる神トリガー",
+		"tr_text": "Solo T: Earth Destroyers Trigger",
+		"jp_explain": "輝光を砕く母なる神を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[The Destroyers of Light]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
 	}
 ]
