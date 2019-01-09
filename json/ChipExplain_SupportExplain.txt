@@ -3279,14 +3279,14 @@
 		"assign": "31557",
 		"jp_explainShort": "定期的に攻撃力を小増加＋ダメージ軽減",
 		"tr_explainShort": "Damage boosted over time + dam. resist",
-		"jp_explainLong": "① 定期的に攻撃力をわずか増加にする。（最大時：絶大）\n② 敵から受けるダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
+		"jp_explainLong": "① 定期的に攻撃力をわずかに増加する。（最大時：絶大）\n② 敵から受けるダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
 		"tr_explainLong": "① Slightly boosts damage at regular intervals.\n    (Maximum boost: Immense)\n    <color=yellow>[G-Frame]</color>\n② Reduces damage taken from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31558",
 		"jp_explainShort": "定期的に攻撃力を小増加＋ダメージ軽減",
 		"tr_explainShort": "Damage boosted over time + dam. resist",
-		"jp_explainLong": "① 定期的に攻撃力をわずか増加にする。（最大時：絶大）\n② 敵から受けるダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
+		"jp_explainLong": "① 定期的に攻撃力をわずかに増加する。（最大時：絶大）\n② 敵から受けるダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
 		"tr_explainLong": "① Slightly boosts damage at regular intervals.\n    (Maximum boost: Immense)\n    <color=yellow>[G-Frame]</color>\n② Reduces damage taken from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Long"
 	},
 	{
@@ -4658,14 +4658,14 @@
 		"assign": "31838",
 		"jp_explainShort": "風光闇技法攻撃力超絶増＋消費ＣＰ減",
 		"tr_explainShort": "Wi/Li/Da PA&Tech boost + CP use down",
-		"jp_explainLong": "① 必殺技・法術チップが風・光・闇属性の場合は\n　　 威力を超絶に増加する。\n③ 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"jp_explainLong": "① 必殺技・法術チップが風・光・闇属性の場合は\n　　 威力を超絶に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
 		"tr_explainLong": "① Overwhelmingly boosts Wind, Light and Dark PAs\n    and Techs.\n    <color=yellow>[K-Frame]</color>\n③ Reduces CP consumption.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31839",
 		"jp_explainShort": "風光闇技法攻撃力超絶増＋消費ＣＰ減",
 		"tr_explainShort": "Wi/Li/Da PA&Tech boost + CP use down",
-		"jp_explainLong": "① 必殺技・法術チップが風・光・闇属性の場合は\n　　 威力を超絶に増加する。\n③ 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"jp_explainLong": "① 必殺技・法術チップが風・光・闇属性の場合は\n　　 威力を超絶に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
 		"tr_explainLong": "① Overwhelmingly boosts Wind, Light and Dark PAs\n    and Techs.\n    <color=yellow>[K-Frame]</color>\n③ Reduces CP consumption.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
@@ -4698,58 +4698,58 @@
 	},
 	{
 		"assign": "31860",
-		"jp_explainShort": "-",
+		"jp_explainShort": "威力を劇的増加",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 威力を劇的に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31861",
-		"jp_explainShort": "-",
+		"jp_explainShort": "威力を絶大増加",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 威力を絶大に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31862",
-		"jp_explainShort": "-",
+		"jp_explainShort": "炎雷風の技・法の攻撃力絶大増",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 必殺技・法術チップが炎・雷・風属性の場合は\n　　 威力を絶大に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31863",
-		"jp_explainShort": "-",
+		"jp_explainShort": "炎雷風の技・法の攻撃力絶大増",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 必殺技・法術チップが炎・雷・風属性の場合は\n　　 威力を絶大に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31866",
-		"jp_explainShort": "-",
+		"jp_explainShort": "攻撃力絶大増＋炎氷属性武器で攻撃力大増",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中の武器の属性が炎・氷の場合\n　　 攻撃力を大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31867",
-		"jp_explainShort": "-",
+		"jp_explainShort": "攻撃力絶大増＋炎氷属性武器で攻撃力大増",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中の武器の属性が炎・氷の場合\n　　 攻撃力を大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31868",
-		"jp_explainShort": "-",
+		"jp_explainShort": "アビＬｖ炎技法攻撃力大増＋効果時間延長",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 必殺技・法術チップが炎属性の場合は\n　　 アビリティレベルに応じて威力を大きく増加する。\n② 装備中の炎属性チップの枚数に応じて\n　　 炎属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "31869",
-		"jp_explainShort": "-",
+		"jp_explainShort": "アビＬｖ炎技法攻撃力劇的増＋効果時間延長",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 必殺技・法術チップが炎属性の場合は\n　　 アビリティレベルに応じて威力を劇的に増加する。\n② 装備中の炎属性チップの枚数に応じて\n　　 炎属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
@@ -6798,16 +6798,16 @@
 	},
 	{
 		"assign": "40275",
-		"jp_explainShort": "-",
+		"jp_explainShort": "炎属性時小増＋両剣時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 炎属性の武器の場合に威力をわずかに増加する。\n② 両剣の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40276",
-		"jp_explainShort": "-",
+		"jp_explainShort": "炎属性時増＋両剣時増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 炎属性の武器の場合に威力を増加する。\n② 両剣の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
@@ -7288,16 +7288,16 @@
 	},
 	{
 		"assign": "40345",
-		"jp_explainShort": "-",
+		"jp_explainShort": "闇属性時小増＋長銃時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 闇属性の武器の場合に威力をわずかに増加する。\n② 長銃の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40346",
-		"jp_explainShort": "-",
+		"jp_explainShort": "闇属性時増＋長銃時増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 闇属性の武器の場合に威力を増加する。\n② 長銃の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
