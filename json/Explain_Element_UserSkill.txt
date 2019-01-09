@@ -765,9 +765,9 @@
 	{
 		"assign": "109",
 		"jp_text": "錬成の導き",
-		"tr_text": "",
+		"tr_text": "Guidance Trainer",
 		"jp_explain": "この装備品への\n特殊能力追加成功率が\n5％上昇する。",
-		"tr_explain": ""
+		"tr_explain": "Boosts Special Ability<br>transfer success rate<br>by 5%."
 	},
 	{
 		"assign": "110",
@@ -3105,14 +3105,14 @@
 		"jp_text": "Ｓ４：六色の輝秤",
 		"tr_text": "S4:Colored Spectrum",
 		"jp_explain": "花・海・葉・月・雪・影の\nいずれかが発動中\nＰＰ消費量を軽減するが\nＰＰ自然回復量は低下。",
-		"tr_explain": ""
+		"tr_explain": "While Petal, Ocean,\nLeaf, Moon, Snow or\nShadow Flash is active:\nReduces your PP\nconsumption, but also\nreduces natural PP\nregeneration."
 	},
 	{
 		"assign": "444",
 		"jp_text": "Ｓ２：走者高揚",
-		"tr_text": "",
+		"tr_text": "S2:Sprinter's Boost",
 		"jp_explain": "ダッシュ状態時\nＰＰ自然回復量が\n100％上昇し\nＨＰが5秒ごとに回復。",
-		"tr_explain": ""
+		"tr_explain": "While dashing, boosts\nPP regeneration by\n100% and recovers\nHP every 5 seconds."
 	},
 	{
 		"assign": "445",
@@ -3124,9 +3124,9 @@
 	{
 		"assign": "446",
 		"jp_text": "Ｓ１：賭死の撃",
-		"tr_text": "",
+		"tr_text": "S1:Gambling Strike",
 		"jp_explain": "被ダメージ回数に応じて\n3段階の威力上昇。\n最大段階時の被ダメージで\n自身が戦闘不能になり\n周囲に与ダメージ。",
-		"tr_explain": ""
+		"tr_explain": "Boosts power each\ntime you take damage,\nup to three levels. If\nyou take damage at\nmaximum boost,\ndamages you and\neverything around you."
 	},
 	{
 		"assign": "447",
@@ -3138,9 +3138,9 @@
 	{
 		"assign": "448",
 		"jp_text": "Ｓ２：火炎の備志",
-		"tr_text": "",
+		"tr_text": "S2:Flaming Guard",
 		"jp_explain": "炎属性、バーン耐性が\n上昇。敵の弱点属性が\n炎属性の時、威力上昇。",
-		"tr_explain": ""
+		"tr_explain": "Increases your Fire\nattribute and Burn\nresistance. Boosts\npower against enemies\nthat are weak to Fire."
 	},
 	{
 		"assign": "449",
@@ -3257,9 +3257,9 @@
 	{
 		"assign": "465",
 		"jp_text": "Ｓ１：打撃増幅",
-		"tr_text": "",
+		"tr_text": "S1:Strike Boost",
 		"jp_explain": "特殊能力の追加打撃力\n60毎に、威力1％上昇し\n200以上で更に2％上昇。",
-		"tr_explain": ""
+		"tr_explain": "Boosts power by 1%\nfor every 60 S-ATK\naffixed to the item,\nand boosts by a\nfurther 2% at 200+."""
 	},
 	{
 		"assign": "466",
@@ -3278,9 +3278,9 @@
 	{
 		"assign": "468",
 		"jp_text": "Ｓ１：射撃増幅",
-		"tr_text": "",
+		"tr_text": "S1:Shoot Boost",
 		"jp_explain": "特殊能力の追加射撃力\n60毎に、威力1％上昇し\n200以上で更に2％上昇。",
-		"tr_explain": ""
+		"tr_explain": "Boosts power by 1%\nfor every 60 R-ATK\naffixed to the item,\nand boosts by a\nfurther 2% at 200+."
 	},
 	{
 		"assign": "469",
@@ -3299,9 +3299,9 @@
 	{
 		"assign": "471",
 		"jp_text": "Ｓ１：法撃増幅",
-		"tr_text": "",
+		"tr_text": "S1:Tech Boost",
 		"jp_explain": "特殊能力の追加法撃力\n60毎に、威力1％上昇し\n200以上で更に2％上昇。",
-		"tr_explain": ""
+		"tr_explain": "Boosts power by 1%\nfor every 60 T-ATK\naffixed to the item,\nand boosts by a\nfurther 2% at 200+."
 	},
 	{
 		"assign": "472",
@@ -3320,9 +3320,9 @@
 	{
 		"assign": "474",
 		"jp_text": "Ｓ１：錬成の志",
-		"tr_text": "S1: Sprinter's Boost",
+		"tr_text": "S1:Guiding Intent",
 		"jp_explain": "特殊能力の付与数に\n応じて威力上昇。\n最大で4％。",
-		"tr_explain": ""
+		"tr_explain": "Boosts power for each<br>special ability affixed<br>to the item. Maximum<br>boost: 4%.""""
 	},
 	{
 		"assign": "475",
@@ -3355,9 +3355,9 @@
 	{
 		"assign": "479",
 		"jp_text": "Ｓ３：静心活与",
-		"tr_text": "",
+		"tr_text": "S3:Calming Exhilaration",
 		"jp_explain": "通常攻撃が命中した時\nＨＰが70回復。\n発動後リキャスト発生。",
-		"tr_explain": ""
+		"tr_explain": "Recovers 70 HP when<br>you hit with a normal<br>attack. Has a cooldown<br>between activations."
 	},
 	{
 		"assign": "480",
