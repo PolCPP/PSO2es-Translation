@@ -104,7 +104,7 @@ print("Item_Stack_Voice.txt loaded.")
 items_file.close()
 
 cv_names = {
-	"こおろぎさとみ": "Satomi Korogi", "チョー": "Cho",
+    "こおろぎさとみ": "Satomi Korogi", "チョー": "Cho",
     "下野 紘": "Hiro Shimono", "中原 麻衣": "Mai Nakahara",
     "中尾 隆聖": "Ryusei Nakao", "中村 悠一": "Yuichi Nakamura",
     "中田 譲治": "Joji Nakata", "中西 茂樹": "Shigeki Nakanishi",
@@ -170,7 +170,7 @@ cv_names = {
     "陶山 章央": "Akio Suyama", "雨宮 天": "Sora Amamiya",
     "飛田 展男": "Nobuo Tobita", "飯田 友子": "Yuko Iida",
     "高木 友梨香": "Yurika Takagi", "高野 麻里佳": "Marika Kono",
-	"安元 洋貴": "Hiroki Yasumoto",
+    "安元 洋貴": "Hiroki Yasumoto",
     "？？？": "???", "Ｍ・Ａ・Ｏ": "M・A・O"
     }
 
@@ -179,7 +179,7 @@ for item in items:
     and (len(regex.findall("Salon", item["tr_explain"])) > 0
          or item["tr_explain"] == "")):
         item["tr_explain"] = "Allows a new voice to be selected.\n"
-	
+    
         if len(regex.findall("人間男性のみ使用可能。", item["jp_explain"])) > 0:
             item["tr_explain"] += "Non-Cast male characters only."
         elif len(regex.findall("人間女性のみ使用可能。", item["jp_explain"])) > 0:
