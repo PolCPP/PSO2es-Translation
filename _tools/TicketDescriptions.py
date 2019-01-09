@@ -170,6 +170,7 @@ cv_names = {
     "陶山 章央": "Akio Suyama", "雨宮 天": "Sora Amamiya",
     "飛田 展男": "Nobuo Tobita", "飯田 友子": "Yuko Iida",
     "高木 友梨香": "Yurika Takagi", "高野 麻里佳": "Marika Kono",
+	"安元 洋貴": "Hiroki Yasumoto",
     "？？？": "???", "Ｍ・Ａ・Ｏ": "M・A・O"
     }
 
