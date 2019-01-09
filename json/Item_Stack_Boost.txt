@@ -742,10 +742,24 @@
 		"tr_explain": "Beef flavored with wasabi.\n[10 min] ATK +200 DEF +100\nRare Drop Rate +25%"
 	},
 	{
+		"assign": "320138",
+		"jp_text": "バレンタインチョコ’１９",
+		"tr_text": "Valentines Chocolate '19",
+		"jp_explain": "手作りのバレンタインチョコ。\n【５分間】全ステータス＋１０\nレアドロップ倍率＋５０％",
+		"tr_explain": "Handmade valentines chocolate.\n[5 min] All +10\nRare Drop Rate +50%"
+	},
+	{
 		"assign": "320140",
-		"jp_text": "￥スイパラ新ブースト",
-		"tr_text": "￥Sweets Neo Boost",
-		"jp_explain": "￥フレーバー記入行\n【10分間】打・射・法撃力＋２００　\nレアドロップ倍率＋２５％　獲得経験値＋５０％",
-		"tr_explain": "￥New Flavor Line\n[10 min] ATK +200\nRare Drop Rate +25% EXP +50%"
+		"jp_text": "ルーサーの全知パフェ",
+		"tr_text": "Luther's Omniscience Parfait",
+		"jp_explain": "ＰＳＯ２アークスカフェのコラボスイーツ。\n【１０分間】打・射・法撃力＋２００\nレアドロップ倍率＋２５％\n獲得経験値＋５０％",
+		"tr_explain": "A PSO2 ARKS Cafe Collab item.\n[10 min] ATK +200\nRare Drop Rate +25% EXP +50%"
+	},
+	{
+		"assign": "320144",
+		"jp_text": "新年祭記念ドーナッツ’１９",
+		"tr_text": "New Years Memorial Donut '19",
+		"jp_explain": "新たな年の到来を祝い\n作成された特製ドーナッツ。\n【５分間】トライブースト＋５０％",
+		"tr_explain": "A special donut that was created\nfor the coming of a new year.\n[5 min] Tri-Boost +50%"
 	}
 ]
