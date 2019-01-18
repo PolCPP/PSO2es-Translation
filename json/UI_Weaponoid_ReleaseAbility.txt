@@ -818,5 +818,35 @@
 		"assign": "91003",
 		"jp_text": "このチップの効果の発動を攻撃ヒット時に変更する。",
 		"tr_text": "This chip's activation condition changes to\n'when you successfully hit with an attack'."
+	},
+	{
+		"assign": "121",
+		"jp_text": "このチップのアビリティの効果時間を10秒延長する。",
+		"tr_text": "Ability's Effect Duration is extended by 10 seconds."
+	},
+	{
+		"assign": "201",
+		"jp_text": "風属性が＋130上昇する。",
+		"tr_text": "Wind element increases by 130 when equipped."
+	},
+	{
+		"assign": "166",
+		"jp_text": "このチップのアビリティの効果時間を10秒延長する。",
+		"tr_text": "Ability's Effect Duration is extended by 10 seconds."
+	},
+	{
+		"assign": "158",
+		"jp_text": "このチップのアビリティの効果の対象に\n風属性を追加する。",
+		"tr_text": "This chip's element value is also added\nto the Wind element when equipped."
+	},
+	{
+		"assign": "91073",
+		"jp_text": "このチップのコストが6減少する。",
+		"tr_text": "This chip's equip cost is reduced by 6."
+	},
+	{
+		"assign": "91029",
+		"jp_text": "このチップの効果の発動を攻撃ヒット時に変更する。",
+		"tr_text": "This chip's activation condition changes to\n'when you successfully hit with an attack'."
 	}
 ]
