@@ -7807,7 +7807,7 @@
 	{
 		"assign": "chipequip_limit",
 		"jp_text": "限定",
-		"tr_text": "Limit"
+		"tr_text": "only"
 	},
 	{
 		"assign": "chip_type_active",
@@ -9012,92 +9012,92 @@
 	{
 		"assign": "wa_sword",
 		"jp_text": "大剣",
-		"tr_text": " "
+		"tr_text": "Sword"
 	},
 	{
 		"assign": "wa_wired_lance",
 		"jp_text": "自在槍",
-		"tr_text": " "
+		"tr_text": "Wired Lance"
 	},
 	{
 		"assign": "wa_partisan",
 		"jp_text": "長槍",
-		"tr_text": " "
+		"tr_text": "Partizan"
 	},
 	{
 		"assign": "wa_double_saber",
 		"jp_text": "両剣",
-		"tr_text": " "
+		"tr_text": "Double Saber"
 	},
 	{
 		"assign": "wa_twin_dagger",
 		"jp_text": "双小剣",
-		"tr_text": " "
+		"tr_text": "Twin Daggers"
 	},
 	{
 		"assign": "wa_knuckle",
 		"jp_text": "鋼拳",
-		"tr_text": " "
+		"tr_text": "Knuckles"
 	},
 	{
 		"assign": "wa_gun_slash",
 		"jp_text": "銃剣",
-		"tr_text": " "
+		"tr_text": "Gunslash"
 	},
 	{
 		"assign": "wa_assault_rifle",
 		"jp_text": "長銃",
-		"tr_text": " "
+		"tr_text": "Assault Rifle"
 	},
 	{
 		"assign": "wa_launcher",
 		"jp_text": "大砲",
-		"tr_text": " "
+		"tr_text": "Launcher"
 	},
 	{
 		"assign": "wa_twin_machinegun",
 		"jp_text": "双機銃",
-		"tr_text": " "
+		"tr_text": "T. Machineguns"
 	},
 	{
 		"assign": "wa_rod",
 		"jp_text": "長杖",
-		"tr_text": " "
+		"tr_text": "Rod"
 	},
 	{
 		"assign": "wa_talis",
 		"jp_text": "導具",
-		"tr_text": " "
+		"tr_text": "Talis"
 	},
 	{
 		"assign": "wa_wand",
 		"jp_text": "短杖",
-		"tr_text": " "
+		"tr_text": "Wand"
 	},
 	{
 		"assign": "wa_katana",
 		"jp_text": "抜剣",
-		"tr_text": " "
+		"tr_text": "Katana"
 	},
 	{
 		"assign": "wa_compoundbow",
 		"jp_text": "強弓",
-		"tr_text": " "
+		"tr_text": "Bullet Bow"
 	},
 	{
 		"assign": "wa_jetboots",
 		"jp_text": "魔装脚",
-		"tr_text": " "
+		"tr_text": "Jet Boots"
 	},
 	{
 		"assign": "wa_dualblade",
 		"jp_text": "飛翔剣",
-		"tr_text": " "
+		"tr_text": "Dual Blades"
 	},
 	{
 		"assign": "wa_tact",
 		"jp_text": "奏具",
-		"tr_text": " "
+		"tr_text": "Takt"
 	},
 	{
 		"assign": "loginbonus_fun",
@@ -17547,7 +17547,7 @@
 	{
 		"assign": "LimitWeaponSword",
 		"jp_text": "大剣",
-		"tr_text": "SW"
+		"tr_text": "Sword"
 	},
 	{
 		"assign": "LimitWeaponPartizan",
@@ -17562,12 +17562,12 @@
 	{
 		"assign": "LimitWeaponAssaultRifle",
 		"jp_text": "長銃",
-		"tr_text": "AR"
+		"tr_text": "Rifle"
 	},
 	{
 		"assign": "LimitWeaponLauncher",
 		"jp_text": "大砲",
-		"tr_text": "LN."
+		"tr_text": "LN"
 	},
 	{
 		"assign": "LimitWeaponRod",
@@ -17577,17 +17577,17 @@
 	{
 		"assign": "LimitWeaponTalis",
 		"jp_text": "導具",
-		"tr_text": "TL"
+		"tr_text": "Talis"
 	},
 	{
 		"assign": "LimitWeaponKnuckle",
 		"jp_text": "鋼拳",
-		"tr_text": "KN"
+		"tr_text": "Knux."
 	},
 	{
 		"assign": "LimitWeaponTwinDagger",
 		"jp_text": "双小剣",
-		"tr_text": "TD"
+		"tr_text": "TDs"
 	},
 	{
 		"assign": "LimitWeaponDoubleSaber",
@@ -17597,12 +17597,12 @@
 	{
 		"assign": "LimitWeaponWand",
 		"jp_text": "短杖",
-		"tr_text": "WD"
+		"tr_text": "Wand"
 	},
 	{
 		"assign": "LimitWeaponTwinMachineGun",
 		"jp_text": "双機銃",
-		"tr_text": "TMG"
+		"tr_text": "TMGs"
 	},
 	{
 		"assign": "LimitWeaponKatana",
@@ -17612,7 +17612,7 @@
 	{
 		"assign": "LimitWeaponCompoundBow",
 		"jp_text": "強弓",
-		"tr_text": "BW"
+		"tr_text": "Bow"
 	},
 	{
 		"assign": "LimitWeaponUnarmed",
@@ -17622,12 +17622,12 @@
 	{
 		"assign": "LimitWeaponJetBoots",
 		"jp_text": "魔装脚",
-		"tr_text": "JB"
+		"tr_text": "JBs"
 	},
 	{
 		"assign": "LimitWeaponDualBlade",
 		"jp_text": "飛翔剣",
-		"tr_text": "DB"
+		"tr_text": "DBs"
 	},
 	{
 		"assign": "LimitWeaponReserve3",
