@@ -214,14 +214,14 @@
 		"jp_explainShort": "定期的にＨＰを小回復",
 		"tr_explainShort": "HP recovery over time",
 		"jp_explainLong": "① 定期的にＨＰをわずかに回復する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Slightly recover HP at regular intervals.\n[Effect Duration] Medium"
+		"tr_explainLong": "① Slightly recovers HP at regular intervals.\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "1620",
 		"jp_explainShort": "定期的にＨＰを小回復",
 		"tr_explainShort": "HP recovery over time",
 		"jp_explainLong": "① 定期的にＨＰをわずかに回復する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Slightly recover HP at regular intervals.\n[Effect Duration] Medium"
+		"tr_explainLong": "① Slightly recovers HP at regular intervals.\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "30001",
@@ -732,14 +732,14 @@
 		"jp_explainShort": "属性種類数ダメージ大増加＋定期ＣＰ回復",
 		"tr_explainShort": "Damage boost x # Elems + CP over time",
 		"jp_explainLong": "① 装備中チップの属性種類数に応じて\n　　 攻撃力を大きく増加する。\n② 装備中チップの属性種類数に応じて\n　　 定期的にＣＰをわずかに回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Greatly boosts damage based on the number of\n    different chip elements equipped.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers CP at regular intervals.\n[Effect Duration] Long"
+		"tr_explainLong": "① Greatly boosts damage based on the number of\n    different chip elements equipped.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers CP at regular intervals based on\n    the number of different chip elements equipped.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31138",
 		"jp_explainShort": "属性種類数ダメージ劇的増＋定期ＣＰ回復",
 		"tr_explainShort": "Damage boost x # Elems + CP over time",
 		"jp_explainLong": "① 装備中チップの属性種類数に応じて\n　　 攻撃力を劇的に増加する。\n② 装備中チップの属性種類数に応じて\n　　 定期的にＣＰをわずかに回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Dramatically boosts damage based on the number\n    of different chip elements equipped.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers CP at regular intervals.\n[Effect Duration] Long"
+		"tr_explainLong": "① Dramatically boosts damage based on the number\n    of different chip elements equipped.\n    <color=yellow>[E-Frame]</color>\n② Slightly recovers CP at regular intervals based on\n    the number of different chip elements equipped.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31141",
@@ -1516,14 +1516,14 @@
 		"jp_explainShort": "ダメージ極度増加＋効果終了時に被ダメージ",
 		"tr_explainShort": "Damage boost + take damage at the end",
 		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 効果時間終了時に最大ＨＰの９０％の\n　　 ダメージを受ける。（ＨＰは最低でも１残る）\n　　 ただし、ＨＰが９０％未満の場合\n　　 このチップを発動できない。\n[効果時間]一定時間",
-		"tr_explainLong": "① Maximally boosts damage.\n    <color=yellow>[E-Frame]</color>\n② When this effect ends, you take damage equal to\n    90% of your maximum HP. (Cannot reduce your HP\n    below 1).\n    You cannot activate this chip when below 90% HP.\n[Effect Duration] Medium"
+		"tr_explainLong": "① Maximally boosts damage.\n    <color=yellow>[E-Frame]</color>\n② When this effect ends, you take damage equal to\n    90% of your maximum HP.\n    (Cannot reduce your HP below 1).\n    You cannot activate this chip when below 90% HP.\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31571",
 		"jp_explainShort": "ダメージ極度増加＋効果終了時に被ダメージ",
 		"tr_explainShort": "Damage boost + take damage at the end",
 		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 効果時間終了時に最大ＨＰの９０％の\n　　 ダメージを受ける。（ＨＰは最低でも１残る）\n　　 ただし、ＨＰが９０％未満の場合\n　　 このチップを発動できない。\n[効果時間]一定時間",
-		"tr_explainLong": "① Maximally boosts damage.\n    <color=yellow>[E-Frame]</color>\n② When this effect ends, you take damage equal to\n    90% of your maximum HP. (Cannot reduce your HP\n    below 1).\n    You cannot activate this chip when below 90% HP.\n[Effect Duration] Medium"
+		"tr_explainLong": "① Maximally boosts damage.\n    <color=yellow>[E-Frame]</color>\n② When this effect ends, you take damage equal to\n    90% of your maximum HP.\n    (Cannot reduce your HP below 1).\n    You cannot activate this chip when below 90% HP.\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31576",
@@ -1726,21 +1726,21 @@
 		"jp_explainShort": "攻撃力超絶増＋定期ＣＰ回復＋攻撃威力強化",
 		"tr_explainShort": "Dam. boost + CP rec. + boost x Wp link",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 定期的にＣＰを回復する。\n③ 全てのリンクスロットに装備した\n　　 ウェポノイドチップの枚数に応じ攻撃の威力を強化する。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Recovers CP at regular intervals.\n③ Boosts damage based on the number of\n    Weaponoid chips equipped in all link slots.\n    <color=yellow>[Q-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Wind PAs and Techs are reduced.\n[Effect Duration] Long"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Recovers CP at regular intervals.\n③ Boosts attack power based on the number of\n    Weaponoid chips equipped in all link slots.\n    <color=yellow>[Q-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Wind PAs and Techs are reduced.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31667",
 		"jp_explainShort": "攻撃力超絶増＋定期ＣＰ回復＋攻撃威力強化",
 		"tr_explainShort": "Dam. boost + CP rec. + boost x Wp link",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 定期的にＣＰを回復する。\n③ 全てのリンクスロットに装備した\n　　 ウェポノイドチップの枚数に応じ攻撃の威力を強化する。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Recovers CP at regular intervals.\n③ Boosts damage based on the number of\n    Weaponoid chips equipped in all link slots.\n    <color=yellow>[Q-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Wind PAs and Techs are reduced.\n[Effect Duration] Long"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Recovers CP at regular intervals.\n③ Boosts attack power based on the number of\n    Weaponoid chips equipped in all link slots.\n    <color=yellow>[Q-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Wind PAs and Techs are reduced.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31668",
 		"jp_explainShort": "攻撃力超絶増＋定期ＣＰ回復＋攻撃威力強化",
 		"tr_explainShort": "Dam. boost + CP rec. + boost x Wp link",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 定期的にＣＰを回復する。\n③ 全てのリンクスロットに装備した\n　　 ウェポノイドチップの枚数に応じ攻撃の威力を強化する。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Recovers CP at regular intervals.\n③ Boosts damage based on the number of\n    Weaponoid chips equipped in all link slots.\n    <color=yellow>[Q-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    all PAs and Techs are reduced.\n[Effect Duration] Long"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Recovers CP at regular intervals.\n③ Boosts attack power based on the number of\n    Weaponoid chips equipped in all link slots.\n    <color=yellow>[Q-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    all PAs and Techs are reduced.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31673",
@@ -2137,21 +2137,21 @@
 	{
 		"assign": "31849",
 		"jp_explainShort": "攻撃力増＋特定クエストダメージ＋消費ＣＰ減",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost + Quest boost + CP cost down",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② エターナルタワーで敵に与えるダメージを\n　　アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 闇属性の場合、闇属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Maximally boosts damage against enemies in the\n    Eternal Tower based on this chip's ability level.\n    <color=yellow>[?-Frame]</color>\n③ Reduces the CP consumption of Dark chips if there\n    is a Dark chip in this chip's link slot.\n    (Even applies to this chip's activation cost)\n④ While this chip is equipped, the equip costs of\n    Dark PAs and Techs are reduced.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31850",
 		"jp_explainShort": "攻撃力増＋特定クエストダメージ＋消費ＣＰ減",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost + Quest boost + CP cost down",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② エターナルタワーで敵に与えるダメージを\n　　アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 闇属性の場合、闇属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Maximally boosts damage against enemies in the\n    Eternal Tower based on this chip's ability level.\n    <color=yellow>[?-Frame]</color>\n③ Reduces the CP consumption of Dark chips if there\n    is a Dark chip in this chip's link slot.\n    (Even applies to this chip's activation cost)\n④ While this chip is equipped, the equip costs of\n    Dark PAs and Techs are reduced.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31851",
 		"jp_explainShort": "攻撃力増＋特定クエストダメージ＋消費ＣＰ減",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost + Quest boost + CP cost down",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② エターナルタワーで敵に与えるダメージを\n　　アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 闇属性の場合、闇属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Maximally boosts damage against enemies in the\n    Eternal Tower based on this chip's ability level.\n    <color=yellow>[?-Frame]</color>\n③ Reduces the CP consumption of Dark chips if there\n    is a Dark chip in this chip's link slot.\n    (Even applies to this chip's activation cost)\n④ While this chip is equipped, the equip costs of\n    all PAs and Techs are reduced.\n[Effect Duration] Long"
 	},
@@ -2200,121 +2200,121 @@
 	{
 		"assign": "31881",
 		"jp_explainShort": "定期的にダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "Damage over time",
 		"jp_explainLong": "① 攻撃対象の敵に対して\n　　 定期的に攻撃力に応じたダメージを与える。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Deals damage based on attack power to the\n    targeted enemy at regular intervals.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31882",
 		"jp_explainShort": "定期的に大ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "Damage over time",
 		"jp_explainLong": "① 攻撃対象の敵に対して\n　　 定期的に攻撃力に応じた大ダメージを与える。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Deals heavy damage based on attack power to\n    the targeted enemy at regular intervals.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31885",
 		"jp_explainShort": "風枚数属性ダメージ＋風枚数属性上限上昇",
-		"tr_explainShort": "",
+		"tr_explainShort": "Wind elem. boosted + max Wind value up",
 		"jp_explainLong": "① 装備中の風属性チップの枚数に応じ\n　　 風属性が弱点の敵に対して\n　　 その属性によるダメージを絶大に増加する。\n② 装備中の風属性チップの枚数に応じて\n　　 風属性の上限値が大きく上昇する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Immensely boosts Wind elemental damage\n    against enemies weak to Wind based on the\n    number of Wind chips equipped.\n    <color=yellow>[S-Frame]</color>\n② Greatly increases your maximum Wind value\n    based on the number of Wind chips equipped.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31886",
 		"jp_explainShort": "風枚数属性ダメージ＋風枚数属性上限上昇",
-		"tr_explainShort": "",
+		"tr_explainShort": "Wind elem. boosted + max Wind value up",
 		"jp_explainLong": "① 装備中の風属性チップの枚数に応じ\n　　 風属性が弱点の敵に対して\n　　 その属性によるダメージを超絶に増加する。\n② 装備中の風属性チップの枚数に応じて\n　　 風属性の上限値が大きく上昇する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Overwhelmingly boosts Wind elemental damage\n    against enemies weak to Wind based on the\n    number of Wind chips equipped.\n    <color=yellow>[S-Frame]</color>\n② Greatly increases your maximum Wind value\n    based on the number of Wind chips equipped.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31887",
 		"jp_explainShort": "定期ＨＰ減少＋与ダメージ増＋ＣＰ回復速度強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost but leaking HP + CP regen up",
 		"jp_explainLong": "① 定期的にＨＰが最大ＨＰの５％減少する代わりに\n　　 与えるダメージを超絶に増加する。\n　　 （ＨＰは最低でも１残る）\n　　 ただし、ＨＰが５％未満の場合\n　　 このチップを発動できない。\n② ＣＰの回復速度を劇的に強化する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Overwhelmingly boosts damage in exchange for\n    losing 5% of your HP at regular intervals.\n    (Cannot reduce your HP below 1).\n    You cannot activate this chip when below 5% HP.\n    <color=yellow>[U-Frame]</color>\n② Dramatically increases CP regeneration.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31888",
 		"jp_explainShort": "定期ＨＰ減少＋与ダメージ増＋ＣＰ回復速度強化",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost but leaking HP + CP regen up",
 		"jp_explainLong": "① 定期的にＨＰが最大ＨＰの５％減少する代わりに\n　　 与えるダメージを超絶に増加する。\n　　 （ＨＰは最低でも１残る）\n　　 ただし、ＨＰが５％未満の場合\n　　 このチップを発動できない。\n② ＣＰの回復速度を劇的に強化する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Overwhelmingly boosts damage in exchange for\n    losing 5% of your HP at regular intervals.\n    (Cannot reduce your HP below 1).\n    You cannot activate this chip when below 5% HP.\n    <color=yellow>[U-Frame]</color>\n② Dramatically increases CP regeneration.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31899",
 		"jp_explainShort": "雷枚数ＪＡ威力超絶増加＋ＪＡ成功３回毎ＣＰ回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "JA boost x # Lightning + 3 JAs = CP recovery",
 		"jp_explainLong": "① 装備中の雷属性チップの枚数に応じて\n　　 ジャストアタックの威力を超絶に増加する。\n② ジャストアタックを３回成功させるごとに\n　　 ＣＰをわずかに回復する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Overwhelmingly boosts Just Attacks based on the\n    number of Lightning chips equipped.\n    <color=yellow>[T-Frame]</color>\n② Slightly recovers CP each time you successfully\n    perform 3 Just Attacks.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31900",
 		"jp_explainShort": "雷枚数ＪＡ威力極度増加＋ＪＡ成功３回毎ＣＰ回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "JA boost x # Lightning + 3 JAs = CP recovery",
 		"jp_explainLong": "① 装備中の雷属性チップの枚数に応じて\n　　 ジャストアタックの威力を極度に増加する。\n② ジャストアタックを３回成功させるごとに\n　　 ＣＰをわずかに回復する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Maximally boosts Just Attacks based on the\n    number of Lightning chips equipped.\n    <color=yellow>[T-Frame]</color>\n② Slightly recovers CP each time you successfully\n    perform 3 Just Attacks.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31901",
 		"jp_explainShort": "必殺技・法術使用毎に威力大増加＋ＣＰ最大値増",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost per PA/Tech use + max CP up",
 		"jp_explainLong": "① 必殺技・法術を使用するごとに\n　　 威力を大きく増加する。（最大時：超絶）\n② ＣＰの最大値を増加する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Greatly boosts damage each time you use a PA or\n    Tech.\n    (Maximum Boost: Immense)\n    <color=yellow>[L-Frame]</color>\n② Increases your maximum CP.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31902",
 		"jp_explainShort": "必殺技・法術使用毎に威力大増加＋ＣＰ最大値増",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost per PA/Tech use + max CP up",
 		"jp_explainLong": "① 必殺技・法術を使用するごとに\n　　 威力を大きく増加する。（最大時：超絶）\n② ＣＰの最大値を増加する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Greatly boosts damage each time you use a PA or\n    Tech.\n    (Maximum Boost: Immense)\n    <color=yellow>[L-Frame]</color>\n② Increases your maximum CP.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31903",
 		"jp_explainShort": "氷枚数属性ダメージ＋氷枚数属性上限上昇",
-		"tr_explainShort": "",
+		"tr_explainShort": "Ice elem. boosted + max Ice value up",
 		"jp_explainLong": "① 装備中の氷属性チップの枚数に応じ\n　　 氷属性が弱点の敵に対して\n　　 その属性によるダメージを絶大に増加する。\n② 装備中の氷属性チップの枚数に応じて\n　　 氷属性の上限値が大きく上昇する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Immensely boosts Ice elemental damage\n    against enemies weak to Ice based on the\n    number of Ice chips equipped.\n    <color=yellow>[S-Frame]</color>\n② Greatly increases your maximum Ice value\n    based on the number of Ice chips equipped.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31904",
 		"jp_explainShort": "氷枚数属性ダメージ＋氷枚数属性上限上昇",
-		"tr_explainShort": "",
+		"tr_explainShort": "Ice elem. boosted + max Ice value up",
 		"jp_explainLong": "① 装備中の氷属性チップの枚数に応じ\n　　 氷属性が弱点の敵に対して\n　　 その属性によるダメージを超絶に増加する。\n② 装備中の氷属性チップの枚数に応じて\n　　 氷属性の上限値が大きく上昇する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Overwhelmingly boosts Ice elemental damage\n    against enemies weak to Ice based on the\n    number of Ice chips equipped.\n    <color=yellow>[S-Frame]</color>\n② Greatly increases your maximum Ice value\n    based on the number of Ice chips equipped.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31907",
 		"jp_explainShort": "攻撃力超絶増＋技法威力大増＋ＣＰ消費増",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost + PA/Tech boost, CP use up",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 必殺技・法術の威力を大きく増加する。\n③ 必殺技・法術のＣＰ消費量を増加する。\n④ リンクスロットに装備したチップの属性が\n　　 光属性の場合に③の効果を無効にする。\n⑤ このチップを装備中は光属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n③ Increases CP consumption of PAs and Techs.\n④ If there is a Light chip in this chip's link slot,\n    the effect of ③ is not applied.\n⑤ While this chip is equipped, the equip costs of\n    Light PAs and Techs are reduced.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31908",
 		"jp_explainShort": "攻撃力超絶増＋技法威力大増＋ＣＰ消費増",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost + PA/Tech boost, CP use up",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 必殺技・法術の威力を大きく増加する。\n③ 必殺技・法術のＣＰ消費量を増加する。\n④ リンクスロットに装備したチップの属性が\n　　 光属性の場合に③の効果を無効にする。\n⑤ このチップを装備中は光属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n③ Increases CP consumption of PAs and Techs.\n④ If there is a Light chip in this chip's link slot,\n    the effect of ③ is not applied.\n⑤ While this chip is equipped, the equip costs of\n    Light PAs and Techs are reduced.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31909",
 		"jp_explainShort": "攻撃力超絶増＋技法威力大増＋ＣＰ消費増",
-		"tr_explainShort": "",
+		"tr_explainShort": "Dam. boost + PA/Tech boost, CP use up",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 必殺技・法術の威力を大きく増加する。\n③ 必殺技・法術のＣＰ消費量を増加する。\n④ リンクスロットに装備したチップの属性が\n　　 光属性の場合に③の効果を無効にする。\n⑤ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n③ Increases CP consumption of PAs and Techs.\n④ If there is a Light chip in this chip's link slot,\n    the effect of ③ is not applied.\n⑤ While this chip is equipped, the equip costs of\n    all PAs and Techs are reduced.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31922",
 		"jp_explainShort": "船上の歌姫 クーナ[ＴＣＧ]",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 装備中の光属性チップの枚数に応じ\n　　 光属性が弱点の敵に対して\n　　 その属性によるダメージを絶大に増加する。\n② 装備中の光属性チップの枚数に応じて\n　　 光属性の上限値が大きく上昇する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Immensely boosts Light elemental damage\n    against enemies weak to Light based on the\n    number of Light chips equipped.\n    <color=yellow>[S-Frame]</color>\n② Greatly increases your maximum Light value\n    based on the number of Light chips equipped.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31923",
 		"jp_explainShort": "船上の歌姫 クーナ[ＳＴＣＧ]",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 装備中の光属性チップの枚数に応じ\n　　 光属性が弱点の敵に対して\n　　 その属性によるダメージを超絶に増加する。\n② 装備中の光属性チップの枚数に応じて\n　　 光属性の上限値が大きく上昇する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Overwhelmingly boosts Light elemental damage\n    against enemies weak to Light based on the\n    number of Light chips equipped.\n    <color=yellow>[S-Frame]</color>\n② Greatly increases your maximum Light value\n    based on the number of Light chips equipped.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "2110",
@@ -5763,16 +5763,16 @@
 	{
 		"assign": "60249",
 		"jp_explainShort": "目標を追って移動射撃を行う長銃用の必殺技",
-		"tr_explainShort": "",
+		"tr_explainShort": "[Assault Rifle PA] Parallel Slider Type-0",
 		"jp_explainLong": "「長銃用の必殺技」\n対象を捕捉したまま、移動射撃を行う。",
-		"tr_explainLong": ""
+		"tr_explainLong": "[Assault Rifle PA]\nOpen fire on the target while moving."
 	},
 	{
 		"assign": "60250",
 		"jp_explainShort": "目標を追って移動射撃を行う長銃用の必殺技",
-		"tr_explainShort": "",
+		"tr_explainShort": "[Assault Rifle PA] Parallel Slider Type-0",
 		"jp_explainLong": "「長銃用の必殺技」\n対象を捕捉したまま、移動射撃を行う。",
-		"tr_explainLong": ""
+		"tr_explainLong": "[Assault Rifle PA]\nOpen fire on the target while moving."
 	},
 	{
 		"assign": "70110",
@@ -7989,16 +7989,16 @@
 	{
 		"assign": "20071",
 		"jp_explainShort": "全体に雷属性の射撃による大ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "Lightning shooting damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に雷属性の射撃による大ダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Lightning shooting damage to all\n    enemies."
 	},
 	{
 		"assign": "20072",
 		"jp_explainShort": "全体に雷属性の射撃による大ダメージ",
-		"tr_explainShort": "",
+		"tr_explainShort": "Lightning shooting damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に雷属性の射撃による大ダメージを与える。",
-		"tr_explainLong": ""
+		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Lightning shooting damage to all\n    enemies."
 	},
 	{
 		"assign": "20059",
