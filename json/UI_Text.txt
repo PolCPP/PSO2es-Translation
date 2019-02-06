@@ -16325,6 +16325,11 @@
 		"tr_text": "Once you clear all of the Weaponoid's\nStory Quests, the Gauge changes to a gift\ngauge, allowing you to recieve presents from the Weaponoid."
 	},
 	{
+		"assign": "wh_35_02",
+		"jp_text": "チップの中には、外伝解放ゲージが「絆ゲージ」になっているものがあります。\nこのチップには外伝クエストが存在せず、「絆ゲージ」を最大までためると\n「プレゼントゲージ」に変わります。",
+		"tr_text": ""
+	},
+	{
 		"assign": "ItemDetail_RingExp_Caption",
 		"jp_text": "リングEXP/",
 		"tr_text": "Ring EXP/"
@@ -17043,6 +17048,11 @@
 		"assign": "lookback_arles_chapter_1",
 		"jp_text": "第１章　女神降臨",
 		"tr_text": "Chapter 1\nThe Goddess Appears"
+	},
+	{
+		"assign": "lookback_arles_chapter_2",
+		"jp_text": "第２章　兄弟の戦い",
+		"tr_text": ""
 	},
 	{
 		"assign": "lookback_maintitle_5",
@@ -18602,6 +18612,16 @@
 	{
 		"assign": "quest_clear_reward_dialog_body_6214004",
 		"jp_text": "Season3　2章4-4「それぞれの思い」クリア\nおめでとうございます！\n以下のクリア報酬をプレゼントいたしました。\n受け取りボックスをご確認ください。",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_clear_reward_dialog_title_6224004",
+		"jp_text": "ストーリークエスト Season3　3章4-4",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_clear_reward_dialog_body_6224004",
+		"jp_text": "Season3　3章4-4「それでも私たちは前を向く」クリア\nおめでとうございます！\n以下のクリア報酬をプレゼントいたしました。\n受け取りボックスをご確認ください。",
 		"tr_text": ""
 	},
 	{

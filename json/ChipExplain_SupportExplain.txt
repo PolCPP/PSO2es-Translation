@@ -4754,14 +4754,315 @@
 	},
 	{
 		"assign": "31870",
-		"jp_explainShort": "-",
+		"jp_explainShort": "アビＬｖ闇技法攻撃力大増＋効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 必殺技・法術チップが闇属性の場合は\n　　 アビリティレベルに応じて威力を大きく増加する。\n② 装備中の闇属性チップの枚数に応じて\n　　 闇属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31871",
+		"jp_explainShort": "アビＬｖ闇技法攻撃力劇的増＋効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 必殺技・法術チップが闇属性の場合は\n　　 アビリティレベルに応じて威力を劇的に増加する。\n② 装備中の闇属性チップの枚数に応じて\n　　 闇属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31872",
+		"jp_explainShort": "攻撃ダメージ増＋弱属技法威力増＋定期ＣＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃ダメージを絶大に増加する。\n② 必殺技・法術チップが攻撃対象の敵の弱点に\n　　 有効な属性の場合、威力を増加する。\n③ 定期的にＣＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31873",
+		"jp_explainShort": "攻撃ダメージ増＋弱属技法威力増＋定期ＣＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃ダメージを超絶に増加する。\n② 必殺技・法術チップが攻撃対象の敵の弱点に\n　　 有効な属性の場合、威力を増加する。\n③ 定期的にＣＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31874",
+		"jp_explainShort": "必殺技・法術威力超絶強化＋一定確率で回避",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 必殺技・法術の威力を超絶に強化する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31875",
+		"jp_explainShort": "必殺技・法術威力超絶強化＋一定確率で回避",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 必殺技・法術の威力を超絶に強化する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31876",
+		"jp_explainShort": "攻撃力極度増＋定期ＨＰ小回復＋効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 定期的にＨＰをわずかに回復する。\n③ リンクスロットに装備したチップの属性が闇属性の場合\n　　 チップ発動時のアビリティ効果時間を延長する。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31877",
+		"jp_explainShort": "攻撃力極度増＋定期ＨＰ小回復＋効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 定期的にＨＰをわずかに回復する。\n③ リンクスロットに装備したチップの属性が闇属性の場合\n　　 チップ発動時のアビリティ効果時間を延長する。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31878",
+		"jp_explainShort": "攻撃力極度増＋定期ＨＰ小回復＋効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 定期的にＨＰをわずかに回復する。\n③ リンクスロットに装備したチップの属性が闇属性の場合\n　　 チップ発動時のアビリティ効果時間を延長する。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31879",
+		"jp_explainShort": "アビＬｖ光技法攻撃力大増＋効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 必殺技・法術チップが光属性の場合は\n　　 アビリティレベルに応じて威力を大きく増加する。\n② 装備中の光属性チップの枚数に応じて\n　　 光属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31880",
+		"jp_explainShort": "アビＬｖ光技法攻撃力劇的増＋効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 必殺技・法術チップが光属性の場合は\n　　 アビリティレベルに応じて威力を劇的に増加する。\n② 装備中の光属性チップの枚数に応じて\n　　 光属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31883",
+		"jp_explainShort": "威力絶大増＋炎武器攻撃力大増＋炎属性上限上昇",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 威力を絶大に増加する。\n② 装備中の武器の属性が炎属性の場合\n　　 攻撃力を大きく増加する。\n③ 炎属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31884",
+		"jp_explainShort": "威力絶大増＋炎武器攻撃力大増＋炎属性上限上昇",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 威力を絶大に増加する。\n② 装備中の武器の属性が炎属性の場合\n　　 攻撃力を大きく増加する。\n③ 炎属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31889",
+		"jp_explainShort": "ダメージ効果絶大増＋ＪＡ成功毎さらに増加＋加速",
+		"tr_explainShort": "",
+		"jp_explainLong": "① ダメージ効果を絶大に増加する。\n② ジャストアタックを成功させるごとに\n　　 ダメージ効果をわずかに増加する。\n③ 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31890",
+		"jp_explainShort": "ダメージ効果絶大増＋ＪＡ成功毎さらに増加＋加速",
+		"tr_explainShort": "",
+		"jp_explainLong": "① ダメージ効果を絶大に増加する。\n② ジャストアタックを成功させるごとに\n　　 ダメージ効果をわずかに増加する。\n③ 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31891",
+		"jp_explainShort": "雷属性ダメージ＋回避",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 雷属性が弱点の敵に対して\n　　 その属性によるダメージを絶大に増加する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31892",
+		"jp_explainShort": "雷属性ダメージ＋回避",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 雷属性が弱点の敵に対して\n　　 その属性によるダメージを絶大に増加する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31893",
+		"jp_explainShort": "必殺技・法術の威力大強化＋加速",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 必殺技・法術の威力を大きく強化する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31894",
+		"jp_explainShort": "必殺技・法術の威力劇的強化＋加速",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 必殺技・法術の威力を劇的に強化する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31895",
+		"jp_explainShort": "ＨＰ小回復＋ＣＰ回復＋追加特大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 敵に追加で劇的ダメージを与える。\n② ＨＰをわずかに回復する。\n③ ＣＰを回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31896",
+		"jp_explainShort": "ＨＰ回復＋ＣＰ回復＋追加特大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 敵に追加で劇的ダメージを与える。\n② ＨＰを回復する。\n③ ＣＰを回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31897",
+		"jp_explainShort": "全地形で攻撃力超絶増加＋弱点属性強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 全てのエリアの戦闘では攻撃力を超絶に増加する。\n② 攻撃対象の敵の弱点属性を強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31898",
+		"jp_explainShort": "全地形で攻撃力超絶増加＋弱点属性強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 全てのエリアの戦闘では攻撃力を超絶に増加する。\n② 攻撃対象の敵の弱点属性を強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31905",
+		"jp_explainShort": "装備ウェポノイドチップ数威力強化＋ダメージ防御",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 装備中のウェポノイドチップの枚数に応じ\n　　 攻撃の威力を絶大に強化する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31906",
+		"jp_explainShort": "装備ウェポノイドチップ数威力強化＋ダメージ防御",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 装備中のウェポノイドチップの枚数に応じ\n　　 攻撃の威力を絶大に強化する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31910",
+		"jp_explainShort": "アビＬｖ氷技法攻撃力大増＋効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 必殺技・法術チップが氷属性の場合は\n　　 アビリティレベルに応じて威力を大きく増加する。\n② 装備中の氷属性チップの枚数に応じて\n　　 氷属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31911",
+		"jp_explainShort": "アビＬｖ氷技法攻撃力劇的増＋効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 必殺技・法術チップが氷属性の場合は\n　　 アビリティレベルに応じて威力を劇的に増加する。\n② 装備中の氷属性チップの枚数に応じて\n　　 氷属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31912",
+		"jp_explainShort": "闇属性ダメージ＋ダメージ防御＋ポイズン付与",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 闇属性が弱点の敵に対して\n　　 その属性によるダメージを絶大に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 攻撃対象の敵からダメージを受けた時\n　　 一定確率で「ポイズン」効果を与える。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31913",
+		"jp_explainShort": "闇属性ダメージ＋ダメージ防御＋ポイズン付与",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 闇属性が弱点の敵に対して\n　　 その属性によるダメージを絶大に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 攻撃対象の敵からダメージを受けた時\n　　 一定確率で「ポイズン」効果を与える。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31914",
+		"jp_explainShort": "攻撃ダメージ増＋特定属性チップ装備攻撃力増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃ダメージを劇的に増加する。\n② 敵の弱点に有効な属性のチップを装備している場合\n　　 攻撃力を絶大に増加する。\n③ ＣＰの回復速度を劇的に強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31915",
+		"jp_explainShort": "攻撃ダメージ増＋特定属性チップ装備攻撃力増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃ダメージを劇的に増加する。\n② 敵の弱点に有効な属性のチップを装備している場合\n　　 攻撃力を絶大に増加する。\n③ ＣＰの回復速度を劇的に強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31918",
+		"jp_explainShort": "アビＬｖと氷風光属性値に応じ属性攻撃力絶大増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① アビリティレベルと氷・風・光属性の合計値に応じて\n　　 属性攻撃力を絶大に増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31919",
+		"jp_explainShort": "アビＬｖと氷風光属性値に応じ属性攻撃力絶大増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① アビリティレベルと氷・風・光属性の合計値に応じて\n　　 属性攻撃力を絶大に増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31920",
+		"jp_explainShort": "スカルシュクター",
 		"tr_explainShort": "",
 		"jp_explainLong": "-",
 		"tr_explainLong": ""
 	},
 	{
-		"assign": "31871",
-		"jp_explainShort": "-",
+		"assign": "31921",
+		"jp_explainShort": "スカルシュクター(解放後)",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31924",
+		"jp_explainShort": "バイオスローク",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31925",
+		"jp_explainShort": "バイオスローク(解放後)",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31926",
+		"jp_explainShort": "フーリエ[ＴＣＧ]",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31927",
+		"jp_explainShort": "フーリエ[ＳＴＣＧ]",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31928",
+		"jp_explainShort": "バイオゼクト",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31929",
+		"jp_explainShort": "バイオゼクト(解放後)",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31930",
+		"jp_explainShort": "アフタル戦闘形態",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31931",
+		"jp_explainShort": "アフタル戦闘形態(解放後)",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31932",
+		"jp_explainShort": "アフタル＆リーン",
+		"tr_explainShort": "",
+		"jp_explainLong": "-",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31933",
+		"jp_explainShort": "アフタル＆リーン(解放後)",
 		"tr_explainShort": "",
 		"jp_explainLong": "-",
 		"tr_explainLong": ""
@@ -6490,16 +6791,16 @@
 	},
 	{
 		"assign": "40231",
-		"jp_explainShort": "-",
+		"jp_explainShort": "雷属性時小増＋大剣時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 雷属性の武器の場合に威力をわずかに増加する。\n② 大剣の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40232",
-		"jp_explainShort": "-",
+		"jp_explainShort": "雷属性時増＋大剣時増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 雷属性の武器の場合に威力を増加する。\n② 大剣の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
@@ -6560,16 +6861,16 @@
 	},
 	{
 		"assign": "40241",
-		"jp_explainShort": "-",
+		"jp_explainShort": "氷属性時小増＋自在槍時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 氷属性の武器の場合に威力をわずかに増加する。\n② 自在槍の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40242",
-		"jp_explainShort": "-",
+		"jp_explainShort": "氷属性時増＋自在槍時増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 氷属性の武器の場合に威力を増加する。\n② 自在槍の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
@@ -6588,16 +6889,16 @@
 	},
 	{
 		"assign": "40245",
-		"jp_explainShort": "-",
+		"jp_explainShort": "風属性時小増＋自在槍時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 風属性の武器の場合に威力をわずかに増加する。\n② 自在槍の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40246",
-		"jp_explainShort": "-",
+		"jp_explainShort": "風属性時増＋自在槍時増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 風属性の武器の場合に威力を増加する。\n② 自在槍の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
@@ -6686,16 +6987,16 @@
 	},
 	{
 		"assign": "40259",
-		"jp_explainShort": "-",
+		"jp_explainShort": "光属性時小増＋長槍時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 光属性の武器の場合に威力をわずかに増加する。\n② 長槍の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40260",
-		"jp_explainShort": "-",
+		"jp_explainShort": "光属性時増＋長槍時増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 光属性の武器の場合に威力を増加する。\n② 長槍の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
@@ -6770,16 +7071,16 @@
 	},
 	{
 		"assign": "40271",
-		"jp_explainShort": "-",
+		"jp_explainShort": "光属性時小増＋双小剣時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 光属性の武器の場合に威力をわずかに増加する。\n② 双小剣の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40272",
-		"jp_explainShort": "-",
+		"jp_explainShort": "光属性時増＋双小剣時増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 光属性の武器の場合に威力を増加する。\n② 双小剣の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
@@ -7148,16 +7449,16 @@
 	},
 	{
 		"assign": "40325",
-		"jp_explainShort": "-",
+		"jp_explainShort": "氷属性時小増＋飛翔剣時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 氷属性の武器の場合に威力をわずかに増加する。\n② 飛翔剣の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40326",
-		"jp_explainShort": "-",
+		"jp_explainShort": "氷属性時増＋飛翔剣時増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 氷属性の武器の場合に威力を増加する。\n② 飛翔剣の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
@@ -7218,16 +7519,16 @@
 	},
 	{
 		"assign": "40335",
-		"jp_explainShort": "-",
+		"jp_explainShort": "炎属性時小増＋長銃時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 炎属性の武器の場合に威力をわずかに増加する。\n② 長銃の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40336",
-		"jp_explainShort": "-",
+		"jp_explainShort": "炎属性時増＋長銃時増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 炎属性の武器の場合に威力を増加する。\n② 長銃の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
@@ -7344,16 +7645,16 @@
 	},
 	{
 		"assign": "40353",
-		"jp_explainShort": "-",
+		"jp_explainShort": "風属性時小増＋大砲時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 風属性の武器の場合に威力をわずかに増加する。\n② 大砲の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40354",
-		"jp_explainShort": "-",
+		"jp_explainShort": "風属性時増＋大砲時増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 風属性の武器の場合に威力を増加する。\n② 大砲の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
@@ -7498,16 +7799,16 @@
 	},
 	{
 		"assign": "40375",
-		"jp_explainShort": "-",
+		"jp_explainShort": "雷属性時小増＋強弓時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 雷属性の武器の場合に威力をわずかに増加する。\n② 強弓の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40376",
-		"jp_explainShort": "-",
+		"jp_explainShort": "雷属性時増＋強弓時増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 雷属性の武器の場合に威力を増加する。\n② 強弓の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
@@ -7876,16 +8177,16 @@
 	},
 	{
 		"assign": "40429",
-		"jp_explainShort": "-",
+		"jp_explainShort": "闇属性時小増＋短杖時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 闇属性の武器の場合に威力をわずかに増加する。\n② 短杖の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40430",
-		"jp_explainShort": "-",
+		"jp_explainShort": "闇属性時増＋短杖時増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 闇属性の武器の場合に威力を増加する。\n② 短杖の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
@@ -8629,6 +8930,34 @@
 		"tr_explainShort": "Damage boosted + countering attacks",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 攻撃対象の敵から攻撃を受けた時\n　　 そのダメージに応じたカウンターを与える。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": "① Slightly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Responds to damage from the targeted enemy\n    with a proportional counterattack.\n[Activation Trigger] Taking an attack\n[Effect Duration] Medium"
+	},
+	{
+		"assign": "20051",
+		"jp_explainShort": "攻撃力小増加＋ダメージ防御",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "20052",
+		"jp_explainShort": "攻撃力小増加＋ダメージ防御",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "20055",
+		"jp_explainShort": "必殺技・法術威力強化＋一定確率で回避",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 必殺技・法術の威力を強化する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "20056",
+		"jp_explainShort": "必殺技・法術威力大強化＋一定確率で回避",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 必殺技・法術の威力を大きく強化する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "20057",

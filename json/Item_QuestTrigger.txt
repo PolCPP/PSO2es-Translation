@@ -333,7 +333,7 @@
 		"jp_text": "悲劇を願う破滅トリガー",
 		"tr_text": "Destruction Trigger",
 		"jp_explain": "悲劇を願う破滅の虚影を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[The Specter of Tragdy]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+		"tr_explain": "[The Specter of Destruction]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
 	},
 	{
 		"assign": "373051",
@@ -341,5 +341,19 @@
 		"tr_text": "Solo T: Earth Destroyers Trigger",
 		"jp_explain": "輝光を砕く母なる神を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
 		"tr_explain": "[The Destroyers of Light]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373052",
+		"jp_text": "惨劇を招く破滅トリガー",
+		"tr_text": "Tragic Trigger",
+		"jp_explain": "惨劇を招く破滅の虚影を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[The Specter of Tragedy]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373053",
+		"jp_text": "チョコレート２０１９トリガー",
+		"tr_text": "Chocolate 2019 Trigger",
+		"jp_explain": "チョコレートの行方２０１９を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[The Chocolate Way 2019]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
 	}
 ]
