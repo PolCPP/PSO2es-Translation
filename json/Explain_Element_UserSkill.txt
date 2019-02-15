@@ -3139,7 +3139,7 @@
 		"assign": "448",
 		"jp_text": "Ｓ２：火炎の備志",
 		"tr_text": "S2:Flaming Guard",
-		"jp_explain": "炎属性、バーン耐性が\n上昇。敵の弱点属性が\n炎属性の時、威力上昇。",
+		"jp_explain": "炎耐性、バーン耐性が\n上昇。敵の弱点属性が\n炎属性の時、威力上昇。",
 		"tr_explain": "Increases your Fire\nattribute and Burn\nresistance. Boosts\npower against enemies\nthat are weak to Fire."
 	},
 	{
@@ -3158,9 +3158,9 @@
 	},
 	{
 		"assign": "451",
-		"jp_text": "-",
+		"jp_text": "Ｓ２：氷雪の備志",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "氷耐性、フリーズ耐性が\n上昇。敵の弱点属性が\n氷属性の時、威力上昇。",
 		"tr_explain": ""
 	},
 	{
@@ -3361,37 +3361,37 @@
 	},
 	{
 		"assign": "480",
-		"jp_text": "-",
+		"jp_text": "Ｓ３：撃流の備",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "与ダメージ300000毎に\n被ダメージが1％軽減。\n最大で15％。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "481",
-		"jp_text": "-",
+		"jp_text": "Ｓ３：撃流縮減",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "与ダメージ300000毎に\nＰＰ消費量が1％軽減。\n最大で15％。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "482",
-		"jp_text": "-",
+		"jp_text": "Ｓ３：撃流の功",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "与ダメージ300000毎に\nクリティカル率2％上昇。\n最大で30％。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "483",
-		"jp_text": "-",
+		"jp_text": "Ｓ１：失力の蝕 ",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "命中時に２５％の確率で\nジェルンを付与する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "484",
-		"jp_text": "-",
+		"jp_text": "Ｓ２：技巧縮減",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ＰＡ・テクニック命中後\n３０秒間、ＰＰ消費量減。\nまれに大きく軽減する。\n発動後リキャスト発生。",
 		"tr_explain": ""
 	},
 	{
