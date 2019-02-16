@@ -2,7 +2,7 @@
 	{
 		"assign": "0000",
 		"jp_text": "<color=#f0df60>＜前進と後退＞</color>\nバトル中に画面を上にスライドすると前に進み、\n画面を下にスライドすると後ろにバックします。\nピンチのときはバックして態勢を立て直しましょう。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Advancing and Retreating></color>\nIf you slide up across the screen during a\nbattle, you will move forward. If you slide down,\nyou will move backward. If you're in a pinch,\nretreat and regain your footing."
 	},
 	{
 		"assign": "0001",
@@ -27,7 +27,7 @@
 	{
 		"assign": "0005",
 		"jp_text": "<color=#f0df60>＜ＣＰを回復するテクニック＞</color>\nＣＰは時間とともに少しずつ増えていきますが\nエネミーに攻撃を命中させると、さらに増えるんです。\nＣＰをためて、チップをどんどん発動させましょう。",
-		"tr_text": "<color=#f0df60><Player Tips></color>\nYou can recover your CP slightly by\nattacking using normal attacks.\nDifferent CP requirements vary per chip,\nso be sure to examine them all."
+		"tr_text": "<color=#f0df60><CP Recovery Techniques></color>\nCP regenerates slowly over time, but if you hit an\nenemy with a normal attack, you will recover some\nCP immediately. Recover your CP and activate chips!"
 	},
 	{
 		"assign": "0006",
@@ -47,7 +47,7 @@
 	{
 		"assign": "0009",
 		"jp_text": "<color=#f0df60>＜戦闘不能になったら＞</color>\n戦闘不能になったときは、復活薬などで\nその場で復活することができますよ。\nエネミーのＨＰはそのままなので\n「あと少しで倒せそう」というときなどに、どうぞ。",
-		"tr_text": "<color=#f0df60><When You Are Dead></color>\nYou are dead when killed.\nYou may then recover from this\nstate by using Rappy Coins, AC, or Recovery Items\nsuch as Scape Dolls."
+		"tr_text": "<color=#f0df60><When You Are Defeated></color>\nIf you are defeated, you can instantly recover\nby spending Rappy Coins, AC or using a recovery\nitem such as a Scape Doll. The enemy's HP will\nremain unchanged, so the best time to do this is\nif you think you can defeat them without dying again."
 	},
 	{
 		"assign": "0010",
@@ -72,7 +72,7 @@
 	{
 		"assign": "0014",
 		"jp_text": "<color=#f0df60>＜ＰＳＥでパワーアップ＞</color>\nフィールドで移動中、色がついているマスを選ぶと\nフォトンの力で攻撃力や防御力がアップする\n「ＰＳＥ」が発生します。うまく活用しましょう。",
-		"tr_text": "<color=#f0df60><PSE Power Up></color>\nWhen playing, matching the\ncolors can boost the photon\neffect of the type selected."
+		"tr_text": "<color=#f0df60><PSE Power Up></color>\nWhen moving in the field, if you select a colored\npanel, a \"PSE\" will occur, which can raise your\nattack power, defense power, CP recovery or\nyour Friend Assist. Make good use of these panels."
 	},
 	{
 		"assign": "0015",
@@ -137,7 +137,7 @@
 	{
 		"assign": "0027",
 		"jp_text": "<color=#f0df60>＜スペシャルクエスト＞</color>\nチップ解放の素材となるチップは\n日替わりで配信される\nスペシャルクエストで入手可能ですよ！",
-		"tr_text": "<color=#f0df60><Special Quests></color>\nYou can find materials for\nchip releases by doing special quests!"
+		"tr_text": "<color=#f0df60><Special Quests></color>\nYou can find release material chips\nby doing Daily Quests! Find them\nunder Special Quests!"
 	},
 	{
 		"assign": "0028",
@@ -167,12 +167,12 @@
 	{
 		"assign": "0033",
 		"jp_text": "<color=#f0df60>＜セラフィのひとりごと１＞</color>\nもしプライベートで遊びに行けるのなら\n惑星ナベリウスで森林浴かなぁ……\nあっ、でも惑星リリーパの砂漠に沈む夕日を\n見に行くのも悪くないかも！",
-		"tr_text": "<color=#f0df60><Monologue of Seraphy #1></color>\nOn the planet Naberius, there's a\nprivate bath in the forest, ahhh....\nThe sun set in the desert on\nLillipa isn't too bad either!"
+		"tr_text": "<color=#f0df60><Seraphy's Thoughts #1></color>\nOn planet Naberius, there's a\nprivate bath in the forest, ahhh....\nThe sunset in the desert on\nLillipa isn't too bad either!"
 	},
 	{
 		"assign": "0034",
 		"jp_text": "<color=#f0df60>＜セラフィのひとりごと２＞</color>\n『PSO2』では、エステというところがあって\n体型や髪型などを\n自由にカスタマイズできるんですって！\nいいなぁ……私も、もう少し細くなりたい……",
-		"tr_text": "<color=#f0df60><Monologue of Seraphy #2></color>\n\"PSO2\" There's a place called \"Salon\" that\nallows you to customize your hair and body type!\nI uhh....I hope I could become a bit more thinner..."
+		"tr_text": "<color=#f0df60><Seraphy's Thoughts #2></color>\nIn PSO2, there's a place called \"Beauty Salon\" that\nallows you to customize your hair and body type!\nI, uhh... I wouldn't mind becoming a bit thinner..."
 	},
 	{
 		"assign": "0035",
@@ -207,12 +207,12 @@
 	{
 		"assign": "0041",
 		"jp_text": "<color=#f0df60>＜セラフィのひとりごと３＞</color>\n昔の父は、家族を大事にしてくれる\nやさしい人でしたが\n失踪する数年前から、ふさぎ込みがちになり\n自室で研究に没頭するようになってしまいました。",
-		"tr_text": "<color=#f0df60><Monologue of Seraphy #3></color>\nMy father, was friendly to our family & people.\nHe was so immersed in his research, prior\nto his disappearance few years ago."
+		"tr_text": "<color=#f0df60><Seraphy's Thoughts #3></color>\nMy father was a kind person who loved his family.\nBut a few years before he disappeared, he\nturned his back on the world, and became absorbed\nin his research."
 	},
 	{
 		"assign": "0042",
 		"jp_text": "<color=#f0df60>＜セラフィのひとりごと４＞</color>\nいろんな惑星に探索に行けて\nアークスって、楽しそうですよね……\nあー、私もアークスになりたかったなぁ……",
-		"tr_text": "<color=#f0df60><Monologue of Seraphy #4></color>\nI wanted to go on other planets\nas ARKS and have fun......\nWhy did I want to become ARKS......"
+		"tr_text": "<color=#f0df60><Seraphy's Thoughts #4></color>\nWhen I heard that ARKS got to visit different\nplanets, I thought it sounded like fun...\nI always wanted to join ARKS some day..."
 	},
 	{
 		"assign": "0043",
@@ -222,7 +222,7 @@
 	{
 		"assign": "0044",
 		"jp_text": "<color=#f0df60>＜ダーカーの弱点属性＞</color>\n蟲系ダーカーは炎と光、\n魚介系ダーカーは雷と光が弱点属性です。\nいずれのダーカーも、光属性は共通した弱点ですね。",
-		"tr_text": "<color=#f0df60><Darker Weaknesses></color>\nDarkers are generally weak against\nFire and Light. Aquatic Darkers\nare weak against Lightning and Light.\nMost darkers are weak against light."
+		"tr_text": "<color=#f0df60><Darker Weaknesses></color>\nInsect Darkers are generally weak against\nFire and Light, while aquatic Darkers\nare weak against Lightning and Light.\nMost Darkers are weak against Light."
 	},
 	{
 		"assign": "0045",
@@ -527,7 +527,7 @@
 	{
 		"assign": "0105",
 		"jp_text": "<color=#f0df60>＜ラッピーチップをゲットしよう＞</color>\nこのクエストにはラッピーが出現するようです。\n貴重なラッピーのチップを\nこの機会にたくさん入手しましょう。",
-		"tr_text": "<color=#f0df60>Getting Rappy Chips</color>\nRappy Quest appears with many rappies.\nLovely rappy chips, try to get as many possible."
+		"tr_text": "<color=#f0df60><Getting Rappy Chips></color>\nIn this quest, a lot of Rappies will appear.\nGet as many valuable Rappy chips as you can!"
 	},
 	{
 		"assign": "0106",
@@ -577,12 +577,12 @@
 	{
 		"assign": "0115",
 		"jp_text": "<color=#f0df60>＜緊急クエストへの再出撃＞</color>\n緊急クエストは、一度で目標のエネミーを倒せなくても\n前回のバトルで与えたダメージはそのままで\nクエストに再挑戦できます。\n何度もチャレンジして、目標の撃破をめざしましょう！",
-		"tr_text": "<color=#f0df60><Emergency Quests></color>\nDuring an Emergency Quest, you can rechallenge\nthe same quest until the enemy in\nquestion is defeated or you have run out of OP.\nLet's do our best!"
+		"tr_text": "<color=#f0df60><Emergency Quests></color>\nDuring an Emergency Quest, you can rechallenge\nthe same quest until the target \nenemy is defeated or you have run out of OP.\nLet's do our best!"
 	},
 	{
 		"assign": "0116",
 		"jp_text": "<color=#f0df60>＜フレンドと協力しよう＞</color>\n緊急クエストで目標を討伐できなかった場合は、\nフレンドに救援要請を送ることができます。\nフレンドの力を結集して、強敵を撃破しましょう！",
-		"tr_text": "<color=#f0df60><Friend Help></color>\nIf you're defeated during an Emergency Quest,\nyou may call for a rescue using your friends.\nCooperating is key to defeating the powerful foe!"
+		"tr_text": "<color=#f0df60><Friend Help></color>\nIf you fail to defeat the enemy during an\nEmergency Quest, you may call for your\nfriends to rescue you. Cooperation is the key\nto defeating powerful enemies!"
 	},
 	{
 		"assign": "0117",
