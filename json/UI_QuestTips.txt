@@ -7,22 +7,22 @@
 	{
 		"assign": "0001",
 		"jp_text": "<color=#f0df60>＜攻撃について＞</color>\nバトル中は、画面のどこをタッチしても\n攻撃することができます。\nエネミーをわざわざ狙ってタッチしなくても\n大丈夫ですよ。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Attacking></color>\nDuring a battle, you can attack by tapping\nanywhere on the screen. You don't have to\ntap the enemy you want to target, so don't\nworry about your aim."
 	},
 	{
 		"assign": "0002",
 		"jp_text": "<color=#f0df60>＜敵の攻撃をかわそう＞</color>\nバトル中に画面を左にスライドすると左に移動、\n右にスライドすると右に移動することができます。\nエネミーの攻撃を左右に移動して、かわしましょう。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Avoiding enemy attacks></color>\nDuring a battle, sliding across the screen to the left\nmakes you dodge left, and sliding to the right makes\nyou dodge right. Dodge left and right to avoid\nenemy attacks."
 	},
 	{
 		"assign": "0003",
 		"jp_text": "<color=#f0df60>＜ＨＰが減ったら回復しよう＞</color>\n敵に攻撃されてＨＰが減ったら\n「モノメイト」（回復薬）など、回復系のチップを\n使うと、ＨＰが回復しますよ。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Recovering HP></color>\nIf you get hit by an enemy attack, you will lose HP.\nYou can recover your HP by using a recovery chip,\nsuch as \"Monomate\" (recovery medcine)."
 	},
 	{
 		"assign": "0004",
 		"jp_text": "<color=#f0df60>＜同行キャラクターのチップを使ってみよう＞</color>\n同行キャラクターのチップが、自分も使えるチップの場合\nタッチすると発動できますよ。\n自分が持っていない強力なチップも使えておトクです！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Using Your Friend Partner's Chip></color>\nIf your Friend Partner has equipped a chip that you\ncan use, you can activate it any time by tapping it.\nYou can get access to powerful chips without\nhaving to acquire them yourself!"
 	},
 	{
 		"assign": "0005",
@@ -42,7 +42,7 @@
 	{
 		"assign": "0008",
 		"jp_text": "<color=#f0df60>＜チップの強化＞</color>\n余ったチップは、素材にして\nよく使うチップをどんどん強化していきましょう。\n属性値だけでなく、ＨＰやバトル開始時のＣＰも\n上昇していくんですよ。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Grinding Chips></color>\nYou can use your less frequently-used chips as raw\nmaterials to strengthen the chips you use more.\nStrengthening chips raises their element value,\nas well as the HP and initial CP they give you."
 	},
 	{
 		"assign": "0009",
@@ -52,7 +52,7 @@
 	{
 		"assign": "0010",
 		"jp_text": "<color=#f0df60>＜チップの詳細情報＞</color>\nチップは、アイコンを長押しすることで\n詳細な情報を見ることができます。\n装備画面や、クエストのリザルト画面など\nチップが表示される場所で、試してみましょう。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Detailed Chip Information></color>\nYou can view detailed information on a chip by\ntapping and holding on its icon. You can do this\nanywhere a chip is displayed, such as the Equip\nscreen and the Quest Results screen."
 	},
 	{
 		"assign": "0011",
@@ -62,12 +62,12 @@
 	{
 		"assign": "0012",
 		"jp_text": "<color=#f0df60>＜相手の動きをよく見よう＞</color>\nエネミーが攻撃にうつる前には\n何らかの予備動作があることが多いです。\n相手の動きをよくみて、うまくかわしましょう。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Watch Enemy Movements></color>\nEnemies will often perform a particular action\nbefore they attack. Watch their movements\ncarefully to anticipate their attacks."
 	},
 	{
 		"assign": "0013",
 		"jp_text": "<color=#f0df60>＜チップスロットを使おう＞</color>\nチップスロットに、空きはありませんか？\nチップをたくさん装備して\nいろいろな状況に備えましょう。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Use Your Chip Slots></color>\nDo you have empty chip slots?\nTry to equip as many chips as you can, to be\nprepared for a variety of situations."
 	},
 	{
 		"assign": "0014",
