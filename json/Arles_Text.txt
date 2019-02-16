@@ -4436,7 +4436,7 @@
 		"jp_name": "アーレスカイゼル",
 		"tr_name": "Ares Kaiser",
 		"jp_text": "<%name>殿、ジェネ<%br>ソード……来てくれましたか。",
-		"tr_text": "",
+		"tr_text": "Honored <%name>, Gene, Sword...<%br>Are you there?",
 		"fileID": 2
 	},
 	{
@@ -4444,7 +4444,7 @@
 		"jp_name": "アーレスソード",
 		"tr_name": "Ares Sword",
 		"jp_text": "……カイゼル様、話ってなんだ？<%br>もうランスの戦いがはじまってるけど……",
-		"tr_text": "",
+		"tr_text": "...You want to talk to us, Lady Kaiser?<%br>Lance's battle has already begun...",
 		"fileID": 2
 	},
 	{
@@ -4452,7 +4452,7 @@
 		"jp_name": "アーレスカイゼル",
 		"tr_name": "Ares Kaiser",
 		"jp_text": "ネストが観戦に集中しているうちに<%br>話しておきたいことがあるのです。",
-		"tr_text": "",
+		"tr_text": "There is something I wish to discuss with you<%br>while Nest is preoccupied watching the battle.",
 		"fileID": 2
 	},
 	{
@@ -4460,7 +4460,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "……なんでしょうか？",
-		"tr_text": "",
+		"tr_text": "...What is it?",
 		"fileID": 2
 	},
 	{
@@ -4468,7 +4468,7 @@
 		"jp_name": "アーレスカイゼル",
 		"tr_name": "Ares Kaiser",
 		"jp_text": "……あなた方に<%br>ネストの真意を探ってほしいのです。",
-		"tr_text": "",
+		"tr_text": "...I would like you to investigate Nest<%br>and discover her true intentions.",
 		"fileID": 2
 	},
 	{
@@ -4476,7 +4476,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "アーレスネストさんの真意……です？",
-		"tr_text": "",
+		"tr_text": "Ares Nest's... true intentions?",
 		"fileID": 2
 	},
 	{
@@ -4484,7 +4484,7 @@
 		"jp_name": "アーレスカイゼル",
 		"tr_name": "Ares Kaiser",
 		"jp_text": "このアーレスバトル……ヒトが信頼に足るかを<%br>はかるだけが目的ではないように思うのです。",
-		"tr_text": "",
+		"tr_text": "This Ares Battle... I do not believe that its sole purpose<%br>is to determine whether humans may be trusted.",
 		"fileID": 2
 	},
 	{
@@ -4492,7 +4492,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "それは、つまり……",
-		"tr_text": "",
+		"tr_text": "So, in other words...",
 		"fileID": 2
 	},
 	{
@@ -4500,14 +4500,14 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "それは、つまり……",
-		"tr_text": "",
+		"tr_text": "So, in other words...",
 		"jp_buttons": [
 			"ネストには別の目的がある。",
 			"カイゼルの考えすぎだよ。"
 		],
 		"tr_buttons": [
-			"",
-			""
+			"Nest has some other purpose in mind.",
+			"I think Kaiser's overthinking things."
 		],
 		"fileID": 2
 	},
@@ -4516,7 +4516,7 @@
 		"jp_name": "アーレスカイゼル",
 		"tr_name": "Ares Kaiser",
 		"jp_text": "ええ、推測ですが……アーレスバトルには<%br>別の目的があるのでは、と考えています。",
-		"tr_text": "",
+		"tr_text": "Yes, that is my conjecture... I believe the Ares<%br>Battle has some other purpose behind it.",
 		"fileID": 2
 	},
 	{
@@ -4524,7 +4524,7 @@
 		"jp_name": "アーレスカイゼル",
 		"tr_name": "Ares Kaiser",
 		"jp_text": "そうであればよいのですが……わたくしは<%br>なにか別の目的があるのでは、と考えています。",
-		"tr_text": "",
+		"tr_text": "Would that it were so... But I cannot help but<%br>believe that there is some other purpose to it.",
 		"fileID": 2
 	},
 	{
@@ -4532,7 +4532,7 @@
 		"jp_name": "アーレスカイゼル",
 		"tr_name": "Ares Kaiser",
 		"jp_text": "ネストの真意を調べてもらえますか？",
-		"tr_text": "",
+		"tr_text": "Would you assist me by learning<%br>Nest's true intentions?",
 		"fileID": 2
 	},
 	{
@@ -4540,7 +4540,7 @@
 		"jp_name": "アーレスソード",
 		"tr_name": "Ares Sword",
 		"jp_text": "カイゼル様……どうしてアーレスネストは<%br>オレたちやカイゼル様と敵対するんだ……？",
-		"tr_text": "",
+		"tr_text": "Lady Kaiser... Why is Ares Nest so hostile to us...?",
 		"fileID": 2
 	},
 	{
@@ -4548,7 +4548,7 @@
 		"jp_name": "アーレスソード",
 		"tr_name": "Ares Sword",
 		"jp_text": "ふたりは……<%br>同じアーレスの女神のはずなのに……",
-		"tr_text": "",
+		"tr_text": "You're both the same...<%br>Both Goddesses of Ares...",
 		"fileID": 2
 	},
 	{
@@ -4556,7 +4556,7 @@
 		"jp_name": "アーレスカイゼル",
 		"tr_name": "Ares Kaiser",
 		"jp_text": "……ネストは、わたくし以上に星を愛しています。<%br>だから、ヒトの行いが許せないのでしょう。",
-		"tr_text": "",
+		"tr_text": "Nest loves the planets even more than myself.<%br>She will never forgive the humans who harm them.",
 		"fileID": 2
 	},
 	{
@@ -4564,7 +4564,7 @@
 		"jp_name": "アーレスカイゼル",
 		"tr_name": "Ares Kaiser",
 		"jp_text": "……ネストの気持ちは理解できます。",
-		"tr_text": "",
+		"tr_text": "...In truth, I can understand her feelings.",
 		"fileID": 2
 	},
 	{
@@ -4572,7 +4572,7 @@
 		"jp_name": "アーレスカイゼル",
 		"tr_name": "Ares Kaiser",
 		"jp_text": "わたくしもまた、ヒトに対し<%br>憎しみを抱きかけたこともありました。",
-		"tr_text": "",
+		"tr_text": "I, too, once embraced my hatred for humanity.",
 		"fileID": 2
 	},
 	{
@@ -4580,7 +4580,7 @@
 		"jp_name": "アーレスソード",
 		"tr_name": "Ares Sword",
 		"jp_text": "カイゼル様が……？<%br>でも、今は……",
-		"tr_text": "",
+		"tr_text": "You did, Lady Kaiser...?<%br>But you're not like that now...",
 		"fileID": 2
 	},
 	{
@@ -4588,7 +4588,7 @@
 		"jp_name": "アーレスカイゼル",
 		"tr_name": "Ares Kaiser",
 		"jp_text": "ええ。あなた方の<%br>行動を見て、考えを改めたのです。",
-		"tr_text": "",
+		"tr_text": "Correct. When I observed and considered your<%br>actions, it persuaded me to alter my course.",
 		"fileID": 2
 	},
 	{
@@ -4596,7 +4596,7 @@
 		"jp_name": "アーレスカイゼル",
 		"tr_name": "Ares Kaiser",
 		"jp_text": "世の中には信用に足るヒトがいる。<%br>ネストがそう考えてくれたなら……",
-		"tr_text": "",
+		"tr_text": "There are humans in this world who can be relied<%br>upon. If Nest could only be made to see that...",
 		"fileID": 2
 	},
 	{
@@ -4604,7 +4604,7 @@
 		"jp_name": "アーレスカイゼル",
 		"tr_name": "Ares Kaiser",
 		"jp_text": "わたくしたちは同じ女神として<%br>再び手を取り合うことができると思うのです。",
-		"tr_text": "",
+		"tr_text": "Then, the two of us could see eye<%br>to eye as Goddesses once more.",
 		"fileID": 2
 	},
 	{
@@ -4612,7 +4612,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "カイゼルさん……<%br>そうなるように、わたし達も協力します！",
-		"tr_text": "",
+		"tr_text": "Kaiser...<%br>We'll do whatever we can to make that happen!",
 		"fileID": 2
 	},
 	{
@@ -4620,7 +4620,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "アーレスネストさんの<%br>本当の考えを調べてみます。",
-		"tr_text": "",
+		"tr_text": "Starting by finding out what Nest is really thinking.",
 		"fileID": 2
 	},
 	{
@@ -4628,7 +4628,7 @@
 		"jp_name": "アーレスソード",
 		"tr_name": "Ares Sword",
 		"jp_text": "……オレも探ってみる。なにもわからないまま<%br>戦うのは、やっぱ違う気がするんだ！",
-		"tr_text": "",
+		"tr_text": "...I'll start looking into it too. I'm getting<%br>tired of not knowing why I'm fighting!",
 		"fileID": 2
 	},
 	{
@@ -4636,7 +4636,7 @@
 		"jp_name": "アーレスカイゼル",
 		"tr_name": "Ares Kaiser",
 		"jp_text": "ふふ……ソード、立派になりましたね。",
-		"tr_text": "",
+		"tr_text": "Heheh... My, Sword, how you have changed.",
 		"fileID": 2
 	},
 	{
@@ -4644,7 +4644,7 @@
 		"jp_name": "アーレスカイゼル",
 		"tr_name": "Ares Kaiser",
 		"jp_text": "話は以上です。手間を取らせました。<%br>どうぞお戻りなさい。",
-		"tr_text": "",
+		"tr_text": "The time for talk is over.<%br>Return to me when you have results.",
 		"fileID": 2
 	},
 	{
@@ -4652,7 +4652,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "はい、カイゼルさん。失礼しますね。",
-		"tr_text": "",
+		"tr_text": "We understand, Kaiser. Please excuse us.",
 		"fileID": 2
 	},
 	{
@@ -4660,7 +4660,7 @@
 		"jp_name": "アーレスソード",
 		"tr_name": "Ares Sword",
 		"jp_text": "早く戻って、ランスのバトルを見届けないと……<%br>って、言ってるそばから邪魔が入るのかよ！",
-		"tr_text": "",
+		"tr_text": "We'll need to get back soon to see Lance fight. Of<%br>course, as soon as I say that something pops up!",
 		"fileID": 2
 	},
 	{
@@ -4668,7 +4668,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "リーダー、ダーカー出現です！<%br>気をつけて進みましょう！",
-		"tr_text": "",
+		"tr_text": "Leader, there's Darkers ahead!<%br>Be careful!",
 		"fileID": 2
 	},
 	{
