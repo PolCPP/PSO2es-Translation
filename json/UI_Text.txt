@@ -2367,7 +2367,7 @@
 	{
 		"assign": "item_grind_info",
 		"jp_text": "補助アイテムがセットされていません。\n補助アイテムを使うと効果が発生します。\n\n【旧式武器・ユニット】\n成功率アップ、失敗リスクの軽減\n【新世武器】\n大成功率アップ、強化値上限アップ\n属性の変化、属性値アップ",
-		"tr_text": "No support items set.\nSupport items grant additional effects:\n\n[Old-type weapons/units]\nImprove success rate, reduce risk from failure\n[New-type weapons]Improve chance of great success,\nchange element, increase element value"
+		"tr_text": "No support items available.\nSupport items grant additional effects:\n\n[Old-type weapons/units]\nImprove success rate, reduce risk from\nfailure\n[New-type weapons]\nImprove chance of great success,\nchange element, increase element value"
 	},
 	{
 		"assign": "labo_guide_07",
