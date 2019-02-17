@@ -1152,47 +1152,47 @@
 	{
 		"assign": "0230",
 		"jp_text": "<color=#f0df60>＜エネミーの弱点属性を狙え！＞</color>\nこのブロックのエネミーは\n特定の属性を弱点としています。\n弱点を突くことができるよう\n十分に準備を整え挑んでください！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Aim For Weakness Elements!></color>\nIn this block, all enemies share a weakness\nelement. Try to focus your equipment\naround targeting that weakness element!"
 	},
 	{
 		"assign": "0231",
 		"jp_text": "<color=#f0df60>＜エネミーの属性耐性に気を付けて！＞</color>\nこのブロックのエネミーは\n特定の属性に耐性を持ちます。\n耐性の隙を突くことができるよう\n十分に準備を整え挑んでください！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Watch For Enemy Elemental Resistances!></color>Enemies in this block resist certain elements.\nTry to focus on different elements when\nyou choose your equipment."
 	},
 	{
 		"assign": "0232",
 		"jp_text": "<color=#f0df60>＜エネミーの攻撃耐性に気を付けて！＞</color>\nこのブロックのエネミーは「打撃」「射撃」「法撃」\n「必殺技」「法術」のいずれかに耐性を持ちます。\n耐性の隙を突くことができるよう\n十分に準備を整え挑んでください！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Watch For Enemy Attack Resistances!></color>\nEnemies in this block resist S-ATK, R-ATK, T-ATK,\nPhoton Arts or Techniques. Try to focus on other\nattacks when you choose your equipment."
 	},
 	{
 		"assign": "0233",
 		"jp_text": "<color=#f0df60>＜エネミーの状態異常時を狙え！＞</color>\nこのブロックのエネミーは\n状態異常状態中に攻撃すると\n通常以上のダメージを与えることができます。\n状態異常を与えるチップを使ってみてください！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Aim To Inflict Status Effects!></color>\nEnemies in this block will take more damage than\nusual when affected by status effects. Try using\na chip that lets you inflict status effects!"
 	},
 	{
 		"assign": "0234",
 		"jp_text": "<color=#f0df60>＜消費ＣＰ大幅カット！＞</color>\nこのブロックでは\nチップ発動時のＣＰの消費量が\n大幅に下がります！\nチップの連続発動が可能になりますので\nアクティブチップを使ってみてください！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><CP Consumption Reduced!></color>\nIn this block, the amount of CP you use to activate\nchips is greatly reduced! Take advantage of this by\nusing active chips more than you normally would!"
 	},
 	{
 		"assign": "0235",
 		"jp_text": "<color=#f0df60>＜ダメージボムで追加ボーナス！＞</color>\nこのブロックでは\nダメージボムチップが有効です！\nダメージボムチップは対象エネミーの\n残りＨＰに応じた割合ダメージを追加で与えます！\nダメージボムチップを使ってみてください！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Damage Bomb Bonus Damage!></color>\nIn this block, [Damage Bomb] chips are boosted!\nIn addition to their normal damage, all [Damage Bomb]\nchips will deal bonus damage equal to a proportion\nof the enemy's remaining HP!\nTry using Damage Bomb chips!"
 	},
 	{
 		"assign": "0236",
 		"jp_text": "<color=#f0df60>＜プレイヤーに特殊な制限が発生＞</color>\nこのブロックでは「通常攻撃耐性」「ダメージ上限」\nなどプレイヤーに様々な制限が発動します。\n臨機応変に対応できるよう\n十分に準備を整え挑んでください！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Special Player Restrictions></color>\nIn this block, you will be affected by a special\nrestriction, such as \"Normal attack damage\nresistance\" or \"Maximum limit on damage\".\nEquip yourself in a way that lets you respond\nflexibly to whatever comes your way!"
 	},
 	{
 		"assign": "0237",
 		"jp_text": "<color=#f0df60>＜エターナルジュエルとは？＞</color>\nブロックをクリアすると\n「エターナルジュエル」が手に入ります。\n交換ショップで、いろいろな景品と交換できますよ！\nエターナルジュエルは次回持越しが可能です！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><What Are Eternal Jewels?></color>\nWhen you clear a block, you can earn \"Eternal\nJewels\". You can exchange Eternal Jewels for\nvarious prizes in the Exchange Shop! When the\nEternal Tower event ends, your Eternal Jewels will\nbe carried over next time it appears!"
 	},
 	{
 		"assign": "0238",
 		"jp_text": "<color=#f0df60>＜ブロックのクリアタイム報酬を目指そう！＞</color>\nブロックをクリアすると\nクリアタイムに応じて\n各種クリアタイム報酬が手に入ります。\nブロックをできるだけ早くクリアして\nゴールド報酬を目指しましょう！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Aim For Block Clear Time Rewards!></color>\nWhen you clear a block, the rewards you get vary\ndepending on your clear time. Clear blocks as fast\nas you can and aim for the Gold Time rewards!"
 	},
 	{
 		"assign": "0239",
@@ -1207,7 +1207,7 @@
 	{
 		"assign": "0241",
 		"jp_text": "<color=#f0df60>＜ボスのいるパネルを探せ！＞</color>\nこのブロックでは\nどこかにボスのいるパネルがあります。\nボスバトルをクリアして、確実に鍵を入手しましょう！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Find The Boss Panel!></color>\nIn this block, there is a panel with a boss somewhere.\nClear the boss battle and secure the key!"
 	},
 	{
 		"assign": "0242",
