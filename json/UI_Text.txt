@@ -2367,7 +2367,7 @@
 	{
 		"assign": "item_grind_info",
 		"jp_text": "補助アイテムがセットされていません。\n補助アイテムを使うと効果が発生します。\n\n【旧式武器・ユニット】\n成功率アップ、失敗リスクの軽減\n【新世武器】\n大成功率アップ、強化値上限アップ\n属性の変化、属性値アップ",
-		"tr_text": "No support items set.\nSupport items grant additional effects:\n\n[Old-type weapons/units]\nImprove success rate, reduce risk from failure\n[New-type weapons]Improve chance of great success,\nchange element, increase element value"
+		"tr_text": "No support items available.\nSupport items grant additional effects:\n\n[Old-type weapons/units]\nImprove success rate, reduce risk from\nfailure\n[New-type weapons]\nImprove chance of great success,\nchange element, increase element value"
 	},
 	{
 		"assign": "labo_guide_07",
@@ -17302,7 +17302,7 @@
 	{
 		"assign": "sort_other",
 		"jp_text": "その他",
-		"tr_text": ""
+		"tr_text": "Other"
 	},
 	{
 		"assign": "sort_category",
@@ -18742,7 +18742,7 @@
 	{
 		"assign": "acceptbox_window_sale_tab_title",
 		"jp_text": "売却",
-		"tr_text": ""
+		"tr_text": "Sell"
 	},
 	{
 		"assign": "acceptbox_no_sale_item",
@@ -19487,7 +19487,7 @@
 	{
 		"assign": "EternalTop_Clear_name",
 		"jp_text": "ブロッククリア",
-		"tr_text": ""
+		"tr_text": "Block Clear"
 	},
 	{
 		"assign": "EternalTop_SilverTime_name",
@@ -19717,12 +19717,12 @@
 	{
 		"assign": "towerquest_top_guide_ranking",
 		"jp_text": "<color=#f0df60>エターナルタワーランキングの順位になります。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>You will be ranked in the Eternal Tower rankings.</color>"
 	},
 	{
 		"assign": "towerquest_top_guide_ranking_result",
 		"jp_text": "<color=#f0df60>エターナルタワーランキングの順位になります。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>You will be ranked in the Eternal Tower rankings.</color>"
 	},
 	{
 		"assign": "towerquest_top_scene_title",
