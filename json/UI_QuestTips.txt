@@ -17,7 +17,7 @@
 	{
 		"assign": "0003",
 		"jp_text": "<color=#f0df60>＜ＨＰが減ったら回復しよう＞</color>\n敵に攻撃されてＨＰが減ったら\n「モノメイト」（回復薬）など、回復系のチップを\n使うと、ＨＰが回復しますよ。",
-		"tr_text": "<color=#f0df60><Recovering HP></color>\nIf you get hit by an enemy attack, you will lose HP.\nYou can recover your HP by using a recovery chip,\nsuch as \"Monomate\" (recovery medcine)."
+		"tr_text": "<color=#f0df60><Recovering HP></color>\nIf you get hit by an enemy attack, you will lose HP.\nYou can recover your HP by using a recovery chip,\nsuch as \"Monomate\"."
 	},
 	{
 		"assign": "0004",
@@ -42,7 +42,7 @@
 	{
 		"assign": "0008",
 		"jp_text": "<color=#f0df60>＜チップの強化＞</color>\n余ったチップは、素材にして\nよく使うチップをどんどん強化していきましょう。\n属性値だけでなく、ＨＰやバトル開始時のＣＰも\n上昇していくんですよ。",
-		"tr_text": "<color=#f0df60><Grinding Chips></color>\nYou can use your less frequently-used chips as raw\nmaterials to strengthen the chips you use more.\nStrengthening chips raises their element value,\nas well as the HP and initial CP they give you."
+		"tr_text": "<color=#f0df60><How To Grind Chips></color>\nYou can use your less frequently-used chips as raw\nmaterials to strengthen the chips you use more.\nStrengthening chips raises their element value,\nas well as the HP and initial CP they give you."
 	},
 	{
 		"assign": "0009",
@@ -97,42 +97,42 @@
 	{
 		"assign": "0019",
 		"jp_text": "<color=#f0df60>＜スコアについて＞</color>\nバトルを「はやく」「ダメージを少なく」\nクリアすると、いいスコアがもらえます。\nクエストをクリアしたときに合計スコアが高いと\nＳやＡの評価となり、報酬もよくなりますよ。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Your Score></color>\nIf you clear battles quickly and without taking\ntoo much damage, the score you get from\nthem will be higher. If you earn a high score\non every battle, you will get an A or S rank for\nthe quest, which gives you an extra reward!"
 	},
 	{
 		"assign": "0020",
 		"jp_text": "<color=#f0df60>＜スコアボーナス＞</color>\nクエストクリア時に、スコアの合計数に応じて\nＳやＡの評価がもらえますが、それとは別に\nエリア（同じマップ）中のスコアの累計数に応じて\n「スコアボーナス」がもらえます。\nいい武器やチップをゲットするチャンス！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Score Bonus></color>\nIn addition for the rewards for getting A and S\nranks on each individual quest, there are \"Score\nBonus\" rewards available for reaching certain\ntotal high scores for each area (block of quests).\nThese can be powerful weapons and chips!"
 	},
 	{
 		"assign": "0021",
 		"jp_text": "<color=#f0df60>＜お気に入り登録＞</color>\n大事なチップは、間違って売ったり\n強化の素材として使ったりしてしまわないように\n「お気に入り登録」をしておきましょう。\n装備選択画面から登録可能です。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Favorite Registration></color>\nRegister important chips as \"Favorites\" to\navoid accidentally selling them, or using them\nas Grind material. You can register Favorites\nfrom the Equip screen."
 	},
 	{
 		"assign": "0022",
 		"jp_text": "<color=#f0df60>＜クラスについて＞</color>\nクラスは、メニューの「編成」から「クラス変更」で\n自由に変えることができます。\n強い武器やチップが手に入ったら、それらの扱いが\n得意なクラスになるのもいいかもしれませんね。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Classes></color>\nYou can change your class at any time by\nselecting \"Change class\" from the\n\"Organize\" menu. If you find powerful\nweapons and chips, consider changing to a\nclass that can use them more effectively."
 	},
 	{
 		"assign": "0023",
 		"jp_text": "<color=#f0df60>＜アビリティレベル＞</color>\n同じ種類のチップを素材にして強化をすると\nチップのアビリティレベルがあがります。\nチップ発動に必要なＣＰが少なくなったり\nチップ効果発動の確率があがったりするんですよ。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Ability Level></color>\nWhen you grind a chip with another copy of the\nsame chip, its \"ability level\" increases.\nFor Support chips, a higher ability level increases\nthe chip's activation chance, while for Active\nchips, it decreases the chip's CP cost to activate."
 	},
 	{
 		"assign": "0024",
 		"jp_text": "<color=#f0df60>＜ＰＳＥバースト＞</color>\nフィールド移動時にマスを選ぶと発生するＰＳＥ。\nこれが３段階まで重なると\n「ＰＳＥバースト」と言って、効果が劇的にアップ！\nうまくマスを選んでみましょう。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><PSE Burst></color>\nPSEs occur when you select colored spaces while\nmoving in the field. If you select three of the\nsame colour, a voice will say \"PSE Burst\",\nand the effect will dramatically increase!\nChoose your path carefully as you move."
 	},
 	{
 		"assign": "0025",
 		"jp_text": "<color=#f0df60>＜状態異常を治そう＞</color>\nエネミーの中には、毒などの状態異常攻撃をしてくる\n種類がいます。\n状態異常は、チップ「ソルアトマイザー（治療薬）」で\n治すことができますよ。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Dealing With Status Effects></color>\nSome enemies can inflict various types of\nstatus effects, such as Poison. If you're\nafflicted by a status effect, you can remove\nit by using the chip \"Sol Atomizer\"."
 	},
 	{
 		"assign": "0026",
 		"jp_text": "<color=#f0df60>＜チップ解放＞</color>\n編成メニューで行える「チップ解放」。\nチップに秘められた能力を解放して引き出すことで\nチップの最大レベルがアップしますよ。\n解放に必要な素材を集めてみましょう。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><How To Release Chips></color>\nBy selecting \"Chip Release\" from the \"Organize\"\nmenu, you can draw out the hidden powers of\nchips, raising their maximum level and improving\ntheir abilities. Chip Releasing requires special\nmaterials, so do your best to collect them!"
 	},
 	{
 		"assign": "0027",
@@ -142,12 +142,12 @@
 	{
 		"assign": "0028",
 		"jp_text": "<color=#f0df60>＜グラインダーで強化＞</color>\n編成メニューの「アイテム強化」では\n武器やユニットを強化することができるんです。\n強化には、グラインダーというアイテムが必要です。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><How To Grind Items></color>\nBy selecting \"Grind Items\" from the \"Organize\"\nmenu, you can enhance weapons and units.\nTo enhance weapons and units, you need an item\ncalled a \"Grinder\"."
 	},
 	{
 		"assign": "0029",
 		"jp_text": "<color=#f0df60>＜スコアボーナスのアイテム＞</color>\nクエストに出かける前のエリア選択画面で\nエリア名の横に、詳細ボタンがあります。\nここを押すと、スコアボーナスでもらえるアイテムが\n確認できるんですよ！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Score Bonus Items></color>\nWhen you go to select a quest, each area\nhas a blue button on the left side. If you\npress this button, you can view the items\nthat you can earn from Score Bonus!"
 	},
 	{
 		"assign": "0030",
@@ -217,7 +217,7 @@
 	{
 		"assign": "0043",
 		"jp_text": "<color=#f0df60>＜アイテム強化について＞</color>\nグラインダーがあれば、武器やユニットを\n＋１０まで強化することができます。\n後半になると強化に失敗する確率が高くなるので\n注意してください。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Item Grinding></color>\nBy using Grinders, you can enhance weapons\nand units up to a maximum grind value of +１０.\nHowever, please note that as the grind value\ngets higher, so does the chance of failure when\ngrinding."
 	},
 	{
 		"assign": "0044",
