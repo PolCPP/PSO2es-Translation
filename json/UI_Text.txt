@@ -12352,7 +12352,7 @@
 	{
 		"assign": "es_0006_n08_b",
 		"jp_text": "<color=black>侵食エネミーは非常に強力ですから\nチップの効果を活かすことが\nとても重要になってきます。\nクエスト出撃前に、弱点属性を\nよく確認しておいてくださいね。</color>",
-		"tr_text": "<color=black>Infected enemies are powerful.\nEnsure that you take advantage of\neach chip, as well as the weakness\nattribute, before deploying yourself.</color>"
+		"tr_text": "<color=black>Infected enemies are powerful.\nEnsure that you take advantage of\neach chip, as well as the weakness\element, before deploying yourself.</color>"
 	},
 	{
 		"assign": "es_0006_n09_b",
@@ -19217,7 +19217,7 @@
 	{
 		"assign": "quest_linkskill_week_element",
 		"jp_text": "有効属性予想",
-		"tr_text": "Weak Attr. Predict"
+		"tr_text": "Weak Elem. Predict"
 	},
 	{
 		"assign": "quest_lobby_guide_01",
@@ -19282,7 +19282,7 @@
 	{
 		"assign": "chip_details_attribute",
 		"jp_text": "属性",
-		"tr_text": "Attr."
+		"tr_text": "Elem."
 	},
 	{
 		"assign": "chip_details_hp",
@@ -19732,12 +19732,12 @@
 	{
 		"assign": "towerquest_fp_weakpoint_title",
 		"jp_text": "　　　　弱点属性",
-		"tr_text": "　　　　Weak Attr."
+		"tr_text": "　　　　Weak Elem."
 	},
 	{
 		"assign": "towerquest_fp_ls_weakpoint_title",
 		"jp_text": "　　　弱点属性",
-		"tr_text": "　　　Weak Attr."
+		"tr_text": "　　　Weak Elem."
 	},
 	{
 		"assign": "towerquest_top_floor_unit",
