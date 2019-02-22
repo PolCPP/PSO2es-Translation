@@ -5708,7 +5708,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "さて、リリーパ族も見つかったし……<%br>ブルーノ、これで問題は解決よね？",
-		"tr_text": "",
+		"tr_text": "Well, we found a Lillipan...<%br>Does this resolve our problem, Bruno?",
 		"fileID": 2
 	},
 	{
@@ -5716,7 +5716,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "ああ、だが……<%br>なにかが引っかかるんだ……",
-		"tr_text": "",
+		"tr_text": "I'm not so sure...<%br>There's something bothering me about this...",
 		"fileID": 2
 	},
 	{
@@ -5724,7 +5724,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "……はっきりしないわね。",
-		"tr_text": "",
+		"tr_text": "...You aren't being especially clear.",
 		"fileID": 2
 	},
 	{
@@ -5732,7 +5732,7 @@
 		"jp_name": "リリーパ族",
 		"tr_name": "Lillipan",
 		"jp_text": "りーりー……",
-		"tr_text": "",
+		"tr_text": "Lii lii...",
 		"fileID": 2
 	},
 	{
@@ -5740,7 +5740,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "どうしたんです？　もう大丈夫ですよ。<%br>送っていきますから、地上へ戻りましょう？",
-		"tr_text": "",
+		"tr_text": "What's wrong? Everything's alright now.<%br>If we go with you, will you go back to the surface?",
 		"fileID": 2
 	},
 	{
@@ -5748,7 +5748,7 @@
 		"jp_name": "リリーパ族",
 		"tr_name": "Lillipan",
 		"jp_text": "りー……りーりりっ！",
-		"tr_text": "",
+		"tr_text": "Lii... Lii lili!",
 		"fileID": 2
 	},
 	{
@@ -5756,7 +5756,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "な、なんか嫌がってるぞ……？<%br>ここにいたいのか？",
-		"tr_text": "",
+		"tr_text": "Huh, you don't wanna go...?<%br>You'd rather stay here?",
 		"fileID": 2
 	},
 	{
@@ -5764,7 +5764,7 @@
 		"jp_name": "リリーパ族",
 		"tr_name": "Lillipan",
 		"jp_text": "りりっ！",
-		"tr_text": "",
+		"tr_text": "Lili!",
 		"fileID": 2
 	},
 	{
@@ -5772,7 +5772,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "えっと……<%br>リリーパ族さんは、ここに残るみたいです……",
-		"tr_text": "",
+		"tr_text": "Um...<%br>It really seems like the Lillipan wants to stay here...",
 		"fileID": 2
 	},
 	{
@@ -5780,7 +5780,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "あっ！　奥にもリリーパ族がいるぞ！<%br>すげー、いっぱいいる！",
-		"tr_text": "",
+		"tr_text": "Hey! There's more Lillipans behind it!<%br>Woah, there's loads back here!",
 		"fileID": 2
 	},
 	{
@@ -5788,7 +5788,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "本当だ。集団で地下坑道に移動してきたのか？<%br>まるで……",
-		"tr_text": "",
+		"tr_text": "You're not wrong. Did these guys all come<%br>down here together? It's almost as if...",
 		"fileID": 2
 	},
 	{
@@ -5802,8 +5802,8 @@
 			"地下坑道に引っ越したんだろう。"
 		],
 		"tr_buttons": [
-			"",
-			""
+			"It's like they're evacuating.",
+			"I guess they've just moved house."
 		],
 		"fileID": 2
 	},
@@ -5812,7 +5812,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "ああ。集団で身を寄せ合って……<%br>地下へ避難してきたように見える。",
-		"tr_text": "",
+		"tr_text": "Huh. If they're moving as a group like this...<%br>Yeah, evacuation is the word...",
 		"fileID": 2
 	},
 	{
@@ -5820,7 +5820,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "引っ越しにしては、生活感がないです。<%br>みんなで一ヶ所に固まっていますし……",
-		"tr_text": "",
+		"tr_text": "No, it doesn't look like they're living here to me.<%br>It's more like they've all gathered in one place...",
 		"fileID": 2
 	},
 	{
@@ -5828,7 +5828,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "一時的にここにいるだけ……<%br>まるで避難してきたみたいだわ。",
-		"tr_text": "",
+		"tr_text": "If they've only come here temporarily...<%br>That seems more like an evacuation to me.",
 		"fileID": 2
 	},
 	{
@@ -5836,7 +5836,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "避難？　リリーパ族はなにから逃げてるんだ？<%br>アーレスバトルか？",
-		"tr_text": "",
+		"tr_text": "Evacuation? What are they evacuating from?<%br>Just the Ares Battle?",
 		"fileID": 2
 	},
 	{
@@ -5844,7 +5844,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "アーレスバトルは機甲種の戦闘と<%br>同じくらいの規模よ。避難するほどじゃないわ。",
-		"tr_text": "",
+		"tr_text": "The Ares Battle is no larger than when we fight<%br>Mechs. It shouldn't be a reason to evacuate.",
 		"fileID": 2
 	},
 	{
@@ -5852,7 +5852,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "じゃあ、もっと大規模ななにかが<%br>地上で起きてるってことです……？",
-		"tr_text": "",
+		"tr_text": "So, does that mean something bigger<%br>is happening on the surface...?",
 		"fileID": 2
 	},
 	{
@@ -5860,7 +5860,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "地上じゃなにも起きてない。<%br>……もしかして、これから起きるのか……？",
-		"tr_text": "",
+		"tr_text": "No, nothing's happened on the surface.<%br>Unless... Something's about to happen...?",
 		"fileID": 2
 	},
 	{
@@ -5868,7 +5868,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "こ、これから……？<%br>これからなにが起きるんだよ？",
-		"tr_text": "",
+		"tr_text": "A-about to happen...?<%br>What's about to happen?",
 		"fileID": 2
 	},
 	{
@@ -5876,7 +5876,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "……ネストは機甲種を疎んでいた。<%br>地上の機甲種を一掃する可能性はないかしら？",
-		"tr_text": "",
+		"tr_text": "Nest was very insistent about the Mechs. Perhaps<%br>she needed the surface Mechs out of the way?",
 		"fileID": 2
 	},
 	{
@@ -5884,7 +5884,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "だからリリーパ族を巻き込まないよう<%br>あらかじめ地下に避難させておいて……",
-		"tr_text": "",
+		"tr_text": "And she had the Lillipans evacuate to the Tunnels<%br>ahead of time so as not to get involved...",
 		"fileID": 2
 	},
 	{
@@ -5892,7 +5892,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "……そうか！　まずいぞ、リーダー！<%br>すぐに地上に戻ろう！",
-		"tr_text": "",
+		"tr_text": "...Oh no! This is bad, Leader!<%br>We've got to get back up there, now!",
 		"fileID": 2
 	},
 	{
@@ -5900,7 +5900,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "カイゼルが危ない！",
-		"tr_text": "",
+		"tr_text": "Kaiser's in danger!",
 		"fileID": 2
 	},
 	{
@@ -5908,7 +5908,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "えっ……？<%br>じゃあ、アーレスネストさんの狙いは……",
-		"tr_text": "",
+		"tr_text": "Huh...?<%br>Then, Ares Nest's real plan was...",
 		"fileID": 2
 	},
 	{
@@ -5916,7 +5916,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "……アーレスバトルはめくらましだ。<%br>ネストの真の目的は、別にある！",
-		"tr_text": "",
+		"tr_text": "...The Ares Battle was just a cover.<%br>Nest's after something much worse!",
 		"fileID": 2
 	},
 	{
