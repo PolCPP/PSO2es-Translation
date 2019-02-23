@@ -1,6 +1,6 @@
 language: python
-python: pypy3
-dist: trusty
+python: 3.7
+dist: xenial
 addons:
     apt:
       update: true
