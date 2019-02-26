@@ -12,7 +12,7 @@
 	{
 		"assign": "0002",
 		"jp_text": "<color=#f0df60>＜敵の攻撃をかわそう＞</color>\nバトル中に画面を左にスライドすると左に移動、\n右にスライドすると右に移動することができます。\nエネミーの攻撃を左右に移動して、かわしましょう。",
-		"tr_text": "<color=#f0df60><Avoiding enemy attacks></color>\nDuring a battle, sliding across the screen to the left\nmakes you dodge left, and sliding to the right makes\nyou dodge right. Dodge left and right to avoid\nenemy attacks."
+		"tr_text": "<color=#f0df60><Avoiding Enemy Attacks></color>\nDuring a battle, sliding across the screen to the left\nmakes you dodge left, and sliding to the right makes\nyou dodge right. Dodge left and right to avoid\nenemy attacks."
 	},
 	{
 		"assign": "0003",
@@ -152,17 +152,17 @@
 	{
 		"assign": "0030",
 		"jp_text": "<color=#f0df60>＜チップとクラスの組み合わせ＞</color>\nチップの中には「クラスボーナス」という効果が\nついているものがあります。\n対応するクラスのときに装備すると\n上昇するパラメータにボーナスがつくんですよ。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Combining Chips And Classes></color>\nSome chips have an effect called \"Class Bonus\".\nWhile equipped to a character of a matching class,\nthe chip's HP, CP and Element value will increase."
 	},
 	{
 		"assign": "0031",
 		"jp_text": "<color=#f0df60>＜『PSO2』との連動メリット＞</color>\n『PSO2es』のキャラクターを『PSO2』と連動させると\n所持アイテムの枠数が増えるなど、いろいろな\nいいことがありますよ！\nよかったらぜひ、お試しください！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Benefits Of Linking With PSO2></color>\nIf you link a character from PSO2es to PSO2,\nyou will gain many benefits, such as being\nable to store more items. Give PSO2 a try!"
 	},
 	{
 		"assign": "0032",
 		"jp_text": "<color=#f0df60>＜追加データダウンロード＞</color>\n「メニュー」の「その他」から「システム」にある\n「データダウンロード」を選ぶと、ゲームで使用する\nすべてのアイテムのデータを追加ダウンロードします。\nただし、ダウンロードに非常に長い時間がかかり\n容量もかなり必要です。ご注意ください。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Additional Data Download></color>\nIf you go to the \"Other\" menu, select \"System\"\nand then \"Data Download\", you will be able to\ndownload additional data for every item in the\ngame. This takes a long time, and requires a lot of\nstorage space. Please be careful."
 	},
 	{
 		"assign": "0033",
@@ -177,32 +177,32 @@
 	{
 		"assign": "0035",
 		"jp_text": "<color=#f0df60>＜チップでもジャストアタック＞</color>\nジャストアタックは、通常攻撃だけでなく\nアクティブチップでも発動することができますよ。\nチップを使うときに、赤い円にタイミングをあわせて\n発動してみましょう。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Just Attacking Chips></color>\nJust Attacks don't just apply to normal attacks -\nyou can do them with Active Chips too! Try to\ntime your chip activations to the red circle."
 	},
 	{
 		"assign": "0036",
 		"jp_text": "<color=#f0df60>＜武器の習熟について＞</color>\n『PSO2es』では、武器に「習熟」という値があり\nどんな武器もクラスレベル１から装備できますが\n習熟度が低いうちは、威力も抑えられています。\nクラスレベルがあがると「習熟」もあがっていき\n１００％になると、本来の性能が発揮可能になります。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Weapon Proficiency></color>\nIn PSO2es, weapons have a \"Proficiency Level\".\nYou can use any weapon even at level 1, but if\nyou haven't reached the Proficiency level, their\npower will be reduced. As your level rises, your\nproficiency increases, reaching full power at 100%."
 	},
 	{
 		"assign": "0037",
 		"jp_text": "<color=#f0df60>＜侵食エネミーについて＞</color>\n侵食エネミーは、赤い体色をしており\n画面左上のエネミー名に「侵食」の文字が冠されます。\nとても強力なエネミーですが、そのぶん\n良いアイテムが出る確率も高くなるようです。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Infected Enemies></color>\nInfected enemies appear red, and have the word\n\"Infected\" at the start of their names in the top-\nleft corner. Infected enemies are more powerful,\nbut they have a high chance to drop good items."
 	},
 	{
 		"assign": "0038",
 		"jp_text": "<color=#f0df60>＜装備セットを作ろう＞</color>\n武器とチップの装備のセットは\n６つまで保存しておくことができますよ。\n「装備パレット」画面の、右上の矢印で\n切り替えることが可能です。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Saved Palettes></color>\nYou can have up to six palettes of weapons, units\nand chips saved. You can switch between these\npalettes at any time using the arrows in the top-\nright corner of the Equip screen."
 	},
 	{
 		"assign": "0039",
 		"jp_text": "<color=#f0df60>＜お得な行動力回復＞</color>\nレベルがあがりにくくなって、行動力が足りないときは\nレベルが低いクラスにクラス変更してみましょう。\n簡単にレベルアップできるので\n行動力が回復しやすいですよ。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Easy Drive Recovery></color>\nIf your level is high and levelling up is becoming\ndifficult, switch to a lower-levelled class. You will\nfind it easy to level up again, which fully restores\nyour Drive and lets you continue playing."
 	},
 	{
 		"assign": "0040",
 		"jp_text": "<color=#f0df60>＜スペシャルクエストの活用＞</color>\n日替わりのスペシャルクエストは、曜日によって\n手に入る解放素材が異なります。\nクエストカウンターでチェックしましょう！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Daily Special Quests></color>\nDaily Special Quests change withthe day of the week.\nBe sure to check them at the\nQuest Counter!"
 	},
 	{
 		"assign": "0041",
@@ -232,7 +232,7 @@
 	{
 		"assign": "0046",
 		"jp_text": "<color=#f0df60>＜フレンドアシストの追撃＞</color>\nフレンドの装備しているチップが\nエクストラ系（必殺技や法術）の場合\nフレンドアシストをした際に、最後にそのチップで\n追加攻撃をしてくれますよ！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Extended Friend Assist></color>\nWhen your Friend Partner's chip is a Photon Art or\nTechnique, if you activate Friend Assist, your\nFriend Partner will perform an additional attack at\nthe end using that chip!"
 	},
 	{
 		"assign": "0047",
@@ -267,7 +267,7 @@
 	{
 		"assign": "0053",
 		"jp_text": "<color=#f0df60>＜交換ショップ＞</color>\n不要になったチップやコスチュームは\n交換ショップで別のチップなどのアイテムに\n交換できる場合がありますよ。\n交換ショップを活用しましょう！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><The Exchange Shop></color>\nAt the Exchange Shop, you can trade chips\nand costumes that you no longer want for\nother items, including new chips. Check out\nwhat the Exchange Shop has to offer!"
 	},
 	{
 		"assign": "0054",
@@ -472,7 +472,7 @@
 	{
 		"assign": "0094",
 		"jp_text": "<color=#f0df60>＜ダーカーの第三波＞</color>\n数で押してきた、第二波はなんとかしのぎました。\n第三波では、大型のダーカーが確認されています。\nがんばってください！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Third Darker Attack></color>\nDespite their numbers, you held off the\nsecond wave. A large Darker has been\ndetected in the third wave. Good luck!"
 	},
 	{
 		"assign": "0095",
@@ -612,7 +612,7 @@
 	{
 		"assign": "0122",
 		"jp_text": "<color=#f0df60>＜「オペレーションスコア」とは＞</color>\n緊急クエストをクリアすると、\n作戦への貢献度を示す\nオペレーションスコアが獲得できますよ。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>What is \"Operation Score\"?</color>\nWhen you clear an Emergency Quest, you\nearn Operation Score points based on how\nmuch you contributed to the battle."
 	},
 	{
 		"assign": "0123",
@@ -1067,12 +1067,12 @@
 	{
 		"assign": "0213",
 		"jp_text": "<color=#f0df60>＜★１３チップの解放＞</color>\n★１３チップをパレットに装備すると同じ属性の\n必殺技、法術チップのコストが半分になるんです！\n★１３チップと一緒に必殺技や法術のチップを\n装備する時は属性も考慮してくださいね！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><★13 Chips></color>\nWhen you equip a ★13 chip on your palette, it willhalve the equip cost of PAs and Techniques of the\nsame element. When choosing a PA to go with your\n★13 chip, pay attention to its element!"
 	},
 	{
 		"assign": "0214",
 		"jp_text": "<color=#f0df60>＜★１３チップの最大解放＞</color>\n★１３チップには二段階の解放があります。\n最大解放した★13チップをパレットに装備した時\n全属性の必殺技、法術チップのコストが半分になります。\n強いチップを装備したいけどコストが……\nなんて悩みが解決しちゃいますよ！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Fully Releasing ★13 Chips></color>\n★13 chips can be released twice. When you equip\na fully released ★13 chip, it halves the equip cost\nof PAs and Techniques of all elements. If you've\never been unable to equip a strong chip because\nof its cost, ★13 chips are the answer!"
 	},
 	{
 		"assign": "0215",

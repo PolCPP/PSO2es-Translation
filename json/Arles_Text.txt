@@ -5708,7 +5708,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "さて、リリーパ族も見つかったし……<%br>ブルーノ、これで問題は解決よね？",
-		"tr_text": "",
+		"tr_text": "Well, we found a Lillipan...<%br>Does this resolve our problem, Bruno?",
 		"fileID": 2
 	},
 	{
@@ -5716,7 +5716,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "ああ、だが……<%br>なにかが引っかかるんだ……",
-		"tr_text": "",
+		"tr_text": "I'm not so sure...<%br>There's something bothering me about this...",
 		"fileID": 2
 	},
 	{
@@ -5724,7 +5724,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "……はっきりしないわね。",
-		"tr_text": "",
+		"tr_text": "...You aren't being especially clear.",
 		"fileID": 2
 	},
 	{
@@ -5732,7 +5732,7 @@
 		"jp_name": "リリーパ族",
 		"tr_name": "Lillipan",
 		"jp_text": "りーりー……",
-		"tr_text": "",
+		"tr_text": "Lii lii...",
 		"fileID": 2
 	},
 	{
@@ -5740,7 +5740,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "どうしたんです？　もう大丈夫ですよ。<%br>送っていきますから、地上へ戻りましょう？",
-		"tr_text": "",
+		"tr_text": "What's wrong? Everything's alright now.<%br>If we go with you, will you go back to the surface?",
 		"fileID": 2
 	},
 	{
@@ -5748,7 +5748,7 @@
 		"jp_name": "リリーパ族",
 		"tr_name": "Lillipan",
 		"jp_text": "りー……りーりりっ！",
-		"tr_text": "",
+		"tr_text": "Lii... Lii lili!",
 		"fileID": 2
 	},
 	{
@@ -5756,7 +5756,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "な、なんか嫌がってるぞ……？<%br>ここにいたいのか？",
-		"tr_text": "",
+		"tr_text": "Huh, you don't wanna go...?<%br>You'd rather stay here?",
 		"fileID": 2
 	},
 	{
@@ -5764,7 +5764,7 @@
 		"jp_name": "リリーパ族",
 		"tr_name": "Lillipan",
 		"jp_text": "りりっ！",
-		"tr_text": "",
+		"tr_text": "Lili!",
 		"fileID": 2
 	},
 	{
@@ -5772,7 +5772,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "えっと……<%br>リリーパ族さんは、ここに残るみたいです……",
-		"tr_text": "",
+		"tr_text": "Um...<%br>It really seems like the Lillipan wants to stay here...",
 		"fileID": 2
 	},
 	{
@@ -5780,7 +5780,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "あっ！　奥にもリリーパ族がいるぞ！<%br>すげー、いっぱいいる！",
-		"tr_text": "",
+		"tr_text": "Hey! There's more Lillipans behind it!<%br>Woah, there's loads back here!",
 		"fileID": 2
 	},
 	{
@@ -5788,7 +5788,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "本当だ。集団で地下坑道に移動してきたのか？<%br>まるで……",
-		"tr_text": "",
+		"tr_text": "You're not wrong. Did these guys all come<%br>down here together? It's almost as if...",
 		"fileID": 2
 	},
 	{
@@ -5802,8 +5802,8 @@
 			"地下坑道に引っ越したんだろう。"
 		],
 		"tr_buttons": [
-			"",
-			""
+			"It's like they're evacuating.",
+			"I guess they've just moved house."
 		],
 		"fileID": 2
 	},
@@ -5812,7 +5812,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "ああ。集団で身を寄せ合って……<%br>地下へ避難してきたように見える。",
-		"tr_text": "",
+		"tr_text": "Huh. If they're moving as a group like this...<%br>Yeah, evacuation is the word...",
 		"fileID": 2
 	},
 	{
@@ -5820,7 +5820,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "引っ越しにしては、生活感がないです。<%br>みんなで一ヶ所に固まっていますし……",
-		"tr_text": "",
+		"tr_text": "No, it doesn't look like they're living here to me.<%br>It's more like they've all gathered in one place...",
 		"fileID": 2
 	},
 	{
@@ -5828,7 +5828,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "一時的にここにいるだけ……<%br>まるで避難してきたみたいだわ。",
-		"tr_text": "",
+		"tr_text": "If they've only come here temporarily...<%br>That seems more like an evacuation to me.",
 		"fileID": 2
 	},
 	{
@@ -5836,7 +5836,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "避難？　リリーパ族はなにから逃げてるんだ？<%br>アーレスバトルか？",
-		"tr_text": "",
+		"tr_text": "Evacuation? What are they evacuating from?<%br>Just the Ares Battle?",
 		"fileID": 2
 	},
 	{
@@ -5844,7 +5844,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "アーレスバトルは機甲種の戦闘と<%br>同じくらいの規模よ。避難するほどじゃないわ。",
-		"tr_text": "",
+		"tr_text": "The Ares Battle is no larger than when we fight<%br>Mechs. It shouldn't be a reason to evacuate.",
 		"fileID": 2
 	},
 	{
@@ -5852,7 +5852,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "じゃあ、もっと大規模ななにかが<%br>地上で起きてるってことです……？",
-		"tr_text": "",
+		"tr_text": "So, does that mean something bigger<%br>is happening on the surface...?",
 		"fileID": 2
 	},
 	{
@@ -5860,7 +5860,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "地上じゃなにも起きてない。<%br>……もしかして、これから起きるのか……？",
-		"tr_text": "",
+		"tr_text": "No, nothing's happened on the surface.<%br>Unless... Something's about to happen...?",
 		"fileID": 2
 	},
 	{
@@ -5868,7 +5868,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "こ、これから……？<%br>これからなにが起きるんだよ？",
-		"tr_text": "",
+		"tr_text": "A-about to happen...?<%br>What's about to happen?",
 		"fileID": 2
 	},
 	{
@@ -5876,7 +5876,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "……ネストは機甲種を疎んでいた。<%br>地上の機甲種を一掃する可能性はないかしら？",
-		"tr_text": "",
+		"tr_text": "Nest was very insistent about the Mechs. Perhaps<%br>she needed the surface Mechs out of the way?",
 		"fileID": 2
 	},
 	{
@@ -5884,7 +5884,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "だからリリーパ族を巻き込まないよう<%br>あらかじめ地下に避難させておいて……",
-		"tr_text": "",
+		"tr_text": "And she had the Lillipans evacuate to the Tunnels<%br>ahead of time so as not to get involved...",
 		"fileID": 2
 	},
 	{
@@ -5892,7 +5892,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "……そうか！　まずいぞ、リーダー！<%br>すぐに地上に戻ろう！",
-		"tr_text": "",
+		"tr_text": "...Oh no! This is bad, Leader!<%br>We've got to get back up there, now!",
 		"fileID": 2
 	},
 	{
@@ -5900,7 +5900,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "カイゼルが危ない！",
-		"tr_text": "",
+		"tr_text": "Kaiser's in danger!",
 		"fileID": 2
 	},
 	{
@@ -5908,7 +5908,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "えっ……？<%br>じゃあ、アーレスネストさんの狙いは……",
-		"tr_text": "",
+		"tr_text": "Huh...?<%br>Then, Ares Nest's real plan was...",
 		"fileID": 2
 	},
 	{
@@ -5916,7 +5916,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "……アーレスバトルはめくらましだ。<%br>ネストの真の目的は、別にある！",
-		"tr_text": "",
+		"tr_text": "...The Ares Battle was just a cover.<%br>Nest's after something much worse!",
 		"fileID": 2
 	},
 	{
@@ -5924,7 +5924,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "バトル会場が見えてきたぞ！<%br>……ソードとブレードが戦ってる！",
-		"tr_text": "",
+		"tr_text": "We're nearly at the arena!<%br>...Sword and Blade are fighting!",
 		"fileID": 2
 	},
 	{
@@ -5932,7 +5932,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "カイゼルは……いたわ！　まだ無事よ！",
-		"tr_text": "",
+		"tr_text": "Kaiser is... She's still there! We aren't safe yet!",
 		"fileID": 2
 	},
 	{
@@ -5940,7 +5940,7 @@
 		"jp_name": "？？？",
 		"tr_name": "???",
 		"jp_text": "ふむ……ようやく役者が揃ったね。<%br>では、はじめようか。",
-		"tr_text": "",
+		"tr_text": "Hmm... The actors are finally assembled.<%br>Well then, let us begin.",
 		"fileID": 2
 	},
 	{
@@ -5948,7 +5948,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "カイゼルさーん！<%br>すぐにバトルを中止してください！",
-		"tr_text": "",
+		"tr_text": "Kaiseeer!<%br>Please, stop the battle now!",
 		"fileID": 2
 	},
 	{
@@ -5956,7 +5956,7 @@
 		"jp_name": "アーレスカイゼル",
 		"tr_name": "Ares Kaiser",
 		"jp_text": "ジェネ……？　どうしたのですか？",
-		"tr_text": "",
+		"tr_text": "Gene...? What has happened?",
 		"fileID": 2
 	},
 	{
@@ -5964,7 +5964,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "アーレスネストさんの目的は……キャアァッ！",
-		"tr_text": "",
+		"tr_text": "Ares Nest is planning... Aaaaah!",
 		"fileID": 2
 	},
 	{
@@ -5972,7 +5972,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "ば、爆撃！？　どこから……",
-		"tr_text": "",
+		"tr_text": "B-bombardment?! From where...",
 		"fileID": 2
 	},
 	{
@@ -5980,7 +5980,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "うぅわぁぁぁっ！　あぶ、あぶないってば！",
-		"tr_text": "",
+		"tr_text": "Waaaaaah! We- we're in danger!",
 		"fileID": 2
 	},
 	{
@@ -5988,7 +5988,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "もしかして、ネストの狙いはカイゼルだけでなく……<%br>この場にいる私たち全員なの！？",
-		"tr_text": "",
+		"tr_text": "What if Nest wasn't just targeting Kaiser...<%br>What if she was targeting all of us here?!",
 		"fileID": 2
 	},
 	{
@@ -5996,7 +5996,7 @@
 		"jp_name": "アーレスパルチザン",
 		"tr_name": "Ares Partizan",
 		"jp_text": "な、なにが起きてるんだ！？<%br>とにかくカイゼル様を、守ら……ねば……",
-		"tr_text": "",
+		"tr_text": "W-what's going on?!<%br>We have to protect... Lady... Kaiser...",
 		"fileID": 2
 	},
 	{
@@ -6004,7 +6004,7 @@
 		"jp_name": "アーレスブレード",
 		"tr_name": "Ares Blade",
 		"jp_text": "……この先には行かせない。<%br>ま、そのケガじゃ動けないだろうけど。",
-		"tr_text": "",
+		"tr_text": "...I won't let you leave this spot.<%br>You wouldn't get far with that injury, anyway.",
 		"fileID": 2
 	},
 	{
@@ -6012,7 +6012,7 @@
 		"jp_name": "アーレスソード",
 		"tr_name": "Ares Sword",
 		"jp_text": "そこを……どけぇぇぇっ！！",
-		"tr_text": "",
+		"tr_text": "Get out... of my way!!",
 		"fileID": 2
 	},
 	{
@@ -6020,7 +6020,7 @@
 		"jp_name": "アーレスブレード",
 		"tr_name": "Ares Blade",
 		"jp_text": "甘いっ！！",
-		"tr_text": "",
+		"tr_text": "Weak!!",
 		"fileID": 2
 	},
 	{
@@ -6036,7 +6036,7 @@
 		"jp_name": "アーレスソード",
 		"tr_name": "Ares Sword",
 		"jp_text": "ぐうっ……！<%br>ぶ、ブレード……てめぇ……",
-		"tr_text": "",
+		"tr_text": "Gah...!<%br>B-Blade... You...",
 		"fileID": 2
 	},
 	{
@@ -6044,7 +6044,7 @@
 		"jp_name": "アーレスブレード",
 		"tr_name": "Ares Blade",
 		"jp_text": "大人しくしてなさい。元兄弟のよしみ……<%br>ここにいれば、アンタたちは助けてあげる。",
-		"tr_text": "",
+		"tr_text": "Be silent. If you care about your comrades...<%br>You can help them by staying here.",
 		"fileID": 2
 	},
 	{
@@ -6052,7 +6052,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "か、カイゼルさんは……キャアッ！",
-		"tr_text": "",
+		"tr_text": "K-Kaiser is... Yaah!",
 		"fileID": 2
 	},
 	{
@@ -6060,7 +6060,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "奇襲、ね……<%br>ネストにこんな隠し玉があったとは。",
-		"tr_text": "",
+		"tr_text": "An ambush, huh...<%br>So this is what Nest had hidden up her sleeve.",
 		"fileID": 2
 	},
 	{
@@ -6068,7 +6068,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "リーダー、みんな！　見つけたぞ！<%br>爆撃はあそこにいるヤツだ！",
-		"tr_text": "",
+		"tr_text": "Leader, everyone! I found them!<%br>The shooter is that guy over there!",
 		"fileID": 2
 	},
 	{
@@ -6076,7 +6076,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "あれは……彼も、アーレスの……",
-		"tr_text": "",
+		"tr_text": "That's... an Ares...",
 		"fileID": 2
 	},
 	{
@@ -6084,7 +6084,7 @@
 		"jp_name": "？？？",
 		"tr_name": "???",
 		"jp_text": "……気づかれたな。<%br>ならば、終わらせる！",
-		"tr_text": "",
+		"tr_text": "...I was seen.<%br>In that case, it's time to end this!",
 		"fileID": 2
 	},
 	{
@@ -6092,7 +6092,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "うおおっ！？<%br>爆発がもっと激しくなったってば！！",
-		"tr_text": "",
+		"tr_text": "Whaaa?!<%br>The explosions got way more intense!!",
 		"fileID": 2
 	},
 	{
@@ -6100,7 +6100,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "ダメです……このままじゃ……！",
-		"tr_text": "",
+		"tr_text": "Is this... the end...?",
 		"fileID": 2
 	},
 	{
@@ -6108,7 +6108,7 @@
 		"jp_name": "アーレスカイゼル",
 		"tr_name": "Ares Kaiser",
 		"jp_text": "させません！！",
-		"tr_text": "",
+		"tr_text": "I will not let you!!",
 		"fileID": 2
 	},
 	{
@@ -6116,7 +6116,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "うぅ……やっと止んだか……<%br>みんな、無事か？",
-		"tr_text": "",
+		"tr_text": "Ugh... It finally stopped...<%br>Is everyone alright?",
 		"fileID": 2
 	},
 	{
@@ -6124,7 +6124,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "あ、あれ……？　ぜんぜん平気だぞ……？",
-		"tr_text": "",
+		"tr_text": "What the heck...? I'm OK...?",
 		"fileID": 2
 	},
 	{
@@ -6132,7 +6132,7 @@
 		"jp_name": "アーレスカイゼル",
 		"tr_name": "Ares Kaiser",
 		"jp_text": "無事、のようです……ね……<%br>よ、よかった……",
-		"tr_text": "",
+		"tr_text": "It seems... you all are... safe...<%br>I... am glad...",
 		"fileID": 2
 	},
 	{
@@ -6140,7 +6140,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "カイゼルさん！？<%br>どうしたんですか！？　カイゼルさん！",
-		"tr_text": "",
+		"tr_text": "Kaiser?!<%br>What happened?! Kaiser!",
 		"fileID": 2
 	},
 	{
@@ -6148,7 +6148,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "ひどいケガ……<%br>まさか、私たちをかばったの……？",
-		"tr_text": "",
+		"tr_text": "She's badly injured...<%br>You put yourself in harm's way to protect us...?",
 		"fileID": 2
 	},
 	{
@@ -6156,7 +6156,7 @@
 		"jp_name": "アーレスカイゼル",
 		"tr_name": "Ares Kaiser",
 		"jp_text": "……これでいいのです。<%br>わたくしの希望は……守られたのですから……",
-		"tr_text": "",
+		"tr_text": "...This is fine.<%br>My wishes... have been preserved...",
 		"fileID": 2
 	},
 	{
@@ -6164,7 +6164,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "お……おい……カイゼル……？<%br>しっかりしろよ！",
-		"tr_text": "",
+		"tr_text": "Huh... Hey... Kaiser...?<%br>Stay with us, y'hear!",
 		"fileID": 2
 	},
 	{
@@ -6172,7 +6172,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "……まだ息はあるわ。すぐにレスタを……",
-		"tr_text": "",
+		"tr_text": "...She's still breathing.<%br>She needs immediate Resta treatment...",
 		"fileID": 2
 	},
 	{
@@ -6180,7 +6180,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "待て、アネット。機甲種が集まってきてる。<%br>カイゼルの手当ては安全な場所へ移動してからだ。",
-		"tr_text": "",
+		"tr_text": "Hold up, Annette. There's Mechs outside. We can<%br>take care of Kaiser after we get her to safety.",
 		"fileID": 2
 	},
 	{
@@ -6188,7 +6188,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "リーダー、まずは機甲種を追い払うぞ！",
-		"tr_text": "",
+		"tr_text": "Leader, let's take out those Mechs!",
 		"fileID": 2
 	},
 	{
@@ -6196,7 +6196,7 @@
 		"jp_name": "？？？",
 		"tr_name": "???",
 		"jp_text": "……なかなかやるじゃないか。",
-		"tr_text": "",
+		"tr_text": "...This is child's play.",
 		"fileID": 2
 	},
 	{
@@ -6204,7 +6204,7 @@
 		"jp_name": "？？？",
 		"tr_name": "???",
 		"jp_text": "まさか俺の全力射撃を耐えきるなんてね。<%br>だが、今度はどうかな？",
-		"tr_text": "",
+		"tr_text": "They cannot withstand my full-power bombardment.<%br>Still, perhaps under different cirumstances...?",
 		"fileID": 2
 	},
 	{
@@ -6212,7 +6212,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "ま、また攻撃してくるのか……！？",
-		"tr_text": "",
+		"tr_text": "A-are they going to attack again...?!",
 		"fileID": 2
 	},
 	{
@@ -6220,7 +6220,7 @@
 		"jp_name": "アーレスネスト",
 		"tr_name": "Ares Nest",
 		"jp_text": "……「アーレスランチャー」。<%br>こちらへ。",
-		"tr_text": "",
+		"tr_text": "...Ares Launcher.<%br>This way.",
 		"fileID": 2
 	},
 	{
@@ -6228,7 +6228,7 @@
 		"jp_name": "アーレスランチャー",
 		"tr_name": "Ares Launcher",
 		"jp_text": "……仰せのままに。",
-		"tr_text": "",
+		"tr_text": "...As you command.",
 		"fileID": 2
 	},
 	{
@@ -6236,7 +6236,7 @@
 		"jp_name": "アーレスパルチザン",
 		"tr_name": "Ares Partizan",
 		"jp_text": "リーダー……か、カイゼル様は……",
-		"tr_text": "",
+		"tr_text": "Leader... Lady K-Kaiser is...",
 		"fileID": 2
 	},
 	{
@@ -6244,7 +6244,7 @@
 		"jp_name": "アーレスソード",
 		"tr_name": "Ares Sword",
 		"jp_text": "くっそ……！<%br>カイゼル様を……守らな、きゃ……",
-		"tr_text": "",
+		"tr_text": "Damn it...!<%br>Lady Kaiser... I couldn't protect you... ",
 		"fileID": 2
 	},
 	{
@@ -6252,7 +6252,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "貴方たち、無理をしないで。<%br>カイゼルは……私たちでなんとかするわ。",
-		"tr_text": "",
+		"tr_text": "Don't push yourselves too hard.<%br>Kaiser is... We will find some way to help her.",
 		"fileID": 2
 	},
 	{
@@ -6260,7 +6260,7 @@
 		"jp_name": "アーレスランス",
 		"tr_name": "Ares Lance",
 		"jp_text": "でも、今攻撃を食らったらマジヤバっしょ！<%br>あたしたちでも、壁くらいにはなれるからさ！！",
-		"tr_text": "",
+		"tr_text": "But if you get attacked now, it's game over!<%br>We could make a wall and block the shots!!",
 		"fileID": 2
 	},
 	{
@@ -6268,7 +6268,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "そ、そんなのダメです！<%br>みなさんは安全な場所に……！",
-		"tr_text": "",
+		"tr_text": "Don't you dare!<%br>You all need to get to safety...!",
 		"fileID": 2
 	},
 	{
@@ -6276,7 +6276,7 @@
 		"jp_name": "アーレスネスト",
 		"tr_name": "Ares Nest",
 		"jp_text": "……ブーツ、バスター。<%br>カイゼルにとどめを。",
-		"tr_text": "",
+		"tr_text": "...Boots, Buster.<%br>Stay with Kaiser.",
 		"fileID": 2
 	},
 	{
@@ -6284,7 +6284,7 @@
 		"jp_name": "アーレスブーツ",
 		"tr_name": "Ares Boots",
 		"jp_text": "えっ？<%br>で……でも……",
-		"tr_text": "",
+		"tr_text": "Huh?<%br>Bu... But...",
 		"fileID": 2
 	},
 	{
@@ -6292,7 +6292,7 @@
 		"jp_name": "アーレスバスター",
 		"tr_name": "Ares Buster",
 		"jp_text": "そこまですることは……",
-		"tr_text": "",
+		"tr_text": "If we do that...",
 		"fileID": 2
 	},
 	{
@@ -6300,7 +6300,7 @@
 		"jp_name": "アーレスネスト",
 		"tr_name": "Ares Nest",
 		"jp_text": "……なにをためらうのです？<%br>役に立つ気がないのなら……あなたたちも無用です。",
-		"tr_text": "",
+		"tr_text": "...Why are you hesitating?<%br>If you won't help me... Then you're useless to me.",
 		"fileID": 2
 	},
 	{
@@ -6308,7 +6308,7 @@
 		"jp_name": "アーレスネスト",
 		"tr_name": "Ares Nest",
 		"jp_text": "……ランチャー、消してください。",
-		"tr_text": "",
+		"tr_text": "...Launcher, erase them for me.",
 		"fileID": 2
 	},
 	{
@@ -6316,7 +6316,7 @@
 		"jp_name": "アーレスランチャー",
 		"tr_name": "Ares Launcher",
 		"jp_text": "女神の望むままに。",
-		"tr_text": "",
+		"tr_text": "As you wish, my Goddess.",
 		"fileID": 2
 	},
 	{
@@ -6324,7 +6324,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "うわぁぁぁっ！！",
-		"tr_text": "",
+		"tr_text": "Waaaah!!",
 		"fileID": 2
 	},
 	{
@@ -6332,7 +6332,7 @@
 		"jp_name": "アーレスパルチザン",
 		"tr_name": "Ares Partizan",
 		"jp_text": "くっ……こんなケガくらい……<%br>カイゼル様は、オレたちが守る！！",
-		"tr_text": "",
+		"tr_text": "Damn... This injury...<%br>Lady Kaiser, I'll protect you!!",
 		"fileID": 2
 	},
 	{
@@ -6340,7 +6340,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "パルチザン！？<%br>なにをしているの！",
-		"tr_text": "",
+		"tr_text": "Partizan?!<%br>What are you doing?!",
 		"fileID": 2
 	},
 	{
@@ -6348,7 +6348,7 @@
 		"jp_name": "アーレスパルチザン",
 		"tr_name": "Ares Partizan",
 		"jp_text": "砲撃はオレたちが防ぐ！<%br>先生たちは、カイゼル様の治療を！",
-		"tr_text": "",
+		"tr_text": "We'll hold back the shelling!<%br>All of you, treat Lady Kaiser!",
 		"fileID": 2
 	},
 	{
@@ -6356,7 +6356,7 @@
 		"jp_name": "アーレスランス",
 		"tr_name": "Ares Lance",
 		"jp_text": "ここが正念場ってヤツよね！<%br>あたしだって……やる時はやるんだから！",
-		"tr_text": "",
+		"tr_text": "It's do or die, right?!<%br>I can do this... I have to!",
 		"fileID": 2
 	},
 	{
@@ -6364,7 +6364,7 @@
 		"jp_name": "アーレスソード",
 		"tr_name": "Ares Sword",
 		"jp_text": "カイゼル様を守る……<%br>それがオレたち、ユニコーンの役目だ！！",
-		"tr_text": "",
+		"tr_text": "To protect Lady Kaiser...<%br>That's our job as Unicorns!!",
 		"fileID": 2
 	},
 	{
@@ -6372,7 +6372,7 @@
 		"jp_name": "アーレスバスター",
 		"tr_name": "Ares Buster",
 		"jp_text": "キャァァッ！",
-		"tr_text": "",
+		"tr_text": "Yaaaah!",
 		"fileID": 2
 	},
 	{
@@ -6380,7 +6380,7 @@
 		"jp_name": "アーレスブーツ",
 		"tr_name": "Ares Boots",
 		"jp_text": "うぅ……ネスト様……<%br>どうしてボクたちまで……",
-		"tr_text": "",
+		"tr_text": "Huh... Lady Nest...<%br>What should we do...",
 		"fileID": 2
 	},
 	{
@@ -6388,7 +6388,7 @@
 		"jp_name": "アーレスバスター",
 		"tr_name": "Ares Buster",
 		"jp_text": "……わたしたちは無用、って……<%br>ネスト様は……わたしたちを捨てたの……？",
-		"tr_text": "",
+		"tr_text": "...She said we were useless...<%br>Lady Nest... You threw us away...?",
 		"fileID": 2
 	},
 	{
@@ -6396,7 +6396,7 @@
 		"jp_name": "アーレスブーツ",
 		"tr_name": "Ares Boots",
 		"jp_text": "そんな……",
-		"tr_text": "",
+		"tr_text": "That...",
 		"fileID": 2
 	},
 	{
@@ -6404,7 +6404,7 @@
 		"jp_name": "アーレスブレード",
 		"tr_name": "Ares Blade",
 		"jp_text": "……なにをグズグズしてるの。<%br>このまま死ぬつもり？",
-		"tr_text": "",
+		"tr_text": "...What are you doing?<%br>Do you plan to die here?",
 		"fileID": 2
 	},
 	{
@@ -6412,7 +6412,7 @@
 		"jp_name": "アーレスバスター",
 		"tr_name": "Ares Buster",
 		"jp_text": "ブレード……",
-		"tr_text": "",
+		"tr_text": "Blade...",
 		"fileID": 2
 	},
 	{
@@ -6420,7 +6420,7 @@
 		"jp_name": "アーレスブレード",
 		"tr_name": "Ares Blade",
 		"jp_text": "……逃げる手伝いはしてあげるわ。<%br>そこから先は……好きにしなさい。",
-		"tr_text": "",
+		"tr_text": "...I will help you escape.<%br>After that... Do as you please.",
 		"fileID": 2
 	},
 	{
@@ -6428,7 +6428,7 @@
 		"jp_name": "アーレスブーツ",
 		"tr_name": "Ares Boots",
 		"jp_text": "……バスター。<%br>今は、ここを離れよう……",
-		"tr_text": "",
+		"tr_text": "...Buster.<%br>Please, let's go...",
 		"fileID": 2
 	},
 	{
@@ -6436,7 +6436,7 @@
 		"jp_name": "アーレスバスター",
 		"tr_name": "Ares Buster",
 		"jp_text": "ネスト様……",
-		"tr_text": "",
+		"tr_text": "Lady Nest...",
 		"fileID": 2
 	},
 	{
@@ -6444,7 +6444,7 @@
 		"jp_name": "アーレスネスト",
 		"tr_name": "Ares Nest",
 		"jp_text": "消える……すべてが消えれば……<%br>星は、再びよみがえる……",
-		"tr_text": "",
+		"tr_text": "Disappear... If they all disappear...<%br>The planets will return to their former glory...",
 		"fileID": 2
 	},
 	{
@@ -6452,7 +6452,7 @@
 		"jp_name": "アーレスネスト",
 		"tr_name": "Ares Nest",
 		"jp_text": "ふふッ……さぁ、終焉を始めましょう。<%br>星の再生のために……全部消し去るのです！",
-		"tr_text": "",
+		"tr_text": "Heheh... Now, let the end begin.<%br>For the planets to live... they all must die!",
 		"fileID": 2
 	},
 	{
