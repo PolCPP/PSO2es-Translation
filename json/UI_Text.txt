@@ -6757,7 +6757,7 @@
 	{
 		"assign": "questresult_dps_title",
 		"jp_text": "ダメージ記録",
-		"tr_text": ""
+		"tr_text": "Damage Record"
 	},
 	{
 		"assign": "battleresult_title",
@@ -17332,22 +17332,22 @@
 	{
 		"assign": "sort_attack",
 		"jp_text": "攻撃力順",
-		"tr_text": ""
+		"tr_text": "ATK"
 	},
 	{
 		"assign": "sort_defence",
 		"jp_text": "防御力順",
-		"tr_text": ""
+		"tr_text": "DEF"
 	},
 	{
 		"assign": "sort_reinforce",
 		"jp_text": "強化値順",
-		"tr_text": ""
+		"tr_text": "Grind Value"
 	},
 	{
 		"assign": "sort_ability_count",
 		"jp_text": "特殊能力数順",
-		"tr_text": ""
+		"tr_text": "Ability Count"
 	},
 	{
 		"assign": "sort_hp",
@@ -17397,22 +17397,22 @@
 	{
 		"assign": "sort_descending_order",
 		"jp_text": "降順",
-		"tr_text": ""
+		"tr_text": "Descending"
 	},
 	{
 		"assign": "sort_ascending order",
 		"jp_text": "昇順",
-		"tr_text": ""
+		"tr_text": "Ascending"
 	},
 	{
 		"assign": "sort_up_count_order",
 		"jp_text": "多い",
-		"tr_text": ""
+		"tr_text": "More"
 	},
 	{
 		"assign": "sort_down_count_order",
 		"jp_text": "少ない",
-		"tr_text": ""
+		"tr_text": "Fewer"
 	},
 	{
 		"assign": "filter_title_on",
@@ -17562,12 +17562,12 @@
 	{
 		"assign": "filter_key",
 		"jp_text": "キー",
-		"tr_text": ""
+		"tr_text": "Key"
 	},
 	{
 		"assign": "filter_parts",
 		"jp_text": "パーツ",
-		"tr_text": ""
+		"tr_text": "Parts"
 	},
 	{
 		"assign": "filter_wepreleasebef",
@@ -17602,7 +17602,7 @@
 	{
 		"assign": "filter_weapon_generation",
 		"jp_text": "武器世代",
-		"tr_text": ""
+		"tr_text": "Weapon Generation"
 	},
 	{
 		"assign": "window_help_LM32",
@@ -19087,37 +19087,37 @@
 	{
 		"assign": "photondice_result_lose_dialog_b_con_01",
 		"jp_text": "対戦に敗北しました。",
-		"tr_text": ""
+		"tr_text": "You lost."
 	},
 	{
 		"assign": "photondice_result_lose_dialog_b_con_02_lp",
 		"jp_text": "<color=yellow>残りプレイ回数</color>を1回消費して再戦しますか？\n再戦しない場合、獲得LCがすべて失われます。\n\n<color=yellow>残りプレイ回数:<%value>回</color>",
-		"tr_text": ""
+		"tr_text": "Do you want to play a <color=yellow>rematch</color> at\nthe cost of 1 play?\nIf you don't play a rematch, all LC\nyou earned so far will be lost.\n<color=yellow>Remaining plays: <%value></color>"
 	},
 	{
 		"assign": "photondice_result_lose_dialog_b_con_02_sc",
 		"jp_text": "<color=yellow>スペシャルプレイチケット</color>を1枚消費して再戦しますか？\n再戦しない場合、獲得LCがすべて失われます。\n\n<color=yellow>所持スペシャルプレイチケット：<%value>枚</color>",
-		"tr_text": ""
+		"tr_text": "Do you want to play a <color=yellow>rematch</color> at\nthe cost of 1 special ticket?\nIf you don't play a rematch, all LC\nyou earned so far will be lost.\n<color=yellow>Remaining tickets: <%value></color>"
 	},
 	{
 		"assign": "photondice_result_lose_dialog_b_con_02_rc",
 		"jp_text": "<color=yellow>ラッピーメダル</color>を1枚消費して再戦しますか？\n再戦しない場合、獲得LCがすべて失われます。\n\n<color=yellow>所持ラッピーメダル：<%value>枚</color>",
-		"tr_text": ""
+		"tr_text": "Do you want to play a <color=yellow>rematch</color> at\nthe cost of 1 Rappy medal?\nIf you don't play a rematch, all LC\nyou earned so far will be lost.\n<color=yellow>Remaining medals: <%value></color>"
 	},
 	{
 		"assign": "photondice_result_lose_dialog_b_con_03",
 		"jp_text": "現在の獲得LC：<%value>枚",
-		"tr_text": ""
+		"tr_text": "Currently acquired LC: <%value>"
 	},
 	{
 		"assign": "photondice_result_lose_dialog_button_yes",
 		"jp_text": "再戦する",
-		"tr_text": ""
+		"tr_text": "Rematch"
 	},
 	{
 		"assign": "photondice_result_lose_dialog_button_no",
 		"jp_text": "やめる",
-		"tr_text": ""
+		"tr_text": "Quit"
 	},
 	{
 		"assign": "photondice_error_payback_dialog_t_01",
@@ -19222,22 +19222,22 @@
 	{
 		"assign": "photondice_goto_leisure_top_dialog_t_01",
 		"jp_text": "払い戻し",
-		"tr_text": ""
+		"tr_text": "Refund"
 	},
 	{
 		"assign": "photondice_goto_leisure_top_dialog_b_01",
 		"jp_text": "データ更新がありましたので\nLCを払い戻し、対戦を終了します。",
-		"tr_text": ""
+		"tr_text": "Since there was a data update, your LC\nwill be refunded and the match will end."
 	},
 	{
 		"assign": "photondice_goto_leisure_top_dialog_t_02",
 		"jp_text": "エラー",
-		"tr_text": ""
+		"tr_text": "Error"
 	},
 	{
 		"assign": "photondice_goto_leisure_top_dialog_b_02",
 		"jp_text": "サーバーエラーが発生しました。\n現在このコンテンツはご利用になれません。",
-		"tr_text": ""
+		"tr_text": "A server error occurred.\nThis content is currently unavailable."
 	},
 	{
 		"assign": "equip_children_chip",
@@ -19362,7 +19362,7 @@
 	{
 		"assign": "quest_event_name",
 		"jp_text": "「{0}」",
-		"tr_text": ""
+		"tr_text": "\"{0}\""
 	},
 	{
 		"assign": "quest_lobby_guide_02",
