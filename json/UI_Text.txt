@@ -14772,7 +14772,7 @@
 	{
 		"assign": "ItemDetail_dialog_b_04",
 		"jp_text": "武器の属性と一致する属性の\nチップのコストを軽減します。\n武器の強化値に応じて軽減する値が変化します。",
-		"tr_text": "Reduces chip cost of matching chips\nsharing the same element as the weapon.\nThe cost is adjusted based on the\nweapon's elemental value."
+		"tr_text": "Reduces the equip cost of chips that share\ntheir element with this weapon. The cost\nreduces further as the weapon's grind\nlevel increases above +30."
 	},
 	{
 		"assign": "ItemDetail_dialog_t_05",
