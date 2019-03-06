@@ -285,16 +285,6 @@
 		"tr_text": "Lovey Rappy"
 	},
 	{
-		"assign": "RappyDragon",
-		"jp_text": "ドラグ・ラッピー",
-		"tr_text": "Drag Rappy"
-	},
-	{
-		"assign": "RappyElep",
-		"jp_text": "エレフ・ラッピー",
-		"tr_text": "Eleph Rappy"
-	},
-	{
 		"assign": "DragonRaptor",
 		"jp_text": "ディッグ",
 		"tr_text": "Digg"
@@ -2710,16 +2700,6 @@
 		"tr_text": "Codotta Idetta"
 	},
 	{
-		"assign": "AAADebugEnemyShotS",
-		"jp_text": "デバッグエネミーS",
-		"tr_text": ""
-	},
-	{
-		"assign": "AAADebugEnemyShotL",
-		"jp_text": "デバッグエネミーL",
-		"tr_text": ""
-	},
-	{
 		"assign": "N2Abe",
 		"jp_text": "ミントロックベア",
 		"tr_text": "Mint Rockbear"
@@ -2733,11 +2713,6 @@
 		"assign": "Volcano",
 		"jp_text": "エルゼリオン",
 		"tr_text": "Elzelion"
-	},
-	{
-		"assign": "AAADebugEnemyMoveOnly",
-		"jp_text": "デバッグエネミーM",
-		"tr_text": ""
 	},
 	{
 		"assign": "TD1Hou",
@@ -3010,9 +2985,19 @@
 		"tr_text": "DW Doluahda"
 	},
 	{
+		"assign": "BirdCrestSP1",
+		"jp_text": "ドリュアーダ＋",
+		"tr_text": ""
+	},
+	{
 		"assign": "BirdSoldierAW0",
 		"jp_text": "DWソルダ・カピタ",
 		"tr_text": "DW Solda Kapita"
+	},
+	{
+		"assign": "BirdSoldierASP1",
+		"jp_text": "ソルダ・カピタ＋",
+		"tr_text": ""
 	},
 	{
 		"assign": "BirdStackedW0",
@@ -3253,6 +3238,16 @@
 		"assign": "MarineOrcaSP1",
 		"jp_text": "オルグブラン＋",
 		"tr_text": "Org Blan+"
+	},
+	{
+		"assign": "AbyssTetraSP1",
+		"jp_text": "ブルトルボン＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "AbyssFlowerSP1",
+		"jp_text": "ビオル・メデューナ＋",
+		"tr_text": ""
 	},
 	{
 		"assign": "MarineOrcaRareST0",

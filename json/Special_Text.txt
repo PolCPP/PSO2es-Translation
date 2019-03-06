@@ -3598,5 +3598,749 @@
 		"jp_text": "",
 		"tr_text": "",
 		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "リーダー！　知ってますか！？<%br>ＰＳＯ２ｅｓは……今年で５周年なんです！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "そうかぁ、５周年なのかぁ。<%br>あれ？　でも、オレとリーダーが会って、もう……",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "モア……<%br>それ以上は、言わないほうがいいわよ。",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "そうそう。そういうのはヤボってものだな。<%br>別にいいじゃないの、５周年なんだからさ。",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "そうですね。<%br>こういうのは、お祝いごとですから。",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "もう、５年かぁ。オレも大きくなったわけだ！！<%br>だとすると、セラフィさんは……",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "あらあら、おしゃべりなおクチは<%br>どこにあるのかなぁ？",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "いひゃい！　いひゃい！！<%br>シェラフィしゃん、いひゃいーっ！！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "だから、言わないほうがいいって言ったのに……",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "……と、いうわけで。<%br>みんなで、５周年のお祝いをいたしましょう！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "……と、いうわけで。<%br>みんなで、５周年のお祝いをいたしましょう！",
+		"tr_text": "",
+		"jp_buttons": [
+			"みんなでパーティーをしよう！",
+			"ところで、セラフィさんはいくつに……"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 4
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "パーティー！？　パーティーするの？<%br>わたしも参加してもいいのかなぁ？",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "もちろんですよ！　アフタルさんも<%br>わたし達の大切な仲間ですから。",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "わーいっ！　じゃあ、じゃあ！！<%br>わたし、思いっきり、お祝いするねっ！！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "おっと、俺たちのことも……<%br>忘れてもらっちゃ困るな。",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "あーら、おしゃべりなおクチが<%br>ここにも……",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "あ！　そ、そうです！！<%br>パーティーなんてどうですか！　５周年の！！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "パーティー！？　パーティーするの？<%br>わたしも参加してもいいのかなぁ？",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "おっと、俺たちのことも……<%br>忘れてもらっちゃ困るな。",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "お前は……",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ブラスハウル",
+		"tr_name": "",
+		"jp_text": "お前の相棒として、一緒に戦ってきたんだ。<%br>こういう時だけ仲間外れか？",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "紅葉姫",
+		"tr_name": "",
+		"jp_text": "アネットはん、ほんにイケズなおヒトやわ。<%br>うちらだって、お祝いしたいんどすえ。",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "別に忘れてたわけじゃないわ。<%br>みんなでお祝いしましょう。",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "紅葉姫",
+		"tr_name": "",
+		"jp_text": "お許しが出たようどすな。<%br>みなはーん！！　出て来てもええどすえー！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ブルージーレクイエム",
+		"tr_name": "",
+		"jp_text": "リーダー！　５周年おめでとぉーん！<%br>たっぷりとサービスしてあげちゃうんだからぁ！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "アダマンの杖",
+		"tr_name": "",
+		"jp_text": "アッダマーン！　呼ばれてないけど<%br>飛び出してきたんダマン！！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ブレイドダンス",
+		"tr_name": "",
+		"jp_text": "うわっ！　みんな押さないでよ！！<%br>リーダー！　５周年、おめでとーっ！！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "ドラゴンスレイヤー",
+		"tr_name": "",
+		"jp_text": "あたしが生まれて……<%br>もう、そんな月日が経つんだ、すごいねー。",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "インペリアルピック",
+		"tr_name": "",
+		"jp_text": "あちしも今日はお祝いに来たのだ！<%br>これからも、掘って掘って掘りまくりなのだ！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "ヤミガラス",
+		"tr_name": "",
+		"jp_text": "目には見えぬが確かにあるもの、それが絆……<%br>すべてはリーダーのおかげだからな。",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "ライトニングエスパーダ",
+		"tr_name": "",
+		"jp_text": "だから、押すなって！　祝いの席だ。<%br>乾杯といこうじゃないか。",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "そうだな！　セラフィさんが<%br>シャンパンを持ってきてくれたしな！！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "ラヴィス＝ブレイド",
+		"tr_name": "",
+		"jp_text": "モアは……お酒、ダメなの。<%br>こっちの……甘いのがいいの。",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "33",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "あ、そうだったな！！<%br>それじゃ……コルク栓を抜くぞーっ！！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "34",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "－パチコーン！！－",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "35",
+		"jp_name": "ニレンカムイ",
+		"tr_name": "",
+		"jp_text": "リーダー……大丈夫？<%br>コルク栓が、頭に当たったみたい……だけど……",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "36",
+		"jp_name": "シューティングドライブ",
+		"tr_name": "",
+		"jp_text": "マイリーダー！？　大丈夫ですか！？<%br>マイリーダー！！　マ……リー……ダー……",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "37",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "リー……ダー！　だい……じょ……<%br>……リ……ダ……！？",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "38",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "39",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "ダー……ダ……",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "40",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "ダー……ダ……",
+		"tr_text": "",
+		"jp_buttons": [
+			"うぅ……頭を打ったのか……",
+			"だ……誰？"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 4
+	},
+	{
+		"eventNo": "41",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "ダー……リーダー……<%br>ダーカーの巣窟にようこそ。",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "42",
+		"jp_name": "ロード",
+		"tr_name": "",
+		"jp_text": "５周年か……異次元の狭間にいると<%br>時間の概念がなくなるものだな。",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "43",
+		"jp_name": "ヘイド",
+		"tr_name": "",
+		"jp_text": "すでに、お前に恨みはない……<%br>だが、確かめたいことはある。",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "44",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "フフ……彼らを呼び戻すのには苦労しました。<%br>ふたりとも、貴方に会いたがっていましたよ……",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "45",
+		"jp_name": "ヘイド",
+		"tr_name": "",
+		"jp_text": "アナティスとデュナを任せられるか……<%br>確かめさせてもらう！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "46",
+		"jp_name": "ロード",
+		"tr_name": "",
+		"jp_text": "俺たちなりの祝い……<%br>ならば、これが一番だろう！　行くぞ！！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "47",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ロード",
+		"tr_name": "",
+		"jp_text": "強いな……やはり。<%br>貴様なら……ジェネを任せられる……",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ヘイド",
+		"tr_name": "",
+		"jp_text": "アナティスとデュナを……頼んだ。<%br>これからも、永久に……",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "私の求める世界はまだのようですね……<%br>いつかまた、時の彼方で……",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "リー……ダー！　だい……じょ……<%br>……リーダー！？",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "リーダー！？　大丈夫ですか？<%br>しっかりしてください！！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ごめんな、リーダー！<%br>コルク栓がリーダーの頭に当たるなんて……",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "倒れて、気絶してたんだよ！？<%br>大丈夫？　痛いところない？",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ファニーブーケライフル",
+		"tr_name": "",
+		"jp_text": "リーダー、この指、何本に見えます？",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ファニーブーケライフル",
+		"tr_name": "",
+		"jp_text": "リーダー、この指、何本に見えます？",
+		"tr_text": "",
+		"jp_buttons": [
+			"い……１本かな。",
+			"夢……だったのかな？"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 4
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "イブリスブラッド",
+		"tr_name": "",
+		"jp_text": "無事な……ようだな。<%br>よかった、またわらわのせいかと……",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ヴェルドバズ",
+		"tr_name": "",
+		"jp_text": "夢？　私、夢を振りまいたかなぁ？<%br>うーん……あれ？",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "セイガーソード",
+		"tr_name": "",
+		"jp_text": "転んでも必ず立ち上がる！<%br>さすがはリーダー！　さぁ、俺と握手だ！！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "セイガーランチャー",
+		"tr_name": "",
+		"jp_text": "もうっ！！　こういう時はちがうでしょ！！<%br>で、リーダー！　５周年の打ち上げはどこにする？",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ガイルズオービット",
+		"tr_name": "",
+		"jp_text": "パーティーするなら、わたしたちが<%br>歌でお祝いをいたしますよ！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "オレたちだってお祝いするぜ！<%br>カイゼル様も来てくれてるんだしな！！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "スレイヴフェザー",
+		"tr_name": "",
+		"jp_text": "いやいや、勢ぞろいだね。<%br>こういうカオスな雰囲気、たまらなくいいね。",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ネメシスクーガ",
+		"tr_name": "",
+		"jp_text": "スレイヴ！！　貴様らはこのような<%br>祝いの席には似合わない！　出て行けっ！！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "新光小槌",
+		"tr_name": "",
+		"jp_text": "ケンカはダメですよ、５周年なんですから。<%br>言うこと聞けない子は……これでゴツンですのよ。",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "アモーレローズ",
+		"tr_name": "",
+		"jp_text": "パーティーの用意は、わたくしたちにお任せを。<%br>メイド隊！　すぐにパーティーの準備を！！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ヤスミノコフ８０００Ｃ",
+		"tr_name": "",
+		"jp_text": "私たちも手伝うであるます！<%br>あ！　あの……その……手伝うであります！！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "スペース・ツナ",
+		"tr_name": "",
+		"jp_text": "や……やめろツナ！<%br>中トロ号を刺身にしたらダメツナっ！！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "フォルニスフィジス",
+		"tr_name": "",
+		"jp_text": "リカウテリさん、お皿はここでいいのかな？<%br>もう！　フィジもジスも手伝ってよぉっ！！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ノクスシャリオ",
+		"tr_name": "",
+		"jp_text": "美人が揃ってるなぁ。<%br>さすがはリーダー、俺も楽しませてもらうぜ。",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "リーダー……どうしたんです？<%br>変な夢でも見ましたか？",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "リーダー……どうしたんです？<%br>変な夢でも見ましたか？",
+		"tr_text": "",
+		"jp_buttons": [
+			"いや、大丈夫だよ。",
+			"これからも、みんな一緒だよ。"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 4
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "だったらいいんですけど。<%br>リーダー！　乾杯の掛け声、お願いします！！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "え？　……は、はい！<%br>これからもよろしくお願いしますね！！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "リーダー！　こっちの準備はＯＫだぞ！<%br>はやく乾杯をしてくれよ！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "そうですね、ここはやっぱり<%br>リーダーに音頭をとってもらいましょう！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "リーダー、よろしくお願いします！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "リーダー、よろしくお願いします！",
+		"tr_text": "",
+		"jp_buttons": [
+			"かんぱーいっ！！",
+			"これからも、がんばっていこう！"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 4
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "かんぱーい！<%br>わーっ！！　おめでとーっ！！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "33",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "リーダー、これからも私たちのこと……<%br>よろしくお願いするわね。",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "34",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "リーダーばっかりに苦労かけさせられないから<%br>俺たちもがんばっていきましょ！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "35",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "そうだな！　だって、オレたち……<%br>ダーカーバスターズだもんな！！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "36",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "それじゃ、あらためて……",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "37",
+		"jp_name": "アフタル＆ジェネ＆アネット",
+		"tr_name": "",
+		"jp_text": "５周年、ありがとうございます！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "38",
+		"jp_name": "アフタル＆ジェネ＆アネット",
+		"tr_name": "",
+		"jp_text": "これからも、がんばっていきます！！<%br>みなさん、よろしくお願いいたしますね！",
+		"tr_text": "",
+		"fileID": 4
+	},
+	{
+		"eventNo": "39",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 4
 	}
 ]
