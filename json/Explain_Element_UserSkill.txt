@@ -3124,7 +3124,7 @@
 	{
 		"assign": "446",
 		"jp_text": "Ｓ１：賭死の撃",
-		"tr_text": "S1:Gambling Strike",
+		"tr_text": "S1:Risky Strike",
 		"jp_explain": "被ダメージ回数に応じて\n3段階の威力上昇。\n最大段階時の被ダメージで\n自身が戦闘不能になり\n周囲に与ダメージ。",
 		"tr_explain": "Boosts power each\ntime you take damage,\nup to three levels. If\nyou take damage at\nmaximum boost,\ndamages you and\neverything around you."
 	},
@@ -3362,7 +3362,7 @@
 	{
 		"assign": "480",
 		"jp_text": "Ｓ３：撃流の備",
-		"tr_text": "",
+		"tr_text": "S3:Readying Strike",
 		"jp_explain": "与ダメージ300000毎に\n被ダメージが1％軽減。\n最大で15％。",
 		"tr_explain": ""
 	},
@@ -3375,7 +3375,7 @@
 	},
 	{
 		"assign": "482",
-		"jp_text": "Ｓ３：撃流の功",
+		"jp_text": "Ｓ３：撃流の巧",
 		"tr_text": "",
 		"jp_explain": "与ダメージ300000毎に\nクリティカル率2％上昇。\n最大で30％。",
 		"tr_explain": ""
@@ -3383,15 +3383,15 @@
 	{
 		"assign": "483",
 		"jp_text": "Ｓ１：失力の蝕 ",
-		"tr_text": "",
-		"jp_explain": "命中時に２５％の確率で\nジェルンを付与する。",
+		"tr_text": "S1:Eclipsing Power",
+		"jp_explain": "命中時に25％の確率で\nジェルンを付与する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "484",
 		"jp_text": "Ｓ２：技巧縮減",
-		"tr_text": "",
-		"jp_explain": "ＰＡ・テクニック命中後\n３０秒間、ＰＰ消費量減。\nまれに大きく軽減する。\n発動後リキャスト発生。",
+		"tr_text": "S2:Skill Reduction",
+		"jp_explain": "ＰＡ・テクニック命中後\n30秒間、ＰＰ消費量減。\nまれに大きく軽減する。\n発動後リキャスト発生。",
 		"tr_explain": ""
 	},
 	{

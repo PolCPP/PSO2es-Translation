@@ -1535,9 +1535,23 @@
 	{
 		"assign": "3210300",
 		"jp_text": "Ｓ１追加：賭死の撃",
-		"tr_text": "S1 Add:Gambling Strike",
+		"tr_text": "S1 Add:Risky Strike",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：賭死の撃を付与。",
-		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Gambling Strike\"\nwhen used in Ability Synthesis."
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Risky Strike\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210301",
+		"jp_text": "Ｓ１追加：錬成の志",
+		"tr_text": "S1 Add:Augment Intent",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：錬成の志を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Augment Intent\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210302",
+		"jp_text": "Ｓ１追加：失力の蝕",
+		"tr_text": "S1 Add:Eclipsing Power",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：失力の蝕を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Eclipsing Power\"\nwhen used in Ability Synthesis."
 	},
 	{
 		"assign": "3210316",
@@ -1589,6 +1603,13 @@
 		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S2:Sprinter's Boost\"\nwhen used in Ability Synthesis."
 	},
 	{
+		"assign": "3210324",
+		"jp_text": "Ｓ２追加：技巧縮減",
+		"tr_text": "S2 Add:Skill Reduction",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ２：技巧縮減を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S2:Skill Reduction\"\nwhen used in Ability Synthesis."
+	},
+	{
 		"assign": "3210336",
 		"jp_text": "Ｓ３追加：花海雪の歌",
 		"tr_text": "S3 Add:Nature's Melody",
@@ -1629,6 +1650,27 @@
 		"tr_text": "S3 Add:Calming Exhilaration",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：静心活与を付与。",
 		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S3:Calming Exhilaration\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210342",
+		"jp_text": "Ｓ３追加：撃流の備",
+		"tr_text": "S3 Add:Readying Strike",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：撃流の備を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S3:Readying Strike\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210343",
+		"jp_text": "Ｓ３追加：撃流縮減",
+		"tr_text": "S3 Add:Curtailed Strike",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：撃流縮減を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S3:Curtailed Strike\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210344",
+		"jp_text": "Ｓ３追加：撃流の巧",
+		"tr_text": "",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：撃流の巧を付与。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "3210356",

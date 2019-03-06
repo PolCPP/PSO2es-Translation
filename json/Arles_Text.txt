@@ -6457,9 +6457,1001 @@
 	},
 	{
 		"eventNo": "0",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "……リーダー、このままじゃジリ貧だ。<%br>どうする？",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "……リーダー、このままじゃジリ貧だ。<%br>どうする？",
+		"tr_text": "",
+		"jp_buttons": [
+			"撤退する。",
+			"ランチャーを止めに行く。"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 2
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "賛成だ。ソードたちが動けるうちに<%br>安全な場所へ移動したほうがいい。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "だが、ソードたちの限界が近そうだ……<%br>動けるうちに安全な場所へ移動しないか？",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ええ、そうして。レスタが効かない……<%br>カイゼルを別の場所で治療する必要があるわ。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "せんりゃくてきてったい、ってヤツだな！",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "幸い、爆撃で砂が舞って視界が悪い。<%br>この砂煙に紛れていこう。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "……ひとまずこの辺りなら安全そうですね。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "カイゼル様の様子は？",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……まだ息はあるけど<%br>一刻も早く、専門の施設で治療しないと……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "アーレスランス",
+		"tr_name": "",
+		"jp_text": "じゃあ、アークスシップに戻ったほうが<%br>よさそうだね……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "そうだな。アークスシップにもどれば<%br>ランスたちの手当てもできるってば。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "アーレスランチャー……まさかあんな隠し玉で<%br>奇襲を仕掛けてくるとはね……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "アーレスパルチザン",
+		"tr_name": "",
+		"jp_text": "ネストの真の目的は<%br>オレたちへの無差別攻撃だったのか……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "機甲種もヒトも、カイゼルも……<%br>一ヶ所に集めて一網打尽を狙ったんだろうね。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "アーレスパルチザン",
+		"tr_name": "",
+		"jp_text": "つまり、アーレスバトルはカイゼル様や<%br>オレたちをあの場所に集めるための罠……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "……くそっ！　オレたちはユニコーンなのに……<%br>結局、なにも守れなかった……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "アーレスランス",
+		"tr_name": "",
+		"jp_text": "だけど……カイゼル様の希望は守ったよ……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "アーレスパルチザン",
+		"tr_name": "",
+		"jp_text": "ああ。カイゼル様は、身をていして<%br>リーダーたちをかばった。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "アーレスパルチザン",
+		"tr_name": "",
+		"jp_text": "きっと、リーダーたちになら<%br>この先のことを託せると考えたんだろう。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "……オレたち、カイゼルのぶんまで<%br>がんばらないとだな！",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "……ーダー……リーダー！<%br>よかった、繋がりましたね。みなさん無事ですか？",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "セラフィさん！　わたし達は大丈夫です。<%br>でも、カイゼルさんが砲撃を受けて……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "レスタが効かなくて、治療ができないの。<%br>これからアークスシップに戻るわ。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "そうしてください。先ほど、惑星リリーパで<%br>大規模な爆発を観測しました。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "アークス全員に、惑星リリーパからの<%br>一時離脱命令が出ています。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "カイゼルさんの治療態勢は整えておきます。<%br>急ぎ、帰還してください！",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "はい！<%br>……リーダー、行きましょう。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "機甲種の群れの中を突っ切るのが<%br>キャンプシップへの最短ルートだ。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "よし！　一気に突っ切るぞ！",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "……セラフィさん。<%br>カイゼルさんの容体は……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "出来る限りのことはしていますが……<%br>損傷が大きすぎて……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "そんな！　なんとかなんねーのか！？",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "……ひとつだけ、方法があります。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "治癒の能力をもつ白魚のアーレス<%br>「アーレスタリス」さんなら、治せるかもしれません。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "これ以上、ウェポノイド化はしないという<%br>カイゼルさんとの約束を破ることになりますが……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "アーレスパルチザン",
+		"tr_name": "",
+		"jp_text": "緊急事態だ、カイゼル様も許してくれるさ……<%br>で、アーレスタリスはどこにいる？",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "アーレスランス",
+		"tr_name": "",
+		"jp_text": "もうウェポノイド化したんだよね？",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "はい……ですが、チップ化には成功したものの<%br>ウェポノイドが目覚めなくて……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "な、なんでだよ！？",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ウェポノイド化が失敗するのは、稀にあることよ。<%br>でも、よりによってこのタイミングでなんて……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "ほかのアーレスの方たちは<%br>同じ手法で成功したのですが……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "アーレスタリスさんだけ、ほかのアーレスと<%br>なにか違いがあるのでしょうか？",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "アーレスパルチザン",
+		"tr_name": "",
+		"jp_text": "違いか……<%br>カイゼル様なら、ご存知かもしれないが……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "アーレスランス",
+		"tr_name": "",
+		"jp_text": "あ、ねぇねぇ、アイツは？<%br>アーレスリュウガ。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "アーレスリュウガか！<%br>たしかに、なにか知ってるかもしれねぇな！",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "でも、どこにいるんだ……？<%br>アーレスバトルにも来てなかっただろ。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "アーレスリュウガさんでしたら<%br>惑星アムドゥスキアにいると報告がありました。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "ただ、かなり前の定期報告ですから<%br>もう移動している可能性もありますが……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "それでも、唯一の手がかりだわ。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "リーダー！　惑星アムドゥスキアへ行って<%br>アーレスリュウガさんを捜しましょう！",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "アーレスランス",
+		"tr_name": "",
+		"jp_text": "……あたしは、ここに残ってカイゼル様を守る。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "アーレスパルチザン",
+		"tr_name": "",
+		"jp_text": "……そういうことなら、オレも残ろう。<%br>ネストが襲撃してくる可能性もあるしな。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "わかった。ユニコーン代表として<%br>オレがリーダーたちと一緒に行くよ。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "アーレスランス",
+		"tr_name": "",
+		"jp_text": "ソード、リーダー……<%br>絶対にリュウガを見つけてきてね。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "ああ！　任せとけ！",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "アーレスリュウガ！　どこだー！？",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "リュウガー！<%br>聞こえてたら、返事してくれってばー！",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "わかってはいたが……<%br>なかなか見つからないな。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "タリスが治療できるのも確定じゃないし<%br>ほかの治療法を探したほうが早いってことも……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "いや、タリスならきっと治せる！",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "白魚のアーレスは治癒に特化してるんだ。<%br>女神と同じくらい特別な存在なんだよ。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "そういえば、白魚とかユニコーンとか<%br>呼んでるけど、なんかちがいがあるのか？",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "違うのは役割だな。オレたちユニコーンと<%br>戦士、要塞は女神のために戦うのが役目だ。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "女神は惑星を守り、白魚は生命を司る。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "あ、だから白魚は特別なんですね。<%br>戦う役目のアーレスではないから……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "お前たちがユニコーンで、リュウガが戦士……<%br>要塞……ってのは誰だ？　もう会ってたりする？",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "……アーレスランチャー。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "ユニコーンより強いのが戦士で<%br>その上が要塞……ランチャーはそれくらい強い。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "アーレスブレード",
+		"tr_name": "",
+		"jp_text": "最初から、かなわないと決めつけて……<%br>それでもユニコーン？　情けない。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "お、お前は……アーレスブレード！？<%br>なにしに来たんだ！",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "アーレスブレード",
+		"tr_name": "",
+		"jp_text": "落ちつけ。<%br>アンタたちと戦うつもりはない。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "アーレスブレード",
+		"tr_name": "",
+		"jp_text": "……アンタたち、アーレスタリスを<%br>目覚めさせたいんでしょ？",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "な……なんでわかったってば！？",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "アーレスブレード",
+		"tr_name": "",
+		"jp_text": "当然でしょう。<%br>カイゼルがあのケガだったんだから。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "お前らのせいだろ！？",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "アーレスブレード",
+		"tr_name": "",
+		"jp_text": "……「白魚のアーレスは聖なる泉に住む」",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "え……？",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "アーレスブレード",
+		"tr_name": "",
+		"jp_text": "「惑星の穢れすら及ばぬ、純白の壁に守られた<%br>　深淵で眠る者こそ、白魚のアーレスとなり得る」",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "アーレスブレード",
+		"tr_name": "",
+		"jp_text": "あとは自分たちで探すのね。<%br>……成功を祈ってるわ。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "あっ、おい……待て！",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "アーレスソードさん、危ない！<%br>ダーカーです！",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "くそっ……こんな時に！<%br>ダーカーを倒してブレードを追う！",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "くっ……ブレードは……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "だめです、見失ってしまいました……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ブレードの言葉は<%br>いったいなんだったんだ……？",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "動機はわからないけど……<%br>白魚のアーレスのヒントをくれたみたいだ。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "あれ、ヒントだったのか？<%br>ぜんぜん意味がわかんなかったってば！",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "……「白魚のアーレスは聖なる泉に住む」",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "「惑星の穢れすら及ばぬ、純白の壁に守られた<%br>　深淵で眠る者こそ、白魚のアーレスとなり得る」",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "よく覚えてるな……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "これでも情報部なんでね。<%br>ヒントの解読まではできてないけど……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "そもそも、ブレードのヒントを<%br>信じていいかも怪しいわね。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "罠かもしれない……ってことか。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "アーレスリュウガ",
+		"tr_name": "",
+		"jp_text": "リーダーに、アーレスソード……なぜここに？<%br>アーレスバトルはどうしたんだ。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "お前は……アーレスリュウガ！　見つけたぞ！",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "アーレスリュウガ",
+		"tr_name": "",
+		"jp_text": "……ん？　俺を捜していたのか？",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "いいところに来てくれた！<%br>実は……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "アーレスリュウガ",
+		"tr_name": "",
+		"jp_text": "なるほど、カイゼルが……<%br>それでアーレスタリスをウェポノイドに……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "でも、アーレスブレードさんが言ってた<%br>ヒントの意味がわからなくて……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "アーレスリュウガ",
+		"tr_name": "",
+		"jp_text": "さっきからぶつぶつ言ってるブルーノは<%br>解読ができたんじゃないか？",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "……あくまで推測だが、白魚のアーレスは<%br>惑星ナベリウスの凍土エリアにいる……どうだ？",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "えぇっ！？　ナベリウスとか凍土とか……<%br>どっから出てきたんだ！？",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "聖なる泉……泉や湖がありそうなのは惑星ナベリウス。<%br>そこの純白の壁といえば、凍土じゃないかってね。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……凍土の氷に覆われた湖なら、たしかに<%br>「純白の壁に守られた深淵」にあてはまるわね。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "でも、ブレードが本当のヒントをくれたかは<%br>わかんないんだよな……あいつ、ネスト側だし。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "アーレスリュウガ",
+		"tr_name": "",
+		"jp_text": "……ブレードは卑怯な策を弄する性格じゃない。<%br>信じて大丈夫だと思うぞ。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "アーレスリュウガ",
+		"tr_name": "",
+		"jp_text": "ああ見えて、元兄弟のユニコーンたちには<%br>特別な思いを抱いているからな。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "元兄弟……？<%br>そういえば、砂漠でもブレードが……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "アーレスリュウガ",
+		"tr_name": "",
+		"jp_text": "ああ、本来は戦士だが<%br>ブレードはユニコーンと共に生まれたんだ。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "じゃあ、あいつはユニコーンの兄弟であると同時に<%br>戦士でもあるってことか……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "アーレスリュウガ",
+		"tr_name": "",
+		"jp_text": "で、リーダー。これからどうするんだ？",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "アーレスリュウガ",
+		"tr_name": "",
+		"jp_text": "で、リーダー。これからどうするんだ？",
+		"tr_text": "",
+		"jp_buttons": [
+			"惑星ナベリウスへ向かう。",
+			"アーレスブレードを追う。"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 2
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "そうですね。まずはアーレスタリスさんを<%br>目覚めさせる手がかりを探しましょう！",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "アーレスリュウガ",
+		"tr_name": "",
+		"jp_text": "それなら、俺も同行させてもらおう。<%br>カイゼルの治療に手を貸したい。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "ブレードは気になるけど……行き先わかんねぇし。<%br>まずはアーレスタリスの手がかりを探そうぜ。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "33",
+		"jp_name": "アーレスリュウガ",
+		"tr_name": "",
+		"jp_text": "それなら、俺も同行させてもらおう。<%br>カイゼルの治療に手を貸したい。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "34",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "ああ！<%br>リュウガがいてくれたら、心強いぜ！",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "35",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "んじゃ、まずは惑星ナベリウスの<%br>凍土エリアだね。",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "36",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ええ。そこで、アーレスタリスを<%br>目覚めさせる手がかりが見つかれば……",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "37",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "アーレスタリスさんに<%br>カイゼルさんの治療をお願いできます！",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "38",
+		"jp_name": "アーレスソード",
+		"tr_name": "",
+		"jp_text": "……カイゼル様は、オレたちで必ず助ける。<%br>リーダー、みんな！　行こう！",
+		"tr_text": "",
+		"fileID": 2
+	},
+	{
+		"eventNo": "39",
 		"jp_name": "",
 		"tr_name": "",
-		"jp_text": "",
+		"jp_text": "―Next Time―<%br><size=80>ストーリー　オブ　アーレス<%br>The ３th Record</size>",
 		"tr_text": "",
 		"fileID": 2
 	}
