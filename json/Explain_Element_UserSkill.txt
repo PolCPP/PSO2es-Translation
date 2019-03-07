@@ -3110,7 +3110,7 @@
 	{
 		"assign": "444",
 		"jp_text": "Ｓ２：走者高揚",
-		"tr_text": "S2:Sprinter's Boost",
+		"tr_text": "S2:Runner's High",
 		"jp_explain": "ダッシュ状態時\nＰＰ自然回復量が\n100％上昇し\nＨＰが5秒ごとに回復。",
 		"tr_explain": "While dashing, boosts\nPP regeneration by\n100% and recovers\nHP every 5 seconds."
 	},
@@ -3124,7 +3124,7 @@
 	{
 		"assign": "446",
 		"jp_text": "Ｓ１：賭死の撃",
-		"tr_text": "S1:Risky Strike",
+		"tr_text": "S1:Reckless Strike",
 		"jp_explain": "被ダメージ回数に応じて\n3段階の威力上昇。\n最大段階時の被ダメージで\n自身が戦闘不能になり\n周囲に与ダメージ。",
 		"tr_explain": "Boosts power each\ntime you take damage,\nup to three levels. If\nyou take damage at\nmaximum boost,\ndamages you and\neverything around you."
 	},
@@ -3320,7 +3320,7 @@
 	{
 		"assign": "474",
 		"jp_text": "Ｓ１：錬成の志",
-		"tr_text": "S1:Guiding Intent",
+		"tr_text": "S1:Augment Intent",
 		"jp_explain": "特殊能力の付与数に\n応じて威力上昇。\n最大で4％。",
 		"tr_explain": "Boosts power for each\nspecial ability added\nto the item. Maximum\nboost: 4%."
 	},
@@ -3362,7 +3362,7 @@
 	{
 		"assign": "480",
 		"jp_text": "Ｓ３：撃流の備",
-		"tr_text": "S3:Readying Strike",
+		"tr_text": "S3:Fortifying Strike",
 		"jp_explain": "与ダメージ300000毎に\n被ダメージが1％軽減。\n最大で15％。",
 		"tr_explain": ""
 	},
@@ -3383,7 +3383,7 @@
 	{
 		"assign": "483",
 		"jp_text": "Ｓ１：失力の蝕 ",
-		"tr_text": "S1:Eclipsing Power",
+		"tr_text": "S1:Eclipsing Decay",
 		"jp_explain": "命中時に25％の確率で\nジェルンを付与する。",
 		"tr_explain": ""
 	},
