@@ -267,12 +267,12 @@
 	{
 		"assign": "60130",
 		"jp_text": "2-3　ダーカーを操るアークス",
-		"tr_text": "2-3 ARKS Controlled Darkers"
+		"tr_text": "2-3 ARKS-Controlled Darkers"
 	},
 	{
 		"assign": "60131",
 		"jp_text": "2-3　ダーカーを操るアークス",
-		"tr_text": "2-3 ARKS Controlled Darkers"
+		"tr_text": "2-3 ARKS-Controlled Darkers"
 	},
 	{
 		"assign": "60140",
@@ -625,8 +625,308 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "61110",
+		"jp_text": "2-1　こどもを守る",
+		"tr_text": ""
+	},
+	{
+		"assign": "61111",
+		"jp_text": "2-1　こどもを守る",
+		"tr_text": ""
+	},
+	{
+		"assign": "61120",
+		"jp_text": "2-2　知ることの意味",
+		"tr_text": ""
+	},
+	{
+		"assign": "61121",
+		"jp_text": "2-2　知ることの意味",
+		"tr_text": ""
+	},
+	{
+		"assign": "61130",
+		"jp_text": "2-3　ヘイドの恐ろしさ",
+		"tr_text": ""
+	},
+	{
+		"assign": "61131",
+		"jp_text": "2-3　ヘイドの恐ろしさ",
+		"tr_text": ""
+	},
+	{
+		"assign": "61140",
+		"jp_text": "2-4　アークスへの殺意",
+		"tr_text": ""
+	},
+	{
+		"assign": "61141",
+		"jp_text": "2-4　アークスへの殺意",
+		"tr_text": ""
+	},
+	{
+		"assign": "61210",
+		"jp_text": "3-1　母親の代わり",
+		"tr_text": ""
+	},
+	{
+		"assign": "61211",
+		"jp_text": "3-1　母親の代わり",
+		"tr_text": ""
+	},
+	{
+		"assign": "61220",
+		"jp_text": "3-2　繋がりと亀裂",
+		"tr_text": ""
+	},
+	{
+		"assign": "61221",
+		"jp_text": "3-2　繋がりと亀裂",
+		"tr_text": ""
+	},
+	{
+		"assign": "61230",
+		"jp_text": "3-3　それぞれの葛藤",
+		"tr_text": ""
+	},
+	{
+		"assign": "61231",
+		"jp_text": "3-3　それぞれの葛藤",
+		"tr_text": ""
+	},
+	{
+		"assign": "61240",
+		"jp_text": "3-4　アークスへの憎しみ",
+		"tr_text": "3-4 Hatred for ARKS"
+	},
+	{
+		"assign": "61241",
+		"jp_text": "3-4　アークスへの憎しみ",
+		"tr_text": "3-4 Hatred for ARKS"
+	},
+	{
+		"assign": "61310",
+		"jp_text": "4-1　アネットの秘密",
+		"tr_text": ""
+	},
+	{
+		"assign": "61311",
+		"jp_text": "4-1　アネットの秘密",
+		"tr_text": ""
+	},
+	{
+		"assign": "61320",
+		"jp_text": "4-2　毒と薬",
+		"tr_text": ""
+	},
+	{
+		"assign": "61321",
+		"jp_text": "4-2　毒と薬",
+		"tr_text": ""
+	},
+	{
+		"assign": "61330",
+		"jp_text": "4-3　小さな決意、大きな想い",
+		"tr_text": ""
+	},
+	{
+		"assign": "61331",
+		"jp_text": "4-3　小さな決意、大きな想い",
+		"tr_text": ""
+	},
+	{
+		"assign": "61340",
+		"jp_text": "4-4　正体",
+		"tr_text": ""
+	},
+	{
+		"assign": "61341",
+		"jp_text": "4-4　正体",
+		"tr_text": ""
+	},
+	{
+		"assign": "61410",
+		"jp_text": "5-1　本当の敵",
+		"tr_text": ""
+	},
+	{
+		"assign": "61411",
+		"jp_text": "5-1　本当の敵",
+		"tr_text": ""
+	},
+	{
+		"assign": "61420",
+		"jp_text": "5-2　助けたい",
+		"tr_text": ""
+	},
+	{
+		"assign": "61421",
+		"jp_text": "5-2　助けたい",
+		"tr_text": ""
+	},
+	{
+		"assign": "61430",
+		"jp_text": "5-3　誰かの為の決断",
+		"tr_text": ""
+	},
+	{
+		"assign": "61431",
+		"jp_text": "5-3　誰かの為の決断",
+		"tr_text": ""
+	},
+	{
+		"assign": "61440",
+		"jp_text": "5-4　悔恨の海",
+		"tr_text": ""
+	},
+	{
+		"assign": "61441",
+		"jp_text": "5-4　悔恨の海",
+		"tr_text": ""
+	},
+	{
+		"assign": "62010",
+		"jp_text": "1-1　大いなる帰還",
+		"tr_text": "1-1 A Grand Return"
+	},
+	{
+		"assign": "62011",
+		"jp_text": "1-1　大いなる帰還",
+		"tr_text": "1-1 A Grand Return"
+	},
+	{
+		"assign": "62020",
+		"jp_text": "1-2　覚悟もつ者たち",
+		"tr_text": "1-2 The Determined Ones"
+	},
+	{
+		"assign": "62021",
+		"jp_text": "1-2　覚悟もつ者たち",
+		"tr_text": "1-2 The Determined Ones"
+	},
+	{
+		"assign": "62030",
+		"jp_text": "1-3　優しさに包まれて",
+		"tr_text": ""
+	},
+	{
+		"assign": "62031",
+		"jp_text": "1-3　優しさに包まれて",
+		"tr_text": ""
+	},
+	{
+		"assign": "62040",
+		"jp_text": "1-4　差しのべられた手",
+		"tr_text": ""
+	},
+	{
+		"assign": "62041",
+		"jp_text": "1-4　差しのべられた手",
+		"tr_text": ""
+	},
+	{
+		"assign": "62110",
+		"jp_text": "2-1　最後に残されたのは誇り",
+		"tr_text": ""
+	},
+	{
+		"assign": "62111",
+		"jp_text": "2-1　最後に残されたのは誇り",
+		"tr_text": ""
+	},
+	{
+		"assign": "62120",
+		"jp_text": "2-2　その瞳に映るもの",
+		"tr_text": ""
+	},
+	{
+		"assign": "62121",
+		"jp_text": "2-2　その瞳に映るもの",
+		"tr_text": ""
+	},
+	{
+		"assign": "62130",
+		"jp_text": "2-3　歩く、ただ前へ前へ",
+		"tr_text": ""
+	},
+	{
+		"assign": "62131",
+		"jp_text": "2-3　歩く、ただ前へ前へ",
+		"tr_text": ""
+	},
+	{
+		"assign": "62140",
+		"jp_text": "2-4　すれちがいゆくふたり",
+		"tr_text": ""
+	},
+	{
+		"assign": "62141",
+		"jp_text": "2-4　すれちがいゆくふたり",
+		"tr_text": ""
+	},
+	{
+		"assign": "62210",
+		"jp_text": "3-1　たとえ今だけだとしても",
+		"tr_text": ""
+	},
+	{
+		"assign": "62211",
+		"jp_text": "3-1　たとえ今だけだとしても",
+		"tr_text": ""
+	},
+	{
+		"assign": "62220",
+		"jp_text": "3-2　希望",
+		"tr_text": ""
+	},
+	{
+		"assign": "62221",
+		"jp_text": "3-2　希望",
+		"tr_text": ""
+	},
+	{
+		"assign": "62230",
+		"jp_text": "3-3　リリーパ会談",
+		"tr_text": ""
+	},
+	{
+		"assign": "62231",
+		"jp_text": "3-3　リリーパ会談",
+		"tr_text": ""
+	},
+	{
+		"assign": "62240",
+		"jp_text": "3-4　破滅に向かいし星",
+		"tr_text": ""
+	},
+	{
+		"assign": "62241",
+		"jp_text": "3-4　破滅に向かいし星",
+		"tr_text": ""
+	},
+	{
+		"assign": "62310",
+		"jp_text": "4-1　背中合わせの道",
+		"tr_text": ""
+	},
+	{
+		"assign": "62311",
+		"jp_text": "4-1　背中合わせの道",
+		"tr_text": ""
+	},
+	{
+		"assign": "62320",
+		"jp_text": "4-2　這い寄る不安",
+		"tr_text": ""
+	},
+	{
+		"assign": "62321",
+		"jp_text": "4-2　這い寄る不安",
+		"tr_text": ""
+	},
+	{
 		"assign": "40010",
-		"jp_text": "-",
+		"jp_text": "",
 		"tr_text": ""
 	},
 	{
@@ -777,17 +1077,52 @@
 	{
 		"assign": "40043",
 		"jp_text": "ウォパル素子を求めて",
-		"tr_text": ""
+		"tr_text": "Wopal Element Search"
 	},
 	{
 		"assign": "40044",
 		"jp_text": "解放素子を求めて",
-		"tr_text": ""
+		"tr_text": "Release Element Search"
 	},
 	{
 		"assign": "40045",
 		"jp_text": "混沌を断ち切る力と源",
+		"tr_text": "The Power&Origin Break the Chaos"
+	},
+	{
+		"assign": "40046",
+		"jp_text": "-",
 		"tr_text": ""
+	},
+	{
+		"assign": "40047",
+		"jp_text": "光・闇の解放素材を求めて",
+		"tr_text": "Light/Dark Mat. Search"
+	},
+	{
+		"assign": "40048",
+		"jp_text": "炎の解放素材を求めて",
+		"tr_text": "Fire Material Search"
+	},
+	{
+		"assign": "40049",
+		"jp_text": "氷の解放素材を求めて",
+		"tr_text": "Ice Material Search"
+	},
+	{
+		"assign": "40050",
+		"jp_text": "風の解放素材を求めて",
+		"tr_text": "Wind Material Search"
+	},
+	{
+		"assign": "40051",
+		"jp_text": "雷の解放素材を求めて",
+		"tr_text": "Lightning Mat. Search"
+	},
+	{
+		"assign": "40052",
+		"jp_text": "武器強化素材を求めて",
+		"tr_text": "Grinder Search"
 	},
 	{
 		"assign": "40100",
@@ -882,7 +1217,7 @@
 	{
 		"assign": "40189",
 		"jp_text": "ラッピー異常発生調査",
-		"tr_text": ""
+		"tr_text": "Rappy Appearance Survey"
 	},
 	{
 		"assign": "40190",
@@ -897,12 +1232,12 @@
 	{
 		"assign": "40192",
 		"jp_text": "ハロウィンパーティー",
-		"tr_text": ""
+		"tr_text": "Halloween Party"
 	},
 	{
 		"assign": "40193",
 		"jp_text": "ネッキーの落し物",
-		"tr_text": ""
+		"tr_text": "Necky's Lost Item"
 	},
 	{
 		"assign": "40194",
@@ -922,17 +1257,17 @@
 	{
 		"assign": "40197",
 		"jp_text": "新春クエスト２０１７・前編",
-		"tr_text": ""
+		"tr_text": "New Year Quest 2017 Part 1"
 	},
 	{
 		"assign": "40198",
 		"jp_text": "新春クエスト２０１７・後編",
-		"tr_text": ""
+		"tr_text": "New Year Quest 2017 Part 2"
 	},
 	{
 		"assign": "40199",
 		"jp_text": "スイートバレンタイン",
-		"tr_text": ""
+		"tr_text": "Sweet Valentine"
 	},
 	{
 		"assign": "40401",
@@ -975,64 +1310,234 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "45004",
+		"jp_text": "夏だ！ 休みだ！ 海の家!!・前編",
+		"tr_text": "Summer Sea House! Part 1"
+	},
+	{
+		"assign": "45005",
+		"jp_text": "夏だ！ 休みだ！ 海の家!!・後編",
+		"tr_text": "Summer Sea House! Part 2"
+	},
+	{
+		"assign": "40406",
+		"jp_text": "夜への翼をその手に・前編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40407",
+		"jp_text": "夜への翼をその手に・中編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40408",
+		"jp_text": "夜への翼をその手に・後編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40409",
+		"jp_text": "魅惑の槍と復讐の銃・前編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40410",
+		"jp_text": "魅惑の槍と復讐の銃・後編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40411",
+		"jp_text": "電撃！　アドベンチャー",
+		"tr_text": "Dengeki! Adventure"
+	},
+	{
+		"assign": "40412",
+		"jp_text": "聖夜の晩餐会",
+		"tr_text": ""
+	},
+	{
+		"assign": "40413",
+		"jp_text": "新春クエスト２０１８・前編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40414",
+		"jp_text": "新春クエスト２０１８・後編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40415",
+		"jp_text": "ホワイトスノーフェスタ・前編",
+		"tr_text": "White Snow Festival Part I"
+	},
+	{
+		"assign": "40416",
+		"jp_text": "ホワイトスノーフェスタ・後編",
+		"tr_text": "White Snow Festival Part II"
+	},
+	{
+		"assign": "40417",
+		"jp_text": "収集任務「万色の夢想石」・前編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40418",
+		"jp_text": "収集任務「万色の夢想石」・中編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40419",
+		"jp_text": "収集任務「万色の夢想石」・後編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40420",
+		"jp_text": "４周年記念任務・前編",
+		"tr_text": "4th Anniv. Part I"
+	},
+	{
+		"assign": "40421",
+		"jp_text": "４周年記念任務・中編",
+		"tr_text": "4th Anniv. Part II"
+	},
+	{
+		"assign": "40422",
+		"jp_text": "４周年記念任務・後編",
+		"tr_text": "4th Anniv. Conclusion"
+	},
+	{
+		"assign": "40423",
+		"jp_text": "ＡＡＦ総選挙：決闘の花嫁",
+		"tr_text": "AAF Election: Battle Bride"
+	},
+	{
+		"assign": "40424",
+		"jp_text": "ＡＡＦ総選挙：海浜の兵士",
+		"tr_text": "AAF Election: Beach Soldier"
+	},
+	{
+		"assign": "40425",
+		"jp_text": "ＡＡＦ総選挙：月夜の騎士",
+		"tr_text": "AAF Election: Moonlit Knight"
+	},
+	{
+		"assign": "40426",
+		"jp_text": "ＡＡＦ総選挙：収穫祭の鈴猫",
+		"tr_text": "AAF Election: Festival Cat"
+	},
+	{
+		"assign": "40427",
+		"jp_text": "ＡＡＦ総選挙：秋祭の光陰",
+		"tr_text": "AAF Election: Fall Festival"
+	},
+	{
+		"assign": "40428",
+		"jp_text": "ダーカー大掃討任務",
+		"tr_text": "Darker Sweeping Mission"
+	},
+	{
+		"assign": "40429",
+		"jp_text": "ホワイトクリスマスの使者",
+		"tr_text": "White Christmas Messenger"
+	},
+	{
+		"assign": "40430",
+		"jp_text": "アークス集中訓練",
+		"tr_text": "ARKS Intensive Training"
+	},
+	{
+		"assign": "45006",
+		"jp_text": "初春に、遠方より客来たる",
+		"tr_text": "An Early Spring Visitor"
+	},
+	{
+		"assign": "40431",
+		"jp_text": "ビタースイートバレンタイン",
+		"tr_text": "Bittersweet Valentine"
+	},
+	{
+		"assign": "40432",
+		"jp_text": "アークス集中訓練２",
+		"tr_text": "ARKS Intensive Training 2"
+	},
+	{
+		"assign": "40433",
+		"jp_text": "５周年記念任務・前編",
+		"tr_text": "5th Anniversary Part 1"
+	},
+	{
+		"assign": "40434",
+		"jp_text": "５周年記念任務・後編",
+		"tr_text": "5th Anniversary Part 2"
+	},
+	{
+		"assign": "40435",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "45007",
+		"jp_text": "５周年だよ、全員集合！",
+		"tr_text": ""
+	},
+	{
 		"assign": "40301",
 		"jp_text": "光の激化への道・打",
-		"tr_text": ""
+		"tr_text": "Light Intensification S"
 	},
 	{
 		"assign": "40302",
 		"jp_text": "光の激化への道・射法",
-		"tr_text": ""
+		"tr_text": "Light Intensification R/T"
 	},
 	{
 		"assign": "40303",
 		"jp_text": "闇の激化への道・打",
-		"tr_text": ""
+		"tr_text": "Dark Intensification S"
 	},
 	{
 		"assign": "40304",
 		"jp_text": "闇の激化への道・射法",
-		"tr_text": ""
+		"tr_text": "Dark Intensification R/T"
 	},
 	{
 		"assign": "40305",
 		"jp_text": "風の激化への道・打",
-		"tr_text": ""
+		"tr_text": "Wind Intensification S"
 	},
 	{
 		"assign": "40306",
 		"jp_text": "風の激化への道・射法",
-		"tr_text": ""
+		"tr_text": "Wind Intensification R/T"
 	},
 	{
 		"assign": "40307",
 		"jp_text": "炎の激化への道・打",
-		"tr_text": ""
+		"tr_text": "Fire Intensification S"
 	},
 	{
 		"assign": "40308",
 		"jp_text": "炎の激化への道・射法",
-		"tr_text": ""
+		"tr_text": "Fire Intensification R/T"
 	},
 	{
 		"assign": "40309",
 		"jp_text": "氷の激化への道・打",
-		"tr_text": ""
+		"tr_text": "Ice Intensification S"
 	},
 	{
 		"assign": "40310",
 		"jp_text": "氷の激化への道・射法",
-		"tr_text": ""
+		"tr_text": "Ice Intensification R/T"
 	},
 	{
 		"assign": "40311",
 		"jp_text": "雷の激化への道・打",
-		"tr_text": ""
+		"tr_text": "Lightning Intensification S"
 	},
 	{
 		"assign": "40312",
 		"jp_text": "雷の激化への道・射法",
-		"tr_text": ""
+		"tr_text": "Lightning Intensification R/T"
 	},
 	{
 		"assign": "50010",
@@ -1053,6 +1558,46 @@
 		"assign": "50110",
 		"jp_text": "クラス限定クエスト",
 		"tr_text": "Class Limit Quest"
+	},
+	{
+		"assign": "50210",
+		"jp_text": "ストーリー　オブ　アーレス",
+		"tr_text": "Story of Ares"
+	},
+	{
+		"assign": "50211",
+		"jp_text": "第１章###女神降臨",
+		"tr_text": "Ch. 1###The Goddess Appears"
+	},
+	{
+		"assign": "50212",
+		"jp_text": "第２章###兄弟の戦い",
+		"tr_text": "Ch. 2###Battle of Brothers"
+	},
+	{
+		"assign": "50220",
+		"jp_text": "クラン オブ ネメシス＆スレイヴ",
+		"tr_text": "Clan of Nemesis & Slave"
+	},
+	{
+		"assign": "50221",
+		"jp_text": "第１章###運命は咆哮し嵐が来たる",
+		"tr_text": "Ch.1###Fate Arrives Like A Storm"
+	},
+	{
+		"assign": "50222",
+		"jp_text": "第2章###争いは連鎖し運命は廻る",
+		"tr_text": ""
+	},
+	{
+		"assign": "50230",
+		"jp_text": "ハーモニー　オブ　オービット",
+		"tr_text": "Harmony of Orbit"
+	},
+	{
+		"assign": "50231",
+		"jp_text": "第１章###結成☆オービット聖歌隊",
+		"tr_text": ""
 	},
 	{
 		"assign": "40103",
@@ -1082,7 +1627,7 @@
 	{
 		"assign": "40108",
 		"jp_text": "闘士たちの試練・テクター",
-		"tr_text": "Battle Evaluation - Tekker"
+		"tr_text": "Battle Evaluation - Techer"
 	},
 	{
 		"assign": "40109",
@@ -1092,12 +1637,12 @@
 	{
 		"assign": "40110",
 		"jp_text": "共闘者たちの集い",
-		"tr_text": "Assembly of Forces 2"
+		"tr_text": "Assembly of Forces"
 	},
 	{
 		"assign": "40111",
 		"jp_text": "闘士たちの試練・バウンサー",
-		"tr_text": ""
+		"tr_text": "Battle Evaluation - Bouncer"
 	},
 	{
 		"assign": "30010",
@@ -1285,8 +1830,43 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "30209",
+		"jp_text": "緊急指令「熱砂を駆ける兵器」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30210",
+		"jp_text": "緊急指令「咆え猛る狂乱の龍」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30211",
+		"jp_text": "緊急指令「圧壊する巨影の骸」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30212",
+		"jp_text": "緊急指令「剛毅なる鋭剣の翼」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30213",
+		"jp_text": "緊急指令「波濤砕く深海の女帝」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30214",
+		"jp_text": "緊急指令「跳梁せし氷嵐の獣」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30215",
+		"jp_text": "緊急指令「天焦がす紅の砲獣」",
+		"tr_text": ""
+	},
+	{
 		"assign": "39001",
-		"jp_text": "-",
+		"jp_text": "調査指令「報酬ドロップ」",
 		"tr_text": ""
 	},
 	{
@@ -1307,22 +1887,22 @@
 	{
 		"assign": "40141",
 		"jp_text": "鳴動！ダーク・ラグネ",
-		"tr_text": ""
+		"tr_text": "Rumble! Dark Ragne"
 	},
 	{
 		"assign": "40142",
 		"jp_text": "猛進！キャタドランサ１",
-		"tr_text": "猛進！キャタドランサ"
+		"tr_text": "Rush in! Caterdra'nsa 1"
 	},
 	{
 		"assign": "40143",
 		"jp_text": "疾風！スノウバンサー",
-		"tr_text": ""
+		"tr_text": "Storm! Snow Banther"
 	},
 	{
 		"assign": "40144",
 		"jp_text": "頑強！ロックベア１",
-		"tr_text": ""
+		"tr_text": "Sturdy! Rockbear 1"
 	},
 	{
 		"assign": "40159",
@@ -1332,7 +1912,7 @@
 	{
 		"assign": "40167",
 		"jp_text": "猛攻！ゼッシュレイダ２",
-		"tr_text": ""
+		"tr_text": "Fierce Attack! Zeshrayda 2"
 	},
 	{
 		"assign": "40168",
@@ -1342,7 +1922,7 @@
 	{
 		"assign": "40169",
 		"jp_text": "猛進！キャタドランサ２",
-		"tr_text": ""
+		"tr_text": "Rush in! Caterdra'nsa 2"
 	},
 	{
 		"assign": "40170",
@@ -1352,7 +1932,7 @@
 	{
 		"assign": "40145",
 		"jp_text": "猛追！デ・マルモス１",
-		"tr_text": ""
+		"tr_text": "Unrelenting! De Malmoth 1"
 	},
 	{
 		"assign": "40172",
@@ -1367,7 +1947,7 @@
 	{
 		"assign": "40174",
 		"jp_text": "頑強！ロックベア２",
-		"tr_text": ""
+		"tr_text": "Sturdy! Rockbear 2"
 	},
 	{
 		"assign": "40175",
@@ -1377,7 +1957,7 @@
 	{
 		"assign": "40176",
 		"jp_text": "襲撃！ファングバンシー１",
-		"tr_text": ""
+		"tr_text": "Charge! Fang Banther 1"
 	},
 	{
 		"assign": "40177",
@@ -1412,7 +1992,7 @@
 	{
 		"assign": "40146",
 		"jp_text": "狡猾！グワナーダ",
-		"tr_text": "Cunning! Gu Wonda"
+		"tr_text": "Cunning! Gwanahda"
 	},
 	{
 		"assign": "40160",
@@ -1477,7 +2057,7 @@
 	{
 		"assign": "40157",
 		"jp_text": "猛撃！ウォルガーダ２",
-		"tr_text": ""
+		"tr_text": "Sturdy! Wolgahda 2"
 	},
 	{
 		"assign": "40158",
@@ -1546,22 +2126,22 @@
 	},
 	{
 		"assign": "70008",
-		"jp_text": "-",
+		"jp_text": "隠し事",
 		"tr_text": ""
 	},
 	{
 		"assign": "70009",
-		"jp_text": "-",
+		"jp_text": "仲直りの勇気 ",
 		"tr_text": ""
 	},
 	{
 		"assign": "70010",
-		"jp_text": "-",
+		"jp_text": "共通の思い ",
 		"tr_text": ""
 	},
 	{
 		"assign": "70011",
-		"jp_text": "-",
+		"jp_text": "素直な言葉 ",
 		"tr_text": ""
 	},
 	{
@@ -1627,27 +2207,27 @@
 	{
 		"assign": "70024",
 		"jp_text": "仲間になるんダマン！",
-		"tr_text": "Become Friends, Daman!"
+		"tr_text": "Become Friends-Daman!"
 	},
 	{
 		"assign": "70025",
 		"jp_text": "氷ならまかせろダマン！",
-		"tr_text": "Leave it Ice, Daman!"
+		"tr_text": "Leave it to Ice-Daman!"
 	},
 	{
 		"assign": "70026",
 		"jp_text": "役立たずなんダマン？",
-		"tr_text": "What's Useless Daman?"
+		"tr_text": "What's 'Useless'-Daman?"
 	},
 	{
 		"assign": "70027",
 		"jp_text": "ありがとうなんダマン！",
-		"tr_text": "Thank You Whatever, Daman!"
+		"tr_text": "Thank You Whatever-Daman!"
 	},
 	{
 		"assign": "70028",
 		"jp_text": "剣舞の踊り手",
-		"tr_text": "Dancers of Swords"
+		"tr_text": "The Sword Dancer"
 	},
 	{
 		"assign": "70029",
@@ -1687,22 +2267,22 @@
 	{
 		"assign": "70036",
 		"jp_text": "バイオトライナーの日記１",
-		"tr_text": ""
+		"tr_text": "Bio Triner's Diary 1"
 	},
 	{
 		"assign": "70037",
 		"jp_text": "バイオトライナーの日記２",
-		"tr_text": ""
+		"tr_text": "Bio Triner's Diary 2"
 	},
 	{
 		"assign": "70038",
 		"jp_text": "バイオトライナーの日記３",
-		"tr_text": ""
+		"tr_text": "Bio Triner's Diary 3"
 	},
 	{
 		"assign": "70039",
 		"jp_text": "バイオトライナーの日記４",
-		"tr_text": ""
+		"tr_text": "Bio Triner's Diary 4"
 	},
 	{
 		"assign": "70040",
@@ -1737,7 +2317,7 @@
 	{
 		"assign": "70046",
 		"jp_text": "５×２≠６",
-		"tr_text": ""
+		"tr_text": "5 x 2 ≠ 6"
 	},
 	{
 		"assign": "70047",
@@ -1832,7 +2412,7 @@
 	{
 		"assign": "70065",
 		"jp_text": "改善か改悪か",
-		"tr_text": "Better or Worse"
+		"tr_text": "For Better or for Worse"
 	},
 	{
 		"assign": "70066",
@@ -1947,7 +2527,7 @@
 	{
 		"assign": "70088",
 		"jp_text": "妖艶なるウェポノイド",
-		"tr_text": ""
+		"tr_text": "Bewitching Weaponoid"
 	},
 	{
 		"assign": "70089",
@@ -2092,7 +2672,7 @@
 	{
 		"assign": "70117",
 		"jp_text": "時空を超えた存在",
-		"tr_text": "Beyond Time&Space"
+		"tr_text": "Beyond Time & Space"
 	},
 	{
 		"assign": "70118",
@@ -2102,7 +2682,7 @@
 	{
 		"assign": "70119",
 		"jp_text": "究極と、悠久と",
-		"tr_text": "The Ultimate&Eternal"
+		"tr_text": "The Ultimate & Eternal"
 	},
 	{
 		"assign": "70120",
@@ -2526,22 +3106,22 @@
 	},
 	{
 		"assign": "70204",
-		"jp_text": "-",
+		"jp_text": "得意と苦手は誰にでも",
 		"tr_text": ""
 	},
 	{
 		"assign": "70205",
-		"jp_text": "-",
+		"jp_text": "成長こそが優秀の証",
 		"tr_text": ""
 	},
 	{
 		"assign": "70206",
-		"jp_text": "-",
+		"jp_text": "レベル上げは計画的に",
 		"tr_text": ""
 	},
 	{
 		"assign": "70207",
-		"jp_text": "-",
+		"jp_text": "苦手克服に王道無し？",
 		"tr_text": ""
 	},
 	{
@@ -2666,22 +3246,22 @@
 	},
 	{
 		"assign": "70232",
-		"jp_text": "-",
+		"jp_text": "大人なウェポノイド？",
 		"tr_text": ""
 	},
 	{
 		"assign": "70233",
-		"jp_text": "-",
+		"jp_text": "ほろ苦い告白",
 		"tr_text": ""
 	},
 	{
 		"assign": "70234",
-		"jp_text": "-",
+		"jp_text": "ズレた背伸び",
 		"tr_text": ""
 	},
 	{
 		"assign": "70235",
-		"jp_text": "-",
+		"jp_text": "本当の一人前",
 		"tr_text": ""
 	},
 	{
@@ -2766,22 +3346,22 @@
 	},
 	{
 		"assign": "70252",
-		"jp_text": "-",
+		"jp_text": "美の伝道師",
 		"tr_text": ""
 	},
 	{
 		"assign": "70253",
-		"jp_text": "-",
+		"jp_text": "美しすぎるウェポノイド？",
 		"tr_text": ""
 	},
 	{
 		"assign": "70254",
-		"jp_text": "-",
+		"jp_text": "献身の代価",
 		"tr_text": ""
 	},
 	{
 		"assign": "70255",
-		"jp_text": "-",
+		"jp_text": "輝け！　アークス！",
 		"tr_text": ""
 	},
 	{
@@ -2906,22 +3486,22 @@
 	},
 	{
 		"assign": "70280",
-		"jp_text": "-",
+		"jp_text": "素敵な人",
 		"tr_text": ""
 	},
 	{
 		"assign": "70281",
-		"jp_text": "-",
+		"jp_text": "好きになった人",
 		"tr_text": ""
 	},
 	{
 		"assign": "70282",
-		"jp_text": "-",
+		"jp_text": "海岸のデート",
 		"tr_text": ""
 	},
 	{
 		"assign": "70283",
-		"jp_text": "-",
+		"jp_text": "運命",
 		"tr_text": ""
 	},
 	{
@@ -2986,22 +3566,22 @@
 	},
 	{
 		"assign": "70296",
-		"jp_text": "-",
+		"jp_text": "瞬撃の黒刃",
 		"tr_text": ""
 	},
 	{
 		"assign": "70297",
-		"jp_text": "-",
+		"jp_text": "孤独をまとう戦士",
 		"tr_text": ""
 	},
 	{
 		"assign": "70298",
-		"jp_text": "-",
+		"jp_text": "秘められた過去",
 		"tr_text": ""
 	},
 	{
 		"assign": "70299",
-		"jp_text": "-",
+		"jp_text": "生きていく覚悟",
 		"tr_text": ""
 	},
 	{
@@ -3046,33 +3626,33 @@
 	},
 	{
 		"assign": "70308",
-		"jp_text": "-",
+		"jp_text": "悪戯っ子登場！",
 		"tr_text": ""
 	},
 	{
 		"assign": "70309",
-		"jp_text": "-",
+		"jp_text": "気になるモア",
 		"tr_text": ""
 	},
 	{
 		"assign": "70310",
-		"jp_text": "-",
+		"jp_text": "逃げないで",
 		"tr_text": ""
 	},
 	{
 		"assign": "70311",
-		"jp_text": "-",
+		"jp_text": "はじめてのトモダチ",
 		"tr_text": ""
 	},
 	{
 		"assign": "70312",
 		"jp_text": "炎弾の少女",
-		"tr_text": ""
+		"tr_text": "A Girl with Burning Bullets"
 	},
 	{
 		"assign": "70313",
 		"jp_text": "愛想のない狙撃手",
-		"tr_text": ""
+		"tr_text": "The Unfriendly Sniper"
 	},
 	{
 		"assign": "70314",
@@ -3082,26 +3662,26 @@
 	{
 		"assign": "70315",
 		"jp_text": "ハートに狙いを",
-		"tr_text": ""
+		"tr_text": "Aim for the Heart"
 	},
 	{
 		"assign": "70316",
-		"jp_text": "-",
+		"jp_text": "見えぬ最善手",
 		"tr_text": ""
 	},
 	{
 		"assign": "70317",
-		"jp_text": "-",
+		"jp_text": "この笑顔のために",
 		"tr_text": ""
 	},
 	{
 		"assign": "70318",
-		"jp_text": "-",
+		"jp_text": "伝えたいのは……",
 		"tr_text": ""
 	},
 	{
 		"assign": "70319",
-		"jp_text": "-",
+		"jp_text": "大切なもの",
 		"tr_text": ""
 	},
 	{
@@ -3126,22 +3706,22 @@
 	},
 	{
 		"assign": "70324",
-		"jp_text": "-",
+		"jp_text": "パスカさん、お祭りタイム",
 		"tr_text": ""
 	},
 	{
 		"assign": "70325",
-		"jp_text": "-",
+		"jp_text": "パスカさん、大はしゃぎ",
 		"tr_text": ""
 	},
 	{
 		"assign": "70326",
-		"jp_text": "-",
+		"jp_text": "パスカさん、祭りのあと……",
 		"tr_text": ""
 	},
 	{
 		"assign": "70327",
-		"jp_text": "-",
+		"jp_text": "パスカさん、最高のお祭り！",
 		"tr_text": ""
 	},
 	{
@@ -3166,22 +3746,22 @@
 	},
 	{
 		"assign": "70332",
-		"jp_text": "-",
+		"jp_text": "プレゼント・フォー・ユー",
 		"tr_text": ""
 	},
 	{
 		"assign": "70333",
-		"jp_text": "-",
+		"jp_text": "変わり者な彼女",
 		"tr_text": ""
 	},
 	{
 		"assign": "70334",
-		"jp_text": "-",
+		"jp_text": "アイデンティティ",
 		"tr_text": ""
 	},
 	{
 		"assign": "70335",
-		"jp_text": "-",
+		"jp_text": "最高のプレゼント",
 		"tr_text": ""
 	},
 	{
@@ -3306,63 +3886,63 @@
 	},
 	{
 		"assign": "70360",
-		"jp_text": "-",
+		"jp_text": "双小剣の少女",
 		"tr_text": ""
 	},
 	{
 		"assign": "70361",
-		"jp_text": "-",
+		"jp_text": "会話は苦手……？",
 		"tr_text": ""
 	},
 	{
 		"assign": "70362",
-		"jp_text": "-",
+		"jp_text": "乙女の憧れ",
 		"tr_text": ""
 	},
 	{
 		"assign": "70363",
-		"jp_text": "-",
+		"jp_text": "友達になれたら",
 		"tr_text": ""
 	},
 	{
 		"assign": "70364",
-		"jp_text": "-",
+		"jp_text": "気を使いすぎのウェポノイド",
 		"tr_text": ""
 	},
 	{
 		"assign": "70365",
-		"jp_text": "-",
+		"jp_text": "怖れのわけ",
 		"tr_text": ""
 	},
 	{
 		"assign": "70366",
-		"jp_text": "-",
+		"jp_text": "誰も傷つけたくないから",
 		"tr_text": ""
 	},
 	{
 		"assign": "70367",
-		"jp_text": "-",
+		"jp_text": "答えは助け合うこと",
 		"tr_text": ""
 	},
 	{
 		"assign": "70368",
-		"jp_text": "-",
-		"tr_text": ""
+		"jp_text": "女王の鼓舞",
+		"tr_text": "Queen's Inspiration"
 	},
 	{
 		"assign": "70369",
-		"jp_text": "-",
-		"tr_text": ""
+		"jp_text": "女王の作戦",
+		"tr_text": "Queen's Strategy"
 	},
 	{
 		"assign": "70370",
-		"jp_text": "-",
-		"tr_text": ""
+		"jp_text": "女王の覚悟",
+		"tr_text": "Queen's Preparation"
 	},
 	{
 		"assign": "70371",
-		"jp_text": "-",
-		"tr_text": ""
+		"jp_text": "女王と臣下",
+		"tr_text": "The Queen and her Retainer"
 	},
 	{
 		"assign": "70372",
@@ -3426,161 +4006,3081 @@
 	},
 	{
 		"assign": "70384",
-		"jp_text": "-",
+		"jp_text": "契約と代償",
 		"tr_text": ""
 	},
 	{
 		"assign": "70385",
-		"jp_text": "-",
+		"jp_text": "奇跡の代償",
 		"tr_text": ""
 	},
 	{
 		"assign": "70386",
-		"jp_text": "-",
+		"jp_text": "犠牲",
 		"tr_text": ""
 	},
 	{
 		"assign": "70387",
-		"jp_text": "-",
+		"jp_text": "無償の祈り",
 		"tr_text": ""
 	},
 	{
 		"assign": "70388",
-		"jp_text": "-",
+		"jp_text": "問題児現る？",
 		"tr_text": ""
 	},
 	{
 		"assign": "70389",
-		"jp_text": "-",
+		"jp_text": "世界は広いよ",
 		"tr_text": ""
 	},
 	{
 		"assign": "70390",
-		"jp_text": "-",
+		"jp_text": "変化",
 		"tr_text": ""
 	},
 	{
 		"assign": "70391",
-		"jp_text": "-",
+		"jp_text": "背中を預けて",
 		"tr_text": ""
 	},
 	{
 		"assign": "70392",
-		"jp_text": "-",
+		"jp_text": "トレジャーハンター",
 		"tr_text": ""
 	},
 	{
 		"assign": "70393",
-		"jp_text": "-",
+		"jp_text": "謎の落書き",
 		"tr_text": ""
 	},
 	{
 		"assign": "70394",
-		"jp_text": "-",
+		"jp_text": "二つの太陽の下で",
 		"tr_text": ""
 	},
 	{
 		"assign": "70395",
-		"jp_text": "-",
+		"jp_text": "お宝の正体",
 		"tr_text": ""
 	},
 	{
 		"assign": "70396",
-		"jp_text": "-",
+		"jp_text": "不思議な少女",
 		"tr_text": ""
 	},
 	{
 		"assign": "70397",
-		"jp_text": "-",
+		"jp_text": "石の秘密",
 		"tr_text": ""
 	},
 	{
 		"assign": "70398",
-		"jp_text": "-",
+		"jp_text": "無限のエネルギー",
 		"tr_text": ""
 	},
 	{
 		"assign": "70399",
-		"jp_text": "-",
+		"jp_text": "強さより大事なもの",
 		"tr_text": ""
 	},
 	{
 		"assign": "70400",
-		"jp_text": "-",
+		"jp_text": "空から落ちてきた少女",
 		"tr_text": ""
 	},
 	{
 		"assign": "70401",
-		"jp_text": "-",
+		"jp_text": "無邪気な彼女にご用心",
 		"tr_text": ""
 	},
 	{
 		"assign": "70402",
-		"jp_text": "-",
+		"jp_text": "道端に咲いた花",
 		"tr_text": ""
 	},
 	{
 		"assign": "70403",
-		"jp_text": "-",
+		"jp_text": "彼女の見る世界",
 		"tr_text": ""
 	},
 	{
 		"assign": "70404",
-		"jp_text": "-",
+		"jp_text": "その名はガルド・ミラ",
 		"tr_text": ""
 	},
 	{
 		"assign": "70405",
-		"jp_text": "-",
+		"jp_text": "噂の情報屋",
 		"tr_text": ""
 	},
 	{
 		"assign": "70406",
-		"jp_text": "-",
+		"jp_text": "未知なる世界へ続く夢",
 		"tr_text": ""
 	},
 	{
 		"assign": "70407",
-		"jp_text": "-",
+		"jp_text": "その両手に掴むもの",
 		"tr_text": ""
 	},
 	{
 		"assign": "70408",
-		"jp_text": "-",
+		"jp_text": "ウェポノイドは優等生",
 		"tr_text": ""
 	},
 	{
 		"assign": "70409",
-		"jp_text": "-",
+		"jp_text": "貴方に認められたい",
 		"tr_text": ""
 	},
 	{
 		"assign": "70410",
-		"jp_text": "-",
+		"jp_text": "アネットのすごさ",
 		"tr_text": ""
 	},
 	{
 		"assign": "70411",
-		"jp_text": "-",
+		"jp_text": "素敵なお姉様",
 		"tr_text": ""
 	},
 	{
 		"assign": "70412",
-		"jp_text": "-",
+		"jp_text": "美しき戦闘狂",
 		"tr_text": ""
 	},
 	{
 		"assign": "70413",
-		"jp_text": "-",
+		"jp_text": "芽生えた気持ち",
 		"tr_text": ""
 	},
 	{
 		"assign": "70414",
-		"jp_text": "-",
+		"jp_text": "初めての体験",
 		"tr_text": ""
 	},
 	{
 		"assign": "70415",
+		"jp_text": "もう一つの楽しみ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70416",
+		"jp_text": "運命の出会い",
+		"tr_text": ""
+	},
+	{
+		"assign": "70417",
+		"jp_text": "乙女の悩み",
+		"tr_text": ""
+	},
+	{
+		"assign": "70418",
+		"jp_text": "芽生えた絆",
+		"tr_text": ""
+	},
+	{
+		"assign": "70419",
+		"jp_text": "最後の衝撃",
+		"tr_text": ""
+	},
+	{
+		"assign": "70420",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70421",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70422",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70423",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70424",
+		"jp_text": "慰労任務です！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70425",
+		"jp_text": "私の役目って？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70426",
+		"jp_text": "気持ちの伝え方って？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70427",
+		"jp_text": "素直に、心を込めて",
+		"tr_text": ""
+	},
+	{
+		"assign": "70428",
+		"jp_text": "あなたを理解できない",
+		"tr_text": ""
+	},
+	{
+		"assign": "70429",
+		"jp_text": "彼女の見る世界",
+		"tr_text": ""
+	},
+	{
+		"assign": "70430",
+		"jp_text": "近づいて、共有して",
+		"tr_text": ""
+	},
+	{
+		"assign": "70431",
+		"jp_text": "あなたの世界を見せて",
+		"tr_text": ""
+	},
+	{
+		"assign": "70432",
+		"jp_text": "行き倒れの旅人",
+		"tr_text": ""
+	},
+	{
+		"assign": "70433",
+		"jp_text": "旅の情緒？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70434",
+		"jp_text": "オヤジの実力",
+		"tr_text": ""
+	},
+	{
+		"assign": "70435",
+		"jp_text": "旅の仲間",
+		"tr_text": ""
+	},
+	{
+		"assign": "70436",
+		"jp_text": "刀鍛冶ファーレングリフ",
+		"tr_text": "Swordsmith Fahrenglyph"
+	},
+	{
+		"assign": "70437",
+		"jp_text": "刀が生まれる場所",
+		"tr_text": ""
+	},
+	{
+		"assign": "70438",
+		"jp_text": "凍える刃",
+		"tr_text": ""
+	},
+	{
+		"assign": "70439",
+		"jp_text": "真の先にあるもの",
+		"tr_text": ""
+	},
+	{
+		"assign": "70440",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70441",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70442",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70443",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70444",
+		"jp_text": "うるせー、バーカ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70445",
+		"jp_text": "お前、うぜーんだよ！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70446",
+		"jp_text": "ナメてん……のか？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70447",
+		"jp_text": "やっぱ……超うぜー！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70448",
+		"jp_text": "赤きマントの騎士",
+		"tr_text": ""
+	},
+	{
+		"assign": "70449",
+		"jp_text": "守りの証",
+		"tr_text": ""
+	},
+	{
+		"assign": "70450",
+		"jp_text": "因縁の相手",
+		"tr_text": ""
+	},
+	{
+		"assign": "70451",
+		"jp_text": "追いかけし背中",
+		"tr_text": ""
+	},
+	{
+		"assign": "70452",
+		"jp_text": "血に染まる侍",
+		"tr_text": ""
+	},
+	{
+		"assign": "70453",
+		"jp_text": "強制帰還命令",
+		"tr_text": ""
+	},
+	{
+		"assign": "70454",
+		"jp_text": "美しい血",
+		"tr_text": ""
+	},
+	{
+		"assign": "70455",
+		"jp_text": "ただ、会いたかった",
+		"tr_text": ""
+	},
+	{
+		"assign": "70456",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70457",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70458",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70459",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70460",
+		"jp_text": "人嫌いな彼女",
+		"tr_text": ""
+	},
+	{
+		"assign": "70461",
+		"jp_text": "孤高の存在",
+		"tr_text": ""
+	},
+	{
+		"assign": "70462",
+		"jp_text": "二人の距離感",
+		"tr_text": ""
+	},
+	{
+		"assign": "70463",
+		"jp_text": "惹かれ合う者たち",
+		"tr_text": ""
+	},
+	{
+		"assign": "70464",
+		"jp_text": "人見知りの突風",
+		"tr_text": ""
+	},
+	{
+		"assign": "70465",
+		"jp_text": "ブルーノはお父さん？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70466",
+		"jp_text": "きみの独り立ち",
+		"tr_text": ""
+	},
+	{
+		"assign": "70467",
+		"jp_text": "いちばん、だいすき",
+		"tr_text": ""
+	},
+	{
+		"assign": "70468",
+		"jp_text": "儲け話の匂い",
+		"tr_text": ""
+	},
+	{
+		"assign": "70469",
+		"jp_text": "オリジナルブランド",
+		"tr_text": "Original Brand"
+	},
+	{
+		"assign": "70470",
+		"jp_text": "奥の手",
+		"tr_text": ""
+	},
+	{
+		"assign": "70471",
+		"jp_text": "商人の信念",
+		"tr_text": ""
+	},
+	{
+		"assign": "70472",
+		"jp_text": "お世話好きのウェポノイド",
+		"tr_text": ""
+	},
+	{
+		"assign": "70473",
+		"jp_text": "甘いのはお菓子だけ？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70474",
+		"jp_text": "お姉ちゃんが心配！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70475",
+		"jp_text": "嬉しさを分け合えたら",
+		"tr_text": ""
+	},
+	{
+		"assign": "70476",
+		"jp_text": "黒き巫女",
+		"tr_text": ""
+	},
+	{
+		"assign": "70477",
+		"jp_text": "卑屈な心",
+		"tr_text": ""
+	},
+	{
+		"assign": "70478",
+		"jp_text": "歪み",
+		"tr_text": ""
+	},
+	{
+		"assign": "70479",
+		"jp_text": "心をひとつに",
+		"tr_text": ""
+	},
+	{
+		"assign": "70480",
+		"jp_text": "ちっちゃなサポーター",
+		"tr_text": "Tiny Supporter"
+	},
+	{
+		"assign": "70481",
+		"jp_text": "誰かの役に立ちたくて",
+		"tr_text": ""
+	},
+	{
+		"assign": "70482",
+		"jp_text": "頑張りすぎにご用心",
+		"tr_text": ""
+	},
+	{
+		"assign": "70483",
+		"jp_text": "私にしか出来ないこと",
+		"tr_text": ""
+	},
+	{
+		"assign": "70484",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70485",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70486",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70487",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70488",
+		"jp_text": "黒き暗殺者",
+		"tr_text": ""
+	},
+	{
+		"assign": "70489",
+		"jp_text": "争いを呼ぶ少女",
+		"tr_text": ""
+	},
+	{
+		"assign": "70490",
+		"jp_text": "死に向かう遊び",
+		"tr_text": ""
+	},
+	{
+		"assign": "70491",
+		"jp_text": "みんなと一緒に",
+		"tr_text": ""
+	},
+	{
+		"assign": "70492",
+		"jp_text": "同行者は戦闘教官？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70493",
+		"jp_text": "隠された目的",
+		"tr_text": ""
+	},
+	{
+		"assign": "70494",
+		"jp_text": "秘めた想い",
+		"tr_text": ""
+	},
+	{
+		"assign": "70495",
+		"jp_text": "覚悟の行方",
+		"tr_text": ""
+	},
+	{
+		"assign": "70496",
+		"jp_text": "頼もしい仲間",
+		"tr_text": ""
+	},
+	{
+		"assign": "70497",
+		"jp_text": "的中した予言",
+		"tr_text": ""
+	},
+	{
+		"assign": "70498",
+		"jp_text": "異変の原因",
+		"tr_text": ""
+	},
+	{
+		"assign": "70499",
+		"jp_text": "最高のチームワーク",
+		"tr_text": ""
+	},
+	{
+		"assign": "70500",
+		"jp_text": "困ったお嬢様？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70501",
+		"jp_text": "役に立ちたい",
+		"tr_text": ""
+	},
+	{
+		"assign": "70502",
+		"jp_text": "できる範囲で",
+		"tr_text": ""
+	},
+	{
+		"assign": "70503",
+		"jp_text": "はじめての任務",
+		"tr_text": ""
+	},
+	{
+		"assign": "70504",
+		"jp_text": "戦う者",
+		"tr_text": ""
+	},
+	{
+		"assign": "70505",
+		"jp_text": "今ここにいるあなた",
+		"tr_text": ""
+	},
+	{
+		"assign": "70506",
+		"jp_text": "過去と今とその先へ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70507",
+		"jp_text": "これからの私",
+		"tr_text": ""
+	},
+	{
+		"assign": "70508",
+		"jp_text": "素直じゃないふたり？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70509",
+		"jp_text": "任せて安心？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70510",
+		"jp_text": "今度こそは！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70511",
+		"jp_text": "恋じゃなくても……",
+		"tr_text": ""
+	},
+	{
+		"assign": "70512",
+		"jp_text": "質問好きな女の子",
+		"tr_text": ""
+	},
+	{
+		"assign": "70513",
+		"jp_text": "知りたいことがいっぱい！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70514",
+		"jp_text": "大切っていう気持ち",
+		"tr_text": ""
+	},
+	{
+		"assign": "70515",
+		"jp_text": "見えないもの……",
+		"tr_text": ""
+	},
+	{
+		"assign": "70516",
+		"jp_text": "強力な助っ人",
+		"tr_text": ""
+	},
+	{
+		"assign": "70517",
+		"jp_text": "クラッシャーの心意気",
+		"tr_text": ""
+	},
+	{
+		"assign": "70518",
+		"jp_text": "もうひとつの守りかた",
+		"tr_text": ""
+	},
+	{
+		"assign": "70519",
+		"jp_text": "本当の仲間",
+		"tr_text": ""
+	},
+	{
+		"assign": "70520",
+		"jp_text": "イエス・マァム！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70521",
+		"jp_text": "教官は腕立てがお好き",
+		"tr_text": ""
+	},
+	{
+		"assign": "70522",
+		"jp_text": "見せられぬ姿",
+		"tr_text": ""
+	},
+	{
+		"assign": "70523",
+		"jp_text": "鬼教官の哲学",
+		"tr_text": ""
+	},
+	{
+		"assign": "70524",
+		"jp_text": "麗しき飛翔剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "70525",
+		"jp_text": "それは王子様のごとく",
+		"tr_text": ""
+	},
+	{
+		"assign": "70526",
+		"jp_text": "刃に宿る追憶",
+		"tr_text": ""
+	},
+	{
+		"assign": "70527",
+		"jp_text": "その剣は誰がために",
+		"tr_text": ""
+	},
+	{
+		"assign": "70528",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70529",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70530",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70531",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70532",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70533",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70534",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70535",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70536",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70537",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70538",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70539",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70540",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70541",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70542",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70543",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70544",
+		"jp_text": "半人前の戦士",
+		"tr_text": ""
+	},
+	{
+		"assign": "70545",
+		"jp_text": "戦士は問題児？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70546",
+		"jp_text": "戦士、迷子になる",
+		"tr_text": ""
+	},
+	{
+		"assign": "70547",
+		"jp_text": "本当の戦士",
+		"tr_text": ""
+	},
+	{
+		"assign": "70548",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70549",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70550",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70551",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70552",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70553",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70554",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70555",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70556",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70557",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70558",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70559",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70560",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70561",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70562",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70563",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70564",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70565",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70566",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70567",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70568",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70569",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70570",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70571",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70572",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70573",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70574",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70575",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70576",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70577",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70578",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70579",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70580",
+		"jp_text": "秘かな依頼",
+		"tr_text": ""
+	},
+	{
+		"assign": "70581",
+		"jp_text": "試練の先に",
+		"tr_text": ""
+	},
+	{
+		"assign": "70582",
+		"jp_text": "惑星の脅威",
+		"tr_text": ""
+	},
+	{
+		"assign": "70583",
+		"jp_text": "ヒトの未来は",
+		"tr_text": ""
+	},
+	{
+		"assign": "70584",
+		"jp_text": "その名はスレイヴキャノン",
+		"tr_text": ""
+	},
+	{
+		"assign": "70585",
+		"jp_text": "強さとは",
+		"tr_text": ""
+	},
+	{
+		"assign": "70586",
+		"jp_text": "退路なき火山",
+		"tr_text": ""
+	},
+	{
+		"assign": "70587",
+		"jp_text": "認める第一歩",
+		"tr_text": ""
+	},
+	{
+		"assign": "70588",
+		"jp_text": "新たなスレイヴ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70589",
+		"jp_text": "見えない本性",
+		"tr_text": ""
+	},
+	{
+		"assign": "70590",
+		"jp_text": "強者と弱者の証",
+		"tr_text": ""
+	},
+	{
+		"assign": "70591",
+		"jp_text": "愛を願う",
+		"tr_text": ""
+	},
+	{
+		"assign": "70592",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70593",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70594",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70595",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70596",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70597",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70598",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70599",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70600",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70601",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70602",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70603",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70604",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70605",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70606",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70607",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70608",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70609",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70610",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70611",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70612",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70613",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70614",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70615",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70616",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70617",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70618",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70619",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70620",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70621",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70622",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70623",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70624",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70625",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70626",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70627",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70628",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70629",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70630",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70631",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70632",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70633",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70634",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70635",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70636",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70637",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70638",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70639",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70640",
+		"jp_text": "やあやあ、我こそは！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70641",
+		"jp_text": "猛進武士の流儀",
+		"tr_text": ""
+	},
+	{
+		"assign": "70642",
+		"jp_text": "無の心……？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70643",
+		"jp_text": "新たな士道を解したり！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70644",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70645",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70646",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70647",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70648",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70649",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70650",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70651",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70652",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70653",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70654",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70655",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70656",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70657",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70658",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70659",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70660",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70661",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70662",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70663",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70664",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70665",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70666",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70667",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70668",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70669",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70670",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70671",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70672",
+		"jp_text": "メイド修行、始まる",
+		"tr_text": ""
+	},
+	{
+		"assign": "70673",
+		"jp_text": "究極の茶葉を求めて",
+		"tr_text": ""
+	},
+	{
+		"assign": "70674",
+		"jp_text": "なによりも大事な仕事",
+		"tr_text": ""
+	},
+	{
+		"assign": "70675",
+		"jp_text": "メイド隊、参る",
+		"tr_text": ""
+	},
+	{
+		"assign": "70676",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70677",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70678",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70679",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70680",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70681",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70682",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70683",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70684",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70685",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70686",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70687",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70688",
+		"jp_text": "期待のルーキー……？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70689",
+		"jp_text": "筋肉が解決してくれる……？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70690",
+		"jp_text": "自分に足りないものは……？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70691",
+		"jp_text": "導き出された答え……！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70692",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70693",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70694",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70695",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70696",
+		"jp_text": "戦場の女帝！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70697",
+		"jp_text": "戦場で輝け！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70698",
+		"jp_text": "素敵な光景！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70699",
+		"jp_text": "感謝の気持ち！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70700",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70701",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70702",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70703",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70704",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70705",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70706",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70707",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70708",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70709",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70710",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70711",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70712",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70713",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70714",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70715",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70716",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70717",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70718",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70719",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70720",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70721",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70722",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70723",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70724",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70725",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70726",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70727",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70728",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70729",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70730",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70731",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70732",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70733",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70734",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70735",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70736",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70737",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70738",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70739",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70740",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70741",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70742",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70743",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70744",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70745",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70746",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70747",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70748",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70749",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70750",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70751",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70752",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70753",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70754",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70755",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70756",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70757",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70758",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70759",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70760",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70761",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70762",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70763",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70764",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70765",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70766",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70767",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70768",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70769",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70770",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70771",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70772",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70773",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70774",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70775",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70776",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70777",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70778",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70779",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70780",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70781",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70782",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70783",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70784",
+		"jp_text": "冷たい邂逅",
+		"tr_text": ""
+	},
+	{
+		"assign": "70785",
+		"jp_text": "哀しみの黒衣",
+		"tr_text": ""
+	},
+	{
+		"assign": "70786",
+		"jp_text": "愛への恐れ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70787",
+		"jp_text": "未来へ進む決意",
+		"tr_text": ""
+	},
+	{
+		"assign": "70788",
+		"jp_text": "先輩登場",
+		"tr_text": ""
+	},
+	{
+		"assign": "70789",
+		"jp_text": "優秀な後輩",
+		"tr_text": ""
+	},
+	{
+		"assign": "70790",
+		"jp_text": "先輩と後輩",
+		"tr_text": ""
+	},
+	{
+		"assign": "70791",
+		"jp_text": "後輩と一緒",
+		"tr_text": ""
+	},
+	{
+		"assign": "70792",
+		"jp_text": "クリスタルのウェポノイド",
+		"tr_text": "Weaponoid of Crystal"
+	},
+	{
+		"assign": "70793",
+		"jp_text": "その身体はぬくもりを知らず",
+		"tr_text": ""
+	},
+	{
+		"assign": "70794",
+		"jp_text": "冷たい身体に灯るのは",
+		"tr_text": ""
+	},
+	{
+		"assign": "70795",
+		"jp_text": "武器が砕けるとき",
+		"tr_text": ""
+	},
+	{
+		"assign": "70796",
+		"jp_text": "レイニールの練習部屋探し",
+		"tr_text": ""
+	},
+	{
+		"assign": "70797",
+		"jp_text": "拾う神あれば捨てる神あり",
+		"tr_text": ""
+	},
+	{
+		"assign": "70798",
+		"jp_text": "一難去らず",
+		"tr_text": ""
+	},
+	{
+		"assign": "70799",
+		"jp_text": "ウォパルの夕日",
+		"tr_text": ""
+	},
+	{
+		"assign": "70800",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70801",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70802",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70803",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70804",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70805",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70806",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70807",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70808",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70809",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70810",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70811",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70812",
+		"jp_text": "お金が必要？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70813",
+		"jp_text": "ガイルズの方法",
+		"tr_text": ""
+	},
+	{
+		"assign": "70814",
+		"jp_text": "ガイルズの謎を追え！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70815",
+		"jp_text": "明かされる計画",
+		"tr_text": ""
+	},
+	{
+		"assign": "70816",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70817",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70818",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70819",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70820",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70821",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70822",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70823",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70824",
+		"jp_text": "アイドル誕生！？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70825",
+		"jp_text": "踊れ！　アイドル！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70826",
+		"jp_text": "歌え！　アイドル！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70827",
+		"jp_text": "新たなる夢！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70828",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70829",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70830",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70831",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70832",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70833",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70834",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70835",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70836",
+		"jp_text": "愛の戦士、参上！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70837",
+		"jp_text": "愛のためなら",
+		"tr_text": ""
+	},
+	{
+		"assign": "70838",
+		"jp_text": "わたしの愛は",
+		"tr_text": ""
+	},
+	{
+		"assign": "70839",
+		"jp_text": "愛に生きるアイドル",
+		"tr_text": ""
+	},
+	{
+		"assign": "70840",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70841",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70842",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70843",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70844",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70845",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70846",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70847",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70848",
+		"jp_text": "お手合わせ願います！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70849",
+		"jp_text": "武の道を極めたい！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70850",
+		"jp_text": "くらくら・ドキドキ？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70851",
+		"jp_text": "向き合ってわかること",
+		"tr_text": ""
+	},
+	{
+		"assign": "70852",
+		"jp_text": "あの空に憧れて",
+		"tr_text": ""
+	},
+	{
+		"assign": "70853",
+		"jp_text": "夢を叶えるために",
+		"tr_text": ""
+	},
+	{
+		"assign": "70854",
+		"jp_text": "折れた翼",
+		"tr_text": ""
+	},
+	{
+		"assign": "70855",
+		"jp_text": "ドリーム・カム・トゥルー",
+		"tr_text": ""
+	},
+	{
+		"assign": "70856",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70857",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70858",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70859",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70860",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70861",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70862",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70863",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70864",
+		"jp_text": "一振りの槍",
+		"tr_text": ""
+	},
+	{
+		"assign": "70865",
+		"jp_text": "ぶれない穂先",
+		"tr_text": ""
+	},
+	{
+		"assign": "70866",
+		"jp_text": "主命を果たすまで",
+		"tr_text": ""
+	},
+	{
+		"assign": "70867",
+		"jp_text": "槍としての信念",
+		"tr_text": ""
+	},
+	{
+		"assign": "70868",
+		"jp_text": "浄化の剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "70869",
+		"jp_text": "心と邪念",
+		"tr_text": ""
+	},
+	{
+		"assign": "70870",
+		"jp_text": "仲間を思う心",
+		"tr_text": ""
+	},
+	{
+		"assign": "70871",
+		"jp_text": "愛という欲",
+		"tr_text": ""
+	},
+	{
+		"assign": "70872",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70873",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70874",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70875",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70876",
+		"jp_text": "信じられない相手",
+		"tr_text": ""
+	},
+	{
+		"assign": "70877",
+		"jp_text": "取引",
+		"tr_text": ""
+	},
+	{
+		"assign": "70878",
+		"jp_text": "倒すべきもの",
+		"tr_text": ""
+	},
+	{
+		"assign": "70879",
+		"jp_text": "信じられる者たちと",
+		"tr_text": ""
+	},
+	{
+		"assign": "70880",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70881",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70882",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70883",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70884",
+		"jp_text": "暴走する憎悪",
+		"tr_text": ""
+	},
+	{
+		"assign": "70885",
+		"jp_text": "無差別の殺意",
+		"tr_text": ""
+	},
+	{
+		"assign": "70886",
+		"jp_text": "心の底にあるもの",
+		"tr_text": ""
+	},
+	{
+		"assign": "70887",
+		"jp_text": "本当の意味",
+		"tr_text": ""
+	},
+	{
+		"assign": "70888",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70889",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70890",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70891",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70892",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70893",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70894",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70895",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70896",
+		"jp_text": "再び与えられた命",
+		"tr_text": ""
+	},
+	{
+		"assign": "70897",
+		"jp_text": "封じた想い",
+		"tr_text": ""
+	},
+	{
+		"assign": "70898",
+		"jp_text": "知られてはいけない秘密",
+		"tr_text": ""
+	},
+	{
+		"assign": "70899",
+		"jp_text": "運命を受け入れて",
+		"tr_text": ""
+	},
+	{
+		"assign": "70900",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70901",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70902",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70903",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70904",
+		"jp_text": "光、最強！？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70905",
+		"jp_text": "最強の証明！？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70906",
+		"jp_text": "最強の法術は！？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70907",
+		"jp_text": "最終決着！？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70908",
+		"jp_text": "食の伝道師、ここに現る！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70909",
+		"jp_text": "いざ行かん！　食の秘境へ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70910",
+		"jp_text": "誰も見たことのないレストラン",
+		"tr_text": ""
+	},
+	{
+		"assign": "70911",
+		"jp_text": "世界でひとつの料理",
+		"tr_text": ""
+	},
+	{
+		"assign": "70912",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70913",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70914",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70915",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70916",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70917",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70918",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70919",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70920",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70921",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70922",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70923",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70924",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70925",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70926",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70927",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70928",
+		"jp_text": "天使と悪魔のあいだ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70929",
+		"jp_text": "まんなかのカオス",
+		"tr_text": ""
+	},
+	{
+		"assign": "70930",
+		"jp_text": "３人ぼっち",
+		"tr_text": ""
+	},
+	{
+		"assign": "70931",
+		"jp_text": "わたしたちの願いは",
+		"tr_text": ""
+	},
+	{
+		"assign": "70932",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70933",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70934",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70935",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70936",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70937",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70938",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70939",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70940",
+		"jp_text": "愛しき惑星",
+		"tr_text": ""
+	},
+	{
+		"assign": "70941",
+		"jp_text": "ヒトの過ち",
+		"tr_text": ""
+	},
+	{
+		"assign": "70942",
+		"jp_text": "せめて救いを",
+		"tr_text": ""
+	},
+	{
+		"assign": "70943",
+		"jp_text": "交わらない道",
+		"tr_text": ""
+	},
+	{
+		"assign": "70944",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70945",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70946",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70947",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70948",
+		"jp_text": "海からの使者！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70949",
+		"jp_text": "マグロ、その生態と習性",
+		"tr_text": ""
+	},
+	{
+		"assign": "70950",
+		"jp_text": "マグロ戦士の試練",
+		"tr_text": ""
+	},
+	{
+		"assign": "70951",
+		"jp_text": "そして伝説へ……！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70952",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70953",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70954",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70955",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70956",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70957",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70958",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70959",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70960",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70961",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70962",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70963",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70964",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70965",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70966",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70967",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70968",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70969",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70970",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70971",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70972",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70973",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70974",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70975",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70976",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70977",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70978",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70979",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70980",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70981",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70982",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70983",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70984",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70985",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70986",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70987",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70988",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70989",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70990",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70991",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70992",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70993",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70994",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70995",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70996",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70997",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70998",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70999",
 		"jp_text": "-",
 		"tr_text": ""
 	},
@@ -3671,37 +7171,37 @@
 	},
 	{
 		"assign": "71018",
-		"jp_text": "－",
+		"jp_text": "笑顔",
 		"tr_text": ""
 	},
 	{
 		"assign": "71019",
-		"jp_text": "－",
+		"jp_text": "その存在",
 		"tr_text": ""
 	},
 	{
 		"assign": "71020",
-		"jp_text": "－",
+		"jp_text": "それぞれの、心の空白",
 		"tr_text": ""
 	},
 	{
 		"assign": "71021",
-		"jp_text": "－",
+		"jp_text": "でゅなのなかま",
 		"tr_text": ""
 	},
 	{
 		"assign": "71022",
-		"jp_text": "－",
+		"jp_text": "みんな　なかよし",
 		"tr_text": ""
 	},
 	{
 		"assign": "71023",
-		"jp_text": "－",
+		"jp_text": "ともだち",
 		"tr_text": ""
 	},
 	{
 		"assign": "71024",
-		"jp_text": "－",
+		"jp_text": "みんながいる",
 		"tr_text": ""
 	},
 	{
@@ -3766,42 +7266,822 @@
 	},
 	{
 		"assign": "71037",
-		"jp_text": "－",
+		"jp_text": "勘違いの始まり",
 		"tr_text": ""
 	},
 	{
 		"assign": "71038",
-		"jp_text": "－",
+		"jp_text": "バトル・オア・トリート？",
 		"tr_text": ""
 	},
 	{
 		"assign": "71039",
-		"jp_text": "－",
+		"jp_text": "龍族とハロウィン！？",
 		"tr_text": ""
 	},
 	{
 		"assign": "71040",
-		"jp_text": "－",
+		"jp_text": "お祭りの邪魔は、許さない！",
 		"tr_text": ""
 	},
 	{
 		"assign": "71041",
-		"jp_text": "－",
+		"jp_text": "新年、レア掘り大会！",
 		"tr_text": ""
 	},
 	{
 		"assign": "71042",
-		"jp_text": "－",
+		"jp_text": "地下坑道は大賑わい！",
 		"tr_text": ""
 	},
 	{
 		"assign": "71043",
-		"jp_text": "－",
+		"jp_text": "横取りにご注意を！",
 		"tr_text": ""
 	},
 	{
 		"assign": "71044",
-		"jp_text": "－",
+		"jp_text": "新しい光",
+		"tr_text": ""
+	},
+	{
+		"assign": "71045",
+		"jp_text": "バレンタインは、恋より修行！",
+		"tr_text": ""
+	},
+	{
+		"assign": "71046",
+		"jp_text": "だって、気になるの！",
+		"tr_text": ""
+	},
+	{
+		"assign": "71047",
+		"jp_text": "どうして、上手くいかないの？",
+		"tr_text": ""
+	},
+	{
+		"assign": "71048",
+		"jp_text": "苦くて甘い、勇気の一矢！",
+		"tr_text": ""
+	},
+	{
+		"assign": "71049",
+		"jp_text": "謎の白スーツ？",
+		"tr_text": ""
+	},
+	{
+		"assign": "71050",
+		"jp_text": "お返しなんざ……",
+		"tr_text": ""
+	},
+	{
+		"assign": "71051",
+		"jp_text": "放っておけない",
+		"tr_text": ""
+	},
+	{
+		"assign": "71052",
+		"jp_text": "俺様の本気の用事",
+		"tr_text": ""
+	},
+	{
+		"assign": "71053",
+		"jp_text": "素晴らしいっ！",
+		"tr_text": ""
+	},
+	{
+		"assign": "71054",
+		"jp_text": "いつもヒトリ",
+		"tr_text": ""
+	},
+	{
+		"assign": "71055",
+		"jp_text": "これまでのボク",
+		"tr_text": "My Past"
+	},
+	{
+		"assign": "71056",
+		"jp_text": "これからのボク ",
+		"tr_text": "My Future"
+	},
+	{
+		"assign": "71057",
+		"jp_text": "花嫁修業……？",
+		"tr_text": ""
+	},
+	{
+		"assign": "71058",
+		"jp_text": "好きってどういうこと？",
+		"tr_text": ""
+	},
+	{
+		"assign": "71059",
+		"jp_text": "わたしの大切なヒト",
+		"tr_text": ""
+	},
+	{
+		"assign": "71060",
+		"jp_text": "ふたりだけの結婚式",
+		"tr_text": ""
+	},
+	{
+		"assign": "71061",
+		"jp_text": "祭りの手伝いだァ！？",
+		"tr_text": ""
+	},
+	{
+		"assign": "71062",
+		"jp_text": "明るい場所、ダリィし",
+		"tr_text": ""
+	},
+	{
+		"assign": "71063",
+		"jp_text": "接客なんて無理",
+		"tr_text": ""
+	},
+	{
+		"assign": "71064",
+		"jp_text": "フヒッ……初祭りだぜ！",
+		"tr_text": ""
+	},
+	{
+		"assign": "71065",
+		"jp_text": "新任務・全力で遊ぶ",
+		"tr_text": ""
+	},
+	{
+		"assign": "71066",
+		"jp_text": "デストロイヤーの全力と弱点",
+		"tr_text": ""
+	},
+	{
+		"assign": "71067",
+		"jp_text": "「楽しい」を知る",
+		"tr_text": ""
+	},
+	{
+		"assign": "71068",
+		"jp_text": "これからもご命令を",
+		"tr_text": ""
+	},
+	{
+		"assign": "71069",
+		"jp_text": "月に想う",
+		"tr_text": ""
+	},
+	{
+		"assign": "71070",
+		"jp_text": "すれ違いと、和解",
+		"tr_text": ""
+	},
+	{
+		"assign": "71071",
+		"jp_text": "悩み事相談室？",
+		"tr_text": ""
+	},
+	{
+		"assign": "71072",
+		"jp_text": "月に誓おう",
+		"tr_text": ""
+	},
+	{
+		"assign": "71073",
+		"jp_text": "ハロウィンの４大悪魔を探せ",
+		"tr_text": ""
+	},
+	{
+		"assign": "71074",
+		"jp_text": "悪魔と走れ！？",
+		"tr_text": ""
+	},
+	{
+		"assign": "71075",
+		"jp_text": "悪魔と戦え！？",
+		"tr_text": ""
+	},
+	{
+		"assign": "71076",
+		"jp_text": "悪魔と踊れ！",
+		"tr_text": ""
+	},
+	{
+		"assign": "71077",
+		"jp_text": "暑いね！　ウォパル",
+		"tr_text": "It's Hot! Wopal"
+	},
+	{
+		"assign": "71078",
+		"jp_text": "ハルコタンでお話したこと",
+		"tr_text": ""
+	},
+	{
+		"assign": "71079",
+		"jp_text": "きらめくアークスシップ",
+		"tr_text": ""
+	},
+	{
+		"assign": "71080",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71081",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71082",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71083",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71084",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71085",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71086",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71087",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71088",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71089",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71090",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71091",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71092",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71093",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71094",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71095",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71096",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71097",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71098",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71099",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71100",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71101",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71102",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71103",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71104",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71105",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71106",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71107",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71108",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71109",
+		"jp_text": "真夏の太陽の下で",
+		"tr_text": ""
+	},
+	{
+		"assign": "71110",
+		"jp_text": "憧れの背中",
+		"tr_text": ""
+	},
+	{
+		"assign": "71111",
+		"jp_text": "気になる言葉",
+		"tr_text": ""
+	},
+	{
+		"assign": "71112",
+		"jp_text": "あなたとつなぐ手",
+		"tr_text": ""
+	},
+	{
+		"assign": "71113",
+		"jp_text": "たまにはゆったりと",
+		"tr_text": ""
+	},
+	{
+		"assign": "71114",
+		"jp_text": "油断大敵ですよ？",
+		"tr_text": ""
+	},
+	{
+		"assign": "71115",
+		"jp_text": "素直には言えない",
+		"tr_text": ""
+	},
+	{
+		"assign": "71116",
+		"jp_text": "私の大切な……",
+		"tr_text": ""
+	},
+	{
+		"assign": "71117",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71118",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71119",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71120",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71121",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71122",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71123",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71124",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71125",
+		"jp_text": "出会い・差しのべられた手",
+		"tr_text": ""
+	},
+	{
+		"assign": "71126",
+		"jp_text": "優しさ・されど求めるは、刃",
+		"tr_text": ""
+	},
+	{
+		"assign": "71127",
+		"jp_text": "選択・その道に慈悲と許しを",
+		"tr_text": ""
+	},
+	{
+		"assign": "71128",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71129",
+		"jp_text": "サンタクロース登場！",
+		"tr_text": ""
+	},
+	{
+		"assign": "71130",
+		"jp_text": "サンタの助手たち",
+		"tr_text": ""
+	},
+	{
+		"assign": "71131",
+		"jp_text": "サンタはイタズラがお好き",
+		"tr_text": ""
+	},
+	{
+		"assign": "71132",
+		"jp_text": "サンタとメリクリ！",
+		"tr_text": ""
+	},
+	{
+		"assign": "71133",
+		"jp_text": "新年のお参り",
+		"tr_text": ""
+	},
+	{
+		"assign": "71134",
+		"jp_text": "今年もレア掘り大会！",
+		"tr_text": ""
+	},
+	{
+		"assign": "71135",
+		"jp_text": "縁起のいいお宝",
+		"tr_text": ""
+	},
+	{
+		"assign": "71136",
+		"jp_text": "初セリだよ、全員集合！",
+		"tr_text": ""
+	},
+	{
+		"assign": "71137",
+		"jp_text": "不可解なバレンタイン",
+		"tr_text": ""
+	},
+	{
+		"assign": "71138",
+		"jp_text": "義理チョコ友チョコ",
+		"tr_text": ""
+	},
+	{
+		"assign": "71139",
+		"jp_text": "乙女の勇気",
+		"tr_text": ""
+	},
+	{
+		"assign": "71140",
+		"jp_text": "バレンタインという日",
+		"tr_text": ""
+	},
+	{
+		"assign": "71141",
+		"jp_text": "スーツと花束と",
+		"tr_text": ""
+	},
+	{
+		"assign": "71142",
+		"jp_text": "イベントの楽しみ方",
+		"tr_text": ""
+	},
+	{
+		"assign": "71143",
+		"jp_text": "ブルーノの意外な趣味",
+		"tr_text": ""
+	},
+	{
+		"assign": "71144",
+		"jp_text": "ふたりだけの秘密",
+		"tr_text": ""
+	},
+	{
+		"assign": "71145",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71146",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71147",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71148",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71149",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71150",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71151",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71152",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71153",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71154",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71155",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71156",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71157",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71158",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71159",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71160",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71161",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71162",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71163",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71164",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71165",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71166",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71167",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71168",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71169",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71170",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71171",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71172",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71173",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71174",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71175",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71176",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71177",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71178",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71179",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71180",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71181",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71182",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71183",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71184",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71185",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71186",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71187",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71188",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71189",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71190",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71191",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71192",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71193",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71194",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71195",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71196",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71197",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71198",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71199",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71200",
+		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
@@ -3851,32 +8131,42 @@
 	},
 	{
 		"assign": "49001",
-		"jp_text": "-",
+		"jp_text": "汎用テストエリア１",
 		"tr_text": ""
 	},
 	{
 		"assign": "49002",
-		"jp_text": "-",
+		"jp_text": "汎用テストエリア２",
 		"tr_text": ""
 	},
 	{
 		"assign": "49003",
-		"jp_text": "-",
+		"jp_text": "バトルテスト１",
 		"tr_text": ""
 	},
 	{
 		"assign": "49101",
-		"jp_text": "-",
+		"jp_text": "亜種ボステストエリア１",
 		"tr_text": ""
 	},
 	{
 		"assign": "49102",
-		"jp_text": "-",
+		"jp_text": "亜種ボステストエリア２",
 		"tr_text": ""
 	},
 	{
 		"assign": "49201",
-		"jp_text": "-",
+		"jp_text": "エネミーテストエリア１",
+		"tr_text": ""
+	},
+	{
+		"assign": "49202",
+		"jp_text": "エネミーテストエリア２",
+		"tr_text": ""
+	},
+	{
+		"assign": "49203",
+		"jp_text": "エネミーテストエリア３",
 		"tr_text": ""
 	}
 ]

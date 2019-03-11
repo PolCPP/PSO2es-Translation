@@ -1,16 +1,22 @@
 language: python
-
-dist: trusty
-sudo: false
-group: beta
-
+python: 3.7
+dist: xenial
 addons:
-  apt:
-    packages:
-    - python-simplejson
-    - python3-simplejson
+    apt:
+      update: true
 
 script:
-  - /usr/bin/python3 checkjson.py && ./coverage.sh
-  - ./tidy-json.sh && git diff --exit-code
-  - /usr/bin/python3 dupcheck.py
+  - ./_py/checkjson.py && ./_sh/coverage.sh
+  - ./_py/tidy-json.py && git diff --exit-code
+  - ./_py/dupcheck.py
+  - ./_py/dupassign.py
+  - ./_py/DiceLen.py
+  - ./_py/ItemLen.py
+  - ./_py/ItemDescLen.py
+  - ./_py/StoryBTNFont.py
+  - ./_py/StoryFont.py
+  - ./_py/ChipFont.py
+  - ./_py/ChipDescShort.py
+  - ./_py/ChipDescLong.py
+  - ./_py/DiceFont.py
+  - ./_py/ItemFont.py

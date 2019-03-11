@@ -2,30 +2,30 @@
 	{
 		"assign": "32101",
 		"jp_text": "エステ利用パス",
-		"tr_text": "Makeover Pass",
+		"tr_text": "Salon Ticket",
 		"jp_explain": "エステカウンターの機能利用パス。\nサポートパートナーにも使用可能。\n利用するたびにパスは消費される。 ",
-		"tr_explain": "Allows you to use AC restricted\noptions in the Makeover Shop. Ticket is\nused after saving changes."
+		"tr_explain": "Allows you to use AC restricted\noptions in the Beauty Salon. Ticket is\nused after saving changes."
 	},
 	{
 		"assign": "32103",
 		"jp_text": "カラーチェンジパス",
 		"tr_text": "Color Change Pass",
 		"jp_explain": "コスチュームのカラー変更パス\nエステにてカラーリングの変更が可能。\n利用するたびにパスは消費される。",
-		"tr_explain": "Allows you to recolor your\ncharacter from the Makeover Shop."
+		"tr_explain": "Allows you to recolor your\ncharacter from the Beauty Salon."
 	},
 	{
 		"assign": "32104",
 		"jp_text": "スキルツリー追加パス",
 		"tr_text": "Add. Skill Tree Pass",
 		"jp_explain": "クラスカウンターで使われるパス。\n新規のスキルツリーを１枚追加できる。\n１キャラクター２０枚まで拡張可能。",
-		"tr_explain": "Adds an additional Skill Tree\nto a selected class, up to\n20 trees from a single class."
+		"tr_explain": "Adds an additional Skill Tree\nto a selected class, up to\n20 trees on a single class."
 	},
 	{
 		"assign": "32105",
 		"jp_text": "追加ツリー振り替えパス",
 		"tr_text": "Skill Tree Transfer Pass",
 		"jp_explain": "クラスカウンターで使われるパス。\n「スキルツリー追加パス」で追加した\nツリーを初期化しSPを振り直せる。",
-		"tr_explain": ""
+		"tr_explain": "Allows you to reassign one Skill Tree\nadded with an \"Add. Skill Tree\nPass\". resetting its distributed SP."
 	},
 	{
 		"assign": "32106",
@@ -158,35 +158,35 @@
 		"jp_text": "特殊能力追加（打撃）",
 		"tr_text": "Add Ability Power Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Power Boost\"\nwhen used in Special Ability Synthesis."
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Power Boost\"\nwhen used in Special Ability\nSynthesis."
 	},
 	{
 		"assign": "321025",
 		"jp_text": "特殊能力追加（射撃）",
 		"tr_text": "Add Ability Shoot Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Shooting Boost\"\nwhen used in Special Ability Synthesis."
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Shooting Boost\"\nwhen used in Special Ability\nSynthesis."
 	},
 	{
 		"assign": "321026",
 		"jp_text": "特殊能力追加（法撃）",
 		"tr_text": "Add Ability Tech Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Technique Boost\"\nwhen used in Special Ability Synthesis."
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Technique Boost\"\nwhen used in Special Ability\nSynthesis."
 	},
 	{
 		"assign": "321027",
 		"jp_text": "特殊能力追加（ＨＰ）",
 		"tr_text": "Add Ability Stamina Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Stamina Boost\"\nwhen used in Special Ability Synthesis."
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Stamina Boost\"\nwhen used in Special Ability\nSynthesis."
 	},
 	{
 		"assign": "321028",
 		"jp_text": "特殊能力追加（ＰＰ）",
 		"tr_text": "Add Ability Spirita Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＰＰ】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Spirita Boost\"\nwhen used in Special Ability Synthesis."
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Spirita Boost\"\nwhen used in Special Ability\nSynthesis."
 	},
 	{
 		"assign": "321030",
@@ -247,9 +247,9 @@
 	{
 		"assign": "321047",
 		"jp_text": "強化成功（１００％）",
-		"tr_text": "Grind Success +100%",
+		"tr_text": "Grind Success (100%)",
 		"jp_explain": "旧式武器、防具、キャンディー用の\n強化補助素材。強化時に使用することで\n確実に成功させる。",
-		"tr_explain": "Increase the success rate\nby 100% when grinding equipment."
+		"tr_explain": "Support item for grinding equipment.\nGuarantees that one grind will be\nsuccessful."
 	},
 	{
 		"assign": "321048",
@@ -273,6 +273,13 @@
 		"tr_explain": "Used when adding Special Abilities\non your equipment.\nBoosts success rate by 40%"
 	},
 	{
+		"assign": "321055",
+		"jp_text": "能力追加成功率＋５０％",
+		"tr_text": "Ability Success Rate +50%",
+		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を５０％上昇させる。",
+		"tr_explain": "Used when adding Special Abilities\non your equipment.\nBoosts success rate by 50%"
+	},
+	{
 		"assign": "321056",
 		"jp_text": "能力追加成功（１００％）",
 		"tr_text": "Ability Success Rate +100%",
@@ -282,14 +289,14 @@
 	{
 		"assign": "321057",
 		"jp_text": "パートナー追加パス",
-		"tr_text": "Add. Support Partners Ticket",
+		"tr_text": "Add. Support Partner Ticket",
 		"jp_explain": "サポートパートナーの追加使用パス。\n新規のサポートパートナーを１体追加。\n１キャラクター２枚まで拡張可能。",
 		"tr_explain": "Adds an additional Support Partner.\nUp to a maximum of 2\nadditional support partners."
 	},
 	{
 		"assign": "321058",
 		"jp_text": "パートナーリセットパス",
-		"tr_text": "Reset Partners Pass",
+		"tr_text": "Reset Partner Pass",
 		"jp_explain": "サポートパートナーのリメイクパス。\nサポートパートナーの状態をリセットし\nキャラクタークリエイトからやり直す。",
 		"tr_explain": "Allows you to reset and\nremake your Support Partner."
 	},
@@ -326,7 +333,7 @@
 		"jp_text": "リリパリウム（極大）",
 		"tr_text": "Lilliparium (Max)",
 		"jp_explain": "選択したクラフトエネルギーを\n１２時間回復させる。",
-		"tr_explain": "Reduces the cooldown of a single craft\nline by 12 hours."
+		"tr_explain": "Reduces the cooldown of a single\ncraft line by 12 hours."
 	},
 	{
 		"assign": "321067",
@@ -492,9 +499,9 @@
 	{
 		"assign": "321096",
 		"jp_text": "エステ無料パス",
-		"tr_text": "Free Makeover Pass",
+		"tr_text": "Free Salon Ticket",
 		"jp_explain": "エステカウンターの機能利用パス。\nサポートパートナーにも使用可能。\n利用するたびにパスは消費される。",
-		"tr_explain": "Allows you to use AC restricted\noptions in the Makeover Shop. Ticket is\nused after saving changes."
+		"tr_explain": "Allows you to use AC restricted\noptions in the Beauty Salon. Ticket is\nused after saving changes."
 	},
 	{
 		"assign": "321097",
@@ -543,28 +550,28 @@
 		"jp_text": "特殊能力追加（打撃＆ＰＰ）",
 		"tr_text": "Add Ability (Strike&PP)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃＆ＰＰ】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Noble Power\"\nwhen used in Special Ability Synthesis."
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Noble Power\"\nwhen used in Special Ability\nSynthesis."
 	},
 	{
 		"assign": "3210116",
 		"jp_text": "特殊能力追加（射撃＆ＰＰ）",
-		"tr_text": "Add Ability (Shot&PP)",
+		"tr_text": "Add Ability (Shoot&PP)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃＆ＰＰ】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Noble Shoot\"\nwhen used in Special Ability Synthesis."
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Noble Shot\" when\nused in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210117",
 		"jp_text": "特殊能力追加（法撃＆ＰＰ）",
 		"tr_text": "Add Ability (Tech&PP)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃＆ＰＰ】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Noble Technique\"\nwhen used in Special Ability Synthesis."
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Noble Technique\"\nwhen used in Special Ability\nSynthesis."
 	},
 	{
 		"assign": "3210118",
 		"jp_text": "特殊能力追加（ＨＰ＆ＰＰ）",
 		"tr_text": "Add Ability (Stamina&PP)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ＆ＰＰ】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Noble Stamina\"\nwhen used in Special Ability Synthesis."
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Noble Stamina\"\nwhen used in Special Ability\nSynthesis."
 	},
 	{
 		"assign": "3210119",
@@ -611,7 +618,7 @@
 	{
 		"assign": "3210129",
 		"jp_text": "オーナー登録解除パス",
-		"tr_text": "Owner Registration Cancel Pass",
+		"tr_text": "Owner Cancel Pass",
 		"jp_explain": "オーナー登録の解除申請パス。\nアイテムラボにて★１２以下の\nオーナー登録を解除する際に使用する。",
 		"tr_explain": "Removes the account bindings of\nequipment rarity 12★ or below.\nDoes not work on 13★ or higher."
 	},
@@ -620,7 +627,7 @@
 		"jp_text": "リリパリウムオール（極大）",
 		"tr_text": "Lilliparium All (Max)",
 		"jp_explain": "現在所持している全ての\nクラフトエネルギーを\n１２時間回復させる。",
-		"tr_explain": "Reduces the cooldown of all craft lines\nby 12 hours."
+		"tr_explain": "Reduces the cooldown of all craft\nlines by 12 hours."
 	},
 	{
 		"assign": "3210136",
@@ -632,7 +639,7 @@
 	{
 		"assign": "3210139",
 		"jp_text": "クラス追加（サモナー）",
-		"tr_text": "Add Class(Summoner)",
+		"tr_text": "Add Class (Summoner)",
 		"jp_explain": "武装エクステンド実行時に\nサモナーのクラス追加が\n必ず発生するようになる。",
 		"tr_explain": "Adds the class \"Summoner\"\nto equipment when extended."
 	},
@@ -749,6 +756,13 @@
 		"tr_explain": "A tool for Harvesting.\nRare Collect Rate +5%"
 	},
 	{
+		"assign": "3210156",
+		"jp_text": "電撃ピッケル",
+		"tr_text": "Dengeki Pickaxe",
+		"jp_explain": "ギャザリングで\nボーナス付き採取を行える。\nレア採取発生率＋８０％\n<yellow>有効期限／２０１７年１２月６日１１時００分<c>",
+		"tr_explain": "A tool for Harvesting.\nRare Collect Rate +80%\n<yellow>Expires Dec 6, 11:00 JST<c>"
+	},
+	{
 		"assign": "3210157",
 		"jp_text": "ファミ通ピッケル",
 		"tr_text": "Famitsu Pickaxe",
@@ -768,6 +782,13 @@
 		"tr_text": "Good Fishing Rod",
 		"jp_explain": "ギャザリングで釣りを行える。\nレア釣り発生率＋５％",
 		"tr_explain": "A tool for Fishing.\nRare Fishing Rate +5%"
+	},
+	{
+		"assign": "3210160",
+		"jp_text": "電撃釣り竿",
+		"tr_text": "Dengeki Fishing Rod",
+		"jp_explain": "ギャザリングで\nボーナス付き釣りを行える。\nレア釣り発生率＋８０％\n<yellow>有効期限／２０１７年１２月６日１１時００分<c>",
+		"tr_explain": "A tool for Fishing.\nRare Fishing Rate +80%\n<yellow>Expires Dec 6, 11:00 JST<c>"
 	},
 	{
 		"assign": "3210161",
@@ -1047,35 +1068,35 @@
 		"jp_text": "特殊能力追加（攻撃総合）",
 		"tr_text": "Add Ability (Attack Fusion)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【攻撃総合】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Offensive Boost\"\nwhen used in Special Ability Synthesis."
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Offensive Boost\"\nwhen used in Special Ability\nSynthesis."
 	},
 	{
 		"assign": "3210206",
 		"jp_text": "特殊能力追加（防御総合）",
 		"tr_text": "Add Ability (Def. Fusion)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【防御総合】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Defense Boost\"\nwhen used in Special Ability Synthesis."
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Defense Boost\"\nwhen used in Special Ability\nSynthesis."
 	},
 	{
 		"assign": "3210207",
 		"jp_text": "特殊能力追加（攻撃継承）",
 		"tr_text": "Add Ability (Attack Transfer)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【攻撃継承】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Attack Receptor\"\nwhen used in Special Ability Synthesis."
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Attack Receptor\"\nwhen used in Special Ability\nSynthesis."
 	},
 	{
 		"assign": "3210208",
 		"jp_text": "特殊能力追加（防御継承）",
 		"tr_text": "Add Ability (Def. Transfer)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【防御継承】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Defense Receptor\"\nwhen used in Special Ability Synthesis."
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Guard Receptor\"\nwhen used in Special Ability\nSynthesis."
 	},
 	{
 		"assign": "3210209",
 		"jp_text": "特殊能力追加（心身継承）",
 		"tr_text": "Add Ability (Mind&Body)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【心身継承】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Photon Receptor\"\nwhen used in Special Ability Synthesis."
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Photon Receptor\"\nwhen used in Special Ability\nSynthesis."
 	},
 	{
 		"assign": "3210210",
@@ -1152,49 +1173,49 @@
 		"jp_text": "特殊能力追加（ＧＲＭ）",
 		"tr_text": "Add Ability (GRM)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＧＲＭ】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"GRM Boost\"\nwhen used in Special Ability Synthesis."
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"GRM Boost\" when\nused in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210221",
 		"jp_text": "特殊能力追加（テノラ）",
 		"tr_text": "Add Ability (Tenora)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【テノラ】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Tenora Boost\"\nwhen used in Special Ability Synthesis."
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Tenora Boost\"\nwhen used in Special Ability\nSynthesis."
 	},
 	{
 		"assign": "3210222",
 		"jp_text": "特殊能力追加（ヨウメイ）",
 		"tr_text": "Add Ability (Yohmei)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ヨウメイ】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Yohmei Boost\"\nwhen used in Special Ability Synthesis."
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Yohmei Boost\"\nwhen used in Special Ability\nSynthesis."
 	},
 	{
 		"assign": "3210223",
 		"jp_text": "特殊能力（打撃＆ＰＰ/２）",
-		"tr_text": "Add Ability (Strike＆PP/2)",
+		"tr_text": "Add Ability (Strike&PP/2)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃＆ＰＰ/２】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Elegant Power\"\nwhen used in Special Ability Synthesis."
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Elegant Power\"\nwhen used in Special Ability\nSynthesis."
 	},
 	{
 		"assign": "3210224",
 		"jp_text": "特殊能力（射撃＆ＰＰ/２）",
-		"tr_text": "Add Ability (Shot＆PP/2)",
+		"tr_text": "Add Ability (Shoot&PP/2)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃＆ＰＰ/２】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Elegant Shoot\"\nwhen used in Special Ability Synthesis."
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Elegant Shoot\"\nwhen used in Special Ability\nSynthesis."
 	},
 	{
 		"assign": "3210225",
 		"jp_text": "特殊能力（法撃＆ＰＰ/２）",
-		"tr_text": "Add Ability (Tech＆PP/2)",
+		"tr_text": "Add Ability (Tech&PP/2)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃＆ＰＰ/２】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Elegant Technique\"\nwhen used in Special Ability Synthesis."
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Elegant\nTechnique\" when used in Special\nAbility Synthesis."
 	},
 	{
 		"assign": "3210226",
 		"jp_text": "特殊能力（ＨＰ＆ＰＰ/２）",
-		"tr_text": "Add Ability (Stamina＆PP/2)",
+		"tr_text": "Add Ability (Stamina&PP/2)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ＆ＰＰ/２】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Elegant Stamina\"\nwhen used in Special Ability Synthesis."
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Elegant Stamina\"\nwhen used in Special Ability\nSynthesis."
 	},
 	{
 		"assign": "3210227",
@@ -1215,14 +1236,14 @@
 		"jp_text": "クエスト報酬獲得１",
 		"tr_text": "Quest Reward 1",
 		"jp_explain": "追加のクエスト報酬を得られる。",
-		"tr_explain": ""
+		"tr_explain": "Additional quest rewards can be\nobtained."
 	},
 	{
 		"assign": "3210230",
 		"jp_text": "クエスト報酬獲得２",
 		"tr_text": "Quest Reward 2",
 		"jp_explain": "追加のクエスト報酬を得られる。",
-		"tr_explain": ""
+		"tr_explain": "Additional quest rewards can be\nobtained."
 	},
 	{
 		"assign": "3210231",
@@ -1236,14 +1257,14 @@
 		"jp_text": "強化値上限＋１",
 		"tr_text": "Grind Cap +1",
 		"jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, the grind cap\nis boosted by +1."
+		"tr_explain": "Material used on NT Weapons. During\nweapon grinding, the grind cap is\nboosted by +1."
 	},
 	{
 		"assign": "3210233",
 		"jp_text": "強化値上限＋１／大剣",
 		"tr_text": "Grind Cap +1/Sword",
 		"jp_explain": "新世武器用の強化補助素材。\n『大剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Sword grind cap\nis boosted by +1."
+		"tr_explain": "Material used on NT Weapons. During\nweapon grinding, Sword grind cap is\nboosted by +1."
 	},
 	{
 		"assign": "3210234",
@@ -1257,35 +1278,35 @@
 		"jp_text": "強化値上限＋１／長槍",
 		"tr_text": "Grind Cap +1/Partizan",
 		"jp_explain": "新世武器用の強化補助素材。\n『長槍』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Partizan grind\ncap is boosted by +1."
+		"tr_explain": "Material used on NT Weapons. During\nweapon grinding, Partizan grind cap\nis boosted by +1."
 	},
 	{
 		"assign": "3210236",
 		"jp_text": "強化値上限＋１／双小剣",
 		"tr_text": "Grind Cap +1/Twin Dagger",
 		"jp_explain": "新世武器用の強化補助素材。\n『双小剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Twin Dagger\ngrind cap is boosted by +1."
+		"tr_explain": "Material used on NT Weapons. During\nweapon grinding, Twin Dagger grind\ncap is boosted by +1."
 	},
 	{
 		"assign": "3210237",
 		"jp_text": "強化値上限＋１／両剣",
 		"tr_text": "Grind Cap +1/Double Saber",
 		"jp_explain": "新世武器用の強化補助素材。\n『両剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Double Saber\ngrind cap is boosted by +1."
+		"tr_explain": "Material used on NT Weapons. During\nweapon grinding, Double Saber grind\ncap is boosted by +1."
 	},
 	{
 		"assign": "3210238",
 		"jp_text": "強化値上限＋１／鋼拳",
 		"tr_text": "Grind Cap +1/Knuckles",
 		"jp_explain": "新世武器用の強化補助素材。\n『鋼拳』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Knuckles grind\ncap is boosted by +1."
+		"tr_explain": "Material used on NT Weapons. During\nweapon grinding, Knuckles grind cap\nis boosted by +1."
 	},
 	{
 		"assign": "3210239",
 		"jp_text": "強化値上限＋１／銃剣",
 		"tr_text": "Grind Cap +1/Gunslash",
 		"jp_explain": "新世武器用の強化補助素材。\n『銃剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Gunslash grind\ncap is boosted by +1."
+		"tr_explain": "Material used on NT Weapons. During\nweapon grinding, Gunslash grind cap\nis boosted by +1."
 	},
 	{
 		"assign": "3210240",
@@ -1299,14 +1320,14 @@
 		"jp_text": "強化値上限＋１／大砲",
 		"tr_text": "Grind Cap +1/Launcher",
 		"jp_explain": "新世武器用の強化補助素材。\n『大砲』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Launcher grind\ncap is boosted by +1."
+		"tr_explain": "Material used on NT Weapons. During\nweapon grinding, Launcher grind cap\nis boosted by +1."
 	},
 	{
 		"assign": "3210242",
 		"jp_text": "強化値上限＋１／双機銃",
 		"tr_text": "Grind Cap +1/Twin Machinegun",
 		"jp_explain": "新世武器用の強化補助素材。\n『双機銃』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Twin Machinegun\ngrind cap is boosted by +1."
+		"tr_explain": "Material used on NT Weapons. During\nweapon grinding, Twin Machinegun\ngrind cap is boosted by +1."
 	},
 	{
 		"assign": "3210243",
@@ -1365,6 +1386,34 @@
 		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Takt\ngrind cap is boosted by +1"
 	},
 	{
+		"assign": "3210270",
+		"jp_text": "カスタムタイプ１＋６０％",
+		"tr_text": "Custom Type 1 +60%",
+		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ１の効果値を\n６０％向上させる。",
+		"tr_explain": "Used during customization crafts.\nCustom Type 1 effect boosted by\n60%."
+	},
+	{
+		"assign": "3210271",
+		"jp_text": "カスタムタイプ２＋６０％",
+		"tr_text": "Custom Type 2 +60%",
+		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ２の効果値を\n６０％向上させる。",
+		"tr_explain": "Used during customization crafts.\nCustom Type 2 effect boosted\nby 60%."
+	},
+	{
+		"assign": "3210272",
+		"jp_text": "メリット値＋６０％",
+		"tr_text": "Merit Value +60%",
+		"jp_explain": "テクニックカスタマイズ実行時に\nメリットの下限値を\n６０％上昇させる。",
+		"tr_explain": "Increases the merit value by 60%\nwhen customizing techniques."
+	},
+	{
+		"assign": "3210273",
+		"jp_text": "デメリット値－６０％",
+		"tr_text": "Demerit Value -60%",
+		"jp_explain": "テクニックカスタマイズ実行時に\nデメリットの上限値を\n６０％軽減させる。",
+		"tr_explain": "Decreases the demerit value by\n-60% when customizing techniques."
+	},
+	{
 		"assign": "3210274",
 		"jp_text": "カスタムタイプ１＋７０％",
 		"tr_text": "Custom Type 1 +70%",
@@ -1381,15 +1430,288 @@
 	{
 		"assign": "3210276",
 		"jp_text": "メリット値＋７０％",
-		"tr_text": "Merit value +70%",
+		"tr_text": "Merit Value +70%",
 		"jp_explain": "テクニックカスタマイズ実行時に\nメリットの下限値を\n７０％上昇させる。",
 		"tr_explain": "Increases the merit value by 70%\nwhen customizing techniques."
 	},
 	{
 		"assign": "3210277",
 		"jp_text": "デメリット値－７０％",
-		"tr_text": "Demerit value -70%",
+		"tr_text": "Demerit Value -70%",
 		"jp_explain": "テクニックカスタマイズ実行時に\nデメリットの上限値を\n７０％軽減させる。",
 		"tr_explain": "Decreases the demerit value by -70%\nwhen customizing techniques."
+	},
+	{
+		"assign": "3210278",
+		"jp_text": "エステ利用パスＳ",
+		"tr_text": "Salon Pass S",
+		"jp_explain": "エステカウンターの機能利用パス。\nサポートパートナーにも使用可能。\n利用するたびにパスは消費される。 ",
+		"tr_explain": "Allows you to use restricted options\nin the Beauty Salon.Ticket is used\nafter saving changes."
+	},
+	{
+		"assign": "3210279",
+		"jp_text": "能力追加成功率＋４５％",
+		"tr_text": "Ability Success Rate +45%",
+		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を４５％上昇させる。",
+		"tr_explain": "Used when adding Special Abilities\non your equipment.\nBoosts success rate by 45%"
+	},
+	{
+		"assign": "3210283",
+		"jp_text": "特殊能力保護（４枠以下）",
+		"tr_text": "Ability Protection (4s or lower)",
+		"jp_explain": "特殊能力追加に失敗時、素材アイテムと\n特殊能力追加アイテムが返却される。\n<yellow>対象：追加予定リストが４スロット以下<c>",
+		"tr_explain": "Returns the Special Abilities that\nwere lost from synthesis.\n<yellow>Only works on 4 slots or lower.<c>"
+	},
+	{
+		"assign": "3210284",
+		"jp_text": "特殊能力保護（５枠以下）",
+		"tr_text": "Ability Protection (5s or lower)",
+		"jp_explain": "特殊能力追加に失敗時、素材アイテムと\n特殊能力追加アイテムが返却される。\n<yellow>対象：追加予定リストが５スロット以下<c>",
+		"tr_explain": "Returns the Special Abilities that\nwere lost from synthesis.\n<yellow>Only works on 5 slots or lower.<c>"
+	},
+	{
+		"assign": "3210285",
+		"jp_text": "特殊能力保護（６枠以下）",
+		"tr_text": "Ability Protection (6s or lower)",
+		"jp_explain": "特殊能力追加に失敗時、素材アイテムと\n特殊能力追加アイテムが返却される。\n<yellow>対象：追加予定リストが６スロット以下<c>",
+		"tr_explain": "Returns the Special Abilities that\nwere lost from synthesis.\n<yellow>Only works on 6 slots or lower.<c>"
+	},
+	{
+		"assign": "3210288",
+		"jp_text": "特殊能力（打撃＆ＰＰ/３）",
+		"tr_text": "Add Ability (Strike&PP/3)",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃＆ＰＰ/３】の特殊能力を追加する。",
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Grace Power\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210289",
+		"jp_text": "特殊能力（射撃＆ＰＰ/３）",
+		"tr_text": "Add Ability (Shoot&PP/3)",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃＆ＰＰ/３】の特殊能力を追加する。",
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Grace Shoot\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210290",
+		"jp_text": "特殊能力（法撃＆ＰＰ/３）",
+		"tr_text": "Add Ability (Tech&PP/3)",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃＆ＰＰ/３】の特殊能力を追加する。",
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Grace Tech\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210291",
+		"jp_text": "特殊能力（ＨＰ＆ＰＰ/３）",
+		"tr_text": "Add Ability (Stamina&PP/3)",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ＆ＰＰ/３】の特殊能力を追加する。",
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Grace Stamina\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210296",
+		"jp_text": "Ｓ１追加：光子縮減２",
+		"tr_text": "S1 Add:Photon Reduction 2",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：光子縮減２を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Photon Reduction 2\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210297",
+		"jp_text": "Ｓ１追加：滅域輝与２",
+		"tr_text": "S1 Add:Brilliant Ruin 2",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：滅域輝与２を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Brilliant Ruin 2\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210298",
+		"jp_text": "Ｓ１追加：時流の志",
+		"tr_text": "S1 Add:Flowing Intent",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：時流の志を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Flowing Intent\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210299",
+		"jp_text": "Ｓ１追加：死中の志",
+		"tr_text": "S1 Add:Lethal Intent",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：死中の志を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Lethal Intent\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210300",
+		"jp_text": "Ｓ１追加：賭死の撃",
+		"tr_text": "S1 Add:Reckless Strike",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：賭死の撃を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Reckless Strike\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210301",
+		"jp_text": "Ｓ１追加：錬成の志",
+		"tr_text": "S1 Add:Augment Intent",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：錬成の志を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Augment Intent\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210302",
+		"jp_text": "Ｓ１追加：失力の蝕",
+		"tr_text": "S1 Add:Eclipsing Decay",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：失力の蝕を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Eclipsing Decay\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210316",
+		"jp_text": "Ｓ２追加：月葉影の歌",
+		"tr_text": "S2 Add:Umbrageous Melody",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ２：月葉影の歌を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S2:Umbrageous Melody\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210317",
+		"jp_text": "Ｓ２追加：花海雪の縮減２",
+		"tr_text": "S2 Add:Nature's Reduction 2",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ２：花海雪の縮減２を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S2:Nature's Reduction 2\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210318",
+		"jp_text": "Ｓ２追加：月葉影の輝剰２",
+		"tr_text": "S2 Add:Umbrageous Radiance 2",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ２：月葉影の輝剰２を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S2:Umbrageous Radiance 2\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210319",
+		"jp_text": "Ｓ２追加：妙技の巧２",
+		"tr_text": "S2 Add:Wise Skill 2",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ２：妙技の巧２を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S2:Wise Skill 2\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210320",
+		"jp_text": "Ｓ２追加：妙撃の志２",
+		"tr_text": "S2 Add:Skilled Strike 2",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ２：妙撃の志２を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S2:Skilled Strike 2\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210321",
+		"jp_text": "Ｓ２追加：輝剰の撃２",
+		"tr_text": "S2 Add:Radiant Strike 2",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ２：輝剰の撃２を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S2:Radiant Strike 2\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210323",
+		"jp_text": "Ｓ２追加：走者高揚",
+		"tr_text": "S2 Add:Runner's High",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ２：走者高揚を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S2:Runner's High\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210324",
+		"jp_text": "Ｓ２追加：技巧縮減",
+		"tr_text": "S2 Add:Skill Reduction",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ２：技巧縮減を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S2:Skill Reduction\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210336",
+		"jp_text": "Ｓ３追加：花海雪の歌",
+		"tr_text": "S3 Add:Nature's Melody",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：花海雪の歌を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S3:Nature's Melody\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210337",
+		"jp_text": "Ｓ３追加：花海雪の輝勢２",
+		"tr_text": "S3 Add:Nature's Gleam 2",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：花海雪の輝勢２を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S3:Nature's Gleam 2\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210338",
+		"jp_text": "Ｓ３追加：時流の恵",
+		"tr_text": "S3 Add:Flowing Grace",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：時流の恵を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S3:Flowing Grace\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210339",
+		"jp_text": "Ｓ３追加：時流活与２",
+		"tr_text": "S3 Add:Flowing Exhilaration 2",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：時流活与２を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S3:Flowing Exhilaration 2\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210340",
+		"jp_text": "Ｓ３追加：輝勢の恵２",
+		"tr_text": "S3 Add:Radiating Grace 2",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：輝勢の恵２を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S3:Radiating Grace 2\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210341",
+		"jp_text": "Ｓ３追加：静心活与",
+		"tr_text": "S3 Add:Calming Exhilaration",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：静心活与を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S3:Calming Exhilaration\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210342",
+		"jp_text": "Ｓ３追加：撃流の備",
+		"tr_text": "S3 Add:Fortifying Strike",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：撃流の備を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S3:Fortifying Strike\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210343",
+		"jp_text": "Ｓ３追加：撃流縮減",
+		"tr_text": "S3 Add:Curtailed Strike",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：撃流縮減を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S3:Curtailed Strike\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210344",
+		"jp_text": "Ｓ３追加：撃流の巧",
+		"tr_text": "S3 Add:Wise Strike",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：撃流の巧を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S3:Wise Strike\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210356",
+		"jp_text": "Ｓ４追加：天輝の守護",
+		"tr_text": "S4 Add:Heavenly Protection",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ４：天輝の守護を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S4:Heavenly Protection\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210358",
+		"jp_text": "Ｓ４追加：静心の志",
+		"tr_text": "S4 Add:Calming Intent",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ４：静心の志を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S4:Calming Intent\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210359",
+		"jp_text": "Ｓ４追加：妙撃の秤",
+		"tr_text": "S4 Add:Mysterious Strike",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ４：妙撃の秤を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S4:Mysterious Strike\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210360",
+		"jp_text": "Ｓ４追加：聖者の盾",
+		"tr_text": "S4 Add:Saint Shield",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ４：聖者の盾を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S4:Saint Shield\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210362",
+		"jp_text": "Ｓ４追加：六色の輝秤",
+		"tr_text": "S4 Add:Colored Spectrum",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ４：六色の輝秤を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S4:Colored Spectrum\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210456",
+		"jp_text": "特殊能力（マーク継承）",
+		"tr_text": "Add Ability (Mark Receptor)",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【マークレセプター】を追加する。",
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Mark Receptor\"\nwhen used in Ability Synthesis."
 	}
 ]

@@ -4,21 +4,21 @@
 		"jp_text": "ツインマシンガン",
 		"tr_text": "Twin Machinegun",
 		"jp_explain": "アークスで正式採用されている双機銃。\n携帯性を追求した最軽量モデルで\n初心者にも扱いやすい入門機。",
-		"tr_explain": "Machineguns adopted by ARKS.\nWith emphasis on lightweight mobility,\nthis weapon is ideal for beginners."
+		"tr_explain": "Twin machineguns adopted by ARKS.\nWith emphasis on lightweight mobility,\nthis weapon is ideal for beginners."
 	},
 	{
 		"assign": "11001",
 		"jp_text": "アルバＴマシンガン",
 		"tr_text": "Alva Twin Machinegun",
 		"jp_explain": "アークスで使用される改良型の双機銃。\n砲身を伸張して射程不足を克服し\n弾倉の改良により連射性能も向上した。",
-		"tr_explain": "An improved pair of Machineguns. Its\nlong barrel and improved magazine,\nare better than the previous model."
+		"tr_explain": "Improved twin machineguns used by\nARKS. The barrel was extended for\nrange, and the magazine is improved."
 	},
 	{
 		"assign": "11002",
 		"jp_text": "ヴィタＴマシンガン",
 		"tr_text": "Vita Twin Machinegun",
 		"jp_explain": "基礎モデルに改良を加えた双機銃。\n課題であった衝撃吸収と安定性を確保し\n一層の軽量化がなされた。",
-		"tr_explain": "An improved pair of Machineguns that\nsports shock absorbent stabilizers,\nwhile reducing the overall weight."
+		"tr_explain": "Machineguns that further improve on\nthe base model. Has shock absorbers\nto improve stability and save weight."
 	},
 	{
 		"assign": "11003",
@@ -137,7 +137,7 @@
 		"jp_text": "ラムダサークウェイド",
 		"tr_text": "Lambda Sarcueid",
 		"jp_explain": "独自改造の双機銃。その一つの答え。\n経験に裏打ちされたカスタムのため\n非常に扱いやすく、それでいて強力。",
-		"tr_explain": "Unique custom pair of machineguns.\nModifications backed by experience\nmakes use easy, but retains power."
+		"tr_explain": "Unique custom twin machineguns.\nModifications backed by experience\nmakes use easy, but retains power."
 	},
 	{
 		"assign": "110020",
@@ -193,7 +193,7 @@
 		"jp_text": "エッグブラスター",
 		"tr_text": "Egg Blaster",
 		"jp_explain": "世界征服を企む某科学者が開発した\n特殊な双機銃。\n全クラス装備可能な、特殊な武器。",
-		"tr_explain": "A special pair of machineguns developed\nby a certain scientist bent on world\ndomination."
+		"tr_explain": "A special pair of machineguns\ndeveloped by a certain scientist bent\non world domination."
 	},
 	{
 		"assign": "110028",
@@ -207,7 +207,7 @@
 		"jp_text": "Ｌ＆Ｋ１４コンバット",
 		"tr_text": "L&K14 Combat",
 		"jp_explain": "使用者の評により名声を集めた双機銃。\n高い性能と誰にでも扱える使用感は\n人気がフロックではないことの証明。",
-		"tr_explain": "Machineguns that gained prestige from a\ncertain user. Boasting high performance\nand handling, proving its worth."
+		"tr_explain": "Twin machineguns made famous by\na former user. With high performance\nand usability, they prove their worth."
 	},
 	{
 		"assign": "110031",
@@ -221,28 +221,28 @@
 		"jp_text": "ガルド・ミラ",
 		"tr_text": "Guld Milla",
 		"jp_explain": "全てが謎に包まれた双機銃。\nその効果、性能は一切不明で\n詳細な解析が待たれている。",
-		"tr_explain": "Machineguns shrouded in mystery. Their\nperformance and effects are unknown.\nStill awaiting analysis."
+		"tr_explain": "Machineguns shrouded in mystery.\nTheir performance and effects are\nunknown. Still awaiting analysis."
 	},
 	{
 		"assign": "110033",
 		"jp_text": "ヤスミノコフ９０００Ｍ",
 		"tr_text": "Yasminkov 9000M",
 		"jp_explain": "絶大な支持を得たシリーズのリメイク。\n双機銃としての性能を重視した改良が\n施され、全体的に能力が向上している。",
-		"tr_explain": "A remake of a popular series that had a\ncult following. Improvements were made\ntowards performance and overall power."
+		"tr_explain": "A remake of a series that had a cult\nfollowing. Improved with a focus on\nperformance and overall power."
 	},
 	{
 		"assign": "110034",
 		"jp_text": "Ｈ１０ミズーリＴ",
 		"tr_text": "H10 Missouri T",
 		"jp_explain": "ポケットサイズの双機銃。\n見た目の小ささに反し、攻撃力は絶大。",
-		"tr_explain": "Pocket sized machineguns. Contrary to\ntheir small size, they pack tremendous\nattack power."
+		"tr_explain": "Pocket-sized machineguns. Contrary\nto their small size, they pack\ntremendous attack power."
 	},
 	{
 		"assign": "110035",
 		"jp_text": "パンドラエクストリーム",
 		"tr_text": "Pandora Extreme",
 		"jp_explain": "ただ一つの希望を守るという双機銃。\n死角のない攻撃を可能とし、一切の\n災厄を寄せ付けない。",
-		"tr_explain": "Ordinary machineguns that keep hope\nalive. Attacks from these guns are\nflawless and accident free."
+		"tr_explain": "Ordinary machineguns that keep\nhope alive. Attacks from these guns\nare flawless and accident free."
 	},
 	{
 		"assign": "110036",
@@ -270,21 +270,21 @@
 		"jp_text": "カルックスガン",
 		"tr_text": "Calux Gun",
 		"jp_explain": "携帯性を重視した双機銃。\n内部構造を簡略化することで\n軽量化を実現した。",
-		"tr_explain": "Machineguns that emphasizes portability.\nIts simplified internals help keep it\nlightweight."
+		"tr_explain": "Twin machineguns that emphasise\nportability. Their internal structure\nhas been simplified, reducing weight."
 	},
 	{
 		"assign": "110040",
 		"jp_text": "ベーリロスガン",
 		"tr_text": "Berilos Gun",
 		"jp_explain": "携帯性を重視した双機銃。\n外装に用いる素材の組成を調整し\n強度を保ちつつの軽量化を達成した。",
-		"tr_explain": "Machineguns that emphasizes portability.\nBy changing the exterior composition,\nits stronger than before, but still light."
+		"tr_explain": "Twin machineguns that emphasise\nportability. The exterior material has\nbeen replaced, reducing their weight."
 	},
 	{
 		"assign": "110041",
 		"jp_text": "グラファイガン",
 		"tr_text": "Graphie Gun",
 		"jp_explain": "携帯性を重視した双機銃。\n銃身全体にコーティングを施し\n安定性を増した良モデル。",
-		"tr_explain": "Machineguns that emphasizes portability.\nImproving the coating of the barrel, it\nhas gained better stability than before."
+		"tr_explain": "Twin machineguns that emphasise\nportability. A new coating applied\nto the barrel has improved stability."
 	},
 	{
 		"assign": "110042",
@@ -368,28 +368,28 @@
 		"jp_text": "Ｈ１０ミズーリＴ／ナハト",
 		"tr_text": "H10 Missouri T / Nacht",
 		"jp_explain": "闇夜の色を抱く双機銃。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
-		"tr_explain": "A pair of machineguns that embrace the\ncolor of the dark night."
+		"tr_explain": "Twin machineguns painted black as\nnight. Their origins are unknown, but\nthey inspire greatness in their owner."
 	},
 	{
 		"assign": "110055",
 		"jp_text": "Ｌ＆Ｋコンバット／ナハト",
 		"tr_text": "L&K Combat / Nacht",
 		"jp_explain": "闇夜の色を抱く双機銃。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
-		"tr_explain": ""
+		"tr_explain": "Twin machineguns painted black as\nnight. Their origins are unknown, but\nthey inspire greatness in their owner."
 	},
 	{
 		"assign": "110056",
 		"jp_text": "Ｍ＆Ａヴァイス／リヒト",
 		"tr_text": "M&A Vice / Licht",
 		"jp_explain": "白夜の色を抱く双機銃。\n出自の仔細は不明だが、性能は高く\n全クラス装備可能な、特殊な武器。",
-		"tr_explain": ""
+		"tr_explain": "Twin machineguns bearing the color\nof midnight sun. Origins unknown, but\ncan be equipped by all classes."
 	},
 	{
 		"assign": "110057",
 		"jp_text": "アーレスマシンガン",
 		"tr_text": "Ares Machinegun",
 		"jp_explain": "要塞の幻獣の力を宿した双機銃。装者に\nフォトンブラストの効果で譲らぬ力を\n与え、定めた標的を打ち破る。",
-		"tr_explain": ""
+		"tr_explain": "Twin machineguns harboring the\npower of a Photon Blast. They destroy\nthe target with unyielding strength."
 	},
 	{
 		"assign": "110058",
@@ -415,7 +415,7 @@
 	{
 		"assign": "110061",
 		"jp_text": "ブランミラーズ",
-		"tr_text": "Blanc Mirrors",
+		"tr_text": "Bran Mirrors",
 		"jp_explain": "機械的な作りをしながらも神秘的な\n雰囲気を漂わせた双機銃。\n純白の銃身が存在感を引き立てている。",
 		"tr_explain": ""
 	},
@@ -473,14 +473,14 @@
 		"jp_text": "赤のマシンガン",
 		"tr_text": "Red Machinegun",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした双機銃。\n目映い赤色は必然的に目を引く。",
-		"tr_explain": ""
+		"tr_explain": "Machineguns whose experimental\ncoloring has become iconic. The\ndazzling red catches the eye."
 	},
 	{
 		"assign": "110075",
 		"jp_text": "青のマシンガン",
 		"tr_text": "Blue Machinegun",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした双機銃。\n目映い青色は必然的に目を引く。",
-		"tr_explain": ""
+		"tr_explain": "Machineguns whose experimental\ncoloring has become iconic. The\ndazzling blue catches the eye."
 	},
 	{
 		"assign": "110076",
@@ -508,21 +508,28 @@
 		"jp_text": "ブリッツフェンダー",
 		"tr_text": "Blitz Fender",
 		"jp_explain": "伝説の銃工が設計した双機銃。\nとてつもない威力を発揮することが\n設計図の段階で判明した。",
-		"tr_explain": "Machineguns designed by a legendary\nengineer. Its tremendous power was\nconfirmed via its blueprints."
+		"tr_explain": "Twin machineguns designed by a\nlegendary engineer. Their power was\nobvious even at the blueprint stage."
 	},
 	{
 		"assign": "110090",
 		"jp_text": "ファイナルフェンダー",
 		"tr_text": "Final Fender",
 		"jp_explain": "伝説の銃工が遺した設計図をもとに\n開発された双機銃。別名「最後の銃」と\nいわれ、所持している者は数少ない。 ",
-		"tr_explain": "Machineguns created from blueprints of\na legendary engineer. It has another\nname, \"The Final Gun\", but few were made."
+		"tr_explain": "Twin machineguns based on the\nlegendary engineer's designs. Fitting\ntheir title, \"The Final Gun\", few exist."
+	},
+	{
+		"assign": "110094",
+		"jp_text": "バレットクナイ",
+		"tr_text": "Bullet Kunai",
+		"jp_explain": "かつて隠密の任に就いていた者の\n飛び道具を再現した双機銃。\n華麗な攻撃で標的を仕留める。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "110095",
 		"jp_text": "Ｌ＆Ｋコンバット／リヒト",
 		"tr_text": "L&K Combat / Licht",
 		"jp_explain": "白夜の色を抱く双機銃。\n出自の仔細は不明だが、性能は高く\n全クラス装備可能な、特殊な武器。",
-		"tr_explain": ""
+		"tr_explain": "Twin machineguns bearing the color\nof midnight sun. Origins unknown, but\ncan be equipped by all classes."
 	},
 	{
 		"assign": "110096",
@@ -627,7 +634,7 @@
 		"jp_text": "ライブファンガー",
 		"tr_text": "Live Fanger",
 		"jp_explain": "最先端の生体工学を応用し開発された\n双機銃。高純度培養液が贅沢に充填され\n使えば使うほど進化を続ける。",
-		"tr_explain": ""
+		"tr_explain": "Twin machineguns made with state-\nof-the-art bioengineering. Enhanced\nwith a high-purity culture solution."
 	},
 	{
 		"assign": "1100124",
@@ -786,7 +793,7 @@
 	{
 		"assign": "1100183",
 		"jp_text": "双淡月",
-		"tr_text": "Sou Awatsuki",
+		"tr_text": "Sou Tangetsu",
 		"jp_explain": "伝統的な手法を使い作成された双機銃。\n連射性能と命中精度に優れ、豪華絢爛な\n外装は高い耐久性を誇る。",
 		"tr_explain": ""
 	},
@@ -795,14 +802,14 @@
 		"jp_text": "ネメシスバレット",
 		"tr_text": "Nemesis Bullet",
 		"jp_explain": "古の時代に封印された聖なる双機銃。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-		"tr_explain": "A sealed holy pair of Machineguns\nfrom an ancient past. It releases its\npurifying power with the user's will."
+		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
 	},
 	{
 		"assign": "1100185",
 		"jp_text": "スレイヴバレット",
 		"tr_text": "Slave Bullet",
 		"jp_explain": "古の時代に封印された邪なる双機銃。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-		"tr_explain": ""
+		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
 	},
 	{
 		"assign": "1100186",
@@ -844,13 +851,34 @@
 		"jp_text": "禍銃リルユプケ",
 		"tr_text": "Evil Riruyupuke",
 		"jp_explain": "惑星ハルコタンで発掘された双機銃。\n『禍津』の影響を受けた禍々しい姿だが\nかつては装飾が美しいと評判だった。",
-		"tr_explain": "A pair of machineguns excavated from\nplanet Harkotan. Before \"Magatsu's\"\ninfluence, it had beautiful decorations."
+		"tr_explain": "Twin machineguns excavated from\nplanet Harkotan. Before \"Magatsu's\"\ninfluence, it had beautiful decorations."
+	},
+	{
+		"assign": "1100209",
+		"jp_text": "デュアルバード",
+		"tr_text": "Dual Bird",
+		"jp_explain": "強力無比な弾を繰り出すことが出来る\n双機銃。青と赤の弾丸が放たれる時\n瞬く間に全てが無に還る。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100211",
+		"jp_text": "ゲファーズパンク",
+		"tr_text": "Gefahr Zupunk",
+		"jp_explain": "パンクなデザインが目立つ双機銃。\n反動を抑える改良を加え、見た目通り\n危険な威力を持つ武器となった。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "1100215",
 		"jp_text": "ノクスシャリオ",
 		"tr_text": "Nox Chario",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き双機銃。\n装者が戦慄するほどの精度を誇る。",
+		"tr_explain": "Black machineguns produced in an\nillicit ritual. The accuracy they boast\nterrifies even their wielder."
+	},
+	{
+		"assign": "1100216",
+		"jp_text": "レーテシャリオ",
+		"tr_text": "Raete Chario",
+		"jp_explain": "正当な手順を経た儀式により\n生み出された白き双機銃。\n絶大な威力をもって装者を守る。",
 		"tr_explain": ""
 	},
 	{
@@ -868,18 +896,25 @@
 		"tr_explain": "Vlima Leopard's gun in the form of\nmachineguns. Its large caliber shells\nhave excellent durability and power."
 	},
 	{
+		"assign": "1100221",
+		"jp_text": "アルタバレル",
+		"tr_text": "Alta Barrel",
+		"jp_explain": "次元を越えるほどの力を秘めた双機銃。\n鮮烈な輝きを放つ弾丸は、全てを貫き\n確実に対象を葬り去る。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1100226",
 		"jp_text": "ラサハディス",
 		"tr_text": "Lasahadis",
 		"jp_explain": "大気の力を宿すといわれる双機銃。\n刃のような装飾とリング状のグリップが\n特徴的。風雷をまとった銃弾を放つ。 ",
-		"tr_explain": "A pair of machineguns with the power of\nthe air. Defined by the blade and ring\ngrip, they releases a crackling sound."
+		"tr_explain": "Machineguns with the power of the\nair. Known for their blades and grip,\nthey fire bullets clad in lightning."
 	},
 	{
 		"assign": "1100227",
 		"jp_text": "モナクハディス",
 		"tr_text": "Monarchadis",
 		"jp_explain": "大気の力を宿すといわれる双機銃。\n図抜けて高い連射性能と威力の前に\n敵は絶望しか抱かないといわれる。",
-		"tr_explain": "A pair of machineguns with the power of\nthe air. Their high performance and\npower leave enemies in despair."
+		"tr_explain": "Machineguns with the power of the\nair. Their high performance and\npower leave enemies in despair."
 	},
 	{
 		"assign": "1100230",
@@ -893,28 +928,35 @@
 		"jp_text": "リグフェイズ",
 		"tr_text": "Rig Phase",
 		"jp_explain": "伝説の生物を機械的に再現した双機銃。\n上顎を模した装飾によって銃身のブレを\n抑え、安定した連射性能を実現した。",
-		"tr_explain": "A pair of machineguns that mechanically\nmimic a dragon. The decoration in the\nupper jaw stabilizes the firepower."
+		"tr_explain": "Twin machineguns that mechanically\nmimic a dragon. The decoration in\nthe upper jaw stabilizes their shots."
 	},
 	{
 		"assign": "1100234",
 		"jp_text": "ジグマフェイズ",
 		"tr_text": "Sigma Phase",
 		"jp_explain": "伝説の生物を機械的に再現した双機銃。\n優れた射撃精度を維持したまま火力を\n上昇させるため、重量が増加している。",
-		"tr_explain": "A pair of machineguns that mechanically\nmimic a dragon. While keeping their\nperformance, their power is enhanced."
+		"tr_explain": "Twin machineguns that mechanically\nmimic a dragon. Power is higher, but\nweight is also higher as a result."
 	},
 	{
 		"assign": "1100235",
 		"jp_text": "スカルフェジサー",
 		"tr_text": "Skull Feschieser",
 		"jp_explain": "死者の念が乗り移ったとされる禍々しき\nオーラを放つ双機銃。放たれたら最後\nその弾丸からは逃れられないという。",
-		"tr_explain": "A pair of machineguns with an ominous\ndeathly aura. There's no escaping the\nbullets as they release the aura."
+		"tr_explain": "Twin machineguns whose shots\nemanate a deathly aura. It it said\nthat none can escape their bullets."
+	},
+	{
+		"assign": "1100241",
+		"jp_text": "ディアカフィール",
+		"tr_text": "Dia Kafir",
+		"jp_explain": "臨界寸前まで圧縮したフォトンを\n核に使用した双機銃。非常に高威力だが\n装者にも相応の負担がかかる。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "1100243",
 		"jp_text": "ギクスカフィール",
 		"tr_text": "Gix Kafir",
 		"jp_explain": "臨界寸前まで圧縮したフォトンと\n同調した双機銃。装者の精神とリンクし\n感情の昂ぶりが弾丸を強化する。",
-		"tr_explain": "A pair of machineguns synchronized\nwith compressed photons. Their bullets\nare empowered by the user's emotions."
+		"tr_explain": "Twin machineguns synchronized with\ncritically compressed photons. Their\nbullets draw on the user's emotions."
 	},
 	{
 		"assign": "1100244",
@@ -928,14 +970,21 @@
 		"jp_text": "オフスティアレイン",
 		"tr_text": "Austere Rain",
 		"jp_explain": "負の力を識り、制することで転化した\n浄化の双機銃。もたらされた屈しない\n精神は、難境を乗り越える力となる。",
-		"tr_explain": "A purified pair of machineguns.\nThis weapon allows the spirit to\novercome difficulties."
+		"tr_explain": "Twin purified machineguns. They\ngrant weak spirits the power to\novercome any difficulty."
+	},
+	{
+		"assign": "1100247",
+		"jp_text": "バジリスリオード",
+		"tr_text": "Basilis Reode",
+		"jp_explain": "鋭利な突起と蛇腹状の表面が特徴的な\n双機銃。専用機関により圧倒的な威力と\n卓越した連射性能を持つ。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "1100249",
 		"jp_text": "フォルニスフィジス",
 		"tr_text": "Fornis Physis",
 		"jp_explain": "異なる力を宿した恐るべき双機銃。\n扱いは非常に難しいものの、卓越した\n威力を誇り、敵を圧倒できる。",
-		"tr_explain": "A pair of machineguns that wield\ndifferent powers. While it's difficult\nto control, their power is outstanding."
+		"tr_explain": "Two fearsome machineguns bearing\ntwin powers. Difficult to handle, but\ntheir power overwhelms the enemy."
 	},
 	{
 		"assign": "1100251",
@@ -963,7 +1012,7 @@
 		"jp_text": "三連幻創機銃",
 		"tr_text": "Phantom Triple Cannon",
 		"jp_explain": "エーテルにより具現された\n幻創戦艦・大和の部品を模した双機銃。\n無骨さと可愛さの両立したデザイン。",
-		"tr_explain": "A pair of ether powered machineguns\nthat mimics parts of Yamato. It\nfeatures both cute and rustic designs."
+		"tr_explain": "Ether-powered twin machineguns\nthat mimic part of the Yamato. Their\ndesign is cute, but also sturdy."
 	},
 	{
 		"assign": "1100266",
@@ -977,7 +1026,7 @@
 		"jp_text": "ＳワルキューレＲ２５Ｓ",
 		"tr_text": "S Valkyrie R25S",
 		"jp_explain": "伝説的なエージェントが使用したことで\n有名な双機銃。サイレンサーを装着し\n隠密性を向上させている。",
-		"tr_explain": "Pair of guns a used by a legendary\nsecret agent. Equipped silencers raise\nthe weapons' stealth capabilities."
+		"tr_explain": "Twin guns used by a legendary\nsecret agent. The attached silencers\nimprove their stealth capability."
 	},
 	{
 		"assign": "1100277",
@@ -987,11 +1036,25 @@
 		"tr_explain": "Machineguns powered by a new\nmatrix. User's field assessment\noptimizes output and reduces load."
 	},
 	{
+		"assign": "1100278",
+		"jp_text": "バレットドミナシオ",
+		"tr_text": "Bullet Dominacio",
+		"jp_explain": "新開発の演算装置を搭載した双機銃。\n優れた最高出力を誇る反面、戦闘中は\n脳にかなりの負荷がかかる。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1100281",
 		"jp_text": "アウラディアズス",
 		"tr_text": "Aura Diazuth",
 		"jp_explain": "異界の因子を触媒に生み出された\n漆黒の双機銃。装者の活力に比例して\n光弾を放つ結晶は蒼き輝きを増すという。",
-		"tr_explain": "Dark machineguns formed by mystical\nfactors. User's vitality emits\nradiance from its crystal."
+		"tr_explain": "Dark machineguns formed by\nmystical factors. User's vitality emits\nradiance from its crystal."
+	},
+	{
+		"assign": "1100283",
+		"jp_text": "マルスディアズス",
+		"tr_text": "Mars Diazuth",
+		"jp_explain": "異界の因子を触媒に生み出された\n混沌の双機銃。猛る力は心を狂わせ\n光弾を放つ結晶により破滅へ導くという。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "1100285",
@@ -1015,11 +1078,25 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "1100291",
+		"jp_text": "シュベルディナレス",
+		"tr_text": "Schvelle Dinares",
+		"jp_explain": "古に封印されし冥夜の双機銃。\n現世に蘇りし闇は無尽の弾丸となり\n生きし者全て撃ちて、静寂をつくる。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1100292",
 		"jp_text": "ステルクシュタヤー",
-		"tr_text": "Stelk Shootyr",
+		"tr_text": "Stelk Shooter",
 		"jp_explain": "専用エネルギータンクがついた双機銃。\n射撃時に、専用エネルギーによる\n補助システムで反動が抑えられる。",
-		"tr_explain": "Machineguns with a dedicated energy\ntank. Because of this, recoil energy\nis fed through the auxiliary system."
+		"tr_explain": "Machineguns with a built-in energy\ntank. Refilled by kinetic energy from\nan auxiliary recoil suppressor system."
+	},
+	{
+		"assign": "1100293",
+		"jp_text": "トリディアシュタヤー",
+		"tr_text": "Tridia Shooter",
+		"jp_explain": "専用エネルギータンクがついた双機銃。\n新たに発見されたエネルギーを採用した\n優れた威力を持つ新作モデル。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "1100295",
@@ -1040,21 +1117,21 @@
 		"jp_text": "ツインマシンガン-NT",
 		"tr_text": "Twin Machinegun-NT",
 		"jp_explain": "アークスで正式採用されている双機銃。\n携帯性を追求した最軽量モデルで\n初心者にも扱いやすい入門機。",
-		"tr_explain": "Machineguns adopted by ARKS.\nWith emphasis on lightweight mobility,\nthis weapon is ideal for beginners."
+		"tr_explain": "Twin machineguns adopted by ARKS.\nWith emphasis on lightweight mobility,\nthis weapon is ideal for beginners."
 	},
 	{
 		"assign": "1100298",
 		"jp_text": "アルバＴマシンガン-NT",
 		"tr_text": "Alva T. Machinegun-NT",
 		"jp_explain": "アークスで使用される改良型の双機銃。\n砲身を伸張して射程不足を克服し\n弾倉の改良により連射性能も向上した。",
-		"tr_explain": "An improved pair of Machineguns. Its\nlong barrel and improved magazine,\nare better than the previous model."
+		"tr_explain": "Improved twin machineguns used by\nARKS. The barrel was extended for\nrange, and the magazine is improved."
 	},
 	{
 		"assign": "1100299",
 		"jp_text": "ヴィタＴマシンガン-NT",
 		"tr_text": "Vita T. Machinegun-NT",
 		"jp_explain": "基礎モデルに改良を加えた双機銃。\n課題であった衝撃吸収と安定性を確保し\n一層の軽量化がなされた。",
-		"tr_explain": "An improved pair of Machineguns that\nsports shock absorbent stabilizers,\nwhile reducing the overall weight."
+		"tr_explain": "Machineguns that further improve on\nthe base model. Has shock absorbers\nto improve stability and save weight."
 	},
 	{
 		"assign": "1100300",
@@ -1129,7 +1206,7 @@
 	{
 		"assign": "1100310",
 		"jp_text": "ブランミラーズ-NT",
-		"tr_text": "Blanc Mirrors-NT",
+		"tr_text": "Bran Mirrors-NT",
 		"jp_explain": "機械的な作りをしながらも神秘的な\n雰囲気を漂わせた双機銃。\n純白の銃身が存在感を引き立てている。",
 		"tr_explain": ""
 	},
@@ -1145,14 +1222,14 @@
 		"jp_text": "ノクスシャリオ-NT",
 		"tr_text": "Nox Chario-NT",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き双機銃。\n装者が戦慄するほどの精度を誇る。",
-		"tr_explain": ""
+		"tr_explain": "Black machineguns produced in an\nillicit ritual. The accuracy they boast\nterrifies even their wielder."
 	},
 	{
 		"assign": "1100313",
 		"jp_text": "ラムダサークウェイドVer2",
 		"tr_text": "Lambda Sarcueid Ver2",
 		"jp_explain": "独自改造の双機銃。その一つの答え。\n経験に裏打ちされたカスタムのため\n非常に扱いやすく、それでいて強力。",
-		"tr_explain": "Unique custom pair of machineguns.\nModifications backed by experience\nmakes use easy, but retains power."
+		"tr_explain": "Unique custom twin machineguns.\nModifications backed by experience\nmakes use easy, but retains power."
 	},
 	{
 		"assign": "1100314",
@@ -1166,14 +1243,14 @@
 		"jp_text": "ゼイネシスバルカン",
 		"tr_text": "Zeinesis Vulcan",
 		"jp_explain": "幻創の主より生まれた大樹の双機銃。\n恐れず傷ついても前進し続ける者に\n成功と勝利をものにする力を授ける。",
-		"tr_explain": "Pair of machineguns from Yggdrasil.\nThose who are brave to move forward\nare given strength to reach success."
+		"tr_explain": "Twin machineguns from Yggdrasil.\nThose who dare to move forward\nare given the strength to succeed."
 	},
 	{
 		"assign": "1100319",
 		"jp_text": "クリファドバルカン",
 		"tr_text": "Qliphad Vulcan",
 		"jp_explain": "理から外れ虚無と化した大樹の双機銃。\n強き力に溺れ、理性を無くした装者は\n享楽的な破壊を求めてさまよい歩く。",
-		"tr_explain": "Pair of machineguns from Yggdrasil.\nIts power causes a loss of reasoning\nwhile seeking pleasure in destruction."
+		"tr_explain": "Twin machineguns from Yggdrasil.\nIts power causes a loss of reasoning\nwhile seeking pleasure in destruction."
 	},
 	{
 		"assign": "1100320",
@@ -1194,13 +1271,27 @@
 		"jp_text": "アストラスクリー",
 		"tr_text": "Astra Screa",
 		"jp_explain": "マザーの残滓たる、幻創の双機銃。\n標的は銃声と共に、心を締め付ける\n悲鳴を聞く。それはマザーの嘆きか。",
-		"tr_explain": "A set of machineguns imbued with\nMother's power. With each shot, the\nscream of Mother's regret echoes."
+		"tr_explain": "Phantom machineguns imbued with\nMother's power. Each shot echoes\nwith the scream of Mother's regrets."
 	},
 	{
 		"assign": "1100327",
 		"jp_text": "デモニアブラスター",
 		"tr_text": "Demonia Blaster",
 		"jp_explain": "悪魔によりもたらされたと言われる\n双機銃。他の武器は付属しているが\n機能が制限されているため使用不可。",
+		"tr_explain": "Machineguns that were created by a\ndemon. Other weapons are included\nin the design, but are disabled."
+	},
+	{
+		"assign": "1100328",
+		"jp_text": "リュミエルスウィープ",
+		"tr_text": "Lumiere Sweep",
+		"jp_explain": "古より伝わる陽光の双機銃。\n受け継がれし聖なる弾丸は光となり\n害悪全てに弾雨を注ぎ込まん。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100329",
+		"jp_text": "ジュティススウィープ",
+		"tr_text": "Jutus Sweep",
+		"jp_explain": "古より伝わる陽光の双機銃。\n射手を導く聖なる力は魂を護り\n悪を全て撃ち砕き、闇の終局を告げん。",
 		"tr_explain": ""
 	},
 	{
@@ -1211,10 +1302,45 @@
 		"tr_explain": "A set of machineguns formed by a\nnatural phenomenon. Its bullets are\nmade from a violent gale of wind."
 	},
 	{
+		"assign": "1100342",
+		"jp_text": "サラマディアトルスト",
+		"tr_text": "Salamandia Tolst",
+		"jp_explain": "オメガサラマンダの生体組織を\n加工した双機銃。吐き出される火球は\n狙った獲物を容赦なく燃やし尽くす。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100343",
+		"jp_text": "サラマディアカレウス",
+		"tr_text": "Salamandia Callus",
+		"jp_explain": "オメガサラマンダの生体組織を\n加工した双機銃。不気味な青い炎が\n標的を襲い、生命を奪う。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1100344",
 		"jp_text": "[NPC]ストラトス：ＴＭＧ",
-		"tr_text": "",
+		"tr_text": "[NPC]Stratos' Machgineguns",
 		"jp_explain": "数多の戦技を会得したアークスにのみ\n所持が許される双機銃。ヒーローに\n特化した性能に調整れている。",
+		"tr_explain": "A pair of machineguns that only\nskilled ARKS can use. It has been\nadjusted for performance for Heroes."
+	},
+	{
+		"assign": "1100349",
+		"jp_text": "バトルＴマシンガンＬｖ１",
+		"tr_text": "Battle T-Machinegun Lv.1",
+		"jp_explain": "バトルアリーナ用に調整された双機銃。\n純粋に技を競うため基本性能のみを\n強化している。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100350",
+		"jp_text": "バトルＴマシンガンＬｖ２",
+		"tr_text": "Battle T-Machinegun Lv.2",
+		"jp_explain": "バトルアリーナ用に調整された双機銃。\n戦技比較が目的となるため\n基本性能の強化にとどまっている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100351",
+		"jp_text": "バトルＴマシンガンＬｖ３",
+		"tr_text": "Battle T-Machinegun Lv.3",
+		"jp_explain": "バトルアリーナ専用に作られた双機銃。\n戦技比較用に特化しており、力量が\nより発揮される調整となっている。",
 		"tr_explain": ""
 	},
 	{
@@ -1229,6 +1355,153 @@
 		"jp_text": "ヤスミノコフ９０００Ｍ-NT",
 		"tr_text": "Yasminkov 9000M-NT",
 		"jp_explain": "絶大な支持を得たシリーズのリメイク。\n双機銃としての性能を重視した改良が\n施され、全体的に能力が向上している。",
-		"tr_explain": "A remake of a popular series that had a\ncult following. Improvements were made\ntowards performance and overall power."
+		"tr_explain": "A remake of a series that had a cult\nfollowing. Improved with a focus on\nperformance and overall power."
+	},
+	{
+		"assign": "1100356",
+		"jp_text": "バルラッダ",
+		"tr_text": "Val Radda",
+		"jp_explain": "過去に戦場となった地域から発掘された\n双機銃。欠損が激しいが、きらびやかな\n装飾の痕跡が見受けられる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100357",
+		"jp_text": "アトララッダ",
+		"tr_text": "Atlas Radda",
+		"jp_explain": "過去に戦場となった地域から発掘された\n双機銃。研究者の努力の末、蘇った。\n弧を描いた意匠は繊細な美しさを持つ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100358",
+		"jp_text": "アトララッダ・イクス",
+		"tr_text": "Atlas Radda Ex",
+		"jp_explain": "過去に戦場となった地域から発掘された\n双機銃。眠りより目覚めた碧き宝石は\n秘めた凄まじき力を解き放つ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100365",
+		"jp_text": "フォボスグラオザム",
+		"tr_text": "Phobos Grauzam",
+		"jp_explain": "禍々しいフォルムと幾重ものブレードを\n併せ持った双機銃。フォトン刃を携えた\n絶え間ない掃射で標的を恐怖に陥れる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100367",
+		"jp_text": "ホムラノサミダレ",
+		"tr_text": "Homura no Samidare",
+		"jp_explain": "とある地方の伝統意匠を取り入れた\n双機銃。散りばめた金銀砂子と\n焔の装飾は美術品としても人気がある。",
+		"tr_explain": "Twin machineguns based on a\ntraditional design. The inlaid flame\ndecorations are valued as art pieces."
+	},
+	{
+		"assign": "1100368",
+		"jp_text": "ネメシスバレット-NT",
+		"tr_text": "Nemesis Bullet-NT",
+		"jp_explain": "古の時代に封印された聖なる双機銃。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
+		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
+	},
+	{
+		"assign": "1100369",
+		"jp_text": "スレイヴバレット-NT",
+		"tr_text": "Slave Bullet-NT",
+		"jp_explain": "古の時代に封印された邪なる双機銃。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
+		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
+	},
+	{
+		"assign": "1100371",
+		"jp_text": "不知火星-NT",
+		"tr_text": "Shiranuiboshi-NT",
+		"jp_explain": "礼装として作られた伝統的な双機銃。\nシンプルな作りながら意匠に技術の粋が\n集められ、神秘的な雰囲気を持つ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100373",
+		"jp_text": "Ｈ１０ミズーリＴ-NT",
+		"tr_text": "H10 Missouri T-NT",
+		"jp_explain": "ポケットサイズの双機銃。\n見た目の小ささに反し、攻撃力は絶大。",
+		"tr_explain": "Pocket-sized machineguns. Contrary\nto their small size, they pack\ntremendous attack power."
+	},
+	{
+		"assign": "1100374",
+		"jp_text": "インヴェイドレイン-NT",
+		"tr_text": "Invade Rain-NT",
+		"jp_explain": "【深遠なる闇】より生まれし負の\n双機銃。装者は不動の精神を有するが\n戦禍をもたらす戦鬼となる。",
+		"tr_explain": "A pair of machineguns born from the\n[Profound Darkness]. Its said that it\nbecomes a demon of destruction."
+	},
+	{
+		"assign": "1100375",
+		"jp_text": "オフスティアレイン-NT",
+		"tr_text": "Austere Rain-NT",
+		"jp_explain": "負の力を識り、制することで転化した\n浄化の双機銃。もたらされた屈しない\n精神は、難境を乗り越える力となる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100376",
+		"jp_text": "深遠弾エヘクシオン",
+		"tr_text": "Profound Execuxion",
+		"jp_explain": "終わりなき物語を辿る者の絶望により\n生み出された双機銃。深い悲しみの闇を\n宿した弾は、一切の希望を拒絶する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100377",
+		"jp_text": "星震弾エヘクシオン",
+		"tr_text": "Celestial Execuxion",
+		"jp_explain": "時を遡る者の世界を想う心によって\n覚醒した双機銃。純粋なる願いを宿した\n星の弾は、輝きをまとい闇を撃ち抜く。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100378",
+		"jp_text": "光跡弾エヘクシオン",
+		"tr_text": "Lightstream Execuxion",
+		"jp_explain": "時を遡りし者の結んだ絆が創り出した\n星を繋ぐ双機銃。星の輝きを宿した弾は\n闇も負も希望へと変え、未来を築く。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100384",
+		"jp_text": "シャライラパシュテ",
+		"tr_text": "Chalyra Paxte",
+		"jp_explain": "ダーカー因子によって変貌を遂げた\n双機銃。玩具の姿は遊び心を刺激するが\n銃口からの弾雨には一片の慈悲もない。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100386",
+		"jp_text": "グレンノサミダレ",
+		"tr_text": "Guren no Samidare",
+		"jp_explain": "とある地方の伝統意匠を取り入れた\n紅蓮の双機銃。散りばめた金銀砂子と\n焔の装飾は美術品としても人気がある。",
+		"tr_explain": "Crimson-flamed guns based on a\ntraditional design. The inlaid flame\ndecorations are valued as art pieces."
+	},
+	{
+		"assign": "1100387",
+		"jp_text": "シエンノサミダレ",
+		"tr_text": "Shien no Samidare",
+		"jp_explain": "とある地方の伝統意匠を取り入れた\n紫炎の双機銃。散りばめた金銀砂子と\n焔の装飾は美術品としても人気がある。",
+		"tr_explain": "Violet-flamed guns based on a\ntraditional design. The inlaid flame\ndecorations are valued as art pieces."
+	},
+	{
+		"assign": "1100390",
+		"jp_text": "アーレスマシンガン-NT",
+		"tr_text": "Ares Machinegun-NT",
+		"jp_explain": "要塞の幻獣の力を宿した双機銃。装者に\nフォトンブラストの効果で譲らぬ力を\n与え、定めた標的を打ち破る。",
+		"tr_explain": "Twin machineguns harboring the\npower of a Photon Blast. They destroy\nthe target with unyielding strength."
+	},
+	{
+		"assign": "1100391",
+		"jp_text": "セレシオステガ",
+		"tr_text": "Ceres Zeostega",
+		"jp_explain": "太古の時代を思い起こさせる双機銃。\n自然物から制作されたと思われるが\nその技術については謎が多い。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100392",
+		"jp_text": "セレシオステガ・ザラ",
+		"tr_text": "Ceres Zeostega Zara",
+		"jp_explain": "太古の時代を思わせる双機銃。\n長き歳月から目覚めた時、溢れる力は\n弾丸へと変わり相対する者を撃ち貫く。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100401",
+		"jp_text": "ヤスミノコフ８０００Ｃ-NT",
+		"tr_text": "Yasminkov 8000C-NT",
+		"jp_explain": "一風変わったヤスミノコフ型双機銃。\nヘリカルマガジンを採用することで\nコンパクトながら屈指の装填数を誇る。",
+		"tr_explain": "An unusual shaped pair of guns. By\nadopting a helical magazine, it offers\ninstant reloading of ammo in seconds."
 	}
 ]

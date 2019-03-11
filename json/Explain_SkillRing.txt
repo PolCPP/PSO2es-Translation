@@ -39,21 +39,21 @@
 		"jp_text": "Ｐキーパー打撃",
 		"tr_text": "P. Keeper Striking",
 		"jp_explain": "パーフェクトキーパー打撃\nＨＰが一定の割合以上のとき\nエネミーへの打撃攻撃のダメージが増加する。",
-		"tr_explain": "Perfect Keeper - Striking\nIncreases striking attack damage when\nHP is above a certain value."
+		"tr_explain": "Perfect Keeper - Striking Increases\nstriking attack damage when HP is\nabove a certain value."
 	},
 	{
 		"assign": "7",
 		"jp_text": "Ｐキーパー射撃",
 		"tr_text": "P. Keeper Ranged",
 		"jp_explain": "パーフェクトキーパー射撃\nＨＰが一定の割合以上のとき\nエネミーへの射撃攻撃のダメージが増加する。",
-		"tr_explain": "Perfect Keeper - Ranged\nIncreases ranged attack damage when\nHP is above a certain value."
+		"tr_explain": "Perfect Keeper - Ranged Increases\nranged attack damage when HP is\nabove a certain value."
 	},
 	{
 		"assign": "8",
 		"jp_text": "Ｐキーパー法撃",
 		"tr_text": "P. Keeper Technique",
 		"jp_explain": "パーフェクトキーパー法撃\nＨＰが一定の割合以上のとき\nエネミーへの法撃攻撃のダメージが増加する。",
-		"tr_explain": "Perfect Keeper - Technique\nIncreases technique attack damage when\nHP is above a certain value."
+		"tr_explain": "Perfect Keeper - Technique\nIncreases technique attack damage\nwhen HP is above a certain value."
 	},
 	{
 		"assign": "9",
@@ -67,7 +67,7 @@
 		"jp_text": "ＰＰコンバート",
 		"tr_text": "PP Convert",
 		"jp_explain": "ＰＰコンバート／リング\n一定時間、ＰＰ自動回復量が上昇し\nＨＰ最大値が減少する。",
-		"tr_explain": "PP Convert/Ring\nTemporarily increases PP Auto-recovery\nwhile decreasing max HP."
+		"tr_explain": "PP Convert/Ring Temporarily\nincreases PP Auto-recovery while\ndecreasing max HP."
 	},
 	{
 		"assign": "11",
@@ -81,35 +81,35 @@
 		"jp_text": "ＥＰＰＲフィールド",
 		"tr_text": "EPPR Field",
 		"jp_explain": "エレメンタルＰＰリストレイトＦ／リング\n自分の周囲に、エネミーの弱点属性で攻撃を当てた\n場合ＰＰ回復量が上昇するフィールドを発生させる。",
-		"tr_explain": "Elemental PP Restore Field/Ring\nCreates a field that boosts PP regen when you\nattack matching the elemental weakness."
+		"tr_explain": "Elemental PP Restore Field/Ring\nCreates a field that boosts PP regen\nwhen you attack matching the\nelemental weakness."
 	},
 	{
 		"assign": "13",
 		"jp_text": "ブーストスレイヤー",
 		"tr_text": "Boost Slayer",
 		"jp_explain": "ブーストスレイヤー\nブーストエネミーに対して与える威力がアップし\n受けるダメージが軽減される。",
-		"tr_explain": "Boost Slayer\nIncreases damage towards boosted\nenemies, and decreases damage from them."
+		"tr_explain": "Boost Slayer Increases damage\ntowards boosted enemies, and\ndecreases damage from them."
 	},
 	{
 		"assign": "14",
 		"jp_text": "ＪＧソニックアロウ",
 		"tr_text": "JG Sonic Arrow",
 		"jp_explain": "ＪＧソニックアロウ\nソードでジャストガードを成功させると\nソニックアロウが発動する。",
-		"tr_explain": "Just Guard Sonic Arrow\nSonic Arrow activates after a\nJust Guard when using Sword-type weapons."
+		"tr_explain": "Just Guard Sonic Arrow Sonic Arrow\nactivates after a Just Guard when\nusing Sword-type weapons."
 	},
 	{
 		"assign": "15",
 		"jp_text": "ＪＧヘブンリーＦ",
 		"tr_text": "JG Heavenly F",
 		"jp_explain": "ＪＧヘブンリーフォール\nワイヤードランスでジャストガードを成功させると\nヘブンリーフォールが発動する。",
-		"tr_explain": "Just Guard Heavenly Fall\nHeavenly Fall activates after a Just Guard\nwhen using Wired Lance-type weapons."
+		"tr_explain": "Just Guard Heavenly Fall Heavenly\nFall activates after a Just Guard\nwhen using Wired Lance-type\nweapons."
 	},
 	{
 		"assign": "16",
 		"jp_text": "ＪＧライジングＦ",
 		"tr_text": "JG Rising F",
 		"jp_explain": "ＪＧライジングフラッグ\nパルチザンでジャストガードを成功させると\nライジングフラッグが発動する。",
-		"tr_explain": "Just Guard Rising Flag\nRising Flag activates after a Just Guard\nwhen using Partizan-type weapons."
+		"tr_explain": "Just Guard Rising Flag Rising Flag\nactivates after a Just Guard when\nusing Partizan-type weapons."
 	},
 	{
 		"assign": "17",
@@ -123,14 +123,14 @@
 		"jp_text": "ＴＤエアチェイス",
 		"tr_text": "TD Air Chase",
 		"jp_explain": "ツインダガーエアチェイス\nツインダガーの空中での通常攻撃と一部のＰＡに\nロックした敵へ近づく挙動が追加される。",
-		"tr_explain": "Twin Dagger Air Chase\nNormal attacks and certain PAs\nin the air will chase a locked on target."
+		"tr_explain": "Twin Dagger Air Chase Normal\nattacks and certain PAs in the air will\nchase a locked on target."
 	},
 	{
 		"assign": "19",
 		"jp_text": "ナックルチェイス",
 		"tr_text": "Knuckle Chase",
 		"jp_explain": "ナックルチェイス\nナックルの地上での通常攻撃と一部のＰＡに\nロックした敵へ近づく挙動が追加される。",
-		"tr_explain": "Knuckle Chase\nNormal attacks and certain PA's on the\nground will chase locked-on enemies."
+		"tr_explain": "Knuckle Chase Normal attacks and\ncertain PA's on the ground will chase\nlocked-on enemies."
 	},
 	{
 		"assign": "20",
@@ -143,50 +143,50 @@
 		"assign": "21",
 		"jp_text": "カタナギアガードＲ",
 		"tr_text": "Katana Gear Guard R",
-		"jp_explain": "カタナギアガードリリース\nカタナでガード状態を維持すると強制的にギアを解放。\n解放中、ギア増加量が大幅に減少する。",
-		"tr_explain": "Katana Gear Guard Release\nHold Guard to force a Gear release.\nDuring this release, Gear empties faster."
+		"jp_explain": "カタナギアガードリリース\nカタナでガード状態を維持するとギアが解放される。\nレベルが上がるとギア解放中のギア増加量が上昇。",
+		"tr_explain": "Katana Gear Guard Release Hold\nGuard to force a Gear release.\nDuring this release, Gear empties\nfaster."
 	},
 	{
 		"assign": "22",
 		"jp_text": "ＤＢスナッチ",
 		"tr_text": "DB Snatch",
 		"jp_explain": "デュアルブレードスナッチ\nデュアルブレードの武器アクションで移動した時\n敵に打撃ダメージを与える挙動が追加される。",
-		"tr_explain": "Dual Blade Snatch\nInflicts striking damage to enemies while\nmoving using the Dual Blade weapon action."
+		"tr_explain": "Dual Blade Snatch Inflicts striking\ndamage to enemies while moving\nusing the Dual Blade weapon action."
 	},
 	{
 		"assign": "23",
 		"jp_text": "テックＣパリング",
 		"tr_text": "Tech Parry Ring",
 		"jp_explain": "テックチャージパリング\nテクニック用武器のテクニックチャージ開始時に\nジャストガードが可能になる。",
-		"tr_explain": "Tech Charge Parry\nWhile using a teching weapon, you can\nJust Guard by starting to charge a Technique."
+		"tr_explain": "Tech Charge Parry While using a\nteching weapon, you can Just Guard\nby starting to charge a Technique."
 	},
 	{
 		"assign": "24",
 		"jp_text": "ＲＲフィールド",
 		"tr_text": "RR Field",
 		"jp_explain": "リキャストリバーサーフィールド\nリバーサーフィールドのリキャスト時間が軽減される。",
-		"tr_explain": "Recast Reverser Field\nReduces recast time of Reverser Field."
+		"tr_explain": "Recast Reverser Field Reduces\nrecast time of Reverser Field."
 	},
 	{
 		"assign": "25",
 		"jp_text": "ハンターギアセイブ",
 		"tr_text": "Hunter Gear Save",
 		"jp_explain": "ハンターギアセイブ\nハンターギアブーストが有効な時\nハンター武器のギア消費量と減少量が軽減される。",
-		"tr_explain": "Hunter Gear Save\nWhile Hunter Gear Boost is in effect, decreases\nthe rate that Gear empties and is consumed."
+		"tr_explain": "Hunter Gear Save While Hunter Gear\nBoost is in effect, decreases the rate\nthat Gear empties and is consumed."
 	},
 	{
 		"assign": "26",
 		"jp_text": "ハイタイムキープ",
 		"tr_text": "High Time Keep",
-		"jp_explain": "ハイタイムキープ\nショウタイム中に敵の攻撃を受けても\n一定確率でハイタイムが一度だけ維持される。",
-		"tr_explain": "High Time Keep\nGrants a chance to maintain High Time when\nyou get hit once during Showtime."
+		"jp_explain": "ハイタイムキープ\nハイタイムが解除されるまでの\nダメージ許容量が増加する。",
+		"tr_explain": "High Time Keep Grants a chance to\nmaintain High Time when you get hit\nonce during Showtime."
 	},
 	{
 		"assign": "27",
 		"jp_text": "ショートコンバット",
 		"tr_text": "Short Combat",
 		"jp_explain": "ショートコンバット\nカタナコンバット使用時\n通常攻撃で敵を追尾する挙動が削除される。",
-		"tr_explain": "Short Combat\nWhen using Katana Combat,\nbasic attacks no longer track enemies."
+		"tr_explain": "Short Combat When using Katana\nCombat, basic attacks no longer\ntrack enemies."
 	},
 	{
 		"assign": "31",
@@ -200,7 +200,7 @@
 		"jp_text": "クイックブラスター",
 		"tr_text": "Quick Blaster",
 		"jp_explain": "クイックブラスター\nＡ．Ｉ．Ｓスキル「フォトンブラスター」の\n発動が早くなる代わりに旋回性能が下がる。",
-		"tr_explain": "Quick Blaster\nThe A.I.S. skill \"Photon Blaster\" activates faster,\nbut its turning speed is reduced."
+		"tr_explain": "Quick Blaster The A.I.S. skill \"Photon\nBlaster\" activates faster, but its\nturning speed is reduced."
 	},
 	{
 		"assign": "33",
@@ -214,49 +214,49 @@
 		"jp_text": "ライトアーマー",
 		"tr_text": "Light Armor",
 		"jp_explain": "ライトアーマー\nＡ．Ｉ．Ｓの「ブースト」の消費ＰＰが減少するが\n代わりに被ダメージが上昇する。",
-		"tr_explain": "Light Armor\nReduces the PP cost of the A.I.S. Boost,\nbut increases damage taken."
+		"tr_explain": "Light Armor Reduces the PP cost of\nthe A.I.S. Boost, but increases\ndamage taken."
 	},
 	{
 		"assign": "35",
 		"jp_text": "バーンガード",
 		"tr_text": "Burn Guard",
 		"jp_explain": "バーンガード\n状態異常「バーン」に対する\n耐性を得る。",
-		"tr_explain": "Burn Guard\nGives resistance to the \"Burn\" status effect."
+		"tr_explain": "Burn Guard Gives resistance to the\n\"Burn\" status effect."
 	},
 	{
 		"assign": "36",
 		"jp_text": "フリーズガード",
 		"tr_text": "Freeze Guard",
 		"jp_explain": "フリーズガード\n状態異常「フリーズ」に対する\n耐性を得る。",
-		"tr_explain": "Freeze Guard\nGives resistance to the \"Freeze\" status effect."
+		"tr_explain": "Freeze Guard Gives resistance to the\n\"Freeze\" status effect."
 	},
 	{
 		"assign": "37",
 		"jp_text": "ショックガード",
 		"tr_text": "Shock Guard",
 		"jp_explain": "ショックガード\n状態異常「ショック」に対する\n耐性を得る。",
-		"tr_explain": "Shock Guard\nGives resistance to the \"Shock\" status effect."
+		"tr_explain": "Shock Guard Gives resistance to the\n\"Shock\" status effect."
 	},
 	{
 		"assign": "38",
 		"jp_text": "ミラージュガード",
 		"tr_text": "Mirage Guard",
 		"jp_explain": "ミラージュガード\n状態異常「ミラージュ」に対する\n耐性を得る。",
-		"tr_explain": "Mirage Guard\nGives resistance to the \"Mirage\" status effect."
+		"tr_explain": "Mirage Guard Gives resistance to the\n\"Mirage\" status effect."
 	},
 	{
 		"assign": "39",
 		"jp_text": "ポイズンガード",
 		"tr_text": "Poison Guard",
 		"jp_explain": "ポイズンガード\n状態異常「ポイズン」に対する\n耐性を得る。",
-		"tr_explain": "Poison Guard\nGives resistance to the \"Poison\" status effect."
+		"tr_explain": "Poison Guard Gives resistance to the\n\"Poison\" status effect."
 	},
 	{
 		"assign": "40",
 		"jp_text": "パニックガード",
 		"tr_text": "Panic Guard",
 		"jp_explain": "パニックガード\n状態異常「パニック」に対する\n耐性を得る。",
-		"tr_explain": "Panic Guard\nGives resistance to the \"Panic\" status effect."
+		"tr_explain": "Panic Guard Gives resistance to the\n\"Panic\" status effect."
 	},
 	{
 		"assign": "41",
@@ -270,7 +270,7 @@
 		"jp_text": "ＪＢエレメンタルキープ",
 		"tr_text": "JB Elemental Keep",
 		"jp_explain": "ジェットブーツエレメンタルキープ\n武器アクションを行っても、属性が破棄されず\n「エレメンタルバースト」も発動しなくなる。",
-		"tr_explain": "Jet Boots Elemental Keep\nElement is kept upon performing a weapon action.\nElemental Burst is no longer activated."
+		"tr_explain": "Jet Boots Elemental Keep Element is\nkept upon performing a weapon\naction. Elemental Burst is no longer\nactivated."
 	},
 	{
 		"assign": "43",
@@ -284,7 +284,7 @@
 		"jp_text": "Ａランチャーモード",
 		"tr_text": "A Launcher Mode",
 		"jp_explain": "アナザーランチャーモード\nランチャーの通常攻撃の弾道が変化し\n威力が上昇。攻撃範囲も広がる。",
-		"tr_explain": "Another Launcher Mode\nChanges the trajectory and boosts the\npower of a launcher's normal attack.\nAttack range is also increased."
+		"tr_explain": "Another Launcher Mode Changes the\ntrajectory and boosts the power of a\nlauncher's normal attack. Attack\nrange is also increased."
 	},
 	{
 		"assign": "45",
@@ -319,7 +319,7 @@
 		"jp_text": "ヒールシェア",
 		"tr_text": "Heal Share",
 		"jp_explain": "ヒールシェア／リング\nHPを回復した際、回復した値の一定割合分\n周囲のキャラクターを回復する。",
-		"tr_explain": "Heal Share/Ring\nHeals surrounding characters by a certain\namount upon recovering HP."
+		"tr_explain": "Heal Share/Ring Heals surrounding\ncharacters by a certain amount upon\nrecovering HP."
 	},
 	{
 		"assign": "50",
@@ -347,21 +347,21 @@
 		"jp_text": "Ｌノンウィークボーナス",
 		"tr_text": "L Non-Weak Bonus",
 		"jp_explain": "ランチャーノンウィークボーナス\nランチャー装備時、スキル「ウィークヒットアドバンス」の\n効果が弱点部位以外にも有効になる。",
-		"tr_explain": "Launcher Non-Weak Bonus\nWhile using Launchers, Weak Hit Advance\napplies even if not hitting a weak point."
+		"tr_explain": "Launcher Non-Weak Bonus While\nusing Launchers, Weak Hit Advance\napplies even if not hitting a weak\npoint."
 	},
 	{
 		"assign": "54",
 		"jp_text": "ステップジャンプ",
 		"tr_text": "Step Jump",
-		"jp_explain": "ステップジャンプ\nステップ後にジャンプを行うことで\nダッシュ状態へ移行する。",
-		"tr_explain": "Step Jump\nYou can begin dashing by jumping\nafter a Step."
+		"jp_explain": "ステップジャンプ\n回避アクション中にジャンプを行うことで\nダッシュ状態へ移行する。",
+		"tr_explain": "Step Jump\nYou can begin dashing by jumping\nafter an evasive action."
 	},
 	{
 		"assign": "55",
 		"jp_text": "ＪリバーサルＪＡコンボ",
 		"tr_text": "J Reversal JA Combo",
 		"jp_explain": "ジャストリバーサルジャストアタックコンボ\nジャストリバーサル後に\nジャストアタックタイミングが発生。",
-		"tr_explain": "Just Reversal JA Combo\nYou can perform a Just Attack following\na Just Reversal."
+		"tr_explain": "Just Reversal JA Combo You can\nperform a Just Attack following a\nJust Reversal."
 	},
 	{
 		"assign": "56",
@@ -387,79 +387,79 @@
 	{
 		"assign": "59",
 		"jp_text": "ヒーリングガード",
-		"tr_text": "Healing Guard",
+		"tr_text": "Heal Guard",
 		"jp_explain": "ヒーリングガード／リング\nジャストガード成功時\n自分と周囲にいるキャラクターのＨＰを回復する。",
-		"tr_explain": "Healing Guard/Ring\nUpon performing a Just Guard,\nrestore HP for yourself and surrounding characters."
+		"tr_explain": "Healing Guard/Ring Upon performing\na Just Guard, restore HP for yourself\nand surrounding characters."
 	},
 	{
 		"assign": "60",
 		"jp_text": "JAボーナス",
 		"tr_text": "JA Bonus",
 		"jp_explain": "JAボーナス\nテクニック以外のジャストアタックに\nダメージボーナスを得る。",
-		"tr_explain": "JA Bonus\nIncreases the damage of Just Attacks,\nexcept for Techniques."
+		"tr_explain": "JA Bonus Increases the damage of\nJust Attacks, except for Techniques."
 	},
 	{
 		"assign": "61",
 		"jp_text": "エフォートシンボルHu",
 		"tr_text": "Effort Symbol Hu",
 		"jp_explain": "エフォートシンボルハンター\n努力の末に得た堅牢な戦士の証",
-		"tr_explain": "Effort Symbol Hunter\nA badge signifying experience as a strong\nsoldier, earned by facing significant hardship."
+		"tr_explain": "Effort Symbol Hunter A badge\nsignifying experience as a strong\nsoldier, earned by facing significant\nhardship."
 	},
 	{
 		"assign": "62",
 		"jp_text": "エフォートシンボルRa",
 		"tr_text": "Effort Symbol Ra",
 		"jp_explain": "エフォートシンボルレンジャー\n努力の末に得た歴戦の射手の証",
-		"tr_explain": "Effort Symbol Ranger\nA badge signifying experience as a strong\nsoldier, earned by facing significant hardship."
+		"tr_explain": "Effort Symbol Ranger A badge\nsignifying experience as a strong\nsoldier, earned by facing significant\nhardship."
 	},
 	{
 		"assign": "63",
 		"jp_text": "エフォートシンボルFo",
 		"tr_text": "Effort Symbol Fo",
 		"jp_explain": "エフォートシンボルフォース\n努力の末に得た聡明な導士の証",
-		"tr_explain": "Effort Symbol Force\nA badge signifying experience as a strong\nsoldier, earned by facing significant hardship."
+		"tr_explain": "Effort Symbol Force A badge\nsignifying experience as a strong\nsoldier, earned by facing significant\nhardship."
 	},
 	{
 		"assign": "64",
 		"jp_text": "エフォートシンボルFi",
 		"tr_text": "Effort Symbol Fi",
 		"jp_explain": "エフォートシンボルファイター\n努力の末に得た屈強な闘士の証",
-		"tr_explain": "Effort Symbol Fighter\nA badge signifying experience as a strong\nsoldier, earned by facing significant hardship."
+		"tr_explain": "Effort Symbol Fighter A badge\nsignifying experience as a strong\nsoldier, earned by facing significant\nhardship."
 	},
 	{
 		"assign": "65",
 		"jp_text": "エフォートシンボルGu",
 		"tr_text": "Effort Symbol Gu",
 		"jp_explain": "エフォートシンボルガンナー\n努力の末に得た鮮烈な銃士の証",
-		"tr_explain": "Effort Symbol Gunner\nA badge signifying experience as a strong\nsoldier, earned by facing significant hardship."
+		"tr_explain": "Effort Symbol Gunner A badge\nsignifying experience as a strong\nsoldier, earned by facing significant\nhardship."
 	},
 	{
 		"assign": "66",
 		"jp_text": "エフォートシンボルTe",
 		"tr_text": "Effort Symbol Te",
 		"jp_explain": "エフォートシンボルテクター\n努力の末に得た博識な術士の証",
-		"tr_explain": "Effort Symbol Techer\nA badge signifying experience as a strong\nsoldier, earned by facing significant hardship."
+		"tr_explain": "Effort Symbol Techer A badge\nsignifying experience as a strong\nsoldier, earned by facing significant\nhardship."
 	},
 	{
 		"assign": "67",
 		"jp_text": "エフォートシンボルBr",
 		"tr_text": "Effort Symbol Br",
 		"jp_explain": "エフォートシンボルブレイバー\n努力の末に得た鋭敏な達人の証",
-		"tr_explain": "Effort Symbol Braver\nA badge signifying experience as a strong\nsoldier, earned by facing significant hardship."
+		"tr_explain": "Effort Symbol Braver A badge\nsignifying experience as a strong\nsoldier, earned by facing significant\nhardship."
 	},
 	{
 		"assign": "68",
 		"jp_text": "エフォートシンボルBo",
 		"tr_text": "Effort Symbol Bo",
 		"jp_explain": "エフォートシンボルバウンサー\n努力の末に得た瞬迅な跳躍者の証",
-		"tr_explain": "Effort Symbol Bouncer\nA badge signifying experience as a strong\nsoldier, earned by facing significant hardship."
+		"tr_explain": "Effort Symbol Bouncer A badge\nsignifying experience as a strong\nsoldier, earned by facing significant\nhardship."
 	},
 	{
 		"assign": "69",
 		"jp_text": "エフォートシンボルSu",
 		"tr_text": "Effort Symbol Su",
 		"jp_explain": "エフォートシンボルサモナー\n努力の末に得た秀麗な導き手の証",
-		"tr_explain": "Effort Symbol Summoner\nA badge signifying experience as a strong\nsoldier, earned by facing significant hardship."
+		"tr_explain": "Effort Symbol Summoner A badge\nsignifying experience as a strong\nsoldier, earned by facing significant\nhardship."
 	},
 	{
 		"assign": "90",
@@ -480,7 +480,7 @@
 		"jp_text": "テックアーツJAPPセイブ",
 		"tr_text": "Tech Arts JAPP Save",
 		"jp_explain": "テックアーツJAPPセイブ／リング\n同武器で異なるPAやテクニックを\n連続でジャストアタックするとPP消費が軽減される。",
-		"tr_explain": "Tech Arts JA PP Save/Ring\nReduces PP costs when performing\nconsecutive Just Attacks of PAs/Techniques."
+		"tr_explain": "Tech Arts JA PP Save/Ring Reduces\nPP costs when performing\nconsecutive Just Attacks of\nPAs/Techniques."
 	},
 	{
 		"assign": "71",
@@ -494,7 +494,7 @@
 		"jp_text": "ニアオートターゲット",
 		"tr_text": "Near Auto Target",
 		"jp_explain": "ニアオートターゲット\nタクトを一度振る事でペットが自動で\nプレイヤーが狙ったエネミーを攻撃する状態になる。",
-		"tr_explain": "Near Auto Target\nPet will attack the nearest enemy to the\nplayer with one wave of the tact."
+		"tr_explain": "Near Auto Target Pet will attack the\nnearest enemy to the player with\none wave of the tact."
 	},
 	{
 		"assign": "73",
@@ -522,7 +522,7 @@
 		"jp_text": "Ａロッドシュートモード",
 		"tr_text": "A. Rod Shoot Mode",
 		"jp_explain": "アナザーロッドシュートモード\nロッドシュートの法撃弾が着弾した時\n爆発し、周囲の敵を巻き込むようになる。",
-		"tr_explain": "Another Rod Shoot Mode\nRod Shoot's projectile explodes on impact,\naffecting enemies within range."
+		"tr_explain": "Another Rod Shoot Mode Rod Shoot's\nprojectile explodes on impact,\naffecting enemies within range."
 	},
 	{
 		"assign": "77",
@@ -536,7 +536,7 @@
 		"jp_text": "マグエキサイト",
 		"tr_text": "Mag Excite",
 		"jp_explain": "マグエキサイト\nマグのＳＰオートアクション以外の\nオートアクションの頻度と威力が上昇する。",
-		"tr_explain": "Mag Excite\nBoosts the frequency and power of your\nMag's auto action. Excludes SP auto actions."
+		"tr_explain": "Mag Excite Boosts the frequency and\npower of your Mag's auto action.\nExcludes SP auto actions."
 	},
 	{
 		"assign": "80",
@@ -578,14 +578,14 @@
 		"jp_text": "アトマイザーラバーズ",
 		"tr_text": "Atomizer Lovers",
 		"jp_explain": "アトマイザーラバーズ\nアトマイザー系アイテムを素早く使用できるようになり\n回復量も上昇する。",
-		"tr_explain": "Atomizer Lovers\nAllows quick usage of Atomizer-type items\nas well as increases their recovery effect."
+		"tr_explain": "Atomizer Lovers Allows quick usage\nof Atomizer-type items as well as\nincreases their recovery effect."
 	},
 	{
 		"assign": "86",
 		"jp_text": "フレイムＴＳチャージ",
 		"tr_text": "Flame TS Charge",
 		"jp_explain": "フレイムテックＳチャージ／リング\n炎系テクニックのチャージ時間を短縮する。",
-		"tr_explain": "Flame Tech S-Charge/Ring\nReduces the charge time of fire techniques."
+		"tr_explain": "Flame Tech S-Charge/Ring Reduces\nthe charge time of fire techniques."
 	},
 	{
 		"assign": "87",
@@ -599,6 +599,69 @@
 		"jp_text": "TマシンガンＳアップ",
 		"tr_text": "T. Machinegun S-Up",
 		"jp_explain": "ツインマシンガンスタンスアップ\nツインマシンガンを装備している間\nスタンススキルの効果に打撃・射撃威力上昇を追加。",
-		"tr_explain": "Twin Machinegun Stance Up\nAdds increased S-ATK and R-ATK to stance\nskill effects when a twin machinegun is equipped."
+		"tr_explain": "Twin Machinegun Stance Up Adds\nincreased S-ATK and R-ATK to\nstance skill effects when a twin\nmachinegun is equipped."
+	},
+	{
+		"assign": "91",
+		"jp_text": "****",
+		"tr_text": "",
+		"jp_explain": "****",
+		"tr_explain": ""
+	},
+	{
+		"assign": "92",
+		"jp_text": "パーティーオブタフネス",
+		"tr_text": "",
+		"jp_explain": "パーティーオブタフネス\nパーティー人数が２人以上の場合、人数に応じて\nエネミーからの被ダメージ量を軽減する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "93",
+		"jp_text": "ウィークヒットＰＰゲイン",
+		"tr_text": "",
+		"jp_explain": "ウィークヒットＰＰゲイン\n弱点部位に通常攻撃を当てた時に\nＰＰ回復量が上昇する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "94",
+		"jp_text": "ＪＧカウンター",
+		"tr_text": "",
+		"jp_explain": "ジャストガードカウンター\n「ＪＧヘブンリーＦ」「ＪＧライジングＦ」\n「ＪＧソニックアロウ」リングスキルＬｖ．２０の効果を得る。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "95",
+		"jp_text": "チェイスＷサポート",
+		"tr_text": "",
+		"jp_explain": "チェイスウィンドサポート\n「ＤＳカマイタチ」「ＴＤエアチェイス」\n「ナックルチェイス」リングスキルＬｖ．２０の効果を得る。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "96",
+		"jp_text": "タイムエンロール",
+		"tr_text": "",
+		"jp_explain": "タイムエンロール\n「フロントＳロール」「ハイタイムキープ」\nリングスキルＬｖ．２０の効果を得る。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "97",
+		"jp_text": "ディフェンステック",
+		"tr_text": "",
+		"jp_explain": "ディフェンステック\n「テックＣパリング」「ショートミラージュ」\nリングスキルＬｖ．２０の効果を得る。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "98",
+		"jp_text": "ブレイブパワー",
+		"tr_text": "",
+		"jp_explain": "ブレイブパワー\n「カタナＣカウントアップ」「バレットボウホーミング」\nリングスキルＬｖ．２０の効果を得る。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "99",
+		"jp_text": "キックエンスナッチ",
+		"tr_text": "",
+		"jp_explain": "キックエンスナッチ\n「ＤＢスナッチ」「ＪＢテックアーツＳＣ」\nリングスキルＬｖ．２０の効果を得る。",
+		"tr_explain": ""
 	}
 ]

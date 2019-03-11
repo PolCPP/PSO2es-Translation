@@ -67,14 +67,14 @@
 		"jp_text": "赤のジェットブーツ",
 		"tr_text": "Red Jet Boots",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした魔装脚。\n目映い赤色は必然的に目を引く。",
-		"tr_explain": ""
+		"tr_explain": "Jet boots whose experimental\ncoloring has become iconic. The\ndazzling red catches the eye."
 	},
 	{
 		"assign": "116016",
 		"jp_text": "青のジェットブーツ",
 		"tr_text": "Blue Jet Boots",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした魔装脚。\n目映い青色は必然的に目を引く。",
-		"tr_explain": ""
+		"tr_explain": "Jet boots whose experimental\ncoloring has become iconic. The\ndazzling blue catches the eye."
 	},
 	{
 		"assign": "116017",
@@ -284,7 +284,7 @@
 		"jp_text": "ライブリアクト",
 		"tr_text": "Live React",
 		"jp_explain": "最先端の生体工学を応用し開発された\n魔装脚。高純度培養液の循環により\n摩耗が軽減され、耐久性が増した。",
-		"tr_explain": ""
+		"tr_explain": "Jet boots made with state-of-the-art\nbioengineering. Enhanced with a\nhigh-purity culture solution."
 	},
 	{
 		"assign": "116056",
@@ -296,7 +296,7 @@
 	{
 		"assign": "116057",
 		"jp_text": "流花風華",
-		"tr_text": "Ruka Kazehana",
+		"tr_text": "Ryuuka Fuuka",
 		"jp_explain": "春の夜と飛ぶ鳥をモチーフに制作された\n魔装脚。漆を思わせる黒に満開の桜と\n流水が描かれた雅やかな逸品。",
 		"tr_explain": ""
 	},
@@ -305,7 +305,7 @@
 		"jp_text": "アーレスブーツ",
 		"tr_text": "Ares Boots",
 		"jp_explain": "一角獣の幻獣の力を宿した魔装脚。\n装者にフォトンブラストの効果で\n貫く力を与え、打破する力を授ける。",
-		"tr_explain": ""
+		"tr_explain": "Jet boots harboring the power of a\nPhoton Blast. They empower the\nwielder with piercing strength."
 	},
 	{
 		"assign": "116059",
@@ -333,14 +333,14 @@
 		"jp_text": "ネメシスシューズ",
 		"tr_text": "Nemesis Shoes",
 		"jp_explain": "古の時代に封印された聖なる魔装脚。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-		"tr_explain": ""
+		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
 	},
 	{
 		"assign": "116073",
 		"jp_text": "スレイヴシューズ",
 		"tr_text": "Slave Shoes",
 		"jp_explain": "古の時代に封印された邪なる魔装脚。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-		"tr_explain": ""
+		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
 	},
 	{
 		"assign": "116074",
@@ -424,7 +424,7 @@
 		"jp_text": "ロゼフロッツ／リヒト",
 		"tr_text": "Rose Flotz / Licht",
 		"jp_explain": "白夜の色を抱く魔装脚。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
-		"tr_explain": ""
+		"tr_explain": "Jet boots bearing the color of\nmidnight sun. Origins unknown, but\ncan be equipped by all classes."
 	},
 	{
 		"assign": "1160102",
@@ -438,7 +438,7 @@
 		"jp_text": "イデアルウォーカー",
 		"tr_text": "Ideal Walker",
 		"jp_explain": "新開発のフォトンジェネレーターを\n搭載した魔装脚。発せられる\nフォトンの輝きは次代の証とされる。",
-		"tr_explain": ""
+		"tr_explain": "A weapon powered by a photon\ngenerator. Its shining photons are\nsaid to be the sign of the next era."
 	},
 	{
 		"assign": "1160110",
@@ -497,9 +497,16 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "1160128",
+		"jp_text": "ブーツオブジブリル",
+		"tr_text": "Boots of Djibril",
+		"jp_explain": "とある教団の伝説をモチーフにした\n作品が元の魔装脚。黒と紫色を基調とし\n非常に優れた法撃性能を持つ。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1160129",
 		"jp_text": "ブランフルーク",
-		"tr_text": "Blanc Fluke",
+		"tr_text": "Bran Fluke",
 		"jp_explain": "風と空気を自在に操るといわれる\n魔装脚。気流に乗り、桁外れの攻撃力を\n披露する姿は正に空間の覇者。",
 		"tr_explain": ""
 	},
@@ -536,7 +543,7 @@
 		"jp_text": "ハイパーサンライト",
 		"tr_text": "Hyper Sunlight",
 		"jp_explain": "競技用に開発された、ホイールが\n高速回転するスポーティな魔装脚。\n内部ギアに特殊合金を採用！",
-		"tr_explain": "Developed for competitions, this sporty\npair of Jet Boots uses a special alloy\nfor hi-speed gear rotations."
+		"tr_explain": "Developed for competitions, these\nsporty Jet Boots use a special alloy\nfor their high-speed internal gears!"
 	},
 	{
 		"assign": "1160141",
@@ -550,6 +557,13 @@
 		"jp_text": "ノクスプラシス",
 		"tr_text": "Nox Placis",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き魔装脚。装者も\n恐怖するほどの法撃性能を宿す。",
+		"tr_explain": "Black jet boots produced in an illicit\nritual. Their Technique performance\nterrifies even their wielder."
+	},
+	{
+		"assign": "1160145",
+		"jp_text": "レーテプラシス",
+		"tr_text": "Raete Placis",
+		"jp_explain": "正当な手順を経た儀式により\n生み出された白き魔装脚。装者を多くの\n敵や困難から守る法撃力を宿す。",
 		"tr_explain": ""
 	},
 	{
@@ -564,6 +578,13 @@
 		"jp_text": "ブレードスタビライザー-NT",
 		"tr_text": "Blade Stabilizer-NT",
 		"jp_explain": "戦闘機の主翼を模して作られた魔装脚。\nブレード部分を可動させることで\n武器形態への変形を可能にしている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1160150",
+		"jp_text": "ディアカリナ",
+		"tr_text": "Dia Karina",
+		"jp_explain": "臨界寸前まで圧縮したフォトンを\n核に使用した魔装脚。非常に高出力で\n浮遊するだけでも高い技術力を要する。",
 		"tr_explain": ""
 	},
 	{
@@ -588,11 +609,18 @@
 		"tr_explain": "A purified pair of Jet Boots.\nIts unparalleled prowess crushes evil\nwith its supreme power."
 	},
 	{
+		"assign": "1160157",
+		"jp_text": "バジリスガナク",
+		"tr_text": "Basilis Ganak",
+		"jp_explain": "鋭利な突起と蛇腹状の表面が特徴的な\n魔装脚。フォトン伝導率に特化しており\n装者を選ばずに、性能を発揮できる。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1160162",
 		"jp_text": "フォルニスファネード",
 		"tr_text": "Fornis Fanado",
 		"jp_explain": "異なる力を宿した恐るべき魔装脚。\n優れた性能を誇っており\n炎風の力で標的を即座に仕留める。",
-		"tr_explain": ""
+		"tr_explain": "Fearsome jet boots bearing twin\npowers. The power of their flaming\nwinds instantly destroys the target."
 	},
 	{
 		"assign": "1160165",
@@ -637,6 +665,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "1160181",
+		"jp_text": "シューズドミナシオ",
+		"tr_text": "Shoes Dominacio",
+		"jp_explain": "新開発の演算装置を搭載した魔装脚。\n優れた最高出力を誇る反面、戦闘中は\n脳にかなりの負荷がかかる。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1160183",
 		"jp_text": "リグフーリーン",
 		"tr_text": "Rig Thulen",
@@ -658,6 +693,13 @@
 		"tr_explain": "Prototype Jet Boots, crafted in the\nform of greaves. Frontal protection\ncomplements the wide attack range."
 	},
 	{
+		"assign": "1160189",
+		"jp_text": "ヴァーデスグリーブ",
+		"tr_text": "Vades Greaves",
+		"jp_explain": "近接武器の設計図を基に開発された\n魔装脚。装者の負担を考慮せずに\n火力特化の設定がされた上級者向け。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1160190",
 		"jp_text": "イヴリダセルベス",
 		"tr_text": "Evleda Serbs",
@@ -672,6 +714,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "1160192",
+		"jp_text": "シュベルセルベス",
+		"tr_text": "Schvelle Serbs",
+		"jp_explain": "古に封印されし冥夜の魔装脚。\n現世に目覚めし闇は閃く舞となり\n生きし者絶やして、無界へと誘う。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1160196",
 		"jp_text": "レイＪブーツ",
 		"tr_text": "Ray Jet Boots",
@@ -683,14 +732,14 @@
 		"jp_text": "ユニオンＪブーツ",
 		"tr_text": "Union Jet Boots",
 		"jp_explain": "次世代の主力として開発された魔装脚。\n専用ブーストパーツが装着されたことで\n限界を超えた性能を発揮する。",
-		"tr_explain": "Jet Boots developed as the latest\nmodel. Augmented with boost parts,\nits performance exceed its limits."
+		"tr_explain": "Jet Boots developed as the latest\nmodel. Augmented with boost parts,\nits performance exceeds its limits."
 	},
 	{
 		"assign": "1160199",
 		"jp_text": "ショリードオービット",
 		"tr_text": "Sholidu Orbit",
 		"jp_explain": "新開発のフォトンリング機構を搭載した\n魔装脚。展開された部品が合体し\n闇を刻む流星の刃へと姿を変える。",
-		"tr_explain": "Jet Boots with a Photon Ring Device.\nThe ring's parts can form a meteor-like\nblade that carves into the darkness."
+		"tr_explain": "Jet Boots with a Photon Ring Device.\nThe expanded parts form a meteoric\nblade that carves through darkness."
 	},
 	{
 		"assign": "1160202",
@@ -779,9 +828,9 @@
 	{
 		"assign": "1160214",
 		"jp_text": "ノクスプラシス-NT",
-		"tr_text": "Nox Plasis-NT",
+		"tr_text": "Nox Placis-NT",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き魔装脚。装者も\n恐怖するほどの法撃性能を宿す。",
-		"tr_explain": ""
+		"tr_explain": "Black jet boots produced in an illicit\nritual. Their Technique performance\nterrifies even their wielder."
 	},
 	{
 		"assign": "1160215",
@@ -823,7 +872,7 @@
 		"jp_text": "斬霜",
 		"tr_text": "Kirishimo",
 		"jp_explain": "極寒の地にある集落で打たれたという\n刃が装着された魔装脚。込められた\n呪いの力が氷の華となって敵を襲う。",
-		"tr_explain": "A pair of Jet Boots found in the frigid\nlands. The cursed blades shatter foes,\nas if they were brittle ice flowers."
+		"tr_explain": "A pair of Jet Boots from a frigid land.\nThe cursed blades shatter foes as if\nthey were brittle ice flowers."
 	},
 	{
 		"assign": "1160225",
@@ -844,7 +893,28 @@
 		"jp_text": "アストラドライブ",
 		"tr_text": "Astra Drive",
 		"jp_explain": "マザーの残滓たる、幻創の魔装脚。\n身につけていると、衝動的にどこか\n遠く暗い所へ行ってしまいそうになる。",
-		"tr_explain": "Jet Boots imbued with Mother's\npower. It forces the user to revisit the\ndarkest corners of their minds."
+		"tr_explain": "Phantom boots imbued with Mother's\npower. They drive their wearer into\nthe darkest corners of their mind."
+	},
+	{
+		"assign": "1160228",
+		"jp_text": "ズィレンハイト-NT",
+		"tr_text": "Zirenheit-NT",
+		"jp_explain": "徹底的に隠密性を高めた魔装脚。\n透刃マイを参考に基礎設計が行われ\nゼルシウスの素材を用いて作られた。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1160229",
+		"jp_text": "リュミエルゲトル",
+		"tr_text": "Lumiere Gettle",
+		"jp_explain": "古より伝わる陽光の魔装脚。\n導きの光を持つ聖なる流技は\n闇を閉ざし、静かなる世を導く。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1160230",
+		"jp_text": "ジュティスゲトル",
+		"tr_text": "Jutus Gettle",
+		"jp_explain": "古より伝わる陽光の魔装脚。\n純潔なる解放者を導きし聖なる流技は\n希望の道を解放せんと戦場に立つ。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "1160236",
@@ -868,6 +938,27 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "1160242",
+		"jp_text": "オメガルフデファス",
+		"tr_text": "Omegalf Dephase",
+		"jp_explain": "オメガウルフの毛皮を使用した\n魔装脚。今にも襲いかからんと疾駆する\n姿は、本能的な恐怖を与える。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1160243",
+		"jp_text": "ウルフォイエデファス",
+		"tr_text": "Wolfoie Ediphase",
+		"jp_explain": "ウルフフォイエの毛皮を使用した\n魔装脚。装者の攻撃意志に応じて\n敵対する者を燃やし尽くす。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1160245",
+		"jp_text": "ギレスヴァイエン",
+		"tr_text": "Gilles Weihen",
+		"jp_explain": "孤高の騎士に与えられたという\n狼の意匠を持つ魔装脚。幾度となく\n戦場を超えて尚、朽ちる様子はない。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1160249",
 		"jp_text": "グレヴァーン-NT",
 		"tr_text": "Grevahn-NT",
@@ -879,6 +970,146 @@
 		"jp_text": "ディオグレヴァーン-NT",
 		"tr_text": "Dio Grevahn-NT",
 		"jp_explain": "無駄を省くという設計思想の魔装脚。\n新開発された素材により、耐久力と\n安定性を向上させた。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1160251",
+		"jp_text": "バルエグゾセ",
+		"tr_text": "Val Exocet",
+		"jp_explain": "過去に戦場となった地域から発掘された\n魔装脚。全体の半分程度が破損しており\n性能も大半が失われている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1160252",
+		"jp_text": "アトラエグゾセ",
+		"tr_text": "Atlas Exocet",
+		"jp_explain": "過去に戦場となった地域から発掘された\n魔装脚。欠落箇所と装飾が修復され\n本来の性能と美しさが復元されている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1160253",
+		"jp_text": "アトラエグゾセ・イクス",
+		"tr_text": "Atlas Exocet Ex",
+		"jp_explain": "過去に戦場となった地域から発掘された\n魔装脚。真紅の突晶は真の力を取り戻し\n赤き光跡が空間を縦横無尽に制圧する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1160256",
+		"jp_text": "クラーデムカージス",
+		"tr_text": "Clawdem Cargis",
+		"jp_explain": "ダーカー因子によって変貌を遂げた\n魔装脚。鉤爪の切先は全知を掴むべく\n標的に容赦なく突き立てられる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1160258",
+		"jp_text": "フォボスイグノール",
+		"tr_text": "Phobos Ignore",
+		"jp_explain": "禍々しいフォルムと幾重ものブレードを\n併せ持った魔装脚。見たものを恐怖に\n陥れる形状で、敵を容赦なく蹂躙する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1160261",
+		"jp_text": "ネメシスシューズ-NT",
+		"tr_text": "Nemesis Shoes-NT",
+		"jp_explain": "古の時代に封印された聖なる魔装脚。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
+		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
+	},
+	{
+		"assign": "1160262",
+		"jp_text": "スレイヴシューズ-NT",
+		"tr_text": "Slave Shoes-NT",
+		"jp_explain": "古の時代に封印された邪なる魔装脚。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
+		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
+	},
+	{
+		"assign": "1160265",
+		"jp_text": "夕雁渡-NT",
+		"tr_text": "Yuukari Watashi-NT",
+		"jp_explain": "漆器を思わせる黒に、飛ぶ鳥を思わせる\n見事な金の装飾が美しい魔装脚。優美な\nその姿に魅了されるものは数多い。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1160266",
+		"jp_text": "インヴェイドスライダー-NT",
+		"tr_text": "Invade Slider-NT",
+		"jp_explain": "【深遠なる闇】より生まれし負の\n魔装脚。古の言霊に魅せられ\n全能だけを渇望する探求者となる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1160267",
+		"jp_text": "オフスティアスライダー-NT",
+		"tr_text": "Austere Slider-NT",
+		"jp_explain": "負の力を識り、制することで転化した\n浄化の魔装脚。その比類なき神算は\n平穏を導き、至高の知となる。",
+		"tr_explain": "A purified pair of Jet Boots.\nIts unparalleled prowess crushes evil\nwith its supreme power."
+	},
+	{
+		"assign": "1160268",
+		"jp_text": "ホムラノソウヨク",
+		"tr_text": "Homura no Souyoku",
+		"jp_explain": "とある地方の伝統意匠を取り入れた\n魔装脚。焔で邪を討つために\n特殊な技法を用いて作られた。",
+		"tr_explain": "Jet boots based on a traditional\ndesign. Created with a special\ntechnique to burn away evil."
+	},
+	{
+		"assign": "1160269",
+		"jp_text": "グレンノソウヨク",
+		"tr_text": "Guren no Souyoku",
+		"jp_explain": "とある地方の伝統意匠を取り入れた\n紅蓮の魔装脚。焔で邪を討つために\n特殊な技法を用いて作られた。",
+		"tr_explain": "Crimson-flamed jet boots based on a\ntraditional design. Created with a\nspecial technique to burn away evil."
+	},
+	{
+		"assign": "1160270",
+		"jp_text": "シエンノソウヨク",
+		"tr_text": "Shien no Souyoku",
+		"jp_explain": "とある地方の伝統意匠を取り入れた\n紫炎の魔装脚。焔で邪を討つために\n特殊な技法を用いて作られた。",
+		"tr_explain": "Violet-flamed jet boots based on a\ntraditional design. Created with a\nspecial technique to burn away evil."
+	},
+	{
+		"assign": "1160273",
+		"jp_text": "アーレスブーツ-NT",
+		"tr_text": "Ares Boots-NT",
+		"jp_explain": "一角獣の幻獣の力を宿した魔装脚。\n装者にフォトンブラストの効果で\n貫く力を与え、打破する力を授ける。",
+		"tr_explain": "Jet boots harboring the power of a\nPhoton Blast. They empower the\nwielder with piercing strength."
+	},
+	{
+		"assign": "1160274",
+		"jp_text": "セレネクオルス",
+		"tr_text": "Ceres Necrus",
+		"jp_explain": "太古の時代を思い起こさせる魔装脚。\nその製作技術についての記録が存在せず\n形状の意図は不明。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1160275",
+		"jp_text": "セレネクオルス・ザラ",
+		"tr_text": "Ceres Necrus Zara",
+		"jp_explain": "太古の時代を思わせる魔装脚。\n目覚めさせた者を主と定め\nその類まれなる力を授けるという。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1160277",
+		"jp_text": "深遠脚ベンディシオン",
+		"tr_text": "Profound Bendixion",
+		"jp_explain": "終わりなき物語を辿る者の絶望により\n生み出された魔装脚。希望は潰えて\n暗黒へ染まり、一切の灯火を排斥する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1160278",
+		"jp_text": "星震脚ベンディシオン",
+		"tr_text": "Celestial Bendixion",
+		"jp_explain": "時を遡る者の世界を想う心によって\n覚醒した魔装脚。瞬く星のように\n意志は輝き、希望の光彩を呼び戻す。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1160279",
+		"jp_text": "光跡脚ベンディシオン",
+		"tr_text": "Lightstream Bendixion",
+		"jp_explain": "時を遡りし者の結んだ絆が創り出した\n星を繋ぐ魔装脚。大いなる希望は\n光となり、未来への道を駆け昇る。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1160283",
+		"jp_text": "禍蹴ピリカネト-NT",
+		"tr_text": "Evil Pirikanet-NT",
+		"jp_explain": "惑星ハルコタンで発掘された魔装脚。\n澄んだ湖面を思わせる美しい刃だったが\n『禍津』により不気味な武器となった。",
 		"tr_explain": ""
 	}
 ]

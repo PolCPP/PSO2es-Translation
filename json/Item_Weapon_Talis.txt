@@ -368,7 +368,7 @@
 		"jp_text": "アーレスタリス",
 		"tr_text": "Ares Talis",
 		"jp_explain": "白魚の幻獣の力を宿した導具。装者に\nフォトンブラストの効果で惑わぬ力を\n与え、精度の高い法撃を可能にする。",
-		"tr_explain": ""
+		"tr_explain": "A talis harboring the power of a\nPhoton Blast. It boosts the accuracy of\nTechniques with perplexing strength."
 	},
 	{
 		"assign": "112067",
@@ -431,14 +431,14 @@
 		"jp_text": "赤のタリス",
 		"tr_text": "Red Talis",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした導具。\n目映い赤色は必然的に目を引く。",
-		"tr_explain": ""
+		"tr_explain": "A talis whose experimental coloring\nhas become iconic. The dazzling red\ncatches the eye."
 	},
 	{
 		"assign": "112084",
 		"jp_text": "青のタリス",
 		"tr_text": "Blue Talis",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした導具。\n目映い青色は必然的に目を引く。",
-		"tr_explain": ""
+		"tr_explain": "A talis whose experimental coloring\nhas become iconic. The dazzling blue\ncatches the eye."
 	},
 	{
 		"assign": "112085",
@@ -557,7 +557,7 @@
 		"jp_text": "ガルウィンド／ナハト",
 		"tr_text": "Gal Wind / Nacht",
 		"jp_explain": "闇夜の色を抱く導具。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
-		"tr_explain": ""
+		"tr_explain": "A talis painted black as night. Its\norigins are unknown, but it inspires\ngreatness in its owner."
 	},
 	{
 		"assign": "1120115",
@@ -634,7 +634,7 @@
 		"jp_text": "ライブビロリア",
 		"tr_text": "Live Biloria",
 		"jp_explain": "最先端の生体工学を応用し開発された\n導具。高純度培養液を含む生体部品が\n敵の組織を蝕むダメージを与える。",
-		"tr_explain": ""
+		"tr_explain": "A talis made with state-of-the-art\nbioengineering. Enhanced with a\nhigh-purity culture solution."
 	},
 	{
 		"assign": "1120134",
@@ -655,6 +655,13 @@
 		"jp_text": "ダーフフェリタ",
 		"tr_text": "Darf Ferita",
 		"jp_explain": "ダークファルスの生体を解析し流用した\n導具。華麗な羽根カードが流線の軌道を\n描き、鳥が飛ぶように標的を仕留める。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1120140",
+		"jp_text": "マフィーシュクル",
+		"tr_text": "Muffisucre",
+		"jp_explain": "パティシエが宣伝用に製作した導具。\n宣伝用から実戦用に改善された。\n大気中のフォトンを効率的に集束する。",
 		"tr_explain": ""
 	},
 	{
@@ -760,14 +767,14 @@
 		"jp_text": "ネメシスシンボル",
 		"tr_text": "Nemesis Symbol",
 		"jp_explain": "古の時代に封印された聖なる導具。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-		"tr_explain": ""
+		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
 	},
 	{
 		"assign": "1120176",
 		"jp_text": "スレイヴシンボル",
 		"tr_text": "Slave Symbol",
 		"jp_explain": "古の時代に封印された邪なる導具。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-		"tr_explain": ""
+		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
 	},
 	{
 		"assign": "1120178",
@@ -819,10 +826,24 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "1120199",
+		"jp_text": "アルタフェイナ",
+		"tr_text": "Alta Feina",
+		"jp_explain": "次元を越えるほどの力を秘めた導具。\n鮮烈な輝きを放つ羽を経由して\n放たれるテクニックは強力無比。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1120201",
 		"jp_text": "ノクスクリーグ",
 		"tr_text": "Nox Krieg",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き導具。\n装者も戦慄するほどの法撃力を宿す。",
+		"tr_explain": "A black talis produced in an illicit\nritual. The power of its Techniques\nterrifies even its wielder."
+	},
+	{
+		"assign": "1120202",
+		"jp_text": "レーテクリーグ",
+		"tr_text": "Raete Krieg",
+		"jp_explain": "正当な手順を経た儀式により\n生み出された白き導具。装者を守り\nサポートする絶大な法撃力を宿す。",
 		"tr_explain": ""
 	},
 	{
@@ -844,7 +865,14 @@
 		"jp_text": "フロティアオービット",
 		"tr_text": "Flotia Orbit",
 		"jp_explain": "新開発のフォトンリング機構を搭載した\n導具。展開された部品が合体し\n万象を操る刃へと姿を変える。",
-		"tr_explain": "A Talis with a Photon Ring Device.\nIts expanded parts allow it to influence\nphotons spread across the universe."
+		"tr_explain": "A Talis with a Photon Ring Device. Its\nexpanded parts allow it to influence\nphotons spread across the universe."
+	},
+	{
+		"assign": "1120210",
+		"jp_text": "ディアエルノ",
+		"tr_text": "Dia Ernoe",
+		"jp_explain": "臨界寸前まで圧縮したフォトンを\n核に使用した導具。フォトン伝導率が\n高く、装者にも大きな負担がかかる。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "1120212",
@@ -865,7 +893,14 @@
 		"jp_text": "オフスティアアルム",
 		"tr_text": "Austere Arm",
 		"jp_explain": "負の力を識り、制することで転化した\n浄化の導具。与えられた大いなる智慧は\n弱きを救い、安寧をもたらす力となる。",
-		"tr_explain": "A purified Talis.\nIts amazing power brings\nwisdom and salvation\nto the weak and hopeless."
+		"tr_explain": "A purified Talis. Its amazing power\nbrings wisdom and salvation to the\nweak and hopeless."
+	},
+	{
+		"assign": "1120217",
+		"jp_text": "バジリスアグス",
+		"tr_text": "Basilis Agus",
+		"jp_explain": "鋭利な突起と蛇腹状の表面が特徴的な\n導具。テクニック行使の効率化のため\n専用機関が付いており、重量がある。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "1120222",
@@ -903,6 +938,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "1120236",
+		"jp_text": "カードドミナシオ",
+		"tr_text": "Card Dominacio",
+		"jp_explain": "新開発の演算装置を搭載した導具。\n優れた最高出力を誇る反面、戦闘中は\n脳にかなりの負荷がかかる。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1120238",
 		"jp_text": "イヴリダフォセレ",
 		"tr_text": "Evleda Phossele",
@@ -914,6 +956,13 @@
 		"jp_text": "クリシスフォセレ",
 		"tr_text": "Cleasis Phossele",
 		"jp_explain": "古に封印されし冥夜の導具。\n廉直なる導士を魅了せし禁忌の法は\n魂と合わさりし時、全て等しく破壊する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1120240",
+		"jp_text": "シュベルフォセレ",
+		"tr_text": "Schvelle Phossele",
+		"jp_explain": "古に封印されし冥夜の導具。\n現世に目覚めし闇は強大な戒めとなり\n生命の灯火を打ち消し、無へと帰す。",
 		"tr_explain": ""
 	},
 	{
@@ -935,7 +984,7 @@
 		"jp_text": "フォルニスオジェンド",
 		"tr_text": "Fornis Ogend",
 		"jp_explain": "異なる力を宿した恐るべき導具。\n扱いは極めて難しいが、性能は高く\nまとうフォトンは雷光のように鋭い。",
-		"tr_explain": "A unique Talis of boundless power.\nPhotons as bright as a thunderstorm\nengulf foes with unmatched efficiency."
+		"tr_explain": "A fearsome talis bearing twin\npowers. Difficult to handle, but its\nphotons shine like a bolt of lightning."
 	},
 	{
 		"assign": "1120249",
@@ -1047,7 +1096,7 @@
 		"jp_text": "ノクスクリーグ-NT",
 		"tr_text": "Nox Krieg-NT",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き導具。\n装者も戦慄するほどの法撃力を宿す。",
-		"tr_explain": ""
+		"tr_explain": "A black talis produced in an illicit\nritual. The power of its Techniques\nterrifies even its wielder."
 	},
 	{
 		"assign": "1120265",
@@ -1096,7 +1145,7 @@
 		"jp_text": "アストラヘイト",
 		"tr_text": "Astra Hate",
 		"jp_explain": "マザーの残滓たる、幻創の導具。\n常人には理解できぬ膨大な知識と\n底なしの憎悪が封じられている。",
-		"tr_explain": "A Talis imbued with Mother's power.\nThe vast ocean of knowledge within\ncontains nothing but eternal scorn."
+		"tr_explain": "A Phantom talis imbued with Mother's\npower. None can understand its vast\nknowledge, or its equally vast hatred."
 	},
 	{
 		"assign": "1120272",
@@ -1106,17 +1155,66 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "1120277",
+		"jp_text": "リュミエルサルース",
+		"tr_text": "Lumiere Salus",
+		"jp_explain": "古より伝わる陽光の導具。\n解き放たれし聖なる導き手は\n闇を戒め、静かな世へと導く。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1120278",
+		"jp_text": "ジュティスサルース",
+		"tr_text": "Jutus Salus",
+		"jp_explain": "古より伝わる陽光の導具。\n廉直なる道士に紡がれし聖なる法は\n生者に希望を授け、闇を全て破壊する。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1120281",
 		"jp_text": "デモニアフェザー",
 		"tr_text": "Demonia Feather",
 		"jp_explain": "悪魔によりもたらされたと言われる\n導具。他の武器は付属しているが\n機能が制限されているため使用不可。",
+		"tr_explain": "A talis that was created by a demon.\nOther weapons are included in the\ndesign, but are disabled."
+	},
+	{
+		"assign": "1120291",
+		"jp_text": "リスレニスメギドサラー",
+		"tr_text": "Wrislenithe Megidcerer",
+		"jp_explain": "メギドソーサラーの組織の一部を\n再利用した導具。放たれる法撃で\n絶命した時、笑い声を聞くという。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1120292",
+		"jp_text": "スロマーチメギドサラー",
+		"tr_text": "Slomarch Megidcerer",
+		"jp_explain": "メギドソーサラーの組織の一部を\n再利用した導具。狙われたら最後\n必ず死を迎えるという謂れがある。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120293",
 		"jp_text": "[NPC]ストラトス：タリス",
-		"tr_text": "",
+		"tr_text": "[NPC] Stratos Talis",
 		"jp_explain": "[NPC]ストラトス：タリス",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1120298",
+		"jp_text": "バトルタリスＬｖ１",
+		"tr_text": "Battle Talis Lv1",
+		"jp_explain": "バトルアリーナ用に調整された導具。\n純粋に技を競うため基本性能のみを\n強化している。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1120299",
+		"jp_text": "バトルタリスＬｖ２",
+		"tr_text": "Battle Talis Lv2",
+		"jp_explain": "バトルアリーナ用に調整された導具。\n戦技比較が目的となるため\n基本性能の強化にとどまっている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1120300",
+		"jp_text": "バトルタリスＬｖ３",
+		"tr_text": "Battle Talis Lv3",
+		"jp_explain": "バトルアリーナ専用に作られた導具。\n戦技比較用に特化しており、力量が\nより発揮される調整となっている。",
 		"tr_explain": ""
 	},
 	{
@@ -1131,6 +1229,153 @@
 		"jp_text": "マイセン-NT",
 		"tr_text": "Maisen-NT",
 		"jp_explain": "踊り子が決して手離さないという導具。\nゆらゆらと舞い踊るその姿は\n華美の一言につきる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1120305",
+		"jp_text": "バルレトラ",
+		"tr_text": "Val Retra",
+		"jp_explain": "過去に戦場となった地域から発掘された\n導具。かろうじて原型を留めているが\n欠損が激しく、焼け焦げた痕跡もある。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1120306",
+		"jp_text": "アトラレトラ",
+		"tr_text": "Atlas Retra",
+		"jp_explain": "過去に戦場となった地域から発掘された\n導具。破損箇所が修復され、美しい\n装丁と瞳に似た宝石が目を引く。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1120307",
+		"jp_text": "アトラレトラ・イクス",
+		"tr_text": "Atlas Retra Ex",
+		"jp_explain": "過去に戦場となった地域から発掘された\n導具。眠れる宝石が目を覚ました姿。\n奇跡を起こすように勝利を導くという。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1120309",
+		"jp_text": "リュミホーレー",
+		"tr_text": "Lumiholy",
+		"jp_explain": "武術に長けた正義感の強いアークスが\n好んで使用する導具。増幅フォトンが\n羽となって舞い散り、カードを彩る。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1120312",
+		"jp_text": "クラーデムケイジ",
+		"tr_text": "Clawdem Cage",
+		"jp_explain": "ダーカー因子によって変貌を遂げた\n導具。鳥かごの様な姿は、隙あらば\n主の魂を敗北の檻にいざなう。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1120321",
+		"jp_text": "フォボスユデクス",
+		"tr_text": "Phobos Judix",
+		"jp_explain": "禍々しいフォルムと幾重ものブレードを\n併せ持った導具。標的をどこまでも\n追い詰め、確実に恐怖と断罪を与える。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1120323",
+		"jp_text": "ホムラノコチョウ",
+		"tr_text": "Homura no Kochou",
+		"jp_explain": "とある地方の伝統意匠を取り入れた\n導具。法撃力を高めるため、自ら\n焔に焼かれ蘇った蝶の伝承を再現した。",
+		"tr_explain": "A talis based on a traditional design.\nBased on a moth that burned, then\ncame back to life."
+	},
+	{
+		"assign": "1120327",
+		"jp_text": "ネメシスシンボル-NT",
+		"tr_text": "Nemesis Symbol-NT",
+		"jp_explain": "古の時代に封印された聖なる導具。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
+		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
+	},
+	{
+		"assign": "1120328",
+		"jp_text": "スレイヴシンボル-NT",
+		"tr_text": "Slave Symbol-NT",
+		"jp_explain": "古の時代に封印された邪なる導具。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
+		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
+	},
+	{
+		"assign": "1120329",
+		"jp_text": "忌藤袴-NT",
+		"tr_text": "Ki Fujibakama-NT",
+		"jp_explain": "厄払いとして投じられる伝統品を\n武装用として加工錬成した導具。\n福を寄せ、忌を遠ざけるという。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1120330",
+		"jp_text": "モタブの禁書",
+		"tr_text": "Motav Grimoire",
+		"jp_explain": "古のフォースが残したという導具。\nテクニック開拓者による秘密が\n記された、もう一つの古代書。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1120331",
+		"jp_text": "インヴェイドアルム-NT",
+		"tr_text": "Invade Arm-NT",
+		"jp_explain": "【深遠なる闇】より生まれし負の導具。\n装者に万の叡知を与えるが\n純然たる力の狂信者へと変貌させる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1120332",
+		"jp_text": "オフスティアアルム-NT",
+		"tr_text": "Austere Arm-NT",
+		"jp_explain": "負の力を識り、制することで転化した\n浄化の導具。与えられた大いなる智慧は\n弱きを救い、安寧をもたらす力となる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1120333",
+		"jp_text": "深遠符オラシオン",
+		"tr_text": "Profound Oraxion",
+		"jp_explain": "終わりなき物語を辿る者の絶望により\n生み出された導具。祈りすら届かない\n重く深い負の闇の力を宿す。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1120334",
+		"jp_text": "星震符オラシオン",
+		"tr_text": "Celestial Oraxion",
+		"jp_explain": "時を遡る者の世界を想う心によって\n覚醒した導具。純然たる祈りの結晶は\n負を滅して、世界に光を届ける。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1120335",
+		"jp_text": "光跡符オラシオン",
+		"tr_text": "Lightstream Oraxion",
+		"jp_explain": "時を遡りし者の結んだ絆が創り出した\n星を繋ぐ導具。想いと祈りは力となり\n己が望む未来への道を築く。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1120344",
+		"jp_text": "グレンノコチョウ",
+		"tr_text": "Guren no Kochou",
+		"jp_explain": "とある地方の伝統意匠を取り入れた\n紅蓮の導具。法撃力を高めるため、自ら\n焔に焼かれ蘇った蝶の伝承を再現した。",
+		"tr_explain": "A crimson-flamed talis based on a\ntraditional design. Based on a moth\nthat burned, then came back to life."
+	},
+	{
+		"assign": "1120345",
+		"jp_text": "シエンノコチョウ",
+		"tr_text": "Shien no Kochou",
+		"jp_explain": "とある地方の伝統意匠を取り入れた\n紫炎の導具。法撃力を高めるため、自ら\n焔に焼かれ蘇った蝶の伝承を再現した。",
+		"tr_explain": "A violet-flamed talis based on a\ntraditional design. Based on a moth\nthat burned, then came back to life."
+	},
+	{
+		"assign": "1120346",
+		"jp_text": "アーレスタリス-NT",
+		"tr_text": "Ares Talis-NT",
+		"jp_explain": "白魚の幻獣の力を宿した導具。装者に\nフォトンブラストの効果で惑わぬ力を\n与え、精度の高い法撃を可能にする。",
+		"tr_explain": "A talis harboring the power of a\nPhoton Blast. It boosts the accuracy of\nTechniques with perplexing strength."
+	},
+	{
+		"assign": "1120347",
+		"jp_text": "セレディクテウス",
+		"tr_text": "Ceres Dictheus",
+		"jp_explain": "太古の時代を思い起こさせる導具。\n生物の骨で作られたこと以外は謎で\n解明を求める声も多い。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1120348",
+		"jp_text": "セレディクテウス・ザラ",
+		"tr_text": "Ceres Dictheus Zara",
+		"jp_explain": "太古の時代を思わせる導具。\n目覚めたその力は、フォトンに呼応し\n扱う者を守るように法撃を放つ。",
 		"tr_explain": ""
 	}
 ]

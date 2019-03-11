@@ -303,7 +303,7 @@
 	{
 		"assign": "350046",
 		"jp_text": "魚介の包み焼き",
-		"tr_text": "Grilled Wraped Seafood",
+		"tr_text": "Grilled Wrapped Seafood",
 		"jp_explain": "新鮮な具材を海藻で包んで焼いた料理。\n【１分間】特殊取得率＋５０％\n追加採取、釣り率＋３％\n<yellow>同種の料理は効果が上書きされます。<c>",
 		"tr_explain": "Freshest fish wrapped into seaweed.\n[1 min] +50% Special Material Rate\n+3% Extra Harvest/Fishing Rate\n<yellow>Same dish will overwrite the effect.<c>"
 	},
@@ -319,7 +319,7 @@
 		"jp_text": "黒ノ領域ダツのガレット",
 		"tr_text": "Kuron Needlefish Galette",
 		"jp_explain": "生地を四角く折り具を包んだ焼き料理。\n【１分間】小型取得率＋５０％\n追加採取、釣り率＋３％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"tr_explain": "Baked dish dough wrapped into a square.\n[1 min] +50% Small Material Rate\n+3% Extra Harvest/Fishing Rate\n<yellow>Same dish will overwrite the effect.<c>"
+		"tr_explain": "Baked dish dough wrapped into a\nsquare. [1 min] +50% Small Material\nRate +3% Extra Harvest/Fishing Rate\n<yellow>Same dish will overwrite the effect.<c>"
 	},
 	{
 		"assign": "350049",
@@ -347,6 +347,20 @@
 		"jp_text": "豪華海鮮盛り",
 		"tr_text": "Luxurious Seafood",
 		"jp_explain": "新鮮な海の幸を使った豪華な刺身料理。\n【３分間】宝石取得率＋５０％\n追加採取率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
-		"tr_explain": "Luxurious Sashimi dish w/fresh seafood.\n[3 min] +50% Jewel Rate\n+5% Extra Harvest Rate\n<yellow>Same dish will overwrite the effect.<c>"
+		"tr_explain": "Luxurious Sashimi dish w/fresh\nseafood. [3 min] +50% Jewel Rate\n+5% Extra Harvest Rate <yellow>Same dish\nwill overwrite the effect.<c>"
+	},
+	{
+		"assign": "350053",
+		"jp_text": "電撃フルーツタルト",
+		"tr_text": "Dengeki Fruit Tart",
+		"jp_explain": "生地にフルーツを盛り付けた料理。\n【５分間】レアドロップ倍率＋１０％\n打射法撃力＋２００\n<yellow>同種の料理は効果が上書きされます。<c>",
+		"tr_explain": "Baked treat with fruit inside.\n[5 min] Rare Drop Rate +10%\nS-ATK, R-ATK, T-ATK +200\n<yellow>Same dish will overwrite the effect.<c>"
+	},
+	{
+		"assign": "350054",
+		"jp_text": "電撃コーンスープ",
+		"tr_text": "Dengeki Corn Soup",
+		"jp_explain": "蟹とコーンを煮込んで作ったスープ。\n【５分間】獲得経験値＋１０％\nＰＰ＋２０\n<yellow>同種の料理は効果が上書きされます。<c>",
+		"tr_explain": "A soup made with crab and corn.\n[5 min] Experience Gained +10%\nPP +20\n<yellow>Same dish will overwrite the effect.<c>"
 	}
 ]
