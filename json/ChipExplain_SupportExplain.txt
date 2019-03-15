@@ -3623,7 +3623,7 @@
 		"jp_explainShort": "攻撃力超絶増＋技法威力大強化＋ＣＰ消費増",
 		"tr_explainShort": "Dam. boost + PA/Tech boost, CP use up",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 必殺技・法術の威力を大きく強化する。\n③ 必殺技・法術のＣＰ消費量を増加する。\n④ リンクスロットに装備したチップの属性が\n　　 雷属性の場合に③の効果を無効にする。\n⑤ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n③ Increases CP consumption of PAs and Techs.\n④ If there is a Lightning chip in this chip's link slot,\n    the effect of ③ is not applied.\n⑤ While this chip is equipped, the equip costs of\n    Lightning PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n③ Increases CP consumption of PAs and Techs.\n④ If there is a Lightning chip in this chip's link slot,\n    the effect of ③ is not applied.\n⑤ While this chip is equipped, the equip costs of\n    all PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31626",
