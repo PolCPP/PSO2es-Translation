@@ -3483,14 +3483,14 @@
 		"jp_explainShort": "闇属性上限上昇＋闇弱点時ダメージ絶大増加",
 		"tr_explainShort": "Max Dark up + Dark weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が闇属性弱点の場合に\n　　 与えるダメージを絶大に増加する。\n② 闇属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Greatly boosts damage against enemies that\n    are weak to Dark.\n    <color=yellow>[D-Frame]</color>\n② Increases your maximum Dark value.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Immensely boosts damage against enemies that\n    are weak to Dark.\n    <color=yellow>[D-Frame]</color>\n② Increases your maximum Dark value.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31598",
 		"jp_explainShort": "闇属性上限上昇＋闇弱点時ダメージ絶大増加",
 		"tr_explainShort": "Max Dark up + Dark weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が闇属性弱点の場合に\n　　 与えるダメージを絶大に増加する。\n② 闇属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Greatly boosts damage against enemies that\n    are weak to Dark.\n    <color=yellow>[D-Frame]</color>\n② Increases your maximum Dark value.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Immensely boosts damage against enemies that\n    are weak to Dark.\n    <color=yellow>[D-Frame]</color>\n② Increases your maximum Dark value.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31601",
@@ -3623,7 +3623,7 @@
 		"jp_explainShort": "攻撃力超絶増＋技法威力大強化＋ＣＰ消費増",
 		"tr_explainShort": "Dam. boost + PA/Tech boost, CP use up",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 必殺技・法術の威力を大きく強化する。\n③ 必殺技・法術のＣＰ消費量を増加する。\n④ リンクスロットに装備したチップの属性が\n　　 雷属性の場合に③の効果を無効にする。\n⑤ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n③ Increases CP consumption of PAs and Techs.\n④ If there is a Lightning chip in this chip's link slot,\n    the effect of ③ is not applied.\n⑤ While this chip is equipped, the equip costs of\n    Lightning PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Overwhelmingly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Greatly boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n③ Increases CP consumption of PAs and Techs.\n④ If there is a Lightning chip in this chip's link slot,\n    the effect of ③ is not applied.\n⑤ While this chip is equipped, the equip costs of\n    all PAs and Techs are reduced.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31626",
@@ -4120,14 +4120,14 @@
 		"jp_explainShort": "ダーカー以外にダメージ劇的増加",
 		"tr_explainShort": "Damage boosted vs non-Darkers",
 		"jp_explainLong": "① ダーカー以外に与えるダメージを劇的に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Dramatically boosts damage against Natives,\n    Dragonkin, Mechs and Oceanids.\n    <color=yellow>[B-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Dramatically boosts damage against non-Darkers.\n    <color=yellow>[B-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31726",
 		"jp_explainShort": "ダーカー以外にダメージ絶大増加",
 		"tr_explainShort": "Damage boosted vs non-Darkers",
 		"jp_explainLong": "① ダーカー以外に与えるダメージを絶大に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Immensely boosts damage against Natives,\n    Dragonkin, Mechs and Oceanids.\n    <color=yellow>[B-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Immensely boosts damage against non-Darkers.\n    <color=yellow>[B-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31727",
