@@ -8317,12 +8317,12 @@
 	{
 		"assign": "questkey_timelimit",
 		"jp_text": "有効期限 / yyyy年MM月dd日HH時mm分",
-		"tr_text": "Expire s: <color=\"yellow\">yyyy/MM/dd  HH:mm</color>"
+		"tr_text": "Expires: <color=\"yellow\">yyyy/MM/dd  HH:mm</color>"
 	},
 	{
 		"assign": "questkey_timelimit_over",
 		"jp_text": "有効期限 / <color=\"red\">yyyy年MM月dd日HH時mm分</color>",
-		"tr_text": "Expire s: <color=\"red\">yyyy/MM/dd  HH:mm</color>"
+		"tr_text": "Expires: <color=\"red\">yyyy/MM/dd  HH:mm</color>"
 	},
 	{
 		"assign": "stargem_label_0",
