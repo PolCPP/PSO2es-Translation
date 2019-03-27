@@ -8317,12 +8317,12 @@
 	{
 		"assign": "questkey_timelimit",
 		"jp_text": "有効期限 / yyyy年MM月dd日HH時mm分",
-		"tr_text": "Expires:  <color=\"yellow\">yyyy/MM/dd  HH:mm</color>"
+		"tr_text": "Expire s: <color=\"yellow\">yyyy/MM/dd  HH:mm</color>"
 	},
 	{
 		"assign": "questkey_timelimit_over",
 		"jp_text": "有効期限 / <color=\"red\">yyyy年MM月dd日HH時mm分</color>",
-		"tr_text": "Expires:  <color=\"red\">yyyy/MM/dd  HH:mm</color>"
+		"tr_text": "Expire s: <color=\"red\">yyyy/MM/dd  HH:mm</color>"
 	},
 	{
 		"assign": "stargem_label_0",
@@ -16822,17 +16822,17 @@
 	{
 		"assign": "sidestory_newstory_skip_title",
 		"jp_text": "NEW STORY演出スキップ",
-		"tr_text": ""
+		"tr_text": "Skip Introduction Animation"
 	},
 	{
 		"assign": "sidestory_newstory_skip_body",
 		"jp_text": "新規外伝のNEW STORY演出を\nすべてスキップしますか?\n\n<color=red>※スキップすると二度と見られなくなります。</color>",
-		"tr_text": ""
+		"tr_text": "Would you like to skip the\nintroduction animations?\n<color=red>※Once skipped, you can't view\nthem again.</color>"
 	},
 	{
 		"assign": "sidestory_voice_play_locked_info0",
 		"jp_text": "対象のキャラクターのチップを入手して\n絆レベルをLv.<%parameter>にすると再生できます。\n\n",
-		"tr_text": ""
+		"tr_text": "This feature is locked until you\nhave reached Bond Lv.<%parameter> with this chip.\n\n"
 	},
 	{
 		"assign": "sidestory_voice_play_locked_info1",
@@ -16842,7 +16842,7 @@
 	{
 		"assign": "sidestory_story_replay_locked_info1",
 		"jp_text": "対象のキャラクターのチップを入手して\n絆レベルをLv.<%parameter>にすると再生できます。\n\n",
-		"tr_text": ""
+		"tr_text": "This feature is locked until you\nhave reached Bond Lv.<%parameter> with this chip.\n\n"
 	},
 	{
 		"assign": "sidestory_story_replay_locked_info2",
@@ -16867,7 +16867,7 @@
 	{
 		"assign": "acshop_dialog_b_42",
 		"jp_text": "<%item_name>を購入します。\nよろしいですか？\n\n<color=yellow>※マイショップ利用券はプレミアム期間中でないとき\n マイショップでのアイテム購入に必要になります。</color>\n\n所持数：<%current_item_num>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": ""
+		"tr_text": "Purchasing <%item_name>.\nProceed with purchase?\n\nYou will need a My Shop ticket to buy\nitems out of the Premium duration.\n\nOwn: <%current_item_num>\n\nReq. <%AC>: <%consume_AC>\nYour <%AC>: <%current_AC>"
 	},
 	{
 		"assign": "lookback_scene_title",
@@ -18042,7 +18042,7 @@
 	{
 		"assign": "acceptbox_dialog_b_4",
 		"jp_text": "以下のアイテムを受け取りました。",
-		"tr_text": "I recieved the item(s)."
+		"tr_text": "Recieved the item(s)."
 	},
 	{
 		"assign": "acceptbox_dialog_t_5",
@@ -18052,7 +18052,7 @@
 	{
 		"assign": "acceptbox_dialog_b_5",
 		"jp_text": "以下のアイテムを受け取りました。",
-		"tr_text": "I accepted the items."
+		"tr_text": "Accepted the items."
 	},
 	{
 		"assign": "acceptbox_chip_over_message",
@@ -18357,7 +18357,7 @@
 	{
 		"assign": "collect_search_dialog_t_03",
 		"jp_text": "コレクトサーチ",
-		"tr_text": ""
+		"tr_text": "Collect Search"
 	},
 	{
 		"assign": "collect_search_dialog_b_03",
@@ -18407,7 +18407,7 @@
 	{
 		"assign": "chip_depot_side_button_depot",
 		"jp_text": "チップ倉庫",
-		"tr_text": ""
+		"tr_text": "Chip\nStorage"
 	},
 	{
 		"assign": "chip_depot_select_num",
