@@ -4,35 +4,35 @@
 		"jp_text": "守勢練陣 Lv.1",
 		"tr_text": "Defensive Stance Lv.1",
 		"jp_explain": "ガードスタンス時の\r\n効果が1%上昇する。",
-		"tr_explain": "Increases S-DEF by 25, striking and ranged damage by 10% during Guard Stance"
+		"tr_explain": "Boosts the effect of\nGuard Stance by 1%."
 	},
 	{
 		"assign": "966624881",
 		"jp_text": "守勢練陣 Lv.2",
 		"tr_text": "Defensive Stance Lv.2",
 		"jp_explain": "ガードスタンス時の\r\n効果が2%上昇する。",
-		"tr_explain": "Increases S-DEF by 35, striking and ranged damage by 12% during Guard Stance"
+		"tr_explain": "Boosts the effect of\nGuard Stance by 2%."
 	},
 	{
 		"assign": "966624886",
 		"jp_text": "守勢練陣 Lv.3",
 		"tr_text": "Defensive Stance Lv.3",
 		"jp_explain": "ガードスタンス時の\r\n効果が3%上昇する。",
-		"tr_explain": "Increases S-DEF by 50, striking and ranged damage by 15% during Guard Stance"
+		"tr_explain": "Boosts the effect of\nGuard Stance by 3%."
 	},
 	{
 		"assign": "966624887",
 		"jp_text": "守勢練陣 Lv.4",
 		"tr_text": "Defensive Stance Lv.4",
 		"jp_explain": "ガードスタンス時の\r\n効果が4%上昇する。",
-		"tr_explain": ""
+		"tr_explain": "Boosts the effect of\nGuard Stance by 4%."
 	},
 	{
 		"assign": "966624884",
 		"jp_text": "守勢練陣 Lv.5",
 		"tr_text": "Defensive Stance Lv.5",
 		"jp_explain": "ガードスタンス時の\r\n効果が5%上昇する。",
-		"tr_explain": ""
+		"tr_explain": "Boosts the effect of\nGuard Stance by 5%."
 	},
 	{
 		"assign": "100130598",
@@ -74,70 +74,70 @@
 		"jp_text": "護攻陣 Lv.1",
 		"tr_text": "Phys. Def. Stance Lv.1",
 		"jp_explain": "打撃と射撃の\nダメージを10%軽減する。",
-		"tr_explain": "Reduces damage taken by striking and shooting attacks by 10%"
+		"tr_explain": "Reduces striking and\nranged damage by 10%."
 	},
 	{
 		"assign": "298736322",
 		"jp_text": "護攻陣 Lv.2",
 		"tr_text": "Phys. Def. Stance Lv.2",
 		"jp_explain": "打撃と射撃の\nダメージを14%軽減する。",
-		"tr_explain": "Reduces damage taken by striking and shooting attacks by 14%"
+		"tr_explain": "Reduces striking and\nranged damage by 14%."
 	},
 	{
 		"assign": "298736323",
 		"jp_text": "護攻陣 Lv.3",
 		"tr_text": "Phys. Def. Stance Lv.3",
 		"jp_explain": "打撃と射撃の\nダメージを20%軽減する。",
-		"tr_explain": "Reduces damage taken by striking and shooting attacks by 20%"
+		"tr_explain": "Reduces striking and\nranged damage by 20%."
 	},
 	{
 		"assign": "298736348",
 		"jp_text": "護攻陣 Lv.4",
 		"tr_text": "Phys. Def. Stance Lv.4",
 		"jp_explain": "打撃と射撃の\nダメージを20%軽減する。",
-		"tr_explain": ""
+		"tr_explain": "Reduces striking and\nranged damage by 20%."
 	},
 	{
 		"assign": "298736349",
 		"jp_text": "護攻陣 Lv.5",
 		"tr_text": "Phys. Def. Stance Lv.5",
 		"jp_explain": "打撃と射撃の\nダメージを20%軽減する。",
-		"tr_explain": ""
+		"tr_explain": "Reduces striking and\nranged damage by 20%."
 	},
 	{
 		"assign": "3802549576",
 		"jp_text": "護法陣 Lv.1",
 		"tr_text": "Tech. Def. Stance Lv.1",
 		"jp_explain": "法撃の\rダメージを\n15%軽減する。",
-		"tr_explain": "Reduces damage taken by technique attacks by 15%"
+		"tr_explain": "Reduces technique\ndamage by 15%."
 	},
 	{
 		"assign": "3802549577",
 		"jp_text": "護法陣 Lv.2",
 		"tr_text": "Tech. Def. Stance Lv.2",
 		"jp_explain": "法撃の\rダメージを\n21%軽減する。",
-		"tr_explain": "Reduces damage taken by technique attacks by 21%"
+		"tr_explain": "Reduces technique\ndamage by 21%."
 	},
 	{
 		"assign": "3802549578",
 		"jp_text": "護法陣 Lv.3",
 		"tr_text": "Tech. Def. Stance Lv.3",
 		"jp_explain": "法撃の\rダメージを\n30%軽減する。",
-		"tr_explain": "Reduces damage taken by technique attacks by 30%"
+		"tr_explain": "Reduces technique\ndamage by 30%."
 	},
 	{
 		"assign": "3802549579",
 		"jp_text": "護法陣 Lv.4",
 		"tr_text": "Tech. Def. Stance Lv.4",
 		"jp_explain": "法撃の\rダメージを\n30%軽減する。",
-		"tr_explain": ""
+		"tr_explain": "Reduces technique\ndamage by 30%."
 	},
 	{
 		"assign": "3802549580",
 		"jp_text": "護法陣 Lv.5",
 		"tr_text": "Tech. Def. Stance Lv.5",
 		"jp_explain": "法撃の\rダメージを\n30%軽減する。",
-		"tr_explain": ""
+		"tr_explain": "Reduces technique\ndamage by 30%."
 	},
 	{
 		"assign": "1175256088",
@@ -12289,70 +12289,70 @@
 		"jp_text": "守勢練陣 Lv.1",
 		"tr_text": "Defensive Stance Lv.1",
 		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
-		"tr_explain": ""
+		"tr_explain": "Increases damage\nreduction, striking\ndamage and ranged\ndamage during Guard\nStance."
 	},
 	{
 		"assign": "1763555051",
 		"jp_text": "守勢練陣 Lv.2",
 		"tr_text": "Defensive Stance Lv.2",
 		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
-		"tr_explain": ""
+		"tr_explain": "Increases damage\nreduction, striking\ndamage and ranged\ndamage during Guard\nStance."
 	},
 	{
 		"assign": "1763555048",
 		"jp_text": "守勢練陣 Lv.3",
 		"tr_text": "Defensive Stance Lv.3",
 		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
-		"tr_explain": ""
+		"tr_explain": "Increases damage\nreduction, striking\ndamage and ranged\ndamage during Guard\nStance."
 	},
 	{
 		"assign": "1763555049",
 		"jp_text": "守勢練陣 Lv.4",
 		"tr_text": "Defensive Stance Lv.4",
 		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
-		"tr_explain": ""
+		"tr_explain": "Increases damage\nreduction, striking\ndamage and ranged\ndamage during Guard\nStance."
 	},
 	{
 		"assign": "1763555054",
 		"jp_text": "守勢練陣 Lv.5",
 		"tr_text": "Defensive Stance Lv.5",
 		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
-		"tr_explain": ""
+		"tr_explain": "Increases damage\nreduction, striking\ndamage and ranged\ndamage during Guard\nStance."
 	},
 	{
 		"assign": "2532821992",
 		"jp_text": "堅甲錬陣 Lv.1",
 		"tr_text": "Armor Mastery Lv.1",
 		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
-		"tr_explain": ""
+		"tr_explain": "Increases damage\nreduction, striking\ndamage and ranged\ndamage during Guard\nStance."
 	},
 	{
 		"assign": "2532821993",
 		"jp_text": "堅甲錬陣 Lv.2",
 		"tr_text": "Armor Mastery Lv.2",
 		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
-		"tr_explain": ""
+		"tr_explain": "Increases damage\nreduction, striking\ndamage and ranged\ndamage during Guard\nStance."
 	},
 	{
 		"assign": "2532821998",
 		"jp_text": "堅甲錬陣 Lv.3",
 		"tr_text": "Armor Mastery Lv.3",
 		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
-		"tr_explain": ""
+		"tr_explain": "Increases damage\nreduction, striking\ndamage and ranged\ndamage during Guard\nStance."
 	},
 	{
 		"assign": "2532821999",
 		"jp_text": "堅甲錬陣 Lv.4",
 		"tr_text": "Armor Mastery Lv.4",
 		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
-		"tr_explain": ""
+		"tr_explain": "Increases damage\nreduction, striking\ndamage and ranged\ndamage during Guard\nStance."
 	},
 	{
 		"assign": "2532821996",
 		"jp_text": "堅甲錬陣 Lv.5",
 		"tr_text": "Armor Mastery Lv.5",
 		"jp_explain": "ガードスタンス発動中\n打撃射撃威力と\n打撃防御が上昇する。",
-		"tr_explain": ""
+		"tr_explain": "Increases damage\nreduction, striking\ndamage and ranged\ndamage during Guard\nStance."
 	},
 	{
 		"assign": "2532825209",
