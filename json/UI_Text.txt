@@ -1,5 +1,10 @@
 [
 	{
+		"assign": "common_return_lobby",
+		"jp_text": "ロビーへ戻る",
+		"tr_text": ""
+	},
+	{
 		"assign": "lobby_guide_00",
 		"jp_text": "<color=#f0df60>タッチ操作で項目を選択することができます。</color>",
 		"tr_text": "<color=#f0df60>Select what you want to do by touching the Icons.</color>"
@@ -1586,8 +1591,8 @@
 	},
 	{
 		"assign": "option_guide_00",
-		"jp_text": "<color=#f0df60>サウンドのボリューム調整を行うことができます。</color>",
-		"tr_text": "<color=#f0df60>You can adjust the sound volume here.</color>"
+		"jp_text": "<color=#f0df60>画面表示やサウンドに関する設定を変更・調整することができます。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "equip_guide_00",
@@ -2083,6 +2088,11 @@
 		"assign": "labo_dialog_b_03",
 		"jp_text": "<color=#f0df60>解放したいチップを選択してください。レベルが上限に達しているチップのみ解放が可能です。　</color>",
 		"tr_text": "<color=#f0df60>Please select the Chip you want to release.</color>"
+	},
+	{
+		"assign": "labo_guide_14",
+		"jp_text": "<color=#f0df60>解放したいチップを選択してください。レベルが上限に達しているチップのみ解放が可能です。　</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_t_25",
@@ -5055,6 +5065,171 @@
 		"tr_text": "List generated on: {0}"
 	},
 	{
+		"assign": "linkage_exp_guide_00",
+		"jp_text": "<color=#f0df60>『PSO2』と『PSO2es』で入手できる連動経験値の配分設定を変更します。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_return_lobby",
+		"jp_text": "ロビーへ戻る",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_save_setting",
+		"jp_text": "設定を保存",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_pso2toes_title",
+		"jp_text": "連動経験値の配分設定 【PSO2 ⇒ es】",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_usage",
+		"jp_text": "配分状況",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_average_allocation",
+		"jp_text": "平均配分",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_reset",
+		"jp_text": "リセット",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_remaining",
+		"jp_text": "残り",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_extra",
+		"jp_text": "あと",
+		"tr_text": "CD:"
+	},
+	{
+		"assign": "linkage_exp_class_item",
+		"jp_text": "エクスキューブ",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_get_item",
+		"jp_text": "アイテム獲得まで",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_next_level",
+		"jp_text": "次のレベルまで",
+		"tr_text": "To next Lv."
+	},
+	{
+		"assign": "linkage_exp_next_level_value",
+		"jp_text": "{0:#,0}",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_estopso2_title",
+		"jp_text": "連動経験値の配分設定 【es ⇒ PSO2】",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_linkage_exp",
+		"jp_text": "連動経験値",
+		"tr_text": "Combined EXP"
+	},
+	{
+		"assign": "linkage_exp_linkage_exp_value",
+		"jp_text": "{0:#,0}/{1:#,0}",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_dialog_t_00",
+		"jp_text": "連動経験値の蓄積上限",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_dialog_b_00",
+		"jp_text": "『PSO2es』のプレイで獲得できる連動経験値が\nすべてのクラスで蓄積上限に達しました。\n\n『PSO2』をプレイすることで\n連動経験値を再び獲得できるようになります。",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_dialog_t_01",
+		"jp_text": "配分設定エラー",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_dialog_b_01",
+		"jp_text": "配分率が合計100％にならないため、保存できません。\n「配分状況」を残り <color=yellow>0％</color> にしてください。",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_dialog_t_02",
+		"jp_text": "配分設定の保存",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_dialog_b_02",
+		"jp_text": "配分設定を保存しました。\nこの設定は、次回のプレイから適用されます。",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_dialog_t_03",
+		"jp_text": "設定変更エラー",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_dialog_b_03",
+		"jp_text": "配分設定が変更されています。\n保存していない設定は破棄されますが\nよろしいですか？",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_dialog_t_04",
+		"jp_text": "配分設定エラー",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_dialog_b_04",
+		"jp_text": "配分設定を変更していない項目があります。\n以下のまま保存してよろしいですか？\n・『PSO2es』⇒『PSO2』の連動経験値\n　　配分可能な全クラスへ均等に配分\n・『PSO2』⇒『PSO2es』の連動経験値\n　　エクスキューブへすべて配分",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_button_auto_adjust",
+		"jp_text": "自動調整して保存",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_button_check_default_setting",
+		"jp_text": "はい",
+		"tr_text": "Yes"
+	},
+	{
+		"assign": "linkage_exp_button_check_default_transition",
+		"jp_text": "いいえ",
+		"tr_text": "No"
+	},
+	{
+		"assign": "linkage_exp_first_time_dialog_t_00",
+		"jp_text": "連動経験値の配分設定",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_first_time_dialog_b_00",
+		"jp_text": "『PSO2』『PSO2es』で獲得できる連動経験値の\n配分設定を行ってください。\n\n「設定を保存」で、変更した設定を適用できます。\n設定後「ロビーへ戻る」でゲームを開始します。",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_first_time_button_allocation_setting",
+		"jp_text": "設定する",
+		"tr_text": ""
+	},
+	{
+		"assign": "window_help_LM38",
+		"jp_text": "wh_52_01,\n『PSO2』と『PSO2es』で獲得した連動経験値の配分比率を\nそれぞれ設定することができます。\n保存した設定は、次回のプレイから適用されます。,\nwh_52_02,\n画面左上のボタンをタッチすると\n『PSO2』と『PSO2es』の配分設定を切り替えられます。\n配分状況が残り0％になるように、クラス毎の配分を設定します。,\nwh_52_02,\nこの配分設定は<color=yellow>『PSO2es』でのみ変更することができます。</color>\n変更したい場合はメニューの「連動」から「連動経験値」を選択してください。,",
+		"tr_text": ""
+	},
+	{
 		"assign": "questcounter_guide_00",
 		"jp_text": "<color=#f0df60>ジェネやモアと共に冒険するストーリーです。Normalのエリアで獲得スコアを最大にすると、高難度なExのエリアが解放されます。</color>",
 		"tr_text": "<color=#f0df60>The story of your adventures with Gene and More. Clear an area with full marks on Normal to unlock its EX difficulty version.</color>"
@@ -5307,7 +5482,7 @@
 	{
 		"assign": "quest_counter_label_time",
 		"jp_text": "あと",
-		"tr_text": "CD:"
+		"tr_text": "after"
 	},
 	{
 		"assign": "quest_counter_window_questselect",
@@ -7430,6 +7605,21 @@
 		"tr_text": "Braver"
 	},
 	{
+		"assign": "summoner",
+		"jp_text": "サモナー",
+		"tr_text": ""
+	},
+	{
+		"assign": "hero",
+		"jp_text": "ヒーロー",
+		"tr_text": ""
+	},
+	{
+		"assign": "phantom",
+		"jp_text": "ファントム",
+		"tr_text": ""
+	},
+	{
 		"assign": "ship_01",
 		"jp_text": "Ship01:フェオ",
 		"tr_text": "Ship01: Feoh"
@@ -8435,6 +8625,11 @@
 		"tr_text": "x{0}"
 	},
 	{
+		"assign": "recycle_item_num_count_format",
+		"jp_text": "×{0}個",
+		"tr_text": ""
+	},
+	{
 		"assign": "recycle_item_trade_info",
 		"jp_text": "交換に必要：{0} {1}個",
 		"tr_text": "Needs x{1} {0}."
@@ -8448,6 +8643,11 @@
 		"assign": "recycle_item_trade_info_pt",
 		"jp_text": "交換に必要：{0} {1}pt",
 		"tr_text": "Needs {1} {0} pts"
+	},
+	{
+		"assign": "recycle_shop_trade_target",
+		"jp_text": "交換対象：",
+		"tr_text": ""
 	},
 	{
 		"assign": "recycle_item_trade_limit_info",
@@ -8525,9 +8725,9 @@
 		"tr_text": ""
 	},
 	{
-		"assign": "recycle_shop_all_select",
-		"jp_text": "全て交換",
-		"tr_text": "Exchange all"
+		"assign": "recycle_shop_recommended_select",
+		"jp_text": "おまかせ選択",
+		"tr_text": ""
 	},
 	{
 		"assign": "chip_grind_ability_level_up",
@@ -8812,7 +9012,7 @@
 	{
 		"assign": "classcounter_linkage_exp",
 		"jp_text": "連動経験値",
-		"tr_text": "Combined EXP"
+		"tr_text": ""
 	},
 	{
 		"assign": "classcounter_equip",
@@ -9277,7 +9477,7 @@
 	{
 		"assign": "menu_charainfo_label_next_lv",
 		"jp_text": "次のレベルまで",
-		"tr_text": "To next Lv."
+		"tr_text": "Next Level"
 	},
 	{
 		"assign": "menu_charainfo_linked_exp",
@@ -9341,8 +9541,8 @@
 	},
 	{
 		"assign": "menu_charainfo_goto_lobby",
-		"jp_text": "ロビーへ",
-		"tr_text": "Go to Lobby"
+		"jp_text": "ロビーへ戻る",
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_charainfo_return",
@@ -9503,6 +9703,11 @@
 		"assign": "menu_main_button_counter",
 		"jp_text": "受け取りカウンター",
 		"tr_text": "Receive Counter"
+	},
+	{
+		"assign": "menu_main_button_linkage_exp",
+		"jp_text": "連動経験値",
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_main_button_linkage",
@@ -9911,8 +10116,8 @@
 	},
 	{
 		"assign": "menu_fulldownload_b_06",
-		"jp_text": "データの通信に失敗しました。\nリトライしますか？\n\n（リトライしない場合はタイトルに戻ります）",
-		"tr_text": "Connection Failed.\nDo you want to Retry？\n\n（Will return to Title if No）"
+		"jp_text": "データの通信に失敗しました。\nリトライしますか？",
+		"tr_text": "Data communication failed.\nDo you want to retry?"
 	},
 	{
 		"assign": "menu_fulldownload_t_07",
@@ -10522,7 +10727,7 @@
 	{
 		"assign": "friend_charamake_dl_retry_dialog_b",
 		"jp_text": "データの通信に失敗しました。\nリトライしますか？",
-		"tr_text": "Data communication failed.\nDo you want to retry?"
+		"tr_text": ""
 	},
 	{
 		"assign": "friend_charamake_dl_finished_dialog_t",
@@ -14212,12 +14417,12 @@
 	{
 		"assign": "botton_yes",
 		"jp_text": "はい",
-		"tr_text": "Yes"
+		"tr_text": ""
 	},
 	{
 		"assign": "botton_no",
 		"jp_text": "いいえ",
-		"tr_text": "No"
+		"tr_text": ""
 	},
 	{
 		"assign": "raid_n_clear",
@@ -14233,6 +14438,11 @@
 		"assign": "raid_n_good",
 		"jp_text": "目標が逃走しました。\n攻撃したぶんの体力は低下しているので\n引き続き挑戦して、討伐を目指しましょう！",
 		"tr_text": "We didn't reach our goal.\nTry again and aim to defeat the enemy!"
+	},
+	{
+		"assign": "raid_n_clear_dps",
+		"jp_text": "お疲れ様でした。満足のいく戦闘はできましたか？\nより高いダメージを目指して、再チャレンジです！",
+		"tr_text": ""
 	},
 	{
 		"assign": "raid_n_hp01",
@@ -14263,6 +14473,11 @@
 		"assign": "raid_n_hp06",
 		"jp_text": "目標の討伐を目指して頑張りましょう。\nせいいっぱい応援しています！",
 		"tr_text": "Do your best to subdue the target.\nYou have my utmost support!"
+	},
+	{
+		"assign": "raid_n_dps01",
+		"jp_text": "自己ベスト更新を目指してがんばってください。\n私も、せいいっぱい応援しています！",
+		"tr_text": ""
 	},
 	{
 		"assign": "raid_log_00",
@@ -15816,8 +16031,8 @@
 	},
 	{
 		"assign": "wh_32_04",
-		"jp_text": "＜連動経験値について＞\nペットにエッグ、またはチップを合成するとそのアイテムのレアリティに\n応じて、 クラス「サモナー」に連動経験値がたまります。",
-		"tr_text": "<Linked EXP>\nFeeding eggs or chips via Egg Synthesis will\ntransfer EXP to the class Summoner."
+		"jp_text": "＜連動経験値について＞\nペットにエッグ、またはチップを合成すると\nそのアイテムのレアリティに応じて連動経験値がたまります。",
+		"tr_text": ""
 	},
 	{
 		"assign": "wh_32_05",
@@ -17125,6 +17340,21 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "lookback_maintitle_8",
+		"jp_text": "ブレイブ　オブ　セイガーズ",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_maintext_8",
+		"jp_text": "セイガーシリーズのウェポノイド達の\n物語を振り返ります。",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_series4_chapter_1",
+		"jp_text": "第１章　セイガーズ誕生",
+		"tr_text": ""
+	},
+	{
 		"assign": "menu_menu_lookback",
 		"jp_text": "ストーリー閲覧室",
 		"tr_text": "View Stories"
@@ -17267,7 +17497,7 @@
 	{
 		"assign": "arks_exp_quest_lap_text",
 		"jp_text": "あと",
-		"tr_text": "after"
+		"tr_text": "After"
 	},
 	{
 		"assign": "arks_exp_quest_num",
@@ -17606,7 +17836,7 @@
 	},
 	{
 		"assign": "window_help_LM32",
-		"jp_text": "wh_47_01,\n交換ショップのアイテムについて、ソート及びフィルター機能を使って整理することが可能です。\n\n交換フィルター設定ボタンを押すことで任意のソート及びフィルター機能を使うことができます。\n解除ボタンを押すことで、ソート及びフィルター機能をOFFにすることができます。",
+		"jp_text": "wh_47_01,\n渡すチップ・アイテム選択画面の右上にあるフィルターの「設定」ボタンを\nタッチすると、「ソート・フィルター」の設定画面が表示されます。\nチップやアイテムの並び順と、フィルターの設定を変更できます。,\nwh_47_02,\n画面の下にある「おまかせ選択」をタッチすると\n交換可能なチップやアイテムが、自動で選択状態になります。\n強化されているチップは選択されません。,",
 		"tr_text": ""
 	},
 	{
@@ -17876,8 +18106,8 @@
 	},
 	{
 		"assign": "acceptbox_goto_lobby",
-		"jp_text": "ロビーへ",
-		"tr_text": "Go to Lobby"
+		"jp_text": "ロビーへ戻る",
+		"tr_text": ""
 	},
 	{
 		"assign": "acceptbox_guide_00",
@@ -18222,7 +18452,7 @@
 	{
 		"assign": "collect_search_lap_text",
 		"jp_text": "あと",
-		"tr_text": "After"
+		"tr_text": "Remaining"
 	},
 	{
 		"assign": "collect_search_drop_rate_text",
@@ -18695,6 +18925,16 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "quest_clear_reward_dialog_title_6234004",
+		"jp_text": "ストーリークエスト Season3　4章4-4",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_clear_reward_dialog_body_6234004",
+		"jp_text": "Season3　4章4-4「未来を永遠とするために」クリア\nおめでとうございます！\n以下のクリア報酬をプレゼントいたしました。\n受け取りボックスをご確認ください。",
+		"tr_text": ""
+	},
+	{
 		"assign": "recommended_equipment",
 		"jp_text": "おすすめ装備",
 		"tr_text": "Recommended Equipment"
@@ -18891,8 +19131,8 @@
 	},
 	{
 		"assign": "leisure_goto_lobby",
-		"jp_text": "ロビーへ",
-		"tr_text": "Go to Lobby"
+		"jp_text": "ロビーへ戻る",
+		"tr_text": ""
 	},
 	{
 		"assign": "photondice_title",
@@ -19101,8 +19341,8 @@
 	},
 	{
 		"assign": "photondice_result_lose_dialog_b_con_02_rc",
-		"jp_text": "<color=yellow>ラッピーメダル</color>を1枚消費して再戦しますか？\n再戦しない場合、獲得LCがすべて失われます。\n\n<color=yellow>所持ラッピーメダル：<%value>枚</color>",
-		"tr_text": "Do you want to play a <color=yellow>rematch</color> at\nthe cost of 1 Rappy medal?\nIf you don't play a rematch, all LC\nyou earned so far will be lost.\n<color=yellow>Remaining medals: <%value></color>"
+		"jp_text": "<color=red>ラッピーメダル</color>を1枚消費して再戦しますか？\n再戦しない場合、獲得LCがすべて失われます。\n\n<color=yellow>所持ラッピーメダル：<%value>枚</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "photondice_result_lose_dialog_b_con_03",
@@ -19321,8 +19561,8 @@
 	},
 	{
 		"assign": "equip_apply_lobby",
-		"jp_text": "ロビーへ",
-		"tr_text": "Go to Lobby"
+		"jp_text": "ロビーへ戻る",
+		"tr_text": ""
 	},
 	{
 		"assign": "quest_linkskill_window_title",
@@ -19492,7 +19732,7 @@
 	{
 		"assign": "chip_details_chipequip_next_lv",
 		"jp_text": "次のレベルまで",
-		"tr_text": "Next Level"
+		"tr_text": ""
 	},
 	{
 		"assign": "chip_details_base_item_plus",
@@ -19841,18 +20081,18 @@
 	},
 	{
 		"assign": "towerquest_top_guide_friend",
-		"jp_text": "<color=#f0df60>フレンド通信：<%name1>さんが<%value1>Fをクリアしました。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</color>",
-		"tr_text": "<color=#f0df60>Friend Signal: <%name1> has cleared floor <%value1>F.　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</color>"
+		"jp_text": "<color=#f0df60>フレンド通信：<%name1>さんがエターナルタワー<%value1>Fをクリアしました。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "towerquest_top_guide_ranking",
-		"jp_text": "<color=#f0df60>エターナルタワーランキングの順位になります。</color>",
-		"tr_text": "<color=#f0df60>You will be ranked in the Eternal Tower rankings.</color>"
+		"jp_text": "<color=#f0df60>エターナルタワーランキングの順位です。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "towerquest_top_guide_ranking_result",
-		"jp_text": "<color=#f0df60>エターナルタワーランキングの順位になります。</color>",
-		"tr_text": "<color=#f0df60>You will be ranked in the Eternal Tower rankings.</color>"
+		"jp_text": "<color=#f0df60>エターナルタワーランキングの順位です。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "towerquest_top_scene_title",
@@ -19946,13 +20186,13 @@
 	},
 	{
 		"assign": "towerquest_top_ranking_title",
-		"jp_text": "ランキング TOP50　　※30分ごとに更新",
-		"tr_text": "Ranking Top 50   (Updates every 30 minutes)"
+		"jp_text": "エターナルタワー ランキング TOP50　　※30分ごとに更新",
+		"tr_text": ""
 	},
 	{
 		"assign": "towerquest_top_ranking_title_fixed",
-		"jp_text": "ランキング TOP50",
-		"tr_text": "Ranking Top 50"
+		"jp_text": "エターナルタワー ランキング TOP50",
+		"tr_text": ""
 	},
 	{
 		"assign": "towerquest_top_ranking_reward_info",
@@ -19986,7 +20226,7 @@
 	},
 	{
 		"assign": "towerquest_ranking_undercount_title",
-		"jp_text": "エターナルタワーランキングの集計中",
+		"jp_text": "タワーランキングの集計中",
 		"tr_text": ""
 	},
 	{
@@ -20012,7 +20252,7 @@
 	{
 		"assign": "towerquest_top_target_time_prefix",
 		"jp_text": "あと",
-		"tr_text": "Remaining"
+		"tr_text": ""
 	},
 	{
 		"assign": "towerquest_time_format",
@@ -20106,8 +20346,8 @@
 	},
 	{
 		"assign": "towerquest_ranking_reward_fixed_rank",
-		"jp_text": "<size=35><%title></size> <size=50><%rank></size>位",
-		"tr_text": "<size=35><%title></size> Rank <size=50><%rank></size>"
+		"jp_text": "<size=35><%title></size> <size=50><color=aqua><%rank></color></size><color=aqua>位</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "towerquest_ranking_reward_rank_unit",
@@ -20121,7 +20361,7 @@
 	},
 	{
 		"assign": "towerquest_ranking_reward_send_to_mail",
-		"jp_text": "エターナルタワーのランキング報酬を送りました。\n受け取りボックスをご確認ください。",
+		"jp_text": "タワークエストのランキング報酬を送りました。\n受け取りボックスをご確認ください。",
 		"tr_text": ""
 	},
 	{
@@ -20156,13 +20396,13 @@
 	},
 	{
 		"assign": "towerquest_dialog_event_out_of_period_message",
-		"jp_text": "エターナルタワー開催期間外です。\nロビートップへ戻ります。",
-		"tr_text": "The Eternal Tower has expired.\nReturning to Lobby."
+		"jp_text": "タワークエスト開催期間外です。\nロビートップへ戻ります。",
+		"tr_text": ""
 	},
 	{
 		"assign": "Eternalquest_dialog_t_01",
-		"jp_text": "エターナルクエストリタイア",
-		"tr_text": "Eternal Quest Retired"
+		"jp_text": "タワークエストリタイア",
+		"tr_text": ""
 	},
 	{
 		"assign": "Eternalquest_dialog_b_01",
@@ -20676,8 +20916,8 @@
 	},
 	{
 		"assign": "dailyorder_goto_lobby",
-		"jp_text": "ロビーへ",
-		"tr_text": "Go to Lobby"
+		"jp_text": "ロビーへ戻る",
+		"tr_text": ""
 	},
 	{
 		"assign": "dailyorder_guide_00",
@@ -21070,9 +21310,19 @@
 		"tr_text": "Not Joined"
 	},
 	{
+		"assign": "raid_dps_ranking_reward_title",
+		"jp_text": "ランキング報酬",
+		"tr_text": ""
+	},
+	{
+		"assign": "raid_dps_ranking_reward_message",
+		"jp_text": "ランキング報酬を送りました。\n受け取りボックスをご確認ください。",
+		"tr_text": ""
+	},
+	{
 		"assign": "raid_dps_title_ranking_top",
-		"jp_text": "ランキングTOP100",
-		"tr_text": "Top 100"
+		"jp_text": "ランキング",
+		"tr_text": ""
 	},
 	{
 		"assign": "raid_dps_title_update_time",
@@ -21128,5 +21378,80 @@
 		"assign": "dialog_overflow_dualblade_to_acceptbox_title_message",
 		"jp_text": "アイテムパックの所持数をオーバーするため\nアイテムを受け取りボックスに送りました。",
 		"tr_text": "Items in excess of the maximum number\nyou are able to hold have been sent to\nyour Reception Box."
+	},
+	{
+		"assign": "window_help_LM35",
+		"jp_text": "wh_49_01,\nタワークエストに「ナイトメアタワー」が出現しています。\nナイトメアタワーは、上級者向けの高難度タワーです。\nエターナルタワー上層階よりも強力なエネミーが待ち受けています。,\nwh_49_02,\nナイトメアタワーへは、画面右下のボタンをタッチすると移動できます。\nナイトメアタワーでしか入手できない報酬もありますので\n腕に自信がある方は、ナイトメアタワーに挑戦してみてください！,",
+		"tr_text": ""
+	},
+	{
+		"assign": "window_help_LM36",
+		"jp_text": "wh_50_01,\nナイトメアタワーは、上級者向けの期間限定クエストです。\nオペレーションポイント（OP）を消費して挑戦することができます。\nエターナルタワーと同じく、１階から最上階を目指します。,\nwh_50_02,\n各フロアにあるパネルの種類は\nテレポーター、エネミー、フレンドボーナスのみです。\nエターナルタワーよりも、純粋な実力だけの勝負となるでしょう。,\nwh_50_03,\nナイトメアタワーにも、クリアタイムの合計時間を競うランキングがあります。\nエターナルタワーとナイトメアタワー、それぞれ別のランキングとなります。\n各フロアをより速く攻略し、ランキング上位を目指しましょう！,",
+		"tr_text": ""
+	},
+	{
+		"assign": "window_help_LM37",
+		"jp_text": "wh_51_01,\nナイトメアタワー30Ｆ踏破！　おめでとうございます!!\n1F～30Fまでクリアした合計時間によって\nシルバークリア報酬とゴールドクリア報酬がもらえます。,\nwh_51_01,\nさらに、全てのブロックをゴールドタイムでクリアすると\n「オールゴールドクリア報酬」が獲得できます。\n 全てのブロックのゴールドタイムクリアに挑戦しましょう！,",
+		"tr_text": ""
+	},
+	{
+		"assign": "ura_towerquest_top_guide_00",
+		"jp_text": "<color=#f0df60>ナイトメアタワー踏破を目指す期間限定イベントです。塔の攻略を目指してください。クリアタイムによって、得られる報酬が異なります。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "ura_towerquest_top_guide_01",
+		"jp_text": "<color=#f0df60>プレイするブロックを選択してください。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "ura_towerquest_top_guide_friend",
+		"jp_text": "<color=#f0df60>フレンド通信：<%name1>さんがナイトメアタワー<%value1>Fをクリアしました。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "ura_towerquest_top_guide_ranking",
+		"jp_text": "<color=#f0df60>ナイトメアタワーランキングの順位です。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "ura_towerquest_top_guide_ranking_result",
+		"jp_text": "<color=#f0df60>ナイトメアタワーランキングの順位です。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "ura_blockresult_all_eternal_tower_clear",
+		"jp_text": "ナイトメアタワー クリア！",
+		"tr_text": "Nightmare Tower Clear!"
+	},
+	{
+		"assign": "ura_blockresult_all_eternal_clear",
+		"jp_text": "ナイトメアタワー クリア！",
+		"tr_text": "Nightmare Tower Clear!"
+	},
+	{
+		"assign": "ura_towerquest_top_ranking_title",
+		"jp_text": "ナイトメアタワー ランキング TOP50　　※30分ごとに更新",
+		"tr_text": "ナイトメアタワー Ranking TOP 50 ※Updated every 30min"
+	},
+	{
+		"assign": "ura_towerquest_top_ranking_title_fixed",
+		"jp_text": "ナイトメアタワー ランキング TOP50",
+		"tr_text": "ナイトメアタワー Ranking TOP 50"
+	},
+	{
+		"assign": "towerquest_limit_affect_title",
+		"jp_text": "タワークエスト",
+		"tr_text": "Tower Quest"
+	},
+	{
+		"assign": "tower_name",
+		"jp_text": "エターナルタワー",
+		"tr_text": "Eternal Tower"
+	},
+	{
+		"assign": "ura_tower_name",
+		"jp_text": "ナイトメアタワー",
+		"tr_text": "Nightmare Tower"
 	}
 ]
