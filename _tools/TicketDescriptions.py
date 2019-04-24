@@ -171,7 +171,8 @@ cv_names = {
     "飛田 展男": "Nobuo Tobita", "飯田 友子": "Yuko Iida",
     "高木 友梨香": "Yurika Takagi", "高野 麻里佳": "Marika Kono",
     "安元 洋貴": "Hiroki Yasumoto", "高橋 未奈美": "Minami Takahashi",
-    "黒沢 ともよ": "Tomoyo Kurosawa",
+    "黒沢 ともよ": "Tomoyo Kurosawa", "堀川 りょう": "Ryo Horikawa",
+    "高橋 李依": "Rie Takahashi", "安済 知佳": "Chika Anzai",
     "？？？": "???", "Ｍ・Ａ・Ｏ": "M・A・O"
     }
 
