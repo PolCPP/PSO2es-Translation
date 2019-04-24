@@ -4362,17 +4362,17 @@
 	},
 	{
 		"assign": "31784",
-		"jp_explainShort": "技法威力大強化＋有効弱点ダメージ微増加",
-		"tr_explainShort": "Weakness boosted + PAs/Techs boosted",
+		"jp_explainShort": "技法威力小強化＋有効弱点ダメージ大増加",
+		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを大きく増加する。\n② 必殺技・法術の威力をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Greatly boosts damage against enemy elemental\n    weaknesses.\n    <color=yellow>[D-Frame]</color>\n② Slightly boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31785",
-		"jp_explainShort": "技法威力大強化＋有効弱点ダメージ微増加",
-		"tr_explainShort": "Weakness boosted + PAs/Techs boosted",
+		"jp_explainShort": "技法威力小強化＋有効弱点ダメージ大増加",
+		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを大きく増加する。\n② 必殺技・法術の威力をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Greatly boosts damage against enemy elemental\n    weaknesses.\n    <color=yellow>[D-Frame]</color>\n② Slightly boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31786",
@@ -4970,6 +4970,20 @@
 		"tr_explainLong": "① Dramatically boosts attack damage.\n    <color=yellow>[W-Frame]</color>\n② Immensely boosts damage when equipped with a\n    chip of an element the targeted enemy is weak to.\n    <color=yellow>[2A-Frame]</color>\n③ Dramatically increases CP regeneration.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
+		"assign": "31916",
+		"jp_explainShort": "攻撃力増＋雷属性上限上昇＋定期的にＨＰ小回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 雷属性のチップを装備している場合\n　　 攻撃力を絶大に増加する。\n② 装備中の雷属性チップの枚数に応じて\n　　 雷属性の上限値が大きく上昇する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31917",
+		"jp_explainShort": "攻撃力増＋雷属性上限上昇＋定期的にＨＰ小回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 雷属性のチップを装備している場合\n　　 攻撃力を絶大に増加する。\n② 装備中の雷属性チップの枚数に応じて\n　　 雷属性の上限値が大きく上昇する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
 		"assign": "31918",
 		"jp_explainShort": "属性攻撃力を絶大増加＋定期的にＨＰ小回復",
 		"tr_explainShort": "Boost x ab. lv. x Ice/Wind/Light + HP regen",
@@ -5015,7 +5029,7 @@
 		"assign": "31926",
 		"jp_explainShort": "アビＬｖ技法大強化＋炎枚数炎属性発動率上昇",
 		"tr_explainShort": "PAs&Techs boosted x ab. lv. + act. rates up",
-		"jp_explainLong": "① 必殺技・法術の威力をアビリティレベルに応じて\n　　 大きく強化する。\n② 装備中の炎属性チップの枚数に応じて、炎属性の\n　　 チップの発動率を上昇する。\n③ 発動率上昇の効果を持つチップと組み合わせた場合\n　　 炎属性のチップの発動率上昇の効果を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"jp_explainLong": "① 必殺技・法術の威力をアビリティレベルに応じて\n　　 大きく強化する。\n② 装備中の炎属性チップの枚数に応じて、炎属性の\n　　 チップの発動率を上昇する。\n③ 発動率上昇の効果を持つチップと組み合わせた場合\n　　 炎属性のチップの発動率上昇の効果を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
 		"tr_explainLong": "① Greatly boosts PAs and Techs based on this\n    chip's ability level.\n    <color=yellow>[A-Frame]</color>\n② Increases activation rate of all Support Chips\n    based on the number of Fire chips equipped.\n③ When combined with a chip that has an effect that\n    raises activation rates, enhances that effect to\n    raise the activation rates of Fire chips.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
@@ -5066,6 +5080,111 @@
 		"tr_explainShort": "Dam. boost in all quests + Wind CP use down",
 		"jp_explainLong": "① 全てのクエストで敵に与えるダメージを\n　　 アビリティレベルに応じて大きく増加する。\n② リンクスロットに装備したチップの属性が\n　　 風属性の場合、風属性チップの消費ＣＰを減少する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": "① Greatly boosts damage against enemies in all\n    quests based on this chip's ability level.\n    <color=yellow>[X-Frame]</color>\n② Decreases the CP consumption of Wind chips if\n    there is a Wind chip in this chip's link slot.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
+	},
+	{
+		"assign": "31934",
+		"jp_explainShort": "ＨＰ小回復＋ＣＰ小回復＋追加ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 敵に追加でダメージを与える。\n② ＨＰをわずかに回復する。\n③ ＣＰをわずかに回復する。\n[発動条件]攻撃がヒットした時",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31935",
+		"jp_explainShort": "ＨＰ小回復＋ＣＰ回復＋追加大ダメージ",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 敵に追加で大ダメージを与える。\n② ＨＰをわずかに回復する。\n③ ＣＰを回復する。\n[発動条件]攻撃がヒットした時",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31936",
+		"jp_explainShort": "炎武器攻撃力絶大増加＋炎属性上限上昇",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 装備中の武器の属性が炎属性の場合\n　　 攻撃力を絶大に増加する。\n② 炎属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31937",
+		"jp_explainShort": "炎武器攻撃力絶大増加＋炎属性上限上昇",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 装備中の武器の属性が炎属性の場合\n　　 攻撃力を絶大に増加する。\n② 炎属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31940",
+		"jp_explainShort": "弱属ダメージ絶大増＋発動率上昇",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを絶大に増加する。\n② ボス戦とタワークエストで\n　　 装備中の闇属性チップの枚数に応じて\n　　 ①の効果のダメージをさらに超絶に増加する。\n③ リンクスロットに装備したチップの属性が闇属性の場合\n　　 闇属性のチップの発動率を上昇する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31941",
+		"jp_explainShort": "弱属ダメージ絶大増＋発動率上昇",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを絶大に増加する。\n② ボス戦とタワークエストで\n　　 装備中の闇属性チップの枚数に応じて\n　　 ①の効果のダメージをさらに超絶に増加する。\n③ リンクスロットに装備したチップの属性が闇属性の場合\n　　 闇属性のチップの発動率を上昇する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31942",
+		"jp_explainShort": "弱属ダメージ絶大増＋発動率上昇",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを絶大に増加する。\n② ボス戦とタワークエストで\n　　 装備中の闇属性チップの枚数に応じて\n　　 ①の効果のダメージをさらに超絶に増加する。\n③ リンクスロットに装備したチップの属性が闇属性の場合\n　　 闇属性のチップの発動率を上昇する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31945",
+		"jp_explainShort": "風武器攻撃力絶大増加＋風属性上限上昇",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 装備中の武器の属性が風属性の場合\n　　 攻撃力を絶大に増加する。\n② 風属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31946",
+		"jp_explainShort": "風武器攻撃力絶大増加＋風属性上限上昇",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 装備中の武器の属性が風属性の場合\n　　 攻撃力を絶大に増加する。\n② 風属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31947",
+		"jp_explainShort": "属性種類数ダメージ増＋ダメージ防御＋防御効果",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 装備中チップの属性種類数に応じて\n　　 与えるダメージを極度に増加する。\n② 装備中チップの属性種類数に応じて\n　　 ダメージを防ぐ効果をＨＰに上乗せする。\n③ 装備中チップの属性種類数が\n　　 1以上の場合、敵から受けるダメージを軽減する。\n　　 2以上の場合、のけぞり無効となる効果を付与する。\n　　 3以上の場合、ダウン無効となる効果を付与する。\n　　 4以上の場合、自身を状態異常にならなくする。\n　　 5以上の場合、敵からの攻撃を一定確率で回避する。\n　　 6の場合、スライド操作時の無敵時間を延長する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31948",
+		"jp_explainShort": "属性種類数ダメージ増＋ダメージ防御＋防御効果",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 装備中チップの属性種類数に応じて\n　　 与えるダメージを極度に増加する。\n② 装備中チップの属性種類数に応じて\n　　 ダメージを防ぐ効果をＨＰに上乗せする。\n③ 装備中チップの属性種類数が\n　　 1以上の場合、敵から受けるダメージを軽減する。\n　　 2以上の場合、のけぞり無効となる効果を付与する。\n　　 3以上の場合、ダウン無効となる効果を付与する。\n　　 4以上の場合、自身を状態異常にならなくする。\n　　 5以上の場合、敵からの攻撃を一定確率で回避する。\n　　 6の場合、スライド操作時の無敵時間を延長する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31955",
+		"jp_explainShort": "ダメージ効果絶大増＋攻撃毎にさらに増加＋回避",
+		"tr_explainShort": "",
+		"jp_explainLong": "① ダメージ効果を絶大に増加する。\n② アクティブチップ使用か通常攻撃を行うごとに\n　　 ダメージ効果をわずかに強化する。\n③ 敵からの攻撃を一定確率で回避する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31956",
+		"jp_explainShort": "ダメージ効果絶大増＋攻撃毎にさらに増加＋回避",
+		"tr_explainShort": "",
+		"jp_explainLong": "① ダメージ効果を絶大に増加する。\n② アクティブチップ使用か通常攻撃を行うごとに\n　　 ダメージ効果をわずかに強化する。\n③ 敵からの攻撃を一定確率で回避する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31957",
+		"jp_explainShort": "攻撃力強化＋攻撃力増加＋一回だけ戦闘不能回避",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を超絶に強化する。\n② 自身のＨＰが５０％以下の場合に\n　　 攻撃力を大きく増加する。\n③ 効果中一度だけ戦闘不能にならない。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31958",
+		"jp_explainShort": "攻撃力強化＋攻撃力増加＋一回だけ戦闘不能回避",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を超絶に強化する。\n② 自身のＨＰが５０％以下の場合に\n　　 攻撃力を大きく増加する。\n③ 効果中一度だけ戦闘不能にならない。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "2210",
@@ -7169,16 +7288,16 @@
 	},
 	{
 		"assign": "40285",
-		"jp_explainShort": "-",
+		"jp_explainShort": "闇属性時小増＋両剣時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 闇属性の武器の場合に威力をわずかに増加する。\n② 両剣の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40286",
-		"jp_explainShort": "-",
+		"jp_explainShort": "闇属性時増＋両剣時増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 闇属性の武器の場合に威力を増加する。\n② 両剣の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
@@ -7953,16 +8072,16 @@
 	},
 	{
 		"assign": "40397",
-		"jp_explainShort": "-",
+		"jp_explainShort": "氷属性時小増＋長杖時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 氷属性の武器の場合に威力をわずかに増加する。\n② 長杖の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40398",
-		"jp_explainShort": "-",
+		"jp_explainShort": "氷属性時増＋長杖時増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 氷属性の武器の場合に威力を増加する。\n② 長杖の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{

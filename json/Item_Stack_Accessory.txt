@@ -24773,6 +24773,27 @@
 		"tr_explain": "Unlocks the accessory\n\"Scrunchied Pigtails Black\"\nfor use in the Beauty Salon."
 	},
 	{
+		"assign": "3803873",
+		"jp_text": "カレテラヘアバンド",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nカレテラヘアバンドが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3803874",
+		"jp_text": "カレテラタイ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nカレテラタイが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3803875",
+		"jp_text": "シャルフアクセ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nシャルフアクセが選択可能。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3803876",
 		"jp_text": "妖狐の尻尾Ｂ",
 		"tr_text": "Demon Fox Tail B",
@@ -26208,11 +26229,305 @@
 		"tr_explain": "Unlocks the accessory\n\"Lien Mask Shocked\"\nfor use in the Beauty Salon."
 	},
 	{
+		"assign": "3804092",
+		"jp_text": "腰巻黒チェックシャツ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\n腰巻黒チェックシャツが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804093",
+		"jp_text": "解放されし真眼　蒼焔",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\n解放されし真眼　蒼焔が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804094",
+		"jp_text": "封印されし真眼Ｃ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\n封印されし真眼Ｃが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804095",
+		"jp_text": "ノーヴィヘッドギアＣ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nノーヴィヘッドギアＣが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804096",
+		"jp_text": "ヘリオスヘッドギアＣ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nヘリオスヘッドギアＣが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804097",
+		"jp_text": "クラノスマントＣ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nクラノスマントＣが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804098",
+		"jp_text": "ヘリオスマントＣ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nヘリオスマントＣが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804099",
+		"jp_text": "タイラーのペンダントＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nタイラーのペンダントＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804100",
+		"jp_text": "マウントＴブラスターＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nマウントＴブラスターＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804101",
+		"jp_text": "ショルダージェットＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nショルダージェットＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804102",
+		"jp_text": "ダークネスウィングＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nダークネスウィングＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804103",
+		"jp_text": "チェックキャスケット　赤",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nチェックキャスケット　赤が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804104",
+		"jp_text": "東衣仙妃帽Ｂ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\n東衣仙妃帽Ｂが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804105",
+		"jp_text": "アークス総司令帽",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアークス総司令帽が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804106",
+		"jp_text": "アークス総司令腕章",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアークス総司令腕章が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804107",
+		"jp_text": "アークス総司令マント",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアークス総司令マントが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804108",
+		"jp_text": "アークス副司令腕章",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアークス副司令腕章が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804109",
+		"jp_text": "アークス副司令マント",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアークス副司令マントが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804110",
+		"jp_text": "フリークスヘッドフォン",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nフリークスヘッドフォンが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804111",
+		"jp_text": "フリークスグラス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nフリークスグラスが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804112",
+		"jp_text": "ナイトメアヘアアクセ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nナイトメアヘアアクセが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804113",
+		"jp_text": "スクレデルヘアアクセ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nスクレデルヘアアクセが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804114",
+		"jp_text": "スクレデルバーニア",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nスクレデルバーニアが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804115",
+		"jp_text": "アクアの羽衣",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアクアの羽衣が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804116",
+		"jp_text": "アクアのリボン",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアクアのリボンが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804117",
+		"jp_text": "めぐみんの帽子",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nめぐみんの帽子が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804118",
+		"jp_text": "めぐみんの眼帯",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nめぐみんの眼帯が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804119",
+		"jp_text": "ゆんゆんの髪飾り",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nゆんゆんの髪飾りが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804120",
+		"jp_text": "ゆんゆんのネクタイ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nゆんゆんのネクタイが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804121",
+		"jp_text": "みつばちカチューシャ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nみつばちカチューシャが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804122",
+		"jp_text": "みつばちカチューシャ　黄",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nみつばちカチューシャ　黄が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804123",
+		"jp_text": "さくらパレオ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nさくらパレオが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804124",
+		"jp_text": "さくらパレオ　桃",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nさくらパレオ　桃が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804125",
+		"jp_text": "さくらパレオ　青",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nさくらパレオ　青が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804126",
+		"jp_text": "スクレデル飾り刀",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nスクレデル飾り刀が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804127",
+		"jp_text": "ヴァニタス髪飾り",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nヴァニタス髪飾りが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804128",
+		"jp_text": "ヴァニタスアイパッチ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nヴァニタスアイパッチが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804129",
+		"jp_text": "ヴァニタスリボン",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nヴァニタスリボンが選択可能。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3804138",
 		"jp_text": "フード付きニャウマフラー",
 		"tr_text": "Nyau Scarf Hood",
 		"jp_explain": "使用すると、新しいアクセサリーの\nフード付きニャウマフラーが選択可能。",
 		"tr_explain": "Unlocks the accessory\n\"Nyau Scarf Hood\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804139",
+		"jp_text": "クマキャップ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nクマキャップが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804140",
+		"jp_text": "クマキャップ　白",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nクマキャップ　白が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804141",
+		"jp_text": "クマキャップ　黒",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nクマキャップ　黒が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804142",
+		"jp_text": "クマキャップ　茶",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nクマキャップ　茶が選択可能。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "3804143",
