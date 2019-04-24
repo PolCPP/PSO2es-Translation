@@ -285,6 +285,16 @@
 		"tr_text": "Lovey Rappy"
 	},
 	{
+		"assign": "RappyDragon",
+		"jp_text": "ドラグ・ラッピー",
+		"tr_text": ""
+	},
+	{
+		"assign": "RappyElep",
+		"jp_text": "エレフ・ラッピー",
+		"tr_text": ""
+	},
+	{
 		"assign": "DragonRaptor",
 		"jp_text": "ディッグ",
 		"tr_text": "Digg"
@@ -2700,6 +2710,16 @@
 		"tr_text": "Codotta Idetta"
 	},
 	{
+		"assign": "AAADebugEnemyShotS",
+		"jp_text": "デバッグエネミーS",
+		"tr_text": ""
+	},
+	{
+		"assign": "AAADebugEnemyShotL",
+		"jp_text": "デバッグエネミーL",
+		"tr_text": ""
+	},
+	{
 		"assign": "N2Abe",
 		"jp_text": "ミントロックベア",
 		"tr_text": "Mint Rockbear"
@@ -2715,9 +2735,54 @@
 		"tr_text": "Elzelion"
 	},
 	{
+		"assign": "AAADebugEnemyMoveOnly",
+		"jp_text": "デバッグエネミーM",
+		"tr_text": ""
+	},
+	{
 		"assign": "TD1Hou",
 		"jp_text": "オロタ・ビケッタ",
 		"tr_text": "Orota Biketta"
+	},
+	{
+		"assign": "CY1Dro",
+		"jp_text": "バリール",
+		"tr_text": ""
+	},
+	{
+		"assign": "M1Tra",
+		"jp_text": "シュトルムマイザー",
+		"tr_text": ""
+	},
+	{
+		"assign": "CY1Knu",
+		"jp_text": "ラディルーゴ",
+		"tr_text": ""
+	},
+	{
+		"assign": "CY1Tan",
+		"jp_text": "ドラルベルージュ",
+		"tr_text": ""
+	},
+	{
+		"assign": "ID2Doo",
+		"jp_text": "グラナグワナーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "ID2Don",
+		"jp_text": "グラナグワナーダ・ビット",
+		"tr_text": ""
+	},
+	{
+		"assign": "BD3Ctl",
+		"jp_text": "ラファガ・リンガーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "CY1Sol",
+		"jp_text": "ゾルーラ",
+		"tr_text": ""
 	},
 	{
 		"assign": "AKKM",
@@ -2763,6 +2828,11 @@
 		"assign": "KingRappySE",
 		"jp_text": "セント・キングラッピー",
 		"tr_text": "St. King Rappy"
+	},
+	{
+		"assign": "KingRappyE",
+		"jp_text": "エグ・キングラッピー",
+		"tr_text": ""
 	},
 	{
 		"assign": "LocustSP1",
@@ -3318,6 +3388,11 @@
 		"assign": "AbyssFlowerRareST1",
 		"jp_text": "アナティス",
 		"tr_text": "Anatis"
+	},
+	{
+		"assign": "DpAbyssHumanUniqST0",
+		"jp_text": "ホルシード",
+		"tr_text": ""
 	},
 	{
 		"assign": "PantherBRareQU0",
@@ -4643,6 +4718,11 @@
 		"assign": "AbyssFlowerRareST1Ex",
 		"jp_text": "アナティスＥｘ",
 		"tr_text": "Anatis EX"
+	},
+	{
+		"assign": "DpAbyssHumanUniqST0Ex",
+		"jp_text": "ホルシードＥｘ",
+		"tr_text": ""
 	},
 	{
 		"assign": "PantherBRareQU0Ex",

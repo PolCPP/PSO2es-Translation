@@ -778,16 +778,16 @@
 	},
 	{
 		"assign": "111",
-		"jp_text": "-",
+		"jp_text": "リーパー／雷弱点",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "雷弱点のエネミーを攻撃時\n威力が上昇。ただし武器の\nレアリティが高くなるほど\n威力の上昇量は減少。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112",
-		"jp_text": "-",
+		"jp_text": "スレイヤー／機甲種",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "機甲種のエネミーを攻撃時\n威力が上昇。ただし武器の\nレアリティが高くなるほど\n威力の上昇量は減少。",
 		"tr_explain": ""
 	},
 	{
@@ -928,7 +928,7 @@
 		"jp_text": "-",
 		"tr_text": "",
 		"jp_explain": "与ダメージが2％上昇。",
-		"tr_explain": "Boosts damage by 2%."
+		"tr_explain": ""
 	},
 	{
 		"assign": "133",
@@ -984,7 +984,7 @@
 		"jp_text": "-",
 		"tr_text": "",
 		"jp_explain": "-",
-		"tr_explain": ""
+		"tr_explain": "Boosts damage by 2%."
 	},
 	{
 		"assign": "141",
@@ -1898,7 +1898,7 @@
 	},
 	{
 		"assign": "271",
-		"jp_text": "-",
+		"jp_text": "隣闘連陣2",
 		"tr_text": "",
 		"jp_explain": "-",
 		"tr_explain": ""
@@ -3179,9 +3179,9 @@
 	},
 	{
 		"assign": "454",
-		"jp_text": "-",
+		"jp_text": "Ｓ２：轟雷の備志",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "雷耐性、ショック耐性が\n上昇。敵の弱点属性が\n雷属性の時、威力上昇。",
 		"tr_explain": ""
 	},
 	{
@@ -3335,7 +3335,7 @@
 		"assign": "476",
 		"jp_text": "-",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "特殊能力の付与数に\n応じて威力上昇。\n最大で4％。",
 		"tr_explain": ""
 	},
 	{
@@ -3382,8 +3382,8 @@
 	},
 	{
 		"assign": "483",
-		"jp_text": "Ｓ１：失力の蝕 ",
-		"tr_text": "S1:Eclipsing Decay",
+		"jp_text": "Ｓ１：失力の蝕",
+		"tr_text": "",
 		"jp_explain": "命中時に25％の確率で\nジェルンを付与する。",
 		"tr_explain": ""
 	},
