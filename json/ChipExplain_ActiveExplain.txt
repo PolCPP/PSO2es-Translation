@@ -2139,21 +2139,21 @@
 		"jp_explainShort": "攻撃力増＋特定クエストダメージ＋消費ＣＰ減",
 		"tr_explainShort": "Dam. boost + Quest boost + CP cost down",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② タワークエストで敵に与えるダメージを\n　　 アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 闇属性の場合、闇属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Maximally boosts damage against enemies in the\n    Eternal Tower based on this chip's ability level.\n    <color=yellow>[X-Frame]</color>\n③ Reduces the CP consumption of Dark chips if there\n    is a Dark chip in this chip's link slot.\n    (Even applies to this chip's activation cost)\n④ While this chip is equipped, the equip costs of\n    Dark PAs and Techs are reduced.\n[Effect Duration] Long"
+		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Maximally boosts damage against enemies in\n    Tower Quests based on this chip's ability level.\n    <color=yellow>[X-Frame]</color>\n③ Reduces the CP consumption of Dark chips if there\n    is a Dark chip in this chip's link slot.\n    (Even applies to this chip's activation cost)\n④ While this chip is equipped, the equip costs of\n    Dark PAs and Techs are reduced.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31850",
 		"jp_explainShort": "攻撃力増＋特定クエストダメージ＋消費ＣＰ減",
 		"tr_explainShort": "Dam. boost + Quest boost + CP cost down",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② タワークエストで敵に与えるダメージを\n　　 アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 闇属性の場合、闇属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Maximally boosts damage against enemies in the\n    Eternal Tower based on this chip's ability level.\n    <color=yellow>[X-Frame]</color>\n③ Reduces the CP consumption of Dark chips if there\n    is a Dark chip in this chip's link slot.\n    (Even applies to this chip's activation cost)\n④ While this chip is equipped, the equip costs of\n    Dark PAs and Techs are reduced.\n[Effect Duration] Long"
+		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Maximally boosts damage against enemies in\n    Tower Quests based on this chip's ability level.\n    <color=yellow>[X-Frame]</color>\n③ Reduces the CP consumption of Dark chips if there\n    is a Dark chip in this chip's link slot.\n    (Even applies to this chip's activation cost)\n④ While this chip is equipped, the equip costs of\n    Dark PAs and Techs are reduced.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31851",
 		"jp_explainShort": "攻撃力増＋特定クエストダメージ＋消費ＣＰ減",
 		"tr_explainShort": "Dam. boost + Quest boost + CP cost down",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② タワークエストで敵に与えるダメージを\n　　 アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 闇属性の場合、闇属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Maximally boosts damage against enemies in the\n    Eternal Tower based on this chip's ability level.\n    <color=yellow>[X-Frame]</color>\n③ Reduces the CP consumption of Dark chips if there\n    is a Dark chip in this chip's link slot.\n    (Even applies to this chip's activation cost)\n④ While this chip is equipped, the equip costs of\n    all PAs and Techs are reduced.\n[Effect Duration] Long"
+		"tr_explainLong": "① Immensely boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Maximally boosts damage against enemies in\n    Tower Quests based on this chip's ability level.\n    <color=yellow>[X-Frame]</color>\n③ Reduces the CP consumption of Dark chips if there\n    is a Dark chip in this chip's link slot.\n    (Even applies to this chip's activation cost)\n④ While this chip is equipped, the equip costs of\n    all PAs and Techs are reduced.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31852",
@@ -2307,7 +2307,7 @@
 		"jp_explainShort": "光枚数属性ダメージ＋光枚数属性上限上昇",
 		"tr_explainShort": "Light elem. boosted + max Light value up",
 		"jp_explainLong": "① 装備中の光属性チップの枚数に応じ\n　　 光属性が弱点の敵に対して\n　　 その属性によるダメージを絶大に増加する。\n② 装備中の光属性チップの枚数に応じて\n　　 光属性の上限値が大きく上昇する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Overwhelmingly boosts Light elemental damage\n    against enemies weak to Light based on the\n    number of Light chips equipped.\n    <color=yellow>[S-Frame]</color>\n② Greatly increases your maximum Light value\n    based on the number of Light chips equipped.\n[Effect Duration] Long"
+		"tr_explainLong": "① Immensely boosts Light elemental damage\n    against enemies weak to Light based on the\n    number of Light chips equipped.\n    <color=yellow>[S-Frame]</color>\n② Greatly increases your maximum Light value\n    based on the number of Light chips equipped.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31923",
@@ -2319,58 +2319,58 @@
 	{
 		"assign": "31938",
 		"jp_explainShort": "必殺技・法術威力絶大強化＋ダメージ軽減",
-		"tr_explainShort": "",
+		"tr_explainShort": "PAs/Techs boosted + dam. taken reduced",
 		"jp_explainLong": "① 必殺技・法術の威力を絶大に強化する。\n② 敵から受けるダメージを軽減する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Immensely boosts power of PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n② Reduces damage taken from enemies.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31939",
 		"jp_explainShort": "必殺技・法術威力絶大強化＋ダメージ大軽減",
-		"tr_explainShort": "",
+		"tr_explainShort": "PAs/Techs boosted + dam. taken reduced",
 		"jp_explainLong": "① 必殺技・法術の威力を絶大に強化する。\n② 敵から受けるダメージを大きく軽減する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Immensely boosts power of PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n② Greatly reduces damage taken from enemies.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31949",
 		"jp_explainShort": "属性攻撃力を絶大増加＋定期的にＣＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Boost x ab. lv. x Fi/Th/Da + CP regen",
 		"jp_explainLong": "① アビリティレベルと炎・雷・闇属性の合計値に応じて\n　　 属性攻撃力を絶大に増加する。\n② 定期的にＣＰをわずかに回復する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Dramatically boosts damage based on this chip's\n    ability level and the total value of your Fire,\n    Lightning and Dark elements.\n    <color=yellow>[R-Frame]</color>\n② Slightly recovers CP at regular intervals.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31950",
 		"jp_explainShort": "属性攻撃力を絶大増加＋定期的にＣＰ小回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "Boost x ab. lv. x Fi/Th/Da + CP regen",
 		"jp_explainLong": "① アビリティレベルと炎・雷・闇属性の合計値に応じて\n　　 属性攻撃力を絶大に増加する。\n② 定期的にＣＰをわずかに回復する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Dramatically boosts damage based on this chip's\n    ability level and the total value of your Fire,\n    Lightning and Dark elements.\n    <color=yellow>[R-Frame]</color>\n② Slightly recovers CP at regular intervals.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31951",
 		"jp_explainShort": "雷枚数属性ダメージ＋雷枚数属性上限上昇",
-		"tr_explainShort": "",
+		"tr_explainShort": "Lightning elem. damage boost x # Lightning",
 		"jp_explainLong": "① 装備中の雷属性チップの枚数に応じ\n　　 雷属性が弱点の敵に対して\n　　 その属性によるダメージを絶大に増加する。\n② 装備中の雷属性チップの枚数に応じて\n　　 雷属性の上限値が大きく上昇する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Immensely boosts Lightning elemental\n    damage against enemies weak to Lightning based\n    on the number of Lightning chips equipped.\n    <color=yellow>[S-Frame]</color>\n② Greatly increases your maximum Lightning value\n    based on the number of Lightning chips equipped.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31952",
 		"jp_explainShort": "雷枚数属性ダメージ＋雷枚数属性上限上昇",
-		"tr_explainShort": "",
+		"tr_explainShort": "Lightning elem. damage boost x # Lightning",
 		"jp_explainLong": "① 装備中の雷属性チップの枚数に応じ\n　　 雷属性が弱点の敵に対して\n　　 その属性によるダメージを超絶に増加する。\n② 装備中の雷属性チップの枚数に応じて\n　　 雷属性の上限値が大きく上昇する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Overwhelmingly boosts Lightning elemental\n    damage against enemies weak to Lightning based\n    on the number of Lightning chips equipped.\n    <color=yellow>[S-Frame]</color>\n② Greatly increases your maximum Lightning value\n    based on the number of Lightning chips equipped.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31953",
 		"jp_explainShort": "威力絶大増＋闇武器攻撃力大増＋闇属性上限上昇",
-		"tr_explainShort": "",
+		"tr_explainShort": "Power boost + Dark wep. boost + max Dark up",
 		"jp_explainLong": "① 威力を絶大に増加する。\n② 装備中の武器の属性が闇属性の場合\n　　 攻撃力を大きく増加する。\n③ 闇属性の上限値が上昇する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Immensely boosts power.\n    <color=yellow>[F-Frame]</color>\n② Greatly boosts damage if using a Dark weapon.\n    <color=yellow>[H-Frame]</color>\n③ Increases your maximum Dark element value.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31954",
 		"jp_explainShort": "威力絶大増＋闇武器攻撃力大増＋闇属性上限上昇",
-		"tr_explainShort": "",
+		"tr_explainShort": "Power boost + Dark wep. boost + max Dark up",
 		"jp_explainLong": "① 威力を絶大に増加する。\n② 装備中の武器の属性が闇属性の場合\n　　 攻撃力を大きく増加する。\n③ 闇属性の上限値が上昇する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Immensely boosts power.\n    <color=yellow>[F-Frame]</color>\n② Greatly boosts damage if using a Dark weapon.\n    <color=yellow>[H-Frame]</color>\n③ Increases your maximum Dark element value.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "2110",
