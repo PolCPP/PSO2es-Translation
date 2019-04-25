@@ -2,7 +2,7 @@
 	{
 		"assign": "common_return_lobby",
 		"jp_text": "ロビーへ戻る",
-		"tr_text": ""
+		"tr_text": "Return to Lobby"
 	},
 	{
 		"assign": "lobby_guide_00",
@@ -1592,7 +1592,7 @@
 	{
 		"assign": "option_guide_00",
 		"jp_text": "<color=#f0df60>画面表示やサウンドに関する設定を変更・調整することができます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>You can adjust display and sound settings.</color>"
 	},
 	{
 		"assign": "equip_guide_00",
@@ -2087,12 +2087,12 @@
 	{
 		"assign": "labo_dialog_b_03",
 		"jp_text": "<color=#f0df60>解放したいチップを選択してください。レベルが上限に達しているチップのみ解放が可能です。　</color>",
-		"tr_text": "<color=#f0df60>Please select the Chip you want to release.</color>"
+		"tr_text": "<color=#f0df60>Please select the Chip you want to release. Only chips that have reached their maximum grind level can be selected.</color>"
 	},
 	{
 		"assign": "labo_guide_14",
 		"jp_text": "<color=#f0df60>解放したいチップを選択してください。レベルが上限に達しているチップのみ解放が可能です。　</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Please select the Chip you want to release. Only chips that have reached their maximum grind level can be selected.</color>"
 	},
 	{
 		"assign": "labo_dialog_t_25",
@@ -5067,27 +5067,27 @@
 	{
 		"assign": "linkage_exp_guide_00",
 		"jp_text": "<color=#f0df60>『PSO2』と『PSO2es』で入手できる連動経験値の配分設定を変更します。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>You can change how EXP transferred between PSO2 and PSO2es is distributed.</color>"
 	},
 	{
 		"assign": "linkage_exp_return_lobby",
 		"jp_text": "ロビーへ戻る",
-		"tr_text": ""
+		"tr_text": "Return to Lobby"
 	},
 	{
 		"assign": "linkage_exp_save_setting",
 		"jp_text": "設定を保存",
-		"tr_text": ""
+		"tr_text": "Save Settings"
 	},
 	{
 		"assign": "linkage_exp_pso2toes_title",
 		"jp_text": "連動経験値の配分設定 【PSO2 ⇒ es】",
-		"tr_text": ""
+		"tr_text": "Linked EXP Distribution Settings [PSO2 ⇒ es]"
 	},
 	{
 		"assign": "linkage_exp_usage",
 		"jp_text": "配分状況",
-		"tr_text": ""
+		"tr_text": "Allocation"
 	},
 	{
 		"assign": "linkage_exp_average_allocation",
@@ -5097,22 +5097,22 @@
 	{
 		"assign": "linkage_exp_reset",
 		"jp_text": "リセット",
-		"tr_text": ""
+		"tr_text": "Reset"
 	},
 	{
 		"assign": "linkage_exp_remaining",
 		"jp_text": "残り",
-		"tr_text": ""
+		"tr_text": "Remaining"
 	},
 	{
 		"assign": "linkage_exp_extra",
 		"jp_text": "あと",
-		"tr_text": "CD:"
+		"tr_text": "After:"
 	},
 	{
 		"assign": "linkage_exp_class_item",
 		"jp_text": "エクスキューブ",
-		"tr_text": ""
+		"tr_text": "Excube"
 	},
 	{
 		"assign": "linkage_exp_get_item",
@@ -5132,12 +5132,12 @@
 	{
 		"assign": "linkage_exp_estopso2_title",
 		"jp_text": "連動経験値の配分設定 【es ⇒ PSO2】",
-		"tr_text": ""
+		"tr_text": "Linked EXP Distribution Settings [es ⇒ PSO2]"
 	},
 	{
 		"assign": "linkage_exp_linkage_exp",
 		"jp_text": "連動経験値",
-		"tr_text": "Combined EXP"
+		"tr_text": "Linked EXP"
 	},
 	{
 		"assign": "linkage_exp_linkage_exp_value",
@@ -5162,7 +5162,7 @@
 	{
 		"assign": "linkage_exp_dialog_b_01",
 		"jp_text": "配分率が合計100％にならないため、保存できません。\n「配分状況」を残り <color=yellow>0％</color> にしてください。",
-		"tr_text": ""
+		"tr_text": "Cannot save because your total allocationis not 100%.\nPlease make sure your remaining allocation is <color=yellow>0%</color>."
 	},
 	{
 		"assign": "linkage_exp_dialog_t_02",
