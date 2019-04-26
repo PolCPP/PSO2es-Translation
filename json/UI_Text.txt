@@ -2,7 +2,7 @@
 	{
 		"assign": "common_return_lobby",
 		"jp_text": "ロビーへ戻る",
-		"tr_text": ""
+		"tr_text": "Return to Lobby"
 	},
 	{
 		"assign": "lobby_guide_00",
@@ -1592,7 +1592,7 @@
 	{
 		"assign": "option_guide_00",
 		"jp_text": "<color=#f0df60>画面表示やサウンドに関する設定を変更・調整することができます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>You can adjust display and sound settings.</color>"
 	},
 	{
 		"assign": "equip_guide_00",
@@ -2087,12 +2087,12 @@
 	{
 		"assign": "labo_dialog_b_03",
 		"jp_text": "<color=#f0df60>解放したいチップを選択してください。レベルが上限に達しているチップのみ解放が可能です。　</color>",
-		"tr_text": "<color=#f0df60>Please select the Chip you want to release.</color>"
+		"tr_text": "<color=#f0df60>Please select the Chip you want to release. Only chips that have reached their maximum grind level can be selected.</color>"
 	},
 	{
 		"assign": "labo_guide_14",
 		"jp_text": "<color=#f0df60>解放したいチップを選択してください。レベルが上限に達しているチップのみ解放が可能です。　</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Please select the Chip you want to release. Only chips that have reached their maximum grind level can be selected.</color>"
 	},
 	{
 		"assign": "labo_dialog_t_25",
@@ -5067,57 +5067,57 @@
 	{
 		"assign": "linkage_exp_guide_00",
 		"jp_text": "<color=#f0df60>『PSO2』と『PSO2es』で入手できる連動経験値の配分設定を変更します。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>You can change how EXP transferred between PSO2 and PSO2es is distributed.</color>"
 	},
 	{
 		"assign": "linkage_exp_return_lobby",
 		"jp_text": "ロビーへ戻る",
-		"tr_text": ""
+		"tr_text": "Return to Lobby"
 	},
 	{
 		"assign": "linkage_exp_save_setting",
 		"jp_text": "設定を保存",
-		"tr_text": ""
+		"tr_text": "Save Settings"
 	},
 	{
 		"assign": "linkage_exp_pso2toes_title",
 		"jp_text": "連動経験値の配分設定 【PSO2 ⇒ es】",
-		"tr_text": ""
+		"tr_text": "Linked EXP Distribution [PSO2 ⇒ es]"
 	},
 	{
 		"assign": "linkage_exp_usage",
 		"jp_text": "配分状況",
-		"tr_text": ""
+		"tr_text": " Remaining"
 	},
 	{
 		"assign": "linkage_exp_average_allocation",
 		"jp_text": "平均配分",
-		"tr_text": ""
+		"tr_text": "Average"
 	},
 	{
 		"assign": "linkage_exp_reset",
 		"jp_text": "リセット",
-		"tr_text": ""
+		"tr_text": "Reset"
 	},
 	{
 		"assign": "linkage_exp_remaining",
 		"jp_text": "残り",
-		"tr_text": ""
+		"tr_text": "\t"
 	},
 	{
 		"assign": "linkage_exp_extra",
 		"jp_text": "あと",
-		"tr_text": "CD:"
+		"tr_text": "After:"
 	},
 	{
 		"assign": "linkage_exp_class_item",
 		"jp_text": "エクスキューブ",
-		"tr_text": ""
+		"tr_text": "Excube"
 	},
 	{
 		"assign": "linkage_exp_get_item",
 		"jp_text": "アイテム獲得まで",
-		"tr_text": ""
+		"tr_text": "To next item"
 	},
 	{
 		"assign": "linkage_exp_next_level",
@@ -5132,12 +5132,12 @@
 	{
 		"assign": "linkage_exp_estopso2_title",
 		"jp_text": "連動経験値の配分設定 【es ⇒ PSO2】",
-		"tr_text": ""
+		"tr_text": "Linked EXP Distribution [es ⇒ PSO2]"
 	},
 	{
 		"assign": "linkage_exp_linkage_exp",
 		"jp_text": "連動経験値",
-		"tr_text": "Combined EXP"
+		"tr_text": "Linked EXP"
 	},
 	{
 		"assign": "linkage_exp_linkage_exp_value",
@@ -5147,57 +5147,57 @@
 	{
 		"assign": "linkage_exp_dialog_t_00",
 		"jp_text": "連動経験値の蓄積上限",
-		"tr_text": ""
+		"tr_text": "Linked EXP at Maximum"
 	},
 	{
 		"assign": "linkage_exp_dialog_b_00",
 		"jp_text": "『PSO2es』のプレイで獲得できる連動経験値が\nすべてのクラスで蓄積上限に達しました。\n\n『PSO2』をプレイすることで\n連動経験値を再び獲得できるようになります。",
-		"tr_text": ""
+		"tr_text": "You have reached the maximum possible Linked EXP\nthat can be earned from playing PSO2es in all classes.\n\nYou can earn more EXP by playing PSO2."
 	},
 	{
 		"assign": "linkage_exp_dialog_t_01",
 		"jp_text": "配分設定エラー",
-		"tr_text": ""
+		"tr_text": "Allocation Error"
 	},
 	{
 		"assign": "linkage_exp_dialog_b_01",
 		"jp_text": "配分率が合計100％にならないため、保存できません。\n「配分状況」を残り <color=yellow>0％</color> にしてください。",
-		"tr_text": ""
+		"tr_text": "Cannot save as your total allocation is not 100%.\nPlease make sure your remaining allocation is <color=yellow>0%</color>."
 	},
 	{
 		"assign": "linkage_exp_dialog_t_02",
 		"jp_text": "配分設定の保存",
-		"tr_text": ""
+		"tr_text": "Settings Saved"
 	},
 	{
 		"assign": "linkage_exp_dialog_b_02",
 		"jp_text": "配分設定を保存しました。\nこの設定は、次回のプレイから適用されます。",
-		"tr_text": ""
+		"tr_text": "Allocation settings saved.\nThese settings will be applied the next time\nyou play."
 	},
 	{
 		"assign": "linkage_exp_dialog_t_03",
 		"jp_text": "設定変更エラー",
-		"tr_text": ""
+		"tr_text": "Setting Change Error"
 	},
 	{
 		"assign": "linkage_exp_dialog_b_03",
 		"jp_text": "配分設定が変更されています。\n保存していない設定は破棄されますが\nよろしいですか？",
-		"tr_text": ""
+		"tr_text": "Allocation settings have been changed.\nIs it OK to discard unsaved changes?"
 	},
 	{
 		"assign": "linkage_exp_dialog_t_04",
 		"jp_text": "配分設定エラー",
-		"tr_text": ""
+		"tr_text": "Allocation Error"
 	},
 	{
 		"assign": "linkage_exp_dialog_b_04",
 		"jp_text": "配分設定を変更していない項目があります。\n以下のまま保存してよろしいですか？\n・『PSO2es』⇒『PSO2』の連動経験値\n　　配分可能な全クラスへ均等に配分\n・『PSO2』⇒『PSO2es』の連動経験値\n　　エクスキューブへすべて配分",
-		"tr_text": ""
+		"tr_text": "Settings have not been changed.\nAre you sure you want to save the below pattern?\n・PSO2es ⇒ PSO2\n   Distribute evenly to all classes\n・PSO2 ⇒ PSO2es\n   \nAllocate all to Excubes"
 	},
 	{
 		"assign": "linkage_exp_button_auto_adjust",
 		"jp_text": "自動調整して保存",
-		"tr_text": ""
+		"tr_text": "Auto-adjust & save"
 	},
 	{
 		"assign": "linkage_exp_button_check_default_setting",
@@ -5212,17 +5212,17 @@
 	{
 		"assign": "linkage_exp_first_time_dialog_t_00",
 		"jp_text": "連動経験値の配分設定",
-		"tr_text": ""
+		"tr_text": "Linked EXP Distribution Settings"
 	},
 	{
 		"assign": "linkage_exp_first_time_dialog_b_00",
 		"jp_text": "『PSO2』『PSO2es』で獲得できる連動経験値の\n配分設定を行ってください。\n\n「設定を保存」で、変更した設定を適用できます。\n設定後「ロビーへ戻る」でゲームを開始します。",
-		"tr_text": ""
+		"tr_text": "Please set the allocation of Linked EXP\ntransferred between PSO2es and PSO2.\n\nYou can apply your changes by pressing\n\"Save Settings\".\nAfterwards, you can start the game by pressing\n\"Return to Lobby\"."
 	},
 	{
 		"assign": "linkage_exp_first_time_button_allocation_setting",
 		"jp_text": "設定する",
-		"tr_text": ""
+		"tr_text": "Set"
 	},
 	{
 		"assign": "window_help_LM38",
@@ -7607,17 +7607,17 @@
 	{
 		"assign": "summoner",
 		"jp_text": "サモナー",
-		"tr_text": ""
+		"tr_text": "Summoner"
 	},
 	{
 		"assign": "hero",
 		"jp_text": "ヒーロー",
-		"tr_text": ""
+		"tr_text": "Hero"
 	},
 	{
 		"assign": "phantom",
 		"jp_text": "ファントム",
-		"tr_text": ""
+		"tr_text": "Phantom"
 	},
 	{
 		"assign": "ship_01",
@@ -8627,7 +8627,7 @@
 	{
 		"assign": "recycle_item_num_count_format",
 		"jp_text": "×{0}個",
-		"tr_text": ""
+		"tr_text": "x{0}"
 	},
 	{
 		"assign": "recycle_item_trade_info",
@@ -8647,7 +8647,7 @@
 	{
 		"assign": "recycle_shop_trade_target",
 		"jp_text": "交換対象：",
-		"tr_text": ""
+		"tr_text": "Exchange item: "
 	},
 	{
 		"assign": "recycle_item_trade_limit_info",
@@ -8727,7 +8727,7 @@
 	{
 		"assign": "recycle_shop_recommended_select",
 		"jp_text": "おまかせ選択",
-		"tr_text": ""
+		"tr_text": "Recommended"
 	},
 	{
 		"assign": "chip_grind_ability_level_up",
@@ -9012,7 +9012,7 @@
 	{
 		"assign": "classcounter_linkage_exp",
 		"jp_text": "連動経験値",
-		"tr_text": ""
+		"tr_text": "Linked EXP"
 	},
 	{
 		"assign": "classcounter_equip",
@@ -9542,7 +9542,7 @@
 	{
 		"assign": "menu_charainfo_goto_lobby",
 		"jp_text": "ロビーへ戻る",
-		"tr_text": ""
+		"tr_text": "Return to Lobby"
 	},
 	{
 		"assign": "menu_charainfo_return",
@@ -9707,7 +9707,7 @@
 	{
 		"assign": "menu_main_button_linkage_exp",
 		"jp_text": "連動経験値",
-		"tr_text": ""
+		"tr_text": "Allocate EXP"
 	},
 	{
 		"assign": "menu_main_button_linkage",
@@ -14442,7 +14442,7 @@
 	{
 		"assign": "raid_n_clear_dps",
 		"jp_text": "お疲れ様でした。満足のいく戦闘はできましたか？\nより高いダメージを目指して、再チャレンジです！",
-		"tr_text": ""
+		"tr_text": "Thank you for your hard work. Did you enjoy that battle?\nWhy not try again and aim to deal even more damage!"
 	},
 	{
 		"assign": "raid_n_hp01",
@@ -17342,7 +17342,7 @@
 	{
 		"assign": "lookback_maintitle_8",
 		"jp_text": "ブレイブ　オブ　セイガーズ",
-		"tr_text": ""
+		"tr_text": "Brave of Seiga"
 	},
 	{
 		"assign": "lookback_maintext_8",
@@ -18107,7 +18107,7 @@
 	{
 		"assign": "acceptbox_goto_lobby",
 		"jp_text": "ロビーへ戻る",
-		"tr_text": ""
+		"tr_text": "Return to Lobby"
 	},
 	{
 		"assign": "acceptbox_guide_00",
@@ -19132,7 +19132,7 @@
 	{
 		"assign": "leisure_goto_lobby",
 		"jp_text": "ロビーへ戻る",
-		"tr_text": ""
+		"tr_text": "Return to Lobby"
 	},
 	{
 		"assign": "photondice_title",
@@ -19342,7 +19342,7 @@
 	{
 		"assign": "photondice_result_lose_dialog_b_con_02_rc",
 		"jp_text": "<color=red>ラッピーメダル</color>を1枚消費して再戦しますか？\n再戦しない場合、獲得LCがすべて失われます。\n\n<color=yellow>所持ラッピーメダル：<%value>枚</color>",
-		"tr_text": ""
+		"tr_text": "Do you want to play a <color=red>rematch</color> at\nthe cost of 1 Rappy medal?\nIf you don't play a rematch, all LC\nyou earned so far will be lost.\n<color=yellow>Remaining medals: <%value></color>"
 	},
 	{
 		"assign": "photondice_result_lose_dialog_b_con_03",
@@ -19562,7 +19562,7 @@
 	{
 		"assign": "equip_apply_lobby",
 		"jp_text": "ロビーへ戻る",
-		"tr_text": ""
+		"tr_text": "Return to Lobby"
 	},
 	{
 		"assign": "quest_linkskill_window_title",
@@ -19722,7 +19722,7 @@
 	{
 		"assign": "chip_details_next_exp",
 		"jp_text": "次のチップレベルまで",
-		"tr_text": "Next Level"
+		"tr_text": "To Next Chip Level"
 	},
 	{
 		"assign": "chip_details_release_ability",
@@ -19732,7 +19732,7 @@
 	{
 		"assign": "chip_details_chipequip_next_lv",
 		"jp_text": "次のレベルまで",
-		"tr_text": ""
+		"tr_text": "To Next Level"
 	},
 	{
 		"assign": "chip_details_base_item_plus",
@@ -20917,7 +20917,7 @@
 	{
 		"assign": "dailyorder_goto_lobby",
 		"jp_text": "ロビーへ戻る",
-		"tr_text": ""
+		"tr_text": "Return to Lobby"
 	},
 	{
 		"assign": "dailyorder_guide_00",
@@ -21312,17 +21312,17 @@
 	{
 		"assign": "raid_dps_ranking_reward_title",
 		"jp_text": "ランキング報酬",
-		"tr_text": ""
+		"tr_text": "Ranking Reward"
 	},
 	{
 		"assign": "raid_dps_ranking_reward_message",
 		"jp_text": "ランキング報酬を送りました。\n受け取りボックスをご確認ください。",
-		"tr_text": ""
+		"tr_text": "A ranking reward has been delivered.\nPlease check your Reception Box."
 	},
 	{
 		"assign": "raid_dps_title_ranking_top",
 		"jp_text": "ランキング",
-		"tr_text": ""
+		"tr_text": "Ranking"
 	},
 	{
 		"assign": "raid_dps_title_update_time",
