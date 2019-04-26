@@ -5087,7 +5087,7 @@
 	{
 		"assign": "linkage_exp_usage",
 		"jp_text": "配分状況",
-		"tr_text": "Remaining"
+		"tr_text": " Remaining"
 	},
 	{
 		"assign": "linkage_exp_average_allocation",
@@ -5167,12 +5167,12 @@
 	{
 		"assign": "linkage_exp_dialog_t_02",
 		"jp_text": "配分設定の保存",
-		"tr_text": "Save Settings"
+		"tr_text": "Settings Saved"
 	},
 	{
 		"assign": "linkage_exp_dialog_b_02",
 		"jp_text": "配分設定を保存しました。\nこの設定は、次回のプレイから適用されます。",
-		"tr_text": ""
+		"tr_text": "Allocation settings saved.\nThese settings will be applied the next time\nyou play."
 	},
 	{
 		"assign": "linkage_exp_dialog_t_03",
@@ -5182,7 +5182,7 @@
 	{
 		"assign": "linkage_exp_dialog_b_03",
 		"jp_text": "配分設定が変更されています。\n保存していない設定は破棄されますが\nよろしいですか？",
-		"tr_text": ""
+		"tr_text": "Allocation settings have been changed.\nIs it OK to discard unsaved changes?"
 	},
 	{
 		"assign": "linkage_exp_dialog_t_04",
@@ -5192,7 +5192,7 @@
 	{
 		"assign": "linkage_exp_dialog_b_04",
 		"jp_text": "配分設定を変更していない項目があります。\n以下のまま保存してよろしいですか？\n・『PSO2es』⇒『PSO2』の連動経験値\n　　配分可能な全クラスへ均等に配分\n・『PSO2』⇒『PSO2es』の連動経験値\n　　エクスキューブへすべて配分",
-		"tr_text": ""
+		"tr_text": "Settings have not been changed.\nAre you sure you want to save the below pattern?\n・PSO2es ⇒ PSO2\n   Distribute evenly to all classes\n・PSO2 ⇒ PSO2es\n   \nAllocate all to Excubes"
 	},
 	{
 		"assign": "linkage_exp_button_auto_adjust",
@@ -5212,17 +5212,17 @@
 	{
 		"assign": "linkage_exp_first_time_dialog_t_00",
 		"jp_text": "連動経験値の配分設定",
-		"tr_text": ""
+		"tr_text": "Linked EXP Distribution Settings"
 	},
 	{
 		"assign": "linkage_exp_first_time_dialog_b_00",
 		"jp_text": "『PSO2』『PSO2es』で獲得できる連動経験値の\n配分設定を行ってください。\n\n「設定を保存」で、変更した設定を適用できます。\n設定後「ロビーへ戻る」でゲームを開始します。",
-		"tr_text": ""
+		"tr_text": "Please set the allocation of Linked EXP\ntransferred between PSO2es and PSO2.\n\nYou can apply your changes by pressing\n\"Save Settings\".\nAfterwards, you can start the game by pressing\n\"Return to Lobby\"."
 	},
 	{
 		"assign": "linkage_exp_first_time_button_allocation_setting",
 		"jp_text": "設定する",
-		"tr_text": ""
+		"tr_text": "Set"
 	},
 	{
 		"assign": "window_help_LM38",
