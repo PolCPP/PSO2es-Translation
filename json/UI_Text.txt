@@ -8627,7 +8627,7 @@
 	{
 		"assign": "recycle_item_num_count_format",
 		"jp_text": "×{0}個",
-		"tr_text": ""
+		"tr_text": "x{0}"
 	},
 	{
 		"assign": "recycle_item_trade_info",
@@ -8647,7 +8647,7 @@
 	{
 		"assign": "recycle_shop_trade_target",
 		"jp_text": "交換対象：",
-		"tr_text": ""
+		"tr_text": "Exchange item: "
 	},
 	{
 		"assign": "recycle_item_trade_limit_info",
@@ -8727,7 +8727,7 @@
 	{
 		"assign": "recycle_shop_recommended_select",
 		"jp_text": "おまかせ選択",
-		"tr_text": ""
+		"tr_text": "Recommended"
 	},
 	{
 		"assign": "chip_grind_ability_level_up",
@@ -9012,7 +9012,7 @@
 	{
 		"assign": "classcounter_linkage_exp",
 		"jp_text": "連動経験値",
-		"tr_text": ""
+		"tr_text": "Linked EXP"
 	},
 	{
 		"assign": "classcounter_equip",
@@ -9542,7 +9542,7 @@
 	{
 		"assign": "menu_charainfo_goto_lobby",
 		"jp_text": "ロビーへ戻る",
-		"tr_text": ""
+		"tr_text": "Return to Lobby"
 	},
 	{
 		"assign": "menu_charainfo_return",
@@ -9707,7 +9707,7 @@
 	{
 		"assign": "menu_main_button_linkage_exp",
 		"jp_text": "連動経験値",
-		"tr_text": ""
+		"tr_text": "Allocate EXP"
 	},
 	{
 		"assign": "menu_main_button_linkage",
@@ -14442,7 +14442,7 @@
 	{
 		"assign": "raid_n_clear_dps",
 		"jp_text": "お疲れ様でした。満足のいく戦闘はできましたか？\nより高いダメージを目指して、再チャレンジです！",
-		"tr_text": ""
+		"tr_text": "Thank you for your hard work. Did you enjoy that battle?\nWhy not try again and aim to deal even more damage!"
 	},
 	{
 		"assign": "raid_n_hp01",
@@ -17342,7 +17342,7 @@
 	{
 		"assign": "lookback_maintitle_8",
 		"jp_text": "ブレイブ　オブ　セイガーズ",
-		"tr_text": ""
+		"tr_text": "Brave of Seiga"
 	},
 	{
 		"assign": "lookback_maintext_8",
@@ -18107,7 +18107,7 @@
 	{
 		"assign": "acceptbox_goto_lobby",
 		"jp_text": "ロビーへ戻る",
-		"tr_text": ""
+		"tr_text": "Return to Lobby"
 	},
 	{
 		"assign": "acceptbox_guide_00",
@@ -19132,7 +19132,7 @@
 	{
 		"assign": "leisure_goto_lobby",
 		"jp_text": "ロビーへ戻る",
-		"tr_text": ""
+		"tr_text": "Return to Lobby"
 	},
 	{
 		"assign": "photondice_title",
@@ -19342,7 +19342,7 @@
 	{
 		"assign": "photondice_result_lose_dialog_b_con_02_rc",
 		"jp_text": "<color=red>ラッピーメダル</color>を1枚消費して再戦しますか？\n再戦しない場合、獲得LCがすべて失われます。\n\n<color=yellow>所持ラッピーメダル：<%value>枚</color>",
-		"tr_text": ""
+		"tr_text": "Do you want to play a <color=red>rematch</color> at\nthe cost of 1 Rappy medal?\nIf you don't play a rematch, all LC\nyou earned so far will be lost.\n<color=yellow>Remaining medals: <%value></color>"
 	},
 	{
 		"assign": "photondice_result_lose_dialog_b_con_03",
@@ -19562,7 +19562,7 @@
 	{
 		"assign": "equip_apply_lobby",
 		"jp_text": "ロビーへ戻る",
-		"tr_text": ""
+		"tr_text": "Return to Lobby"
 	},
 	{
 		"assign": "quest_linkskill_window_title",
@@ -19722,7 +19722,7 @@
 	{
 		"assign": "chip_details_next_exp",
 		"jp_text": "次のチップレベルまで",
-		"tr_text": "Next Level"
+		"tr_text": "To Next Chip Level"
 	},
 	{
 		"assign": "chip_details_release_ability",
@@ -19732,7 +19732,7 @@
 	{
 		"assign": "chip_details_chipequip_next_lv",
 		"jp_text": "次のレベルまで",
-		"tr_text": ""
+		"tr_text": "To Next Level"
 	},
 	{
 		"assign": "chip_details_base_item_plus",
@@ -20917,7 +20917,7 @@
 	{
 		"assign": "dailyorder_goto_lobby",
 		"jp_text": "ロビーへ戻る",
-		"tr_text": ""
+		"tr_text": "Return to Lobby"
 	},
 	{
 		"assign": "dailyorder_guide_00",
@@ -21312,17 +21312,17 @@
 	{
 		"assign": "raid_dps_ranking_reward_title",
 		"jp_text": "ランキング報酬",
-		"tr_text": ""
+		"tr_text": "Ranking Reward"
 	},
 	{
 		"assign": "raid_dps_ranking_reward_message",
 		"jp_text": "ランキング報酬を送りました。\n受け取りボックスをご確認ください。",
-		"tr_text": ""
+		"tr_text": "A ranking reward has been delivered.\nPlease check your Reception Box."
 	},
 	{
 		"assign": "raid_dps_title_ranking_top",
 		"jp_text": "ランキング",
-		"tr_text": ""
+		"tr_text": "Ranking"
 	},
 	{
 		"assign": "raid_dps_title_update_time",
