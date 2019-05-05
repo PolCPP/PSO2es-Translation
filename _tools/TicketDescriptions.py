@@ -38,9 +38,21 @@ for name in file_names:
                 item["tr_explain"] += "female-only "
             elif len(regex.findall("男性のみ使用可能。", item["jp_explain"])) > 0:
                 item["tr_explain"] += "male-only "
+
+            #Some stickers have different names in-game from their tickets.
+            #The in-game name is in the tickets' descriptions.
+            #Extract it here.
+            cosmetic_name = item["tr_text"]
+            if name[1] == "sticker":
+                description_name = regex.search(
+                    r'(?<=ステッカーの\n)(.+[ＡＢＣ]?)(?=が選択可能。)',
+                    item["jp_explain"]).group(0)
+
+                if (description_name != item["jp_text"]):
+                    cosmetic_name = regex.sub(" Sticker", "", cosmetic_name)
             
             item["tr_explain"] += (item_type + "\n\""
-                                   + item["tr_text"] + "\"\n"
+                                   + cosmetic_name + "\"\n"
                                    + "for use in the Beauty Salon.")
 
             print("Translated description for {0}".format(item["tr_text"]))
