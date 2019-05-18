@@ -312,14 +312,14 @@
 		"jp_explainShort": "定期的にＨＰが小回復＋ダウン無効",
 		"tr_explainShort": "HP up over time + knockdown immunity",
 		"jp_explainLong": "① 定期的にＨＰをわずかに回復する。\n② ダウンしなくなる。\n[発動条件]敵からの攻撃でＨＰが一定以下になった時\n[効果時間]一定時間",
-		"tr_explainLong": "① Slightly recovers HP at regular intervals.\n② Grants knockdown immunity.\n[Activation Trigger] Damaged to low HP\n[Effect Duration] Medium"
+		"tr_explainLong": "① Slightly recovers HP at regular intervals.\n② Grants knockdown immunity.\n[Activation Trigger] Damaged to a certain HP level\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "30052",
 		"jp_explainShort": "定期的にＨＰが小回復＋ダウン無効",
 		"tr_explainShort": "HP up over time + knockdown immunity",
 		"jp_explainLong": "① 定期的にＨＰをわずかに回復する。\n② ダウンしなくなる。\n[発動条件]敵からの攻撃でＨＰが一定以下になった時\n[効果時間]一定時間",
-		"tr_explainLong": "① Slightly recovers HP at regular intervals.\n② Grants knockdown immunity.\n[Activation Trigger] Damaged to low HP\n[Effect Duration] Medium"
+		"tr_explainLong": "① Slightly recovers HP at regular intervals.\n② Grants knockdown immunity.\n[Activation Trigger] Damaged to a certain HP level\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "30055",
@@ -5219,14 +5219,14 @@
 		"jp_explainShort": "一定以下になった際、ＨＰ・ＣＰが大回復",
 		"tr_explainShort": "HP and CP recovery at low HP",
 		"jp_explainLong": "① ＨＰを大きく回復する。\n② ＣＰを大きく回復する。\n[発動条件]敵からの攻撃でＨＰが一定以下になった時",
-		"tr_explainLong": "① Greatly recovers HP.\n② Greatly recovers CP.\n[Activation Trigger] Damaged to low HP"
+		"tr_explainLong": "① Greatly recovers HP.\n② Greatly recovers CP.\n[Activation Trigger] Damaged to a certain HP level"
 	},
 	{
 		"assign": "80120",
 		"jp_explainShort": "一定以下になった際、ＨＰ・ＣＰが劇的回復",
 		"tr_explainShort": "HP and CP recovery at low HP",
 		"jp_explainLong": "① ＨＰを劇的に回復する。\n② ＣＰを劇的に回復する。\n[発動条件]敵からの攻撃でＨＰが一定以下になった時",
-		"tr_explainLong": "① Dramatically recovers HP.\n② Dramatically recovers CP.\n[Activation Trigger] Damaged to low HP"
+		"tr_explainLong": "① Dramatically recovers HP.\n② Dramatically recovers CP.\n[Activation Trigger] Damaged to a certain HP level"
 	},
 	{
 		"assign": "80310",
