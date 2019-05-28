@@ -31,12 +31,6 @@ wpn_files = [
     for f in fnmatch.filter(files, 'Item_Weapon_*.txt')
 ]
 
-wpn_files += [
-    os.path.join(dirpath, f)
-    for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'UI_Weaponoid_Name.txt')
-]
-
 WPN = dict()
 
 if len(sys.argv) == 3 and sys.argv[2] != "0":
