@@ -259,6 +259,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "24086",
+		"jp_text": "ノーヴィカッツェ紅[Ou]",
+		"tr_text": "Novi Katze Crimson [Ou]",
+		"jp_explain": "アークス用に開発された戦闘服。\n頑丈な素材を使用しており、柔軟で\nありながら十分な耐久性を有する。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "24088",
 		"jp_text": "フリルパーカー[Ou]",
 		"tr_text": "Frill Parka [Ou]",
@@ -556,6 +563,13 @@
 		"assign": "240185",
 		"jp_text": "ヴァルザレシオ影[Ou]",
 		"tr_text": "Varza Ratio Shadow [Ou]",
+		"jp_explain": "数多の戦闘データを元に開発された\n戦闘服。攻撃的な意匠は勇ましく\n見た者を怯ませるほどの威圧感がある。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240186",
+		"jp_text": "ヴァルザレシオ玄[Ou]",
+		"tr_text": "",
 		"jp_explain": "数多の戦闘データを元に開発された\n戦闘服。攻撃的な意匠は勇ましく\n見た者を怯ませるほどの威圧感がある。",
 		"tr_explain": ""
 	},
@@ -927,6 +941,13 @@
 		"assign": "240286",
 		"jp_text": "ヘリオスディルア雪[Ou]",
 		"tr_text": "Helios Dirah Snow [Ou]",
+		"jp_explain": "あらゆるクラスの基礎を体得した\nアークス向けに開発された戦闘服。\n汎用性が高く、愛用者の評価は高い。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240287",
+		"jp_text": "ヘリオスディルア影[Ou]",
+		"tr_text": "Helios Dirah Shadow [Ou]",
 		"jp_explain": "あらゆるクラスの基礎を体得した\nアークス向けに開発された戦闘服。\n汎用性が高く、愛用者の評価は高い。",
 		"tr_explain": ""
 	},
@@ -1330,6 +1351,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "240411",
+		"jp_text": "タイラー・レプカＦ陽[Ou]",
+		"tr_text": "Tylor Repca F Sun [Ou]",
+		"jp_explain": "とある惑星のならず者集団をまとめる\n情に篤い頭領の私服を模した戦闘服。\n誰一人として欠かせない……仲間だ。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "240414",
 		"jp_text": "レンジェルヴェント[Ou]",
 		"tr_text": "Ranger Vent [Ou]",
@@ -1347,6 +1375,13 @@
 		"assign": "240418",
 		"jp_text": "グラスラージュフリル[Ou]",
 		"tr_text": "Grassoulage Frill [Ou]",
+		"jp_explain": "デザイナーアサノが作った衣装。\nミリタリー風の衣装に合わせて\nデザインされたゴーグルが特徴。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240419",
+		"jp_text": "グラスラージュフリル鋼[Ou]",
+		"tr_text": "",
 		"jp_explain": "デザイナーアサノが作った衣装。\nミリタリー風の衣装に合わせて\nデザインされたゴーグルが特徴。",
 		"tr_explain": ""
 	},
@@ -1477,6 +1512,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "240475",
+		"jp_text": "スイートシムーン雪[Ou]",
+		"tr_text": "",
+		"jp_explain": "暗黒の教義に一切を捧げた死の遂行者が\n着用する服装。夜風のように華麗な姿で\n標的を着実に仕留める。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "240482",
 		"jp_text": "フローの衣装Ｆ[Ou]",
 		"tr_text": "Flo Attire F [Ou]",
@@ -1529,6 +1571,13 @@
 		"assign": "240511",
 		"jp_text": "東衣仙妃[Ou]",
 		"tr_text": "Eastern Celestial [Ou]",
+		"jp_explain": "とある東の国で語られた伝承を基に\nデザインされた衣装。精緻な紋様と\n飾り結びは吉祥を呼び込むという。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240512",
+		"jp_text": "東衣仙妃　紅[Ou]",
+		"tr_text": "Eastern Celestial Crimson [Ou]",
 		"jp_explain": "とある東の国で語られた伝承を基に\nデザインされた衣装。精緻な紋様と\n飾り結びは吉祥を呼び込むという。",
 		"tr_explain": ""
 	},
@@ -1715,6 +1764,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "240600",
+		"jp_text": "カレテラヴィント[Ou]",
+		"tr_text": "Careterra Wind [Ou]",
+		"jp_explain": "極限まで静音性を高めた戦闘服。\n新開発の技術によって作られており\n優れた柔軟性で非常に動きやすい。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "240601",
 		"jp_text": "逢魔幽玄譚[Ou]",
 		"tr_text": "Amorous Tale [Ou]",
@@ -1864,22 +1920,78 @@
 	{
 		"assign": "240649",
 		"jp_text": "コンバットジャケット[Ou]",
-		"tr_text": "",
+		"tr_text": "Combat Jacket [Ou]",
 		"jp_explain": "戦闘行動時に着用する服装。\n機動性と携行能力を最重視して作られ\n多くの女性戦闘員に愛用されている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "240653",
 		"jp_text": "コープスパーカーＦ雅[Ou]",
-		"tr_text": "",
+		"tr_text": "Corpse Parka F Elegant [Ou]",
 		"jp_explain": "ラフな装いを保ちつつ、身体の動きを\n邪魔しないダンサー愛用のパーカー。\nガイコツプリントで注目の的に。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "240656",
 		"jp_text": "ステラメモリーズ影[Ou]",
-		"tr_text": "",
+		"tr_text": "Stella Memories Shadow [Ou]",
 		"jp_explain": "星の形をかたどった新機軸の戦闘服。\n旧型モデルの運用データを研究し\n高い機能性と可愛らしさを両立した。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240663",
+		"jp_text": "フリークスフリーク[Ou]",
+		"tr_text": "Freaks Freak [Ou]",
+		"jp_explain": "次世代アークス武器研究所開発部門の\nA.I.S専属チームに支給される服。\nぞんざいに扱われ、いつもしわくちゃ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240667",
+		"jp_text": "レゾンヴァニタス[Ou]",
+		"tr_text": "Raison Vanitas [Ou]",
+		"jp_explain": "罪と罰の声が絶えず聞こえる深き闇と\n生きる者の血潮を表現した戦闘服。\n堅強な装甲の下、痛みが見え隠れする。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240673",
+		"jp_text": "オニツキミコン[Ou]",
+		"tr_text": "Onitsukimikon [Ou]",
+		"jp_explain": "デザイナーハイゼンが作った衣装。\n施された色の濃淡は、巫女が鬼へと\n変わりゆくさまを表現しているという。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240677",
+		"jp_text": "シーリスルインＦ[Ou]",
+		"tr_text": "",
+		"jp_explain": "成長したシャオが身に纏う服。\n彼自身が覚悟を決めて纏うことを決めた\n在りし日のシオンを意識した服装。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240681",
+		"jp_text": "ハリエットの神衣[Ou]",
+		"tr_text": "",
+		"jp_explain": "神霊となったハリエットが身にまとう\n美しい衣装。皆を見守りたいという\n彼女の願いが込められている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240685",
+		"jp_text": "ブランマーメイド[Ou]",
+		"tr_text": "",
+		"jp_explain": "デザイナー切り裂きキティが作った\n衣装。繊細なフリルと大胆な見た目で\n可愛らしくセクシーな装いに。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240689",
+		"jp_text": "デタッチドスリーブ[Ou]",
+		"tr_text": "",
+		"jp_explain": "気品漂う可憐さを演出してくれる\nフリルつきのアンブレラスリーブ。\nエレガントなお嬢さま方へ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "240693",
+		"jp_text": "ゴシック風ケープ[Ou]",
+		"tr_text": "",
+		"jp_explain": "ゴシックがコンセプトのケープ。\nほんのりと甘いレースの縁飾りと\n鋭い輪郭の裾が見事に調和している。",
 		"tr_explain": ""
 	}
 ]

@@ -109,21 +109,21 @@
 		"jp_text": "ラムダリドゥルティブ",
 		"tr_text": "Lambda Ridultiv",
 		"jp_explain": "愛用者の声に応え、改良された大砲。\nカスタムメイド品ながら人気が高く\n評判が評判を呼び、装者は多かった。",
-		"tr_explain": ""
+		"tr_explain": "An improved launcher created by\npopular demand. Due to its popularity,\na number of counterfeits exist."
 	},
 	{
 		"assign": "19016",
 		"jp_text": "ディオリドゥルティブ",
 		"tr_text": "Dio Ridultiv",
 		"jp_explain": "荒々しい見た目が人気を集める大砲。\n外観に反し、その性能は細部にまで\nこだわりを感じる珠玉の一品。",
-		"tr_explain": ""
+		"tr_explain": "A rough-looking yet popular launcher.\nDespite its appearance, care and\nattention has been put into its design."
 	},
 	{
 		"assign": "19017",
 		"jp_text": "リドゥルティブ",
 		"tr_text": "Ridultiv",
 		"jp_explain": "一部のレンジャーに愛用された大砲。\n正式採用されなかったが大砲らしからぬ\n独特な形状ゆえ、惜しむ声は根強い。",
-		"tr_explain": ""
+		"tr_explain": "A launcher used by some Rangers.\nHas not officially been adopted, but\nsome people value its unique shape."
 	},
 	{
 		"assign": "19018",
@@ -522,14 +522,14 @@
 		"jp_text": "アディスバンカー",
 		"tr_text": "Addis Bunker",
 		"jp_explain": "接近戦を好む人のために作られたという\n超至近距離型の大砲。敵へ接近し、戦う\nその勇気に、絶大な破壊力で応える。",
-		"tr_explain": ""
+		"tr_explain": "A launcher designed for those who\nprefer melee combat. Getting in close\nis rewarded with immense power."
 	},
 	{
 		"assign": "19097",
 		"jp_text": "エクシウムバンカー",
 		"tr_text": "Exium Bunker",
 		"jp_explain": "接近戦を好む人のために作られたという\n超至近距離型の大砲。発射機構を改善し\n大幅な火力向上に成功した最新型。",
-		"tr_explain": ""
+		"tr_explain": "A launcher designed for those who\nprefer melee combat. This new model\nboasts greatly improved firepower."
 	},
 	{
 		"assign": "190108",
@@ -543,7 +543,7 @@
 		"jp_text": "エンディミオン",
 		"tr_text": "Endymion",
 		"jp_explain": "技術の粋を結集し、無駄を省き効率よく\n作り上げられた大砲。フォトンを無駄に\n浪費せず、性能も高い高性能モデル。",
-		"tr_explain": ""
+		"tr_explain": "A high-efficiency launcher which uses\nthe latest technology to reach high\nperformance while minimizing waste."
 	},
 	{
 		"assign": "190112",
@@ -607,6 +607,13 @@
 		"tr_text": "Live Spat",
 		"jp_explain": "最先端の生体工学を応用し開発された\n大砲。高純度培養液の作用で射出口の\n状態が一定に保たれ正確な攻撃を実現。",
 		"tr_explain": "A launcher made with state-of-the-\nart bioengineering. Enhanced with a\nhigh-purity culture solution."
+	},
+	{
+		"assign": "190124",
+		"jp_text": "ブラッドスパット",
+		"tr_text": "Blood Spat",
+		"jp_explain": "最先端の生体工学を応用し開発された\n大砲。生細胞液の循環により自律した\n器官を獲得、無駄のない攻撃が可能。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "190125",
@@ -784,6 +791,13 @@
 		"tr_explain": "A weapon powered by a photon\ngenerator. Its shining photons are\nsaid to be the sign of the next era."
 	},
 	{
+		"assign": "190187",
+		"jp_text": "アウェイクプロウド",
+		"tr_text": "Awake Proud",
+		"jp_explain": "強化型のフォトンジェネレーターを\n搭載した大砲。放たれる強力な\nフォトンの波動を以て悪を討つ。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "190189",
 		"jp_text": "ラブパシアン",
 		"tr_text": "Love Passion",
@@ -880,6 +894,13 @@
 		"tr_text": "Vitol Orbit",
 		"jp_explain": "新開発のフォトンリング機構を搭載した\n大砲。展開された部品が合体し\n闇を葬る破壊の光を打ち出す。",
 		"tr_explain": "A launcher with a Photon Ring\nDevice. Its expanded parts form a\nburst of light that buries darkness."
+	},
+	{
+		"assign": "190221",
+		"jp_text": "ヴィトルミラージュ",
+		"tr_text": "Vitol Mirage",
+		"jp_explain": "新開発のフォトンリング機構を搭載した\n大砲。部品が共鳴し発生するリングに\nよって、安定した砲撃を可能にする。",
+		"tr_explain": "A launcher with a Photon Ring\nDevice. Its expanded parts resonate\nwith each other, stabilizing its shots."
 	},
 	{
 		"assign": "190223",
@@ -984,7 +1005,7 @@
 		"jp_text": "ユニオンランチャー",
 		"tr_text": "Union Launcher",
 		"jp_explain": "次世代の主力として開発された大砲。\n専用ブーストパーツが装着されたことで\n限界を超えた性能を発揮する。",
-		"tr_explain": "A launcher developed as the latest\nmodel. Augmented with boost parts,\nits performance exceed its limits."
+		"tr_explain": "A launcher developed as the latest\nmodel. Augmented with boost parts,\nits performance exceeds its limits."
 	},
 	{
 		"assign": "190257",
@@ -1061,14 +1082,14 @@
 		"jp_text": "リドゥルティブ-NT",
 		"tr_text": "Ridultiv-NT",
 		"jp_explain": "一部のレンジャーに愛用された大砲。\n正式採用されなかったが大砲らしからぬ\n独特な形状ゆえ、惜しむ声は根強い。",
-		"tr_explain": ""
+		"tr_explain": "A launcher used by some Rangers.\nHas not officially been adopted, but\nsome people value its unique shape."
 	},
 	{
 		"assign": "190268",
 		"jp_text": "ディオリドゥルティブ-NT",
 		"tr_text": "Dio Ridultiv-NT",
 		"jp_explain": "荒々しい見た目が人気を集める大砲。\n外観に反し、その性能は細部にまで\nこだわりを感じる珠玉の一品。",
-		"tr_explain": ""
+		"tr_explain": "A rough-looking yet popular launcher.\nDespite its appearance, care and\nattention has been put into its design."
 	},
 	{
 		"assign": "190269",
@@ -1341,6 +1362,20 @@
 		"jp_text": "シューティングドライブ-NT",
 		"tr_text": "Shooting Drive-NT",
 		"jp_explain": "最新技術が可能にした超高性能大砲。\n撃ち出された弾が流星のように\n煌くところから名づけられた。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "190360",
+		"jp_text": "オブリサナフェルサ",
+		"tr_text": "Oblisana Fuerza",
+		"jp_explain": "高圧化フォトン気流の噴出力を利用し\n瞬時に変形する大砲。高機能素材により\n従来の半分以下の重さを実現した一品。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "190364",
+		"jp_text": "ディムランチャー",
+		"tr_text": "Dim Launcher",
+		"jp_explain": "次世代の主力として開発された大砲。\n偶発的に禍々しい力を備え、設計以上の\n力を持つが、使用者への影響は未知数。",
 		"tr_explain": ""
 	},
 	{

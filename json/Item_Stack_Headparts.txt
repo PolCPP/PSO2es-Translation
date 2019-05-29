@@ -1806,11 +1806,25 @@
 		"tr_explain": "Unlocks the male Cast head\n\"Magus Head\"\nfor use in the Beauty Salon."
 	},
 	{
+		"assign": "3160290",
+		"jp_text": "メイガス・ヘッドＣＶ",
+		"tr_text": "Magus Head CV",
+		"jp_explain": "チケットを使用すると、新しい頭部の\nメイガス・ヘッドＣＶが選択可能。\nキャスト男性のみ使用可能。",
+		"tr_explain": "Unlocks the male Cast head\n\"Magus Head CV\"\nfor use in the Beauty Salon."
+	},
+	{
 		"assign": "3160292",
 		"jp_text": "フラメル・ヘッド",
 		"tr_text": "Flamel Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nフラメル・ヘッドが選択可能。\nキャスト女性のみ使用可能。",
 		"tr_explain": "Unlocks the female Cast head\n\"Flamel Head\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3160293",
+		"jp_text": "フラメル・ヘッドＣＶ",
+		"tr_text": "Flamel Head CV",
+		"jp_explain": "チケットを使用すると、新しい頭部の\nフラメル・ヘッドＣＶが選択可能。\nキャスト女性のみ使用可能。",
+		"tr_explain": "Unlocks the female Cast head\n\"Flamel Head CV\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3160296",
@@ -1852,48 +1866,104 @@
 		"jp_text": "デモードス・ヘッド",
 		"tr_text": "Demodus Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nデモードス・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the male Cast head\n\"Demodus Head\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3160309",
 		"jp_text": "ＰＳＺオギ・ヘッド",
 		"tr_text": "PSZ Ogi Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nＰＳＺオギ・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the male Cast head\n\"PSZ Ogi Head\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3160312",
 		"jp_text": "ユーテルペ・ヘッド",
 		"tr_text": "Euterpe Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nユーテルペ・ヘッドが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the female Cast head\n\"Euterpe Head\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3160315",
 		"jp_text": "ギガンテ・ヘッドＧＶ",
 		"tr_text": "Gigante Head GV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nギガンテ・ヘッドＧＶが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the male Cast head\n\"Gigante Head\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3160316",
 		"jp_text": "ワルキア・ヘッドＧＶ",
 		"tr_text": "Valkia Head GV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nワルキア・ヘッドＧＶが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the female Cast head\n\"Valkia Head GV\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3160317",
 		"jp_text": "ローロック・ヘッドＧＶ",
-		"tr_text": "",
+		"tr_text": "Lowrock Head GV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nローロック・ヘッドＧＶが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the male Cast head\n\"Lowrock Head GV\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3160318",
 		"jp_text": "クレスロ・ヘッドＧＶ",
-		"tr_text": "",
+		"tr_text": "Clesro Head GV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nクレスロ・ヘッドＧＶが選択可能。\nキャスト女性のみ使用可能。",
+		"tr_explain": "Unlocks the female Cast head\n\"Clesro Head GV\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3160319",
+		"jp_text": "クリミナル・ヘッド",
+		"tr_text": "Criminal Head",
+		"jp_explain": "チケットを使用すると、新しい頭部の\nクリミナル・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
+		"tr_explain": "Unlocks the male Cast head\n\"Criminal Head\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3160322",
+		"jp_text": "ナイトメア・ヘッド",
+		"tr_text": "Nightmare Head",
+		"jp_explain": "チケットを使用すると、新しい頭部の\nナイトメア・ヘッドが選択可能。\nキャスト女性のみ使用可能。",
+		"tr_explain": "Unlocks the female Cast head\n\"Nightmare Head\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3160325",
+		"jp_text": "リュドミラ・ヘッド",
+		"tr_text": "Ludmilla Head",
+		"jp_explain": "チケットを使用すると、新しい頭部の\nリュドミラ・ヘッドが選択可能。\nキャスト女性のみ使用可能。",
+		"tr_explain": "Unlocks the female Cast head\n\"Ludmilla Head\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3160328",
+		"jp_text": "武御雷・ヘッド",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しい頭部の\n武御雷・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3160331",
+		"jp_text": "不知火・ヘッド",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しい頭部の\n不知火・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3160334",
+		"jp_text": "マグナレギア・ヘッド",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しい頭部の\nマグナレギア・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3160337",
+		"jp_text": "エクスマリー・ヘッド",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しい頭部の\nエクスマリー・ヘッドが選択可能。\nキャスト女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3160340",
+		"jp_text": "アンファング・ヘッド",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しい頭部の\nアンファング・ヘッドが選択可能。\nキャスト女性のみ使用可能。",
 		"tr_explain": ""
 	}
 ]

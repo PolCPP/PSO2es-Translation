@@ -2,21 +2,21 @@
 	{
 		"assign": "11000",
 		"jp_text": "ツインマシンガン",
-		"tr_text": "Twin Machinegun",
+		"tr_text": "Twin Machineguns",
 		"jp_explain": "アークスで正式採用されている双機銃。\n携帯性を追求した最軽量モデルで\n初心者にも扱いやすい入門機。",
 		"tr_explain": "Twin machineguns adopted by ARKS.\nWith emphasis on lightweight mobility,\nthis weapon is ideal for beginners."
 	},
 	{
 		"assign": "11001",
 		"jp_text": "アルバＴマシンガン",
-		"tr_text": "Alva Twin Machinegun",
+		"tr_text": "Alva Twin Machineguns",
 		"jp_explain": "アークスで使用される改良型の双機銃。\n砲身を伸張して射程不足を克服し\n弾倉の改良により連射性能も向上した。",
 		"tr_explain": "Improved twin machineguns used by\nARKS. The barrel was extended for\nrange, and the magazine is improved."
 	},
 	{
 		"assign": "11002",
 		"jp_text": "ヴィタＴマシンガン",
-		"tr_text": "Vita Twin Machinegun",
+		"tr_text": "Vita Twin Machineguns",
 		"jp_explain": "基礎モデルに改良を加えた双機銃。\n課題であった衝撃吸収と安定性を確保し\n一層の軽量化がなされた。",
 		"tr_explain": "Machineguns that further improve on\nthe base model. Has shock absorbers\nto improve stability and save weight."
 	},
@@ -387,7 +387,7 @@
 	{
 		"assign": "110057",
 		"jp_text": "アーレスマシンガン",
-		"tr_text": "Ares Machinegun",
+		"tr_text": "Ares Machineguns",
 		"jp_explain": "要塞の幻獣の力を宿した双機銃。装者に\nフォトンブラストの効果で譲らぬ力を\n与え、定めた標的を打ち破る。",
 		"tr_explain": "Twin machineguns harboring the\npower of a Photon Blast. They destroy\nthe target with unyielding strength."
 	},
@@ -471,14 +471,14 @@
 	{
 		"assign": "110074",
 		"jp_text": "赤のマシンガン",
-		"tr_text": "Red Machinegun",
+		"tr_text": "Red Machineguns",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした双機銃。\n目映い赤色は必然的に目を引く。",
 		"tr_explain": "Machineguns whose experimental\ncoloring has become iconic. The\ndazzling red catches the eye."
 	},
 	{
 		"assign": "110075",
 		"jp_text": "青のマシンガン",
-		"tr_text": "Blue Machinegun",
+		"tr_text": "Blue Machineguns",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした双機銃。\n目映い青色は必然的に目を引く。",
 		"tr_explain": "Machineguns whose experimental\ncoloring has become iconic. The\ndazzling blue catches the eye."
 	},
@@ -635,6 +635,13 @@
 		"tr_text": "Live Fanger",
 		"jp_explain": "最先端の生体工学を応用し開発された\n双機銃。高純度培養液が贅沢に充填され\n使えば使うほど進化を続ける。",
 		"tr_explain": "Twin machineguns made with state-\nof-the-art bioengineering. Enhanced\nwith a high-purity culture solution."
+	},
+	{
+		"assign": "1100123",
+		"jp_text": "ブラッドファンガー",
+		"tr_text": "Blood Fanger",
+		"jp_explain": "最先端の生体工学を応用し開発された\n双機銃。循環する生細胞液の効果により\n常時放熱し砲身の過熱を防ぐ。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "1100124",
@@ -847,6 +854,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "1100207",
+		"jp_text": "アウェイクトリガー",
+		"tr_text": "Awake Trigger",
+		"jp_explain": "強化型のフォトンジェネレーターを\n搭載した双機銃。放たれる強力な\nフォトンの波動を以て悪を討つ。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1100208",
 		"jp_text": "禍銃リルユプケ",
 		"tr_text": "Evil Riruyupuke",
@@ -1008,6 +1022,13 @@
 		"tr_explain": "A pair of machineguns with a Photon\nRing Device. The expanded parts can\nfire bullets like meteor showers."
 	},
 	{
+		"assign": "1100255",
+		"jp_text": "ミストールミラージュ",
+		"tr_text": "Mistral Mirage",
+		"jp_explain": "新開発のフォトンリング機構を搭載した\n双機銃。リングを通して部品同士が\n共鳴し、弾丸の威力を高める。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1100260",
 		"jp_text": "三連幻創機銃",
 		"tr_text": "Phantom Triple Cannon",
@@ -1101,21 +1122,21 @@
 	{
 		"assign": "1100295",
 		"jp_text": "レイＴマシンガン",
-		"tr_text": "Ray Twin Machinegun",
+		"tr_text": "Ray Twin Machineguns",
 		"jp_explain": "次世代の主力として開発された双機銃。\n基礎モデルの直系の後継機であり\n出力、安定性共に高いスペックを誇る。",
 		"tr_explain": "Machineguns developed as the latest\nmodel, boasting high photon stability\nwith next-gen specifications."
 	},
 	{
 		"assign": "1100296",
 		"jp_text": "ユニオンＴマシンガン",
-		"tr_text": "Union Twin Machinegun",
+		"tr_text": "Union Twin Machineguns",
 		"jp_explain": "次世代の主力として開発された双機銃。\n専用ブーストパーツが装着されたことで\n限界を超えた性能を発揮する。",
-		"tr_explain": "Machineguns developed as the latest\nmodel. Augmented with boost parts,\nits performance exceed its limits."
+		"tr_explain": "Machineguns developed as the latest\nmodel. Augmented with boost parts,\ntheir performance exceeds their limits."
 	},
 	{
 		"assign": "1100297",
 		"jp_text": "ツインマシンガン-NT",
-		"tr_text": "Twin Machinegun-NT",
+		"tr_text": "Twin Machineguns-NT",
 		"jp_explain": "アークスで正式採用されている双機銃。\n携帯性を追求した最軽量モデルで\n初心者にも扱いやすい入門機。",
 		"tr_explain": "Twin machineguns adopted by ARKS.\nWith emphasis on lightweight mobility,\nthis weapon is ideal for beginners."
 	},
@@ -1292,6 +1313,13 @@
 		"jp_text": "ジュティススウィープ",
 		"tr_text": "Jutus Sweep",
 		"jp_explain": "古より伝わる陽光の双機銃。\n射手を導く聖なる力は魂を護り\n悪を全て撃ち砕き、闇の終局を告げん。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100330",
+		"jp_text": "アレティアスウィープ",
+		"tr_text": "Aletheia Sweep",
+		"jp_explain": "古より伝わる陽光の双機銃。\n聖なる光に包まれし祝福の弾丸は\n災禍を撃ち抜き、平穏をもたらす。",
 		"tr_explain": ""
 	},
 	{
@@ -1498,10 +1526,38 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "1100395",
+		"jp_text": "ダインオンブロス",
+		"tr_text": "Dyne Ombros",
+		"jp_explain": "昏き闇を宿した双機銃。\n一度手にした者は負の感情に飲まれ\n滅びの弾雨を降らせると言われる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100400",
+		"jp_text": "ディムＴマシンガン",
+		"tr_text": "Dim Twin Machineguns",
+		"jp_explain": "次世代の主力として開発された双機銃。\n偶発的に禍々しい力を備え、設計以上の\n力を持つが、使用者への影響は未知数。",
+		"tr_explain": "Twin machineguns created using the\nlatest technology. The origin of their\nunforeseen power is not yet known."
+	},
+	{
 		"assign": "1100401",
 		"jp_text": "ヤスミノコフ８０００Ｃ-NT",
 		"tr_text": "Yasminkov 8000C-NT",
 		"jp_explain": "一風変わったヤスミノコフ型双機銃。\nヘリカルマガジンを採用することで\nコンパクトながら屈指の装填数を誇る。",
 		"tr_explain": "An unusual shaped pair of guns. By\nadopting a helical magazine, it offers\ninstant reloading of ammo in seconds."
+	},
+	{
+		"assign": "1100402",
+		"jp_text": "オルゲイランコア",
+		"tr_text": "Orgei Rancor",
+		"jp_explain": "巨大な閃機種の背部を加工して\n作られた双機銃。赤いパネルが周囲の\nフォトンを蓄積、爆発的に増幅させる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100410",
+		"jp_text": "スカルフェジサー-NT",
+		"tr_text": "Skull Feschieser-NT",
+		"jp_explain": "死者の念が乗り移ったとされる禍々しき\nオーラを放つ双機銃。放たれたら最後\nその弾丸からは逃れられないという。",
+		"tr_explain": ""
 	}
 ]

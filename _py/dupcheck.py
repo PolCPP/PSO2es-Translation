@@ -65,7 +65,12 @@ for files in json_files:
                 if (("tr_text" in rmid) and (rmid["tr_text"] != "")):
                     t = rmid["tr_text"]
                     tl = t.lower()
-                    j = rmid["jp_text"]
+                    if "jp_text" in rmid:
+                        j = rmid["jp_text"]
+                    else:
+                        j = ""
+                        print(rmid)
+                        counterr += 1
                     jl = j.lower()
                     if "assign" in rmid:
                         a = rmid["assign"]

@@ -285,6 +285,16 @@
 		"tr_text": "Lovey Rappy"
 	},
 	{
+		"assign": "RappyDragon",
+		"jp_text": "ドラグ・ラッピー",
+		"tr_text": "Drag Rappy"
+	},
+	{
+		"assign": "RappyElep",
+		"jp_text": "エレフ・ラッピー",
+		"tr_text": "Eleph Rappy"
+	},
+	{
 		"assign": "DragonRaptor",
 		"jp_text": "ディッグ",
 		"tr_text": "Digg"
@@ -2700,6 +2710,16 @@
 		"tr_text": "Codotta Idetta"
 	},
 	{
+		"assign": "AAADebugEnemyShotS",
+		"jp_text": "デバッグエネミーS",
+		"tr_text": ""
+	},
+	{
+		"assign": "AAADebugEnemyShotL",
+		"jp_text": "デバッグエネミーL",
+		"tr_text": ""
+	},
+	{
 		"assign": "N2Abe",
 		"jp_text": "ミントロックベア",
 		"tr_text": "Mint Rockbear"
@@ -2715,9 +2735,79 @@
 		"tr_text": "Elzelion"
 	},
 	{
+		"assign": "AAADebugEnemyMoveOnly",
+		"jp_text": "デバッグエネミーM",
+		"tr_text": ""
+	},
+	{
 		"assign": "TD1Hou",
 		"jp_text": "オロタ・ビケッタ",
 		"tr_text": "Orota Biketta"
+	},
+	{
+		"assign": "CY1Dro",
+		"jp_text": "バリール",
+		"tr_text": "Bareel"
+	},
+	{
+		"assign": "M1Tra",
+		"jp_text": "シュトルムマイザー",
+		"tr_text": "Sturm Mizer"
+	},
+	{
+		"assign": "CY1Knu",
+		"jp_text": "ラディルーゴ",
+		"tr_text": "Radilugo"
+	},
+	{
+		"assign": "CY1Tan",
+		"jp_text": "ドラルベルージュ",
+		"tr_text": "Dral Veluge"
+	},
+	{
+		"assign": "CY1TanR",
+		"jp_text": "ドラルグルーディ",
+		"tr_text": ""
+	},
+	{
+		"assign": "CY1Shi",
+		"jp_text": "ハバルッサ",
+		"tr_text": ""
+	},
+	{
+		"assign": "CY1Ace",
+		"jp_text": "ネメスアンジュール",
+		"tr_text": ""
+	},
+	{
+		"assign": "CY1AceR",
+		"jp_text": "アヴァールネメシス",
+		"tr_text": ""
+	},
+	{
+		"assign": "ID2Doo",
+		"jp_text": "グラナグワナーダ",
+		"tr_text": "Grana Gwanahda"
+	},
+	{
+		"assign": "ID2Don",
+		"jp_text": "グラナグワナーダ・ビット",
+		"tr_text": "Grana Gwanahda Bit"
+	},
+	{
+		"assign": "BD3Ctl",
+		"jp_text": "ラファガ・リンガーダ",
+		"tr_text": "Rafaga Ringahda"
+	},
+	{
+		"assign": "CY1Bos",
+		"jp_text": "ディモールドゥミヌス",
+		"tr_text": ""
+	},
+	{
+		"assign": "CY1Sol",
+		"jp_text": "ゾルーラ",
+		"tr_text": "Zolura"
 	},
 	{
 		"assign": "AKKM",
@@ -2733,6 +2823,41 @@
 		"assign": "AKKL",
 		"jp_text": "オメガ・マスカレーダ",
 		"tr_text": "Omega Masquerade"
+	},
+	{
+		"assign": "CY1Cap",
+		"jp_text": "ディゾルセイバー",
+		"tr_text": ""
+	},
+	{
+		"assign": "N3PanA",
+		"jp_text": "ブリザードバンサー",
+		"tr_text": ""
+	},
+	{
+		"assign": "N3PanB",
+		"jp_text": "ブリザードバンシー",
+		"tr_text": ""
+	},
+	{
+		"assign": "CY1CapR",
+		"jp_text": "セイバーディグル",
+		"tr_text": ""
+	},
+	{
+		"assign": "CY1Gun",
+		"jp_text": "オルカーバ",
+		"tr_text": ""
+	},
+	{
+		"assign": "N3Bbe",
+		"jp_text": "バンガーベア",
+		"tr_text": ""
+	},
+	{
+		"assign": "FD2All",
+		"jp_text": "ゴルシュレイダ",
+		"tr_text": ""
 	},
 	{
 		"assign": "KingRappy",
@@ -2763,6 +2888,11 @@
 		"assign": "KingRappySE",
 		"jp_text": "セント・キングラッピー",
 		"tr_text": "St. King Rappy"
+	},
+	{
+		"assign": "KingRappyE",
+		"jp_text": "エグ・キングラッピー",
+		"tr_text": "Egg King Rappy"
 	},
 	{
 		"assign": "LocustSP1",
@@ -2987,7 +3117,7 @@
 	{
 		"assign": "BirdCrestSP1",
 		"jp_text": "ドリュアーダ＋",
-		"tr_text": ""
+		"tr_text": "Doluahda+"
 	},
 	{
 		"assign": "BirdSoldierAW0",
@@ -2997,7 +3127,7 @@
 	{
 		"assign": "BirdSoldierASP1",
 		"jp_text": "ソルダ・カピタ＋",
-		"tr_text": ""
+		"tr_text": "Solda Kapita+"
 	},
 	{
 		"assign": "BirdStackedW0",
@@ -3242,12 +3372,12 @@
 	{
 		"assign": "AbyssTetraSP1",
 		"jp_text": "ブルトルボン＋",
-		"tr_text": ""
+		"tr_text": "Blutorbon+"
 	},
 	{
 		"assign": "AbyssFlowerSP1",
 		"jp_text": "ビオル・メデューナ＋",
-		"tr_text": ""
+		"tr_text": "Biol Meduna+"
 	},
 	{
 		"assign": "MarineOrcaRareST0",
@@ -3320,6 +3450,11 @@
 		"tr_text": "Anatis"
 	},
 	{
+		"assign": "DpAbyssHumanUniqST0",
+		"jp_text": "ホルシード",
+		"tr_text": "Khorshid"
+	},
+	{
 		"assign": "PantherBRareQU0",
 		"jp_text": "バンサ・ドンナ",
 		"tr_text": "Banther Donna"
@@ -3357,17 +3492,17 @@
 	{
 		"assign": "PantherSnowARareMC0",
 		"jp_text": "覇滅バンサ・オラン",
-		"tr_text": ""
+		"tr_text": "Superior Banther Oran"
 	},
 	{
 		"assign": "PantherSnowARareMC1",
 		"jp_text": "覇滅バンサ・オラン",
-		"tr_text": ""
+		"tr_text": "Superior Banther Oran"
 	},
 	{
 		"assign": "PantherSnowARareMC2",
 		"jp_text": "覇滅バンサ・オラン",
-		"tr_text": ""
+		"tr_text": "Superior Banther Oran"
 	},
 	{
 		"assign": "PantherARareLD0",
@@ -4405,6 +4540,11 @@
 		"tr_text": "Kaiser Vargr EX"
 	},
 	{
+		"assign": "UltMachineCCanonEx",
+		"jp_text": "ブレードディンゲールEx",
+		"tr_text": ""
+	},
+	{
 		"assign": "UltMechaPanthBusterEx",
 		"jp_text": "ヴリマ・レオパードＥｘ",
 		"tr_text": "Vlima Leopard EX"
@@ -4643,6 +4783,11 @@
 		"assign": "AbyssFlowerRareST1Ex",
 		"jp_text": "アナティスＥｘ",
 		"tr_text": "Anatis EX"
+	},
+	{
+		"assign": "DpAbyssHumanUniqST0Ex",
+		"jp_text": "ホルシードＥｘ",
+		"tr_text": "Khorshid EX"
 	},
 	{
 		"assign": "PantherBRareQU0Ex",

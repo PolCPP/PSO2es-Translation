@@ -287,6 +287,13 @@
 		"tr_explain": "Jet boots made with state-of-the-art\nbioengineering. Enhanced with a\nhigh-purity culture solution."
 	},
 	{
+		"assign": "116055",
+		"jp_text": "ブラッドリアクト",
+		"tr_text": "Blood React",
+		"jp_explain": "最先端の生体工学を応用し開発された\n魔装脚。敵の組織に損傷を与えるため\n改良され、威力が底上げされた。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "116056",
 		"jp_text": "夕雁渡",
 		"tr_text": "Yuukari Watashi",
@@ -441,6 +448,20 @@
 		"tr_explain": "A weapon powered by a photon\ngenerator. Its shining photons are\nsaid to be the sign of the next era."
 	},
 	{
+		"assign": "1160106",
+		"jp_text": "アウェイクウォーカー",
+		"tr_text": "Awake Walker",
+		"jp_explain": "強化型のフォトンジェネレーターを\n搭載した魔装脚。放たれる強力な\nフォトンの波動を以て悪を討つ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1160107",
+		"jp_text": "ネオカブリス",
+		"tr_text": "Neo Cabliss",
+		"jp_explain": "脚の側面に装着する独特な魔装脚。\n特徴的な形状のブレードを持ちつつ\n優れた攻撃性能を誇る。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1160110",
 		"jp_text": "リンドブルム",
 		"tr_text": "Lindwurm",
@@ -506,7 +527,7 @@
 	{
 		"assign": "1160129",
 		"jp_text": "ブランフルーク",
-		"tr_text": "Bran Fluke",
+		"tr_text": "Blanc Fluke",
 		"jp_explain": "風と空気を自在に操るといわれる\n魔装脚。気流に乗り、桁外れの攻撃力を\n披露する姿は正に空間の覇者。",
 		"tr_explain": ""
 	},
@@ -641,7 +662,7 @@
 		"jp_text": "雷爪タガミコウガ",
 		"tr_text": "Thunder Claw Tagamikouga",
 		"jp_explain": "雷玉をまとうタガミカヅチの組織が\n用いられた魔装脚。雷玉の力で周囲の\nフォトンを取り込み、法撃力を高める。",
-		"tr_explain": ""
+		"tr_explain": "The spirit of Tagami Kazuchi in the\nform of boots. Their lightning draws in\nambient Photons to boost Techniques."
 	},
 	{
 		"assign": "1160174",
@@ -732,14 +753,21 @@
 		"jp_text": "ユニオンＪブーツ",
 		"tr_text": "Union Jet Boots",
 		"jp_explain": "次世代の主力として開発された魔装脚。\n専用ブーストパーツが装着されたことで\n限界を超えた性能を発揮する。",
-		"tr_explain": "Jet Boots developed as the latest\nmodel. Augmented with boost parts,\nits performance exceeds its limits."
+		"tr_explain": "Jet Boots developed as the latest\nmodel. Augmented with boost parts,\ntheir performance exceeds their limits."
 	},
 	{
 		"assign": "1160199",
 		"jp_text": "ショリードオービット",
-		"tr_text": "Sholidu Orbit",
+		"tr_text": "Sholid Orbit",
 		"jp_explain": "新開発のフォトンリング機構を搭載した\n魔装脚。展開された部品が合体し\n闇を刻む流星の刃へと姿を変える。",
 		"tr_explain": "Jet Boots with a Photon Ring Device.\nThe expanded parts form a meteoric\nblade that carves through darkness."
+	},
+	{
+		"assign": "1160200",
+		"jp_text": "ショリードミラージュ",
+		"tr_text": "Sholid Mirage",
+		"jp_explain": "新開発のフォトンリング機構を搭載した\n魔装脚。部品が共鳴し発生するリングが\n装者の肉体的負担を大幅に軽減する。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "1160202",
@@ -1064,6 +1092,13 @@
 		"tr_explain": "Violet-flamed jet boots based on a\ntraditional design. Created with a\nspecial technique to burn away evil."
 	},
 	{
+		"assign": "1160271",
+		"jp_text": "クヴェレスティクス",
+		"tr_text": "Quelle Styx",
+		"jp_explain": "自然現象が形になったという魔装脚。\n禍々しい闇が烈風となって吹き荒れ\n立ちはだかる者を一蹴する。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1160273",
 		"jp_text": "アーレスブーツ-NT",
 		"tr_text": "Ares Boots-NT",
@@ -1103,6 +1138,13 @@
 		"jp_text": "光跡脚ベンディシオン",
 		"tr_text": "Lightstream Bendixion",
 		"jp_explain": "時を遡りし者の結んだ絆が創り出した\n星を繋ぐ魔装脚。大いなる希望は\n光となり、未来への道を駆け昇る。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1160282",
+		"jp_text": "ディムＪブーツ",
+		"tr_text": "Dim Jet Boots",
+		"jp_explain": "次世代の主力として開発された魔装脚。\n偶発的に禍々しい力を備え、設計以上の\n力を持つが、使用者への影響は未知数。",
 		"tr_explain": ""
 	},
 	{

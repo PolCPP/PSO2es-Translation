@@ -787,7 +787,7 @@
 		"assign": "112",
 		"jp_text": "ソールレセプター",
 		"tr_text": "Soul Receptor",
-		"jp_explain": "ソール系特殊能力の\n合成成功率を大幅に上昇\n全+10",
+		"jp_explain": "ソール系特殊能力の\n継承成功率を大幅に上昇\n全+10",
 		"tr_explain": "Boosts Soul-type\nability transfer rates.\nAll +10"
 	},
 	{
@@ -1550,21 +1550,21 @@
 		"assign": "221",
 		"jp_text": "アタックレセプター",
 		"tr_text": "Attack Receptor",
-		"jp_explain": "攻撃上昇特殊能力3種と\nアームの合成成功率を\n大幅に上昇　　　全+5",
+		"jp_explain": "攻撃上昇特殊能力3種と\nアームの継承成功率を\n大幅に上昇　　　全+5",
 		"tr_explain": "Greatly increases the\naffix rate of 3 ATK abilities.\nAll +5"
 	},
 	{
 		"assign": "222",
 		"jp_text": "ガードレセプター",
 		"tr_text": "Guard Receptor",
-		"jp_explain": "特殊能力ボディ、リアクト\nマインドの合成成功率を\n大幅に上昇　　　全+5",
+		"jp_explain": "特殊能力ボディ、リアクト\nマインドの継承成功率を\n大幅に上昇　　　全+5",
 		"tr_explain": "Greatly increases the\naffix rate of 3 DEF abilities.\nAll +5"
 	},
 	{
 		"assign": "223",
 		"jp_text": "フォトンレセプター",
 		"tr_text": "Photon Receptor",
-		"jp_explain": "特殊能力スタミナと\nスピリタの合成成功率を\n大幅に上昇　　　全+5",
+		"jp_explain": "特殊能力スタミナと\nスピリタの継承成功率を\n大幅に上昇　　　全+5",
 		"tr_explain": "Greatly increases the\naffix rate of Stamina and Spirita.\nAll +5"
 	},
 	{
@@ -1606,7 +1606,7 @@
 		"assign": "229",
 		"jp_text": "エクストレセプター",
 		"tr_text": "Extreceptor",
-		"jp_explain": "アルター、フリクト系と\n特定の特殊能力合成率を\n大幅に上昇　全+10",
+		"jp_explain": "アルター、フリクト系と\n特定の特殊能力継承率を\n大幅に上昇　全+10",
 		"tr_explain": "Boosts Flict/Alter-type\nability transfer rates.\nAll +10"
 	},
 	{
@@ -1830,21 +1830,21 @@
 		"assign": "261",
 		"jp_text": "マークレセプター",
 		"tr_text": "Mark Receptor",
-		"jp_explain": "マーク系特殊能力の\n合成成功率を大幅に上昇\n全+10",
+		"jp_explain": "マーク系特殊能力の\n継承成功率を大幅に上昇\n全+10",
 		"tr_explain": "Allows transfer of Mark-type\nspecial abilities.\nAll +10"
 	},
 	{
 		"assign": "262",
 		"jp_text": "フレイズレセプター",
 		"tr_text": "Phrase Receptor",
-		"jp_explain": "フレイズ系特殊能力の\n合成成功率を大幅に上昇\n全+10",
+		"jp_explain": "フレイズ系特殊能力の\n継承成功率を大幅に上昇\n全+10",
 		"tr_explain": "Boosts Phrase-type\nability transfer rates.\nAll +10"
 	},
 	{
 		"assign": "263",
 		"jp_text": "センテンスレセプター",
 		"tr_text": "Sentence Receptor",
-		"jp_explain": "センテンス系特殊能力の\n合成成功率を大幅に上昇\n全+10",
+		"jp_explain": "センテンス系特殊能力の\n継承成功率を大幅に上昇\n全+10",
 		"tr_explain": "Boosts Sentence-type\nability transfer rates.\nAll +10"
 	},
 	{
@@ -1970,7 +1970,7 @@
 		"assign": "281",
 		"jp_text": "ファクターレセプター",
 		"tr_text": "Factor Receptor",
-		"jp_explain": "ファクター系特殊能力の\n合成成功率を大幅に上昇\n全+10",
+		"jp_explain": "ファクター系特殊能力の\n継承成功率を大幅に上昇\n全+10",
 		"tr_explain": "Boosts Factor-type\nability transfer rates.\nAll +10"
 	},
 	{
@@ -2364,5 +2364,173 @@
 		"tr_text": "Mana Reverie",
 		"jp_explain": "打撃+50 射撃+50\n法撃+50 HP+20 PP+4",
 		"tr_explain": "ATK +50 HP +20 PP +4"
+	},
+	{
+		"assign": "338",
+		"jp_text": "イクスアクト・ソール",
+		"tr_text": "",
+		"jp_explain": "打撃+30 打防+20\n射防+20 法防+20\nHP+20 PP+2",
+		"tr_explain": ""
+	},
+	{
+		"assign": "339",
+		"jp_text": "イクスティル・ソール",
+		"tr_text": "",
+		"jp_explain": "射撃+30 打防+20\n射防+20 法防+20\nHP+20 PP+2",
+		"tr_explain": ""
+	},
+	{
+		"assign": "340",
+		"jp_text": "イクスマギー・ソール",
+		"tr_text": "",
+		"jp_explain": "法撃+30 打防+20\n射防+20 法防+20\nHP+20 PP+2",
+		"tr_explain": ""
+	},
+	{
+		"assign": "341",
+		"jp_text": "イクスアレス・ソール",
+		"tr_text": "",
+		"jp_explain": "打撃+20 射撃+20\n法撃+20 打防+20\n射防+20 法防+20\nHP+50 PP+2",
+		"tr_explain": ""
+	},
+	{
+		"assign": "342",
+		"jp_text": "イクシード・エナジー",
+		"tr_text": "",
+		"jp_explain": "打撃+50 射撃+50\n法撃+50 技量+20\n打防+20 射防+20\n法防+20 HP+20 PP+5",
+		"tr_explain": ""
+	},
+	{
+		"assign": "343",
+		"jp_text": "-",
+		"tr_text": "",
+		"jp_explain": "-",
+		"tr_explain": ""
+	},
+	{
+		"assign": "344",
+		"jp_text": "-",
+		"tr_text": "",
+		"jp_explain": "-",
+		"tr_explain": ""
+	},
+	{
+		"assign": "345",
+		"jp_text": "ディバイン・ウィル",
+		"tr_text": "",
+		"jp_explain": "打撃+20 射撃+20\n法撃+20 PP+5",
+		"tr_explain": ""
+	},
+	{
+		"assign": "346",
+		"jp_text": "ディバイン・オーダー",
+		"tr_text": "",
+		"jp_explain": "打撃+50 射撃+50\n法撃+50 HP+20 PP+10",
+		"tr_explain": ""
+	},
+	{
+		"assign": "347",
+		"jp_text": "クラックⅠ",
+		"tr_text": "",
+		"jp_explain": "打撃+3 射撃+3\n法撃+3 打防+5\n射防+5 法防+5\nHP+5 PP+1",
+		"tr_explain": ""
+	},
+	{
+		"assign": "348",
+		"jp_text": "クラックⅡ",
+		"tr_text": "",
+		"jp_explain": "打撃+5 射撃+5\n法撃+5 打防+10\n射防+10 法防+10\nHP+10 PP+1",
+		"tr_explain": ""
+	},
+	{
+		"assign": "349",
+		"jp_text": "クラックⅢ",
+		"tr_text": "",
+		"jp_explain": "打撃+10 射撃+10\n法撃+10 打防+15\n射防+15 法防+15\nHP+15 PP+1",
+		"tr_explain": ""
+	},
+	{
+		"assign": "350",
+		"jp_text": "クラックⅣ",
+		"tr_text": "",
+		"jp_explain": "打撃+15 射撃+15\n法撃+15 打防+30\n射防+30 法防+30\nHP+30 PP+2",
+		"tr_explain": ""
+	},
+	{
+		"assign": "351",
+		"jp_text": "クラックⅤ",
+		"tr_text": "",
+		"jp_explain": "打撃+30 射撃+30\n法撃+30 打防+50\n射防+50 法防+50\nHP+50 PP+2",
+		"tr_explain": ""
+	},
+	{
+		"assign": "352",
+		"jp_text": "-",
+		"tr_text": "",
+		"jp_explain": "-",
+		"tr_explain": ""
+	},
+	{
+		"assign": "353",
+		"jp_text": "-",
+		"tr_text": "",
+		"jp_explain": "-",
+		"tr_explain": ""
+	},
+	{
+		"assign": "354",
+		"jp_text": "-",
+		"tr_text": "",
+		"jp_explain": "-",
+		"tr_explain": ""
+	},
+	{
+		"assign": "355",
+		"jp_text": "-",
+		"tr_text": "",
+		"jp_explain": "-",
+		"tr_explain": ""
+	},
+	{
+		"assign": "356",
+		"jp_text": "-",
+		"tr_text": "",
+		"jp_explain": "-",
+		"tr_explain": ""
+	},
+	{
+		"assign": "357",
+		"jp_text": "-",
+		"tr_text": "",
+		"jp_explain": "-",
+		"tr_explain": ""
+	},
+	{
+		"assign": "358",
+		"jp_text": "アンジュール・グレア",
+		"tr_text": "Ange Gaze",
+		"jp_explain": "打撃+30 打防+40\n射防+20 法防+20",
+		"tr_explain": "S-ATK +30 S-DEF +40\nR-DEF +20 T-DEF +2-"
+	},
+	{
+		"assign": "359",
+		"jp_text": "べルージュ・グレア",
+		"tr_text": "Veluge Gaze",
+		"jp_explain": "射撃+30 打防+20\n射防+40 法防+20",
+		"tr_explain": "R-ATK +30 S-DEF +20\nR-DEF +40 T-DEF +20"
+	},
+	{
+		"assign": "360",
+		"jp_text": "ドゥミヌス・グレア",
+		"tr_text": "Dominus Gaze",
+		"jp_explain": "法撃+30 打防+20\n射防+20 法防+40",
+		"tr_explain": "T-ATK +20 S-DEF +20\nR-DEF +20 T-DEF +40"
+	},
+	{
+		"assign": "361",
+		"jp_text": "スタミナⅥ",
+		"tr_text": "Stamina VI",
+		"jp_explain": "HP+80",
+		"tr_explain": "HP +80"
 	}
 ]

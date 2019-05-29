@@ -3936,7 +3936,7 @@
 	{
 		"assign": "330621",
 		"jp_text": "碧氷石",
-		"tr_text": "Azure Ice Stones",
+		"tr_text": "Azure Ice Stone",
 		"jp_explain": "ギグル・グンネガムが持っている石。\n触れてみるとわずかに冷たい。\n依頼者：<c a1ff6d>フランカ<c>　再受注可能",
 		"tr_explain": "A stone held by Gigur Gunne-gam.\nSlightly cold to the touch.\nClient: <c a1ff6d>Franka<c> (repeatable)"
 	},
@@ -4891,6 +4891,13 @@
 		"tr_text": "Partnya's Treasure",
 		"jp_explain": "パートニャーの探している宝物。\n確かな重みを感じる。\n依頼者：<c a1ff6d>パートニャー<c>　再受注不可",
 		"tr_explain": "Treasure that Partnya is looking for.\nIt's really heavy.\nClient: <c a1ff6d>Partnya<c> (non-repeatable)"
+	},
+	{
+		"assign": "330801",
+		"jp_text": "メテオライト結晶",
+		"tr_text": "Meteorite Crystal",
+		"jp_explain": "艦隊交戦区域で発見された\n時限能力インストール素材。",
+		"tr_explain": "A crystal found during the Armada\nBattle. Material used for Timed Ability\ninstallations."
 	},
 	{
 		"assign": "330849",

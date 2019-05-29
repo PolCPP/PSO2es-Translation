@@ -2620,9 +2620,9 @@
 	{
 		"assign": "3230380",
 		"jp_text": "366「魔術書を構える」",
-		"tr_text": "366 \"Magical Bookstand\"",
+		"tr_text": "366 \"Magic Book Pose\"",
 		"jp_explain": "ロビアク『魔術書を構える』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Unlocks the new lobby action\n\"Magical Bookstand\"."
+		"tr_explain": "Unlocks the new lobby action\n\"Magic Book Pose\"."
 	},
 	{
 		"assign": "3230381",
@@ -3236,9 +3236,9 @@
 	{
 		"assign": "3230470",
 		"jp_text": "456「スイパラポーズ」",
-		"tr_text": "",
+		"tr_text": "456 \"Sweets Paradise Pose\"",
 		"jp_explain": "ロビアク『スイパラポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the new lobby action\n\"Sweets Paradise Pose\".\nUse action buttons for extra actions."
 	},
 	{
 		"assign": "3230473",
@@ -3444,6 +3444,13 @@
 		"tr_explain": "Unlocks the new lobby action\n\"Ichika & Tetora Pose\"."
 	},
 	{
+		"assign": "3230502",
+		"jp_text": "488「シャオポーズ」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『シャオポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3230503",
 		"jp_text": "489「湯もみ」",
 		"tr_text": "489 \"Yumomi\"",
@@ -3509,9 +3516,9 @@
 	{
 		"assign": "3230512",
 		"jp_text": "498「ＶＶクッション」",
-		"tr_text": "",
+		"tr_text": "498 \"VV Cushion\"",
 		"jp_explain": "ロビアク『ＶＶクッション』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the new lobby action\n\"VV Cushion\".\nUse action buttons for extra actions."
 	},
 	{
 		"assign": "3230513",
@@ -3523,16 +3530,16 @@
 	{
 		"assign": "3230514",
 		"jp_text": "500「ダンス５７」",
-		"tr_text": "",
+		"tr_text": "500 \"Dance 57\"",
 		"jp_explain": "ロビアク『ダンス５７』\nを全キャラクターで使用可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the new lobby action\n\"Dance 57\"."
 	},
 	{
 		"assign": "3230515",
 		"jp_text": "501「桜を見る」",
-		"tr_text": "",
+		"tr_text": "501 \"Cherry Blossom Viewing\"",
 		"jp_explain": "ロビアク『桜を見る』\nを全キャラクターで使用可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the new lobby action\n\"Cherry Blossom Viewing\"."
 	},
 	{
 		"assign": "3230516",
@@ -3546,6 +3553,146 @@
 		"jp_text": "503「名古屋名物」",
 		"tr_text": "",
 		"jp_explain": "ロビアク『名古屋名物』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230518",
+		"jp_text": "504「札幌名物」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『札幌名物』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230519",
+		"jp_text": "505「ファントムポーズ」",
+		"tr_text": "505 \"Phantom Pose\"",
+		"jp_explain": "ロビアク『ファントムポーズ』\nを全キャラクターで使用可能になる。",
+		"tr_explain": "Unlocks the new lobby action\n\"Phantom Pose\"."
+	},
+	{
+		"assign": "3230520",
+		"jp_text": "506「登場」",
+		"tr_text": "506 \"Arrival\"",
+		"jp_explain": "ロビアク『登場』\nを全キャラクターで使用可能になる。",
+		"tr_explain": "Unlocks the new lobby action\n\"Arrival\"."
+	},
+	{
+		"assign": "3230521",
+		"jp_text": "507「斜めポーズ」",
+		"tr_text": "507 \"Lean Pose\"",
+		"jp_explain": "ロビアク『斜めポーズ』\nを全キャラクターで使用可能になる。",
+		"tr_explain": "Unlocks the new lobby action\n\"Lean Pose\"."
+	},
+	{
+		"assign": "3230522",
+		"jp_text": "508「ダダをこねる」",
+		"tr_text": "508 \"Tantrum\"",
+		"jp_explain": "ロビアク『ダダをこねる』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": "Unlocks the new lobby action\n\"Tantrum\".\nUse action buttons for extra actions."
+	},
+	{
+		"assign": "3230523",
+		"jp_text": "509「カタナポーズ」",
+		"tr_text": "509 \"Katana Pose\"",
+		"jp_explain": "ロビアク『カタナポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映",
+		"tr_explain": "Unlocks the new lobby action\n\"Katana Pose\".\nShows equipment & has extra actions."
+	},
+	{
+		"assign": "3230524",
+		"jp_text": "510「このすば１」",
+		"tr_text": "510 \"Konosuba 1\"",
+		"jp_explain": "ロビアク『このすば１』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": "Unlocks the new lobby action\n\"Konosuba 1\".\nUse action buttons for extra actions."
+	},
+	{
+		"assign": "3230525",
+		"jp_text": "511「このすば２」",
+		"tr_text": "511 \"Konosuba 2\"",
+		"jp_explain": "ロビアク『このすば２』\nを全キャラクターで使用可能になる。",
+		"tr_explain": "Unlocks the new lobby action\n\"Konosuba 2\"."
+	},
+	{
+		"assign": "3230526",
+		"jp_text": "512「このすば３」",
+		"tr_text": "512 \"Konosuba 3\"",
+		"jp_explain": "ロビアク『このすば３』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
+		"tr_explain": "Unlocks the new lobby action\n\"Konosuba 3\".\nReaction has extra actions."
+	},
+	{
+		"assign": "3230527",
+		"jp_text": "513「福岡名物」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『福岡名物』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230528",
+		"jp_text": "514「勝利ポーズ３」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『勝利ポーズ３』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230529",
+		"jp_text": "515「飛行ポーズ」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『飛行ポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230530",
+		"jp_text": "516「気を高める」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『気を高める』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230531",
+		"jp_text": "517「倒れる演技」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『倒れる演技』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230532",
+		"jp_text": "518「レギアスポーズ」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『レギアスポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230533",
+		"jp_text": "519「マリアポーズ」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『マリアポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230534",
+		"jp_text": "520「ハリエットポーズ」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『ハリエットポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230535",
+		"jp_text": "521「Ｓラコニウムソード」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『Ｓラコニウムソード』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230536",
+		"jp_text": "522「雨が降る」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『雨が降る』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230537",
+		"jp_text": "523「Ａライフルポーズ」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『Ａライフルポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映",
 		"tr_explain": ""
 	}
 ]

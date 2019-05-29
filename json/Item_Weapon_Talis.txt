@@ -214,7 +214,7 @@
 		"jp_text": "ガディアンナ",
 		"tr_text": "Gadianna",
 		"jp_explain": "込められた念が具現化する聖なる導具。\n使いこなせるかどうかは装者の才能に\n大きく左右される。",
-		"tr_explain": ""
+		"tr_explain": "A sacred instrument that embodies\nfeelings. The wielder's own abilities\ndictate how well they can use it."
 	},
 	{
 		"assign": "112031",
@@ -637,6 +637,13 @@
 		"tr_explain": "A talis made with state-of-the-art\nbioengineering. Enhanced with a\nhigh-purity culture solution."
 	},
 	{
+		"assign": "1120133",
+		"jp_text": "ブラッドビロリア",
+		"tr_text": "Blood Biloria",
+		"jp_explain": "最先端の生体工学を応用し開発された\n導具。フォトンの固着した生体部品が\n目標の生体組織を侵し、損傷を与える。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1120134",
 		"jp_text": "マフィーヌ",
 		"tr_text": "Mufin",
@@ -819,6 +826,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "1120189",
+		"jp_text": "アウェイクエール",
+		"tr_text": "Awake Aile",
+		"jp_explain": "強化型のフォトンジェネレーターを\n搭載した導具。放たれる強力な\nフォトンの波動を以て悪を討つ。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1120192",
 		"jp_text": "ルースレオパード",
 		"tr_text": "Ruth Leopard",
@@ -866,6 +880,13 @@
 		"tr_text": "Flotia Orbit",
 		"jp_explain": "新開発のフォトンリング機構を搭載した\n導具。展開された部品が合体し\n万象を操る刃へと姿を変える。",
 		"tr_explain": "A Talis with a Photon Ring Device. Its\nexpanded parts allow it to influence\nphotons spread across the universe."
+	},
+	{
+		"assign": "1120208",
+		"jp_text": "フロティアミラージュ",
+		"tr_text": "Flotia Mirage",
+		"jp_explain": "新開発のフォトンリング機構を搭載した\n導具。待機中に展開したリングによって\nフォトンの収束を高めている。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "1120210",
@@ -977,7 +998,7 @@
 		"jp_text": "ユニオンタリス",
 		"tr_text": "Union Talis",
 		"jp_explain": "次世代の主力として開発された導具。\n専用ブーストパーツが装着されたことで\n限界を超えた性能を発揮する。",
-		"tr_explain": "A Talis developed as the latest\nmodel. Augmented with boost parts,\nits performance exceed its limits."
+		"tr_explain": "A Talis developed as the latest\nmodel. Augmented with boost parts,\nits performance exceeds its limits."
 	},
 	{
 		"assign": "1120248",
@@ -1075,7 +1096,7 @@
 		"jp_text": "ガディアンナ-NT",
 		"tr_text": "Gadianna-NT",
 		"jp_explain": "込められた念が具現化する聖なる導具。\n使いこなせるかどうかは装者の才能に\n大きく左右される。",
-		"tr_explain": ""
+		"tr_explain": "A sacred instrument that embodies\nfeelings. The wielder's own abilities\ndictate how well they can use it."
 	},
 	{
 		"assign": "1120262",
@@ -1376,6 +1397,20 @@
 		"jp_text": "セレディクテウス・ザラ",
 		"tr_text": "Ceres Dictheus Zara",
 		"jp_explain": "太古の時代を思わせる導具。\n目覚めたその力は、フォトンに呼応し\n扱う者を守るように法撃を放つ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1120354",
+		"jp_text": "オブリサナヴォルツ",
+		"tr_text": "Oblisana Waltz",
+		"jp_explain": "高圧化フォトン気流の噴出力を利用し\n瞬時に変形する導具。空気のような\nその軽さは、一度味わえば手放せない。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1120356",
+		"jp_text": "ディムタリス",
+		"tr_text": "Dim Talis",
+		"jp_explain": "次世代の主力として開発された導具。\n偶発的に禍々しい力を備え、設計以上の\n力を持つが、使用者への影響は未知数。",
 		"tr_explain": ""
 	}
 ]

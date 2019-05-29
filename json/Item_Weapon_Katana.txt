@@ -385,6 +385,13 @@
 		"tr_explain": "A katana made with state-of-the-art\nbioengineering. Enhanced with a\nhigh-purity culture solution."
 	},
 	{
+		"assign": "114071",
+		"jp_text": "ブラッドジャネン",
+		"tr_text": "Blood Janen",
+		"jp_explain": "最先端の生体工学を応用し開発された\n抜剣。循環する生細胞液が材質の疲労を\n回復させ高硬度を長く維持する。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "114072",
 		"jp_text": "シュガラカサ",
 		"tr_text": "Sugarakasa",
@@ -609,6 +616,13 @@
 		"tr_explain": "A weapon powered by a photon\ngenerator. Its shining photons are\nsaid to be the sign of the next era."
 	},
 	{
+		"assign": "1140150",
+		"jp_text": "アウェイクカレン",
+		"tr_text": "Awake Karen",
+		"jp_explain": "強化型のフォトンジェネレーターを\n搭載した抜剣。放たれる強力な\nフォトンの波動を以て悪を討つ。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1140151",
 		"jp_text": "禍刀ラクカ",
 		"tr_text": "Evil Rakuka",
@@ -627,6 +641,13 @@
 		"jp_text": "レンゴクトウ・エンサ",
 		"tr_text": "Rengokuto Ensa",
 		"jp_explain": "向かってくるものに一切の容赦を\n与えない鬼神の抜剣。血肉のみを糧とし\n歓喜の証として刀身を紅く染める。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1140164",
+		"jp_text": "レンゴクトウ・グレン",
+		"tr_text": "Rengokuto Guren",
+		"jp_explain": "向かってくるものに一切の容赦を\n与えない、鬼神の抜剣。その紅い刀身が\n指し示すのは、絶対的で一方的な破壊。",
 		"tr_explain": ""
 	},
 	{
@@ -723,9 +744,9 @@
 	{
 		"assign": "1140199",
 		"jp_text": "雷閃タガミコウガ",
-		"tr_text": "Thunder Crack Tagamikoga",
+		"tr_text": "Thunder Crack Tagamikouga",
 		"jp_explain": "雷玉をまとうタガミカヅチの組織が\n用いられた抜剣。雷玉の力をまとった\n一閃は、雷光のように素早く鋭い。",
-		"tr_explain": ""
+		"tr_explain": "The spirit of Tagami Kazuchi in the\nform of a katana. It strikes with the\nspeed and sharpness of lightning."
 	},
 	{
 		"assign": "1140205",
@@ -802,7 +823,7 @@
 		"jp_text": "ユニオンカタナ",
 		"tr_text": "Union Katana",
 		"jp_explain": "次世代の主力として開発された抜剣。\n専用ブーストパーツが装着されたことで\n限界を超えた性能を発揮する。",
-		"tr_explain": "A Katana developed as the latest\nmodel. Augmented with boost parts,\nits performance exceed its limits."
+		"tr_explain": "A Katana developed as the latest\nmodel. Augmented with boost parts,\nits performance exceeds its limits."
 	},
 	{
 		"assign": "1140226",
@@ -824,6 +845,13 @@
 		"tr_text": "Agil Orbit",
 		"jp_explain": "新開発のフォトンリング機構を搭載した\n抜剣。展開された部品が合体し\n闇を切り裂く閃光の一太刀を放つ。",
 		"tr_explain": "A Katana with a Photon Ring Device.\nThe expanded parts can release a\nblade that cuts through darkness."
+	},
+	{
+		"assign": "1140232",
+		"jp_text": "エギルミラージュ",
+		"tr_text": "Agil Mirage",
+		"jp_explain": "新開発のフォトンリング機構を搭載した\n抜剣。部品が共鳴し発生するリングに\nよって、装者の集中力を高める。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "1140234",
@@ -1015,6 +1043,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "1140271",
+		"jp_text": "アレティアクシオス",
+		"tr_text": "Aletheia Cousios",
+		"jp_explain": "古より伝わる陽光の抜剣。\n聖なる光に授かりし俊敏な鋭刃は\n巨悪を斬り裂き、平穏をもたらす。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1140281",
 		"jp_text": "呪斬ガエン",
 		"tr_text": "Cursed Slayer Gaen",
@@ -1188,5 +1223,19 @@
 		"tr_text": "Ares Ryuuga-NT",
 		"jp_explain": "戦士の幻獣の力を宿した抜剣。装者に\nフォトンブラストの効果で挫けぬ力を\n与え、戦闘を有利に展開させる。",
 		"tr_explain": "A katana harboring the power of a\nPhoton Blast. It turns the tide of battle\nwith resolute strength."
+	},
+	{
+		"assign": "1140350",
+		"jp_text": "ディムカタナ",
+		"tr_text": "Dim Katana",
+		"jp_explain": "次世代の主力として開発された抜剣。\n偶発的に禍々しい力を備え、設計以上の\n力を持つが、使用者への影響は未知数。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1140352",
+		"jp_text": "レゾナントタルメイ",
+		"tr_text": "Resonant Talmey",
+		"jp_explain": "神聖な輝きを湛える抜剣。\n冴え渡るフォトン刃は、格式を誇る\n銀の鞘と見事に調和している。",
+		"tr_explain": ""
 	}
 ]

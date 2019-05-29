@@ -3500,6 +3500,20 @@
 		"tr_explain": "Unlocks the female-only body paint\n\"Xirys Tights\"\nfor use in the Beauty Salon."
 	},
 	{
+		"assign": "3290549",
+		"jp_text": "シャルフペイント",
+		"tr_text": "Scharf Paint",
+		"jp_explain": "チケットを使用すると、ボディペイント\nシャルフペイントが選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Unlocks the male-only body paint\n\"Scharf Paint\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3290550",
+		"jp_text": "カレテラソックス",
+		"tr_text": "Careterra Socks",
+		"jp_explain": "チケットを使用すると、ボディペイント\nカレテラソックスが選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Unlocks the female-only body paint\n\"Careterra Socks\"\nfor use in the Beauty Salon."
+	},
+	{
 		"assign": "3290551",
 		"jp_text": "妖異包帯",
 		"tr_text": "Twisted Tidings Bandages",
@@ -3677,29 +3691,134 @@
 	{
 		"assign": "3290578",
 		"jp_text": "コンバットスカー",
-		"tr_text": "",
+		"tr_text": "Combat Scar",
 		"jp_explain": "チケットを使用すると、ボディペイント\nコンバットスカーが選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the female-only body paint\n\"Combat Scar\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3290579",
 		"jp_text": "メロディソックス",
-		"tr_text": "",
+		"tr_text": "Melody Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nメロディソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the female-only body paint\n\"Melody Socks\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3290580",
 		"jp_text": "ステラアームウェアＢ",
-		"tr_text": "",
+		"tr_text": "Stella Arm Wear B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nステラアームウェアＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the female-only body paint\n\"Stella Arm Wear B\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3290581",
 		"jp_text": "迷彩ロングタイツ　黒",
-		"tr_text": "",
+		"tr_text": "Camouflage Long Tights B",
 		"jp_explain": "チケットを使用すると、ボディペイント\n迷彩ロングタイツ　黒が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Unlocks the female-only body paint\n\"Camouflage Long Tights B\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3290582",
+		"jp_text": "巻きリボン柄タイツ白",
+		"tr_text": "Wrapped Ribbon Tights White",
+		"jp_explain": "チケットを使用すると、ボディペイント\n巻きリボン柄タイツ白が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Unlocks the female-only body paint\n\"Wrapped Ribbon Tights White\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3290583",
+		"jp_text": "ゆんゆんのニーソックス",
+		"tr_text": "Yunyun Knee Socks",
+		"jp_explain": "チケットを使用すると、ボディペイント\nゆんゆんのニーソックスが選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Unlocks the female-only body paint\n\"Yunyun Knee Socks\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3290584",
+		"jp_text": "ノーヴィソックスＣ",
+		"tr_text": "Novi Socks C",
+		"jp_explain": "チケットを使用すると、ボディペイント\nノーヴィソックスＣが選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Unlocks the female-only body paint\n\"Novi Socks C\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3290585",
+		"jp_text": "メディックニーハイＢ",
+		"tr_text": "Medic Knee High Socks B",
+		"jp_explain": "チケットを使用すると、ボディペイント\nメディックニーハイＢが選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Unlocks the female-only body paint\n\"Medic Knee High Socks B\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3290587",
+		"jp_text": "ルインペイントＭ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、ボディペイント\nルインペイントＭが選択可能。\n男性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290588",
+		"jp_text": "ルインペイントＦ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、ボディペイント\nルインペイントＦが選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290589",
+		"jp_text": "シンプルチョーカーＭ白Ａ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＭ白Ａが選択可能。\n男性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290590",
+		"jp_text": "シンプルチョーカーＭ白Ｂ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＭ白Ｂが選択可能。\n男性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290591",
+		"jp_text": "シンプルチョーカーＭ白Ｃ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＭ白Ｃが選択可能。\n男性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290592",
+		"jp_text": "シンプルチョーカーＭ白Ｄ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＭ白Ｄが選択可能。\n男性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290593",
+		"jp_text": "シンプルチョーカーＦ白Ａ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＦ白Ａが選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290594",
+		"jp_text": "シンプルチョーカーＦ白Ｂ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＦ白Ｂが選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290595",
+		"jp_text": "シンプルチョーカーＦ白Ｃ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＦ白Ｃが選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290596",
+		"jp_text": "シンプルチョーカーＦ白Ｄ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＦ白Ｄが選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290597",
+		"jp_text": "ダイヤ柄ニーソ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、ボディペイント\nダイヤ柄ニーソが選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	}
 ]

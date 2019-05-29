@@ -32,7 +32,7 @@
 	{
 		"assign": "0006",
 		"jp_text": "<color=#f0df60>＜属性値について＞</color>\nバトル時はターゲット中のエネミーに対して\n最も有効な属性が自動で選択されます。\n属性値が高いほど、大ダメージを与えられますよ。",
-		"tr_text": "<color=#f0df60><About Element Values></color>\nWhen you attack, you automatically select\nthe most effective element to use against\nthe enemy you're targeting. The higher its\nvalue, the more damage you can deal."
+		"tr_text": "<color=#f0df60><About Element Values></color>\nWhen you attack, you automatically select\nthe most effective element to use against\nthe enemy you're targeting. The higher its\nvalue, the more damage you deal!"
 	},
 	{
 		"assign": "0007",
@@ -227,7 +227,7 @@
 	{
 		"assign": "0045",
 		"jp_text": "<color=#f0df60>＜レアドロップ＞</color>\nクエスト選択画面の「クエスト情報」では\nボスがまれに落とす「レアドロップ」アイテムが\n表示されています。\nほしいアイテムがあったら、そのクエストに\n何度もチャレンジしてみましょう。",
-		"tr_text": "<color=#f0df60><Rare Drops></color>\n.The quest information will display\nrare drop items that the boss may drop.\nIf you want these items, you may\nhave to repeat the quest multiple times."
+		"tr_text": "<color=#f0df60><Rare Drops></color>\nThe quest information will display\nrare drop items that the boss may drop.\nIf you want these items, you may\nhave to repeat the quest multiple times."
 	},
 	{
 		"assign": "0046",
@@ -1067,7 +1067,7 @@
 	{
 		"assign": "0213",
 		"jp_text": "<color=#f0df60>＜★１３チップの解放＞</color>\n★１３チップをパレットに装備すると同じ属性の\n必殺技、法術チップのコストが半分になるんです！\n★１３チップと一緒に必殺技や法術のチップを\n装備する時は属性も考慮してくださいね！",
-		"tr_text": "<color=#f0df60><★13 Chips></color>\nWhen you equip a ★13 chip on your palette, it willhalve the equip cost of PAs and Techniques of the\nsame element. When choosing a PA to go with your\n★13 chip, pay attention to its element!"
+		"tr_text": "<color=#f0df60><★13 Chips></color>\nWhen you equip a ★13 chip on your palette, it will\nhalve the equip cost of PAs and Techniques of the\nsame element. When choosing a PA to go with your\n★13 chip, pay attention to its element!"
 	},
 	{
 		"assign": "0214",
@@ -1157,7 +1157,7 @@
 	{
 		"assign": "0231",
 		"jp_text": "<color=#f0df60>＜エネミーの属性耐性に気を付けて！＞</color>\nこのブロックのエネミーは\n特定の属性に耐性を持ちます。\n耐性の隙を突くことができるよう\n十分に準備を整え挑んでください！",
-		"tr_text": "<color=#f0df60><Watch For Enemy Elemental Resistances!></color>Enemies in this block resist certain elements.\nTry to focus on different elements when\nyou choose your equipment."
+		"tr_text": "<color=#f0df60><Watch For Enemy Elemental Resistances!></color>\nEnemies in this block resist certain elements.\nTry to focus on different elements when\nyou choose your equipment."
 	},
 	{
 		"assign": "0232",
@@ -1342,6 +1342,41 @@
 	{
 		"assign": "0268",
 		"jp_text": "<color=#f0df60>＜チップのかけら２０１９金を集めよう！＞</color>\nこのクエストでは、アイテム「チップのかけら２０１９金」が\n手に入ることがあります！\n「チップのかけら２０１９金」を集めると、交換ショップで\nいろいろな景品と交換できますよ！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0269",
+		"jp_text": "<color=#f0df60>＜ナイトメアタワーに挑戦！＞</color>\nナイトメアタワーには\nより強力なエネミーが現れるようです。\nおそらくここでは、今までの常識は通用しないでしょう。\n覚悟して挑んでください……！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0270",
+		"jp_text": "<color=#f0df60>＜チップ特装でチップをさらに強く！＞</color>\nチップ特装を行うと、最大チップLvがアップするほか\nプラグと呼ばれる新規アビリティを習得できます。\nチップ特装に必要な素材チップや習得できるプラグは\n「チップ特装」や「チップ詳細」の画面で\n確認することができますよ。",
+		"tr_text": ""
+	},
+	{
+		"assign": "0271",
+		"jp_text": "<color=#f0df60>＜プラグを強化しよう！＞</color>\n「特装プラグ」には、レベルを上げることで\n効果がアップするものがあります。\nプラグレベルを上げるためには\n専用の素材チップが必要です。\n素材チップは、様々なクエストで入手できますよ。",
+		"tr_text": ""
+	},
+	{
+		"assign": "0272",
+		"jp_text": "<color=#f0df60>＜チップ特装に必要な素材を集めよう！＞</color>\nこのクエストでは「チップ特装」に必要となる\n基本的な素材チップを多く手に入れることができます。\nよりレアな素材チップをたくさん入手したい場合は\n高難度のクエストをプレイしてみてください。",
+		"tr_text": ""
+	},
+	{
+		"assign": "0273",
+		"jp_text": "<color=#f0df60>＜チップ特装に必要なレア素材を集めよう！＞</color>\nこのクエストでは「チップ特装」に必要となる\nレアな素材チップを多く手に入れることができます。\n低難度のクエストでも、同じ素材チップを入手可能です。\nクエストが難しいと感じたら\n低難度のクエストに挑戦してみてください。",
+		"tr_text": ""
+	},
+	{
+		"assign": "0274",
+		"jp_text": "<color=#f0df60>＜プラグレベルに合わせた素材を集めよう！①＞</color>\n一定レベル以上のプラグ強化には\nクエスト「プラグ開発資材調達任務・応用」で\n入手できる素材チップが必要になります。\n難しいクエストかもしれませんが\nチャレンジしてみてください！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0275",
+		"jp_text": "<color=#f0df60>＜プラグレベルに合わせた素材を集めよう！②＞</color>\n特装したばかりのチップのプラグ強化には\nクエスト「プラグ開発資材調達任務・基本」で\n入手できる素材チップが必要になります。\nたくさん集めて、いつでも強化できるように\n準備しておきましょう！",
 		"tr_text": ""
 	}
 ]

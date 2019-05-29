@@ -2,21 +2,21 @@
 	{
 		"assign": "1400",
 		"jp_text": "ツインダガー",
-		"tr_text": "Twin Dagger",
+		"tr_text": "Twin Daggers",
 		"jp_explain": "アークスで正式採用されている双小剣。\n体格に関係なく扱いやすい軽量小型で\n長時間の使用でも疲れにくい。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1401",
 		"jp_text": "アルバＴダガー",
-		"tr_text": "Alva Twin Dagger",
+		"tr_text": "Alva Twin Daggers",
 		"jp_explain": "アークスで使用される改良型双小剣。\n基礎モデルと組成・構成は同じで\n攻撃力を向上させた。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1402",
 		"jp_text": "ヴィタＴダガー",
-		"tr_text": "Vita Twin Dagger",
+		"tr_text": "Vita Twin Daggers",
 		"jp_explain": "基礎モデルに改良を加えた双小剣。\nわずかなサイズアップで、攻撃力を\n大きく向上させることに成功している。",
 		"tr_explain": ""
 	},
@@ -366,14 +366,14 @@
 	{
 		"assign": "14056",
 		"jp_text": "グワナーダガー",
-		"tr_text": "Gwanah Dagger",
+		"tr_text": "Gwanah Daggers",
 		"jp_explain": "グワナーダの顎で作られた双小剣。\n強度と切れ味に優れた素材のため\n加工なしでも使えるほど性能が高い。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14057",
 		"jp_text": "Ｇネロダガー",
-		"tr_text": "G Nero Dagger",
+		"tr_text": "G Nero Daggers",
 		"jp_explain": "グワナーダ・ネロの顎が用いられた\n双小剣。非常に頑強であり、刃こぼれ\n一つしないと評判。",
 		"tr_explain": ""
 	},
@@ -429,14 +429,14 @@
 	{
 		"assign": "14071",
 		"jp_text": "赤のツインダガー",
-		"tr_text": "Red Twin Dagger",
+		"tr_text": "Red Twin Daggers",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした双小剣。\n目映い赤色は必然的に目を引く。",
 		"tr_explain": "Twin daggers whose experimental\ncoloring has become iconic. The\ndazzling red catches the eye."
 	},
 	{
 		"assign": "14072",
 		"jp_text": "青のツインダガー",
-		"tr_text": "Blue Twin Dagger",
+		"tr_text": "Blue Twin Daggers",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした双小剣。\n目映い青色は必然的に目を引く。",
 		"tr_explain": "Twin daggers whose experimental\ncoloring has become iconic. The\ndazzling blue catches the eye."
 	},
@@ -574,6 +574,13 @@
 		"tr_explain": "Twin daggers made with state-of-\nthe-art bioengineering. Enhanced\nwith a high-purity culture solution."
 	},
 	{
+		"assign": "140114",
+		"jp_text": "ブラッドスローク",
+		"tr_text": "Blood Sloque",
+		"jp_explain": "最先端の生体工学を応用し開発された\n双小剣。生細胞液の循環により末端まで\n淀みなくパワーを充填して攻撃が可能。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "140115",
 		"jp_text": "アラザクーヘン",
 		"tr_text": "Alaza Kuchen",
@@ -695,14 +702,14 @@
 	{
 		"assign": "140153",
 		"jp_text": "ネメシスダガー",
-		"tr_text": "Nemesis Dagger",
+		"tr_text": "Nemesis Daggers",
 		"jp_explain": "古の時代に封印された聖なる双小剣。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
 		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
 	},
 	{
 		"assign": "140154",
 		"jp_text": "スレイヴダガー",
-		"tr_text": "Slave Dagger",
+		"tr_text": "Slave Daggers",
 		"jp_explain": "古の時代に封印された邪なる双小剣。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
 		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
 	},
@@ -719,6 +726,13 @@
 		"tr_text": "Ideal Ster",
 		"jp_explain": "新開発のフォトンジェネレーターを\n搭載した双小剣。発せられる\nフォトンの輝きは次代の証とされる。",
 		"tr_explain": "Twin daggers equipped with a newly\ndeveloped photon generator. Their\nglow is proof of the next generation."
+	},
+	{
+		"assign": "140162",
+		"jp_text": "アウェイクシュテル",
+		"tr_text": "Awake Ster",
+		"jp_explain": "強化型のフォトンジェネレーターを\n搭載した双小剣。放たれる強力な\nフォトンの波動を以て悪を討つ。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "140166",
@@ -819,6 +833,13 @@
 		"tr_explain": "Twin Daggers that specializes in\nhand-to-hand combat. The camo\npattern was used during secret ops,"
 	},
 	{
+		"assign": "140203",
+		"jp_text": "アクルドベセト",
+		"tr_text": "Aculd Beset",
+		"jp_explain": "異なる力を宿した恐るべき双小剣。\nまばゆい光と凍てつく氷の力を宿した\n刃は鋭く、対象を一瞬で斬り裂く。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "140204",
 		"jp_text": "フォルニスベセト",
 		"tr_text": "Fornis Beset",
@@ -831,6 +852,13 @@
 		"tr_text": "Tryvin Orbit",
 		"jp_explain": "新開発のフォトンリング機構を搭載した\n双小剣。展開された部品が合体し\n宙をも刻む閃光の双刃へと姿を変える。",
 		"tr_explain": "Twin daggers with a Photon Ring\nDevice. Their expanded parts form\nblades of light that carve the air."
+	},
+	{
+		"assign": "140206",
+		"jp_text": "トライヴィンミラージュ",
+		"tr_text": "Tryvin Mirage",
+		"jp_explain": "新開発のフォトンリング機構を搭載した\n双小剣。リングを通し部品を共鳴させ\n動力を充填する。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "140218",
@@ -884,35 +912,35 @@
 	{
 		"assign": "140228",
 		"jp_text": "レイＴダガー",
-		"tr_text": "Ray Twin Dagger",
+		"tr_text": "Ray Twin Daggers",
 		"jp_explain": "次世代の主力として開発された双小剣。\n基礎モデルの直系の後継機であり\n出力、安定性共に高いスペックを誇る。",
 		"tr_explain": "T. Daggers developed as the latest\nmodel, boasting high photon stability\nwith next-gen specifications."
 	},
 	{
 		"assign": "140229",
 		"jp_text": "ユニオンＴダガー",
-		"tr_text": "Union Twin Dagger",
+		"tr_text": "Union Twin Daggers",
 		"jp_explain": "次世代の主力として開発された双小剣。\n専用ブーストパーツが装着されたことで\n限界を超えた性能を発揮する。",
-		"tr_explain": "T. Daggers developed as the latest\nmodel. Augmented with boost parts,\nits performance exceed its limits."
+		"tr_explain": "T. Daggers developed as the latest\nmodel. Augmented with boost parts,\ntheir performance exceeds their limits."
 	},
 	{
 		"assign": "140233",
 		"jp_text": "ツインダガー-NT",
-		"tr_text": "Twin Dagger-NT",
+		"tr_text": "Twin Daggers-NT",
 		"jp_explain": "アークスで正式採用されている双小剣。\n体格に関係なく扱いやすい軽量小型で\n長時間の使用でも疲れにくい。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140234",
 		"jp_text": "アルバＴダガー-NT",
-		"tr_text": "Alva T. Dagger-NT",
+		"tr_text": "Alva T. Daggers-NT",
 		"jp_explain": "アークスで使用される改良型双小剣。\n基礎モデルと組成・構成は同じで\n攻撃力を向上させた。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140235",
 		"jp_text": "ヴィタＴダガー-NT",
-		"tr_text": "Vita T. Dagger-NT",
+		"tr_text": "Vita T. Daggers-NT",
 		"jp_explain": "基礎モデルに改良を加えた双小剣。\nわずかなサイズアップで、攻撃力を\n大きく向上させることに成功している。",
 		"tr_explain": ""
 	},
@@ -1092,6 +1120,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "140285",
+		"jp_text": "ゲノンザフィーラ",
+		"tr_text": "Genon Zaffira",
+		"jp_explain": "得体の知れない生物の細胞が利用された\n双小剣。開発されてすぐに封印が施され\n戦闘データが存在していない。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "140288",
 		"jp_text": "[NPC]ＥＰ５シーナＴＤ",
 		"tr_text": "[NPC]ＥＰ５シーナＴＤ",
@@ -1171,14 +1206,14 @@
 	{
 		"assign": "140310",
 		"jp_text": "ネメシスダガー-NT",
-		"tr_text": "Nemesis Dagger-NT",
+		"tr_text": "Nemesis Daggers-NT",
 		"jp_explain": "古の時代に封印された聖なる双小剣。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
 		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
 	},
 	{
 		"assign": "140311",
 		"jp_text": "スレイヴダガー-NT",
-		"tr_text": "Slave Dagger-NT",
+		"tr_text": "Slave Daggers-NT",
 		"jp_explain": "古の時代に封印された邪なる双小剣。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
 		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
 	},
@@ -1199,7 +1234,7 @@
 	{
 		"assign": "140314",
 		"jp_text": "ブランアブソルト",
-		"tr_text": "Bran Absolute",
+		"tr_text": "Blanc Absolute",
 		"jp_explain": "風と空気を自在に操るといわれる\n双小剣。桁外れの切断性能と機動力で\n標的を容易く圧倒する。",
 		"tr_explain": ""
 	},
@@ -1306,6 +1341,13 @@
 		"jp_text": "アークフラン-NT",
 		"tr_text": "Ark Flan-NT",
 		"jp_explain": "アークス上層部が企画開発した双小剣。\n鋸刃の形状を取り入れたことにより\n敵に致命傷を与えやすくなった。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "140342",
+		"jp_text": "ディムＴダガー",
+		"tr_text": "Dim Twin Daggers",
+		"jp_explain": "次世代の主力として開発された双小剣。\n偶発的に禍々しい力を備え、設計以上の\n力を持つが、使用者への影響は未知数。",
 		"tr_explain": ""
 	}
 ]

@@ -38,9 +38,21 @@ for name in file_names:
                 item["tr_explain"] += "female-only "
             elif len(regex.findall("男性のみ使用可能。", item["jp_explain"])) > 0:
                 item["tr_explain"] += "male-only "
+
+            #Some stickers have different names in-game from their tickets.
+            #The in-game name is in the tickets' descriptions.
+            #Extract it here.
+            cosmetic_name = item["tr_text"]
+            if name[1] == "sticker":
+                description_name = regex.search(
+                    r'(?<=ステッカーの\n)(.+[ＡＢＣ]?)(?=が選択可能。)',
+                    item["jp_explain"]).group(0)
+
+                if (description_name != item["jp_text"]):
+                    cosmetic_name = regex.sub(" Sticker", "", cosmetic_name)
             
             item["tr_explain"] += (item_type + "\n\""
-                                   + item["tr_text"] + "\"\n"
+                                   + cosmetic_name + "\"\n"
                                    + "for use in the Beauty Salon.")
 
             print("Translated description for {0}".format(item["tr_text"]))
@@ -170,7 +182,9 @@ cv_names = {
     "陶山 章央": "Akio Suyama", "雨宮 天": "Sora Amamiya",
     "飛田 展男": "Nobuo Tobita", "飯田 友子": "Yuko Iida",
     "高木 友梨香": "Yurika Takagi", "高野 麻里佳": "Marika Kono",
-    "安元 洋貴": "Hiroki Yasumoto",
+    "安元 洋貴": "Hiroki Yasumoto", "高橋 未奈美": "Minami Takahashi",
+    "黒沢 ともよ": "Tomoyo Kurosawa", "堀川 りょう": "Ryo Horikawa",
+    "高橋 李依": "Rie Takahashi", "安済 知佳": "Chika Anzai",
     "？？？": "???", "Ｍ・Ａ・Ｏ": "M・A・O"
     }
 

@@ -1,5 +1,10 @@
 [
 	{
+		"assign": "common_return_lobby",
+		"jp_text": "ロビーへ戻る",
+		"tr_text": "Return to Lobby"
+	},
+	{
 		"assign": "lobby_guide_00",
 		"jp_text": "<color=#f0df60>タッチ操作で項目を選択することができます。</color>",
 		"tr_text": "<color=#f0df60>Select what you want to do by touching the Icons.</color>"
@@ -945,6 +950,51 @@
 		"tr_text": "Now exchanging Weaponoid Points for\n{0}.\nDo you wish to continue?\n\nOwned Weaponoid Points ⇒ {1:N0}\nRequired Weaponoid Points ⇒ {2:N0}\nRemaining Weaponoid Points ⇒ {3:N0}"
 	},
 	{
+		"assign": "rshop_dialog_t_10",
+		"jp_text": "交換ショップ",
+		"tr_text": "Exchange Shop"
+	},
+	{
+		"assign": "rshop_dialog_b_10_1",
+		"jp_text": "ボーナスポイントが足りません。\n\n所持ボーナスポイント　⇒　{0:N0}pt\n必要ボーナスポイント　⇒　{1:N0}pt\n不足ボーナスポイント　⇒　<color=#ff0000>{2:N0}pt</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "rshop_dialog_b_10",
+		"jp_text": "「{0}」\nと、ボーナスポイントを交換します。よろしいですか？\n\n所持ボーナスポイント　⇒　{1:N0}pt\n必要ボーナスポイント　⇒　{2:N0}pt\n残りボーナスポイント　⇒　{3:N0}pt",
+		"tr_text": ""
+	},
+	{
+		"assign": "rshop_dialog_t_11",
+		"jp_text": "交換ショップ",
+		"tr_text": "Exchange Shop"
+	},
+	{
+		"assign": "rshop_dialog_b_11_1",
+		"jp_text": "超級トリガーが足りません。\n\n所持超級トリガー　⇒　{0:N0}個\n必要超級トリガー　⇒　{1:N0}個\n不足超級トリガー　⇒　<color=#ff0000>{2:N0}個</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "rshop_dialog_b_11",
+		"jp_text": "「{0}」\nと、超級トリガーを交換します。よろしいですか？\n\n所持超級トリガー　⇒　{1:N0}個\n必要超級トリガー　⇒　{2:N0}個\n残り超級トリガー　⇒　{3:N0}個",
+		"tr_text": ""
+	},
+	{
+		"assign": "rshop_dialog_t_12",
+		"jp_text": "交換ショップ",
+		"tr_text": "Exchange Shop"
+	},
+	{
+		"assign": "rshop_dialog_b_12_1",
+		"jp_text": "覇級トリガーが足りません。\n\n所持覇級トリガー　⇒　{0:N0}個\n必要覇級トリガー　⇒　{1:N0}個\n不足覇級トリガー　⇒　<color=#ff0000>{2:N0}個</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "rshop_dialog_b_12",
+		"jp_text": "「{0}」\nと、覇級トリガーを交換します。よろしいですか？\n\n所持覇級トリガー　⇒　{1:N0}個\n必要覇級トリガー　⇒　{2:N0}個\n残り覇級トリガー　⇒　{3:N0}個",
+		"tr_text": ""
+	},
+	{
 		"assign": "arcscard_guide_00",
 		"jp_text": "<color=#f0df60>編集したいメッセージをタッチしてください。</color>",
 		"tr_text": "<color=#f0df60>Please touch the area you would like to edit.</color>"
@@ -1586,8 +1636,8 @@
 	},
 	{
 		"assign": "option_guide_00",
-		"jp_text": "<color=#f0df60>サウンドのボリューム調整を行うことができます。</color>",
-		"tr_text": "<color=#f0df60>You can adjust the sound volume here.</color>"
+		"jp_text": "<color=#f0df60>画面表示やサウンドに関する設定を変更・調整することができます。</color>",
+		"tr_text": "<color=#f0df60>You can adjust display and sound settings.</color>"
 	},
 	{
 		"assign": "equip_guide_00",
@@ -2015,6 +2065,11 @@
 		"tr_text": "Grind items"
 	},
 	{
+		"assign": "labo_menu_04",
+		"jp_text": "チップ特装・プラグ強化",
+		"tr_text": ""
+	},
+	{
 		"assign": "labo_menu_dialog_t_00",
 		"jp_text": "機能未解放",
 		"tr_text": "Feature Unreleased"
@@ -2082,7 +2137,12 @@
 	{
 		"assign": "labo_dialog_b_03",
 		"jp_text": "<color=#f0df60>解放したいチップを選択してください。レベルが上限に達しているチップのみ解放が可能です。　</color>",
-		"tr_text": "<color=#f0df60>Please select the Chip you want to release.</color>"
+		"tr_text": "<color=#f0df60>Please select the Chip you want to release. Only chips that have reached their maximum grind level can be selected.</color>"
+	},
+	{
+		"assign": "labo_guide_14",
+		"jp_text": "<color=#f0df60>解放したいチップを選択してください。レベルが上限に達しているチップのみ解放が可能です。　</color>",
+		"tr_text": "<color=#f0df60>Please select the Chip you want to release. Only chips that have reached their maximum grind level can be selected.</color>"
 	},
 	{
 		"assign": "labo_dialog_t_25",
@@ -2096,8 +2156,8 @@
 	},
 	{
 		"assign": "labo_guide_04",
-		"jp_text": "<color=#f0df60>解放に必要な素材チップを表示しています。表示しているチップが全てそろい、解放したいチップのレベルが上限に達すると、解放が可能になります。素材チップはチップ倉庫からも使うことができます。</color>",
-		"tr_text": "<color=#f0df60>Material chips required to release this chip are displayed. When you have all of the displayed chips, and the chip has been grinded to its maximum level, you can release it. Material chips can be used even if they are in storage.</color>"
+		"jp_text": "<color=#f0df60>解放に必要な素材チップを表示しています。表示しているチップが全てそろい、解放したいチップのレベルが上限に達すると、解放が可能になります。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_t_04",
@@ -2178,6 +2238,11 @@
 		"assign": "labo_dialog_b_26",
 		"jp_text": "解放に必要な素材チップが足りません。",
 		"tr_text": "Cannot release. Not enough material."
+	},
+	{
+		"assign": "labo_chip_awake_select",
+		"jp_text": "特装・プラグ強化チップ選択",
+		"tr_text": ""
 	},
 	{
 		"assign": "labo_guide_05",
@@ -2371,147 +2436,157 @@
 	},
 	{
 		"assign": "labo_guide_07",
-		"jp_text": "-",
+		"jp_text": "<color=#f0df60>属性強化ではアイテム「シンセサイザー」を使って、複数の同じ武器の属性値を加算できます。「対象」とする武器を選択してください。</color>",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_guide_08",
-		"jp_text": "-",
+		"jp_text": "<color=#f0df60>属性強化の最終確認画面です。補助アイテムを所持している場合は、選択することができます。決定を押すと強化を開始します。</color>",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_t_13",
-		"jp_text": "-",
+		"jp_text": "属性強化",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_13",
-		"jp_text": "-",
+		"jp_text": "属性値が最大の武器なため\nこれ以上、属性値を上げることはできません。\n\n※補助アイテムを使用することで\n　　属性変化を行うことは可能です。",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_t_14",
-		"jp_text": "-",
+		"jp_text": "属性強化",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_14",
-		"jp_text": "-",
+		"jp_text": "条件に合う武器を所持していません。\n「対象」として選んだ武器と\n同じ名前の武器が必要です。",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_t_15",
-		"jp_text": "-",
+		"jp_text": "属性強化",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_15",
-		"jp_text": "-",
+		"jp_text": "属性値を持たない武器は\n属性強化を行うことができません。",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_guide_13",
-		"jp_text": "-",
+		"jp_text": "<color=#f0df60>「素材」には、対象と同じ名前の武器が必要です。選んだ「素材」は、実行後に消滅します。決定を押すと最終確認画面に移行します。</color>",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_t_16",
-		"jp_text": "-",
+		"jp_text": "属性強化",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_16",
-		"jp_text": "-",
+		"jp_text": "メセタが不足しているため\n属性強化することができません。",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_t_17",
-		"jp_text": "-",
+		"jp_text": "属性強化",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_17",
-		"jp_text": "-",
+		"jp_text": "★７以上の素材が選択されています。\n属性を強化すると素材は消滅しますが\nよろしいですか？",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_t_18",
-		"jp_text": "-",
+		"jp_text": "属性強化",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_18",
-		"jp_text": "-",
+		"jp_text": "強化に成功しました。",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_guide_09",
-		"jp_text": "-",
+		"jp_text": "<color=#f0df60>特殊能力追加では、他のアイテムを使って特殊能力を移したり、特殊能力のランクを上げることができます。「対象」とするアイテムを選択してください。</color>",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_guide_10",
-		"jp_text": "-",
+		"jp_text": "<color=#f0df60>「素材」を選択してください。「素材」には、対象と同じ数の特殊能力をもつ武器が必要です。選んだ「素材」は実行後に消滅します。</color>",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_guide_11",
-		"jp_text": "-",
+		"jp_text": "<color=#f0df60>追加した特殊能力を選択し、特殊能力追加予定リストをすべて埋めると開始できます。　エクストラスロットを使用することで特殊能力数を追加できます。</color>",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_guide_12",
-		"jp_text": "-",
+		"jp_text": "<color=#f0df60>属性強化の最終確認画面です。補助アイテムを所持している場合は、選択することができます。　決定ボタンで強化を開始します。</color>",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_t_19",
-		"jp_text": "-",
+		"jp_text": "特殊能力追加",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_19",
-		"jp_text": "-",
+		"jp_text": "「対象」として選んだアイテムと\n同じ数の特殊能力を持つ素材アイテムを\n所持していないため選択できません。",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_t_20",
-		"jp_text": "-",
+		"jp_text": "特殊能力追加",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_20",
-		"jp_text": "-",
+		"jp_text": "メセタが不足しているため\n特殊能力追加を実行できません。",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_t_21",
-		"jp_text": "-",
+		"jp_text": "特殊能力追加",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_21",
-		"jp_text": "-",
+		"jp_text": "★７以上の素材が選択されています。\n特殊能力追加を実行すると 素材は消滅します。\nよろしいですか？",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_t_22",
-		"jp_text": "-",
+		"jp_text": "特殊能力追加",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_22",
-		"jp_text": "-",
+		"jp_text": "特殊能力追加が完了しました。",
+		"tr_text": ""
+	},
+	{
+		"assign": "labo_guide_15",
+		"jp_text": "<color=#f0df60>チップ特装・プラグ強化をしたいチップを選択してください。チップ特装は最大レベルに達しているチップのみ、プラグ強化はすでに特装したチップが対象です。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "labo_guide_16",
+		"jp_text": "<color=#f0df60>実行する項目を選んでください。チップLvが最大レベルに達し、必要な素材チップが全てそろうと、チップ特装・プラグ強化が可能になります。</color>",
 		"tr_text": ""
 	},
 	{
 		"assign": "chipevo_npc_t_00",
-		"jp_text": "-",
-		"tr_text": ""
+		"jp_text": "セラフィ",
+		"tr_text": "Seraphy"
 	},
 	{
 		"assign": "chipevo_npc_b_00",
-		"jp_text": "-",
+		"jp_text": "戦いを経たチップが\n解放しようとしています。",
 		"tr_text": ""
 	},
 	{
@@ -5055,6 +5130,171 @@
 		"tr_text": "List generated on: {0}"
 	},
 	{
+		"assign": "linkage_exp_guide_00",
+		"jp_text": "<color=#f0df60>『PSO2』と『PSO2es』で入手できる連動経験値の配分設定を変更します。</color>",
+		"tr_text": "<color=#f0df60>You can change how EXP transferred between PSO2 and PSO2es is distributed.</color>"
+	},
+	{
+		"assign": "linkage_exp_return_lobby",
+		"jp_text": "ロビーへ戻る",
+		"tr_text": "Return to Lobby"
+	},
+	{
+		"assign": "linkage_exp_save_setting",
+		"jp_text": "設定を保存",
+		"tr_text": "Save Settings"
+	},
+	{
+		"assign": "linkage_exp_pso2toes_title",
+		"jp_text": "連動経験値の配分設定 【PSO2 ⇒ es】",
+		"tr_text": "Linked EXP Distribution [PSO2 ⇒ es]"
+	},
+	{
+		"assign": "linkage_exp_usage",
+		"jp_text": "配分状況",
+		"tr_text": " Remaining"
+	},
+	{
+		"assign": "linkage_exp_average_allocation",
+		"jp_text": "平均配分",
+		"tr_text": "Average"
+	},
+	{
+		"assign": "linkage_exp_reset",
+		"jp_text": "リセット",
+		"tr_text": "Reset"
+	},
+	{
+		"assign": "linkage_exp_remaining",
+		"jp_text": "残り",
+		"tr_text": "\t"
+	},
+	{
+		"assign": "linkage_exp_extra",
+		"jp_text": "あと",
+		"tr_text": "After:"
+	},
+	{
+		"assign": "linkage_exp_class_item",
+		"jp_text": "エクスキューブ",
+		"tr_text": "Excube"
+	},
+	{
+		"assign": "linkage_exp_get_item",
+		"jp_text": "アイテム獲得まで",
+		"tr_text": "To next item"
+	},
+	{
+		"assign": "linkage_exp_next_level",
+		"jp_text": "次のレベルまで",
+		"tr_text": "To next Lv."
+	},
+	{
+		"assign": "linkage_exp_next_level_value",
+		"jp_text": "{0:#,0}",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_estopso2_title",
+		"jp_text": "連動経験値の配分設定 【es ⇒ PSO2】",
+		"tr_text": "Linked EXP Distribution [es ⇒ PSO2]"
+	},
+	{
+		"assign": "linkage_exp_linkage_exp",
+		"jp_text": "連動経験値",
+		"tr_text": "Linked EXP"
+	},
+	{
+		"assign": "linkage_exp_linkage_exp_value",
+		"jp_text": "{0:#,0}/{1:#,0}",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_dialog_t_00",
+		"jp_text": "連動経験値の蓄積上限",
+		"tr_text": "Linked EXP at Maximum"
+	},
+	{
+		"assign": "linkage_exp_dialog_b_00",
+		"jp_text": "『PSO2es』のプレイで獲得できる連動経験値が\nすべてのクラスで蓄積上限に達しました。\n\n『PSO2』をプレイすることで\n連動経験値を再び獲得できるようになります。",
+		"tr_text": "You have reached the maximum possible Linked EXP\nthat can be earned from playing PSO2es in all classes.\n\nYou can earn more EXP by playing PSO2."
+	},
+	{
+		"assign": "linkage_exp_dialog_t_01",
+		"jp_text": "配分設定エラー",
+		"tr_text": "Allocation Error"
+	},
+	{
+		"assign": "linkage_exp_dialog_b_01",
+		"jp_text": "配分率が合計100％にならないため、保存できません。\n「配分状況」を残り <color=yellow>0％</color> にしてください。",
+		"tr_text": "Cannot save as your total allocation is not 100%.\nPlease make sure your remaining allocation is <color=yellow>0%</color>."
+	},
+	{
+		"assign": "linkage_exp_dialog_t_02",
+		"jp_text": "配分設定の保存",
+		"tr_text": "Settings Saved"
+	},
+	{
+		"assign": "linkage_exp_dialog_b_02",
+		"jp_text": "配分設定を保存しました。\nこの設定は、次回のプレイから適用されます。",
+		"tr_text": "Allocation settings saved.\nThese settings will be applied the next time\nyou play."
+	},
+	{
+		"assign": "linkage_exp_dialog_t_03",
+		"jp_text": "設定変更エラー",
+		"tr_text": "Setting Change Error"
+	},
+	{
+		"assign": "linkage_exp_dialog_b_03",
+		"jp_text": "配分設定が変更されています。\n保存していない設定は破棄されますが\nよろしいですか？",
+		"tr_text": "Allocation settings have been changed.\nIs it OK to discard unsaved changes?"
+	},
+	{
+		"assign": "linkage_exp_dialog_t_04",
+		"jp_text": "配分設定エラー",
+		"tr_text": "Allocation Error"
+	},
+	{
+		"assign": "linkage_exp_dialog_b_04",
+		"jp_text": "配分設定を変更していない項目があります。\n以下のまま保存してよろしいですか？\n・『PSO2es』⇒『PSO2』の連動経験値\n　　配分可能な全クラスへ均等に配分\n・『PSO2』⇒『PSO2es』の連動経験値\n　　エクスキューブへすべて配分",
+		"tr_text": "Settings have not been changed.\nAre you sure you want to save the below pattern?\n・PSO2es ⇒ PSO2\n   Distribute evenly to all classes\n・PSO2 ⇒ PSO2es\n   Allocate all to Excubes"
+	},
+	{
+		"assign": "linkage_exp_button_auto_adjust",
+		"jp_text": "自動調整して保存",
+		"tr_text": "Auto-adjust & save"
+	},
+	{
+		"assign": "linkage_exp_button_check_default_setting",
+		"jp_text": "はい",
+		"tr_text": "Yes"
+	},
+	{
+		"assign": "linkage_exp_button_check_default_transition",
+		"jp_text": "いいえ",
+		"tr_text": "No"
+	},
+	{
+		"assign": "linkage_exp_first_time_dialog_t_00",
+		"jp_text": "連動経験値の配分設定",
+		"tr_text": "Linked EXP Distribution Settings"
+	},
+	{
+		"assign": "linkage_exp_first_time_dialog_b_00",
+		"jp_text": "『PSO2』『PSO2es』で獲得できる連動経験値の\n配分設定を行ってください。\n\n「設定を保存」で、変更した設定を適用できます。\n設定後「ロビーへ戻る」でゲームを開始します。",
+		"tr_text": "Please set the allocation of Linked EXP\ntransferred between PSO2es and PSO2.\n\nYou can apply your changes by pressing\n\"Save Settings\".\nAfterwards, you can start the game by pressing\n\"Return to Lobby\"."
+	},
+	{
+		"assign": "linkage_exp_first_time_button_allocation_setting",
+		"jp_text": "設定する",
+		"tr_text": "Set"
+	},
+	{
+		"assign": "window_help_LM38",
+		"jp_text": "wh_52_01,\n『PSO2』と『PSO2es』で獲得した連動経験値の配分比率を\nそれぞれ設定することができます。\n保存した設定は、次回のプレイから適用されます。,\nwh_52_02,\n画面左上のボタンをタッチすると\n『PSO2』と『PSO2es』の配分設定を切り替えられます。\n配分状況が残り0％になるように、クラス毎の配分を設定します。,\nwh_52_02,\nこの配分設定は<color=yellow>『PSO2es』でのみ変更することができます。</color>\n変更したい場合はメニューの「連動」から「連動経験値」を選択してください。,",
+		"tr_text": ""
+	},
+	{
 		"assign": "questcounter_guide_00",
 		"jp_text": "<color=#f0df60>ジェネやモアと共に冒険するストーリーです。Normalのエリアで獲得スコアを最大にすると、高難度なExのエリアが解放されます。</color>",
 		"tr_text": "<color=#f0df60>The story of your adventures with Gene and More. Clear an area with full marks on Normal to unlock its EX difficulty version.</color>"
@@ -5307,7 +5547,7 @@
 	{
 		"assign": "quest_counter_label_time",
 		"jp_text": "あと",
-		"tr_text": "CD:"
+		"tr_text": "after"
 	},
 	{
 		"assign": "quest_counter_window_questselect",
@@ -6191,7 +6431,7 @@
 	},
 	{
 		"assign": "window_help_LM31",
-		"jp_text": "wh_46_01,\nスクラッチチケットは、特定のスクラッチを引くことができるチケットです。\n<color=yellow>特定のスクラッチ以外は引けません</color>ので、引き忘れにご注意ください。\nスクラッチチケットとラッピーメダルでは、チケットから先に使用されます。",
+		"jp_text": "スクラッチチケットは、特定のスクラッチを引くことができるチケットです。\n<color=yellow>特定のスクラッチ以外は引けません</color>ので、引き忘れにご注意ください。\nスクラッチチケットとラッピーメダルでは、チケットから先に使用されます。",
 		"tr_text": ""
 	},
 	{
@@ -7430,6 +7670,21 @@
 		"tr_text": "Braver"
 	},
 	{
+		"assign": "summoner",
+		"jp_text": "サモナー",
+		"tr_text": "Summoner"
+	},
+	{
+		"assign": "hero",
+		"jp_text": "ヒーロー",
+		"tr_text": "Hero"
+	},
+	{
+		"assign": "phantom",
+		"jp_text": "ファントム",
+		"tr_text": "Phantom"
+	},
+	{
 		"assign": "ship_01",
 		"jp_text": "Ship01:フェオ",
 		"tr_text": "Ship01: Feoh"
@@ -7895,6 +8150,16 @@
 		"tr_text": "Kuronites"
 	},
 	{
+		"assign": "chip_type_name_16",
+		"jp_text": "チップ特装素材",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_type_name_17",
+		"jp_text": "プラグ強化素材",
+		"tr_text": ""
+	},
+	{
 		"assign": "chip_type_name_weaponoid",
 		"jp_text": "ウェポノイド",
 		"tr_text": "Weaponoid"
@@ -8297,7 +8562,7 @@
 	{
 		"assign": "item_sale_recycle",
 		"jp_text": "交換ショップ",
-		"tr_text": "Exchange Shop"
+		"tr_text": ""
 	},
 	{
 		"assign": "item_pack_window",
@@ -8317,12 +8582,12 @@
 	{
 		"assign": "questkey_timelimit",
 		"jp_text": "有効期限 / yyyy年MM月dd日HH時mm分",
-		"tr_text": "Expires:  <color=\"yellow\">yyyy/MM/dd  HH:mm</color>"
+		"tr_text": "Expires: <color=\"yellow\">yyyy/MM/dd  HH:mm</color>"
 	},
 	{
 		"assign": "questkey_timelimit_over",
 		"jp_text": "有効期限 / <color=\"red\">yyyy年MM月dd日HH時mm分</color>",
-		"tr_text": "Expires:  <color=\"red\">yyyy/MM/dd  HH:mm</color>"
+		"tr_text": "Expires: <color=\"red\">yyyy/MM/dd  HH:mm</color>"
 	},
 	{
 		"assign": "stargem_label_0",
@@ -8337,7 +8602,7 @@
 	{
 		"assign": "recycle_shop_header",
 		"jp_text": "交換ショップ",
-		"tr_text": "Exchange Shop"
+		"tr_text": ""
 	},
 	{
 		"assign": "recycle_product_list",
@@ -8435,6 +8700,16 @@
 		"tr_text": "x{0}"
 	},
 	{
+		"assign": "recycle_item_num_count_format",
+		"jp_text": "×{0}個",
+		"tr_text": "x{0}"
+	},
+	{
+		"assign": "recycle_item_num_pt_format",
+		"jp_text": "×{0}pt",
+		"tr_text": ""
+	},
+	{
 		"assign": "recycle_item_trade_info",
 		"jp_text": "交換に必要：{0} {1}個",
 		"tr_text": "Needs x{1} {0}."
@@ -8448,6 +8723,11 @@
 		"assign": "recycle_item_trade_info_pt",
 		"jp_text": "交換に必要：{0} {1}pt",
 		"tr_text": "Needs {1} {0} pts"
+	},
+	{
+		"assign": "recycle_shop_trade_target",
+		"jp_text": "交換対象：",
+		"tr_text": "Exchange item: "
 	},
 	{
 		"assign": "recycle_item_trade_limit_info",
@@ -8525,9 +8805,9 @@
 		"tr_text": ""
 	},
 	{
-		"assign": "recycle_shop_all_select",
-		"jp_text": "全て交換",
-		"tr_text": "Exchange all"
+		"assign": "recycle_shop_recommended_select",
+		"jp_text": "おまかせ選択",
+		"tr_text": "Recommended"
 	},
 	{
 		"assign": "chip_grind_ability_level_up",
@@ -8812,7 +9092,7 @@
 	{
 		"assign": "classcounter_linkage_exp",
 		"jp_text": "連動経験値",
-		"tr_text": "Combined EXP"
+		"tr_text": "Linked EXP"
 	},
 	{
 		"assign": "classcounter_equip",
@@ -9277,7 +9557,7 @@
 	{
 		"assign": "menu_charainfo_label_next_lv",
 		"jp_text": "次のレベルまで",
-		"tr_text": "To next Lv."
+		"tr_text": "Next Level"
 	},
 	{
 		"assign": "menu_charainfo_linked_exp",
@@ -9341,8 +9621,8 @@
 	},
 	{
 		"assign": "menu_charainfo_goto_lobby",
-		"jp_text": "ロビーへ",
-		"tr_text": "Go to Lobby"
+		"jp_text": "ロビーへ戻る",
+		"tr_text": "Return to Lobby"
 	},
 	{
 		"assign": "menu_charainfo_return",
@@ -9415,6 +9695,11 @@
 		"tr_text": "Release Chips"
 	},
 	{
+		"assign": "menu_main_button_chip_awake",
+		"jp_text": "チップ特装",
+		"tr_text": ""
+	},
+	{
 		"assign": "menu_main_button_item_grind",
 		"jp_text": "アイテム強化",
 		"tr_text": "Grind Items"
@@ -9437,7 +9722,7 @@
 	{
 		"assign": "menu_main_button_recycle",
 		"jp_text": "交換ショップ",
-		"tr_text": "Exchange Shop"
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_main_button_ac_shop",
@@ -9505,6 +9790,11 @@
 		"tr_text": "Receive Counter"
 	},
 	{
+		"assign": "menu_main_button_linkage_exp",
+		"jp_text": "連動経験値",
+		"tr_text": "Allocate EXP"
+	},
+	{
 		"assign": "menu_main_button_linkage",
 		"jp_text": "連動する",
 		"tr_text": "Link Functions"
@@ -9553,6 +9843,11 @@
 		"assign": "menu_main_button_option",
 		"jp_text": "オプション",
 		"tr_text": "Options"
+	},
+	{
+		"assign": "menu_sub_button_chip_awake_limit_up",
+		"jp_text": "上限解放",
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_sub_button_sale_chip",
@@ -9911,8 +10206,8 @@
 	},
 	{
 		"assign": "menu_fulldownload_b_06",
-		"jp_text": "データの通信に失敗しました。\nリトライしますか？\n\n（リトライしない場合はタイトルに戻ります）",
-		"tr_text": "Connection Failed.\nDo you want to Retry？\n\n（Will return to Title if No）"
+		"jp_text": "データの通信に失敗しました。\nリトライしますか？",
+		"tr_text": "Data communication failed.\nDo you want to retry?"
 	},
 	{
 		"assign": "menu_fulldownload_t_07",
@@ -10522,7 +10817,7 @@
 	{
 		"assign": "friend_charamake_dl_retry_dialog_b",
 		"jp_text": "データの通信に失敗しました。\nリトライしますか？",
-		"tr_text": "Data communication failed.\nDo you want to retry?"
+		"tr_text": ""
 	},
 	{
 		"assign": "friend_charamake_dl_finished_dialog_t",
@@ -14212,12 +14507,12 @@
 	{
 		"assign": "botton_yes",
 		"jp_text": "はい",
-		"tr_text": "Yes"
+		"tr_text": ""
 	},
 	{
 		"assign": "botton_no",
 		"jp_text": "いいえ",
-		"tr_text": "No"
+		"tr_text": ""
 	},
 	{
 		"assign": "raid_n_clear",
@@ -14233,6 +14528,11 @@
 		"assign": "raid_n_good",
 		"jp_text": "目標が逃走しました。\n攻撃したぶんの体力は低下しているので\n引き続き挑戦して、討伐を目指しましょう！",
 		"tr_text": "We didn't reach our goal.\nTry again and aim to defeat the enemy!"
+	},
+	{
+		"assign": "raid_n_clear_dps",
+		"jp_text": "お疲れ様でした。満足のいく戦闘はできましたか？\nより高いダメージを目指して、再チャレンジです！",
+		"tr_text": "Thank you for your hard work. Did you enjoy that battle?\nWhy not try again and aim to deal even more damage!"
 	},
 	{
 		"assign": "raid_n_hp01",
@@ -14263,6 +14563,11 @@
 		"assign": "raid_n_hp06",
 		"jp_text": "目標の討伐を目指して頑張りましょう。\nせいいっぱい応援しています！",
 		"tr_text": "Do your best to subdue the target.\nYou have my utmost support!"
+	},
+	{
+		"assign": "raid_n_dps01",
+		"jp_text": "自己ベスト更新を目指してがんばってください。\n私も、せいいっぱい応援しています！",
+		"tr_text": ""
 	},
 	{
 		"assign": "raid_log_00",
@@ -15816,8 +16121,8 @@
 	},
 	{
 		"assign": "wh_32_04",
-		"jp_text": "＜連動経験値について＞\nペットにエッグ、またはチップを合成するとそのアイテムのレアリティに\n応じて、 クラス「サモナー」に連動経験値がたまります。",
-		"tr_text": "<Linked EXP>\nFeeding eggs or chips via Egg Synthesis will\ntransfer EXP to the class Summoner."
+		"jp_text": "＜連動経験値について＞\nペットにエッグ、またはチップを合成すると\nそのアイテムのレアリティに応じて連動経験値がたまります。",
+		"tr_text": ""
 	},
 	{
 		"assign": "wh_32_05",
@@ -16822,17 +17127,17 @@
 	{
 		"assign": "sidestory_newstory_skip_title",
 		"jp_text": "NEW STORY演出スキップ",
-		"tr_text": ""
+		"tr_text": "Skip Introduction Animation"
 	},
 	{
 		"assign": "sidestory_newstory_skip_body",
 		"jp_text": "新規外伝のNEW STORY演出を\nすべてスキップしますか?\n\n<color=red>※スキップすると二度と見られなくなります。</color>",
-		"tr_text": ""
+		"tr_text": "Would you like to skip the\nintroduction animations?\n<color=red>※Once skipped, you can't view\nthem again.</color>"
 	},
 	{
 		"assign": "sidestory_voice_play_locked_info0",
 		"jp_text": "対象のキャラクターのチップを入手して\n絆レベルをLv.<%parameter>にすると再生できます。\n\n",
-		"tr_text": ""
+		"tr_text": "This feature is locked until you\nhave reached Bond Lv.<%parameter> with this chip.\n\n"
 	},
 	{
 		"assign": "sidestory_voice_play_locked_info1",
@@ -16842,7 +17147,7 @@
 	{
 		"assign": "sidestory_story_replay_locked_info1",
 		"jp_text": "対象のキャラクターのチップを入手して\n絆レベルをLv.<%parameter>にすると再生できます。\n\n",
-		"tr_text": ""
+		"tr_text": "This feature is locked until you\nhave reached Bond Lv.<%parameter> with this chip.\n\n"
 	},
 	{
 		"assign": "sidestory_story_replay_locked_info2",
@@ -16867,7 +17172,7 @@
 	{
 		"assign": "acshop_dialog_b_42",
 		"jp_text": "<%item_name>を購入します。\nよろしいですか？\n\n<color=yellow>※マイショップ利用券はプレミアム期間中でないとき\n マイショップでのアイテム購入に必要になります。</color>\n\n所持数：<%current_item_num>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": ""
+		"tr_text": "Purchasing <%item_name>.\nProceed with purchase?\n\nYou will need a My Shop ticket to buy\nitems out of the Premium duration.\n\nOwn: <%current_item_num>\n\nReq. <%AC>: <%consume_AC>\nYour <%AC>: <%current_AC>"
 	},
 	{
 		"assign": "lookback_scene_title",
@@ -16887,7 +17192,7 @@
 	{
 		"assign": "help_character_name",
 		"jp_text": "セラフィ",
-		"tr_text": "Seraphy"
+		"tr_text": ""
 	},
 	{
 		"assign": "help_character_text",
@@ -17040,6 +17345,11 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "lookback_special_chapter_4",
+		"jp_text": "５周年だよ、全員集合！",
+		"tr_text": ""
+	},
+	{
 		"assign": "lookback_maintitle_4",
 		"jp_text": "ストーリー　オブ　アーレス",
 		"tr_text": "Story of Ares"
@@ -17090,6 +17400,11 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "lookback_season3_chapter_5",
+		"jp_text": "５章　　闇の行き着く先",
+		"tr_text": ""
+	},
+	{
 		"assign": "lookback_maintitle_6",
 		"jp_text": "クラン オブ ネメシス＆スレイヴ",
 		"tr_text": "Clan of Nemesis & Slave"
@@ -17110,6 +17425,11 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "lookback_series2_chapter_3",
+		"jp_text": "第３章　悲劇は連環し争いは続く",
+		"tr_text": ""
+	},
+	{
 		"assign": "lookback_maintitle_7",
 		"jp_text": "ハーモニー　オブ　オービット",
 		"tr_text": "Harmony of Orbit"
@@ -17122,6 +17442,21 @@
 	{
 		"assign": "lookback_series3_chapter_1",
 		"jp_text": "第１章　結成☆オービット聖歌隊",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_maintitle_8",
+		"jp_text": "ブレイブ　オブ　セイガーズ",
+		"tr_text": "Brave of Seiga"
+	},
+	{
+		"assign": "lookback_maintext_8",
+		"jp_text": "セイガーシリーズのウェポノイド達の\n物語を振り返ります。",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_series4_chapter_1",
+		"jp_text": "第１章　セイガーズ誕生",
 		"tr_text": ""
 	},
 	{
@@ -17267,7 +17602,7 @@
 	{
 		"assign": "arks_exp_quest_lap_text",
 		"jp_text": "あと",
-		"tr_text": "after"
+		"tr_text": "After"
 	},
 	{
 		"assign": "arks_exp_quest_num",
@@ -17308,6 +17643,11 @@
 		"assign": "sort_level",
 		"jp_text": "レベル順",
 		"tr_text": "Level"
+	},
+	{
+		"assign": "sort_awake_level",
+		"jp_text": "特装段階順",
+		"tr_text": ""
 	},
 	{
 		"assign": "sort_other",
@@ -17470,6 +17810,11 @@
 		"tr_text": "\t"
 	},
 	{
+		"assign": "filter_can_awake_level_up",
+		"jp_text": "チップ特装・プラグ強化",
+		"tr_text": ""
+	},
+	{
 		"assign": "filter_ice",
 		"jp_text": "氷",
 		"tr_text": "\t"
@@ -17605,8 +17950,28 @@
 		"tr_text": "Weapon Generation"
 	},
 	{
+		"assign": "filter_chip_can_awake",
+		"jp_text": "特装可能",
+		"tr_text": ""
+	},
+	{
+		"assign": "filter_chip_cant_awake",
+		"jp_text": "特装素材不足",
+		"tr_text": ""
+	},
+	{
+		"assign": "filter_chip_can_awake_skill_up",
+		"jp_text": "プラグ強化可能",
+		"tr_text": ""
+	},
+	{
+		"assign": "filter_chip_cant_awake_skill_up",
+		"jp_text": "プラグ強化素材不足",
+		"tr_text": ""
+	},
+	{
 		"assign": "window_help_LM32",
-		"jp_text": "wh_47_01,\n交換ショップのアイテムについて、ソート及びフィルター機能を使って整理することが可能です。\n\n交換フィルター設定ボタンを押すことで任意のソート及びフィルター機能を使うことができます。\n解除ボタンを押すことで、ソート及びフィルター機能をOFFにすることができます。",
+		"jp_text": "wh_47_01,\n渡すチップ・アイテム選択画面の右上にあるフィルターの「設定」ボタンを\nタッチすると、「ソート・フィルター」の設定画面が表示されます。\nチップやアイテムの並び順と、フィルターの設定を変更できます。,\nwh_47_02,\n画面の下にある「おまかせ選択」をタッチすると\n交換可能なチップやアイテムが、自動で選択状態になります。\n強化されているチップは選択されません。,",
 		"tr_text": ""
 	},
 	{
@@ -17876,8 +18241,8 @@
 	},
 	{
 		"assign": "acceptbox_goto_lobby",
-		"jp_text": "ロビーへ",
-		"tr_text": "Go to Lobby"
+		"jp_text": "ロビーへ戻る",
+		"tr_text": "Return to Lobby"
 	},
 	{
 		"assign": "acceptbox_guide_00",
@@ -18042,7 +18407,7 @@
 	{
 		"assign": "acceptbox_dialog_b_4",
 		"jp_text": "以下のアイテムを受け取りました。",
-		"tr_text": "I recieved the item(s)."
+		"tr_text": "Recieved the item(s)."
 	},
 	{
 		"assign": "acceptbox_dialog_t_5",
@@ -18052,7 +18417,7 @@
 	{
 		"assign": "acceptbox_dialog_b_5",
 		"jp_text": "以下のアイテムを受け取りました。",
-		"tr_text": "I accepted the items."
+		"tr_text": "Accepted the items."
 	},
 	{
 		"assign": "acceptbox_chip_over_message",
@@ -18222,7 +18587,7 @@
 	{
 		"assign": "collect_search_lap_text",
 		"jp_text": "あと",
-		"tr_text": "After"
+		"tr_text": "Remaining"
 	},
 	{
 		"assign": "collect_search_drop_rate_text",
@@ -18357,7 +18722,7 @@
 	{
 		"assign": "collect_search_dialog_t_03",
 		"jp_text": "コレクトサーチ",
-		"tr_text": ""
+		"tr_text": "Collect Search"
 	},
 	{
 		"assign": "collect_search_dialog_b_03",
@@ -18407,7 +18772,7 @@
 	{
 		"assign": "chip_depot_side_button_depot",
 		"jp_text": "チップ倉庫",
-		"tr_text": ""
+		"tr_text": "Chip\nStorage"
 	},
 	{
 		"assign": "chip_depot_select_num",
@@ -18695,6 +19060,26 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "quest_clear_reward_dialog_title_6234004",
+		"jp_text": "ストーリークエスト Season3　4章4-4",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_clear_reward_dialog_body_6234004",
+		"jp_text": "Season3　4章4-4「未来を永遠とするために」クリア\nおめでとうございます！\n以下のクリア報酬をプレゼントいたしました。\n受け取りボックスをご確認ください。",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_clear_reward_dialog_title_5024104",
+		"jp_text": "シリーズクエストクリア！",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_clear_reward_dialog_body_5024104",
+		"jp_text": "ブレイブ　オブ　セイガーズ\n第1章 第4話「オラクル戦隊セイガーズ」\nクリアおめでとうございます！\n以下のクリア報酬をプレゼントいたしました。\n受け取りボックスをご確認ください。",
+		"tr_text": ""
+	},
+	{
 		"assign": "recommended_equipment",
 		"jp_text": "おすすめ装備",
 		"tr_text": "Recommended Equipment"
@@ -18891,8 +19276,8 @@
 	},
 	{
 		"assign": "leisure_goto_lobby",
-		"jp_text": "ロビーへ",
-		"tr_text": "Go to Lobby"
+		"jp_text": "ロビーへ戻る",
+		"tr_text": "Return to Lobby"
 	},
 	{
 		"assign": "photondice_title",
@@ -19101,8 +19486,8 @@
 	},
 	{
 		"assign": "photondice_result_lose_dialog_b_con_02_rc",
-		"jp_text": "<color=yellow>ラッピーメダル</color>を1枚消費して再戦しますか？\n再戦しない場合、獲得LCがすべて失われます。\n\n<color=yellow>所持ラッピーメダル：<%value>枚</color>",
-		"tr_text": "Do you want to play a <color=yellow>rematch</color> at\nthe cost of 1 Rappy medal?\nIf you don't play a rematch, all LC\nyou earned so far will be lost.\n<color=yellow>Remaining medals: <%value></color>"
+		"jp_text": "<color=red>ラッピーメダル</color>を1枚消費して再戦しますか？\n再戦しない場合、獲得LCがすべて失われます。\n\n<color=yellow>所持ラッピーメダル：<%value>枚</color>",
+		"tr_text": "Do you want to play a <color=red>rematch</color> at\nthe cost of 1 Rappy medal?\nIf you don't play a rematch, all LC\nyou earned so far will be lost.\n<color=yellow>Remaining medals: <%value></color>"
 	},
 	{
 		"assign": "photondice_result_lose_dialog_b_con_03",
@@ -19321,8 +19706,8 @@
 	},
 	{
 		"assign": "equip_apply_lobby",
-		"jp_text": "ロビーへ",
-		"tr_text": "Go to Lobby"
+		"jp_text": "ロビーへ戻る",
+		"tr_text": "Return to Lobby"
 	},
 	{
 		"assign": "quest_linkskill_window_title",
@@ -19482,7 +19867,7 @@
 	{
 		"assign": "chip_details_next_exp",
 		"jp_text": "次のチップレベルまで",
-		"tr_text": "Next Level"
+		"tr_text": "To Next Chip Level"
 	},
 	{
 		"assign": "chip_details_release_ability",
@@ -19492,7 +19877,7 @@
 	{
 		"assign": "chip_details_chipequip_next_lv",
 		"jp_text": "次のレベルまで",
-		"tr_text": "Next Level"
+		"tr_text": "To Next Level"
 	},
 	{
 		"assign": "chip_details_base_item_plus",
@@ -19533,6 +19918,11 @@
 		"assign": "chip_details_link_bonus_text",
 		"jp_text": "パラメータアップ",
 		"tr_text": "Param. Up"
+	},
+	{
+		"assign": "chip_details_awake_none_skill",
+		"jp_text": "未習得",
+		"tr_text": ""
 	},
 	{
 		"assign": "wh_38_01",
@@ -19841,18 +20231,18 @@
 	},
 	{
 		"assign": "towerquest_top_guide_friend",
-		"jp_text": "<color=#f0df60>フレンド通信：<%name1>さんが<%value1>Fをクリアしました。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</color>",
-		"tr_text": "<color=#f0df60>Friend Signal: <%name1> has cleared floor <%value1>F.　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</color>"
+		"jp_text": "<color=#f0df60>フレンド通信：<%name1>さんがエターナルタワー<%value1>Fをクリアしました。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "towerquest_top_guide_ranking",
-		"jp_text": "<color=#f0df60>エターナルタワーランキングの順位になります。</color>",
-		"tr_text": "<color=#f0df60>You will be ranked in the Eternal Tower rankings.</color>"
+		"jp_text": "<color=#f0df60>エターナルタワーランキングの順位です。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "towerquest_top_guide_ranking_result",
-		"jp_text": "<color=#f0df60>エターナルタワーランキングの順位になります。</color>",
-		"tr_text": "<color=#f0df60>You will be ranked in the Eternal Tower rankings.</color>"
+		"jp_text": "<color=#f0df60>エターナルタワーランキングの順位です。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "towerquest_top_scene_title",
@@ -19946,13 +20336,13 @@
 	},
 	{
 		"assign": "towerquest_top_ranking_title",
-		"jp_text": "ランキング TOP50　　※30分ごとに更新",
-		"tr_text": "Ranking Top 50   (Updates every 30 minutes)"
+		"jp_text": "エターナルタワー ランキング TOP50　　※30分ごとに更新",
+		"tr_text": ""
 	},
 	{
 		"assign": "towerquest_top_ranking_title_fixed",
-		"jp_text": "ランキング TOP50",
-		"tr_text": "Ranking Top 50"
+		"jp_text": "エターナルタワー ランキング TOP50",
+		"tr_text": ""
 	},
 	{
 		"assign": "towerquest_top_ranking_reward_info",
@@ -19986,7 +20376,7 @@
 	},
 	{
 		"assign": "towerquest_ranking_undercount_title",
-		"jp_text": "エターナルタワーランキングの集計中",
+		"jp_text": "タワーランキングの集計中",
 		"tr_text": ""
 	},
 	{
@@ -20012,7 +20402,7 @@
 	{
 		"assign": "towerquest_top_target_time_prefix",
 		"jp_text": "あと",
-		"tr_text": "Remaining"
+		"tr_text": ""
 	},
 	{
 		"assign": "towerquest_time_format",
@@ -20106,8 +20496,8 @@
 	},
 	{
 		"assign": "towerquest_ranking_reward_fixed_rank",
-		"jp_text": "<size=35><%title></size> <size=50><%rank></size>位",
-		"tr_text": "<size=35><%title></size> Rank <size=50><%rank></size>"
+		"jp_text": "<size=35><%title></size> <size=50><color=aqua><%rank></color></size><color=aqua>位</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "towerquest_ranking_reward_rank_unit",
@@ -20121,7 +20511,7 @@
 	},
 	{
 		"assign": "towerquest_ranking_reward_send_to_mail",
-		"jp_text": "エターナルタワーのランキング報酬を送りました。\n受け取りボックスをご確認ください。",
+		"jp_text": "タワークエストのランキング報酬を送りました。\n受け取りボックスをご確認ください。",
 		"tr_text": ""
 	},
 	{
@@ -20156,13 +20546,13 @@
 	},
 	{
 		"assign": "towerquest_dialog_event_out_of_period_message",
-		"jp_text": "エターナルタワー開催期間外です。\nロビートップへ戻ります。",
-		"tr_text": "The Eternal Tower has expired.\nReturning to Lobby."
+		"jp_text": "タワークエスト開催期間外です。\nロビートップへ戻ります。",
+		"tr_text": ""
 	},
 	{
 		"assign": "Eternalquest_dialog_t_01",
-		"jp_text": "エターナルクエストリタイア",
-		"tr_text": "Eternal Quest Retired"
+		"jp_text": "タワークエストリタイア",
+		"tr_text": ""
 	},
 	{
 		"assign": "Eternalquest_dialog_b_01",
@@ -20676,8 +21066,8 @@
 	},
 	{
 		"assign": "dailyorder_goto_lobby",
-		"jp_text": "ロビーへ",
-		"tr_text": "Go to Lobby"
+		"jp_text": "ロビーへ戻る",
+		"tr_text": "Return to Lobby"
 	},
 	{
 		"assign": "dailyorder_guide_00",
@@ -21070,9 +21460,19 @@
 		"tr_text": "Not Joined"
 	},
 	{
+		"assign": "raid_dps_ranking_reward_title",
+		"jp_text": "ランキング報酬",
+		"tr_text": "Ranking Reward"
+	},
+	{
+		"assign": "raid_dps_ranking_reward_message",
+		"jp_text": "ランキング報酬を送りました。\n受け取りボックスをご確認ください。",
+		"tr_text": "A ranking reward has been delivered.\nPlease check your Reception Box."
+	},
+	{
 		"assign": "raid_dps_title_ranking_top",
-		"jp_text": "ランキングTOP100",
-		"tr_text": "Top 100"
+		"jp_text": "ランキング",
+		"tr_text": "Ranking"
 	},
 	{
 		"assign": "raid_dps_title_update_time",
@@ -21128,5 +21528,395 @@
 		"assign": "dialog_overflow_dualblade_to_acceptbox_title_message",
 		"jp_text": "アイテムパックの所持数をオーバーするため\nアイテムを受け取りボックスに送りました。",
 		"tr_text": "Items in excess of the maximum number\nyou are able to hold have been sent to\nyour Reception Box."
+	},
+	{
+		"assign": "window_help_LM35",
+		"jp_text": "wh_49_01,\nタワークエストに「ナイトメアタワー」が出現しています。\nナイトメアタワーは、上級者向けの高難度タワーです。\nエターナルタワー上層階よりも強力なエネミーが待ち受けています。,\nwh_49_02,\nナイトメアタワーへは、画面右下のボタンをタッチすると移動できます。\nナイトメアタワーでしか入手できない報酬もありますので\n腕に自信がある方は、ナイトメアタワーに挑戦してみてください！,",
+		"tr_text": ""
+	},
+	{
+		"assign": "window_help_LM36",
+		"jp_text": "wh_50_01,\nナイトメアタワーは、上級者向けの期間限定クエストです。\nオペレーションポイント（OP）を消費して挑戦することができます。\nエターナルタワーと同じく、１階から最上階を目指します。,\nwh_50_02,\n各フロアにあるパネルの種類は\nテレポーター、エネミー、フレンドボーナスのみです。\nエターナルタワーよりも、純粋な実力だけの勝負となるでしょう。,\nwh_50_03,\nナイトメアタワーにも、クリアタイムの合計時間を競うランキングがあります。\nエターナルタワーとナイトメアタワー、それぞれ別のランキングとなります。\n各フロアをより速く攻略し、ランキング上位を目指しましょう！,",
+		"tr_text": ""
+	},
+	{
+		"assign": "window_help_LM37",
+		"jp_text": "wh_51_01,\nナイトメアタワー30Ｆ踏破！　おめでとうございます!!\n1F～30Fまでクリアした合計時間によって\nシルバークリア報酬とゴールドクリア報酬がもらえます。,\nwh_51_01,\nさらに、全てのブロックをゴールドタイムでクリアすると\n「オールゴールドクリア報酬」が獲得できます。\n 全てのブロックのゴールドタイムクリアに挑戦しましょう！,",
+		"tr_text": ""
+	},
+	{
+		"assign": "ura_towerquest_top_guide_00",
+		"jp_text": "<color=#f0df60>ナイトメアタワー踏破を目指す期間限定イベントです。塔の攻略を目指してください。クリアタイムによって、得られる報酬が異なります。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "ura_towerquest_top_guide_01",
+		"jp_text": "<color=#f0df60>プレイするブロックを選択してください。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "ura_towerquest_top_guide_friend",
+		"jp_text": "<color=#f0df60>フレンド通信：<%name1>さんがナイトメアタワー<%value1>Fをクリアしました。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "ura_towerquest_top_guide_ranking",
+		"jp_text": "<color=#f0df60>ナイトメアタワーランキングの順位です。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "ura_towerquest_top_guide_ranking_result",
+		"jp_text": "<color=#f0df60>ナイトメアタワーランキングの順位です。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "ura_blockresult_all_eternal_tower_clear",
+		"jp_text": "ナイトメアタワー クリア！",
+		"tr_text": "Nightmare Tower Clear!"
+	},
+	{
+		"assign": "ura_blockresult_all_eternal_clear",
+		"jp_text": "ナイトメアタワー クリア！",
+		"tr_text": "Nightmare Tower Clear!"
+	},
+	{
+		"assign": "ura_towerquest_top_ranking_title",
+		"jp_text": "ナイトメアタワー ランキング TOP50　　※30分ごとに更新",
+		"tr_text": "ナイトメアタワー Ranking TOP 50 ※Updated every 30min"
+	},
+	{
+		"assign": "ura_towerquest_top_ranking_title_fixed",
+		"jp_text": "ナイトメアタワー ランキング TOP50",
+		"tr_text": "ナイトメアタワー Ranking TOP 50"
+	},
+	{
+		"assign": "towerquest_limit_affect_title",
+		"jp_text": "タワークエスト",
+		"tr_text": "Tower Quest"
+	},
+	{
+		"assign": "tower_name",
+		"jp_text": "エターナルタワー",
+		"tr_text": "Eternal Tower"
+	},
+	{
+		"assign": "ura_tower_name",
+		"jp_text": "ナイトメアタワー",
+		"tr_text": "Nightmare Tower"
+	},
+	{
+		"assign": "filter_chip_awake_can",
+		"jp_text": "特装可能",
+		"tr_text": ""
+	},
+	{
+		"assign": "filter_chip_awake_skill_can",
+		"jp_text": "プラグ強化可能",
+		"tr_text": ""
+	},
+	{
+		"assign": "filter_chip_awake_shortage",
+		"jp_text": "特装素材不足",
+		"tr_text": ""
+	},
+	{
+		"assign": "filter_chip_skill_awake_shortage",
+		"jp_text": "プラグ強化素材不足",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_window_chip_awake",
+		"jp_text": "特装・プラグ強化チップ選択",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_selectbutton_chiplv",
+		"jp_text": "最大チップLv：",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_selectbutton_skill",
+		"jp_text": "習得プラグ：",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_ui_awake",
+		"jp_text": "チップ特装",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_ui_awake_skill",
+		"jp_text": "プラグ強化",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_ui_head_selectchip",
+		"jp_text": "選択チップ・効果",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_ui_head_material",
+		"jp_text": "必要素材チップ",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_ui_material_now",
+		"jp_text": "{0}/{1}",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_ui_material_error",
+		"jp_text": "<color=red>{0}</color>/{1}",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_ui_skill_beforelv",
+		"jp_text": "Lv.",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_ui_skill_afterlv",
+		"jp_text": "<color=#e25f04>{0}</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_ui_awake_afterlv",
+		"jp_text": "<color=#e25f04>{0}</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_grind_dialog_t_shortage_meseta",
+		"jp_text": "チップ強化",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_grind_dialog_b_shortage_meseta",
+		"jp_text": "このチップは、チップ強化が不可能です。",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_material_display_not_select",
+		"jp_text": "下のリストでボタンを選択すると\n必要な素材チップが表示されます。",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_material_display_all_lvmax",
+		"jp_text": "プラグレベルはすでに最大まで強化されています。",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_t_shortage_meseta",
+		"jp_text": "チップ特装",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_shortage_meseta",
+		"jp_text": "メセタが不足しているため\nチップ特装ができません。",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_t_shortage_meseta",
+		"jp_text": "プラグ強化",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_b_shortage_meseta",
+		"jp_text": "メセタが不足しているため\n特装プラグを強化をすることができません。",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_t_shortage_chiplv",
+		"jp_text": "チップ特装",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_shortage_chiplv",
+		"jp_text": "選択されたチップは最大レベルに達していないため\nチップ特装をすることができません。",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_t_shortage_chiplv",
+		"jp_text": "未使用",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_b_shortage_chiplv",
+		"jp_text": "未使用",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_t_shortage_materialchip",
+		"jp_text": "チップ特装",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_shortage_materialchip",
+		"jp_text": "チップ特装に必要な素材チップが足りません。",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_t_shortage_materialchip",
+		"jp_text": "プラグ強化",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_b_shortage_materialchip",
+		"jp_text": "プラグ強化に必要な素材チップが足りません。",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_t_decide",
+		"jp_text": "チップ特装確認",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_decide",
+		"jp_text": "<color=yellow>使用する素材チップに★７以上のものが含まれています。</color>\n次の素材チップとメセタを消費して、チップ特装を実行します。\nよろしいですか？",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_decide_t_material",
+		"jp_text": "消費素材チップ",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_decide_t_details",
+		"jp_text": "特装効果",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_decide_b_chiplv",
+		"jp_text": "最大チップLv.",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_decide_b_skilllv",
+		"jp_text": "Lv.",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_decide_button_yes",
+		"jp_text": "はい",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_decide_button_no",
+		"jp_text": "いいえ",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_decide_b_afterchiplv",
+		"jp_text": "<color=#e25f04>{0}</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_t_decide",
+		"jp_text": "プラグ強化確認",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_b_decide",
+		"jp_text": "<color=yellow>使用する素材チップに★７以上のものが含まれています。</color>\n次の素材チップとメセタを消費して、プラグ強化を実行します。\nよろしいですか？",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_b_decide_t_material",
+		"jp_text": "消費素材チップ",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_b_decide_t_details",
+		"jp_text": "特装効果",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_b_decide_b_skilllv",
+		"jp_text": "Lv.",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_b_decide_b_skilllvmax",
+		"jp_text": "　",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_b_decide_b_skillname",
+		"jp_text": "<color=#e25f04>{0}</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_t_done",
+		"jp_text": "チップ特装完了",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_done",
+		"jp_text": "未使用",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_done_chiplv",
+		"jp_text": "最大チップLv.",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_done_skilllv",
+		"jp_text": "Lv.",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_button_close",
+		"jp_text": "閉じる",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_t_done",
+		"jp_text": "プラグ強化完了",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_b_done",
+		"jp_text": "未使用",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_b_done_skilllv",
+		"jp_text": "Lv.",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_b_done_skilllvmax",
+		"jp_text": "　",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_button_close",
+		"jp_text": "閉じる",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_details_chip_awake_head",
+		"jp_text": "特装プラグ",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_details_chip_awake_skilllv",
+		"jp_text": "Lv.",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_details_chip_awake_lv0",
+		"jp_text": "未習得",
+		"tr_text": ""
+	},
+	{
+		"assign": "window_help_LM39",
+		"jp_text": "wh_53_01,\nチップ特装は、解放済みチップの最大チップLvを引き上げ\nさらに新たなアビリティとなる「プラグ」を追加することができます。,\nwh_53_01,\n<color=yellow>チップLvをMAX</color>にし、<color=yellow>特装素材チップ</color>と<color=yellow>メセタ</color>を消費することで実行できます。\n素材チップは、様々なクエストで入手できます。,\nwh_53_01,\nチップ特装に必要な素材チップや、習得できるプラグは\n「チップ特装」や「チップ詳細」の画面で確認できます。,\nwh_53_02,\n特装が可能なチップには、アイコンが表示されています。\nチップの強化や解放を行う際に、確認してみてください。\n必要な素材チップを集めて、お気に入りのチップをより強くしましょう！,",
+		"tr_text": ""
+	},
+	{
+		"assign": "window_help_LM40",
+		"jp_text": "wh_54_01,\n「プラグ」には、レベルを上げることで効果がアップするものがあります。\nレベルを上げるためには、専用の素材チップが必要です。\n素材チップは、様々なクエストで入手できます。,",
+		"tr_text": ""
 	}
 ]

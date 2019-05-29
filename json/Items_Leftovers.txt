@@ -294,6 +294,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "コンバットフィニッシュ",
+		"tr_text": "Combat Finish",
+		"jp_explain": "",
+		"tr_explain": "Grants a damage bonus to Katana\nCombat Finish.",
+		"assign": 0
+	},
+	{
 		"jp_text": "サイクロナーダの槌片",
 		"tr_text": "Cyclonehda Hammer Piece",
 		"jp_explain": "",
@@ -329,6 +336,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "シャープシューター",
+		"tr_text": "Sharp Shooter",
+		"jp_explain": "",
+		"tr_explain": "Increases damage when hitting from\nlong-range.",
+		"assign": 0
+	},
+	{
 		"jp_text": "ショウタイム",
 		"tr_text": "Showtime",
 		"jp_explain": "",
@@ -347,6 +361,13 @@
 		"tr_text": "Jet Boots Gear",
 		"jp_explain": "",
 		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ジェルンショット",
+		"tr_text": "Jellen Shot",
+		"jp_explain": "",
+		"tr_explain": "Loads Jellen ammo that\nlowers enemy attack power.",
 		"assign": 0
 	},
 	{
@@ -378,10 +399,17 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "スナッチステップ",
+		"tr_text": "Snatch Step",
+		"jp_explain": "",
+		"tr_explain": "Inflict damage during Step.\nNo effect on Mirage Step.",
+		"assign": 0
+	},
+	{
 		"jp_text": "スナッチＪＡコンボ",
 		"tr_text": "Snatch JA Combo",
 		"jp_explain": "",
-		"tr_explain": "",
+		"tr_explain": "Adds a Just Attack timing window\nto Snatch Step.",
 		"assign": 0
 	},
 	{
@@ -457,6 +485,13 @@
 	{
 		"jp_text": "ダブルセイバーギア",
 		"tr_text": "Double Saber Gear",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "チェイスアドバンスプラス",
+		"tr_text": "Chase Advance Plus",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -651,17 +686,24 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "フォトンBフィーバーアップ",
-		"tr_text": "Photon Blade Fever Up",
+		"jp_text": "フォトンブレードエスケープ",
+		"tr_text": "Photon Blade Escape",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "フォトンブレードエスケープ",
-		"tr_text": "Photon Blade Escape",
+		"jp_text": "フォトンブレードフィーバー",
+		"tr_text": "Photon Blade Fever",
 		"jp_explain": "",
-		"tr_explain": "",
+		"tr_explain": "For a limited time, double the\nnumber of fired Photon Blades.",
+		"assign": 0
+	},
+	{
+		"jp_text": "フォトンＢフィーバーアップ",
+		"tr_text": "Photon Blade Fever Up",
+		"jp_explain": "",
+		"tr_explain": "During Photon Blade Fever, increase\nPhoton Blade power.",
 		"assign": 0
 	},
 	{
@@ -714,6 +756,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "プ㾛プレミアムセット３０日",
+		"tr_text": "Premium 30 day",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "ペーパーキューブ",
 		"tr_text": "Paper Cube",
 		"jp_explain": "",
@@ -725,6 +774,13 @@
 		"tr_text": "Wind-up Moogle",
 		"jp_explain": "",
 		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ムービングスナイプ",
+		"tr_text": "Moving Snipe",
+		"jp_explain": "",
+		"tr_explain": "Increases damage for shooting\nwhile moving.",
 		"assign": 0
 	},
 	{
@@ -746,6 +802,13 @@
 		"tr_text": "Rapid Shoot",
 		"jp_explain": "",
 		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ラピッドシュートアドバンス",
+		"tr_text": "Rapid Shot Advance",
+		"jp_explain": "",
+		"tr_explain": "Reduces the cooldown of Rapid Shot,\nand increases the PP recovery from\nnormal attacks while it is active.",
 		"assign": 0
 	},
 	{
@@ -1092,48 +1155,6 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "女性追加ボイス１８９",
-		"tr_text": "Female Extra Voice 189",
-		"jp_explain": "",
-		"tr_explain": "By using this ticket, the voice\n\"Female Extra Voice 189\"\ncan be used in the Beauty Salon.",
-		"assign": 0
-	},
-	{
-		"jp_text": "女性追加ボイス１９０",
-		"tr_text": "Female Extra Voice 190",
-		"jp_explain": "",
-		"tr_explain": "By using this ticket, the voice\n\"Female Extra Voice 190\"\ncan be used in the Beauty Salon.",
-		"assign": 0
-	},
-	{
-		"jp_text": "女性追加ボイス１９１",
-		"tr_text": "Female Extra Voice 191",
-		"jp_explain": "",
-		"tr_explain": "By using this ticket, the voice\n\"Female Extra Voice 191\"\ncan be used in the Beauty Salon.",
-		"assign": 0
-	},
-	{
-		"jp_text": "女性追加ボイス１９２",
-		"tr_text": "Female Extra Voice 192",
-		"jp_explain": "",
-		"tr_explain": "By using this ticket, the voice\n\"Female Extra Voice 192\"\ncan be used in the Beauty Salon.",
-		"assign": 0
-	},
-	{
-		"jp_text": "女性追加ボイス１９３",
-		"tr_text": "Female Extra Voice 193",
-		"jp_explain": "",
-		"tr_explain": "By using this ticket, the voice\n\"Female Extra Voice 193\"\ncan be used in the Beauty Salon.",
-		"assign": 0
-	},
-	{
-		"jp_text": "女性追加ボイス１９４",
-		"tr_text": "Female Extra Voice 194",
-		"jp_explain": "",
-		"tr_explain": "By using this ticket, the voice\n\"Female Extra Voice 194\"\ncan be used in the Beauty Salon.",
-		"assign": 0
-	},
-	{
 		"jp_text": "女性追加ボイス１９５",
 		"tr_text": "Female Extra Voice 195",
 		"jp_explain": "",
@@ -1285,48 +1306,6 @@
 		"tr_text": "Female C Unique Voice 14",
 		"jp_explain": "",
 		"tr_explain": "By using this ticket, the voice\n\"Female C Unique Voice 14\"\ncan be used in the Beauty Salon.",
-		"assign": 0
-	},
-	{
-		"jp_text": "女性Ｃ追加ボイス１８９",
-		"tr_text": "Female C Extra Voice 189",
-		"jp_explain": "",
-		"tr_explain": "By using this ticket, the voice\n\"Female C Extra Voice 189\"\ncan be used in the Beauty Salon.",
-		"assign": 0
-	},
-	{
-		"jp_text": "女性Ｃ追加ボイス１９０",
-		"tr_text": "Female C Extra Voice 190",
-		"jp_explain": "",
-		"tr_explain": "By using this ticket, the voice\n\"Female C Extra Voice 190\"\ncan be used in the Beauty Salon.",
-		"assign": 0
-	},
-	{
-		"jp_text": "女性Ｃ追加ボイス１９１",
-		"tr_text": "Female C Extra Voice 191",
-		"jp_explain": "",
-		"tr_explain": "By using this ticket, the voice\n\"Female C Extra Voice 191\"\ncan be used in the Beauty Salon.",
-		"assign": 0
-	},
-	{
-		"jp_text": "女性Ｃ追加ボイス１９２",
-		"tr_text": "Female C Extra Voice 192",
-		"jp_explain": "",
-		"tr_explain": "By using this ticket, the voice\n\"Female C Extra Voice 192\"\ncan be used in the Beauty Salon.",
-		"assign": 0
-	},
-	{
-		"jp_text": "女性Ｃ追加ボイス１９３",
-		"tr_text": "Female C Extra Voice 193",
-		"jp_explain": "",
-		"tr_explain": "By using this ticket, the voice\n\"Female C Extra Voice 193\"\ncan be used in the Beauty Salon.",
-		"assign": 0
-	},
-	{
-		"jp_text": "女性Ｃ追加ボイス１９４",
-		"tr_text": "Female C Extra Voice 194",
-		"jp_explain": "",
-		"tr_explain": "By using this ticket, the voice\n\"Female C Extra Voice 194\"\ncan be used in the Beauty Salon.",
 		"assign": 0
 	},
 	{
@@ -1649,41 +1628,6 @@
 		"tr_text": "Male Unique Voice 14",
 		"jp_explain": "",
 		"tr_explain": "By using this ticket, the voice\n\"Male Unique Voice 14\"\ncan be used in the Beauty Salon.",
-		"assign": 0
-	},
-	{
-		"jp_text": "男性追加ボイス１５６",
-		"tr_text": "Male Extra Voice 156",
-		"jp_explain": "",
-		"tr_explain": "By using this ticket, the voice\n\"Male Extra Voice 156\"\ncan be used in the Beauty Salon.",
-		"assign": 0
-	},
-	{
-		"jp_text": "男性追加ボイス１５７",
-		"tr_text": "Male Extra Voice 157",
-		"jp_explain": "",
-		"tr_explain": "By using this ticket, the voice\n\"Male Extra Voice 157\"\ncan be used in the Beauty Salon.",
-		"assign": 0
-	},
-	{
-		"jp_text": "男性追加ボイス１５８",
-		"tr_text": "Male Extra Voice 158",
-		"jp_explain": "",
-		"tr_explain": "By using this ticket, the voice\n\"Male Extra Voice 158\"\ncan be used in the Beauty Salon.",
-		"assign": 0
-	},
-	{
-		"jp_text": "男性追加ボイス１５９",
-		"tr_text": "Male Extra Voice 159",
-		"jp_explain": "",
-		"tr_explain": "By using this ticket, the voice\n\"Male Extra Voice 159\"\ncan be used in the Beauty Salon.",
-		"assign": 0
-	},
-	{
-		"jp_text": "男性追加ボイス１６０",
-		"tr_text": "Male Extra Voice 160",
-		"jp_explain": "",
-		"tr_explain": "By using this ticket, the voice\n\"Male Extra Voice 160\"\ncan be used in the Beauty Salon.",
 		"assign": 0
 	},
 	{
@@ -2058,41 +2002,6 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "男性Ｃ追加ボイス１５６",
-		"tr_text": "Male C Extra Voice 156",
-		"jp_explain": "",
-		"tr_explain": "By using this ticket, the voice\n\"Male C Extra Voice 156\"\ncan be used in the Beauty Salon.",
-		"assign": 0
-	},
-	{
-		"jp_text": "男性Ｃ追加ボイス１５７",
-		"tr_text": "Male C Extra Voice 157",
-		"jp_explain": "",
-		"tr_explain": "By using this ticket, the voice\n\"Male C Extra Voice 157\"\ncan be used in the Beauty Salon.",
-		"assign": 0
-	},
-	{
-		"jp_text": "男性Ｃ追加ボイス１５８",
-		"tr_text": "Male C Extra Voice 158",
-		"jp_explain": "",
-		"tr_explain": "By using this ticket, the voice\n\"Male C Extra Voice 158\"\ncan be used in the Beauty Salon.",
-		"assign": 0
-	},
-	{
-		"jp_text": "男性Ｃ追加ボイス１５９",
-		"tr_text": "Male C Extra Voice 159",
-		"jp_explain": "",
-		"tr_explain": "By using this ticket, the voice\n\"Male C Extra Voice 159\"\ncan be used in the Beauty Salon.",
-		"assign": 0
-	},
-	{
-		"jp_text": "男性Ｃ追加ボイス１６０",
-		"tr_text": "Male C Extra Voice 160",
-		"jp_explain": "",
-		"tr_explain": "By using this ticket, the voice\n\"Male C Extra Voice 160\"\ncan be used in the Beauty Salon.",
-		"assign": 0
-	},
-	{
 		"jp_text": "男性Ｃ追加ボイス１６１",
 		"tr_text": "Male C Extra Voice 161",
 		"jp_explain": "",
@@ -2373,10 +2282,24 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "魂を捧げしもの",
+		"tr_text": "Sacrificer of Souls",
+		"jp_explain": "",
+		"tr_explain": "Grind Soul Eater to +10",
+		"assign": 0
+	},
+	{
 		"jp_text": "＊オバケ・ハット",
 		"tr_text": "＊Obake Hat",
 		"jp_explain": "",
 		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "５００万ＩＤ記念ステッカー",
+		"tr_text": "5 Million ID Memorial Sticker",
+		"jp_explain": "",
+		"tr_explain": "Unlocks the sticker\n\"5 Million ID Memorial\"\nfor use in the Beauty Salon.",
 		"assign": 0
 	},
 	{

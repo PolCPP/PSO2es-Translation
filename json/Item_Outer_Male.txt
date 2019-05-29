@@ -196,6 +196,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "23066",
+		"jp_text": "ノーグライアー紅[Ou]",
+		"tr_text": "Nogue Lyra Crimson [Ou]",
+		"jp_explain": "アークス用に開発された戦闘服。\n丈夫な素材をコート形に設計し\n耐久性、機動性を両立している。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "23068",
 		"jp_text": "旅館「仁羽屋」羽織Ｍ[Ou]",
 		"tr_text": "Ryokan Niwaya Haori M [Ou]",
@@ -427,6 +434,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "230141",
+		"jp_text": "ヴァルザライズ玄[Ou]",
+		"tr_text": "",
+		"jp_explain": "数多の戦闘データを元に開発された\n戦闘服。身に着けると装者の思考を\n普段以上に好戦的なものにする。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "230143",
 		"jp_text": "リングチャンプＭ[Ou]",
 		"tr_text": "Ring Champ M [Ou]",
@@ -478,7 +492,7 @@
 	{
 		"assign": "230157",
 		"jp_text": "ハードエモーション影[Ou]",
-		"tr_text": "",
+		"tr_text": "Hard Emotion Shadow [Ou]",
 		"jp_explain": "サモナーのフォトン傾向に合わせた\n新機軸の戦闘服。新たな試みとして\n製造に音響機器の技術が用いられている。",
 		"tr_explain": ""
 	},
@@ -647,6 +661,13 @@
 		"assign": "230197",
 		"jp_text": "クラノスアレース雪[Ou]",
 		"tr_text": "Kranos Ares Snow [Ou]",
+		"jp_explain": "あらゆるクラスの基礎を体得した\nアークス向けに開発された戦闘服。\n堅牢でありながら左程重量はない。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "230198",
+		"jp_text": "クラノスアレース影[Ou]",
+		"tr_text": "Kranos Ares Shadow [Ou]",
 		"jp_explain": "あらゆるクラスの基礎を体得した\nアークス向けに開発された戦闘服。\n堅牢でありながら左程重量はない。",
 		"tr_explain": ""
 	},
@@ -973,6 +994,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "230294",
+		"jp_text": "タイラー・レプカＭ陽[Ou]",
+		"tr_text": "Tylor Repca M Sun [Ou]",
+		"jp_explain": "とある惑星のならず者集団をまとめる\n情に篤い頭領の私服を模した戦闘服。\n誰一人として欠かせない……仲間だ。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "230297",
 		"jp_text": "リーハジャウワール[Ou]",
 		"tr_text": "Riha Jawwal [Ou]",
@@ -1099,6 +1127,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "230353",
+		"jp_text": "ビターシムーン雪[Ou]",
+		"tr_text": "",
+		"jp_explain": "暗黒の教義に一切を捧げた死の遂行者が\n着用する服装。闇夜に潜む一陣の風が\n如く、標的の命を摘み取る。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "230358",
 		"jp_text": "ノクスカディナ[Ou]",
 		"tr_text": "Nox Cadina [Ou]",
@@ -1137,6 +1172,13 @@
 		"assign": "230383",
 		"jp_text": "東衣真君[Ou]",
 		"tr_text": "Eastern Astral [Ou]",
+		"jp_explain": "とある東の国で語られた伝承を基に\nデザインされた衣装。その放たれる\n威厳は、熟練者を思わせる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "230384",
+		"jp_text": "東衣真君　紅[Ou]",
+		"tr_text": "Eastern Astral Crimson [Ou]",
 		"jp_explain": "とある東の国で語られた伝承を基に\nデザインされた衣装。その放たれる\n威厳は、熟練者を思わせる。",
 		"tr_explain": ""
 	},
@@ -1187,6 +1229,13 @@
 		"jp_text": "トレンチコートＭ影[Ou]",
 		"tr_text": "Trench Coat M Shadow [Ou]",
 		"jp_explain": "襟元にピンが付いたシンプルな\nトレンチコート。定番スタイルの中にも\n変化が光るオシャレなデザインで人気。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "230413",
+		"jp_text": "シャルフヴィント[Ou]",
+		"tr_text": "Scharf Wind [Ou]",
+		"jp_explain": "極限まで静音性を高めた戦闘服。\n身体の動きを阻害することなく\n狙った獲物を確実に仕留められる。",
 		"tr_explain": ""
 	},
 	{
@@ -1276,8 +1325,43 @@
 	{
 		"assign": "230447",
 		"jp_text": "コープスパーカーＭ雅[Ou]",
-		"tr_text": "",
+		"tr_text": "Corpse Parka M Elegant [Ou]",
 		"jp_explain": "ラフな装いを保ちつつ、身体の動きを\n邪魔しないダンサー愛用のパーカー。\nガイコツプリントで注目の的に。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "230454",
+		"jp_text": "カズマ・レプカ[Ou]",
+		"tr_text": "Kazuma Repca [Ou]",
+		"jp_explain": "平凡な冒険者として異世界に転生した\nカズマの冒険服を模した衣装。\n幸運のステータスが上昇するとか。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "230458",
+		"jp_text": "レゾンヒュブリス[Ou]",
+		"tr_text": "Raison Hubris [Ou]",
+		"jp_explain": "罪と罰の声が絶えず聞こえる深き闇と\n生きる者の血潮を表現した戦闘服。\n内なる凶悪な声に耳を傾けないように。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "230463",
+		"jp_text": "シーリスルインＭ[Ou]",
+		"tr_text": "",
+		"jp_explain": "成長したシャオが身に纏う服。\n彼自身が覚悟を決めて纏うことを決めた\n在りし日のシオンを意識した服装。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "230467",
+		"jp_text": "エルミル戦闘衣[Ou]",
+		"tr_text": "",
+		"jp_explain": "ダークファルス【仮面】と化した\nエルミルが纏う戦闘衣。\n全てを滅ぼそうとする怨嗟の衣。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "230471",
+		"jp_text": "藍微塵[Ou]",
+		"tr_text": "",
+		"jp_explain": "デザイナーShiNが作った衣装。\n甲冑を想起させる姿ながら\n近未来的な印象を与えてくれる。",
 		"tr_explain": ""
 	}
 ]

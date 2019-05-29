@@ -574,6 +574,13 @@
 		"tr_explain": "A sword made with state-of-the-art\nbioengineering. Enhanced with a\nhigh-purity culture solution."
 	},
 	{
+		"assign": "110119",
+		"jp_text": "ブラッドグリオン",
+		"tr_text": "Blood Glion",
+		"jp_explain": "最先端の生体工学を応用し開発された\n大剣。生細胞液の循環効果で熱放出し\n金属疲労による刃こぼれを防ぐ。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "110120",
 		"jp_text": "ジェラーテ",
 		"tr_text": "Gelate",
@@ -770,6 +777,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "110198",
+		"jp_text": "アウェイクエッジ",
+		"tr_text": "Awake Edge",
+		"jp_explain": "強化型のフォトンジェネレーターを\n搭載した大剣。放たれる強力な\nフォトンの波動を以て悪を討つ。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "110204",
 		"jp_text": "朔桜",
 		"tr_text": "Sakuou",
@@ -859,6 +873,13 @@
 		"tr_text": "Dainsleif Orbit",
 		"jp_explain": "新開発のフォトンリング機構を搭載した\n大剣。展開された部品が合体し\n闇を切り裂く閃光の刃へと姿を変える。",
 		"tr_explain": "A sword with a Photon Ring Device.\nIts expanded parts form a shining\nblade that slashes through darkness."
+	},
+	{
+		"assign": "110242",
+		"jp_text": "ディンスルフミラージュ",
+		"tr_text": "Dainsleif Mirage",
+		"jp_explain": "新開発のフォトンリング機構を搭載した\n大剣。部品が共鳴し発生するリングが\n装者の危機察知能力を補助する。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "110244",
@@ -963,7 +984,7 @@
 		"jp_text": "ユニオンソード",
 		"tr_text": "Union Sword",
 		"jp_explain": "次世代の主力として開発された大剣。\n専用ブーストパーツが装着されたことで\n限界を超えた性能を発揮する。",
-		"tr_explain": "A Sword developed as the latest\nmodel. Augmented with boost parts,\nits performance exceed its limits."
+		"tr_explain": "A Sword developed as the latest\nmodel. Augmented with boost parts,\nits performance exceeds its limits."
 	},
 	{
 		"assign": "110281",
@@ -1414,6 +1435,20 @@
 		"tr_explain": "A sword harboring the power of a\nPhoton Blast. It slices through the\nenemy with piercing strength."
 	},
 	{
+		"assign": "110421",
+		"jp_text": "オブリサナヴフト",
+		"tr_text": "Oblisana Wuft",
+		"jp_explain": "高圧化フォトン気流の噴出力を利用し\n瞬時に変形する大剣。重さをまるで\n感じさせない次世代の超軽量化を実現。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "110428",
+		"jp_text": "ディムソード",
+		"tr_text": "Dim Sword",
+		"jp_explain": "次世代の主力として開発された大剣。\n偶発的に禍々しい力を備え、設計以上の\n力を持つが、使用者への影響は未知数。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "110429",
 		"jp_text": "スペース・ツナ-NT",
 		"tr_text": "Space Tuna-NT",
@@ -1425,6 +1460,13 @@
 		"jp_text": "ローズセイバー-NT",
 		"tr_text": "Rose Saber-NT",
 		"jp_explain": "家事をするメイドが好んで使う大剣。\n控え目で落ち着いたデザインながら\n主人を敬う情熱を赤いバラで表現した。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "110441",
+		"jp_text": "エリュシオーヌ-NT",
+		"tr_text": "Ely-Sion-NT",
+		"jp_explain": "有史上において数多の伝説を持つ大剣。\n惑星さえも切り裂くほどの威力が\n秘められているという。",
 		"tr_explain": ""
 	}
 ]

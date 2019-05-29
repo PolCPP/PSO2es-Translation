@@ -469,6 +469,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "101",
+		"jp_text": "エフォートシンボルPh",
+		"tr_text": "",
+		"jp_explain": "エフォートシンボルファントム\n努力の末に得た不死の亡霊の証",
+		"tr_explain": ""
+	},
+	{
 		"assign": "88",
 		"jp_text": "フレンズプロテクション",
 		"tr_text": "Friends' Protection",
@@ -570,7 +577,7 @@
 		"assign": "84",
 		"jp_text": "カタナＣカウントアップ",
 		"tr_text": "Katana C Count Up",
-		"jp_explain": "カタナコンバットカウントアップ\r\nカタナコンバットのヒットカウント数が増加する。",
+		"jp_explain": "カタナコンバットカウントアップ\nカタナコンバットのヒットカウント数が増加する。",
 		"tr_explain": "Katana Combat Count Up\nIncreases Katana Combat's hit count."
 	},
 	{
@@ -662,6 +669,20 @@
 		"jp_text": "キックエンスナッチ",
 		"tr_text": "",
 		"jp_explain": "キックエンスナッチ\n「ＤＢスナッチ」「ＪＢテックアーツＳＣ」\nリングスキルＬｖ．２０の効果を得る。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "100",
+		"jp_text": "ＡウォンドＥチェンジ",
+		"tr_text": "",
+		"jp_explain": "アナザーウォンドエレメントチェンジ\nウォンドギアが溜まっている時、ウォンドの属性が\nチャージしたテクニックの属性（補助除く）に変化。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "102",
+		"jp_text": "Ａワイヤーモード",
+		"tr_text": "",
+		"jp_explain": "アナザーワイヤーモード\nワイヤードランスのホールドＰＡにおいて\nエネミーを捕獲・捕縛せず攻撃するようになる。",
 		"tr_explain": ""
 	}
 ]
