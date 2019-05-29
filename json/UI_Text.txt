@@ -950,6 +950,51 @@
 		"tr_text": "Now exchanging Weaponoid Points for\n{0}.\nDo you wish to continue?\n\nOwned Weaponoid Points ⇒ {1:N0}\nRequired Weaponoid Points ⇒ {2:N0}\nRemaining Weaponoid Points ⇒ {3:N0}"
 	},
 	{
+		"assign": "rshop_dialog_t_10",
+		"jp_text": "交換ショップ",
+		"tr_text": "Exchange Shop"
+	},
+	{
+		"assign": "rshop_dialog_b_10_1",
+		"jp_text": "ボーナスポイントが足りません。\n\n所持ボーナスポイント　⇒　{0:N0}pt\n必要ボーナスポイント　⇒　{1:N0}pt\n不足ボーナスポイント　⇒　<color=#ff0000>{2:N0}pt</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "rshop_dialog_b_10",
+		"jp_text": "「{0}」\nと、ボーナスポイントを交換します。よろしいですか？\n\n所持ボーナスポイント　⇒　{1:N0}pt\n必要ボーナスポイント　⇒　{2:N0}pt\n残りボーナスポイント　⇒　{3:N0}pt",
+		"tr_text": ""
+	},
+	{
+		"assign": "rshop_dialog_t_11",
+		"jp_text": "交換ショップ",
+		"tr_text": "Exchange Shop"
+	},
+	{
+		"assign": "rshop_dialog_b_11_1",
+		"jp_text": "超級トリガーが足りません。\n\n所持超級トリガー　⇒　{0:N0}個\n必要超級トリガー　⇒　{1:N0}個\n不足超級トリガー　⇒　<color=#ff0000>{2:N0}個</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "rshop_dialog_b_11",
+		"jp_text": "「{0}」\nと、超級トリガーを交換します。よろしいですか？\n\n所持超級トリガー　⇒　{1:N0}個\n必要超級トリガー　⇒　{2:N0}個\n残り超級トリガー　⇒　{3:N0}個",
+		"tr_text": ""
+	},
+	{
+		"assign": "rshop_dialog_t_12",
+		"jp_text": "交換ショップ",
+		"tr_text": "Exchange Shop"
+	},
+	{
+		"assign": "rshop_dialog_b_12_1",
+		"jp_text": "覇級トリガーが足りません。\n\n所持覇級トリガー　⇒　{0:N0}個\n必要覇級トリガー　⇒　{1:N0}個\n不足覇級トリガー　⇒　<color=#ff0000>{2:N0}個</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "rshop_dialog_b_12",
+		"jp_text": "「{0}」\nと、覇級トリガーを交換します。よろしいですか？\n\n所持覇級トリガー　⇒　{1:N0}個\n必要覇級トリガー　⇒　{2:N0}個\n残り覇級トリガー　⇒　{3:N0}個",
+		"tr_text": ""
+	},
+	{
 		"assign": "arcscard_guide_00",
 		"jp_text": "<color=#f0df60>編集したいメッセージをタッチしてください。</color>",
 		"tr_text": "<color=#f0df60>Please touch the area you would like to edit.</color>"
@@ -2020,6 +2065,11 @@
 		"tr_text": "Grind items"
 	},
 	{
+		"assign": "labo_menu_04",
+		"jp_text": "チップ特装・プラグ強化",
+		"tr_text": ""
+	},
+	{
 		"assign": "labo_menu_dialog_t_00",
 		"jp_text": "機能未解放",
 		"tr_text": "Feature Unreleased"
@@ -2106,8 +2156,8 @@
 	},
 	{
 		"assign": "labo_guide_04",
-		"jp_text": "<color=#f0df60>解放に必要な素材チップを表示しています。表示しているチップが全てそろい、解放したいチップのレベルが上限に達すると、解放が可能になります。素材チップはチップ倉庫からも使うことができます。</color>",
-		"tr_text": "<color=#f0df60>Material chips required to release this chip are displayed. When you have all of the displayed chips, and the chip has been grinded to its maximum level, you can release it. Material chips can be used even if they are in storage.</color>"
+		"jp_text": "<color=#f0df60>解放に必要な素材チップを表示しています。表示しているチップが全てそろい、解放したいチップのレベルが上限に達すると、解放が可能になります。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_t_04",
@@ -2188,6 +2238,11 @@
 		"assign": "labo_dialog_b_26",
 		"jp_text": "解放に必要な素材チップが足りません。",
 		"tr_text": "Cannot release. Not enough material."
+	},
+	{
+		"assign": "labo_chip_awake_select",
+		"jp_text": "特装・プラグ強化チップ選択",
+		"tr_text": ""
 	},
 	{
 		"assign": "labo_guide_05",
@@ -2381,147 +2436,157 @@
 	},
 	{
 		"assign": "labo_guide_07",
-		"jp_text": "-",
+		"jp_text": "<color=#f0df60>属性強化ではアイテム「シンセサイザー」を使って、複数の同じ武器の属性値を加算できます。「対象」とする武器を選択してください。</color>",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_guide_08",
-		"jp_text": "-",
+		"jp_text": "<color=#f0df60>属性強化の最終確認画面です。補助アイテムを所持している場合は、選択することができます。決定を押すと強化を開始します。</color>",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_t_13",
-		"jp_text": "-",
+		"jp_text": "属性強化",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_13",
-		"jp_text": "-",
+		"jp_text": "属性値が最大の武器なため\nこれ以上、属性値を上げることはできません。\n\n※補助アイテムを使用することで\n　　属性変化を行うことは可能です。",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_t_14",
-		"jp_text": "-",
+		"jp_text": "属性強化",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_14",
-		"jp_text": "-",
+		"jp_text": "条件に合う武器を所持していません。\n「対象」として選んだ武器と\n同じ名前の武器が必要です。",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_t_15",
-		"jp_text": "-",
+		"jp_text": "属性強化",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_15",
-		"jp_text": "-",
+		"jp_text": "属性値を持たない武器は\n属性強化を行うことができません。",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_guide_13",
-		"jp_text": "-",
+		"jp_text": "<color=#f0df60>「素材」には、対象と同じ名前の武器が必要です。選んだ「素材」は、実行後に消滅します。決定を押すと最終確認画面に移行します。</color>",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_t_16",
-		"jp_text": "-",
+		"jp_text": "属性強化",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_16",
-		"jp_text": "-",
+		"jp_text": "メセタが不足しているため\n属性強化することができません。",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_t_17",
-		"jp_text": "-",
+		"jp_text": "属性強化",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_17",
-		"jp_text": "-",
+		"jp_text": "★７以上の素材が選択されています。\n属性を強化すると素材は消滅しますが\nよろしいですか？",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_t_18",
-		"jp_text": "-",
+		"jp_text": "属性強化",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_18",
-		"jp_text": "-",
+		"jp_text": "強化に成功しました。",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_guide_09",
-		"jp_text": "-",
+		"jp_text": "<color=#f0df60>特殊能力追加では、他のアイテムを使って特殊能力を移したり、特殊能力のランクを上げることができます。「対象」とするアイテムを選択してください。</color>",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_guide_10",
-		"jp_text": "-",
+		"jp_text": "<color=#f0df60>「素材」を選択してください。「素材」には、対象と同じ数の特殊能力をもつ武器が必要です。選んだ「素材」は実行後に消滅します。</color>",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_guide_11",
-		"jp_text": "-",
+		"jp_text": "<color=#f0df60>追加した特殊能力を選択し、特殊能力追加予定リストをすべて埋めると開始できます。　エクストラスロットを使用することで特殊能力数を追加できます。</color>",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_guide_12",
-		"jp_text": "-",
+		"jp_text": "<color=#f0df60>属性強化の最終確認画面です。補助アイテムを所持している場合は、選択することができます。　決定ボタンで強化を開始します。</color>",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_t_19",
-		"jp_text": "-",
+		"jp_text": "特殊能力追加",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_19",
-		"jp_text": "-",
+		"jp_text": "「対象」として選んだアイテムと\n同じ数の特殊能力を持つ素材アイテムを\n所持していないため選択できません。",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_t_20",
-		"jp_text": "-",
+		"jp_text": "特殊能力追加",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_20",
-		"jp_text": "-",
+		"jp_text": "メセタが不足しているため\n特殊能力追加を実行できません。",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_t_21",
-		"jp_text": "-",
+		"jp_text": "特殊能力追加",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_21",
-		"jp_text": "-",
+		"jp_text": "★７以上の素材が選択されています。\n特殊能力追加を実行すると 素材は消滅します。\nよろしいですか？",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_t_22",
-		"jp_text": "-",
+		"jp_text": "特殊能力追加",
 		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_b_22",
-		"jp_text": "-",
+		"jp_text": "特殊能力追加が完了しました。",
+		"tr_text": ""
+	},
+	{
+		"assign": "labo_guide_15",
+		"jp_text": "<color=#f0df60>チップ特装・プラグ強化をしたいチップを選択してください。チップ特装は最大レベルに達しているチップのみ、プラグ強化はすでに特装したチップが対象です。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "labo_guide_16",
+		"jp_text": "<color=#f0df60>実行する項目を選んでください。チップLvが最大レベルに達し、必要な素材チップが全てそろうと、チップ特装・プラグ強化が可能になります。</color>",
 		"tr_text": ""
 	},
 	{
 		"assign": "chipevo_npc_t_00",
-		"jp_text": "-",
-		"tr_text": ""
+		"jp_text": "セラフィ",
+		"tr_text": "Seraphy"
 	},
 	{
 		"assign": "chipevo_npc_b_00",
-		"jp_text": "-",
+		"jp_text": "戦いを経たチップが\n解放しようとしています。",
 		"tr_text": ""
 	},
 	{
@@ -6366,7 +6431,7 @@
 	},
 	{
 		"assign": "window_help_LM31",
-		"jp_text": "wh_46_01,\nスクラッチチケットは、特定のスクラッチを引くことができるチケットです。\n<color=yellow>特定のスクラッチ以外は引けません</color>ので、引き忘れにご注意ください。\nスクラッチチケットとラッピーメダルでは、チケットから先に使用されます。",
+		"jp_text": "スクラッチチケットは、特定のスクラッチを引くことができるチケットです。\n<color=yellow>特定のスクラッチ以外は引けません</color>ので、引き忘れにご注意ください。\nスクラッチチケットとラッピーメダルでは、チケットから先に使用されます。",
 		"tr_text": ""
 	},
 	{
@@ -8085,6 +8150,16 @@
 		"tr_text": "Kuronites"
 	},
 	{
+		"assign": "chip_type_name_16",
+		"jp_text": "チップ特装素材",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_type_name_17",
+		"jp_text": "プラグ強化素材",
+		"tr_text": ""
+	},
+	{
 		"assign": "chip_type_name_weaponoid",
 		"jp_text": "ウェポノイド",
 		"tr_text": "Weaponoid"
@@ -8487,7 +8562,7 @@
 	{
 		"assign": "item_sale_recycle",
 		"jp_text": "交換ショップ",
-		"tr_text": "Exchange Shop"
+		"tr_text": ""
 	},
 	{
 		"assign": "item_pack_window",
@@ -8527,7 +8602,7 @@
 	{
 		"assign": "recycle_shop_header",
 		"jp_text": "交換ショップ",
-		"tr_text": "Exchange Shop"
+		"tr_text": ""
 	},
 	{
 		"assign": "recycle_product_list",
@@ -8628,6 +8703,11 @@
 		"assign": "recycle_item_num_count_format",
 		"jp_text": "×{0}個",
 		"tr_text": "x{0}"
+	},
+	{
+		"assign": "recycle_item_num_pt_format",
+		"jp_text": "×{0}pt",
+		"tr_text": ""
 	},
 	{
 		"assign": "recycle_item_trade_info",
@@ -9615,6 +9695,11 @@
 		"tr_text": "Release Chips"
 	},
 	{
+		"assign": "menu_main_button_chip_awake",
+		"jp_text": "チップ特装",
+		"tr_text": ""
+	},
+	{
 		"assign": "menu_main_button_item_grind",
 		"jp_text": "アイテム強化",
 		"tr_text": "Grind Items"
@@ -9637,7 +9722,7 @@
 	{
 		"assign": "menu_main_button_recycle",
 		"jp_text": "交換ショップ",
-		"tr_text": "Exchange Shop"
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_main_button_ac_shop",
@@ -9758,6 +9843,11 @@
 		"assign": "menu_main_button_option",
 		"jp_text": "オプション",
 		"tr_text": "Options"
+	},
+	{
+		"assign": "menu_sub_button_chip_awake_limit_up",
+		"jp_text": "上限解放",
+		"tr_text": ""
 	},
 	{
 		"assign": "menu_sub_button_sale_chip",
@@ -17102,7 +17192,7 @@
 	{
 		"assign": "help_character_name",
 		"jp_text": "セラフィ",
-		"tr_text": "Seraphy"
+		"tr_text": ""
 	},
 	{
 		"assign": "help_character_text",
@@ -17255,6 +17345,11 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "lookback_special_chapter_4",
+		"jp_text": "５周年だよ、全員集合！",
+		"tr_text": ""
+	},
+	{
 		"assign": "lookback_maintitle_4",
 		"jp_text": "ストーリー　オブ　アーレス",
 		"tr_text": "Story of Ares"
@@ -17305,6 +17400,11 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "lookback_season3_chapter_5",
+		"jp_text": "５章　　闇の行き着く先",
+		"tr_text": ""
+	},
+	{
 		"assign": "lookback_maintitle_6",
 		"jp_text": "クラン オブ ネメシス＆スレイヴ",
 		"tr_text": "Clan of Nemesis & Slave"
@@ -17322,6 +17422,11 @@
 	{
 		"assign": "lookback_series2_chapter_2",
 		"jp_text": "第２章　争いは連鎖し運命は廻る",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_series2_chapter_3",
+		"jp_text": "第３章　悲劇は連環し争いは続く",
 		"tr_text": ""
 	},
 	{
@@ -17540,6 +17645,11 @@
 		"tr_text": "Level"
 	},
 	{
+		"assign": "sort_awake_level",
+		"jp_text": "特装段階順",
+		"tr_text": ""
+	},
+	{
 		"assign": "sort_other",
 		"jp_text": "その他",
 		"tr_text": "Other"
@@ -17700,6 +17810,11 @@
 		"tr_text": "\t"
 	},
 	{
+		"assign": "filter_can_awake_level_up",
+		"jp_text": "チップ特装・プラグ強化",
+		"tr_text": ""
+	},
+	{
 		"assign": "filter_ice",
 		"jp_text": "氷",
 		"tr_text": "\t"
@@ -17833,6 +17948,26 @@
 		"assign": "filter_weapon_generation",
 		"jp_text": "武器世代",
 		"tr_text": "Weapon Generation"
+	},
+	{
+		"assign": "filter_chip_can_awake",
+		"jp_text": "特装可能",
+		"tr_text": ""
+	},
+	{
+		"assign": "filter_chip_cant_awake",
+		"jp_text": "特装素材不足",
+		"tr_text": ""
+	},
+	{
+		"assign": "filter_chip_can_awake_skill_up",
+		"jp_text": "プラグ強化可能",
+		"tr_text": ""
+	},
+	{
+		"assign": "filter_chip_cant_awake_skill_up",
+		"jp_text": "プラグ強化素材不足",
+		"tr_text": ""
 	},
 	{
 		"assign": "window_help_LM32",
@@ -18935,6 +19070,16 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "quest_clear_reward_dialog_title_5024104",
+		"jp_text": "シリーズクエストクリア！",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_clear_reward_dialog_body_5024104",
+		"jp_text": "ブレイブ　オブ　セイガーズ\n第1章 第4話「オラクル戦隊セイガーズ」\nクリアおめでとうございます！\n以下のクリア報酬をプレゼントいたしました。\n受け取りボックスをご確認ください。",
+		"tr_text": ""
+	},
+	{
 		"assign": "recommended_equipment",
 		"jp_text": "おすすめ装備",
 		"tr_text": "Recommended Equipment"
@@ -19773,6 +19918,11 @@
 		"assign": "chip_details_link_bonus_text",
 		"jp_text": "パラメータアップ",
 		"tr_text": "Param. Up"
+	},
+	{
+		"assign": "chip_details_awake_none_skill",
+		"jp_text": "未習得",
+		"tr_text": ""
 	},
 	{
 		"assign": "wh_38_01",
@@ -21453,5 +21603,320 @@
 		"assign": "ura_tower_name",
 		"jp_text": "ナイトメアタワー",
 		"tr_text": "Nightmare Tower"
+	},
+	{
+		"assign": "filter_chip_awake_can",
+		"jp_text": "特装可能",
+		"tr_text": ""
+	},
+	{
+		"assign": "filter_chip_awake_skill_can",
+		"jp_text": "プラグ強化可能",
+		"tr_text": ""
+	},
+	{
+		"assign": "filter_chip_awake_shortage",
+		"jp_text": "特装素材不足",
+		"tr_text": ""
+	},
+	{
+		"assign": "filter_chip_skill_awake_shortage",
+		"jp_text": "プラグ強化素材不足",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_window_chip_awake",
+		"jp_text": "特装・プラグ強化チップ選択",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_selectbutton_chiplv",
+		"jp_text": "最大チップLv：",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_selectbutton_skill",
+		"jp_text": "習得プラグ：",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_ui_awake",
+		"jp_text": "チップ特装",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_ui_awake_skill",
+		"jp_text": "プラグ強化",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_ui_head_selectchip",
+		"jp_text": "選択チップ・効果",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_ui_head_material",
+		"jp_text": "必要素材チップ",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_ui_material_now",
+		"jp_text": "{0}/{1}",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_ui_material_error",
+		"jp_text": "<color=red>{0}</color>/{1}",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_ui_skill_beforelv",
+		"jp_text": "Lv.",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_ui_skill_afterlv",
+		"jp_text": "<color=#e25f04>{0}</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_ui_awake_afterlv",
+		"jp_text": "<color=#e25f04>{0}</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_grind_dialog_t_shortage_meseta",
+		"jp_text": "チップ強化",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_grind_dialog_b_shortage_meseta",
+		"jp_text": "このチップは、チップ強化が不可能です。",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_material_display_not_select",
+		"jp_text": "下のリストでボタンを選択すると\n必要な素材チップが表示されます。",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_material_display_all_lvmax",
+		"jp_text": "プラグレベルはすでに最大まで強化されています。",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_t_shortage_meseta",
+		"jp_text": "チップ特装",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_shortage_meseta",
+		"jp_text": "メセタが不足しているため\nチップ特装ができません。",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_t_shortage_meseta",
+		"jp_text": "プラグ強化",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_b_shortage_meseta",
+		"jp_text": "メセタが不足しているため\n特装プラグを強化をすることができません。",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_t_shortage_chiplv",
+		"jp_text": "チップ特装",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_shortage_chiplv",
+		"jp_text": "選択されたチップは最大レベルに達していないため\nチップ特装をすることができません。",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_t_shortage_chiplv",
+		"jp_text": "未使用",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_b_shortage_chiplv",
+		"jp_text": "未使用",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_t_shortage_materialchip",
+		"jp_text": "チップ特装",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_shortage_materialchip",
+		"jp_text": "チップ特装に必要な素材チップが足りません。",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_t_shortage_materialchip",
+		"jp_text": "プラグ強化",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_b_shortage_materialchip",
+		"jp_text": "プラグ強化に必要な素材チップが足りません。",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_t_decide",
+		"jp_text": "チップ特装確認",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_decide",
+		"jp_text": "<color=yellow>使用する素材チップに★７以上のものが含まれています。</color>\n次の素材チップとメセタを消費して、チップ特装を実行します。\nよろしいですか？",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_decide_t_material",
+		"jp_text": "消費素材チップ",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_decide_t_details",
+		"jp_text": "特装効果",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_decide_b_chiplv",
+		"jp_text": "最大チップLv.",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_decide_b_skilllv",
+		"jp_text": "Lv.",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_decide_button_yes",
+		"jp_text": "はい",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_decide_button_no",
+		"jp_text": "いいえ",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_decide_b_afterchiplv",
+		"jp_text": "<color=#e25f04>{0}</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_t_decide",
+		"jp_text": "プラグ強化確認",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_b_decide",
+		"jp_text": "<color=yellow>使用する素材チップに★７以上のものが含まれています。</color>\n次の素材チップとメセタを消費して、プラグ強化を実行します。\nよろしいですか？",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_b_decide_t_material",
+		"jp_text": "消費素材チップ",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_b_decide_t_details",
+		"jp_text": "特装効果",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_b_decide_b_skilllv",
+		"jp_text": "Lv.",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_b_decide_b_skilllvmax",
+		"jp_text": "　",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_b_decide_b_skillname",
+		"jp_text": "<color=#e25f04>{0}</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_t_done",
+		"jp_text": "チップ特装完了",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_done",
+		"jp_text": "未使用",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_done_chiplv",
+		"jp_text": "最大チップLv.",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_done_skilllv",
+		"jp_text": "Lv.",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_button_close",
+		"jp_text": "閉じる",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_t_done",
+		"jp_text": "プラグ強化完了",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_b_done",
+		"jp_text": "未使用",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_b_done_skilllv",
+		"jp_text": "Lv.",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_b_done_skilllvmax",
+		"jp_text": "　",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_skill_dialog_button_close",
+		"jp_text": "閉じる",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_details_chip_awake_head",
+		"jp_text": "特装プラグ",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_details_chip_awake_skilllv",
+		"jp_text": "Lv.",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_details_chip_awake_lv0",
+		"jp_text": "未習得",
+		"tr_text": ""
+	},
+	{
+		"assign": "window_help_LM39",
+		"jp_text": "wh_53_01,\nチップ特装は、解放済みチップの最大チップLvを引き上げ\nさらに新たなアビリティとなる「プラグ」を追加することができます。,\nwh_53_01,\n<color=yellow>チップLvをMAX</color>にし、<color=yellow>特装素材チップ</color>と<color=yellow>メセタ</color>を消費することで実行できます。\n素材チップは、様々なクエストで入手できます。,\nwh_53_01,\nチップ特装に必要な素材チップや、習得できるプラグは\n「チップ特装」や「チップ詳細」の画面で確認できます。,\nwh_53_02,\n特装が可能なチップには、アイコンが表示されています。\nチップの強化や解放を行う際に、確認してみてください。\n必要な素材チップを集めて、お気に入りのチップをより強くしましょう！,",
+		"tr_text": ""
+	},
+	{
+		"assign": "window_help_LM40",
+		"jp_text": "wh_54_01,\n「プラグ」には、レベルを上げることで効果がアップするものがあります。\nレベルを上げるためには、専用の素材チップが必要です。\n素材チップは、様々なクエストで入手できます。,",
+		"tr_text": ""
 	}
 ]

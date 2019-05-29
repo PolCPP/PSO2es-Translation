@@ -792,16 +792,16 @@
 	},
 	{
 		"assign": "113",
-		"jp_text": "-",
+		"jp_text": "リーパー／炎弱点",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "炎弱点のエネミーを攻撃時\n威力が上昇。ただし武器の\nレアリティが高くなるほど\n威力の上昇量は減少。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "114",
-		"jp_text": "-",
+		"jp_text": "スレイヤー／原生種",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "原生種のエネミーを攻撃時\n威力が上昇。ただし武器の\nレアリティが高くなるほど\n威力の上昇量は減少。",
 		"tr_explain": ""
 	},
 	{
@@ -984,7 +984,7 @@
 		"jp_text": "-",
 		"tr_text": "",
 		"jp_explain": "-",
-		"tr_explain": "Boosts damage by 2%."
+		"tr_explain": ""
 	},
 	{
 		"assign": "141",
@@ -1110,7 +1110,7 @@
 		"jp_text": "-",
 		"tr_text": "",
 		"jp_explain": "-",
-		"tr_explain": ""
+		"tr_explain": "Boosts damage by 2%."
 	},
 	{
 		"assign": "159",
@@ -1905,49 +1905,49 @@
 	},
 	{
 		"assign": "272",
-		"jp_text": "-",
+		"jp_text": "てきちゅうパフェ",
 		"tr_text": "",
 		"jp_explain": "-",
 		"tr_explain": ""
 	},
 	{
 		"assign": "273",
-		"jp_text": "-",
+		"jp_text": "超てきちゅうパフェ",
 		"tr_text": "",
 		"jp_explain": "-",
 		"tr_explain": ""
 	},
 	{
 		"assign": "274",
-		"jp_text": "-",
+		"jp_text": "ちゅうもくロール",
 		"tr_text": "",
 		"jp_explain": "-",
 		"tr_explain": ""
 	},
 	{
 		"assign": "275",
-		"jp_text": "-",
+		"jp_text": "めろめろロール",
 		"tr_text": "",
 		"jp_explain": "-",
 		"tr_explain": ""
 	},
 	{
 		"assign": "276",
-		"jp_text": "-",
+		"jp_text": "どきどきパフェ",
 		"tr_text": "",
 		"jp_explain": "-",
 		"tr_explain": ""
 	},
 	{
 		"assign": "277",
-		"jp_text": "-",
+		"jp_text": "超どきどきパフェ",
 		"tr_text": "",
 		"jp_explain": "-",
 		"tr_explain": ""
 	},
 	{
 		"assign": "278",
-		"jp_text": "-",
+		"jp_text": "ふんわりロール",
 		"tr_text": "",
 		"jp_explain": "-",
 		"tr_explain": ""
@@ -3200,9 +3200,9 @@
 	},
 	{
 		"assign": "457",
-		"jp_text": "-",
+		"jp_text": "Ｓ２：暴風の備志",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "風耐性、ミラージュ耐性が\n上昇。敵の弱点属性が\n風属性の時、威力上昇。",
 		"tr_explain": ""
 	},
 	{
@@ -3335,7 +3335,7 @@
 		"assign": "476",
 		"jp_text": "-",
 		"tr_text": "",
-		"jp_explain": "特殊能力の付与数に\n応じて威力上昇。\n最大で4％。",
+		"jp_explain": "-",
 		"tr_explain": ""
 	},
 	{
@@ -3424,37 +3424,37 @@
 	},
 	{
 		"assign": "489",
-		"jp_text": "-",
+		"jp_text": "Ｓ２：瞬護の与",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ＨＰが25％以下で\nジャストガード成功時\nＨＰが50％\nＰＰが30％回復。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "490",
-		"jp_text": "-",
+		"jp_text": "Ｓ２：保天輝地",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "空中時では、ＰＰ消費量が\n8％軽減。地上時では\n自然ＰＰ回復量が20％\nかつ地上での攻撃時では\nＰＰ回復量が20％上昇。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "491",
-		"jp_text": "-",
+		"jp_text": "Ｓ３：時流の勇",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "一定間隔で自身に\nシフタを発動する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "492",
-		"jp_text": "-",
+		"jp_text": "Ｓ２：時流の護",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "一定間隔で自身に\nデバンドを発動する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "493",
-		"jp_text": "-",
+		"jp_text": "Ｓ１：光子の秤",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ＰＰ消費量が\n8％増加する代わりに\nＰＡとテクニックの威力が\n4%上昇する。",
 		"tr_explain": ""
 	},
 	{

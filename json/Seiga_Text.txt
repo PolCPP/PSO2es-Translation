@@ -1649,9 +1649,593 @@
 	},
 	{
 		"eventNo": "0",
+		"jp_name": "男性客",
+		"tr_name": "",
+		"jp_text": "くぅ……急に、おなかが……<%br>な、なんで……",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "スカルシュクター",
+		"tr_name": "",
+		"jp_text": "くっくっく……貴様らの料理に<%br>下剤を入れさせてもらった。",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "スカルシュクター",
+		"tr_name": "",
+		"jp_text": "そろそろ腹が限界だろう？　だが、ここの扉は<%br>我らスカル３将軍が封鎖した！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "スカルソーサラー",
+		"tr_name": "",
+		"jp_text": "結婚式なんて参加したのが運のツ・キ。<%br>あたし、他人の幸せは踏みにじりたくなるの！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "スカルソーサラー",
+		"tr_name": "",
+		"jp_text": "おーっほっほっほ！　そのおキレイなスーツを<%br>無様に汚すがいいわ！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "男性客",
+		"tr_name": "",
+		"jp_text": "そんな……こんなところで……<%br>くっ……もう……耐えられない……っ！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "スカルフェジサー",
+		"tr_name": "",
+		"jp_text": "あんまり抵抗すると逆効果だよ？<%br>ボクの下剤、強力だからさ。",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "スカルシュクター",
+		"tr_name": "",
+		"jp_text": "さぁ、誓え。誓うんだ！<%br>我らスカル３将軍に忠誠を！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "スカルシュクター",
+		"tr_name": "",
+		"jp_text": "忠誠を誓った者からトイレに行かせてやろう！<%br>最初に忠誠を誓うのは誰だ！？",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "セイガーソード",
+		"tr_name": "",
+		"jp_text": "そこまでだ、スカル３将軍！<%br>はぁっ！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "10",
 		"jp_name": "",
 		"tr_name": "",
 		"jp_text": "",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "スカルソーサラー",
+		"tr_name": "",
+		"jp_text": "きゃあっ！　だ、誰よ！<%br>扉をぶち破るなんて非常識なマネするのは！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "セイガージャベリン",
+		"tr_name": "",
+		"jp_text": "幸せな結婚式を台無しにするなんて！<%br>愛の戦士セイガージャベリンが許しません！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "スカルフェジサー",
+		"tr_name": "",
+		"jp_text": "ちっ……セイガーズか。相変わらず<%br>力で解決するしか能がないんだから！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "セイガーランチャー",
+		"tr_name": "",
+		"jp_text": "黙れ！　せっかくの料理に下剤を混ぜた<%br>あなたたちは、絶対に許さない！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "セイガーランチャー",
+		"tr_name": "",
+		"jp_text": "みんな、いくよ！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "セイガーランチャー",
+		"tr_name": "",
+		"jp_text": "食べろ、セイガーランチャー！<%br>この宇宙に満腹を届けるため！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "セイガージャベリン",
+		"tr_name": "",
+		"jp_text": "歌え、セイガージャベリン！<%br>この宇宙に愛の歌を届けるため！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "セイガーアーチャー",
+		"tr_name": "",
+		"jp_text": "吼えろ、セイガーアーチャー！<%br>この宇宙に希望の鐘を響かせるため！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "セイガーシールド",
+		"tr_name": "",
+		"jp_text": "走れ、セイガーシールド！<%br>この宇宙を明るい夢で満たすため！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "セイガーソード",
+		"tr_name": "",
+		"jp_text": "燃えろ、セイガーソード！<%br>この宇宙を勇気の光で照らすため！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "セイガーズ",
+		"tr_name": "",
+		"jp_text": "胸に輝く勇気の証！<%br>オラクル戦隊、セイガーズ！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "セイガーズ",
+		"tr_name": "",
+		"jp_text": "胸に輝く勇気の証！<%br>オラクル戦隊、セイガーズ！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "セイガーズ",
+		"tr_name": "",
+		"jp_text": "胸に輝く勇気の証！<%br>オラクル戦隊、セイガーズ！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "セイガーズ",
+		"tr_name": "",
+		"jp_text": "胸に輝く勇気の証！<%br>オラクル戦隊、セイガーズ！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "おぉー！　やっぱりかっこいいぜ！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "名乗りもバッチリそろいましたね！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "セイガーソード",
+		"tr_name": "",
+		"jp_text": "スカル３将軍！　今日こそ倒してやる！<%br>いくぞ！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "緊急事態です！　市街地にダーカー出現！<%br>至急向かってください！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "セイガーシールド",
+		"tr_name": "",
+		"jp_text": "わかった。みんな、市街地へ行くぞ。",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "スカルシュクター",
+		"tr_name": "",
+		"jp_text": "ま、待て！　こちらには人質がいるんだぞ！<%br>市民がどうなっても……",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "スカルソーサラー",
+		"tr_name": "",
+		"jp_text": "シュクター……<%br>人質たち、もう全員逃げちゃったわ……",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "33",
+		"jp_name": "スカルフェジサー",
+		"tr_name": "",
+		"jp_text": "セイガーズに気を取られてる間に逃げたみたいだ。<%br>ボクとしたことが、うっかりしていた。",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "34",
+		"jp_name": "スカルシュクター",
+		"tr_name": "",
+		"jp_text": "お、おのれセイガーズめ……！<%br>次こそ、必ず倒してやるぞ！！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "35",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "……人質の解放、上手くいきましたね。",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "36",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "そうだな。リーダー、俺たちも<%br>セイガーズの応援に向かおう。",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "セイガーソード",
+		"tr_name": "",
+		"jp_text": "今日もみんながんばったな！<%br>大いに食べて、英気を養おう！　乾杯！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "セイガージャベリン",
+		"tr_name": "",
+		"jp_text": "お料理、取り分けますね！<%br>はいっ、モアくん。いっぱい食べてね！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "サンキュー！<%br>セイガージャベリンは気がきくぜ！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "セイガーシールド",
+		"tr_name": "",
+		"jp_text": "おい、ジャベリン。<%br>これは……ちょっと量が多くないか……？",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "セイガーランチャー",
+		"tr_name": "",
+		"jp_text": "いらないなら、あたしが食べてあげる。<%br>ジャベリン、おかわり～！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "セイガーアーチャー",
+		"tr_name": "",
+		"jp_text": "……ふっ、喧噪の中で味わう孤独も<%br>悪くない……か。",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "セイガーソード",
+		"tr_name": "",
+		"jp_text": "さて、せっかく司令たちもいることだし<%br>食事会も兼ねて今後の打ち合わせを……",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "セイガージャベリン",
+		"tr_name": "",
+		"jp_text": "はいは～い！　今日は気分がいいから特別に<%br>正義のアイドル戦士が歌ってあげちゃう！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "セイガージャベリン",
+		"tr_name": "",
+		"jp_text": "ソードも堅い話なんかしてないで<%br>しっかり聴いてくださいね！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "……なんだか、最初に比べて<%br>まとまりが出てきたな。",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "そうね。この個性的なメンバーの割には<%br>上手くやれてるんじゃないかしら。",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "すこしずつ、絆が生まれてきた気がします。<%br>リーダーもそう思いませんか？",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "すこしずつ、絆が生まれてきた気がします。<%br>リーダーもそう思いませんか？",
+		"tr_text": "",
+		"jp_buttons": [
+			"これからの成長が楽しみだ。",
+			"こっちだって、いいチームだ。"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 1
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "はいっ！　みんながどんな風になるのか……<%br>わたしも楽しみです！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "うれしいこと言うねぇ、リーダー。<%br>俺たちも負けてられないな！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "セイガーソード",
+		"tr_name": "",
+		"jp_text": "ランチャーぁ……ジャベリぃン……<%br>今日の並び方で言いたいことがある！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "セイガーソード",
+		"tr_name": "",
+		"jp_text": "いいか、今日の名乗りの並び方……<%br>なんで俺の前に立ったんだよぉ！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "セイガーランチャー",
+		"tr_name": "",
+		"jp_text": "え、そうだった？<%br>だってあそこ、狭かったからさ。",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "セイガージャベリン",
+		"tr_name": "",
+		"jp_text": "テーブルやイスがあったし……<%br>ちょうどいいスペースがなかったんです。",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "セイガーソード",
+		"tr_name": "",
+		"jp_text": "名乗りは各人の見せ場だ！<%br>これからは、かぶらないよう気をつけてくれ！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "セイガージャベリン",
+		"tr_name": "",
+		"jp_text": "いちいち細かいなぁ……<%br>細かいことを気にする男はモテませんよ？",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "セイガーアーチャー",
+		"tr_name": "",
+		"jp_text": "そうなのか……俺も気をつけねばな。",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "セイガーシールド",
+		"tr_name": "",
+		"jp_text": "気をつけるといえば、突入の仕方だ。<%br>次回からちゃんと考えたほうがいい。",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "セイガーシールド",
+		"tr_name": "",
+		"jp_text": "セラフィさんに聞いたが、アークスから<%br>カフェの修理代を請求されたらしい。",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "セイガーランチャー",
+		"tr_name": "",
+		"jp_text": "えぇ～！　あたしたちがんばったのに<%br>弁償させられるの？",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "セイガーソード",
+		"tr_name": "",
+		"jp_text": "必要経費にはならないのか……<%br>正義の戦士は難しいな。",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "セイガーシールド",
+		"tr_name": "",
+		"jp_text": "ということで、打ち上げの会費と一緒に<%br>弁償費も集めるぞ。",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "セイガージャベリン",
+		"tr_name": "",
+		"jp_text": "そんなぁ！　納得いきません！<%br>アークスに支払ってもらいましょうよ！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "正義の戦士って、いろいろ大変なんだな……",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "スカルシュクター",
+		"tr_name": "",
+		"jp_text": "おい、なぜセイガーズと同じ居酒屋に<%br>入ったんだ！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "スカルソーサラー",
+		"tr_name": "",
+		"jp_text": "正義の戦士が居酒屋でクダ巻いてるなんて<%br>思うわけないでしょ！？",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "スカルシュクター",
+		"tr_name": "",
+		"jp_text": "ヤツら、出入り口近くの席を陣取りやがって。<%br>これでは出るに出られん……",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "スカルフェジサー",
+		"tr_name": "",
+		"jp_text": "飲み放題の時間、そろそろ終わるよ？<%br>延長する？",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "33",
+		"jp_name": "スカルシュクター",
+		"tr_name": "",
+		"jp_text": "これ以上の出費は厳しい！　厳しいが……<%br>セイガーズに見つかるわけにはいかない……",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "34",
+		"jp_name": "スカルシュクター",
+		"tr_name": "",
+		"jp_text": "我らの財布にもダメージを与えるとは……<%br>セイガーズ！　この借りは次こそ返してやる！",
+		"tr_text": "",
+		"fileID": 1
+	},
+	{
+		"eventNo": "35",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "―Next Time―<%br><size=65>ブレイブ　オブ　セイガーズ<%br>The ２nd Record</size>",
 		"tr_text": "",
 		"fileID": 1
 	}

@@ -155,17 +155,17 @@
 	},
 	{
 		"assign": "30011",
-		"jp_explainShort": "チップの効果時間がわずかに延長",
+		"jp_explainShort": "チップの効果時間が延長",
 		"tr_explainShort": "Chip Effect Duration extended",
-		"jp_explainLong": "① アクティブチップのアビリティ効果時間を\n　　 わずかに延長する。\n[発動条件]アクティブチップ発動時",
+		"jp_explainLong": "① アクティブチップのアビリティ効果時間を\n　　 延長する。\n[発動条件]アクティブチップ発動時",
 		"tr_explainLong": "① Extends the Effect Duration of Active Chips'\n    abilities.\n[Activation Trigger] Activating an Active Chip"
 	},
 	{
 		"assign": "30012",
 		"jp_explainShort": "チップの効果時間が延長",
-		"tr_explainShort": "Chip Effect Duration extended",
-		"jp_explainLong": "① アクティブチップのアビリティ効果時間を\n　　 わずかに延長する。\n[発動条件]アクティブチップ発動時",
-		"tr_explainLong": "① Extends the Effect Duration of Active Chips'\n    abilities.\n[Activation Trigger] Activating an Active Chip"
+		"tr_explainShort": "",
+		"jp_explainLong": "① アクティブチップのアビリティ効果時間を\n　　 延長する。\n[発動条件]アクティブチップ発動時",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "30019",
@@ -5020,10 +5020,10 @@
 	},
 	{
 		"assign": "31925",
-		"jp_explainShort": "氷枚数ＪＡ威力極度増加＋ＪＡ成功３回毎ＨＰ回復",
-		"tr_explainShort": "JAs boosted x # Ice + 3 JAs = HP recovery",
-		"jp_explainLong": "① 装備中の氷属性チップの枚数に応じて\n　　 ジャストアタックの威力を極度に増加する。\n② ジャストアタックを３回成功させるごとに\n　　 ＨＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Maximally boosts Just Attacks based on the\n    number of Ice chips equipped.\n    <color=yellow>[T-Frame]</color>\n② Slightly recovers HP every time you successfully\n    perform three Just Attacks.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"jp_explainShort": "氷枚数ＪＡ威力超絶増加＋ＪＡ成功３回毎ＨＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 装備中の氷属性チップの枚数に応じて\n　　 ジャストアタックの威力を超絶に増加する。\n② ジャストアタックを３回成功させるごとに\n　　 ＨＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31926",
@@ -5162,14 +5162,14 @@
 		"assign": "31955",
 		"jp_explainShort": "ダメージ効果絶大増＋攻撃毎にさらに増加＋回避",
 		"tr_explainShort": "Damage effects boosted + evading attacks",
-		"jp_explainLong": "① ダメージ効果を絶大に増加する。\n② アクティブチップ使用か通常攻撃を行うごとに\n　　 ダメージ効果をわずかに強化する。\n③ 敵からの攻撃を一定確率で回避する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
+		"jp_explainLong": "① ダメージ効果を絶大に増加する。\n② アクティブチップ使用か通常攻撃を行うごとに\n　　 ダメージ効果をわずかに増加する。\n③ 敵からの攻撃を一定確率で回避する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": "① Immensely boosts damage effects.\n    <color=yellow>[Z-Frame]</color>\n② Slightly boosts damage effects each time you use\n    an active chip or a normal attack.\n    <color=yellow>[Z-Frame]</color>\n③ Grants a chance to avoid damage from enemies.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31956",
 		"jp_explainShort": "ダメージ効果絶大増＋攻撃毎にさらに増加＋回避",
 		"tr_explainShort": "Damage effects boosted + evading attacks",
-		"jp_explainLong": "① ダメージ効果を絶大に増加する。\n② アクティブチップ使用か通常攻撃を行うごとに\n　　 ダメージ効果をわずかに強化する。\n③ 敵からの攻撃を一定確率で回避する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
+		"jp_explainLong": "① ダメージ効果を絶大に増加する。\n② アクティブチップ使用か通常攻撃を行うごとに\n　　 ダメージ効果をわずかに増加する。\n③ 敵からの攻撃を一定確率で回避する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": "① Immensely boosts damage effects.\n    <color=yellow>[Z-Frame]</color>\n② Slightly boosts damage effects each time you use\n    an active chip or a normal attack.\n    <color=yellow>[Z-Frame]</color>\n③ Grants a chance to avoid damage from enemies.\n[Activation Trigger] Landing an attack\n[Effect Duration] Medium"
 	},
 	{
@@ -5185,6 +5185,146 @@
 		"tr_explainShort": "ATK up + low HP damage boost + one survival",
 		"jp_explainLong": "① 攻撃力を超絶に強化する。\n② 自身のＨＰが５０％以下の場合に\n　　 攻撃力を大きく増加する。\n③ 効果中一度だけ戦闘不能にならない。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
 		"tr_explainLong": "① Overwhelmingly increases ATK.\n② Greatly boosts damage when your HP is below\n    50%.\n    <color=yellow>[E-Frame]</color>\n③ Allows you to survive incapacitation with 1 HP,\n    once per activation.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+	},
+	{
+		"assign": "31959",
+		"jp_explainShort": "技・法威力大強化＋氷弱点時ダメージ劇的増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃対象の敵が氷属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 必殺技・法術の威力を大きく強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31960",
+		"jp_explainShort": "技・法威力大強化＋氷弱点時ダメージ劇的増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃対象の敵が氷属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 必殺技・法術の威力を大きく強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31961",
+		"jp_explainShort": "ダメージ大軽減＋攻撃力が超絶強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を超絶に強化する。\n② 敵から受けるダメージを大きく軽減する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31962",
+		"jp_explainShort": "ダメージ大軽減＋攻撃力が超絶強化",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を超絶に強化する。\n② 敵から受けるダメージを大きく軽減する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31969",
+		"jp_explainShort": "アビＬｖ技法大強化＋氷枚数氷属性発動率上昇",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 必殺技・法術の威力をアビリティレベルに応じて\n　　 大きく強化する。\n② 装備中の氷属性チップの枚数に応じて、氷属性の\n　　 チップの発動率を上昇する。\n③ 発動率上昇の効果を持つチップと組み合わせた場合\n　　 氷属性のチップの発動率上昇の効果を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31970",
+		"jp_explainShort": "アビＬｖ技法劇的強化＋氷枚数氷属性発動率上昇",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 必殺技・法術の威力をアビリティレベルに応じて\n　　 劇的に強化する。\n② 装備中の氷属性チップの枚数に応じて、氷属性の\n　　 チップの発動率を上昇する。\n③ 発動率上昇の効果を持つチップと組み合わせた場合\n　　 氷属性のチップの発動率上昇の効果を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31971",
+		"jp_explainShort": "攻撃ダメージ増＋光属武器攻撃力増＋定期ＨＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃ダメージを絶大に増加する。\n② 装備中の武器の属性が光属性の場合\n　　 攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31972",
+		"jp_explainShort": "攻撃ダメージ増＋光属武器攻撃力増＋定期ＨＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃ダメージを超絶に増加する。\n② 装備中の武器の属性が光属性の場合\n　　 攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31975",
+		"jp_explainShort": "光枚数属性攻撃力を絶大増加＋光枚数消費ＣＰ減少",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 装備中の光属性チップの枚数に応じて\n　　 属性攻撃力を絶大に増加する。\n② 装備中の光属性チップの枚数に応じて\n　　 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31976",
+		"jp_explainShort": "光枚数属性攻撃力を超絶増加＋光枚数消費ＣＰ減少",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 装備中の光属性チップの枚数に応じて\n　　 属性攻撃力を超絶に増加する。\n② 装備中の光属性チップの枚数に応じて\n　　 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31982",
+		"jp_explainShort": "状態異常付与＋状態異常時ダメージ絶大増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 通常攻撃にランダムで特定の状態異常効果を付与する。\n② 状態異常の敵に対してダメージを絶大に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31983",
+		"jp_explainShort": "状態異常付与＋状態異常時ダメージ絶大増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 通常攻撃にランダムで特定の状態異常効果を付与する。\n② 状態異常の敵に対してダメージを絶大に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31984",
+		"jp_explainShort": "必殺技・法術使用毎に威力大増＋雷属性上限上昇",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 必殺技・法術を使用するごとに\n　　 威力を大きく増加する。（最大時：超絶）\n② 雷属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31985",
+		"jp_explainShort": "必殺技・法術使用毎に威力大増＋雷属性上限上昇",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 必殺技・法術を使用するごとに\n　　 威力を大きく増加する。（最大時：極度）\n② 雷属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31986",
+		"jp_explainShort": "炎氷雷の技・法の攻撃力絶大増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 必殺技・法術チップが炎・氷・雷属性の場合は\n　　 威力を絶大に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31987",
+		"jp_explainShort": "炎氷雷の技・法の攻撃力絶大増",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 必殺技・法術チップが炎・氷・雷属性の場合は\n　　 威力を絶大に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31988",
+		"jp_explainShort": "追加大ダメージ＋通常攻撃と移動が加速",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 敵に追加で大ダメージを与える。\n② 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31989",
+		"jp_explainShort": "追加特大ダメージ＋通常攻撃と移動が加速",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 敵に追加で特大ダメージを与える。\n② 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31990",
+		"jp_explainShort": "威力絶大増＋氷武器攻撃力小増＋氷属性上限上昇",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 威力を絶大に増加する。\n② 装備中の武器の属性が氷属性の場合\n　　 攻撃力をわずかに増加する。\n③ 氷属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "31991",
+		"jp_explainShort": "威力絶大増＋氷武器攻撃力小増＋氷属性上限上昇",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 威力を絶大に増加する。\n② 装備中の武器の属性が氷属性の場合\n　　 攻撃力をわずかに増加する。\n③ 氷属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "2210",
@@ -7302,16 +7442,16 @@
 	},
 	{
 		"assign": "40287",
-		"jp_explainShort": "-",
+		"jp_explainShort": "炎属性時小増＋鋼拳時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 炎属性の武器の場合に威力をわずかに増加する。\n② 鋼拳の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40288",
-		"jp_explainShort": "-",
+		"jp_explainShort": "炎属性時増＋鋼拳時増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 炎属性の武器の場合に威力を増加する。\n② 鋼拳の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
@@ -7428,16 +7568,16 @@
 	},
 	{
 		"assign": "40305",
-		"jp_explainShort": "-",
+		"jp_explainShort": "風属性時小増＋銃剣時小増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 風属性の武器の場合に威力をわずかに増加する。\n② 銃剣の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
 		"assign": "40306",
-		"jp_explainShort": "-",
+		"jp_explainShort": "風属性時増＋銃剣時増＋定期ＨＰ小回復",
 		"tr_explainShort": "",
-		"jp_explainLong": "-",
+		"jp_explainLong": "① 風属性の武器の場合に威力を増加する。\n② 銃剣の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
 		"tr_explainLong": ""
 	},
 	{
