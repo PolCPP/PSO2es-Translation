@@ -637,6 +637,13 @@
 		"tr_explain": "Twin machineguns made with state-\nof-the-art bioengineering. Enhanced\nwith a high-purity culture solution."
 	},
 	{
+		"assign": "1100123",
+		"jp_text": "ブラッドファンガー",
+		"tr_text": "Blood Fanger",
+		"jp_explain": "最先端の生体工学を応用し開発された\n双機銃。循環する生細胞液の効果により\n常時放熱し砲身の過熱を防ぐ。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1100124",
 		"jp_text": "メレンディー",
 		"tr_text": "Merendi",
@@ -1309,6 +1316,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "1100330",
+		"jp_text": "アレティアスウィープ",
+		"tr_text": "Aletheia Sweep",
+		"jp_explain": "古より伝わる陽光の双機銃。\n聖なる光に包まれし祝福の弾丸は\n災禍を撃ち抜き、平穏をもたらす。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1100335",
 		"jp_text": "クヴェレウィンディア",
 		"tr_text": "Quelle Windea",
@@ -1522,7 +1536,7 @@
 		"assign": "1100400",
 		"jp_text": "ディムＴマシンガン",
 		"tr_text": "Dim Twin Machineguns",
-		"jp_explain": "次世代の主力として開発された双機銃。\n偶発的に禍々しい力を備え、設計以上の\n力を持つが、使用者への影響は未解析。",
+		"jp_explain": "次世代の主力として開発された双機銃。\n偶発的に禍々しい力を備え、設計以上の\n力を持つが、使用者への影響は未知数。",
 		"tr_explain": "Twin machineguns created using the\nlatest technology. The origin of their\nunforeseen power is not yet known."
 	},
 	{
@@ -1531,5 +1545,19 @@
 		"tr_text": "Yasminkov 8000C-NT",
 		"jp_explain": "一風変わったヤスミノコフ型双機銃。\nヘリカルマガジンを採用することで\nコンパクトながら屈指の装填数を誇る。",
 		"tr_explain": "An unusual shaped pair of guns. By\nadopting a helical magazine, it offers\ninstant reloading of ammo in seconds."
+	},
+	{
+		"assign": "1100402",
+		"jp_text": "オルゲイランコア",
+		"tr_text": "Orgei Rancor",
+		"jp_explain": "巨大な閃機種の背部を加工して\n作られた双機銃。赤いパネルが周囲の\nフォトンを蓄積、爆発的に増幅させる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1100410",
+		"jp_text": "スカルフェジサー-NT",
+		"tr_text": "Skull Feschieser-NT",
+		"jp_explain": "死者の念が乗り移ったとされる禍々しき\nオーラを放つ双機銃。放たれたら最後\nその弾丸からは逃れられないという。",
+		"tr_explain": ""
 	}
 ]

@@ -1617,6 +1617,34 @@
 		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Rupturing Excess\"\nwhen used in Ability Synthesis."
 	},
 	{
+		"assign": "3210312",
+		"jp_text": "Ｓ１追加：花ノ赤閃",
+		"tr_text": "S1 Add:Red Petal Flash",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：花ノ赤閃を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Red Petal Flash\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210313",
+		"jp_text": "Ｓ１追加：海ノ青閃",
+		"tr_text": "S1 Add:Blue Ocean Flash",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：海ノ青閃を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Blue Ocean Flash\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210314",
+		"jp_text": "Ｓ１追加：葉ノ緑閃",
+		"tr_text": "S1 Add:Green Leaf Flash",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：葉ノ緑閃を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Green Leaf Flash\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210315",
+		"jp_text": "Ｓ１追加：月ノ黄閃",
+		"tr_text": "S1 Add:Yellow Moon Flash",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：月ノ黄閃を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Yellow Moon Flash\"\nwhen used in Ability Synthesis."
+	},
+	{
 		"assign": "3210316",
 		"jp_text": "Ｓ２追加：月葉影の歌",
 		"tr_text": "S2 Add:Umbrageous Melody",
@@ -1699,6 +1727,20 @@
 		"tr_text": "S2 Add:Flowing Grace",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ２：時流の恵を付与。",
 		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S2:Flowing Grace\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210334",
+		"jp_text": "Ｓ２追加：時流の護",
+		"tr_text": "S2 Add:Flowing Armor",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ２：時流の護を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S2:Flowing Armor\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210335",
+		"jp_text": "Ｓ２追加：保天輝地",
+		"tr_text": "S2 Add:Heavenly Keeper",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ２：保天輝地を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S2:Heavenly Keeper\"\nwhen used in Ability Synthesis."
 	},
 	{
 		"assign": "3210336",
@@ -1806,6 +1848,13 @@
 		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S3:Rupturing Intent\"\nwhen used in Ability Synthesis."
 	},
 	{
+		"assign": "3210355",
+		"jp_text": "Ｓ３追加：時流の勇",
+		"tr_text": "S3 Add:Flowing Courage",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：時流の勇を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S3:Flowing Courage\"\nwhen used in Ability Synthesis."
+	},
+	{
 		"assign": "3210356",
 		"jp_text": "Ｓ４追加：天輝の守護",
 		"tr_text": "S4 Add:Heavenly Protection",
@@ -1853,5 +1902,75 @@
 		"tr_text": "Add Ability (Catalyst Receptor)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【カタリストレセプター】を追加する。",
 		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Catalyst Receptor\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210459",
+		"jp_text": "Ｓ１追加：雪ノ白閃",
+		"tr_text": "S1 Add:White Snow Flash",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：雪ノ白閃を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:White Snow Flash\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210460",
+		"jp_text": "Ｓ１追加：影ノ黒閃",
+		"tr_text": "S1 Add:Black Shadow Flash",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：影ノ黒閃を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Black Shadow Flash\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210461",
+		"jp_text": "Ｓ１追加：光子の秤",
+		"tr_text": "S1 Add:Photon Balance",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：光子の秤を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Photon Balance\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210462",
+		"jp_text": "Ｓ１追加：妙技の巧",
+		"tr_text": "S1 Add:Wise Skill",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：妙技の巧を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Wise Skill\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210463",
+		"jp_text": "Ｓ１追加：裂砕の志",
+		"tr_text": "S1 Add:Rupturing Intent",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：裂砕の志を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Rupturing Intent\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210469",
+		"jp_text": "Ｓ２追加：諸刃の撃",
+		"tr_text": "S2 Add:Double-Edged Sword",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ２：諸刃の撃を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S2:Double-Edged Sword\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210470",
+		"jp_text": "Ｓ２追加：時流活与",
+		"tr_text": "S2 Add:Flowing Exhilaration",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ２：時流活与を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S2:Flowing Exhilaration\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210471",
+		"jp_text": "Ｓ２追加：裂砕の剰",
+		"tr_text": "S2 Add:Rupturing Excess",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ２：裂砕の剰を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S2:Rupturing Excess\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210479",
+		"jp_text": "Ｓ３追加：災転輝与",
+		"tr_text": "S3 Add:Cursed Radiance",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：災転輝与を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S3:Cursed Radiance\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210480",
+		"jp_text": "Ｓ３追加：滅域輝与",
+		"tr_text": "S3 Add:Brilliant Ruin",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：滅域輝与を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S3:Brilliant Ruin\"\nwhen used in Ability Synthesis."
 	}
 ]

@@ -567,6 +567,13 @@
 		"tr_explain": "Wired lances made with state-of-the-\nart bioengineering. Enhanced with a\nhigh-purity culture solution."
 	},
 	{
+		"assign": "120112",
+		"jp_text": "ブラッドレードル",
+		"tr_text": "Blood Radle",
+		"jp_explain": "最先端の生体工学を応用し開発された\n自在槍。循環する生細胞液が伸縮を\n制御し、自由な攻撃を可能にする。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "120115",
 		"jp_text": "ダールワイグル",
 		"tr_text": "Darl Weigle",
@@ -1120,6 +1127,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "120256",
+		"jp_text": "アレティアクリス",
+		"tr_text": "Aletheia Crys",
+		"jp_explain": "古より伝わる陽光の自在槍。\n聖なる光に授かりし俊敏なる刃は\n生きし者を救いて、永久の静謐を築く。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "120259",
 		"jp_text": "クヴェレグリッター",
 		"tr_text": "Quelle Glitter",
@@ -1138,6 +1152,13 @@
 		"jp_text": "ボンバゴレムスデッド",
 		"tr_text": "Bomber Golem Stead",
 		"jp_explain": "ボンバゴーレムの残骸を再利用し\n作られた自在槍。黄金に輝く突起が\n標的の身体を抉り、切り刻む。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "120264",
+		"jp_text": "ゲノンズィーバ",
+		"tr_text": "Genon Ziva",
+		"jp_explain": "得体の知れない生物の細胞が利用された\n自在槍。現在も解析を行っているが\n使用者への影響については未知数。",
 		"tr_explain": ""
 	},
 	{
@@ -1291,7 +1312,28 @@
 		"assign": "120309",
 		"jp_text": "ディムランス",
 		"tr_text": "Dim Lance",
-		"jp_explain": "次世代の主力として開発された自在槍。\n偶発的に禍々しい力を備え、設計以上の\n力を持つが、使用者への影響は未解析。",
+		"jp_explain": "次世代の主力として開発された自在槍。\n偶発的に禍々しい力を備え、設計以上の\n力を持つが、使用者への影響は未知数。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "120310",
+		"jp_text": "アキュレハーリス",
+		"tr_text": "Acure Charis",
+		"jp_explain": "強力な閃機種の腕部残骸を利用し\n作られた自在槍。目に焼き付く鮮紅の\nエネルギーを射出し、標的を撃滅する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "120311",
+		"jp_text": "アトゥスハーリス",
+		"tr_text": "Atus Charis",
+		"jp_explain": "強力な閃機種の腕部残骸を利用し\n作られた自在槍。憎悪に染まった因子を\n浄化し、桁外れな力の制御に成功した。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "120315",
+		"jp_text": "エルデトロス-NT",
+		"tr_text": "Eldetross-NT",
+		"jp_explain": "大気の力を宿すといわれる自在槍。\n刃の中心にあるクリスタルが力を司り\n風雷をまとわせ、敵を両断するという。",
 		"tr_explain": ""
 	}
 ]

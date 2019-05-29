@@ -3894,5 +3894,3237 @@
 		"jp_text": "―Next Time―<%br><size=65>クラン　オブ　ネメシス&スレイヴ<%br>The ３ｒd Record</size>",
 		"tr_text": "",
 		"fileID": 2
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "スレイヴフェザー",
+		"tr_name": "",
+		"jp_text": "だけどボクが和解を望んだって<%br>ネメシスは受け入れないよ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "スレイヴフェザー",
+		"tr_name": "",
+		"jp_text": "受け入れざるを得ない状況に<%br>追い込まないと……ね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "……！　人質を取って……<%br>受け入れさせるということですか……？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "スレイヴフェザー",
+		"tr_name": "",
+		"jp_text": "決行は明日。夜が明けたら出発だ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "…………",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "……来てくれてありがとうございます。<%br>誰にも見られてはいませんか？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "はい、大丈夫です。<%br>えっと、わたしに話したいことがあるとか……？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "ええ……こんなことを言われても困るでしょうが<%br>あなたに伝えたいことがあるのです。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "我々、スレイヴは……<%br>……明朝、ネメシスを襲撃します。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "しゅ、襲撃……！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "すみません、リーダー。<%br>今、少しいいですか？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "お話ししたいことがあって。<%br>実はある方から、情報をもらったんです。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "……感謝します。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "これで……よかったんですよ……ね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "（……これで良かったのです。<%br>　あの方を救うことができたのだから）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "（仲間を裏切った罪悪感は、ある。<%br>　けれど、私が欲しいと願うものは……）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "スレイヴクーガ",
+		"tr_name": "",
+		"jp_text": "セイバー……わたしの……<%br>願いは……ひとつ、だけよ……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "スレイヴクーガ",
+		"tr_name": "",
+		"jp_text": "スレイヴという組織が……<%br>一枚岩になること……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "スレイヴクーガ",
+		"tr_name": "",
+		"jp_text": "だからセイバー……<%br>あなたも……どう……か……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "（私が……欲しいと願うものは……）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "<size=65>クラン　オブ　ネメシス&スレイヴ<%br>－ The 3rd Record －<%br>悲劇は連環し争いは続く</size>",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "まさか、スレイヴクーガが<%br>機能停止となるなんてね……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ネメシスとスレイヴの戦争を警戒してたからな。<%br>スレイヴが仲間割れするなんて想定外だったよ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "誰も傷ついてほしくなかったから<%br>止めに行ったのに……こんなことって……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ジェネ……あんま気にすんなってば。<%br>ジェネのせいじゃないんだかんな！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "そうよ。スレイヴクーガのことは残念だけれど<%br>襲われるはずだったネメシスは守れたわ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "スレイヴセイバーが真の裏切り者ってことも<%br>バレずに済んだし、クーガも本望なんじゃない？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "だから俺たちも、真実はなんとしても隠そう。<%br>スレイヴをこれ以上こじれさせないためにもさ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "さんせーだってば。ネメシスクーガと同じくらい<%br>スレイヴフェザーもおっかないもんな……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "そう……ですね……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "リーダー。私たちはこれからどうする？<%br>任務の命令はまだ来そうにないけれど。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "あ、それなんだけど。時間があるなら<%br>彼らのことを詳しく調べに行きたいんだよね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "33",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "今は自分の目で確かめた情報じゃないと<%br>信用できそうにないし……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "34",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "できれば、ウェポノイドを開発してる研究所に<%br>行きたいんだけど。どうかな、リーダー？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "35",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "できれば、ウェポノイドを開発してる研究所に<%br>行きたいんだけど。どうかな、リーダー？",
+		"tr_text": "",
+		"jp_buttons": [
+			"賛成。",
+			"命令が出るまでなら。"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 3
+	},
+	{
+		"eventNo": "36",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "よーし、それじゃ行こうぜ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ふう……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ジェネ、大丈夫？<%br>さっきからずっと上の空のようだけど。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "あ……すみません。<%br>でも、どうしても考えてしまうんです。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "スレイヴセイバーさんはどうして<%br>襲撃のことを教えてくれたんだろう……って。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "あー、確かにそれは気になるよね。<%br>最初は罠なんじゃと思ったけど、違ったし。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "それで……理由を考えているうちに<%br>わたし、思い出したんです。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "スレイヴセイバーさんに言われた<%br>「愛するヒトがいますか？」という言葉を。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "それって……いつのこと？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "彼女が「ネメシスについて教えてほしい」と<%br>ひとりで会いに来た時です。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "リーダーとわたしは、話の途中で<%br>去っていってしまった彼女を追いかけました。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "そういえば、ふたりが<%br>いなくなってたこと、あったな。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "で……スレイヴセイバーさんに聞かれたんです。<%br>「あなた方には愛するヒトがいますか？」と。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "どうしてそんなことを言ったのか<%br>あの時はわかりませんでしたけど……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "もしかしたら……スレイヴセイバーさん自身に<%br>愛するヒトがいるんじゃないでしょうか。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "自分にいるから、ジェネちゃんにも<%br>聞いてきたってこと？　それこそどうして？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "スレイヴセイバーさんは<%br>その気持ちに戸惑っているのかも……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "愛するヒトの話をした後には<%br>「素直に生きたかった」とも言っていました。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "あの質問や表情の意味が……<%br>今ならわかる気がするんです。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "スレイヴセイバーさんが愛しているのは好きだと<%br>認められないヒトなんじゃないでしょうか……？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "愛しているヒトがいる。でも認められない。<%br>だから素直になりたいと言った。そういうこと？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "でも「認められない」なんて、へんだってば！<%br>誰が誰を好きでも、べつにいーじゃんか。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "いや、そうもいかないもんよ。<%br>周りが許さなかったりする場合もあるしさ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "えー？　それこそへんだぞ。<%br>敵を好きになったわけでもないのに。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "……ん？　敵……？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "待ってちょうだい。<%br>素直に認められない相手って、まさか……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "スレイヴセイバーは<%br>ネメシスの誰かを好きなのかっ！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "す、推測ですよ！？<%br>本人が言っていたわけじゃないですし……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "なるほどなぁ。<%br>けど、そう考えると辻褄は合うかもね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ネメシスへの襲撃を止めたかった理由が<%br>スレイヴセイバーにはあったわけだし。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "で、でもでも……あんなに憎み合ってるのに<%br>そんなこと有り得るのか……？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ないとは言い切れないよ。<%br>それが「ヒトの心」ってものさ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ヒトの心……そうですよね。<%br>ウェポノイドだって、心はヒトと同じ……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "はぁ……ここにきて恋愛沙汰なんて。<%br>ますます厄介なことになってきたわね……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "それじゃ、俺は少し別行動させてもらおうかな。<%br>またここで合流しよう。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "じっとしていても時間の無駄ね。<%br>私たちも、聞き込みでもしましょうか。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "この研究所へ入る許可は得ているけれど<%br>面倒事は避けたいから、控えめに行きましょう。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "うーん……<%br>有力な情報はあまり聞けませんでしたね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "箝口令を敷かれているのかもしれないわ。<%br>あとはブルーノに期待するしかないわね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "じゃあ、さっきの場所へ戻って<%br>ブルーノさんを……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "わわっ！？　なっ、なんだこの音！<%br>アネット！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "緊急事態を知らせるアラートよ！<%br>所内でなにか起きたんだわ……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ええっ！？<%br>ど、どうしたら……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "研究所職員A",
+		"tr_name": "",
+		"jp_text": "はぁ、はぁっ……おい、アンタたち！<%br>調査に来たっていうアークスか！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ひっ！<%br>お、オレたちはなにもしてないぞ！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "落ち着いて、モア。<%br>貴方、ここの職員よね？　なにがあったの？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "研究所職員A",
+		"tr_name": "",
+		"jp_text": "し、侵入者だよ！！<%br>突然現れて……職員を襲い始めたんだ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "研究所職員A",
+		"tr_name": "",
+		"jp_text": "しかも、研究対象として捕獲していた原生生物も<%br>騒動の影響なのか暴れ始めて……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "侵入者に、エネミーまで……！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "研究所職員A",
+		"tr_name": "",
+		"jp_text": "あちこちパニックだよ！<%br>ここにいるのは戦えない研究者ばかりだし……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "リーダー！　助けに行きましょう！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "リーダー！　助けに行きましょう！",
+		"tr_text": "",
+		"jp_buttons": [
+			"どこへ向かえばいい？",
+			"あなたは早く避難を。"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "研究所職員A",
+		"tr_name": "",
+		"jp_text": "侵入者はこの先にいる！<%br>頼んだぞ……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "研究所職員A",
+		"tr_name": "",
+		"jp_text": "あ、ああ。ありがとう！<%br>アンタたちも気をつけて……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "急ぎましょう、リーダー。<%br>貴重なデータが壊されでもしたら最悪だわ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "エネミーは……もう見当たらないわね。<%br>弱いのばかりで良かったわ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "あっ！　おい、あそこに誰かいるぞ！<%br>ケガしてるみたいだ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "研究所職員B",
+		"tr_name": "",
+		"jp_text": "う……あぁ……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ひどい傷ね……すぐに手当てするわ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "エネミーにやられちゃったのか……？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "いいえ、そうじゃない。<%br>この傷口はおそらく……人為的なものよ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "じゃあ、このヒトを襲ったのは<%br>エネミーじゃなくて侵入者……？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "な、なあ……リーダー……<%br>似たようなこと、前にもあったよな……？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "スレイヴフェザー",
+		"tr_name": "",
+		"jp_text": "キミたちは運がいい。<%br>もう飽きたから、帰るところだったんだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "あの時のように……<%br>また、スレイヴフェザーさんが……？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "うわああああああッ！！！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ひ、悲鳴だ！<%br>また誰かやられたのかっ！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ひ、悲鳴だ！<%br>また誰かやられたのかっ！？",
+		"tr_text": "",
+		"jp_buttons": [
+			"怪我人を放っておくわけには……",
+			"アネット、ここは頼む。"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "私が残るわ。怪我人はなんとかするから<%br>リーダーたちは行って！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "わかったわ。<%br>私もすぐに追うけれど、気をつけて！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ううっ……<%br>ここにもいっぱい倒れてるぞ……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "この状況……そっくりです。<%br>やっぱり侵入者というのは……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ネメシスクーガ",
+		"tr_name": "",
+		"jp_text": "……また卿らか。<%br>よほど我々の邪魔をしたいと見える。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ね、ネメシスクーガ！？<%br>侵入者って……お前だったのか！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "研究職員C",
+		"tr_name": "",
+		"jp_text": "た、たす……けて……くれ……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ネメシスクーガ",
+		"tr_name": "",
+		"jp_text": "罪を犯した貴様に口を開く権利はない。<%br>黙っていろ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "研究職員C",
+		"tr_name": "",
+		"jp_text": "うぐっ！！　がはっ……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "や、やめてください、ネメシスクーガさん！<%br>そのヒトがなにをしたって言うんです！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ネメシスクーガ",
+		"tr_name": "",
+		"jp_text": "なにをした、だと？<%br>ここにいるのはみな、悪しき罪を犯した者だ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ネメシスクーガ",
+		"tr_name": "",
+		"jp_text": "力を得たいがためにスレイヴを生み出した。<%br>その欲深さを悪と言わず、なんと言う？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "スレイヴというウェポノイドを創り出したから<%br>痛めつけているんですか！？　そんな……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ネメシスクーガ",
+		"tr_name": "",
+		"jp_text": "スレイヴだけが悪なのではない。　<%br>スレイヴを求めるヒトもまた……悪なのだ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "ネメシスクーガ",
+		"tr_name": "",
+		"jp_text": "悪は滅ぼさねばならない！　なにをしてでも！<%br>それが我らネメシスの使命だ！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "ネメシスクーガ",
+		"tr_name": "",
+		"jp_text": "悪は滅ぼさねばならない！　なにをしてでも！<%br>それが我らネメシスの使命だ！！",
+		"tr_text": "",
+		"jp_buttons": [
+			"させない！",
+			"冷静になれ！"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 3
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "ネメシスクーガ",
+		"tr_name": "",
+		"jp_text": "また邪魔をするか……！<%br>ならば卿らも無事では済まんぞ！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "ネメシスシューズ",
+		"tr_name": "",
+		"jp_text": "待って、クーガ！<%br>そろそろ退かないとまずいよ！　増援が来てる！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "ネメシスクーガ",
+		"tr_name": "",
+		"jp_text": "知ったことか！　悪を生む者どもは<%br>この手で裁いてやらねばならぬのだ！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "ネメシスキャリバー",
+		"tr_name": "",
+		"jp_text": "まったくわからず屋なんだから……！<%br>デュアル、クーガを連れてきて！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "33",
+		"jp_name": "ネメシスデュアル",
+		"tr_name": "",
+		"jp_text": "首長様、ここは参りましょう！<%br>大丈夫です、チャンスは必ずまた訪れます。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "34",
+		"jp_name": "ネメシスクーガ",
+		"tr_name": "",
+		"jp_text": "ええい、わかった！　一旦退こう。<%br>だが、これで終わりではないぞ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "35",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "36",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "た、戦わずに済んで<%br>ラッキー……だったのか……？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "37",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "まさか、あんな理由で……<%br>ヒトにまで憎しみの目が向くなんて……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "よかった、みんな無事だったんだな。<%br>侵入者がいるって聞いたけど……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ネメシスたちだよ！<%br>あいつら、研究所のヒトたちを襲ってたんだ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "負傷者はメディカルセンターに運ばれたわ。<%br>全員、命に別状はないそうよ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "そりゃまた大変だったみたいだな……<%br>まあ、みんなに何事もなくてホッとしたよ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "しかし、天使と呼ばれる連中が<%br>ヒトの命を危険に晒すとは……世も末だな。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "なんとなく察してはいたけれど、ネメシスも<%br>スレイヴ同様、まともじゃないみたいね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "彼らが抱えているものは……<%br>私たちの想像以上に厄介なのかもしれないわ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "あっ、そのことなんだけどさ！<%br>また新たにわかったことがあるんだよ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ネメシスとスレイヴが、ウェポノイドとして<%br>何度も生まれた記録があるって話は覚えてる？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "はい。確か「適切な人格を伴って生まれるように<%br>アークスが試行錯誤を繰り返している」と……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "うん。俺の推測ではそうだったんだけど……<%br>調査してみて、ちょっと違うとわかったんだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "どうやら、アークスが率先して<%br>やっているわけじゃなさそうなんだよね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……？<%br>上層部は無関係だったということ？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "いや、必ず関わってはいるはずだし<%br>裏で糸を引いている部分もあるだろうけど……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ネメシスとスレイヴはウェポノイドになってからも<%br>何度となく戦争を繰り返しているんだよ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "つまり、アークスが導いているわけじゃなくて<%br>本人たちが自ら破滅へ向かっているってこと。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "え……でも、ネメシスさんもスレイヴさんも<%br>そんなことは一言も……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "重要なのはそこなんだ。どっちも<%br>武器だった頃の話しかしてなかっただろ？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "どういうことだってば……！？<%br>全然わかんないぞ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "どういうことだってば……！？<%br>全然わかんないぞ！",
+		"tr_text": "",
+		"jp_buttons": [
+			"忘れたふりをしている？",
+			"記憶を消されている？"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "というより、忘れてるんだ。<%br>創る時に記憶を消されてるから。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "さすがリーダー、鋭いね。<%br>そう、記憶は創られる度に消されてるんだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "まあ、当然かもしれないわね。<%br>昔の因縁だけでも、あれだけ根深いんだもの。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "それ以降も繰り返し殺し合っていると知ったら<%br>憎しみは……さらに増すに決まってる。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "だったら、やっぱりアークスも悪いじゃんか！<%br>戦争するってわかってるのに創ってるんだろ！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ネメシスクーガがヒトに怒った気持ちも<%br>ちょっとだけ、わかるってば……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "…………",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "リーダー、聞こえますか……？<%br>緊急で報告したいことがあります。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "実は……リーダーと極秘裏に話したいと<%br>ネメシスセイバーさんから交渉がありました。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "このタイミングで、しかも向こうから接触を？<%br>……緊急事態ということでしょうか。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "リーダー、さっきの襲撃時<%br>ネメシスセイバーの姿はなかったのよね？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "やっぱり彼だけは、ほかのネメシスと違う考えを<%br>持っているのかもしれないわね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "やっぱり彼だけは、ほかのネメシスと違う考えを<%br>持っているのかもしれないわね。",
+		"tr_text": "",
+		"jp_buttons": [
+			"是非話したい。",
+			"どこに行けばいい？"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 3
+	},
+	{
+		"eventNo": "33",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "では、私のほうで場所を指定します。<%br>みなさんもそちらへ向かってください。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "落ち合うのはここでいいんですよね。<%br>ネメシスセイバーさんは……まだみたいです。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ちょうどいいわ。<%br>ブルーノ、話の続きを聞かせてちょうだい。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "もちろん。<%br>俺も改めて整理しておきたいし。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "さっきも言った通り、ネメシスとスレイヴは<%br>長い間、戦争を繰り返している。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "戦い、最後は相打ちとなって、機能停止。<%br>アークスはそのタイミングで彼らを回収する。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "そして研究所に連れ帰り、新しい命を与える。<%br>次こそはまともであってくれ、と願いながらね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "しかし再び目を覚ました彼らは戦い合い……<%br>また同じ末路を辿ってしまう。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "もうずっとそのループらしい。<%br>ここまで来ると、もはや呪いに近いね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "記憶は消されてるんだよな？<%br>それなのに、また戦っちゃうのか……？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "記憶がなかろうと、生まれ変わろうと<%br>彼らの本質や本能は変えられないってことさ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "研究結果にもそう書いてあったよ。<%br>「この実験に成功の未来はないだろう」って。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "それでも、こうして続けているんだもの。<%br>本質を変えられないのは上層部も同じね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "たとえ記憶を消されていても……<%br>その度に傷ついているのは確かなのに……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "……そうか。<%br>君たちも知ってしまったんだね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ネメシスセイバーさん……！？<%br>まさか、今の話……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "ああ、すべて聞かせてもらったよ。<%br>だけど大丈夫。驚いたりしないよ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "僕には……「その記憶」が残っているから。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "えっ……！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "いやいや、そんなはずはない。<%br>記録には「記憶は消されている」って……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "なぜかは僕にもわからない。<%br>でも、確かに覚えているんだよ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "繰り返される争いも……<%br>倒れていく仲間たちの姿もね……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "繰り返される争いも……<%br>倒れていく仲間たちの姿もね……",
+		"tr_text": "",
+		"jp_buttons": [
+			"どうして黙っていた？",
+			"話してくれればよかったのに。"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "覚えていないことになっているなら<%br>そうするべきだと思ったんだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "そう出来たらよかったんだけどね。<%br>でも……やっぱり無理だったよ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "僕以外のみんなは、誰も覚えていないから。<%br>ネメシスも……スレイヴも。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "ただでさえ本能的に憎しみ合っているのに……<%br>これ以上、刺激したくはなかった。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ネメシスセイバー……やっぱり貴方は<%br>戦いたくないと思っているのね？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "……これまで、数えきれないほど<%br>悲劇の結末を目にしてきたからね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "争い合って手に入るものなんて、ないんだよ。<%br>だったら僕はもう……戦いたくない。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "じゃあアンタは、スレイヴとの共存を<%br>望んでいるのか？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "そうだ。<%br>だから、こうして君たちに助けを求めに来た。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "そして……共存を望んでいるのは<%br>僕だけじゃない。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "スレイヴの中にも、きっと僕と同じ気持ちのヒトが<%br>いるはずだ。それを伝えにも来た。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "33",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "共存を願っているヒトが、スレイヴにも……？<%br>その方も記憶が残っているんですか？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "34",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "いや……だけど、優しいヒトなんだ。<%br>記憶がなくてもきっと……僕はそう信じてる。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "35",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "お願いだ、リーダー。<%br>僕を……僕たちを助けてほしい。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "36",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "この終わりのない戦争を<%br>どうか君たちの手で止めてくれ……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "来てくださってありがとうございます。<%br>……スレイヴセイバーさん。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "くれぐれもお静かに。<%br>仲間に知られることは避けたいのです。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "すみませんが、時間もあまりありません。<%br>内密に話したいことがあると聞きましたが……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "すみませんが、時間もあまりありません。<%br>内密に話したいことがあると聞きましたが……",
+		"tr_text": "",
+		"jp_buttons": [
+			"ネメシスと共存したい？",
+			"愛するヒトがいる？"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "……なぜ、そのようなことを？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "以前、私があなた方にした質問ですね。<%br>なぜそのようなことを？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "スレイヴセイバーさんは、ネメシスさんと<%br>共存したいと望んでいるんじゃないですか？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "なぜなら……<%br>彼らの中の誰かを愛してしまったから……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "突然こんなことを言ってすみません。<%br>だけどもし、あなたがそう願っているなら……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "わたし達は力になりたい。<%br>そう思っているんです。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "私は……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "以前「素直に生きたい」と言っていましたよね。<%br>わたし達には、正直に話してもらえませんか？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "…………",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "……あなた方の言う通りです。<%br>私は……もう、争いたくない。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "誰かを傷つけるのも、誰かが傷つくのも<%br>二度と見たくないのです。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "やっぱり……だから先日の襲撃についても<%br>教えてくれたんですね？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "仲間を裏切る行為であることは<%br>もちろん、わかっていました。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "それでも……あの方を守りたかった。<%br>……ネメシスセイバーを。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "……！　じゃあ、スレイヴセイバーさんは<%br>ネメシスセイバーさんのことを……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "決して許されない想いです。<%br>忘れられたらどんなにいいかと毎日思いました。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "けれど、そう思えば思うほど……<%br>あの方に愛されたい気持ちは大きくなっていく。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "何度、生まれ変わっても……<%br>その欲望を捨てることだけはできませんでした。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "何度、生まれ変わっても……<%br>その欲望を捨てることだけはできませんでした。",
+		"tr_text": "",
+		"jp_buttons": [
+			"何度、生まれ変わっても？",
+			"もしかして記憶が……？"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 3
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "スレイヴとネメシスは……これまでに何度も<%br>生まれては死に、生まれてきたのです。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "えっ！？<%br>どうしてそのことを……！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "もしや……あなた方もご存知だったのですか？<%br>私たちが戦争を繰り返していること……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "もしや……あなた方もご存知だったのですか？<%br>私たちが戦争を繰り返していること……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "は、はい、実は……<%br>でもみなさんの記憶は消されていると。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "通常はそうなるはずなのです。<%br>ですが私だけは……違いました。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "記憶が消えれば、諦めもつくというのに。<%br>これは……罰なのかもしれませんね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "許されない恋心を抱いた者への……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "もちろん、これらは誰も知らないことです。<%br>伝えるつもりも……ありません。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "33",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "かつて愛し合ったことがあっても、今は敵。<%br>敵に愛されてもあの方は困るだけでしょうから。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "34",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "スレイヴセイバーさん……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "35",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "ダーカーの気配……<%br>……ここまでのようですね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "36",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "歩み寄ろうとする度、阻まれる……<%br>私とあの方はそういう運命なのでしょう。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "37",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "38",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "あっ……！<%br>待ってください、スレイヴセイバーさん！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "39",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "あっ……！<%br>待ってください、スレイヴセイバーさん！！",
+		"tr_text": "",
+		"jp_buttons": [
+			"スレイヴセイバーを追って！",
+			"ここはまかせて！"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 3
+	},
+	{
+		"eventNo": "40",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "はっ、はい！<%br>ありがとうございます、リーダー！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "（……とうとう話してしまった。<%br>　ずっと、心に秘めてきたことを……）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "（けれど、もう抑えることができなかった。<%br>　私は……あの方を長く愛しすぎてしまった）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "（触れ合うことができたのは、もうずっと昔の話。<%br>　あの頃に戻れる希望など……今はないのに）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "スレイヴセイバーさん、待ってください！<%br>まだお話ししたいことがあるんです……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "ジェネ……？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ネメシスセイバーさんも一緒なんです。<%br>あなたと同じで、記憶が残ってるんです……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "……え？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "わたし達がこうしてあなたに会いに来たのも<%br>ネメシスセイバーさんに聞いたからなんです。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "「優しい彼女なら共存を願っているはず」と<%br>言っていました。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "あの方が……？<%br>私を……覚えている……？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "そうです！　ネメシスセイバーさんも……<%br>あなたを忘れることができなかったんです。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "……有り得ません。<%br>そんな夢みたいなこと……あるはずがない。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "私は自分の欲のために、仲間を裏切りました。<%br>喜びを感じていい資格など、ないのです。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "いいえ……！<%br>資格がないなんてこと、絶対にありません！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "誰にでも幸せになる権利はあります。<%br>どんなヒトにも、どんなウェポノイドにもです。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "……ジェネ？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "わたしにもかつて……本当の記憶を<%br>思い出すという瞬間がありました。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "忘れたままでいたかったと思ったこともあります。<%br>でも、知ることに意味があったとも思うんです。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "スレイヴセイバーさんやネメシスセイバーさんも<%br>きっと、そうなんだと思います。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "普通なら消えるはずの記憶が残っている。<%br>その意味が必ずあるはずです。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "記憶が残っている、意味……？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "わたしは……<%br>運命を変えるためなんじゃないかと思います。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ただの希望と言われれば、それまでです。<%br>でも……そう信じてみませんか？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "この運命を……変えるため……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "ジェネちゃん！<%br>ジェネちゃん、聞こえますか！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "セラフィさん！？<%br>ど、どうしたんです？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "大規模な戦闘が発生しました！<%br>至急、リーダーと合流してください。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "戦っているのは……ネメシスとスレイヴです。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "……！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "詳細は調査中ですが、規模から言って<%br>おそらく全面戦争の可能性が高いです……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "そ、そんな……！　どうして今……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "ジェネ、すぐに向かいましょう！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "えっ……？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "33",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "私はこれまで運命を受け入れることしか<%br>してきませんでした。ですが、もし……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "34",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "あなたの言う通り、運命を変えられるなら。<%br>変えてみたい。変えたい、と……思いました。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "35",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "ありがとうございます、ジェネ。<%br>あなたのおかげです。……さあ、行きましょう。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "36",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "スレイヴセイバーさん……！<%br>……はいっ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "37",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "（変えられないから「運命」と呼ぶのだと<%br>　わかっている。それでも、もうよかった）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "38",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "（待っているのが同じ結末だったとしても……<%br>　私はもう一度、あの方と触れ合いたい）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "39",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "（それだけが、私の望むことだ）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "リーダー、ジェネから連絡がきたわ。<%br>スレイヴセイバーも協力してくれるそうよ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ひとりで後を追ったってリーダーに聞いた時は<%br>心配だったけど、上手く話せたみたいだな。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "スレイヴセイバーは渦中の一員ってことで<%br>貴重な存在だけど……どうする？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "スレイヴセイバーは渦中の一員ってことで<%br>貴重な存在だけど……どうする？",
+		"tr_text": "",
+		"jp_buttons": [
+			"スレイヴフェザーの説得を頼もう。",
+			"スレイヴセイバーのしたいように。"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "了解。<%br>ジェネは私たちと合流するように伝えるわ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "まあ、彼女がどう行動するにしろ<%br>ジェネは私たちと合流するように伝えるわ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "なあなあ、セラフィさん。オレたちのほかに<%br>アークスのチームはもう行ってるのか？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "もしネメシスとスレイヴが全員戦ってるなら<%br>オレ、ちょっと不安だぞ……？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "それが……大変言いづらいことなんですが……<%br>たった今、ある決定が下りてきました。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "うわー、嫌な予感……<%br>一応聞くけど、どんな決定？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "戦闘が起きている場所は幸い惑星の僻地なので<%br>当人たち以外が巻き込まれる可能性は低く……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "なにより、彼らはアークスに対して<%br>強い敵意を抱いていることがわかっています。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "それらのことから……<%br>上層部は「この戦闘を黙認する」……と。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "なんだよそれ！<%br>勝手に戦えってことか！？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "「今回の」ネメシスとスレイヴは失敗作だったと<%br>正式に判断したわけだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "スレイヴクーガのように見殺しにするのね。<%br>……本当に不愉快極まりない。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "とはいえ上が黙認を決めた以上、出動すれば<%br>命令違反に問われる可能性もあるわ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "とはいえ上が黙認を決めた以上、出動すれば<%br>命令違反に問われる可能性もあるわ。",
+		"tr_text": "",
+		"jp_buttons": [
+			"知ったことか。",
+			"様子を見に行くだけなら平気。"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "だよな！<%br>さすがオレたちのリーダーだってば！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "おチビは大丈夫なのか？<%br>俺たちだけじゃ不安だ～とか言ってたけど？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "だからって、ほっとくなんてできないだろ！<%br>オレもかくごを決めるってば！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "よく言ったわ、モア。<%br>じゃあ行きましょう。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ま、確かに。<%br>待機命令が出たわけでもないしね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "いざとなったら情報部のコネを利用するよ。<%br>この状況じゃ清く正しくやるほうが馬鹿らしい。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "よし……ちょっと怖いけど！<%br>行くしかないってば！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "スレイヴバレット",
+		"tr_name": "",
+		"jp_text": "チッ……どけ！　道をあけろ！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ネメシスチェイン",
+		"tr_name": "",
+		"jp_text": "ううっ……まだ、まだぁ……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ネメシスデュアル",
+		"tr_name": "",
+		"jp_text": "チェイン、下がりなさい！<%br>私が出ます！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ネメシスキャリバー",
+		"tr_name": "",
+		"jp_text": "……あの子たち、大丈夫かしら。<%br>やっぱりあたしたちも加勢したほうが……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ネメシスクーガ",
+		"tr_name": "",
+		"jp_text": "キャリバー、卿には卿のすべきことがある。<%br>シューズもわかっているな？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ネメシスシューズ",
+		"tr_name": "",
+		"jp_text": "うん。スレイヴフェザーを<%br>見つけに行けばいいんでしょ？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ネメシスシューズ",
+		"tr_name": "",
+		"jp_text": "キャリバー。確かにみんなのことは心配だけど<%br>クーガとセイバーが残ってくれるし、平気だよ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ネメシスキャリバー",
+		"tr_name": "",
+		"jp_text": "……そうね。<%br>じゃあふたりとも、くれぐれも頼んだわよ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "……クーガ。<%br>君と少し話がしたいんだけど……いいかい？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ネメシスクーガ",
+		"tr_name": "",
+		"jp_text": "私を失望させるような話でなければな。<%br>だが、今は気が立っていることを忘れるな。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "……場所を変えよう。<%br>ここではデュアルたちの戦いの邪魔になる。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "（……戦うのをやめてくれ、なんて言っても<%br>　聞き入れてくれるクーガじゃない）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "（僕らが戦争を繰り返している事実を伝えても<%br>　ヒトへの敵意が増して、さらに怒り狂うだろう）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "（でも、今頃リーダーたちがスレイヴを<%br>　説得してくれているはずなんだ。なら……）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "……クーガ。僕もちゃんとわかっているんだ。<%br>悪を滅ぼすことがネメシスの使命だというのは。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "だけど、僕らが悪だと決めつけている彼らにも<%br>理由があるのかもしれないって……思うんだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ネメシスクーガ",
+		"tr_name": "",
+		"jp_text": "……失望させるなと言ったはずだが。<%br>ネメシスセイバー、卿はなにが言いたい。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "っ……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "ぼ、僕は……どうにか話し合って……<%br>スレイヴとも共存できたらいいと、そう思ってる。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "僕だけじゃない。スレイヴの中にも<%br>同じことを願っているヒトはいるんだ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "だから希望はある！<%br>戦う以外にも光で満たす方法は……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ネメシスクーガ",
+		"tr_name": "",
+		"jp_text": "セイバー、貴様……<%br>ネメシスを裏切るつもりか。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "ち、違うっ！　そうじゃない！<%br>ただ、こんなことを繰り返したってなにも……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "ネメシスクーガ",
+		"tr_name": "",
+		"jp_text": "黙れ！！！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ネメシスクーガ",
+		"tr_name": "",
+		"jp_text": "よもやスレイヴの肩を持つとは……<%br>悪に染まった貴様に用はない。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "クーガ！　お願いだ、話を……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "ネメシスクーガ",
+		"tr_name": "",
+		"jp_text": "正義なき者にかける慈悲はないが……喜べ。<%br>我が剣をもって、貴様を粛清してやる。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "ネメシスクーガ",
+		"tr_name": "",
+		"jp_text": "悪は直ちに断罪しなければ。<%br>ネメシスの手で……残らず……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ネメシスキャリバー",
+		"tr_name": "",
+		"jp_text": "……やっぱり心配だわ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ネメシスシューズ",
+		"tr_name": "",
+		"jp_text": "デュアルとチェインのこと？<%br>クーガたちがついてるから平気だって。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ネメシスキャリバー",
+		"tr_name": "",
+		"jp_text": "クーガとセイバーを残してきたことも心配なのよ。<%br>仲良くやっているといいけれど……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ネメシスシューズ",
+		"tr_name": "",
+		"jp_text": "キャリバーは本当に心配性だね。<%br>今はそれよりスレイヴフェザーを……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "スレイヴキャノン",
+		"tr_name": "",
+		"jp_text": "我が大将になにか用か？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ネメシスシューズ",
+		"tr_name": "",
+		"jp_text": "っ！！　スレイヴ……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "スレイヴキャノン",
+		"tr_name": "",
+		"jp_text": "ここを通りたければオレの相手をしてもらおう。<%br>スレイヴ一の猛将、スレイヴキャノンのな。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ネメシスキャリバー",
+		"tr_name": "",
+		"jp_text": "あらあら……どうやら今は自分たちの<%br>心配をしたほうがいいみたいね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "スレイヴキャノン",
+		"tr_name": "",
+		"jp_text": "さあ来い、ネメシス！<%br>せいぜいオレを楽しませてみるがいい！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "スレイヴフェザー",
+		"tr_name": "",
+		"jp_text": "ああ……いいね。<%br>あちこちから楽しそうな音が聞こえてくるよ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "スレイヴフェザー",
+		"tr_name": "",
+		"jp_text": "ボクもそろそろ遊びに行くとしようかな。<%br>自由を懸けた戦争をしに、ね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "……フェザー様っ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "スレイヴフェザー",
+		"tr_name": "",
+		"jp_text": "おや、スレイヴセイバー。どこにいたんだい？<%br>姿が見えないから心配していたんだよ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "あなたに、お話ししたいことがあります。<%br>……この戦争の真実について。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "スレイヴフェザー",
+		"tr_name": "",
+		"jp_text": "へえ、真実？　いいけど手短に頼むよ。<%br>じっとしているのは飽きてしまったんだ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "（何度やっても決着がつかない事実を聞けば<%br>　フェザー様の考えも変わるかもしれない）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "（望みは薄いでしょう。<%br>　けれど……運命は自分で変えなければ）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "スレイヴフェザー",
+		"tr_name": "",
+		"jp_text": "ボクらは戦争で壊れては創られ、また戦争を<%br>している……それがキミの言う「真実」かい？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "スレイヴフェザー",
+		"tr_name": "",
+		"jp_text": "…………ふふっ、あはははははっ！<%br>そんなこと、ボクはとっくの昔に知っていたよ！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "……え……？<%br>知っていた……って……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "スレイヴフェザー",
+		"tr_name": "",
+		"jp_text": "キミと同じで、記憶が残っているということさ。<%br>知らないふりをしていただけでね。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "し、知っているのに……繰り返すのですか？<%br>無意味だとわかっていても、なお……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "スレイヴフェザー",
+		"tr_name": "",
+		"jp_text": "無意味？　無意味なものか。<%br>キミはおかしなことを言うねぇ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "スレイヴフェザー",
+		"tr_name": "",
+		"jp_text": "何度やり合おうと勝てない。<%br>「だから」戦うんじゃないか。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "スレイヴフェザー",
+		"tr_name": "",
+		"jp_text": "逆に考えてごらんよ。<%br>どうしてボクたちが繰り返し戦争をしているか。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "スレイヴフェザー",
+		"tr_name": "",
+		"jp_text": "一度も勝敗がついていないからだろう？<%br>ならば戦って、勝つしかないじゃないか。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "スレイヴフェザー",
+		"tr_name": "",
+		"jp_text": "勝ち残らない限り、自由は手に入らない。<%br>それが繰り返される歴史の中で学んだことだよ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "リーダー！　みなさん！<%br>お待たせしてすみません……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "だいじょーぶだぞ！<%br>スレイヴセイバーはいっしょじゃないのか？",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "スレイヴフェザーさんを説得に向かいました。<%br>上手くいっているといいんですが……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "他人の心配は後みたいね。<%br>戦闘のせいか、ダーカーが集まってきてるわ。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "やれやれ、反逆するのも楽じゃないね。<%br>ま、やるしかないか！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "（……ダメだった。<%br>　フェザー様を……止められなかった）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "（仲間たちも……みな、どこかで戦っている。<%br>　この戦争はもう止められない……）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "（スレイヴなら……私も戦わなくてはならない。<%br>　スレイヴクーガも、それを望んでいた）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "（今が彼女への償いの時なのかもしれない。<%br>　犠牲になったスレイヴクーガへの……）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "誰にでも幸せになる権利はあります。<%br>どんなヒトにも、どんなウェポノイドにもです。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "（……罪にまみれたウェポノイドにも<%br>　その権利はあると思いますか……ジェネ）",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "待ってくれ、クーガ！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ネメシスクーガ",
+		"tr_name": "",
+		"jp_text": "その口を閉じろ。<%br>悪が満ちた言葉を私に聞かせるな。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ネメシスクーガ",
+		"tr_name": "",
+		"jp_text": "恨むならばスレイヴを恨め。<%br>ネメシスの光をも侵食した邪悪な魂を。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "っ……違う！<%br>彼女は……彼女は邪悪なんかじゃない！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "今のはネメシスセイバーの声……！<%br>声が聞こえるなら、近くにいるはず……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "っ！　あの後ろ姿は……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "ネメシスセイバー……！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ネメシスクーガ",
+		"tr_name": "",
+		"jp_text": "くく……はははっ！　邪悪じゃない、だと？<%br>やっと本性を現したな！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ネメシスクーガ",
+		"tr_name": "",
+		"jp_text": "ネメシスでありながら<%br>スレイヴに魅入られた愚か者め！！",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "―ザシュッ！！―",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ネメシスセイバー",
+		"tr_name": "",
+		"jp_text": "っ……う、ぁ……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ネメシスクーガ",
+		"tr_name": "",
+		"jp_text": "二度と私の前に姿を見せるな。",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "……そん……な……",
+		"tr_text": "",
+		"fileID": 3
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "スレイヴセイバー",
+		"tr_name": "",
+		"jp_text": "ネメシスセイバー！！",
+		"tr_text": "",
+		"fileID": 3
 	}
 ]
