@@ -163,9 +163,9 @@
 	{
 		"assign": "30012",
 		"jp_explainShort": "チップの効果時間が延長",
-		"tr_explainShort": "",
+		"tr_explainShort": "Chip Effect Duration extended",
 		"jp_explainLong": "① アクティブチップのアビリティ効果時間を\n　　 延長する。\n[発動条件]アクティブチップ発動時",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Extends the Effect Duration of Active Chips'\n    abilities.\n[Activation Trigger] Activating an Active Chip"
 	},
 	{
 		"assign": "30019",
@@ -5021,9 +5021,9 @@
 	{
 		"assign": "31925",
 		"jp_explainShort": "氷枚数ＪＡ威力超絶増加＋ＪＡ成功３回毎ＨＰ回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "JAs boosted x # Ice + 3 JAs = HP recovery",
 		"jp_explainLong": "① 装備中の氷属性チップの枚数に応じて\n　　 ジャストアタックの威力を超絶に増加する。\n② ジャストアタックを３回成功させるごとに\n　　 ＨＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Maximally boosts Just Attacks based on the\n    number of Ice chips equipped.\n    <color=yellow>[T-Frame]</color>\n② Slightly recovers HP every time you successfully\n    perform three Just Attacks.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31926",

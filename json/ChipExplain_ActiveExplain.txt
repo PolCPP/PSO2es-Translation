@@ -858,14 +858,14 @@
 		"jp_explainShort": "攻撃力微増加＋チップ発動時に効果時間延長",
 		"tr_explainShort": "Active chips boost damage & this effect",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② アクティブチップが発動するたびに\n　　 さらに攻撃力を増加する。\n③ アクティブチップが発動するたびに\n　　 効果時間を延長する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Slightly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Further boosts damage each time you activate\n    an active chip.\n    <color=yellow>[E-Frame]</color>\n③ Each time you activate an active chip, this\n    effect's duration is slightly extended.\n[Effect Duration] Long"
+		"tr_explainLong": "① Slightly boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Further boosts damage each time you activate\n    an active chip.\n    <color=yellow>[E-Frame]</color>\n③ Each time you activate an active chip, this\n    effect's duration is extended.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31204",
 		"jp_explainShort": "攻撃力増加＋チップ発動時に効果時間延長",
 		"tr_explainShort": "Active chips boost damage & this effect",
 		"jp_explainLong": "① 攻撃力を増加する。\n②  アクティブチップが発動するたびに\n　　 さらに攻撃力を増加する。\n③ アクティブチップが発動するたびに\n　　 効果時間を延長する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Further boosts damage each time you activate\n    an active chip.\n    <color=yellow>[E-Frame]</color>\n③ Each time you activate an active chip, this\n    effect's duration is slightly extended.\n[Effect Duration] Long"
+		"tr_explainLong": "① Boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Further boosts damage each time you activate\n    an active chip.\n    <color=yellow>[E-Frame]</color>\n③ Each time you activate an active chip, this\n    effect's duration is extended.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31211",
@@ -2249,9 +2249,9 @@
 	{
 		"assign": "31900",
 		"jp_explainShort": "雷枚数ＪＡ威力超絶増加＋ＪＡ成功３回毎ＣＰ回復",
-		"tr_explainShort": "",
+		"tr_explainShort": "JA boost x # Lightning + 3 JAs = CP recovery",
 		"jp_explainLong": "① 装備中の雷属性チップの枚数に応じて\n　　 ジャストアタックの威力を超絶に増加する。\n② ジャストアタックを３回成功させるごとに\n　　 ＣＰをわずかに回復する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "① Maximally boosts Just Attacks based on the\n    number of Lightning chips equipped.\n    <color=yellow>[T-Frame]</color>\n② Slightly recovers CP each time you successfully\n    perform 3 Just Attacks.\n[Effect Duration] Long"
 	},
 	{
 		"assign": "31901",
