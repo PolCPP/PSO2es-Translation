@@ -4988,14 +4988,14 @@
 		"jp_explainShort": "属性攻撃力を絶大増加＋定期的にＨＰ小回復",
 		"tr_explainShort": "Boost x ab. lv. x Ice/Wind/Light + HP regen",
 		"jp_explainLong": "① アビリティレベルと氷・風・光属性の合計値に応じて\n　　 属性攻撃力を絶大に増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Immensely boosts damage based on this chip's\n    ability level and the total value of your Ice, Wind\n    and Light elements.\n    <color=yellow>[R-Frame]</color>\n② Slightly recovers HP at regular intervals.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Immensely boosts elemental damage based on this\n    chip's ability level and the total value of your Ice,\n    Wind and Light elements.\n    <color=yellow>[R-Frame]</color>\n② Slightly recovers HP at regular intervals.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31919",
 		"jp_explainShort": "属性攻撃力を絶大増加＋定期的にＨＰ小回復",
 		"tr_explainShort": "Boost x ab. lv. x Ice/Wind/Light + HP regen",
 		"jp_explainLong": "① アビリティレベルと氷・風・光属性の合計値に応じて\n　　 属性攻撃力を絶大に増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Immensely boosts damage based on this chip's\n    ability level and the total value of your Ice, Wind\n    and Light elements.\n    <color=yellow>[R-Frame]</color>\n② Slightly recovers HP at regular intervals.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Immensely boosts elemental damage based on this\n    chip's ability level and the total value of your Ice,\n    Wind and Light elements.\n    <color=yellow>[R-Frame]</color>\n② Slightly recovers HP at regular intervals.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31920",
@@ -5028,16 +5028,16 @@
 	{
 		"assign": "31926",
 		"jp_explainShort": "アビＬｖ技法大強化＋炎枚数炎属性発動率上昇",
-		"tr_explainShort": "PAs&Techs boosted x ab. lv. + act. rates up",
+		"tr_explainShort": "PAs&Techs boost x ab. lv. + Fire act. rates up",
 		"jp_explainLong": "① 必殺技・法術の威力をアビリティレベルに応じて\n　　 大きく強化する。\n② 装備中の炎属性チップの枚数に応じて、炎属性の\n　　 チップの発動率を上昇する。\n③ 発動率上昇の効果を持つチップと組み合わせた場合\n　　 炎属性のチップの発動率上昇の効果を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Greatly boosts PAs and Techs based on this\n    chip's ability level.\n    <color=yellow>[A-Frame]</color>\n② Increases activation rate of all Support Chips\n    based on the number of Fire chips equipped.\n③ When combined with a chip that has an effect that\n    raises activation rates, enhances that effect to\n    raise the activation rates of Fire chips.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Greatly boosts PAs and Techs based on this\n    chip's ability level.\n    <color=yellow>[A-Frame]</color>\n② Increases activation rate of Fire Support Chips\n    based on the number of Fire chips equipped.\n③ When combined with a chip that has an effect that\n    raises activation rates, enhances that effect to\n    raise the activation rates of Fire chips.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31927",
 		"jp_explainShort": "アビＬｖ技法劇的強化＋炎枚数炎属性発動率上昇",
-		"tr_explainShort": "PAs&Techs boosted x ab. lv. + act. rates up",
+		"tr_explainShort": "PAs&Techs boost x ab. lv. + Fire act. rates up",
 		"jp_explainLong": "① 必殺技・法術の威力をアビリティレベルに応じて\n　　 劇的に強化する。\n② 装備中の炎属性チップの枚数に応じて、炎属性の\n　　 チップの発動率を上昇する。\n③ 発動率上昇の効果を持つチップと組み合わせた場合\n　　 炎属性のチップの発動率上昇の効果を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Dramatically boosts PAs and Techs based on this\n    chip's ability level.\n    <color=yellow>[A-Frame]</color>\n② Increases activation rate of all Support Chips\n    based on the number of Fire chips equipped.\n③ When combined with a chip that has an effect that\n    raises activation rates, enhances that effect to\n    raise the activation rates of Fire chips.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
+		"tr_explainLong": "① Dramatically boosts PAs and Techs based on this\n    chip's ability level.\n    <color=yellow>[A-Frame]</color>\n② Increases activation rate of Fire Support Chips\n    based on the number of Fire chips equipped.\n③ When combined with a chip that has an effect that\n    raises activation rates, enhances that effect to\n    raise the activation rates of Fire chips.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31928",
