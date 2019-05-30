@@ -2242,7 +2242,7 @@
 	{
 		"assign": "labo_chip_awake_select",
 		"jp_text": "特装・プラグ強化チップ選択",
-		"tr_text": ""
+		"tr_text": "Specialization/Plug-In Selection"
 	},
 	{
 		"assign": "labo_guide_05",
@@ -8152,12 +8152,12 @@
 	{
 		"assign": "chip_type_name_16",
 		"jp_text": "チップ特装素材",
-		"tr_text": ""
+		"tr_text": "Chip Specialization Material"
 	},
 	{
 		"assign": "chip_type_name_17",
 		"jp_text": "プラグ強化素材",
-		"tr_text": ""
+		"tr_text": "Plug-In Material"
 	},
 	{
 		"assign": "chip_type_name_weaponoid",
@@ -17767,7 +17767,7 @@
 	{
 		"assign": "filter_attribute",
 		"jp_text": "属性",
-		"tr_text": "Attribute Element"
+		"tr_text": "Element"
 	},
 	{
 		"assign": "filter_rarity",
@@ -17812,7 +17812,7 @@
 	{
 		"assign": "filter_can_awake_level_up",
 		"jp_text": "チップ特装・プラグ強化",
-		"tr_text": ""
+		"tr_text": "Chip Specialization/Plug-In"
 	},
 	{
 		"assign": "filter_ice",
@@ -17952,22 +17952,22 @@
 	{
 		"assign": "filter_chip_can_awake",
 		"jp_text": "特装可能",
-		"tr_text": ""
+		"tr_text": "Can Specialize"
 	},
 	{
 		"assign": "filter_chip_cant_awake",
 		"jp_text": "特装素材不足",
-		"tr_text": ""
+		"tr_text": "Needs Specialization Parts"
 	},
 	{
 		"assign": "filter_chip_can_awake_skill_up",
 		"jp_text": "プラグ強化可能",
-		"tr_text": ""
+		"tr_text": "Can Plug-In"
 	},
 	{
 		"assign": "filter_chip_cant_awake_skill_up",
 		"jp_text": "プラグ強化素材不足",
-		"tr_text": ""
+		"tr_text": "Needs Plug-In Parts"
 	},
 	{
 		"assign": "window_help_LM32",
@@ -21607,32 +21607,32 @@
 	{
 		"assign": "filter_chip_awake_can",
 		"jp_text": "特装可能",
-		"tr_text": ""
+		"tr_text": "Can Specialize"
 	},
 	{
 		"assign": "filter_chip_awake_skill_can",
 		"jp_text": "プラグ強化可能",
-		"tr_text": ""
+		"tr_text": "Can Plug-In"
 	},
 	{
 		"assign": "filter_chip_awake_shortage",
 		"jp_text": "特装素材不足",
-		"tr_text": ""
+		"tr_text": "Needs Specialization Parts"
 	},
 	{
 		"assign": "filter_chip_skill_awake_shortage",
 		"jp_text": "プラグ強化素材不足",
-		"tr_text": ""
+		"tr_text": "Needs Plug-In Parts"
 	},
 	{
 		"assign": "chip_window_chip_awake",
 		"jp_text": "特装・プラグ強化チップ選択",
-		"tr_text": ""
+		"tr_text": "Specialization/Plug-In Selection"
 	},
 	{
 		"assign": "chip_awake_selectbutton_chiplv",
 		"jp_text": "最大チップLv：",
-		"tr_text": ""
+		"tr_text": "Max. Chip Level:"
 	},
 	{
 		"assign": "chip_awake_selectbutton_skill",
@@ -21652,12 +21652,12 @@
 	{
 		"assign": "chip_awake_ui_head_selectchip",
 		"jp_text": "選択チップ・効果",
-		"tr_text": ""
+		"tr_text": "Selected Chip/Effect"
 	},
 	{
 		"assign": "chip_awake_ui_head_material",
 		"jp_text": "必要素材チップ",
-		"tr_text": ""
+		"tr_text": "Material Needed"
 	},
 	{
 		"assign": "chip_awake_ui_material_now",
@@ -21697,7 +21697,7 @@
 	{
 		"assign": "chip_awake_material_display_not_select",
 		"jp_text": "下のリストでボタンを選択すると\n必要な素材チップが表示されます。",
-		"tr_text": ""
+		"tr_text": "Select a button from the list below\nto view required material chips."
 	},
 	{
 		"assign": "chip_awake_skill_material_display_all_lvmax",
@@ -21707,32 +21707,32 @@
 	{
 		"assign": "chip_awake_dialog_t_shortage_meseta",
 		"jp_text": "チップ特装",
-		"tr_text": ""
+		"tr_text": "Chip Specialization"
 	},
 	{
 		"assign": "chip_awake_dialog_b_shortage_meseta",
 		"jp_text": "メセタが不足しているため\nチップ特装ができません。",
-		"tr_text": ""
+		"tr_text": "Insufficient Meseta to specialize this chip."
 	},
 	{
 		"assign": "chip_awake_skill_dialog_t_shortage_meseta",
 		"jp_text": "プラグ強化",
-		"tr_text": ""
+		"tr_text": "Plug-In"
 	},
 	{
 		"assign": "chip_awake_skill_dialog_b_shortage_meseta",
 		"jp_text": "メセタが不足しているため\n特装プラグを強化をすることができません。",
-		"tr_text": ""
+		"tr_text": "Insufficient Meseta to Plug-In to this chip."
 	},
 	{
 		"assign": "chip_awake_dialog_t_shortage_chiplv",
 		"jp_text": "チップ特装",
-		"tr_text": ""
+		"tr_text": "Chip Specialization"
 	},
 	{
 		"assign": "chip_awake_dialog_b_shortage_chiplv",
 		"jp_text": "選択されたチップは最大レベルに達していないため\nチップ特装をすることができません。",
-		"tr_text": ""
+		"tr_text": "This chip cannot be specialized as\nit has not reach its maximum level."
 	},
 	{
 		"assign": "chip_awake_skill_dialog_t_shortage_chiplv",
@@ -21747,7 +21747,7 @@
 	{
 		"assign": "chip_awake_dialog_t_shortage_materialchip",
 		"jp_text": "チップ特装",
-		"tr_text": ""
+		"tr_text": "Chip Specialization"
 	},
 	{
 		"assign": "chip_awake_dialog_b_shortage_materialchip",
