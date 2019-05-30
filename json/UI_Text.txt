@@ -21637,17 +21637,17 @@
 	{
 		"assign": "chip_awake_selectbutton_skill",
 		"jp_text": "習得プラグ：",
-		"tr_text": ""
+		"tr_text": "Plug gained: "
 	},
 	{
 		"assign": "chip_awake_ui_awake",
 		"jp_text": "チップ特装",
-		"tr_text": ""
+		"tr_text": "Specialize Chip"
 	},
 	{
 		"assign": "chip_awake_ui_awake_skill",
 		"jp_text": "プラグ強化",
-		"tr_text": ""
+		"tr_text": "Plug-In to Chip"
 	},
 	{
 		"assign": "chip_awake_ui_head_selectchip",
@@ -21687,12 +21687,12 @@
 	{
 		"assign": "chip_awake_grind_dialog_t_shortage_meseta",
 		"jp_text": "チップ強化",
-		"tr_text": ""
+		"tr_text": "Chip Grinding"
 	},
 	{
 		"assign": "chip_awake_grind_dialog_b_shortage_meseta",
 		"jp_text": "このチップは、チップ強化が不可能です。",
-		"tr_text": ""
+		"tr_text": "Cannot grind this chip."
 	},
 	{
 		"assign": "chip_awake_material_display_not_select",
@@ -21702,7 +21702,7 @@
 	{
 		"assign": "chip_awake_skill_material_display_all_lvmax",
 		"jp_text": "プラグレベルはすでに最大まで強化されています。",
-		"tr_text": ""
+		"tr_text": "Plug level has already been enhanced to maximum."
 	},
 	{
 		"assign": "chip_awake_dialog_t_shortage_meseta",
@@ -21767,12 +21767,12 @@
 	{
 		"assign": "chip_awake_dialog_t_decide",
 		"jp_text": "チップ特装確認",
-		"tr_text": ""
+		"tr_text": "Chip Specialization Confirmation"
 	},
 	{
 		"assign": "chip_awake_dialog_b_decide",
 		"jp_text": "<color=yellow>使用する素材チップに★７以上のものが含まれています。</color>\n次の素材チップとメセタを消費して、チップ特装を実行します。\nよろしいですか？",
-		"tr_text": ""
+		"tr_text": "<color=yellow>One or more of the materials\nhas a rarity of ★７+ stars。</color>\nThese will be lost upon use.\nAre you sure?"
 	},
 	{
 		"assign": "chip_awake_dialog_b_decide_t_material",
@@ -21812,12 +21812,12 @@
 	{
 		"assign": "chip_awake_skill_dialog_t_decide",
 		"jp_text": "プラグ強化確認",
-		"tr_text": ""
+		"tr_text": "Chip Plug-In Confirmation"
 	},
 	{
 		"assign": "chip_awake_skill_dialog_b_decide",
 		"jp_text": "<color=yellow>使用する素材チップに★７以上のものが含まれています。</color>\n次の素材チップとメセタを消費して、プラグ強化を実行します。\nよろしいですか？",
-		"tr_text": ""
+		"tr_text": "<color=yellow>One or more of the materials\nhas a rarity of ★７+ stars。</color>\nThese will be lost upon use.\nAre you sure?"
 	},
 	{
 		"assign": "chip_awake_skill_dialog_b_decide_t_material",
