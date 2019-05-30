@@ -20337,12 +20337,12 @@
 	{
 		"assign": "towerquest_top_ranking_title",
 		"jp_text": "エターナルタワー ランキング TOP50　　※30分ごとに更新",
-		"tr_text": ""
+		"tr_text": "Eternal Tower Ranking Top 50   ※Updates every 30 minutes"
 	},
 	{
 		"assign": "towerquest_top_ranking_title_fixed",
 		"jp_text": "エターナルタワー ランキング TOP50",
-		"tr_text": ""
+		"tr_text": "Eternal Tower Ranking Top 50"
 	},
 	{
 		"assign": "towerquest_top_ranking_reward_info",
@@ -20497,7 +20497,7 @@
 	{
 		"assign": "towerquest_ranking_reward_fixed_rank",
 		"jp_text": "<size=35><%title></size> <size=50><color=aqua><%rank></color></size><color=aqua>位</color>",
-		"tr_text": ""
+		"tr_text": "<size=35><%title></size> <size=50><color=aqua><%rank></color></size>"
 	},
 	{
 		"assign": "towerquest_ranking_reward_rank_unit",
@@ -20512,7 +20512,7 @@
 	{
 		"assign": "towerquest_ranking_reward_send_to_mail",
 		"jp_text": "タワークエストのランキング報酬を送りました。\n受け取りボックスをご確認ください。",
-		"tr_text": ""
+		"tr_text": "Tower Quest ranking reward delivered.\nPlease check your Reception Box."
 	},
 	{
 		"assign": "towerquest_friendbonus_title",
@@ -20547,17 +20547,17 @@
 	{
 		"assign": "towerquest_dialog_event_out_of_period_message",
 		"jp_text": "タワークエスト開催期間外です。\nロビートップへ戻ります。",
-		"tr_text": ""
+		"tr_text": "The Tower Quest has ended.\nNow returning to the Lobby."
 	},
 	{
 		"assign": "Eternalquest_dialog_t_01",
 		"jp_text": "タワークエストリタイア",
-		"tr_text": ""
+		"tr_text": "Retiring From Tower Quest"
 	},
 	{
 		"assign": "Eternalquest_dialog_b_01",
 		"jp_text": "消費したOPは戻りませんが\n本当にリタイアしますか？",
-		"tr_text": ""
+		"tr_text": "Your consumed OP will not be refunded.\nAre you sure you want to retire?"
 	},
 	{
 		"assign": "wh_40_01",
@@ -21582,12 +21582,12 @@
 	{
 		"assign": "ura_towerquest_top_ranking_title",
 		"jp_text": "ナイトメアタワー ランキング TOP50　　※30分ごとに更新",
-		"tr_text": "ナイトメアタワー Ranking TOP 50 ※Updated every 30min"
+		"tr_text": "Nightmare Tower Ranking TOP 50 ※Updated every 30min"
 	},
 	{
 		"assign": "ura_towerquest_top_ranking_title_fixed",
 		"jp_text": "ナイトメアタワー ランキング TOP50",
-		"tr_text": "ナイトメアタワー Ranking TOP 50"
+		"tr_text": "Nightmare Tower Ranking TOP 50"
 	},
 	{
 		"assign": "towerquest_limit_affect_title",
@@ -21642,12 +21642,12 @@
 	{
 		"assign": "chip_awake_ui_awake",
 		"jp_text": "チップ特装",
-		"tr_text": "Specialize Chip"
+		"tr_text": "Specialize"
 	},
 	{
 		"assign": "chip_awake_ui_awake_skill",
 		"jp_text": "プラグ強化",
-		"tr_text": "Plug-In to Chip"
+		"tr_text": "Plug-In"
 	},
 	{
 		"assign": "chip_awake_ui_head_selectchip",
