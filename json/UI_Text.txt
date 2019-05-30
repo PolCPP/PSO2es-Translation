@@ -2242,7 +2242,7 @@
 	{
 		"assign": "labo_chip_awake_select",
 		"jp_text": "特装・プラグ強化チップ選択",
-		"tr_text": "Specialization/Plug-In Selection"
+		"tr_text": "Select Chip"
 	},
 	{
 		"assign": "labo_guide_05",
@@ -2572,12 +2572,12 @@
 	{
 		"assign": "labo_guide_15",
 		"jp_text": "<color=#f0df60>チップ特装・プラグ強化をしたいチップを選択してください。チップ特装は最大レベルに達しているチップのみ、プラグ強化はすでに特装したチップが対象です。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Select a chip for specialization or Plug-In. You can only specialize a chip that has reached its maximum level, and you can only Plug-In to specialized chips.</color>"
 	},
 	{
 		"assign": "labo_guide_16",
 		"jp_text": "<color=#f0df60>実行する項目を選んでください。チップLvが最大レベルに達し、必要な素材チップが全てそろうと、チップ特装・プラグ強化が可能になります。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Select an item to execute. If a chip has reached its maximum level, and you possess all required material chips, you can specialize and Plug-In to it.</color>"
 	},
 	{
 		"assign": "chipevo_npc_t_00",
