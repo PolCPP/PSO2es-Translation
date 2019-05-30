@@ -957,12 +957,12 @@
 	{
 		"assign": "rshop_dialog_b_10_1",
 		"jp_text": "ボーナスポイントが足りません。\n\n所持ボーナスポイント　⇒　{0:N0}pt\n必要ボーナスポイント　⇒　{1:N0}pt\n不足ボーナスポイント　⇒　<color=#ff0000>{2:N0}pt</color>",
-		"tr_text": ""
+		"tr_text": "Insufficient Bonus Points.\n\nOwned Bonus Points ⇒ {0:N0}\nRequired Bonus Points ⇒ {1:N0}\nMissing Bonus Points ⇒ <color=#ff0000>{2:N0}</color>"
 	},
 	{
 		"assign": "rshop_dialog_b_10",
 		"jp_text": "「{0}」\nと、ボーナスポイントを交換します。よろしいですか？\n\n所持ボーナスポイント　⇒　{1:N0}pt\n必要ボーナスポイント　⇒　{2:N0}pt\n残りボーナスポイント　⇒　{3:N0}pt",
-		"tr_text": ""
+		"tr_text": "Now exchanging Bonus Points for\n{0}.\nDo you wish to continue?\n\nOwned Bonus Points ⇒ {1:N0}\nRequired Bonus Points ⇒ {2:N0}\nRemaining Bonus Points ⇒ {3:N0}"
 	},
 	{
 		"assign": "rshop_dialog_t_11",
@@ -972,12 +972,12 @@
 	{
 		"assign": "rshop_dialog_b_11_1",
 		"jp_text": "超級トリガーが足りません。\n\n所持超級トリガー　⇒　{0:N0}個\n必要超級トリガー　⇒　{1:N0}個\n不足超級トリガー　⇒　<color=#ff0000>{2:N0}個</color>",
-		"tr_text": ""
+		"tr_text": "Insufficient SH Triggers.\n\nOwned SH Triggers ⇒ {0:N0}\nRequired SH Triggers ⇒ {1:N0}\nMissing SH Triggers ⇒ <color=#ff0000>{2:N0}</color>"
 	},
 	{
 		"assign": "rshop_dialog_b_11",
 		"jp_text": "「{0}」\nと、超級トリガーを交換します。よろしいですか？\n\n所持超級トリガー　⇒　{1:N0}個\n必要超級トリガー　⇒　{2:N0}個\n残り超級トリガー　⇒　{3:N0}個",
-		"tr_text": ""
+		"tr_text": "Now exchanging SH Triggers for\n{0}.\nDo you wish to continue?\n\nOwned SH Triggers ⇒ {1:N0}\nRequired SH Triggers ⇒ {2:N0}\nRemaining SH Triggers ⇒ {3:N0}"
 	},
 	{
 		"assign": "rshop_dialog_t_12",
@@ -987,12 +987,12 @@
 	{
 		"assign": "rshop_dialog_b_12_1",
 		"jp_text": "覇級トリガーが足りません。\n\n所持覇級トリガー　⇒　{0:N0}個\n必要覇級トリガー　⇒　{1:N0}個\n不足覇級トリガー　⇒　<color=#ff0000>{2:N0}個</color>",
-		"tr_text": ""
+		"tr_text": "Insufficient XH Triggers.\n\nOwned XH Triggers ⇒ {0:N0}\nRequired XH Triggers ⇒ {1:N0}\nMissing XH Triggers ⇒ <color=#ff0000>{2:N0}</color>"
 	},
 	{
 		"assign": "rshop_dialog_b_12",
 		"jp_text": "「{0}」\nと、覇級トリガーを交換します。よろしいですか？\n\n所持覇級トリガー　⇒　{1:N0}個\n必要覇級トリガー　⇒　{2:N0}個\n残り覇級トリガー　⇒　{3:N0}個",
-		"tr_text": ""
+		"tr_text": "Now exchanging XH Triggers for\n{0}.\nDo you wish to continue?\n\nOwned XH Triggers ⇒ {1:N0}\nRequired XH Triggers ⇒ {2:N0}\nRemaining XH Triggers ⇒ {3:N0}"
 	},
 	{
 		"assign": "arcscard_guide_00",
@@ -2067,7 +2067,7 @@
 	{
 		"assign": "labo_menu_04",
 		"jp_text": "チップ特装・プラグ強化",
-		"tr_text": ""
+		"tr_text": "Chip Specialization"
 	},
 	{
 		"assign": "labo_menu_dialog_t_00",
@@ -2157,7 +2157,7 @@
 	{
 		"assign": "labo_guide_04",
 		"jp_text": "<color=#f0df60>解放に必要な素材チップを表示しています。表示しているチップが全てそろい、解放したいチップのレベルが上限に達すると、解放が可能になります。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Material chips required to release this chip are displayed. When you have all of the displayed chips, and the chip has been grinded to its maximum level, you can release it.</color>"
 	},
 	{
 		"assign": "labo_dialog_t_04",
@@ -9697,7 +9697,7 @@
 	{
 		"assign": "menu_main_button_chip_awake",
 		"jp_text": "チップ特装",
-		"tr_text": ""
+		"tr_text": "Specialize Chips"
 	},
 	{
 		"assign": "menu_main_button_item_grind",
@@ -9722,7 +9722,7 @@
 	{
 		"assign": "menu_main_button_recycle",
 		"jp_text": "交換ショップ",
-		"tr_text": ""
+		"tr_text": "Exchange Shop"
 	},
 	{
 		"assign": "menu_main_button_ac_shop",
