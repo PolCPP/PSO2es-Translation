@@ -957,12 +957,12 @@
 	{
 		"assign": "rshop_dialog_b_10_1",
 		"jp_text": "ボーナスポイントが足りません。\n\n所持ボーナスポイント　⇒　{0:N0}pt\n必要ボーナスポイント　⇒　{1:N0}pt\n不足ボーナスポイント　⇒　<color=#ff0000>{2:N0}pt</color>",
-		"tr_text": ""
+		"tr_text": "Insufficient Bonus Points.\n\nOwned Bonus Points ⇒ {0:N0}\nRequired Bonus Points ⇒ {1:N0}\nMissing Bonus Points ⇒ <color=#ff0000>{2:N0}</color>"
 	},
 	{
 		"assign": "rshop_dialog_b_10",
 		"jp_text": "「{0}」\nと、ボーナスポイントを交換します。よろしいですか？\n\n所持ボーナスポイント　⇒　{1:N0}pt\n必要ボーナスポイント　⇒　{2:N0}pt\n残りボーナスポイント　⇒　{3:N0}pt",
-		"tr_text": ""
+		"tr_text": "Now exchanging Bonus Points for\n{0}.\nDo you wish to continue?\n\nOwned Bonus Points ⇒ {1:N0}\nRequired Bonus Points ⇒ {2:N0}\nRemaining Bonus Points ⇒ {3:N0}"
 	},
 	{
 		"assign": "rshop_dialog_t_11",
@@ -972,12 +972,12 @@
 	{
 		"assign": "rshop_dialog_b_11_1",
 		"jp_text": "超級トリガーが足りません。\n\n所持超級トリガー　⇒　{0:N0}個\n必要超級トリガー　⇒　{1:N0}個\n不足超級トリガー　⇒　<color=#ff0000>{2:N0}個</color>",
-		"tr_text": ""
+		"tr_text": "Insufficient SH Triggers.\n\nOwned SH Triggers ⇒ {0:N0}\nRequired SH Triggers ⇒ {1:N0}\nMissing SH Triggers ⇒ <color=#ff0000>{2:N0}</color>"
 	},
 	{
 		"assign": "rshop_dialog_b_11",
 		"jp_text": "「{0}」\nと、超級トリガーを交換します。よろしいですか？\n\n所持超級トリガー　⇒　{1:N0}個\n必要超級トリガー　⇒　{2:N0}個\n残り超級トリガー　⇒　{3:N0}個",
-		"tr_text": ""
+		"tr_text": "Now exchanging SH Triggers for\n{0}.\nDo you wish to continue?\n\nOwned SH Triggers ⇒ {1:N0}\nRequired SH Triggers ⇒ {2:N0}\nRemaining SH Triggers ⇒ {3:N0}"
 	},
 	{
 		"assign": "rshop_dialog_t_12",
@@ -987,12 +987,12 @@
 	{
 		"assign": "rshop_dialog_b_12_1",
 		"jp_text": "覇級トリガーが足りません。\n\n所持覇級トリガー　⇒　{0:N0}個\n必要覇級トリガー　⇒　{1:N0}個\n不足覇級トリガー　⇒　<color=#ff0000>{2:N0}個</color>",
-		"tr_text": ""
+		"tr_text": "Insufficient XH Triggers.\n\nOwned XH Triggers ⇒ {0:N0}\nRequired XH Triggers ⇒ {1:N0}\nMissing XH Triggers ⇒ <color=#ff0000>{2:N0}</color>"
 	},
 	{
 		"assign": "rshop_dialog_b_12",
 		"jp_text": "「{0}」\nと、覇級トリガーを交換します。よろしいですか？\n\n所持覇級トリガー　⇒　{1:N0}個\n必要覇級トリガー　⇒　{2:N0}個\n残り覇級トリガー　⇒　{3:N0}個",
-		"tr_text": ""
+		"tr_text": "Now exchanging XH Triggers for\n{0}.\nDo you wish to continue?\n\nOwned XH Triggers ⇒ {1:N0}\nRequired XH Triggers ⇒ {2:N0}\nRemaining XH Triggers ⇒ {3:N0}"
 	},
 	{
 		"assign": "arcscard_guide_00",
@@ -2067,7 +2067,7 @@
 	{
 		"assign": "labo_menu_04",
 		"jp_text": "チップ特装・プラグ強化",
-		"tr_text": ""
+		"tr_text": "Chip Specialization"
 	},
 	{
 		"assign": "labo_menu_dialog_t_00",
@@ -2157,7 +2157,7 @@
 	{
 		"assign": "labo_guide_04",
 		"jp_text": "<color=#f0df60>解放に必要な素材チップを表示しています。表示しているチップが全てそろい、解放したいチップのレベルが上限に達すると、解放が可能になります。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Material chips required to release this chip are displayed. When you have all of the displayed chips, and the chip has been grinded to its maximum level, you can release it.</color>"
 	},
 	{
 		"assign": "labo_dialog_t_04",
@@ -2242,7 +2242,7 @@
 	{
 		"assign": "labo_chip_awake_select",
 		"jp_text": "特装・プラグ強化チップ選択",
-		"tr_text": ""
+		"tr_text": "Select Chip"
 	},
 	{
 		"assign": "labo_guide_05",
@@ -2572,12 +2572,12 @@
 	{
 		"assign": "labo_guide_15",
 		"jp_text": "<color=#f0df60>チップ特装・プラグ強化をしたいチップを選択してください。チップ特装は最大レベルに達しているチップのみ、プラグ強化はすでに特装したチップが対象です。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Select a chip for specialization or Plug-In. You can only specialize a chip that has reached its maximum level, and you can only Plug-In to specialized chips.</color>"
 	},
 	{
 		"assign": "labo_guide_16",
 		"jp_text": "<color=#f0df60>実行する項目を選んでください。チップLvが最大レベルに達し、必要な素材チップが全てそろうと、チップ特装・プラグ強化が可能になります。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Select a procedure to perform. If a chip has reached its maximum level, and you possess all required material chips, you can specialize and Plug-In to it.</color>"
 	},
 	{
 		"assign": "chipevo_npc_t_00",
@@ -5442,7 +5442,7 @@
 	{
 		"assign": "quest_counter_accompany_ok",
 		"jp_text": "同行可能",
-		"tr_text": "Ready for Missions"
+		"tr_text": "Ready"
 	},
 	{
 		"assign": "quest_counter_accompany_ng",
@@ -6432,7 +6432,7 @@
 	{
 		"assign": "window_help_LM31",
 		"jp_text": "スクラッチチケットは、特定のスクラッチを引くことができるチケットです。\n<color=yellow>特定のスクラッチ以外は引けません</color>ので、引き忘れにご注意ください。\nスクラッチチケットとラッピーメダルでは、チケットから先に使用されます。",
-		"tr_text": ""
+		"tr_text": "Scratch tickets are tickets that can be\nused to draw from a specific scratch.\n<color=yellow>They can only be used on specific scratches,</color>\nso be careful when drawing.\nWhen you have both scratch tickets and Rappy\nMedals, scratch tickets will be used first."
 	},
 	{
 		"assign": "quest_load",
@@ -8152,12 +8152,12 @@
 	{
 		"assign": "chip_type_name_16",
 		"jp_text": "チップ特装素材",
-		"tr_text": ""
+		"tr_text": "Chip Specialization Material"
 	},
 	{
 		"assign": "chip_type_name_17",
 		"jp_text": "プラグ強化素材",
-		"tr_text": ""
+		"tr_text": "Plug-In Material"
 	},
 	{
 		"assign": "chip_type_name_weaponoid",
@@ -9697,7 +9697,7 @@
 	{
 		"assign": "menu_main_button_chip_awake",
 		"jp_text": "チップ特装",
-		"tr_text": ""
+		"tr_text": "Specialize Chips"
 	},
 	{
 		"assign": "menu_main_button_item_grind",
@@ -9722,7 +9722,7 @@
 	{
 		"assign": "menu_main_button_recycle",
 		"jp_text": "交換ショップ",
-		"tr_text": ""
+		"tr_text": "Exchange Shop"
 	},
 	{
 		"assign": "menu_main_button_ac_shop",
@@ -9847,7 +9847,7 @@
 	{
 		"assign": "menu_sub_button_chip_awake_limit_up",
 		"jp_text": "上限解放",
-		"tr_text": ""
+		"tr_text": "Raise Max. Level"
 	},
 	{
 		"assign": "menu_sub_button_sale_chip",
@@ -17192,7 +17192,7 @@
 	{
 		"assign": "help_character_name",
 		"jp_text": "セラフィ",
-		"tr_text": ""
+		"tr_text": "Seraphy"
 	},
 	{
 		"assign": "help_character_text",
@@ -17647,7 +17647,7 @@
 	{
 		"assign": "sort_awake_level",
 		"jp_text": "特装段階順",
-		"tr_text": ""
+		"tr_text": "Specialization Level"
 	},
 	{
 		"assign": "sort_other",
@@ -17767,7 +17767,7 @@
 	{
 		"assign": "filter_attribute",
 		"jp_text": "属性",
-		"tr_text": "Attribute Element"
+		"tr_text": "Element"
 	},
 	{
 		"assign": "filter_rarity",
@@ -17812,7 +17812,7 @@
 	{
 		"assign": "filter_can_awake_level_up",
 		"jp_text": "チップ特装・プラグ強化",
-		"tr_text": ""
+		"tr_text": "Chip Specialization/Plug-In"
 	},
 	{
 		"assign": "filter_ice",
@@ -17952,22 +17952,22 @@
 	{
 		"assign": "filter_chip_can_awake",
 		"jp_text": "特装可能",
-		"tr_text": ""
+		"tr_text": "Can Specialize"
 	},
 	{
 		"assign": "filter_chip_cant_awake",
 		"jp_text": "特装素材不足",
-		"tr_text": ""
+		"tr_text": "Needs Specialization Parts"
 	},
 	{
 		"assign": "filter_chip_can_awake_skill_up",
 		"jp_text": "プラグ強化可能",
-		"tr_text": ""
+		"tr_text": "Can Plug-In"
 	},
 	{
 		"assign": "filter_chip_cant_awake_skill_up",
 		"jp_text": "プラグ強化素材不足",
-		"tr_text": ""
+		"tr_text": "Needs Plug-In Parts"
 	},
 	{
 		"assign": "window_help_LM32",
@@ -19072,7 +19072,7 @@
 	{
 		"assign": "quest_clear_reward_dialog_title_5024104",
 		"jp_text": "シリーズクエストクリア！",
-		"tr_text": ""
+		"tr_text": "Series Quest Clear!"
 	},
 	{
 		"assign": "quest_clear_reward_dialog_body_5024104",
@@ -20337,12 +20337,12 @@
 	{
 		"assign": "towerquest_top_ranking_title",
 		"jp_text": "エターナルタワー ランキング TOP50　　※30分ごとに更新",
-		"tr_text": ""
+		"tr_text": "Eternal Tower Ranking Top 50   ※Updates every 30 minutes"
 	},
 	{
 		"assign": "towerquest_top_ranking_title_fixed",
 		"jp_text": "エターナルタワー ランキング TOP50",
-		"tr_text": ""
+		"tr_text": "Eternal Tower Ranking Top 50"
 	},
 	{
 		"assign": "towerquest_top_ranking_reward_info",
@@ -20497,7 +20497,7 @@
 	{
 		"assign": "towerquest_ranking_reward_fixed_rank",
 		"jp_text": "<size=35><%title></size> <size=50><color=aqua><%rank></color></size><color=aqua>位</color>",
-		"tr_text": ""
+		"tr_text": "<size=35><%title></size> <size=50><color=aqua><%rank></color></size>"
 	},
 	{
 		"assign": "towerquest_ranking_reward_rank_unit",
@@ -20512,7 +20512,7 @@
 	{
 		"assign": "towerquest_ranking_reward_send_to_mail",
 		"jp_text": "タワークエストのランキング報酬を送りました。\n受け取りボックスをご確認ください。",
-		"tr_text": ""
+		"tr_text": "Tower Quest ranking reward delivered.\nPlease check your Reception Box."
 	},
 	{
 		"assign": "towerquest_friendbonus_title",
@@ -20547,17 +20547,17 @@
 	{
 		"assign": "towerquest_dialog_event_out_of_period_message",
 		"jp_text": "タワークエスト開催期間外です。\nロビートップへ戻ります。",
-		"tr_text": ""
+		"tr_text": "The Tower Quest has ended.\nNow returning to the Lobby."
 	},
 	{
 		"assign": "Eternalquest_dialog_t_01",
 		"jp_text": "タワークエストリタイア",
-		"tr_text": ""
+		"tr_text": "Retiring From Tower Quest"
 	},
 	{
 		"assign": "Eternalquest_dialog_b_01",
 		"jp_text": "消費したOPは戻りませんが\n本当にリタイアしますか？",
-		"tr_text": ""
+		"tr_text": "Your consumed OP will not be refunded.\nAre you sure you want to retire?"
 	},
 	{
 		"assign": "wh_40_01",
@@ -21582,12 +21582,12 @@
 	{
 		"assign": "ura_towerquest_top_ranking_title",
 		"jp_text": "ナイトメアタワー ランキング TOP50　　※30分ごとに更新",
-		"tr_text": "ナイトメアタワー Ranking TOP 50 ※Updated every 30min"
+		"tr_text": "Nightmare Tower Ranking TOP 50 ※Updated every 30min"
 	},
 	{
 		"assign": "ura_towerquest_top_ranking_title_fixed",
 		"jp_text": "ナイトメアタワー ランキング TOP50",
-		"tr_text": "ナイトメアタワー Ranking TOP 50"
+		"tr_text": "Nightmare Tower Ranking TOP 50"
 	},
 	{
 		"assign": "towerquest_limit_affect_title",
@@ -21607,57 +21607,57 @@
 	{
 		"assign": "filter_chip_awake_can",
 		"jp_text": "特装可能",
-		"tr_text": ""
+		"tr_text": "Can Specialize"
 	},
 	{
 		"assign": "filter_chip_awake_skill_can",
 		"jp_text": "プラグ強化可能",
-		"tr_text": ""
+		"tr_text": "Can Plug-In"
 	},
 	{
 		"assign": "filter_chip_awake_shortage",
 		"jp_text": "特装素材不足",
-		"tr_text": ""
+		"tr_text": "Needs Specialization Parts"
 	},
 	{
 		"assign": "filter_chip_skill_awake_shortage",
 		"jp_text": "プラグ強化素材不足",
-		"tr_text": ""
+		"tr_text": "Needs Plug-In Parts"
 	},
 	{
 		"assign": "chip_window_chip_awake",
 		"jp_text": "特装・プラグ強化チップ選択",
-		"tr_text": ""
+		"tr_text": "Chip Selection"
 	},
 	{
 		"assign": "chip_awake_selectbutton_chiplv",
 		"jp_text": "最大チップLv：",
-		"tr_text": ""
+		"tr_text": "Max. Chip Level: "
 	},
 	{
 		"assign": "chip_awake_selectbutton_skill",
 		"jp_text": "習得プラグ：",
-		"tr_text": ""
+		"tr_text": "Plug gained: "
 	},
 	{
 		"assign": "chip_awake_ui_awake",
 		"jp_text": "チップ特装",
-		"tr_text": ""
+		"tr_text": "Specialize"
 	},
 	{
 		"assign": "chip_awake_ui_awake_skill",
 		"jp_text": "プラグ強化",
-		"tr_text": ""
+		"tr_text": "Plug-In"
 	},
 	{
 		"assign": "chip_awake_ui_head_selectchip",
 		"jp_text": "選択チップ・効果",
-		"tr_text": ""
+		"tr_text": "Selected Chip/Effect"
 	},
 	{
 		"assign": "chip_awake_ui_head_material",
 		"jp_text": "必要素材チップ",
-		"tr_text": ""
+		"tr_text": "Material Needed"
 	},
 	{
 		"assign": "chip_awake_ui_material_now",
@@ -21687,52 +21687,52 @@
 	{
 		"assign": "chip_awake_grind_dialog_t_shortage_meseta",
 		"jp_text": "チップ強化",
-		"tr_text": ""
+		"tr_text": "Chip Grinding"
 	},
 	{
 		"assign": "chip_awake_grind_dialog_b_shortage_meseta",
 		"jp_text": "このチップは、チップ強化が不可能です。",
-		"tr_text": ""
+		"tr_text": "Cannot grind this chip."
 	},
 	{
 		"assign": "chip_awake_material_display_not_select",
 		"jp_text": "下のリストでボタンを選択すると\n必要な素材チップが表示されます。",
-		"tr_text": ""
+		"tr_text": "Select a button from the list below\nto view required material chips."
 	},
 	{
 		"assign": "chip_awake_skill_material_display_all_lvmax",
 		"jp_text": "プラグレベルはすでに最大まで強化されています。",
-		"tr_text": ""
+		"tr_text": "Plug level has already been enhanced to maximum."
 	},
 	{
 		"assign": "chip_awake_dialog_t_shortage_meseta",
 		"jp_text": "チップ特装",
-		"tr_text": ""
+		"tr_text": "Chip Specialization"
 	},
 	{
 		"assign": "chip_awake_dialog_b_shortage_meseta",
 		"jp_text": "メセタが不足しているため\nチップ特装ができません。",
-		"tr_text": ""
+		"tr_text": "Insufficient Meseta to specialize this chip."
 	},
 	{
 		"assign": "chip_awake_skill_dialog_t_shortage_meseta",
 		"jp_text": "プラグ強化",
-		"tr_text": ""
+		"tr_text": "Plug-In"
 	},
 	{
 		"assign": "chip_awake_skill_dialog_b_shortage_meseta",
 		"jp_text": "メセタが不足しているため\n特装プラグを強化をすることができません。",
-		"tr_text": ""
+		"tr_text": "Insufficient Meseta to Plug-In to this chip."
 	},
 	{
 		"assign": "chip_awake_dialog_t_shortage_chiplv",
 		"jp_text": "チップ特装",
-		"tr_text": ""
+		"tr_text": "Chip Specialization"
 	},
 	{
 		"assign": "chip_awake_dialog_b_shortage_chiplv",
 		"jp_text": "選択されたチップは最大レベルに達していないため\nチップ特装をすることができません。",
-		"tr_text": ""
+		"tr_text": "This chip cannot be specialized as\nit has not reach its maximum level."
 	},
 	{
 		"assign": "chip_awake_skill_dialog_t_shortage_chiplv",
@@ -21747,32 +21747,32 @@
 	{
 		"assign": "chip_awake_dialog_t_shortage_materialchip",
 		"jp_text": "チップ特装",
-		"tr_text": ""
+		"tr_text": "Chip Specialization"
 	},
 	{
 		"assign": "chip_awake_dialog_b_shortage_materialchip",
 		"jp_text": "チップ特装に必要な素材チップが足りません。",
-		"tr_text": ""
+		"tr_text": "Insufficient materials to specialize this chip."
 	},
 	{
 		"assign": "chip_awake_skill_dialog_t_shortage_materialchip",
 		"jp_text": "プラグ強化",
-		"tr_text": ""
+		"tr_text": "Plug-In"
 	},
 	{
 		"assign": "chip_awake_skill_dialog_b_shortage_materialchip",
 		"jp_text": "プラグ強化に必要な素材チップが足りません。",
-		"tr_text": ""
+		"tr_text": "Insufficient materials to Plug-In to this chip."
 	},
 	{
 		"assign": "chip_awake_dialog_t_decide",
 		"jp_text": "チップ特装確認",
-		"tr_text": ""
+		"tr_text": "Chip Specialization Confirmation"
 	},
 	{
 		"assign": "chip_awake_dialog_b_decide",
 		"jp_text": "<color=yellow>使用する素材チップに★７以上のものが含まれています。</color>\n次の素材チップとメセタを消費して、チップ特装を実行します。\nよろしいですか？",
-		"tr_text": ""
+		"tr_text": "<color=yellow>One or more of the materials\nhas a rarity of ★７+ stars。</color>\nThese will be lost upon use.\nAre you sure?"
 	},
 	{
 		"assign": "chip_awake_dialog_b_decide_t_material",
@@ -21787,22 +21787,22 @@
 	{
 		"assign": "chip_awake_dialog_b_decide_b_chiplv",
 		"jp_text": "最大チップLv.",
-		"tr_text": ""
+		"tr_text": "Max. Chip Level"
 	},
 	{
 		"assign": "chip_awake_dialog_b_decide_b_skilllv",
 		"jp_text": "Lv.",
-		"tr_text": ""
+		"tr_text": "Lv. "
 	},
 	{
 		"assign": "chip_awake_dialog_b_decide_button_yes",
 		"jp_text": "はい",
-		"tr_text": ""
+		"tr_text": "Yes"
 	},
 	{
 		"assign": "chip_awake_dialog_b_decide_button_no",
 		"jp_text": "いいえ",
-		"tr_text": ""
+		"tr_text": "No"
 	},
 	{
 		"assign": "chip_awake_dialog_b_decide_b_afterchiplv",
@@ -21812,12 +21812,12 @@
 	{
 		"assign": "chip_awake_skill_dialog_t_decide",
 		"jp_text": "プラグ強化確認",
-		"tr_text": ""
+		"tr_text": "Chip Plug-In Confirmation"
 	},
 	{
 		"assign": "chip_awake_skill_dialog_b_decide",
 		"jp_text": "<color=yellow>使用する素材チップに★７以上のものが含まれています。</color>\n次の素材チップとメセタを消費して、プラグ強化を実行します。\nよろしいですか？",
-		"tr_text": ""
+		"tr_text": "<color=yellow>One or more of the materials\nhas a rarity of ★７+ stars。</color>\nThese will be lost upon use.\nAre you sure?"
 	},
 	{
 		"assign": "chip_awake_skill_dialog_b_decide_t_material",
@@ -21847,7 +21847,7 @@
 	{
 		"assign": "chip_awake_dialog_t_done",
 		"jp_text": "チップ特装完了",
-		"tr_text": ""
+		"tr_text": "Chip Specialization Complete"
 	},
 	{
 		"assign": "chip_awake_dialog_b_done",
@@ -21872,7 +21872,7 @@
 	{
 		"assign": "chip_awake_skill_dialog_t_done",
 		"jp_text": "プラグ強化完了",
-		"tr_text": ""
+		"tr_text": "Plug-In Complete"
 	},
 	{
 		"assign": "chip_awake_skill_dialog_b_done",
