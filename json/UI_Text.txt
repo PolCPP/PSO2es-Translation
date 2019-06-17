@@ -2117,7 +2117,7 @@
 	{
 		"assign": "labo_dialog_b_01",
 		"jp_text": "選択した素材チップに\n★７以上のものが含まれています。\n強化の素材にしたチップは失われますが\nよろしいですか？",
-		"tr_text": "One or more of the materials\nhas a rarity of ★７+ stars。\nThese will be lost upon use.\nAre you sure?"
+		"tr_text": "One or more of the materials\nhas a rarity of ★７+ stars.\nThese will be lost upon use.\nAre you sure?"
 	},
 	{
 		"assign": "labo_dialog_t_02",
@@ -2177,7 +2177,7 @@
 	{
 		"assign": "labo_dialog_b_05",
 		"jp_text": "使用する素材チップに\n★７以上のものが含まれています。\n解放の素材にしたチップは失われますが、\nよろしいですか？",
-		"tr_text": "One or more of the materials\nhas a rarity of ★７+ stars。\nThese will be lost upon use.\nAre you sure?"
+		"tr_text": "One or more of the materials\nhas a rarity of ★７+ stars.\nThese will be lost upon use.\nAre you sure?"
 	},
 	{
 		"assign": "labo_dialog_t_06",
@@ -21772,17 +21772,17 @@
 	{
 		"assign": "chip_awake_dialog_b_decide",
 		"jp_text": "<color=yellow>使用する素材チップに★７以上のものが含まれています。</color>\n次の素材チップとメセタを消費して、チップ特装を実行します。\nよろしいですか？",
-		"tr_text": "<color=yellow>One or more of the materials\nhas a rarity of ★７+ stars。</color>\nThese will be lost upon use.\nAre you sure?"
+		"tr_text": "<color=yellow>One or more of the materials has a rarity of ★７+ stars.</color>\nThese will be lost upon use.\nAre you sure?"
 	},
 	{
 		"assign": "chip_awake_dialog_b_decide_t_material",
 		"jp_text": "消費素材チップ",
-		"tr_text": ""
+		"tr_text": "Consumed Material Chips"
 	},
 	{
 		"assign": "chip_awake_dialog_b_decide_t_details",
 		"jp_text": "特装効果",
-		"tr_text": ""
+		"tr_text": "Specialization Details"
 	},
 	{
 		"assign": "chip_awake_dialog_b_decide_b_chiplv",
@@ -21817,7 +21817,7 @@
 	{
 		"assign": "chip_awake_skill_dialog_b_decide",
 		"jp_text": "<color=yellow>使用する素材チップに★７以上のものが含まれています。</color>\n次の素材チップとメセタを消費して、プラグ強化を実行します。\nよろしいですか？",
-		"tr_text": "<color=yellow>One or more of the materials\nhas a rarity of ★７+ stars。</color>\nThese will be lost upon use.\nAre you sure?"
+		"tr_text": "<color=yellow>One or more of the materials\nhas a rarity of ★７+ stars.</color>\nThese will be lost upon use.\nAre you sure?"
 	},
 	{
 		"assign": "chip_awake_skill_dialog_b_decide_t_material",
@@ -21857,7 +21857,7 @@
 	{
 		"assign": "chip_awake_dialog_b_done_chiplv",
 		"jp_text": "最大チップLv.",
-		"tr_text": ""
+		"tr_text": "Max Chip Lv."
 	},
 	{
 		"assign": "chip_awake_dialog_b_done_skilllv",
@@ -21867,7 +21867,7 @@
 	{
 		"assign": "chip_awake_dialog_button_close",
 		"jp_text": "閉じる",
-		"tr_text": ""
+		"tr_text": "Close"
 	},
 	{
 		"assign": "chip_awake_skill_dialog_t_done",
@@ -21892,12 +21892,12 @@
 	{
 		"assign": "chip_awake_skill_dialog_button_close",
 		"jp_text": "閉じる",
-		"tr_text": ""
+		"tr_text": "Close"
 	},
 	{
 		"assign": "chip_details_chip_awake_head",
 		"jp_text": "特装プラグ",
-		"tr_text": ""
+		"tr_text": "Plug Details"
 	},
 	{
 		"assign": "chip_details_chip_awake_skilllv",
@@ -21907,7 +21907,7 @@
 	{
 		"assign": "chip_details_chip_awake_lv0",
 		"jp_text": "未習得",
-		"tr_text": ""
+		"tr_text": "Lv. 0"
 	},
 	{
 		"assign": "window_help_LM39",
