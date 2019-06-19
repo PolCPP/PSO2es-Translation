@@ -39,14 +39,14 @@
 		"jp_name": "発動率アップ",
 		"tr_name": "Activation rate up",
 		"jp_desc": "このチップのアビリティの発動率を\nプラグLvに応じて上昇する。（最大:<%MaxValue>％）",
-		"tr_desc": "Increases this chip's activation rate based on\nplug level. (Max: <%MaxValue>)"
+		"tr_desc": "Increases this chip's activation rate based on\nplug level. (Max: <%MaxValue>%)"
 	},
 	{
 		"id": 7,
 		"jp_name": "効果時間延長",
 		"tr_name": "Duration extension",
 		"jp_desc": "このチップのアビリティ効果時間を\nプラグLvに応じて延長する。（最大:<%MaxValue>秒）",
-		"tr_desc": "increases this chip's Effect Duration based on plug\nlevel. (Max: <%MaxValue>)"
+		"tr_desc": "increases this chip's Effect Duration based on plug\nlevel. (Max: <%MaxValue> seconds)"
 	},
 	{
 		"id": 8,
