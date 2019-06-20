@@ -2377,14 +2377,14 @@
 		"jp_explainShort": "ＨＰを削り敵全体に特大ダメージ",
 		"tr_explainShort": "Damages self and enemies",
 		"jp_explainLong": "【ダメージボム】\n① 自分自身をも巻き込んで\n　　 敵全体に光属性の打撃による特大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n①  Deals 12500% 250 Light striking damage to all\n     enemies, while also damaging you by 99% of your\n     maximum HP.\n<color=yellow>SP: </color>Deals 13000% 250 Light striking damage to all\n     enemies, while also damaging you by 99% of your\n     maximum HP."
+		"tr_explainLong": "[Damage Bomb]\n①  Deals 12500% 250 Light striking damage to all\n     enemies, while also damaging you by 99% of your\n     maximum HP.\n<color=yellow>SP: </color>Deals 13000% 250 Light striking damage to all\n     enemies, while also damaging you by 99% of your\n     maximum HP.\n     You cannot activate this chip when below 99% HP."
 	},
 	{
 		"assign": "31964",
 		"jp_explainShort": "ＨＰを削り敵全体に特大ダメージ",
 		"tr_explainShort": "Damages self and enemies",
 		"jp_explainLong": "【ダメージボム】\n① 自分自身をも巻き込んで\n　　 敵全体に光属性の打撃による特大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n①  Deals 13500% 250 Light striking damage to all\n     enemies, while also damaging you by 99% of your\n     maximum HP.\n<color=yellow>SP: </color>Deals 14000% 250 Light striking damage to all\n     enemies, while also damaging you by 99% of your\n     maximum HP."
+		"tr_explainLong": "[Damage Bomb]\n①  Deals 13500% 250 Light striking damage to all\n     enemies, while also damaging you by 99% of your\n     maximum HP.\n<color=yellow>SP: </color>Deals 14000% 250 Light striking damage to all\n     enemies, while also damaging you by 99% of your\n     maximum HP.\n     You cannot activate this chip when below 99% HP."
 	},
 	{
 		"assign": "31965",
@@ -2433,21 +2433,21 @@
 		"jp_explainShort": "威力絶大増＋効果時間延長",
 		"tr_explainShort": "Power boost + chip durations extended",
 		"jp_explainLong": "① 威力を劇的に増加する。\n② ボス戦とタワークエストで\n　　 装備中の風属性チップの枚数に応じて\n　　 ①の効果の威力をさらに超絶に増加する。\n③ リンクスロットに装備したチップの属性が風属性の場合\n　　 チップ発動時のアビリティ効果時間を延長する。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts power by 130%.\n<color=yellow>SP: </color>Boosts power by 140%.\n     <color=yellow>[F-Frame]</color>\n②  Further boosts the effect of ①  in boss battles\n     and Tower Quests by 40% x the number of\n     Wind chips equipped.\n③  Extends the Effect Duration of chips' abilities by\n     10 seconds when they activate, if there is a\n     Wind chip in this chip's Link Slot.\n④  While this chip is equipped, the equip costs of\n     Wind PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts power by 130%.\n<color=yellow>SP: </color>Boosts power by 140%.\n     <color=yellow>[F-Frame]</color>\n②  Further boosts the effect of ① in boss battles\n     and Tower Quests by 40% x the number of\n     Wind chips equipped.\n③  Extends the Effect Duration of chips' abilities by\n     10 seconds when they activate, if there is a\n     Wind chip in this chip's Link Slot.\n④  While this chip is equipped, the equip costs of\n     Wind PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31978",
 		"jp_explainShort": "威力絶大増＋効果時間延長",
 		"tr_explainShort": "Power boost + chip durations extended",
 		"jp_explainLong": "① 威力を劇的に増加する。\n② ボス戦とタワークエストで\n　　 装備中の風属性チップの枚数に応じて\n　　 ①の効果の威力をさらに超絶に増加する。\n③ リンクスロットに装備したチップの属性が風属性の場合\n　　 チップ発動時のアビリティ効果時間を延長する。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts power by 150%.\n<color=yellow>SP: </color>Boosts power by 160%.\n     <color=yellow>[F-Frame]</color>\n②  Further boosts the effect of ①  in boss battles\n     and Tower Quests by 40% x the number of\n     Wind chips equipped.\n③  Extends the Effect Duration of chips' abilities by\n     10 seconds when they activate, if there is a\n     Wind chip in this chip's Link Slot.\n④  While this chip is equipped, the equip costs of\n     Wind PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts power by 150%.\n<color=yellow>SP: </color>Boosts power by 160%.\n     <color=yellow>[F-Frame]</color>\n②  Further boosts the effect of ① in boss battles\n     and Tower Quests by 40% x the number of\n     Wind chips equipped.\n③  Extends the Effect Duration of chips' abilities by\n     10 seconds when they activate, if there is a\n     Wind chip in this chip's Link Slot.\n④  While this chip is equipped, the equip costs of\n     Wind PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31979",
 		"jp_explainShort": "威力絶大増＋効果時間延長",
 		"tr_explainShort": "Power boost + chip durations extended",
 		"jp_explainLong": "① 威力を劇的に増加する。\n② ボス戦とタワークエストで\n　　 装備中の風属性チップの枚数に応じて\n　　 ①の効果の威力をさらに超絶に増加する。\n③ リンクスロットに装備したチップの属性が風属性の場合\n　　 チップ発動時のアビリティ効果時間を延長する。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts power by 170%.\n<color=yellow>SP: </color>Boosts power by 180%.\n     <color=yellow>[F-Frame]</color>\n②  Further boosts the effect of ①  in boss battles\n     and Tower Quests by 40% x the number of\n     Wind chips equipped.\n③  Extends the Effect Duration of chips' abilities by\n     10 seconds when they activate, if there is a\n     Wind chip in this chip's Link Slot.\n④  While this chip is equipped, the equip costs of\n     all PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts power by 170%.\n<color=yellow>SP: </color>Boosts power by 180%.\n     <color=yellow>[F-Frame]</color>\n②  Further boosts the effect of ① in boss battles\n     and Tower Quests by 40% x the number of\n     Wind chips equipped.\n③  Extends the Effect Duration of chips' abilities by\n     10 seconds when they activate, if there is a\n     Wind chip in this chip's Link Slot.\n④  While this chip is equipped, the equip costs of\n     all PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31980",

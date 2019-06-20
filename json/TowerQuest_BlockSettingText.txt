@@ -5,7 +5,7 @@
 	},
 	{
 		"jp_text": "<color=red>▼</color>５秒毎にＨＰが <%parameter1%>％減少",
-		"tr_text": ""
+		"tr_text": "<color=red>▼</color>Lose <%parameter1%>% HP every 5 seconds"
 	},
 	{
 		"jp_text": "<color=red>▼</color>通常攻撃のダメージが <%parameter1%>％に",
@@ -13,7 +13,7 @@
 	},
 	{
 		"jp_text": "<color=red>▼</color>ダメージ上限が <%parameter1%>に",
-		"tr_text": ""
+		"tr_text": "<color=red>▼</color>Damage per hit limited to <%parameter1%>"
 	},
 	{
 		"jp_text": "<color=red>▼</color><%parameter1%>ダメージ以下は <%parameter2%>％に",
@@ -21,11 +21,11 @@
 	},
 	{
 		"jp_text": "<color=red>▼</color>ダメージボムのみ有効",
-		"tr_text": ""
+		"tr_text": "<color=red>▼</color>Damage Bombs only"
 	},
 	{
 		"jp_text": "<color=red>▼</color>バトル中ＨＰ回復無効",
-		"tr_text": ""
+		"tr_text": "<color=red>▼</color>Can't recover HP during battle"
 	},
 	{
 		"jp_text": "<color=red>▼</color>属性値 <%parameter1%>減少",
@@ -33,11 +33,11 @@
 	},
 	{
 		"jp_text": "<color=red>▼</color>アクティブチップ発動不可",
-		"tr_text": ""
+		"tr_text": "<color=red>▼</color>Can't activate Active Chips"
 	},
 	{
 		"jp_text": "<color=red>▼</color>サポートチップ発動不可",
-		"tr_text": ""
+		"tr_text": "<color=red>▼</color>Support Chips don't activate"
 	},
 	{
 		"jp_text": "[<%parameter1%>]（30秒毎発動）",
@@ -45,7 +45,7 @@
 	},
 	{
 		"jp_text": "<color=#00ffff>▲</color>状態異常の敵に与えるダメージが <%parameter1%>％に",
-		"tr_text": ""
+		"tr_text": "<color=#00ffff>▲</color><%parameter1%>% boosted damage against statused enemies"
 	},
 	{
 		"jp_text": "<color=#00ffff>▲</color>消費ＣＰが <%parameter1%> に",
@@ -53,7 +53,7 @@
 	},
 	{
 		"jp_text": "<color=#00ffff>▲</color>ダメージボムで追加ダメージが発生",
-		"tr_text": ""
+		"tr_text": "<color=#00ffff>▲</color>Damage bombs get bonus damage"
 	},
 	{
 		"jp_text": "-1",
