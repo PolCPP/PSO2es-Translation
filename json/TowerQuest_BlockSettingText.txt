@@ -5,7 +5,7 @@
 	},
 	{
 		"jp_text": "<color=red>▼</color>５秒毎にＨＰが <%parameter1%>％減少",
-		"tr_text": "<color=red>▼</color>Lose <%parameter1%>％ HP every 5 seconds"
+		"tr_text": "<color=red>▼</color>Lose <%parameter1%>% HP every 5 seconds"
 	},
 	{
 		"jp_text": "<color=red>▼</color>通常攻撃のダメージが <%parameter1%>％に",
@@ -45,7 +45,7 @@
 	},
 	{
 		"jp_text": "<color=#00ffff>▲</color>状態異常の敵に与えるダメージが <%parameter1%>％に",
-		"tr_text": "<color=#00ffff>▲</color><%parameter1%>％ boosted damage against statused enemies"
+		"tr_text": "<color=#00ffff>▲</color><%parameter1%>% boosted damage against statused enemies"
 	},
 	{
 		"jp_text": "<color=#00ffff>▲</color>消費ＣＰが <%parameter1%> に",
