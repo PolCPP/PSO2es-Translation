@@ -201,7 +201,7 @@ jobs:
             - patchJP.zip
       - restore_cache:
           keys:
-            - v1-ESBreaker-
+            - v1-esbreaker-
       - run:
           name: Download ESBreaker
           command: /usr/bin/wget "http://pso2es.10nub.es/esbreaker.zip" --no-http-keep-alive --dns-timeout=15 --read-timeout=30 --timestamping
