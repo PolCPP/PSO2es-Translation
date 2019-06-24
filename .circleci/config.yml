@@ -201,17 +201,17 @@ jobs:
             - patchJP.zip
       - restore_cache:
           keys:
-            - v1-ESBreaker-
+            - v1-esbreaker-
       - run:
           name: Download ESBreaker
-          command: /usr/bin/wget "https://alam.srb2.org/PSO2es/ESBreaker.zip" --no-http-keep-alive --dns-timeout=15 --read-timeout=30 --timestamping
+          command: /usr/bin/wget "http://pso2es.10nub.es/esbreaker.zip" --no-http-keep-alive --dns-timeout=15 --read-timeout=30 --timestamping
       - run:
           name: Unpack ESBreaker
-          command: /usr/bin/unzip -xuoq ESBreaker.zip
+          command: /usr/bin/unzip -xuoq esbreaker.zip
       - save_cache:
-          key: v1-ESBreaker-{{ checksum "ESBreaker.zip" }}
+          key: v1-esbreaker-{{ checksum "esbreaker.zip" }}
           paths:
-            - ESBreaker.zip
+            - esbreaker.zip
       - run:
           name: Get GIT version
           command: /usr/bin/git describe --always --tags | /usr/bin/tee /tmp/patchBeta.txt
