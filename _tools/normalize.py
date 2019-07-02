@@ -58,53 +58,6 @@ blacklist_files += [
     for f in fnmatch.filter(files, 'ChipExplain_SupportExplain.txt')
 ]
 
-blacklist_files += [
-    os.path.join(dirpath, f)
-    for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'Season1_Text.txt')
-]
-
-blacklist_files += [
-    os.path.join(dirpath, f)
-    for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'Season2_Text.txt')
-]
-
-blacklist_files += [
-    os.path.join(dirpath, f)
-    for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'Season3_Text.txt')
-]
-
-blacklist_files += [
-    os.path.join(dirpath, f)
-    for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'Side_Text.txt')
-]
-
-blacklist_files += [
-    os.path.join(dirpath, f)
-    for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'Arles_Text.txt')
-]
-
-blacklist_files += [
-    os.path.join(dirpath, f)
-    for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'Nemesis_Text.txt')
-]
-
-blacklist_files += [
-    os.path.join(dirpath, f)
-    for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'Orbit_Text.txt')
-]
-blacklist_files += [
-    os.path.join(dirpath, f)
-    for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'Seiga_Text.txt')
-]
-
 bl = {"!", "＊", "†", "-", "士", "1", "2", "3", "4", "5"}
 
 
