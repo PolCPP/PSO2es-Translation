@@ -3597,7 +3597,7 @@
 	{
 		"assign": "myshop_dialog_b_08",
 		"jp_text": "購入には「ＰＳＯ２ｅｓマイショップ利用券」またはラッピーメダルが必要です。\n利用券がない場合、<%AC>で利用券を購入できます。\n\n必要ＰＳＯ２ｅｓマイショップ利用券：<%NEEDTICKET>\n所持ＰＳＯ２ｅｓマイショップ利用券：<%HAVETICKET>\n\n必要ラッピーメダル：<%NEEDMEDAL>\n所持ラッピーメダル：<%HAVEMEDAL>",
-		"tr_text": "「PSO2es MyShop Voucher」 or Rappy medals required to buy.\nIf you don't have a voucher, you can buy one with <%AC>.\n\nNeeded Vouchers： <%NEEDTICKET>\nOwned: <%HAVETICKET>\n\nRappy medals Needed: <%NEEDMEDAL>\nOwned: <%HAVEMEDAL>"
+		"tr_text": "「PSO2es MyShop Voucher」 or Rappy medals required to buy.\nIf you don't have a voucher, you can buy one with <%AC>.\n\nVouchers needed： <%NEEDTICKET>\nVouchers owned: <%HAVETICKET>\n\nRappy medals needed: <%NEEDMEDAL>\nRappy medals owned: <%HAVEMEDAL>"
 	},
 	{
 		"assign": "myshop_dialog_b_08_1",
@@ -3612,7 +3612,7 @@
 	{
 		"assign": "myshop_dialog_b_08_medal",
 		"jp_text": "ラッピーメダル",
-		"tr_text": "Rappy medal"
+		"tr_text": "Rappy Medal"
 	},
 	{
 		"assign": "myshop_dialog_b_08_back",
@@ -6487,7 +6487,7 @@
 	{
 		"assign": "quest_dialog_b_03",
 		"jp_text": "ラッピーメダルか復活薬を消費して復活しますか？\nリタイアするとクエスト中に得たアイテム、経験値等がすべて失われます。\n\n<color=#ffff00>復活薬か<%AC>を使って復活するとすべてのPSEがMAX状態で復活します。\nMAX状態は、このバトルをクリアすると元に戻ります。</color>\nラッピーメダルでの復活ではPSEのMAX効果はありません。\n\n必要復活薬：<%consume_scape_doll_es>個\n所持復活薬：<%current_scape_doll_es>\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>　　　※復活するとHPとCPが全回復します。",
-		"tr_text": "Revive with a Rappy medal or revive using a Scape Doll?\nIf you select retire, items gained from the current quest will be lost.\n\n<color=#ffff00>When restored with <%AC> or a Scape Doll, your PSEs will be\nrestored to their MAX state until after the battle ends.</color>\nOnly CP and HP will be recovered if using Rappy medals.\n\nRequired Scape Dolls: <%consume_scape_doll_es>\nScape Dolls owned: <%current_scape_doll_es>\n\nRequired Rappy medals: <%consume_rappy_coin>\nRappy medals owned: <%current_rappy_coin>"
+		"tr_text": "Revive with a Rappy medal or revive using a Scape Doll?\nIf you select retire, items gained from the current quest will be lost.\n\n<color=#ffff00>When restored with <%AC> or a Scape Doll, your PSEs will be\nrestored to their MAX state until after the battle ends.</color>\nOnly CP and HP will be recovered if using Rappy medals.\n\nRequired Scape Dolls: <%consume_scape_doll_es>\nScape Dolls owned: <%current_scape_doll_es>\n\nRappy medals needed: <%consume_rappy_coin>\nRappy medals owned: <%current_rappy_coin>"
 	},
 	{
 		"assign": "quest_dialog_b_03_retire",
@@ -8527,7 +8527,7 @@
 	{
 		"assign": "barmoney_rappycoin",
 		"jp_text": "ラッピーメダル",
-		"tr_text": "Rappy medals"
+		"tr_text": "Rappy Medals"
 	},
 	{
 		"assign": "barmoney_meseta",
@@ -8927,7 +8927,7 @@
 	{
 		"assign": "dict_rappy_medal",
 		"jp_text": "ラッピーメダル",
-		"tr_text": "Rappy medal"
+		"tr_text": "Rappy Medal"
 	},
 	{
 		"assign": "dict_meseta",
@@ -9602,7 +9602,7 @@
 	{
 		"assign": "menu_charainfo_label_rappycoin",
 		"jp_text": "ラッピーメダル",
-		"tr_text": "Rappy medals"
+		"tr_text": "Rappy Medals"
 	},
 	{
 		"assign": "menu_charainfo_label_oprecovery",
@@ -10307,7 +10307,7 @@
 	{
 		"assign": "quest_counter_rappy_coin",
 		"jp_text": "行動力が不足しているためクエストに出発できません。\nラッピーメダルか<%AC>を消費して行動力を回復しますか？\n\n出発に必要な行動力：(<%consume_drive>)\n行動力（<%current_drive>）→<color=red>（<%after_drive>）</color>\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "You don't have enough Drive for this stage.\nYou can refil with <%AC> or Rappy medals. Is that OK?\n\nNeeded Drive:(<%consume_drive>)→<color=red>（<%after_drive>）</color>\n\nRappy medals needed: <%consume_rappy_coin>\nRappy medals owned: <%current_rappy_coin>\n\n<%AC> needed: <%consume_AC>\n<%AC> owned: <%current_AC>"
+		"tr_text": "You don't have enough Drive for this stage.\nYou can refil with <%AC> or Rappy medals. Is that OK?\n\nNeeded Drive: (<%consume_drive>)→<color=red>（<%after_drive>）</color>\n\nRappy medals needed: <%consume_rappy_coin>\nRappy medals owned: <%current_rappy_coin>\n\n<%AC> needed: <%consume_AC>\n<%AC> owned: <%current_AC>"
 	},
 	{
 		"assign": "quest_counter_drive_lack",
