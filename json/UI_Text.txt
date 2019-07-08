@@ -157,7 +157,7 @@
 	{
 		"assign": "acshop_dialog_b_00",
 		"jp_text": "ラッピーメダルか<%AC>を消費して\nチップパックを拡張しますか？\n\nパックサイズ（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※チップパックは<%max_pack_size>まで拡張できます。\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "This will extend\nyour Chip Storage.\n\nChip Storage（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※Can extend to a Maximum of <%max_pack_size>.\n\nRappy Coins needed：<%consume_rappy_coin>枚\nRappy Coins owned：<%current_rappy_coin>枚\n\nAC needed：<%consume_AC>\nAC owned：<%current_AC>"
+		"tr_text": "This will extend\nyour Chip Storage.\n\nChip Storage（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※Can extend to a Maximum of <%max_pack_size>.\n\nRappy medals needed: <%consume_rappy_coin>\nRappy medals owned: <%current_rappy_coin>\n\nAC needed: <%consume_AC>\nAC owned: <%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_01",
@@ -197,7 +197,7 @@
 	{
 		"assign": "acshop_dialog_b_04",
 		"jp_text": "ラッピーメダルか<%AC>を消費して\n行動力を回復しますか？\n\n行動力（<%current_drive>）→<color=red>（<%after_drive>）</color>\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "This will restore\nyour Drive points.\n\nDrive（<%current_drive>）→<color=red>（<%after_drive>）</color>\n\nRappy Coins needed：<%consume_rappy_coin>枚\nRappy Coins owned：<%current_rappy_coin>枚\n\nAC needed：<%consume_AC>\nAC owned：<%current_AC>"
+		"tr_text": "This will restore\nyour Drive points.\n\nDrive（<%current_drive>）→<color=red>（<%after_drive>）</color>\n\nRappy medals needed: <%consume_rappy_coin>\nRappy medals owned: <%current_rappy_coin>\n\nAC needed: <%consume_AC>\nAC owned: <%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_05",
@@ -237,7 +237,7 @@
 	{
 		"assign": "acshop_dialog_b_08",
 		"jp_text": "所持<%AC>が不足しています。\n<%AC>をチャージしますか？\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "Not enough <%AC>.\nDo you want to buy more AC？\n\n<%AC> needed：<%consume_AC>\n<%AC> owned：<%current_AC>"
+		"tr_text": "Not enough <%AC>.\nDo you want to buy more AC？\n\n<%AC> needed: <%consume_AC>\n<%AC> owned: <%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_09",
@@ -277,7 +277,7 @@
 	{
 		"assign": "acshop_dialog_b_12",
 		"jp_text": "<%item_name>を1枚購入します。\nよろしいですか？\n\n所持数：<%item_name>×<%current_num>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "Purchasing <%item_name>\nConfirm？\n\nCurrently hold：<%item_name>×<%current_num>\n\nAC needed：<%consume_AC>\nAC owned：<%current_AC>"
+		"tr_text": "Purchasing <%item_name>\nConfirm？\n\nCurrently hold：<%item_name>×<%current_num>\n\nAC needed: <%consume_AC>\nAC owned: <%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_13",
@@ -3517,7 +3517,7 @@
 	{
 		"assign": "myshop_dialog_b_00",
 		"jp_text": "購入しようとしているアイテムの一部に\n★10以上のアイテムが含まれています。\n\n購入するには以下のアイテムが必要となります。\n消費して購入します。\n\nよろしいですか？\n\n<%NEEDITEM>　<%NEED>（所持：<%HAVE>）",
-		"tr_text": "The Item you're trying to buy is a ★10 or higher.\nUnits&Weapons will need an exchange pass.\n\n<%NEEDITEM>　<color=red><%NEED>（Owned： <%HAVE>）</color>"
+		"tr_text": "The Item you're trying to buy is a ★10 or higher.\nUnits&Weapons will need an exchange pass.\n\n<%NEEDITEM>　<color=red><%NEED>（owned: <%HAVE>）</color>"
 	},
 	{
 		"assign": "myshop_dialog_t_01",
@@ -3527,7 +3527,7 @@
 	{
 		"assign": "myshop_dialog_b_01",
 		"jp_text": "購入しようとしているアイテムの一部に\n★10以上のアイテムが含まれていますが、\n以下のアイテムが不足しているため\n購入することができません。\n\n<%NEEDITEM>　<color=red><%NEED>（所持：<%HAVE>）</color>",
-		"tr_text": "The Item you're trying to buy is a ★10 or higher.\nUnits&Weapons will need an exchange pass.\n\n<%NEEDITEM>　<color=red><%NEED>（Owned： <%HAVE>）</color>"
+		"tr_text": "The Item you're trying to buy is a ★10 or higher.\nUnits&Weapons will need an exchange pass.\n\n<%NEEDITEM>　<color=red><%NEED>（owned: <%HAVE>）</color>"
 	},
 	{
 		"assign": "myshop_dialog_t_02",
@@ -3597,7 +3597,7 @@
 	{
 		"assign": "myshop_dialog_b_08",
 		"jp_text": "購入には「ＰＳＯ２ｅｓマイショップ利用券」またはラッピーメダルが必要です。\n利用券がない場合、<%AC>で利用券を購入できます。\n\n必要ＰＳＯ２ｅｓマイショップ利用券：<%NEEDTICKET>\n所持ＰＳＯ２ｅｓマイショップ利用券：<%HAVETICKET>\n\n必要ラッピーメダル：<%NEEDMEDAL>\n所持ラッピーメダル：<%HAVEMEDAL>",
-		"tr_text": "「PSO2es MyShop Voucher」 or Rappy Coins required to buy.\nIf you don't have a voucher, you can buy one with <%AC>.\n\nNeeded Vouchers： <%NEEDTICKET>\nOwned: <%HAVETICKET>\n\nRappy Coins Needed: <%NEEDMEDAL>\nOwned: <%HAVEMEDAL>"
+		"tr_text": "「PSO2es MyShop Voucher」 or Rappy medals required to buy.\nIf you don't have a voucher, you can buy one with <%AC>.\n\nVouchers needed： <%NEEDTICKET>\nVouchers owned: <%HAVETICKET>\n\nRappy medals needed: <%NEEDMEDAL>\nRappy medals owned: <%HAVEMEDAL>"
 	},
 	{
 		"assign": "myshop_dialog_b_08_1",
@@ -3612,7 +3612,7 @@
 	{
 		"assign": "myshop_dialog_b_08_medal",
 		"jp_text": "ラッピーメダル",
-		"tr_text": "Rappy Coin"
+		"tr_text": "Rappy Medal"
 	},
 	{
 		"assign": "myshop_dialog_b_08_back",
@@ -3647,7 +3647,7 @@
 	{
 		"assign": "myshop_dialog_b_11",
 		"jp_text": "出品には「ＰＳＯ２ｅｓマイショップ利用券」またはラッピーメダルが必要です。\n利用券がない場合、<%AC>で利用券を購入できます。\n<color=#f0df60>※出品によって消費した利用券またはラッピーメダルは\n取り下げ時に戻りませんのでご注意ください。\n※出品した商品は、長期間が経過した場合、公式サイトで事前告知のうえ\n『PSO2』の運営倉庫に取り下げられることがあります。\nその場合も消費した利用券またはラッピーメダルは戻りません。</color>\n\n必要ＰＳＯ２ｅｓマイショップ利用券：<%NEEDTICKET>\n所持ＰＳＯ２ｅｓマイショップ利用券：<%HAVETICKET>\n\n必要ラッピーメダル：<%NEEDMEDAL>\n所持ラッピーメダル：<%HAVEMEDAL>",
-		"tr_text": "A PSO2es MyShop Voucher or Rappy Coin is needed to sell.\nIf you do not own a MyShop voucher,\nyou can buy one with <%AC>.\n<color=#f0df60>※Using a ticket or Rappy Coin will be used\nimmediately during selling and will not be returned if\nnothing was sold.</color>\n\nNeeded Shop Vouchers:<%NEEDTICKET>\nOwned:<%HAVETICKET>\n\nNeeded Rappy Coin(s):<%NEEDMEDAL>\nOwned:<%HAVEMEDAL>"
+		"tr_text": "A PSO2es MyShop Voucher or Rappy medal is needed to sell.\nIf you do not own a MyShop voucher,\nyou can buy one with <%AC>.\n<color=#f0df60>※Using a ticket or Rappy medal will be used\nimmediately during selling and will not be returned if\nnothing was sold.</color>\n\nNeeded Shop Vouchers:<%NEEDTICKET>\nOwned:<%HAVETICKET>\n\nNeeded Rappy medal(s):<%NEEDMEDAL>\nOwned:<%HAVEMEDAL>"
 	},
 	{
 		"assign": "myshop_dialog_t_12",
@@ -5367,7 +5367,7 @@
 	{
 		"assign": "quest_counter_story_bonus_medal",
 		"jp_text": "ラッピーメダル　1枚",
-		"tr_text": "Rappy Coin 1st Sheet"
+		"tr_text": "Rappy medal 1st Sheet"
 	},
 	{
 		"assign": "quest_counter_story_bonus_info",
@@ -5952,7 +5952,7 @@
 	{
 		"assign": "reward_rappy_get",
 		"jp_text": "緊急クエストのクエストエリアをクリアしました！\nラッピーメダルを<%num>枚獲得しました。",
-		"tr_text": "Cleared the quest area of the EQ!\nYou are awarded <%num> Rappy Coin(s)."
+		"tr_text": "Cleared the quest area of the EQ!\nYou are awarded <%num> Rappy medal(s)."
 	},
 	{
 		"assign": "reward_caption_bonus",
@@ -6267,7 +6267,7 @@
 	{
 		"assign": "scratch_message_01",
 		"jp_text": "現在キャンペーン中！\n<color=#f0df60>ラッピーメダル {0} 枚</color>をプレゼント！",
-		"tr_text": "During the current campaign!\n<color=#f0df60>Rappy Coins {0}</color> and Free!"
+		"tr_text": "During the current campaign!\n<color=#f0df60>Rappy medals {0}</color> and Free!"
 	},
 	{
 		"assign": "scratch_dialog_t_07",
@@ -6317,7 +6317,7 @@
 	{
 		"assign": "scratch_dialog_b_11",
 		"jp_text": "ラッピーメダル{0}枚で\n{1}を{2}回引きます。\nよろしいですか？\n現在の所持ラッピーメダル：{3}枚\n",
-		"tr_text": "Rappy Coins required: {0}\nPerforming {2}x {1}, is that OK?\nRappy Coins owned: {3}"
+		"tr_text": "Rappy medals required: {0}\nPerforming {2}x {1}, is that OK?\nRappy medals owned: {3}"
 	},
 	{
 		"assign": "scratch_message_02",
@@ -6327,7 +6327,7 @@
 	{
 		"assign": "scratch_message_03",
 		"jp_text": "ラッピーメダル{0}枚を獲得しました！",
-		"tr_text": "Rappy Coins: {0}!"
+		"tr_text": "Rappy medals: {0}!"
 	},
 	{
 		"assign": "scratch_message_04",
@@ -6462,7 +6462,7 @@
 	{
 		"assign": "quest_dialog_b_00",
 		"jp_text": "ラッピーメダルを<%consume_rappy_coin>枚使用して\n復活しますか？\n\n（現在の所持数：<%current_rappy_coin>枚）",
-		"tr_text": "Use <%consume_rappy_coin> Rappy Coins\nto revive yourself？\n\n（ Rappy Coins owned： <%current_rappy_coin> ）"
+		"tr_text": "Use <%consume_rappy_coin> Rappy medals\nto revive yourself？\n\n(Rappy medals owned: <%current_rappy_coin>)"
 	},
 	{
 		"assign": "quest_dialog_t_01",
@@ -6487,7 +6487,7 @@
 	{
 		"assign": "quest_dialog_b_03",
 		"jp_text": "ラッピーメダルか復活薬を消費して復活しますか？\nリタイアするとクエスト中に得たアイテム、経験値等がすべて失われます。\n\n<color=#ffff00>復活薬か<%AC>を使って復活するとすべてのPSEがMAX状態で復活します。\nMAX状態は、このバトルをクリアすると元に戻ります。</color>\nラッピーメダルでの復活ではPSEのMAX効果はありません。\n\n必要復活薬：<%consume_scape_doll_es>個\n所持復活薬：<%current_scape_doll_es>\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>　　　※復活するとHPとCPが全回復します。",
-		"tr_text": "Revive with a Rappy Coin or revive using a Scape Doll?\nIf you select retire, items gained from the current quest will be lost.\n\n<color=#ffff00>When restored with <%AC> or a Scape Doll, your PSEs will be\nrestored to their MAX state until after the battle ends.</color>\nOnly CP and HP will be recovered if using Rappy Coins.\n\nRequired Scape Dolls: <%consume_scape_doll_es>\nScape Dolls owned: <%current_scape_doll_es>\n\nRequired Rappy Coins: <%consume_rappy_coin>\nRappy Coins owned: <%current_rappy_coin>"
+		"tr_text": "Revive with a Rappy medal or revive using a Scape Doll?\nIf you select retire, items gained from the current quest will be lost.\n\n<color=#ffff00>When restored with <%AC> or a Scape Doll, your PSEs will be\nrestored to their MAX state until after the battle ends.</color>\nOnly CP and HP will be recovered if using Rappy medals.\n\nRequired Scape Dolls: <%consume_scape_doll_es>\nScape Dolls owned: <%current_scape_doll_es>\n\nRappy medals needed: <%consume_rappy_coin>\nRappy medals owned: <%current_rappy_coin>"
 	},
 	{
 		"assign": "quest_dialog_b_03_retire",
@@ -6527,7 +6527,7 @@
 	{
 		"assign": "quest_line_03",
 		"jp_text": "ラッピーメダルを<%coins>枚入手しました",
-		"tr_text": "Received <%coins> Rappy Coins."
+		"tr_text": "Received <%coins> Rappy medals."
 	},
 	{
 		"assign": "quest_line_04",
@@ -8527,7 +8527,7 @@
 	{
 		"assign": "barmoney_rappycoin",
 		"jp_text": "ラッピーメダル",
-		"tr_text": "Rappy Coins"
+		"tr_text": "Rappy Medals"
 	},
 	{
 		"assign": "barmoney_meseta",
@@ -8927,7 +8927,7 @@
 	{
 		"assign": "dict_rappy_medal",
 		"jp_text": "ラッピーメダル",
-		"tr_text": "Rappy Coin"
+		"tr_text": "Rappy Medal"
 	},
 	{
 		"assign": "dict_meseta",
@@ -9397,7 +9397,7 @@
 	{
 		"assign": "loginbonus_rappycoin",
 		"jp_text": "<%rappy>ラッピーメダル",
-		"tr_text": "<%rappy> Rappy Coins"
+		"tr_text": "<%rappy> Rappy medals"
 	},
 	{
 		"assign": "loginbonus_expticket",
@@ -9602,7 +9602,7 @@
 	{
 		"assign": "menu_charainfo_label_rappycoin",
 		"jp_text": "ラッピーメダル",
-		"tr_text": "Rappy Coins"
+		"tr_text": "Rappy Medals"
 	},
 	{
 		"assign": "menu_charainfo_label_oprecovery",
@@ -10307,7 +10307,7 @@
 	{
 		"assign": "quest_counter_rappy_coin",
 		"jp_text": "行動力が不足しているためクエストに出発できません。\nラッピーメダルか<%AC>を消費して行動力を回復しますか？\n\n出発に必要な行動力：(<%consume_drive>)\n行動力（<%current_drive>）→<color=red>（<%after_drive>）</color>\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "You don't have enough Drive for this stage.\nYou can refil with <%AC> or Rappy Coins. Is that OK?\n\nNeeded Drive:(<%consume_drive>)→<color=red>（<%after_drive>）</color>\n\nCoins Needed: <%consume_rappy_coin>\nHave: <%current_rappy_coin>\n\nHave <%AC>: <%consume_AC>\nCurrent: <%current_AC>"
+		"tr_text": "You don't have enough Drive for this stage.\nYou can refil with <%AC> or Rappy medals. Is that OK?\n\nNeeded Drive: (<%consume_drive>)→<color=red>（<%after_drive>）</color>\n\nRappy medals needed: <%consume_rappy_coin>\nRappy medals owned: <%current_rappy_coin>\n\n<%AC> needed: <%consume_AC>\n<%AC> owned: <%current_AC>"
 	},
 	{
 		"assign": "quest_counter_drive_lack",
@@ -12007,7 +12007,7 @@
 	{
 		"assign": "wh_20_01",
 		"jp_text": "「ｅｓスクラッチ」では、レアなチップを入手することができます。\n購入には「<%AC>」、またはゲーム中に無料で手に入る\n「ラッピーメダル」を使用します。",
-		"tr_text": "「es Scratch」 With es Scratch, you can obtain rare chips.\nYou can try this out using 「<%AC>」\nor by using 「Rappy Coins」."
+		"tr_text": "「es Scratch」 With es Scratch, you can obtain rare chips.\nYou can try this out using 「<%AC>」\nor by using 「Rappy medals」."
 	},
 	{
 		"assign": "wh_20_04",
@@ -12222,7 +12222,7 @@
 	{
 		"assign": "wh_29_03",
 		"jp_text": "プレミアムセットが有効でない状態では「アイテムの購入」時に\n「PSO2esマイショップ利用券」または「ラッピーメダル」が必要となります。\n利用券は<%AC>ショップで購入ができます。",
-		"tr_text": "When not premium, the purchase of items will\nrequire a PSO2es MyShop Voucher or a Rappy Coin.\nVouchers can be purchased from the <%AC> Shop."
+		"tr_text": "When not premium, the purchase of items will\nrequire a PSO2es MyShop Voucher or a Rappy medal.\nVouchers can be purchased from the <%AC> Shop."
 	},
 	{
 		"assign": "wh_29_04",
@@ -14367,7 +14367,7 @@
 	{
 		"assign": "sns_dialog_1_b",
 		"jp_text": "SNSと連動してプレゼントをもらおう♪\n\nTwitterと連動すると\nラッピーメダルを5枚プレゼント!!",
-		"tr_text": "By using SNS (Social Networking Service),\nyou can get free gifts!♪\n\nWhen you link your Twitter,\nyou'll receive 5 Rappy Coins!"
+		"tr_text": "By using SNS (Social Networking Service),\nyou can get free gifts!♪\n\nWhen you link your Twitter,\nyou'll receive 5 Rappy medals!"
 	},
 	{
 		"assign": "sns_dialog_1_button",
@@ -15312,7 +15312,7 @@
 	{
 		"assign": "raid_scratch_kingrappy_medal",
 		"jp_text": "キングラッピーメダル",
-		"tr_text": "King Rappy Coin"
+		"tr_text": "King Rappy Medal"
 	},
 	{
 		"assign": "raid_scratch_kingrappy_medal_count",
