@@ -2216,8 +2216,8 @@
 	},
 	{
 		"assign": "labo_dialog_b_23",
-		"jp_text": "解放対象のチップのレベルが\n上限に達していないため、\n解放することができません。",
-		"tr_text": "Cannot Release this Chip.\nIt has not reached its\nmaximum Chip Level."
+		"jp_text": "解放対象のチップのレベルが\n最大レベルに達していないため\n解放することができません。",
+		"tr_text": ""
 	},
 	{
 		"assign": "labo_dialog_t_24",
@@ -2236,8 +2236,8 @@
 	},
 	{
 		"assign": "labo_dialog_b_26",
-		"jp_text": "解放に必要な素材チップが足りません。",
-		"tr_text": "Cannot release. Not enough material."
+		"jp_text": "素材チップが不足しているため\n解放することができません。",
+		"tr_text": ""
 	},
 	{
 		"assign": "labo_chip_awake_select",
@@ -5236,8 +5236,8 @@
 	},
 	{
 		"assign": "linkage_exp_dialog_b_02",
-		"jp_text": "配分設定を保存しました。\nこの設定は、次回のプレイから適用されます。",
-		"tr_text": "Allocation settings saved.\nThese settings will be applied the next time\nyou play."
+		"jp_text": "配分設定を保存しました。\nこの設定は、次回のプレイから適用されます。\n\n※設定中のクラスが蓄積上限に達した場合\n　　超過分は配分可能な項目へ自動配分されます。",
+		"tr_text": ""
 	},
 	{
 		"assign": "linkage_exp_dialog_t_03",
@@ -5348,6 +5348,11 @@
 		"assign": "questcounter_guide_10",
 		"jp_text": "<color=#f0df60>謎の少女アフタルと惑星リリーパの古代文明を巡る新たなストーリーです。Normalのエリアで獲得スコアを最大にすると、高難度なExのエリアが解放されます。</color>",
 		"tr_text": "<color=#f0df60>The story of the mysterious girl, Akhtar, and the ancient civilization of planet Lillipa. Clear an area with full marks on Normal to unlock its EX difficulty version.</color>"
+	},
+	{
+		"assign": "questcounter_guide_11",
+		"jp_text": "<color=#f0df60>『PSO2es』をより楽しむために役立つ知識を、ストーリー形式で知ることができます。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "quest_counter_header_Season2",
@@ -5660,6 +5665,11 @@
 		"tr_text": "Story Quest"
 	},
 	{
+		"assign": "quest_counter_header_tutorial",
+		"jp_text": "チュートリアルクエスト",
+		"tr_text": ""
+	},
+	{
 		"assign": "quest_counter_stage_other",
 		"jp_text": "<%stage>＋他",
 		"tr_text": "<%stage>＋"
@@ -5848,6 +5858,21 @@
 		"assign": "quest_counter_raid_sp_z_dialog_01_b",
 		"jp_text": "「覇級トリガー」を消費して、覇級を解除します。\nトリガーは複数使用することで\n強いエネミーと戦うことができます。\n\n※覇級トリガーはクエスト出発時に消費されます。\n\n<color=#ffff00>所持数：{0}個</color>\n\n何個使用しますか？",
 		"tr_text": "This will use an \"Extra Hard Trigger\".\nBy using multiple triggers, you\ncan fight a stronger enemy.\n\n※Triggers will be used when starting the quest.\n\n<color=#ffff00>Owned Triggers：{0}</color>\nHow many triggers do you want to use?"
+	},
+	{
+		"assign": "window_help_LM41",
+		"jp_text": "wh_57_01,\n「チュートリアルクエスト」は、あらかじめ用意された\nキャラクターと装備パレットを使って、クエストに挑みます。\n編成を行う必要はありませんので、気軽に挑戦してみてください。,",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_counter_tutorial_quest_subtitle_common",
+		"jp_text": "quest_counter_tutorial_quest_subtitle_common",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_counter_tutorial_quest_subtitle_00",
+		"jp_text": "<color=#00bfff>教えて！　セラフィさん</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "reward_dialog_title",
@@ -16441,8 +16466,8 @@
 	},
 	{
 		"assign": "pet_acgive_window_body",
-		"jp_text": "ペットの合成可能数が不足しています。\n\n{0}<%AC>を消費して\n合成可能数を全回復させます。\nよろしいですか？\n\n<color=#f0df60>※合成可能数が回復するのは\n　現在選択中のペットのみです。</color>\n\r\n必要<%AC>：{1}\r\n所持<%AC>：{2}\n",
-		"tr_text": "By consuming {0}<%AC>\nYou can recover your synthesis uses.\nIs that ok?\n\nNeeded <%AC>: {1}\nHave: {2} <%AC>"
+		"jp_text": "ペットの合成可能数が不足しています。\n\n{0}<%AC>を消費して\n合成可能数を全回復させます。\nよろしいですか？\n\n<color=#f0df60>※合成可能数が回復するのは\n　現在選択中のペットのみです。</color>\n\r\n必要<%AC>：{1}\r\n所持<%AC>：{2}",
+		"tr_text": ""
 	},
 	{
 		"assign": "pet_recovery_time",
@@ -16496,8 +16521,8 @@
 	},
 	{
 		"assign": "pet_recovery_dialog_no",
-		"jp_text": "キャンセル",
-		"tr_text": "Cancel"
+		"jp_text": "戻る",
+		"tr_text": "Return"
 	},
 	{
 		"assign": "pet_recovery_window_title",
@@ -17457,6 +17482,21 @@
 	{
 		"assign": "lookback_series4_chapter_1",
 		"jp_text": "第１章　セイガーズ誕生",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_maintitle_15",
+		"jp_text": "チュートリアルクエスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_maintext_15",
+		"jp_text": "チュートリアルクエストの物語を\n振り返ります。",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_tutorial_chapter_1",
+		"jp_text": "パレット編成で強くなろう！",
 		"tr_text": ""
 	},
 	{
@@ -18557,7 +18597,7 @@
 	{
 		"assign": "collect_search_return",
 		"jp_text": "戻る",
-		"tr_text": "Return"
+		"tr_text": "Back"
 	},
 	{
 		"assign": "collect_search_title",
@@ -18931,8 +18971,8 @@
 	},
 	{
 		"assign": "scratch_pickup_select_fix_text",
-		"jp_text": "選択した確定スクラッチになります。よろしいですか？",
-		"tr_text": "This will start the select scratch. Is this OK?"
+		"jp_text": "確定スクラッチには次のチップが入ります。よろしいですか？",
+		"tr_text": ""
 	},
 	{
 		"assign": "scratch_pickup_select_fix_rarity",
@@ -18942,7 +18982,37 @@
 	{
 		"assign": "scratch_pickup_select_fix_return",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": ""
+	},
+	{
+		"assign": "scratch_pickup_reset_start_title",
+		"jp_text": "封入スクラッチのリセット",
+		"tr_text": ""
+	},
+	{
+		"assign": "scratch_pickup_reset_start_body",
+		"jp_text": "これまでのチップ獲得状況をリセットして\n封入するチップを選びなおしますか？\n\n<color=yellow>※リセットをすると\n　　前の獲得状況に戻すことはできなくなります。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "scratch_pickup_reset_button",
+		"jp_text": "選びなおす",
+		"tr_text": ""
+	},
+	{
+		"assign": "scratch_pickup_reset_no",
+		"jp_text": "キャンセル",
+		"tr_text": "Cancel"
+	},
+	{
+		"assign": "scratch_pickup_reset_finish_title",
+		"jp_text": "封入スクラッチのリセット",
+		"tr_text": ""
+	},
+	{
+		"assign": "scratch_pickup_reset_finish_body",
+		"jp_text": "確定スクラッチの内容をリセットしました。\n封入するチップを選びなおしてください。",
+		"tr_text": ""
 	},
 	{
 		"assign": "ItemDetail_accessory_message",
@@ -19077,6 +19147,16 @@
 	{
 		"assign": "quest_clear_reward_dialog_body_5024104",
 		"jp_text": "ブレイブ　オブ　セイガーズ\n第1章 第4話「オラクル戦隊セイガーズ」\nクリアおめでとうございます！\n以下のクリア報酬をプレゼントいたしました。\n受け取りボックスをご確認ください。",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_clear_reward_dialog_title_6244004",
+		"jp_text": "ストーリークエスト Season3　5章4-4",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_clear_reward_dialog_body_6244004",
+		"jp_text": "Season3　5章4-4「いつかと誓った、あの空を信じて」\nクリアおめでとうございます！\n以下のクリア報酬をプレゼントいたしました。\n受け取りボックスをご確認ください。",
 		"tr_text": ""
 	},
 	{
@@ -20862,7 +20942,7 @@
 	{
 		"assign": "stack_chip_window_return",
 		"jp_text": "戻る",
-		"tr_text": ""
+		"tr_text": "Return"
 	},
 	{
 		"assign": "stack_chip_window_addition",
@@ -21502,7 +21582,7 @@
 	{
 		"assign": "raid_dps_return_button",
 		"jp_text": "戻る",
-		"tr_text": "Return"
+		"tr_text": ""
 	},
 	{
 		"assign": "raid_event_current_button",
@@ -21711,8 +21791,8 @@
 	},
 	{
 		"assign": "chip_awake_dialog_b_shortage_meseta",
-		"jp_text": "メセタが不足しているため\nチップ特装ができません。",
-		"tr_text": "Insufficient Meseta to specialize this chip."
+		"jp_text": "メセタが不足しているため\nチップ特装をすることができません。",
+		"tr_text": ""
 	},
 	{
 		"assign": "chip_awake_skill_dialog_t_shortage_meseta",
@@ -21721,8 +21801,8 @@
 	},
 	{
 		"assign": "chip_awake_skill_dialog_b_shortage_meseta",
-		"jp_text": "メセタが不足しているため\n特装プラグを強化をすることができません。",
-		"tr_text": "Insufficient Meseta to Plug-In to this chip."
+		"jp_text": "メセタが不足しているため\nプラグ強化をすることができません。",
+		"tr_text": ""
 	},
 	{
 		"assign": "chip_awake_dialog_t_shortage_chiplv",
@@ -21731,8 +21811,8 @@
 	},
 	{
 		"assign": "chip_awake_dialog_b_shortage_chiplv",
-		"jp_text": "選択されたチップは最大レベルに達していないため\nチップ特装をすることができません。",
-		"tr_text": "This chip cannot be specialized as\nit has not reached its maximum level."
+		"jp_text": "特装対象のチップのレベルが\n最大レベルに達していないため\nチップ特装をすることができません。",
+		"tr_text": ""
 	},
 	{
 		"assign": "chip_awake_skill_dialog_t_shortage_chiplv",
@@ -21751,8 +21831,8 @@
 	},
 	{
 		"assign": "chip_awake_dialog_b_shortage_materialchip",
-		"jp_text": "チップ特装に必要な素材チップが足りません。",
-		"tr_text": "Insufficient materials to specialize this chip."
+		"jp_text": "素材チップが不足しているため\nチップ特装をすることができません。",
+		"tr_text": ""
 	},
 	{
 		"assign": "chip_awake_skill_dialog_t_shortage_materialchip",
@@ -21761,8 +21841,8 @@
 	},
 	{
 		"assign": "chip_awake_skill_dialog_b_shortage_materialchip",
-		"jp_text": "プラグ強化に必要な素材チップが足りません。",
-		"tr_text": "Insufficient materials to Plug-In to this chip."
+		"jp_text": "素材チップが不足しているため\nプラグ強化をすることができません。",
+		"tr_text": ""
 	},
 	{
 		"assign": "chip_awake_dialog_t_decide",
@@ -21771,8 +21851,8 @@
 	},
 	{
 		"assign": "chip_awake_dialog_b_decide",
-		"jp_text": "<color=yellow>使用する素材チップに★７以上のものが含まれています。</color>\n次の素材チップとメセタを消費して、チップ特装を実行します。\nよろしいですか？",
-		"tr_text": "<color=yellow>One or more of the materials has a rarity of ★７+ stars.</color>\nThese will be lost upon use.\nAre you sure?"
+		"jp_text": "次の素材チップとメセタを消費して、チップ特装を実行します。\nよろしいですか？",
+		"tr_text": ""
 	},
 	{
 		"assign": "chip_awake_dialog_b_decide_t_material",
@@ -21816,8 +21896,8 @@
 	},
 	{
 		"assign": "chip_awake_skill_dialog_b_decide",
-		"jp_text": "<color=yellow>使用する素材チップに★７以上のものが含まれています。</color>\n次の素材チップとメセタを消費して、プラグ強化を実行します。\nよろしいですか？",
-		"tr_text": "<color=yellow>One or more of the materials has a rarity of ★７+ stars.</color>\nThese will be lost upon use.\nAre you sure?"
+		"jp_text": "次の素材チップとメセタを消費して、プラグ強化を実行します。\nよろしいですか？",
+		"tr_text": ""
 	},
 	{
 		"assign": "chip_awake_skill_dialog_b_decide_t_material",
@@ -21826,7 +21906,7 @@
 	},
 	{
 		"assign": "chip_awake_skill_dialog_b_decide_t_details",
-		"jp_text": "特装効果",
+		"jp_text": "プラグ強化効果",
 		"tr_text": ""
 	},
 	{
@@ -21917,6 +21997,11 @@
 	{
 		"assign": "window_help_LM40",
 		"jp_text": "wh_54_01,\n「プラグ」には、レベルを上げることで効果がアップするものがあります。\nレベルを上げるためには、専用の素材チップが必要です。\n素材チップは、様々なクエストで入手できます。,",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_w_rarematerial",
+		"jp_text": "<color=yellow>使用する素材チップに★７以上のものが含まれています。</color>",
 		"tr_text": ""
 	}
 ]

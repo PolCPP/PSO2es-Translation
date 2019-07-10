@@ -1890,6 +1890,20 @@
 		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S4:Colored Spectrum\"\nwhen used in Ability Synthesis."
 	},
 	{
+		"assign": "3210363",
+		"jp_text": "Ｓ１追加：戦友の加護",
+		"tr_text": "S1 Add:Collaborator Liberator",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：戦友の加護を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Collaborator Liberator\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210364",
+		"jp_text": "Ｓ４追加：累加追撃",
+		"tr_text": "S4 Add:Raising Pursuit",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ４：累加追撃を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S4:Raising Pursuit\"\nwhen used in Ability Synthesis."
+	},
+	{
 		"assign": "3210456",
 		"jp_text": "特殊能力（マーク継承）",
 		"tr_text": "Add Ability (Mark Receptor)",
@@ -1972,5 +1986,26 @@
 		"tr_text": "S3 Add:Brilliant Ruin",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：滅域輝与を付与。",
 		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S3:Brilliant Ruin\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210492",
+		"jp_text": "特殊能力（センテンスＰ）",
+		"tr_text": "Add Ability (Sentence P)",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【センテンス・パワー】を追加。",
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Sentence Power\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210493",
+		"jp_text": "特殊能力（センテンスＳ）",
+		"tr_text": "Add Ability (Sentence S)",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【センテンス・シュート】を追加。",
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Sentence Shoot\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210494",
+		"jp_text": "特殊能力（センテンスＴ）",
+		"tr_text": "Add Ability (Sentence T)",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【センテンス・テクニック】を追加。",
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Sentence Technique\"\nwhen used in Ability Synthesis."
 	}
 ]

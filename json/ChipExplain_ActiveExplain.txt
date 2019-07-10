@@ -920,7 +920,7 @@
 		"assign": "31242",
 		"jp_explainShort": "チップのＣＰ消費量が減少＋攻撃力劇的増加",
 		"tr_explainShort": "CP usage reduced + damage boosted",
-		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
+		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
 		"tr_explainLong": "①  Boosts damage by 90%.\n<color=yellow>SP: </color>Boosts damage by 100%.\n     <color=yellow>[E-Frame]</color>\n②  Reduces CP consumption by 30%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] 60 seconds"
 	},
 	{
@@ -2483,6 +2483,104 @@
 		"tr_explainShort": "Costly damage boost + interrupt immune",
 		"jp_explainLong": "① 敵から受けるダメージが増加する代わりに\n　　 攻撃力を極度に増加する。\n② ダウン・のけぞり無効となる効果を付与する。\n③ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
 		"tr_explainLong": "①  Boosts damage by 410% in exchange for taking\n     50% more damage from enemies.\n<color=yellow>SP: </color>Boosts damage by 420% in exchange for taking\n     50% more damage from enemies.\n     <color=yellow>[U-Frame]</color>\n②  Grants immunity to knockback and flinching.\n③  While this chip is equipped, the equip costs of\n     all PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+	},
+	{
+		"assign": "31999",
+		"jp_explainShort": "スサノグレン",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 定期的に攻撃力をわずかに増加する。（最大時：劇的）\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32000",
+		"jp_explainShort": "スサノグレン（解放後）",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 定期的に攻撃力をわずかに増加する。（最大時：劇的）\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32001",
+		"jp_explainShort": "ヤスミノコフ8000C[水着]",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 装備中のウェポノイドチップの枚数に応じ\n　　 攻撃の威力を超絶に強化する。\n② 通常攻撃・必殺技・法術が全てジャストアタックとなる。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32002",
+		"jp_explainShort": "ヤスミノコフ8000C[Ｓ水着]",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 装備中のウェポノイドチップの枚数に応じ\n　　 攻撃の威力を極度に強化する。\n② 通常攻撃・必殺技・法術が全てジャストアタックとなる。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32009",
+		"jp_explainShort": "ギレスヴァイエン",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を超絶に強化する。\n② アクティブチップ使用か通常攻撃を３回行うごとに\n　　 攻撃力を劇的に強化する。（最大時：絶大）\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32010",
+		"jp_explainShort": "ギレスヴァイエン（解放後）",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を超絶に強化する。\n② アクティブチップ使用か通常攻撃を３回行うごとに\n　　 攻撃力を劇的に強化する。（最大時：絶大）\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32011",
+		"jp_explainShort": "シェルオプス",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを絶大に増加する。\n② ボス戦とタワークエストで\n　　 装備中の氷属性チップの枚数に応じて\n　　 ①の効果のダメージをさらに超絶に増加する。\n③ リンクスロットに装備したチップの属性が氷属性の場合\n　　 氷属性のチップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は氷属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32012",
+		"jp_explainShort": "シェルオプス（解放後）",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを絶大に増加する。\n② ボス戦とタワークエストで\n　　 装備中の氷属性チップの枚数に応じて\n　　 ①の効果のダメージをさらに超絶に増加する。\n③ リンクスロットに装備したチップの属性が氷属性の場合\n　　 氷属性のチップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は氷属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32013",
+		"jp_explainShort": "シェルオプス（真解放後）",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを絶大に増加する。\n② ボス戦とタワークエストで\n　　 装備中の氷属性チップの枚数に応じて\n　　 ①の効果のダメージをさらに超絶に増加する。\n③ リンクスロットに装備したチップの属性が氷属性の場合\n　　 氷属性のチップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32014",
+		"jp_explainShort": "ターンヘッド",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② タワークエストで敵に与えるダメージを\n　　 アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 風属性の場合、風属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32015",
+		"jp_explainShort": "ターンヘッド（解放後）",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② タワークエストで敵に与えるダメージを\n　　 アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 風属性の場合、風属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32016",
+		"jp_explainShort": "ターンヘッド（真解放後）",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② タワークエストで敵に与えるダメージを\n　　 アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 風属性の場合、風属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32023",
+		"jp_explainShort": "アネット抱き枕",
+		"tr_explainShort": "",
+		"jp_explainLong": "① アビリティレベルと雷・風属性の合計値に応じて\n　　 属性攻撃力を増加する。\n② 定期的にＣＰをわずかに回復する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32024",
+		"jp_explainShort": "アネット抱き枕（解放後）",
+		"tr_explainShort": "",
+		"jp_explainLong": "① アビリティレベルと雷・風属性の合計値に応じて\n　　 属性攻撃力を大きく増加する。\n② 定期的にＣＰをわずかに回復する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "2110",
@@ -7402,7 +7500,7 @@
 		"assign": "4810",
 		"jp_explainShort": "攻撃時に追加で中ダメージ",
 		"tr_explainShort": "Additional damage to enemies",
-		"jp_explainLong": "① 敵に追加で中ダメージを与える。\n[効果時間]短い時間",
+		"jp_explainLong": "① 敵に追加でダメージを与える。\n[効果時間]短い時間",
 		"tr_explainLong": "①  Deals an additional 30% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 35% damage to enemies.\n     <color=yellow>[Chase]</color>\n[Effect Duration] 6 seconds"
 	},
 	{
@@ -8169,45 +8267,59 @@
 		"tr_explainLong": "①  Boosts damage against Reconfigured Mechs by\n     40%.\n<color=yellow>SP: </color>Boosts damage against Reconfigured Mechs by\n     45%.\n     <color=yellow>[B-Frame]</color>\n②  Reduces CP consumption by 10%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] 60 seconds"
 	},
 	{
-		"assign": "20071",
+		"assign": "20053",
 		"jp_explainShort": "全体に雷属性の射撃による大ダメージ",
 		"tr_explainShort": "Lightning shooting damage to all enemies",
-		"jp_explainLong": "【ダメージボム】\n① 敵全体に雷属性の射撃による大ダメージを与える。",
+		"jp_explainLong": "① 攻撃力を増加する。\n② 敵から受けるダメージをわずかに軽減する。\n③ ダウンしなくなる。\n[効果時間]長い時間",
 		"tr_explainLong": "[Damage Bomb]\n①  Deals 1000% 80 Lightning shooting damage to all\n     enemies.\n<color=yellow>SP: </color>Deals 1200% 80 Lightning shooting damage to all\n     enemies."
 	},
 	{
-		"assign": "20072",
+		"assign": "20054",
 		"jp_explainShort": "全体に雷属性の射撃による大ダメージ",
 		"tr_explainShort": "Lightning shooting damage to all enemies",
-		"jp_explainLong": "【ダメージボム】\n① 敵全体に雷属性の射撃による大ダメージを与える。",
+		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 敵から受けるダメージをわずかに軽減する。\n③ ダウンしなくなる。\n[効果時間]長い時間",
 		"tr_explainLong": "[Damage Bomb]\n①  Deals 1400% 80 Lightning shooting damage to all\n     enemies.\n<color=yellow>SP: </color>Deals 1600% 80 Lightning shooting damage to all\n     enemies."
 	},
 	{
-		"assign": "20059",
+		"assign": "20071",
 		"jp_explainShort": "全体に氷属性の法撃による大ダメージ",
 		"tr_explainShort": "Ice tech damage to all enemies",
-		"jp_explainLong": "【ダメージボム】\n① 敵全体に氷属性の法撃による大ダメージを与える。",
+		"jp_explainLong": "【ダメージボム】\n① 敵全体に雷属性の射撃による大ダメージを与える。",
 		"tr_explainLong": "[Damage Bomb]\n①  Deals 1000% 80 Ice tech damage to all enemies.\n<color=yellow>SP: </color>Deals 1200% 80 Ice tech damage to all enemies."
 	},
 	{
-		"assign": "20060",
+		"assign": "20072",
 		"jp_explainShort": "全体に氷属性の法撃による大ダメージ",
 		"tr_explainShort": "Ice tech damage to all enemies",
-		"jp_explainLong": "【ダメージボム】\n① 敵全体に氷属性の法撃による大ダメージを与える。",
+		"jp_explainLong": "【ダメージボム】\n① 敵全体に雷属性の射撃による大ダメージを与える。",
 		"tr_explainLong": "[Damage Bomb]\n①  Deals 1400% 80 Ice tech damage to all enemies.\n<color=yellow>SP: </color>Deals 1600% 80 Ice tech damage to all enemies."
 	},
 	{
-		"assign": "20065",
+		"assign": "20059",
 		"jp_explainShort": "「ポイズン」付与＋「ポイズン」ダメージ小増加",
 		"tr_explainShort": "[Poison] + dam. boost vs [Poison]",
-		"jp_explainLong": "① 敵に「ポイズン」を付与する。\n② 「ポイズン」状態の敵に対して\n　　 ダメージをわずかに増加する。\n[効果時間]長い時間",
+		"jp_explainLong": "【ダメージボム】\n① 敵全体に氷属性の法撃による大ダメージを与える。",
 		"tr_explainLong": "①  Inflicts [Poison] on the target.\n②  Boosts damage by 8% against enemies affected\n     by [Poison].\n<color=yellow>SP: </color>Boosts damage by 12% against enemies affected\n     by [Poison].\n     <color=yellow>[C-Frame]</color>\n[Effect Duration] 30 seconds"
 	},
 	{
-		"assign": "20066",
+		"assign": "20060",
 		"jp_explainShort": "「ポイズン」付与＋「ポイズン」ダメージ小増加",
 		"tr_explainShort": "[Poison] + dam. boost vs [Poison]",
-		"jp_explainLong": "① 敵に「ポイズン」を付与する。\n② 「ポイズン」状態の敵に対して\n　　 ダメージをわずかに増加する。\n[効果時間]長い時間",
+		"jp_explainLong": "【ダメージボム】\n① 敵全体に氷属性の法撃による大ダメージを与える。",
 		"tr_explainLong": "①  Inflicts [Poison] on the target.\n②  Boosts damage by 16% against enemies affected\n     by [Poison].\n<color=yellow>SP: </color>Boosts damage by 20% against enemies affected\n     by [Poison].\n     <color=yellow>[C-Frame]</color>\n[Effect Duration] 30 seconds"
+	},
+	{
+		"assign": "20065",
+		"jp_explainShort": "",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 敵に「ポイズン」を付与する。\n② 「ポイズン」状態の敵に対して\n　　 ダメージをわずかに増加する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "20066",
+		"jp_explainShort": "",
+		"tr_explainShort": "",
+		"jp_explainLong": "① 敵に「ポイズン」を付与する。\n② 「ポイズン」状態の敵に対して\n　　 ダメージをわずかに増加する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
 	}
 ]
