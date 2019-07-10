@@ -3594,7 +3594,7 @@
 		"assign": "3230523",
 		"jp_text": "509「カタナポーズ」",
 		"tr_text": "509 \"Katana Pose\"",
-		"jp_explain": "ロビアク『カタナポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映",
+		"jp_explain": "ロビアク『カタナポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映\n<yellow>“PS Vita”では武器装備の反映不可<c>",
 		"tr_explain": "Unlocks the new lobby action\n\"Katana Pose\".\nShows equipment, has extra actions."
 	},
 	{
@@ -3657,14 +3657,14 @@
 		"assign": "3230532",
 		"jp_text": "518「レギアスポーズ」",
 		"tr_text": "518 \"Regius Pose\"",
-		"jp_explain": "ロビアク『レギアスポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映",
+		"jp_explain": "ロビアク『レギアスポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映\n<yellow>“PS Vita”では武器装備の反映不可<c>",
 		"tr_explain": "Unlocks the new lobby action\n\"Regius Pose\".\nShows equipment, has extra actions."
 	},
 	{
 		"assign": "3230533",
 		"jp_text": "519「マリアポーズ」",
 		"tr_text": "519 \"Maria Pose\"",
-		"jp_explain": "ロビアク『マリアポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映",
+		"jp_explain": "ロビアク『マリアポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映\n<yellow>“PS Vita”では武器装備の反映不可<c>",
 		"tr_explain": "Unlocks the new lobby action\n\"Maria Pose\".\nShows equipment, has extra actions."
 	},
 	{
@@ -3692,7 +3692,133 @@
 		"assign": "3230537",
 		"jp_text": "523「Ａライフルポーズ」",
 		"tr_text": "523 \"Assault Rifle Pose\"",
-		"jp_explain": "ロビアク『Ａライフルポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映",
+		"jp_explain": "ロビアク『Ａライフルポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映\n<yellow>“PS Vita”では武器装備の反映不可<c>",
 		"tr_explain": "Unlocks the new lobby action\n\"Assault Rifle Pose\".\nShows equipment, has extra actions."
+	},
+	{
+		"assign": "3230538",
+		"jp_text": "524「神戸名物」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『神戸名物』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230539",
+		"jp_text": "525「メリーゴーランド」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『メリーゴーランド』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230540",
+		"jp_text": "526「地団駄２」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『地団駄２』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230541",
+		"jp_text": "527「変身ポーズ１」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『変身ポーズ１』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230542",
+		"jp_text": "528「ハンドベル・ド」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『ハンドベル・ド』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230543",
+		"jp_text": "529「ハンドベル・レ」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『ハンドベル・レ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230544",
+		"jp_text": "530「ハンドベル・ミ」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『ハンドベル・ミ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230545",
+		"jp_text": "531「ハンドベル・ファ」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『ハンドベル・ファ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230546",
+		"jp_text": "532「ハンドベル・ソ」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『ハンドベル・ソ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230547",
+		"jp_text": "533「ハンドベル・ラ」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『ハンドベル・ラ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230548",
+		"jp_text": "534「ハンドベル・シ」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『ハンドベル・シ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230549",
+		"jp_text": "535「Ｔマシンガンポーズ」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『Ｔマシンガンポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映\n<yellow>“PS Vita”では武器装備の反映不可<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230550",
+		"jp_text": "536「ダンス５８」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『ダンス５８』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230551",
+		"jp_text": "537「ローソン看板」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『ローソン看板』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230552",
+		"jp_text": "538「バナナボート」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『バナナボート』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230553",
+		"jp_text": "539「キック３」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『キック３』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230554",
+		"jp_text": "540「変身ポーズ２」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『変身ポーズ２』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230555",
+		"jp_text": "541「ストラトスポーズ」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『ストラトスポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映\n<yellow>“PS Vita”では武器装備の反映不可<c>",
+		"tr_explain": ""
 	}
 ]
