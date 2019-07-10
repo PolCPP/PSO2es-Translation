@@ -2197,7 +2197,7 @@
 	{
 		"assign": "labo_dialog_b_07",
 		"jp_text": "チップを解放させると\nチップレベルは１に初期化されます。\nチップを解放させますか？",
-		"tr_text": "If you release the chip,\nits level will reset to 1.\nDo you want to Release?"
+		"tr_text": "If you release the chip,\nits level will reset to 1.\nDo you want to release?"
 	},
 	{
 		"assign": "labo_dialog_t_08",
@@ -2217,7 +2217,7 @@
 	{
 		"assign": "labo_dialog_b_23",
 		"jp_text": "解放対象のチップのレベルが\n最大レベルに達していないため\n解放することができません。",
-		"tr_text": ""
+		"tr_text": "This chip has not reached its maximum\nlevel, and so cannot be released."
 	},
 	{
 		"assign": "labo_dialog_t_24",
@@ -2227,7 +2227,7 @@
 	{
 		"assign": "labo_dialog_b_24",
 		"jp_text": "お気に入りに登録しているチップが\n素材として選択されています。\nチップ解放を実行しますか？",
-		"tr_text": "A Chip in your Favorites\nhas been selected as material.\nAre you sure you want to Continue?"
+		"tr_text": "A Chip in your Favorites\nhas been selected as material.\nAre you sure you want to continue?"
 	},
 	{
 		"assign": "labo_dialog_t_26",
@@ -2237,7 +2237,7 @@
 	{
 		"assign": "labo_dialog_b_26",
 		"jp_text": "素材チップが不足しているため\n解放することができません。",
-		"tr_text": ""
+		"tr_text": "Insufficient material chips\nto release this chip."
 	},
 	{
 		"assign": "labo_chip_awake_select",
@@ -5237,7 +5237,7 @@
 	{
 		"assign": "linkage_exp_dialog_b_02",
 		"jp_text": "配分設定を保存しました。\nこの設定は、次回のプレイから適用されます。\n\n※設定中のクラスが蓄積上限に達した場合\n　　超過分は配分可能な項目へ自動配分されます。",
-		"tr_text": ""
+		"tr_text": "Allocation settings saved.\nThese settings will be applied the next time\nyou play.\n\n※If a target class has reached its\nmaximum linked EXP, excess EXP will be\nevenly distributed among all other classes."
 	},
 	{
 		"assign": "linkage_exp_dialog_t_03",
@@ -5352,7 +5352,7 @@
 	{
 		"assign": "questcounter_guide_11",
 		"jp_text": "<color=#f0df60>『PSO2es』をより楽しむために役立つ知識を、ストーリー形式で知ることができます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Information about how to enjoy PSO2es more, presented in the form of a story.</color>"
 	},
 	{
 		"assign": "quest_counter_header_Season2",
@@ -5667,7 +5667,7 @@
 	{
 		"assign": "quest_counter_header_tutorial",
 		"jp_text": "チュートリアルクエスト",
-		"tr_text": ""
+		"tr_text": "Tutorial Quest"
 	},
 	{
 		"assign": "quest_counter_stage_other",
@@ -16467,7 +16467,7 @@
 	{
 		"assign": "pet_acgive_window_body",
 		"jp_text": "ペットの合成可能数が不足しています。\n\n{0}<%AC>を消費して\n合成可能数を全回復させます。\nよろしいですか？\n\n<color=#f0df60>※合成可能数が回復するのは\n　現在選択中のペットのみです。</color>\n\r\n必要<%AC>：{1}\r\n所持<%AC>：{2}",
-		"tr_text": ""
+		"tr_text": "By consuming {0}<%AC>\nYou can recover your synthesis uses.\nIs that ok?\n\nNeeded <%AC>: {1}\nHave: {2} <%AC>"
 	},
 	{
 		"assign": "pet_recovery_time",
@@ -17487,17 +17487,17 @@
 	{
 		"assign": "lookback_maintitle_15",
 		"jp_text": "チュートリアルクエスト",
-		"tr_text": ""
+		"tr_text": "Tutorial Quest"
 	},
 	{
 		"assign": "lookback_maintext_15",
 		"jp_text": "チュートリアルクエストの物語を\n振り返ります。",
-		"tr_text": ""
+		"tr_text": "Look back over the Tutorial Quest story."
 	},
 	{
 		"assign": "lookback_tutorial_chapter_1",
 		"jp_text": "パレット編成で強くなろう！",
-		"tr_text": ""
+		"tr_text": "Build a Strong Palette!"
 	},
 	{
 		"assign": "menu_menu_lookback",
@@ -18597,7 +18597,7 @@
 	{
 		"assign": "collect_search_return",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "Return"
 	},
 	{
 		"assign": "collect_search_title",

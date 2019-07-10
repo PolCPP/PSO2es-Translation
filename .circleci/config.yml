@@ -56,7 +56,7 @@ jobs:
           command: /usr/bin/git add -u
           when: on_fail
       - run:
-          name: Any text needs to by normalize?
+          name: Any text needs to be normalized?
           command: ./_tools/normalize.py | /usr/bin/tee /tmp/PSO2es/normalize.txt
       - run:
           name: Normalize changes
@@ -95,13 +95,6 @@ jobs:
       - run:
           name: Are Chips name too big?
           command: ./_py/ChipFont.py | /usr/bin/tee /tmp/PSO2es/ChipFont.txt
-      - run:
-          name: Are Chips' short Desc too long?
-          command: ./_py/ChipDescShort.py | /usr/bin/tee /tmp/PSO2es/ChipDescShort.txt
-      - run:
-          name: Word wrap changes for Chips' Short Desc
-          command: /usr/bin/git diff --exit-code | /usr/bin/tee /tmp/PSO2es/ChipDescShort.diff
-          when: on_fail
       - run:
           name: Are Chips' long Desc too long?
           command: ./_py/ChipDescLong.py | /usr/bin/tee /tmp/PSO2es/ChipDescLong.txt
