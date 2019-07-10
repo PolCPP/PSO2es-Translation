@@ -656,8 +656,8 @@
 	},
 	{
 		"assign": "31242",
-		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 90%.\n<color=yellow>SP: </color>Boosts damage by 100%.\n     <color=yellow>[E-Frame]</color>\n②  Reduces CP consumption by 30%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] 60 seconds"
+		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "31243",
@@ -847,7 +847,7 @@
 	{
 		"assign": "31406",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 65%.\n<color=yellow>SP: </color>Boosts damage by 75%.\n     <color=yellow>[E-Frame]</color>\n②  Reduces CP consumption by 35%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] 60 seconds"
+		"tr_explainLong": "①  Boosts damage by 90%.\n<color=yellow>SP: </color>Boosts damage by 100%.\n     <color=yellow>[E-Frame]</color>\n②  Reduces CP consumption by 30%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31409",
@@ -1773,6 +1773,76 @@
 		"assign": "31994",
 		"jp_explainLong": "① 敵から受けるダメージが増加する代わりに\n　　 攻撃力を極度に増加する。\n② ダウン・のけぞり無効となる効果を付与する。\n③ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
 		"tr_explainLong": "①  Boosts damage by 410% in exchange for taking\n     50% more damage from enemies.\n<color=yellow>SP: </color>Boosts damage by 420% in exchange for taking\n     50% more damage from enemies.\n     <color=yellow>[U-Frame]</color>\n②  Grants immunity to knockback and flinching.\n③  While this chip is equipped, the equip costs of\n     all PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+	},
+	{
+		"assign": "31999",
+		"jp_explainLong": "① 定期的に攻撃力をわずかに増加する。（最大時：劇的）\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32000",
+		"jp_explainLong": "① 定期的に攻撃力をわずかに増加する。（最大時：劇的）\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32001",
+		"jp_explainLong": "① 装備中のウェポノイドチップの枚数に応じ\n　　 攻撃の威力を超絶に強化する。\n② 通常攻撃・必殺技・法術が全てジャストアタックとなる。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32002",
+		"jp_explainLong": "① 装備中のウェポノイドチップの枚数に応じ\n　　 攻撃の威力を極度に強化する。\n② 通常攻撃・必殺技・法術が全てジャストアタックとなる。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32009",
+		"jp_explainLong": "① 攻撃力を超絶に強化する。\n② アクティブチップ使用か通常攻撃を３回行うごとに\n　　 攻撃力を劇的に強化する。（最大時：絶大）\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32010",
+		"jp_explainLong": "① 攻撃力を超絶に強化する。\n② アクティブチップ使用か通常攻撃を３回行うごとに\n　　 攻撃力を劇的に強化する。（最大時：絶大）\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32011",
+		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを絶大に増加する。\n② ボス戦とタワークエストで\n　　 装備中の氷属性チップの枚数に応じて\n　　 ①の効果のダメージをさらに超絶に増加する。\n③ リンクスロットに装備したチップの属性が氷属性の場合\n　　 氷属性のチップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は氷属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32012",
+		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを絶大に増加する。\n② ボス戦とタワークエストで\n　　 装備中の氷属性チップの枚数に応じて\n　　 ①の効果のダメージをさらに超絶に増加する。\n③ リンクスロットに装備したチップの属性が氷属性の場合\n　　 氷属性のチップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は氷属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32013",
+		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを絶大に増加する。\n② ボス戦とタワークエストで\n　　 装備中の氷属性チップの枚数に応じて\n　　 ①の効果のダメージをさらに超絶に増加する。\n③ リンクスロットに装備したチップの属性が氷属性の場合\n　　 氷属性のチップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32014",
+		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② タワークエストで敵に与えるダメージを\n　　 アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 風属性の場合、風属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32015",
+		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② タワークエストで敵に与えるダメージを\n　　 アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 風属性の場合、風属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32016",
+		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② タワークエストで敵に与えるダメージを\n　　 アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 風属性の場合、風属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32023",
+		"jp_explainLong": "① アビリティレベルと雷・風属性の合計値に応じて\n　　 属性攻撃力を増加する。\n② 定期的にＣＰをわずかに回復する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "32024",
+		"jp_explainLong": "① アビリティレベルと雷・風属性の合計値に応じて\n　　 属性攻撃力を大きく増加する。\n② 定期的にＣＰをわずかに回復する。\n[効果時間]長い時間",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "2110",
@@ -5286,8 +5356,8 @@
 	},
 	{
 		"assign": "4810",
-		"jp_explainLong": "① 敵に追加で中ダメージを与える。\n[効果時間]短い時間",
-		"tr_explainLong": "①  Deals an additional 30% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 35% damage to enemies.\n     <color=yellow>[Chase]</color>\n[Effect Duration] 6 seconds"
+		"jp_explainLong": "① 敵に追加でダメージを与える。\n[効果時間]短い時間",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "4820",
@@ -5833,6 +5903,16 @@
 		"assign": "20050",
 		"jp_explainLong": "① 機改種に対して与えるダメージを大きく増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
 		"tr_explainLong": "①  Boosts damage against Reconfigured Mechs by\n     40%.\n<color=yellow>SP: </color>Boosts damage against Reconfigured Mechs by\n     45%.\n     <color=yellow>[B-Frame]</color>\n②  Reduces CP consumption by 10%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] 60 seconds"
+	},
+	{
+		"assign": "20053",
+		"jp_explainLong": "① 攻撃力を増加する。\n② 敵から受けるダメージをわずかに軽減する。\n③ ダウンしなくなる。\n[効果時間]長い時間",
+		"tr_explainLong": ""
+	},
+	{
+		"assign": "20054",
+		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 敵から受けるダメージをわずかに軽減する。\n③ ダウンしなくなる。\n[効果時間]長い時間",
+		"tr_explainLong": ""
 	},
 	{
 		"assign": "20071",
