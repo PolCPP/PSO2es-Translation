@@ -242,9 +242,6 @@ workflows:
   verify-test&build:
     jobs:
       - verify
-      - build:
-          requires:
-            - verify
       - font_big:
           requires:
             - verify
