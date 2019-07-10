@@ -806,16 +806,16 @@
 	},
 	{
 		"assign": "115",
-		"jp_text": "-",
+		"jp_text": "リーパー／氷弱点",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "氷弱点のエネミーを攻撃時\n威力が上昇。ただし武器の\nレアリティが高くなるほど\n威力の上昇量は減少。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "116",
-		"jp_text": "-",
+		"jp_text": "スレイヤー／海王種",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "海王種のエネミーを攻撃時\n威力が上昇。ただし武器の\nレアリティが高くなるほど\n威力の上昇量は減少。",
 		"tr_explain": ""
 	},
 	{
@@ -1110,7 +1110,7 @@
 		"jp_text": "-",
 		"tr_text": "",
 		"jp_explain": "-",
-		"tr_explain": "Boosts damage by 2%."
+		"tr_explain": ""
 	},
 	{
 		"assign": "159",
@@ -1138,7 +1138,7 @@
 		"jp_text": "-",
 		"tr_text": "",
 		"jp_explain": "-",
-		"tr_explain": ""
+		"tr_explain": "Boosts damage by 2%."
 	},
 	{
 		"assign": "163",
@@ -1954,7 +1954,7 @@
 	},
 	{
 		"assign": "279",
-		"jp_text": "-",
+		"jp_text": "超ぴったりパフェ",
 		"tr_text": "",
 		"jp_explain": "-",
 		"tr_explain": ""
@@ -3125,7 +3125,7 @@
 		"assign": "446",
 		"jp_text": "Ｓ１：賭死の撃",
 		"tr_text": "S1:Reckless Strike",
-		"jp_explain": "被ダメージ回数に応じて\n3段階の威力上昇。\n最大段階時の被ダメージで\n自身が戦闘不能になり\n周囲に与ダメージ。",
+		"jp_explain": "被ダメージ回数に応じて\n3段階の威力上昇。\n最大段階の被ダメージ時\n周囲ダメージが発生し\n自身のＨＰが1になる。",
 		"tr_explain": "Boosts power each\ntime you take damage,\nup to three levels. If\nyou take damage at\nmaximum boost,\ndamages you and\neverything around you."
 	},
 	{
@@ -3221,9 +3221,9 @@
 	},
 	{
 		"assign": "460",
-		"jp_text": "-",
+		"jp_text": "Ｓ２：光明の備志",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "光耐性、パニック耐性が\n上昇。敵の弱点属性が\n光属性の時、威力上昇。",
 		"tr_explain": ""
 	},
 	{
@@ -3396,9 +3396,9 @@
 	},
 	{
 		"assign": "485",
-		"jp_text": "-",
+		"jp_text": "Ｓ４：累加追撃",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ＰＡ・テクニック命中後\n４秒間の与ダメージ量に\n応じて、次に命中した\nＰＡ・テクニックに\n追加ダメージが発生。",
 		"tr_explain": ""
 	},
 	{
@@ -3459,9 +3459,9 @@
 	},
 	{
 		"assign": "494",
-		"jp_text": "-",
+		"jp_text": "Ｓ１：戦友の加護",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "パーティー人数が２人\n以上の場合、人数に\n応じて、PP消費軽減\nクリティカル率上昇\n威力上昇効果が発動。 ",
 		"tr_explain": ""
 	},
 	{
