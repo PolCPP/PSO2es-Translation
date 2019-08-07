@@ -20312,17 +20312,17 @@
 	{
 		"assign": "towerquest_top_guide_friend",
 		"jp_text": "<color=#f0df60>フレンド通信：<%name1>さんがエターナルタワー<%value1>Fをクリアしました。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>Friend comunication: <%name1> has cleared Eternal Tower floor <%value1>F.                                          </color>"
 	},
 	{
 		"assign": "towerquest_top_guide_ranking",
 		"jp_text": "<color=#f0df60>エターナルタワーランキングの順位です。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>This is the Eternal Tower ranking list.</color>"
 	},
 	{
 		"assign": "towerquest_top_guide_ranking_result",
 		"jp_text": "<color=#f0df60>エターナルタワーランキングの順位です。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>This is the Eternal Tower ranking list.</color>"
 	},
 	{
 		"assign": "towerquest_top_scene_title",
@@ -20382,17 +20382,17 @@
 	{
 		"assign": "towerquest_top_grande_ranking",
 		"jp_text": "第<%value1>層までの順位",
-		"tr_text": ""
+		"tr_text": "Block <%value1> Ranking"
 	},
 	{
 		"assign": "towerquest_top_ranking_info",
 		"jp_text": "第<%value1>層までのあなたの順位",
-		"tr_text": ""
+		"tr_text": "Your Block <%value1> Ranking"
 	},
 	{
 		"assign": "towerquest_top_ranking_total_time",
 		"jp_text": "<%value1>Fまでの合計時間",
-		"tr_text": ""
+		"tr_text": "Total time to <%value1>F"
 	},
 	{
 		"assign": "towerquest_top_ranking",
@@ -20412,17 +20412,17 @@
 	{
 		"assign": "towerquest_top_ranking_outside",
 		"jp_text": "第1層までの順位　　－位",
-		"tr_text": ""
+		"tr_text": "Block 1 Ranking　　 Unranked"
 	},
 	{
 		"assign": "towerquest_top_ranking_title",
 		"jp_text": "エターナルタワー ランキング TOP50　　※30分ごとに更新",
-		"tr_text": "Eternal Tower Ranking Top 50   ※Updates every 30 minutes"
+		"tr_text": "Eternal Tower Top 50  ※Updates every 30 minutes"
 	},
 	{
 		"assign": "towerquest_top_ranking_title_fixed",
 		"jp_text": "エターナルタワー ランキング TOP50",
-		"tr_text": "Eternal Tower Ranking Top 50"
+		"tr_text": "Eternal Tower Top 50"
 	},
 	{
 		"assign": "towerquest_top_ranking_reward_info",
@@ -20432,32 +20432,32 @@
 	{
 		"assign": "towerquest_ranking_entry_title",
 		"jp_text": "階層ランキングのエントリー",
-		"tr_text": ""
+		"tr_text": "Block Ranking Entry"
 	},
 	{
 		"assign": "towerquest_ranking_entry_body30",
 		"jp_text": "３０Fクリアおめでとうございます！\n\n第1層ランキングにエントリーしました。\n<color=yellow>1F～30F</color>の合計時間がランキングの対象になります。",
-		"tr_text": ""
+		"tr_text": "Congratulations on clearing 30F!\n\nYou have been entered into the\nBlock 1 ranking.\nYou will be ranked based on your\ntotal clear time for floors <color=yellow>1F - 30F</color>."
 	},
 	{
 		"assign": "towerquest_ranking_entry_body60",
 		"jp_text": "６０Fクリアおめでとうございます！\n\n第1層ランキングから第2層ランキングのエントリーに\n昇格しました。\n<color=yellow>1F～60F</color>の合計時間がランキングの対象になります。",
-		"tr_text": ""
+		"tr_text": "Congratulations on clearing 60F!\n\nYou have been entered into the\nBlock 2 ranking.\nYou will be ranked based on your\ntotal clear time for floors <color=yellow>1F - 60F</color>."
 	},
 	{
 		"assign": "towerquest_ranking_entry_body90",
 		"jp_text": "９０Fクリアおめでとうございます！\n\n第2層ランキングから第3層ランキングのエントリーに\n昇格しました。\n<color=yellow>1F～90F</color>の合計時間がランキングの対象になります。",
-		"tr_text": ""
+		"tr_text": "Congratulations on clearing 90F!\n\nYou have been entered into the\nBlock 3 ranking.\nYou will be ranked based on your\ntotal clear time for floors <color=yellow>1F - 90F</color>."
 	},
 	{
 		"assign": "towerquest_ranking_entry_body100",
 		"jp_text": "１００Fクリアおめでとうございます！\n\n第3層ランキングから第4層ランキングのエントリーに\n昇格しました。\n<color=yellow>1F～100F</color>の合計時間がランキングの対象になります。",
-		"tr_text": ""
+		"tr_text": "Congratulations on clearing 100F!\n\nYou have been entered into the\nBlock 4 ranking.\nYou will be ranked based on your\ntotal clear time for floors <color=yellow>1F - 100F</color>."
 	},
 	{
 		"assign": "towerquest_ranking_undercount_title",
 		"jp_text": "タワーランキングの集計中",
-		"tr_text": ""
+		"tr_text": "Compiling tower ranking"
 	},
 	{
 		"assign": "towerquest_ranking_undercount_body",
@@ -20642,7 +20642,7 @@
 	{
 		"assign": "wh_40_01",
 		"jp_text": "エターナルタワー１００Ｆ踏破！　おめでとうございます!!\n１F～１００Fまでクリアした合計時間によって\nシルバークリア報酬とゴールドクリア報酬がもらえます。",
-		"tr_text": ""
+		"tr_text": "Eternal Tower floor 100F cleared! Congratulations!!\nYou can obtain Gold and Silver clear rewards\nbased on your total time from 1F to 100F."
 	},
 	{
 		"assign": "wh_40_02",
