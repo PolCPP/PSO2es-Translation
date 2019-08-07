@@ -20412,7 +20412,7 @@
 	{
 		"assign": "towerquest_top_ranking_outside",
 		"jp_text": "第1層までの順位　　－位",
-		"tr_text": "Block 1 Ranking　　 Unranked"
+		"tr_text": "Tier 1 Ranking　　 Unranked"
 	},
 	{
 		"assign": "towerquest_top_ranking_title",
@@ -20432,27 +20432,27 @@
 	{
 		"assign": "towerquest_ranking_entry_title",
 		"jp_text": "階層ランキングのエントリー",
-		"tr_text": "Block Ranking Entry"
+		"tr_text": "Tier Ranking Entry"
 	},
 	{
 		"assign": "towerquest_ranking_entry_body30",
 		"jp_text": "３０Fクリアおめでとうございます！\n\n第1層ランキングにエントリーしました。\n<color=yellow>1F～30F</color>の合計時間がランキングの対象になります。",
-		"tr_text": "Congratulations on clearing 30F!\n\nYou have been entered into the\nBlock 1 ranking.\nYou will be ranked based on your\ntotal clear time for floors <color=yellow>1F - 30F</color>."
+		"tr_text": "Congratulations on clearing 30F!\n\nYou have been entered into the\nTier 1 ranking.\nYou will be ranked based on your\ntotal clear time for floors <color=yellow>1F - 30F</color>."
 	},
 	{
 		"assign": "towerquest_ranking_entry_body60",
 		"jp_text": "６０Fクリアおめでとうございます！\n\n第1層ランキングから第2層ランキングのエントリーに\n昇格しました。\n<color=yellow>1F～60F</color>の合計時間がランキングの対象になります。",
-		"tr_text": "Congratulations on clearing 60F!\n\nYou have been entered into the\nBlock 2 ranking.\nYou will be ranked based on your\ntotal clear time for floors <color=yellow>1F - 60F</color>."
+		"tr_text": "Congratulations on clearing 60F!\n\nYou have been entered into the\nTier 2 ranking.\nYou will be ranked based on your\ntotal clear time for floors <color=yellow>1F - 60F</color>."
 	},
 	{
 		"assign": "towerquest_ranking_entry_body90",
 		"jp_text": "９０Fクリアおめでとうございます！\n\n第2層ランキングから第3層ランキングのエントリーに\n昇格しました。\n<color=yellow>1F～90F</color>の合計時間がランキングの対象になります。",
-		"tr_text": "Congratulations on clearing 90F!\n\nYou have been entered into the\nBlock 3 ranking.\nYou will be ranked based on your\ntotal clear time for floors <color=yellow>1F - 90F</color>."
+		"tr_text": "Congratulations on clearing 90F!\n\nYou have been entered into the\nTier 3 ranking.\nYou will be ranked based on your\ntotal clear time for floors <color=yellow>1F - 90F</color>."
 	},
 	{
 		"assign": "towerquest_ranking_entry_body100",
 		"jp_text": "１００Fクリアおめでとうございます！\n\n第3層ランキングから第4層ランキングのエントリーに\n昇格しました。\n<color=yellow>1F～100F</color>の合計時間がランキングの対象になります。",
-		"tr_text": "Congratulations on clearing 100F!\n\nYou have been entered into the\nBlock 4 ranking.\nYou will be ranked based on your\ntotal clear time for floors <color=yellow>1F - 100F</color>."
+		"tr_text": "Congratulations on clearing 100F!\n\nYou have been entered into the\nTier 4 ranking.\nYou will be ranked based on your\ntotal clear time for floors <color=yellow>1F - 100F</color>."
 	},
 	{
 		"assign": "towerquest_ranking_undercount_title",
