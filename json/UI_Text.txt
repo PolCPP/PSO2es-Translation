@@ -20212,7 +20212,7 @@
 	{
 		"assign": "blockresult_area_clear_reward",
 		"jp_text": "階層達成報酬",
-		"tr_text": "Achievement Reward Hierarchy"
+		"tr_text": "Achievement Reward Tier"
 	},
 	{
 		"assign": "blockresult_area_g1_clear",
@@ -20382,12 +20382,12 @@
 	{
 		"assign": "towerquest_top_grande_ranking",
 		"jp_text": "第<%value1>層までの順位",
-		"tr_text": "Block <%value1> Ranking"
+		"tr_text": "Tier <%value1> Ranking"
 	},
 	{
 		"assign": "towerquest_top_ranking_info",
 		"jp_text": "第<%value1>層までのあなたの順位",
-		"tr_text": "Your Block <%value1> Ranking"
+		"tr_text": "Your Tier <%value1> Ranking"
 	},
 	{
 		"assign": "towerquest_top_ranking_total_time",
