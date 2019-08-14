@@ -2531,21 +2531,21 @@
 		"jp_explainShort": "シェルオプス",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを絶大に増加する。\n② ボス戦とタワークエストで\n　　 装備中の氷属性チップの枚数に応じて\n　　 ①の効果のダメージをさらに超絶に増加する。\n③ リンクスロットに装備したチップの属性が氷属性の場合\n　　 氷属性のチップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は氷属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 130% against enemy\n     elemental weaknesses.\n<color=yellow>SP: </color>Boosts damage by 140% against enemy\n     elemental weaknesses.\n     <color=yellow>[D-Frame]</color>\n②  Further boosts the effect of ① by 40% x the\n     number of Ice chips equipped in boss battles\n     and Tower Quests.\n③  Increases the activation rate of Ice chips by\n     40% if there is a Ice chip in this chip's Link Slot.\n④  While this chip is equipped, the equip costs of\n     Ice PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 130% against enemy\n     elemental weaknesses.\n<color=yellow>SP: </color>Boosts damage by 140% against enemy\n     elemental weaknesses.\n     <color=yellow>[D-Frame]</color>\n②  Further boosts the effect of ① by 40% x the\n     number of Ice chips equipped in boss battles\n     and Tower Quests.\n③  Decreases the CP consumption of Ice chips by\n     40% if there is a Ice chip in this chip's Link Slot.\n④  While this chip is equipped, the equip costs of\n     Ice PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "32012",
 		"jp_explainShort": "シェルオプス（解放後）",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを絶大に増加する。\n② ボス戦とタワークエストで\n　　 装備中の氷属性チップの枚数に応じて\n　　 ①の効果のダメージをさらに超絶に増加する。\n③ リンクスロットに装備したチップの属性が氷属性の場合\n　　 氷属性のチップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は氷属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 150% against enemy\n     elemental weaknesses.\n<color=yellow>SP: </color>Boosts damage by 160% against enemy\n     elemental weaknesses.\n     <color=yellow>[D-Frame]</color>\n②  Further boosts the effect of ① by 40% x the\n     number of Ice chips equipped in boss battles\n     and Tower Quests.\n③  Increases the activation rate of Ice chips by\n     40% if there is a Ice chip in this chip's Link Slot.\n④  While this chip is equipped, the equip costs of\n     Ice PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 150% against enemy\n     elemental weaknesses.\n<color=yellow>SP: </color>Boosts damage by 160% against enemy\n     elemental weaknesses.\n     <color=yellow>[D-Frame]</color>\n②  Further boosts the effect of ① by 40% x the\n     number of Ice chips equipped in boss battles\n     and Tower Quests.\n③  Decreases the CP consumption of Ice chips by\n     40% if there is a Ice chip in this chip's Link Slot.\n④  While this chip is equipped, the equip costs of\n     Ice PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "32013",
 		"jp_explainShort": "シェルオプス（真解放後）",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを絶大に増加する。\n② ボス戦とタワークエストで\n　　 装備中の氷属性チップの枚数に応じて\n　　 ①の効果のダメージをさらに超絶に増加する。\n③ リンクスロットに装備したチップの属性が氷属性の場合\n　　 氷属性のチップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 170% against enemy\n     elemental weaknesses.\n<color=yellow>SP: </color>Boosts damage by 180% against enemy\n     elemental weaknesses.\n     <color=yellow>[D-Frame]</color>\n②  Further boosts the effect of ① by 40% x the\n     number of Ice chips equipped in boss battles\n     and Tower Quests.\n③  Increases the activation rate of Ice chips by\n     40% if there is a Ice chip in this chip's Link Slot.\n④  While this chip is equipped, the equip costs of\n     all PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 170% against enemy\n     elemental weaknesses.\n<color=yellow>SP: </color>Boosts damage by 180% against enemy\n     elemental weaknesses.\n     <color=yellow>[D-Frame]</color>\n②  Further boosts the effect of ① by 40% x the\n     number of Ice chips equipped in boss battles\n     and Tower Quests.\n③  Decreases the CP consumption of Ice chips by\n     40% if there is a Ice chip in this chip's Link Slot.\n④  While this chip is equipped, the equip costs of\n     all PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "32014",
@@ -7480,7 +7480,7 @@
 		"jp_explainShort": "攻撃時に追加で小ダメージ",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 敵に追加で小ダメージを与える。\n[効果時間]短い時間",
-		"tr_explainLong": "①  Deals an additional 20%  damage to enemies.\n<color=yellow>SP: </color>Deals an additional 25%  damage to enemies.\n     <color=yellow>[Chase]</color>\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "①  Deals an additional 20% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 25% damage to enemies.\n     <color=yellow>[Chase]</color>\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "4510",
