@@ -5295,6 +5295,31 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "linkage_exp_warning_dialog_t_00",
+		"jp_text": "連動経験値の蓄積上限",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_warning_dialog_b_00",
+		"jp_text": "連動経験値を配分しているクラスが\n蓄積上限に達しました。\n『PSO2』をプレイするか\n連動経験値の配分設定を変更してください。\n\n※蓄積上限に達したクラスに\n　経験値の配分がある場合、余った経験値は\n　他クラスへ自動的に配分されます。",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_button_warning_transition",
+		"jp_text": "配分設定を変更",
+		"tr_text": ""
+	},
+	{
+		"assign": "linkage_exp_button_warning_close",
+		"jp_text": "閉じる",
+		"tr_text": "Close"
+	},
+	{
+		"assign": "linkage_exp_button_warning_continue",
+		"jp_text": "続ける",
+		"tr_text": ""
+	},
+	{
 		"assign": "questcounter_guide_00",
 		"jp_text": "<color=#f0df60>ジェネやモアと共に冒険するストーリーです。Normalのエリアで獲得スコアを最大にすると、高難度なExのエリアが解放されます。</color>",
 		"tr_text": "<color=#f0df60>The story of your adventures with Gene and More. Clear an area with full marks on Normal to unlock its EX difficulty version.</color>"
@@ -5306,8 +5331,8 @@
 	},
 	{
 		"assign": "questcounter_guide_02",
-		"jp_text": "<color=#f0df60>クエストに同行するキャラクターを選択してください。</color>",
-		"tr_text": "<color=#f0df60>Please select a character to accompany you on the quest.</color>"
+		"jp_text": "<color=#f0df60>クエストに同行するキャラクターを選択してください。同行がゲストの場合、HPやCPなど、一部のパラメータが加算されません。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "questcounter_guide_03",
@@ -5413,6 +5438,11 @@
 		"assign": "quest_counter_bonus_period",
 		"jp_text": "あと<%period>時間",
 		"tr_text": " (<%period> hours left)"
+	},
+	{
+		"assign": "quest_counter_story_auto",
+		"jp_text": "AUTO再生",
+		"tr_text": ""
 	},
 	{
 		"assign": "quest_counter_departure_t",
@@ -5673,6 +5703,16 @@
 		"assign": "quest_counter_stage_other",
 		"jp_text": "<%stage>＋他",
 		"tr_text": "<%stage>＋"
+	},
+	{
+		"assign": "quest_counter_onetime_period_day",
+		"jp_text": "<color=#f6bf03>あと<%day>日</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_counter_onetime_period_minute",
+		"jp_text": "<color=#f6bf03>あと<%hour>時間<%minute>分</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "quest_counter_raid_term",
@@ -6203,6 +6243,11 @@
 		"assign": "scratch_guide_01",
 		"jp_text": "<color=#f0df60>スクラッチ回数ボーナスのプレゼント一覧です。</color>",
 		"tr_text": "<color=#f0df60>Current Scratch Bonus.</color>"
+	},
+	{
+		"assign": "scratch_guide_03",
+		"jp_text": "<color=#f0df60>スクラッチを選択してください。「スクラッチポイント」は「esスクラッチ」を<%AC>で引くと、もらえます。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "scratch_dialog_t_00",
@@ -17375,6 +17420,11 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "lookback_special_chapter_5",
+		"jp_text": "ドキドキ！ 水着で大混乱!!",
+		"tr_text": ""
+	},
+	{
 		"assign": "lookback_maintitle_4",
 		"jp_text": "ストーリー　オブ　アーレス",
 		"tr_text": "Story of Ares"
@@ -17393,6 +17443,11 @@
 		"assign": "lookback_arles_chapter_2",
 		"jp_text": "第２章　兄弟の戦い",
 		"tr_text": "Chapter 2\nBattle of Brothers"
+	},
+	{
+		"assign": "lookback_arles_chapter_3",
+		"jp_text": "第３章　裏切りと絆",
+		"tr_text": ""
 	},
 	{
 		"assign": "lookback_maintitle_5",
@@ -17427,6 +17482,11 @@
 	{
 		"assign": "lookback_season3_chapter_5",
 		"jp_text": "５章　　闇の行き着く先",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_season3_chapter_6",
+		"jp_text": "６章　　切り拓く光",
 		"tr_text": ""
 	},
 	{
@@ -17553,6 +17613,16 @@
 		"assign": "lobby_help_etc",
 		"jp_text": "その他",
 		"tr_text": "Other"
+	},
+	{
+		"assign": "lobby_special_reload_title",
+		"jp_text": "クエスト情報更新",
+		"tr_text": ""
+	},
+	{
+		"assign": "lobby_special_reload_body",
+		"jp_text": "クエスト情報の更新を行います。",
+		"tr_text": ""
 	},
 	{
 		"assign": "lookback_event_title",
@@ -19012,6 +19082,61 @@
 	{
 		"assign": "scratch_pickup_reset_finish_body",
 		"jp_text": "確定スクラッチの内容をリセットしました。\n封入するチップを選びなおしてください。",
+		"tr_text": ""
+	},
+	{
+		"assign": "scratch_gc_select_guild",
+		"jp_text": "<color=#f0df60>欲しいチップを選択してスクラッチを引こう！</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "scratch_gc_info_title",
+		"jp_text": "スクラッチポイント",
+		"tr_text": ""
+	},
+	{
+		"assign": "scratch_gc_select_window_title",
+		"jp_text": "ポイントスクラッチ チップ選択",
+		"tr_text": ""
+	},
+	{
+		"assign": "scratch_gc_select_window_select",
+		"jp_text": "獲得したいチップを1枚選んでください。",
+		"tr_text": ""
+	},
+	{
+		"assign": "scratch_gc_select_window_count",
+		"jp_text": "あと<color=yellow>{0}</color>枚",
+		"tr_text": ""
+	},
+	{
+		"assign": "dialog_title_gc_shortage",
+		"jp_text": "ポイント不足",
+		"tr_text": ""
+	},
+	{
+		"assign": "dialog_body_gc_shortage",
+		"jp_text": "スクラッチポイントが足りません。\n\n所持スクラッチポイント ⇒ <color=red>{1}</color> pt\n必要スクラッチポイント ⇒ {0} pt",
+		"tr_text": ""
+	},
+	{
+		"assign": "scratch_gc_get_point",
+		"jp_text": "「スクラッチポイント」を <color=yellow>{0}</color> pt 入手しました！",
+		"tr_text": ""
+	},
+	{
+		"assign": "scratch_gc_get_point_with_bonus",
+		"jp_text": "「スクラッチポイント」を <color=yellow>{0}</color> pt 入手しました！\n期間限定サービス <color=yellow>{1}</color> pt 入手しました！",
+		"tr_text": ""
+	},
+	{
+		"assign": "scratch_gc_discharge_title",
+		"jp_text": "ポイントスクラッチ チップ確認",
+		"tr_text": ""
+	},
+	{
+		"assign": "scratch_gc_discharge_body",
+		"jp_text": "選択したチップが必ず獲得できます。\nよろしいですか？",
 		"tr_text": ""
 	},
 	{
@@ -21972,7 +22097,7 @@
 	{
 		"assign": "chip_awake_skill_dialog_button_close",
 		"jp_text": "閉じる",
-		"tr_text": "Close"
+		"tr_text": ""
 	},
 	{
 		"assign": "chip_details_chip_awake_head",
@@ -22002,6 +22127,11 @@
 	{
 		"assign": "chip_awake_dialog_w_rarematerial",
 		"jp_text": "<color=yellow>使用する素材チップに★７以上のものが含まれています。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_ui_prag_name",
+		"jp_text": "{0}/<size=14>{1}</size>",
 		"tr_text": ""
 	}
 ]

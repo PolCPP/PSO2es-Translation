@@ -2845,6 +2845,11 @@
 		"tr_text": "Saber Diggle"
 	},
 	{
+		"assign": "C6_V",
+		"jp_text": "ヴァルナ",
+		"tr_text": ""
+	},
+	{
 		"assign": "CY1Gun",
 		"jp_text": "オルカーバ",
 		"tr_text": "Orkabah"
@@ -2868,6 +2873,21 @@
 		"assign": "FD2All",
 		"jp_text": "ゴルシュレイダ",
 		"tr_text": "Golshrayda"
+	},
+	{
+		"assign": "O1Orc",
+		"jp_text": "ブリガンテブラン",
+		"tr_text": ""
+	},
+	{
+		"assign": "U1Gg",
+		"jp_text": "デオス・グリフォン",
+		"tr_text": ""
+	},
+	{
+		"assign": "O1Afl",
+		"jp_text": "グラツィ・メデューナ",
+		"tr_text": ""
 	},
 	{
 		"assign": "KingRappy",
@@ -4561,18 +4581,23 @@
 	},
 	{
 		"assign": "UltHologramRobotEx",
-		"jp_text": "シノワラピドゥスEx",
-		"tr_text": "Sinow Rapidus EX"
+		"jp_text": "シノワラピドゥスＥｘ",
+		"tr_text": ""
 	},
 	{
 		"assign": "UltMachineWolfEx",
-		"jp_text": "カイザーバルガーEx",
-		"tr_text": "Kaiser Vargr EX"
+		"jp_text": "カイザーバルガーＥｘ",
+		"tr_text": ""
 	},
 	{
 		"assign": "UltMachineCCanonEx",
-		"jp_text": "ブレードディンゲールEx",
-		"tr_text": "Blade Dingell EX"
+		"jp_text": "ブレードディンゲールＥｘ",
+		"tr_text": ""
+	},
+	{
+		"assign": "UltMechaPanthBladeEx",
+		"jp_text": "ファルケ・レオーネＥｘ",
+		"tr_text": ""
 	},
 	{
 		"assign": "UltMechaPanthBusterEx",
