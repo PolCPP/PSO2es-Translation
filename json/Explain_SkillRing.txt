@@ -7,27 +7,6 @@
 		"tr_explain": "Massive Hunter/Ring\nReduces damage taken and\nprevents flinching and knockback."
 	},
 	{
-		"assign": "2",
-		"jp_text": "Ｃストライク打撃",
-		"tr_text": "C-Strike - Striking",
-		"jp_explain": "クリティカルストライク打撃\n打撃攻撃のクリティカル率が上昇し\nクリティカル時にダメージボーナスを得る。",
-		"tr_explain": "Critical Strike - Striking/Ring\nIncreases critical damage and\ncritical hit rate percentage."
-	},
-	{
-		"assign": "3",
-		"jp_text": "Ｃストライク射撃",
-		"tr_text": "C-Strike - Ranged",
-		"jp_explain": "クリティカルストライク射撃\n射撃攻撃のクリティカル率が上昇し\nクリティカル時にダメージボーナスを得る。",
-		"tr_explain": "Critical Strike - Ranged/Ring\nIncreases critical damage and\ncritical hit rate percentage."
-	},
-	{
-		"assign": "4",
-		"jp_text": "Ｃストライク法撃",
-		"tr_text": "C-Strike - Technique",
-		"jp_explain": "クリティカルストライク法撃\n法撃攻撃のクリティカル率が上昇し\nクリティカル時にダメージボーナスを得る。",
-		"tr_explain": "Critical Strike - Technique/Ring\nIncreases critical damage and\ncritical hit rate percentage."
-	},
-	{
 		"assign": "5",
 		"jp_text": "キリングボーナス",
 		"tr_text": "Killing Bonus",
@@ -684,5 +663,26 @@
 		"tr_text": "",
 		"jp_explain": "アナザーワイヤーモード\nワイヤードランスのホールドＰＡにおいて\nエネミーを捕獲・捕縛せず攻撃するようになる。",
 		"tr_explain": ""
+	},
+	{
+		"assign": "2",
+		"jp_text": "Ｃストライク打撃",
+		"tr_text": "C-Strike - Striking",
+		"jp_explain": "クリティカルストライク打撃\nクリティカル率が上昇し、打撃攻撃の\nクリティカル時にダメージボーナスを得る。",
+		"tr_explain": "Critical Strike - Striking/Ring\nIncreases critical damage and\ncritical hit rate percentage."
+	},
+	{
+		"assign": "3",
+		"jp_text": "Ｃストライク射撃",
+		"tr_text": "C-Strike - Ranged",
+		"jp_explain": "クリティカルストライク射撃\nクリティカル率が上昇し、射撃攻撃の\nクリティカル時にダメージボーナスを得る。",
+		"tr_explain": "Critical Strike - Ranged/Ring\nIncreases critical damage and\ncritical hit rate percentage."
+	},
+	{
+		"assign": "4",
+		"jp_text": "Ｃストライク法撃",
+		"tr_text": "C-Strike - Technique",
+		"jp_explain": "クリティカルストライク法撃\nクリティカル率が上昇し、法撃攻撃の\nクリティカル時にダメージボーナスを得る。",
+		"tr_explain": "Critical Strike - Technique/Ring\nIncreases critical damage and\ncritical hit rate percentage."
 	}
 ]

@@ -3500,6 +3500,13 @@
 		"tr_explain": "Allows a new voice to be selected.\nNon-Cast male characters only.\nCV: Kazuhiko Inoue"
 	},
 	{
+		"assign": "3180600",
+		"jp_text": "男性追加ボイス１６４",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間男性のみ使用可能。\nＣＶ井上 喜久子",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3180601",
 		"jp_text": "男性［ＥＸ］ボイスＤ０３",
 		"tr_text": "Male [EX] Voice D03",
@@ -3680,6 +3687,13 @@
 		"tr_text": "Male C [EX] Voice D02",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ井上 和彦",
 		"tr_explain": "Allows a new voice to be selected.\nMale Casts only.\nCV: Kazuhiko Inoue"
+	},
+	{
+		"assign": "3180636",
+		"jp_text": "男性Ｃ追加ボイス１６４",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ井上 喜久子",
+		"tr_explain": ""
 	},
 	{
 		"assign": "3180637",
@@ -4130,6 +4144,13 @@
 		"tr_explain": "Allows a new voice to be selected.\nNon-Cast female characters only.\nCV: Ai Kayano"
 	},
 	{
+		"assign": "3180721",
+		"jp_text": "女性追加ボイス１９９",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ茅野 愛衣",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3180722",
 		"jp_text": "女性追加ボイス１１２",
 		"tr_text": "Female Extra Voice 112",
@@ -4256,6 +4277,13 @@
 		"tr_explain": "Allows a new voice to be selected.\nFemale Casts only.\nCV: Ai Kayano"
 	},
 	{
+		"assign": "3180750",
+		"jp_text": "女性Ｃ追加ボイス１９９",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ茅野 愛衣",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3180751",
 		"jp_text": "女性Ｃ追加ボイス１１２",
 		"tr_text": "Female C Extra Voice 112",
@@ -4361,6 +4389,13 @@
 		"tr_explain": "Allows a new voice to be selected.\nFemale Casts only.\nCV: Shizuka Ito"
 	},
 	{
+		"assign": "3180788",
+		"jp_text": "男性追加ボイス１６５",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間男性のみ使用可能。\nＣＶ下野 紘",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3180789",
 		"jp_text": "男性共通オウドボイス",
 		"tr_text": "Male Oudo Voice",
@@ -4408,6 +4443,13 @@
 		"tr_text": "Female Clarice K Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ悠木 碧",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Aoi Yuki"
+	},
+	{
+		"assign": "3180801",
+		"jp_text": "男性Ｃ追加ボイス１６５",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ下野 紘",
+		"tr_explain": ""
 	},
 	{
 		"assign": "3180806",
@@ -5187,6 +5229,13 @@
 		"tr_explain": "Allows a new voice to be selected.\nNon-Cast female characters only.\nCV: Yuko Minaguchi"
 	},
 	{
+		"assign": "3180966",
+		"jp_text": "女性追加ボイス１９８",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ皆口 裕子",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3180967",
 		"jp_text": "女性追加ボイス１２２",
 		"tr_text": "Female Extra Voice 122",
@@ -5922,6 +5971,13 @@
 		"tr_explain": "Allows a new voice to be selected.\nFemale Casts only.\nCV: Yuko Minaguchi"
 	},
 	{
+		"assign": "31801144",
+		"jp_text": "女性Ｃ追加ボイス１９８",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ皆口 裕子",
+		"tr_explain": ""
+	},
+	{
 		"assign": "31801145",
 		"jp_text": "女性Ｃ追加ボイス１２２",
 		"tr_text": "Female C Extra Voice 122",
@@ -6416,6 +6472,34 @@
 		"jp_text": "男性［ＥＸ］ボイスＡ２５",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間男性のみ使用可能。\nＣＶ天野 名雪",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31801256",
+		"jp_text": "男性共通§イチカ§ボイス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ金田 アキ",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31801257",
+		"jp_text": "男性共通エルデトロス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ柿原 徹也",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31801258",
+		"jp_text": "男性共通アギトボイス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ安元 洋貴",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31801259",
+		"jp_text": "男性共通アフィンボイス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ下野 紘",
 		"tr_explain": ""
 	},
 	{
@@ -7403,6 +7487,55 @@
 		"jp_text": "女性Ｃ［ＥＸ］ボイスＡ３４",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ天野 名雪",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31801582",
+		"jp_text": "女性共通みたらしボイス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ田辺 留依",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31801584",
+		"jp_text": "女性共通テトラボイス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ引坂 理絵",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31801588",
+		"jp_text": "女性共通ヤスミ８０００Ｃ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ佳村 はるか",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31801594",
+		"jp_text": "女性共通Ｆフィジス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ中原 麻衣",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31801596",
+		"jp_text": "女性共通スペース・ツナ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ悠木 碧",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31801598",
+		"jp_text": "女性共通イオボイス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ竹達 彩奈",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31801600",
+		"jp_text": "女性共通メルフォンＳボイス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ花澤 香菜",
 		"tr_explain": ""
 	}
 ]
