@@ -662,14 +662,14 @@
 		"jp_explainShort": "「バーン」付与＋「バーン」ダメージ大増加",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 敵に「バーン」を付与する。\n② 「バーン」状態の敵に対して\n　　 ダメージを劇的に増加する。\n[効果時間]一定時間",
-		"tr_explainLong": "①  Inflicts [Burn] on the target.\n②  Boosts damage by 75% against enemies affected\n     by [Burn].\n<color=yellow>SP: </color>Boosts damage by 95% against enemies affected\n     by [Burn].\n     <color=yellow>[C-Frame]</color>\n[Effect Duration] 21 seconds"
+		"tr_explainLong": "①  Inflicts [Burn] on the target.\n②  Boosts damage by 90% against enemies affected\n     by [Burn].\n<color=yellow>SP: </color>Boosts damage by 110% against enemies affected\n     by [Burn].\n     <color=yellow>[C-Frame]</color>\n[Effect Duration] 21 seconds"
 	},
 	{
 		"assign": "31094",
 		"jp_explainShort": "「バーン」付与＋「バーン」ダメージ劇的増加",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 敵に「バーン」を付与する。\n② 「バーン」状態の敵に対して\n　　 ダメージを絶大に増加する。\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Inflicts [Burn] on the target.\n②  Boosts damage by 130% against enemies affected\n     by [Burn].\n<color=yellow>SP: </color>Boosts damage by 150% against enemies affected\n     by [Burn].\n     <color=yellow>[C-Frame]</color>\n[Effect Duration] 21 seconds"
 	},
 	{
 		"assign": "31097",
@@ -1110,14 +1110,14 @@
 		"jp_explainShort": "攻撃力絶大増加＋風属性武器で攻撃力増加",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中の武器の属性が風属性の場合\n　　 攻撃力をわずかに増加する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 140%.\n<color=yellow>SP: </color>Boosts damage by 150%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 25% if using a Wind weapon.\n     <color=yellow>[H-Frame]</color>\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "31340",
 		"jp_explainShort": "攻撃力絶大増加＋風属性武器で攻撃力増加",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中の武器の属性が風属性の場合\n　　 攻撃力をわずかに増加する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 160%.\n<color=yellow>SP: </color>Boosts damage by 170%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 25% if using a Wind weapon.\n     <color=yellow>[H-Frame]</color>\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31345",
@@ -1152,14 +1152,14 @@
 		"jp_explainShort": "攻撃力絶大増加＋氷属性武器で攻撃力増加",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中の武器の属性が氷属性の場合\n　　 攻撃力をわずかに増加する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 120%.\n<color=yellow>SP: </color>Boosts damage by 130%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 25% if using an Ice weapon.\n     <color=yellow>[H-Frame]</color>\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "31380",
 		"jp_explainShort": "攻撃力絶大増加＋氷属性武器で攻撃力増加",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中の武器の属性が氷属性の場合\n　　 攻撃力をわずかに増加する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 140%.\n<color=yellow>SP: </color>Boosts damage by 150%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 25% if using an Ice weapon.\n     <color=yellow>[H-Frame]</color>\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31389",
@@ -1950,14 +1950,14 @@
 		"jp_explainShort": "攻撃力絶大増加＋一定確率で自身がフリーズ",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 定期的に一定確率で「フリーズ」になる代わりに\n　　 攻撃力を絶大に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 150% in exchange for having\n     a chance to [Freeze] you every 5 seconds.\n<color=yellow>SP: </color>Boosts damage by 155% in exchange for having\n     a chance to [Freeze] you every 5 seconds.\n     <color=yellow>[U-Frame]</color>\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31773",
 		"jp_explainShort": "攻撃力絶大増加＋一定確率で自身がフリーズ",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 定期的に一定確率で「フリーズ」になる代わりに\n　　 攻撃力を絶大に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 160% in exchange for having\n     a chance to [Freeze] you every 5 seconds.\n<color=yellow>SP: </color>Boosts damage by 165% in exchange for having\n     a chance to [Freeze] you every 5 seconds.\n     <color=yellow>[U-Frame]</color>\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31778",
@@ -2391,14 +2391,14 @@
 		"jp_explainShort": "アビＬｖ攻撃力劇的増加＋一定確率で自身がバーン",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 定期的に一定確率で「バーン」になる代わりに\n　　 アビリティレベルに応じて攻撃力を劇的に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 70% + 2% x this chip's\n     ability level in exchange for having a chance to\n     [Burn] you every second.\n<color=yellow>SP: </color>Boosts damage by 80% + 2% x this chip's\n     ability level in exchange for having a chance to\n     [Burn] you every second.\n     <color=yellow>[U-Frame]</color>\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31966",
 		"jp_explainShort": "アビＬｖ攻撃力劇的増加＋一定確率で自身がバーン",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 定期的に一定確率で「バーン」になる代わりに\n　　 アビリティレベルに応じて攻撃力を劇的に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 90% + 2% x this chip's\n     ability level in exchange for having a chance to\n     [Burn] you every second.\n<color=yellow>SP: </color>Boosts damage by 100% + 2% x this chip's\n     ability level in exchange for having a chance to\n     [Burn] you every second.\n     <color=yellow>[U-Frame]</color>\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31967",
@@ -2433,21 +2433,21 @@
 		"jp_explainShort": "威力絶大増＋効果時間延長",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 威力を絶大に増加する。\n② ボス戦とタワークエストで\n　　 装備中の風属性チップの枚数に応じて\n　　 ①の効果の威力をさらに超絶に増加する。\n③ リンクスロットに装備したチップの属性が風属性の場合\n　　 チップ発動時のアビリティ効果時間を延長する。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts power by 130%.\n<color=yellow>SP: </color>Boosts power by 140%.\n     <color=yellow>[F-Frame]</color>\n②  Further boosts the effect of ① in boss battles\n     and Tower Quests by 40% x the number of\n     Wind chips equipped.\n③  Extends the Effect Duration of chips' abilities by\n     10 seconds when they activate, if there is a\n     Wind chip in this chip's Link Slot.\n④  While this chip is equipped, the equip costs of\n     Wind PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31978",
 		"jp_explainShort": "威力絶大増＋効果時間延長",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 威力を絶大に増加する。\n② ボス戦とタワークエストで\n　　 装備中の風属性チップの枚数に応じて\n　　 ①の効果の威力をさらに超絶に増加する。\n③ リンクスロットに装備したチップの属性が風属性の場合\n　　 チップ発動時のアビリティ効果時間を延長する。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts power by 150%.\n<color=yellow>SP: </color>Boosts power by 160%.\n     <color=yellow>[F-Frame]</color>\n②  Further boosts the effect of ① in boss battles\n     and Tower Quests by 40% x the number of\n     Wind chips equipped.\n③  Extends the Effect Duration of chips' abilities by\n     10 seconds when they activate, if there is a\n     Wind chip in this chip's Link Slot.\n④  While this chip is equipped, the equip costs of\n     Wind PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31979",
 		"jp_explainShort": "威力絶大増＋効果時間延長",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 威力を絶大に増加する。\n② ボス戦とタワークエストで\n　　 装備中の風属性チップの枚数に応じて\n　　 ①の効果の威力をさらに超絶に増加する。\n③ リンクスロットに装備したチップの属性が風属性の場合\n　　 チップ発動時のアビリティ効果時間を延長する。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts power by 170%.\n<color=yellow>SP: </color>Boosts power by 180%.\n     <color=yellow>[F-Frame]</color>\n②  Further boosts the effect of ① in boss battles\n     and Tower Quests by 40% x the number of\n     Wind chips equipped.\n③  Extends the Effect Duration of chips' abilities by\n     10 seconds when they activate, if there is a\n     Wind chip in this chip's Link Slot.\n④  While this chip is equipped, the equip costs of\n     all PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31980",
@@ -2587,98 +2587,98 @@
 		"jp_explainShort": "防御力を大強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 必殺技・法術の威力を劇的に強化する。\n② 装備中の光属性チップの枚数に応じて\n　　 光属性の上限値が上昇する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts the power of PAs and Techs by 100%.\n<color=yellow>SP: </color>Boosts the power of PAs and Techs by 105%.\n     <color=yellow>[A-Frame]</color>\n②  Increases your maximum Light by 5 x the\n     number of Light chips equipped.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "32028",
 		"jp_explainShort": "防御力を劇的強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 必殺技・法術の威力を劇的に強化する。\n② 装備中の光属性チップの枚数に応じて\n　　 光属性の上限値が上昇する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts the power of PAs and Techs by 110%.\n<color=yellow>SP: </color>Boosts the power of PAs and Techs by 115%.\n     <color=yellow>[A-Frame]</color>\n②  Increases your maximum Light by 5 x the\n     number of Light chips equipped.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "32029",
 		"jp_explainShort": "攻撃力を強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 敵に追加で絶大ダメージを与える。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Deals an additional 150% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 155% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Reduces CP consumption by 20%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "32030",
 		"jp_explainShort": "攻撃力を強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 敵に追加で絶大ダメージを与える。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Deals an additional 160% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 165% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Reduces CP consumption by 20%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "32033",
 		"jp_explainShort": "攻撃力大増加＋ダメージ大軽減",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 効果中にHPが回復した後に\n　　 攻撃力を劇的に強化する。\n② 効果中一度だけ戦闘不能にならない。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 115% when you recover HP\n     while this effect is active.\n<color=yellow>SP: </color>Boosts damage by 125% when you recover HP\n     while this effect is active.\n     <color=yellow>[?-Frame]</color>② Allows you to survive incapacitation with 1 HP,\n     once per activation.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "32034",
 		"jp_explainShort": "攻撃力大増加＋ダメージ大軽減",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 効果中にHPが回復した後に\n　　 攻撃力を絶大に強化する。\n② 効果中一度だけ戦闘不能にならない。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 135% when you recover HP\n     while this effect is active.\n<color=yellow>SP: </color>Boosts damage by 145% when you recover HP\n     while this effect is active.\n     <color=yellow>[?-Frame]</color>② Allows you to survive incapacitation with 1 HP,\n     once per activation.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "32041",
 		"jp_explainShort": "攻撃力大増加＋ダメージの一部ＨＰ回復",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 定期的に一定確率で「ポイズン」になる代わりに\n　　 攻撃力を絶大に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 150% in exchange for having\n     a chance to [Poison] you every 5 seconds.\n<color=yellow>SP: </color>Boosts damage by 155% in exchange for having\n     a chance to [Poison] you every 5 seconds.\n     <color=yellow>[U-Frame]</color>\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "32042",
 		"jp_explainShort": "攻撃力大増加＋ダメージの一部ＨＰ回復",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 定期的に一定確率で「ポイズン」になる代わりに\n　　 攻撃力を絶大に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 160% in exchange for having\n     a chance to [Poison] you every 5 seconds.\n<color=yellow>SP: </color>Boosts damage by 165% in exchange for having\n     a chance to [Poison] you every 5 seconds.\n     <color=yellow>[U-Frame]</color>\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "32045",
 		"jp_explainShort": "攻撃力増加＋状態異常無効",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 通常攻撃にランダムで特定の状態異常効果を付与する。\n② 攻撃対象の敵からダメージを受けた時\n　　 一定確率でランダムな状態異常効果を付与する。\n③ 状態異常の敵に対してダメージを絶大に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Gives normal attacks a chance to inflict random\n     status effects.\n②  Responds to damage from the targeted enemy\n     by inflicting random status effects.\n③  Boosts damage by 130% against enemies affected\n     by status effects.\n<color=yellow>SP: </color>Boosts damage by 135% against enemies affected\n     by status effects.\n     <color=yellow>[C-Frame]</color>\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "32046",
 		"jp_explainShort": "攻撃力大増加＋状態異常無効",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 通常攻撃にランダムで特定の状態異常効果を付与する。\n② 攻撃対象の敵からダメージを受けた時\n　　 一定確率でランダムな状態異常効果を付与する。\n③ 状態異常の敵に対してダメージを絶大に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Gives normal attacks a chance to inflict random\n     status effects.\n②  Responds to damage from the targeted enemy\n     by inflicting random status effects.\n③  Boosts damage by 140% against enemies affected\n     by status effects.\n<color=yellow>SP: </color>Boosts damage by 145% against enemies affected\n     by status effects.\n     <color=yellow>[C-Frame]</color>\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "32052",
 		"jp_explainShort": "攻撃力と防御力を強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 闇属性のチップを装備している場合\n　　 攻撃力を極度に増加する。\n② 装備中の闇属性チップの枚数に応じて\n　　 闇属性の上限値が上昇する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 310% when equipped with a\n     Dark chip.\n<color=yellow>SP: </color>Boosts damage by 315% when equipped with a\n     Dark chip.\n     <color=yellow>[2A-Frame]</color>\n②  Increases your maximum Dark by 5 x the\n     number of Dark chips equipped.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "32053",
 		"jp_explainShort": "攻撃力と防御力を強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 闇属性のチップを装備している場合\n　　 攻撃力を極度に増加する。\n② 装備中の闇属性チップの枚数に応じて\n　　 闇属性の上限値が上昇する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 320% when equipped with a\n     Dark chip.\n<color=yellow>SP: </color>Boosts damage by 325% when equipped with a\n     Dark chip.\n     <color=yellow>[2A-Frame]</color>\n②  Increases your maximum Dark by 5 x the\n     number of Dark chips equipped.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "32063",
 		"jp_explainShort": "武器に「バーン」効果＋攻撃力を強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "① ＨＰを全回復する。\n② 定期的にＨＰが減少する代わりに\n　　 攻撃力を極度に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Fully recovers HP.\n②  Boosts damage by 310% in exchange for losing\n     1 HP every 0.5 seconds.\n<color=yellow>SP: </color>Boosts damage by 320% in exchange for losing\n     1 HP every 0.5 seconds.\n     <color=yellow>[U-Frame]</color>\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "32064",
 		"jp_explainShort": "武器に「バーン」効果＋攻撃力を大強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "① ＨＰを全回復する。\n② 定期的にＨＰが減少する代わりに\n　　 攻撃力を極度に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Fully recovers HP.\n②  Boosts damage by 330% in exchange for losing\n     1 HP every 0.5 seconds.\n<color=yellow>SP: </color>Boosts damage by 340% in exchange for losing\n     1 HP every 0.5 seconds.\n     <color=yellow>[U-Frame]</color>\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "2110",
@@ -2713,42 +2713,42 @@
 		"jp_explainShort": "全体に中ダメージ＋確率で「ポイズン」",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 敵から受けるダメージを大きく軽減する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 90%.\n<color=yellow>SP: </color>Boosts damage by 95%.\n     <color=yellow>[E-Frame]</color>\n②  Reduces damage taken from enemies by 50%.\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "80220",
 		"jp_explainShort": "全体に大ダメージ＋確率で「ポイズン」",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 敵から受けるダメージを大きく軽減する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 100%.\n<color=yellow>SP: </color>Boosts damage by 105%.\n     <color=yellow>[E-Frame]</color>\n②  Reduces damage taken from enemies by 60%.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "80410",
 		"jp_explainShort": "防御力を減少させ攻撃力を大強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 与えたダメージの一部を自身のＨＰとして回復する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 40%.\n<color=yellow>SP: </color>Boosts damage by 45%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers 8% of damage dealt as HP.\n     (Maximum recovery per hit: 8% of max HP)\n<color=yellow>SP: </color>Recovers 10% of damage dealt as HP.\n     (Maximum recovery per hit: 10% of max HP)\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "80420",
 		"jp_explainShort": "防御力を減少させ攻撃力を大強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 与えたダメージの一部を自身のＨＰとして回復する。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 45%.\n<color=yellow>SP: </color>Boosts damage by 50%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers 12% of damage dealt as HP.\n     (Maximum recovery per hit: 12% of max HP)\n<color=yellow>SP: </color>Recovers 15% of damage dealt as HP.\n     (Maximum recovery per hit: 15% of max HP)\n[Effect Duration] 35 seconds"
 	},
 	{
 		"assign": "80510",
 		"jp_explainShort": "武器に「ミラージュ」＋攻撃力を強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 自身を状態異常にならなくする。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 110%.\n<color=yellow>SP: </color>Boosts damage by 115%.\n     <color=yellow>[E-Frame]</color>\n②  Grants immunity to status effects.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "80520",
 		"jp_explainShort": "武器に「ミラージュ」＋攻撃力を大強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 自身を状態異常にならなくする。\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 120%.\n<color=yellow>SP: </color>Boosts damage by 125%.\n     <color=yellow>[E-Frame]</color>\n②  Grants immunity to status effects.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "80710",
@@ -8299,7 +8299,7 @@
 		"jp_explainShort": "「ポイズン」付与＋「ポイズン」ダメージ小増加",
 		"tr_explainShort": "",
 		"jp_explainLong": "★１２以下のチップの強化素材として使用すると\nチップのアビリティレベルを１上昇させる。",
-		"tr_explainLong": ""
+		"tr_explainLong": "If used as material to grind a ★12 or less chip,\nincreases the ability level of that chip by 1."
 	},
 	{
 		"assign": "91001",
