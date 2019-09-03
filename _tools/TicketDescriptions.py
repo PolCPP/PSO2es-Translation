@@ -185,6 +185,8 @@ cv_names = {
     "安元 洋貴": "Hiroki Yasumoto", "高橋 未奈美": "Minami Takahashi",
     "黒沢 ともよ": "Tomoyo Kurosawa", "堀川 りょう": "Ryo Horikawa",
     "高橋 李依": "Rie Takahashi", "安済 知佳": "Chika Anzai",
+    "金田 アキ": "Aki Kanada", "田辺 留依": "Rui Tanabe",
+    "引坂 理絵": "Rie Hikisaka",
     "？？？": "???", "Ｍ・Ａ・Ｏ": "M・A・O"
     }
 
