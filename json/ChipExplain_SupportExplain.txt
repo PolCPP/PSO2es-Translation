@@ -298,14 +298,14 @@
 		"jp_explainShort": "ＨＰ小回復＋ＣＰ小回復＋追加特大ダメージ",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 敵に追加で特大ダメージを与える。\n② ＨＰをわずかに回復する。\n③ ＣＰをわずかに回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "①  Deals an additional 105% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 110% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 8%.\n<color=yellow>SP: </color>Recovers HP by 10%.\n③  Recovers CP by 5.\n<color=yellow>SP: </color>Recovers CP by 7.\n[Activation Trigger] Successful Just Attack"
+		"tr_explainLong": "①  Deals an additional 105% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 110% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 8%.\n<color=yellow>SP: </color>Recovers HP by 10%.\n③  Recovers CP by 5.\n<color=yellow>SP: </color>Recovers CP by 7.\n[Activation Trigger] Successful Just Attack\n[Cooldown] 1 second"
 	},
 	{
 		"assign": "30050",
 		"jp_explainShort": "ＨＰ小回復＋ＣＰ回復＋追加特大ダメージ",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 敵に追加で特大ダメージを与える。\n② ＨＰをわずかに回復する。\n③ ＣＰを回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "①  Deals an additional 115% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 120% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 12%.\n<color=yellow>SP: </color>Recovers HP by 15%.\n③  Recovers CP by 10.\n<color=yellow>SP: </color>Recovers CP by 12.\n[Activation Trigger] Successful Just Attack"
+		"tr_explainLong": "①  Deals an additional 115% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 120% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 12%.\n<color=yellow>SP: </color>Recovers HP by 15%.\n③  Recovers CP by 10.\n<color=yellow>SP: </color>Recovers CP by 12.\n[Activation Trigger] Successful Just Attack\n[Cooldown] 1 second"
 	},
 	{
 		"assign": "30051",
@@ -1012,14 +1012,14 @@
 		"jp_explainShort": "ＨＰ小回復＋ＣＰ小回復＋追加特大ダメージ",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 敵に追加で絶大ダメージを与える。\n② ＨＰをわずかに回復する。\n③ ＣＰをわずかに回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "①  Deals an additional 190% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 195% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 10%.\n<color=yellow>SP: </color>Recovers HP by 12%.\n③  Recovers CP by 5.\n<color=yellow>SP: </color>Recovers CP by 7.\n[Activation Trigger] Successful Just Attack"
+		"tr_explainLong": "①  Deals an additional 190% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 195% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 10%.\n<color=yellow>SP: </color>Recovers HP by 12%.\n③  Recovers CP by 5.\n<color=yellow>SP: </color>Recovers CP by 7.\n[Activation Trigger] Successful Just Attack\n[Cooldown] 1 second"
 	},
 	{
 		"assign": "31096",
 		"jp_explainShort": "ＨＰ回復＋ＣＰ回復＋追加特大ダメージ",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 敵に追加で超絶ダメージを与える。\n② ＨＰを回復する。\n③ ＣＰを回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "①  Deals an additional 200% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 205% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 15%.\n<color=yellow>SP: </color>Recovers HP by 20%.\n③  Recovers CP by 10.\n<color=yellow>SP: </color>Recovers CP by 12.\n[Activation Trigger] Successful Just Attack"
+		"tr_explainLong": "①  Deals an additional 200% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 205% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 15%.\n<color=yellow>SP: </color>Recovers HP by 20%.\n③  Recovers CP by 10.\n<color=yellow>SP: </color>Recovers CP by 12.\n[Activation Trigger] Successful Just Attack\n[Cooldown] 1 second"
 	},
 	{
 		"assign": "31101",
@@ -1964,14 +1964,14 @@
 		"jp_explainShort": "ＨＰとＣＰが小回復＋追加大ダメージ",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 敵に追加で大ダメージを与える。\n② ＨＰをわずかに回復する。\n③ ＣＰをわずかに回復する。\n[発動条件]攻撃がヒットした時",
-		"tr_explainLong": "①  Deals an additional 55% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 60% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 4%.\n<color=yellow>SP: </color>Recovers HP by 5%.\n③  Recovers CP by 3.\n<color=yellow>SP: </color>Recovers CP by 4.\n[Activation Trigger] Landing an attack"
+		"tr_explainLong": "①  Deals an additional 55% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 60% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 4%.\n<color=yellow>SP: </color>Recovers HP by 5%.\n③  Recovers CP by 3.\n<color=yellow>SP: </color>Recovers CP by 4.\n[Activation Trigger] Landing an attack\n[Cooldown] 1 second"
 	},
 	{
 		"assign": "31302",
 		"jp_explainShort": "ＨＰとＣＰが小回復＋追加特大ダメージ",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 敵に追加で特大ダメージを与える。\n② ＨＰをわずかに回復する。\n③ ＣＰをわずかに回復する。\n[発動条件]攻撃がヒットした時",
-		"tr_explainLong": "①  Deals an additional 65% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 70% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 6%.\n<color=yellow>SP: </color>Recovers HP by 7%.\n③  Recovers CP by 5.\n<color=yellow>SP: </color>Recovers CP by 6.\n[Activation Trigger] Landing an attack"
+		"tr_explainLong": "①  Deals an additional 65% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 70% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 6%.\n<color=yellow>SP: </color>Recovers HP by 7%.\n③  Recovers CP by 5.\n<color=yellow>SP: </color>Recovers CP by 6.\n[Activation Trigger] Landing an attack\n[Cooldown] 1 second"
 	},
 	{
 		"assign": "31303",
@@ -5604,14 +5604,14 @@
 		"jp_explainShort": "定期的にＨＰが小回復＋長槍の技が大強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "① ＨＰを回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "①  Recovers HP by 15%.\n<color=yellow>SP: </color>Recovers HP by 17%.\n[Activation Trigger] Successful Just Attack"
+		"tr_explainLong": "①  Recovers HP by 15%.\n<color=yellow>SP: </color>Recovers HP by 17%.\n[Activation Trigger] Successful Just Attack\n[Cooldown] 2 seconds"
 	},
 	{
 		"assign": "2320",
 		"jp_explainShort": "定期的にＨＰが小回復＋双小剣の技が強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "① ＨＰを回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "①  Recovers HP by 18%.\n<color=yellow>SP: </color>Recovers HP by 20%.\n[Activation Trigger] Successful Just Attack"
+		"tr_explainLong": "①  Recovers HP by 18%.\n<color=yellow>SP: </color>Recovers HP by 20%.\n[Activation Trigger] Successful Just Attack\n[Cooldown] 2 seconds"
 	},
 	{
 		"assign": "80110",
