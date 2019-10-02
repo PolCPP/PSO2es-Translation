@@ -834,16 +834,16 @@
 	},
 	{
 		"assign": "119",
-		"jp_text": "-",
+		"jp_text": "リーパー／風弱点",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "風弱点のエネミーを攻撃時\n威力が上昇。ただし武器の\nレアリティが高くなるほど\n威力の上昇量は減少。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120",
-		"jp_text": "-",
+		"jp_text": "スレイヤー／幻創種",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "幻創種のエネミーを攻撃時\n威力が上昇。ただし武器の\nレアリティが高くなるほど\n威力の上昇量は減少。",
 		"tr_explain": ""
 	},
 	{
@@ -920,7 +920,7 @@
 		"assign": "131",
 		"jp_text": "Ｓ２：剛乱活与",
 		"tr_text": "S2:Sturdy Recovery",
-		"jp_explain": "一定確率で与ダメージの\n1％をＨＰとして吸収。\n（上限300）",
+		"jp_explain": "10％の確率で\n与ダメージの１％を\nＨＰとして吸収。\n（上限300）",
 		"tr_explain": "Gives a fixed chance of\nrestoring HP equal to 1%\nof damage dealt. (Max: 300)"
 	},
 	{
@@ -1165,28 +1165,28 @@
 		"assign": "166",
 		"jp_text": "Ｓ１：時流活与",
 		"tr_text": "S1:Flowing Exhilaration",
-		"jp_explain": "一定時間ごとに\nＨＰを40％回復する。",
+		"jp_explain": "40秒ごとに\nＨＰを40％回復する。",
 		"tr_explain": "Recover HP by 40% at\nregular intervals."
 	},
 	{
 		"assign": "167",
 		"jp_text": "Ｓ２：時流活与",
 		"tr_text": "S2:Flowing Exhilaration",
-		"jp_explain": "一定時間ごとに\nＨＰを60％回復する。",
+		"jp_explain": "40秒ごとに\nＨＰを60％回復する。",
 		"tr_explain": "Recover HP by 60% at\nregular intervals."
 	},
 	{
 		"assign": "168",
 		"jp_text": "Ｓ３：時流活与",
 		"tr_text": "S3:Flowing Exhilaration",
-		"jp_explain": "一定時間ごとに\nＨＰを40％回復する。",
+		"jp_explain": "40秒ごとに\nＨＰを40％回復する。",
 		"tr_explain": "Recover HP by 40% at\nregular intervals."
 	},
 	{
 		"assign": "169",
 		"jp_text": "Ｓ４：瞬護輝与",
 		"tr_text": "S4:Marvelous Aegis",
-		"jp_explain": "ジャストガード成功時\nＰＰを回復する。",
+		"jp_explain": "ジャストガード成功時\nＰＰを10回復する。",
 		"tr_explain": "Restores PP on a\nsuccessful Just Guard."
 	},
 	{
@@ -1200,7 +1200,7 @@
 		"assign": "171",
 		"jp_text": "Ｓ４：輝器応変",
 		"tr_text": "S4:Radiant Response",
-		"jp_explain": "最大ＰＰに応じて\nＰＰ効率が向上する。",
+		"jp_explain": "最大ＰＰに応じて\n攻撃時ＰＰ回復量、\nＰＰ自然回復量、\nＰＰ消費軽減効果が\n最大で30％上昇。",
 		"tr_explain": "Raises PP efficiency\nbased on maximum PP."
 	},
 	{
@@ -1235,7 +1235,7 @@
 		"assign": "176",
 		"jp_text": "Ｓ４：静の胆力",
 		"tr_text": "S4:Steadfast Courage",
-		"jp_explain": "一定時間、静止状態が\n続いた時、打ち上げや\n吹き飛ばしを防ぐ。",
+		"jp_explain": "1秒間、静止状態が\n続いた時、打ち上げや\n吹き飛ばしを防ぐ。",
 		"tr_explain": "Become immune to\nknockback by standing\nstill for a certain time."
 	},
 	{
@@ -1334,7 +1334,7 @@
 		"jp_text": "-",
 		"tr_text": "",
 		"jp_explain": "-",
-		"tr_explain": "Boosts damage by 2%."
+		"tr_explain": ""
 	},
 	{
 		"assign": "191",
@@ -1347,14 +1347,14 @@
 		"assign": "192",
 		"jp_text": "Ｓ１：気輝応変",
 		"tr_text": "Spirited Response",
-		"jp_explain": "納刀、抜刀を行う事で\nＰＰ回復速度が変化。",
+		"jp_explain": "ＰＰの自然回復速度が\n納刀時80％上昇\n抜刀時100％低下。",
 		"tr_explain": "Increases PP regeneration\nrate while sheathed."
 	},
 	{
 		"assign": "193",
 		"jp_text": "Ｓ２：気輝応変",
 		"tr_text": "S2:Spirited Response",
-		"jp_explain": "納刀、抜刀を行う事で\nＰＰ回復速度が変化。",
+		"jp_explain": "ＰＰの自然回復速度が\n納刀時100％上昇\n抜刀時100％低下。",
 		"tr_explain": "Increases PP regeneration\nrate while sheathed."
 	},
 	{
@@ -1362,27 +1362,27 @@
 		"jp_text": "-",
 		"tr_text": "",
 		"jp_explain": "-",
-		"tr_explain": ""
+		"tr_explain": "Boosts damage by 2%."
 	},
 	{
 		"assign": "195",
 		"jp_text": "Ｓ１：滅域輝与",
 		"tr_text": "S1:Brilliant Ruin",
-		"jp_explain": "一定の範囲内で\nエネミーが死亡した時\nＰＰが回復する。",
+		"jp_explain": "一定の範囲内で\nエネミーが死亡した時\nＰＰが3回復する。",
 		"tr_explain": "When an enemy is\ndefeated within a\ncertain range,\nrecover PP."
 	},
 	{
 		"assign": "196",
 		"jp_text": "Ｓ２：滅域輝与",
 		"tr_text": "S2:Brilliant Ruin",
-		"jp_explain": "一定の範囲内で\nエネミーが死亡した時\nＰＰが回復する。",
+		"jp_explain": "一定の範囲内で\nエネミーが死亡した時\nＰＰが3回復する。",
 		"tr_explain": "When an enemy is\ndefeated within a\ncertain range,\nrecover PP."
 	},
 	{
 		"assign": "197",
 		"jp_text": "Ｓ３：滅域輝与",
 		"tr_text": "S3:Brilliant Ruin",
-		"jp_explain": "一定の範囲内で\nエネミーが死亡した時\nＰＰが回復する。",
+		"jp_explain": "一定の範囲内で\nエネミーが死亡した時\nＰＰが3回復する。",
 		"tr_explain": "When an enemy is\ndefeated within a\ncertain range,\nrecover PP."
 	},
 	{
@@ -2824,7 +2824,7 @@
 		"assign": "403",
 		"jp_text": "Ｓ１：滅域輝与２",
 		"tr_text": "S1:Brilliant Ruin 2",
-		"jp_explain": "一定の範囲内で\nエネミーが死亡した時\nＰＰが回復する。",
+		"jp_explain": "一定の範囲内で\nエネミーが死亡した時\nＰＰが4回復する。",
 		"tr_explain": "When an enemy is\ndefeated within a\ncertain range,\nrecover PP."
 	},
 	{
@@ -2873,7 +2873,7 @@
 		"assign": "410",
 		"jp_text": "Ｓ３：時流活与２",
 		"tr_text": "S3:Flowing Exhilaration 2",
-		"jp_explain": "一定時間ごとに\nＨＰを60％回復する。",
+		"jp_explain": "40秒ごとに\nＨＰを60％回復する。",
 		"tr_explain": "Recover HP by 60% at\nregular intervals."
 	},
 	{
@@ -2894,7 +2894,7 @@
 		"assign": "413",
 		"jp_text": "Ｓ４：天輝の守護",
 		"tr_text": "S4:Heavenly Protection",
-		"jp_explain": "ガード中\nＰＰが自然回復し\nＰＰ回復速度が上昇。",
+		"jp_explain": "ガード中\nＰＰが自然回復し\nＰＰ回復速度が\n300％上昇。",
 		"tr_explain": "Enables and boosts PP\nregeneration while\nGuarding."
 	},
 	{
@@ -2929,7 +2929,7 @@
 		"assign": "418",
 		"jp_text": "Ｓ４：聖者の盾",
 		"tr_text": "S4:Saint Shield",
-		"jp_explain": "一定間隔で\n被ダメージを軽減する\nバリアを展開。",
+		"jp_explain": "45秒ごとに\n被ダメージを\n60％軽減する\nバリアを展開。",
 		"tr_explain": "Creates damage reducing\nbarriers at regular\nintervals."
 	},
 	{
@@ -2950,7 +2950,7 @@
 		"assign": "421",
 		"jp_text": "Ｓ１：幻精の志",
 		"tr_text": "S1:Phantasmal Intent",
-		"jp_explain": "フォトンブラストゲージに\n応じて威力が上昇する。",
+		"jp_explain": "フォトンブラストゲージに\n応じて威力上昇。\n最大で3％。",
 		"tr_explain": "Boosts damage based\non the Photon Blast\ngauge."
 	},
 	{
@@ -2978,7 +2978,7 @@
 		"assign": "425",
 		"jp_text": "Ｓ２：幻精輝剰",
 		"tr_text": "S2:Phantasmal Radiance",
-		"jp_explain": "フォトンブラストゲージに\n応じて攻撃時ＰＰ回復量が\n上昇する。",
+		"jp_explain": "フォトンブラストゲージに\n応じて攻撃時ＰＰ回復量が\n最大25％上昇する。",
 		"tr_explain": "Boosts attack PP\nrecovery based on the\nPhoton Blast gauge."
 	},
 	{
@@ -2999,7 +2999,7 @@
 		"assign": "428",
 		"jp_text": "Ｓ２：幻精輝勢",
 		"tr_text": "S2:Phantasmal Gleam",
-		"jp_explain": "フォトンブラストゲージに\n応じてＰＰ自然回復量が\n上昇する。",
+		"jp_explain": "フォトンブラストゲージに\n応じてＰＰ自然回復量が\n最大23％上昇する。",
 		"tr_explain": "Boosts PP regeneration\nbased on the Photon\nBlast gauge."
 	},
 	{
@@ -3020,7 +3020,7 @@
 		"assign": "431",
 		"jp_text": "Ｓ２：幻精の備",
 		"tr_text": "S2:Phantasmal Guardian",
-		"jp_explain": "フォトンブラストゲージに\n応じて被ダメージ量が\n減少する。",
+		"jp_explain": "フォトンブラストゲージに\n応じて被ダメージ量が\n最大9％減少する。",
 		"tr_explain": "Reduces damage taken\nbased on the Photon\nBlast gauge."
 	},
 	{
@@ -3048,7 +3048,7 @@
 		"assign": "435",
 		"jp_text": "Ｓ３：幻精縮減",
 		"tr_text": "S3:Phantasmal Reduction",
-		"jp_explain": "フォトンブラストゲージに\n応じてＰＰ消費量が\n減少する。",
+		"jp_explain": "フォトンブラストゲージに\n応じてＰＰ消費量が\n最大12％減少する。",
 		"tr_explain": "Reduces PP consumption\nbased on the Photon\nBlast gauge."
 	},
 	{
@@ -3104,7 +3104,7 @@
 		"assign": "443",
 		"jp_text": "Ｓ４：六色の輝秤",
 		"tr_text": "S4:Colored Spectrum",
-		"jp_explain": "花・海・葉・月・雪・影の\nいずれかが発動中\nＰＰ消費量を軽減するが\nＰＰ自然回復量は低下。",
+		"jp_explain": "花・海・葉・月・雪・影の\nいずれかが発動中\nＰＰ消費量を30％軽減。\nＰＰ自然回復量は\n30％低下。",
 		"tr_explain": "While Petal, Ocean,\nLeaf, Moon, Snow or\nShadow Flash is active:\nReduces your PP\nconsumption, but also\nreduces natural PP\nregeneration."
 	},
 	{
@@ -3391,7 +3391,7 @@
 		"assign": "484",
 		"jp_text": "Ｓ２：技巧縮減",
 		"tr_text": "S2:Skill Reduction",
-		"jp_explain": "ＰＡ・テクニック命中後\n30秒間、ＰＰ消費量減。\nまれに大きく軽減する。\n発動後リキャスト発生。",
+		"jp_explain": "ＰＡ・テクニック命中後\n30秒間\nＰＰ消費量を5％軽減。\n稀に30％軽減する。\n発動後リキャスト発生。",
 		"tr_explain": ""
 	},
 	{
@@ -3440,14 +3440,14 @@
 		"assign": "491",
 		"jp_text": "Ｓ３：時流の勇",
 		"tr_text": "",
-		"jp_explain": "一定間隔で自身に\nシフタを発動する。",
+		"jp_explain": "14秒ごとに、自身に\nシフタを発動する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "492",
 		"jp_text": "Ｓ２：時流の護",
 		"tr_text": "",
-		"jp_explain": "一定間隔で自身に\nデバンドを発動する。",
+		"jp_explain": "14秒ごとに、自身に\nデバンドを発動する。",
 		"tr_explain": ""
 	},
 	{
