@@ -1880,6 +1880,16 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "equip_dialog_t_16",
+		"jp_text": "チップ装備",
+		"tr_text": ""
+	},
+	{
+		"assign": "equip_dialog_b_16",
+		"jp_text": "リンクスロット限定チップです。\nここには装備できません。",
+		"tr_text": ""
+	},
+	{
 		"assign": "friend_guide_00",
 		"jp_text": "<color=#f0df60>あなたのフレンド一覧です。</color>",
 		"tr_text": "<color=#f0df60>This is a list of your friends.</color>"
@@ -2160,6 +2170,11 @@
 		"tr_text": "<color=#f0df60>Material chips required to release this chip are displayed. When you have all of the displayed chips, and the chip has been grinded to its maximum level, you can release it.</color>"
 	},
 	{
+		"assign": "labo_guide_17",
+		"jp_text": "<color=#f0df60>属性変換で、チップの属性を変えることができます。表示している素材チップが全てそろい、チップのレベルが上限に達すると、属性変換が可能になります。</color>",
+		"tr_text": ""
+	},
+	{
 		"assign": "labo_dialog_t_04",
 		"jp_text": "チップ解放",
 		"tr_text": "Chip Release"
@@ -2238,6 +2253,56 @@
 		"assign": "labo_dialog_b_26",
 		"jp_text": "素材チップが不足しているため\n解放することができません。",
 		"tr_text": "Insufficient material chips\nto release this chip."
+	},
+	{
+		"assign": "labo_dialog_t_27",
+		"jp_text": "チップ解放（属性変換）",
+		"tr_text": ""
+	},
+	{
+		"assign": "labo_dialog_b_27",
+		"jp_text": "メセタが不足しているため\n属性変換することができません。",
+		"tr_text": ""
+	},
+	{
+		"assign": "labo_dialog_t_28",
+		"jp_text": "チップ解放（属性変換）",
+		"tr_text": ""
+	},
+	{
+		"assign": "labo_dialog_b_28",
+		"jp_text": "属性変換対象のチップのレベルが\n最大レベルに達していないため\n属性変換することができません。",
+		"tr_text": ""
+	},
+	{
+		"assign": "labo_dialog_t_29",
+		"jp_text": "チップ解放（属性変換）",
+		"tr_text": ""
+	},
+	{
+		"assign": "labo_dialog_b_29",
+		"jp_text": "素材チップが不足しているため\n属性変換することができません。",
+		"tr_text": ""
+	},
+	{
+		"assign": "labo_dialog_t_30",
+		"jp_text": "チップ解放（属性変換）",
+		"tr_text": ""
+	},
+	{
+		"assign": "labo_dialog_b_30",
+		"jp_text": "お気に入りに登録しているチップが\n素材として選択されています。\n属性変換を実行しますか？",
+		"tr_text": ""
+	},
+	{
+		"assign": "labo_dialog_t_31",
+		"jp_text": "チップ解放（属性変換）",
+		"tr_text": ""
+	},
+	{
+		"assign": "labo_dialog_b_31",
+		"jp_text": "使用する素材チップに\n★７以上のものが含まれています。\n属性変換の素材にしたチップは失われますが\nよろしいですか？",
+		"tr_text": ""
 	},
 	{
 		"assign": "labo_chip_awake_select",
@@ -5705,14 +5770,64 @@
 		"tr_text": "<%stage>＋"
 	},
 	{
+		"assign": "quest_counter_onetime_period",
+		"jp_text": "<color=red>終了まで</color>",
+		"tr_text": ""
+	},
+	{
 		"assign": "quest_counter_onetime_period_day",
-		"jp_text": "<color=#f6bf03>あと<%day>日</color>",
-		"tr_text": "<color=#f6bf03><%day> days left</color>"
+		"jp_text": "<color=red>　<%day>日</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_counter_onetime_period_hour",
+		"jp_text": "<color=red>　<%hour>時間<%minute>分</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "quest_counter_onetime_period_minute",
-		"jp_text": "<color=#f6bf03>あと<%hour>時間<%minute>分</color>",
-		"tr_text": "<color=#f6bf03><%hour>:<%minute>left</color>"
+		"jp_text": "<color=red>　<%minute>分</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_counter_onetime_experiod",
+		"jp_text": "<color=red>　00分</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_counter_onetime_cant_played",
+		"jp_text": "このクエストはプレイできません",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_counter_cant_played_oneday_once_t",
+		"jp_text": "クリア済みクエスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_counter_cant_played_oneday_once_b",
+		"jp_text": "このクエストは1日1回クリアすることができます。\nクリア済みのためプレイできません。",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_counter_cant_played_once_only_t",
+		"jp_text": "クリア済みクエスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_counter_cant_played_once_only_b",
+		"jp_text": "このクエストは開催期間中に\n1度だけクリアすることができます。\nクリア済みのためプレイできません。",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_counter_cant_played_week_once_t",
+		"jp_text": "クリア済みクエスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_counter_cant_played_week_once_b",
+		"jp_text": "このクエストは特定の曜日に1回クリアすることができる\nクエストです。\n本日はすでにクエストクリアとなっています。",
+		"tr_text": ""
 	},
 	{
 		"assign": "quest_counter_raid_term",
@@ -8230,6 +8345,11 @@
 		"tr_text": "Plug-In Material"
 	},
 	{
+		"assign": "chip_type_name_18",
+		"jp_text": "マグ",
+		"tr_text": ""
+	},
+	{
 		"assign": "chip_type_name_weaponoid",
 		"jp_text": "ウェポノイド",
 		"tr_text": "Weaponoid"
@@ -8420,6 +8540,11 @@
 		"tr_text": "Current"
 	},
 	{
+		"assign": "ui_chip_release_attribute_change",
+		"jp_text": "変換チップ",
+		"tr_text": ""
+	},
+	{
 		"assign": "ui_chip_recommend",
 		"jp_text": "おすすめ選択",
 		"tr_text": "Recommend"
@@ -8440,6 +8565,11 @@
 		"tr_text": "Chip Info"
 	},
 	{
+		"assign": "ui_chip_release_attribute_change_info",
+		"jp_text": "チップ解放（属性変換）内容",
+		"tr_text": ""
+	},
+	{
 		"assign": "ui_chip_button_reinforce",
 		"jp_text": "チップ強化",
 		"tr_text": "Chip Grinding"
@@ -8448,6 +8578,11 @@
 		"assign": "ui_chip_button_release",
 		"jp_text": "チップ解放",
 		"tr_text": "Chip Release"
+	},
+	{
+		"assign": "ui_chip_button_release_attribute_change",
+		"jp_text": "チップ解放（属性変換）",
+		"tr_text": ""
 	},
 	{
 		"assign": "ui_chip_percent",
@@ -8503,6 +8638,11 @@
 		"assign": "present_gauge",
 		"jp_text": "プレゼントゲージ",
 		"tr_text": "Present Gauge"
+	},
+	{
+		"assign": "linkslot",
+		"jp_text": "リンクスロット",
+		"tr_text": "Link Slot"
 	},
 	{
 		"assign": "limit_effect_all_quest",
@@ -17530,6 +17670,11 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "lookback_series3_chapter_2",
+		"jp_text": "第２章　羽ばたけ☆スタートライン",
+		"tr_text": ""
+	},
+	{
 		"assign": "lookback_maintitle_8",
 		"jp_text": "ブレイブ　オブ　セイガーズ",
 		"tr_text": "Brave of Seiga"
@@ -18013,6 +18158,11 @@
 		"assign": "filter_enemy",
 		"jp_text": "エネミー",
 		"tr_text": "Enemy"
+	},
+	{
+		"assign": "filter_mag",
+		"jp_text": "マグ",
+		"tr_text": ""
 	},
 	{
 		"assign": "filter_key",
@@ -19927,7 +20077,7 @@
 	{
 		"assign": "quest_linkslot_button",
 		"jp_text": "リンクスロット",
-		"tr_text": "Link Slot"
+		"tr_text": ""
 	},
 	{
 		"assign": "quest_linkskill_week_element",
@@ -20050,6 +20200,11 @@
 		"tr_text": "Class Bonus"
 	},
 	{
+		"assign": "chip_details_all_class_bonus",
+		"jp_text": "全てのクラス",
+		"tr_text": ""
+	},
+	{
 		"assign": "chip_details_limit_affect",
 		"jp_text": "期間限定効果",
 		"tr_text": "Limited Effect"
@@ -20128,6 +20283,11 @@
 		"assign": "chip_details_awake_none_skill",
 		"jp_text": "未習得",
 		"tr_text": "Lv. -"
+	},
+	{
+		"assign": "chip_details_cost_mag",
+		"jp_text": "-",
+		"tr_text": ""
 	},
 	{
 		"assign": "wh_38_01",
@@ -22132,6 +22292,36 @@
 	{
 		"assign": "chip_awake_ui_prag_name",
 		"jp_text": "{0}/<size=14>{1}</size>",
+		"tr_text": ""
+	},
+	{
+		"assign": "title_window_policy_message",
+		"jp_text": "『PSO2es』のプレイには\n利用規約への同意が必要です。",
+		"tr_text": ""
+	},
+	{
+		"assign": "window_policy_title",
+		"jp_text": "『PSO2es』利用規約",
+		"tr_text": ""
+	},
+	{
+		"assign": "window_policy_show_policy_button",
+		"jp_text": "利用規約を確認",
+		"tr_text": ""
+	},
+	{
+		"assign": "window_policy_agree_button",
+		"jp_text": "<color=orange>利用規約に同意する</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "window_policy_play_start_button",
+		"jp_text": "プレイをはじめる",
+		"tr_text": ""
+	},
+	{
+		"assign": "window_policy_dissent_button",
+		"jp_text": "キャンセル",
 		"tr_text": ""
 	}
 ]
