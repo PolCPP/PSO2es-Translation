@@ -1862,32 +1862,32 @@
 	{
 		"assign": "equip_dialog_t_14",
 		"jp_text": "マイセット確認",
-		"tr_text": ""
+		"tr_text": "My Set Confirmation"
 	},
 	{
 		"assign": "equip_dialog_b_14",
 		"jp_text": "{0}に\n{1}の\n内容を保存します。よろしいですか？",
-		"tr_text": ""
+		"tr_text": "Now saving the contents of\n{1} to {0}.\nContinue?"
 	},
 	{
 		"assign": "equip_dialog_t_15",
 		"jp_text": "マイセット確認",
-		"tr_text": ""
+		"tr_text": "My Set Confirmation"
 	},
 	{
 		"assign": "equip_dialog_b_15",
 		"jp_text": "{0}を削除します。\nよろしいですか？",
-		"tr_text": ""
+		"tr_text": "Now deleting {0}.\nContinue?"
 	},
 	{
 		"assign": "equip_dialog_t_16",
 		"jp_text": "チップ装備",
-		"tr_text": ""
+		"tr_text": "Chip Equipment"
 	},
 	{
 		"assign": "equip_dialog_b_16",
 		"jp_text": "リンクスロット限定チップです。\nここには装備できません。",
-		"tr_text": ""
+		"tr_text": "This is a Link Slot-only chip.\nYou cannot equip it here."
 	},
 	{
 		"assign": "friend_guide_00",
@@ -2172,7 +2172,7 @@
 	{
 		"assign": "labo_guide_17",
 		"jp_text": "<color=#f0df60>属性変換で、チップの属性を変えることができます。表示している素材チップが全てそろい、チップのレベルが上限に達すると、属性変換が可能になります。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>With Element Conversion, you can change a chip's element. When you have all of the displayed chips, and the chip has been grinded to its maximum level, you can convert it.</color>"
 	},
 	{
 		"assign": "labo_dialog_t_04",
@@ -2222,7 +2222,7 @@
 	{
 		"assign": "labo_dialog_b_08",
 		"jp_text": "解放チップ選択画面に戻ります。\nよろしいですか？",
-		"tr_text": "Returning to Chip selection.\nAre you sure?"
+		"tr_text": "Returning to chip selection.\nAre you sure?"
 	},
 	{
 		"assign": "labo_dialog_t_23",
@@ -2232,7 +2232,7 @@
 	{
 		"assign": "labo_dialog_b_23",
 		"jp_text": "解放対象のチップのレベルが\n最大レベルに達していないため\n解放することができません。",
-		"tr_text": "This chip has not reached its maximum\nlevel, and so cannot be released."
+		"tr_text": "This chip has not reached its maximum\nlevel, so cannot be released."
 	},
 	{
 		"assign": "labo_dialog_t_24",
@@ -2242,7 +2242,7 @@
 	{
 		"assign": "labo_dialog_b_24",
 		"jp_text": "お気に入りに登録しているチップが\n素材として選択されています。\nチップ解放を実行しますか？",
-		"tr_text": "A Chip in your Favorites\nhas been selected as material.\nAre you sure you want to continue?"
+		"tr_text": "A chip in your Favorites\nhas been selected as material.\nAre you sure you want to continue?"
 	},
 	{
 		"assign": "labo_dialog_t_26",
@@ -2257,52 +2257,52 @@
 	{
 		"assign": "labo_dialog_t_27",
 		"jp_text": "チップ解放（属性変換）",
-		"tr_text": ""
+		"tr_text": "Chip Release (Element Conversion)"
 	},
 	{
 		"assign": "labo_dialog_b_27",
 		"jp_text": "メセタが不足しているため\n属性変換することができません。",
-		"tr_text": ""
+		"tr_text": "Cannot proceed.\nNot enough Meseta."
 	},
 	{
 		"assign": "labo_dialog_t_28",
 		"jp_text": "チップ解放（属性変換）",
-		"tr_text": ""
+		"tr_text": "Chip Release (Element Conversion)"
 	},
 	{
 		"assign": "labo_dialog_b_28",
 		"jp_text": "属性変換対象のチップのレベルが\n最大レベルに達していないため\n属性変換することができません。",
-		"tr_text": ""
+		"tr_text": "This chip has not reached its maximum level,\nso you cannot perform Element Conversion."
 	},
 	{
 		"assign": "labo_dialog_t_29",
 		"jp_text": "チップ解放（属性変換）",
-		"tr_text": ""
+		"tr_text": "Chip Release (Element Conversion)"
 	},
 	{
 		"assign": "labo_dialog_b_29",
 		"jp_text": "素材チップが不足しているため\n属性変換することができません。",
-		"tr_text": ""
+		"tr_text": "Insufficient material chips\nfor Element Conversion."
 	},
 	{
 		"assign": "labo_dialog_t_30",
 		"jp_text": "チップ解放（属性変換）",
-		"tr_text": ""
+		"tr_text": "Chip Release (Element Conversion)"
 	},
 	{
 		"assign": "labo_dialog_b_30",
 		"jp_text": "お気に入りに登録しているチップが\n素材として選択されています。\n属性変換を実行しますか？",
-		"tr_text": ""
+		"tr_text": "A chip in your Favorites\nhas been selected as material.\nAre you sure you want to continue?"
 	},
 	{
 		"assign": "labo_dialog_t_31",
 		"jp_text": "チップ解放（属性変換）",
-		"tr_text": ""
+		"tr_text": "Chip Release (Element Conversion)"
 	},
 	{
 		"assign": "labo_dialog_b_31",
 		"jp_text": "使用する素材チップに\n★７以上のものが含まれています。\n属性変換の素材にしたチップは失われますが\nよろしいですか？",
-		"tr_text": ""
+		"tr_text": "One or more of the materials\nhas a rarity of ★７+ stars.\nThese will be lost upon use.\nAre you sure?"
 	},
 	{
 		"assign": "labo_chip_awake_select",
@@ -5772,62 +5772,62 @@
 	{
 		"assign": "quest_counter_onetime_period",
 		"jp_text": "<color=red>終了まで</color>",
-		"tr_text": ""
+		"tr_text": "<color=red>Remaining: </color>"
 	},
 	{
 		"assign": "quest_counter_onetime_period_day",
 		"jp_text": "<color=red>　<%day>日</color>",
-		"tr_text": ""
+		"tr_text": "<color=red> <%day>d</color>"
 	},
 	{
 		"assign": "quest_counter_onetime_period_hour",
 		"jp_text": "<color=red>　<%hour>時間<%minute>分</color>",
-		"tr_text": ""
+		"tr_text": "<color=red> <%hour>h <%minute>m</color>"
 	},
 	{
 		"assign": "quest_counter_onetime_period_minute",
 		"jp_text": "<color=red>　<%minute>分</color>",
-		"tr_text": ""
+		"tr_text": "<color=red> <%minute>m</color>"
 	},
 	{
 		"assign": "quest_counter_onetime_experiod",
 		"jp_text": "<color=red>　00分</color>",
-		"tr_text": ""
+		"tr_text": "<color=red>　0</color>"
 	},
 	{
 		"assign": "quest_counter_onetime_cant_played",
 		"jp_text": "このクエストはプレイできません",
-		"tr_text": ""
+		"tr_text": "You cannot play this quest."
 	},
 	{
 		"assign": "quest_counter_cant_played_oneday_once_t",
 		"jp_text": "クリア済みクエスト",
-		"tr_text": ""
+		"tr_text": "Quest Cleared"
 	},
 	{
 		"assign": "quest_counter_cant_played_oneday_once_b",
 		"jp_text": "このクエストは1日1回クリアすることができます。\nクリア済みのためプレイできません。",
-		"tr_text": ""
+		"tr_text": "This quest can only be played once per day.\nYou have already cleared this quest today."
 	},
 	{
 		"assign": "quest_counter_cant_played_once_only_t",
 		"jp_text": "クリア済みクエスト",
-		"tr_text": ""
+		"tr_text": "Quest Cleared"
 	},
 	{
 		"assign": "quest_counter_cant_played_once_only_b",
 		"jp_text": "このクエストは開催期間中に\n1度だけクリアすることができます。\nクリア済みのためプレイできません。",
-		"tr_text": ""
+		"tr_text": "This quest can only be played once during this event.\nYou have already cleared this quest."
 	},
 	{
 		"assign": "quest_counter_cant_played_week_once_t",
 		"jp_text": "クリア済みクエスト",
-		"tr_text": ""
+		"tr_text": "Quest Cleared"
 	},
 	{
 		"assign": "quest_counter_cant_played_week_once_b",
 		"jp_text": "このクエストは特定の曜日に1回クリアすることができる\nクエストです。\n本日はすでにクエストクリアとなっています。",
-		"tr_text": ""
+		"tr_text": "This quest can only be cleared once per day,\nand only on a specific day of the week.\nYou have already cleared this quest today."
 	},
 	{
 		"assign": "quest_counter_raid_term",
@@ -8347,7 +8347,7 @@
 	{
 		"assign": "chip_type_name_18",
 		"jp_text": "マグ",
-		"tr_text": ""
+		"tr_text": "Mag"
 	},
 	{
 		"assign": "chip_type_name_weaponoid",
@@ -8542,7 +8542,7 @@
 	{
 		"assign": "ui_chip_release_attribute_change",
 		"jp_text": "変換チップ",
-		"tr_text": ""
+		"tr_text": "Conversion Material"
 	},
 	{
 		"assign": "ui_chip_recommend",
@@ -8567,7 +8567,7 @@
 	{
 		"assign": "ui_chip_release_attribute_change_info",
 		"jp_text": "チップ解放（属性変換）内容",
-		"tr_text": ""
+		"tr_text": "Chip Release (Conversion) Info"
 	},
 	{
 		"assign": "ui_chip_button_reinforce",
@@ -8582,7 +8582,7 @@
 	{
 		"assign": "ui_chip_button_release_attribute_change",
 		"jp_text": "チップ解放（属性変換）",
-		"tr_text": ""
+		"tr_text": "Chip Release (Conversion)"
 	},
 	{
 		"assign": "ui_chip_percent",
@@ -17682,7 +17682,7 @@
 	{
 		"assign": "lookback_maintext_8",
 		"jp_text": "セイガーシリーズのウェポノイド達の\n物語を振り返ります。",
-		"tr_text": ""
+		"tr_text": "View the story of the Seiga\nWeaponoid series."
 	},
 	{
 		"assign": "lookback_series4_chapter_1",
@@ -20202,7 +20202,7 @@
 	{
 		"assign": "chip_details_all_class_bonus",
 		"jp_text": "全てのクラス",
-		"tr_text": ""
+		"tr_text": "All Class"
 	},
 	{
 		"assign": "chip_details_limit_affect",
@@ -22297,31 +22297,31 @@
 	{
 		"assign": "title_window_policy_message",
 		"jp_text": "『PSO2es』のプレイには\n利用規約への同意が必要です。",
-		"tr_text": ""
+		"tr_text": "To play PSO2es, you must\nagree to the Terms of Service."
 	},
 	{
 		"assign": "window_policy_title",
 		"jp_text": "『PSO2es』利用規約",
-		"tr_text": ""
+		"tr_text": "PSO2es Terms of Service"
 	},
 	{
 		"assign": "window_policy_show_policy_button",
 		"jp_text": "利用規約を確認",
-		"tr_text": ""
+		"tr_text": "Check Terms of Service"
 	},
 	{
 		"assign": "window_policy_agree_button",
 		"jp_text": "<color=orange>利用規約に同意する</color>",
-		"tr_text": ""
+		"tr_text": "<color=orange>I agree to the Terms of Service.</color>"
 	},
 	{
 		"assign": "window_policy_play_start_button",
 		"jp_text": "プレイをはじめる",
-		"tr_text": ""
+		"tr_text": "Start Playing"
 	},
 	{
 		"assign": "window_policy_dissent_button",
 		"jp_text": "キャンセル",
-		"tr_text": ""
+		"tr_text": "Cancel"
 	}
 ]
