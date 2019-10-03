@@ -4008,14 +4008,14 @@
 		"jp_explainShort": "アビリティＬｖ光武器攻撃力増＋ＣＰ最大増",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 装備中の武器の属性が光属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 10% + 3% x this chip's ability\n     level if equipped with a Light weapon.\n<color=yellow>SP: </color>Boosts damage by 15% + 3% x this chip's ability\n     level if equipped with a Light weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by 15.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31706",
 		"jp_explainShort": "アビリティＬｖ光武器攻撃力増＋ＣＰ最大増",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 装備中の武器の属性が光属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 20% + 3% x this chip's ability\n     level if equipped with a Light weapon.\n<color=yellow>SP: </color>Boosts damage by 25% + 3% x this chip's ability\n     level if equipped with a Light weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by 15.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31707",
@@ -4064,14 +4064,14 @@
 		"jp_explainShort": "有効弱点ダメージ劇的増＋ＣＰ最大増・回復",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを劇的に増加する。\n② ＣＰの最大値が上昇する。\n③ ＣＰを回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 65% against enemy\n     elemental weaknesses.\n<color=yellow>SP: </color>Boosts damage by 70% against enemy\n     elemental weaknesses.\n     <color=yellow>[D-Frame]</color>\n②  Increases your maximum CP by 15.\n③  Recovers CP by 15.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31718",
 		"jp_explainShort": "有効弱点ダメージ劇的増＋ＣＰ最大増・回復",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを劇的に増加する。\n② ＣＰの最大値が上昇する。\n③ ＣＰを回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 75% against enemy\n     elemental weaknesses.\n<color=yellow>SP: </color>Boosts damage by 80% against enemy\n     elemental weaknesses.\n     <color=yellow>[D-Frame]</color>\n②  Increases your maximum CP by 15.\n③  Recovers CP by 15.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31719",
@@ -4204,14 +4204,14 @@
 		"jp_explainShort": "アビリティＬｖ炎武器攻撃力増＋ＣＰ最大増",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 装備中の武器の属性が炎属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 10% + 3% x this chip's ability\n     level if using a Fire weapon.\n<color=yellow>SP: </color>Boosts damage by 15% + 3% x this chip's ability\n     level if using a Fire weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by 15.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31745",
 		"jp_explainShort": "アビリティＬｖ炎武器攻撃力増＋ＣＰ最大増",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 装備中の武器の属性が炎属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 20% + 3% x this chip's ability\n     level if using a Fire weapon.\n<color=yellow>SP: </color>Boosts damage by 25% + 3% x this chip's ability\n     level if using a Fire weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by 15.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31746",
@@ -4295,14 +4295,14 @@
 		"jp_explainShort": "アビリティＬｖ風武器攻撃力増＋ＣＰ最大増",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 装備中の武器の属性が風属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 10% + 3% x this chip's ability\n     level if equipped with a Wind weapon.\n<color=yellow>SP: </color>Boosts damage by 15% + 3% x this chip's ability\n     level if equipped with a Wind weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by 15.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31769",
 		"jp_explainShort": "アビリティＬｖ風武器攻撃力増＋ＣＰ最大増",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 装備中の武器の属性が風属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 20% + 3% x this chip's ability\n     level if equipped with a Wind weapon.\n<color=yellow>SP: </color>Boosts damage by 25% + 3% x this chip's ability\n     level if equipped with a Wind weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by 15.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31770",
@@ -4449,14 +4449,14 @@
 		"jp_explainShort": "アビリティＬｖ闇武器攻撃力増＋ＣＰ最大増",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 装備中の武器の属性が闇属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 10% + 3% x this chip's\n     ability level if using a Dark weapon.\n<color=yellow>SP: </color>Boosts damage by 15% + 3% x this chip's\n     ability level if using a Dark weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by 15.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31803",
 		"jp_explainShort": "アビリティＬｖ闇武器攻撃力増＋ＣＰ最大増",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 装備中の武器の属性が闇属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 20% + 3% x this chip's\n     ability level if using a Dark weapon.\n<color=yellow>SP: </color>Boosts damage by 25% + 3% x this chip's\n     ability level if using a Dark weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by 25.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31804",
@@ -4596,14 +4596,14 @@
 		"jp_explainShort": "アビリティＬｖ氷武器攻撃力増＋ＣＰ最大増",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 装備中の武器の属性が氷属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 10% + 3% x this chip's\n     ability level if using an Ice weapon.\n<color=yellow>SP: </color>Boosts damage by 15% + 3% x this chip's\n     ability level if using an Ice weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by 15.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31826",
 		"jp_explainShort": "アビリティＬｖ氷武器攻撃力増＋ＣＰ最大増",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 装備中の武器の属性が氷属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 20% + 3% x this chip's\n     ability level if using an Ice weapon.\n<color=yellow>SP: </color>Boosts damage by 25% + 3% x this chip's\n     ability level if using an Ice weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by 15.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31827",
@@ -7816,14 +7816,14 @@
 		"jp_explainShort": "-",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 氷属性の武器の場合に威力をわずかに増加する。\n② 両剣の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 20% if equipped with\n     an Ice weapon.\n<color=yellow>SP: </color>Boosts damage by 25% if equipped with\n     an Ice weapon.\n     <color=yellow>[M-Frame]</color>\n②  Boosts damage by 20% if equipped with\n     a Double Saber.\n<color=yellow>SP: </color>Boosts damage by 25% if equipped with\n     a Double Saber.\n     <color=yellow>[N-Frame]</color>\n③  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40278",
 		"jp_explainShort": "-",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 氷属性の武器の場合に威力を増加する。\n② 両剣の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 30% if equipped with\n     an Ice weapon.\n<color=yellow>SP: </color>Boosts damage by 35% if equipped with\n     an Ice weapon.\n     <color=yellow>[M-Frame]</color>\n②  Boosts damage by 30% if equipped with\n     a Double Saber.\n<color=yellow>SP: </color>Boosts damage by 35% if equipped with\n     a Double Saber.\n     <color=yellow>[N-Frame]</color>\n③  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40279",
@@ -8768,14 +8768,14 @@
 		"jp_explainShort": "闇属性が強化＋攻撃力が小強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 風属性の武器の場合に威力をわずかに増加する。\n② 導具の場合に攻撃力をわずかに増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 20% if equipped with\n     a Wind weapon.\n<color=yellow>SP: </color>Boosts damage by 25% if equipped with\n     a Wind weapon.\n     <color=yellow>[M-Frame]</color>\n②  Boosts damage by 20% if equipped with\n     a Talis.\n<color=yellow>SP: </color>Boosts damage by 25% if equipped with\n     a Talis.\n     <color=yellow>[N-Frame]</color>\n③  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40414",
 		"jp_explainShort": "攻撃力と防御力が小強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 風属性の武器の場合に威力を増加する。\n② 導具の場合に攻撃力を増加する。\n③ 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Boosts damage by 30% if equipped with\n     a Wind weapon.\n<color=yellow>SP: </color>Boosts damage by 35% if equipped with\n     a Wind weapon.\n     <color=yellow>[M-Frame]</color>\n②  Boosts damage by 30% if equipped with\n     a Talis.\n<color=yellow>SP: </color>Boosts damage by 35% if equipped with\n     a Talis.\n     <color=yellow>[N-Frame]</color>\n③  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40415",
@@ -9664,14 +9664,14 @@
 		"jp_explainShort": "",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 敵に追加でわずかにダメージを与える。\n② 機改種に対して与えるダメージを増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Deals an additional 10% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Boosts damage against Reconfigured Mechs by\n     30%.\n<color=yellow>SP: </color>Boosts damage against Reconfigured Mechs by\n     35%.\n     <color=yellow>[B-Frame]</color>\n[Activation Trigger] Taking an attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "20074",
 		"jp_explainShort": "",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 敵に追加でわずかにダメージを与える。\n② 機改種に対して与えるダメージを大きく増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": ""
+		"tr_explainLong": "①  Deals an additional 10% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Boosts damage against Reconfigured Mechs by\n     40%.\n<color=yellow>SP: </color>Boosts damage against Reconfigured Mechs by\n     45%.\n     <color=yellow>[B-Frame]</color>\n[Activation Trigger] Taking an attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "20057",
