@@ -15321,9 +15321,7 @@
 	},
 	{
 		"assign": "ItemDetail_dialog_b_06",
-		"jp_text": "
-        バトル中、最初に受けるダメージを\n一定割合軽減します。\n
-        「初撃限定装甲」を複数装備している場合は\n効果値が高いものから順次\nダメージを受けるたびに発動します。\nこの効果の発動回数は\nバトルが終わるとリセットされます。",
+		"jp_text": "バトル中、最初に受けるダメージを\n一定割合軽減します。\n「初撃限定装甲」を複数装備している場合は\n効果値が高いものから順次\nダメージを受けるたびに発動します。\nこの効果の発動回数は\nバトルが終わるとリセットされます。",
 		"tr_text": "Reduces damage from the first hit\nyou take in each battle.\nIf you have multiple instances of\n\"First Strike Armor\", the highest\nvalue one will reduce damage from\nthe first hit you take, the second\nhighest will reduce damage from\nthe second hit, and so on."
 	},
 	{
