@@ -6006,8 +6006,7 @@
 	},
 	{
 		"assign": "quest_counter_raid_sp_z_dialog_01_b",
-		"jp_text": "「覇級トリガー」を消費して、覇級を解除します。\n消費するトリガーの数を設定してください。\n\nトリガーの消費数に応じて、ＯＰ消費も増えますが\n
-        より強力なエネミーと戦うことができます。\n（ 1～4個 <color=orange>ＯＰ：1</color> / 5～7個 <color=orange>ＯＰ：2</color> / 8～10個 <color=orange>ＯＰ：3</color> ）\n※覇級トリガーとＯＰはクエスト出発時に消費されます。\n\n<color=#ffff00>所持数：{0}個</color>",
+		"jp_text": "「覇級トリガー」を消費して、覇級を解除します。\n消費するトリガーの数を設定してください。\n\nトリガーの消費数に応じて、ＯＰ消費も増えますが\nより強力なエネミーと戦うことができます。\n（ 1～4個 <color=orange>ＯＰ：1</color> / 5～7個 <color=orange>ＯＰ：2</color> / 8～10個 <color=orange>ＯＰ：3</color> ）\n※覇級トリガーとＯＰはクエスト出発時に消費されます。\n\n<color=#ffff00>所持数：{0}個</color>",
 		"tr_text": "This quest consumes \"Extra Hard Triggers\".\nPlease set the number of Triggers to use.\n\nYou can use more Triggers at once to fight a\nstronger enemy, but the amount of OP\nconsumed may also increase.\n1-4 Triggers: <color=orange>1 OP</color>\n5-7 Triggers: <color=orange>2 OP</color>\n8-10 Triggers: <color=orange>3 OP</color>"
 	},
 	{
