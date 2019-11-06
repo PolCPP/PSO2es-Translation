@@ -2890,6 +2890,16 @@
 		"tr_text": "Grazie Meduna"
 	},
 	{
+		"assign": "C7_SH",
+		"jp_text": "シバ",
+		"tr_text": ""
+	},
+	{
+		"assign": "TD2Blo",
+		"jp_text": "オドゥナ・ゾルダッタ",
+		"tr_text": ""
+	},
+	{
 		"assign": "CY2Jam",
 		"jp_text": "ベールドフォードルス",
 		"tr_text": "Veiled Forde Luz"
@@ -2900,9 +2910,19 @@
 		"tr_text": "Elscoude"
 	},
 	{
+		"assign": "T1Yor",
+		"jp_text": "ブロル・ブレンガム",
+		"tr_text": ""
+	},
+	{
 		"assign": "CY2Orc",
 		"jp_text": "ヒュードアズール",
 		"tr_text": "Heud Azure"
+	},
+	{
+		"assign": "T1Xcu",
+		"jp_text": "ビリガ・ジグニンデ",
+		"tr_text": ""
 	},
 	{
 		"assign": "KingRappy",
@@ -2960,14 +2980,24 @@
 		"tr_text": "DW Dagan"
 	},
 	{
+		"assign": "SoldierAntW1",
+		"jp_text": "DWRダガン",
+		"tr_text": ""
+	},
+	{
 		"assign": "SoldierAntEliteSP1",
 		"jp_text": "エル・ダガン＋",
 		"tr_text": "El Dagan+"
 	},
 	{
 		"assign": "SoldierAntEliteW0",
-		"jp_text": "DWエル・ダガン ",
-		"tr_text": "DW El Dagan"
+		"jp_text": "DWエル・ダガン",
+		"tr_text": ""
+	},
+	{
+		"assign": "SoldierAntEliteW1",
+		"jp_text": "DWRエル・ダガン",
+		"tr_text": ""
 	},
 	{
 		"assign": "AntReaperSP1",
@@ -2980,6 +3010,11 @@
 		"tr_text": "DW El Ahda"
 	},
 	{
+		"assign": "AntReaperW1",
+		"jp_text": "DWRエル・アーダ",
+		"tr_text": ""
+	},
+	{
 		"assign": "SnailSP1",
 		"jp_text": "カルターゴ＋",
 		"tr_text": "Kartargot+"
@@ -2988,6 +3023,11 @@
 		"assign": "SnailW0",
 		"jp_text": "DWカルターゴ",
 		"tr_text": "DW Kartagot"
+	},
+	{
+		"assign": "SnailW1",
+		"jp_text": "DWRカルターゴ",
+		"tr_text": ""
 	},
 	{
 		"assign": "QueenAntSP1",
@@ -3040,6 +3080,11 @@
 		"tr_text": "DW Predicahda"
 	},
 	{
+		"assign": "MantisWarriorAW1",
+		"jp_text": "DWRプレディカーダ",
+		"tr_text": ""
+	},
+	{
 		"assign": "MimicASP1",
 		"jp_text": "ミクダ＋",
 		"tr_text": "Mi Micda+"
@@ -3060,6 +3105,11 @@
 		"tr_text": "DW Dagash"
 	},
 	{
+		"assign": "FloatageFishAW1",
+		"jp_text": "DWRダーガッシュ",
+		"tr_text": ""
+	},
+	{
 		"assign": "FloatageFishBSP1",
 		"jp_text": "ダガッチャ＋",
 		"tr_text": "Dagacha+"
@@ -3070,14 +3120,29 @@
 		"tr_text": "DW Dagacha"
 	},
 	{
+		"assign": "FloatageFishBW1",
+		"jp_text": "DWRダガッチャ",
+		"tr_text": ""
+	},
+	{
 		"assign": "FishShieldW0",
 		"jp_text": "DWガウォンダ",
 		"tr_text": "DW Ga Wonda"
 	},
 	{
+		"assign": "FishShieldW1",
+		"jp_text": "DWRガウォンダ",
+		"tr_text": ""
+	},
+	{
 		"assign": "FishShieldReverseW0",
 		"jp_text": "DWグウォンダ",
 		"tr_text": "DW Gu Wonda"
+	},
+	{
+		"assign": "FishShieldReverseW1",
+		"jp_text": "DWRグウォンダ",
+		"tr_text": ""
 	},
 	{
 		"assign": "FishBigBeastASP1",
@@ -3115,6 +3180,11 @@
 		"tr_text": "DW Kuklonahda"
 	},
 	{
+		"assign": "MonoeyeAW1",
+		"jp_text": "DWRキュクロナーダ",
+		"tr_text": ""
+	},
+	{
 		"assign": "DpFishArmST0",
 		"jp_text": "ファルス・アーム",
 		"tr_text": "Falz Arm"
@@ -3128,6 +3198,11 @@
 		"assign": "AlligatorSnapperAW0",
 		"jp_text": "DWゼッシュレイダ",
 		"tr_text": "DW Zeshrayda"
+	},
+	{
+		"assign": "AlligatorSnapperAW1",
+		"jp_text": "DWRゼッシュレイダ",
+		"tr_text": ""
 	},
 	{
 		"assign": "BirdBirdcrowASP1",
@@ -3193,6 +3268,11 @@
 		"assign": "BirdStackedW0",
 		"jp_text": "DWデコル・マリューダ",
 		"tr_text": "DW Decol Malluda"
+	},
+	{
+		"assign": "BirdStackedW1",
+		"jp_text": "DWRデコル・マリューダ",
+		"tr_text": ""
 	},
 	{
 		"assign": "NativeBeastSP1",
@@ -4250,6 +4330,11 @@
 		"tr_text": "DW Dagan EX"
 	},
 	{
+		"assign": "SoldierAntExW1",
+		"jp_text": "DWRダガンＥｘ",
+		"tr_text": ""
+	},
+	{
 		"assign": "SoldierAntEliteEx",
 		"jp_text": "エル・ダガンＥｘ",
 		"tr_text": "El Dagan EX"
@@ -4258,6 +4343,11 @@
 		"assign": "SoldierAntEliteExW0",
 		"jp_text": "DWエル・ダガンＥｘ",
 		"tr_text": "DW El Dagan EX"
+	},
+	{
+		"assign": "SoldierAntEliteExW1",
+		"jp_text": "DWRエル・ダガンＥｘ",
+		"tr_text": ""
 	},
 	{
 		"assign": "AntReaperEx",
@@ -4270,6 +4360,11 @@
 		"tr_text": "DW El Ahda EX"
 	},
 	{
+		"assign": "AntReaperExW1",
+		"jp_text": "DWRエル・アーダＥｘ",
+		"tr_text": ""
+	},
+	{
 		"assign": "SnailEx",
 		"jp_text": "カルターゴＥｘ",
 		"tr_text": "Kartargot EX"
@@ -4278,6 +4373,11 @@
 		"assign": "SnailExW0",
 		"jp_text": "DWカルターゴＥｘ",
 		"tr_text": "DW Kartargot EX"
+	},
+	{
+		"assign": "SnailExW1",
+		"jp_text": "DWRカルターゴＥｘ",
+		"tr_text": ""
 	},
 	{
 		"assign": "QueenAntEx",
@@ -4320,6 +4420,11 @@
 		"tr_text": "DW Predicahda EX"
 	},
 	{
+		"assign": "MantisWarriorAExW1",
+		"jp_text": "DWRプレディカーダＥｘ",
+		"tr_text": ""
+	},
+	{
 		"assign": "DoodlebugNeedleEx",
 		"jp_text": "グワナーダ・ビットＥｘ",
 		"tr_text": "Gwanahda Bit EX"
@@ -4345,6 +4450,11 @@
 		"tr_text": "DW Dahgash EX"
 	},
 	{
+		"assign": "FloatageFishAExW1",
+		"jp_text": "DWRダーガッシュＥｘ",
+		"tr_text": ""
+	},
+	{
 		"assign": "FloatageFishBEx",
 		"jp_text": "ダガッチャＥｘ",
 		"tr_text": "Dagacha EX"
@@ -4353,6 +4463,11 @@
 		"assign": "FloatageFishBExW0",
 		"jp_text": "DWダガッチャＥｘ",
 		"tr_text": "DW Dagacha EX"
+	},
+	{
+		"assign": "FloatageFishBExW1",
+		"jp_text": "DWRダガッチャＥｘ",
+		"tr_text": ""
 	},
 	{
 		"assign": "FishShieldEx",
@@ -4365,6 +4480,11 @@
 		"tr_text": "DW Ga Wonda EX"
 	},
 	{
+		"assign": "FishShieldExW1",
+		"jp_text": "DWRガウォンダＥｘ",
+		"tr_text": ""
+	},
+	{
 		"assign": "FishShieldReverseEx",
 		"jp_text": "グウォンダＥｘ",
 		"tr_text": "Gu Wonda EX"
@@ -4373,6 +4493,11 @@
 		"assign": "FishShieldReverseExW0",
 		"jp_text": "DWグウォンダＥｘ",
 		"tr_text": "DW Gu Wonda EX"
+	},
+	{
+		"assign": "FishShieldReverseExW1",
+		"jp_text": "DWRグウォンダＥｘ",
+		"tr_text": ""
 	},
 	{
 		"assign": "FishBigBeastAEx",
@@ -4415,6 +4540,11 @@
 		"tr_text": "DW Kuklonahda EX"
 	},
 	{
+		"assign": "MonoeyeAExW1",
+		"jp_text": "DWRキュクロナーダＥｘ",
+		"tr_text": ""
+	},
+	{
 		"assign": "DpFishArmEx",
 		"jp_text": "ファルス・アームEx",
 		"tr_text": "Falz Arm EX"
@@ -4433,6 +4563,11 @@
 		"assign": "AlligatorSnapperAExW0",
 		"jp_text": "DWゼッシュレイダＥｘ",
 		"tr_text": "DW Zeshrayda EX"
+	},
+	{
+		"assign": "AlligatorSnapperAExW1",
+		"jp_text": "DWRゼッシュレイダＥｘ",
+		"tr_text": ""
 	},
 	{
 		"assign": "BirdBirdcrowAEx",
@@ -4498,6 +4633,11 @@
 		"assign": "BirdStackedExW0",
 		"jp_text": "DWデコル・マリューダＥｘ",
 		"tr_text": "DW Decol Malluda EX"
+	},
+	{
+		"assign": "BirdStackedExW1",
+		"jp_text": "DWRデコル・マリューダＥｘ",
+		"tr_text": ""
 	},
 	{
 		"assign": "NativeBeastEx",

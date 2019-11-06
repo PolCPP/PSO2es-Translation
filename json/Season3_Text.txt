@@ -43451,7 +43451,7 @@
 		"eventNo": "12",
 		"jp_name": "ジェネ",
 		"tr_name": "",
-		"jp_text": "え……？<%br>あ、あなたたち……は……",
+		"jp_text": "え……？<%br>あ、あなた達……は……",
 		"tr_text": "",
 		"fileID": 6
 	},
@@ -47150,5 +47150,4357 @@
 		"jp_text": "",
 		"tr_text": "",
 		"fileID": 6
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ソルーシュ（ナレーション）",
+		"tr_name": "",
+		"jp_text": "だから、俺は言ったんだ。<%br>『どう考えても間違ってる』。<%br>……そんな風に言えてたら<%br>今、俺はなにをしていたか。<%br>今、俺になにができていたか。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ソルーシュ（ナレーション）",
+		"tr_name": "",
+		"jp_text": "ひとりでも多くが、明日を生きるために。<%br>ひとりでも多くを、笑顔にするために。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ソルーシュ（ナレーション）",
+		"tr_name": "",
+		"jp_text": "それがエルジマルトの幸せだと……<%br>俺の幸せに繋がるものだと……<%br>疑いもなくひたすらに前に出た。<%br>疑うことを忘れようと前を見た。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ソルーシュ（ナレーション）",
+		"tr_name": "",
+		"jp_text": "だからもう……俺は見ることがないだろう。<%br>美しい茜空の下<%br>遠く手を振るあいつら……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ソルーシュ（ナレーション）",
+		"tr_name": "",
+		"jp_text": "俺が求めた笑顔はすでに<%br>遠く闇の果てへと置き去りにしてきたのだ。<%br>闇の果てへと……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "繋ぎ止める意志",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "『私は何度でも立ち上がる！<%br> お前を救うために！！』",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "『お前が抱えることとなった闇……<%br> 私のすべてを以て、斬り払ってくれる！』",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "『できるの？　お姉ちゃんの歌なんて<%br> わたしには意味がないのに。』",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "『ああ、私ひとりでは無理だろう……だが<%br> リーダーやジェネたちの助力があれば違う。』",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "わたし達の力……？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "わたし達の力……？",
+		"tr_text": "",
+		"jp_buttons": [
+			"ホルシード、なにをすればいい？",
+			"フォトン……か？"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 7
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "『リーダーたちは、なにひとつ変える必要はない。<%br> これまでのように、光を信じ輝けばいい。』",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "『如何に強く邪悪な闇であろうとも……<%br> フォトンの輝きが無駄なわけではない。』",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "フフ……無駄よ。フォトン程度で……<%br>できるわけないでしょ？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "そんなことない！<%br>リーダーたちならできる！　ボクは信じる！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "まかせてくださいっ！<%br>アフタルさんを闇から解放できるのなら！！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "そんな風に言われたらさ<%br>がんばらないわけにはいかないって！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ああ、そうだな。<%br>俺たちがくじけるわけにはいかないもんな。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ホルシードの歌が……想いが届くまで……<%br>アフタル……貴方の闇を消してみせる！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "リーダーはホルシードとアフタルを！<%br>ナスリーンとダーカー兵器は私たちに任せて！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "小賢しいのよ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "『……フォトンなんて、ただ痛くなるだけなのに。<%br> 輝きなんて、ただまぶしいだけなのに……』",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "『キラキラなんて、いらない！<%br> 全部……全部、真っ黒に塗りつぶしてあげる！！』",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "チクチクチクチク、うっとうしいなぁ。<%br>もうやめようよ、リーダー。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "チクチクチクチク、うっとうしいなぁ。<%br>もうやめようよ、リーダー。",
+		"tr_text": "",
+		"jp_buttons": [
+			"あきらめる気なんてない。",
+			"いい加減に目を覚ませ、アフタル！"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 7
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "知ってる。リーダーって、そうだよね。<%br>絶対にあきらめたりしないよね。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "覚めてるよ。イヤってぐらい、覚めてる。<%br>だから、こうして教えてあげてるんだけどなぁ……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "もう面倒くさいなぁ……チクチクチクチク……<%br>フォトンって……本当にイヤ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "な、なんかさ……アフタルのヤツ<%br>余裕がなくなってないか？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "っ……今なら届くか？<%br>いいや、届かせてみせる！　応えろ、星骸布！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "お姉ちゃん、うるさい！<%br>ムダだって言ってるでしょ！！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "アフタル！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "目覚めよ……さぁ、踊れ絶え間なく……<%br>ともに永久に……やうれ……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "お姉ちゃんの歌なんて……<%br>わたしの中のこわいものを大きくする……だけ……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "う……ううぅ……<%br>な、なに……これ……ちがう……歌……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "ねむれ……さぁ、おだやかに……<%br>ねむれ……さぁ、おだやかに……瞳、閉じたまま……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "……また、この歌！<%br>イヤだって、わかってるでしょ！　なんで！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "アフタル様！？　ホルシードの歌は<%br>ダーカー因子を活性化させるはず……なのに……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "アフタル様のダーカー因子が弱まって……<%br>均衡が崩れていく……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "よそ見してんなよ、ナスリーン。<%br>お前の相手は、俺たちだぜ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "くっ……！　やはり、フォトンは脅威となる！<%br>それを理解されていて……ファルザード様、なぜ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "やめて、うるさい……<%br>イライラする……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "見てください！　アフタルさんの身体から<%br>黒い霧のようなものが！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "リリーン！　アフタルの中から<%br>ダーカー因子が出てきてる……そうか！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "カーネベデでやろうとしたことの応用だよ！<%br>アフタルからダークファルスを引き剥がそうと！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "ダーカー因子の均衡が崩れて……<%br>このままでは、アフタル様のお身体が……！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ナスリーン！　このままではアフタルが危ない！<%br>アフタルを解放するのよ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "う……ううぅ、うううぅぅ……！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "（耐えろ、アフタル！　このまま私の歌で……）",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "チクチクするって言ってるの！<%br>いい加減にして！　お姉ちゃんなんて大キライ！！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ぐうっ！！　くっ……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ホルシード、大丈夫か！？　　<%br>攻撃が直撃したんじゃないのか！！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "33",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ぐ、うぅ……アフ……タル……<%br>目を……覚ま……せ……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "34",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ホルシードさん！　無理しないでください！！<%br>ダメです、立ち上がったら！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "35",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ジェネ……私に触れるな……<%br>ひとりで……立てる……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "36",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ここで……立たねば……<%br>もう二度と……恐怖に打ち勝つことなどできぬ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "37",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ここで立ち上がらねば……<%br>アフタルを取り戻すことなど……叶わぬ！！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "38",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "届きかけていると、星骸布は言っている！！<%br>歌は……必ずやアフタルへ届くと！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "39",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "……うるさい！　うるさい、うるさい、うるさい！！<%br>やっぱりお姉ちゃんは邪魔だ！　大キライだ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "40",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "どうしてそこまで逆らうの！<%br>なんでそんなにわたしに命令するのっ！！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "41",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "私が、お前の姉であるからだ！<%br>私はお前を……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "42",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "……そんなの理由になってない！<%br>姉とか、妹とか……関係ない！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "43",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "もう、終わりにする！　もうこれ以上、無理！！<%br>歌なんて……みんな消えて無くなれ！！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "邪魔しないで！<%br>これはわたしとお姉ちゃんの問題なんだから！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "聞きなさい、アフタル！<%br>ホルシードは貴方のことを考えて……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "アネットさんもなんだ。<%br>アネットさんも、お姉ちゃんの肩を持つんだ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ええ。ホルシードの気持ちは理解できるから。<%br>アフタル、貴方がすべきことは……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……きゃあっ！！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "やめて！　わたしがやらなくちゃいけないことなんて<%br>わかるはずない！！　だからそこで寝てて！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……う……ぐ……そうね……<%br>私の考えは……間違ってるかもしれない……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "でも……貴方を救い出したいという<%br>気持ちは……絶対に間違い……では……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "寝ててって、言ってるのに……どうして……<%br>どうして！！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "そんなの……そんなの決まってるでしょ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "後悔したくないからよ！　二度と失いたくないからよ！<%br>ホルシード、唄って！　アフタルのために！！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ああ……唄う。アフタルに届くまで……何度でも！<%br>リーダー、頼む！　もう一度チャンスをくれ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ああ……唄う。アフタルに届くまで……何度でも！<%br>リーダー、頼む！　もう一度チャンスをくれ！",
+		"tr_text": "",
+		"jp_buttons": [
+			"わかった！　成功するまで、何度でも！",
+			"アフタル！　気持ちをわかって！"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 7
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "いいや、残された力から考えても<%br>これが最後……これが最後の歌だ！！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "うるさい！　うるさい、うるさい、うるさい！<%br>もう歌なんて聞きたくない！　お姉ちゃんなんか……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……届かせる！　私の歌を！！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "目覚めの時……歩み行け……<%br>滾る……この鼓動……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "させ……ない……！　させるもんか！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "強く捧げる祈り……眠れ、る……な……<%br>きらめく光よ……あさ……ゆめ……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "リッリーン！　リリーン！　リリリーン！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "な……なに……この歌……<%br>リーンも……星骸布と同じように……輝いて……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "こん……なの……う、歌なんかじゃ……<%br>ドロドロ、気持ち悪くて……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ダーカー因子の濁流に飲み込まれてるようだ……<%br>みんな、気を強く持て！　心……へし折られるぞ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "ならば、へし折ってしまえば良いのです。<%br>そうすれば、楽に……！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "くっそ、こんな中で、戦わなきゃならないのかよぉ！<%br>頭がガンガンして、ううぅぅぅぅぅぅ……っ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "（早まったのか……アフタルも、まだ、歌を……<%br>　これほどの闇が……闇、だけか？　本当に？）",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "リーン！　リーンリー……ーン………………",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "（……何だ、この感覚は……星骸布が剥がれて。<%br>　いや、複数に分かれ……違う、増えて！？）",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "……リーン！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "な、なんだあぁぁぁぁっ！？<%br>リーンが光ったぁぁぁぁぁぁぁぁぁっ！？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "（星骸布から伝わってくる……この、熱いものは……<%br>　闇の中から貫いてくる。いくつもの流星が……）",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "（力だ……私の背を押す意志が湧いている！<%br>　うつむくな、胸を張れ、衝動のままに……唄えっ！）",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "33",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ホルシードさんの歌と、リーンさんが……！<%br>この光……星骸布の光に似て……！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "34",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "これは……共鳴？　いや、違う！<%br>このような現象、聞いたことも……！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "35",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "……も、もしや、リーンが遺された理由には<%br>切り捨てられたはずの選択が関係して！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "36",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "なに……その、力……知らない！？<%br>星骸布に……そんなのが、あるなんて……！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "37",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "この光……イヤだ。ズキズキする……<%br>歌が……なんで歌が……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "38",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "そんなの……星骸布に教えてもらってない！！<%br>なんにも聞いてない！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "39",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……歌うのをやめたわね、アフタル！<%br>いい加減にしなさい！！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "40",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "ッ、アネットさん！　なに……なんで……？<%br>アネットさんからも歌が……星骸布の力が……！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "41",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "リーダー、今よ！<%br>ホルシードの歌を追い風に……アフタルを止めて！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "42",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "リーダーまで……ッ、ズキズキするのに！<%br>イヤ！　イヤって言ってるのにぃっ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "ああぁぁぁぁぁっ！<%br>はあ……はあっ、はあっ……！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "ああもう、歌だよ……やっぱり歌だ……<%br>歌がある限り、わたしを自由にしてくれないんだ……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "効いてる！　もう、今しかない！<%br>ダークファルスを倒して……アフタルを助けるのよ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "……いけない！<%br>これ以上は、アフタル様が……！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "邪魔させないってば！<%br>アフタルは……返してもらうからなっ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "させるわけないでしょ！<%br>撤退させてもらうわ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "うわわわわわっ！？　<%br>集まってたダーカー兵器が自爆したぞ！？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "隔壁に穴を……撤退のことまで考えていたとはね。<%br>さすが諜報活動の大先輩、抜け目がないな！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "当たり前でしょ？<%br>あなたたちが到着した時点で、作戦は変更していたわ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "せめて、このシップと一緒に<%br>あなたたちを亡き者にできればと思ったけれど。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "だからって、逃がしたりしないぞ！<%br>あと少しでアフタルを助けられるんだからな！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "無理よ、アークスは追ってはこれないわ。<%br>そのために……あえて、内患を残したのだもの。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "その言い方……織り込み済みってことか！<%br>わかっててこのシップを選んだな、ナスリーン！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "答え合わせはご自由に。<%br>……アフタル様、どうかこちらに。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "キラキラは……いらない……<%br>もっと……もっと……わたしを取り戻さなきゃ……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "行かせ……る……もの……か……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "ダーカー因子が尽きたようね……<%br>まぁ、あれだけ歌を唄えば、そうなるでしょうね。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ホルシードさん！？<%br>大丈夫ですか！　アンプルなら、ここに……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "……させると思って？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "きゃっ！<%br>あ……アンプルが……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "リー……リ……リ……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "リーダー！　こっちにも来てくれよ！<%br>リーンも倒れて動かなくなっちゃったってば！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "……リーダー、ここまでだ。<%br>全員が生き残ることを優先しよう。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "でも……！　アフタルが……！<%br>今、アフタルを助けないと……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "でも……！　アフタルが……！<%br>今、アフタルを助けないと……",
+		"tr_text": "",
+		"jp_buttons": [
+			"ホルシードたちを安全なところに……",
+			"アフタルのこと……あきらめたわけじゃない。"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 7
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "そ、そうですね。<%br>今は、みんなが生き残らないと……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……わかったわ。<%br>今回は……私たちの負け……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "アネットさん、一度、ここを離脱しましょう。<%br>逃げられそうな、今のうちに！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "この次は……絶対にお姉ちゃんにわからせるんだ。<%br>わたしがひとりでも……エルジマルトを救えるって……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "……帰る。<%br>ナスリーンさんも……一緒に帰ろう。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "アフタル様……お身体のほうは？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "……アフタル様？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "33",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "……そっか。この歌、そうなんだ。<%br>そういうこと……するんだ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "34",
+		"jp_name": "ナスリーン",
+		"tr_name": "",
+		"jp_text": "アフタル様……<%br>いかがなされましたか？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "35",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "……いいもん、種は撒いてきたから。<%br>ここには最後……いっぱい、撒いてきたから。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "36",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "もう、わたしだけじゃない。<%br>お姉ちゃんだってどうせ……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "37",
+		"jp_name": "アフタル",
+		"tr_name": "",
+		"jp_text": "どうせ……わたしと同じなんだから。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "ありがとうございます。<%br>強奪されたアークスシップは無事が確認されました。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "隔壁の修理も終了し、大気の流出も止まっています。<%br>市街地のダーカー兵器の掃討も順調です。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "ひとまず……リーダーたちは<%br>そのシップに残って、休息を取ってください。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "リ……リーン……<%br>ごめんね、動けなくなっちゃったりして。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "あやまらないでください……ホルシードさんも<%br>リーンさんも、がんばってくれたんですから。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ホルシード、大丈夫なのか？<%br>ケガもまだ治ってなかったんだろ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……問題ない。船内のダーカー因子濃度が<%br>高まっていたことが幸いした。じきに修復も完了する。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "ねえ、教えてくれる。さっきの力……<%br>あれも星骸布と歌の力なの？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "あの力があれば<%br>アフタルを助けられるの？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……確かなことは言えない。私の意思ではなく<%br>星骸布の意志が自動的に導いたものとしか……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "リリーン。ボクにもわからないんだ。<%br>でも……どこか懐かしい気持ちになった……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "惑星リリーパにいた頃、アフタルのお婆さんたちと<%br>一緒に歌を聞いていた……あの時みたいな……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "繋がり始めている気がします。<%br>あきらめなかったからこそ、見えてきた光が。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "だな！　すぐにアフタルたちを追いかけようぜ！<%br>今なら、アフタルを取り戻せるかもしれないってば！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "……いや、悪いがそうはいかないんだ。<%br>その前にやっておかなきゃならないことがある。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "さっき、ナスリーンと話をしてたわよね。<%br>ブルーノがここにいた理由……聞かせてもらえる？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "このアークスシップには、なにがあるの？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "……スレイマンの研究所さ。<%br>それも公にされていない秘密の……な。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "……へ？<%br>スレイマンの研究所？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "情報部で追い続けていたが、ようやく突き止めた。<%br>そこに、ヴィーナーと通じていた証拠があるはずだ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "スレイマンが？　ヴィーナーと？<%br>どういうことなの！？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "理由はわからん。だが、アイツは痕跡を消しつつ<%br>このシップに研究所を作り、定期的に通っていたようだ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "イノセントブルーの研究に必要な資材も<%br>非公式なルートを用いて搬入されている。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "さらには各地で回収されたダーカー兵器の一部が<%br>その研究所に集められていたことも突き止めた。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "そんなことが……<%br>どうして、今まで判明してなかったの？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ナスリーンがスパイだとわかって……<%br>外部からの侵入ばかり調べていたんだ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "だが、どうにも整合性のとれないことがあってね。<%br>金の流れを調べたら……スレイマンに突き当たった。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "さらに、ヴィーナーが使っていた転送技術と<%br>同じ痕跡が捕捉されたから、こりゃ大変。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "その上、エルジマルトのダークニクスと<%br>同じ反応まで探知されたとくれば……真っ黒だ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "それじゃあ、スレイマンも<%br>このアークスシップに来てるっていうのかよ！？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "十中八九な。ヴィーナーの襲撃があったから<%br>発見できたと……次席は言っていたよ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "リーン。状況証拠としては十分。<%br>今から、物証を回収しに向かうということだね。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "物証以前に、今回の襲撃事件で反逆の罪は<%br>ほぼ決定的になってるんだけどな。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "33",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ダーカー兵器が最初に出現したポイント……<%br>そこが研究所の所在地なのだな。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "34",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ビンゴ。つまり、アークスとしても俺たちとしても<%br>押さえておくべき重要なポイントとなったわけだ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "35",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "あわよくば、この船からザヴァンラカーナへ<%br>直接乗り込むことができる……か。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "36",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "期待は半々だけどね。なんせナスリーンたちが<%br>逃げてった方向は、研究所とは反対方向だ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "37",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "期待は半々だけどね。なんせナスリーンたちが<%br>逃げてった方向は、研究所とは反対方向だ。",
+		"tr_text": "",
+		"jp_buttons": [
+			"スレイマンを捕まえに行こう。",
+			"ブルーノ、スレイマンは任せていいかい？"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 7
+	},
+	{
+		"eventNo": "38",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "そうしてくれると助かる。たぶん、アイツは……<%br>取り返しのつかないことを企んでるはずだ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "39",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "別にいいけど……ちょっと心配だな。<%br>首の後ろがヒリヒリするんだ……イヤな予感がする。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "40",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "すみません、割り込みます！<%br>リーダーも研究所に向かってください！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "41",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "スレイマンさんの研究所がソルーシュの襲撃を<%br>受けているとの報告がありました！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "42",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "証拠を潰しにきた？　それとも私たちの足止め？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "43",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "どっちでもいいってば！<%br>ソルーシュがいるなら、オレたちが行かなきゃ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "44",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……私も同行させてもらう。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "45",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ソルーシュの……いや、ヴィーナーの責任<%br>長として、取らねばならん！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "46",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ヴィーナーの誇りは……私が守る！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "レヴィ",
+		"tr_name": "",
+		"jp_text": "ね、ねえ。本当にアタシたち、こんな所に<%br>来てて大丈夫なの？　ダマされてない？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "フェル",
+		"tr_name": "",
+		"jp_text": "ダマす気があるなら、もっと前にダマしてるさ。<%br>今さらあの女がオレ達をダマす必要ないだろ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ダンテ",
+		"tr_name": "",
+		"jp_text": "どっちにせよ惑星リリーパにいたら危ないんだし。<%br>避難する必要はあったから一石二鳥だね。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ダンテ",
+		"tr_name": "",
+		"jp_text": "いやー、惑星リリーパから逃げようとしたところで<%br>登録IDのない高速艇が偶然落ちてて助かったねぇ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "レヴィ",
+		"tr_name": "",
+		"jp_text": "ソコよ！　つまり、あの女に乗せられてるんでしょ！<%br>それで惑星ウォパルくんだりまで来て！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "フェル",
+		"tr_name": "",
+		"jp_text": "仲良くしてくれてたリリーパ族との別れが<%br>寂しかったのか？　それとも海で遊びたかった？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "レヴィ",
+		"tr_name": "",
+		"jp_text": "ちがーう！　せっかく惑星ウォパルに来たのに<%br>海も見れないのは、腹立つけど！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "レヴィ",
+		"tr_name": "",
+		"jp_text": "ご丁寧に、この研究所まで、オートパイロットで<%br>連れてこられて、面倒押しつけられてるワケでしょ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ダンテ",
+		"tr_name": "",
+		"jp_text": "まぁまぁ、お互い「偶然」を利用しあってる仲なんだし。<%br>得意分野なら協力してあげてもいいんじゃないかなぁ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "フェル",
+		"tr_name": "",
+		"jp_text": "恩を売っておくと思えばいい。帰りのシップにも<%br>来た時と同じようなお菓子があるかもよ？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "レヴィ",
+		"tr_name": "",
+		"jp_text": "お菓子！？　だ、だったら仕方ないかなぁ……<%br>アークスも困ってるみたいだし、協力してあげても……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ダンテ",
+		"tr_name": "",
+		"jp_text": "そうそう。なんせ相手は、ボクらと同じだからねぇ。<%br>口が軽くなってくれるといいけど。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "フェル",
+		"tr_name": "",
+		"jp_text": "……着いたぞ。<%br>この扉の先だ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ダンテ",
+		"tr_name": "",
+		"jp_text": "やあ、どうもはじめまして。<%br>ボクはトランスエネミーのダンテ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "レヴィ",
+		"tr_name": "",
+		"jp_text": "アタシはレヴィ。こっちはフェル。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "フェル",
+		"tr_name": "",
+		"jp_text": "オレ達が来ることは知っているな？<%br>話を聞かせてもらいにきた。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "フェル",
+		"tr_name": "",
+		"jp_text": "ダークファルス……【若人】の<%br>遺伝子を持っている、アンタにな。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "アナティス",
+		"tr_name": "",
+		"jp_text": "……お待ちしておりました。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "デュナ",
+		"tr_name": "",
+		"jp_text": "……おかーさん。<%br>このヒトたち……だれ？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "アナティス",
+		"tr_name": "",
+		"jp_text": "デュナ、おかーさん、大事なお話があるの。<%br>向こうの部屋で遊んでてくれる？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "デュナ",
+		"tr_name": "",
+		"jp_text": "……ううん、いや。<%br>でゅな、いっしょにいる。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "アナティス",
+		"tr_name": "",
+		"jp_text": "でも……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ダンテ",
+		"tr_name": "",
+		"jp_text": "デュナちゃーん。こっちのお姉ちゃんとお兄ちゃんが<%br>一緒に遊んでくれるってさ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "レヴィ",
+		"tr_name": "",
+		"jp_text": "はぁ？　なんでアタシが……！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "デュナ",
+		"tr_name": "",
+		"jp_text": "……あそんで……くれる？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "レヴィ",
+		"tr_name": "",
+		"jp_text": "う……わ、わかったわよ。そんな目で見ないでよ。<%br>フェル、行くわよ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "フェル",
+		"tr_name": "",
+		"jp_text": "……はぁ。<%br>ダンテ、あとで覚えてろよ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "ダンテ",
+		"tr_name": "",
+		"jp_text": "いってらっしゃーい！<%br>たくさん、遊んでもらってくるんだよー。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "ダンテ",
+		"tr_name": "",
+		"jp_text": "……さて、と。<%br>それじゃ、早速だけど本題に入っていいかな？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "アナティス",
+		"tr_name": "",
+		"jp_text": "……はい。<%br>詳細は聞いていないのですが……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "ダンテ",
+		"tr_name": "",
+		"jp_text": "身構えなくてもいいよ。別に戦ってほしいわけでも<%br>表に立ってほしいわけでもない。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "ダンテ",
+		"tr_name": "",
+		"jp_text": "ボク達だって今回の件に関しては、善意じゃなくて<%br>成り行きと打算で協力してるだけだしねぇ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "アナティス",
+		"tr_name": "",
+		"jp_text": "さきほどの方たち……あなたの大切な仲間が<%br>笑顔でいられるように、ですね。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "33",
+		"jp_name": "ダンテ",
+		"tr_name": "",
+		"jp_text": "……さすがは精神感応能力。<%br>隠し事はできなさそうだ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "34",
+		"jp_name": "アナティス",
+		"tr_name": "",
+		"jp_text": "能力を使ったのではありません。<%br>彼女たちを見るあなたの瞳が、優しかったからです。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "35",
+		"jp_name": "ダンテ",
+		"tr_name": "",
+		"jp_text": "キミ達とはいいつきあいができそうだ。<%br>面と向かって言われると、さすがに照れるけどね。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "36",
+		"jp_name": "ダンテ",
+		"tr_name": "",
+		"jp_text": "ともあれ……心に影響を与える能力を持つ<%br>キミに聞きたいことがあるんだ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "37",
+		"jp_name": "ダンテ",
+		"tr_name": "",
+		"jp_text": "惑星カーネベデのダークファルスについて……<%br>なにかアドバイスみたいの思いつかない？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "……ひどい。<%br>市街地がこんなにもボロボロに……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "最初にダーカー兵器が出現した場所だ。<%br>一番戦闘が激しかった地点……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "そして……<%br>スレイマンの研究所は……この施設の地下にある。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "こんな市街地の中心部に研究所があるなんて……<%br>もっと、外れた場所かと思ったわ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "木を隠すには……ってね。それに……<%br>シップの外壁と市街地の間はけっこう迷路でさ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "整備区画に倉庫……なにかを隠すには<%br>もってこいの場所なんだよ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "この通路の先に行くと……と、おっと……<%br>そろそろスレイマンの研究所のようだな。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "りっ、リリーン！　この気配は……！？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "このダーカー因子……そうか。<%br>貴様も来ていたのか。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "……よお、遅かったな。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "瀕死の研究員",
+		"tr_name": "",
+		"jp_text": "う、うう……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "そのヒトは、ここの研究員じゃないの？\r<%br>放しなさい！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "あ？　ああ、そうだったな。\r<%br>こいつはもう用済みだ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ソルーシュさん！　そのヒトは生きているんです！\r<%br>物みたいに扱わないでください！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "まだ生きてるんだから文句を言うな。\r<%br>最初から協力的なら痛い目を見ずにすんだんだよ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "襲撃しておいて、協力もなにもないでしょ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "襲撃？　違うな。俺は不当に奪われていたものを\r<%br>回収しにきただけだよ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "イノセントブルーか。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "ま……それだけじゃないけどな。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "にしても、歌姫を退けたか。<%br>報告は聞いていたが、本当に無事とはよ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ソルーシュ……ヴィーナーはなぜ\r<%br>さらなる供給源……ダーカー炉を欲する。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "わかっているだろう？\r<%br>念のためだよ。予備を用意するのは当然だ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "シップを襲えばアークスとの抗争は激化する。\r<%br>それはヴィーナーとして愚策だ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "だから、解せないと言っているのだ。<%br>あのファルザードのやることとは思えん。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "……知りたければ、戻ってくればいい。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ああ、戻るとも。\r<%br>真なるヴィーナーの意志と共に。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "……やれやれ。\r<%br>フォトンってのは厄介だ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "そんなこと言ってないでさ！\r<%br>ソルーシュこそ、オレたちと一緒に来いよ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "なんか今のソルーシュ……<%br>見てて、すっげーツラそうなんだよ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "ツラそう……か。<%br>はは。そんな気持ち……忘れちまったよ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "瀕死の研究員",
+		"tr_name": "",
+		"jp_text": "ぐぼっ！？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ソルーシュッ！\r　なにやってんだよ！！<%br>やめろぉぉぉぉぉぉぉぉっ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "33",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "バカ、おチビ！　ひとりで突っ走るな！<%br>リーダー、モアを！！　俺は研究員を保護する！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "どうしてだよ、ソルーシュ！<%br>なんで、なんでそんな顔してるんだよ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "ああ？　そんな顔ってどんな顔だ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ムリに怒らなくたっていいだろ！<%br>本当はほかにやりたいことがあるんじゃないのか！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "無理にじゃねぇ……チビすけ、お前の目は節穴か！<%br>俺は本当に怒ってるんだ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "それは、アークスのやったことに対してですか？<%br>研究を……イノセントブルーを奪ったから……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "それはもう回収したから、どうでもいい。<%br>俺が来た……もうひとつの理由だ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "お前たちが悪いヤツじゃねぇってことぐらい<%br>分別はついている。だがな……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "……ヤツは悪だ。多くの命を犠牲にしてきた<%br>俺の目から見ても……悪と断ずる！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "仲間を裏切り……多くの犠牲を生み……それが<%br>わかっていながら自分だけ助かろうと亡命だ？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "そんなヤツ、許しておけるかよぉっ！！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "そんなヤツ、許しておけるかよぉっ！！",
+		"tr_text": "",
+		"jp_buttons": [
+			"亡命……？",
+			"ヤツって、まさか……！"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 7
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "……こっちの動きも感づかれてたってことか。<%br>まあ、これだけ騒いでりゃ当然だな。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "お前もわかってるんだろ？<%br>そんなヤツ……アイツしかいないってな。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……この気配！<%br>地下からダーカー兵器がくるぞ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "こ、こんな時にソルーシュの増援かよ！<%br>しょーがない、やるしか……あれ？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "……ふんっ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "リリーン！？　どうしてダーカー兵器が<%br>ソルーシュを襲ってるの！？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "くっ、はは……っ、模造品で俺を止める気か！<%br>なぁ、おい！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "？？？",
+		"tr_name": "",
+		"jp_text": "返してもらえますか？　イノセントブルーも<%br>ダーカー兵器も……ダークニクスも。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "だ、ダーカー兵器が喋った？<%br>この声は……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "も、もしかして……スレイマン！？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "全部……僕が開発したものなんです。<%br>僕がこの手で……開発したものなんですから！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "ソルーシュさん……<%br>それは強奪というのですよ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "イノセントブルーを持って行くならば……<%br>それに見合った対価を払ってください。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "亡命も認めない、ダークニクスや星骸布の<%br>研究資料も提供しない……許されると思いますか？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "スレイマン……<%br>貴方……このダーカー兵器を……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "リーダー……ブルーノくんたちも来ましたか。<%br>まぁ、想定の範囲内ですけどね。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "ヴィーナーは約束すら守らないのですね。<%br>まだ、ブルーノくんが生きてるじゃないですか。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "……見ろよ、これがアークスの狂った部分だ。<%br>いい見本じゃないか……なぁ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "狂った部分？　心外ですね。<%br>研究を進めるために必要なことをしたまでですよ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "この、僕が開発したダーカー兵器があれば……<%br>アークスはもう一段階、強くなることができる！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "僕のダーカー理論を認めさせれば……<%br>オラクルの……いや、その上だって目指せるはず！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "な、なに言ってんだコイツ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "わかりませんか？　わからないですよね！<%br>フォトンを扱えるみなさんにはわからない！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "フォトンをまったく扱えない僕が、六芒均衡の……<%br>いやそれ以上を目指すには……これしかなかった！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "ヒトの限りない欲望！<%br>そこから生まれるダーカーの力！　これが希望！！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "アークスの技術だけで、ここまでのダーカー兵器を<%br>作ったってのは、賞賛に値するよ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "……だがな！<%br>コピーがホンモノに勝てるかよぉっ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "研究とは、実験を繰り返して真理に到達すること！<%br>御託は僕のダーカー兵器を倒してから言えばいい！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "ま、またダーカー兵器が出てきたよ！？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "アークスと、ダーカー兵器とパチモンと！<%br>さあ、力比べといこうじゃないか！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "もー、キリがないって！\r<%br>なんだよ、このダーカー兵器！　多すぎだってば！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "悔しい話だが、これだけの戦力があれば\r<%br>アークスの中には価値を見出すヤツもいるだろうな。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "悔しい話だが、これだけの戦力があれば\r<%br>アークスの中には価値を見出すヤツもいるだろうな。",
+		"tr_text": "",
+		"jp_buttons": [
+			"ダーカー兵器よりも、スレイマンだ。",
+			"確かに、使いようによっては……"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 7
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "リーダーの言う通りよ！　今はダーカー兵器より<%br>スレイマンを優先すべきだわ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "リーダー、目的を忘れたか。<%br>私たちはなにをしにここに来たか、思い出せ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "ああ、いいことを教えてやるよ。<%br>スレイマンなら、この地下にいるぜ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "俺が出てきた通路以外、全部潰してきた。<%br>アークスの始末は……アークスでつけろ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ファルザード",
+		"tr_name": "",
+		"jp_text": "……遅くなり申し訳ございません。<%br>撤収ルートの用意が整いました。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "いいや、いいタイミングだぜ、執政官。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "で……大将、もう一度だけ聞く。<%br>あんたはどうするつもりだ？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "私はヴィーナーの長としてアフタルを救い出す。<%br>無論、エルジマルトもだ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "……なら、一緒に帰投するかい？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……答えは伝えたはずだ。<%br>私は真なるヴィーナーとして仇なす者と戦う。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "そうだったな。ならば次に会った時に教えてくれ。<%br>どっちが本物のヴィーナーたるかをな。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "思い出させてやるとも。<%br>お前たちが忘れてしまった、永遠に懸ける本懐を！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ソルーシュ！　もうやめろよ！！<%br>お願いだからさぁ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "チビすけ……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "ソルーシュ",
+		"tr_name": "",
+		"jp_text": "俺はもう止まらない。<%br>……止められないところまで来ちまったんだ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ソルーシュ！　待ってよ、ソルーシュ！！<%br>ソルーシュ……なんで、そんな顔するんだよ……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "モア、きっと……モアの気持ちは伝わってます。<%br>今は……だから……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "キミたちは、本当に愚かですね！<%br>どうして、ソルーシュを捕まえないのですか！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "アークスとして背信行為ですよ、それは！<%br>イノセントブルーの技術が盗まれてしまったでしょ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "スレイマン……貴方、どの口で言ってるの？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "いや、しかし……まだやりようはあるか。<%br>フォトンの代用についての理論……あれは無事なはず。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "ダークニクスの再現は……<%br>以前にアフタルさんに爆弾を処置した時のデータが……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "スレイマン！　いい加減にして！！<%br>貴方には反逆罪の容疑がかかっているのよ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "反逆？<%br>僕はアークスを裏切ったことなどありません！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "いや、裏切ってんじゃん！\r<%br>こんなにダーカー兵器作ってさ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "どうしてわからないのですか！<%br>兵器は所詮、兵器にすぎないんです！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "つまり、いいですか！　僕の行いはすべて<%br>アークスの未来を憂いたからこそなんです！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "僕の行為こそ、アークスの未来なのです！！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "ずっと考えていたんです。フォトンに頼りきった<%br>アークスという組織の未来を……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "その不安が確信となったのは、ダーカー因子の減少に<%br>アークスの人間が諸手を挙げてよろこんだことです。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "なにが不安なんだよ！　ダーカーが減ったら<%br>よろこぶのが当然じゃんか！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "本当にわかっていませんね。<%br>このまま、ダーカーが消滅したらどうなるんですか？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "ダーカーがいなくなればそれだけ平和になる。<%br>……なんて、単純な話じゃなさそうだな。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "でも……ダーカー因子がないと困っている<%br>エルジマルトのヒトたちのことでもないですよね？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "平和のことも……エルジマルトのことも<%br>どうでもいいことです。本当に些末な問題だから。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "問題は常に本質にあるのです。<%br>アークス……その存在意義こそが問題なのです。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "存在意義……そういうことか。<%br>お前が恐れているのは……アークスの解体……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "その通りです。ダーカーがいない世界で<%br>アークスはどうなるのか？　考えたことはありますか？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "エネミー退治など任務はあります……が、その程度。<%br>必要とされる機会は減っていくはずです。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "で、でも……アークスの任務は<%br>惑星の調査も……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "そうですね。惑星の調査も任務のひとつですが……<%br>長いアークスの歴史で、見つけた惑星の数は？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "そもそも惑星の調査なら<%br>アークスでなくとも、現有兵器で対処可能です。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "フォトンを扱えるアークスは……<%br>ダーカーという存在があってこそ、有用なのです。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "なるほどね……フォトンを扱えず<%br>アークスになれなかったお前の考えはそれか。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "ヒトが星から出ることができなかった<%br>過去の歴史において……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "外敵のいなくなった軍事力は<%br>解体されるか……内部を統制するための力となるか。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "そうなった時、人々は感謝の気持ちを忘れます。<%br>かつて救ってくれた英雄を……むしろ疎むようにさえ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "ダーカーという外敵がいなければ<%br>アークスは存在できないのです。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "そんなこと……僕には耐えられない。<%br>アークスは、常に憧れの存在でなければならない！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "わ、ワケわかんないんだけど！？<%br>その言い方だと、オマエ、アークスのこと大好きじゃん！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "事実、その通りなのだろう。<%br>その言動、愛するあまり血迷ったと見える。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "リリーン！　もしかしてファルザードと手を組んで<%br>ダーカーを増やそうとしてるとか！？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "下策中の下策ですね。マッチポンプなどしては<%br>アークスの価値が下がってしまうではありませんか！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "アークスは……常に輝いた存在であるべきなのです。<%br>そして、僕は……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "アークスは……常に輝いた存在であるべきなのです。<%br>そして、僕は……",
+		"tr_text": "",
+		"jp_buttons": [
+			"アークスを手に入れる……つもりか？",
+			"アークスになりたい……ということか？"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 7
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "それもいい……ですが、違います。<%br>輝かしいアークス……それだけでいい。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "アークスが、ぜひ地位を与えたいというのなら<%br>受けないこともありませんがね。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "本当にそう思ってるのですか？　だとしたら<%br>あなたは一生使われるだけの英雄ですよ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "僕が目指しているのは、新しい力。<%br>新しいアークスの姿！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "ダーカー因子の研究が進めば<%br>フォトンを扱える者と扱えない者……その壁が失われる。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "そうなれば、すべての者がアークスであり<%br>すべての者がアークスでなくなります。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "33",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "僕は、その新秩序の世界で……新しいアークスの<%br>王となりたいのです！　すべてに君臨する王に！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "34",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "そ、そんなムチャクチャな……！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "35",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "結局はコンプレックスが原因？<%br>今の総司令はフォトンの才能が無い方よ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "36",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "そんなの政治的アピールでしょう？　結局……<%br>支配しているのはフォトンを扱えるアークスです。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "37",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "目指すのは……王か。<%br>今の世界を壊し……新世界の王を目指すか。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "38",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "その器が貴様にあるのか？<%br>すべての命を背負う……覚悟があるのか！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "39",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "貴様には、問い質したいことが山ほどある。<%br>この私が見定めてやろう。王たる器があるかどうか！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "40",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "ホルシードさん……あなたを倒せば、箔がつく！<%br>僕のダーカー兵器が本物以上だと！！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……これで終わりか。他愛ない。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "フンッ！　これで勝ったと思わないでもらいたい！<%br>それは小手調べ！　本命はまだあります！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "なら、首を洗って待ってろよ！<%br>こんなハリボテ、オレたちがぶっ壊してやる！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "期待していますよ。アナタたちが戦えば戦うほど<%br>次につながるデータが取れるのですから。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "……正しい状況判断ができているとは思えないわね。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "でも……本当に悪いヒトだとも思えないんです。<%br>アークスが好きだから……それで……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "うん……そうだね。もしかしたら……<%br>惑星カーネベデでダークファルスの影響を受けて……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "それもあるかもしれないな……<%br>研究バカだったけど、ここまで狂ってはいなかった。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "もともと自分の欲望に忠実だった男だ。<%br>アイツの中の正義……それが暴走したのかもな。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "わずかな可能性に賭けるのであれば……<%br>ヤツの成そうとすることを徹底的に壊すしかない。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "すべての可能性を壊して<%br>ただひとつの現実を見せつけるしかないのだ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "んじゃあ、スレイマンをボコボコにして<%br>反省させてやろうぜー！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "ハハハハハハハハっ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "どうしてこうなった……<%br>僕はうまく立ち回っていたはずなのに……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "全部、あの御仁のせいだ。<%br>僕を裏切って、約束を反故にして……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "今さらイノセントブルーの技術を奪ったところで<%br>エルジマルトが上手く扱えるはずがない。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "せいぜい遊んでいるがいい……<%br>僕の理論は、すでにもう一歩先に進んでいる。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "僕はコーエン博士の直弟子だ。<%br>ダーカーの研究では、誰にも負けはしない。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "E.M.A.の研究も、情報部の力を使って<%br>ほとんどすべて引き上げた。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "ザッカード……ぽっと出の研究者のくせに<%br>E.M.A.の主任研究員になるなんて……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "まぁ、イノセントブルーを実用レベルまで<%br>研究開発したのは、認めてあげますがね。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "コーエン博士の発想力と探究心……<%br>ザッカード……E.M.A.研究所の開発力……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "そして、この僕の尽きることなき才能……<%br>この３つが合わされば……歴史が変えられる。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "そう……今こそが<%br>歴史の始まる日……この僕が王となる日だ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "クーナ",
+		"tr_name": "",
+		"jp_text": "……そうですか。<%br>スレイマンは、そのようなことを。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "クーナ",
+		"tr_name": "",
+		"jp_text": "ダークニクス関連の技術……実用化したならば<%br>高い評価を得られたとしても不思議ではありません。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "アークス内での地位を高めるには<%br>十分すぎる手土産になっていたかもしれないのね。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "クーナ",
+		"tr_name": "",
+		"jp_text": "彼の過去の論文にも、ダーカー研究の延長として<%br>ダーカー因子の利用に関するものが多数ありました。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "クーナ",
+		"tr_name": "",
+		"jp_text": "実直さと視野の広さが評価されていましたが<%br>まさか、このようなことまでしていたとは。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……ファルザードと接触したためかもしれないな。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ファルザードさんに<%br>そそのかされた……ということです？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "嫉妬……いや、憧れ。それに……<%br>ダークファルスの影響を受けた可能性も高い。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "クーナ",
+		"tr_name": "",
+		"jp_text": "惑星カーネベデの……ですか？<%br>ですが、あの時はまだ……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……闇は伝染するのだ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "長くダークファルスの近くにいたことにより<%br>我らは影響を受けてきている。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "無意識の内に恐怖を飼い、心への侵入を許していた。<%br>ソルーシュの変貌が、わかりやすい例だ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "衝動を抑えられなくなる。恐怖から逃がれようと<%br>冷静な判断ができなくなっていく……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "私がそのことを自覚できたのは<%br>ジェネと行動を共にしていたからかもしれない。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "わたし……ですか？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "あぁ、そうだ。お前は感情が豊かだった……<%br>恐れる時は恐れ……笑う時は笑う。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "そんな当たり前のことができていなかったと……<%br>私はお前を見て、考えていたのだ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "闇の伝染……<%br>リーダーたちはフォトンに守られていたけど……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "スレイマンは直接、ダークファルスの闇に<%br>さらされていたんだ……しかたないかもしれないよ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "そうか……さっきファルス・アームが出てきた時<%br>街のヒトがおかしくなっていたが……原因は同じか。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "治る……ものなんでしょうか？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "心の問題だ。ファルス・アームの影響ならば<%br>元凶を倒した今、じきに回復するだろう。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "だったらスレイマンも……<%br>正気を取り戻す可能性があるってこと？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "あの男の場合……問題に根深いものがある。<%br>自ら意志を強く持ち、打ち勝つしかない。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "あの男の場合……問題に根深いものがある。<%br>自ら意志を強く持ち、打ち勝つしかない。",
+		"tr_text": "",
+		"jp_buttons": [
+			"スレイマンも大切な仲間だ。",
+			"あきらめるしかないかも……"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 7
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "そうですね！　リーダーが、みんながいれば<%br>スレイマンさんもわかってくれるはずです！！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "まぁ、気持ちはわからないでもないけど……<%br>あいつだって、ダーカーバスターズの仲間だ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "そうだよ！　アイツだって仲間だもんな！<%br>まちがった時は、ぶん殴って反省させてやるんだ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "クーナ",
+		"tr_name": "",
+		"jp_text": "やはり、あなたがたに頼んでよかったです。<%br>スレイマンのこと……よろしくお願いします。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "おう！　まかせとけってば！<%br>オレたちがアイツの性根、叩き直してやるぜ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "セラフィ",
+		"tr_name": "",
+		"jp_text": "みなさん、ダーカー兵器の反応多数出現しました！<%br>その通路の先で……待ち構えています！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ゴールは近そうだな！　一気に片づけて<%br>スレイマンをぶん殴ってやろうぜ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "スレイマン！<%br>もう逃げられないからな！！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "元から逃げてなどいませんよ。さすがはリーダー。<%br>アークスを代表する守護輝士。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "どうでしたか？　僕が開発したダーカー兵器は？<%br>エルジマルトのものより凶暴でしたでしょう？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "どうして……どうしてあんなものを<%br>作ったんですか？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "あぁ……あまり考えていませんでしたね。<%br>たぶん僕にも作れるだろう……そう考えただけです。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "そ、そんな理由なのかよ……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "まぁ、僕が本当に作りたいものから考えたら<%br>ダーカー兵器は中間成果物……ですけどね。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "本当に作りたいもの……？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "いずれお見せしますよ。<%br>研究というのは、発表する場があってこそです。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "アークスとは違う……いえ、フォトンを扱えぬ者が<%br>アークスを超える英雄になれる実験の成果を。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "ダークニクス……その発想が<%br>僕の研究を完成へと導いたのです。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "それで……<%br>ファルザードの甘言に乗ったっていうの？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "ダークニクスやダーカー兵器の存在を知った時<%br>その名に反し光り輝く希望に見えましたよ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "フォトンを扱えぬ者が<%br>アークスと対等に戦っている……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "ですが、甘言に乗ったわけではない。<%br>これは……正当な取引のはずだったのです。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "最初は……あの御仁から<%br>ファルザードさんから接触してきました。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "あなたたちが惑星ハルコタンに行った時です。<%br>どうして、僕の存在を知ったか……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "今から考えれば、ナスリーンが<%br>ファルザードさんに情報を渡していたのでしょうね。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "それで、僕はファルザードさんから<%br>ダークニクスの技術供与を受ける見返りとして……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "互いの利益となるだろうと考え<%br>ヴィーナーに協力することを決めたのです。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "そういうこと……だから、あの時<%br>ホルシードたちとの共闘を提案してきたのね。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "はい、そうです。あのまま敵対を続けていたら<%br>星骸布は失われていたかもしれません。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "それは……互いにとって、愚かな結果です。<%br>研究者として……認められない結末。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "なるほどな……<%br>でも、ファルザードも食えない男だ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "取引なんかして、お前にメリットはあったのか？<%br>腹に一物抱えた者同士、進展はなかっただろ？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "そんなこと織り込み済みですよ。それでもいい。<%br>取引とはそういうものですから。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "僕がダークニクスを再現できるまで……<%br>せめてその時まで、協力関係が続けばよかった。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "だが……その計画が壊れたんだな。<%br>アフタルがザヴァンラカーナに行ったことで……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "アフタルさんがザヴァンラカーナに行ったことは<%br>僕にとって……まったくの予想外でした。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "あの一件がなければ……<%br>今頃、僕は救世の英雄として……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "……それはないだろう。<%br>お前とファルザードとじゃ、役者が違う。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "惑星リリーパでの会談だって<%br>ファルザードの計略の一環だったんだろうよ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "そうですね。今に思えばファルザードさんに<%br>一杯食わされたってことなんでしょうね。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "アフタルさんがザヴァンラカーナに<%br>行こうが行くまいが……あの会談は破局していた。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "ファルザードさんの目的は……<%br>星骸布でも……イノセントブルーでもなかった。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "ナスリーンがスパイだと知った時<%br>驚きと同時に腑に落ちる面もありました。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "わからないわ。アークスと敵対して<%br>エルジマルトに、なんのメリットがあるの？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "アークスに対する敵対感情を高め<%br>ヴィーナーの意志をより強固にするため……だ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "我らはあの一件により<%br>アークスと協調する未来を切り捨てた。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "リーン！？　引き返せない状況にして<%br>ファルザードはアフタルを……！？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "交渉を打ち切った時に、ヤツは決めてたのか。<%br>イノセントブルーを捨てる選択を。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "違いますよ……ファルザードさんは<%br>それほど理想家ではありません。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "僕は……<%br>あの御仁ほどの現実主義者を見たことがない。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "あの御仁は……E.M.A.第二研究所が爆破され<%br>エルジマルトの研究員が殺害された時から……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "アークスと協力するなんて夢物語は<%br>見ていなかったんです。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "彼は……エルジマルトのヒトたちを生き残らせる<%br>そのためだけに戦い続けてきたヒトです。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "犠牲を強いられてきた生き方の中で……<%br>無意味に、他者に命を奪われた……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "許せなかったのでしょう……<%br>己の甘さを……アークスの非道な行為を……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "ですが……あの時の僕は<%br>そこまで彼の考えを理解していなかった。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "だから……惑星カーネベデで<%br>ファルザードさんと再会した時……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "今度は、アークスの一員としてではなく<%br>いち研究者として、取引を持ちかけたんです。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "やはり……ダークファルスの気にあてられて<%br>恐怖と欲望を暴走させていたか……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "アークスを永遠とするために……<%br>そして、この僕がアークスの王となるために！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "25",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "ダーカーの力を利用し<%br>半永久的にエネルギーを抽出する……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "26",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "この宇宙からフォトンが尽きようとも……<%br>ダーカーが失われようとも……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "27",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "ヒトに恐怖と欲望がある限り、この技術があれば<%br>ダーカー因子は無限に生み出すことができる。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "28",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "僕は間違っていない！<%br>すべてはアークスに永遠をもたらすためです。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "29",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "僕は間違っていない！<%br>すべてはアークスに永遠をもたらすためです。",
+		"tr_text": "",
+		"jp_buttons": [
+			"いいや、間違っている！",
+			"正しいと思うなら、どうして隠れている！"
+		],
+		"tr_buttons": [
+			"",
+			""
+		],
+		"fileID": 7
+	},
+	{
+		"eventNo": "30",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "いいや、間違ってはいない！<%br>間違っているのは……キミたちのほうだ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "31",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "ほざくな、下郎！！　貴様は忠誠心を盾に<%br>使命感を正義に置き換えているだけだ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "32",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "隠れている？　誰が？　僕がですか？<%br>どうして隠れる必要があります？　僕が正しいのに。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "33",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "隠れているだろうが！<%br>貴様自身の忠誠心という、欺瞞の盾の陰に！！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "34",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "騙されるな、リーダー。<%br>その男が掲げる正義に大義はない。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "35",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "大義なき力に……<%br>誰が付き従うと思っているのだ！！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "36",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "お前は王になどなれぬ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "37",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "王とはなるものではない！<%br>付き従う民たちに……認めてもらうものなのだ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "38",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "くっ……ちがう！　ちがう、ちがう、ちがう！！<%br>キサマたちを倒し……僕はアークスの王になる！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "39",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……気づいているぞ。<%br>貴様の背後に兵器があることぐらいな！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "40",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "うわあぁっ！？　だ、ダーカー兵器がまた！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "41",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "倒せなくてもいい！　時間さえ稼げれば！<%br>その間に、僕は研究成果の最終調整をする！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "42",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "まだなにかやらかすつもりか！<%br>くそ、さっさとダーカー兵器を片づけるぞ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "0",
+		"jp_name": "モア",
+		"tr_name": "",
+		"jp_text": "ぜえ、ぜえ……これで終わりかよ！<%br>お前のダーカー兵器は全部倒したぞ、ザマーミロ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "1",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "僕だって、本当はリーダーたちを襲わせるために<%br>ダーカー兵器を使いたくなんてなかった。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "2",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "この技術だって、アークスの敵と戦うため……<%br>リーダーたちと一緒に戦うために使いたかったんだ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "3",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "……そうだな。<%br>あるいは、貴様の言葉に嘘はないのかもしれん。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "4",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "……どういう意味ですか？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "5",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "貴様は努力をしたのだろう。<%br>他人の何倍も……何倍も……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "6",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "啓蒙も、根回しも、研究も……<%br>決して怠ることはなかったのだろう。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "7",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "…………",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "8",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "だが、あきらめた。安易な道を選び取った。<%br>本心を隠し……正義を理由に言い訳を作ったのだ。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "9",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "あ……あなたに、なにがわかると言うんですか！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "10",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "わかるさ……わかる。<%br>私も貴様と同じく、目的と手段を混同していたからな。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "11",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "エルジマルトの未来を手に入れると言いつつ……<%br>アフタルを歌姫から解放することだけを考えていた。",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "12",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "大義を口にしつつ……<%br>己のことしか考えていなかった……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "13",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "その弱い心を……ファルザードに突かれた。<%br>私の……歪な使命感を！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "14",
+		"jp_name": "ジェネ",
+		"tr_name": "",
+		"jp_text": "ホルシードさん……",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "15",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "アークスのためと言いつつ<%br>結局は己が王になりたいがための言い訳にすぎん！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "16",
+		"jp_name": "ホルシード",
+		"tr_name": "",
+		"jp_text": "潔く認め、省みろ！<%br>大義を盾に、己の欲望に目がくらんだと！！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "17",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "ぼ、僕は……あなたと同じなんかじゃないっ！<%br>僕は、僕はっ！　……勝者になるんだっ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "18",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "19",
+		"jp_name": "",
+		"tr_name": "",
+		"jp_text": "",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "20",
+		"jp_name": "リーン",
+		"tr_name": "",
+		"jp_text": "り、リリリーン！？<%br>な、なにあれ！？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "21",
+		"jp_name": "アネット",
+		"tr_name": "",
+		"jp_text": "あ、あれって、A.I.S……！？",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "22",
+		"jp_name": "ブルーノ",
+		"tr_name": "",
+		"jp_text": "……普通のモノとは違うみたいだな。<%br>ずいぶんとチューニングされてるようだ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "23",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "見てください！　これぞ、アークスと<%br>エルジマルトの技術による奇跡のマリアージュ！",
+		"tr_text": "",
+		"fileID": 7
+	},
+	{
+		"eventNo": "24",
+		"jp_name": "スレイマン",
+		"tr_name": "",
+		"jp_text": "誰にも等しく平等に与えられる<%br>新たな世代の剣となるのです！",
+		"tr_text": "",
+		"fileID": 7
 	}
 ]

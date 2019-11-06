@@ -5795,11 +5795,6 @@
 		"tr_text": "<color=red>　0</color>"
 	},
 	{
-		"assign": "quest_counter_onetime_cant_played",
-		"jp_text": "このクエストはプレイできません",
-		"tr_text": "You cannot play this quest."
-	},
-	{
 		"assign": "quest_counter_cant_played_oneday_once_t",
 		"jp_text": "クリア済みクエスト",
 		"tr_text": "Quest Cleared"
@@ -5826,8 +5821,8 @@
 	},
 	{
 		"assign": "quest_counter_cant_played_week_once_b",
-		"jp_text": "このクエストは特定の曜日に1回クリアすることができる\nクエストです。\n本日はすでにクエストクリアとなっています。",
-		"tr_text": "This quest can only be cleared once per day,\nand only on a specific day of the week.\nYou have already cleared this quest today."
+		"jp_text": "このクエストは特定の曜日に1回クリアすることができる\r\nクエストです。\r\n本日はすでにクエストクリアとなっています。",
+		"tr_text": ""
 	},
 	{
 		"assign": "quest_counter_raid_term",
@@ -6011,8 +6006,8 @@
 	},
 	{
 		"assign": "quest_counter_raid_sp_z_dialog_01_b",
-		"jp_text": "「覇級トリガー」を消費して、覇級を解除します。\nトリガーは複数使用することで\n強いエネミーと戦うことができます。\n\n※覇級トリガーはクエスト出発時に消費されます。\n\n<color=#ffff00>所持数：{0}個</color>\n\n何個使用しますか？",
-		"tr_text": "This will use an \"Extra Hard Trigger\".\nBy using multiple triggers, you\ncan fight a stronger enemy.\n\n※Triggers will be used when starting the quest.\n\n<color=#ffff00>Owned Triggers：{0}</color>\nHow many triggers do you want to use?"
+		"jp_text": "「覇級トリガー」を消費して、覇級を解除します。\n消費するトリガーの数を設定してください。\n\nトリガーの消費数に応じて、ＯＰ消費も増えますが\nより強力なエネミーと戦うことができます。\n（ 1～4個 <color=orange>ＯＰ：1</color> / 5～7個 <color=orange>ＯＰ：2</color> / 8～10個 <color=orange>ＯＰ：3</color> ）\n※覇級トリガーとＯＰはクエスト出発時に消費されます。\n\n<color=#ffff00>所持数：{0}個</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "window_help_LM41",
@@ -6976,8 +6971,8 @@
 	},
 	{
 		"assign": "quest_result_good_job1",
-		"jp_text": "同行特典としてお互いにFUNを獲得！",
-		"tr_text": "<%name> sent you a Good Job!"
+		"jp_text": "同行特典としてFUNを獲得！",
+		"tr_text": ""
 	},
 	{
 		"assign": "quest_result_good_job2",
@@ -7183,6 +7178,21 @@
 		"assign": "questresult_dps_title",
 		"jp_text": "ダメージ記録",
 		"tr_text": "Damage Record"
+	},
+	{
+		"assign": "questresult_rematch_button_title",
+		"jp_text": "再戦する　<%consumer_drive>/<%current_drive>",
+		"tr_text": ""
+	},
+	{
+		"assign": "questresult_rematch_next_button_title",
+		"jp_text": "クエスト選択へ",
+		"tr_text": ""
+	},
+	{
+		"assign": "questresult_skip_button_title",
+		"jp_text": "全てスキップ",
+		"tr_text": ""
 	},
 	{
 		"assign": "battleresult_title",
@@ -15305,6 +15315,21 @@
 		"tr_text": "Grants a set chance to resist a\ngiven abnormal status effect.\nEquipping more than one will\nincrease the resistance chance."
 	},
 	{
+		"assign": "ItemDetail_dialog_t_06",
+		"jp_text": "「初撃限定装甲」とは",
+		"tr_text": ""
+	},
+	{
+		"assign": "ItemDetail_dialog_b_06",
+		"jp_text": "バトル中、最初に受けるダメージを\n一定割合軽減します。\n「初撃限定装甲」を複数装備している場合は\n効果値が高いものから順次\nダメージを受けるたびに発動します。\nこの効果の発動回数は\nバトルが終わるとリセットされます。",
+		"tr_text": ""
+	},
+	{
+		"assign": "ItemDetail_option_06",
+		"jp_text": "％軽減",
+		"tr_text": ""
+	},
+	{
 		"assign": "RaidEvent_tab_00",
 		"jp_text": "進行状況",
 		"tr_text": "Progress"
@@ -17630,6 +17655,11 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "lookback_season3_chapter_7",
+		"jp_text": "７章　　繋ぎ止める意志",
+		"tr_text": ""
+	},
+	{
 		"assign": "lookback_maintitle_6",
 		"jp_text": "クラン オブ ネメシス＆スレイヴ",
 		"tr_text": "Clan of Nemesis & Slave"
@@ -17652,6 +17682,11 @@
 	{
 		"assign": "lookback_series2_chapter_3",
 		"jp_text": "第３章　悲劇は連環し争いは続く",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_series2_chapter_4",
+		"jp_text": "最終章　嵐は去り悲劇は終幕する",
 		"tr_text": ""
 	},
 	{
@@ -21791,13 +21826,18 @@
 	},
 	{
 		"assign": "raiddps_guid_top",
-		"jp_text": "<color=yellow>緊急イベントの進行状況画面です。「遊び方」バナーから詳しい遊び方を確認できます。</color>",
-		"tr_text": "<color=yellow>This is the Emergency Quest progress screen. Select \"How to Play\" to find out how to participate.</color>"
+		"jp_text": "<color=yellow>緊急チャレンジの進行状況画面です。「遊び方」バナーから詳しい遊び方を確認できます。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "raiddps_guid_ranking",
-		"jp_text": "<color=yellow>緊急イベントの進行状況画面です。「遊び方」バナーから詳しい遊び方を確認できます。</color>",
-		"tr_text": "<color=yellow>This is the Emergency Quest progress screen. Select \"How to Play\" to find out how to participate.</color>"
+		"jp_text": "<color=yellow>緊急チャレンジの順位です。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "raiddps_guid_achievement",
+		"jp_text": "<color=yellow>緊急チャレンジの達成報酬です。入手条件を満たすと、報酬を受け取ることができます。</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "raiddps_banner_how_to_play",
@@ -21813,6 +21853,11 @@
 		"assign": "raid_dps_ranking_button",
 		"jp_text": "ランキング",
 		"tr_text": "Ranking"
+	},
+	{
+		"assign": "raid_dps_achievement_button",
+		"jp_text": "達成報酬",
+		"tr_text": ""
 	},
 	{
 		"assign": "raid_dps_my_best",
@@ -21880,8 +21925,18 @@
 		"tr_text": "Previous Event"
 	},
 	{
+		"assign": "raid_dps_title_achievement_top",
+		"jp_text": "報酬一覧",
+		"tr_text": ""
+	},
+	{
+		"assign": "DPSEvent_Achievement_Text_0-2-23",
+		"jp_text": "自己ベスト{1}達成 \n[{0} / {1}]",
+		"tr_text": ""
+	},
+	{
 		"assign": "window_help_LM34",
-		"jp_text": "wh_48_01,\n特殊緊急イベント！「1分間トータルダメージ」開催！,\nwh_48_01,\nこのイベントは、通常の緊急イベントと異なり\n「緊急クエストで1分間のうちに与えた総ダメージ数」を\n他のプレイヤーとランキング形式で競うイベントです。,\nwh_48_01,\n緊急クエストのプレイには、オペレーションポイント（ＯＰ）を\n1ポイント消費します。\n初回のみ、ＯＰを消費せずに挑戦することができます。,\nwh_48_02,\nこのイベントで登場するエネミーには、ＨＰがありません。\n画面左上にはＨＰゲージの代わりに、与えたダメージの合計値が表示されます。\n1分間の制限時間内で、エネミーにより多くのダメージ与えてください。,\nwh_48_03,\n1分間に与えたダメージの自己ベストが、イベントランキングに登録されます。\nイベント終了時の順位に応じて、報酬を獲得することができますので\n上位へのランクインを目指しましょう！,",
+		"jp_text": "wh_48_01,\n「緊急チャレンジ」は、「1分間のうちに与えた総ダメージ数」を\n他のプレイヤーとランキング形式で競います。,\nwh_48_01,\n緊急チャレンジのプレイには、オペレーションポイント（ＯＰ）を\n1ポイント消費します。\n初回のみ、ＯＰを消費せずに挑戦することができます。,\nwh_48_02,\nこのイベントで登場するエネミーには、ＨＰがありません。\n画面左上にはＨＰゲージの代わりに、与えたダメージの合計値が表示されます。\n1分間の制限時間内で、エネミーにより多くのダメージ与えてください。,\nwh_48_03,\n1分間に与えたダメージの自己ベストが、イベントランキングに登録されます。\nイベント終了時の順位に応じて、報酬を獲得することができますので\n上位へのランクインを目指しましょう！,",
 		"tr_text": ""
 	},
 	{
@@ -21996,8 +22051,8 @@
 	},
 	{
 		"assign": "chip_awake_selectbutton_chiplv",
-		"jp_text": "最大チップLv：",
-		"tr_text": "Max. Chip Level: "
+		"jp_text": "最大チップLv.",
+		"tr_text": "Max. Chip Level"
 	},
 	{
 		"assign": "chip_awake_selectbutton_skill",
@@ -22152,7 +22207,7 @@
 	{
 		"assign": "chip_awake_dialog_b_decide_b_chiplv",
 		"jp_text": "最大チップLv.",
-		"tr_text": "Max. Chip Level"
+		"tr_text": "Max Chip Lv."
 	},
 	{
 		"assign": "chip_awake_dialog_b_decide_b_skilllv",
@@ -22222,7 +22277,7 @@
 	{
 		"assign": "chip_awake_dialog_b_done_chiplv",
 		"jp_text": "最大チップLv.",
-		"tr_text": "Max Chip Lv."
+		"tr_text": ""
 	},
 	{
 		"assign": "chip_awake_dialog_b_done_skilllv",
@@ -22323,5 +22378,60 @@
 		"assign": "window_policy_dissent_button",
 		"jp_text": "キャンセル",
 		"tr_text": "Cancel"
+	},
+	{
+		"assign": "chip_awake_dialog_t_shortage_chiprelease",
+		"jp_text": "チップ特装",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_b_shortage_chiprelease",
+		"jp_text": "特装対象のチップは\nチップ解放されていないため\nチップ特装をすることができません。",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_rematch_login_bonus_dialog_t",
+		"jp_text": "データ更新",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_rematch_login_bonus_dialog_b",
+		"jp_text": "データ更新がありましたので\nロビートップへ戻ります。",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_rematch_pop_info_dialog_t",
+		"jp_text": "データ更新",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_rematch_pop_info_dialog_b",
+		"jp_text": "データ更新がありましたので\nロビートップへ戻ります。",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_rematch_end_time_t",
+		"jp_text": "データ更新",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_rematch_end_time_b",
+		"jp_text": "クエストの開催期間が終了しました。\nロビートップへ戻ります。",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_rematch_accept_box_max_num_t",
+		"jp_text": "受け取りボックスオーバー",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_rematch_accept_box_max_num_b",
+		"jp_text": "受け取りボックスの\n受信数をオーバーしているため再戦できません。\nロビートップへ戻ります。",
+		"tr_text": ""
+	},
+	{
+		"assign": "window_help_LM42",
+		"jp_text": "wh_55_01,\nチップには「属性変換」で、属性を変えられるものがあります。,\nwh_55_01,\n属性変換には指定の素材チップとメセタが必要です。\nメニューの「チップ解放」から、「属性変換」を行うことができます。\n※属性変換が可能な状態のチップは、「チップ解放」はできません。,",
+		"tr_text": ""
 	}
 ]
