@@ -2720,14 +2720,14 @@
 		"jp_explainShort": "全体に大ダメージ＋確率で「ポイズン」",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 自身のＨＰが減っているほど\n　　 攻撃力を超絶に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by up to 190%, inversely\n     proportional to your current HP.\n<color=yellow>SP: </color>Boosts damage by up to 200%, inversely\n     proportional to your current HP.\n     <color=yellow>[O-Frame]</color>"
+		"tr_explainLong": "①  Boosts damage by up to 190%, inversely\n     proportional to your current HP.\n<color=yellow>SP: </color>Boosts damage by up to 200%, inversely\n     proportional to your current HP.\n     <color=yellow>[O-Frame]</color>\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "32089",
 		"jp_explainShort": "防御力を減少させ攻撃力を大強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 自身のＨＰが減っているほど\n　　 攻撃力を超絶に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by up to 210%, inversely\n     proportional to your current HP.\n<color=yellow>SP: </color>Boosts damage by up to 220%, inversely\n     proportional to your current HP.\n     <color=yellow>[O-Frame]</color>"
+		"tr_explainLong": "①  Boosts damage by up to 210%, inversely\n     proportional to your current HP.\n<color=yellow>SP: </color>Boosts damage by up to 220%, inversely\n     proportional to your current HP.\n     <color=yellow>[O-Frame]</color>\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "32090",
@@ -2776,21 +2776,21 @@
 		"jp_explainShort": "炎属性を大強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "① アビリティレベルに応じて追加で超絶ダメージを与える。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間\n\n■特殊用途\nチップ解放（属性変換）を行うことで闇属性になる。",
-		"tr_explainLong": "①  Deals an additional 175% damage + 10% x this\n     chip's ability level.\n<color=yellow>SP: </color>Deals an additional 185% damage + 10% x this\n     chip's ability level.\n②  Reduces CP consumption by 30%.\n[Activation Trigger] Landing an attack\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Deals an additional 175% damage + 10% x this\n     chip's ability level.\n<color=yellow>SP: </color>Deals an additional 185% damage + 10% x this\n     chip's ability level.\n②  Reduces CP consumption by 30%.\n[Activation Trigger] Landing an attack\n[Effect Duration] 70 seconds\n\n■Special Note\nBecomes Dark Element after Chip Release\n(Element Conversion)."
 	},
 	{
 		"assign": "32119",
 		"jp_explainShort": "敵を空中に斬り上げる大剣用の必殺技",
 		"tr_explainShort": "",
 		"jp_explainLong": "① アビリティレベルに応じて追加で超絶ダメージを与える。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間\n\n■特殊用途\nチップ解放（属性変換）を行うことで光属性になる。",
-		"tr_explainLong": "①  Deals an additional 175% damage + 10% x this\n     chip's ability level.\n<color=yellow>SP: </color>Deals an additional 185% damage + 10% x this\n     chip's ability level.\n②  Reduces CP consumption by 30%.\n[Activation Trigger] Landing an attack\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Deals an additional 175% damage + 10% x this\n     chip's ability level.\n<color=yellow>SP: </color>Deals an additional 185% damage + 10% x this\n     chip's ability level.\n②  Reduces CP consumption by 30%.\n[Activation Trigger] Landing an attack\n[Effect Duration] 70 seconds\n\n■Special Note\nBecomes Light Element after Chip Release\n(Element Conversion)."
 	},
 	{
 		"assign": "32120",
 		"jp_explainShort": "敵を空中に斬り上げる大剣用の必殺技",
 		"tr_explainShort": "",
 		"jp_explainLong": "① アビリティレベルに応じて追加で超絶ダメージを与える。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間\n\n■特殊用途\nチップ解放（属性変換）を行うことで風属性になる。",
-		"tr_explainLong": "①  Deals an additional 175% damage + 10% x this\n     chip's ability level.\n<color=yellow>SP: </color>Deals an additional 185% damage + 10% x this\n     chip's ability level.\n②  Reduces CP consumption by 30%.\n[Activation Trigger] Landing an attack\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Deals an additional 175% damage + 10% x this\n     chip's ability level.\n<color=yellow>SP: </color>Deals an additional 185% damage + 10% x this\n     chip's ability level.\n②  Reduces CP consumption by 30%.\n[Activation Trigger] Landing an attack\n[Effect Duration] 70 seconds\n\n■Special Note\nBecomes Wind Element after Chip Release\n(Element Conversion)."
 	},
 	{
 		"assign": "32128",
