@@ -186,7 +186,10 @@ cv_names = {
     "黒沢 ともよ": "Tomoyo Kurosawa", "堀川 りょう": "Ryo Horikawa",
     "高橋 李依": "Rie Takahashi", "安済 知佳": "Chika Anzai",
     "金田 アキ": "Aki Kanada", "田辺 留依": "Rui Tanabe",
-    "引坂 理絵": "Rie Hikisaka",
+    "引坂 理絵": "Rie Hikisaka", "増田 俊樹": "Toshiki Masuda",
+    "斉藤 壮馬": "Soma Saito", "藤田 茜": "Akane Fujita",
+    "小松 未可子": "Mikako Komatsu", "本渡 楓": "Kaede Hondo",
+    "ポポナ": "Popona",
     "？？？": "???", "Ｍ・Ａ・Ｏ": "M・A・O"
     }
 

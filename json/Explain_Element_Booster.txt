@@ -2368,100 +2368,100 @@
 	{
 		"assign": "338",
 		"jp_text": "イクスアクト・ソール",
-		"tr_text": "",
+		"tr_text": "Ex Act Soul",
 		"jp_explain": "打撃+30 打防+20\n射防+20 法防+20\nHP+20 PP+2",
-		"tr_explain": ""
+		"tr_explain": "S-ATK +30 S-DEF +20\nR-DEF +20 T-DEF +20\nHP +20 PP +2"
 	},
 	{
 		"assign": "339",
 		"jp_text": "イクスティル・ソール",
-		"tr_text": "",
+		"tr_text": "Ex Tiro Soul",
 		"jp_explain": "射撃+30 打防+20\n射防+20 法防+20\nHP+20 PP+2",
-		"tr_explain": ""
+		"tr_explain": "R-ATK +30 S-DEF +20\nR-DEF +20 T-DEF +20\nHP +20 PP +2"
 	},
 	{
 		"assign": "340",
 		"jp_text": "イクスマギー・ソール",
-		"tr_text": "",
+		"tr_text": "Ex Magia Soul",
 		"jp_explain": "法撃+30 打防+20\n射防+20 法防+20\nHP+20 PP+2",
-		"tr_explain": ""
+		"tr_explain": "T-ATK +30 S-DEF +20\nR-DEF +20 T-DEF +20\nHP +20 PP +2"
 	},
 	{
 		"assign": "341",
 		"jp_text": "イクスアレス・ソール",
-		"tr_text": "",
+		"tr_text": "Ex Ares Soul",
 		"jp_explain": "打撃+20 射撃+20\n法撃+20 打防+20\n射防+20 法防+20\nHP+50 PP+2",
-		"tr_explain": ""
+		"tr_explain": "S-ATK +20 R-ATK +20\nT-ATK +20 S-DEF +20\nR-DEF +20 T-DEF +20\nHP +50 PP +2"
 	},
 	{
 		"assign": "342",
 		"jp_text": "イクシード・エナジー",
-		"tr_text": "",
+		"tr_text": "Exceed Energy",
 		"jp_explain": "打撃+50 射撃+50\n法撃+50 技量+20\n打防+20 射防+20\n法防+20 HP+20 PP+5",
-		"tr_explain": ""
+		"tr_explain": "S-ATK +50 R-ATK +50\nT-ATK +50 DEX +20\nS-DEF +20 R-DEF +20\nT-DEF +20 HP +20 PP +5"
 	},
 	{
 		"assign": "343",
 		"jp_text": "アタック・ブースト",
-		"tr_text": "",
+		"tr_text": "Attack Boost",
 		"jp_explain": "打撃+25 射撃+25\n法撃+25 技量+40\nPP+3",
-		"tr_explain": ""
+		"tr_explain": "S-ATK +25 R-ATK +25\nT-ATK +25 DEX +40\nPP +3"
 	},
 	{
 		"assign": "344",
 		"jp_text": "ガード・ブースト",
-		"tr_text": "",
+		"tr_text": "Guard Boost",
 		"jp_explain": "打防+35 射防+35\n法防+35 HP+75\nPP+3",
-		"tr_explain": ""
+		"tr_explain": "S-DEF +35 R-DEF +35\nT-DEF +35 HP +75\nPP +3"
 	},
 	{
 		"assign": "345",
 		"jp_text": "ディバイン・ウィル",
-		"tr_text": "",
+		"tr_text": "Divine Will",
 		"jp_explain": "打撃+20 射撃+20\n法撃+20 PP+5",
-		"tr_explain": ""
+		"tr_explain": "S-ATK +20 R-ATK +20\nT-ATK +20 PP +5"
 	},
 	{
 		"assign": "346",
 		"jp_text": "ディバイン・オーダー",
-		"tr_text": "",
+		"tr_text": "Divine Order",
 		"jp_explain": "打撃+50 射撃+50\n法撃+50 HP+20 PP+10",
-		"tr_explain": ""
+		"tr_explain": "S-DEF +50 R-ATK +50\nT-DEF +50 HP +20 PP +10"
 	},
 	{
 		"assign": "347",
 		"jp_text": "クラックⅠ",
-		"tr_text": "",
+		"tr_text": "Crack I",
 		"jp_explain": "打撃+3 射撃+3\n法撃+3 打防+5\n射防+5 法防+5\nHP+5 PP+1",
-		"tr_explain": ""
+		"tr_explain": "S-ATK +3 R-ATK +3\nT-ATK +3 S-DEF +5\nR-DEF +5\nT-DEF +5\nHP +5 PP +1"
 	},
 	{
 		"assign": "348",
 		"jp_text": "クラックⅡ",
-		"tr_text": "",
+		"tr_text": "Crack II",
 		"jp_explain": "打撃+5 射撃+5\n法撃+5 打防+10\n射防+10 法防+10\nHP+10 PP+1",
-		"tr_explain": ""
+		"tr_explain": "S-ATK +5 R-ATK +5\nT-ATK +5 S-DEF +10\nR-DEF +10\nT-DEF +10\nHP +10 PP +1"
 	},
 	{
 		"assign": "349",
 		"jp_text": "クラックⅢ",
-		"tr_text": "",
+		"tr_text": "Crack III",
 		"jp_explain": "打撃+10 射撃+10\n法撃+10 打防+15\n射防+15 法防+15\nHP+15 PP+1",
-		"tr_explain": ""
+		"tr_explain": "S-ATK +10 R-ATK +10\nT-ATK +10 S-DEF +15\nR-DEF +15\nT-DEF +15\nHP +15 PP +1"
 	},
 	{
 		"assign": "350",
 		"jp_text": "クラックⅣ",
-		"tr_text": "",
+		"tr_text": "Crack IV",
 		"jp_explain": "打撃+15 射撃+15\n法撃+15 打防+30\n射防+30 法防+30\nHP+30 PP+2",
-		"tr_explain": ""
+		"tr_explain": "S-ATK +15 R-ATK +15\nT-ATK +15 S-DEF +30\nR-DEF +30\nT-DEF +30\nHP +30 PP +2"
 	},
 	{
 		"assign": "351",
 		"jp_text": "クラックⅤ",
-		"tr_text": "",
+		"tr_text": "Crack V",
 		"jp_explain": "打撃+30 射撃+30\n法撃+30 打防+50\n射防+50 法防+50\nHP+50 PP+2",
-		"tr_explain": ""
+		"tr_explain": "S-ATK +30 R-ATK +30\nT-ATK +30 S-DEF +50\nR-DEF +50\nT-DEF +50\nHP +50 PP +2"
 	},
 	{
 		"assign": "352",
@@ -2536,8 +2536,8 @@
 	{
 		"assign": "362",
 		"jp_text": "フォードルス・グレア",
-		"tr_text": "",
+		"tr_text": "Fordruss Glare",
 		"jp_explain": "打防+35 射防+35\n法防+35 HP+40 PP+4",
-		"tr_explain": ""
+		"tr_explain": "S-DEF +35 R-DEF +35\nT-DEF +35 HP +40 PP +4"
 	}
 ]

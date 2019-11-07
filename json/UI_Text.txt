@@ -5822,7 +5822,7 @@
 	{
 		"assign": "quest_counter_cant_played_week_once_b",
 		"jp_text": "このクエストは特定の曜日に1回クリアすることができる\r\nクエストです。\r\n本日はすでにクエストクリアとなっています。",
-		"tr_text": ""
+		"tr_text": "This quest can only be cleared once per day,\r\nand only on a specific day of the week.\r\nYou have already cleared this quest today."
 	},
 	{
 		"assign": "quest_counter_raid_term",
@@ -6007,7 +6007,7 @@
 	{
 		"assign": "quest_counter_raid_sp_z_dialog_01_b",
 		"jp_text": "「覇級トリガー」を消費して、覇級を解除します。\n消費するトリガーの数を設定してください。\n\nトリガーの消費数に応じて、ＯＰ消費も増えますが\nより強力なエネミーと戦うことができます。\n（ 1～4個 <color=orange>ＯＰ：1</color> / 5～7個 <color=orange>ＯＰ：2</color> / 8～10個 <color=orange>ＯＰ：3</color> ）\n※覇級トリガーとＯＰはクエスト出発時に消費されます。\n\n<color=#ffff00>所持数：{0}個</color>",
-		"tr_text": ""
+		"tr_text": "This quest consumes \"Extra Hard Triggers\".\nPlease set the number of Triggers to use.\n\nYou can use more Triggers at once to fight a\nstronger enemy, but the amount of OP\nconsumed may also increase.\n1-4 Triggers: <color=orange>1 OP</color>\n5-7 Triggers: <color=orange>2 OP</color>\n8-10 Triggers: <color=orange>3 OP</color>"
 	},
 	{
 		"assign": "window_help_LM41",
@@ -6972,7 +6972,7 @@
 	{
 		"assign": "quest_result_good_job1",
 		"jp_text": "同行特典としてFUNを獲得！",
-		"tr_text": ""
+		"tr_text": "Earned bonus FUN!"
 	},
 	{
 		"assign": "quest_result_good_job2",
@@ -7182,17 +7182,17 @@
 	{
 		"assign": "questresult_rematch_button_title",
 		"jp_text": "再戦する　<%consumer_drive>/<%current_drive>",
-		"tr_text": ""
+		"tr_text": "Rematch: <%consumer_drive>/<%current_drive> Drive"
 	},
 	{
 		"assign": "questresult_rematch_next_button_title",
 		"jp_text": "クエスト選択へ",
-		"tr_text": ""
+		"tr_text": "To Quest Selection"
 	},
 	{
 		"assign": "questresult_skip_button_title",
 		"jp_text": "全てスキップ",
-		"tr_text": ""
+		"tr_text": "Skip All"
 	},
 	{
 		"assign": "battleresult_title",
@@ -15317,17 +15317,17 @@
 	{
 		"assign": "ItemDetail_dialog_t_06",
 		"jp_text": "「初撃限定装甲」とは",
-		"tr_text": ""
+		"tr_text": "About \"First Strike Armor\""
 	},
 	{
 		"assign": "ItemDetail_dialog_b_06",
 		"jp_text": "バトル中、最初に受けるダメージを\n一定割合軽減します。\n「初撃限定装甲」を複数装備している場合は\n効果値が高いものから順次\nダメージを受けるたびに発動します。\nこの効果の発動回数は\nバトルが終わるとリセットされます。",
-		"tr_text": ""
+		"tr_text": "Reduces damage from the first hit\nyou take in each battle.\nIf you have multiple instances of\n\"First Strike Armor\", the highest\nvalue one will reduce damage from\nthe first hit you take, the second\nhighest will reduce damage from\nthe second hit, and so on."
 	},
 	{
 		"assign": "ItemDetail_option_06",
 		"jp_text": "％軽減",
-		"tr_text": ""
+		"tr_text": "% reduction"
 	},
 	{
 		"assign": "RaidEvent_tab_00",
@@ -21827,17 +21827,17 @@
 	{
 		"assign": "raiddps_guid_top",
 		"jp_text": "<color=yellow>緊急チャレンジの進行状況画面です。「遊び方」バナーから詳しい遊び方を確認できます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=yellow>This is the Emergency Challenge progress screen. Select \"How to Play\" to find out how to participate.</color>"
 	},
 	{
 		"assign": "raiddps_guid_ranking",
 		"jp_text": "<color=yellow>緊急チャレンジの順位です。</color>",
-		"tr_text": ""
+		"tr_text": "<color=yellow>This is the Emergency Challenge rankings.</color>"
 	},
 	{
 		"assign": "raiddps_guid_achievement",
 		"jp_text": "<color=yellow>緊急チャレンジの達成報酬です。入手条件を満たすと、報酬を受け取ることができます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=yellow>These are the Emergency Challenge Achievements. You can receive rewards if you have met the Achivement requirements.</color>"
 	},
 	{
 		"assign": "raiddps_banner_how_to_play",
@@ -21857,7 +21857,7 @@
 	{
 		"assign": "raid_dps_achievement_button",
 		"jp_text": "達成報酬",
-		"tr_text": ""
+		"tr_text": "Achievements"
 	},
 	{
 		"assign": "raid_dps_my_best",
@@ -21927,12 +21927,12 @@
 	{
 		"assign": "raid_dps_title_achievement_top",
 		"jp_text": "報酬一覧",
-		"tr_text": ""
+		"tr_text": "Reward List"
 	},
 	{
 		"assign": "DPSEvent_Achievement_Text_0-2-23",
 		"jp_text": "自己ベスト{1}達成 \n[{0} / {1}]",
-		"tr_text": ""
+		"tr_text": " Get a Personal Best {1} times [{0}/{1}]"
 	},
 	{
 		"assign": "window_help_LM34",
@@ -22052,7 +22052,7 @@
 	{
 		"assign": "chip_awake_selectbutton_chiplv",
 		"jp_text": "最大チップLv.",
-		"tr_text": "Max. Chip Level"
+		"tr_text": "Max Chip Lv."
 	},
 	{
 		"assign": "chip_awake_selectbutton_skill",
@@ -22277,7 +22277,7 @@
 	{
 		"assign": "chip_awake_dialog_b_done_chiplv",
 		"jp_text": "最大チップLv.",
-		"tr_text": ""
+		"tr_text": "Max Chip Lv."
 	},
 	{
 		"assign": "chip_awake_dialog_b_done_skilllv",
@@ -22382,52 +22382,52 @@
 	{
 		"assign": "chip_awake_dialog_t_shortage_chiprelease",
 		"jp_text": "チップ特装",
-		"tr_text": ""
+		"tr_text": "Chip Specialization"
 	},
 	{
 		"assign": "chip_awake_dialog_b_shortage_chiprelease",
 		"jp_text": "特装対象のチップは\nチップ解放されていないため\nチップ特装をすることができません。",
-		"tr_text": ""
+		"tr_text": "This chip cannot be specialized\nuntil it has been released."
 	},
 	{
 		"assign": "quest_rematch_login_bonus_dialog_t",
 		"jp_text": "データ更新",
-		"tr_text": ""
+		"tr_text": "Data Update"
 	},
 	{
 		"assign": "quest_rematch_login_bonus_dialog_b",
 		"jp_text": "データ更新がありましたので\nロビートップへ戻ります。",
-		"tr_text": ""
+		"tr_text": "There has been a data update.\nYou will now return to the Lobby."
 	},
 	{
 		"assign": "quest_rematch_pop_info_dialog_t",
 		"jp_text": "データ更新",
-		"tr_text": ""
+		"tr_text": "Data Update"
 	},
 	{
 		"assign": "quest_rematch_pop_info_dialog_b",
 		"jp_text": "データ更新がありましたので\nロビートップへ戻ります。",
-		"tr_text": ""
+		"tr_text": "There has been a data update.\nYou will now return to the Lobby."
 	},
 	{
 		"assign": "quest_rematch_end_time_t",
 		"jp_text": "データ更新",
-		"tr_text": ""
+		"tr_text": "Data Update"
 	},
 	{
 		"assign": "quest_rematch_end_time_b",
 		"jp_text": "クエストの開催期間が終了しました。\nロビートップへ戻ります。",
-		"tr_text": ""
+		"tr_text": "This quest is no longer available.\nYou will now return to the Lobby."
 	},
 	{
 		"assign": "quest_rematch_accept_box_max_num_t",
 		"jp_text": "受け取りボックスオーバー",
-		"tr_text": ""
+		"tr_text": "Reception Box Full"
 	},
 	{
 		"assign": "quest_rematch_accept_box_max_num_b",
 		"jp_text": "受け取りボックスの\n受信数をオーバーしているため再戦できません。\nロビートップへ戻ります。",
-		"tr_text": ""
+		"tr_text": "You cannot replay this quest\nbecause your Reception Box is full.\nYou will now return to the Lobby."
 	},
 	{
 		"assign": "window_help_LM42",
