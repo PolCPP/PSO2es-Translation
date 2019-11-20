@@ -15029,6 +15029,13 @@
 		"tr_explain": "Unlocks the accessory\n\"Accel Visor B\"\nfor use in the Beauty Salon."
 	},
 	{
+		"assign": "3802312",
+		"jp_text": "アクセルバイザーＣ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアクセルバイザーＣが選択可能。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3802315",
 		"jp_text": "アクセルガード",
 		"tr_text": "Accel Guard",
@@ -28469,6 +28476,20 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "3804422",
+		"jp_text": "シランスネックガード",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nシランスネックガードが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804423",
+		"jp_text": "シランスヘッドギア",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nシランスヘッドギアが選択可能。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3804437",
 		"jp_text": "たれうさ耳カチューシャＢ",
 		"tr_text": "Drooping Bunny Ear Hairclip B",
@@ -28889,6 +28910,69 @@
 		"tr_explain": "Unlocks the accessory\n\"Space Tuna Cap Black\"\nfor use in the Beauty Salon."
 	},
 	{
+		"assign": "3804507",
+		"jp_text": "アルキュリアショルダーＣ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアルキュリアショルダーＣが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804508",
+		"jp_text": "アクセルガードＣ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアクセルガードＣが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804509",
+		"jp_text": "透刃マイアクセサリーＣ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\n透刃マイアクセサリーＣが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804510",
+		"jp_text": "ゼルシウスネックＣ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nゼルシウスネックＣが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804511",
+		"jp_text": "ゼルシウステイルＣ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nゼルシウステイルＣが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804512",
+		"jp_text": "ベルディアスカーフＣ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nベルディアスカーフＣが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804513",
+		"jp_text": "ベルディアリボンＣ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nベルディアリボンＣが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804514",
+		"jp_text": "【双子・男】髪飾りＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\n【双子・男】髪飾りＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804515",
+		"jp_text": "【双子・女】髪飾りＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\n【双子・女】髪飾りＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3804516",
 		"jp_text": "ハッピーマントＢ",
 		"tr_text": "Happy Cloak B",
@@ -28938,11 +29022,207 @@
 		"tr_explain": "Unlocks the accessory\n\"Tender Wings B\"\nfor use in the Beauty Salon."
 	},
 	{
+		"assign": "3804523",
+		"jp_text": "スターリーリボンＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nスターリーリボンＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804524",
+		"jp_text": "ネーヴェベルＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nネーヴェベルＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804525",
+		"jp_text": "フェリシテハットＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nフェリシテハットＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804526",
+		"jp_text": "フェリシテコサージュＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nフェリシテコサージュＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804527",
+		"jp_text": "ファンタジアバレッタＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nファンタジアバレッタＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804528",
+		"jp_text": "ファンタジアリボンＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nファンタジアリボンＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804529",
+		"jp_text": "スヴェートハットＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nスヴェートハットＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804530",
+		"jp_text": "スヴェートスヌードＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nスヴェートスヌードＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804531",
+		"jp_text": "ヴェロシティマフラーＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nヴェロシティマフラーＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804532",
+		"jp_text": "ヴェロシティアクセルＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nヴェロシティアクセルＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804533",
+		"jp_text": "サーキットインカムＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nサーキットインカムＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804534",
+		"jp_text": "サーキットヘアアクセＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nサーキットヘアアクセＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804535",
+		"jp_text": "コンバットホルスターＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nコンバットホルスターＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804536",
+		"jp_text": "コンバットタグＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nコンバットタグＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804537",
+		"jp_text": "リバティーヘッドギア",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nリバティーヘッドギアが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804538",
+		"jp_text": "リバティーネクタイ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nリバティーネクタイが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804539",
+		"jp_text": "ボワーヌカチューシャ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nボワーヌカチューシャが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804540",
+		"jp_text": "ボワーヌイヤーカフ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nボワーヌイヤーカフが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804541",
+		"jp_text": "ジルフィヘッドギア",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nジルフィヘッドギアが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804542",
+		"jp_text": "ジルフィウェスト",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nジルフィウェストが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804543",
+		"jp_text": "ジルフィテイル",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nジルフィテイルが選択可能。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3804544",
 		"jp_text": "フライトユニット２",
 		"tr_text": "Flight Unit 2",
 		"jp_explain": "使用すると、新しいアクセサリーの\nフライトユニット２が選択可能。",
 		"tr_explain": "Unlocks the accessory\n\"Flight Unit 2\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804545",
+		"jp_text": "サイバーマスク",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nサイバーマスクが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804546",
+		"jp_text": "神子のかんざし",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\n神子のかんざしが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804547",
+		"jp_text": "守人の眼帯",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\n守人の眼帯が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804548",
+		"jp_text": "守人の顎当て",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\n守人の顎当てが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804549",
+		"jp_text": "守人の耳飾り",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\n守人の耳飾りが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804550",
+		"jp_text": "宇宙メット",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\n宇宙メットが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804551",
+		"jp_text": "宇宙バックパック",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\n宇宙バックパックが選択可能。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "3804552",
@@ -28952,6 +29232,62 @@
 		"tr_explain": "Unlocks the accessory\n\"Tortoise Shell Glasses\"\nfor use in the Beauty Salon."
 	},
 	{
+		"assign": "3804553",
+		"jp_text": "シンジのヘッドセット",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nシンジのヘッドセットが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804554",
+		"jp_text": "アスカのヘッドセット",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアスカのヘッドセットが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804555",
+		"jp_text": "レイのヘッドセット",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nレイのヘッドセットが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804556",
+		"jp_text": "イノセンシアカチューシャ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nイノセンシアカチューシャが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804557",
+		"jp_text": "イノセンシアブローチ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nイノセンシアブローチが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804558",
+		"jp_text": "イノセンシアしっぽ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nイノセンシアしっぽが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804559",
+		"jp_text": "イノセンシア腰リボン",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nイノセンシア腰リボンが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804560",
+		"jp_text": "サフィールキャップ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nサフィールキャップが選択可能。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3804561",
 		"jp_text": "ＶＲゴーグル",
 		"tr_text": "VR Goggles",
@@ -28959,10 +29295,108 @@
 		"tr_explain": "Unlocks the accessory\n\"VR Goggles\"\nfor use in the Beauty Salon."
 	},
 	{
+		"assign": "3804562",
+		"jp_text": "ドローン",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nドローンが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804563",
+		"jp_text": "ドローン　白",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nドローン　白が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804564",
+		"jp_text": "ドローン　黒",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nドローン　黒が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804565",
+		"jp_text": "たくらみメガネ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nたくらみメガネが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804566",
+		"jp_text": "シザーケース　黒",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nシザーケース　黒が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804567",
+		"jp_text": "シザーケース　茶",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nシザーケース　茶が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804568",
+		"jp_text": "シザーケース　白",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nシザーケース　白が選択可能。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3804569",
 		"jp_text": "ぶら下げレアドロ",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nぶら下げレアドロが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804570",
+		"jp_text": "ドットメガネ　赤",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nドットメガネ　赤が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804571",
+		"jp_text": "ドットメガネ　白",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nドットメガネ　白が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804572",
+		"jp_text": "ドットメガネ　黒",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nドットメガネ　黒が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804573",
+		"jp_text": "円錐",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\n円錐が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804574",
+		"jp_text": "円錐　白",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\n円錐　白が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804575",
+		"jp_text": "円錐　髪",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\n円錐　髪が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804576",
+		"jp_text": "円錐　肌",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\n円錐　肌が選択可能。",
 		"tr_explain": ""
 	},
 	{
@@ -29050,6 +29484,34 @@
 		"tr_explain": "Unlocks the accessory\n\"Rosalinde L Hair Ornament\"\nfor use in the Beauty Salon."
 	},
 	{
+		"assign": "3804589",
+		"jp_text": "ブラウキャップ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nブラウキャップが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804590",
+		"jp_text": "グラモラベルリボン",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nグラモラベルリボンが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804591",
+		"jp_text": "メルターキャップ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nメルターキャップが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804592",
+		"jp_text": "メルターブローチ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nメルターブローチが選択可能。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3804593",
 		"jp_text": "頭乗りマルガレータ",
 		"tr_text": "Head-Riding Margareta",
@@ -29062,5 +29524,68 @@
 		"tr_text": "Head-Riding Luther 2",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りルーサー２が選択可能。",
 		"tr_explain": "Unlocks the accessory\n\"Head-Riding Luther 2\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804595",
+		"jp_text": "クツッピーヘアアクセ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nクツッピーヘアアクセが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804596",
+		"jp_text": "クローズショルダー",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nクローズショルダーが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804597",
+		"jp_text": "クローズポーチ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nクローズポーチが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804602",
+		"jp_text": "アビリットヘッドギア",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアビリットヘッドギアが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804603",
+		"jp_text": "クオリットヘッドギア",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nクオリットヘッドギアが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804606",
+		"jp_text": "アビオンオーブスラスター",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアビオンオーブスラスターが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804607",
+		"jp_text": "アビオンオーブウィング",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアビオンオーブウィングが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804608",
+		"jp_text": "アビオンダスクスラスター",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアビオンダスクスラスターが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804609",
+		"jp_text": "アビオンダスクウィング",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアビオンダスクウィングが選択可能。",
+		"tr_explain": ""
 	}
 ]
