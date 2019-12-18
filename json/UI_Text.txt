@@ -6476,8 +6476,8 @@
 	},
 	{
 		"assign": "scratch_dialog_b_09",
-		"jp_text": "ACスクラッチ券{0}枚で\n{1}を1回引きます。\nよろしいですか？\n現在の所持スクラッチ券：{2}枚\n",
-		"tr_text": "AC Scratch Tickets:{0}\n{1} 1 will be used.\nIs that ok?\nOwned:{2}\n"
+		"jp_text": "ACスクラッチ券{0}枚で\n{1}を{2}回引きます。\nよろしいですか？\n現在の所持スクラッチ券：{3}枚\n",
+		"tr_text": ""
 	},
 	{
 		"assign": "scratch_dialog_t_10",
@@ -6486,8 +6486,8 @@
 	},
 	{
 		"assign": "scratch_dialog_b_10",
-		"jp_text": "ACスクラッチゴールド券{0}枚で\n{1}を1回引きます。\nよろしいですか？\n現在の所持スクラッチG券：{2}枚\n",
-		"tr_text": "Gold Scratch Tickets:{0}\n{1} 1 will be used.\nIs that ok?\nOwned:{2}\n"
+		"jp_text": "ACスクラッチゴールド券{0}枚で\n{1}を{2}回引きます。\nよろしいですか？\n現在の所持スクラッチG券：{3}枚\n",
+		"tr_text": ""
 	},
 	{
 		"assign": "scratch_dialog_t_11",
@@ -6511,8 +6511,8 @@
 	},
 	{
 		"assign": "scratch_message_04",
-		"jp_text": "このスクラッチあと<color=#ffff00<%alpha>>{0}回</color>で次のボーナスがもらえます！",
-		"tr_text": "You can receive a bonus in <color=#ffff00<%alpha>>{0}</color> times after a scratch!"
+		"jp_text": "次の回数ボーナスまで：あと<color=#ffff00<%alpha>>{0}回！</color>",
+		"tr_text": ""
 	},
 	{
 		"assign": "scratch_message_05",
@@ -6553,6 +6553,11 @@
 		"assign": "scratch_bonus_menu_multi_bonus",
 		"jp_text": "{0}\nなど{1}点セット！",
 		"tr_text": "{0}\n{1} etc！"
+	},
+	{
+		"assign": "scratch_bonus_menu_multi_bonus_ac",
+		"jp_text": "{0}ほか",
+		"tr_text": ""
 	},
 	{
 		"assign": "scratch_bonus_menu_complete",
@@ -7878,6 +7883,11 @@
 		"assign": "phantom",
 		"jp_text": "ファントム",
 		"tr_text": "Phantom"
+	},
+	{
+		"assign": "etoile",
+		"jp_text": "エトワール",
+		"tr_text": ""
 	},
 	{
 		"assign": "ship_01",
@@ -9683,6 +9693,21 @@
 		"assign": "loginbonus_premium_warning",
 		"jp_text": "※ボーナス獲得時にプレミアム期間内であった場合適用されます。",
 		"tr_text": "※Applied during when premium is active."
+	},
+	{
+		"assign": "limited_loginbonus_get",
+		"jp_text": "<color=yellow>以下のログインボーナスを獲得しました。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "limited_loginbonus_term_title",
+		"jp_text": "【開催期間】　",
+		"tr_text": ""
+	},
+	{
+		"assign": "limited_loginbonus_term",
+		"jp_text": "<%st_month>/<%st_day>～<%ed_month>/<%ed_day> <%ed_hour>：<%ed_minute>",
+		"tr_text": ""
 	},
 	{
 		"assign": "lobby_support_title",
@@ -17725,6 +17750,21 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "lookback_maintitle_9",
+		"jp_text": "カース　オブ　アギト",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_maintext_9",
+		"jp_text": "アギトシリーズの\nウェポノイド達の物語を振り返ります。",
+		"tr_text": ""
+	},
+	{
+		"assign": "lookback_series5_chapter_1",
+		"jp_text": "The Lost Legend",
+		"tr_text": ""
+	},
+	{
 		"assign": "lookback_maintitle_15",
 		"jp_text": "チュートリアルクエスト",
 		"tr_text": "Tutorial Quest"
@@ -18140,6 +18180,11 @@
 		"tr_text": "Support"
 	},
 	{
+		"assign": "filter_release",
+		"jp_text": "チップ解放",
+		"tr_text": ""
+	},
+	{
 		"assign": "filter_releasebef",
 		"jp_text": "チップ解放前",
 		"tr_text": "Normal"
@@ -18150,14 +18195,34 @@
 		"tr_text": "Released"
 	},
 	{
+		"assign": "filter_chip_level",
+		"jp_text": "チップLv",
+		"tr_text": "Chip Lv."
+	},
+	{
 		"assign": "filter_canlvup",
 		"jp_text": "チップＬｖＵＰ可",
 		"tr_text": "Can Lv. Up"
 	},
 	{
+		"assign": "filter_level_max",
+		"jp_text": "チップLvMAX",
+		"tr_text": ""
+	},
+	{
+		"assign": "filter_abilevel",
+		"jp_text": "アビリティLv",
+		"tr_text": ""
+	},
+	{
 		"assign": "filter_canabilvup",
 		"jp_text": "アビリティＬｖＵＰ可",
 		"tr_text": "Can Increase Ability"
+	},
+	{
+		"assign": "filter_abilv_max",
+		"jp_text": "アビリティLvMAX",
+		"tr_text": ""
 	},
 	{
 		"assign": "filter_character",
@@ -19470,6 +19535,16 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "quest_clear_reward_dialog_title_6264004",
+		"jp_text": "ストーリークエスト Season3　7章4-4",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_clear_reward_dialog_body_6264004",
+		"jp_text": "Season3　7章4-4「振られる手」\nクリアおめでとうございます！\n以下のクリア報酬をプレゼントいたしました。\n受け取りボックスをご確認ください。",
+		"tr_text": ""
+	},
+	{
 		"assign": "recommended_equipment",
 		"jp_text": "おすすめ装備",
 		"tr_text": "Recommended Equipment"
@@ -20177,7 +20252,7 @@
 	{
 		"assign": "chip_details_chip_level",
 		"jp_text": "チップLv",
-		"tr_text": "Chip Lv."
+		"tr_text": ""
 	},
 	{
 		"assign": "chip_details_cost",
@@ -22432,6 +22507,26 @@
 	{
 		"assign": "window_help_LM42",
 		"jp_text": "wh_55_01,\nチップには「属性変換」で、属性を変えられるものがあります。,\nwh_55_01,\n属性変換には指定の素材チップとメセタが必要です。\nメニューの「チップ解放」から、「属性変換」を行うことができます。\n※属性変換が可能な状態のチップは、「チップ解放」はできません。,",
+		"tr_text": ""
+	},
+	{
+		"assign": "sratch_result_item_list_dialog_t",
+		"jp_text": "獲得アイテム一覧",
+		"tr_text": ""
+	},
+	{
+		"assign": "sratch_result_item_list_dialog_b",
+		"jp_text": "以下のアイテムを獲得しました。",
+		"tr_text": ""
+	},
+	{
+		"assign": "sratch_result_item_list_dialog_b_bonus",
+		"jp_text": "次の回数ボーナスまで：あと<color=yellow>{0}回！</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "sratch_result_item_list_dialog_item",
+		"jp_text": "・{0} × {1}",
 		"tr_text": ""
 	}
 ]
