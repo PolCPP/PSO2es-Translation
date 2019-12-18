@@ -903,6 +903,20 @@
 		"tr_explain": "A limited edition donut created\nfor an event.\n[10 min] Tri-Boost +50%."
 	},
 	{
+		"assign": "320170",
+		"jp_text": "新年祭記念ドーナッツ’２０",
+		"tr_text": "New Years Festival Donut '20",
+		"jp_explain": "新たな年の到来を祝い\n作成された特製ドーナッツ。\n【６０分間】トライブースト＋５０％",
+		"tr_explain": "A special donut created to\ncelebrate the New Year.\n[60 min] Tri-Boost +50%."
+	},
+	{
+		"assign": "320172",
+		"jp_text": "ＰＳＯ２の日ドーナッツ",
+		"tr_text": "PSO2 Day Donut",
+		"jp_explain": "ＰＳＯ２の日を祝う特製ドーナッツ。\n【６０分間】打・射・法撃力＋２２０\nトライブースト＋２２０％",
+		"tr_explain": "Special donuts created to celebrate\nPSO2 Day. [60 min] ATK +220\nTri-Boost +220%."
+	},
+	{
 		"assign": "320173",
 		"jp_text": "ビーチ２０１９＋１００％",
 		"tr_text": "Beach 2019 +100%",
@@ -964,5 +978,19 @@
 		"tr_text": "Space Magatsu +100%",
 		"jp_explain": "天地を葬る災禍の凶神\n限定のブーストアイテム。獲得メセタ・\n経験値・レアドロップ倍率＋１００％。",
 		"tr_explain": "The Cosmic Calamity\nLimited Boost Item. Meseta gained,\nEXP gained, & Rare Drop Rate +100%."
+	},
+	{
+		"assign": "320184",
+		"jp_text": "追加エクスキューブ＋１",
+		"tr_text": "Extra Cube +1",
+		"jp_explain": "「エクスキューブ」が対象。\n使用してから【３０分】の間だけ\n対象アイテムのドロップ数を＋１する。",
+		"tr_explain": "Target item \"Excube\".\n[30 Min]Increases the target\nitem drop by +1."
+	},
+	{
+		"assign": "320185",
+		"jp_text": "追加バッヂ２０２０＋１",
+		"tr_text": "Extra Badge 2020 +1",
+		"jp_explain": "「ウェポンズバッヂ２０２０」が対象。\n使用してから【３０分】の間だけ\n対象アイテムのドロップ数を＋１する。",
+		"tr_explain": "Target item \"Weapons Badge 2020\".\n[30 Min]Increases the target\nitem drop by +1."
 	}
 ]

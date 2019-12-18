@@ -35,6 +35,13 @@
 		"tr_explain": "Perfect Keeper - Technique\nIncreases technique attack damage\nwhen HP is above a certain value."
 	},
 	{
+		"assign": "104",
+		"jp_text": "Ｐキーパー",
+		"tr_text": "",
+		"jp_explain": "パーフェクトキーパー\nＨＰが一定の割合以上のとき\nエネミーへのダメージが増加する。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "9",
 		"jp_text": "フォトンフレア",
 		"tr_text": "Photon Flare",
@@ -455,6 +462,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "105",
+		"jp_text": "エフォートシンボルEt",
+		"tr_text": "",
+		"jp_explain": "エフォートシンボルエトワール\n努力の末に得た明星の戦巧者の証",
+		"tr_explain": ""
+	},
+	{
 		"assign": "88",
 		"jp_text": "フレンズプロテクション",
 		"tr_text": "Friends' Protection",
@@ -684,5 +698,33 @@
 		"tr_text": "C-Strike - Technique",
 		"jp_explain": "クリティカルストライク法撃\nクリティカル率が上昇し、法撃攻撃の\nクリティカル時にダメージボーナスを得る。",
 		"tr_explain": "Critical Strike - Technique/Ring\nIncreases critical damage and\ncritical hit rate percentage."
+	},
+	{
+		"assign": "103",
+		"jp_text": "Ｃストライク",
+		"tr_text": "",
+		"jp_explain": "クリティカルストライク\nクリティカル率が上昇し\nクリティカル時にダメージボーナスを得る。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "106",
+		"jp_text": "Ｐｈマーカーボム",
+		"tr_text": "",
+		"jp_explain": "ファントムマーカーボム\nファントムマーカーの起爆攻撃が\nマーカーが付与された場所に発生する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "107",
+		"jp_text": "Ｐｈステップシフト",
+		"tr_text": "",
+		"jp_explain": "ファントムステップシフト\nファントムステップ中に\nＰＡを使用するとシフトＰＡになる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "108",
+		"jp_text": "タリスキープロング",
+		"tr_text": "",
+		"jp_explain": "タリスキープロング\n投げたタリスが消滅するまでの時間を延長する。",
+		"tr_explain": ""
 	}
 ]

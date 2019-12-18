@@ -1274,6 +1274,13 @@
 		"tr_explain": "Use to immediately receive\n2019 FUN."
 	},
 	{
+		"assign": "3200194",
+		"jp_text": "ＦＵＮ２０２０獲得チケット",
+		"tr_text": "FUN 2020 Ticket",
+		"jp_explain": "ＦＵＮの授与申請チケット。\nチケットを使用すると\nＦＵＮを【２０２０】獲得可能。",
+		"tr_explain": "Use to immediately receive\n2020 FUN."
+	},
+	{
 		"assign": "3200197",
 		"jp_text": "経験値獲得１００万",
 		"tr_text": "1,000,000 EXP Ticket",
@@ -1286,5 +1293,12 @@
 		"tr_text": "5,000,000 EXP Ticket",
 		"jp_explain": "経験値の授与申請チケット。\n使用したクラスの経験値を\n【５００万】獲得可能。",
 		"tr_explain": "Use to immediately receive\n5,000,000 EXP."
+	},
+	{
+		"assign": "3200206",
+		"jp_text": "経験値獲得２２２万",
+		"tr_text": "2,220,000 EXP Ticket",
+		"jp_explain": "経験値の授与申請チケット。\n使用したクラスの経験値を\n【２２２万】獲得可能。",
+		"tr_explain": "Use to immediately receive\n2,220,000 EXP."
 	}
 ]

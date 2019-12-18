@@ -2465,44 +2465,44 @@
 	},
 	{
 		"assign": "352",
-		"jp_text": "-",
+		"jp_text": "グランド・スタミナ",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "HP+100 PP+6",
 		"tr_explain": ""
 	},
 	{
 		"assign": "353",
-		"jp_text": "-",
+		"jp_text": "グランド・スピリタ",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "PP+15",
 		"tr_explain": ""
 	},
 	{
 		"assign": "354",
-		"jp_text": "-",
+		"jp_text": "グランド・パワー",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "打撃+60 HP+20\nPP+5",
 		"tr_explain": ""
 	},
 	{
 		"assign": "355",
-		"jp_text": "-",
+		"jp_text": "グランド・シュート",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "射撃+60 HP+20\nPP+5",
 		"tr_explain": ""
 	},
 	{
 		"assign": "356",
-		"jp_text": "-",
+		"jp_text": "グランド・テクニック",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "法撃+60 HP+20\nPP+5",
 		"tr_explain": ""
 	},
 	{
 		"assign": "357",
-		"jp_text": "-",
+		"jp_text": "カタリストレセプター",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "カタリスト系特殊能力の\n継承成功率を大幅に上昇\n全+10",
 		"tr_explain": ""
 	},
 	{
@@ -2545,6 +2545,20 @@
 		"jp_text": "ドゥームブレイクⅢ",
 		"tr_text": "",
 		"jp_explain": "打撃+30 射撃+30\n法撃+30 PP+4",
+		"tr_explain": ""
+	},
+	{
+		"assign": "364",
+		"jp_text": "ディバインレセプター",
+		"tr_text": "",
+		"jp_explain": "ディバイン系特殊能力の\n継承成功率を大幅に上昇\n全+10",
+		"tr_explain": ""
+	},
+	{
+		"assign": "365",
+		"jp_text": "イクシードレセプター",
+		"tr_text": "",
+		"jp_explain": "イクシード系特殊能力の\n継承成功率を大幅に上昇\n全+10",
 		"tr_explain": ""
 	}
 ]
