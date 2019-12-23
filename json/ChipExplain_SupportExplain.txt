@@ -5485,14 +5485,14 @@
 		"jp_explainShort": "一定以下になった際、ＨＰ・ＣＰが大回復",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 自身のＨＰが減っているほど\n　　 攻撃力を極度に増加する。\n② ダウン・のけぞり無効となる効果を付与する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by up to 250%, inversely\n     proportional to your current HP.\n<color=yellow>SP: </color>Boosts damage by up to 260%, inversely\n     proportional to your current HP.\n     <color=yellow>[?-Frame]</color>\n②  Grants a 50% chance to resist knockback and\n     flinching.\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 250% + up to 50%, inversely\n     proportional to your current HP.\n<color=yellow>SP: </color>Boosts damage by 260% + up to 50%, inversely\n     proportional to your current HP.\n     <color=yellow>[O-Frame]</color>\n②  Grants a 50% chance to resist knockback and\n     flinching.\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "32036",
 		"jp_explainShort": "一定以下になった際、ＨＰ・ＣＰが劇的回復",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 自身のＨＰが減っているほど\n　　 攻撃力を極度に増加する。\n② ダウン・のけぞり無効となる効果を付与する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by up to 270%, inversely\n     proportional to your current HP.\n<color=yellow>SP: </color>Boosts damage by up to 280%, inversely\n     proportional to your current HP.\n     <color=yellow>[?-Frame]</color>\n②  Grants a 50% chance to resist knockback and\n     flinching.\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage by 270% + up to 50%, inversely\n     proportional to your current HP.\n<color=yellow>SP: </color>Boosts damage by 280% + up to 50%, inversely\n     proportional to your current HP.\n     <color=yellow>[O-Frame]</color>\n②  Grants a 50% chance to resist knockback and\n     flinching.\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "32037",
@@ -5814,21 +5814,21 @@
 		"jp_explainShort": "定期的にＨＰが小回復＋雷の法術が大強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 自身のＨＰが減っているほど\n　　 攻撃力を極度に増加する。\n② ダウン・のけぞり無効となる効果を付与する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間\n\n■特殊用途\nチップ解放（属性変換）を行うことで風属性になる。",
-		"tr_explainLong": "①  Boosts damage by up to 295%, inversely\n     proportional to your current HP.\n<color=yellow>SP: </color>Boosts damage by up to 305%, inversely\n     proportional to your current HP.\n     <color=yellow>[O-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds\n\n■Special Note\nBecomes Wind Element after Chip Release\n(Element Conversion)."
+		"tr_explainLong": "①  Boosts damage by 295% + up to 50%, inversely\n     proportional to your current HP.\n<color=yellow>SP: </color>Boosts damage by 305% + up to 50%, inversely\n     proportional to your current HP.\n     <color=yellow>[O-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds\n\n■Special Note\nBecomes Wind Element after Chip Release\n(Element Conversion)."
 	},
 	{
 		"assign": "32113",
 		"jp_explainShort": "定期的にＨＰが小回復＋光の法術が強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 自身のＨＰが減っているほど\n　　 攻撃力を極度に増加する。\n② ダウン・のけぞり無効となる効果を付与する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間\n\n■特殊用途\nチップ解放（属性変換）を行うことで闇属性になる。",
-		"tr_explainLong": "①  Boosts damage by up to 295%, inversely\n     proportional to your current HP.\n<color=yellow>SP: </color>Boosts damage by up to 305%, inversely\n     proportional to your current HP.\n     <color=yellow>[O-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds\n\n■Special Note\nBecomes Dark Element after Chip Release\n(Element Conversion)."
+		"tr_explainLong": "①  Boosts damage by 295% + up to 50%, inversely\n     proportional to your current HP.\n<color=yellow>SP: </color>Boosts damage by 305% + up to 50%, inversely\n     proportional to your current HP.\n     <color=yellow>[O-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds\n\n■Special Note\nBecomes Dark Element after Chip Release\n(Element Conversion)."
 	},
 	{
 		"assign": "32114",
 		"jp_explainShort": "定期的にＨＰが小回復＋光の法術が大強化",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 自身のＨＰが減っているほど\n　　 攻撃力を極度に増加する。\n② ダウン・のけぞり無効となる効果を付与する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間\n\n■特殊用途\nチップ解放（属性変換）を行うことで炎属性になる。",
-		"tr_explainLong": "①  Boosts damage by up to 295%, inversely\n     proportional to your current HP.\n<color=yellow>SP: </color>Boosts damage by up to 305%, inversely\n     proportional to your current HP.\n     <color=yellow>[O-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds\n\n■Special Note\nBecomes Fire Element after Chip Release\n(Element Conversion)."
+		"tr_explainLong": "①  Boosts damage by 295% + up to 50%, inversely\n     proportional to your current HP.\n<color=yellow>SP: </color>Boosts damage by 305% + up to 50%, inversely\n     proportional to your current HP.\n     <color=yellow>[O-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds\n\n■Special Note\nBecomes Fire Element after Chip Release\n(Element Conversion)."
 	},
 	{
 		"assign": "32115",
