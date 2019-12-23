@@ -6467,7 +6467,7 @@
 	{
 		"assign": "scratch_dialog_b_08",
 		"jp_text": "{0}FUNで\n{1}を{2}回引きます。\nよろしいですか？\n現在の所持FUN：{3}\n",
-		"tr_text": "By using {0} FUN,\nyou will scratch {2} {1}.\nContinue?\nCurrent FUN： {3}\n"
+		"tr_text": "By using {0} FUN,\nyou will scratch {2} {1}.\nContinue?\nCurrent FUN: {3}\n"
 	},
 	{
 		"assign": "scratch_dialog_t_09",
@@ -6477,7 +6477,7 @@
 	{
 		"assign": "scratch_dialog_b_09",
 		"jp_text": "ACスクラッチ券{0}枚で\n{1}を{2}回引きます。\nよろしいですか？\n現在の所持スクラッチ券：{3}枚\n",
-		"tr_text": ""
+		"tr_text": "By using {0} AC,\nyou will scratch {2} {1}.\nContinue?\nCurrent AC: {3}\n"
 	},
 	{
 		"assign": "scratch_dialog_t_10",
