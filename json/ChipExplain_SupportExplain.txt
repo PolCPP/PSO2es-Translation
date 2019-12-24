@@ -4554,14 +4554,14 @@
 		"jp_explainShort": "攻撃ダメージ増＋弱属武器攻撃力増＋定期ＣＰ回復",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃ダメージを絶大に増加する。\n② 装備中の武器の属性が氷属性か攻撃対象の\n　　 敵の弱点に有効な属性の場合、攻撃力を増加する。\n③ 定期的にＣＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts attack damage by 180%.\n<color=yellow>SP: </color>Boosts attack damage by 190%.\n     <color=yellow>[W-Frame]</color>\n②  Boosts damage by 30% if the equipped weapon's\n     element is Ice, or if it matches the target's\n     elemental weakness.\n<color=yellow>SP: </color>Boosts damage by 31% if the equipped weapon's\n     element is Ice, or if it matches the target's\n     elemental weakness.\n     <color=yellow>[H-Frame]</color>\n③  Recovers CP by 5 every 4.9 seconds.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts attack damage by 180%.\n<color=yellow>SP: </color>Boosts attack damage by 190%.\n     <color=yellow>[W-Frame]</color>\n②  Boosts damage by 30% if the equipped weapon's\n     element is Ice, or if it matches the target's\n     elemental weakness.\n<color=yellow>SP: </color>Boosts damage by 31% if the equipped weapon's\n     element is Ice, or if it matches the target's\n     elemental weakness.\n     <color=yellow>[H-Frame]</color>\n③  Recovers CP by 5 every 10 seconds.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31818",
 		"jp_explainShort": "攻撃ダメージ増＋弱属武器攻撃力増＋定期ＣＰ回復",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃ダメージを超絶に増加する。\n② 装備中の武器の属性が氷属性か攻撃対象の\n　　 敵の弱点に有効な属性の場合、攻撃力を増加する。\n③ 定期的にＣＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts attack damage by 200%.\n<color=yellow>SP: </color>Boosts attack damage by 210%.\n     <color=yellow>[W-Frame]</color>\n②  Boosts damage by 32% if the equipped weapon's\n     element is Ice, or if it matches the target's\n     elemental weakness.\n<color=yellow>SP: </color>Boosts damage by 33% if the equipped weapon's\n     element is Ice, or if it matches the target's\n     elemental weakness.\n     <color=yellow>[H-Frame]</color>\n③  Recovers CP by 5 every 4.9 seconds.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts attack damage by 200%.\n<color=yellow>SP: </color>Boosts attack damage by 210%.\n     <color=yellow>[W-Frame]</color>\n②  Boosts damage by 32% if the equipped weapon's\n     element is Ice, or if it matches the target's\n     elemental weakness.\n<color=yellow>SP: </color>Boosts damage by 33% if the equipped weapon's\n     element is Ice, or if it matches the target's\n     elemental weakness.\n     <color=yellow>[H-Frame]</color>\n③  Recovers CP by 5 every 10 seconds.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31819",
@@ -4771,14 +4771,14 @@
 		"jp_explainShort": "攻撃ダメージ増＋弱属技法威力増＋定期ＣＰ回復",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃ダメージを絶大に増加する。\n② 必殺技・法術チップが攻撃対象の敵の弱点に\n　　 有効な属性の場合、威力を増加する。\n③ 定期的にＣＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts attack damage by 180%.\n<color=yellow>SP: </color>Boosts attack damage by 190%.\n     <color=yellow>[W-Frame]</color>\n②  Boosts the power of PAs and Techs by 30% if\n     their element matches the targeted enemy's\n     weakness element.\n<color=yellow>SP: </color>Boosts the power of PAs and Techs by 31% if\n     their element matches the targeted enemy's\n     weakness element.\n     <color=yellow>[K-Frame]</color>\n③  Recovers CP by 5 every 4.9 seconds.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts attack damage by 180%.\n<color=yellow>SP: </color>Boosts attack damage by 190%.\n     <color=yellow>[W-Frame]</color>\n②  Boosts the power of PAs and Techs by 30% if\n     their element matches the targeted enemy's\n     weakness element.\n<color=yellow>SP: </color>Boosts the power of PAs and Techs by 31% if\n     their element matches the targeted enemy's\n     weakness element.\n     <color=yellow>[K-Frame]</color>\n③  Recovers CP by 5 every 10 seconds.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31873",
 		"jp_explainShort": "攻撃ダメージ増＋弱属技法威力増＋定期ＣＰ回復",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃ダメージを超絶に増加する。\n② 必殺技・法術チップが攻撃対象の敵の弱点に\n　　 有効な属性の場合、威力を増加する。\n③ 定期的にＣＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts attack damage by 200%.\n<color=yellow>SP: </color>Boosts attack damage by 210%.\n     <color=yellow>[W-Frame]</color>\n②  Boosts the power of PAs and Techs by 32% if\n     their element matches the targeted enemy's\n     weakness element.\n<color=yellow>SP: </color>Boosts the power of PAs and Techs by 33% if\n     their element matches the targeted enemy's\n     weakness element.\n     <color=yellow>[K-Frame]</color>\n③  Recovers CP by 5 every 4.9 seconds.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts attack damage by 200%.\n<color=yellow>SP: </color>Boosts attack damage by 210%.\n     <color=yellow>[W-Frame]</color>\n②  Boosts the power of PAs and Techs by 32% if\n     their element matches the targeted enemy's\n     weakness element.\n<color=yellow>SP: </color>Boosts the power of PAs and Techs by 33% if\n     their element matches the targeted enemy's\n     weakness element.\n     <color=yellow>[K-Frame]</color>\n③  Recovers CP by 5 every 10 seconds.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31874",
