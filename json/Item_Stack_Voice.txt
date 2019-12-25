@@ -569,7 +569,7 @@
 	{
 		"assign": "318089",
 		"jp_text": "女性共通ヤミガラスボイス",
-		"tr_text": "Female Voice Yamigarasu",
+		"tr_text": "All Female Yamigarasu Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ竹達 彩奈",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Ayana Taketatsu"
 	},
@@ -975,7 +975,7 @@
 	{
 		"assign": "3180148",
 		"jp_text": "男性共通テオドールボイス",
-		"tr_text": "Male Theodore Voice",
+		"tr_text": "All Male Theodore Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ岡本 信彦",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Nobuhiko Okamoto"
 	},
@@ -1150,7 +1150,7 @@
 	{
 		"assign": "3180175",
 		"jp_text": "女性共通フーリエボイス",
-		"tr_text": "Female Fourier Voice",
+		"tr_text": "All Female Fourier Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ金元 寿子",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Hisako Kanemoto"
 	},
@@ -1234,7 +1234,7 @@
 	{
 		"assign": "3180187",
 		"jp_text": "女性共通ヒツギ覚醒ボイス",
-		"tr_text": "Female Awakened Hitsugi Voice",
+		"tr_text": "All Female Hitsugi Voice 2",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ種田 梨沙",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Risa Taneda"
 	},
@@ -1682,7 +1682,7 @@
 	{
 		"assign": "3180262",
 		"jp_text": "男性共通イーサンボイス",
-		"tr_text": "Male Ethan Voice",
+		"tr_text": "All Male Ethan Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ関 智一",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Tomokazu Seki"
 	},
@@ -1724,7 +1724,7 @@
 	{
 		"assign": "3180268",
 		"jp_text": "女性共通ルミアボイス",
-		"tr_text": "Female Lumia Voice",
+		"tr_text": "All Female Lumia Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ川澄 綾子",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Ayako Kawasumi"
 	},
@@ -1780,7 +1780,7 @@
 	{
 		"assign": "3180276",
 		"jp_text": "女性共通サラボイス",
-		"tr_text": "Female Sarah Voice",
+		"tr_text": "All Female Sara Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ植田 佳奈",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Kana Ueda"
 	},
@@ -2116,7 +2116,7 @@
 	{
 		"assign": "3180333",
 		"jp_text": "男性共通コトシロボイス",
-		"tr_text": "Male Kotoshiro Voice",
+		"tr_text": "All Male Kotoshiro Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ杉田 智和",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Tomokazu Sugita"
 	},
@@ -2347,9 +2347,9 @@
 	{
 		"assign": "3180375",
 		"jp_text": "女性追加ボイス２０２",
-		"tr_text": "",
+		"tr_text": "Female Extra Voice 202",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ竹達 彩奈",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nNon-Cast female characters only.\nCV: Ayana Taketatsu"
 	},
 	{
 		"assign": "3180376",
@@ -2417,14 +2417,14 @@
 	{
 		"assign": "3180388",
 		"jp_text": "女性共通カトリボイス",
-		"tr_text": "Female Katori Voice",
+		"tr_text": "All Female Katori Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ桑島 法子",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Houko Kuwashima"
 	},
 	{
 		"assign": "3180389",
 		"jp_text": "女性共通スクナヒメボイス",
-		"tr_text": "Female Sukuna-hime Voice",
+		"tr_text": "All Female Sukuna-hime Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ堀江 由衣",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Yui Horie"
 	},
@@ -2445,21 +2445,21 @@
 	{
 		"assign": "3180393",
 		"jp_text": "女性共通マトイボイス",
-		"tr_text": "Female Matoi Voice",
+		"tr_text": "All Female Matoi Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ佐藤 聡美",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Satomi Sato"
 	},
 	{
 		"assign": "3180394",
 		"jp_text": "女性共通パティボイス",
-		"tr_text": "Female Patty Voice",
+		"tr_text": "All Female Patty Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ阿澄 佳奈",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Kana Asumi"
 	},
 	{
 		"assign": "3180395",
 		"jp_text": "女性共通ティアボイス",
-		"tr_text": "Female Tea Voice",
+		"tr_text": "All Female Tea Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ井口 裕香",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Yuka Iguchi"
 	},
@@ -2935,9 +2935,9 @@
 	{
 		"assign": "3180479",
 		"jp_text": "女性Ｃ追加ボイス２０２",
-		"tr_text": "",
+		"tr_text": "Female C Extra Voice 202",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ竹達 彩奈",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nFemale Casts only.\nCV: Ayana Taketatsu"
 	},
 	{
 		"assign": "3180480",
@@ -3215,7 +3215,7 @@
 	{
 		"assign": "3180542",
 		"jp_text": "女性共通エミリアボイス",
-		"tr_text": "Female Emilia Voice",
+		"tr_text": "All Female Emilia Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ斎藤 千和",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Chiwa Saito"
 	},
@@ -3551,14 +3551,14 @@
 	{
 		"assign": "3180605",
 		"jp_text": "女性共通カレン・エラボイス",
-		"tr_text": "Female Karen Erra Voice",
+		"tr_text": "All Female Karen Erra Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ田中 理恵",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Rie Tanaka"
 	},
 	{
 		"assign": "3180606",
 		"jp_text": "女性共通ヘルガボイス",
-		"tr_text": "Female Helga Voice",
+		"tr_text": "All Female Helga Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ田中 理恵",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Rie Tanaka"
 	},
@@ -3628,7 +3628,7 @@
 	{
 		"assign": "3180621",
 		"jp_text": "女性共通ナギサボイス",
-		"tr_text": "Female Nagisa Voice",
+		"tr_text": "All Female Nagisa Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ水樹 奈々",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Nana Mizuki"
 	},
@@ -3817,21 +3817,21 @@
 	{
 		"assign": "3180658",
 		"jp_text": "男性共通ヒューガボイス",
-		"tr_text": "Male Neo Hyuga Voice",
+		"tr_text": "All Male Neo Hyuga Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ石田 彰",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Akira Ishida"
 	},
 	{
 		"assign": "3180659",
 		"jp_text": "男性共通シズルボイス",
-		"tr_text": "Male Shizuru Voice",
+		"tr_text": "All Male Shizuru Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ福山 潤",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Jun Fukuyama"
 	},
 	{
 		"assign": "3180660",
 		"jp_text": "男性共通カムハーンボイス",
-		"tr_text": "Male Kumhan Voice",
+		"tr_text": "All Male Kumhan Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ福山 潤",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Jun Fukuyama"
 	},
@@ -3873,7 +3873,7 @@
 	{
 		"assign": "3180666",
 		"jp_text": "女性共通チェルシーボイス",
-		"tr_text": "Female Chelsea Voice",
+		"tr_text": "All Female Chelsea Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ戸松 遥",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Haruka Tomatsu"
 	},
@@ -4055,98 +4055,98 @@
 	{
 		"assign": "3180698",
 		"jp_text": "女性共通イリヤボイス",
-		"tr_text": "Female All Race Illya Voice",
+		"tr_text": "All Female All Race Illya Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ門脇 舞以",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Mai Kadowaki"
 	},
 	{
 		"assign": "3180699",
 		"jp_text": "女性共通クロボイス",
-		"tr_text": "Female All Races Kuro Voice",
+		"tr_text": "All Female All Races Kuro Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ斎藤 千和",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Chiwa Saito"
 	},
 	{
 		"assign": "3180703",
 		"jp_text": "男性共通ユーマボイス",
-		"tr_text": "Male Yuma Voice",
+		"tr_text": "All Male Yuma Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ島﨑 信長",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Nobunaga Shimazaki"
 	},
 	{
 		"assign": "3180704",
 		"jp_text": "男性共通マリオンボイス",
-		"tr_text": "Male Marion Voice",
+		"tr_text": "All Male Marion Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ沢城 みゆき",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Miyuki Sawashiro"
 	},
 	{
 		"assign": "3180705",
 		"jp_text": "男性共通ラグナボイス",
-		"tr_text": "Male Ragna Voice",
+		"tr_text": "All Male Ragna Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ杉田 智和",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Tomokazu Sugita"
 	},
 	{
 		"assign": "3180706",
 		"jp_text": "男性共通ジンボイス",
-		"tr_text": "Male Jin Voice",
+		"tr_text": "All Male Jin Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ柿原 徹也",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Tetsuya Kakihara"
 	},
 	{
 		"assign": "3180707",
 		"jp_text": "男性共通ソルボイス",
-		"tr_text": "Male Sol Voice",
+		"tr_text": "All Male Sol Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ中田 譲治",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Joji Nakata"
 	},
 	{
 		"assign": "3180708",
 		"jp_text": "男性共通カイボイス",
-		"tr_text": "Male Ky Voice",
+		"tr_text": "All Male Ky Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ草尾 毅",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Takeshi Kusao"
 	},
 	{
 		"assign": "3180709",
 		"jp_text": "女性共通クノーボイス",
-		"tr_text": "Female Kunoh Voice",
+		"tr_text": "All Female Kunoh Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ沢城 みゆき",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Miyuki Sawashiro"
 	},
 	{
 		"assign": "3180712",
 		"jp_text": "女性共通りらボイス",
-		"tr_text": "Female Lila Voice",
+		"tr_text": "All Female Lila Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ茅野 愛衣",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Ai Kayano"
 	},
 	{
 		"assign": "3180713",
 		"jp_text": "女性共通キリカボイス",
-		"tr_text": "Female Kirika Voice",
+		"tr_text": "All Female Kirika Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ早見 沙織",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Saori Hayami"
 	},
 	{
 		"assign": "3180714",
 		"jp_text": "女性共通リンナボイス",
-		"tr_text": "Female Rinna Voice",
+		"tr_text": "All Female Rinna Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ茅野 愛衣",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Ai Kayano"
 	},
 	{
 		"assign": "3180715",
 		"jp_text": "女性共通マリオンボイス",
-		"tr_text": "Female Marion Voice",
+		"tr_text": "All Female Marion Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ沢城 みゆき",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Miyuki Sawashiro"
 	},
 	{
 		"assign": "3180716",
 		"jp_text": "女性共通ソニアボイス",
-		"tr_text": "Female Sonia Voice",
+		"tr_text": "All Female Sonia Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ瀬戸 麻沙美",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Asami Seto"
 	},
@@ -4202,42 +4202,42 @@
 	{
 		"assign": "3180725",
 		"jp_text": "女性共通ノエルボイス",
-		"tr_text": "Female Noel Voice",
+		"tr_text": "All Female Noel Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ近藤 佳奈子",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Kanako Kondo"
 	},
 	{
 		"assign": "3180726",
 		"jp_text": "女性共通ミューボイス",
-		"tr_text": "Female Mu Voice",
+		"tr_text": "All Female Mu Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ近藤 佳奈子",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Kanako Kondo"
 	},
 	{
 		"assign": "3180727",
 		"jp_text": "女性共通イザヨイボイス",
-		"tr_text": "Female Izayoi Voice",
+		"tr_text": "All Female Izayoi Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ今井 麻美",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Asami Imai"
 	},
 	{
 		"assign": "3180728",
 		"jp_text": "女性共通メイボイス",
-		"tr_text": "Female May Voice",
+		"tr_text": "All Female May Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶこおろぎさとみ",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Satomi Korogi"
 	},
 	{
 		"assign": "3180729",
 		"jp_text": "女性共通ミリアボイス",
-		"tr_text": "Female Millia Voice",
+		"tr_text": "All Female Millia Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ住友 優子",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Yuko Sumitomo"
 	},
 	{
 		"assign": "3180730",
 		"jp_text": "女性共通エルフェルトボイス",
-		"tr_text": "Female Elphelt Voice",
+		"tr_text": "All Female Elphelt Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ洲崎 綾",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Aya Suzaki"
 	},
@@ -4356,14 +4356,14 @@
 	{
 		"assign": "3180763",
 		"jp_text": "女性共通美遊ボイス",
-		"tr_text": "Female Miyu Voice",
+		"tr_text": "All Female Miyu Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ名塚 佳織",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Kaori Nazuka"
 	},
 	{
 		"assign": "3180764",
 		"jp_text": "女性共通ルヴィアボイス",
-		"tr_text": "Female Luvia Voice",
+		"tr_text": "All Female Luvia Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ伊藤 静",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Shizuka Ito"
 	},
@@ -4433,14 +4433,14 @@
 	{
 		"assign": "3180789",
 		"jp_text": "男性共通オウドボイス",
-		"tr_text": "Male Oudo Voice",
+		"tr_text": "All Male Oudo Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ井上 和彦",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Kazuhiko Inoue"
 	},
 	{
 		"assign": "3180790",
 		"jp_text": "女性共通シキボイス",
-		"tr_text": "Female Shiki Voice",
+		"tr_text": "All Female Shiki Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ生天目 仁美",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Hitomi Nabatame"
 	},
@@ -4475,7 +4475,7 @@
 	{
 		"assign": "3180797",
 		"jp_text": "女性共通クラリスＫボイス",
-		"tr_text": "Female Clarice K Voice",
+		"tr_text": "All Female Clarice K Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ悠木 碧",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Aoi Yuki"
 	},
@@ -4524,21 +4524,21 @@
 	{
 		"assign": "3180812",
 		"jp_text": "男性共通マガシボイス",
-		"tr_text": "Male All Races Magashi Voice",
+		"tr_text": "All Male All Races Magashi Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ若本 規夫",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Norio Wakamoto"
 	},
 	{
 		"assign": "3180813",
 		"jp_text": "女性共通ルウボイス",
-		"tr_text": "Female All Races Lou Voice",
+		"tr_text": "All Female All Races Lou Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ川澄 綾子",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Ayako Kawasumi"
 	},
 	{
 		"assign": "3180816",
 		"jp_text": "男性共通バスクボイス",
-		"tr_text": "Male Vasque Voice",
+		"tr_text": "All Male Vasque Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ中田 譲治",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Joji Nakata"
 	},
@@ -4566,7 +4566,7 @@
 	{
 		"assign": "3180820",
 		"jp_text": "男性共通大神一郎ボイス",
-		"tr_text": "Male Voice Ogami",
+		"tr_text": "All Male Voice Ogami",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ陶山 章央",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Akio Suyama"
 	},
@@ -4594,14 +4594,14 @@
 	{
 		"assign": "3180825",
 		"jp_text": "男性共通ラッピーボイス",
-		"tr_text": "Male Rappy Voice",
+		"tr_text": "All Male Rappy Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ榎本 温子",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Atsuko Enomoto"
 	},
 	{
 		"assign": "3180826",
 		"jp_text": "男性共通ブルーノボイス",
-		"tr_text": "Male Bruno Voice",
+		"tr_text": "All Male Bruno Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ神原 大地",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Daichi Kanbara"
 	},
@@ -4636,7 +4636,7 @@
 	{
 		"assign": "3180831",
 		"jp_text": "男性共通セイルボイス",
-		"tr_text": "Male Sail Voice",
+		"tr_text": "All Male Sail Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ松岡 禎丞",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Yoshitsugu Matsuoka"
 	},
@@ -4944,21 +4944,21 @@
 	{
 		"assign": "3180890",
 		"jp_text": "男性共通ＳＯＲＯボイス",
-		"tr_text": "Male SORO Voice",
+		"tr_text": "All Male SORO Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ玄田 哲章",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Tessho Genda"
 	},
 	{
 		"assign": "3180891",
 		"jp_text": "男性共通イツキボイス",
-		"tr_text": "Male Itsuki Voice",
+		"tr_text": "All Male Itsuki Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ蒼井 翔太",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Shouta Aoi"
 	},
 	{
 		"assign": "3180892",
 		"jp_text": "男性共通イツキボイスＢ",
-		"tr_text": "Male Itsuki Voice B",
+		"tr_text": "All Male Itsuki Voice B",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ蒼井 翔太",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Shouta Aoi"
 	},
@@ -5000,7 +5000,7 @@
 	{
 		"assign": "3180898",
 		"jp_text": "女性共通真宮寺さくらボイス",
-		"tr_text": "Female Sakura Shinguji Voice",
+		"tr_text": "All Female Sakura Shinguji Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ横山 智佐",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Chisa Yokoyama"
 	},
@@ -5028,14 +5028,14 @@
 	{
 		"assign": "3180903",
 		"jp_text": "女性共通ラッピーボイス",
-		"tr_text": "Female Rappy Voice",
+		"tr_text": "All Female Rappy Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ榎本 温子",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Atsuko Enomoto"
 	},
 	{
 		"assign": "3180904",
 		"jp_text": "女性共通ヴィヴィアンボイス",
-		"tr_text": "Female Vivianne Voice",
+		"tr_text": "All Female Vivianne Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ豊口 めぐみ",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Megumi Toyoguchi"
 	},
@@ -5070,28 +5070,28 @@
 	{
 		"assign": "3180913",
 		"jp_text": "女性共通ジェネボイス",
-		"tr_text": "Female Gene Voice",
+		"tr_text": "All Female Gene Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ雨宮 天",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Sora Amamiya"
 	},
 	{
 		"assign": "3180914",
 		"jp_text": "女性共通アネットボイス",
-		"tr_text": "Female Annette Voice",
+		"tr_text": "All Female Annette Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ佳村 はるか",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Haruka Yoshimura"
 	},
 	{
 		"assign": "3180915",
 		"jp_text": "女性共通エリボイス",
-		"tr_text": "Female Ely Voice",
+		"tr_text": "All Female Ely Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ今井 麻美",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Asami Imai"
 	},
 	{
 		"assign": "3180916",
 		"jp_text": "女性共通クイナボイス",
-		"tr_text": "Female Quina Voice",
+		"tr_text": "All Female Quina Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ小倉 唯",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Yui Ogura"
 	},
@@ -5119,35 +5119,35 @@
 	{
 		"assign": "3180923",
 		"jp_text": "女性共通結月ゆかりボイス",
-		"tr_text": "Female Yuzuki Yukari Voice",
+		"tr_text": "All Female Yuzuki Yukari Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ結月 ゆかり",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Yuzuki Yukari"
 	},
 	{
 		"assign": "3180924",
 		"jp_text": "女性共通ルティナボイス",
-		"tr_text": "Female Lutina Voice",
+		"tr_text": "All Female Lutina Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ内田 真礼",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Maaya Uchida"
 	},
 	{
 		"assign": "3180925",
 		"jp_text": "女性共通フィルディアボイス",
-		"tr_text": "Female Fildia Voice",
+		"tr_text": "All Female Fildia Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ沢城 みゆき",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Miyuki Sawashiro"
 	},
 	{
 		"assign": "3180926",
 		"jp_text": "女性共通イズナボイス",
-		"tr_text": "Female Izuna Voice",
+		"tr_text": "All Female Izuna Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ茅野 愛衣",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Ai Kayano"
 	},
 	{
 		"assign": "3180927",
 		"jp_text": "女性共通レイシアボイス",
-		"tr_text": "Female Lacia Voice",
+		"tr_text": "All Female Lacia Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ東山 奈央 ",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Nao Toyama"
 	},
@@ -5259,9 +5259,9 @@
 	{
 		"assign": "3180958",
 		"jp_text": "女性追加ボイス２０５",
-		"tr_text": "",
+		"tr_text": "Female Extra Voice 205",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ豊崎 愛生",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nNon-Cast female characters only.\nCV: Aki Toyosaki"
 	},
 	{
 		"assign": "3180959",
@@ -5399,49 +5399,49 @@
 	{
 		"assign": "3180986",
 		"jp_text": "女性共通ＳＯＲＯボイス",
-		"tr_text": "Female SORO Voice",
+		"tr_text": "All Female SORO Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ玄田 哲章",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Tessho Genda"
 	},
 	{
 		"assign": "3180987",
 		"jp_text": "女性共通リナボイス",
-		"tr_text": "Female Human Rina Voice",
+		"tr_text": "All Female Human Rina Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ諏訪 彩花",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Ayaka Suwa"
 	},
 	{
 		"assign": "3180988",
 		"jp_text": "女性共通ＲＩＮＡボイス",
-		"tr_text": "Female RINA Voice",
+		"tr_text": "All Female RINA Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ諏訪 彩花",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Ayaka Suwa"
 	},
 	{
 		"assign": "3180989",
 		"jp_text": "女性共通リリカボイス",
-		"tr_text": "Female Lilika Voice",
+		"tr_text": "All Female Lilika Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ村川 梨衣",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Rie Murakawa"
 	},
 	{
 		"assign": "3180991",
 		"jp_text": "女性共通弓子ボイス",
-		"tr_text": "Female Yumiko Voice",
+		"tr_text": "All Female Yumiko Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ井上 喜久子",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Kikuko Inoue"
 	},
 	{
 		"assign": "3180992",
 		"jp_text": "女性共通シルバボイス",
-		"tr_text": "Female Silva Voice",
+		"tr_text": "All Female Silva Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ新田 恵海",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Emi Nitta"
 	},
 	{
 		"assign": "3180993",
 		"jp_text": "女性共通オーガキャッツＶｏ",
-		"tr_text": "Female Orga Cats Voice",
+		"tr_text": "All Female Orga Cats Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ桃井 はるこ",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Haruko Momoi"
 	},
@@ -6036,9 +6036,9 @@
 	{
 		"assign": "31801136",
 		"jp_text": "女性Ｃ追加ボイス２０５",
-		"tr_text": "",
+		"tr_text": "Female C Extra Voice 205",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ豊崎 愛生",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nFemale Casts only.\nCV: Aki Toyosaki"
 	},
 	{
 		"assign": "31801137",
@@ -6190,77 +6190,77 @@
 	{
 		"assign": "31801175",
 		"jp_text": "男性共通†コア†ボイス",
-		"tr_text": "Male †Coa† Voice",
+		"tr_text": "All Male †Coa† Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ島﨑 信長",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Nobunaga Shimazaki"
 	},
 	{
 		"assign": "31801176",
 		"jp_text": "男性共通ムサシボイス",
-		"tr_text": "Male Musashi Voice",
+		"tr_text": "All Male Musashi Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ吉野 裕行",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Hiroyuki Yoshino"
 	},
 	{
 		"assign": "31801177",
 		"jp_text": "男性共通ラスト侍ボイス",
-		"tr_text": "Male Last Samurai Voice",
+		"tr_text": "All Male Last Samurai Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ小西 克幸",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Katsuyuki Konishi"
 	},
 	{
 		"assign": "31801178",
 		"jp_text": "男性共通キッドボイス",
-		"tr_text": "Male Kidd Voice",
+		"tr_text": "All Male Kidd Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ井上 和彦",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Kazuhiko Inoue"
 	},
 	{
 		"assign": "31801179",
 		"jp_text": "男性共通マスターネズミＶｏ",
-		"tr_text": "Male Orga Cats Voice",
+		"tr_text": "All Male Orga Cats Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ瀬戸 麻沙美",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Asami Seto"
 	},
 	{
 		"assign": "31801180",
 		"jp_text": "男性共通ハギトボイス",
-		"tr_text": "Male Hagith Voice",
+		"tr_text": "All Male Hagith Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ鈴村 健一",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Kenichi Suzumura"
 	},
 	{
 		"assign": "31801181",
 		"jp_text": "男性共通ベトールボイス",
-		"tr_text": "Male Bethor Voice",
+		"tr_text": "All Male Bethor Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ中尾 隆聖",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Ryusei Nakao"
 	},
 	{
 		"assign": "31801182",
 		"jp_text": "男性共通アラトロンボイス",
-		"tr_text": "Male Aratron Voice",
+		"tr_text": "All Male Aratron Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶチョー",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Cho"
 	},
 	{
 		"assign": "31801183",
 		"jp_text": "男性共通オフィエルボイス",
-		"tr_text": "Male Ophiel Voice",
+		"tr_text": "All Male Ophiel Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ子安 武人",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Takehito Koyasu"
 	},
 	{
 		"assign": "31801185",
 		"jp_text": "男性共通【仮面】ボイス",
-		"tr_text": "Male Persona Voice",
+		"tr_text": "All Male Persona Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ木村 良平",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Ryohei Kimura"
 	},
 	{
 		"assign": "31801186",
 		"jp_text": "男性共通【巨躯】ボイス",
-		"tr_text": "Male Elder Voice",
+		"tr_text": "All Male Elder Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ飛田 展男",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Nobuo Tobita"
 	},
@@ -6337,21 +6337,21 @@
 	{
 		"assign": "31801203",
 		"jp_text": "男性共通【双子】ボイス",
-		"tr_text": "Male Double Voice",
+		"tr_text": "All Male Double Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ釘宮 理恵",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Rie Kugimiya"
 	},
 	{
 		"assign": "31801204",
 		"jp_text": "男性共通【敗者】ボイス",
-		"tr_text": "Male Loser Voice",
+		"tr_text": "All Male Loser Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ櫻井 孝宏",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Takahiro Sakurai"
 	},
 	{
 		"assign": "31801205",
 		"jp_text": "男性共通ゲッテムハルトＶｏ",
-		"tr_text": "Male All Races Gettemhart Voice",
+		"tr_text": "All Male All Races Gettemhart Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ飛田 展男",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Nobuo Tobita"
 	},
@@ -6463,7 +6463,7 @@
 	{
 		"assign": "31801228",
 		"jp_text": "男性共通ハギト・Ｆボイス",
-		"tr_text": "Male Hagith Phamut Voice",
+		"tr_text": "All Male Hagith Phemut Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ鈴村 健一",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Kenichi Suzumura"
 	},
@@ -6505,142 +6505,142 @@
 	{
 		"assign": "31801243",
 		"jp_text": "男性共通アヴェンジャーesＶｏ",
-		"tr_text": "Male Avenger-es Voice",
+		"tr_text": "All Male Avenger-es Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ梶 裕貴",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Yuki Kaji"
 	},
 	{
 		"assign": "31801244",
 		"jp_text": "男性共通ロードボイス",
-		"tr_text": "Male Lord Voice",
+		"tr_text": "All Male Lord Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ梶 裕貴",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Yuki Kaji"
 	},
 	{
 		"assign": "31801245",
 		"jp_text": "男性共通アルボイス",
-		"tr_text": "Male Aru Voice",
+		"tr_text": "All Male Aru Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ豊崎 愛生",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Aki Toyosaki"
 	},
 	{
 		"assign": "31801246",
 		"jp_text": "男性共通エンガボイス",
-		"tr_text": "Male Enga Voice",
+		"tr_text": "All Male Enga Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ細谷 佳正",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Yoshimasa Hosoya"
 	},
 	{
 		"assign": "31801247",
 		"jp_text": "男性共通ピエトロボイス",
-		"tr_text": "Male Pietro Voice",
+		"tr_text": "All Male Pietro Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ江口 拓也",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Takuya Eguchi"
 	},
 	{
 		"assign": "31801248",
 		"jp_text": "男性共通ライトニングＥＶｏ",
-		"tr_text": "Male Lightning Espada Voice",
+		"tr_text": "All Male Lightning Espada Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ市来 光弘",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Mitsuhiro Ichiki"
 	},
 	{
 		"assign": "31801249",
 		"jp_text": "男性共通ノクスカディナＶｏ",
-		"tr_text": "Male Nox Cadina Voice",
+		"tr_text": "All Male Nox Cadina Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ市来 光弘",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Mitsuhiro Ichiki"
 	},
 	{
 		"assign": "31801250",
 		"jp_text": "男性共通ヴォルフボイス",
-		"tr_text": "Male Wolf Voice",
+		"tr_text": "All Male Wolf Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ江口 拓也",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Takuya Eguchi"
 	},
 	{
 		"assign": "31801251",
 		"jp_text": "男性共通リーンボイス",
-		"tr_text": "Male Lien Voice",
+		"tr_text": "All Male Lien Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ高橋 未奈美",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Minami Takahashi"
 	},
 	{
 		"assign": "31801252",
 		"jp_text": "男性共通レギアスボイス",
-		"tr_text": "Male Regius Voice",
+		"tr_text": "All Male Regius Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ秋元 羊介",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Yosuke Akimoto"
 	},
 	{
 		"assign": "31801253",
 		"jp_text": "男性共通エルミルボイス",
-		"tr_text": "Male Elmir Voice",
+		"tr_text": "All Male Elmir Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ森久保 祥太郎",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Showtaro Morikubo"
 	},
 	{
 		"assign": "31801254",
 		"jp_text": "男性［ＥＸ］ボイスＡ２４",
-		"tr_text": "",
+		"tr_text": "Male [EX] Voice A24",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間男性のみ使用可能。\nＣＶ藤本 結衣",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nNon-Cast male characters only.\nCV: Yui Fujimoto"
 	},
 	{
 		"assign": "31801255",
 		"jp_text": "男性［ＥＸ］ボイスＡ２５",
-		"tr_text": "",
+		"tr_text": "Male [EX] Voice A25",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間男性のみ使用可能。\nＣＶ天野 名雪",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nNon-Cast male characters only.\nCV: Nayuki Amano"
 	},
 	{
 		"assign": "31801256",
 		"jp_text": "男性共通§イチカ§ボイス",
-		"tr_text": "Male §Ichika§ Voice",
+		"tr_text": "All Male §Ichika§ Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ金田 アキ",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Aki Kanada"
 	},
 	{
 		"assign": "31801257",
 		"jp_text": "男性共通エルデトロス",
-		"tr_text": "Eldetross Voice",
+		"tr_text": "All Male Eldetross Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ柿原 徹也",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Tetsuya Kakihara"
 	},
 	{
 		"assign": "31801258",
 		"jp_text": "男性共通アギトボイス",
-		"tr_text": "Agito Voice",
+		"tr_text": "All Male Agito Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ安元 洋貴",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Hiroki Yasumoto"
 	},
 	{
 		"assign": "31801259",
 		"jp_text": "男性共通アフィンボイス",
-		"tr_text": "Male Afin Voice",
+		"tr_text": "All Male Afin Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ下野 紘",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Hiro Shimono"
 	},
 	{
 		"assign": "31801261",
 		"jp_text": "男性共通ユリィボイス",
-		"tr_text": "Uly Male Voice",
+		"tr_text": "All Male Uly Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ増田 俊樹",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Toshiki Masuda"
 	},
 	{
 		"assign": "31801262",
 		"jp_text": "男性共通ジャスパーボイス",
-		"tr_text": "Jasper Male Voice",
+		"tr_text": "All Male Jasper Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ斉藤 壮馬",
 		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Soma Saito"
 	},
 	{
 		"assign": "31801263",
 		"jp_text": "男性共通ユリィＣボイス",
-		"tr_text": "",
+		"tr_text": "All Male Uly C Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ増田 俊樹",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nMale characters only (all races).\nCV: Toshiki Masuda"
 	},
 	{
 		"assign": "31801287",
@@ -6855,56 +6855,56 @@
 	{
 		"assign": "31801354",
 		"jp_text": "男性Ｃ［ＥＸ］ボイスＡ２４",
-		"tr_text": "",
+		"tr_text": "Male C [EX] Voice A24",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ藤本 結衣",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nMale Casts only.\nCV: Yui Fujimoto"
 	},
 	{
 		"assign": "31801355",
 		"jp_text": "男性Ｃ［ＥＸ］ボイスＡ２５",
-		"tr_text": "",
+		"tr_text": "Male C [EX] Voice A25",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ天野 名雪",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nMale Casts only.\nCV: Nayuki Amano"
 	},
 	{
 		"assign": "31801374",
 		"jp_text": "女性共通アイカボイス",
-		"tr_text": "Female Aika Voice",
+		"tr_text": "All Female Aika Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶＭ・Ａ・Ｏ",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: M・A・O"
 	},
 	{
 		"assign": "31801375",
 		"jp_text": "女性共通オークゥボイス",
-		"tr_text": "Female Och Voice",
+		"tr_text": "All Female Och Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ沼倉 愛美",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Manami Numakura"
 	},
 	{
 		"assign": "31801376",
 		"jp_text": "女性共通フルボイス",
-		"tr_text": "Female Phul Voice",
+		"tr_text": "All Female Phul Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ小倉 唯",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Yui Ogura"
 	},
 	{
 		"assign": "31801377",
 		"jp_text": "女性共通マザーボイス",
-		"tr_text": "Female Mother Voice",
+		"tr_text": "All Female Mother Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ佐藤 利奈",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Rina Sato"
 	},
 	{
 		"assign": "31801378",
 		"jp_text": "女性共通【仮面】ボイス",
-		"tr_text": "Female Persona Voice",
+		"tr_text": "All Female Persona Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ日笠 陽子",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Yoko Hikasa"
 	},
 	{
 		"assign": "31801379",
 		"jp_text": "女性共通【若人】ボイス",
-		"tr_text": "Female Apprentice Voice",
+		"tr_text": "All Female Apprentice Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ桑島 法子",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Houko Kuwashima"
 	},
@@ -6981,28 +6981,28 @@
 	{
 		"assign": "31801396",
 		"jp_text": "女性共通【双子】ボイス",
-		"tr_text": "Female Double Voice",
+		"tr_text": "All Female Double Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ釘宮 理恵",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Rie Kugimiya"
 	},
 	{
 		"assign": "31801397",
 		"jp_text": "女性共通マトイボイスＢ",
-		"tr_text": "Female Matoi Voice B",
+		"tr_text": "All Female Matoi Voice B",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ佐藤 聡美",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Satomi Sato"
 	},
 	{
 		"assign": "31801398",
 		"jp_text": "女性共通ユクリータボイス",
-		"tr_text": "Female Yucreta Voice",
+		"tr_text": "All Female Yucreta Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ伊瀬 茉莉也",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Mariya Ise"
 	},
 	{
 		"assign": "31801399",
 		"jp_text": "女性共通リサボイス",
-		"tr_text": "Female Lisa Voice",
+		"tr_text": "All Female Lisa Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ花澤 香菜",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Kana Hanazawa"
 	},
@@ -7037,7 +7037,7 @@
 	{
 		"assign": "31801412",
 		"jp_text": "女性共通ライアボイス",
-		"tr_text": "Female Laia Voice",
+		"tr_text": "All Female Laia Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ甲斐田 裕子",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Yuko Kaida"
 	},
@@ -7121,7 +7121,7 @@
 	{
 		"assign": "31801432",
 		"jp_text": "女性共通コオリ（ＭＣ）ボイス",
-		"tr_text": "Female Kohri (MC) Voice",
+		"tr_text": "All Female Kohri (MC) Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ洲崎 綾",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Aya Suzaki"
 	},
@@ -7184,77 +7184,77 @@
 	{
 		"assign": "31801447",
 		"jp_text": "女性共通ブルージーＲ　Ｖｏ",
-		"tr_text": "Female Bluesy-R Voice",
+		"tr_text": "All Female Bluesy-R Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ喜多村 英梨",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Eri Kitamura"
 	},
 	{
 		"assign": "31801448",
 		"jp_text": "女性共通マトイボイスＣ",
-		"tr_text": "Female Matoi Voice C",
+		"tr_text": "All Female Matoi Voice C",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ佐藤 聡美",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Satomi Sato"
 	},
 	{
 		"assign": "31801449",
 		"jp_text": "女性共通アルボイス",
-		"tr_text": "Female Aru Voice",
+		"tr_text": "All Female Aru Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ豊崎 愛生",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Aki Toyosaki"
 	},
 	{
 		"assign": "31801450",
 		"jp_text": "女性共通コオリボイス",
-		"tr_text": "Female Kohri Voice",
+		"tr_text": "All Female Kohri Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ洲崎 綾",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Aya Suzaki"
 	},
 	{
 		"assign": "31801451",
 		"jp_text": "女性共通ニレンカムイＶｏ",
-		"tr_text": "Female Twin Kamui Voice",
+		"tr_text": "All Female Twin Kamui Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ佐藤 聡美",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Satomi Sato"
 	},
 	{
 		"assign": "31801452",
 		"jp_text": "女性共通シューティングＤＶｏ",
-		"tr_text": "Female Shooting Drive Voice",
+		"tr_text": "All Female Shooting Drive Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ飯田 友子",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Yuko Iida"
 	},
 	{
 		"assign": "31801453",
 		"jp_text": "女性共通ラヴィス＝Ｂボイス",
-		"tr_text": "Female Lavis Blade Voice",
+		"tr_text": "All Female Lavis Blade Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ木村 珠莉",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Juri Kimura"
 	},
 	{
 		"assign": "31801454",
 		"jp_text": "女性共通アトッサボイス",
-		"tr_text": "Female Atossa Voice",
+		"tr_text": "All Female Atossa Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ榎本 温子",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Atsuko Enomoto"
 	},
 	{
 		"assign": "31801455",
 		"jp_text": "女性共通初代ＫＫボイス",
-		"tr_text": "Female First Gen CC Voice",
+		"tr_text": "All Female First Gen CC Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ能登 麻美子",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Mamiko Noto"
 	},
 	{
 		"assign": "31801456",
 		"jp_text": "女性共通シエラボイス",
-		"tr_text": "Female Xiera Voice",
+		"tr_text": "All Female Xiera Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ木村 珠莉",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Juri Kimura"
 	},
 	{
 		"assign": "31801457",
 		"jp_text": "女性共通アフタルボイス",
-		"tr_text": "Female Akhtar Voice",
+		"tr_text": "All Female Akhtar Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ黒沢 ともよ",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Tomoyo Kurosawa"
 	},
@@ -7534,7 +7534,7 @@
 	{
 		"assign": "31801560",
 		"jp_text": "女性共通クーナボイス",
-		"tr_text": "Female All Race Quna Voice",
+		"tr_text": "All Female All Race Quna Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ喜多村 英梨",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Eri Kitamura"
 	},
@@ -7569,112 +7569,112 @@
 	{
 		"assign": "31801566",
 		"jp_text": "女性共通マリアボイス",
-		"tr_text": "Female Maria Voice",
+		"tr_text": "All Female Maria Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ小山 茉美",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Mami Koyama"
 	},
 	{
 		"assign": "31801568",
 		"jp_text": "女性共通ストラトスボイス",
-		"tr_text": "Female Stratos Voice",
+		"tr_text": "All Female Stratos Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ佐倉 綾音",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Ayane Sakura"
 	},
 	{
 		"assign": "31801570",
 		"jp_text": "女性［ＥＸ］ボイスＡ２９",
-		"tr_text": "",
+		"tr_text": "Female [EX] Voice A29",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ藤本 結衣",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nNon-Cast female characters only.\nCV: Yui Fujimoto"
 	},
 	{
 		"assign": "31801571",
 		"jp_text": "女性Ｃ［ＥＸ］ボイスＡ２９",
-		"tr_text": "",
+		"tr_text": "Female C [EX] Voice A29",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ藤本 結衣",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nFemale Casts only.\nCV: Yui Fujimoto"
 	},
 	{
 		"assign": "31801572",
 		"jp_text": "女性［ＥＸ］ボイスＡ３０",
-		"tr_text": "",
+		"tr_text": "Female [EX] Voice A30",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ藤本 結衣",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nNon-Cast female characters only.\nCV: Yui Fujimoto"
 	},
 	{
 		"assign": "31801573",
 		"jp_text": "女性Ｃ［ＥＸ］ボイスＡ３０",
-		"tr_text": "",
+		"tr_text": "Female C [EX] Voice A30",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ藤本 結衣",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nFemale Casts only.\nCV: Yui Fujimoto"
 	},
 	{
 		"assign": "31801574",
 		"jp_text": "女性［ＥＸ］ボイスＡ３１",
-		"tr_text": "",
+		"tr_text": "Female [EX] Voice A31",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ藤本 結衣",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nNon-Cast female characters only.\nCV: Yui Fujimoto"
 	},
 	{
 		"assign": "31801575",
 		"jp_text": "女性Ｃ［ＥＸ］ボイスＡ３１",
-		"tr_text": "",
+		"tr_text": "Female C [EX] Voice A31",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ藤本 結衣",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nFemale Casts only.\nCV: Yui Fujimoto"
 	},
 	{
 		"assign": "31801576",
 		"jp_text": "女性［ＥＸ］ボイスＡ３２",
-		"tr_text": "",
+		"tr_text": "Female [EX] Voice A32",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ天野 名雪",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nNon-Cast female characters only.\nCV: Nayuki Amano"
 	},
 	{
 		"assign": "31801577",
 		"jp_text": "女性Ｃ［ＥＸ］ボイスＡ３２",
-		"tr_text": "",
+		"tr_text": "Female C [EX] Voice A32",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ天野 名雪",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nFemale Casts only.\nCV: Nayuki Amano"
 	},
 	{
 		"assign": "31801578",
 		"jp_text": "女性［ＥＸ］ボイスＡ３３",
-		"tr_text": "",
+		"tr_text": "Female [EX] Voice A33",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ天野 名雪",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nNon-Cast female characters only.\nCV: Nayuki Amano"
 	},
 	{
 		"assign": "31801579",
 		"jp_text": "女性Ｃ［ＥＸ］ボイスＡ３３",
-		"tr_text": "",
+		"tr_text": "Female C [EX] Voice A33",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ天野 名雪",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nFemale Casts only.\nCV: Nayuki Amano"
 	},
 	{
 		"assign": "31801580",
 		"jp_text": "女性［ＥＸ］ボイスＡ３４",
-		"tr_text": "",
+		"tr_text": "Female [EX] Voice A34",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ天野 名雪",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nNon-Cast female characters only.\nCV: Nayuki Amano"
 	},
 	{
 		"assign": "31801581",
 		"jp_text": "女性Ｃ［ＥＸ］ボイスＡ３４",
-		"tr_text": "",
+		"tr_text": "Female C [EX] Voice A34",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ天野 名雪",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nFemale Casts only.\nCV: Nayuki Amano"
 	},
 	{
 		"assign": "31801582",
 		"jp_text": "女性共通みたらしボイス",
-		"tr_text": "Female Mitarashi Voice",
+		"tr_text": "All Female Mitarashi Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ田辺 留依",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Rui Tanabe"
 	},
 	{
 		"assign": "31801584",
 		"jp_text": "女性共通テトラボイス",
-		"tr_text": "Female Tetra Voice",
+		"tr_text": "All Female Tetra Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ引坂 理絵",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Rie Hikisaka"
 	},
@@ -7702,85 +7702,85 @@
 	{
 		"assign": "31801598",
 		"jp_text": "女性共通イオボイス",
-		"tr_text": "Female All Race Io Voice",
+		"tr_text": "All Female Io Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ竹達 彩奈",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Ayana Taketatsu"
 	},
 	{
 		"assign": "31801600",
 		"jp_text": "女性共通メルフォンＳボイス",
-		"tr_text": "Female Melphonsina Voice",
+		"tr_text": "All Female Melphonsina Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ花澤 香菜",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Kana Hanazawa"
 	},
 	{
 		"assign": "31801608",
 		"jp_text": "女性共通ステラボイス",
-		"tr_text": "Stella Female Voice",
+		"tr_text": "All Female Stella Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ藤田 茜",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Akane Fujita"
 	},
 	{
 		"assign": "31801610",
 		"jp_text": "女性共通ローザリンデ",
-		"tr_text": "Rosalinde Female Voice",
+		"tr_text": "All Female Rosalinde Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ小松 未可子",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Mikako Komatsu"
 	},
 	{
 		"assign": "31801612",
 		"jp_text": "女性共通ウィンディス",
-		"tr_text": "Wyndis Female Voice",
+		"tr_text": "All Female Wyndis Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ本渡 楓",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Kaede Hondo"
 	},
 	{
 		"assign": "31801614",
 		"jp_text": "女性共通ポポナボイス",
-		"tr_text": "Popona Female Voice",
+		"tr_text": "All Female Popona Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶポポナ",
 		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Popona"
 	},
 	{
 		"assign": "31801616",
 		"jp_text": "女性共通メリッサボイス",
-		"tr_text": "",
+		"tr_text": "All Female Melissa Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ雨宮 天",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Sora Amamiya"
 	},
 	{
 		"assign": "31801618",
 		"jp_text": "女性共通ゾラボイス",
-		"tr_text": "",
+		"tr_text": "All Female Zora Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ古賀 葵",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Aoi Koga"
 	},
 	{
 		"assign": "31801620",
 		"jp_text": "女性共通ローザリンデＣ",
-		"tr_text": "",
+		"tr_text": "Female Rosalinde Voice C",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ小松 未可子",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Mikako Komatsu"
 	},
 	{
 		"assign": "31801622",
 		"jp_text": "女性追加ボイス２０４",
-		"tr_text": "",
+		"tr_text": "Female Extra Voice 204",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ矢島 晶子",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nNon-Cast female characters only.\nCV: Akiko Yajima"
 	},
 	{
 		"assign": "31801623",
 		"jp_text": "女性Ｃ追加ボイス２０４",
-		"tr_text": "",
+		"tr_text": "Female C Extra Voice 204",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ矢島 晶子",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nFemale Casts only.\nCV: Akiko Yajima"
 	},
 	{
 		"assign": "31801624",
 		"jp_text": "女性共通アベーユボイス",
-		"tr_text": "",
+		"tr_text": "All Female Abeille Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ藤田 曜子",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Yoko Fujita"
 	}
 ]
