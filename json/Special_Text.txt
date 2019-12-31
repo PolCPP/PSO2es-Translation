@@ -5844,7 +5844,7 @@
 		"jp_name": "サンタソ・レー",
 		"tr_name": "Santa Sleigh",
 		"jp_text": "おい！　そこのおまえら！！<%br>サンタクロースのジジイを見なかったか！？",
-		"tr_text": "",
+		"tr_text": "Hey! You there!!<%br>Did you see old man Santa go by here?!",
 		"fileID": 6
 	},
 	{
@@ -5852,7 +5852,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "サンタ！？　サンタって……<%br>あのサンタクロースのことか！？",
-		"tr_text": "",
+		"tr_text": "Santa?! Santa...<%br>Wait, THAT Santa?!",
 		"fileID": 6
 	},
 	{
@@ -5860,7 +5860,7 @@
 		"jp_name": "サンタソ・レー",
 		"tr_name": "Santa Sleigh",
 		"jp_text": "当たり前だろ！<%br>ほかにどのサンタがいるってんだ！",
-		"tr_text": "",
+		"tr_text": "Of course that Santa!<%br>What other Santa is there?!",
 		"fileID": 6
 	},
 	{
@@ -5868,7 +5868,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "ほら見ろ、ブルーノ！<%br>サンタクロースはホントにいるじゃないか！",
-		"tr_text": "",
+		"tr_text": "Did you hear that, Bruno?!<%br>Santa Claus is really here!",
 		"fileID": 6
 	},
 	{
@@ -5876,7 +5876,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "え！？　だ……だって、サンタなんてのは<%br>恋人だったり、親だったり、店のオヤジだったり……",
-		"tr_text": "",
+		"tr_text": "Say what?! W-well, he's a family man,<%br>he's probably got his shopping to do...",
 		"fileID": 6
 	},
 	{
@@ -5884,7 +5884,7 @@
 		"jp_name": "サンタソ・レー",
 		"tr_name": "Santa Sleigh",
 		"jp_text": "うるせぇな！　見たのか、見てないのかって<%br>聞いてんだよ！　どうなんだ？　見たのか！？",
-		"tr_text": "",
+		"tr_text": "Heeeeey! I asked whether you<%br>saw him or not! Well? Did you?!",
 		"fileID": 6
 	},
 	{
@@ -5892,7 +5892,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "い、いや……生まれてこの方……<%br>サンタクロースなんて、見たことも……",
-		"tr_text": "",
+		"tr_text": "No, I... I've wanted to since I was a kid, but...<%br>No, I've never seen Santa myself...",
 		"fileID": 6
 	},
 	{
@@ -5900,7 +5900,7 @@
 		"jp_name": "サンタソ・レー",
 		"tr_name": "Santa Sleigh",
 		"jp_text": "ちっ……あのジジイ……オレがプレゼントを<%br>積み込みしてる最中に逃げやがって……",
-		"tr_text": "",
+		"tr_text": "Ugh... That stupid old man... He ran off<%br>in the middle of loading up presents...",
 		"fileID": 6
 	},
 	{
@@ -5908,7 +5908,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "ねぇ、貴方……<%br>本気でサンタクロースを捜しているの？",
-		"tr_text": "",
+		"tr_text": "Excuse me, but...<%br>Are you really looking for Santa Claus?",
 		"fileID": 6
 	},
 	{
@@ -5916,7 +5916,7 @@
 		"jp_name": "サンタソ・レー",
 		"tr_name": "Santa Sleigh",
 		"jp_text": "だから、当たり前だろ！　サンタがいなかったら<%br>クリスマスのプレゼントはどうなるんだ！？",
-		"tr_text": "",
+		"tr_text": "Of course I am! What's going to happen<%br>to all these presents without Santa?!",
 		"fileID": 6
 	},
 	{
@@ -5924,7 +5924,7 @@
 		"jp_name": "サンタソ・レー",
 		"tr_name": "Santa Sleigh",
 		"jp_text": "今晩中にプレゼントを配りきらないとダメなんだ！<%br>遊んでるヒマなんて、ないっつーの！",
-		"tr_text": "",
+		"tr_text": "We have to deliver all these tonight! There's<%br>no time for the old guy to mess around!",
 		"fileID": 6
 	},
 	{
@@ -5932,7 +5932,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "たしかに……プレゼントは大切です。<%br>リーダー、手伝ってあげられませんか？",
-		"tr_text": "",
+		"tr_text": "Yes... These presents are very important.<%br>Leader, is there any way we can help?",
 		"fileID": 6
 	},
 	{
@@ -5940,14 +5940,14 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "たしかに……プレゼントは大切です。<%br>リーダー、手伝ってあげられませんか？",
-		"tr_text": "",
+		"tr_text": "Yes... These presents are very important.<%br>Leader, is there any way we can help?",
 		"jp_buttons": [
 			"わかった、捜索を手伝おう！",
 			"サンタ包囲網作戦を発動するっ！"
 		],
 		"tr_buttons": [
-			"",
-			""
+			"Alright, we'll help search!",
+			"Activate the Santa Search Network!"
 		],
 		"fileID": 6
 	},
@@ -5956,7 +5956,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "はい！　わかりました！<%br>それじゃあ、みんなにも手伝ってもらいましょう！",
-		"tr_text": "",
+		"tr_text": "Understood!<%br>We'll gather everyone we can to help!",
 		"fileID": 6
 	},
 	{
@@ -5964,7 +5964,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "おう！ オレも手伝うぜ！<%br>ほかのウェポノイドたちにも、手伝わせようぜ！",
-		"tr_text": "",
+		"tr_text": "Yeah! I'll help too! And I'll get all<%br>the other Weaponoids ta pitch in!",
 		"fileID": 6
 	},
 	{
@@ -5972,7 +5972,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "どうだ！　サンタ包囲網作戦のメンバー<%br>こんなに集まったぞ！！",
-		"tr_text": "",
+		"tr_text": "Check it out! All the Operation:<%br>Catch Santa members are here!!",
 		"fileID": 6
 	},
 	{
@@ -5980,7 +5980,7 @@
 		"jp_name": "サンタソ・レー",
 		"tr_name": "Santa Sleigh",
 		"jp_text": "スゲー！　ひと声かけただけでこんなに集まるたぁ……<%br>リーダー、おまえ名のある総長か？",
-		"tr_text": "",
+		"tr_text": "Wow! You got this many so quickly...<%br>Leader, will you head up the operation?",
 		"fileID": 6
 	},
 	{
@@ -5988,7 +5988,7 @@
 		"jp_name": "ライトニングエスパーダ",
 		"tr_name": "Lightning Espada",
 		"jp_text": "第１部隊隊長、ライトニングエスパーダ。<%br>ウェポノイド騎士隊とともに参上だ。",
-		"tr_text": "",
+		"tr_text": "1st Unit Commander, Lightning Espada.<%br>I've brought the Weaponoid Knights.",
 		"fileID": 6
 	},
 	{
@@ -5996,7 +5996,7 @@
 		"jp_name": "ヤミガラス",
 		"tr_name": "Yamigarasu",
 		"jp_text": "第２部隊隊長、ヤミガラス。<%br>諜報任務は引き受ける。",
-		"tr_text": "",
+		"tr_text": "2nd Unit Commander, Yamigarasu.<%br>My Unit will handle intelligence.",
 		"fileID": 6
 	},
 	{
@@ -6004,7 +6004,7 @@
 		"jp_name": "セイガーソード",
 		"tr_name": "Seiga Sword",
 		"jp_text": "第３部隊隊長、セイガーソード。<%br>昨日の敵は今日の友！　みんなで握手だ！",
-		"tr_text": "",
+		"tr_text": "3rd Unit Commander, Seiga Sword.<%br>Yesterday's enemy is today's friend!",
 		"fileID": 6
 	},
 	{
@@ -6012,7 +6012,7 @@
 		"jp_name": "カジューシース",
 		"tr_name": "Caduceus",
 		"jp_text": "第４部隊隊長、カジューシース。<%br>私たちテクターが来たからには、解決したも同然！",
-		"tr_text": "",
+		"tr_text": "4th Unit Commander, Caduceus.<%br>We'll have this solved before we even arrive!",
 		"fileID": 6
 	},
 	{
@@ -6020,7 +6020,7 @@
 		"jp_name": "ヤスミノコフ８０００Ｃ",
 		"tr_name": "Yasminkov 8000C",
 		"jp_text": "第５部隊隊長、ヤスミノコフ８０００Ｃであります！<%br>じ、自分が隊長でいいのであるますか！",
-		"tr_text": "",
+		"tr_text": "I'm the 5th Unit Commander, Yasminkov 8000C!<%br>D-do I really get to be a Commander?!",
 		"fileID": 6
 	},
 	{
@@ -6028,7 +6028,7 @@
 		"jp_name": "スペース・ツナ",
 		"tr_name": "Space Tuna",
 		"jp_text": "第６部隊隊長、スペース・ツナ、ツナ！<%br>フリーズ・ツナと、なんか鳥のヒトと行くツナ！",
-		"tr_text": "",
+		"tr_text": "6th Unit Commander, Space Tuna-tuna!<%br>I got Freeze Tuna and some bird guy-tuna!",
 		"fileID": 6
 	},
 	{
@@ -6036,7 +6036,7 @@
 		"jp_name": "デュアルバード",
 		"tr_name": "Dual Bird",
 		"jp_text": "第３７部隊隊長、デュアルバード。<%br>え、えーと……３８だっけ？",
-		"tr_text": "",
+		"tr_text": "37th Unit Commander, Dual Bird.<%br>U, um... or is it 38th?",
 		"fileID": 6
 	},
 	{
@@ -6044,7 +6044,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "……まだ続くの？　もう、自己紹介はいいわ。<%br>それで、サンタの居場所のあてはあるの？",
-		"tr_text": "",
+		"tr_text": "...Has everyone introduced themselves? Good.<%br>So, what do we know about Santa's location?",
 		"fileID": 6
 	},
 	{
@@ -6052,7 +6052,7 @@
 		"jp_name": "ヤミガラス",
 		"tr_name": "Yamigarasu",
 		"jp_text": "目撃情報がある。惑星ナベリウスの凍土エリアで<%br>赤くて太った人影を見たそうだ。たぶん……",
-		"tr_text": "",
+		"tr_text": "This report just came in. A red and white<%br>figure seen in the Tundra. It could be...",
 		"fileID": 6
 	},
 	{
@@ -6060,7 +6060,7 @@
 		"jp_name": "サンタソ・レー",
 		"tr_name": "Santa Sleigh",
 		"jp_text": "サンタクロースのジジイにちがいねぇっ！<%br>行くぞ、リーダー！　おまえらもついてきなっ！！",
-		"tr_text": "",
+		"tr_text": "If you're right, that could be old man Santa!<%br>Let's go, Leader! We're right behind you!!",
 		"fileID": 6
 	},
 	{
@@ -6068,7 +6068,7 @@
 		"jp_name": "サンタ包囲網作戦メンバー",
 		"tr_name": "Operation: Catch Santa Members",
 		"jp_text": "おーっ！ ",
-		"tr_text": "",
+		"tr_text": "Aye-aye!",
 		"fileID": 6
 	},
 	{
