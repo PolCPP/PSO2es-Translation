@@ -191,7 +191,7 @@ cv_names = {
     "小松 未可子": "Mikako Komatsu", "本渡 楓": "Kaede Hondo",
     "ポポナ": "Popona", "藤本 結衣": "Yui Fujimoto",
     "天野 名雪": "Nayuki Amano", "古賀 葵": "Aoi Koga",
-    "矢島 晶子": "Akiko Yajima", "藤田 曜子", "Yoko Fujita"
+    "矢島 晶子": "Akiko Yajima", "藤田 曜子": "Yoko Fujita",
     "？？？": "???", "Ｍ・Ａ・Ｏ": "M・A・O"
     }
 
