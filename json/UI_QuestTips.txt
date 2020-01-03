@@ -1197,12 +1197,12 @@
 	{
 		"assign": "0239",
 		"jp_text": "<color=#f0df60>＜階層達成報酬を入手しよう！＞</color>\n３０階、６０階など、\n特定のブロックを達成すると\n階層達成報酬が手に入ります。\nエターナルタワーの最上階を目指しましょう！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Get the Tier Achievement Reward!></color>\nWhen you clear floor 30, floor 60, floor 90\nand floor 100, you will receive a special\n\"Tier Achievement Reward\". Aim for\nthe top floor of the Eternal Tower!"
 	},
 	{
 		"assign": "0240",
 		"jp_text": "<color=#f0df60>＜合計時間で豪華報酬！＞</color>\n各ブロックのクリアタイムの合計に応じて\n合計時間報酬が手に入ります。\nブロック毎のクリアタイムを縮めて\n豪華報酬を手に入れましょう！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Top Times Get Top Rewards!></color>\nYou will get a reward based on your total\nclear time for the entire Tower.\nReduce your clear time for each block as\nmuch as possible and earn the best\nreward you can!"
 	},
 	{
 		"assign": "0241",
@@ -1212,22 +1212,22 @@
 	{
 		"assign": "0242",
 		"jp_text": "<color=#f0df60>＜上層ランキングを目指せ！＞</color>\n上層ランキングの報酬は\n下層ランキングより良い報酬となります。\nですので、下層ランキング内で順位を競うより\n上層ランキングにエントリーした方がお得ですよ！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Aim for the Higher Rankings!></color>\nThe rewards for the higher-tier rankings\nare better than the lower-tier ones.\nIt's better to come in low in the high tiers\nthan high in the low tiers!"
 	},
 	{
 		"assign": "0243",
 		"jp_text": "<color=#f0df60>＜フレンドと同じブロックでプレイしよう！＞</color>\nフレンドがいるブロックをプレイするとパネル選択時に\n「フレンドボーナス」としてボーナスパネルが1つ\nプレゼントされます。\nブロックのクリア時間短縮に有利になるでしょう！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Play in the Same Blocks as your Friends!></color>\nWhen you play a block that your friend is\nin, you will be given a \"Friend Bonus\",\nconsisting of one bonus panel. Use this\nbonus to clear the block even faster!"
 	},
 	{
 		"assign": "0244",
 		"jp_text": "<color=#f0df60>＜プレイヤーに特殊な制限が発生＞</color>\nこのブロックでは「ＨＰ回復無効」になります。\nチップの効果を使用しても、ＨＰは回復しません。\n唯一の回復方法は、ボーナスパネルのＨＰ回復となります！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Special Restrictions on Players></color>\nIn this block, HP recovery is disabled.\nIf you attempt to use a chip that\nrecovers HP, no HP will be recovered.\nThe only way to recover HP is by the\neffect of a Bonus Panel!"
 	},
 	{
 		"assign": "0245",
 		"jp_text": "<color=#f0df60>＜特効武器でバトルを有利に！＞</color>\nこのブロックのエネミーは\nブロックに設定されている特効武器で攻撃すると\n通常以上のダメージを与えることができます。\n特効武器を装備して挑戦してみてください！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Use Weapon Boost to your Advantage!></color>\nOn this block, you will deal more damage\nthan usual when attacking with weapons\nthat match the block's Weapon Boost.\nEquip a boosted weapon and attack!"
 	},
 	{
 		"assign": "0246",
@@ -1302,12 +1302,12 @@
 	{
 		"assign": "0260",
 		"jp_text": "<color=#f0df60>＜プレイヤーに特殊な制限が発生＞</color>\nこのブロックでは「一定時間ごとにＨＰが減少」します。\nＨＰ回復の用意はできていますか？\n残りＨＰの量に、気をつけて挑んでくださいね！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Special Restrictions on Players></color>\nIn this block, your HP will decrease at\nregular intervals. Are you prepared to\nrecover your HP? Keep an eye on how\nmuch you have left!"
 	},
 	{
 		"assign": "0261",
 		"jp_text": "<color=#f0df60>＜プレイヤーに特殊な制限が発生＞</color>\nこのブロックでは「通常攻撃で与えるダメージが減少」\nします。通常攻撃ではエネミーを倒しづらいでしょう。\n必殺技や法術など、様々な攻撃方法を駆使して\nエネミーに立ち向かってください！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Special Restrictions on Players></color>\nIn this block, damage dealt by normal\nattacks is reduced. Try using special\nattacks like PAs and Techniques to\ndefeat enemies!"
 	},
 	{
 		"assign": "0262",
@@ -1332,12 +1332,12 @@
 	{
 		"assign": "0266",
 		"jp_text": "<color=#f0df60>＜プレイヤーに特殊な制限が発生＞</color>\nこのブロックでは\n「一定数値以下のダメージが大幅に減少」します。\n中途半端な威力の攻撃では効果が薄いため\n一撃の威力が高い攻撃に切り替えて進みましょう！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Special Restrictions on Players></color>\nIn this block, damage below a certain\namount is greatly reduced. Rapid but\nweak attacks will be ineffective, so\nswitch to the most powerful single hits\nthat you have and proceed!"
 	},
 	{
 		"assign": "0267",
 		"jp_text": "<color=#f0df60>＜プレイヤーに特殊な制限が発生＞</color>\nこのブロックでは\n「バトル中のＨＰ回復が無効化」されます。\nチップの効果を使用しても、ＨＰは回復しません。\nできるだけダメージを受けないように\n気をつけて進みましょう。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Special Restrictions on Players></color>\nThis block disables HP recovery during.\nbattle. If you attempt to use a chip that\nrecovers HP, no HP will be recovered.\nBe careful not to take damage."
 	},
 	{
 		"assign": "0268",
