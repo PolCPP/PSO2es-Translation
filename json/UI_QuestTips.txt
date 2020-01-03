@@ -277,7 +277,7 @@
 	{
 		"assign": "0055",
 		"jp_text": "<color=#f0df60>＜さらなる強さを求めて＞</color>\n『PSO2』では、レアで強力な武器が\n多数用意されてます。さらに属性を強化したり\n特殊能力を追加付与することもできるんです。\nより強力な武器が、あなたを待っていますよ！",
-		"tr_text": "<color=#f0df60><></color>\nIn PSO2, you can acquire a variety of rare and\npowerful weapons. You can also enhance their\npower further by adding Special Abilities to them.\nMany strong weapons await you!"
+		"tr_text": "<color=#f0df60><Pursue Further Power></color>\nIn PSO2, you can acquire a variety of rare and\npowerful weapons. You can also enhance their\npower further by adding Special Abilities to them.\nMany strong weapons await you!"
 	},
 	{
 		"assign": "0056",
@@ -602,7 +602,7 @@
 	{
 		"assign": "0120",
 		"jp_text": "<color=#f0df60>＜解放素材チップを入手しよう＞</color>\nこのクエストでは、バウンサー用の武器のほか\n「フォトン活性因子」など\nチップ解放に必要な素材が手に入りますよ。\n集めてチップを解放しましょう。",
-		"tr_text": "<color=#f0df60><Get Release Material Chips></color>\nIn this quest, you will get Bouncer weapons\nand Photon Agents. Collect them and\nrelease your chips."
+		"tr_text": "<color=#f0df60><Get Release Material Chips></color>\nIn this quest, you will get Bouncer weapons\nand Active Photon Agents. Collect them and\nrelease your chips."
 	},
 	{
 		"assign": "0121",
@@ -632,22 +632,22 @@
 	{
 		"assign": "0126",
 		"jp_text": "<color=#f0df60>＜龍族チップの解放素材を入手しよう＞</color>\nこのクエストでは\n「アムドゥスキア超常素子」「星石の巨大結晶」など\nチップ解放に必要な素材が手に入りますよ。\n集めてチップを解放しましょう！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Release Materials for Dragonkin Chips></color>\nIn this quest, you will get chips that you\nneed to release other chips, such as\nAmduscia Paranormal Elements and\nLarge Star Stone Crystals.\nCollect them and release your chips!"
 	},
 	{
 		"assign": "0127",
 		"jp_text": "<color=#f0df60>＜キャラクターチップの解放素材を入手しよう＞</color>\nこのクエストでは\n「フォトン活性因子」「星石の巨大結晶」など\nチップ解放に必要な素材が手に入りますよ。\n集めてチップを解放しましょう！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Release Materials for Character Chips></color>\nIn this quest, you will get chips that you\nneed to release other chips, such as\nActive Photon Agents and\nLarge Star Stone Crystals.\nCollect them and release your chips!"
 	},
 	{
 		"assign": "0128",
 		"jp_text": "<color=#f0df60>＜原生種チップの解放素材を入手しよう＞</color>\nこのクエストでは\n「ナベリウス超常素子」「星石の巨大結晶」など\nチップ解放に必要な素材が手に入りますよ。\n集めてチップを解放しましょう！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Release Materials for Native Chips></color>\nIn this quest, you will get chips that you\nneed to release other chips, such as\nNaberius Paranormal Elements and\nLarge Star Stone Crystals.\nCollect them and release your chips!"
 	},
 	{
 		"assign": "0129",
 		"jp_text": "<color=#f0df60>＜機甲種チップの解放素材を入手しよう＞</color>\nこのクエストでは\n「リリーパ超常素子」「星石の巨大結晶」など\nチップ解放に必要な素材が手に入りますよ。\n集めてチップを解放しましょう！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Release Materials for Mech Chips></color>\nIn this quest, you will get chips that you\nneed to release other chips, such as\nLillipa Paranormal Elements and\nLarge Star Stone Crystals.\nCollect them and release your chips!"
 	},
 	{
 		"assign": "0130",
@@ -657,12 +657,12 @@
 	{
 		"assign": "0131",
 		"jp_text": "<color=#f0df60>＜射撃・法撃武器を入手しよう＞</color>\nこのクエストでは\n「ライフル」「ツインマシンガン」など射撃系の武器や\n「ロッド」「ジェットブーツ」など法撃系の武器が\n手に入りやすいですよ。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Get Shooting & Tech Weapons></color>\nIn this quest, you can get shooting weapons,\nsuch as Rifles and Twin Machineguns, as\nwell as Tech weapons, such as Rods and\nJet Boots.\nGo forth and gather powerful weapons!"
 	},
 	{
 		"assign": "0132",
 		"jp_text": "<color=#f0df60>＜改造されたエネミー＞</color>\nこの区域では、何者かによって改造された\nエネミーが目撃されています。\n全身から立ちのぼる黒いモヤが特徴とのことですが……\n気をつけて進んで行きましょう！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Modified Enemies></color>\nAccording to eyewitness reports, there\nare enemies that seem to have been\nmodified by someone in this area.\nA black haze is said to rise from their\nbodies... Proceed with caution!"
 	},
 	{
 		"assign": "0133",
@@ -682,12 +682,12 @@
 	{
 		"assign": "0136",
 		"jp_text": "<color=#f0df60>＜未確認のエネミー＞</color>\nタイプCとは異なる未知の力を持ったエネミーが\n出現するという情報が入っています！\n状態異常攻撃をしてくるとのことですが……\n遭遇したらできるだけ敵の攻撃をかわすのが得策です！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Unidentified Enemy></color>\nWe've received information that an\nenemy with an unusual power is likely to\nappear, different from that of a Type-C!\nIts attacks can inflict status effects...\nTry to dodge all of its attacks!"
 	},
 	{
 		"assign": "0137",
 		"jp_text": "<color=#f0df60>＜ラッピーチップをゲットしよう＞</color>\nこのクエストでは様々な種類のラッピーと\n遭遇できるようです。\n今までに取り逃した限定ラッピーチップを\nゲットするチャンスですよ！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Get Rappy Chips></color>\nIn this quest, you will encounter various\nkinds of Rappy. This is a good chance to\nget any limited-time Rappy chips that\nyou missed!"
 	},
 	{
 		"assign": "0138",
