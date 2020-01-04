@@ -7668,7 +7668,7 @@
 		"jp_explainShort": "プレイヤーパラメータ加算",
 		"tr_explainShort": "Player Parameter Increase",
 		"jp_explainLong": "プレイヤーの HP を 300 上昇する。\\nさらにアビリティレベルに応じて、上昇量が増える。",
-		"tr_explainLong": "Increases player HP by 300.\\nFurther increases HP based on\\nthis chip's ability level.",
+		"tr_explainLong": "Increases player HP by 300 + 10 x this chip's\\nability level.",
 		"flag": 0
 	},
 	{
@@ -7676,7 +7676,7 @@
 		"jp_explainShort": "プレイヤーパラメータ加算",
 		"tr_explainShort": "Player Parameter Increase",
 		"jp_explainLong": "プレイヤーの HP を 300 上昇する。\\nさらにアビリティレベルに応じて、上昇量が増える。",
-		"tr_explainLong": "Increases player HP by 300.\\nFurther increases HP based on\\nthis chip's ability level.",
+		"tr_explainLong": "Increases player HP by 300 + 10 x this chip's\\nability level.",
 		"flag": 0
 	},
 	{
@@ -7684,7 +7684,7 @@
 		"jp_explainShort": "プレイヤーパラメータ加算",
 		"tr_explainShort": "Player Parameter Increase",
 		"jp_explainLong": "プレイヤーの HP を 300 上昇する。\\nさらにアビリティレベルに応じて、上昇量が増える。",
-		"tr_explainLong": "Increases player HP by 300.\\nFurther increases HP based on\\nthis chip's ability level.",
+		"tr_explainLong": "Increases player HP by 300 + 10 x this chip's\\nability level.",
 		"flag": 0
 	},
 	{
@@ -7692,7 +7692,7 @@
 		"jp_explainShort": "プレイヤーパラメータ加算",
 		"tr_explainShort": "Player Parameter Increase",
 		"jp_explainLong": "プレイヤーの HP を 300 上昇する。\\nさらにアビリティレベルに応じて、上昇量が増える。",
-		"tr_explainLong": "Increases player HP by 300.\\nFurther increases HP based on\\nthis chip's ability level.",
+		"tr_explainLong": "Increases player HP by 300 + 10 x this chip's\\nability level.",
 		"flag": 0
 	},
 	{
@@ -7700,7 +7700,7 @@
 		"jp_explainShort": "プレイヤーパラメータ加算",
 		"tr_explainShort": "Player Parameter Increase",
 		"jp_explainLong": "プレイヤーの HP を 300 上昇する。\\nさらにアビリティレベルに応じて、上昇量が増える。",
-		"tr_explainLong": "Increases player HP by 300.\\nFurther increases HP based on\\nthis chip's ability level.",
+		"tr_explainLong": "Increases player HP by 300 + 10 x this chip's\\nability level.",
 		"flag": 0
 	},
 	{
@@ -7708,7 +7708,7 @@
 		"jp_explainShort": "プレイヤーパラメータ加算",
 		"tr_explainShort": "Player Parameter Increase",
 		"jp_explainLong": "プレイヤーの HP を 300 上昇する。\\nさらにアビリティレベルに応じて、上昇量が増える。",
-		"tr_explainLong": "Increases player HP by 300.\\nFurther increases HP based on\\nthis chip's ability level.",
+		"tr_explainLong": "Increases player HP by 300 + 10 x this chip's\\nability level.",
 		"flag": 0
 	},
 	{
@@ -7764,7 +7764,7 @@
 		"jp_explainShort": "シールド",
 		"tr_explainShort": "Shield",
 		"jp_explainLong": "ＨＰの最大値の 15％ 分のダメージを\\n防ぐ効果をＨＰに上乗せする。\\nさらにアビリティレベルに応じて、上乗せする値が増える。",
-		"tr_explainLong": "Grants you a barrier that prevents damage up to\\n15% of your maximum HP. Barrier HP increases\\nbased on this chip's ability level.",
+		"tr_explainLong": "Grants you a shield that prevents damage up to\\n15% of your maximum HP + 1% x this chip's\\nability level.",
 		"flag": 0
 	},
 	{
@@ -7772,7 +7772,7 @@
 		"jp_explainShort": "シールド",
 		"tr_explainShort": "Shield",
 		"jp_explainLong": "ＨＰの最大値の 15％ 分のダメージを\\n防ぐ効果をＨＰに上乗せする。\\nさらにアビリティレベルに応じて、上乗せする値が増える。",
-		"tr_explainLong": "Grants you a barrier that prevents damage up to\\n15% of your maximum HP. Barrier HP increases\\nbased on this chip's ability level.",
+		"tr_explainLong": "Grants you a shield that prevents damage up to\\n15% of your maximum HP + 1% x this chip's\\nability level.",
 		"flag": 0
 	},
 	{
@@ -7780,7 +7780,7 @@
 		"jp_explainShort": "シールド",
 		"tr_explainShort": "Shield",
 		"jp_explainLong": "ＨＰの最大値の 15％ 分のダメージを\\n防ぐ効果をＨＰに上乗せする。\\nさらにアビリティレベルに応じて、上乗せする値が増える。",
-		"tr_explainLong": "Grants you a barrier that prevents damage up to\\n15% of your maximum HP. Barrier HP increases\\nbased on this chip's ability level.",
+		"tr_explainLong": "Grants you a shield that prevents damage up to\\n15% of your maximum HP + 1% x this chip's\\nability level.",
 		"flag": 0
 	},
 	{
@@ -7788,7 +7788,7 @@
 		"jp_explainShort": "シールド",
 		"tr_explainShort": "Shield",
 		"jp_explainLong": "ＨＰの最大値の 15％ 分のダメージを\\n防ぐ効果をＨＰに上乗せする。\\nさらにアビリティレベルに応じて、上乗せする値が増える。",
-		"tr_explainLong": "Grants you a barrier that prevents damage up to\\n15% of your maximum HP. Barrier HP increases\\nbased on this chip's ability level.",
+		"tr_explainLong": "Grants you a shield that prevents damage up to\\n15% of your maximum HP + 1% x this chip's\\nability level.",
 		"flag": 0
 	},
 	{
@@ -7796,7 +7796,7 @@
 		"jp_explainShort": "シールド",
 		"tr_explainShort": "Shield",
 		"jp_explainLong": "ＨＰの最大値の 15％ 分のダメージを\\n防ぐ効果をＨＰに上乗せする。\\nさらにアビリティレベルに応じて、上乗せする値が増える。",
-		"tr_explainLong": "Grants you a barrier that prevents damage up to\\n15% of your maximum HP. Barrier HP increases\\nbased on this chip's ability level.",
+		"tr_explainLong": "Grants you a shield that prevents damage up to\\n15% of your maximum HP + 1% x this chip's\\nability level.",
 		"flag": 0
 	},
 	{
@@ -7804,7 +7804,7 @@
 		"jp_explainShort": "シールド",
 		"tr_explainShort": "Shield",
 		"jp_explainLong": "ＨＰの最大値の 15％ 分のダメージを\\n防ぐ効果をＨＰに上乗せする。\\nさらにアビリティレベルに応じて、上乗せする値が増える。",
-		"tr_explainLong": "Grants you a barrier that prevents damage up to\\n15% of your maximum HP. Barrier HP increases\\nbased on this chip's ability level.",
+		"tr_explainLong": "Grants you a shield that prevents damage up to\\n15% of your maximum HP + 1% x this chip's\\nability level.",
 		"flag": 0
 	},
 	{
