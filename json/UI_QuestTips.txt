@@ -1147,7 +1147,7 @@
 	{
 		"assign": "0229",
 		"jp_text": "<color=#f0df60>＜日替わりクエストで装備強化＞</color>\nこのクエストでは、グラインダーが\nドロップします。\nクリアして武器を強化しましょう！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Enhance Equipment with Daily Quests></color>\nIn this quest, a lot of Grinders will drop.\nCollect them and enhance your equipment!"
 	},
 	{
 		"assign": "0230",
@@ -1297,7 +1297,7 @@
 	{
 		"assign": "0259",
 		"jp_text": "<color=#f0df60>＜エネミー大量出現に注意！＞</color>\nこのクエストではより多くのエネミーが出現します。\n様々な方向から攻撃を受ける可能性がありますので\n周囲の状況を把握して慎重に挑みましょう！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Beware of Enemy Hordes!></color>\nIn this quest, massive amounts of enemies\nwill appear. You could be attacked from\nany direction, so keep an eye on your\nsurroundings!"
 	},
 	{
 		"assign": "0260",
@@ -1322,7 +1322,7 @@
 	{
 		"assign": "0264",
 		"jp_text": "<color=#f0df60>＜特別なチップを手に入れよう！＞</color>\nこのクエストをクリアすると\n特別なチップやレアな武器が手に入るかもしれません！\nたくさんプレイして、ぜひ手に入れてください。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Get Special Chips!></color>\nWhen you clear this quest, you may\nget special chips and rare weapons!\nClear it as many times as you can."
 	},
 	{
 		"assign": "0265",
@@ -1352,47 +1352,47 @@
 	{
 		"assign": "0270",
 		"jp_text": "<color=#f0df60>＜チップ特装でチップをさらに強く！＞</color>\nチップ特装を行うと、最大チップLvがアップするほか\nプラグと呼ばれる新規アビリティを習得できます。\nチップ特装に必要な素材チップや習得できるプラグは\n「チップ特装」や「チップ詳細」の画面で\n確認することができますよ。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Specialize your Chips!></color>\nSpecializing a chip increases its maximum\nChip Lv. and gives it a new ability called\na Plug. You can check the materials needed\nfor Specialization or Plug-In from the Chip\nSpecialization screen."
 	},
 	{
 		"assign": "0271",
 		"jp_text": "<color=#f0df60>＜プラグを強化しよう！＞</color>\n「特装プラグ」には、レベルを上げることで\n効果がアップするものがあります。\nプラグレベルを上げるためには\n専用の素材チップが必要です。\n素材チップは、様々なクエストで入手できますよ。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Strengthen Plugs!></color>\nMost Plugs' effects will be strengthened\nwhen you level them up by Plug-In.\nYou need special material chips to\nperform Plug-In. These material chips\ncome from a few specific quests."
 	},
 	{
 		"assign": "0272",
 		"jp_text": "<color=#f0df60>＜チップ特装に必要な素材を集めよう！＞</color>\nこのクエストでは「チップ特装」に必要となる\n基本的な素材チップを多く手に入れることができます。\nよりレアな素材チップをたくさん入手したい場合は\n高難度のクエストをプレイしてみてください。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Collect Specialization Material!></color>\nIn this quest, you will obtain the basic\nmaterials required for Chip Specialization.\nIf you want to get rare materials, try the\nhigher-difficulty version of the quest."
 	},
 	{
 		"assign": "0273",
 		"jp_text": "<color=#f0df60>＜チップ特装に必要なレア素材を集めよう！＞</color>\nこのクエストでは「チップ特装」に必要となる\nレアな素材チップを多く手に入れることができます。\n低難度のクエストでも、同じ素材チップを入手可能です。\nクエストが難しいと感じたら\n低難度のクエストに挑戦してみてください。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Collect Rare Specialization Material!></color>\nIn this quest, you will obtain the rare\nmaterials required for Chip Specialization.\nYou can get the same materials from both\ndifficulty levels, so if you are struggling on\nthe higher difficulty, try the lower one."
 	},
 	{
 		"assign": "0274",
 		"jp_text": "<color=#f0df60>＜プラグレベルに合わせた素材を集めよう！①＞</color>\n一定レベル以上のプラグ強化には\nクエスト「プラグ開発資材調達任務・応用」で\n入手できる素材チップが必要になります。\n難しいクエストかもしれませんが\nチャレンジしてみてください！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Collect Plug-In Material! ①></color>\nTo strengthen your Plugs above a certain\nlevel, you will need to gather material chips\nfrom the quest \"Plug-In Procurement A\".\nYou may find the quest difficult, but try to\nfight through!"
 	},
 	{
 		"assign": "0275",
 		"jp_text": "<color=#f0df60>＜プラグレベルに合わせた素材を集めよう！②＞</color>\n特装したばかりのチップのプラグ強化には\nクエスト「プラグ開発資材調達任務・基本」で\n入手できる素材チップが必要になります。\nたくさん集めて、いつでも強化できるように\n準備しておきましょう！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Collect Plug-In Material! ②></color>\nTo strengthen a newly-Specialized chip's\nPlug, you will need to gather materials\nfrom the quest \"Plug-In Procurement B\".\nCollect a lot so that you'll always be able\nto strengthen your Plugs!"
 	},
 	{
 		"assign": "0276",
 		"jp_text": "<color=#f0df60>＜チップ特装の素材を集めよう！＞</color>\nこのクエストをプレイすると\n「チップ特装」に必要な素材が\n手に入ることがあるようです。\nチップ特装素材を集めて、チップをさらに強化しましょう！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Collect Specialization Material!></color>\nIn this quest, you will get the materials\nyou need for Chip Specialization.\nCollect Specialization materials and\npower your chips up even further!"
 	},
 	{
 		"assign": "0277",
 		"jp_text": "<color=#f0df60>＜プラグ強化の素材を集めよう！＞</color>\nこのクエストをプレイすると\n「プラグ強化」に必要な素材が\n手に入ることがあるようです。\nプラグ強化素材を集めて、チップをさらに強化しましょう！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Collect Plug-In Material!></color>\nIn this quest, you will get the materials\nyou need for Chip Plug-In.\nCollect Plug-In materials and power\nyour chips up even further!"
 	},
 	{
 		"assign": "0278",
 		"jp_text": "<color=#f0df60>＜チップ特装・プラグ強化の素材を集めよう！＞</color>\nこのクエストをプレイすると\n「チップ特装」や「プラグ強化」に必要な\n素材が手に入ることがあるようです。\nたくさん素材を集めて、チップをさらに強化しましょう！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Collect Specialization & Plug-In Material!></color>\nIn this quest, you will get the materials\nyou need for Chip Specialization and Plug-In.\nCollect Specialization and Plug-In materials\nand power your chips up even further!"
 	},
 	{
 		"assign": "0279",
