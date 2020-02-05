@@ -1932,6 +1932,20 @@
 		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S4:Evasion Training\"\nwhen used in Ability Synthesis."
 	},
 	{
+		"assign": "3210369",
+		"jp_text": "Ｓ４追加：追蝕輝剰",
+		"tr_text": "",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ４：追蝕輝剰を付与。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3210382",
+		"jp_text": "Ｓ５追加：錬成萌花",
+		"tr_text": "",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ５：錬成萌花を付与。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3210396",
 		"jp_text": "Ｓ６追加：守護の備",
 		"tr_text": "S6 Add:Guardian Armor",
@@ -1960,6 +1974,13 @@
 		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S6:Guardian's Essence\"\nwhen used in Ability Synthesis."
 	},
 	{
+		"assign": "3210400",
+		"jp_text": "Ｓ６追加：癒蝕頑強",
+		"tr_text": "",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ６：癒蝕頑強を付与。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3210426",
 		"jp_text": "Ｓ７追加：打撃上昇",
 		"tr_text": "S7 Add:S-ATK Up",
@@ -1979,6 +2000,20 @@
 		"tr_text": "S7 Add:T-ATK Up",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ７：法撃上昇を付与。",
 		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S7:T-ATK Up\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210437",
+		"jp_text": "Ｓ７追加：輝静の恵",
+		"tr_text": "",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ７：輝静の恵を付与。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3210438",
+		"jp_text": "Ｓ８追加：舞空の援",
+		"tr_text": "",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ８：舞空の援を付与。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "3210442",
@@ -2072,6 +2107,13 @@
 		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S2:Rupturing Excess\"\nwhen used in Ability Synthesis."
 	},
 	{
+		"assign": "3210472",
+		"jp_text": "Ｓ２追加：輝充の志",
+		"tr_text": "",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ２：輝充の志を付与。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3210479",
 		"jp_text": "Ｓ３追加：災転輝与",
 		"tr_text": "S3 Add:Cursed Radiance",
@@ -2084,6 +2126,20 @@
 		"tr_text": "S3 Add:Brilliant Ruin",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：滅域輝与を付与。",
 		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S3:Brilliant Ruin\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210481",
+		"jp_text": "Ｓ３追加：諸刃の撃",
+		"tr_text": "",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：諸刃の撃を付与。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3210482",
+		"jp_text": "Ｓ３追加：強闘の志",
+		"tr_text": "",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：強闘の志を付与。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "3210492",
@@ -2119,6 +2175,20 @@
 		"tr_text": "Add Ability (Factor C)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ファクター・カタリスト】を追加。",
 		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Factor Catalyst\"\nused in Ability Synthesis."
+	},
+	{
+		"assign": "3210498",
+		"jp_text": "特殊能力（オメガＭ）",
+		"tr_text": "",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【オメガ・メモリア】を追加。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3210499",
+		"jp_text": "特殊能力（レヴリーＣ）",
+		"tr_text": "",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【レヴリー・カタリスト】を追加。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "3210500",
@@ -2210,6 +2280,13 @@
 		"tr_text": "S6 Add:Long Night Star",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ６：長夜の明星を付与。",
 		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S6:Long Night Star\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210537",
+		"jp_text": "Ｓ６追加：超限活器",
+		"tr_text": "",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ６：超限活器を付与。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "3210538",

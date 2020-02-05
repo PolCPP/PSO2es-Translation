@@ -980,6 +980,20 @@
 		"tr_explain": "The Cosmic Calamity\nLimited Boost Item. Meseta gained,\nEXP gained, & Rare Drop Rate +100%."
 	},
 	{
+		"assign": "320182",
+		"jp_text": "バレンタインチョコ’２０",
+		"tr_text": "",
+		"jp_explain": "手作りのバレンタインチョコ。\n【５分間】全ステータス＋１０\nレアドロップ倍率＋５０％",
+		"tr_explain": ""
+	},
+	{
+		"assign": "320183",
+		"jp_text": "プレーンショコラ’２０",
+		"tr_text": "",
+		"jp_explain": "ホワイトデーイベント用に\n作られた特製ショコラ。\n【５分間】全ステータス＋１０\nレアドロップ倍率＋５０％",
+		"tr_explain": ""
+	},
+	{
 		"assign": "320184",
 		"jp_text": "追加エクスキューブ＋１",
 		"tr_text": "Extra Cube +1",
@@ -992,5 +1006,19 @@
 		"tr_text": "Extra Badge 2020 +1",
 		"jp_explain": "「ウェポンズバッヂ２０２０」が対象。\n使用してから【３０分】の間だけ\n対象アイテムのドロップ数を＋１する。",
 		"tr_explain": "Target item \"Weapons Badge 2020\".\n[30 Min]Increases the target\nitem drop by +1."
+	},
+	{
+		"assign": "320186",
+		"jp_text": "チョコレート２０２０＋１００％",
+		"tr_text": "",
+		"jp_explain": "チョコレートの行方２０２０\n限定のブーストアイテム。獲得メセタ・\n経験値・レアドロップ倍率＋１００％。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "320187",
+		"jp_text": "ホワイトデー２０２０＋１００％",
+		"tr_text": "",
+		"jp_explain": "ホワイトデーは大わらわ２０２０\n限定のブーストアイテム。獲得メセタ・\n経験値・レアドロップ倍率＋１００％。",
+		"tr_explain": ""
 	}
 ]

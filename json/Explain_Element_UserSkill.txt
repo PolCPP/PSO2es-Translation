@@ -862,16 +862,16 @@
 	},
 	{
 		"assign": "123",
-		"jp_text": "-",
+		"jp_text": "スレイヤー／龍族",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "龍族のエネミーを攻撃時\n威力が上昇。ただし武器の\nレアリティが高くなるほど\n威力の上昇量は減少。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "124",
-		"jp_text": "-",
+		"jp_text": "スレイヤー／閃機種",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "閃機種のエネミーを攻撃時\n威力が上昇。ただし武器の\nレアリティが高くなるほど\n威力の上昇量は減少。",
 		"tr_explain": ""
 	},
 	{
@@ -1107,9 +1107,9 @@
 	},
 	{
 		"assign": "158",
-		"jp_text": "-",
+		"jp_text": "Ｓ２：輝充の志",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "ＰＰが40％以上の時\n与ダメージが3％上昇。",
 		"tr_explain": ""
 	},
 	{
@@ -1135,9 +1135,9 @@
 	},
 	{
 		"assign": "162",
-		"jp_text": "-",
+		"jp_text": "Ｓ３：諸刃の撃",
 		"tr_text": "",
-		"jp_explain": "-",
+		"jp_explain": "与ダメージが4％上昇し\n抜刀時のみ被ダメージが\n8％増える。",
 		"tr_explain": ""
 	},
 	{
@@ -1397,7 +1397,7 @@
 		"jp_text": "-",
 		"tr_text": "",
 		"jp_explain": "-",
-		"tr_explain": "Boosts damage by 2%."
+		"tr_explain": ""
 	},
 	{
 		"assign": "200",
@@ -2090,7 +2090,7 @@
 		"jp_text": "-",
 		"tr_text": "",
 		"jp_explain": "-",
-		"tr_explain": ""
+		"tr_explain": "Boosts damage by 2%."
 	},
 	{
 		"assign": "299",
@@ -2789,7 +2789,7 @@
 		"assign": "398",
 		"jp_text": "Ｓ３：強闘の志",
 		"tr_text": "S3:Powering Intent",
-		"jp_explain": "強敵への与ダメージが\n3％上昇する。",
+		"jp_explain": "強敵への与ダメージが\n4％上昇する。",
 		"tr_explain": "Boosts damage against\nbosses by 3%."
 	},
 	{

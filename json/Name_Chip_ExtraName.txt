@@ -1271,12 +1271,12 @@
 	},
 	{
 		"assign": "4729",
-		"jp_text": "-",
+		"jp_text": "雷の長槍 爆化",
 		"tr_text": ""
 	},
 	{
 		"assign": "4730",
-		"jp_text": "-",
+		"jp_text": "雷の長槍 爆化＋",
 		"tr_text": ""
 	},
 	{
@@ -1441,12 +1441,12 @@
 	},
 	{
 		"assign": "4763",
-		"jp_text": "-",
+		"jp_text": "氷の鋼拳 爆化",
 		"tr_text": ""
 	},
 	{
 		"assign": "4764",
-		"jp_text": "-",
+		"jp_text": "氷の鋼拳 爆化＋",
 		"tr_text": ""
 	},
 	{
@@ -1841,12 +1841,12 @@
 	},
 	{
 		"assign": "4843",
-		"jp_text": "-",
+		"jp_text": "闇の双機銃 爆化",
 		"tr_text": ""
 	},
 	{
 		"assign": "4844",
-		"jp_text": "-",
+		"jp_text": "闇の双機銃 爆化＋",
 		"tr_text": ""
 	},
 	{
@@ -2011,12 +2011,12 @@
 	},
 	{
 		"assign": "4877",
-		"jp_text": "-",
+		"jp_text": "光の長杖 爆化",
 		"tr_text": ""
 	},
 	{
 		"assign": "4878",
-		"jp_text": "-",
+		"jp_text": "光の長杖 爆化＋",
 		"tr_text": ""
 	},
 	{
@@ -2360,6 +2360,16 @@
 		"tr_text": "Kaiser Rise 1+ (PA/Lightning)"
 	},
 	{
+		"assign": "1217",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "1218",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
 		"assign": "1221",
 		"jp_text": "アザースピン２（自在槍/風）",
 		"tr_text": "Other Spin 2 (PA/Wind)"
@@ -2388,6 +2398,16 @@
 		"assign": "1236",
 		"jp_text": "カイザーライズ２＋（自在槍/炎）",
 		"tr_text": "Kaiser Rise 2+ (PA/Fire)"
+	},
+	{
+		"assign": "1237",
+		"jp_text": "ホールディングカレント２（自在槍/光）",
+		"tr_text": ""
+	},
+	{
+		"assign": "1238",
+		"jp_text": "ホールディングカレント２＋（自在槍/光）",
+		"tr_text": ""
 	},
 	{
 		"assign": "1241",
@@ -2460,6 +2480,16 @@
 		"tr_text": "Kaiser Rise 3+ (PA/Dark)"
 	},
 	{
+		"assign": "1257",
+		"jp_text": "ホールディングカレント３（自在槍/雷）",
+		"tr_text": ""
+	},
+	{
+		"assign": "1258",
+		"jp_text": "ホールディングカレント３＋（自在槍/雷）",
+		"tr_text": ""
+	},
+	{
 		"assign": "1263",
 		"jp_text": "ワイルドラウンドＥＸ（自在槍/闇）",
 		"tr_text": "Wild Round EX (PA/Dark)"
@@ -2478,6 +2508,16 @@
 		"assign": "1276",
 		"jp_text": "カイザーライズＥＸ＋（自在槍/風）",
 		"tr_text": "Kaiser Rise EX+ (PA/Wind)"
+	},
+	{
+		"assign": "1277",
+		"jp_text": "ホールディングカレントＥＸ（自在槍/炎）",
+		"tr_text": ""
+	},
+	{
+		"assign": "1278",
+		"jp_text": "ホールディングカレントＥＸ＋（自在槍/炎）",
+		"tr_text": ""
 	},
 	{
 		"assign": "1301",
@@ -3780,6 +3820,16 @@
 		"tr_text": "Guren-tessen 1+ (PA/Dark)"
 	},
 	{
+		"assign": "2115",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "2116",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
 		"assign": "2121",
 		"jp_text": "ヒエンツバキ２（抜剣/雷）",
 		"tr_text": "Hien-tsubaki 2 (PA/Lightning)"
@@ -3808,6 +3858,16 @@
 		"assign": "2134",
 		"jp_text": "グレンテッセン２＋（抜剣/氷）",
 		"tr_text": "Guren-tessen 2+ (PA/Ice)"
+	},
+	{
+		"assign": "2135",
+		"jp_text": "アサギリレンダン２（抜剣/炎）",
+		"tr_text": ""
+	},
+	{
+		"assign": "2136",
+		"jp_text": "アサギリレンダン２＋（抜剣/炎）",
+		"tr_text": ""
 	},
 	{
 		"assign": "2141",
@@ -3880,6 +3940,16 @@
 		"tr_text": "Guren-tessen 3+ (PA/Lightning)"
 	},
 	{
+		"assign": "2155",
+		"jp_text": "アサギリレンダン３（抜剣/氷）",
+		"tr_text": ""
+	},
+	{
+		"assign": "2156",
+		"jp_text": "アサギリレンダン３＋（抜剣/氷）",
+		"tr_text": ""
+	},
+	{
 		"assign": "2163",
 		"jp_text": "サクラエンドＥＸ（抜剣/闇）",
 		"tr_text": "Sakura-endo EX (PA/Dark)"
@@ -3898,6 +3968,16 @@
 		"assign": "2174",
 		"jp_text": "グレンテッセンＥＸ＋（抜剣/風）",
 		"tr_text": "Guren-tessen EX+ (PA/Wind)"
+	},
+	{
+		"assign": "2175",
+		"jp_text": "アサギリレンダンＥＸ（抜剣/光）",
+		"tr_text": ""
+	},
+	{
+		"assign": "2176",
+		"jp_text": "アサギリレンダンＥＸ＋（抜剣/光）",
+		"tr_text": ""
 	},
 	{
 		"assign": "2201",
