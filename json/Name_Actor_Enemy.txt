@@ -1280,6 +1280,11 @@
 		"tr_text": "Toro Kuro Nyau"
 	},
 	{
+		"assign": "UnknownCatTK_na_",
+		"jp_text": "＊＊＊",
+		"tr_text": ""
+	},
+	{
 		"assign": "UnknownCatSpring",
 		"jp_text": "サクラ・ニャウ",
 		"tr_text": "Sakura Nyau"
@@ -2075,6 +2080,11 @@
 		"tr_text": "Odin"
 	},
 	{
+		"assign": "DK_na_",
+		"jp_text": "＊＊＊",
+		"tr_text": ""
+	},
+	{
 		"assign": "PhantomPierrotA",
 		"jp_text": "ジャグラーピエロ",
 		"tr_text": "Juggler Pierrot"
@@ -2735,6 +2745,11 @@
 		"tr_text": "Elzelion"
 	},
 	{
+		"assign": "Volcano_na_",
+		"jp_text": "＊＊＊",
+		"tr_text": ""
+	},
+	{
 		"assign": "AAADebugEnemyMoveOnly",
 		"jp_text": "デバッグエネミーM",
 		"tr_text": ""
@@ -2811,8 +2826,13 @@
 	},
 	{
 		"assign": "P3Psm",
-		"jp_text": "第６使徒",
-		"tr_text": "The Sixth Angel"
+		"jp_text": "＊＊＊",
+		"tr_text": ""
+	},
+	{
+		"assign": "P3Psm_na_",
+		"jp_text": "＊＊＊",
+		"tr_text": ""
 	},
 	{
 		"assign": "AKKM",
@@ -2933,6 +2953,26 @@
 		"assign": "T1Xcu",
 		"jp_text": "ビリガ・ジグニンデ",
 		"tr_text": "Villiga Zigninde"
+	},
+	{
+		"assign": "D2DMag",
+		"jp_text": "エボリオン・ドラゴン",
+		"tr_text": ""
+	},
+	{
+		"assign": "D2Gla",
+		"jp_text": "ドラゴン・イグニシモ",
+		"tr_text": ""
+	},
+	{
+		"assign": "P4Tra",
+		"jp_text": "リーゼス・ギドール",
+		"tr_text": ""
+	},
+	{
+		"assign": "AAADebugEnemyMoveUpdown",
+		"jp_text": "デバッグエネミーMU",
+		"tr_text": ""
 	},
 	{
 		"assign": "KingRappy",
@@ -3078,6 +3118,11 @@
 		"assign": "SpiderST0",
 		"jp_text": "ナスリーン",
 		"tr_text": "Nasreen"
+	},
+	{
+		"assign": "SpiderST1",
+		"jp_text": "ナスリーン",
+		"tr_text": ""
 	},
 	{
 		"assign": "MantisWarriorASP1",
@@ -4478,6 +4523,11 @@
 		"assign": "SpiderST0Ex",
 		"jp_text": "ナスリーンＥｘ",
 		"tr_text": "Nasreen EX"
+	},
+	{
+		"assign": "SpiderST1Ex",
+		"jp_text": "ナスリーンＥｘ",
+		"tr_text": ""
 	},
 	{
 		"assign": "MantisWarriorAEx",
