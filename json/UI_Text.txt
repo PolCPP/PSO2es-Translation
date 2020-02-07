@@ -7172,7 +7172,7 @@
 	{
 		"assign": "questresult_weaponoid_limit",
 		"jp_text": "外伝・絆上昇UP",
-		"tr_text": ""
+		"tr_text": "Gaiden/Bond UP"
 	},
 	{
 		"assign": "questresult_weaponoid_ability",
@@ -8247,7 +8247,7 @@
 	{
 		"assign": "chipequip_ability_lv",
 		"jp_text": "アビリティLv. {0}",
-		"tr_text": ""
+		"tr_text": "Ability Lv. {0}"
 	},
 	{
 		"assign": "chipequip_consume_cp",
@@ -8262,7 +8262,7 @@
 	{
 		"assign": "chipequip_ability_max_level",
 		"jp_text": "(最大：<%lv>)",
-		"tr_text": ""
+		"tr_text": "(Max: <%lv>)"
 	},
 	{
 		"assign": "chipequip_max_lv",
@@ -17622,12 +17622,12 @@
 	{
 		"assign": "lookback_special_chapter_6",
 		"jp_text": "サンタ包囲網大作戦！",
-		"tr_text": ""
+		"tr_text": "Operation: Catch Santa!"
 	},
 	{
 		"assign": "lookback_special_chapter_7",
 		"jp_text": "初詣ヒットパレード！！",
-		"tr_text": ""
+		"tr_text": "New Year Hit Parade!!"
 	},
 	{
 		"assign": "lookback_maintitle_4",
@@ -20262,7 +20262,7 @@
 	{
 		"assign": "chip_simple_details_lv",
 		"jp_text": "Lv.",
-		"tr_text": ""
+		"tr_text": "Lv. "
 	},
 	{
 		"assign": "chip_simple_details_lv_max",
@@ -20342,17 +20342,17 @@
 	{
 		"assign": "chip_details_ability",
 		"jp_text": "アビリティ",
-		"tr_text": ""
+		"tr_text": "Ability"
 	},
 	{
 		"assign": "chip_details_max",
 		"jp_text": "MAX",
-		"tr_text": ""
+		"tr_text": "MAX"
 	},
 	{
 		"assign": "chip_details_none",
 		"jp_text": "なし",
-		"tr_text": ""
+		"tr_text": "None"
 	},
 	{
 		"assign": "chip_details_chip_no",
@@ -20557,17 +20557,17 @@
 	{
 		"assign": "Eternal_result_drop_limit",
 		"jp_text": "ドロップ数ＵＰ",
-		"tr_text": ""
+		"tr_text": "Drop Number UP"
 	},
 	{
 		"assign": "Eternal_result_raredrop_limit",
 		"jp_text": "レアドロップ率ＵＰ",
-		"tr_text": ""
+		"tr_text": "Rare Drop Rate UP"
 	},
 	{
 		"assign": "Eternal_result_drop_num_raredrop_limit",
 		"jp_text": "レアドロップ率＆ドロップ数ＵＰ",
-		"tr_text": ""
+		"tr_text": "Rare Drop Rate & Drop Number UP"
 	},
 	{
 		"assign": "EternalTower_block_detail",
@@ -21572,7 +21572,7 @@
 	{
 		"assign": "quest_counter_quest_item_detail",
 		"jp_text": "詳細",
-		"tr_text": ""
+		"tr_text": "Item"
 	},
 	{
 		"assign": "quest_counter_quest_out_of_time_dialog_title",
@@ -22452,7 +22452,7 @@
 	{
 		"assign": "chip_details_chip_awake_head",
 		"jp_text": "特装プラグ",
-		"tr_text": ""
+		"tr_text": "Plug Details"
 	},
 	{
 		"assign": "chip_details_chip_awake_skilllv",
